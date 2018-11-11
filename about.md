@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Titulo Trololo de Mulher
-comments: true
+comments: false
 ---
 
 Muito prazer! Bom tê-la (e lê-la) por aqui! Meu nome é Lidiane Vasconcelos, mas pode me chamar de Lidi. Prazer!
