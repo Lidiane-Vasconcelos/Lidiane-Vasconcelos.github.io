@@ -149,9 +149,12 @@ License: https://www.wowthemes.net/freebies-license/
      display:block;
      background-position:38% 22% !important;
      background-origin:border-box!important;
+     border-top-left-radius: 2px;
+}
+/*     
      border-top-left-radius: .25rem;
      border-bottom-left-radius: .25rem;
-}
+*/
  .listfeaturedtag .card-block {
      padding-left:0;
 }
