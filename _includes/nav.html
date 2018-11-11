@@ -28,15 +28,18 @@
                 {% assign class = 'nav-item' %}
             {% endif %}
             {% if link.sublinks %}
-                <li class="dropdown {{ class }}">
-                    <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link.title }}</a> 
+                    <div class="dropdown-menu" aria-labelledby="dropdown01">                    
+                    
+<!--                    <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>-->
                     <ul class="dropdown-menu">
                         {% for sublink in link.sublinks %}
                             {% if sublink.title == 'separator' %}
                                 <li role="separator" class="divider"></li>
                             {% else %}
                                 <li>
-                                    <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                    <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                                 </li>
                             {% endif %}
                         {% endfor %}
