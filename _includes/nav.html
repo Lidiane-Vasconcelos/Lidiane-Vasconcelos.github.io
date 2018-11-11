@@ -25,7 +25,7 @@
         {% for link in links %}
             {% assign class = nil %}
             {% if page.url contains link.url %}
-                {% assign class = 'nav-link' %}
+                {% assign class = 'nav-item' %}
             {% endif %}
             {% if link.sublinks %}
                 <li class="dropdown {{ class }}">
@@ -44,7 +44,7 @@
                 </li>
             {% else %}
                 <li class="{{ class }}">
-                    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                    <a class = 'nav-link' href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
                 </li>
             {% endif %}
         {% endfor %}
