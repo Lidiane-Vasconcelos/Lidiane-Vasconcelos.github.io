@@ -27,30 +27,15 @@
             {% if page.url contains link.url %}
                 {% assign class = 'nav-item' %}
             {% endif %}
-                
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Post</a>
-                    <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="{{ site.baseurl }}/jekyll/tutorial/2018/01/12/is-intelligence-enough.html">Left Sidebar</a>
-                    <a class="dropdown-item" href="{{ site.baseurl }}/jekyll/tutorial/2018/01/12/red-riding.html">Right Sidebar</a>
-                    </div>
-                </li>	
-                
+
             {% if link.sublinks %}
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link.title }}</a> 
+                    <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Navegue +</a> 
                     <div class="dropdown-menu" aria-labelledby="dropdown01">                    
-<!--                    <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>-->
-<!--                    <ul class="dropdown-menu">-->
                         {% for sublink in link.sublinks %}
-                            {% if sublink.title == 'separator' %}
-<!--                                <li role="separator" class="divider"></li>-->
-                            {% else %}
-                                    <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-                            {% endif %}
+                           <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                         {% endfor %}
                    </div>     
-                   <!-- </ul>-->
                 </li>
             {% else %}
                 <li class="{{ class }}">
