@@ -4,12 +4,6 @@
   url: /about.html
 - title: Projeto Lar Bonito Lar
   url: /_pages/ProjetoLarBonitoLar
-<!--
-- title: Contact
-  url: /contact.html
-- title: Store
-  url: /store.html
-  -->
 - title: Navegue +
   url: /support.html
   sublinks:
