@@ -1,12 +1,16 @@
-- title: About
+- title: Início
+  url: /
+- title: Sobre
   url: /about.html
-- title: Team
-  url: /team.html
+- title: Projeto Lar Bonito Lar
+  url: /_pages/ProjetoLarBonitoLar
+<!--
 - title: Contact
   url: /contact.html
 - title: Store
   url: /store.html
-- title: Support
+  -->
+- title: Navegue +
   url: /support.html
   sublinks:
     - title: FAQ
