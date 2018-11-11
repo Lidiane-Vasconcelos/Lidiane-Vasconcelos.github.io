@@ -5,6 +5,45 @@ Version: 1.0.22
 License: https://www.wowthemes.net/freebies-license/ 
 */
 
+.intro {
+    background-image:url(../images/head.jpg);
+    background-size:cover;
+    padding: 9rem 0;
+    margin-top:-87px;
+    margin-bottom:3.5rem;
+    z-index: 1;
+    position: relative;
+}
+.intro .btn {
+    background: #fff100;
+    border: 0;
+    color: #333;
+    border-radius: 3px;
+    font-weight: 500;
+    padding: 15px 40px;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.intro h1 {
+    font-weight:700;
+}
+.intro h2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: #888;
+    line-height: 1.6;
+}
+.wrapintro {
+    background: #fff;
+    width: 700px;
+    padding: 3rem;
+    max-width: 90%;
+    margin: 0px auto;
+    text-align: center;
+}
+
  .mediumnavigation .navbar-brand h2.sitetitle {
      font-family:Righteous;
 }
