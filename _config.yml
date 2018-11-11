@@ -51,7 +51,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/category/:name/'    
 
 # Pagination
 paginate: 6
@@ -63,6 +63,7 @@ highlighter: rouge
 
 include: ['_pages']
 
+permalink: /:title
 
 
 # List of links in the navigation bar
