@@ -60,3 +60,5 @@ paginate_path: /page:num/
 # Other
 markdown: kramdown
 highlighter: rouge
+
+include: ['_pages']
