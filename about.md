@@ -4,82 +4,12 @@ title: Titulo Trololo de Mulher
 comments: true
 ---
 
-This website is built with Jekyll and Mediumish template for Jekyll. It is meant for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+Muito prazer! Bom tê-la (e lê-la) por aqui! Meu nome é Lidiane Vasconcelos, mas pode me chamar de Lidi. Prazer!
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
+Sou casada e tenho um filhinho, o meu amado Artur. Sou produtora de conteúdo para blogs desde 2008. Sempre gostei de organização, e lembro dessa minha paixão já bem jovem. Minhas roupas e livros sempre estavam arrumadinhos, eu curti usar agenda desde que descobri a existência delas, e na fase adulta, pensar sobre minhas tarefas buscando formas de  otimizar o meu tempo foi um exercício que fiz intuitivamente logo que me joguei no mercado de trabalho, na área corporativa.
 
-### Features
+Logo que casei, e precisei cuidar da minha própria casa, além das demandas de trabalho fora do lar e em seguida online – como produtora de conteúdo de blogs, mais do que nunca me interessei pelos assuntos produtividade, gestão do tempo e organização pessoal. Com o passar dos anos, a maturidade me fez refletir sobre a simplicidade voluntária, então os temas que giram em torno da vida simples e do bem viver me interessam bastante.
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.x
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
-
-### How to Use
-
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked...just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Mediumish template that you're currently previewing. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Mediumish template in Jekyll:
-
-#### Using Mediumish
-
-Download or Fork *Mediumish for Jekyll*.
-- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
-- Mediumish requires 2 plugins:
-    - <code>$ gem install jekyll-paginate</code>
-    - <code>$ gem install jekyll-archives</code>.
-- Edit the menu and footer copyrights in <code>default.html</code>
-- Start by adding your .md files in <code>_posts</code>. Mediumish already has a few as an example.
-- YAML front matter
-    - featured post - <code>featured:true</code>
-    - exclude featured post from "All stories" loop to avoid duplicated posts - <code>hidden:true</code>
-    - post image - <code>image: assets/images/mypic.jpg</code>
-    - external post image - <code>image: "https://externalwebsite.com/image4.jpg" </code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
-
-YAML Post Example:
-<pre>
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
-
-YAML Page Example
-<pre>
----
-layout: page
-title: Mediumish Template for Jekyll
-comments: true
----
-</pre>
-
-#### Contribute
-
-- [Clone the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-- Open a pull request on GitHub and describe the feature or fix.
+É exatamente o que trago comigo e pretendo compartilhar através do meu trabalho atual, ainda como produtora de conteúdo no Trololó de Mulher, e agora como facilitadora no Projeto Lar Bonito Lar: aprender e partilhar conhecimento sobre gestão do tempo, organização pessoal, produtividade, vida simples e bem viver. =)
 
 
-<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
