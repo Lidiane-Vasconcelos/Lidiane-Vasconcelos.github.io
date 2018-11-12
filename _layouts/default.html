@@ -42,7 +42,9 @@
 {% if site.jumbotron_footer == true %}
    {% include jumbotron_footer.html %} 
 {% endif %}   	
-{% include explore_categories.html %}  
+{% if site.enable_explorer == true %}	
+   {% include explore_categories.html %}  
+{% endif %} 	
 {% include footer.html %}   
 
    
