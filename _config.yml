@@ -12,6 +12,7 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5be86f1cda105300172a2f10&product=sticky-share-buttons"></script>'
 enable_jumbotron_header: false
 enable_jumbotron_footer: false
+enable_alertbar: false
 
 # Authors
 authors:
