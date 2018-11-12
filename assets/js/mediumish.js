@@ -1,5 +1,4 @@
 jQuery(document).ready(function($){
-
     var offset = 1250; 
     var duration = 800; 
     jQuery(window).scroll(function() { 
@@ -14,8 +13,7 @@ jQuery(document).ready(function($){
     jQuery('html, body').animate({scrollTop: 0}, duration); 
     return false; 
     })
-
-
+    
     // alertbar later
     $(document).scroll(function () {
         var y = $(this).scrollTop();
@@ -25,7 +23,6 @@ jQuery(document).ready(function($){
             $('.alertbar').fadeOut();
         }
     });
-
 
         // Smooth scroll to an anchor
         $('a.smoothscroll[href*="#"]')
@@ -63,7 +60,6 @@ jQuery(document).ready(function($){
               }
             }
           });
-    
     
     // Hide Header on on scroll down
     var didScroll;
@@ -107,10 +103,7 @@ jQuery(document).ready(function($){
 
         lastScrollTop = st;
     }
-    
-    
+        
     $('.site-content').css('margin-top', $('header').outerHeight() + 'px');
-
-
 
 });
