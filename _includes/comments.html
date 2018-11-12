@@ -1,15 +1,12 @@
 {% if page.comments != false %}
-    <div class="container">
-   <div class="row">
-      <!-- Post Share -->
-       <div class="col-md-2 pl-0">
-       </div>
-      <div id="comments" class="col-md-8 flex-first flex-md-unordered">        
-        <!--<div id="comments" class="row justify-content-center mb-5">-->
-            <!--<div class="col-md-8">              -->
-                {% include disqus.html %}                
-            <!--</div>-->
-        <!--</div>-->
-    </div>
-    </div>       
+   <div class="container">
+      <div class="row">
+         <!-- Post Share -->
+         <div class="col-md-2 pl-0">
+         </div>
+         <div id="comments" class="col-md-8 flex-first flex-md-unordered">        
+            {% include disqus.html %}                
+         </div>
+      </div>       
+   </div>      
 {% endif %}
