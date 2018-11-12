@@ -13,6 +13,7 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 enable_jumbotron_header: false
 enable_jumbotron_footer: false
 enable_alertbar: false
+enable_explorer: false
 
 # Authors
 authors:
