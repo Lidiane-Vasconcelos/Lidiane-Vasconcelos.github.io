@@ -49,8 +49,9 @@
     
 </div><!-- /.container -->
 
-
-{% include before_footer.html %}   	
+{% if site.jumbotron_footer == true %}
+   {% include jumbotron_footer.html %} 
+{% endif %}   	
 {% include explore_categories.html %}  
 {% include footer.html %}   
 
