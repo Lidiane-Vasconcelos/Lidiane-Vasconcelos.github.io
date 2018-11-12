@@ -4,8 +4,9 @@ title: Home
 ---
 
 {% if page.url == "/" %}
-
-{% include jumbotron.html %} 
+  {% if site.jumbotron == true %}
+    {% include jumbotron.html %} 
+  {% endif %} 
 
 <!-- Featured
 ================================================== -->
@@ -21,7 +22,6 @@ title: Home
        {% endfor %}
     </div>
 </section>
-
 {% endif %}
 
 <!-- Posts Index
@@ -30,13 +30,11 @@ title: Home
     <div class="section-title">
         <h2><span>Todos os Artigos</span></h2>
     </div>
-
     <div class="row listrecent">
         {% for post in paginator.posts %}
                {% include postbox.html %}
         {% endfor %}
     </div>
-
 </section>
 
 <!-- Pagination
