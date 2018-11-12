@@ -3,13 +3,9 @@ layout: default
 title: Home
 ---
 
-<!-- We've temporary closed main-content and container to have a full width intro -->    
-
 {% if page.url == "/" %}
 
-<!-- 
 {% include jumbotron.html %} 
--->
 
 <!-- Featured
 ================================================== -->
@@ -18,17 +14,11 @@ title: Home
         <h2><span>Destaque</span></h2>
     </div>
     <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
+       {% for post in site.posts %}
+           {% if post.featured == true %}
+               {% include featuredbox.html %}
+           {% endif %}
+       {% endfor %}
     </div>
 </section>
 
@@ -37,21 +27,14 @@ title: Home
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
-
     <div class="section-title">
-
         <h2><span>Todos os Artigos</span></h2>
-
     </div>
 
     <div class="row listrecent">
-
         {% for post in paginator.posts %}
-
                {% include postbox.html %}
-
         {% endfor %}
-
     </div>
 
 </section>
