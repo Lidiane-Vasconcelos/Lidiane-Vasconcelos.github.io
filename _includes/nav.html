@@ -1,35 +1,21 @@
-<!-- Begin Menu Navigation
-================================================== -->
-<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
-    
-    <div class="container pr-0">    
-    
-    <!-- Begin Logo -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">    
+  <div class="container pr-0">    
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-    <!-- <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">-->
         <h2 class="sitetitle">{{ site.name }}</h2>
     </a>
-    <!-- End Logo -->
-    
   
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+       <span class="navbar-toggler-icon"></span>
     </button>
-    
-    
+
     <div class="collapse navbar-collapse" id="navbarMediumish">
-       
-        <!-- Begin Menu -->
-        
             <ul class="navbar-nav ml-auto">
-            
                         {% assign links = site.data.navigation %}
         {% for link in links %}
             {% assign class = nil %}
             {% if page.url contains link.url %}
                 {% assign class = 'nav-item' %}
             {% endif %}
-
             {% if link.sublinks %}
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Navegue +</a> 
@@ -45,14 +31,7 @@
                 </li>
             {% endif %}
         {% endfor %}
-
             </ul>		
-  
-        <!-- End Menu -->
-
-    </div>
-        
+    </div>  
     </div>
 </nav>
-<!-- End Navigation
-================================================== -->
