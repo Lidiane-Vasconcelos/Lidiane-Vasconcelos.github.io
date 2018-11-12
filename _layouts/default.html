@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ site.content_lang }}">
 <head>
+	{% include analytics.html %}   
+	
 <meta charset="utf-8">
 <meta http-equiv="Content-Language" content="{{ site.content_lang }}">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-{% include analytics.html %}      
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
     
@@ -13,7 +13,7 @@
     
 {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %} 
     
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> -->
     
 <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous"> -->
     
@@ -27,28 +27,14 @@
     
 </head>
     
-    
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}">
 
 {% include nav.html %}
     
-
-    
 <div class="site-content">   
 <div class="container">
-    
-<!-- Site Title
-================================================== 
-<div class="mainheading">
-    <h1 class="sitetitle">{{ site.name }}</h1>
-    <p class="lead">
-         {{ site.description }}
-    </p>
-</div>
--->
-    
-    
+        
 <!-- Content
 ================================================== --> 
 <div class="main-content">
@@ -70,7 +56,6 @@
 </div>    
     
 </div><!-- /.container -->
- 
 
 
 {% include before_footer.html %}   	
