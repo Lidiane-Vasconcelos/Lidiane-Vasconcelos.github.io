@@ -20,10 +20,8 @@ post_class: post-template
         
 		<div class="col-md-9 flex-first flex-md-unordered">
 			<div class="mainheading">
-                
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
-                
 			</div>
 
 			<!-- Post Featured Image -->
@@ -78,18 +76,4 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
-  
-
-<!-- Begin Comments
-================================================== -->
-{% if page.comments != false %}
-    <div class="container">
-        <div id="comments" class="row justify-content-center mb-5">
-            <div class="col-md-8">              
-                {% include disqus.html %}                
-            </div>
-        </div>
-    </div>
-{% endif %}
-<!--End Comments
-================================================== -->
+{% include comments.html %}
