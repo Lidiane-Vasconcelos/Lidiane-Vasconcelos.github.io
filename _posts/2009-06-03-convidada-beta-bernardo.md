@@ -1,7 +1,7 @@
 ---
-id: 2672
+
 title: 'Bicha Fêmea Convidada: Beta Bernardo'
-date: 2009-06-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/03/convidada-beta-bernardo/

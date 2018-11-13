@@ -1,7 +1,7 @@
 ---
-id: 3028
+
 title: 'Creme e enxaguante bucais de ação clareadora: isso funciona?'
-date: 2011-07-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/27/saude-bucal/
@@ -20,19 +20,19 @@ categories:
 <!--more-->
 
 <p align="justify">
-  Para tirar minhas dúvidas e, suspeito, as suas também, procurei a <strong>Dra. Ana Paula Pasqualin Tokunaga</strong>, que é <strong>Cirurgiã-Dentista</strong> e <strong>blogueira</strong> também. Ela edita o blog <strong><a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> </strong>desde Julho de 2010 quando, segundo ela, “ <em>resolveu tomar para si a tarefa de explicar de forma simples e bem humorada tudo o que acontece dentro de um consultório odontológico, visando sempre incentivar o hábito da prevenção em saúde bucal</em>.”
+  Para tirar minhas dúvidas e, suspeito, as suas também, procurei a **Dra. Ana Paula Pasqualin Tokunaga**, que é **Cirurgiã-Dentista** e **blogueira** também. Ela edita o blog **<a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> **desde Julho de 2010 quando, segundo ela, “ <em>resolveu tomar para si a tarefa de explicar de forma simples e bem humorada tudo o que acontece dentro de um consultório odontológico, visando sempre incentivar o hábito da prevenção em saúde bucal</em>.”
 </p>
 
 <p align="justify">
-  Acompanhe as orientações da <strong>Dra. Ana</strong> sobre o uso desses produtos:
+  Acompanhe as orientações da **Dra. Ana** sobre o uso desses produtos:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg"><img class="alignnone size-full wp-image-6678" title="saúde bucal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg" alt="" width="600" height="364" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg"><img class="alignnone size-full wp-image-6678" title="saúde bucal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg" alt="" width="600" height="364" /></a><br /> **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
 </p>
 
 <p align="justify">
-  <strong>Cremes dentais e enxaguantes bucais com ação clareadora realmente cumprem o que prometem? </strong>
+  **Cremes dentais e enxaguantes bucais com ação clareadora realmente cumprem o que prometem? **
 </p>
 
 > <p align="justify">
@@ -78,19 +78,19 @@ categories:
 &nbsp;
 
 <p align="center">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/corpo/"><strong><em>Corpo</em></strong></a>> <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em></strong>
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>**
 </p>
 
 <p align="center">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p align="center">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 <p align="center">

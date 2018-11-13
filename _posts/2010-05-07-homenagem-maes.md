@@ -1,7 +1,7 @@
 ---
-id: 2812
+
 title: Por que as mães merecem homenagens?
-date: 2010-05-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/07/homenagem-maes/
@@ -38,11 +38,11 @@ Parabéns para você, que se doou para fazer um filho feliz. Você é digna de t
 </table>
 
 <p style="text-align: center;">
-  <strong><em> </em></strong>
+  **<em> </em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Feliz dia das mães!!!</em></strong>
+  **<em>Feliz dia das mães!!!</em>**
 </p>
 
 Bom final de semana!

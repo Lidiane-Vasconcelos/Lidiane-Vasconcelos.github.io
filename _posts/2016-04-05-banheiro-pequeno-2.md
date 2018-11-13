@@ -1,7 +1,7 @@
 ---
-id: 3576
+
 title: Banheiro pequeno? Veja 6 ideias e ganhe espaço já!
-date: 2016-04-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/05/banheiro-pequeno-2/
@@ -31,7 +31,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: large;">1 </span></strong>– Prateleira de vidro, que é visualmente mais leve, sobre sua pia. Coloque aí o que você usa frequentemente: escova de dentes, pasta, fita dental, etc.
+  **<span style="font-size: large;">1 </span>**– Prateleira de vidro, que é visualmente mais leve, sobre sua pia. Coloque aí o que você usa frequentemente: escova de dentes, pasta, fita dental, etc.
 </p>
 
 &nbsp;
@@ -43,15 +43,15 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: large;">2 </span></strong>– Prateleira sobre o vaso sanitário para repousar mimos decorativos. Boa ideia, hein?!
+  **<span style="font-size: large;">2 </span>**– Prateleira sobre o vaso sanitário para repousar mimos decorativos. Boa ideia, hein?!
 </p>
 
 <p align="justify">
-  <strong>Aproveite e espie:</strong>
+  **Aproveite e espie:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank">**Banheiro: dicas simples de decoração que custam quase nada!**</a>
 </p>
 
 &nbsp;
@@ -63,7 +63,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: large;">3 </span></strong>– Prateleiras ao lado do balcão, na parede, garantem espaço extra para itens de cuidados pessoais. Eu aposto na ideia, mas substituiria o material e optaria pelo vidro. Leveza… sempre!
+  **<span style="font-size: large;">3 </span>**– Prateleiras ao lado do balcão, na parede, garantem espaço extra para itens de cuidados pessoais. Eu aposto na ideia, mas substituiria o material e optaria pelo vidro. Leveza… sempre!
 </p>
 
 &nbsp;
@@ -75,23 +75,23 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: large;">4</span></strong> – Use a porta como espaço adicional para pendurar roupas ou toalhas. Aqui em casa eu uso ganchos. O que você prefere?
+  **<span style="font-size: large;">4</span>** – Use a porta como espaço adicional para pendurar roupas ou toalhas. Aqui em casa eu uso ganchos. O que você prefere?
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.</strong></a>
+  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank">**Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
+  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">**4 ideias para decoração de banheiro pequeno.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank"><strong>Dicas e imagens: como maximizar o banheiro?</strong></a>
+  <a href="http://www.bichafemea.com/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank">**Dicas e imagens: como maximizar o banheiro?**</a>
 </p>
 
 &nbsp;
@@ -103,7 +103,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: large;">5 </span></strong>– Sobre a porta ainda dá para instalar uma prateleira para armazenar itens usados com menos frequência, oh: estoques de papeis, produtos de cuidados pessoais, etc.
+  **<span style="font-size: large;">5 </span>**– Sobre a porta ainda dá para instalar uma prateleira para armazenar itens usados com menos frequência, oh: estoques de papeis, produtos de cuidados pessoais, etc.
 </p>
 
 &nbsp;
@@ -115,15 +115,15 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: large;">6</span></strong> – Jamais perca isso de vista: as caixas organizam, e salvam!
+  **<span style="font-size: large;">6</span>** – Jamais perca isso de vista: as caixas organizam, e salvam!
 </p>
 
 <p align="justify">
-  <strong>Falando nisso:</strong>
+  **Falando nisso:**
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
+  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank">**Caixas: 5 soluções de organização da casa.**</a>
 </p>
 
 &nbsp;

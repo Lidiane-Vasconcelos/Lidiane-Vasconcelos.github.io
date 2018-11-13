@@ -1,7 +1,7 @@
 ---
-id: 3313
+
 title: 'Comida boa, bonita e saudável: você verá por aqui.'
-date: 2014-07-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/07/receita-saudavel/
@@ -21,7 +21,7 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 <!--more-->
 
 <p align="justify">
-  <strong><span style="font-size: medium;">“…estava com 20 quilos acima, vestindo calça gigante, com uma barriga que nunca tinha tido e meu rosto muito gordo.” </span></strong>
+  **<span style="font-size: medium;">“…estava com 20 quilos acima, vestindo calça gigante, com uma barriga que nunca tinha tido e meu rosto muito gordo.” </span>**
 </p>
 
 &nbsp;
@@ -33,7 +33,7 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: medium;">“Com o tempo fui me aprimorando, usando muitas ervas frescas e muitas combinações para que as refeições possam ser rápidas de serem feitas e saborosas.”</span></strong>
+  **<span style="font-size: medium;">“Com o tempo fui me aprimorando, usando muitas ervas frescas e muitas combinações para que as refeições possam ser rápidas de serem feitas e saborosas.”</span>**
 </p>
 
 &nbsp;
@@ -45,13 +45,13 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: medium;">“Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação.”</span></strong>
+  **<span style="font-size: medium;">“Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação.”</span>**
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   …Hoje eu faço academia 4 vezes na semana, treino pesado e faço uma alimentação saudável. Ás vezes como algo mais pesado e com gordura, mas apenas um dia e uma refeição. Nada de ser o final de semana todo. A melhor dica é você não se auto sabotar. Esse negócio de só hoje vou comer isso e aquilo, quando você vai ver já comeu 3 dias errado. A reeducação alimentar é o segredo, as substituições são importantes para o equilíbrio das refeições no dia a dia. Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação. No início é difícil, porque o organismo, a língua principalmente está viciada na gordura, no açúcar, no corante, no glutamato&#8230; Precisa de 15 dias a 1 mês para uma adaptação. Sair para comer não é uma tortura, eu sou a prova de que os cardápios sempre tem uma opção mais saudável. Eu viajo para vários lugares do Brasil e do mundo e sempre escolho opções mais leves, até mesmo no temido Estados Unidos, rs. Vou para lá e volto mais magra, porque sei escolher os alimentos. E assim continuo minha busca eterna pelo conhecimento e <strong>nunca utilizei nenhum remédio, porque sou muito contra. Uma boa alimentação + exercícios é o segredo. </strong>Não existe milagre, não existe dieta milagrosa e sim reeducação alimentar. Dieta você faz por pouco tempo e depois volta a engordar e a comer tudo errado novamente. A reeducação alimentar é para sempre!”
+>   …Hoje eu faço academia 4 vezes na semana, treino pesado e faço uma alimentação saudável. Ás vezes como algo mais pesado e com gordura, mas apenas um dia e uma refeição. Nada de ser o final de semana todo. A melhor dica é você não se auto sabotar. Esse negócio de só hoje vou comer isso e aquilo, quando você vai ver já comeu 3 dias errado. A reeducação alimentar é o segredo, as substituições são importantes para o equilíbrio das refeições no dia a dia. Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação. No início é difícil, porque o organismo, a língua principalmente está viciada na gordura, no açúcar, no corante, no glutamato&#8230; Precisa de 15 dias a 1 mês para uma adaptação. Sair para comer não é uma tortura, eu sou a prova de que os cardápios sempre tem uma opção mais saudável. Eu viajo para vários lugares do Brasil e do mundo e sempre escolho opções mais leves, até mesmo no temido Estados Unidos, rs. Vou para lá e volto mais magra, porque sei escolher os alimentos. E assim continuo minha busca eterna pelo conhecimento e **nunca utilizei nenhum remédio, porque sou muito contra. Uma boa alimentação + exercícios é o segredo. **Não existe milagre, não existe dieta milagrosa e sim reeducação alimentar. Dieta você faz por pouco tempo e depois volta a engordar e a comer tudo errado novamente. A reeducação alimentar é para sempre!”
 > </p>
 
 &nbsp;
@@ -79,7 +79,7 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

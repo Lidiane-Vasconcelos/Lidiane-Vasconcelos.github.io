@@ -1,7 +1,7 @@
 ---
-id: 3372
+
 title: Como usar gaiolas na decoração? Veja três ideias…
-date: 2014-12-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/01/gaiolas-na-decoracao/
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também: </strong>
+  **Veja também: **
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank"><strong>Para um home office cheio de bossa, inspire-se na Lia!</strong></a>
+  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank">**Para um home office cheio de bossa, inspire-se na Lia!**</a>
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Você viu?</strong>
+  **Você viu?**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank">**Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!**</a>
 </p>
 
 <p align="center">
@@ -70,11 +70,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de espiar:</strong>
+  **Não deixe de espiar:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/" target="_blank"><strong>2 ideias superultramega simples de decoração na mesa de jantar.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/" target="_blank">**2 ideias superultramega simples de decoração na mesa de jantar.**</a>
 </p>
 
 <p align="center">

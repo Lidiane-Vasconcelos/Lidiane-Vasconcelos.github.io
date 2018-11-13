@@ -1,7 +1,7 @@
 ---
-id: 3413
+
 title: Mousse de Abacate e Cacau em Pó
-date: 2015-03-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/24/mousse-saudavel-abacate/
@@ -57,11 +57,11 @@ Mel para adoçar.
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank"><strong>Receita mais fácil não existe: tabule de quinoa</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank">**Receita mais fácil não existe: tabule de quinoa**</a>
 
-<a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank">**Receita molezinha e gostosa: torta de abóbora + frango**</a>
 
-<a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho de inhame assado com bacalhau**</a>
 
 &nbsp;
 

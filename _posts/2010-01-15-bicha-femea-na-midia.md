@@ -1,7 +1,7 @@
 ---
-id: 2762
+
 title: 'Bicha Fêmea na mídia: dia-a-dia Revista do Diário do Grande ABC'
-date: 2010-01-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/15/bicha-femea-na-midia/

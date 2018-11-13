@@ -1,7 +1,7 @@
 ---
-id: 3730
+
 title: 'Sopa de lentilhas: comida boa e prosperidade o ano todo!'
-date: 2017-02-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/21/sopa-de-lentilhas/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  E quem disse que <strong>sopa de lentilhas</strong> só vai à mesa no fim do ano? A seguir veja a receita de Tânia, de dar água na boca, e super simples de reproduzir. É como Tânia diz em seu texto (diga-se de passagem uma das partes mais legais do seu trabalho, sua redação excelente!): um bom prato é sempre um bom prato que podemos comê-lo em qualquer época do ano. Ela está certíssima! Se você concorda, vamos adiante aprender como se faz, oh:
+  E quem disse que **sopa de lentilhas** só vai à mesa no fim do ano? A seguir veja a receita de Tânia, de dar água na boca, e super simples de reproduzir. É como Tânia diz em seu texto (diga-se de passagem uma das partes mais legais do seu trabalho, sua redação excelente!): um bom prato é sempre um bom prato que podemos comê-lo em qualquer época do ano. Ela está certíssima! Se você concorda, vamos adiante aprender como se faz, oh:
 </p>
 
 <p align="center">
@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank"><strong>Receita de pão caseiro de abobrinha… das mais fáceis!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank">**Receita de pão caseiro de abobrinha… das mais fáceis!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank"><strong>Abóbora assada com cebolas: bonito, saudável e gostoso!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank">**Abóbora assada com cebolas: bonito, saudável e gostoso!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank"><strong>Biscoistos Amaretti, com gostinho de família.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank">**Biscoistos Amaretti, com gostinho de família.**</a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">

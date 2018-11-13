@@ -1,7 +1,7 @@
 ---
-id: 2923
+
 title: O que é a blogosfera? Que é que você está fazendo nela?
-date: 2010-12-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/08/o-que-e-a-blogosfera/
@@ -60,13 +60,13 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 **_<a href="http://www.trololodemulher.com.br/2010/06/02/como-ser-seguidor/" target="_self">O Bicha Fêmea NÃO é um blog com &#8220;seguidores&#8221;?</a>_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em> </em></strong>
+  **<em> </em>**
 </p>

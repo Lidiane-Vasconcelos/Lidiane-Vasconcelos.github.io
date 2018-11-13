@@ -1,7 +1,7 @@
 ---
-id: 3841
+
 title: 'Confraternização de fim de ano: qual roupa usar?'
-date: 2017-12-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/11/confraternizacao-de-fim-de-ano/
@@ -11,7 +11,7 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Antes que você comece a ficar em pânico achando que não tem roupa pra usar naquela <strong>confraternização de fim de ano</strong>, ou ainda na reunião de Natal, ou Festa de <em>Reveillon</em>, calma! O último post de 2017 da Claudia Medeiros veio no capricho e sob medida para solucionar uma das dúvidas mais comuns da mulherada nesta época do ano: qual look usar nas festas de fim de ano? Confira todas as dicas e sugestões logo a seguir:
+  Antes que você comece a ficar em pânico achando que não tem roupa pra usar naquela **confraternização de fim de ano**, ou ainda na reunião de Natal, ou Festa de <em>Reveillon</em>, calma! O último post de 2017 da Claudia Medeiros veio no capricho e sob medida para solucionar uma das dúvidas mais comuns da mulherada nesta época do ano: qual look usar nas festas de fim de ano? Confira todas as dicas e sugestões logo a seguir:
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em>Como transformar as roupas do dia a dia em looks festivos.</em></strong>
+  **<em>Como transformar as roupas do dia a dia em looks festivos.</em>**
 </p>
 
 <p align="justify">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Natal &#8211;</strong> festa familiar, geralmente as pessoas passam em suas próprias casas ou na casa de familiares ou amigos, que se reúnem para a ceia &#8211; pede um visual mais comportado.</em>
+  <em>**Natal &#8211;** festa familiar, geralmente as pessoas passam em suas próprias casas ou na casa de familiares ou amigos, que se reúnem para a ceia &#8211; pede um visual mais comportado.</em>
 </p>
 
 <p align="justify">
-  <em><strong>Vestido &#8211;</strong> aqui eu indiquei um vestido vermelho, mas ele poderia ser um pretinho básico por exemplo, ou branco ou azul. O que vai transformá-lo serão os acessórios e a sandália super sexy.</em>
+  <em>**Vestido &#8211;** aqui eu indiquei um vestido vermelho, mas ele poderia ser um pretinho básico por exemplo, ou branco ou azul. O que vai transformá-lo serão os acessórios e a sandália super sexy.</em>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Saia e blusa &#8211;</strong> a saia da composição tem bordados, mas também ficaria ótima se fosse preta e só. Acompanhada da blusa de alcinha, da sandália preta e dos acessórios dourados se transformou em um look lindo para a noite de Natal.</em>
+  <em>**Saia e blusa &#8211;** a saia da composição tem bordados, mas também ficaria ótima se fosse preta e só. Acompanhada da blusa de alcinha, da sandália preta e dos acessórios dourados se transformou em um look lindo para a noite de Natal.</em>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Calça e blusa &#8211;</strong> se seu estilo é mais clássico e você é adepta da praticidade das calças, saiba que aquela calça preta reta ou flare pode ser uma opção legal para as festas se você escolher uma camisa ou blusa de material mais nobre, como a seda, por exemplo. Abuse do salto e dos acessórios e seja feliz!</em>
+  <em>**Calça e blusa &#8211;** se seu estilo é mais clássico e você é adepta da praticidade das calças, saiba que aquela calça preta reta ou flare pode ser uma opção legal para as festas se você escolher uma camisa ou blusa de material mais nobre, como a seda, por exemplo. Abuse do salto e dos acessórios e seja feliz!</em>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Reveillon &#8211;</strong> aqui no Brasil o branco é a cor e muita gente vai passar a noite em clubes ou na praia. Aquele vestido branco que você já tem pode ser uma opção para o clube ou casa de amigos, mas se você vai para a praia, shortinhos e rasteira são as melhores escolhas.</em>
+  <em>**Reveillon &#8211;** aqui no Brasil o branco é a cor e muita gente vai passar a noite em clubes ou na praia. Aquele vestido branco que você já tem pode ser uma opção para o clube ou casa de amigos, mas se você vai para a praia, shortinhos e rasteira são as melhores escolhas.</em>
 </p>
 
 <p align="justify">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Shorts e regata</strong> &#8211; dupla imbatível para o reveillon na praia. Tenho certeza que você tem uma regata branca no armário e se não tiver um shorts branco, pode ser um jeans, fica perfeito para o clima informal e despojado de reveillon à beira- mar!</em>
+  <em>**Shorts e regata** &#8211; dupla imbatível para o reveillon na praia. Tenho certeza que você tem uma regata branca no armário e se não tiver um shorts branco, pode ser um jeans, fica perfeito para o clima informal e despojado de reveillon à beira- mar!</em>
 </p>
 
 <p align="center">
@@ -114,11 +114,11 @@ Imagens dos looks: **Claudia Medeiros** &#8211; <a href="https://claudiamedeiros
 
 **Mais de Claudia Medeiros no Trololó de Mulher:**
 
-<a href="http://www.trololodemulher.com.br/2017/11/06/combinar-roupas/" target="_blank"><strong>Como combinar roupas que você tem e ganhar novos looks?</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/11/06/combinar-roupas/" target="_blank">**Como combinar roupas que você tem e ganhar novos looks?**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank"><strong>Qual é a roupa certa para mulheres de 50 anos?</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank">**Qual é a roupa certa para mulheres de 50 anos?**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank">**Notícia luxo: conteúdo exclusivo para você, mulher de 50.**</a>
 
 <p align="justify">
   Além do <a href="https://50edaiblog.wordpress.com/" target="_blank">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">facebook</a>. Se joga!

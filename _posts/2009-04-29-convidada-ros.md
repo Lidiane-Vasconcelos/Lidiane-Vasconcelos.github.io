@@ -1,7 +1,7 @@
 ---
-id: 2653
+
 title: 'Bicha Fêmea Convidada: Rose'
-date: 2009-04-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/29/convidada-ros/
@@ -248,7 +248,7 @@ _&#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;! &#8220;aniversarian
   
     _Dentro do coração._
     
-    <span style="font-size: x-small;"><strong>Versão Evangélica (usada pelos evangélicos do Estado de São Paulo – Brasil</strong></span>
+    <span style="font-size: x-small;">**Versão Evangélica (usada pelos evangélicos do Estado de São Paulo – Brasil**</span>
     
     (estrofe acompanhada de palmas)
     

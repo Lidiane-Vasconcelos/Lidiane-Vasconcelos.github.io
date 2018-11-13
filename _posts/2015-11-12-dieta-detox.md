@@ -1,7 +1,7 @@
 ---
-id: 3511
+
 title: Dieta detox ajuda mesmo ou é modinha?
-date: 2015-11-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/12/dieta-detox/
@@ -11,7 +11,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  A natureza é sábia: fígado, rins e intestinos fazem a limpeza do nosso corpo mandando pra fora o que nos faz mal. Isso, bonita, nada mais é que o processo <em>detox</em> que é feito, naturalmente, pelo nosso corpo. Portanto, buscar alternativas saudáveis como uma <strong>dieta detox</strong>, que facilite esse trabalho, <strong>não é uma modinha</strong>. Na verdade, isso é bem importante para que tenhamos a saúde em dia. Se, por outro lado, a gente negligencia esse cuidado se alimentando de maneira duvidosa, pode apostar: o corpo não reage bem, e o resultado é o surgimento de doenças.
+  A natureza é sábia: fígado, rins e intestinos fazem a limpeza do nosso corpo mandando pra fora o que nos faz mal. Isso, bonita, nada mais é que o processo <em>detox</em> que é feito, naturalmente, pelo nosso corpo. Portanto, buscar alternativas saudáveis como uma **dieta detox**, que facilite esse trabalho, **não é uma modinha**. Na verdade, isso é bem importante para que tenhamos a saúde em dia. Se, por outro lado, a gente negligencia esse cuidado se alimentando de maneira duvidosa, pode apostar: o corpo não reage bem, e o resultado é o surgimento de doenças.
 </p>
 
 <p align="justify">

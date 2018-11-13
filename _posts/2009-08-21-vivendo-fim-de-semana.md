@@ -1,7 +1,7 @@
 ---
-id: 2702
+
 title: Como você vive e aproveita os fins de semana?
-date: 2009-08-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/21/vivendo-fim-de-semana/

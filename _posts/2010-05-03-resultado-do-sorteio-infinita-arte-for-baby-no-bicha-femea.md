@@ -1,7 +1,7 @@
 ---
-id: 2813
+
 title: Resultado do Sorteio Infinita Arte for Baby no Bicha Fêmea
-date: 2010-05-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/03/resultado-do-sorteio-infinita-arte-for-baby-no-bicha-femea/

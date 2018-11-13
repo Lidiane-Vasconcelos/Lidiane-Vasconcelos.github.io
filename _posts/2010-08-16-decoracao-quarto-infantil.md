@@ -1,7 +1,7 @@
 ---
-id: 2861
+
 title: 'Pitacos de bicha fêmea: decoração para quarto infantil'
-date: 2010-08-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/16/decoracao-quarto-infantil/
@@ -11,17 +11,17 @@ categories:
   - Quarto Infantil
 ---
 <p style="text-align: left;">
-  Quando se tem <strong><em>criança</em></strong> em casa, a vontade é de adequar o <strong><em>quarto</em></strong> dela com uma <strong><em>decoração</em></strong> bonita e personalizada, não é? Mas ás vezes há problemas como <strong><em>falta de espaço</em></strong>, <strong><em>ou de dinheiro</em></strong>, que limitam um pouco as ideias para deixar tudo fofo e organizado.
+  Quando se tem **<em>criança</em>** em casa, a vontade é de adequar o **<em>quarto</em>** dela com uma **<em>decoração</em>** bonita e personalizada, não é? Mas ás vezes há problemas como **<em>falta de espaço</em>**, **<em>ou de dinheiro</em>**, que limitam um pouco as ideias para deixar tudo fofo e organizado.
 </p>
 
 <p style="text-align: justify;">
-  Esse é um problema para você? Bom, pelo menos para a Rosi, não ter espaço é algo que a aflige no momento, e no caso da Gleici, as limitações são econômicas. E a <strong><em>decoração</em></strong>? Como fica?
+  Esse é um problema para você? Bom, pelo menos para a Rosi, não ter espaço é algo que a aflige no momento, e no caso da Gleici, as limitações são econômicas. E a **<em>decoração</em>**? Como fica?
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  A Rosi é editora do “<a href="http://mundinhodarosi.blogspot.com/" target="_blank">Mundinho Particular</a>”, está gravidíssima e mora num <em>apertamento</em>. Olha o comentário dela no post onde falamos <strong><em><a href="http://www.trololodemulher.com.br/2010/07/09/descartando-remedios-vencidos/">sobre como descartar remédios vencidos</a></em></strong>:
+  A Rosi é editora do “<a href="http://mundinhodarosi.blogspot.com/" target="_blank">Mundinho Particular</a>”, está gravidíssima e mora num <em>apertamento</em>. Olha o comentário dela no post onde falamos **<em><a href="http://www.trololodemulher.com.br/2010/07/09/descartando-remedios-vencidos/">sobre como descartar remédios vencidos</a></em>**:
 </p>
 
 > “…_moro atualmente numa kitnet, naquele estilo quarto e sala no mesmo ambiente, e meu apartamento só ficará pronto após o nascimento do baby…Que tal colocar ideias sobre aqui no blog? Vai me ajudar muito. Agradeço desde já_.”
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Há <strong><em>berços com gavetões</em></strong> que <strong><em>ampliam espaço para a organização das coisas do bebê</em></strong>, mas se o dinheiro está curto, uma solução é <strong><em>colocar uma saia no berço para esconder caixas sob a cama do bebê. As caixas podem acomodar briquedos, roupas ou objetos cujo uso seja menos frequente</em></strong>.
+  Há **<em>berços com gavetões</em>** que **<em>ampliam espaço para a organização das coisas do bebê</em>**, mas se o dinheiro está curto, uma solução é **<em>colocar uma saia no berço para esconder caixas sob a cama do bebê. As caixas podem acomodar briquedos, roupas ou objetos cujo uso seja menos frequente</em>**.
 </p>
 
 <p style="text-align: center;">
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Almofadas</em></strong> são um recurso decorativo que <strong><em>não precisam custar caro</em></strong>, mas trazem muita graça para o ambiente infantil. Quanto mais coloridas, mais divertidas e conectadas com o universo infantil elas ficam. Inspire-se!
+  **<em>Almofadas</em>** são um recurso decorativo que **<em>não precisam custar caro</em>**, mas trazem muita graça para o ambiente infantil. Quanto mais coloridas, mais divertidas e conectadas com o universo infantil elas ficam. Inspire-se!
 </p>
 
 <p style="text-align: center;">
@@ -57,7 +57,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A <strong><em>falta de espaço para móveis</em></strong>, ou dinheiro para comprá-los, pode ser minimizada pelo uso de um <strong><em>conjunto de cestos, que pode ser revestido por um tecido bem bonito</em></strong>. Eles <strong><em>podem ficar á mostra, empilhados, e organizar uma variedade de objetos</em></strong>. E ainda dão graça ao espaço!
+  A **<em>falta de espaço para móveis</em>**, ou dinheiro para comprá-los, pode ser minimizada pelo uso de um **<em>conjunto de cestos, que pode ser revestido por um tecido bem bonito</em>**. Eles **<em>podem ficar á mostra, empilhados, e organizar uma variedade de objetos</em>**. E ainda dão graça ao espaço!
 </p>
 
 <p style="text-align: center;">
@@ -65,7 +65,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Quem disse que é preciso investir alto em uma cortina? <strong><em>Fitas podem dar personalidade a uma cortina básica no espaço de sua criança. Elas não custam caro</em></strong>, e deixam o acessório muito mais bonito!
+  Quem disse que é preciso investir alto em uma cortina? **<em>Fitas podem dar personalidade a uma cortina básica no espaço de sua criança. Elas não custam caro</em>**, e deixam o acessório muito mais bonito!
 </p>
 
 <p style="text-align: center;">
@@ -73,7 +73,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Ganhe espaço sobre a cômoda com um</em></strong> <strong><em>painel perfurado</em></strong>, encontrado em lojas especializadas em Casa&Decoração, e <strong><em>peça a um marceneiro para confeccionar caixinhas de MDF onde você possa organizar itens</em></strong> de uso constante. Você ganha em organização!
+  **<em>Ganhe espaço sobre a cômoda com um</em>** **<em>painel perfurado</em>**, encontrado em lojas especializadas em Casa&Decoração, e **<em>peça a um marceneiro para confeccionar caixinhas de MDF onde você possa organizar itens</em>** de uso constante. Você ganha em organização!
 </p>
 
 <p style="text-align: center;">
@@ -81,18 +81,18 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Instale uma prateleira fina onde você possa acomodar quadros com motivos infantis</em></strong>. Os quadros? Você mesma pode fazer e, como inspiração, sugiro a leitura do post sobre <strong><em><a href="http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/">decoração com objetos reutilizados</a></em></strong>. Neste post há a dica de um quadro infantil que a Fernanda Reali fez para a filha dela, gastando muito pouco&#8230; inspire-se!
+  **<em>Instale uma prateleira fina onde você possa acomodar quadros com motivos infantis</em>**. Os quadros? Você mesma pode fazer e, como inspiração, sugiro a leitura do post sobre **<em><a href="http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/">decoração com objetos reutilizados</a></em>**. Neste post há a dica de um quadro infantil que a Fernanda Reali fez para a filha dela, gastando muito pouco&#8230; inspire-se!
 </p>
 
 <p style="text-align: right;">
-  <strong><em>Sugestão de quadro decorativo para o quarto do bebê&#8230;</em></strong>
+  **<em>Sugestão de quadro decorativo para o quarto do bebê&#8230;</em>**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em></strong>
+        **<em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em>**
       </p>
       
       <p style="text-align: justify;">
@@ -100,7 +100,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O quadro está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank"><strong>basta clicar</strong></a>!</em>
+        <em>O quadro está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">**basta clicar**</a>!</em>
       </p>
     </td>
     
@@ -115,7 +115,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se o espaço do bebê será no quarto dos pais, que engravidaram sem estar na casa definitiva, onde haveria um quarto exclusivo para a criança, <strong><em>o ambiente dele pode ser delimitado com um adesivo de parede</em></strong>, por exemplo.
+  Se o espaço do bebê será no quarto dos pais, que engravidaram sem estar na casa definitiva, onde haveria um quarto exclusivo para a criança, **<em>o ambiente dele pode ser delimitado com um adesivo de parede</em>**, por exemplo.
 </p>
 
 <p style="text-align: center;">
@@ -123,11 +123,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Uma <em><strong>solução decorativa barata é pedir ao marceneiro para confeccionar duas prateleiras em foma de L</strong></em> e, com elas, <strong><em>formar nichos para parede</em></strong> onde você possa acomodar livros de histórias e bichinhos.
+  Uma <em>**solução decorativa barata é pedir ao marceneiro para confeccionar duas prateleiras em foma de L**</em> e, com elas, **<em>formar nichos para parede</em>** onde você possa acomodar livros de histórias e bichinhos.
 </p>
 
 <p style="text-align: justify;">
-  Agora é chegada a melhor hora do Bicha Fêmea, a hora dos comentários, quando muitas ideias podem surgir! <strong><em>Você, que é bicha fêmea navegante, tem alguma sugestão? Conta aí…</em></strong>
+  Agora é chegada a melhor hora do Bicha Fêmea, a hora dos comentários, quando muitas ideias podem surgir! **<em>Você, que é bicha fêmea navegante, tem alguma sugestão? Conta aí…</em>**
 </p>
 
 _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
@@ -139,9 +139,9 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Pitacos de Bicha Fêmea: decoração para quarto de mãe e filho](http://www.trololodemulher.com.br/2010/04/22/decoracao-quarto-mae-e-filho/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a> > <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a><strong><em> </em></strong>>Pitacos de bicha fêmea: decoração para quarto infantil
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a> > <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>**<em> </em>**>Pitacos de bicha fêmea: decoração para quarto infantil
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3676
+
 title: 'Primavera na decoração: duas dicas adicionais.'
-date: 2016-09-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/29/primavera-na-decoracao-2/
@@ -11,7 +11,7 @@ categories:
   - Dicas de Decoração
 ---
 <p style="text-align: justify;">
-  Esta semana foi publicado aqui um post sobre <strong>como colocar a Primavera na decoração, isso com 10 truques</strong>. Você viu? Se não, <a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank">corre e clica aqui</a>&#8230; foi sucesso de audiência! Hoje trago duas dicas belas, inspiradoras e adicionais para o seu arsenal de ideias, tudo para trazer o frescor da estação das flores para o seu lar.
+  Esta semana foi publicado aqui um post sobre **como colocar a Primavera na decoração, isso com 10 truques**. Você viu? Se não, <a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank">corre e clica aqui</a>&#8230; foi sucesso de audiência! Hoje trago duas dicas belas, inspiradoras e adicionais para o seu arsenal de ideias, tudo para trazer o frescor da estação das flores para o seu lar.
 </p>
 
 <p style="text-align: justify;">

@@ -1,7 +1,7 @@
 ---
-id: 3256
+
 title: 'Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas'
-date: 2013-09-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/02/decoracao-banheiro-pequeno-2/
@@ -21,23 +21,23 @@ categories:
 &nbsp;
 
 <p style="text-align: left;" align="center">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank">Dicas e imagens: como maximizar o banheiro.</a></strong>
+  **<a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank">Dicas e imagens: como maximizar o banheiro.</a>**
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a>**
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a>**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Abra a gaveta e…</span></strong>
+  **<span style="font-size: large;">Abra a gaveta e…</span>**
 </p>
 
 &nbsp;
@@ -53,17 +53,17 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para sua gaveta ficar nos trinques:</strong>
+  **Para sua gaveta ficar nos trinques:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Um ganchinho aqui, outro ali…</span></strong>
+  **<span style="font-size: large;">Um ganchinho aqui, outro ali…</span>**
 </p>
 
 &nbsp;
@@ -81,7 +81,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Onde colocar roupa suja?</span></strong>
+  **<span style="font-size: large;">Onde colocar roupa suja?</span>**
 </p>
 
 &nbsp;
@@ -99,7 +99,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Para o box apertadinho…</span></strong>
+  **<span style="font-size: large;">Para o box apertadinho…</span>**
 </p>
 
 &nbsp;
@@ -115,19 +115,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Muito mais para você:</strong>
+  **Muito mais para você:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">4 ideias para decoração de banheiro pequeno.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">4 ideias para decoração de banheiro pequeno.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/05/25/banheiro-bonito-dicas/" target="_blank">Como deixar o seu banheiro mais bonito em 4 dicas.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/05/25/banheiro-bonito-dicas/" target="_blank">Como deixar o seu banheiro mais bonito em 4 dicas.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank">Banheiro e revestimento: 4 ideias de paginação.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank">Banheiro e revestimento: 4 ideias de paginação.</a>**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 2913
+
 title: 'Mercado de Artes: guirlanda, móbile de Natal, quadros cenário de banheiro e cozinha.'
-date: 2010-11-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/19/novidades-artesanato/
@@ -9,7 +9,7 @@ permalink: /2010/11/19/novidades-artesanato/
 categories:
   - Sem categoria
 ---
-Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loja/" target="_blank"><strong><em>Mercado de Artes</em></strong></a> elas acabam de chegar. Tem **mimos decorativos** para deixar sua casa muito mais bonita no **Natal**, além de **quadros** que podem deixar seu banheiro bem charmoso e cheio de bossa. Aliás, esses quadros podem ser uma boa ideia de presente, sabia? Quer dar uma conferida? Fique á vontade!
+Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loja/" target="_blank">**<em>Mercado de Artes</em>**</a> elas acabam de chegar. Tem **mimos decorativos** para deixar sua casa muito mais bonita no **Natal**, além de **quadros** que podem deixar seu banheiro bem charmoso e cheio de bossa. Aliás, esses quadros podem ser uma boa ideia de presente, sabia? Quer dar uma conferida? Fique á vontade!
 
 <!--more-->
 
@@ -22,7 +22,7 @@ Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loj
 </p>
 
 <p style="text-align: justify;">
-  A <a href="http://www.trololodemulher.com.br/loja/2010/11/18/guirlanda-feliz-natal/" target="_blank"><strong><em>Guirlanda Feliz Natal</em></strong> </a>está disponível para pronta entrega no <strong><em>Mercado de Artes</em></strong>, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/guirlanda-feliz-natal/" target="_blank">basta clicar</a></em></strong>!
+  A <a href="http://www.trololodemulher.com.br/loja/2010/11/18/guirlanda-feliz-natal/" target="_blank">**<em>Guirlanda Feliz Natal</em>** </a>está disponível para pronta entrega no **<em>Mercado de Artes</em>**, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> **<em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/guirlanda-feliz-natal/" target="_blank">basta clicar</a></em>**!
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loj
 </p>
 
 <p style="text-align: justify;">
-  A <a href="http://www.trololodemulher.com.br/loja/2010/11/18/mobile-feliz-natal/" target="_self"><strong><em>Móbile Feliz Natal</em></strong> </a>está disponível para pronta entrega no <strong><em>Mercado de Artes</em></strong>, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/mobile-feliz-natal/" target="_blank">basta clicar</a></em></strong>!
+  A <a href="http://www.trololodemulher.com.br/loja/2010/11/18/mobile-feliz-natal/" target="_self">**<em>Móbile Feliz Natal</em>** </a>está disponível para pronta entrega no **<em>Mercado de Artes</em>**, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> **<em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/mobile-feliz-natal/" target="_blank">basta clicar</a></em>**!
 </p>
 
 <p style="text-align: center;">
@@ -42,11 +42,11 @@ Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loj
 </p>
 
 <p style="text-align: justify;">
-  Este é mais um quadro cenário dos que mais têm feito sucesso no <strong><em>Mercado de Artes</em></strong>. A <a href="http://www.trololodemulher.com.br/loja/opiniao-2/" target="_blank"><strong><em>página de opiniões</em></strong> </a>de quem já comprou um deles comprova. Ele é o queridinho das bichas fêmeas navegantes, e tem feito mesmo muito sucesso. Este quadro foi uma encomenda que acabou de ser enviada. Não é lindo de viver?
+  Este é mais um quadro cenário dos que mais têm feito sucesso no **<em>Mercado de Artes</em>**. A <a href="http://www.trololodemulher.com.br/loja/opiniao-2/" target="_blank">**<em>página de opiniões</em>** </a>de quem já comprou um deles comprova. Ele é o queridinho das bichas fêmeas navegantes, e tem feito mesmo muito sucesso. Este quadro foi uma encomenda que acabou de ser enviada. Não é lindo de viver?
 </p>
 
 <p style="text-align: justify;">
-  O <a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-marrom/" target="_blank"><strong><em>Quadro Cenário Banheiro Marrom</em></strong> </a>está disponível para encomendas no <strong><em>Mercado de Artes</em></strong>, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-marrom/" target="_blank">basta clicar</a></em></strong>!
+  O <a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-marrom/" target="_blank">**<em>Quadro Cenário Banheiro Marrom</em>** </a>está disponível para encomendas no **<em>Mercado de Artes</em>**, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> **<em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-marrom/" target="_blank">basta clicar</a></em>**!
 </p>
 
 <p style="text-align: center;">
@@ -58,7 +58,7 @@ Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loj
 </p>
 
 <p style="text-align: justify;">
-  O <a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-verde/" target="_self"><strong><em>Quadro Cenário Banheiro Verde</em></strong> </a>está disponível para encomendas no <strong><em>Mercado de Artes</em></strong>, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-verde/" target="_blank">basta clicar</a></em></strong>!
+  O <a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-verde/" target="_self">**<em>Quadro Cenário Banheiro Verde</em>** </a>está disponível para encomendas no **<em>Mercado de Artes</em>**, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> **<em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-banheiro-verde/" target="_blank">basta clicar</a></em>**!
 </p>
 
 <p style="text-align: center;">
@@ -70,7 +70,7 @@ Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loj
 </p>
 
 <p style="text-align: justify;">
-  O <a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank"><strong><em>Quadro Cenário Cozinha</em></strong> </a>está disponível para pronta entrega no <strong><em>Mercado de Artes</em></strong>, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">basta clicar</a></em></strong>!
+  O <a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">**<em>Quadro Cenário Cozinha</em>** </a>está disponível para pronta entrega no **<em>Mercado de Artes</em>**, e se você quiser dar uma espiada nos detalhes da peça, é por aqui >>>>> **<em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">basta clicar</a></em>**!
 </p>
 
 **Mais no Bicha Fêmea…**
@@ -82,5 +82,5 @@ Você gosta de novidades? Pois no <a href="http://www.trololodemulher.com.br/loj
 **_<a href="http://www.trololodemulher.com.br/2010/09/20/loja-virtual-bicha-femea/" target="_blank">Mercado de Artes by Bicha Fêmea: a loja virtual que faltava na blogosfera!</a>_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 2825
+
 title: O Bicha Fêmea NÃO é um blog com “seguidores”?
-date: 2010-06-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/02/como-ser-seguidor/

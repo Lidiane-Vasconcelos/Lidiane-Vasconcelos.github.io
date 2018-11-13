@@ -1,7 +1,7 @@
 ---
-id: 2681
+
 title: Tudo sobre maquiagem mineral
-date: 2009-07-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/08/maquiagem-mineral/
@@ -43,7 +43,7 @@ Beijinhos,
 
 **Quer ver mais dicas e sugestões sobre beleza?**
 
-<a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/" target="_self"><strong><em>Cabelo enrolado tem corte, sim!</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/" target="_self">**<em>Cabelo enrolado tem corte, sim!</em>**</a>
 
 **_<a href="http://www.trololodemulher.com.br/2009/12/14/atitudes-e-tratamentos-para-atenuar-a-celulite/" target="_self">Atitudes e tratamentos para atenuar a celulite.</a>_**
 

@@ -1,7 +1,7 @@
 ---
-id: 3666
+
 title: Como encontrar a pessoa certa para um relacionamento?
-date: 2016-09-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/16/relacionamento-2/
@@ -11,7 +11,7 @@ categories:
   - Relacionamento
 ---
 <p align="justify">
-  Afinal de contas, quem é a pessoa certa? Estando num <strong>relacionamento</strong>, ou buscando um par perfeito para construir uma relação, como saber quando a encontramos? Não tenho dúvidas de que saber como se configuraria, em tese, um relacionamento saudável, facilita bastante essa busca e construção de uma convivência equilibrada. Existe par pefeito? Como se constroi um amor maduro? Muitas das questões que circunscrevem o amor nos dias de hoje foram abordadas, neste post, pela <strong>Psicóloga Elaine Sibinelli, de Campinas – SP</strong>. A gente espera que ao final desse conteúdo o desafio de fazer um relacionamento amoroso dar certo possa ser desmistificado em vários apectos, viu? Confira!
+  Afinal de contas, quem é a pessoa certa? Estando num **relacionamento**, ou buscando um par perfeito para construir uma relação, como saber quando a encontramos? Não tenho dúvidas de que saber como se configuraria, em tese, um relacionamento saudável, facilita bastante essa busca e construção de uma convivência equilibrada. Existe par pefeito? Como se constroi um amor maduro? Muitas das questões que circunscrevem o amor nos dias de hoje foram abordadas, neste post, pela **Psicóloga Elaine Sibinelli, de Campinas – SP**. A gente espera que ao final desse conteúdo o desafio de fazer um relacionamento amoroso dar certo possa ser desmistificado em vários apectos, viu? Confira!
 </p>
 
 <p align="center">
@@ -55,23 +55,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias de Elaine:</strong>
+  **Mais consultorias de Elaine:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank"><strong>Como lidar com a intolerância, nossa e dos outros?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank">**Como lidar com a intolerância, nossa e dos outros?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank"><strong>Entenda por que é difícil o relacionamento com as pessoas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank">**Entenda por que é difícil o relacionamento com as pessoas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank"><strong>Autoimagem feminina: por que mulheres tão insatisfeitas?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank">**Autoimagem feminina: por que mulheres tão insatisfeitas?**</a>
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem **página do Facebook**, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
 </p>
 
 <p align="center">

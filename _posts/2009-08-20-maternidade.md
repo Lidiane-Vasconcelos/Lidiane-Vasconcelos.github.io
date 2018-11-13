@@ -1,7 +1,7 @@
 ---
-id: 2701
+
 title: 'De repente você acorda e toma um susto: você é mãe!'
-date: 2009-08-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/20/maternidade/

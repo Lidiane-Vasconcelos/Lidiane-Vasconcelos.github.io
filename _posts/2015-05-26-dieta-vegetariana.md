@@ -1,7 +1,7 @@
 ---
-id: 3428
+
 title: 'Dieta vegetariana: saudável, rica e variada. Mito ou verdade?'
-date: 2015-05-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/26/dieta-vegetariana/
@@ -10,11 +10,11 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Há controvérsias, porque engana-se que ser vegetariano é ser, necessariamente, saudável. Sim! Eu tenho muitas dúvidas sobre isso tudo, e quis tirá-las <em>tim tim por tim tim</em> para compartilhar aqui no <strong>Trololó de Mulher</strong>. Aprendi um bocado a partir da edição desse post, e tenho certeza que você vai ficar mais <em>antenada</em> com o assunto também… <em>bora</em>?
+  Há controvérsias, porque engana-se que ser vegetariano é ser, necessariamente, saudável. Sim! Eu tenho muitas dúvidas sobre isso tudo, e quis tirá-las <em>tim tim por tim tim</em> para compartilhar aqui no **Trololó de Mulher**. Aprendi um bocado a partir da edição desse post, e tenho certeza que você vai ficar mais <em>antenada</em> com o assunto também… <em>bora</em>?
 </p>
 
 <p align="justify">
-  Nossa consultora <strong>Pamela Miguel, Nutricionista de São Paulo</strong>, esclareceu todas as dúvidas ligadas a esse assunto pra gente e garantiu: uma dieta vegetariana é capaz de atender a todas as necessidades do nosso corpo em termos de nutrição. Entretanto, ela também afirmou, é preciso tomar os devidos cuidados, caso contrário o resultado não é nada bom para a saúde… acompanhe!
+  Nossa consultora **Pamela Miguel, Nutricionista de São Paulo**, esclareceu todas as dúvidas ligadas a esse assunto pra gente e garantiu: uma dieta vegetariana é capaz de atender a todas as necessidades do nosso corpo em termos de nutrição. Entretanto, ela também afirmou, é preciso tomar os devidos cuidados, caso contrário o resultado não é nada bom para a saúde… acompanhe!
 </p>
 
 <p align="justify">
@@ -22,27 +22,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher: É possível ter uma alimentação saudável, rica e variada, sem as vitaminas, proteínas e gorduras que são encontradas na carne?</strong>
+  **Trololó de Mulher: É possível ter uma alimentação saudável, rica e variada, sem as vitaminas, proteínas e gorduras que são encontradas na carne?**
 </p>
 
 > <p align="justify">
->   <strong>A dieta sem carne pode sim ser uma dieta rica nos nutrientes essenciais para o organismo. Existem 3 tipos de dietas que excluem o consumo de carne, são elas: </strong>
+>   **A dieta sem carne pode sim ser uma dieta rica nos nutrientes essenciais para o organismo. Existem 3 tipos de dietas que excluem o consumo de carne, são elas: **
 > </p>
 
 > <p align="justify">
->   <strong>Ovo-lacto-vegetariana: exclusão de carne, peixe e frango, e consumo de produtos lácteos e ovos;</strong>
+>   **Ovo-lacto-vegetariana: exclusão de carne, peixe e frango, e consumo de produtos lácteos e ovos;**
 > </p>
 
 > <p align="justify">
->   <strong>Lacto- vegetariana: exclusão de carne, peixe e frango, e consumo de  produtos lácteos como fonte alimentar animal;</strong>
+>   **Lacto- vegetariana: exclusão de carne, peixe e frango, e consumo de  produtos lácteos como fonte alimentar animal;**
 > </p>
 
 > <p align="justify">
->   <strong>Vegana: exclusão de carne, peixe, frango, ovo e leite e derivados.</strong>
+>   **Vegana: exclusão de carne, peixe, frango, ovo e leite e derivados.**
 > </p>
 
 > <p align="justify">
->   <strong>As dietas sem carne, em geral, são ricas em frutas, legumes, verduras, grãos integrais e leguminosas (feijão, lentilha, grão de bico, etc.), e por esse motivo são ricas em vitaminas e minerais. Nas dietas ovo-lacto-vegetarianas e lacto-vegetarianas o consumo de proteína é feito através dos produtos lácteos e ovos. Nas dietas vegans o consumo de proteínas também é possível, através de alimentos à base de soja, das leguminosas e grãos como quinoa e amaranto. As gorduras nessas dietas são provenientes de ótimas fontes como azeite e oleaginosas (castanhas, amêndoas, nozes, etc.). Dessa forma, a dieta torna-se rica em gorduras insaturadas (“boas”) e pobre nas gorduras saturadas (“ruins”) e colesterol.</strong>
+>   **As dietas sem carne, em geral, são ricas em frutas, legumes, verduras, grãos integrais e leguminosas (feijão, lentilha, grão de bico, etc.), e por esse motivo são ricas em vitaminas e minerais. Nas dietas ovo-lacto-vegetarianas e lacto-vegetarianas o consumo de proteína é feito através dos produtos lácteos e ovos. Nas dietas vegans o consumo de proteínas também é possível, através de alimentos à base de soja, das leguminosas e grãos como quinoa e amaranto. As gorduras nessas dietas são provenientes de ótimas fontes como azeite e oleaginosas (castanhas, amêndoas, nozes, etc.). Dessa forma, a dieta torna-se rica em gorduras insaturadas (“boas”) e pobre nas gorduras saturadas (“ruins”) e colesterol.**
 > </p>
 
 <p align="center">
@@ -58,15 +58,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Um ponto importante a ser observado nas dietas sem carne é a deficiência de possíveis vitaminas e minerais como ferro e vitamina B12, então o acompanhamento nutricional é extremamente importante e em alguns casos a suplementação vitamínica torna-se necessária.</strong>
+>   **Um ponto importante a ser observado nas dietas sem carne é a deficiência de possíveis vitaminas e minerais como ferro e vitamina B12, então o acompanhamento nutricional é extremamente importante e em alguns casos a suplementação vitamínica torna-se necessária.**
 > </p>
 
 <p align="justify">
-  <strong>TMulher: Uma dieta vegetariana rica e completa, que não deixe a desejar frente a uma alimentação que inclua produtos e derivados dos animais, deve ser composta de quais itens?</strong>
+  **TMulher: Uma dieta vegetariana rica e completa, que não deixe a desejar frente a uma alimentação que inclua produtos e derivados dos animais, deve ser composta de quais itens?**
 </p>
 
 > <p align="justify">
->   <strong>A dieta sem carne deve ser rica em frutas, legumes e verduras para o fornecimento de vitaminas e minerais. É preciso que haja o consumo de leguminosas como feijão, lentilha e grão de bico, pois são fontes de proteína. Grãos integrais como a quinoa e o amaranto são ricos em proteína de alto valor biológico (proteína completa semelhante a presente nas proteínas de origem animal). O consumo de alimentos fonte de vitamina C (laranja, limão, acerola, goiaba, etc.)  deve estar presente nas dietas vegetarianas para que haja a absorção correta do ferro presentes nos legumes e verduras e nas leguminosas. As oleaginosas  (castanhas, amêndoas, nozes, amendoim) também devem fazer parte da dieta, pois são ótimas fontes de vitaminas e minerais e gorduras “boas”. Os alimentos à base de soja também podem fazer parte da dieta.</strong>
+>   **A dieta sem carne deve ser rica em frutas, legumes e verduras para o fornecimento de vitaminas e minerais. É preciso que haja o consumo de leguminosas como feijão, lentilha e grão de bico, pois são fontes de proteína. Grãos integrais como a quinoa e o amaranto são ricos em proteína de alto valor biológico (proteína completa semelhante a presente nas proteínas de origem animal). O consumo de alimentos fonte de vitamina C (laranja, limão, acerola, goiaba, etc.)  deve estar presente nas dietas vegetarianas para que haja a absorção correta do ferro presentes nos legumes e verduras e nas leguminosas. As oleaginosas  (castanhas, amêndoas, nozes, amendoim) também devem fazer parte da dieta, pois são ótimas fontes de vitaminas e minerais e gorduras “boas”. Os alimentos à base de soja também podem fazer parte da dieta.**
 > </p>
 
 <p align="center">
@@ -94,23 +94,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – É preciso adaptar a alimentação para cada tipo de dieta;</strong>
+  **1 – É preciso adaptar a alimentação para cada tipo de dieta;**
 </p>
 
 <p align="justify">
-  <strong>2 – Não esquecer de comer feijão, lentilha e grão de bico;</strong>
+  **2 – Não esquecer de comer feijão, lentilha e grão de bico;**
 </p>
 
 <p align="justify">
-  <strong>3 – Inserir na rotina de alimentação o consumo de verduras, legumes e frutas;</strong>
+  **3 – Inserir na rotina de alimentação o consumo de verduras, legumes e frutas;**
 </p>
 
 <p align="justify">
-  <strong>4 – Vitamina C é nas refeições é fundamental, já que ajuda na absorção do ferro;</strong>
+  **4 – Vitamina C é nas refeições é fundamental, já que ajuda na absorção do ferro;**
 </p>
 
 <p align="justify">
-  <strong>5 – A dieta vegetariana, pra fazer bem, precisa ser completa e variada.</strong>
+  **5 – A dieta vegetariana, pra fazer bem, precisa ser completa e variada.**
 </p>
 
 <p align="center">
@@ -118,23 +118,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias de Pamela Miguel:</strong>
+  **Mais consultorias de Pamela Miguel:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/" target="_blank"><strong>Carne de porco faz mal á saúde: mito ou verdade?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/" target="_blank">**Carne de porco faz mal á saúde: mito ou verdade?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank"><strong>Café x saúde: quando é que ele é mocinho ou vilão?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank">**Café x saúde: quando é que ele é mocinho ou vilão?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><strong>Me diz o que comes… e te direi se és saudável ou não.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes… e te direi se és saudável ou não.**</a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">

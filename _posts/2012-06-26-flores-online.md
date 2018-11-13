@@ -1,7 +1,7 @@
 ---
-id: 3141
+
 title: 'Flores Online: enviar flores pela internet é possível!'
-date: 2012-06-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/26/flores-online/
@@ -14,7 +14,7 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="justify">
-  Sabe aquela situação em que você gostaria de presentear alguém com mimos assim, mas está longe para fazer isso pessoalmente? Ah, bonita! É exatamente neste contexto que quero te apresentar a <strong><a href="http://www.floresonline.com.br/" target="_blank" rel="nofollow">Flores Online</a></strong>. Isso mesmo: enviar flores via internet é possível!
+  Sabe aquela situação em que você gostaria de presentear alguém com mimos assim, mas está longe para fazer isso pessoalmente? Ah, bonita! É exatamente neste contexto que quero te apresentar a **<a href="http://www.floresonline.com.br/" target="_blank" rel="nofollow">Flores Online</a>**. Isso mesmo: enviar flores via internet é possível!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="justify">
-  Na verdade, o que para a gente parece novidade, para a <strong>Flores Online</strong> nem é tanto assim, já que eles estão nesse mercado há mais de 10 anos! Ou seja, não estamos falando de uma empresa amadora no serviço, <em>hã</em>?!
+  Na verdade, o que para a gente parece novidade, para a **Flores Online** nem é tanto assim, já que eles estão nesse mercado há mais de 10 anos! Ou seja, não estamos falando de uma empresa amadora no serviço, <em>hã</em>?!
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="justify">
-  A infinidade de possibilidades e escolhas entre flores e presentes eu nem te conto, só <strong><a href="http://www.floresonline.com.br/" target="_blank">conferindo no site</a></strong> para você entender do que estou falando. Eu também digo presentes porque, além dos vários tipos de flores e arranjos que você pode escolher, também é possível acrescentar alguns carinhos como chocolates e trufas, outros tipos de guloseimas, pelúcias, perfumes, dentre outros presentes.
+  A infinidade de possibilidades e escolhas entre flores e presentes eu nem te conto, só **<a href="http://www.floresonline.com.br/" target="_blank">conferindo no site</a>** para você entender do que estou falando. Eu também digo presentes porque, além dos vários tipos de flores e arranjos que você pode escolher, também é possível acrescentar alguns carinhos como chocolates e trufas, outros tipos de guloseimas, pelúcias, perfumes, dentre outros presentes.
 </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="justify">
-  As mais de 400 alternativas de arranjos, somados aos mais de 150 itens que você pode adicionar, estão disponíveis no site<strong> Flores Online</strong> para você fazer alguém feliz nas mais diferentes ocasiões: agradecimento, amizade, nascimento, aniversário, romantismo, etc. Não é o máximo?
+  As mais de 400 alternativas de arranjos, somados aos mais de 150 itens que você pode adicionar, estão disponíveis no site** Flores Online** para você fazer alguém feliz nas mais diferentes ocasiões: agradecimento, amizade, nascimento, aniversário, romantismo, etc. Não é o máximo?
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="justify">
-  Aposto que você já deve estar <em>matutando</em> aí com seus botões para quem você gostaria de enviar flores… saiba que as <strong>entregas são para todo o Brasil</strong>, <em>hein</em>? Então, prepare-se para ver um monte de <em>lindezas</em> no site<strong> <a href="http://www.floresonline.com.br/" target="_blank" rel="nofollow">clicando aqui</a></strong>, e depois aguarde para ter a notícia de que a pessoa que recebeu o mimo é toda sorrisos… pode apostar nisso!
+  Aposto que você já deve estar <em>matutando</em> aí com seus botões para quem você gostaria de enviar flores… saiba que as **entregas são para todo o Brasil**, <em>hein</em>? Então, prepare-se para ver um monte de <em>lindezas</em> no site** <a href="http://www.floresonline.com.br/" target="_blank" rel="nofollow">clicando aqui</a>**, e depois aguarde para ter a notícia de que a pessoa que recebeu o mimo é toda sorrisos… pode apostar nisso!
 </p>
 
 E se você quiser saber das novidades do **Flores Online** acompanhe os perfis sociais da marca [**<a href="https://www.facebook.com/floresonline" target="_blank"  rel="nofollow">Facebook</a>** e **<a href="https://twitter.com/_floresonline" target="_blank"  rel="nofollow">Twitter</a>**] e o **<a href="http://blog.floresonline.com.br/" target="_blank"  rel="nofollow">blog da loja</a>** com diversas dicas!

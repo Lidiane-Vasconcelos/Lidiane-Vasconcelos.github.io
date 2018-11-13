@@ -1,7 +1,7 @@
 ---
-id: 3690
+
 title: 'Natal em apartamento pequeno: 5 dicas para decoração.'
-date: 2016-10-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/20/natal-em-apartamento-pequeno/
@@ -12,7 +12,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Decorar espaços mínimos pode ser uma tarefa difícil, especialmente quando se pensa no <strong>Natal em apartamento pequeno</strong>. Se você me acompanha um pouquinho mais de perto sabe que <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">mudei de Campinas – SP para Recife – PE</a>, e ano passado, mais ou menos nesta época, ainda estava reformando meu apartamento atual. Por pouco não passei meu Natal onde moro hoje, mas em um apartamento que alugamos temporariamente e, oh: ele era <em>beeeem</em> pequeno. Num primeiro momento pensei em não decorá-lo quando Dezembro chegasse, pois tinha receio de deixar o espaço ainda mais apertado. Repensei, e decidi que, sim, haveria espírito natalino na decoração do nosso <em>cafofinho </em>à época. O que mudou? Minha expectativa acerca da decoração natalina.
+  Decorar espaços mínimos pode ser uma tarefa difícil, especialmente quando se pensa no **Natal em apartamento pequeno**. Se você me acompanha um pouquinho mais de perto sabe que <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">mudei de Campinas – SP para Recife – PE</a>, e ano passado, mais ou menos nesta época, ainda estava reformando meu apartamento atual. Por pouco não passei meu Natal onde moro hoje, mas em um apartamento que alugamos temporariamente e, oh: ele era <em>beeeem</em> pequeno. Num primeiro momento pensei em não decorá-lo quando Dezembro chegasse, pois tinha receio de deixar o espaço ainda mais apertado. Repensei, e decidi que, sim, haveria espírito natalino na decoração do nosso <em>cafofinho </em>à época. O que mudou? Minha expectativa acerca da decoração natalina.
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@ categories:
 </p>
 
 <p align="justify">
-  O<strong> Natal em apartamento pequeno</strong> pode ser lindo, e nada sufocante, se você mudar seu ponto de vista sobre isso: simplifique! Esse é o pulo do gato, entende? Caso contrário, o que é para ser inspirador e encantar o coração, pode passar sensações bem contrárias a isso. O que é simples e limpo visualmente pode ser muito bonito, aposte nisso! Quer ispirações? Vem comigo!
+  O** Natal em apartamento pequeno** pode ser lindo, e nada sufocante, se você mudar seu ponto de vista sobre isso: simplifique! Esse é o pulo do gato, entende? Caso contrário, o que é para ser inspirador e encantar o coração, pode passar sensações bem contrárias a isso. O que é simples e limpo visualmente pode ser muito bonito, aposte nisso! Quer ispirações? Vem comigo!
 </p>
 
 <p align="justify">
-  <strong>1 – Faça você mesma, se for necessário.</strong>
+  **1 – Faça você mesma, se for necessário.**
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank"><strong>3 guirlandas diferentes e criativas: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">**3 guirlandas diferentes e criativas: faça você mesma.**</a>
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – Prepare a mesa.</strong>
+  **2 – Prepare a mesa.**
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Menos é mais!</strong>
+  **3 – Menos é mais!**
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Luzinhas sempre queridas!</strong>
+  **4 – Luzinhas sempre queridas!**
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Árvore, por que te quero?</strong>
+  **5 – Árvore, por que te quero?**
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Na <strong>loja virtual do Trololó de Mulher</strong>, por exemplo, há uma em MDF disponível para encomenda e que fica perfeita em pequenos espaços, olha só:
+  Na **loja virtual do Trololó de Mulher**, por exemplo, há uma em MDF disponível para encomenda e que fica perfeita em pequenos espaços, olha só:
 </p>
 
 <p align="center">

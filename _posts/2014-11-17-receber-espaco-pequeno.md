@@ -1,7 +1,7 @@
 ---
-id: 3371
+
 title: Como receber em um espaço pequeno? Dicas valiosas!
-date: 2014-11-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/17/receber-espaco-pequeno/
@@ -16,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  Sabe de uma coisa? Pensei nesse probleminha bem comum a muitas de nós, porque morar em pequenos espaços hoje em dia é o que mais existe por aí… e tratei de tirar todas as dúvidas, e pedir dicas, de quem mais entende do assunto na blogosfera. Não conheço quem seja mais apropriada que a <strong>Katia Bonfadini</strong> para nos ajudar quanto a isso, <em>viu</em>?
+  Sabe de uma coisa? Pensei nesse probleminha bem comum a muitas de nós, porque morar em pequenos espaços hoje em dia é o que mais existe por aí… e tratei de tirar todas as dúvidas, e pedir dicas, de quem mais entende do assunto na blogosfera. Não conheço quem seja mais apropriada que a **Katia Bonfadini** para nos ajudar quanto a isso, <em>viu</em>?
 </p>
 
 <p align="justify">
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O fato de você morar em um apartamento pequeno nunca foi motivo para você deixar de receber?</strong>
+  **Trololó de Mulher >>> O fato de você morar em um apartamento pequeno nunca foi motivo para você deixar de receber?**
 </p>
 
 > <p align="justify">
@@ -32,7 +32,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>TM >>> Mexer na forma como os móveis estão dispostos no dia a dia é uma boa ideia para compor o cenário da recepção?</strong>
+  **TM >>> Mexer na forma como os móveis estão dispostos no dia a dia é uma boa ideia para compor o cenário da recepção?**
 </p>
 
 > <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM >>> Você tem preferência pelo uso de algum elemento decorativo, em especial, quando compõe o ambiente para receber?</strong>
+  **TM >>> Você tem preferência pelo uso de algum elemento decorativo, em especial, quando compõe o ambiente para receber?**
 </p>
 
 > <p align="justify">
@@ -96,7 +96,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM >>> O que te norteia na hora de decidir o que servir em seus encontros com amigos?</strong>
+  **TM >>> O que te norteia na hora de decidir o que servir em seus encontros com amigos?**
 </p>
 
 > <p align="justify">
@@ -114,7 +114,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong>TM >>> O que mais é importante fazer parte do planejamento?</strong>
+  **TM >>> O que mais é importante fazer parte do planejamento?**
 </p>
 
 > <p align="justify">
@@ -125,7 +125,7 @@ categories:
 >   </blockquote> 
 >   
 >   <p align="justify">
->     <strong>TM >>> E quando o planejado não sai de acordo?</strong>
+>     **TM >>> E quando o planejado não sai de acordo?**
 >   </p>
 >   
 >   <blockquote>
@@ -137,7 +137,7 @@ categories:
 >       </blockquote> 
 >       
 >       <p align="justify">
->         <strong>TM >>> Alguma consideração a mais sobre o assunto?</strong>
+>         **TM >>> Alguma consideração a mais sobre o assunto?**
 >       </p>
 >       
 >       <blockquote>
@@ -153,23 +153,23 @@ categories:
 >           </p>
 >           
 >           <p align="justify">
->             <strong>Veja mais colaborações inspiradoras da Katia por aqui:</strong>
+>             **Veja mais colaborações inspiradoras da Katia por aqui:**
 >           </p>
 >           
 >           <p align="justify">
->             <strong><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/" target="_blank">Você está em terras cariocas e curte comer bem? Este post é para você!</a></strong>
+>             **<a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/" target="_blank">Você está em terras cariocas e curte comer bem? Este post é para você!</a>**
 >           </p>
 >           
 >           <p align="justify">
->             <strong><a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/" target="_blank">Cozinha com estilo e design… quem não quer?</a></strong>
+>             **<a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/" target="_blank">Cozinha com estilo e design… quem não quer?</a>**
 >           </p>
 >           
 >           <p align="justify">
->             <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank">Decoração “faça você mesma”: luminárias de taça de vinho.</a></strong>
+>             **<a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank">Decoração “faça você mesma”: luminárias de taça de vinho.</a>**
 >           </p>
 >           
 >           <p align="justify">
->             <strong>Katia Bonfadini</strong> é uma blogueira das mais queridas, que edita seu <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a> com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">clicando aqui</a>, bonita, e delicie-se!
+>             **Katia Bonfadini** é uma blogueira das mais queridas, que edita seu <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a> com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">clicando aqui</a>, bonita, e delicie-se!
 >           </p>
 >           
 >           <p align="center">

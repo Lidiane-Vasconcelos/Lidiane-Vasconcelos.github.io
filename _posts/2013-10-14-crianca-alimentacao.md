@@ -1,7 +1,7 @@
 ---
-id: 3268
+
 title: Lugar de criança é na cozinha?
-date: 2013-10-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/14/crianca-alimentacao/
@@ -15,7 +15,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 &nbsp;
 
 <p align="justify">
-  Quem não tem dúvidas sobre os benefícios é a <strong>Alexandrina</strong>, bicha fêmea navegante e mãe de duas crianças, a <strong>Manuela e o Gabriel</strong>. Ela deu aos filhos a oportunidade de serem cozinheiros em miniatura, e o resultado disso tudo você confere aqui, com fotos e dicas para você fazer o mesmo por aí. Espia!
+  Quem não tem dúvidas sobre os benefícios é a **Alexandrina**, bicha fêmea navegante e mãe de duas crianças, a **Manuela e o Gabriel**. Ela deu aos filhos a oportunidade de serem cozinheiros em miniatura, e o resultado disso tudo você confere aqui, com fotos e dicas para você fazer o mesmo por aí. Espia!
 </p>
 
 <!--more-->
@@ -23,7 +23,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td align="center" width="100%">
-      <strong><span style="font-size: medium;">Do início…</span></strong>
+      **<span style="font-size: medium;">Do início…</span>**
     </td>
   </tr>
 </table>
@@ -33,7 +33,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 > </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea &#8211; O que elas faziam logo no início desse processo (ex.: lavavam verdura, pegavam os alimentos que você pedia, etc)?</strong>
+  **Bicha Fêmea &#8211; O que elas faziam logo no início desse processo (ex.: lavavam verdura, pegavam os alimentos que você pedia, etc)?**
 </p>
 
 <p align="justify">
@@ -45,7 +45,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 </p>
 
 <p align="justify">
-  <strong>BF &#8211; Qual o sentido que há, para a família, permitir que as crianças também convivam na cozinha?</strong>
+  **BF &#8211; Qual o sentido que há, para a família, permitir que as crianças também convivam na cozinha?**
 </p>
 
 <p align="justify">
@@ -53,7 +53,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong>BF &#8211; Qual benefício você enxergou no comportamento dos pequenos a partir do momento que essa atividade foi inserida na vida deles?</strong>
+  **BF &#8211; Qual benefício você enxergou no comportamento dos pequenos a partir do momento que essa atividade foi inserida na vida deles?**
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 </p>
 
 <p align="justify">
-  <strong>BF &#8211; Qual dica você dá para a mãe que quer vivenciar essa atividade com os pequenos e não sabe bem como ou por onde começar?</strong>
+  **BF &#8211; Qual dica você dá para a mãe que quer vivenciar essa atividade com os pequenos e não sabe bem como ou por onde começar?**
 </p>
 
 <p align="justify">
@@ -73,7 +73,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: small;">Dos cuidados essenciais…</span></strong>
+  **<span style="font-size: small;">Dos cuidados essenciais…</span>**
 </p>
 
 > <p align="justify">
@@ -81,22 +81,22 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 > </p>
 
 <p align="justify">
-  <strong>Imagens</strong>: Acervo pessoal de Alexandrina
+  **Imagens**: Acervo pessoal de Alexandrina
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td align="center" width="100%">
-      <strong><span style="font-size: medium;">Muito mais trololó materno, oh:</span></strong>
+      **<span style="font-size: medium;">Muito mais trololó materno, oh:</span>**
     </td>
   </tr>
   
   <tr>
     <td align="center" width="100%">
-      <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/"><strong><span style="font-size: medium;">Você amamentou? Tenho uma pergunta para você sobre rachaduras.</span></strong></a>&nbsp;</p> 
+      <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/">**<span style="font-size: medium;">Você amamentou? Tenho uma pergunta para você sobre rachaduras.</span>**</a>&nbsp;</p> 
       
       <p>
-        <a href="http://www.trololodemulher.com.br/2013/08/30/alimentacao-saudavel-criancas/"><strong><span style="font-size: medium;">Dificuldade de criar hábitos de alimentação saudável nas crianças?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2013/08/30/alimentacao-saudavel-criancas/">**<span style="font-size: medium;">Dificuldade de criar hábitos de alimentação saudável nas crianças?</span>**</a>
       </p>
       
       <p>
@@ -104,7 +104,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
       </p>
       
       <p>
-        <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/"><strong><span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span></strong></a></td> </tr> </tbody> </table> 
+        <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/">**<span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span>**</a></td> </tr> </tbody> </table> 
         
         <p>
           &nbsp;
@@ -115,7 +115,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
         </p>
         
         <p align="center">
-          <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;"> </span></strong></a>
+          <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;"> </span>**</a>
         </p>
         
         <p align="center">
@@ -127,7 +127,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
         </p>
         
         <p align="center">
-          <strong><span style="font-size: small;">Redes Sociais</span></strong>
+          **<span style="font-size: small;">Redes Sociais</span>**
         </p>
         
         <p>

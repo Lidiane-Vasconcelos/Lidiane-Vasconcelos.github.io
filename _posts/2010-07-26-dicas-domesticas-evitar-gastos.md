@@ -1,7 +1,7 @@
 ---
-id: 2852
+
 title: 'Todos somos donos de casa: homens, mulheres, crianças.'
-date: 2010-07-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/26/dicas-domesticas-evitar-gastos/
@@ -56,5 +56,5 @@ Quer fazer como Adriana e publicar um texto por aqui? Seja uma **_[bicha fêmea 
 **_[Reutilização de caixas de ovos para decoração.](http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

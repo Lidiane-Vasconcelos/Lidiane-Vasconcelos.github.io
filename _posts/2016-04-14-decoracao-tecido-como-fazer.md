@@ -1,7 +1,7 @@
 ---
-id: 3590
+
 title: 'Decoração: cortes de tecido nas mãos e 4 ideias na cabeça.'
-date: 2016-04-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/14/decoracao-tecido-como-fazer/
@@ -27,11 +27,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank"><strong>Quer uma mesinha lateral na sua sala? Improvisa!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank">**Quer uma mesinha lateral na sua sala? Improvisa!**</a>
 </p>
 
 <p align="center">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank">**Cabeceira com enchimento “fofinho”: como fazer?**</a>
 </p>
 
 <p align="center">
@@ -71,11 +71,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar a parede com quadros.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar a parede com quadros.**</a>
 </p>
 
 <p align="center">
@@ -91,11 +91,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank"><strong>Para um home office cheio de bossa, inspire-se na Lia!</strong></a>
+  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank">**Para um home office cheio de bossa, inspire-se na Lia!**</a>
 </p>
 
 <p align="justify">

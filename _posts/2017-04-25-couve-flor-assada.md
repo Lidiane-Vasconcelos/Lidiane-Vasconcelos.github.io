@@ -1,7 +1,7 @@
 ---
-id: 3754
+
 title: Couve-flor assada com temperinhos… pra variar.
-date: 2017-04-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/25/couve-flor-assada/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  <strong>Couve-flor</strong> <strong>assada </strong>pode ser saboreada como alternativa a que vai no cozimento a vapor, como estamos acostumadas. Tânia trouxe hoje uma sugestão que me deixou, sim, com água na boca… e claro que vou experimentar! Tenho certeza que você ficará super empolgada para testar essa versão em seus domínios também, e guardar na manga uma variação simples de servir esse vegetal, tornando a refeição do dia a dia deliciosamente mais criativa. Se joga!
+  **Couve-flor** **assada **pode ser saboreada como alternativa a que vai no cozimento a vapor, como estamos acostumadas. Tânia trouxe hoje uma sugestão que me deixou, sim, com água na boca… e claro que vou experimentar! Tenho certeza que você ficará super empolgada para testar essa versão em seus domínios também, e guardar na manga uma variação simples de servir esse vegetal, tornando a refeição do dia a dia deliciosamente mais criativa. Se joga!
 </p>
 
 <p align="center">
@@ -68,16 +68,16 @@ _6 – Tempere com sal a gosto e sirva_.”
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank"><strong>Bolo de alecrim… e a delícia de experimentar o novo.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank">**Bolo de alecrim… e a delícia de experimentar o novo.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/" target="_blank"><strong>Suco de beterraba, cenoura e laranja… e sabedoria de vó.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/" target="_blank">**Suco de beterraba, cenoura e laranja… e sabedoria de vó.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/" target="_blank"><strong>Patê de fígado de frango.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/" target="_blank">**Patê de fígado de frango.**</a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 2839
+
 title: Expectativas reais, você tem?
-date: 2010-06-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/28/emagrecimento-expectativas/
@@ -12,7 +12,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  <strong><em>Expectativas reais, você tem?</em></strong>
+  **<em>Expectativas reais, você tem?</em>**
 </p>
 
 Sempre que  estamos envolvidos em um novo relacionamento, trabalho, ou mesmo um novo método de emagrecimento, temos expectativas  quanto ao desenrolar da situação em questão.

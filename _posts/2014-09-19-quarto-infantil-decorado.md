@@ -1,7 +1,7 @@
 ---
-id: 3346
+
 title: Quarto infantil decorado com afetividade…
-date: 2014-09-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/19/quarto-infantil-decorado/
@@ -27,19 +27,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais ideias criativas para o quarto da criançada:</strong>
+  **Mais ideias criativas para o quarto da criançada:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank"><strong>5 ideias de decoração para o teto do quarto infantil: é pura diversão!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank">**5 ideias de decoração para o teto do quarto infantil: é pura diversão!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank"><strong>Dica de decoração infantil que sua criança pode fazer…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank">**Dica de decoração infantil que sua criança pode fazer…**</a>
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Falando em bichinhos…</strong>
+  **Falando em bichinhos…**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/" target="_blank"><strong>Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/" target="_blank">**Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!**</a>
 </p>
 
 <p align="center">
@@ -71,15 +71,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ainda, sobre cores e decoração da parede:</strong>
+  **Ainda, sobre cores e decoração da parede:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank"><strong>Como brincar com as cores na decoração do quarto infantil?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank">**Como brincar com as cores na decoração do quarto infantil?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank"><strong>Papel de parede infantil: divertidos, didáticos e criativos.</strong></a>
+  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank">**Papel de parede infantil: divertidos, didáticos e criativos.**</a>
 </p>
 
 <p align="center">
@@ -91,19 +91,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Sobre mesa de estudos e organização do quarto infantil:</strong>
+  **Sobre mesa de estudos e organização do quarto infantil:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank"><strong>Ideias para você organizar um cantinho de leitura e artes infantil.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank">**Ideias para você organizar um cantinho de leitura e artes infantil.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/mesa-de-estudo/" target="_blank"><strong>Mesas de estudo para inspirar…</strong></a>
+  <a href="http://www.decoracaodacasa.com/mesa-de-estudo/" target="_blank">**Mesas de estudo para inspirar…**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização do quarto infantil… você não vai copiar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização do quarto infantil… você não vai copiar?**</a>
 </p>
 
 <p align="justify">

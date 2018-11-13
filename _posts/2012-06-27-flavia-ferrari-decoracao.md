@@ -1,7 +1,7 @@
 ---
-id: 3143
+
 title: 'Flávia Ferrari… blog e revista: sob holofotes do mundo da decoração'
-date: 2012-06-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/27/flavia-ferrari-decoracao/
@@ -17,7 +17,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 &nbsp;
 
 <p align="justify">
-  A dona do espaço, a <strong>Flávia Ferrari</strong>, se tornou bastante conhecida no meio e acabou envolvida em projetos bacanas, tudo a partir do blog. Um deles, a <strong>sua própria revista de decoração</strong>, é <em>superultramega</em> interessante. Por que tanto sucesso? Entenda lendo esse post…
+  A dona do espaço, a **Flávia Ferrari**, se tornou bastante conhecida no meio e acabou envolvida em projetos bacanas, tudo a partir do blog. Um deles, a **sua própria revista de decoração**, é <em>superultramega</em> interessante. Por que tanto sucesso? Entenda lendo esse post…
 </p>
 
 <!--more-->
@@ -31,11 +31,11 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 <p align="justify">
-  Daí para a incrível façanha de ter uma revista, <strong>Manual Flávia Ferrari</strong>, publicada sob sua chancela, foi só um pulo. Ficou curiosa para conhecer um pouco mais sobre essa blogueira tão talentosa? Não me admira… quem não ficaria? Então, oh: se joga!
+  Daí para a incrível façanha de ter uma revista, **Manual Flávia Ferrari**, publicada sob sua chancela, foi só um pulo. Ficou curiosa para conhecer um pouco mais sobre essa blogueira tão talentosa? Não me admira… quem não ficaria? Então, oh: se joga!
 </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > Quando e por que o Decoracasas foi criado?</strong>
+  **Bicha Fêmea > Quando e por que o Decoracasas foi criado?**
 </p>
 
 > <p align="justify">
@@ -43,7 +43,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 > </p>
 
 <p align="justify">
-  <strong>BF > Como você define a sua revista? Quem comprá-la o que vai encontrar?</strong>
+  **BF > Como você define a sua revista? Quem comprá-la o que vai encontrar?**
 </p>
 
 > <p align="justify">
@@ -55,7 +55,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 <p align="justify">
-  <strong>BF >  Qual o segredo, em sua opinião, para transformar a casa em um lar?</strong>
+  **BF >  Qual o segredo, em sua opinião, para transformar a casa em um lar?**
 </p>
 
 > <p align="justify">
@@ -63,7 +63,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 > </p>
 
 <p align="justify">
-  <strong>BF > Com tanta informação disponível sobre decoração, como uma pessoa pode definir exatamente o que ela quer?</strong>
+  **BF > Com tanta informação disponível sobre decoração, como uma pessoa pode definir exatamente o que ela quer?**
 </p>
 
 > <p align="justify">
@@ -71,7 +71,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 > </p>
 
 <p align="justify">
-  <strong>BF > Decorar é para qualquer pessoa?</strong>
+  **BF > Decorar é para qualquer pessoa?**
 </p>
 
 > <p align="justify">
@@ -79,7 +79,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 > </p>
 
 <p align="justify">
-  <strong>BF > Quando você se viu envolvida com o universo da decoração?</strong>
+  **BF > Quando você se viu envolvida com o universo da decoração?**
 </p>
 
 > <p align="justify">
@@ -91,7 +91,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 <p align="justify">
-  <strong>BF > Há projetos para o futuro?</strong>
+  **BF > Há projetos para o futuro?**
 </p>
 
 > <p align="justify">
@@ -101,20 +101,20 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-papel-de-parede200/" rel="attachment wp-att-8673"><img class="alignnone size-full wp-image-8673" title="DECORACAO PAPEL DE PAREDE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/"><strong><span style="font-size: medium;"><br /> 3 ideias criativas do uso do papel de parede… fora da parede!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-papel-de-parede200/" rel="attachment wp-att-8673"><img class="alignnone size-full wp-image-8673" title="DECORACAO PAPEL DE PAREDE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/">**<span style="font-size: medium;"><br /> 3 ideias criativas do uso do papel de parede… fora da parede!</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-cozinha-apartamento-pequeno2200/" rel="attachment wp-att-8636"><img class="alignnone size-full wp-image-8636" title="DECORACAO COZINHA APARTAMENTO PEQUENO[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/"><strong><span style="font-size: medium;">Cozinha moderna em apartamento pequeno… tem jeito?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-cozinha-apartamento-pequeno2200/" rel="attachment wp-att-8636"><img class="alignnone size-full wp-image-8636" title="DECORACAO COZINHA APARTAMENTO PEQUENO[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/DECORACAO-COZINHA-APARTAMENTO-PEQUENO2200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/">**<span style="font-size: medium;">Cozinha moderna em apartamento pequeno… tem jeito?</span>**</a>
       </p>
     </td>
   </tr>
@@ -122,13 +122,13 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/logomarca-tudocolado200/" rel="attachment wp-att-8645"><img class="alignnone size-full wp-image-8645" title="Logomarca TudoColado200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Logomarca-TudoColado200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/27/decoracao-adesivos-decorativos/"><strong><span style="font-size: medium;">Oportunidade! Mude sua decoração com adesivos pagando pouco…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/logomarca-tudocolado200/" rel="attachment wp-att-8645"><img class="alignnone size-full wp-image-8645" title="Logomarca TudoColado200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Logomarca-TudoColado200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/27/decoracao-adesivos-decorativos/">**<span style="font-size: medium;">Oportunidade! Mude sua decoração com adesivos pagando pouco…</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/comoda-restaurada200/" rel="attachment wp-att-8549"><img class="alignnone size-full wp-image-8549" title="COMODA RESTAURADA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/COMODA-RESTAURADA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/"><strong><span style="font-size: medium;"><br /> Ponha charme na decoração com a customização de móveis!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/comoda-restaurada200/" rel="attachment wp-att-8549"><img class="alignnone size-full wp-image-8549" title="COMODA RESTAURADA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/COMODA-RESTAURADA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/">**<span style="font-size: medium;"><br /> Ponha charme na decoração com a customização de móveis!</span>**</a>
       </p>
     </td>
   </tr>
@@ -136,13 +136,13 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-quarto-infantil-croche200/" rel="attachment wp-att-8528"><img class="alignnone size-full wp-image-8528" title="DECORACAO QUARTO INFANTIL CROCHE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/DECORACAO-QUARTO-INFANTIL-CROCHE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/"><strong><span style="font-size: medium;">Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/decoracao-quarto-infantil-croche200/" rel="attachment wp-att-8528"><img class="alignnone size-full wp-image-8528" title="DECORACAO QUARTO INFANTIL CROCHE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/DECORACAO-QUARTO-INFANTIL-CROCHE200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/">**<span style="font-size: medium;">Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/lavabo-decoracao200/" rel="attachment wp-att-8449"><img class="alignnone size-full wp-image-8449" title="LAVABO DECORACAO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LAVABO-DECORACAO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/"><strong><span style="font-size: medium;"><br /> Boa ideia: arte na decoração do lavabo</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/lavabo-decoracao200/" rel="attachment wp-att-8449"><img class="alignnone size-full wp-image-8449" title="LAVABO DECORACAO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LAVABO-DECORACAO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/">**<span style="font-size: medium;"><br /> Boa ideia: arte na decoração do lavabo</span>**</a>
       </p>
     </td>
   </tr>
@@ -159,7 +159,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -183,9 +183,9 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

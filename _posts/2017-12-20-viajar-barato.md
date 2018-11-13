@@ -1,7 +1,7 @@
 ---
-id: 3846
+
 title: As 6 dicas fundamentais para você viajar barato.
-date: 2017-12-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/20/viajar-barato/
@@ -10,7 +10,7 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  As férias de Janeiro estão chegando, e muitas famílias podem nem ter planejado uma viagem por causa dos custos altos que, a princípio, são inerentes a isso. O post de Rivah desmistifica algumas dessas crenças, e aponta caminhos e estratégias para você <strong>viajar barato</strong>. Rivah e seu amado têm experiência de sobra acumulada num longa viagem que fizeram recentemente, portanto as dicas são das boas, e certamente você pode tirar o melhor proveito delas, adaptando as estratégias ao seu formato de viagem preferido. Se joga nas orientações de Rivah e comece a pensar desde já qual o seu próximo destino!
+  As férias de Janeiro estão chegando, e muitas famílias podem nem ter planejado uma viagem por causa dos custos altos que, a princípio, são inerentes a isso. O post de Rivah desmistifica algumas dessas crenças, e aponta caminhos e estratégias para você **viajar barato**. Rivah e seu amado têm experiência de sobra acumulada num longa viagem que fizeram recentemente, portanto as dicas são das boas, e certamente você pode tirar o melhor proveito delas, adaptando as estratégias ao seu formato de viagem preferido. Se joga nas orientações de Rivah e comece a pensar desde já qual o seu próximo destino!
 </p>
 
 <p align="center">
@@ -70,15 +70,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais de Rivah no Trololó de Mulher:</strong>
+  **Mais de Rivah no Trololó de Mulher:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/11/17/mudanca-de-vida/" target="_blank"><strong>Sobre mudança de vida, alternativas e propósito.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/11/17/mudanca-de-vida/" target="_blank">**Sobre mudança de vida, alternativas e propósito.**</a>
 </p>
 
 <p align="justify">
-  Rivah nos dará o prazer de contar, em posts mensais, suas descobertas, experiências e reflexões, tudo deliciosamente pincelado por fotos incríveis, daquelas imagens inspiradoras, que dão um gostinho todo particular que só experimenta quem viaja. Para acompanhar mais o que essa moça anda fazendo por aí junto ao seu amado, <a href="https://www.facebook.com/deandadanomundo/" target="_blank">clique aqui e curta a fanpage De Andada no Mundo</a> no Facebook, <a href="https://www.instagram.com/deandada_nomundo/" target="_blank">clique aqui e siga o perfil De Andada no Mundo</a> no Instagram, <a href="https://www.instagram.com/rivahsilva/" target="_blank">clique aqui e acompanhe o perfil pessoal de Rivah</a> no Instagram. <strong>Quer falar com Rivah por e-mail? </strong>Anota aí: <a href="mailto:deandadanomundo@gmail.com">deandadanomundo@gmail.com</a>
+  Rivah nos dará o prazer de contar, em posts mensais, suas descobertas, experiências e reflexões, tudo deliciosamente pincelado por fotos incríveis, daquelas imagens inspiradoras, que dão um gostinho todo particular que só experimenta quem viaja. Para acompanhar mais o que essa moça anda fazendo por aí junto ao seu amado, <a href="https://www.facebook.com/deandadanomundo/" target="_blank">clique aqui e curta a fanpage De Andada no Mundo</a> no Facebook, <a href="https://www.instagram.com/deandada_nomundo/" target="_blank">clique aqui e siga o perfil De Andada no Mundo</a> no Instagram, <a href="https://www.instagram.com/rivahsilva/" target="_blank">clique aqui e acompanhe o perfil pessoal de Rivah</a> no Instagram. **Quer falar com Rivah por e-mail? **Anota aí: <a href="mailto:deandadanomundo@gmail.com">deandadanomundo@gmail.com</a>
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3470
+
 title: 'Emagrecimento com determinação: Carol Willrich contou tudo!'
-date: 2015-08-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/24/emagrecimento-2/
@@ -22,43 +22,43 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>O desafio</strong>
+  **O desafio**
 </p>
 
 > <p align="justify">
->   <strong><em>“O maior desafio é o querer de verdade e decidir o que eu queria para mim. Aquele corpo não era o que eu queria. Assim que os resultados começaram a aparecer, o ânimo foi outro!”</em></strong>
+>   **<em>“O maior desafio é o querer de verdade e decidir o que eu queria para mim. Aquele corpo não era o que eu queria. Assim que os resultados começaram a aparecer, o ânimo foi outro!”</em>**
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/27/como-perder-a-barriga/" target="_blank"><strong>Como perder a barriga? 3 profissionais contam tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/27/como-perder-a-barriga/" target="_blank">**Como perder a barriga? 3 profissionais contam tudo!**</a>
 </p>
 
 <p align="justify">
-  <strong>O descuido</strong>
+  **O descuido**
 </p>
 
 > <p align="justify">
->   “<strong><em>Foram vários fatores em uma sequência de anos, que foram acumulando e por fim ficando difícil abandonar os kg adquiridos. Casar foi um dos fatores: com o casamento nos acomodamos, acabamos fazendo programinhas que envolvem mais comida. Muito trabalho foi outro aspecto: acabava fazendo refeições não muito saudáveis, na rua, correndo e comendo besteiras nos intervalos entre almoço e janta, e como na janta era o momento mais relaxante e calmo, acabava comendo demais. Outro fator foi a gravidez e em seguida ser mãe: passei alguns anos me vendo só como mãe, tudo voltado para os filhos e esquecendo de mim. O interessante na parte de ser mãe é que eles também foram um fator decisivo no emagrecimento, pois busquei estar mais saudável e disposta para participar da vida deles. Nossa, como mudou minha disposição! Me sinto mais feliz, mais disposta, mais ágil, melhorou meu relacionamento com os filhos e até com o marido.”</em></strong>
+>   “**<em>Foram vários fatores em uma sequência de anos, que foram acumulando e por fim ficando difícil abandonar os kg adquiridos. Casar foi um dos fatores: com o casamento nos acomodamos, acabamos fazendo programinhas que envolvem mais comida. Muito trabalho foi outro aspecto: acabava fazendo refeições não muito saudáveis, na rua, correndo e comendo besteiras nos intervalos entre almoço e janta, e como na janta era o momento mais relaxante e calmo, acabava comendo demais. Outro fator foi a gravidez e em seguida ser mãe: passei alguns anos me vendo só como mãe, tudo voltado para os filhos e esquecendo de mim. O interessante na parte de ser mãe é que eles também foram um fator decisivo no emagrecimento, pois busquei estar mais saudável e disposta para participar da vida deles. Nossa, como mudou minha disposição! Me sinto mais feliz, mais disposta, mais ágil, melhorou meu relacionamento com os filhos e até com o marido.”</em>**
 > </p>
 
 <p align="justify">
-  <strong>A virada!</strong>
+  **A virada!**
 </p>
 
 > <p align="justify">
->   “<strong><em>Sobre inserir frutas, legumes e verduras, e as demais escolhas saudáveis na dieta, não senti dificuldades. Na verdade minha alimentação não era tão errada, tinha participado várias vezes de reeducações alimentares e já sabia separar grupos alimentares e comer alimentos saudáveis. Já o marido… n<span style="background-color: #ffffff;">ão! O marido é um ótimo cozinheiro e bom de garfo, ás vezes até pensa em tentar, mas por enquanto fica só no pensamento. Sobre implantar uma rotina de exercícios, aconteceu assim: como eu já tinha conseguido algum resultado expressivo logo que comecei, a empolgação tomou conta e eu queria mais. A minha meta de emagrecimento inicial era pequena, mas quando alcancei, eu queria mais, e o exercício foi um aliado para conseguir isso. A partir do momento que ele se torna um hábito, até sentimos falta no dia em que não é praticado.”</span></em></strong>
+>   “**<em>Sobre inserir frutas, legumes e verduras, e as demais escolhas saudáveis na dieta, não senti dificuldades. Na verdade minha alimentação não era tão errada, tinha participado várias vezes de reeducações alimentares e já sabia separar grupos alimentares e comer alimentos saudáveis. Já o marido… n<span style="background-color: #ffffff;">ão! O marido é um ótimo cozinheiro e bom de garfo, ás vezes até pensa em tentar, mas por enquanto fica só no pensamento. Sobre implantar uma rotina de exercícios, aconteceu assim: como eu já tinha conseguido algum resultado expressivo logo que comecei, a empolgação tomou conta e eu queria mais. A minha meta de emagrecimento inicial era pequena, mas quando alcancei, eu queria mais, e o exercício foi um aliado para conseguir isso. A partir do momento que ele se torna um hábito, até sentimos falta no dia em que não é praticado.”</span></em>**
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/12/bonita-sem-dietas/" target="_blank"><strong>Bonita, saudável e feliz… sem dietas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/12/bonita-sem-dietas/" target="_blank">**Bonita, saudável e feliz… sem dietas!**</a>
 </p>
 
 <p align="center">
@@ -70,11 +70,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para não perder o pique!</strong>
+  **Para não perder o pique!**
 </p>
 
 > <p align="justify">
->   <strong><em>“A maior motivação é não voltar a ser como eu era. A conquista me deixou tão feliz que nem penso em voltar atrás. Isso não quer dizer que ás vezes eu não tenha preguiça de me exercitar, e troque os 40 mim de pedal por um pouco mais de sono. Para quem quer perder peso, minha dica é beber água e chás entre as refeições para aliviar a vontade de comer. Outra coisa é não deixar de comer o que se gosta, mas comer moderadamente. Comer nos faz feliz!”</em></strong>
+>   **<em>“A maior motivação é não voltar a ser como eu era. A conquista me deixou tão feliz que nem penso em voltar atrás. Isso não quer dizer que ás vezes eu não tenha preguiça de me exercitar, e troque os 40 mim de pedal por um pouco mais de sono. Para quem quer perder peso, minha dica é beber água e chás entre as refeições para aliviar a vontade de comer. Outra coisa é não deixar de comer o que se gosta, mas comer moderadamente. Comer nos faz feliz!”</em>**
 > </p>
 
 <p align="center">

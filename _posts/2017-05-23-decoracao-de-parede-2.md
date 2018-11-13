@@ -1,7 +1,7 @@
 ---
-id: 3766
+
 title: Faltando algo naquele cantinho pra decoração de parede?
-date: 2017-05-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/23/decoracao-de-parede-2/
@@ -11,7 +11,7 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Preciso dizer que eu vivi de amores por essa solução para <strong>decoração de parede</strong>, num daqueles cantinhos da casa onde a gente bate os olhos e pensa: “está faltando algo e nem sei bem o que é?”. Será que não é algo similar a isso? Repare bem: <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank">prateleiras flutuantes</a>, harmoniosas e despretensiosas preenchendo um espaço largado e esquecido.
+  Preciso dizer que eu vivi de amores por essa solução para **decoração de parede**, num daqueles cantinhos da casa onde a gente bate os olhos e pensa: “está faltando algo e nem sei bem o que é?”. Será que não é algo similar a isso? Repare bem: <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank">prateleiras flutuantes</a>, harmoniosas e despretensiosas preenchendo um espaço largado e esquecido.
 </p>
 
 <p align="justify">

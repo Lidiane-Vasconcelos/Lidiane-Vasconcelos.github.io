@@ -1,7 +1,7 @@
 ---
-id: 3773
+
 title: Como escolher tecidos pra decoração da varanda?
-date: 2017-06-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/06/decoracao-da-varanda/
@@ -10,11 +10,11 @@ categories:
   - 'Varanda &amp; Jardim'
 ---
 <p style="text-align: justify;">
-  Pensar nos detalhes da <strong>decoração</strong> <strong>da varanda </strong>é uma delícia de viver, já que lá é um espaço digno de toda a atenção e carinho. A leitora <strong>Isabelle</strong> entrou em contato a fim de tirar sua dúvida sobre a escolha de tecidos pra decorar aquele ambiente, e arrasar na harmonização do espaço.
+  Pensar nos detalhes da **decoração** **da varanda **é uma delícia de viver, já que lá é um espaço digno de toda a atenção e carinho. A leitora **Isabelle** entrou em contato a fim de tirar sua dúvida sobre a escolha de tecidos pra decorar aquele ambiente, e arrasar na harmonização do espaço.
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Esta dúvida foi respondida pela <em>expert</em> <strong>Carol Carneiro</strong>, que é <strong><em>Designer</em> de Interiores, de Belo Horizonte &#8211; MG</strong>. Confira a dúvida da Isabelle, mais ainda a resposta da Carol, pois você pode aprender com isso também. Aproveita!
+  Esta dúvida foi respondida pela <em>expert</em> **Carol Carneiro**, que é **<em>Designer</em> de Interiores, de Belo Horizonte &#8211; MG**. Confira a dúvida da Isabelle, mais ainda a resposta da Carol, pois você pode aprender com isso também. Aproveita!
 </p>
 
 <!--more-->
@@ -24,7 +24,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>“<em>Olá, Gostaria muito de saber a opinião de um profissional de como devo proceder na escolha dos tecidos que vão compor duas poltronas estilo Luís XV na minha varanda. Eu coloquei um sofá de madeira de demolição, as 2 poltronas e uma mesa de centro…</em></strong>
+>   **“<em>Olá, Gostaria muito de saber a opinião de um profissional de como devo proceder na escolha dos tecidos que vão compor duas poltronas estilo Luís XV na minha varanda. Eu coloquei um sofá de madeira de demolição, as 2 poltronas e uma mesa de centro…</em>**
 > </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <strong>…<em>Vou pintar as 2 poltronas antigas de berinjela, e no sofá vou colocar 2 futons berinjela como assento. Estou em dúvida se estofo uma poltrona com tecido estampado (que combina com o berinjela) e outra com uma camurça sintética berinjela, ou as duas com o tecido estampado. O que fica melhor? Agradeço desde já a atenção, Isabelle</em>.”</strong>
+>   **…<em>Vou pintar as 2 poltronas antigas de berinjela, e no sofá vou colocar 2 futons berinjela como assento. Estou em dúvida se estofo uma poltrona com tecido estampado (que combina com o berinjela) e outra com uma camurça sintética berinjela, ou as duas com o tecido estampado. O que fica melhor? Agradeço desde já a atenção, Isabelle</em>.”**
 > </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <strong>“<em>Para a nossa leitora querida, Isabelle, a dica é: use e abuse da cor berinjela, que você está curtindo neste momento. Existem várias formas de combinar com este tom que é tão chique e elegante, e uma delas é a estampa. Sugiro que utilize nas duas poltronas antigas uma estampa floral colorida, mas que tenha o tom berinjela presente. Gostei da ideia da cor berinjela no futon, mas não indico você pintar também a estrutura das 2 poltronas na cor berinjela. Acho que estas deverão permanecer brancas, ou em madeira natural, justamente permanecedo o ar de antiga. Assim, quando você se cansar da cor, basta trocar a capa das almofadas. Importante: Faça capas nos futons, deixando por baixo o tecido original para que possa mudar quando quiser e continuar com esta varanda deliciosa&#8230;coisa rara hoje em dia!”</em></strong>
+>   **“<em>Para a nossa leitora querida, Isabelle, a dica é: use e abuse da cor berinjela, que você está curtindo neste momento. Existem várias formas de combinar com este tom que é tão chique e elegante, e uma delas é a estampa. Sugiro que utilize nas duas poltronas antigas uma estampa floral colorida, mas que tenha o tom berinjela presente. Gostei da ideia da cor berinjela no futon, mas não indico você pintar também a estrutura das 2 poltronas na cor berinjela. Acho que estas deverão permanecer brancas, ou em madeira natural, justamente permanecedo o ar de antiga. Assim, quando você se cansar da cor, basta trocar a capa das almofadas. Importante: Faça capas nos futons, deixando por baixo o tecido original para que possa mudar quando quiser e continuar com esta varanda deliciosa&#8230;coisa rara hoje em dia!”</em>**
 > </p>
 
 <p align="center">

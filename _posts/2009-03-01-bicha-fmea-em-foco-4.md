@@ -1,7 +1,7 @@
 ---
-id: 2630
+
 title: Bicha Fêmea em Foco
-date: 2009-03-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/01/bicha-fmea-em-foco-4/
@@ -10,27 +10,27 @@ categories:
   - Sem categoria
 ---
 <p align="center">
-  <strong><em><font face="Viner Hand ITC" color="#808000" size="5"></font></em></strong>
+  **<em><font face="Viner Hand ITC" color="#808000" size="5"></font></em>**
 </p>
 
 <p align="center">
-  <strong><em><font face="Viner Hand ITC" color="#808000" size="5"></font></em></strong>
+  **<em><font face="Viner Hand ITC" color="#808000" size="5"></font></em>**
 </p>
 
 <p align="center">
-  <strong><em><font face="Viner Hand ITC" color="#808000" size="5"></font></em></strong>
+  **<em><font face="Viner Hand ITC" color="#808000" size="5"></font></em>**
 </p>
 
 <p align="center">
-  <strong><em><font face="Viner Hand ITC" color="#808000" size="5"></font></em></strong>
+  **<em><font face="Viner Hand ITC" color="#808000" size="5"></font></em>**
 </p>
 
 <p align="center">
-  <strong><em><font face="Viner Hand ITC" color="#808000" size="5"></font></em></strong>
+  **<em><font face="Viner Hand ITC" color="#808000" size="5"></font></em>**
 </p>
 
 <p align="center">
-  <strong><em><font face="Viner Hand ITC" color="#808000" size="5">Carol e o Paquistão</font></em></strong>
+  **<em><font face="Viner Hand ITC" color="#808000" size="5">Carol e o Paquistão</font></em>**
 </p>
 
 <p align="center">

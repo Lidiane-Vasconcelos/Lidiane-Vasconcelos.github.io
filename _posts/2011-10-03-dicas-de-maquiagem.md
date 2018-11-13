@@ -1,7 +1,7 @@
 ---
-id: 3059
+
 title: Dicas de maquiagem para um visual…“melhor, impossível”!
-date: 2011-10-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/03/dicas-de-maquiagem/
@@ -14,7 +14,7 @@ Você quer ter um visual de arrasar, com as imperfeições devidamente corrigida
 &nbsp;
 
 <p align="justify">
-  Procurei a<strong> Beth</strong>, que é <em>expert </em>no assunto, porque estava curiosa para saber quais as técnicas que ela usa na hora de cuidar de suas clientes e deixá-las lindas de viver. Perguntei para ela se tinha mesmo jeito de a gente melhorar a aparência apenas com maquiagem… e a boa notícia é que, sim, tem jeito!
+  Procurei a** Beth**, que é <em>expert </em>no assunto, porque estava curiosa para saber quais as técnicas que ela usa na hora de cuidar de suas clientes e deixá-las lindas de viver. Perguntei para ela se tinha mesmo jeito de a gente melhorar a aparência apenas com maquiagem… e a boa notícia é que, sim, tem jeito!
 </p>
 
 <!--more-->
@@ -24,7 +24,7 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 &nbsp;
 
 > <p align="justify">
->   “O<strong> </strong><em>primeiro passo para sentir-se bonita é a aceitação. Se você se aceitar, aceitar sua idade e respeitar seu tempo, sua confiança e auto-estima vão estar sempre fazendo você se sentir bem com seu espelho! </em><em>A beleza começa dentro de você!”</em>
+>   “O** **<em>primeiro passo para sentir-se bonita é a aceitação. Se você se aceitar, aceitar sua idade e respeitar seu tempo, sua confiança e auto-estima vão estar sempre fazendo você se sentir bem com seu espelho! </em><em>A beleza começa dentro de você!”</em>
 > </p>
 
 <p align="justify">
@@ -32,15 +32,15 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Estratégias para a pele…</span></strong>
+  **<span style="font-size: medium;">Estratégias para a pele…</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem.jpg"><img class="alignnone size-full wp-image-6978" title="maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem.jpg" alt="" width="600" height="400" /></a><br /> <strong><a href="http://www.takemoto.com.br/default.aspx" target="_blank">Flavio Takemoto</a></strong> via <strong><a href="http://www.sxc.hu/profile/flaivoloka" target="_blank">Stock.xchng</a></strong><span style="font-size: medium;"><br /> </span>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem.jpg"><img class="alignnone size-full wp-image-6978" title="maquiagem" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem.jpg" alt="" width="600" height="400" /></a><br /> **<a href="http://www.takemoto.com.br/default.aspx" target="_blank">Flavio Takemoto</a>** via **<a href="http://www.sxc.hu/profile/flaivoloka" target="_blank">Stock.xchng</a>**<span style="font-size: medium;"><br /> </span>
 </p>
 
 <p align="justify">
-  <strong>1 &#8211; A pele é seca; </strong>
+  **1 &#8211; A pele é seca; **
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="justify">
-  <strong>2 &#8211; Há rugas</strong>;
+  **2 &#8211; Há rugas**;
 </p>
 
 <p align="justify">
@@ -56,7 +56,7 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="justify">
-  <strong>3 &#8211; Há manchas de acne;</strong>
+  **3 &#8211; Há manchas de acne;**
 </p>
 
 <p align="justify">
@@ -64,7 +64,7 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="justify">
-  <strong>4 &#8211; Há poros muito aparentes</strong>.
+  **4 &#8211; Há poros muito aparentes**.
 </p>
 
 <p align="justify">
@@ -72,15 +72,15 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Aquele up nos olhos…</span></strong>
+  **<span style="font-size: medium;">Aquele up nos olhos…</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2.jpg"><img class="alignnone size-full wp-image-6979" title="maquiagem[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2.jpg" alt="" width="600" height="400" /><br /> </a><strong><a href="http://www.takemoto.com.br/default.aspx" target="_blank">Flavio Takemoto</a></strong> via <strong><a href="http://www.sxc.hu/profile/flaivoloka" target="_blank">Stock.xchng</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2.jpg"><img class="alignnone size-full wp-image-6979" title="maquiagem[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2.jpg" alt="" width="600" height="400" /><br /> </a>**<a href="http://www.takemoto.com.br/default.aspx" target="_blank">Flavio Takemoto</a>** via **<a href="http://www.sxc.hu/profile/flaivoloka" target="_blank">Stock.xchng</a>**
 </p>
 
 <p align="justify">
-  <strong>1 &#8211; A pálpebra está flácida; </strong>
+  **1 &#8211; A pálpebra está flácida; **
 </p>
 
 <p align="justify">
@@ -88,7 +88,7 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="justify">
-  <strong>2 &#8211; Há pés de galinha;  </strong>
+  **2 &#8211; Há pés de galinha;  **
 </p>
 
 <p align="justify">
@@ -96,7 +96,7 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="justify">
-  <strong>3 &#8211; A sobrancelha está rala; </strong>
+  **3 &#8211; A sobrancelha está rala; **
 </p>
 
 <p align="justify">
@@ -104,7 +104,7 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="justify">
-  <strong>4 &#8211; Os cílios não têm volume. </strong>
+  **4 &#8211; Os cílios não têm volume. **
 </p>
 
 <p align="justify">
@@ -112,15 +112,15 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Para uma boca de arrasar…</span></strong>
+  **<span style="font-size: medium;">Para uma boca de arrasar…</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem3.jpg"><img class="alignnone size-full wp-image-6982" title="maquiagem[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem3.jpg" alt="" width="600" height="400" /><br /> </a><strong><a href="http://www.takemoto.com.br/default.aspx" target="_blank">Flavio Takemoto</a></strong> via <strong><a href="http://www.sxc.hu/profile/flaivoloka" target="_blank">Stock.xchng</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem3.jpg"><img class="alignnone size-full wp-image-6982" title="maquiagem[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem3.jpg" alt="" width="600" height="400" /><br /> </a>**<a href="http://www.takemoto.com.br/default.aspx" target="_blank">Flavio Takemoto</a>** via **<a href="http://www.sxc.hu/profile/flaivoloka" target="_blank">Stock.xchng</a>**
 </p>
 
 <p align="justify">
-  <strong>1 &#8211; Os lábios são finos;</strong>
+  **1 &#8211; Os lábios são finos;**
 </p>
 
 <p align="justify">
@@ -160,15 +160,15 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 &nbsp;
 
 <p align="justify">
-  Viu quantas dicas fantásticas a <strong>Beth</strong> dividiu com a gente? Não é de hoje que ela marca presença no <strong>Bicha Fêmea</strong> e nos presenteia com informações de qualidade e bem preciosas. Todas nós agradecemos, claro!
+  Viu quantas dicas fantásticas a **Beth** dividiu com a gente? Não é de hoje que ela marca presença no **Bicha Fêmea** e nos presenteia com informações de qualidade e bem preciosas. Todas nós agradecemos, claro!
 </p>
 
 <p align="justify">
-  Já imaginou que delícia estar entregue ás mãos de uma profissional como ela, sobretudo num dia <em>pra</em> lá de especial quando queremos ficar im-pe-cá-veis? Pois a<strong> Beth</strong> mostra as maravilhas que tem feito por tantas e tantas <strong>noivas</strong>, por exemplo.
+  Já imaginou que delícia estar entregue ás mãos de uma profissional como ela, sobretudo num dia <em>pra</em> lá de especial quando queremos ficar im-pe-cá-veis? Pois a** Beth** mostra as maravilhas que tem feito por tantas e tantas **noivas**, por exemplo.
 </p>
 
 <p align="justify">
-  Está tudo registrado no <strong><a href="http://blog.bethribeiro.com.br/" target="_blank">Blog da Beth Ribeiro</a></strong>, que ela edita mostrando noivas lindas que ela produz, fotos de seus trabalhos em outras áreas, imagens e desfiles com <em>looks</em> de arrasar. Precisa dizer que o <em>click</em> é imperdível?!?
+  Está tudo registrado no **<a href="http://blog.bethribeiro.com.br/" target="_blank">Blog da Beth Ribeiro</a>**, que ela edita mostrando noivas lindas que ela produz, fotos de seus trabalhos em outras áreas, imagens e desfiles com <em>looks</em> de arrasar. Precisa dizer que o <em>click</em> é imperdível?!?
 </p>
 
 &nbsp;
@@ -176,20 +176,20 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">Mais no Bicha Fêmea…</span></strong>
+  **<span style="font-size: medium;">Mais no Bicha Fêmea…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg"><img class="alignnone size-full wp-image-6785" title="batom200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/"><span style="font-size: small;">Maquiagem: dicas, truques e pitacos by bichas fêmeas navegantes…</span></a></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg"><img class="alignnone size-full wp-image-6785" title="batom200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/"><span style="font-size: small;">Maquiagem: dicas, truques e pitacos by bichas fêmeas navegantes…</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/05/27/maquiagem-peles-negras/"><span style="font-size: small;">Dicas de beleza: maquiagem para peles negras. Anote!</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg"><img class="alignnone size-full wp-image-6430" title="dicas maquiagem pele negra200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dicas-maquiagem-pele-negra200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/05/27/maquiagem-peles-negras/"><span style="font-size: small;">Dicas de beleza: maquiagem para peles negras. Anote!</span></a>**
       </p>
     </td>
   </tr>
@@ -199,19 +199,19 @@ Mas é preciso jamais perder de vista o mais importante: truque algum será mila
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem-1200.jpg"><img class="alignnone size-thumbnail wp-image-5989" title="maquiagem 1200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem-1200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/02/dicas-maquiagem-dia-2/"><span style="font-size: small;">Dicas de maquiagem para ficar básica e linda no dia a dia…</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem-1200.jpg"><img class="alignnone size-thumbnail wp-image-5989" title="maquiagem 1200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/maquiagem-1200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/03/02/dicas-maquiagem-dia-2/"><span style="font-size: small;">Dicas de maquiagem para ficar básica e linda no dia a dia…</span></a>**
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com_thumb.jpg"><img class="alignnone size-thumbnail wp-image-1720" title="www.polyvore.com_thumb.jpg" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com_thumb-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/07/08/maquiagem-mineral/"><span style="font-size: small;">Tudo sobre maquiagem mineral</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com_thumb.jpg"><img class="alignnone size-thumbnail wp-image-1720" title="www.polyvore.com_thumb.jpg" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com_thumb-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/07/08/maquiagem-mineral/"><span style="font-size: small;">Tudo sobre maquiagem mineral</span></a>**
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200.jpg"><img class="alignnone size-thumbnail wp-image-6499" title="maquiagem saúde da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200-150x150.jpg" alt="" width="150" height="150" /></a><a href="http://www.trololodemulher.com.br/2011/06/08/maquiagem-saude-pele/"><span style="font-size: small;">Maquiagem: quando ela vira assunto de saúde?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200.jpg"><img class="alignnone size-thumbnail wp-image-6499" title="maquiagem saúde da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200-150x150.jpg" alt="" width="150" height="150" /></a><a href="http://www.trololodemulher.com.br/2011/06/08/maquiagem-saude-pele/"><span style="font-size: small;">Maquiagem: quando ela vira assunto de saúde?</span></a>**
       </p>
     </td>
   </tr>

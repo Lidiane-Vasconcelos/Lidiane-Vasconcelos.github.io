@@ -1,7 +1,7 @@
 ---
-id: 2890
+
 title: 'Prateleira do Bicha Fêmea: Além da Rua Atelier'
-date: 2010-10-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/13/alem-da-rua-atelier/
@@ -34,7 +34,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: justify;">
-  O Atelier da Veronica é um ponto de encontro em dois sentidos. Primeiro, porque por lá suas peças ficam expostas e arranjadas em cantinhos inspiradores. Assim, é onde se encontra tudo que de mais bonito ela produz. Tudo isso eu tenho visto diariamente em <strong><em><a href="http://alemdaruaatelier.blogspot.com/" target="_blank">seu blog, que leva o nome de seu atelier</a></em></strong>, e é onde a Vero mostra não apenas o que produz, mas divulga eventos e as peças de seus alunos. Aí é que entra o segundo sentido de seu atelier ser um ponto de encontro&#8230;
+  O Atelier da Veronica é um ponto de encontro em dois sentidos. Primeiro, porque por lá suas peças ficam expostas e arranjadas em cantinhos inspiradores. Assim, é onde se encontra tudo que de mais bonito ela produz. Tudo isso eu tenho visto diariamente em **<em><a href="http://alemdaruaatelier.blogspot.com/" target="_blank">seu blog, que leva o nome de seu atelier</a></em>**, e é onde a Vero mostra não apenas o que produz, mas divulga eventos e as peças de seus alunos. Aí é que entra o segundo sentido de seu atelier ser um ponto de encontro&#8230;
 </p>
 
 <p style="text-align: justify;">
@@ -74,13 +74,13 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 **_[Prateleira do Bicha Fêmea: Coisas de Livs](http://www.trololodemulher.com.br/2010/04/07/prateleira-do-bicha-femea-coisas-de-livs/)_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><strong><em>Receba gratuitamente em seu e-mail</em></strong></a>!
+  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">**<em>Receba gratuitamente em seu e-mail</em>**</a>!
 </p>
 
 <p style="text-align: center;">
-  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea"><strong><em>@bichafemea</em></strong></a>.
+  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">**<em>@bichafemea</em>**</a>.
 </p>
 
 <p style="text-align: center;">
-  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a>!
+  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>!
 </p>

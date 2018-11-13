@@ -1,7 +1,7 @@
 ---
-id: 3614
+
 title: 'Apartamento pequeno com tudo para viver bem: é possível?'
-date: 2016-05-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/24/apartamento-pequeno-2/
@@ -35,15 +35,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Aproveite, e veja:</strong>
+  **Aproveite, e veja:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar paredes com quadros.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar paredes com quadros.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank">**Já viu como imprimir charme na decoração da parede com fotos?**</a>
 </p>
 
 <p align="center">
@@ -71,11 +71,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E por falar nisso:</strong>
+  **E por falar nisso:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">**Caixas: 5 soluções de organização da casa.**</a>
 </p>
 
 <p align="center">
@@ -87,11 +87,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank">**Quarto: ideias de organização para a cabeceira da cama.**</a>
 </p>
 
 <p align="justify">
@@ -99,19 +99,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais para você:</strong>
+  **Mais para você:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/pequenos-espacos/" target="_blank"><strong>Dá para viver bem em pequenos espaços?</strong></a>
+  <a href="http://www.decoracaodacasa.com/pequenos-espacos/" target="_blank">**Dá para viver bem em pequenos espaços?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank">**3 erros na decoração e organização de espaços pequenos: você os comete?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank">**4 composições de cantinhos para sua varanda pequena.**</a>
 </p>
 
 <p align="center">

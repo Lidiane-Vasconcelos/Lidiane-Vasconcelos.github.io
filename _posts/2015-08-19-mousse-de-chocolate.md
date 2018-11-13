@@ -1,7 +1,7 @@
 ---
-id: 3466
+
 title: Mousse de chocolate com café… porque merecemos!
-date: 2015-08-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/19/mousse-de-chocolate/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mousse de Chocolate com Café</strong>
+  **Mousse de Chocolate com Café**
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes</strong>
+  **Ingredientes**
 </p>
 
 <p align="justify">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Preparo</strong>
+  **Preparo**
 </p>
 
 <p align="justify">
-  <strong><em>“Enquanto você derrete o chocolate no microondas (vai derretendo aos poucos, mexe, volta para o microondas se tiver necessidade), bate as claras em neve com o açúcar demerara. Depois de derretido o chocolate, deixe esfriar um pouco e acrescente o café. Incorpore bem. Depois acrescente as claras em neve delicadamente, de baixo para cima. Quando estiver bem incorporado, coloque em taças. Pode enfeitar como desejar!!”</em></strong>
+  **<em>“Enquanto você derrete o chocolate no microondas (vai derretendo aos poucos, mexe, volta para o microondas se tiver necessidade), bate as claras em neve com o açúcar demerara. Depois de derretido o chocolate, deixe esfriar um pouco e acrescente o café. Incorpore bem. Depois acrescente as claras em neve delicadamente, de baixo para cima. Quando estiver bem incorporado, coloque em taças. Pode enfeitar como desejar!!”</em>**
 </p>
 
 <p align="center">
@@ -54,23 +54,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank"><strong>Brigadeiro de colher saudável: xô, TPM!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank">**Brigadeiro de colher saudável: xô, TPM!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank"><strong>Sopa de tomate com couve: para aquecer neste Inverno.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank">**Sopa de tomate com couve: para aquecer neste Inverno.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank"><strong>Bolo de banana sem glúten e light… e cheiroso!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank">**Bolo de banana sem glúten e light… e cheiroso!**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em> </em></strong>
+  **<em> </em>**
 </p>

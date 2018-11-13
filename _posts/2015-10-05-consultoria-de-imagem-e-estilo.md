@@ -1,7 +1,7 @@
 ---
-id: 3495
+
 title: Consultoria de imagem e estilo é seu sonho de carreira?
-date: 2015-10-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/05/consultoria-de-imagem-e-estilo/
@@ -10,11 +10,11 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Você se conhece bem e sabe que é isso o que você gostaria de fazer daqui pra frente, não é? <strong>Consultoria de Imagem e Estilo</strong> é, na verdade, um sonho de carreira guardado num cantinho de uma gaveta aí, no seu coração, esperando pela melhor oportunidade de virar realidade, certo? O problema é que há muitas questões que envolvem a realização desse sonho, e muitos medos, inclusive. Isso acontece, sobretudo, quando já há uma carreira em adamento, e você quer dar uma guinada, e viver fazendo o que ama. Será que é mesmo possível?
+  Você se conhece bem e sabe que é isso o que você gostaria de fazer daqui pra frente, não é? **Consultoria de Imagem e Estilo** é, na verdade, um sonho de carreira guardado num cantinho de uma gaveta aí, no seu coração, esperando pela melhor oportunidade de virar realidade, certo? O problema é que há muitas questões que envolvem a realização desse sonho, e muitos medos, inclusive. Isso acontece, sobretudo, quando já há uma carreira em adamento, e você quer dar uma guinada, e viver fazendo o que ama. Será que é mesmo possível?
 </p>
 
 <p align="justify">
-  A boa notícia neste post é que, sim, é possível. Quer aprender qual o caminho das pedras? A nossa consultora de imagem e estilo tão querida por aqui, a <strong>Lilian Jordão</strong>, lança hoje um curso de formação nessa área, e ela quer te contar qual o diferencial. Apaixonada pelo que faz, ela quis preparar o melhor para te ajudar a dar essa virada na carreira que você tanto deseja, de uma maneira que você terá o suporte que ela, por exemplo, não teve. Se ela chegou lá, exatamente aonde você quer ir, sem o apoio que ela está propondo a você nesse projeto, imagine o que você conquistaria com esse diferencial em termos de conhecimento? Confira!
+  A boa notícia neste post é que, sim, é possível. Quer aprender qual o caminho das pedras? A nossa consultora de imagem e estilo tão querida por aqui, a **Lilian Jordão**, lança hoje um curso de formação nessa área, e ela quer te contar qual o diferencial. Apaixonada pelo que faz, ela quis preparar o melhor para te ajudar a dar essa virada na carreira que você tanto deseja, de uma maneira que você terá o suporte que ela, por exemplo, não teve. Se ela chegou lá, exatamente aonde você quer ir, sem o apoio que ela está propondo a você nesse projeto, imagine o que você conquistaria com esse diferencial em termos de conhecimento? Confira!
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Eu diariamente recebo e-mails de meninas cheias de dúvidas sobre a consultoria de imagem e estilo. Como cobrar, como fazer projetos, que área seguir, qual curso fazer, como se destacar, como mostrar seu trabalho, como viver somente da carreira de consultora. Eu sei como é porque vivi exatamente estes mesmos problemas quando comecei e sei que não é fácil. Para quem está começando, a carreira de consultora apresenta uma série de obstáculos específicos, e na grande maioria das vezes não há ninguém para ajudar, segurar na mão, dizer o que fazer e como vai ser lá na frente, qual vai ser o próximo passo. E como eu acredito que conhecimento tem que ser compartilhado, e com o objetivo de ajudar ao maior número de mulheres com as mesmas dúvidas, fiz algo que não me recomendaram fazer: liberei uma série de aulas do meu curso de formação, o “<strong>Viver Consulting – Curso de Formação de Imagem e Estilo de Sucesso</strong>&#8220;, para você! </em>
+  “<em>Eu diariamente recebo e-mails de meninas cheias de dúvidas sobre a consultoria de imagem e estilo. Como cobrar, como fazer projetos, que área seguir, qual curso fazer, como se destacar, como mostrar seu trabalho, como viver somente da carreira de consultora. Eu sei como é porque vivi exatamente estes mesmos problemas quando comecei e sei que não é fácil. Para quem está começando, a carreira de consultora apresenta uma série de obstáculos específicos, e na grande maioria das vezes não há ninguém para ajudar, segurar na mão, dizer o que fazer e como vai ser lá na frente, qual vai ser o próximo passo. E como eu acredito que conhecimento tem que ser compartilhado, e com o objetivo de ajudar ao maior número de mulheres com as mesmas dúvidas, fiz algo que não me recomendaram fazer: liberei uma série de aulas do meu curso de formação, o “**Viver Consulting – Curso de Formação de Imagem e Estilo de Sucesso**&#8220;, para você! </em>
 </p>
 
 <p align="justify">
-  <em>A primeira aula está disponível desde hoje! Nela eu conto Como Transformar sua Paixão em Sucesso Profissional em 6 Passos! </em><a href="http://lilianjordao.com.br/cursos/aula1/" target="_blank"><strong><em>Eu quero assistir a aula e transformar minha paixão em sucesso!</em></strong></a><em> </em>
+  <em>A primeira aula está disponível desde hoje! Nela eu conto Como Transformar sua Paixão em Sucesso Profissional em 6 Passos! </em><a href="http://lilianjordao.com.br/cursos/aula1/" target="_blank">**<em>Eu quero assistir a aula e transformar minha paixão em sucesso!</em>**</a><em> </em>
 </p>
 
 <p align="justify">

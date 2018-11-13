@@ -1,7 +1,7 @@
 ---
-id: 3496
+
 title: 'Arranjo de mesa de Natal: faça você mesma'
-date: 2015-10-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/07/arranjo-de-mesa-de-natal/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Arranjo de mesa de Natal</strong> é necessário para a casa entrar no clima, concorda? E quem disse que é preciso gastar horrores para isso? Dá para você mesma fazer um, usando inclusive enfeites que você já tenha de anos passados. A ideia aqui é bem simples, e o resultado é pura lindeza. Olha só:
+  **Arranjo de mesa de Natal** é necessário para a casa entrar no clima, concorda? E quem disse que é preciso gastar horrores para isso? Dá para você mesma fazer um, usando inclusive enfeites que você já tenha de anos passados. A ideia aqui é bem simples, e o resultado é pura lindeza. Olha só:
 </p>
 
 <p align="center">

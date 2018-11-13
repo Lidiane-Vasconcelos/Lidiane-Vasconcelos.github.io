@@ -1,7 +1,7 @@
 ---
-id: 3748
+
 title: Como escolher armário de cozinha?
-date: 2017-04-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/11/armario-de-cozinha/
@@ -18,15 +18,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank"><strong>Cor do balcão e revestimento da cozinha: como combinar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank">**Cor do balcão e revestimento da cozinha: como combinar?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/" target="_blank"><strong>Decoração de cozinha pequena: dicas e imagens.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/" target="_blank">**Decoração de cozinha pequena: dicas e imagens.**</a>
 </p>
 
 <p align="center">
@@ -50,15 +50,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/18/decoracao-da-cozinha/" target="_blank"><strong>Renove a decoração da cozinha: 12 ideias muito simples.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/18/decoracao-da-cozinha/" target="_blank">**Renove a decoração da cozinha: 12 ideias muito simples.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/11/armario-cozinha-papel-contact/" target="_blank"><strong>Armário de cozinha e papel contact: 6 repaginadas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/11/armario-cozinha-papel-contact/" target="_blank">**Armário de cozinha e papel contact: 6 repaginadas.**</a>
 </p>
 
 <p align="center">
@@ -82,11 +82,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank"><strong>Quer 5 razões para ter um suporte de organização na parede da cozinha?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank">**Quer 5 razões para ter um suporte de organização na parede da cozinha?**</a>
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3538
+
 title: 'Quarto de menina adolescente: como decorar?'
-date: 2016-02-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/05/quarto-de-menina-adolescente/
@@ -10,7 +10,7 @@ categories:
   - Quarto Adolescente
 ---
 <p align="justify">
-  Nem sempre de rosa é feito o <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina-2/" target="_blank">quarto de menina</a>, sobretudo se ela já entrou na adolescência. Nessa fase, cheias de personalidade, essas mocinhas querem muito mais: elas desejam que seu espaço tenham detalhes estilosos, com muita <em>bossa</em> e charme. <strong>Quarto de menina adolescente</strong>, para deixá-la feliz, precisa ter muito dela mesma. Neste post você verá algumas dicas e sugestões de como levar isso para a decoração do cantinho delas. Mostre as ideias para sua filha, deixe que ela eleja o que conquista seu coração, e divirtam-se aplicando juntas as sugestões que estão aqui. Confira!
+  Nem sempre de rosa é feito o <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina-2/" target="_blank">quarto de menina</a>, sobretudo se ela já entrou na adolescência. Nessa fase, cheias de personalidade, essas mocinhas querem muito mais: elas desejam que seu espaço tenham detalhes estilosos, com muita <em>bossa</em> e charme. **Quarto de menina adolescente**, para deixá-la feliz, precisa ter muito dela mesma. Neste post você verá algumas dicas e sugestões de como levar isso para a decoração do cantinho delas. Mostre as ideias para sua filha, deixe que ela eleja o que conquista seu coração, e divirtam-se aplicando juntas as sugestões que estão aqui. Confira!
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para as meninas românticas, apostar em roupa de cama com detalhes florais, numa <em>pegada vintage</em>, pode ser uma estratégia acertadíssima. Isso no mínimo vai deixá-la bem empolgada para <strong><a href="http://www.decoracaodacasa.com/fazer-a-cama/" target="_blank">fazer a cama</a></strong> todos os dias. A mamãe agradece!
+  Para as meninas românticas, apostar em roupa de cama com detalhes florais, numa <em>pegada vintage</em>, pode ser uma estratégia acertadíssima. Isso no mínimo vai deixá-la bem empolgada para **<a href="http://www.decoracaodacasa.com/fazer-a-cama/" target="_blank">fazer a cama</a>** todos os dias. A mamãe agradece!
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se houver espaço no quarto, um cantinho para <strong>penteadeira</strong> e espelho que reflita o corpo inteiro é <em>tudo-que-há-na-vida</em> de qualquer mulher… imagine para uma adolescente?! Invista na ideia.
+  Se houver espaço no quarto, um cantinho para **penteadeira** e espelho que reflita o corpo inteiro é <em>tudo-que-há-na-vida</em> de qualquer mulher… imagine para uma adolescente?! Invista na ideia.
 </p>
 
 <p align="center">

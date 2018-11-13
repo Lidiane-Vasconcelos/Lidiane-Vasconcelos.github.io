@@ -1,7 +1,7 @@
 ---
-id: 2941
+
 title: 'Vestidos de Verão: moda, dicas e elegância…'
-date: 2011-01-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/21/vestidos-de-verao/
@@ -10,7 +10,7 @@ categories:
   - Moda
 ---
 <p style="text-align: justify;">
-  Quando o <strong>Verão</strong> se aproxima, e segue a todo vapor, logo as mulheres ficam em polvorosa: é hora de usar os <strong>vestidos</strong>. Os modelos são os mais diversos, desde que sejam confortáveis, afinal de contas, “o<em> vestido é a cara do verão porque é a vestimenta que mais permite a circulação do ar pelo corpo. Como nesta estação além do sol forte o tempo fica muito abafado, usar roupas confortáveis é de suma importância</em>”, afirma <strong>Tatianna Carvalho</strong>, colunista de moda do blog <strong><a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a></strong>.
+  Quando o **Verão** se aproxima, e segue a todo vapor, logo as mulheres ficam em polvorosa: é hora de usar os **vestidos**. Os modelos são os mais diversos, desde que sejam confortáveis, afinal de contas, “o<em> vestido é a cara do verão porque é a vestimenta que mais permite a circulação do ar pelo corpo. Como nesta estação além do sol forte o tempo fica muito abafado, usar roupas confortáveis é de suma importância</em>”, afirma **Tatianna Carvalho**, colunista de moda do blog **<a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a>**.
 </p>
 
 <p style="text-align: justify;">
@@ -20,11 +20,11 @@ categories:
 <!--more-->
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">De Verão em Verão, eles é que mandam!</span></em></strong>
+  **<em><span style="font-size: medium;">De Verão em Verão, eles é que mandam!</span></em>**
 </p>
 
 <p style="text-align: justify;">
-  Peças fundamentais nessa estação de sol e calor, toda mulher tem lá os seus queridinhos no armário. Qual é a bicha fêmea que não quer sair serelepe, saltitante, bela e faceira por aí? Mas também é verdade que somos inteligentes o suficiente para investir bem o nosso rico dinheirinho, e sair louca e descontrolada comprando tudo quanto é modelo só porque “está na moda” não combina muito bem com uma bicha fêmea inteligente, não é? Se a gente sabe que no próximo Verão eles virão com tudo novamente, por que não investir em modelos coringa, hã? Essa é a dica da <strong>Tatianna</strong>, super antenada mas também muito esperta. Anota aí:
+  Peças fundamentais nessa estação de sol e calor, toda mulher tem lá os seus queridinhos no armário. Qual é a bicha fêmea que não quer sair serelepe, saltitante, bela e faceira por aí? Mas também é verdade que somos inteligentes o suficiente para investir bem o nosso rico dinheirinho, e sair louca e descontrolada comprando tudo quanto é modelo só porque “está na moda” não combina muito bem com uma bicha fêmea inteligente, não é? Se a gente sabe que no próximo Verão eles virão com tudo novamente, por que não investir em modelos coringa, hã? Essa é a dica da **Tatianna**, super antenada mas também muito esperta. Anota aí:
 </p>
 
 <blockquote style="text-align: justify;">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Vestido de manga, diferencial no Verão, usado pela <strong>Daniela Garlet.</strong> A moça<strong>,</strong> sempre muito bela, mostra fotos de seus looks no seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
+  Vestido de manga, diferencial no Verão, usado pela **Daniela Garlet.** A moça**,** sempre muito bela, mostra fotos de seus looks no seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
 </p>
 
  
@@ -56,11 +56,11 @@ categories:
 </table>
 
 <p style="text-align: center;">
-  Vestido longo, um clássico do Verão, usado pela <strong>Daniela Garlet</strong>, a bonita que edita e enfeita o <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
+  Vestido longo, um clássico do Verão, usado pela **Daniela Garlet**, a bonita que edita e enfeita o <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Confortáveis, sim. Deselegantes? Jamais!</span></em></strong>
+  **<em><span style="font-size: medium;">Confortáveis, sim. Deselegantes? Jamais!</span></em>**
 </p>
 
 <p style="text-align: justify;">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  E se é para ter elegância usando uma peça de roupa assim, há detalhes que não podem ser esquecidos, como ensina a <strong>Tatianna</strong>: “<em>elegante é saber escolher o vestido para a ocasião em que vai usar, por exemplo, o vestido para trabalhar deve ser em cores mais discretas, não ser decotado e nem curto demais</em>”.
+  E se é para ter elegância usando uma peça de roupa assim, há detalhes que não podem ser esquecidos, como ensina a **Tatianna**: “<em>elegante é saber escolher o vestido para a ocasião em que vai usar, por exemplo, o vestido para trabalhar deve ser em cores mais discretas, não ser decotado e nem curto demais</em>”.
 </p>
 
 <p style="text-align: center;">
@@ -76,11 +76,11 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Vestido curto e alegre para passear, usado lindamente pela <strong>Daniela Garlet</strong> e mostrado em seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a> .
+  Vestido curto e alegre para passear, usado lindamente pela **Daniela Garlet** e mostrado em seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a> .
 </p>
 
 <p style="text-align: justify;">
-  No mais, é preciso não perder de vista o óbvio na hora do passeio no shopping, no almoço com amigas ou no café com colegas de trabalho. Anota aí mais uma dica básica e certeira que toda mulher deveria saber, e que <strong>Tatianna</strong> não deixa passar:
+  No mais, é preciso não perder de vista o óbvio na hora do passeio no shopping, no almoço com amigas ou no café com colegas de trabalho. Anota aí mais uma dica básica e certeira que toda mulher deveria saber, e que **Tatianna** não deixa passar:
 </p>
 
 <blockquote style="text-align: justify;">
@@ -102,13 +102,13 @@ categories:
 **_[Regata branca, básica, versátil… e esquecida?](http://www.trololodemulher.com.br/2009/02/27/regata-branca-basica/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a>> <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a> </em></strong>> Vestidos de Verão: moda, dicas e elegância…
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a> </em>**> Vestidos de Verão: moda, dicas e elegância…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

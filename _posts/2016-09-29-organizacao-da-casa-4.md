@@ -1,7 +1,7 @@
 ---
-id: 3677
+
 title: '3º post da série para organização da casa: penteadeira.'
-date: 2016-09-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/29/organizacao-da-casa-4/
@@ -10,27 +10,27 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a **organização da casa**, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
-  O <strong>Trololó de Mulher</strong> teve o privilégio de receber dicas preciosas de <strong><em>Personal Organizers</em></strong> queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o <strong>post Nº3</strong>, será sobre <strong>a penteadeira, </strong>ou o <strong>cantinho da beleza. </strong>Eu, por exemplo, não tenho uma penteadeira propriamente dita, mas tenho um espaço dedicado para me cuidar e arrumar, então imagino que você também tenha, certo? Então confira porque vale muito a pena! A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a <strong>Kalinka Carvalho. </strong>Confira!
+  O **Trololó de Mulher** teve o privilégio de receber dicas preciosas de **<em>Personal Organizers</em>** queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o **post Nº3**, será sobre **a penteadeira, **ou o **cantinho da beleza. **Eu, por exemplo, não tenho uma penteadeira propriamente dita, mas tenho um espaço dedicado para me cuidar e arrumar, então imagino que você também tenha, certo? Então confira porque vale muito a pena! A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a **Kalinka Carvalho. **Confira!
 </p>
 
 <p align="justify">
-  Não deixe de conferir <strong>o primeiro post da série</strong>: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">clique aqui e veja como deixar seu home office em ordem</a>!
+  Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">clique aqui e veja como deixar seu home office em ordem</a>!
 </p>
 
 <p align="justify">
-  O <strong>segundo post da série</strong> também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">clique aqui e veja como deixar sua cozinha um brinco</a>!
+  O **segundo post da série** também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">clique aqui e veja como deixar sua cozinha um brinco</a>!
 </p>
 
 <p align="justify">
-  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
+  O **quarto** está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
 </p>
 
 <p align="justify">
-  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
+  O **quinto post** está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">

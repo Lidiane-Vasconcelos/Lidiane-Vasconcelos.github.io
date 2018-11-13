@@ -1,7 +1,7 @@
 ---
-id: 2857
+
 title: Decoração com objetos reutilizados by bichas fêmeas.
-date: 2010-08-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/06/decoracao-reutilizacao/
@@ -11,7 +11,7 @@ categories:
   - Faça Você Mesma
 ---
 <p style="text-align: justify;">
-  Você já pensou em incrementar a <strong><em>decoração da sua casa</em></strong> com detalhes produzidos a partir de <strong><em>objetos reutilizados</em></strong>? A solução é barata e ecologicamente correta, e hoje em dia é uma das atitudes esperadas da mulher moderna: criatividade e consumo consciente. 
+  Você já pensou em incrementar a **<em>decoração da sua casa</em>** com detalhes produzidos a partir de **<em>objetos reutilizados</em>**? A solução é barata e ecologicamente correta, e hoje em dia é uma das atitudes esperadas da mulher moderna: criatividade e consumo consciente. 
 </p>
 
 <p style="text-align: justify;">
@@ -111,7 +111,7 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="600" valign="top">
-      Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração</a></em></strong> > Decoração com objetos reutilizados by bichas fêmeas.
+      Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração</a></em>** > Decoração com objetos reutilizados by bichas fêmeas.
     </td>
   </tr>
 </table>
@@ -119,5 +119,5 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
  
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3782
+
 title: 'Chá de menta de Marraquexe, ou como acolher bem&#8230;'
-date: 2017-08-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/15/cha-de-menta/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p style="text-align: justify;">
-  <strong>Chá de menta</strong> é bom para a saúde ou emagrecer? Não duvido disso e na internet afora a gente encontra várias receitas com esse objetivo, mas o que Tânia nos traz nesse post é uma versão de Marraquexe que faz bem aos sentidos, à alma e a boa convivência. A receita é só um detalhe de toda a experiência que o post nos proporciona, um presente que essa moça nos oferece a partir de uma viagem que fez até aquela cidade. Detalhes de um verdadeiro ritual para tomar chá, cores, sensações&#8230; prepare-se para um texto delícia, daqueles que quando acabam ficam um gostinho de quero mais&#8230; e boa viagem!
+  **Chá de menta** é bom para a saúde ou emagrecer? Não duvido disso e na internet afora a gente encontra várias receitas com esse objetivo, mas o que Tânia nos traz nesse post é uma versão de Marraquexe que faz bem aos sentidos, à alma e a boa convivência. A receita é só um detalhe de toda a experiência que o post nos proporciona, um presente que essa moça nos oferece a partir de uma viagem que fez até aquela cidade. Detalhes de um verdadeiro ritual para tomar chá, cores, sensações&#8230; prepare-se para um texto delícia, daqueles que quando acabam ficam um gostinho de quero mais&#8230; e boa viagem!
 </p>
 
 <p align="center">

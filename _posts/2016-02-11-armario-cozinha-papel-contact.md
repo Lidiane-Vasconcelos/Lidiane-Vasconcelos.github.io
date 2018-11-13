@@ -1,7 +1,7 @@
 ---
-id: 3539
+
 title: 'Armário de cozinha e papel contact: 6 repaginadas.'
-date: 2016-02-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/11/armario-cozinha-papel-contact/
@@ -11,15 +11,15 @@ categories:
   - Faça Você Mesma
 ---
 <p align="justify">
-  A variedade de estampas em papel adesivo é enorme, não é? Sem dúvidas ele é o queridinho de quem curte colocar a mão na massa para repaginar a decoração da casa, no melhor dos estilos “faça você mesma”. <strong>Armário de cozinha e papel contact</strong> têm tudo a ver, nasceram um para o outro. Acredite! Se seu armário de cozinha merece uma renovação, usar esse recurso pode ser uma decisão muito acertada. Tem um monte de gente por aí fazendo isso, optando por mudanças mais radicais, outras nem tanto assim. Na verdade, tudo depende mesmo do estilo e jeito de morar de cada um. O importante é deixar o ninho com sua cara e, se é de inspirações para isso que você precisa, aqui tem. Veja a seguir 6 projetos de mudanças em armários, com o uso do papel contact e tudo, tudinho, em casas bem reais como a minha e a sua. Confira… e inspire-se!
+  A variedade de estampas em papel adesivo é enorme, não é? Sem dúvidas ele é o queridinho de quem curte colocar a mão na massa para repaginar a decoração da casa, no melhor dos estilos “faça você mesma”. **Armário de cozinha e papel contact** têm tudo a ver, nasceram um para o outro. Acredite! Se seu armário de cozinha merece uma renovação, usar esse recurso pode ser uma decisão muito acertada. Tem um monte de gente por aí fazendo isso, optando por mudanças mais radicais, outras nem tanto assim. Na verdade, tudo depende mesmo do estilo e jeito de morar de cada um. O importante é deixar o ninho com sua cara e, se é de inspirações para isso que você precisa, aqui tem. Veja a seguir 6 projetos de mudanças em armários, com o uso do papel contact e tudo, tudinho, em casas bem reais como a minha e a sua. Confira… e inspire-se!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/" target="_blank"><strong>7 ideias faça você mesma com papel contact.</strong></a>
+  <a href="http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/" target="_blank">**7 ideias faça você mesma com papel contact.**</a>
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-3/" target="_blank"><strong>Renove a decoração da cozinha: 12 ideias muito simples.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-3/" target="_blank">**Renove a decoração da cozinha: 12 ideias muito simples.**</a>
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-3/" target="_blank"><strong>Decoração de cozinha pequena: dicas e imagens.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-3/" target="_blank">**Decoração de cozinha pequena: dicas e imagens.**</a>
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank"><strong>Decoração da cozinha: 7 profissionais dizem o que é top.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank">**Decoração da cozinha: 7 profissionais dizem o que é top.**</a>
 </p>
 
 <p align="center">

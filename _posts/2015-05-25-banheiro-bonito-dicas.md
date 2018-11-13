@@ -1,7 +1,7 @@
 ---
-id: 3427
+
 title: Como deixar o seu banheiro mais bonito em 4 dicas.
-date: 2015-05-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/25/banheiro-bonito-dicas/
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank"><strong>Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">**Banheiro pequeno? Veja 6 ideias e ganhe espaço já!**</a>
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank">**Banheiro: dicas simples de decoração que custam quase nada!**</a>
 </p>
 
 <p align="center">
@@ -70,11 +70,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank">**Truques de decoração: bandejas… por que te quero?**</a>
 </p>
 
 <p align="center">
@@ -90,11 +90,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">**5 ideias de organização do banheiro que favorecem a decoração.**</a>
 </p>
 
 <p align="justify">

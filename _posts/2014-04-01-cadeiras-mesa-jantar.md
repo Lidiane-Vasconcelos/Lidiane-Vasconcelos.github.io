@@ -1,7 +1,7 @@
 ---
-id: 3289
+
 title: 'Cadeiras diferentes na mesa de jantar: 3 ideias'
-date: 2014-04-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/04/01/cadeiras-mesa-jantar/
@@ -38,19 +38,19 @@ Imagens: **_<a href="http://www.myparadissi.com/" target="_blank">my paradissi</
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
+  **<span style="font-size: small;">Muito mais para você:</span>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/"><span style="font-size: small;">Quer misturar cadeiras diferentes na mesa da sala de jantar?</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/"><span style="font-size: small;">Quer misturar cadeiras diferentes na mesa da sala de jantar?</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2013/07/31/decoracao-mesa-cadeiras/"><span style="font-size: small;">Comer á mesa em cadeiras coloridas é mais divertido?</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2013/07/31/decoracao-mesa-cadeiras/"><span style="font-size: small;">Comer á mesa em cadeiras coloridas é mais divertido?</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2012/07/16/sala-jantar-pequena-cottage/"><span style="font-size: small;">Sala de jantar pequea no estilo cottage: dá para ter uma?</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/07/16/sala-jantar-pequena-cottage/"><span style="font-size: small;">Sala de jantar pequea no estilo cottage: dá para ter uma?</span></a>**
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Imagens: **_<a href="http://www.myparadissi.com/" target="_blank">my paradissi</
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

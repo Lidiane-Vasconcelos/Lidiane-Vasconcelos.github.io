@@ -1,7 +1,7 @@
 ---
-id: 3054
+
 title: 'Consumismo: você ficaria 365 dias sem compras?'
-date: 2011-09-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/23/consumismo/
@@ -17,7 +17,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 &nbsp;
 
 <p align="justify">
-  Enquanto discutíamos sobre o porquê de as pessoas agirem assim, mesmo que isso signifique consequências negativas, ela sugeriu que isso fosse uma pauta no Bicha Fêmea. Anotei a ideia, e fiquei pensando sobre como abordá-la por aqui… até conhecer a <strong>Marina</strong>!
+  Enquanto discutíamos sobre o porquê de as pessoas agirem assim, mesmo que isso signifique consequências negativas, ela sugeriu que isso fosse uma pauta no Bicha Fêmea. Anotei a ideia, e fiquei pensando sobre como abordá-la por aqui… até conhecer a **Marina**!
 </p>
 
 <!--more-->
@@ -33,17 +33,17 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 </p>
 
 <p align="justify">
-  Pois é, esta <strong>Psicóloga mineira</strong> resolveu experimentar passar um ano de sua vida sem compras… parece loucura? Ela encarou o desafio. E como se não bastasse, assumiu esse compromisso em público ao <em>blogar</em> sobre esse projeto pessoal no “<strong><a href="http://umanosemcompras.blogspot.com/" target="_blank">Um ano sem compras</a></strong>”, e por incrível que pareça, vem contagiando muita gente com sua atitude.
+  Pois é, esta **Psicóloga mineira** resolveu experimentar passar um ano de sua vida sem compras… parece loucura? Ela encarou o desafio. E como se não bastasse, assumiu esse compromisso em público ao <em>blogar</em> sobre esse projeto pessoal no “**<a href="http://umanosemcompras.blogspot.com/" target="_blank">Um ano sem compras</a>**”, e por incrível que pareça, vem contagiando muita gente com sua atitude.
 </p>
 
 <p align="justify">
-  A proposta da <strong>Marina</strong> tem feito bem ao seu bolso, é verdade, mas muito mais a sua cabeça. Ela falou sobre isso com exclusividade para o <strong>Bicha Fêmea</strong> e conta quais suas descobertas desde que decidiu adotar essa mudança de postura. Quer saber mais? Confere!
+  A proposta da **Marina** tem feito bem ao seu bolso, é verdade, mas muito mais a sua cabeça. Ela falou sobre isso com exclusividade para o **Bicha Fêmea** e conta quais suas descobertas desde que decidiu adotar essa mudança de postura. Quer saber mais? Confere!
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Não é novidade de que hoje em dia uma das ideias de sucesso na vida passa pela ostentação do que se tem, e quanto mais, melhor! As pessoas precisam consumir mais para serem felizes. Você decidiu ficar um ano sem comprar&#8230; sente-se mais feliz indo na mão inversa?</strong>
+  **Não é novidade de que hoje em dia uma das ideias de sucesso na vida passa pela ostentação do que se tem, e quanto mais, melhor! As pessoas precisam consumir mais para serem felizes. Você decidiu ficar um ano sem comprar&#8230; sente-se mais feliz indo na mão inversa?**
 </p>
 
 &nbsp;
@@ -55,7 +55,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 &nbsp;
 
 <p align="justify">
-  <strong>Há leitores de seu blog que estão aderindo a sua ideia e não estão comprando. Imaginava que conseguiria contagiar outras pessoas com algo tão inusitado?</strong>
+  **Há leitores de seu blog que estão aderindo a sua ideia e não estão comprando. Imaginava que conseguiria contagiar outras pessoas com algo tão inusitado?**
 </p>
 
 &nbsp;
@@ -73,7 +73,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 &nbsp;
 
 <p align="justify">
-  <strong>Já são mais de 100 dias sem comprar. O que tem mais valido a pena durante esse processo?</strong>
+  **Já são mais de 100 dias sem comprar. O que tem mais valido a pena durante esse processo?**
 </p>
 
 &nbsp;
@@ -106,13 +106,13 @@ Imagens: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg" alt="" width="200" height="200" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span></a></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg" alt="" width="200" height="200" /><br /> </a>**<a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg"><img class="alignnone size-full wp-image-5839" title="ser verde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2009/02/04/5-dicas-para-ser-verde-em-casa/"><span style="font-size: small;">5 dicas para ser “verde” e economizar nas finanças do lar.</span></a></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg"><img class="alignnone size-full wp-image-5839" title="ser verde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2009/02/04/5-dicas-para-ser-verde-em-casa/"><span style="font-size: small;">5 dicas para ser “verde” e economizar nas finanças do lar.</span></a>**
       </p>
     </td>
   </tr>

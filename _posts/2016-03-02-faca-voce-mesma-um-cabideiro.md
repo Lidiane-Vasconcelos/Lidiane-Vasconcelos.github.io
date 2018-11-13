@@ -1,7 +1,7 @@
 ---
-id: 3553
+
 title: Faça você mesma um cabideiro para a entrada de casa.
-date: 2016-03-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/02/faca-voce-mesma-um-cabideiro/
@@ -16,11 +16,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank"><strong>Área de entrada da casa: organização… desde o início.</strong></a>
+  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank">**Área de entrada da casa: organização… desde o início.**</a>
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank"><strong>Quer reformar uma cômoda e criar um espaço de organização na entrada da casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank">**Quer reformar uma cômoda e criar um espaço de organização na entrada da casa?**</a>
 </p>
 
 <p align="center">
@@ -48,11 +48,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank"><strong>Dicas de decoração para a área de entrada da casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank">**Dicas de decoração para a área de entrada da casa.**</a>
 </p>
 
 <p align="center">
@@ -64,11 +64,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank"><strong>Ideia para organização de objetos na área de entrada da casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank">**Ideia para organização de objetos na área de entrada da casa.**</a>
 </p>
 
 <p align="center">

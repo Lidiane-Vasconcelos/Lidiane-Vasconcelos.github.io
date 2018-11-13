@@ -1,7 +1,7 @@
 ---
-id: 3385
+
 title: Cansaço ou estresse? Que nada! São seus hormônios!
-date: 2015-01-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/12/cansaco-estresse-hormonios/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  Pensando em desvendar esse mistério e encontrar o melhor caminho para lidar com todo esse problemão que deixa nosso corpo piradinho, eu consultei a <strong>Dra. Paula Pires, de São Paulo, que é Médica Endocrinologista</strong>. Com ela eu aprendi que nosso corpo precisa estar com os hormônios equilibrados, nem mais nem menos que o necessário, caso contrário o organismo não vai mesmo funcionar perfeitamente. E o resultado, você já conhece na pele: uma enxurrada de reclamações femininas. Vamos entender muito mais sobre isso, juntas, e melhorar nossa saúde e bem-estar? Vem!
+  Pensando em desvendar esse mistério e encontrar o melhor caminho para lidar com todo esse problemão que deixa nosso corpo piradinho, eu consultei a **Dra. Paula Pires, de São Paulo, que é Médica Endocrinologista**. Com ela eu aprendi que nosso corpo precisa estar com os hormônios equilibrados, nem mais nem menos que o necessário, caso contrário o organismo não vai mesmo funcionar perfeitamente. E o resultado, você já conhece na pele: uma enxurrada de reclamações femininas. Vamos entender muito mais sobre isso, juntas, e melhorar nossa saúde e bem-estar? Vem!
 </p>
 
 <p align="center">
@@ -35,19 +35,19 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: large;">E aí… o que fazer?</span></strong>
+  **<span style="font-size: large;">E aí… o que fazer?</span>**
 </p>
 
 > <p align="justify">
->   <strong>Exercício físico e técnicas de relaxamento como yoga, por aumentar a serotonina e as beta endorfinas, podem melhorar os sintomas. Reposição de vitaminas, magnésio ou cálcio, utilizada por alguns médicos, não foram comprovadas e não devem ser utilizadas para este propósito pelo risco de efeitos colaterais. Em casos mais graves e com maior prejuízo do dia a dia da mulher, medicações específicas podem ser utilizadas. O uso de Anticoncepcional também pode ser considerado um coadjuvante em muitos casos. Porém apenas um médico familiarizado com este tipo de condição deve prescrever a medicação mais adequada e acompanhar a evolução do quadro. “</strong>
+>   **Exercício físico e técnicas de relaxamento como yoga, por aumentar a serotonina e as beta endorfinas, podem melhorar os sintomas. Reposição de vitaminas, magnésio ou cálcio, utilizada por alguns médicos, não foram comprovadas e não devem ser utilizadas para este propósito pelo risco de efeitos colaterais. Em casos mais graves e com maior prejuízo do dia a dia da mulher, medicações específicas podem ser utilizadas. O uso de Anticoncepcional também pode ser considerado um coadjuvante em muitos casos. Porém apenas um médico familiarizado com este tipo de condição deve prescrever a medicação mais adequada e acompanhar a evolução do quadro. “**
 > </p>
 
 <p align="justify">
-  <strong>Leia mais:</strong>
+  **Leia mais:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank">**O que a meditação pode fazer por seu bem-estar e saúde?**</a>
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Algumas mulheres desenvolvem uma resposta inadequada de seus vasos e capilares sanguíneos, e não conseguem reter adequadamente o líquido dentro deles, e como resultado podem chegar a ganhar em apenas um dia de 0,5-1,5 Kg! Em alguns casos extremos, ocorrem em resposta a esse defeito, alterações hormonais importantes, e já foram descritos casos em que mulheres chegaram a ganhar 5 Kg apenas de líquido.”</strong>
+>   **Algumas mulheres desenvolvem uma resposta inadequada de seus vasos e capilares sanguíneos, e não conseguem reter adequadamente o líquido dentro deles, e como resultado podem chegar a ganhar em apenas um dia de 0,5-1,5 Kg! Em alguns casos extremos, ocorrem em resposta a esse defeito, alterações hormonais importantes, e já foram descritos casos em que mulheres chegaram a ganhar 5 Kg apenas de líquido.”**
 > </p>
 
 <p align="justify">
@@ -71,27 +71,27 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Sendo assim, devemos aprender o seguinte:</span></strong>
+  **<span style="font-size: large;">Sendo assim, devemos aprender o seguinte:</span>**
 </p>
 
 > <p align="justify">
->   <strong>Não se deve fazer dietas loucas, super restritivas, com o intuito de perder rapidamente esses quilos ganhados pela retenção hídrica. Isso pode piorar o quadro ainda mais! Para que haja um benefício real a dieta deve ser acompanhada por um endocrinologista com conhecimento na área. </strong>
+>   **Não se deve fazer dietas loucas, super restritivas, com o intuito de perder rapidamente esses quilos ganhados pela retenção hídrica. Isso pode piorar o quadro ainda mais! Para que haja um benefício real a dieta deve ser acompanhada por um endocrinologista com conhecimento na área. **
 > </p>
 
 > <p align="justify">
->   <strong>Cuidado com o uso de diuréticos sem um acompanhamento médico! Esta prática pode levar a um maior ganho de peso! E se seu médico indicar a retirada do diurético, confie nele, e não se desespere se no começo você parecer mais inchada e com uns quilinhos a mais (o que chamamos de efeito rebote após a retirada do diurético). Os estudos demostram que para reverter o efeito da retenção hídrica pode ser necessário pelo menos três semanas de espera. </strong>
+>   **Cuidado com o uso de diuréticos sem um acompanhamento médico! Esta prática pode levar a um maior ganho de peso! E se seu médico indicar a retirada do diurético, confie nele, e não se desespere se no começo você parecer mais inchada e com uns quilinhos a mais (o que chamamos de efeito rebote após a retirada do diurético). Os estudos demostram que para reverter o efeito da retenção hídrica pode ser necessário pelo menos três semanas de espera. **
 > </p>
 
 > <p align="justify">
->   <strong>O uso crônico de um diurético chamado furosemida (utilizado por algumas pessoas para perder peso) pode levar a uma condição chamada de nefrocalcinose em que ocorre a deposição de cálcio nos rins, podendo levar até a casos de falência renal. Portanto, não use medicações sem um seguimento médico!”</strong>
+>   **O uso crônico de um diurético chamado furosemida (utilizado por algumas pessoas para perder peso) pode levar a uma condição chamada de nefrocalcinose em que ocorre a deposição de cálcio nos rins, podendo levar até a casos de falência renal. Portanto, não use medicações sem um seguimento médico!”**
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">E como tratamos essa condição?</span></strong>
+  **<span style="font-size: large;">E como tratamos essa condição?</span>**
 </p>
 
 > <p align="justify">
->   <strong>Primeiramente deve se reduzir o sal da dieta (exclua da sua rotina temperos prontos como caldo Knorr ou sazón, pois contém uma quantidade de sal desastrosa). Pare qualquer uso de diurético sem a avaliação de um endocrinologista.”</strong>
+>   **Primeiramente deve se reduzir o sal da dieta (exclua da sua rotina temperos prontos como caldo Knorr ou sazón, pois contém uma quantidade de sal desastrosa). Pare qualquer uso de diurético sem a avaliação de um endocrinologista.”**
 > </p>
 
 <p align="center">
@@ -115,11 +115,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Leia também:</strong>
+  **Leia também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/20/o-que-voce-faz-para-dormir-bem/" target="_blank"><strong>O que fazer para dormir bem?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/20/o-que-voce-faz-para-dormir-bem/" target="_blank">**O que fazer para dormir bem?**</a>
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ categories:
 </p>
 
 <p align="justify">
-  A <strong>Dra. Paula Pires </strong>pode ser encontrada pessoalmente em seu consultório, na cidade de São Paulo. Seu atendimento se dá mediante agendamento prévio, e você pode saber mais detalhes sobre como fazer isso <strong>visitando o site da médica</strong>. Além do mais, no site você encontra uma série de dicas importantes e que certamente farão diferença na sua qualidade de vida no dia a dia, dentre elas, inclusive, receitas saudáveis para serem incluídas em sua rotina alimentar. <a href="http://www.paulapiresendocrino.com.br/" target="_blank">Visite o site, clicando aqui</a>, e não perca a oportunidade de se manter informada pelo seu bem, e de sua família. Se joga!
+  A **Dra. Paula Pires **pode ser encontrada pessoalmente em seu consultório, na cidade de São Paulo. Seu atendimento se dá mediante agendamento prévio, e você pode saber mais detalhes sobre como fazer isso **visitando o site da médica**. Além do mais, no site você encontra uma série de dicas importantes e que certamente farão diferença na sua qualidade de vida no dia a dia, dentre elas, inclusive, receitas saudáveis para serem incluídas em sua rotina alimentar. <a href="http://www.paulapiresendocrino.com.br/" target="_blank">Visite o site, clicando aqui</a>, e não perca a oportunidade de se manter informada pelo seu bem, e de sua família. Se joga!
 </p>
 
 <p align="center">

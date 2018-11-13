@@ -1,7 +1,7 @@
 ---
-id: 3158
+
 title: A saúde da pele agradece o fitro solar, mesmo no inverno!
-date: 2012-07-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/23/saude-beleza-pele-inverno/
@@ -20,7 +20,7 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">O sol ainda pode ser nocivo em pleno Inverno?</span></strong>
+  **<span style="font-size: large;">O sol ainda pode ser nocivo em pleno Inverno?</span>**
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">É preciso usar filtro solar durante essa estação do ano?</span></strong>
+  **<span style="font-size: large;">É preciso usar filtro solar durante essa estação do ano?</span>**
 </p>
 
 &nbsp;
@@ -44,13 +44,13 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=8908" rel="attachment wp-att-8908"><img class="alignnone size-full wp-image-8908" title="SAUDE-BELEZA-PELE-INVERNO-FILTRO-SOLAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/SAUDE-BELEZA-PELE-INVERNO-FILTRO-SOLAR.png" alt="" width="399" height="249" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=8908" rel="attachment wp-att-8908"><img class="alignnone size-full wp-image-8908" title="SAUDE-BELEZA-PELE-INVERNO-FILTRO-SOLAR" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/SAUDE-BELEZA-PELE-INVERNO-FILTRO-SOLAR.png" alt="" width="399" height="249" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Os filtros, nessa época do ano, podem ter um fator de proteção menor?</span></strong>
+  **<span style="font-size: large;">Os filtros, nessa época do ano, podem ter um fator de proteção menor?</span>**
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Qual o fator de proteção ideal para quem tem pele mais clara?</span></strong>
+  **<span style="font-size: large;">Qual o fator de proteção ideal para quem tem pele mais clara?</span>**
 </p>
 
 &nbsp;
@@ -74,7 +74,7 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">E as que têm pele mais escura?</span></strong>
+  **<span style="font-size: large;">E as que têm pele mais escura?</span>**
 </p>
 
 &nbsp;
@@ -90,26 +90,26 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
 </p>
 
 <p align="center">
-  <span style="font-size: large;">Quer saber muito mais sobre a <strong>Dra. Fernanda Aguirre</strong>, seu trabalho, seus livros, ver seus vídeos ou acompanhar todas as suas atualizações no blog? Não perca tempo, bonita! <strong><a href="http://dicasdepele.blogspot.com.br/" target="_blank">Clique aqui</a></strong> e informe-se!</span>
+  <span style="font-size: large;">Quer saber muito mais sobre a **Dra. Fernanda Aguirre**, seu trabalho, seus livros, ver seus vídeos ou acompanhar todas as suas atualizações no blog? Não perca tempo, bonita! **<a href="http://dicasdepele.blogspot.com.br/" target="_blank">Clique aqui</a>** e informe-se!</span>
 </p>
 
 <p align="center">
   <p align="center">
     <p align="center">
-      <strong><span style="font-size: x-large;">Muito mais para você!!!</span></strong>
+      **<span style="font-size: x-large;">Muito mais para você!!!</span>**
     </p>
     
     <table width="600" border="0" cellspacing="0" cellpadding="2">
       <tr>
         <td valign="top" width="300">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/2011/11/14/filtros-solares/saude-e-beleza-da-pele200/" rel="attachment wp-att-6555"><img class="alignnone size-full wp-image-6555" title="saúde e beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/06/29/saude-beleza-da-pele/"><strong><span style="font-size: medium;"><br /> Saúde da pele: é exagero usar tantos tipos de sabonetes?</span></strong></a>
+            <a href="http://www.trololodemulher.com.br/2011/11/14/filtros-solares/saude-e-beleza-da-pele200/" rel="attachment wp-att-6555"><img class="alignnone size-full wp-image-6555" title="saúde e beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/06/29/saude-beleza-da-pele/">**<span style="font-size: medium;"><br /> Saúde da pele: é exagero usar tantos tipos de sabonetes?</span>**</a>
           </p>
         </td>
         
         <td valign="top" width="300">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/2011/11/14/filtros-solares/maquiagem-saude-da-pele200/" rel="attachment wp-att-6499"><img class="alignnone size-full wp-image-6499" title="maquiagem saúde da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/08/maquiagem-saude-pele/"><strong><span style="font-size: medium;">Maquiagem: quando ela vira assunto de saúde?</span></strong></a>
+            <a href="http://www.trololodemulher.com.br/2011/11/14/filtros-solares/maquiagem-saude-da-pele200/" rel="attachment wp-att-6499"><img class="alignnone size-full wp-image-6499" title="maquiagem saúde da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/maquiagem-saude-da-pele200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/08/maquiagem-saude-pele/">**<span style="font-size: medium;">Maquiagem: quando ela vira assunto de saúde?</span>**</a>
           </p>
         </td>
       </tr>
@@ -117,21 +117,21 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
       <tr>
         <td valign="top" width="300">
           <p align="center">
-            <strong><a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a></strong>
+            **<a href="http://www.trololodemulher.com.br/corpo/maquiagem-sombra200/" rel="attachment wp-att-8811"><img class="alignnone size-full wp-image-8811" title="MAQUIAGEM - SOMBRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/MAQUIAGEM-SOMBRA200.jpg" alt="" width="200" height="200" /></a>**
           </p>
           
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/2012/07/02/maquiagem-sombra-dicas/"><strong><span style="font-size: medium;">Qual sombra você usa e se sente uma bicha fêmea linda e iluminada?</span></strong></a>
+            <a href="http://www.trololodemulher.com.br/2012/07/02/maquiagem-sombra-dicas/">**<span style="font-size: medium;">Qual sombra você usa e se sente uma bicha fêmea linda e iluminada?</span>**</a>
           </p>
         </td>
         
         <td valign="top" width="300">
           <p align="center">
-            <strong><a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a></strong>
+            **<a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a>**
           </p>
           
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><strong><span style="font-size: medium;">Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></strong></a>
+            <a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">**<span style="font-size: medium;">Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span>**</a>
           </p>
         </td>
       </tr>
@@ -139,17 +139,17 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
       <tr>
         <td valign="top" width="300">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/beleza200-2/" rel="attachment wp-att-6823"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/11/inverno-beleza/"><strong><span style="font-size: medium;">Para ficar mais bonita no inverno: beleza á prova de frio!</span></strong></a>
+            <a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/beleza200-2/" rel="attachment wp-att-6823"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/11/inverno-beleza/">**<span style="font-size: medium;">Para ficar mais bonita no inverno: beleza á prova de frio!</span>**</a>
           </p>
         </td>
         
         <td valign="top" width="300">
           <p align="center">
-            <strong><a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a></strong>
+            **<a href="http://www.trololodemulher.com.br/corpo/mascara-para-cilios200/" rel="attachment wp-att-8629"><img class="alignnone size-full wp-image-8629" title="MASCARA PARA CILIOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/MASCARA-PARA-CILIOS200.jpg" alt="" width="200" height="200" /></a>**
           </p>
           
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/"><strong><span style="font-size: medium;">Máscara para cílios… beleza e olhos irresistíveis!</span></strong></a>
+            <a href="http://www.trololodemulher.com.br/2012/03/26/mascara-para-cilios/">**<span style="font-size: medium;">Máscara para cílios… beleza e olhos irresistíveis!</span>**</a>
           </p>
         </td>
       </tr>
@@ -164,7 +164,7 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
     </p>
     
     <p align="center">
-      <strong><span style="font-size: small;">Redes Sociais</span></strong>
+      **<span style="font-size: small;">Redes Sociais</span>**
     </p>
     
     <p>
@@ -192,9 +192,9 @@ Certeza que muitas de nós acabam deixando o filtro solar de lado nesta época d
     </p>
     
     <p align="center">
-      <strong>Vamos manter contato?</strong>
+      **Vamos manter contato?**
     </p>
     
     <p align="center">
-      <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+      **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
     </p>

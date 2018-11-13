@@ -1,7 +1,7 @@
 ---
-id: 3338
+
 title: 'Pão de beterraba com chia: fácil, bonito de viver, e nem precisa sovar!'
-date: 2014-09-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/03/pao-de-beterraba/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Como fazer, Carol?</span></strong>
+  **<span style="font-size: large;">Como fazer, Carol?</span>**
 </p>
 
 > <p align="justify">
@@ -86,15 +86,15 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage (no molho caseiro)**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank"><strong>Arroz integral (fora do comum) + filé de frango (no molho delícia)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank">**Arroz integral (fora do comum) + filé de frango (no molho delícia)**</a>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

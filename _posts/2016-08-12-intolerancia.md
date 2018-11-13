@@ -1,7 +1,7 @@
 ---
-id: 3642
+
 title: Como lidar com a intolerância, nossa e dos outros?
-date: 2016-08-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/12/intolerancia/
@@ -10,11 +10,11 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  Como anda seu nível de <strong>intolerância</strong>? É duro lidar com pessoas incapazes de esperar ou fazer exercícios mínimos de empatia, não é verdade? E a gente mesmo, por uma razão ou outra, pode passar <em>batida</em> e deixar de agir de maneira positiva diante dos outros, o que prejudica a boa convivência social. Estamos muito intolerantes, e todos perdemos com isso! Essa foi a constatação de uma de nossas leitoras queridas, a <strong>Raphaele Santiago</strong>, de Recife.
+  Como anda seu nível de **intolerância**? É duro lidar com pessoas incapazes de esperar ou fazer exercícios mínimos de empatia, não é verdade? E a gente mesmo, por uma razão ou outra, pode passar <em>batida</em> e deixar de agir de maneira positiva diante dos outros, o que prejudica a boa convivência social. Estamos muito intolerantes, e todos perdemos com isso! Essa foi a constatação de uma de nossas leitoras queridas, a **Raphaele Santiago**, de Recife.
 </p>
 
 <p align="justify">
-  Eu concordo com Rapha, e penso que a tolerância anda em baixa no convívio das pessoas. Se houver mais amadurecimento nesse sentido, vamos ser bem mais felizes. Todos os dias temos exemplos dessa falta, e isso torna o convívio entre as pessoas muito difícil, e as relações bastante fragilizadas. As pessoas criticam as outras gratuitamente, porque não sabem ver o lado bom que há em toda situação. Coisas pequenas no dia a dia, como por exemplo, deixar de respeitar uma fila, geram atritos e desconforto. O que Raphaele questiona é: <strong>como resgatar e exercitar a tolerância no dia a dia? </strong>Quem nos ajuda a chegar a uma solução para este dilema do cotidiano é a <strong>Psicóloga Elaine Sibinelli, de Campinas – SP</strong>. Acompanhe:
+  Eu concordo com Rapha, e penso que a tolerância anda em baixa no convívio das pessoas. Se houver mais amadurecimento nesse sentido, vamos ser bem mais felizes. Todos os dias temos exemplos dessa falta, e isso torna o convívio entre as pessoas muito difícil, e as relações bastante fragilizadas. As pessoas criticam as outras gratuitamente, porque não sabem ver o lado bom que há em toda situação. Coisas pequenas no dia a dia, como por exemplo, deixar de respeitar uma fila, geram atritos e desconforto. O que Raphaele questiona é: **como resgatar e exercitar a tolerância no dia a dia? **Quem nos ajuda a chegar a uma solução para este dilema do cotidiano é a **Psicóloga Elaine Sibinelli, de Campinas – SP**. Acompanhe:
 </p>
 
 <p align="center">
@@ -66,19 +66,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias de Elaine:</strong>
+  **Mais consultorias de Elaine:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank"><strong>Autoimagem feminina: por que mulheres tão insatisfeitas?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/11/autoimagem-feminina/" target="_blank">**Autoimagem feminina: por que mulheres tão insatisfeitas?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank"><strong>Entenda por que é difícil o relacionamento com as pessoas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank">**Entenda por que é difícil o relacionamento com as pessoas.**</a>
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem **página do Facebook**, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3369
+
 title: Cabelos arrepiados com frizz… o que fazer?
-date: 2014-11-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/10/cabelos-arrepiados-frizz/
@@ -14,11 +14,11 @@ categories:
 </p>
 
 <p align="justify">
-  Pensando nisso, busquei as informações básicas e necessárias pra gente lidar melhor com o<em> frizz</em> nosso de cada dia, e a cabeleira agradece. A <strong>Fabiana Miranda, que é hair stylist e nossa consultora por aqui</strong>, nos muniu de tudo o que precisamos saber para acalmar esses fiozinhos indomados, e fazermos as pazes, de uma vez por todas, com o espelho. Vem comigo… vamos aprender juntas?
+  Pensando nisso, busquei as informações básicas e necessárias pra gente lidar melhor com o<em> frizz</em> nosso de cada dia, e a cabeleira agradece. A **Fabiana Miranda, que é hair stylist e nossa consultora por aqui**, nos muniu de tudo o que precisamos saber para acalmar esses fiozinhos indomados, e fazermos as pazes, de uma vez por todas, com o espelho. Vem comigo… vamos aprender juntas?
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que é o frizz?</strong>
+  **Trololó de Mulher >>> O que é o frizz?**
 </p>
 
 > <p align="justify">
@@ -26,7 +26,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>TM >>>  O frizz aparece em todos os tipos de cabelos?</strong>
+  **TM >>>  O frizz aparece em todos os tipos de cabelos?**
 </p>
 
 > <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM >>> O que provoca o frizz?</strong>
+  **TM >>> O que provoca o frizz?**
 </p>
 
 > <p align="justify">
@@ -46,7 +46,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>TM >>> Quais cuidados ajudam a prevenir e combater o problema?</strong>
+  **TM >>> Quais cuidados ajudam a prevenir e combater o problema?**
 </p>
 
 > <p align="justify">
@@ -54,7 +54,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>TM >>> É verdade que preferir pentes de madeira ajudam a evitar o problema?</strong>
+  **TM >>> É verdade que preferir pentes de madeira ajudam a evitar o problema?**
 </p>
 
 > <p align="justify">
@@ -66,15 +66,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja mais consultorias da Fabiana:</strong>
+  **Veja mais consultorias da Fabiana:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/" target="_blank"><strong>Cabelos: saiba 5 verdades sobre saúde e beleza.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/" target="_blank">**Cabelos: saiba 5 verdades sobre saúde e beleza.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank"><strong>Verão + sol + mar + piscina = você descabelada. Xiii… e agora?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank">**Verão + sol + mar + piscina = você descabelada. Xiii… e agora?**</a>
 </p>
 
 <p align="justify">

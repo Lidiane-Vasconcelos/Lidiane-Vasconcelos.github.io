@@ -1,7 +1,7 @@
 ---
-id: 3827
+
 title: Bolo de cenoura e abacaxi inspirado nos natais em família.
-date: 2017-11-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/14/bolo-de-cenoura/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Você já vê algumas luzinhas piscando pela cidade? Eu, sim, e já sinto o clima de Natal se aproximando… na verdade não decorei a casa ainda, mais tudo o que é ligado às comemorações já povoam minha cabecinha, inclusive a ceia. Hoje a partilha de Tânia dá água na boca, e certamente seria uma delícia bem vinda na noite de Natal: <strong>bolo de cenoura</strong> e abacaxi. Repara só o passo a passo, e reproduza em seu lar.
+  Você já vê algumas luzinhas piscando pela cidade? Eu, sim, e já sinto o clima de Natal se aproximando… na verdade não decorei a casa ainda, mais tudo o que é ligado às comemorações já povoam minha cabecinha, inclusive a ceia. Hoje a partilha de Tânia dá água na boca, e certamente seria uma delícia bem vinda na noite de Natal: **bolo de cenoura** e abacaxi. Repara só o passo a passo, e reproduza em seu lar.
 </p>
 
 <p align="center">
@@ -100,11 +100,11 @@ categories:
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/10/24/sorvete-de-banana/" target="_blank"><strong>Sorvete de banana: receita vapt-vupt</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/10/24/sorvete-de-banana/" target="_blank">**Sorvete de banana: receita vapt-vupt**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank"><strong>Bolo de lavanda com perfume e bossa vintage</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank">**Bolo de lavanda com perfume e bossa vintage**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank"><strong>Receita de salada de figo: com história e afeto</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank">**Receita de salada de figo: com história e afeto**</a>
 
 <p align="justify">
   O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!

@@ -1,7 +1,7 @@
 ---
-id: 2897
+
 title: 'Decoração de banheiro com quadro cenário: novidade no Mercado de Artes.'
-date: 2010-10-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/29/decoracao-banheiro-quadro/
@@ -15,7 +15,7 @@ E por que isso tem sido tão comentado e visto por aqui, estou feliz por mostrar
 
 <!--more-->
 
-Quem já adquiriu um <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/" target="_blank">quadro do <strong><em>Mercado de Artes</em></strong> assim, com predominância do azul</a>, já <a href="http://www.trololodemulher.com.br/loja/opiniao-2/" target="_blank">disse e atestou o quanto eles são mimosos e o resultado legal que dá ao ambiente</a>. Agora imagine que o quadro tenha nuances lilás. Imaginou? Feminilidade pouca é bobagem, e é exatamente um desses que está a caminho para mais uma cliente da loja virtual. Olha só:
+Quem já adquiriu um <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/" target="_blank">quadro do **<em>Mercado de Artes</em>** assim, com predominância do azul</a>, já <a href="http://www.trololodemulher.com.br/loja/opiniao-2/" target="_blank">disse e atestou o quanto eles são mimosos e o resultado legal que dá ao ambiente</a>. Agora imagine que o quadro tenha nuances lilás. Imaginou? Feminilidade pouca é bobagem, e é exatamente um desses que está a caminho para mais uma cliente da loja virtual. Olha só:
 
 <p style="text-align: center;">
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenaŕio-Banheiro-Lilás.jpg"><img class="alignnone size-full wp-image-5355" title="Quadro Cenaŕio Banheiro Lilás" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenaŕio-Banheiro-Lilás.jpg" alt="" width="648" height="432" /></a>
@@ -38,9 +38,9 @@ O quadro está disponível para encomendas no **_Mercado de Artes_**, e se você
 **_[Banheiro, banheiros e mais banheiros.](http://www.trololodemulher.com.br/2009/03/02/banheiros/)_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

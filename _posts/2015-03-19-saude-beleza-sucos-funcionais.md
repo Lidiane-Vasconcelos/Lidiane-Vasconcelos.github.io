@@ -1,7 +1,7 @@
 ---
-id: 3411
+
 title: 'Saúde e beleza no copo: sucos funcionais'
-date: 2015-03-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/19/saude-beleza-sucos-funcionais/
@@ -15,15 +15,15 @@ categories:
 </p>
 
 <p align="justify">
-  Neste post você poderá tirar várias dúvidas que cercam o universo dos sucos funcionais, todas tiradas pela <strong>Dra. Kilza Koch, Nutricionista de Ipatinga – MG</strong>. Com ela nós vamos entender por que esses queridos viraram item de alimentação básica no mundo <em>fitness</em>, e ainda aprender como tirar melhor proveito no seu consumo. <em>´Bora</em>?
+  Neste post você poderá tirar várias dúvidas que cercam o universo dos sucos funcionais, todas tiradas pela **Dra. Kilza Koch, Nutricionista de Ipatinga – MG**. Com ela nós vamos entender por que esses queridos viraram item de alimentação básica no mundo <em>fitness</em>, e ainda aprender como tirar melhor proveito no seu consumo. <em>´Bora</em>?
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://ow.ly/I6ulN" target="_blank"><strong>Comilanças x suco detox</strong></a>
+  <a href="http://ow.ly/I6ulN" target="_blank">**Comilanças x suco detox**</a>
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Os sucos funcionais não devem substituir uma refeição, pois um cardápio saudável seria aquele que contempla todos os macro e micronutrientes, ou seja, carboidratos, proteínas, gorduras, vitaminas, minerais, fibras e água. Lembrando que o ideal é procurar um nutricionista para montar um plano alimentar personalizado conforme seus objetivos e necessidades nutricionais.”</strong>
+>   **Os sucos funcionais não devem substituir uma refeição, pois um cardápio saudável seria aquele que contempla todos os macro e micronutrientes, ou seja, carboidratos, proteínas, gorduras, vitaminas, minerais, fibras e água. Lembrando que o ideal é procurar um nutricionista para montar um plano alimentar personalizado conforme seus objetivos e necessidades nutricionais.”**
 > </p>
 
 <p align="center">
@@ -43,27 +43,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Existe uma hora do dia mais apropriada para consumir esse tipo de suco?</strong>
+  **Trololó de Mulher >>> Existe uma hora do dia mais apropriada para consumir esse tipo de suco?**
 </p>
 
 > <p align="justify">
->   <strong>Os sucos funcionais podem ser consumidos em jejum ou no café da manhã, ou lanche da tarde. Vai depender do objetivo e das condições do preparo desse suco para o cliente. Agora no Verão, muitos clientes estão ingerindo os sucos funcionais pela manhã em jejum, ou antes do exercício físico.”</strong>
+>   **Os sucos funcionais podem ser consumidos em jejum ou no café da manhã, ou lanche da tarde. Vai depender do objetivo e das condições do preparo desse suco para o cliente. Agora no Verão, muitos clientes estão ingerindo os sucos funcionais pela manhã em jejum, ou antes do exercício físico.”**
 > </p>
 
 <p align="justify">
-  <strong>TMulher >>> Qual sua receita para o suco verde, o mais famoso de todos?</strong>
+  **TMulher >>> Qual sua receita para o suco verde, o mais famoso de todos?**
 </p>
 
 > <p align="justify">
->   <strong>A receita favorita é 1 fatia de abacaxi + 1cm de gengibre + 1 folha de couve + 250ml de água. Bater tudo no liquidificador e tomar em jejum. Esse suco é digestivo, termogênico e rico em clorofila. A contra-indicação seria o gengibre que não deve ser usado por pessoas com hipertensão arterial ou gastrite.”</strong>
+>   **A receita favorita é 1 fatia de abacaxi + 1cm de gengibre + 1 folha de couve + 250ml de água. Bater tudo no liquidificador e tomar em jejum. Esse suco é digestivo, termogênico e rico em clorofila. A contra-indicação seria o gengibre que não deve ser usado por pessoas com hipertensão arterial ou gastrite.”**
 > </p>
 
 <p align="justify">
-  <strong>TM >>> Mais alguma receita?</strong>
+  **TM >>> Mais alguma receita?**
 </p>
 
 > <p align="justify">
->   <strong>Um outro suco funcional e detox seria o suco de 01 laranja + 250ml de água + 3 buquês de brócolis. Bater tudo no liquidificador, coar e tomar em jejum por 7 dias.”</strong>
+>   **Um outro suco funcional e detox seria o suco de 01 laranja + 250ml de água + 3 buquês de brócolis. Bater tudo no liquidificador, coar e tomar em jejum por 7 dias.”**
 > </p>
 
 <p align="center">
@@ -71,19 +71,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Dra. Kilza Koch:</strong>
+  **Mais consultorias da Dra. Kilza Koch:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/" target="_blank"><strong>Colesterol alto? Invista na reeducação alimentar!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/" target="_blank">**Colesterol alto? Invista na reeducação alimentar!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/02/02/dieta/" target="_blank"><strong>Erros comuns que podem estragar a sua dieta.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/02/02/dieta/" target="_blank">**Erros comuns que podem estragar a sua dieta.**</a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Kilza Koch</strong>, como você percebeu, atende pessoalmente em seu consultório na cidade de <strong>Ipatinga &#8211; MG</strong>. Você pode ficar por dentro dos serviços oferecidos por ela, saber mais detalhes sobre uma consulta e até depoimentos visitantdo o seu site. <a href="http://kilzakoch.com.br/" target="_blank">Clique aqui</a> e fique por dentro de tudo: endereço, telefone e tudo mais que você precisar para ir até a Dra. Kilza. Além do mais, ela ainda dispõe de uma <strong>página no Facebook: Dicas da Nutricionista Kilza Koch.</strong> <a href="https://www.facebook.com/dicasdanutricionistakilzakoch/timeline" target="_blank">Clique aqui</a>, curta (pois eu já curti!) e acompanhe suas dicas valiosíssimas pra quem quer manter o corpo bonito e saudável através da alimentação. Se joga!
+  A **Dra. Kilza Koch**, como você percebeu, atende pessoalmente em seu consultório na cidade de **Ipatinga &#8211; MG**. Você pode ficar por dentro dos serviços oferecidos por ela, saber mais detalhes sobre uma consulta e até depoimentos visitantdo o seu site. <a href="http://kilzakoch.com.br/" target="_blank">Clique aqui</a> e fique por dentro de tudo: endereço, telefone e tudo mais que você precisar para ir até a Dra. Kilza. Além do mais, ela ainda dispõe de uma **página no Facebook: Dicas da Nutricionista Kilza Koch.** <a href="https://www.facebook.com/dicasdanutricionistakilzakoch/timeline" target="_blank">Clique aqui</a>, curta (pois eu já curti!) e acompanhe suas dicas valiosíssimas pra quem quer manter o corpo bonito e saudável através da alimentação. Se joga!
 </p>
 
 <p align="center">

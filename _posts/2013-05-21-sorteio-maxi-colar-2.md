@@ -1,7 +1,7 @@
 ---
-id: 3229
+
 title: Será que dessa vez o colar vai para a casa de alguém?
-date: 2013-05-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/21/sorteio-maxi-colar-2/
@@ -14,7 +14,7 @@ Sim, porque no **[primeiro resultado de sorteio a Edivane Lima não apareceu](ht
 &nbsp;
 
 <p align="justify">
-  O nome da segunda sorteada está no post, logo abaixo, e ficarei no aguardo para que ela dê sinal de vida até o dia 24 de Maio. Se não houver esse comentário da ganhadora até essa data, farei um novo <strong><a href="http://www.trololodemulher.com.br/2013/05/07/sorteio-maxi-colar/">sorteio do colar</a></strong> entre as participantes.<em> Ufa</em>! Será que dessa vez sai? Enquanto isso, vamos aguardar as cenas dos próximos capítulos?
+  O nome da segunda sorteada está no post, logo abaixo, e ficarei no aguardo para que ela dê sinal de vida até o dia 24 de Maio. Se não houver esse comentário da ganhadora até essa data, farei um novo **<a href="http://www.trololodemulher.com.br/2013/05/07/sorteio-maxi-colar/">sorteio do colar</a>** entre as participantes.<em> Ufa</em>! Será que dessa vez sai? Enquanto isso, vamos aguardar as cenas dos próximos capítulos?
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ Sim, porque no **[primeiro resultado de sorteio a Edivane Lima não apareceu](ht
 &nbsp;
 
 <p align="justify">
-  A ganhadora do colar é a <strong><span style="font-size: medium;">Kathia Maria Medeiros</span></strong>.
+  A ganhadora do colar é a **<span style="font-size: medium;">Kathia Maria Medeiros</span>**.
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ Sim, porque no **[primeiro resultado de sorteio a Edivane Lima não apareceu](ht
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -68,9 +68,9 @@ Sim, porque no **[primeiro resultado de sorteio a Edivane Lima não apareceu](ht
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

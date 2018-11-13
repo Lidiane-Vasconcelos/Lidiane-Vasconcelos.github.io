@@ -1,7 +1,7 @@
 ---
-id: 3340
+
 title: As voltas que a vida dá nos levam a lugares inimagináveis!
-date: 2014-09-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/08/vida-lugares/
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  Agora, imagine você, se a vida te leva para longe do seu porto seguro, família, amigos… país?! Já pensou que <em>vuco-vuco</em> isso causaria na sua vida? Veja bem… e se eu te dissesse que o país para onde você mudaria é a Finlândia? É, bonita, isso mesmo que você leu: Finlândia!!! Frio, neve, cultura e língua diferentes. Diante de uma mudança dessas, a minha virou fichinha de fliperama (ai, como sou <em>véia</em>!). Pois temos entre nós uma bicha fêmea que, oh: é arretada de forte e corajosa. <strong>Adriana Minhoto</strong>, poderosa que só ela, topou essa aventura com o marido, e vai passar 2 anos nessa terra pouco conhecida para nós, brasileiros.
+  Agora, imagine você, se a vida te leva para longe do seu porto seguro, família, amigos… país?! Já pensou que <em>vuco-vuco</em> isso causaria na sua vida? Veja bem… e se eu te dissesse que o país para onde você mudaria é a Finlândia? É, bonita, isso mesmo que você leu: Finlândia!!! Frio, neve, cultura e língua diferentes. Diante de uma mudança dessas, a minha virou fichinha de fliperama (ai, como sou <em>véia</em>!). Pois temos entre nós uma bicha fêmea que, oh: é arretada de forte e corajosa. **Adriana Minhoto**, poderosa que só ela, topou essa aventura com o marido, e vai passar 2 anos nessa terra pouco conhecida para nós, brasileiros.
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em><span style="font-size: large;">“Tínhamos muito em comum e sempre nos demos muito bem. Porém ele sempre sonhou em estudar fora do país e eu nunca imaginei em ficar fora do Brasil, longe dos meus pais.”</span></em></strong>
+  **<em><span style="font-size: large;">“Tínhamos muito em comum e sempre nos demos muito bem. Porém ele sempre sonhou em estudar fora do país e eu nunca imaginei em ficar fora do Brasil, longe dos meus pais.”</span></em>**
 </p>
 
 > <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em>“…eu aceitei casar com ele e com isso acabei “comprando” o sonho dele de estudar fora! “</em></strong>
+  **<em>“…eu aceitei casar com ele e com isso acabei “comprando” o sonho dele de estudar fora! “</em>**
 </p>
 
 > <p align="justify">
@@ -72,7 +72,7 @@ categories:
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
 </p>
 
 <p align="center">

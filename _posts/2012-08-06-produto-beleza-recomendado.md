@@ -1,7 +1,7 @@
 ---
-id: 3166
+
 title: Alguma mulher resiste a uma nova aquisição de produto de beleza?
-date: 2012-08-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/06/produto-beleza-recomendado/
@@ -14,7 +14,7 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 <p align="justify">
-  Quando a gente compra algo que foi recomendado por alguém que entende dos problemas e desejos da gente, a aquisição é sempre feita de forma mais segura, <em>hã</em>? Sendo assim, vou te contar qual foi minha <strong>última aquisição de beleza</strong> como uma dica para você. Aliás, a minha e a de outras bichas fêmeas navegantes também. Confere!
+  Quando a gente compra algo que foi recomendado por alguém que entende dos problemas e desejos da gente, a aquisição é sempre feita de forma mais segura, <em>hã</em>? Sendo assim, vou te contar qual foi minha **última aquisição de beleza** como uma dica para você. Aliás, a minha e a de outras bichas fêmeas navegantes também. Confere!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 <p align="justify">
-  Minha última aquisição foi a <strong>mousse de limpeza facial da linha Active</strong>, para todos os tipos de pele, do <strong>Boticário</strong>. Eu ganhei uma higienização de pele numa das unidades aqui pertinho de casa e, naquele momento, pude experimentar o produto. Eu amei! Eu recomendo <em>comtodaforçadomeuser!!!</em>. Tem cheirinho dos bons, deixa a pele com toque gostoso e limpinha.
+  Minha última aquisição foi a **mousse de limpeza facial da linha Active**, para todos os tipos de pele, do **Boticário**. Eu ganhei uma higienização de pele numa das unidades aqui pertinho de casa e, naquele momento, pude experimentar o produto. Eu amei! Eu recomendo <em>comtodaforçadomeuser!!!</em>. Tem cheirinho dos bons, deixa a pele com toque gostoso e limpinha.
 </p>
 
 <p align="justify">
@@ -36,32 +36,32 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidiane! No rosto só uso os produtos da <strong>Adcos</strong>. Vale a pena pagar mais, sabe como é, depois dos 50 não se pode bobear… rsrs… Adoro a linha do <strong>REPAIR COMPLEX</strong>. O último que comprei foi o <strong>Lift densificador</strong>. É fantástico!”</em> <strong>Silvana Mello | </strong><a href="http://in-vestidajoiasebijoux.blogspot.com.br/" target="_blank"><strong>In Vestida</strong></a>
+>   “<em>Oi, Lidiane! No rosto só uso os produtos da **Adcos**. Vale a pena pagar mais, sabe como é, depois dos 50 não se pode bobear… rsrs… Adoro a linha do **REPAIR COMPLEX**. O último que comprei foi o **Lift densificador**. É fantástico!”</em> **Silvana Mello | **<a href="http://in-vestidajoiasebijoux.blogspot.com.br/" target="_blank">**In Vestida**</a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidi! Minha última aquisição de beleza foi um produto de farmácia bem baratinho mas que tem mil e uma utilidades. Depois de ler tantas indicações na internet comprei uma <strong>pomada Bepantol</strong> que tem feito milagres para as áreas mais ressecadas do corpo e para olheiras também! Estou gostando bastante dos resultados e recomendo!”</em> <strong>Lets | </strong><a href="http://puxadinhodalets.blogspot.com.br/" target="_blank"><strong>Puxadinho da Lets</strong></a>
+>   “<em>Oi, Lidi! Minha última aquisição de beleza foi um produto de farmácia bem baratinho mas que tem mil e uma utilidades. Depois de ler tantas indicações na internet comprei uma **pomada Bepantol** que tem feito milagres para as áreas mais ressecadas do corpo e para olheiras também! Estou gostando bastante dos resultados e recomendo!”</em> **Lets | **<a href="http://puxadinhodalets.blogspot.com.br/" target="_blank">**Puxadinho da Lets**</a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><strong><span style="font-size: medium;"><br /> Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">**<span style="font-size: medium;"><br /> Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/beleza200-2/" rel="attachment wp-att-6823"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/11/inverno-beleza/"><strong><span style="font-size: medium;">Para ficar mais bonita no inverno: beleza á prova de frio!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/beleza200-2/" rel="attachment wp-att-6823"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/11/inverno-beleza/">**<span style="font-size: medium;">Para ficar mais bonita no inverno: beleza á prova de frio!</span>**</a>
       </p>
     </td>
   </tr>
@@ -69,13 +69,13 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: medium;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/">**<span style="font-size: medium;"><br /> Mel: bom para a saúde, melhor ainda para sua beleza…</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/esfoliacao-da-pele200/" rel="attachment wp-att-8483"><img class="alignnone size-full wp-image-8483" title="ESFOLIACAO DA PELE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/"><strong><span style="font-size: medium;"><br /> Você costuma promover a renovação da pele com a esfoliação?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/esfoliacao-da-pele200/" rel="attachment wp-att-8483"><img class="alignnone size-full wp-image-8483" title="ESFOLIACAO DA PELE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/01/23/pele-esfoliacao/">**<span style="font-size: medium;"><br /> Você costuma promover a renovação da pele com a esfoliação?</span>**</a>
       </p>
     </td>
   </tr>
@@ -83,17 +83,17 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/"><strong><span style="font-size: medium;">Beleza… só no trololó: segredo das blogueiras</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/">**<span style="font-size: medium;">Beleza… só no trololó: segredo das blogueiras</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a> ****
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><strong><span style="font-size: medium;">Produtinhos de beleza recomendados pela blogueira Pauline Costa</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/">**<span style="font-size: medium;">Produtinhos de beleza recomendados pela blogueira Pauline Costa</span>**</a>
       </p>
     </td>
   </tr>
@@ -110,7 +110,7 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -134,9 +134,9 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

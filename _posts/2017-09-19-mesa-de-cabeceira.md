@@ -1,7 +1,7 @@
 ---
-id: 3801
+
 title: Como decorar sua mesa de cabeceira?
-date: 2017-09-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/19/mesa-de-cabeceira/
@@ -10,7 +10,7 @@ categories:
   - Quarto
 ---
 <p align="justify">
-  Isso na verdade depende do seu estilo, viu? É preciso pensar no que você gosta de ter à mão na sua <strong>mesa de cabeceira</strong>, o que te inspira e agrega valor ao seu dia a dia. O que muitas vezes acontece é ficamos meio perdidas sobre o que gostamos de verdade, não é? Nessas horas é bem importante olhar imagens e usá-las como referência, para que possamos identificar o que tem a ver conosco, com nosso jeito de viver. No final das contas, isso vai nos nortear sobre o que escolher pra deixar esse cantinho do quarto lindo de viver, porque irá traduzir nossos gostos e necessidades…
+  Isso na verdade depende do seu estilo, viu? É preciso pensar no que você gosta de ter à mão na sua **mesa de cabeceira**, o que te inspira e agrega valor ao seu dia a dia. O que muitas vezes acontece é ficamos meio perdidas sobre o que gostamos de verdade, não é? Nessas horas é bem importante olhar imagens e usá-las como referência, para que possamos identificar o que tem a ver conosco, com nosso jeito de viver. No final das contas, isso vai nos nortear sobre o que escolher pra deixar esse cantinho do quarto lindo de viver, porque irá traduzir nossos gostos e necessidades…
 </p>
 
 <p align="center">
@@ -58,11 +58,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ainda sobre o amarelo:</strong>
+  **Ainda sobre o amarelo:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank"><strong>Amarelo na decoração: 8 imagens com detalhes solares</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank">**Amarelo na decoração: 8 imagens com detalhes solares**</a>
 </p>
 
 <p align="center">
@@ -78,15 +78,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para quem ama o que é <em>vintage</em>:</strong>
+  **Para quem ama o que é <em>vintage</em>:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/" target="_blank"><strong>Quer toques de decoração vintage em casa? Veja 7 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/" target="_blank">**Quer toques de decoração vintage em casa? Veja 7 dicas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/" target="_blank"><strong>Objetos vintage: 4 ideias de organização</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/" target="_blank">**Objetos vintage: 4 ideias de organização**</a>
 </p>
 
 <p align="center">
@@ -138,15 +138,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ainda sobre quartos pequenos:</strong>
+  **Ainda sobre quartos pequenos:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank">**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/" target="_blank"><strong>Como ganhar (e não perder) espaço em quartos pequenos?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/" target="_blank">**Como ganhar (e não perder) espaço em quartos pequenos?**</a>
 </p>
 
 <p align="center">
@@ -162,11 +162,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja mais sobre bandejas:</strong>
+  **Veja mais sobre bandejas:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/" target="_blank"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/" target="_blank">**Truques de decoração: bandejas… por que te quero?**</a>
 </p>
 
 <p align="center">

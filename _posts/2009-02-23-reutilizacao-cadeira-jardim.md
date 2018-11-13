@@ -1,7 +1,7 @@
 ---
-id: 2627
+
 title: Cadeira também é floreira… como assim?!?!?
-date: 2009-02-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/23/reutilizacao-cadeira-jardim/

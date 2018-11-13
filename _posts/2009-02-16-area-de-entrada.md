@@ -1,7 +1,7 @@
 ---
-id: 2623
+
 title: Dicas para decoração da área de entrada (hall) de casa.
-date: 2009-02-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/16/area-de-entrada/
@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Você sente necessidade de delimitar um espaço onde  as pessoas se desfaçam do excesso de objetos que trazem, antes mesmo de entrarem de fato na sua casa? Para isso, sugiro que você veja uma<strong><em><a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank"> ideia para organização de objetos na área de entrada da casa</a></em></strong>. Inspire-se!
+  Você sente necessidade de delimitar um espaço onde  as pessoas se desfaçam do excesso de objetos que trazem, antes mesmo de entrarem de fato na sua casa? Para isso, sugiro que você veja uma**<em><a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank"> ideia para organização de objetos na área de entrada da casa</a></em>**. Inspire-se!
 </p>
 
 <p style="text-align: justify;">

@@ -1,7 +1,7 @@
 ---
-id: 3486
+
 title: 'Moda para grávidas: o que favorece as futuras mamães?'
-date: 2015-09-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/28/moda-para-gravidas/
@@ -15,15 +15,15 @@ categories:
 </p>
 
 <p align="justify">
-  Esse post é uma consultoria da nossa querida <em>expert</em>, a <strong>Lilian Jordão</strong>, <strong>que é Consultora de Estilo, da Cidade de Ribeirão Preto. </strong>Prepare-se para ver dicas práticas, simples e certeiras pra você sentir bem nessa fase linda que você está vivendo… aproveite!
+  Esse post é uma consultoria da nossa querida <em>expert</em>, a **Lilian Jordão**, **que é Consultora de Estilo, da Cidade de Ribeirão Preto. **Prepare-se para ver dicas práticas, simples e certeiras pra você sentir bem nessa fase linda que você está vivendo… aproveite!
 </p>
 
 > <p style="text-align: justify;">
->   “<strong><em>Hoje em dia uma grávida já pode se sentir sexy, pois isso é sinônimo de uma mulher com orgulho das suas belas curvas. Ser confiante na gravidez também depende da roupa que ela está usando, para que seja uma grávida orgulhosa de si e do seu corpo.</em></strong>
+>   “**<em>Hoje em dia uma grávida já pode se sentir sexy, pois isso é sinônimo de uma mulher com orgulho das suas belas curvas. Ser confiante na gravidez também depende da roupa que ela está usando, para que seja uma grávida orgulhosa de si e do seu corpo.</em>**
 > </p>
 
 > <p style="text-align: justify;">
->   <strong><em>Faça uma revitalização em seu guarda-roupa para garimpar peças que dê para aproveitar nessa fase. Verifique se tem tops largos, calças com cintura mais elástica, ou saias mais largas, procure aquelas roupas mais confortáveis e mais larguinhas. As roupas que sugiro para uma mulher grávida são os vestidos e tops em linha A e os vestidos império. Roupas de malha, ou com elastano, são ideais, pois vão esticando à medida que a barriga cresce. Opte por usar roupas mais justas na região do seio, e com decote em V para valorizar essa região.</em></strong>
+>   **<em>Faça uma revitalização em seu guarda-roupa para garimpar peças que dê para aproveitar nessa fase. Verifique se tem tops largos, calças com cintura mais elástica, ou saias mais largas, procure aquelas roupas mais confortáveis e mais larguinhas. As roupas que sugiro para uma mulher grávida são os vestidos e tops em linha A e os vestidos império. Roupas de malha, ou com elastano, são ideais, pois vão esticando à medida que a barriga cresce. Opte por usar roupas mais justas na região do seio, e com decote em V para valorizar essa região.</em>**
 > </p>
 
 &nbsp;
@@ -41,11 +41,11 @@ categories:
 </p>
 
 > <p style="text-align: justify;" align="justify">
->   <strong><em>Os acessórios são peças essenciais para dar aquele toque especial. Um vestido simples ficará mais interessante se for complementado com um belo colar comprido, ou mesmo com uma echarpe colorida à volta do pescoço. Usar brincos, colares, pulseiras e echarpes, é dar acabamento ao look e deixá-lo mais fashion sem gastar muito. </em></strong>
+>   **<em>Os acessórios são peças essenciais para dar aquele toque especial. Um vestido simples ficará mais interessante se for complementado com um belo colar comprido, ou mesmo com uma echarpe colorida à volta do pescoço. Usar brincos, colares, pulseiras e echarpes, é dar acabamento ao look e deixá-lo mais fashion sem gastar muito. </em>**
 > </p>
 
 > <p style="text-align: justify;" align="justify">
->   <strong><em>Estampas de flores, coqueiros, animais e todos os elementos praianos estampam a tendência que promete voltar com tudo na temporada primavera/verão, e as grávidas podem usar e abusar. Essa estampa surgiu há algumas temporadas e, desde então, tem se mostrado atemporal e disposta nas coleções mais irreverentes. As estampas tropicais viraram sinônimo de elegância e sofisticação em looks para o dia a dia. Essas peças trazem todo o frescor e inspiração da gravidez em looks feitos para a mulher contemporânea.</em></strong>
+>   **<em>Estampas de flores, coqueiros, animais e todos os elementos praianos estampam a tendência que promete voltar com tudo na temporada primavera/verão, e as grávidas podem usar e abusar. Essa estampa surgiu há algumas temporadas e, desde então, tem se mostrado atemporal e disposta nas coleções mais irreverentes. As estampas tropicais viraram sinônimo de elegância e sofisticação em looks para o dia a dia. Essas peças trazem todo o frescor e inspiração da gravidez em looks feitos para a mulher contemporânea.</em>**
 > </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>Kimono é uma peça japonesa que será tendência da moda verão 2016. Jaqueta quimono ou blusa estilo quimono. A modelagem é bem parecida com o quimono, com faixa marcando a cintura. Normalmente, uma peça para fazer sobreposição. Essa peça é muito bacana para grávida fazer sobreposição e ela pode aproveitá-la após a gestação.</em></strong>
+>   **<em>Kimono é uma peça japonesa que será tendência da moda verão 2016. Jaqueta quimono ou blusa estilo quimono. A modelagem é bem parecida com o quimono, com faixa marcando a cintura. Normalmente, uma peça para fazer sobreposição. Essa peça é muito bacana para grávida fazer sobreposição e ela pode aproveitá-la após a gestação.</em>**
 > </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 > <p style="text-align: justify;">
->   <strong><em>Na gravidez é essencial que você opte sempre por roupas confortáveis. Abuse de vestidinhos soltos, saias compridas e larguinhas, blusas de seda, malhas de algodão, camisas, calças legging e calça jeans com elástico na cintura. Se for sair à noite, procure por vestidos mais clássicos, e também usar uma sobreposição, que ficará elegante, porém confortável e adequado para o seu corpo.</em></strong>
+>   **<em>Na gravidez é essencial que você opte sempre por roupas confortáveis. Abuse de vestidinhos soltos, saias compridas e larguinhas, blusas de seda, malhas de algodão, camisas, calças legging e calça jeans com elástico na cintura. Se for sair à noite, procure por vestidos mais clássicos, e também usar uma sobreposição, que ficará elegante, porém confortável e adequado para o seu corpo.</em>**
 > </p>
 
 &nbsp;
@@ -71,7 +71,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>Para uma tarde no clube/piscina ou praia, eu sugiro um biquíni ou maiô com saídas leves e fluídas para as necessidades e mudanças no corpo da gestante, para que não fique pequeno e apertado, lhe dando conforto, em especial quando senta, e que, por outro lado, não fique grande e caindo, dando a segurança que precisa. Ou seja, que tenha um caimento perfeito, independentemente do tamanho da barriga.”</em></strong>
+>   **<em>Para uma tarde no clube/piscina ou praia, eu sugiro um biquíni ou maiô com saídas leves e fluídas para as necessidades e mudanças no corpo da gestante, para que não fique pequeno e apertado, lhe dando conforto, em especial quando senta, e que, por outro lado, não fique grande e caindo, dando a segurança que precisa. Ou seja, que tenha um caimento perfeito, independentemente do tamanho da barriga.”</em>**
 > </p>
 
 <p align="center">
@@ -87,19 +87,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Lilian:</strong>
+  **Mais consultorias da Lilian:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank"><strong>O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank">**O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/" target="_blank"><strong>Moda sem mistérios: 2 dicas pra colocar em prática já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/" target="_blank">**Moda sem mistérios: 2 dicas pra colocar em prática já!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank"><strong>Trololó do dia: moda para a vida real. Aprenda tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank">**Trololó do dia: moda para a vida real. Aprenda tudo!**</a>
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 2621
+
 title: Promoção Cheirosa…hummmmm…
-date: 2009-02-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/14/promoo-cheirosahummmmm/

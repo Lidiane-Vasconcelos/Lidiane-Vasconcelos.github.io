@@ -1,7 +1,7 @@
 ---
-id: 3768
+
 title: Como um interesse em comum fortalece um relacionamento?
-date: 2017-05-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/26/relacionamento-3/
@@ -11,7 +11,7 @@ categories:
   - Relacionamento
 ---
 <p align="justify">
-  Eu não tenho dúvidas de que compartilhar um interesse em comum num <strong>relacionamento</strong> pode fortalecer, e muito, a relação do casal. Criar filhos, com o comprometimento de ambos para fazer da melhor maneira possível, é um exemplo de projeto que ambos podem abraçar para o resto da vida, e é lindo! Comprar o imóvel dos sonhos da família também pode se tornar algo que mova o casal, mas também fazer algo extremamente prazeroso para os dois pode fortalecer muito o amor antre eles.
+  Eu não tenho dúvidas de que compartilhar um interesse em comum num **relacionamento** pode fortalecer, e muito, a relação do casal. Criar filhos, com o comprometimento de ambos para fazer da melhor maneira possível, é um exemplo de projeto que ambos podem abraçar para o resto da vida, e é lindo! Comprar o imóvel dos sonhos da família também pode se tornar algo que mova o casal, mas também fazer algo extremamente prazeroso para os dois pode fortalecer muito o amor antre eles.
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Meu marido é Educador Físico e já pratica esporte desde a infância. Já fez de um tudo&#8230; foi jogador de futebol, correu Maratona, Triathlon e bike. No momento está praticando esportes variados, mas sem competir. Eu também sempre fiz algum tipo de esporte desde a infância&#8230; já fiz dança, natação, luta, musculação. A corrida entrou na minha vida quando conheci meu marido, e a bike é a última novidade que estou amando! Quando nos conhecemos, meu marido tinha acabado de correr a Maratona do RJ, e estava se preparando para iniciar no Triathlon. Meu início na corrida foi sob orientação dele. Intensificamos a musculação e começamos com treinos intervalados de corrida com caminhada, para eu não sentir muito. Depois acabei pegando gosto e já se foram 3 Meia Maratonas nesse caminho. Fizemos algumas provas de corrida juntos, e os treinos fazíamos nos mesmos dias. É muito gostoso a preparação para as provas juntos, porque tem que ter uma certa disciplina de alimentação, horários de sono e preparo físico. Quando fazemos a dois fica bem mais fácil. Antes de nos conhecermos, apesar de sempre praticar alguma atividade física, eu não era tão disciplinada, principalmente com frequência de treinos e alimentação. Hoje temos uma alimentação balanceada, mas sem exageros. E treinamos regularmente. Ele me incentiva bastante e fazemos tudo juntos! Torna o relacionamento mais gostoso e a cumplicidade entre nós é enorme!”</em> <strong>Lívia Vieira é Médica Ginecologista e Obstetra, de São José do Rio Preto – SP |</strong> <a href="http://www.draliviaavieira.com/" target="_blank">Site</a>, <a href="https://www.facebook.com/draliviaavieira/?ref=page_internal" target="_blank">Fanpage</a> e <a href="https://www.instagram.com/draliviavieiraginecologista/" target="_blank">Instagram</a> da médica.
+  “<em>Meu marido é Educador Físico e já pratica esporte desde a infância. Já fez de um tudo&#8230; foi jogador de futebol, correu Maratona, Triathlon e bike. No momento está praticando esportes variados, mas sem competir. Eu também sempre fiz algum tipo de esporte desde a infância&#8230; já fiz dança, natação, luta, musculação. A corrida entrou na minha vida quando conheci meu marido, e a bike é a última novidade que estou amando! Quando nos conhecemos, meu marido tinha acabado de correr a Maratona do RJ, e estava se preparando para iniciar no Triathlon. Meu início na corrida foi sob orientação dele. Intensificamos a musculação e começamos com treinos intervalados de corrida com caminhada, para eu não sentir muito. Depois acabei pegando gosto e já se foram 3 Meia Maratonas nesse caminho. Fizemos algumas provas de corrida juntos, e os treinos fazíamos nos mesmos dias. É muito gostoso a preparação para as provas juntos, porque tem que ter uma certa disciplina de alimentação, horários de sono e preparo físico. Quando fazemos a dois fica bem mais fácil. Antes de nos conhecermos, apesar de sempre praticar alguma atividade física, eu não era tão disciplinada, principalmente com frequência de treinos e alimentação. Hoje temos uma alimentação balanceada, mas sem exageros. E treinamos regularmente. Ele me incentiva bastante e fazemos tudo juntos! Torna o relacionamento mais gostoso e a cumplicidade entre nós é enorme!”</em> **Lívia Vieira é Médica Ginecologista e Obstetra, de São José do Rio Preto – SP |** <a href="http://www.draliviaavieira.com/" target="_blank">Site</a>, <a href="https://www.facebook.com/draliviaavieira/?ref=page_internal" target="_blank">Fanpage</a> e <a href="https://www.instagram.com/draliviavieiraginecologista/" target="_blank">Instagram</a> da médica.
 </p>
 
 <p align="center">
@@ -83,11 +83,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Viagem é o principal ingrediente pro casamento de vocês dar certo?</strong>
+  **Trololó de Mulher >>> Viagem é o principal ingrediente pro casamento de vocês dar certo?**
 </p>
 
 <p align="justify">
-  “<em>Não, os principais ingredientes são a cumplicidade, o respeito, a admiração e os valores que temos em comum. Acho que gostar de viajar é um dos interesses que compartilhamos. É maravilhoso poder dividir com quem você ama os momentos mais mágicos da sua vida! E é isso o que sinto quando vivenciamos experiências culturais tão ricas em outros cantos do mundo</em>.” <strong>Kátia Bonfadini é Designer Gráfico, do Rio de Janeiro – RJ, de mente inquieta e que respira criatividade</strong>. Conheça o <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">blog Casos e Coisas da Bonfa</a>, onde a moça conta sobre suas viagens, comes e bebes, festas e <em>lifestyle</em> | <a href="http://www.katiabonfadini.com.br/" target="_blank">Site (Portifólio)</a>, <a href="https://www.facebook.com/casosecoisasdabonfa/" target="_blank">Fanpage</a> e <a href="https://www.instagram.com/" target="_blank">Instagram</a> da criativa.
+  “<em>Não, os principais ingredientes são a cumplicidade, o respeito, a admiração e os valores que temos em comum. Acho que gostar de viajar é um dos interesses que compartilhamos. É maravilhoso poder dividir com quem você ama os momentos mais mágicos da sua vida! E é isso o que sinto quando vivenciamos experiências culturais tão ricas em outros cantos do mundo</em>.” **Kátia Bonfadini é Designer Gráfico, do Rio de Janeiro – RJ, de mente inquieta e que respira criatividade**. Conheça o <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">blog Casos e Coisas da Bonfa</a>, onde a moça conta sobre suas viagens, comes e bebes, festas e <em>lifestyle</em> | <a href="http://www.katiabonfadini.com.br/" target="_blank">Site (Portifólio)</a>, <a href="https://www.facebook.com/casosecoisasdabonfa/" target="_blank">Fanpage</a> e <a href="https://www.instagram.com/" target="_blank">Instagram</a> da criativa.
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3079
+
 title: 'Sorteio Bicha Fêmea &#038; Casa da Claudia entre amigas!'
-date: 2011-11-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/16/sorteio-casa-da-claudia/
@@ -14,7 +14,7 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 &nbsp;
 
 <p align="justify">
-  Antes de te deixar viver de amores pelo que você vai ver, permita-me apresentar a moça por trás dessa loja virtual: <strong>Claudia Medeiros</strong>, do blog <strong><a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa</a></strong>. Sim! Ela também é blogueira de corpo e alma, e teve a ideia de nos facilitar a aquisição de <em>belezuras</em> decorativas e de utilidade para casa. Confere!
+  Antes de te deixar viver de amores pelo que você vai ver, permita-me apresentar a moça por trás dessa loja virtual: **Claudia Medeiros**, do blog **<a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa</a>**. Sim! Ela também é blogueira de corpo e alma, e teve a ideia de nos facilitar a aquisição de <em>belezuras</em> decorativas e de utilidade para casa. Confere!
 </p>
 
 <!--more-->
@@ -30,11 +30,11 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 </p>
 
 <p align="justify">
-  Essa trajetória desencadeou a ideia de criação da marca <strong>Casa da Claudia</strong>, e graças a iniciativa da <strong>Claudia</strong>, hoje temos acesso a peças criativas e charmosas, daquelas que deixam a casa de qualquer uma de nós cheia de <em>bossa</em>.
+  Essa trajetória desencadeou a ideia de criação da marca **Casa da Claudia**, e graças a iniciativa da **Claudia**, hoje temos acesso a peças criativas e charmosas, daquelas que deixam a casa de qualquer uma de nós cheia de <em>bossa</em>.
 </p>
 
 <p align="justify">
-  Quer ter uma ideia? Confere o mimo que a <strong>Casa da Claudia</strong> está oferecendo para ser sorteado por aqui e que pode ser seu… ah! Sua melhor amiga também pode ganhar um, <em>viu</em>?
+  Quer ter uma ideia? Confere o mimo que a **Casa da Claudia** está oferecendo para ser sorteado por aqui e que pode ser seu… ah! Sua melhor amiga também pode ganhar um, <em>viu</em>?
 </p>
 
 &nbsp;
@@ -46,29 +46,29 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 &nbsp;
 
 <p align="justify">
-  Essa fofura cheia de bolinhas, isto é, o amado poá, acabou virando uma espcialidade da <strong>Casa da Claudia</strong>. Você nem imagina a variedade de produtos cheios de bolinhas que há por lá: <strong>kits para pia, canecas, queijeiras, xícaras, jarras, etc</strong>. E não é só de bolinhas que é feita a loja virtual, <em>hein</em>? Há muitos outros objetos com outros estilos. É só conferir!
+  Essa fofura cheia de bolinhas, isto é, o amado poá, acabou virando uma espcialidade da **Casa da Claudia**. Você nem imagina a variedade de produtos cheios de bolinhas que há por lá: **kits para pia, canecas, queijeiras, xícaras, jarras, etc**. E não é só de bolinhas que é feita a loja virtual, <em>hein</em>? Há muitos outros objetos com outros estilos. É só conferir!
 </p>
 
 <p align="justify">
-  Então… quer ganhar um <strong>KIT DE LOUÇA PRETA COM BOLINHAS BRANCAS COMPOSTO DE TERRINA/SOPEIRA E PRATO</strong>? Ele pode ser usado para sopas, cremes, cereal, sobremesas e o que a imaginação mandar. <strong>Se você for sorteada, ganha você e sua melhor amiga, cada uma um kit!</strong>
+  Então… quer ganhar um **KIT DE LOUÇA PRETA COM BOLINHAS BRANCAS COMPOSTO DE TERRINA/SOPEIRA E PRATO**? Ele pode ser usado para sopas, cremes, cereal, sobremesas e o que a imaginação mandar. **Se você for sorteada, ganha você e sua melhor amiga, cada uma um kit!**
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o <strong><a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">site da Casa da Claudia</a></strong>, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">site da Casa da Claudia</a>**, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <strong>“Qual produto você bateu seus olhinhos e pensou: por isso aqui, eu mais que viveria de amores…”</strong>
+  **“Qual produto você bateu seus olhinhos e pensou: por isso aqui, eu mais que viveria de amores…”**
 </p>
 
 <p align="justify">
-  Feito isso, você já estará concorrendo! As <strong>inscrições começam agora e vão até o dia 23 de Novembro. </strong>O sorteio será via random.org, com <strong>divulgação do nome da ganhadora dia 02 de Dezembro.</strong> Se você for sorteada, receberá meu <strong>e-mail pedindo seus dados de entrega e, neste momento, você vai informar o nome, e-mail e dados de entrega da sua amiga. Você terá até o dia 06 de Dezembro para responder o meu e-mail</strong>, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. <strong>Vocês duas receberão seus presentes em endereço de entrega no território brasileiro</strong>, desde que seja uma área atendida pelos Correios, certo?
+  Feito isso, você já estará concorrendo! As **inscrições começam agora e vão até o dia 23 de Novembro. **O sorteio será via random.org, com **divulgação do nome da ganhadora dia 02 de Dezembro.** Se você for sorteada, receberá meu **e-mail pedindo seus dados de entrega e, neste momento, você vai informar o nome, e-mail e dados de entrega da sua amiga. Você terá até o dia 06 de Dezembro para responder o meu e-mail**, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. **Vocês duas receberão seus presentes em endereço de entrega no território brasileiro**, desde que seja uma área atendida pelos Correios, certo?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Quer chance dupla de ganhar o presente?</span></strong>
+  **<span style="font-size: large;">Quer chance dupla de ganhar o presente?</span>**
 </p>
 
 &nbsp;

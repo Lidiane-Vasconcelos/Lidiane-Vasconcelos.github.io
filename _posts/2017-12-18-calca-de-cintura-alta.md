@@ -1,7 +1,7 @@
 ---
-id: 3845
+
 title: 'Calça de cintura alta: saiba como usar.'
-date: 2017-12-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/18/calca-de-cintura-alta/
@@ -11,7 +11,7 @@ categories:
   - Moda
 ---
 <p align="justify">
-  A <strong>calça de cintura alta</strong> é perfeita para alongar a silhueta ou definir a cintura, usando blusa por dentro ou por fora. Há, no entanto, modelos que podem ressaltar pneuzinhos, ou desfavorecer o visual em outros aspectos. Quer aprender todos os truques? Se joga nas orientações da nossa <em>expert</em>, <strong>Tatiane Velasques</strong>, <strong>Consultora de Imagem e Estilo</strong>, e entenda como tirar proveito no melhor sentido desse modelo de calça que parece nunca sair de moda.
+  A **calça de cintura alta** é perfeita para alongar a silhueta ou definir a cintura, usando blusa por dentro ou por fora. Há, no entanto, modelos que podem ressaltar pneuzinhos, ou desfavorecer o visual em outros aspectos. Quer aprender todos os truques? Se joga nas orientações da nossa <em>expert</em>, **Tatiane Velasques**, **Consultora de Imagem e Estilo**, e entenda como tirar proveito no melhor sentido desse modelo de calça que parece nunca sair de moda.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual a principal vantagem dessa peça?</strong>
+  **Trololó de Mulher >>> Qual a principal vantagem dessa peça?**
 </p>
 
 <p align="justify">
@@ -135,15 +135,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja mais consultorias de Tatiane:</strong>
+  **Veja mais consultorias de Tatiane:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/23/bermuda-de-alfaiataria/" target="_blank"><strong>Como usar bermuda de alfaiataria?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/23/bermuda-de-alfaiataria/" target="_blank">**Como usar bermuda de alfaiataria?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/05/29/como-usar-calca-cigarrete/" target="_blank"><strong>Como usar calça cigarrete no dia a dia?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/05/29/como-usar-calca-cigarrete/" target="_blank">**Como usar calça cigarrete no dia a dia?**</a>
 </p>
 
 <p align="justify">

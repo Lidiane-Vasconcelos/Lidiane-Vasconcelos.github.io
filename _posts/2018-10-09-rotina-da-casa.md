@@ -1,7 +1,7 @@
 ---
-id: 3880
+
 title: Gestão de rotina da casa na prática!
-date: 2018-10-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/10/09/rotina-da-casa/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Esta semana estou de volta ao trabalho, já recuperada da cirurgia. Como eu havia dito, na minha volta abriria as inscrições do <strong>Projeto Lar Bonito Lar</strong>, meu programa sobre gestão de <strong>rotina da casa</strong>, turma de Outubro, última de 2018. Segue abaixo o material de divulgação. Para quem não fez, e sente que precisa de <strong>ajuda para se organizar melhor </strong>nesse sentido, sinta-se bem vinda!
+  Esta semana estou de volta ao trabalho, já recuperada da cirurgia. Como eu havia dito, na minha volta abriria as inscrições do **Projeto Lar Bonito Lar**, meu programa sobre gestão de **rotina da casa**, turma de Outubro, última de 2018. Segue abaixo o material de divulgação. Para quem não fez, e sente que precisa de **ajuda para se organizar melhor **nesse sentido, sinta-se bem vinda!
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

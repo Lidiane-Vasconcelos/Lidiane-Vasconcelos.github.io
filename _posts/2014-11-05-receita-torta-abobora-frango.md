@@ -1,7 +1,7 @@
 ---
-id: 3363
+
 title: 'Receita molezinha e gostosa: torta de abóbora + frango.'
-date: 2014-11-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/05/receita-torta-abobora-frango/
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes da massa:</strong>
+  **Ingredientes da massa:**
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ Pimenta moída na hora a gosto
 &nbsp;
 
 <p align="justify">
-  <strong>Ingredientes do recheio:</strong>
+  **Ingredientes do recheio:**
 </p>
 
 200g frango desfiado
@@ -70,11 +70,11 @@ Sal a gosto
 1/2 xícara de chá de leite de coco light
 
 <p align="justify">
-  <strong>Modo de preparo da massa:</strong>
+  **Modo de preparo da massa:**
 </p>
 
 > <p align="justify">
->   <strong>Lave a casca da abóbora muito bem, depois embrulhe no papel alumínio e leve ao forno em 180 graus até que a abóbora fique macia. Bata todos os ingredientes no processador ou liquidificador. Depois de batido bem, acrescente o fermento.”</strong>
+>   **Lave a casca da abóbora muito bem, depois embrulhe no papel alumínio e leve ao forno em 180 graus até que a abóbora fique macia. Bata todos os ingredientes no processador ou liquidificador. Depois de batido bem, acrescente o fermento.”**
 > </p>
 
 <p align="center">
@@ -82,19 +82,19 @@ Sal a gosto
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo do recheio:</strong>
+  **Modo de preparo do recheio:**
 </p>
 
 > <p align="justify">
->   <strong>Cozinhe o peito de frango em água, açafrão e folhas de louro. Depois de cozido e frio basta desfiar. Em uma panela coloque um fio de azeite, cebola picadinha, alho-poró e coloque o frango desfiado. Quando refogar, coloque a pimenta, tomilho e sal a gosto.  Depois de uns 2 minutos acrescente o leite de de coco light e desligue o fogo.”</strong>
+>   **Cozinhe o peito de frango em água, açafrão e folhas de louro. Depois de cozido e frio basta desfiar. Em uma panela coloque um fio de azeite, cebola picadinha, alho-poró e coloque o frango desfiado. Quando refogar, coloque a pimenta, tomilho e sal a gosto.  Depois de uns 2 minutos acrescente o leite de de coco light e desligue o fogo.”**
 > </p>
 
 <p align="justify">
-  <strong>Montagem:</strong>
+  **Montagem:**
 </p>
 
 > <p align="justify">
->   <strong>Em uma forma untada com azeite coloque a metade da massa de abóbora, depois coloque o recheio de frango e cubra com a outra metade da massa de abóbora. Para finalizar, polvilhei queijo muçarela light. Leve ao forno em 180 graus até assar (a massa ficar firme), aproximadamente 30 minutos.”</strong>
+>   **Em uma forma untada com azeite coloque a metade da massa de abóbora, depois coloque o recheio de frango e cubra com a outra metade da massa de abóbora. Para finalizar, polvilhei queijo muçarela light. Leve ao forno em 180 graus até assar (a massa ficar firme), aproximadamente 30 minutos.”**
 > </p>
 
 <p align="center">
@@ -102,23 +102,23 @@ Sal a gosto
 </p>
 
 <p align="justify">
-  <strong>Veja mais receitas da Carol:</strong>
+  **Veja mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">**Hamburguer de grão de bico facinho, facinho…**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage (no molho caseiro)**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

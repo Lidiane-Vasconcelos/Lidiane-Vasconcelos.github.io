@@ -1,7 +1,7 @@
 ---
-id: 3786
+
 title: Quer melhorar sua prática de meditação? Faça Yoga.
-date: 2017-08-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/21/meditacao/
@@ -10,7 +10,7 @@ categories:
   - Bem-estar
 ---
 <p align="justify">
-  Para quem nunca experimentou a prática de <strong>meditação</strong>, o início pode se tornar desafiador, e não apenas pela dificuldade de concentração, mas também pelo desconforto físico que pode causar. O que falta a gente saber é que Yoga e meditação deveriam ser praticadas em paralelo, porque é a primeira que prepara o corpo para a prática da segunda. Dessa forma, segundo <strong>Paula Elisa</strong>, que é <strong>Professora de Yoga em Rio do Sul e região – SC</strong>, o ato de meditar certamente se tornará mais confortável e estável, favorecendo, portanto, a entrada da mente num estado de abertura e relaxamento. Entenda de que modo isso acontece logo a seguir…
+  Para quem nunca experimentou a prática de **meditação**, o início pode se tornar desafiador, e não apenas pela dificuldade de concentração, mas também pelo desconforto físico que pode causar. O que falta a gente saber é que Yoga e meditação deveriam ser praticadas em paralelo, porque é a primeira que prepara o corpo para a prática da segunda. Dessa forma, segundo **Paula Elisa**, que é **Professora de Yoga em Rio do Sul e região – SC**, o ato de meditar certamente se tornará mais confortável e estável, favorecendo, portanto, a entrada da mente num estado de abertura e relaxamento. Entenda de que modo isso acontece logo a seguir…
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>A prática de yoga asanas auxilia e prepara para a meditacão</strong>
+  **A prática de yoga asanas auxilia e prepara para a meditacão**
 </p>
 
 <p align="justify">
@@ -54,19 +54,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais colaborações de Paula: </strong>
+  **Mais colaborações de Paula: **
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/06/19/doencas-mais-comuns-no-inverno/" target="_blank"><strong>Combata doenças mais comuns no inverno com o Yoga.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/06/19/doencas-mais-comuns-no-inverno/" target="_blank">**Combata doenças mais comuns no inverno com o Yoga.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank">**O que a meditação pode fazer por seu bem-estar e saúde?**</a>
 </p>
 
 <p align="justify">
-  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
+  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo **Namastê Yoga Blog**, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
 </p>
 
 <p align="center">

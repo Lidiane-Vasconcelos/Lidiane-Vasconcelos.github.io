@@ -1,7 +1,7 @@
 ---
-id: 3835
+
 title: Tédio na infância é necessário, e faz bem.
-date: 2017-11-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/24/tedio-na-infancia/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Nossas crianças são da geração <em>touch screen</em>, e parecem ter de estar entretidas o tempo todo para que não encarem o <strong>tédio na infância</strong>, bastante necessário. Não abomino o uso da tecnologia por elas. Artur tem, sim, seu <em>tablet</em>, vê TV e curte vídeos no <em>youtube</em>… mas há que se ter um limite. Cabe a nós, como pais, tirar os pequenos da frente das telas e, quando acontecer de eles falarem o que Artur já falou para mim, de que não havia nada para fazer, não temer e responder: então, filho, faça nada!
+  Nossas crianças são da geração <em>touch screen</em>, e parecem ter de estar entretidas o tempo todo para que não encarem o **tédio na infância**, bastante necessário. Não abomino o uso da tecnologia por elas. Artur tem, sim, seu <em>tablet</em>, vê TV e curte vídeos no <em>youtube</em>… mas há que se ter um limite. Cabe a nós, como pais, tirar os pequenos da frente das telas e, quando acontecer de eles falarem o que Artur já falou para mim, de que não havia nada para fazer, não temer e responder: então, filho, faça nada!
 </p>
 
 <p align="justify">

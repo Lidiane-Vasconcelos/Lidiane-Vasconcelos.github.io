@@ -1,7 +1,7 @@
 ---
-id: 3494
+
 title: 'Festa infantil: como fazer topper para cupcake.'
-date: 2015-10-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/02/topper-para-cupcake/
@@ -11,15 +11,15 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Como não viver de amores pelos bolinhos decorados, não é? Eles todos arrumadinhos numa mesa de aniversário infantil são muito lindos de viver, sobretudo com as plaquinhas feitas para eles. Acha uma graça também? Veja que é fácil fazer você mesma um<strong> <em>topper</em> para cupcake</strong>, e dar a festa da sua cria aquele toque de mãe. Festas assim são como as de antigamente, e por isso são tão charmosas e carregadas de afetividade. Amo! Vem comigo e vamos aprender juntas?
+  Como não viver de amores pelos bolinhos decorados, não é? Eles todos arrumadinhos numa mesa de aniversário infantil são muito lindos de viver, sobretudo com as plaquinhas feitas para eles. Acha uma graça também? Veja que é fácil fazer você mesma um** <em>topper</em> para cupcake**, e dar a festa da sua cria aquele toque de mãe. Festas assim são como as de antigamente, e por isso são tão charmosas e carregadas de afetividade. Amo! Vem comigo e vamos aprender juntas?
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank"><strong>Bandeirolas de aniversário: imprima grátis</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank">**Bandeirolas de aniversário: imprima grátis**</a>
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank"><strong>Sacolinha de festa infantil: faça você mesma</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">**Sacolinha de festa infantil: faça você mesma**</a>
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/" target="_blank"><strong>Ideias criativas e simples para festas de aniversário infantil</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/" target="_blank">**Ideias criativas e simples para festas de aniversário infantil**</a>
 </p>
 
 <p align="center">

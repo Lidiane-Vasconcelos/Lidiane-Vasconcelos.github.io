@@ -1,7 +1,7 @@
 ---
-id: 2708
+
 title: Dicas e Detalhes na Decoração do Quarto
-date: 2009-10-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/01/dicas-decoracao-quarto/
@@ -45,11 +45,11 @@ Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart<
 
 **Mais no Bicha:**
 
-<a href="http://www.trololodemulher.com.br/2009/08/11/pitacos-de-bicha-fmea-decorao-de-quartos/" target="_self"><strong><em>“Pitacos” de Bicha Fêmea: decoração de quartos.</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/08/11/pitacos-de-bicha-fmea-decorao-de-quartos/" target="_self">**<em>“Pitacos” de Bicha Fêmea: decoração de quartos.</em>**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/" target="_self"><strong><em>Cabeceiras de cama para inspiração…</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/" target="_self">**<em>Cabeceiras de cama para inspiração…</em>**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/" target="_self"><strong><em>Ideias essencialmente femininas para a decoração do nosso quarto…</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/" target="_self">**<em>Ideias essencialmente femininas para a decoração do nosso quarto…</em>**</a>
 
 **A Lucia Laureano, que escreve no blog &#8220;<a href="http://www.criativesse.blogspot.com/" target="_blank">Criative-se</a>&#8221; e no &#8220;<a href="http://www.lucialaureano.com/" target="_blank">Gui e Duda</a>&#8220;, deu a dica de uma cabeceira feita com panô em _patchwork_. E tem até foto, olha só:**
 
@@ -64,7 +64,7 @@ _**<a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-cas
 **_<a href="http://www.trololodemulher.com.br/2009/01/15/os-10-erros-em-seu-quarto/" target="_self">10 erros na decoração e bem-estar do seu quarto.</a>_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>
 
 _ _

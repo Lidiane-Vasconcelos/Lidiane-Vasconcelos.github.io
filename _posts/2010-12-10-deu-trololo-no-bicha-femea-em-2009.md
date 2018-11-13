@@ -1,7 +1,7 @@
 ---
-id: 2924
+
 title: 'Deu &#8220;trololó&#8221; no Bicha Fêmea em 2009&#8230;'
-date: 2010-12-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/10/deu-trololo-no-bicha-femea-em-2009/
@@ -16,15 +16,15 @@ Em 10 de Dezembro de 2009, há exatamente 1 ano, o que deu trololó no Bicha Fê
 </p>
 
 <p style="text-align: center;">
-  Leia o post na íntegra e como foi publicado: <strong><em><a href="http://www.trololodemulher.com.br/2009/12/10/decoracao-da-mesa-de-natal/" target="_self">Dica para a decoração da mesa da sala de jantar no Natal</a></em></strong>.
+  Leia o post na íntegra e como foi publicado: **<em><a href="http://www.trololodemulher.com.br/2009/12/10/decoracao-da-mesa-de-natal/" target="_self">Dica para a decoração da mesa da sala de jantar no Natal</a></em>**.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>
 
 <p style="text-align: center;">

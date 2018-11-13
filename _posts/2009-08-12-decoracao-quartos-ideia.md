@@ -1,7 +1,7 @@
 ---
-id: 2696
+
 title: '“Pitacos” de Bicha Fêmea: decoração de quartos.'
-date: 2009-08-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/12/decoracao-quartos-ideia/
@@ -32,14 +32,14 @@ O Bicha é lugar de _trololó_, não é? Será que vai se transformar num _point
 </p>
 
 <p style="text-align: justify;">
-  Atenção para o detalhe na parede. Não é bonita e fácil de reproduzir essas prateleiras na diagonal para enfeitar a parede com charme? Outra alternativa muito charmosa é a composição de pequenos quadros, que também poderiam ser dispostos em diagonal. Como sugestão, há vários quadros que podem cumprir essa função no <strong><em>Mercado de Artes</em></strong>, a loja virtual do blog Bicha Fêmea, a exemplo do quadro abaixo:
+  Atenção para o detalhe na parede. Não é bonita e fácil de reproduzir essas prateleiras na diagonal para enfeitar a parede com charme? Outra alternativa muito charmosa é a composição de pequenos quadros, que também poderiam ser dispostos em diagonal. Como sugestão, há vários quadros que podem cumprir essa função no **<em>Mercado de Artes</em>**, a loja virtual do blog Bicha Fêmea, a exemplo do quadro abaixo:
 </p>
 
 <p style="text-align: center;">
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Cenario-Bolsinha.jpg"><img class="size-medium wp-image-5218 aligncenter" title="Quadro Cenário Bolsinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Cenario-Bolsinha-300x200.jpg" alt="" width="300" height="200" /></a>
 </p>
 
-Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu cantinho, _hã?! Para ver mais detalhes sobre esse quadro,_ <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank"><strong><em>basta clicar aqui</em></strong></a>_._
+Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu cantinho, _hã?! Para ver mais detalhes sobre esse quadro,_ <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank">**<em>basta clicar aqui</em>**</a>_._
 
 <p style="text-align: center;">
   <img class="aligncenter" title="HGTV.com" src="http://img.hgtv.com/HGTV/2007/05/14/colorbedroom_Pinkbedroom_lg.jpg" alt="HGTV.com" />
@@ -58,7 +58,7 @@ Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginan
 </p>
 
 <p style="text-align: justify;">
-  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do quarto ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Esta caixa está a venda no <strong><em>Mercado de Artes</em></strong>, a loja virtual do Bicha Fêmea. Para saber maiores detalhes sobre ela, basta <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank">clicar aqui</a></em></strong>.
+  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do quarto ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Esta caixa está a venda no **<em>Mercado de Artes</em>**, a loja virtual do Bicha Fêmea. Para saber maiores detalhes sobre ela, basta **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank">clicar aqui</a></em>**.
 </p>
 
 <p style="text-align: center;">
@@ -82,14 +82,14 @@ E resta, então, a dúvida se a Bianca verá esse post…[<img style="display: i
 Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
 
 <p style="text-align: center;">
-  <strong><em>Sugestões de Decoração & Organização para seu quarto</em></strong>
+  **<em>Sugestões de Decoração & Organização para seu quarto</em>**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="300" valign="top">
       <div style="text-align: center;">
-        <em><strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank">Aparador de Porta Scarpin</a></strong></em>
+        <em>**<a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank">Aparador de Porta Scarpin</a>**</em>
       </div>
       
       <div>
@@ -116,7 +116,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
         </p>
         
         <p style="text-align: justify;">
-          <em>O aparador está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
+          <em>O aparador está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!</em>
         </p></td> 
         
         <td width="300" valign="top">
@@ -150,7 +150,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                   
                   <td width="300" valign="top">
                     <p style="text-align: center;">
-                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">Móbile Primavera</a></em></strong>
+                      **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">Móbile Primavera</a></em>**
                     </p>
                     
                     <div style="text-align: justify;">
@@ -169,13 +169,13 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                       </p>
                       
                       <p style="text-align: justify;">
-                        <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
+                        <em>O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!</em>
                       </p></td> </tr> 
                       
                       <tr>
                         <td width="300" valign="top">
                           <p style="text-align: center;">
-                            <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank">Móbile Gatinho Vermelho</a></em></strong>
+                            **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank">Móbile Gatinho Vermelho</a></em>**
                           </p>
                           
                           <p style="text-align: justify;">
@@ -183,7 +183,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                           </p>
                           
                           <p style="text-align: justify;">
-                            <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
+                            <em>O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!</em>
                           </p>
                         </td>
                         
@@ -218,7 +218,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                   
                                   <td width="300" valign="top">
                                     <p style="text-align: center;">
-                                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/" target="_blank">Quadro Cenário Safári</a></em></strong>
+                                      **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/" target="_blank">Quadro Cenário Safári</a></em>**
                                     </p>
                                     
                                     <p style="text-align: justify;">
@@ -226,14 +226,14 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                     </p>
                                     
                                     <p style="text-align: justify;">
-                                      <em>O quadro está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
+                                      <em>O quadro está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!</em>
                                     </p>
                                   </td></tr> 
                                   
                                   <tr>
                                     <td width="300" valign="top">
                                       <p style="text-align: center;">
-                                        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank">Porta Jóia Bolsinha</a></em></strong>
+                                        **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank">Porta Jóia Bolsinha</a></em>**
                                       </p>
                                       
                                       <p style="text-align: justify;">
@@ -241,7 +241,7 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                       </p>
                                       
                                       <p style="text-align: justify;">
-                                        <em>O porta jóias está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
+                                        <em>O porta jóias está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!</em>
                                       </p>
                                     </td>
                                     
@@ -260,37 +260,37 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
                                         </a></td> </tr> </tbody> </table> 
                                         
                                         <p>
-                                          <strong>Mais no Bicha Fêmea&#8230;</strong>
+                                          **Mais no Bicha Fêmea&#8230;**
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/" target="_self"><strong><em>Dicas e Detalhes na Decoração do Quarto</em></strong></a>
+                                          <a href="http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/" target="_self">**<em>Dicas e Detalhes na Decoração do Quarto</em>**</a>
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"><strong><em>Dicas de decoração para a parede do quarto, sala e banheiro.</em></strong></a>
+                                          <a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">**<em>Dicas de decoração para a parede do quarto, sala e banheiro.</em>**</a>
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/"><strong><em>Cabeceiras de cama para inspiração…</em></strong></a>
+                                          <a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/">**<em>Cabeceiras de cama para inspiração…</em>**</a>
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/"><strong><em>Ideias essencialmente femininas para a decoração do nosso quarto…</em></strong></a>
+                                          <a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/">**<em>Ideias essencialmente femininas para a decoração do nosso quarto…</em>**</a>
                                         </p>
                                         
                                         <p>
-                                          <strong><em><a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/" target="_self">Dicas de decoração em quarto de casal.</a></em></strong>
+                                          **<em><a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/" target="_self">Dicas de decoração em quarto de casal.</a></em>**
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          <strong>Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><strong>e-mail</strong> </a>ou </strong><a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank"><strong>feed</strong></a><strong> </strong><strong>.</strong>
+                                          **Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">**e-mail** </a>ou **<a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank">**feed**</a>** ****.**
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          <strong>Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.</strong>
+                                          **Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.**
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+                                          **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em>**
                                         </p>

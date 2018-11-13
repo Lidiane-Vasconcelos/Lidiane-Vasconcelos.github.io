@@ -1,7 +1,7 @@
 ---
-id: 2659
+
 title: 'Bicha Fêmea Convidada: Yvone'
-date: 2009-05-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/14/convidada-yvon/

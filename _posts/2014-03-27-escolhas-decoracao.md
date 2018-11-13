@@ -1,7 +1,7 @@
 ---
-id: 3288
+
 title: 'Soluções de decoração: vi, curti e compartilho'
-date: 2014-03-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/27/escolhas-decoracao/
@@ -24,7 +24,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Curti:</span></strong> composição de quadros dispostos sobre a estante de livros, ornando com demais objetos.
+  **<span style="font-size: small;">Curti:</span>** composição de quadros dispostos sobre a estante de livros, ornando com demais objetos.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <span style="font-size: small;"><strong>Curti:</strong></span> utensílios mais usados agrupados dentro de lata <em>vintage</em>, dessas que você encontra em feiras de antiguidades.
+  <span style="font-size: small;">**Curti:**</span> utensílios mais usados agrupados dentro de lata <em>vintage</em>, dessas que você encontra em feiras de antiguidades.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Curti:</span></strong> almofadas coloridas sobre o sofá, porque esse será o meu próximo feito decorativo aqui em casa, e marido já sabe disso, <em>hã</em>?!
+  **<span style="font-size: small;">Curti:</span>** almofadas coloridas sobre o sofá, porque esse será o meu próximo feito decorativo aqui em casa, e marido já sabe disso, <em>hã</em>?!
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Curti:</span></strong> quadro com letra em botões, do tipo que a gente olha e pensa: “ops! vou ali no armarinho comprar papel, cola e botões… depois mando fazer uma moldura toda bonitona”… é ou não é?
+  **<span style="font-size: small;">Curti:</span>** quadro com letra em botões, do tipo que a gente olha e pensa: “ops! vou ali no armarinho comprar papel, cola e botões… depois mando fazer uma moldura toda bonitona”… é ou não é?
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Curti:</span></strong> caixinhas rústicas para organizar pequenos objetos no <em>closet</em>… porque as caixas salvam!
+  **<span style="font-size: small;">Curti:</span>** caixinhas rústicas para organizar pequenos objetos no <em>closet</em>… porque as caixas salvam!
 </p>
 
 &nbsp;
@@ -66,19 +66,19 @@ Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank">apartment
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Muito mais para você…</span></strong>
+  **<span style="font-size: small;">Muito mais para você…</span>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/"><span style="font-size: small;">Decoração com cortina sem costura… e bem barata!</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/"><span style="font-size: small;">Decoração com cortina sem costura… e bem barata!</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/"><span style="font-size: small;">Decoração e reforma: 5 experts falam o que não fazer</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/"><span style="font-size: small;">Decoração e reforma: 5 experts falam o que não fazer</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/"><span style="font-size: small;">Cores na decoração: veja 6 respostas e acabe com sua dúvida</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/"><span style="font-size: small;">Cores na decoração: veja 6 respostas e acabe com sua dúvida</span></a>**
 </p>
 
 &nbsp;
@@ -90,7 +90,7 @@ Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank">apartment
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3181
+
 title: Frango crocante e sequinho? Oh, meus sais! Aqui tem!
-date: 2012-09-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/05/frango-receita/
@@ -58,7 +58,7 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -69,13 +69,13 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/"><strong><span style="font-size: medium;">Quer um creme de milho com Queijo digno de seu caderno de receitas?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/">**<span style="font-size: medium;">Quer um creme de milho com Queijo digno de seu caderno de receitas?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/vinagre-branco-balsamico-maca200/" rel="attachment wp-att-8987"><img class="alignnone size-full wp-image-8987" title="VINAGRE-BRANCO-BALSAMICO-MACA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/"><strong><span style="font-size: medium;">Temperinho bom na salada? Coloca vinagre aí, bonita?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/vinagre-branco-balsamico-maca200/" rel="attachment wp-att-8987"><img class="alignnone size-full wp-image-8987" title="VINAGRE-BRANCO-BALSAMICO-MACA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/">**<span style="font-size: medium;">Temperinho bom na salada? Coloca vinagre aí, bonita?</span>**</a>
       </p>
     </td>
   </tr>
@@ -83,7 +83,7 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/biscoito-biscoitinho-goiaba200/" rel="attachment wp-att-8863"><img class="alignnone size-full wp-image-8863" title="BISCOITO-BISCOITINHO-GOIABA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/BISCOITO-BISCOITINHO-GOIABA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/"><strong><span style="font-size: medium;"><br /> Quem gosta de uma comidinha no lanchinho da tarde?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/biscoito-biscoitinho-goiaba200/" rel="attachment wp-att-8863"><img class="alignnone size-full wp-image-8863" title="BISCOITO-BISCOITINHO-GOIABA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/BISCOITO-BISCOITINHO-GOIABA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/">**<span style="font-size: medium;"><br /> Quem gosta de uma comidinha no lanchinho da tarde?</span>**</a>
       </p>
     </td>
     
@@ -93,7 +93,7 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/"><strong><span style="font-size: medium;">Bolo: 8 receitas delícia para apreciar com café nos dias frios…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/">**<span style="font-size: medium;">Bolo: 8 receitas delícia para apreciar com café nos dias frios…</span>**</a>
       </p>
     </td>
   </tr>
@@ -101,21 +101,21 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a></strong>
+        **<a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a>**
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/"><strong><span style="font-size: medium;">Adriana magre Comida para a família e o coração: sopa e caldo</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/">**<span style="font-size: medium;">Adriana magre Comida para a família e o coração: sopa e caldo</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a></strong>
+        **<a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a>**
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/"><strong><span style="font-size: medium;">Tem receita com batata no Bicha Fêmea? Tem sim, bonita!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/">**<span style="font-size: medium;">Tem receita com batata no Bicha Fêmea? Tem sim, bonita!</span>**</a>
       </p>
     </td>
   </tr>
@@ -132,7 +132,7 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -156,9 +156,9 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

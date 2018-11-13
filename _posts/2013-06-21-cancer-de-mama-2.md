@@ -1,7 +1,7 @@
 ---
-id: 3224
+
 title: Eu, bicha fêmea navegante, estou superando um câncer de mama…
-date: 2013-06-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/21/cancer-de-mama-2/
@@ -34,7 +34,7 @@ Não sei você, mas eu não sabia que a luta contra o câncer de mama se estende
 > </p>
 > 
 > <p align="center">
->   Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+>   Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
 > </p>
 > 
 > <p align="justify">
@@ -48,7 +48,7 @@ Não sei você, mas eu não sabia que a luta contra o câncer de mama se estende
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -72,11 +72,11 @@ Não sei você, mas eu não sabia que a luta contra o câncer de mama se estende
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">

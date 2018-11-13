@@ -1,7 +1,7 @@
 ---
-id: 3348
+
 title: Hora de mudar. Fim do Bicha Fêmea.
-date: 2014-09-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/22/fim-do-bicha-femea/
@@ -10,7 +10,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Nasce, hoje, o <strong>Trololó de Mulher</strong>. Se você me perguntar quando, exatamente, tomei a decisão para a mudança do nome do blog, não saberei dizer. Fato é que esse desejo já me acompanha há algum tempo, e eu já não estava mais satisfeita com o nome que o blog carregava.
+  Nasce, hoje, o **Trololó de Mulher**. Se você me perguntar quando, exatamente, tomei a decisão para a mudança do nome do blog, não saberei dizer. Fato é que esse desejo já me acompanha há algum tempo, e eu já não estava mais satisfeita com o nome que o blog carregava.
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  Resultado: a mudança foi feita e vejo nela uma oportunidade de recomeço, de evoluir e fazer melhor. Que venham novos anos para o <strong>Trololó de Mulher</strong>! Sabe de uma coisa? Esses anos serão melhores se você continuar aí do outro lado da tela, me fazendo companhia, compartilhando sua experiência e saberes. Espero poder contar com isso e, desde já, te agradeço por tudo.
+  Resultado: a mudança foi feita e vejo nela uma oportunidade de recomeço, de evoluir e fazer melhor. Que venham novos anos para o **Trololó de Mulher**! Sabe de uma coisa? Esses anos serão melhores se você continuar aí do outro lado da tela, me fazendo companhia, compartilhando sua experiência e saberes. Espero poder contar com isso e, desde já, te agradeço por tudo.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Então, oh, pra gente continuar nosso trololó, vamos aos novos contatos?</span></strong>
+  **<span style="font-size: large;">Então, oh, pra gente continuar nosso trololó, vamos aos novos contatos?</span>**
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -42,5 +42,5 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Vamos continuar em contato!!!</span></strong>
+  **<span style="font-size: large;">Vamos continuar em contato!!!</span>**
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3381
+
 title: 'Coletânea de ideias: decoração da sala de estar.'
-date: 2015-01-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/07/decoracao-sala-estar/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Pensando em facilitar a sua vida, eu reuni neste post uma coletânea de ideias para a decoração deste ambiente. Aqui você verá os melhores posts já publicados aqui no <strong>Trololó de Mulher</strong>, e no meu outro blog, o <strong><a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a></strong>, sobre como deixar este espaço na sua casa com a sua cara. Aproveite as dicas e ideias, e divirta-se imprimindo o seu estilo e seu jeito de morar bem. Se joga!
+  Pensando em facilitar a sua vida, eu reuni neste post uma coletânea de ideias para a decoração deste ambiente. Aqui você verá os melhores posts já publicados aqui no **Trololó de Mulher**, e no meu outro blog, o **<a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>**, sobre como deixar este espaço na sua casa com a sua cara. Aproveite as dicas e ideias, e divirta-se imprimindo o seu estilo e seu jeito de morar bem. Se joga!
 </p>
 
 &nbsp;

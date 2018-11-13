@@ -1,7 +1,7 @@
 ---
-id: 3236
+
 title: Beleza da pele e cuidados anti-idade … para todas as idades!
-date: 2013-06-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/24/beleza-da-pele-2/
@@ -14,39 +14,39 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 &nbsp;
 
 <p align="justify">
-  Todo o conteúdo deste post foi editado sob consultoria da <strong>Dra. Livia Pino</strong>, que é <strong>Dermatologista</strong> e está sempre nos munindo de informação da melhor qualidade para que a gente fique com a pele bem cuidada. Quer ver? Se joga e aproveita <em>tudinho</em>, <em>tá</em>?
+  Todo o conteúdo deste post foi editado sob consultoria da **Dra. Livia Pino**, que é **Dermatologista** e está sempre nos munindo de informação da melhor qualidade para que a gente fique com a pele bem cuidada. Quer ver? Se joga e aproveita <em>tudinho</em>, <em>tá</em>?
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/BELEZA-PELE-ENVELHECIMENTO.jpg"><img class="alignnone size-full wp-image-9547" alt="BELEZA-PELE-ENVELHECIMENTO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/BELEZA-PELE-ENVELHECIMENTO.jpg" width="600" height="534" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/BELEZA-PELE-ENVELHECIMENTO.jpg"><img class="alignnone size-full wp-image-9547" alt="BELEZA-PELE-ENVELHECIMENTO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/BELEZA-PELE-ENVELHECIMENTO.jpg" width="600" height="534" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Com a palavra, a especialista:</span></strong>
+  **<span style="font-size: large;">Com a palavra, a especialista:</span>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">20 e poucos anos…</span></strong>
+  **<span style="font-size: large;">20 e poucos anos…</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Aos 20 anos, em geral, o maior problema é a oleosidade da pele e a acne</strong>.  Isso se deve ás alterações hormonais que ocorrem na adolescência, e ainda podem persistir. Em geral, há um estímulo de produção de sebo pelas glândulas sebáceas. Lá pelos 25 anos, os sinais de perda de elasticidade e consistência, até então firmes da pele, podem dar os primeiros sinais e, desta forma, começamos a notar a flacidez. Isto se deve pelo fato de que a produção do colágeno começa a diminuir. Esta fase também tem a característica do surgimento das primeiras manchinhas (sardas) do acúmulo de sol ao longo da vida. Apesar de bonitinhas, é o primeiro sinal do fotoenvelhecimento.
+  **Aos 20 anos, em geral, o maior problema é a oleosidade da pele e a acne**.  Isso se deve ás alterações hormonais que ocorrem na adolescência, e ainda podem persistir. Em geral, há um estímulo de produção de sebo pelas glândulas sebáceas. Lá pelos 25 anos, os sinais de perda de elasticidade e consistência, até então firmes da pele, podem dar os primeiros sinais e, desta forma, começamos a notar a flacidez. Isto se deve pelo fato de que a produção do colágeno começa a diminuir. Esta fase também tem a característica do surgimento das primeiras manchinhas (sardas) do acúmulo de sol ao longo da vida. Apesar de bonitinhas, é o primeiro sinal do fotoenvelhecimento.
 </p>
 
 <p align="justify">
-  Nesta fase <strong>o ideal é lavar o rosto com sabonetes adequados para pele oleosa e a proteção solar é imprescindível</strong>. Esta última é a chave para que nas próximas décadas sua pele esteja linda! <strong>O ideal é sempre procurar o dermatologista para avaliar cada caso. Mas em geral peles oleosas devem usar sabonetes a base de ácido salicílico e enxofre, e filtros solares oil free ou em gel ou toque seco. A oleosidade, acne e os primeiros sinais do envelhecimento devem ser tratados com ácidos e antioxidantes prescritos por dermatologistas.</strong>
+  Nesta fase **o ideal é lavar o rosto com sabonetes adequados para pele oleosa e a proteção solar é imprescindível**. Esta última é a chave para que nas próximas décadas sua pele esteja linda! **O ideal é sempre procurar o dermatologista para avaliar cada caso. Mas em geral peles oleosas devem usar sabonetes a base de ácido salicílico e enxofre, e filtros solares oil free ou em gel ou toque seco. A oleosidade, acne e os primeiros sinais do envelhecimento devem ser tratados com ácidos e antioxidantes prescritos por dermatologistas.**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Boas Compras</span></strong>
+  **<span style="font-size: large;">Boas Compras</span>**
 </p>
 
 <p align="center">
@@ -54,27 +54,27 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 </p>
 
 <p align="justify">
-  <strong>1 – Cleanance Gel de Limpeza Avène</strong>
+  **1 – Cleanance Gel de Limpeza Avène**
 </p>
 
 <p align="justify">
-  <strong>2 – Blemish + Age Defense | SkinCeuticals</strong>
+  **2 – Blemish + Age Defense | SkinCeuticals**
 </p>
 
 <p align="justify">
-  <strong>3 – Effaclar Sabonete</strong>
+  **3 – Effaclar Sabonete**
 </p>
 
 <p align="justify">
-  <strong>4 – Capital Soleil Vichy FPS30</strong>
+  **4 – Capital Soleil Vichy FPS30**
 </p>
 
 <p align="justify">
-  <strong>5 – Minesol Oil Control FPS30</strong>
+  **5 – Minesol Oil Control FPS30**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">+30… balzaca bem tratada</span></strong>
+  **<span style="font-size: large;">+30… balzaca bem tratada</span>**
 </p>
 
 <p align="justify">
@@ -82,15 +82,15 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 </p>
 
 <p align="justify">
-  Nesta fase, cada pele deverá ter seu tratamento mais adequado. Em geral a pele é menos oleosa do que aos 20, mas ainda podem apresentar oleosidade principalmente na zona T da face. <strong>Os sabonetes não devem ser tão secativos quanto aos 20. O ideal é um sabonete que equilibre a oleosidade, mas que ao mesmo tempo hidrate a pele</strong>. <strong>A associação do uso de tônicos para equilibrar o ph da pele é de suma importância.</strong>
+  Nesta fase, cada pele deverá ter seu tratamento mais adequado. Em geral a pele é menos oleosa do que aos 20, mas ainda podem apresentar oleosidade principalmente na zona T da face. **Os sabonetes não devem ser tão secativos quanto aos 20. O ideal é um sabonete que equilibre a oleosidade, mas que ao mesmo tempo hidrate a pele**. **A associação do uso de tônicos para equilibrar o ph da pele é de suma importância.**
 </p>
 
 <p align="justify">
-  A consulta com dermatologista deve ser mais intensa e alguns procedimentos como laser, luz intensa pulsada e peelings podem ajudar no tratamento da pele. <strong>O uso de ácidos, antioxidantes, hidratantes, renovadores celulares, clareadores são necessários e devem ser prescritos por dermatologistas</strong>. A alimentação e bons hábitos de vida são de extrema importância para a saúde da pele. Nem precisamos falar da proteção solar, não é?! <strong>Os filtros devem ter ativos antioxidantes e hidratantes em sua formulação</strong>.
+  A consulta com dermatologista deve ser mais intensa e alguns procedimentos como laser, luz intensa pulsada e peelings podem ajudar no tratamento da pele. **O uso de ácidos, antioxidantes, hidratantes, renovadores celulares, clareadores são necessários e devem ser prescritos por dermatologistas**. A alimentação e bons hábitos de vida são de extrema importância para a saúde da pele. Nem precisamos falar da proteção solar, não é?! **Os filtros devem ter ativos antioxidantes e hidratantes em sua formulação**.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Boas Opções… </span></strong>
+  **<span style="font-size: large;">Boas Opções… </span>**
 </p>
 
 <p align="center">
@@ -98,23 +98,23 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 </p>
 
 <p align="justify">
-  <strong>1 – Suavié Sabonete</strong>
+  **1 – Suavié Sabonete**
 </p>
 
 <p align="justify">
-  <strong>2 – Heliocare Maxintense FPS 90</strong>
+  **2 – Heliocare Maxintense FPS 90**
 </p>
 
 <p align="justify">
-  <strong>3 – Vitamina C &#8211; Improve C20 Dermage – Antioxidante</strong>
+  **3 – Vitamina C &#8211; Improve C20 Dermage – Antioxidante**
 </p>
 
 <p align="justify">
-  <strong>4 – LiftActiv Serum 10 – Vichy</strong>
+  **4 – LiftActiv Serum 10 – Vichy**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">E na idade da loba… +40 </span></strong>
+  **<span style="font-size: large;">E na idade da loba… +40 </span>**
 </p>
 
 <p align="justify">
@@ -122,11 +122,11 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 </p>
 
 <p align="justify">
-  Neste momento devemos usar um <strong>sabonete um pouco mais hidratante, beber bastante liquido, usar hidratantes com antioxidantes e vitaminas e sais minerais.</strong> O uso de ácidos prescritos por dermatologistas é fundamental para melhorar o aspecto e textura da pele, assim como clareadores, agentes tensores. <strong>O filtro solar nesta fase deve ter um FPS mais alto</strong>. O tratamento com laser, LIP, radiofrequência (para tratar a flacidez), peelings, preenchimentos (para repor a gordura perdida na face ou remodelar o contorno facial), toxina botulinica para melhorar rugas de expressão sao excelentes pedidas.
+  Neste momento devemos usar um **sabonete um pouco mais hidratante, beber bastante liquido, usar hidratantes com antioxidantes e vitaminas e sais minerais.** O uso de ácidos prescritos por dermatologistas é fundamental para melhorar o aspecto e textura da pele, assim como clareadores, agentes tensores. **O filtro solar nesta fase deve ter um FPS mais alto**. O tratamento com laser, LIP, radiofrequência (para tratar a flacidez), peelings, preenchimentos (para repor a gordura perdida na face ou remodelar o contorno facial), toxina botulinica para melhorar rugas de expressão sao excelentes pedidas.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Na prateleira…</span></strong>
+  **<span style="font-size: large;">Na prateleira…</span>**
 </p>
 
 <p align="center">
@@ -134,23 +134,23 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 </p>
 
 <p align="justify">
-  <strong>1 – Endocare Tensage Serum &#8211; para dar aquela esticada.</strong>
+  **1 – Endocare Tensage Serum &#8211; para dar aquela esticada.**
 </p>
 
 <p align="justify">
-  <strong>2 – Age Inverse Resculp &#8211; Dermage &#8211; para dar aquela esticadinha.</strong>
+  **2 – Age Inverse Resculp &#8211; Dermage &#8211; para dar aquela esticadinha.**
 </p>
 
 <p align="justify">
-  <strong>3 – Serenage da avène &#8211; Anti Rugas indicado para peles maduras.</strong>
+  **3 – Serenage da avène &#8211; Anti Rugas indicado para peles maduras.**
 </p>
 
 <p align="justify">
-  <strong>4 – Neovadiol gf Contorno Olhos e Boca – Vichy</strong>
+  **4 – Neovadiol gf Contorno Olhos e Boca – Vichy**
 </p>
 
 <p align="justify">
-  <strong>5 – Espuma de limpeza Compose &#8211; Dermage (rica em antioxidantes e veículo em espuma que não agride nem resseca tanto a pele).</strong>
+  **5 – Espuma de limpeza Compose &#8211; Dermage (rica em antioxidantes e veículo em espuma que não agride nem resseca tanto a pele).**
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -158,15 +158,15 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 </p>
 
 <p align="justify">
-  A Dra. Livia Pino atende na <strong>cidade do Rio de Janeiro</strong> e também edita o blog <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank"><strong>Dermatologia em Foco</strong></a>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank"><strong>clica bem aqui</strong></a> e aproveita, bonita!
+  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">**Dermatologia em Foco**</a>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">**clica bem aqui**</a> e aproveita, bonita!
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais sobre <span style="font-size: x-large;">Beleza</span> para você…<span style="font-size: x-large;"><a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">clique aqui</a></span>!</span></strong>
+  **<span style="font-size: large;">Muito mais sobre <span style="font-size: x-large;">Beleza</span> para você…<span style="font-size: x-large;"><a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">clique aqui</a></span>!</span>**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;"> </span></strong>
+  **<span style="font-size: large;"> </span>**
 </p>
 
 <p align="center">
@@ -176,7 +176,7 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -200,9 +200,9 @@ _Ei, psiu_! Você se olha no espelho e já percebe os sinais do tempo? Está inc
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

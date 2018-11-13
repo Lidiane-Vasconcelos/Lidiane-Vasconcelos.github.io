@@ -1,7 +1,7 @@
 ---
-id: 3818
+
 title: Como usar bermuda de alfaiataria?
-date: 2017-10-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/23/bermuda-de-alfaiataria/
@@ -11,7 +11,7 @@ categories:
   - Moda
 ---
 <p align="justify">
-  A <strong>bermuda de alfaiataria</strong> pode ser vista como peça chave no guarda-roupas, porque se por um lado é fácil produzir um visual descontraído com ela, por outro o seu corte permite o uso em ocasiões formais. Confira neste post, editado sob consultoria de <strong>Tatiane Velasques</strong>, <strong>Consultora de Imagem e Estilo</strong>, de que forma você pode tirar o melhor proveito de sua peça queridinha, e sair toda linda e arrasando por aí…
+  A **bermuda de alfaiataria** pode ser vista como peça chave no guarda-roupas, porque se por um lado é fácil produzir um visual descontraído com ela, por outro o seu corte permite o uso em ocasiões formais. Confira neste post, editado sob consultoria de **Tatiane Velasques**, **Consultora de Imagem e Estilo**, de que forma você pode tirar o melhor proveito de sua peça queridinha, e sair toda linda e arrasando por aí…
 </p>
 
 <p align="center">

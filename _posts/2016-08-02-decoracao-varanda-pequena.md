@@ -1,7 +1,7 @@
 ---
-id: 3633
+
 title: 4 composições de cantinhos para sua varanda pequena.
-date: 2016-08-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/02/decoracao-varanda-pequena/
@@ -67,19 +67,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais ideias para sua varanda:</strong>
+  **Mais ideias para sua varanda:**
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/" target="_blank"><strong>Varanda, terraço, área externa: é tudo de bom!</strong></a>
+  <a href="http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/" target="_blank">**Varanda, terraço, área externa: é tudo de bom!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank">**Como escolher tecidos para a decoração da varanda?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/07/17/decoracao-varanda/" target="_blank"><strong>Decoração da varanda: ideia fácil e barata para você copiar.</strong></a>
+  <a href="http://www.bichafemea.com/2013/07/17/decoracao-varanda/" target="_blank">**Decoração da varanda: ideia fácil e barata para você copiar.**</a>
 </p>
 
 <p align="center">

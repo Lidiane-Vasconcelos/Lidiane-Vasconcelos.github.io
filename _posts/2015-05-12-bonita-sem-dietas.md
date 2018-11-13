@@ -1,7 +1,7 @@
 ---
-id: 3422
+
 title: Bonita, saudável e feliz… sem dietas!
-date: 2015-05-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/12/bonita-sem-dietas/
@@ -16,23 +16,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank"><strong>Saúde e beleza no copo: sucos funcionais</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank">**Saúde e beleza no copo: sucos funcionais**</a>
 </p>
 
 <p align="justify">
-  Convidei a <strong>Luciana Kotaka, Psicóloga Clínica Especialista em Obesidade e Transtornos Alimentares, de Curitiba</strong>, para nos orientar sobre esse assunto. A ideia é mostrar com esse post que é possível se manter num peso saudável sem o tormento de viver o tempo todo de “dieta”, desde que haja algumas mudanças de atitudes, estratégias mentais, etc. Vem comigo e vamos entender juntas tudo isso…
+  Convidei a **Luciana Kotaka, Psicóloga Clínica Especialista em Obesidade e Transtornos Alimentares, de Curitiba**, para nos orientar sobre esse assunto. A ideia é mostrar com esse post que é possível se manter num peso saudável sem o tormento de viver o tempo todo de “dieta”, desde que haja algumas mudanças de atitudes, estratégias mentais, etc. Vem comigo e vamos entender juntas tudo isso…
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank"><strong>Mulher, alimentos e ansiedade: há algo familiar nisso?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank">**Mulher, alimentos e ansiedade: há algo familiar nisso?**</a>
 </p>
 
 <p align="justify">
@@ -44,11 +44,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/" target="_blank"><strong>É possível emagrecer apenas com mudanças de hábitos?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/" target="_blank">**É possível emagrecer apenas com mudanças de hábitos?**</a>
 </p>
 
 <p align="justify">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>O trabalho maior é tirar o foco da comida. Tem pessoas que acordam já preocupadas com o que irão comer durante o dia, ficam ansiosas e estressadas com esse fator. Mudar hábitos é o caminho, começar a se disciplinar e se organizar para ter os lanches intermediários a mão, alimentos de qualidade. Nem sempre as pessoas gostam de comidas mais leves e saudáveis, mas podemos sim mudar isso, porém é preciso antes de tudo que o desejo de perder peso seja real. Muitas vezes as pessoas ficam bravas com essa colocação sobre ser real ou não, porém quando queremos mesmo conseguimos mudar, buscamos por onde, buscamos ajuda e tomamos a decisão final. Sempre coloco como exemplo a seguinte situação: quer ir para a Europa? Mas o que fazer para concretizar esse sonho? Está juntando dinheiro? Já foi fazer o passaporte? Já olhou os roteiros? Já buscou na internet  locais que poderia ficar e pagar? Enfim, emagrecer e mudar hábitos necessita de uma gama de situações que levam ao sucesso desse processo, por isso dietas somente não funcionam. Outra coisa que vou novamente enfatizar, não dá para viver sem o chocolate que amamos ou uma pizza, mas podemos comer com menos frequência, em quantidades menores. O objetivo não é nunca mais comer algo que somos apaixonados, mas diminuir a frequência, não pelo peso em si, mas porque a responsabilidade de termos saúde física está em nossas mãos, esse sim deve ser o foco principal de toda mudança alimentar.”</strong>
+>   **O trabalho maior é tirar o foco da comida. Tem pessoas que acordam já preocupadas com o que irão comer durante o dia, ficam ansiosas e estressadas com esse fator. Mudar hábitos é o caminho, começar a se disciplinar e se organizar para ter os lanches intermediários a mão, alimentos de qualidade. Nem sempre as pessoas gostam de comidas mais leves e saudáveis, mas podemos sim mudar isso, porém é preciso antes de tudo que o desejo de perder peso seja real. Muitas vezes as pessoas ficam bravas com essa colocação sobre ser real ou não, porém quando queremos mesmo conseguimos mudar, buscamos por onde, buscamos ajuda e tomamos a decisão final. Sempre coloco como exemplo a seguinte situação: quer ir para a Europa? Mas o que fazer para concretizar esse sonho? Está juntando dinheiro? Já foi fazer o passaporte? Já olhou os roteiros? Já buscou na internet  locais que poderia ficar e pagar? Enfim, emagrecer e mudar hábitos necessita de uma gama de situações que levam ao sucesso desse processo, por isso dietas somente não funcionam. Outra coisa que vou novamente enfatizar, não dá para viver sem o chocolate que amamos ou uma pizza, mas podemos comer com menos frequência, em quantidades menores. O objetivo não é nunca mais comer algo que somos apaixonados, mas diminuir a frequência, não pelo peso em si, mas porque a responsabilidade de termos saúde física está em nossas mãos, esse sim deve ser o foco principal de toda mudança alimentar.”**
 > </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Primeiro, não ter em casa alimentos que são gatilhos alimentares que fazem com que se perca o controle. Caso queira ter um chocolate, comprar uma unidade pequena, para na hora que sentir um desejo muito grande, poder comer um pouco. O diário alimentar, velho conhecido de todos nós, ajuda muito. Hoje há vários aplicativos que podem auxiliar nesse processo, pois ajuda a manter o foco e se motivar com as conquistas realizadas. Se envolver em algo prazeroso, para tirar o foco do prazer somente da comida. Na terapia trabalhamos muito essa questão, as substituições de prazeres, pois um grande número de pessoas tem a vida muito limitada a trabalho, casa e filhos, não sobrando tempo para um hobbie, um divertimento ou atividade física, que também são fontes de felicidade. Quando for a uma festa, casamento ou churrasco, sempre comer algo antes, nunca chegar com muita fome, assim já ajuda muito no controle. Porém, há pessoas que comem antes e chegam na festa e continuam comendo, esse excesso indica que precisa de ajuda tanto do psicólogo quanto do psiquiatra, para tratar a compulsão alimentar. Muitas nutricionistas trabalham com fitoterapias, florais e tinturas, que são excelentes aliados para ajudar no controle alimentar. Quando procurar uma nutricionista, verifique se ela trabalha com esses recursos. Lembrando que não existe nada mágico no processo de perda de peso, cada um precisa traçar estratégias para desfocar da comida, o que exige muito esforço mental, e físico muitas vezes.”</strong>
+>   **Primeiro, não ter em casa alimentos que são gatilhos alimentares que fazem com que se perca o controle. Caso queira ter um chocolate, comprar uma unidade pequena, para na hora que sentir um desejo muito grande, poder comer um pouco. O diário alimentar, velho conhecido de todos nós, ajuda muito. Hoje há vários aplicativos que podem auxiliar nesse processo, pois ajuda a manter o foco e se motivar com as conquistas realizadas. Se envolver em algo prazeroso, para tirar o foco do prazer somente da comida. Na terapia trabalhamos muito essa questão, as substituições de prazeres, pois um grande número de pessoas tem a vida muito limitada a trabalho, casa e filhos, não sobrando tempo para um hobbie, um divertimento ou atividade física, que também são fontes de felicidade. Quando for a uma festa, casamento ou churrasco, sempre comer algo antes, nunca chegar com muita fome, assim já ajuda muito no controle. Porém, há pessoas que comem antes e chegam na festa e continuam comendo, esse excesso indica que precisa de ajuda tanto do psicólogo quanto do psiquiatra, para tratar a compulsão alimentar. Muitas nutricionistas trabalham com fitoterapias, florais e tinturas, que são excelentes aliados para ajudar no controle alimentar. Quando procurar uma nutricionista, verifique se ela trabalha com esses recursos. Lembrando que não existe nada mágico no processo de perda de peso, cada um precisa traçar estratégias para desfocar da comida, o que exige muito esforço mental, e físico muitas vezes.”**
 > </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Digo sempre que não podemos focar no que não deu certo e desanimar, e sim, verificar o que está sendo feito de errado e desencadeia o ganho de peso. Muitas pessoas emagrecem e abandonam o nutricionista e terapia, mas eles são os pilares básicos que darão suporte para manter as mudanças. Desanimar, ficar triste ou reclamar não muda a situação presente, é preciso sempre focar em metas realistas, e seguir em frente, ser positivo nesses momentos faz uma grande diferença. O que acontece com frequência é perdermos peso e aos poucos vamos comendo um pouco mais, e quando nos damos conta, engordamos de novo. Por isso o diário alimentar ainda é a estratégia básica  para o sucesso na perda de peso.”</strong>
+>   **Digo sempre que não podemos focar no que não deu certo e desanimar, e sim, verificar o que está sendo feito de errado e desencadeia o ganho de peso. Muitas pessoas emagrecem e abandonam o nutricionista e terapia, mas eles são os pilares básicos que darão suporte para manter as mudanças. Desanimar, ficar triste ou reclamar não muda a situação presente, é preciso sempre focar em metas realistas, e seguir em frente, ser positivo nesses momentos faz uma grande diferença. O que acontece com frequência é perdermos peso e aos poucos vamos comendo um pouco mais, e quando nos damos conta, engordamos de novo. Por isso o diário alimentar ainda é a estratégia básica  para o sucesso na perda de peso.”**
 > </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Veja, se identificar que o que está sentindo é fome mesmo, é necessário conversar com a nutricionista para rever o cardápio. Outra coisa é identificar se essa vontade de comer é por não estar acostumado a comer menos. É preciso dar um tempo para se acostumar com as mudanças no cardápio. Praticar o prato único, prato pequeno, pois hoje tem pratos grandes e perdemos a noção de quantidade. Se possível, se servir no fogão e não na mesa, ou no buffet, e sentar-se  de costas, isso ajuda muito no autocontrole. Manter o foco e o trato que fez consigo mesmo. O trabalho com Coaching e Hipnose terapêutica tem sido fortes aliados na perda de peso, pois podemos mudar a forma de uma pessoa se realcionar com seu peso, com seus hábitos.”</strong>
+>   **Veja, se identificar que o que está sentindo é fome mesmo, é necessário conversar com a nutricionista para rever o cardápio. Outra coisa é identificar se essa vontade de comer é por não estar acostumado a comer menos. É preciso dar um tempo para se acostumar com as mudanças no cardápio. Praticar o prato único, prato pequeno, pois hoje tem pratos grandes e perdemos a noção de quantidade. Se possível, se servir no fogão e não na mesa, ou no buffet, e sentar-se  de costas, isso ajuda muito no autocontrole. Manter o foco e o trato que fez consigo mesmo. O trabalho com Coaching e Hipnose terapêutica tem sido fortes aliados na perda de peso, pois podemos mudar a forma de uma pessoa se realcionar com seu peso, com seus hábitos.”**
 > </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Claro que todas essas dicas são conhecidas porém, como disse acima, não há mágica, infelizmente. Na terapia, como são encontros semanais, vamos trabalhando os aspectos sabotadores: a gordura esta a serviço do que? Pois muitas vezes engordamos para não enfrentar outras dificuldades presentes, ou passadas, e que muitas vezes a pessoa não tem percepção de que pode estar usando o corpo obeso como proteção. Por isso muitas vezes fica difícil falar sobre perda de peso, pois já atendi muitas pessoas na clínica e todas têm uma história única. Por isso que, muitas vezes, somente com a nutricionista não se consegue emagrecer, pois há um conjunto de situações por trás que influenciam diretamente nesse processo.”</strong>
+>   **Claro que todas essas dicas são conhecidas porém, como disse acima, não há mágica, infelizmente. Na terapia, como são encontros semanais, vamos trabalhando os aspectos sabotadores: a gordura esta a serviço do que? Pois muitas vezes engordamos para não enfrentar outras dificuldades presentes, ou passadas, e que muitas vezes a pessoa não tem percepção de que pode estar usando o corpo obeso como proteção. Por isso muitas vezes fica difícil falar sobre perda de peso, pois já atendi muitas pessoas na clínica e todas têm uma história única. Por isso que, muitas vezes, somente com a nutricionista não se consegue emagrecer, pois há um conjunto de situações por trás que influenciam diretamente nesse processo.”**
 > </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ categories:
 </p>
 
 <p align="justify">
-  Luciana Kotaka desenvolve um trabalho incrível que pode ser conferido no seu site, <strong><a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a></strong>. Lá você pode tomar conhecimento das várias áreas de atuação da profissional, pode ainda ficar por dentro de suas atualizações em <a href="http://lucianakotaka.com.br/?page_id=17747" target="_blank">seu blog</a>, ou ainda conhecer seus livros publicados sobre assuntos ligados a alimentação e emagrecimento com saúde. Claro! No site há todos os dados de contatos com a Psicóloga. Não deixe de conferir, também, sua <a href="https://www.facebook.com/ComportamentoMagro/timeline" target="_blank">página no Facebook: curta</a> e informe-se pelo bem de sua saúde.
+  Luciana Kotaka desenvolve um trabalho incrível que pode ser conferido no seu site, **<a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a>**. Lá você pode tomar conhecimento das várias áreas de atuação da profissional, pode ainda ficar por dentro de suas atualizações em <a href="http://lucianakotaka.com.br/?page_id=17747" target="_blank">seu blog</a>, ou ainda conhecer seus livros publicados sobre assuntos ligados a alimentação e emagrecimento com saúde. Claro! No site há todos os dados de contatos com a Psicóloga. Não deixe de conferir, também, sua <a href="https://www.facebook.com/ComportamentoMagro/timeline" target="_blank">página no Facebook: curta</a> e informe-se pelo bem de sua saúde.
 </p>
 
 <p align="center">

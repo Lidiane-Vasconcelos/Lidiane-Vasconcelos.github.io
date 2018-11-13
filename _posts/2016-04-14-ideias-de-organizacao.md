@@ -1,7 +1,7 @@
 ---
-id: 3589
+
 title: 'Objetos vintage: 4 ideias de organização'
-date: 2016-04-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/14/ideias-de-organizacao/

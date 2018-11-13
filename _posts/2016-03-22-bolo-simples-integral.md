@@ -1,7 +1,7 @@
 ---
-id: 3568
+
 title: Bolo simples integral com gotas de chocolate
-date: 2016-03-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/22/bolo-simples-integral/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Cheiro de bolo assando faz de uma casa um lar, melhor ainda se for um bolo saudável. Queremos e merecemos bolo, mas também precisamos que o nosso corpo receba um carinho com comida de boa qualidade, e a dica da Carol para hoje é exatamente isso. Aproveite essa delícia de <strong>bolo simples integral</strong> com gotas de chocolate, perfume a casa com bolo assando e dê ao seu corpo o que ele merece. Anote a receita aí, oh:
+  Cheiro de bolo assando faz de uma casa um lar, melhor ainda se for um bolo saudável. Queremos e merecemos bolo, mas também precisamos que o nosso corpo receba um carinho com comida de boa qualidade, e a dica da Carol para hoje é exatamente isso. Aproveite essa delícia de **bolo simples integral** com gotas de chocolate, perfume a casa com bolo assando e dê ao seu corpo o que ele merece. Anote a receita aí, oh:
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">Mousse de abacate e cacau em pó.</a></strong>
+  **<a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">Mousse de abacate e cacau em pó.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.belezacorpoecia.com/receita-tabule-quinoa-saudavel/" target="_blank">Tabule de Quinoa</a></strong>
+  **<a href="http://www.belezacorpoecia.com/receita-tabule-quinoa-saudavel/" target="_blank">Tabule de Quinoa</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.belezacorpoecia.com/torta-de-abobora-frango/" target="_blank">Torta de abóbora com frango</a></strong>
+  **<a href="http://www.belezacorpoecia.com/torta-de-abobora-frango/" target="_blank">Torta de abóbora com frango</a>**
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

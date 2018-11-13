@@ -1,7 +1,7 @@
 ---
-id: 2967
+
 title: 'Villa Pano: loja virtual de design e decoração com muito mais que objetos bonitos!'
-date: 2011-03-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/10/villa-pano-loja-virtual/
@@ -12,13 +12,13 @@ categories:
 Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada para vestir sua casa com  **itens de decoração bonitos e práticos**, e você também, com **vestuário confortável?** E se eu te disser que há uma história do tipo “gente da gente” por trás dessa loja, ou seja, que há alma?
 
 <p style="text-align: justify;">
-  A <a href="http://www.villapano.com.br/" target="_blank">Villa Pano</a> é uma loja assim, que encanta pelas <em>belezuras</em> que vende, e pela forma como tudo é encarado pela <strong>Renata Paraíso</strong>, a bonita por trás da loja e que tem o objetivo de  ajudar você e sua família a viver bem a vida, e tornar seu lar um lugar delicioso para se viver.
+  A <a href="http://www.villapano.com.br/" target="_blank">Villa Pano</a> é uma loja assim, que encanta pelas <em>belezuras</em> que vende, e pela forma como tudo é encarado pela **Renata Paraíso**, a bonita por trás da loja e que tem o objetivo de  ajudar você e sua família a viver bem a vida, e tornar seu lar um lugar delicioso para se viver.
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  É impossível ter uma casa com detalhes decorativos como os que estão disponíveis nesse espaço virtual tão inspirador, e não senti-la como um aconchego. Os <strong>artigos de <em>design</em></strong>, <strong>decoração</strong> e <strong>roupas</strong> produzidos e comercializados pela <strong>Villa Pano</strong> são pensados para proporcionar exatamente esse tipo de sensação. A Renata é quem te convida a pensar sobre sua casa desse jeito…experimenta!
+  É impossível ter uma casa com detalhes decorativos como os que estão disponíveis nesse espaço virtual tão inspirador, e não senti-la como um aconchego. Os **artigos de <em>design</em>**, **decoração** e **roupas** produzidos e comercializados pela **Villa Pano** são pensados para proporcionar exatamente esse tipo de sensação. A Renata é quem te convida a pensar sobre sua casa desse jeito…experimenta!
 </p>
 
 <blockquote style="text-align: justify;">
@@ -72,7 +72,7 @@ Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada pa
 </blockquote>
 
 <p style="text-align: justify;">
-  Eu não te falei da alma que havia por trás da <strong>Villa Pano</strong>? Ah! Deixo que ela mesma, a Renata, essa mulher de personalidade e que sabe o que quer, faça a você um convite especial:
+  Eu não te falei da alma que havia por trás da **Villa Pano**? Ah! Deixo que ela mesma, a Renata, essa mulher de personalidade e que sabe o que quer, faça a você um convite especial:
 </p>
 
 <blockquote style="text-align: justify;">

@@ -1,7 +1,7 @@
 ---
-id: 3518
+
 title: 'Como ter uma cozinha de casa alugada mais bonita: 6 dicas.'
-date: 2015-12-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/02/cozinha-de-casa-alugada/
@@ -11,19 +11,19 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Verdade seja dita: seja por causa de um detalhe ou outro, você não vive de amores pela sua <strong>cozinha de casa alugada</strong>. Felizmente, há várias coisas que você pode fazer já, e reverter essa situação. Veja o que reproduzir em seus domínios e passe a ver nesse ambiente a sua cara. Daqui por diante vai ser muito mais gostoso estar lá, preparar suas refeições e confraternizar com sua família. Vamos ás ideias? Se joga!
+  Verdade seja dita: seja por causa de um detalhe ou outro, você não vive de amores pela sua **cozinha de casa alugada**. Felizmente, há várias coisas que você pode fazer já, e reverter essa situação. Veja o que reproduzir em seus domínios e passe a ver nesse ambiente a sua cara. Daqui por diante vai ser muito mais gostoso estar lá, preparar suas refeições e confraternizar com sua família. Vamos ás ideias? Se joga!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/21/decoracao-da-casa-alugada/" target="_blank"><strong>Decoração de casa alugada: ideias temporárias.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/21/decoracao-da-casa-alugada/" target="_blank">**Decoração de casa alugada: ideias temporárias.**</a>
 </p>
 
 <p align="justify">
-  <strong>1 – Cubra superfícies feias.</strong>
+  **1 – Cubra superfícies feias.**
 </p>
 
 <p align="justify">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – Esconda o que não está legal.</strong>
+  **2 – Esconda o que não está legal.**
 </p>
 
 <p align="justify">
@@ -99,7 +99,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Use acessórios e organize.</strong>
+  **3 – Use acessórios e organize.**
 </p>
 
 <p align="justify">
@@ -155,7 +155,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Mostre o que você tem de melhor.</strong>
+  **4 – Mostre o que você tem de melhor.**
 </p>
 
 <p align="center">
@@ -171,7 +171,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Faça trocas rápidas e simples.</strong>
+  **5 – Faça trocas rápidas e simples.**
 </p>
 
 <p align="center">
@@ -195,7 +195,7 @@ categories:
 </p>
 
 <p align="center">
-  <em><strong>Panos de prato</strong> da <strong>loja virtual Xique Xique Brasil</strong>: acima são toalhas em linho rústico cru, com bordado manual; as duas abaixo são toalhas em linho amarelo e turquesa, ambas com detalhe em bordado manual do tipo Labirinto, na barra. <a href="https://www.xiquexiquebrasil.com.br/pano-de-prato-e-mao" target="_blank">Clique aqui e veja todos os panos de prato da Xique Xique Brasil</a></em><em>.</em>
+  <em>**Panos de prato** da **loja virtual Xique Xique Brasil**: acima são toalhas em linho rústico cru, com bordado manual; as duas abaixo são toalhas em linho amarelo e turquesa, ambas com detalhe em bordado manual do tipo Labirinto, na barra. <a href="https://www.xiquexiquebrasil.com.br/pano-de-prato-e-mao" target="_blank">Clique aqui e veja todos os panos de prato da Xique Xique Brasil</a></em><em>.</em>
 </p>
 
 &nbsp;
@@ -209,7 +209,7 @@ Talvez os seus panos de prato estejam um pouco sem graça… será? Confira e, n
 </p>
 
 <p align="center">
-  <em><a href="http://bit.ly/garrafaotrololo" target="_blank">Capas de garrafão</a></em><em> <strong>bordado Richelieu</strong> com detalhes ricamente trabalhados para encher seus olhos… delicadezas da <strong>Xique Xique Brasil: </strong>para conhecer o produto, </em><a href="http://bit.ly/garrafaotrololo"><em>clique aqui</em></a><em>.</em>
+  <em><a href="http://bit.ly/garrafaotrololo" target="_blank">Capas de garrafão</a></em><em> **bordado Richelieu** com detalhes ricamente trabalhados para encher seus olhos… delicadezas da **Xique Xique Brasil: **para conhecer o produto, </em><a href="http://bit.ly/garrafaotrololo"><em>clique aqui</em></a><em>.</em>
 </p>
 
 &nbsp;
@@ -225,7 +225,7 @@ Talvez os seus panos de prato estejam um pouco sem graça… será? Confira e, n
 &nbsp;
 
 <p style="text-align: justify;">
-  A <strong>Xique Xique Brasil</strong> é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No <strong>Instagram</strong> todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
+  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No **Instagram** todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
 </p>
 
 <p align="center">

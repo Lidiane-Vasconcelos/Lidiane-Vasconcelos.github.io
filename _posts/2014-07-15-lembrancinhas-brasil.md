@@ -1,7 +1,7 @@
 ---
-id: 3324
+
 title: 'Apresentando Lembrancinhas Brasil: conhece?'
-date: 2014-07-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/15/lembrancinhas-brasil/
@@ -28,7 +28,7 @@ Aniversário da cria, batizado ou 1ª comunhão, casamento, chá de lingerie, et
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Eu separei só um pouquinho, mas é pouquinho mesmo, de tudo que ela pode te oferecer. Espia!</span></strong>
+  **<span style="font-size: small;">Eu separei só um pouquinho, mas é pouquinho mesmo, de tudo que ela pode te oferecer. Espia!</span>**
 </p>
 
 &nbsp;
@@ -70,7 +70,7 @@ Aniversário da cria, batizado ou 1ª comunhão, casamento, chá de lingerie, et
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Na loja também tem presentes em MDF, oh:</span></strong>
+  **<span style="font-size: small;">Na loja também tem presentes em MDF, oh:</span>**
 </p>
 
 &nbsp;
@@ -88,7 +88,7 @@ Aniversário da cria, batizado ou 1ª comunhão, casamento, chá de lingerie, et
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">E dá só uma olhada no que tem mais!</span></strong>
+  **<span style="font-size: small;">E dá só uma olhada no que tem mais!</span>**
 </p>
 
 &nbsp;
@@ -106,5 +106,5 @@ Aniversário da cria, batizado ou 1ª comunhão, casamento, chá de lingerie, et
 &nbsp;
 
 <p align="justify">
-  Agora que você viu alguns exemplos do que está disponível na loja virtual <strong>Lembrancinhas Brasil</strong>, está oficialmente convidada a visitar a loja, espiar mais produtos e descobrir tudo o que tem por lá… toda a loja está ao seu alcance com um <a href="http://ritabrasil.divitae.com.br/home" target="_blank">clique bem aqui</a>, <em>viu</em>? Ah! A <strong>Rita Brasil</strong> também está no Facebook e você pode <a href="https://www.facebook.com/RitaBrasilArtesanato" target="_blank">curtir sua página bem aqui</a>, é só clicar. Se joga!
+  Agora que você viu alguns exemplos do que está disponível na loja virtual **Lembrancinhas Brasil**, está oficialmente convidada a visitar a loja, espiar mais produtos e descobrir tudo o que tem por lá… toda a loja está ao seu alcance com um <a href="http://ritabrasil.divitae.com.br/home" target="_blank">clique bem aqui</a>, <em>viu</em>? Ah! A **Rita Brasil** também está no Facebook e você pode <a href="https://www.facebook.com/RitaBrasilArtesanato" target="_blank">curtir sua página bem aqui</a>, é só clicar. Se joga!
 </p>

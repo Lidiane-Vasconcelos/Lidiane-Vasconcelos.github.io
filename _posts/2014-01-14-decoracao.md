@@ -1,7 +1,7 @@
 ---
-id: 3272
+
 title: 5 imagens que revelam ótimas dicas de decoração
-date: 2014-01-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/14/decoracao/
@@ -22,7 +22,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <strong><em>1 – Quadros… no chão. Por que não?!?</em></strong>
+  **<em>1 – Quadros… no chão. Por que não?!?</em>**
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <strong><em>2 – Composição despretensiosa de vasinhos: singelo.</em></strong>
+  **<em>2 – Composição despretensiosa de vasinhos: singelo.</em>**
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <strong><em>3 – Livros empilhados na mesa de centro: bonito e estiloso.</em></strong>
+  **<em>3 – Livros empilhados na mesa de centro: bonito e estiloso.</em>**
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <strong><em>4 – Vaso com folhagens… apenas elas. Precisa mais?</em></strong>
+  **<em>4 – Vaso com folhagens… apenas elas. Precisa mais?</em>**
 </p>
 
 <p align="center">
@@ -54,27 +54,27 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <strong><em>5 – Almofadas largadas no chão: pincelada de aconchego.</em></strong>
+  **<em>5 – Almofadas largadas no chão: pincelada de aconchego.</em>**
 </p>
 
 <p style="text-align: left;" align="center">
-  Imagens: <strong><em><a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></em></strong>
+  Imagens: **<em><a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></em>**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Mais… para decorar:</span></strong>
+  **<span style="font-size: medium;">Mais… para decorar:</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/10/25/decoracao-papel-enfeites/"><strong>Decoração com papel: fácil de fazer e bonito de ver</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/10/25/decoracao-papel-enfeites/">**Decoração com papel: fácil de fazer e bonito de ver**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/">**Cores salpicadas na decoração aqui e acolá: lindeza de ver**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong>Quer ver um jeito simples e elegante de decorar com fotos?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">**Quer ver um jeito simples e elegante de decorar com fotos?**</a>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

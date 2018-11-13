@@ -1,7 +1,7 @@
 ---
-id: 3437
+
 title: 'Compare: a diferença da Primavera no Brasil e na Finlândia.'
-date: 2015-06-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/19/primavera-finlandia/
@@ -15,15 +15,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>“Primavera é sinônimo de flor, calor, sol e muita cor. Só se for aí no Brasil, pois aqui na Finlândia não é bem assim! </strong>
+>   **“Primavera é sinônimo de flor, calor, sol e muita cor. Só se for aí no Brasil, pois aqui na Finlândia não é bem assim! **
 > </p>
 
 > <p align="justify">
->   <strong>O começo da estação das flores nessas terras ao norte ainda tem cara de inverno: muita neve, muito cinza e pouca cor. Ao longo da estação (passadas mais ou menos duas semanas do início), os dias vão ficando mais longos, a neve vai desaparecendo e o verde vai voltando a aparecer. A vida parece acordar, os esquilos voltam a escalar as árvores, a gaivotas a voar e cantar, e os coelhos a andar apressados para lá e para cá.</strong>
+>   **O começo da estação das flores nessas terras ao norte ainda tem cara de inverno: muita neve, muito cinza e pouca cor. Ao longo da estação (passadas mais ou menos duas semanas do início), os dias vão ficando mais longos, a neve vai desaparecendo e o verde vai voltando a aparecer. A vida parece acordar, os esquilos voltam a escalar as árvores, a gaivotas a voar e cantar, e os coelhos a andar apressados para lá e para cá.**
 > </p>
 
 > <p align="justify">
->   <strong>Ao meio da primavera temos temperaturas “agradáveis” de 13 graus em média, e já podemos ver a grama verdinha brotar, as lindas tulipas nos jardins e diversos tipos de flores. </strong>
+>   **Ao meio da primavera temos temperaturas “agradáveis” de 13 graus em média, e já podemos ver a grama verdinha brotar, as lindas tulipas nos jardins e diversos tipos de flores. **
 > </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <em><strong>Tulipas</strong></em>
+  <em>**Tulipas**</em>
 </p>
 
 <p align="center">
@@ -43,11 +43,11 @@ categories:
 </p>
 
 <p align="center">
-  <em><strong>Mais flores</strong></em>
+  <em>**Mais flores**</em>
 </p>
 
 > <p align="justify">
->   <strong>Se antes anoitecia por volta das 16h, agora a cada dia que passa o sol se põe mais tarde. Por isso, as ruas estão sempre cheias, as pessoas saem de suas casas, inúmeros eventos a céu aberto acontecem pela cidade&#8230; Não se preocupe em voltar para casa no escuro, pois na primavera não existe “escuro”. Noite mesmo só se for o curto período entre 01h e 03h da manhã e, mesmo assim, ao horizonte você consegue ver uma fina linha do sol despontando.</strong>
+>   **Se antes anoitecia por volta das 16h, agora a cada dia que passa o sol se põe mais tarde. Por isso, as ruas estão sempre cheias, as pessoas saem de suas casas, inúmeros eventos a céu aberto acontecem pela cidade&#8230; Não se preocupe em voltar para casa no escuro, pois na primavera não existe “escuro”. Noite mesmo só se for o curto período entre 01h e 03h da manhã e, mesmo assim, ao horizonte você consegue ver uma fina linha do sol despontando.**
 > </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <em><strong>Ás 22h</strong></em>
+  <em>**Ás 22h**</em>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <em><strong>Ás 23h</strong></em>
+  <em>**Ás 23h**</em>
 </p>
 
 <p align="center">
@@ -71,15 +71,15 @@ categories:
 </p>
 
 <p align="center">
-  <em><strong>Ás 24h</strong></em>
+  <em>**Ás 24h**</em>
 </p>
 
 > <p align="justify">
->   <strong>Enquanto vocês aí no Brasil, no Outono, reclamam de frio aos 17 graus, eu aqui na Finlândia fico feliz quando a máxima aqui são esses mesmo 17 graus. E se o sol estiver brilhando, consigo até arriscar a sair de casa com um simples casaquinho. Pessoas vão para as praias e parques para poder tomar um pouco de sol (Oi, vitamina D!).</strong>
+>   **Enquanto vocês aí no Brasil, no Outono, reclamam de frio aos 17 graus, eu aqui na Finlândia fico feliz quando a máxima aqui são esses mesmo 17 graus. E se o sol estiver brilhando, consigo até arriscar a sair de casa com um simples casaquinho. Pessoas vão para as praias e parques para poder tomar um pouco de sol (Oi, vitamina D!).**
 > </p>
 
 > <p align="justify">
->   <strong>Se quem é de São Paulo reclama do tempo maluco é porque não conhece aqui. A maioria dos dias aqui tem sol. E chuva. E nubla. E faz sol de novo. E é assim, com tantas mudanças em um dia só, que os dias vão seguindo e cumprindo seu ciclo, cada vez mais claros, e trazendo mais esperanças para essa brasileira aqui, de que o verão vai compensar e ser quente e gostoso! =)”</strong>
+>   **Se quem é de São Paulo reclama do tempo maluco é porque não conhece aqui. A maioria dos dias aqui tem sol. E chuva. E nubla. E faz sol de novo. E é assim, com tantas mudanças em um dia só, que os dias vão seguindo e cumprindo seu ciclo, cada vez mais claros, e trazendo mais esperanças para essa brasileira aqui, de que o verão vai compensar e ser quente e gostoso! =)”**
 > </p>
 
 <p align="center">
@@ -92,16 +92,16 @@ categories:
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-<a href="http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/" target="_blank"><strong>Dri… de volta pra Finlândia.</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/" target="_blank">**Dri… de volta pra Finlândia.**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank"><strong>Tanto tempo longe da família e amigos… quem aguenta?</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank">**Tanto tempo longe da família e amigos… quem aguenta?**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank"><strong>Se você fosse mãe lá na Finlândia…</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank">**Se você fosse mãe lá na Finlândia…**</a>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/">clicar aqui e se jogar</a>! Vai! Ah! O<strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/">clicar aqui e se jogar</a>! Vai! Ah! O**Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">

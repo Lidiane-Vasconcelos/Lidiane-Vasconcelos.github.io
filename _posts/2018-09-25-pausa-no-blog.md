@@ -1,7 +1,7 @@
 ---
-id: 3879
+
 title: Pausa no blog + aviso
-date: 2018-09-25T00:00:00+00:00
+
 author: Lidiane
 excerpt: Esta semana não há post com conteúdo, e nem semana que vem. Será necessário um tempo de recolhimento e descanso. Para logo após o meu retorno, deixo um aviso.
 layout: post
@@ -12,7 +12,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Esta semana não há post com conteúdo, e nem semana que vem. A <strong>pausa no blog</strong> se dá porque estou me preparando para uma cirurgia, então será necessário um tempo de recolhimento e descanso. Vou me cuidar direitinho e logo após o meu retorno, abrirei inscrições para nova vivência no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener"><strong>Projeto Lar Bonito Lar:</strong></a> <strong>turma de Outubro</strong>. Esta será a última turma de 2018, então segue aviso:
+  Esta semana não há post com conteúdo, e nem semana que vem. A **pausa no blog** se dá porque estou me preparando para uma cirurgia, então será necessário um tempo de recolhimento e descanso. Vou me cuidar direitinho e logo após o meu retorno, abrirei inscrições para nova vivência no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener">**Projeto Lar Bonito Lar:**</a> **turma de Outubro**. Esta será a última turma de 2018, então segue aviso:
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quer fazer parte da <strong>turma de Outubro, que será a última de 2018</strong>? <a href="https://bit.ly/2Ldn0bt" target="_blank" rel="noopener">Clique aqui, me chame no WhatsApp</a>, e peça para entrar na lista de espera de interessadas. Quando abrir inscrições para a próxima turma, falo antes com quem está nessa lista. Ou me chame no whats 81 9 9530-7307.
+  Quer fazer parte da **turma de Outubro, que será a última de 2018**? <a href="https://bit.ly/2Ldn0bt" target="_blank" rel="noopener">Clique aqui, me chame no WhatsApp</a>, e peça para entrar na lista de espera de interessadas. Quando abrir inscrições para a próxima turma, falo antes com quem está nessa lista. Ou me chame no whats 81 9 9530-7307.
 </p>
 
 <p align="justify">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

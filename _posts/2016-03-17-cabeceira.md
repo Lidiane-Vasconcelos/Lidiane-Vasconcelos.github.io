@@ -1,7 +1,7 @@
 ---
-id: 3564
+
 title: Qual a melhor cabeceira pra sua cama?
-date: 2016-03-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/17/cabeceira/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>O que norteia a escolha de uma cabeceira?</strong>
+  **O que norteia a escolha de uma cabeceira?**
 </p>
 
 <p align="justify">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>O ponto de foco</strong>
+  **O ponto de foco**
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Funcionalidade</strong>
+  **Funcionalidade**
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para cada desejo, um tipo ou estilo</strong>
+  **Para cada desejo, um tipo ou estilo**
 </p>
 
 <p align="justify">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno-2/" target="_blank"><strong>O que fazer na decoração de quarto pequeno?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno-2/" target="_blank">**O que fazer na decoração de quarto pequeno?**</a>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E pra não esquecer:</strong>
+  **E pra não esquecer:**
 </p>
 
 <p align="justify">
@@ -126,15 +126,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank">**Cabeceira com enchimento “fofinho”: como fazer?**</a>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank">Uma ideia de cabeceira simples, rápida e barata: quarto com novo visual.</a></strong>
+  **<a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank">Uma ideia de cabeceira simples, rápida e barata: quarto com novo visual.</a>**
 </p>
 
 <p align="center">

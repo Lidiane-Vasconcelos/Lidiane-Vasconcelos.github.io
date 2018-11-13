@@ -1,7 +1,7 @@
 ---
-id: 3465
+
 title: 'Sorelle Kleis: conte sua história com estilo!'
-date: 2015-08-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/18/sorelle-kleis/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Lyvia, com formação em Desenho de Moda, e Alessandra, graduada em Artes Plásticas, são irmãs gêmeas. Ambas especializadas em <em>design</em> de jóias, elas têm a formação incrementada pelo fato de que as duas também formaram-se na área de moda. Alessandra fez o curso <em>Fashion Image & Styling</em> no Istituto Marangoni em Londres, e Lyvia fez o curso <em>Fashion Production</em> no Istituto Marangoni e o curso <em>Fashion Design</em> na <em>Parson New School for Design</em> em NY. As meninas resolveram juntar suas forças, conhecimento e o amor pelo mundo da moda, e o resultado é a <strong><a href="http://sorellekleis.com.br/sorellekleis.html" target="_blank">Sorelle Kleis</a></strong> &#8211; <em>Sorelle</em> é irmãs em italiano, e Kleis o sobrenome das irmãs – uma <strong>loja multimarca e com confecção própria de roupas e acessórios femininos</strong>.
+  Lyvia, com formação em Desenho de Moda, e Alessandra, graduada em Artes Plásticas, são irmãs gêmeas. Ambas especializadas em <em>design</em> de jóias, elas têm a formação incrementada pelo fato de que as duas também formaram-se na área de moda. Alessandra fez o curso <em>Fashion Image & Styling</em> no Istituto Marangoni em Londres, e Lyvia fez o curso <em>Fashion Production</em> no Istituto Marangoni e o curso <em>Fashion Design</em> na <em>Parson New School for Design</em> em NY. As meninas resolveram juntar suas forças, conhecimento e o amor pelo mundo da moda, e o resultado é a **<a href="http://sorellekleis.com.br/sorellekleis.html" target="_blank">Sorelle Kleis</a>** &#8211; <em>Sorelle</em> é irmãs em italiano, e Kleis o sobrenome das irmãs – uma **loja multimarca e com confecção própria de roupas e acessórios femininos**.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  A loja física fica em <strong>Itapira, São Paulo, na rua XV de Novembro, 569, no centro. O telefone é (19) 3813 2752</strong>. Se você está por perto ou passando na região, claro que pode pessoalmente ver todas as novidades das meninas, que inclusive disponibilizam tamanhos <em>plus size</em>.
+  A loja física fica em **Itapira, São Paulo, na rua XV de Novembro, 569, no centro. O telefone é (19) 3813 2752**. Se você está por perto ou passando na região, claro que pode pessoalmente ver todas as novidades das meninas, que inclusive disponibilizam tamanhos <em>plus size</em>.
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  Montados do seu jeito, itens como esses e tantos outros que você econtra na loja <strong>Customize SK</strong> viram acessórios lindos, como relicários cheios de afeto. Através desses acessórios você conta sua história, ou presenteia alguém para que ela conte a dela. Não é lindo de viver?
+  Montados do seu jeito, itens como esses e tantos outros que você econtra na loja **Customize SK** viram acessórios lindos, como relicários cheios de afeto. Através desses acessórios você conta sua história, ou presenteia alguém para que ela conte a dela. Não é lindo de viver?
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3473
+
 title: 'Agenda São Paulo com crianças: Setembro!'
-date: 2015-08-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/28/sao-paulo-com-criancas-2/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>“<em>Começou o Food Park infantil, no </em></strong><a href="http://www.ibirapuera.com.br/" target="_blank"><em><strong>Shopping Ibirapuera</strong></em></a><em><strong>. O Food Park é um evento exclusivo de cupcakes e faz com que as crianças participem de ações educativas relacionadas ao poder do dinheiro e como comprar. Com uma moeda fictícia, elas terão que decidir quais cupcakes querem e quais ingredientes comprar para poder cozinhar seu próprio doce.</strong></em>
+>   **“<em>Começou o Food Park infantil, no </em>**<a href="http://www.ibirapuera.com.br/" target="_blank"><em>**Shopping Ibirapuera**</em></a><em>**. O Food Park é um evento exclusivo de cupcakes e faz com que as crianças participem de ações educativas relacionadas ao poder do dinheiro e como comprar. Com uma moeda fictícia, elas terão que decidir quais cupcakes querem e quais ingredientes comprar para poder cozinhar seu próprio doce.**</em>
 > </p>
 
 <p align="center">
@@ -26,15 +26,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>A recomendação é de 4 a 12 anos. A entrada é gratuita e cada rodada dura em média 25 minutos. </em></strong>
+>   **<em>A recomendação é de 4 a 12 anos. A entrada é gratuita e cada rodada dura em média 25 minutos. </em>**
 > </p>
 
 > <p align="justify">
->   <strong><em>De quinta a domingo (até dia 27 de setembro), das 13h00 às 18h30 </em></strong>
+>   **<em>De quinta a domingo (até dia 27 de setembro), das 13h00 às 18h30 </em>**
 > </p>
 
 > <p align="justify">
->   <strong><em>Quem não curte os Beatles? Pensando nisso, o projeto Beatles para Crianças chega para dar uma experiência única para pais e filhos: um repertório incrível, histórias encenadas, contadas e cantadas; participação das crianças tocando instrumentos, diversos efeitos&#8230;</em></strong>
+>   **<em>Quem não curte os Beatles? Pensando nisso, o projeto Beatles para Crianças chega para dar uma experiência única para pais e filhos: um repertório incrível, histórias encenadas, contadas e cantadas; participação das crianças tocando instrumentos, diversos efeitos&#8230;</em>**
 > </p>
 
 <p align="center">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>O show dura cerca de 1 hora e o ingresso custa R$ 60,00. Todos os domingos às 16h00, até dia 27 de setembro.</strong>
+>   **O show dura cerca de 1 hora e o ingresso custa R$ 60,00. Todos os domingos às 16h00, até dia 27 de setembro.**
 > </p>
 
 > <p align="justify">
->   <a href="http://teatroumc.com.br/" target="_blank"><strong>Teatro UMC</strong></a>
+>   <a href="http://teatroumc.com.br/" target="_blank">**Teatro UMC**</a>
 > </p>
 > 
 > **Av. Imperatriz Leopoldina, 550 (Vila Leopoldina)**
@@ -54,11 +54,11 @@ categories:
 > **Telefone: 2574-7749 / 3476-6403**
 
 > <p align="justify">
->   <strong>Já o Teatro Ruth Escobar, apresenta a história do menino mais esperto e sabido de todos os tempo: O Menino Maluquinho, de Ziraldo, que dispensa maiores apresentações.</strong>
+>   **Já o Teatro Ruth Escobar, apresenta a história do menino mais esperto e sabido de todos os tempo: O Menino Maluquinho, de Ziraldo, que dispensa maiores apresentações.**
 > </p>
 
 > <p align="justify">
->   <strong>O espetáculo fala sobre o momento da vida da criança em que a imaginação e a fantasia comandam, em que as crianças conseguem transformar pequenos fatos em grandes brincadeiras e aventuras.</strong>
+>   **O espetáculo fala sobre o momento da vida da criança em que a imaginação e a fantasia comandam, em que as crianças conseguem transformar pequenos fatos em grandes brincadeiras e aventuras.**
 > </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>O Menino Maluquinho fica em cartaz até dia 27 de setembro, todos os sábado e domingos às 17h30. O valor é R$ 40,00.</strong>
+>   **O Menino Maluquinho fica em cartaz até dia 27 de setembro, todos os sábado e domingos às 17h30. O valor é R$ 40,00.**
 > </p>
 
 > <p align="justify">
->   <a href="http://teatroruthescobar.com.br/" target="_blank"><strong>Teatro Ruth Escobar</strong></a><strong> &#8211; Sala Gil Vicente</strong>
+>   <a href="http://teatroruthescobar.com.br/" target="_blank">**Teatro Ruth Escobar**</a>** &#8211; Sala Gil Vicente**
 > </p>
 > 
 > **Rua dos Ingleses, 209 (Bela Vista)**
@@ -78,7 +78,7 @@ categories:
 > **Telefone: 3289-2358**
 
 > <p align="justify">
->   <strong>Estreia em setembro, na Rede Cinemark, o filme Shaun, O Carneiro. </strong>
+>   **Estreia em setembro, na Rede Cinemark, o filme Shaun, O Carneiro. **
 > </p>
 
 <p align="center">
@@ -86,11 +86,11 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>Shaun é um carneiro que resolve tirar um dia de folga com os outros animais, para sair da rotina da fazenda. Só que, acidentalmente, ele acaba mandando o carinhoso fazendeiro para a cidade grande, onde o homem perde a memória. Os animais, então, comandados por Shaun, vão aprontar altas confusões no caos urbano para trazer o dono de volta para casa.</em></strong>
+>   **<em>Shaun é um carneiro que resolve tirar um dia de folga com os outros animais, para sair da rotina da fazenda. Só que, acidentalmente, ele acaba mandando o carinhoso fazendeiro para a cidade grande, onde o homem perde a memória. Os animais, então, comandados por Shaun, vão aprontar altas confusões no caos urbano para trazer o dono de volta para casa.</em>**
 > </p>
 
 > <p align="justify">
->   <strong><em>Mais informações: </em></strong><a href="http://www.adorocinema.com/filmes/filme-221093/" target="_blank"><strong><em>Adoro Cinema</em></strong></a>”
+>   **<em>Mais informações: </em>**<a href="http://www.adorocinema.com/filmes/filme-221093/" target="_blank">**<em>Adoro Cinema</em>**</a>”
 > </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">

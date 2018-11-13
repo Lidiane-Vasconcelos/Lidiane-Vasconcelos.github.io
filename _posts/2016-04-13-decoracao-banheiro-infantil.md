@@ -1,7 +1,7 @@
 ---
-id: 3588
+
 title: Quer ideias de decoração para o banheiro das crianças?
-date: 2016-04-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/13/decoracao-banheiro-infantil/
@@ -10,17 +10,17 @@ categories:
   - Banheiro
 ---
 <p style="text-align: justify;">
-  Se na sua casa há mais de um <strong>banheiro</strong> e virou um consenso que um deles é usado exclusivamente pelas <strong>crianças, </strong>que tal dar uma <em>bossa</em> na <strong>decoração</strong> do espaço com ideias simples?
+  Se na sua casa há mais de um **banheiro** e virou um consenso que um deles é usado exclusivamente pelas **crianças, **que tal dar uma <em>bossa</em> na **decoração** do espaço com ideias simples?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Pode acreditar que as sugestões são rápidas de serem executadas e bem práticas, tudo para que os momentos de banho dos pequenos sejam ainda mais prazerosos. Todas as ideias são do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>, e elas são para você copiar mesmo, <em>viu</em>? Portanto… inspire-se!
+  Pode acreditar que as sugestões são rápidas de serem executadas e bem práticas, tudo para que os momentos de banho dos pequenos sejam ainda mais prazerosos. Todas as ideias são do site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**, e elas são para você copiar mesmo, <em>viu</em>? Portanto… inspire-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Ilumine o espaço com cores!</span></strong>
+  **<span style="font-size: large;">Ilumine o espaço com cores!</span>**
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mime os olhos com fofurices!</span></strong>
+  **<span style="font-size: large;">Mime os olhos com fofurices!</span>**
 </p>
 
 &nbsp;
@@ -54,7 +54,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">E no chão… nada?!</span></strong>
+  **<span style="font-size: large;">E no chão… nada?!</span>**
 </p>
 
 &nbsp;
@@ -72,7 +72,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">E se a mamãe for prendada…</span></strong>
+  **<span style="font-size: large;">E se a mamãe for prendada…</span>**
 </p>
 
 &nbsp;

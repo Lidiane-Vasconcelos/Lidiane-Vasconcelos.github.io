@@ -1,7 +1,7 @@
 ---
-id: 3812
+
 title: Bolo de lavanda com perfume e bossa vintage.
-date: 2017-10-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/10/bolo-de-lavanda/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Sabe quando o momento pede um carinho gostoso em forma de comida especial? A ideia é você oferecer esse <strong>bolo de lavanda</strong> com <em>bossa vintage</em>, romanticamente perfumado. Tânia garante: não há como não impressionar positivamente como essa belezinha… anota a receita aí:
+  Sabe quando o momento pede um carinho gostoso em forma de comida especial? A ideia é você oferecer esse **bolo de lavanda** com <em>bossa vintage</em>, romanticamente perfumado. Tânia garante: não há como não impressionar positivamente como essa belezinha… anota a receita aí:
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ _8- Espalhe a cobertura no topo do bolo e decore com algumas flores de lavanda_.
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank"><strong>Receita de salada de figo: com história e afeto.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank">**Receita de salada de figo: com história e afeto.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank"><strong>Canja de galinha para colocar um sorriso no rosto.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank">**Canja de galinha para colocar um sorriso no rosto.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank"><strong>Picolé caseiro com tangerina assada, com gengibre e iogurte.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank">**Picolé caseiro com tangerina assada, com gengibre e iogurte.**</a>
 
 <p align="justify">
   O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!

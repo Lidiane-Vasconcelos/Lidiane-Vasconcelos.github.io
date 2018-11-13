@@ -1,7 +1,7 @@
 ---
-id: 2595
+
 title: Aquecendo a mudança…
-date: 2008-12-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2008/12/02/aquecendo-a-mudana/

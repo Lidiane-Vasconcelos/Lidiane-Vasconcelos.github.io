@@ -1,7 +1,7 @@
 ---
-id: 3547
+
 title: 4 lições que eu aprendi para manter a casa limpa.
-date: 2016-02-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/23/casa-limpa/
@@ -10,19 +10,19 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  O melhor dos mundos em um lar é quando temos a <strong>casa limpa</strong> e organizada, porque isso promove a sensação de bem-estar. Não é bom sentir-se bem em casa? Pois é. Ocorre que para quem coloca a mão na massa no dia a dia, exatamente como fazemos por aqui (marido e eu), é preciso lançar mão de estratégias que facilitem essa manutenção no dia a dia. Queremos casa limpa, mas é importante que essa tarefa diária seja feita com eficiência e de forma bastante simples. Sendo assim, quero compartilhar contigo o que eu tenho aprendido com esse desafio, e o que tem funcionado para alcançar nosso objetivo.
+  O melhor dos mundos em um lar é quando temos a **casa limpa** e organizada, porque isso promove a sensação de bem-estar. Não é bom sentir-se bem em casa? Pois é. Ocorre que para quem coloca a mão na massa no dia a dia, exatamente como fazemos por aqui (marido e eu), é preciso lançar mão de estratégias que facilitem essa manutenção no dia a dia. Queremos casa limpa, mas é importante que essa tarefa diária seja feita com eficiência e de forma bastante simples. Sendo assim, quero compartilhar contigo o que eu tenho aprendido com esse desafio, e o que tem funcionado para alcançar nosso objetivo.
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank"><strong>Casa limpa e organizada com menos esforço: 11 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank">**Casa limpa e organizada com menos esforço: 11 dicas.**</a>
 </p>
 
 <p align="justify">
-  <strong>A simplicidade salva!</strong>
+  **A simplicidade salva!**
 </p>
 
 <p align="center">
@@ -38,15 +38,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">**Como evitar o acúmulo e organizar o lar? Dicas práticas.**</a>
 </p>
 
 <p align="justify">
-  <strong>Na cozinha, a funcionalidade é rainha!</strong>
+  **Na cozinha, a funcionalidade é rainha!**
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Reduza a quantidade de móveis.</strong>
+  **Reduza a quantidade de móveis.**
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Escolha móveis com design simples.</strong>
+  **Escolha móveis com design simples.**
 </p>
 
 <p align="center">

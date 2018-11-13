@@ -1,7 +1,7 @@
 ---
-id: 2643
+
 title: Queime calorias e ganhe saúde cuidando da casa!
-date: 2009-04-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/07/perca-calorias/

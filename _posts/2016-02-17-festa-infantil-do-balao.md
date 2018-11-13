@@ -1,7 +1,7 @@
 ---
-id: 3543
+
 title: 'Festa infantil do balão: ideias lindas de viver.'
-date: 2016-02-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/17/festa-infantil-do-balao/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Até onde dá pra ir num balão? Aonde quer que a imaginação infantil chegue, esse é o limite. Não é lindo pensar assim?! <strong>Festa infantil do balão</strong>, bem colorida, tem uma carinha de infância difícil de resistir. Você vive de amores pela ideia assim como eu? Foi uma delícia reunir algumas inspirações para você neste post, que tem por objetivo servir de ponto de partida para a sua imaginação materna… como você deixaria a festa da sua cria pura lindeza? Inspire-se!
+  Até onde dá pra ir num balão? Aonde quer que a imaginação infantil chegue, esse é o limite. Não é lindo pensar assim?! **Festa infantil do balão**, bem colorida, tem uma carinha de infância difícil de resistir. Você vive de amores pela ideia assim como eu? Foi uma delícia reunir algumas inspirações para você neste post, que tem por objetivo servir de ponto de partida para a sua imaginação materna… como você deixaria a festa da sua cria pura lindeza? Inspire-se!
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>O Bolo</strong>
+  **O Bolo**
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A mesa</strong>
+  **A mesa**
 </p>
 
 &nbsp;
@@ -59,15 +59,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank"><strong>Sacolinha de festa infantil: faça você mesma</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">**Sacolinha de festa infantil: faça você mesma**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/" target="_blank"><strong>Lembrancinhas de festas que saem da mesmice: dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/" target="_blank">**Lembrancinhas de festas que saem da mesmice: dicas.**</a>
 </p>
 
 &nbsp;

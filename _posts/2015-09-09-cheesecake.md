@@ -1,7 +1,7 @@
 ---
-id: 3480
+
 title: 'Vídeo receita: cheesecake assada com geleia de framboesa e morangos'
-date: 2015-09-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/09/cheesecake/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Confesso: nunca fiz uma <strong><em>cheesecake</em></strong> porque sempre achei que eu não seria capaz. Sou uma cozinheira das mais básicas e arriscar tanto sempre me deu uma aflição. Medo do fracasso, sabe? Me julgue! Até que… surgiu a Drica pra explicar tudo <em>tim tim por tim tim</em>, e fazer tudo parecer tão fácil. Agora, sim: me sinto mais segura para tentar. Quer ver que didático é esse vídeo da Drica? Delicie-se a aprenda como fazer essa <em>lindeza</em> de cheesecake assada com geleia de framboesa e morangos. É de babar!
+  Confesso: nunca fiz uma **<em>cheesecake</em>** porque sempre achei que eu não seria capaz. Sou uma cozinheira das mais básicas e arriscar tanto sempre me deu uma aflição. Medo do fracasso, sabe? Me julgue! Até que… surgiu a Drica pra explicar tudo <em>tim tim por tim tim</em>, e fazer tudo parecer tão fácil. Agora, sim: me sinto mais segura para tentar. Quer ver que didático é esse vídeo da Drica? Delicie-se a aprenda como fazer essa <em>lindeza</em> de cheesecake assada com geleia de framboesa e morangos. É de babar!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
   * <p align="justify">
@@ -54,7 +54,7 @@ categories:
     </p>
 
 <p align="justify">
-  <strong>Pré-preparo:</strong>
+  **Pré-preparo:**
 </p>
 
   * <p align="justify">
@@ -70,23 +70,23 @@ categories:
     </p>
 
 <p align="justify">
-  <strong>Passo-a-passo:</strong>
+  **Passo-a-passo:**
 </p>
 
 <p align="justify">
-  <strong>1 – </strong>Misture as bolachas trituradas com a manteiga até obter uma farofa molhada. Coloque no fundo da assadeira pressionando com as mãos e depois com uma tampa lisa até que fique uniforme. Cubra a base externa da fôrma de fundo falso com papel alumínio para evitar vazamentos no forno, leve para assar em forno médio-alto por exatos 10 minutos.
+  **1 – **Misture as bolachas trituradas com a manteiga até obter uma farofa molhada. Coloque no fundo da assadeira pressionando com as mãos e depois com uma tampa lisa até que fique uniforme. Cubra a base externa da fôrma de fundo falso com papel alumínio para evitar vazamentos no forno, leve para assar em forno médio-alto por exatos 10 minutos.
 </p>
 
 <p align="justify">
-  <strong>2 – </strong>Enquanto isso bata na batedeira o cream cheese, os ovos, açúcar, farinha de trigo, raspas de limão e o creme de leite, somente para misturar e obter um creme homogêneo. Quando a massa retirada do fôrno estiver fria, despeje sobre ela o creme homogêneo e leve novamente ao forno BAIXO por cerca de uma hora. (Fique atento e cheque o ponto de cozimento aos 40 minutos).
+  **2 – **Enquanto isso bata na batedeira o cream cheese, os ovos, açúcar, farinha de trigo, raspas de limão e o creme de leite, somente para misturar e obter um creme homogêneo. Quando a massa retirada do fôrno estiver fria, despeje sobre ela o creme homogêneo e leve novamente ao forno BAIXO por cerca de uma hora. (Fique atento e cheque o ponto de cozimento aos 40 minutos).
 </p>
 
 <p align="justify">
-  <strong>3 – </strong>Retire do forno no ponto mostrado no vídeo, espere esfriar um pouco e leve a geladeira por toda a noite para resfriar bem. No dia seguinte, desenforme e cubra com a geléia de framboesa morna e os morangos!
+  **3 – **Retire do forno no ponto mostrado no vídeo, espere esfriar um pouco e leve a geladeira por toda a noite para resfriar bem. No dia seguinte, desenforme e cubra com a geléia de framboesa morna e os morangos!
 </p>
 
 > <p align="justify">
->   <strong><em>“Você pode usar a cobertura que desejar, essa cheesecake é básica! Decore com a geléia e frutas de sua preferência! Sugestões de calda: frutas vermelhas, amora, uva, pêssego em calda, damasco… Você também pode cobrir as laterais da forma se desejar, basta dobrar a quantidade de bolacha maizena e manteiga da receita e siga o restante da mesma maneira!”</em></strong>
+>   **<em>“Você pode usar a cobertura que desejar, essa cheesecake é básica! Decore com a geléia e frutas de sua preferência! Sugestões de calda: frutas vermelhas, amora, uva, pêssego em calda, damasco… Você também pode cobrir as laterais da forma se desejar, basta dobrar a quantidade de bolacha maizena e manteiga da receita e siga o restante da mesma maneira!”</em>**
 > </p>
 
 <p align="center">
@@ -97,15 +97,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Drica:</strong>
+  **Mais receitas da Drica:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/26/capuccino-caseiro-cremoso/" target="_blank"><strong>Vídeo receita: capuccino caseiro cremoso</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/26/capuccino-caseiro-cremoso/" target="_blank">**Vídeo receita: capuccino caseiro cremoso**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/" target="_blank"><strong>Vídeo receita: batata doce assada</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/" target="_blank">**Vídeo receita: batata doce assada**</a>
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3660
+
 title: 'Empreendedorismo: minha entrevista com Rafa Cappai'
-date: 2016-09-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/09/empreendedorismo-3/
@@ -11,7 +11,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Quando se fala em <strong>empreendedorismo</strong> criativo, não dá outra: Rafa Cappai é referência! Não lembro mais quando foi, mas um belo e grato dia, esbarrei na internet com essa moça <em>superultramega</em> talentosa e inspiradora e, desde então, tenho aprendido <em>muuuuita</em> coisa bacana sobre o que é o tal do <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank">empreendedorismo criativo</a>. Rafaela Cappai é a responsável por me tirar da zona de conforto constantemente. Sem que Rafa soubesse (até o dia em que entrei em contato com ela e pedi a entrevista), eu acompanhava o seu trabalho na <a href="http://www.espaconave.com.br/" target="_blank">Espaçonave</a> – <em>para artistas e criativos que decidiram viver fazendo o que amam e transformar paixão em negócio</em> &#8211; há bastante tempo através de sua <strong>Mensagem de Bordo</strong> (é assim que ela chama a sua deliciosa e inspiradora <em>newsletter</em>), seus inúmeros e criativos vídeos do <a href="https://www.youtube.com/user/aespaconave" target="_blank">canal do Youtube</a>, a exemplo da série <strong><em>VQVResponde</em></strong>, ou ainda em suas atualizações ou transmissões ao vivo na <a href="https://www.facebook.com/espaconave/" target="_blank">sua Fanpage</a>. Como se não bastasse, ano passado comprei seu livro e recebi em casa minha versão autografada (Ui!) do <a href="http://www.espaconave.com.br/livro/" target="_blank">Criativo e Empreendedor, sim senhor!</a> … pois é, tornei-me uma entusiasta de carteirinha do trabalho da Rafa.
+  Quando se fala em **empreendedorismo** criativo, não dá outra: Rafa Cappai é referência! Não lembro mais quando foi, mas um belo e grato dia, esbarrei na internet com essa moça <em>superultramega</em> talentosa e inspiradora e, desde então, tenho aprendido <em>muuuuita</em> coisa bacana sobre o que é o tal do <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank">empreendedorismo criativo</a>. Rafaela Cappai é a responsável por me tirar da zona de conforto constantemente. Sem que Rafa soubesse (até o dia em que entrei em contato com ela e pedi a entrevista), eu acompanhava o seu trabalho na <a href="http://www.espaconave.com.br/" target="_blank">Espaçonave</a> – <em>para artistas e criativos que decidiram viver fazendo o que amam e transformar paixão em negócio</em> &#8211; há bastante tempo através de sua **Mensagem de Bordo** (é assim que ela chama a sua deliciosa e inspiradora <em>newsletter</em>), seus inúmeros e criativos vídeos do <a href="https://www.youtube.com/user/aespaconave" target="_blank">canal do Youtube</a>, a exemplo da série **<em>VQVResponde</em>**, ou ainda em suas atualizações ou transmissões ao vivo na <a href="https://www.facebook.com/espaconave/" target="_blank">sua Fanpage</a>. Como se não bastasse, ano passado comprei seu livro e recebi em casa minha versão autografada (Ui!) do <a href="http://www.espaconave.com.br/livro/" target="_blank">Criativo e Empreendedor, sim senhor!</a> … pois é, tornei-me uma entusiasta de carteirinha do trabalho da Rafa.
 </p>
 
 <p align="justify">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Pra começar…</strong>
+  **Pra começar…**
 </p>
 
 <p align="center">
@@ -30,70 +30,70 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual o perfil de quem é entusiasta pelo seu trabalho?</strong>
+  **Trololó de Mulher >>> Qual o perfil de quem é entusiasta pelo seu trabalho?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> A sede da Espaçonave, agora em São Paulo, recebeu a intervenção de vários artistas. Ainda assim, ela te representa?</strong>
+  **Trololó de Mulher >>> A sede da Espaçonave, agora em São Paulo, recebeu a intervenção de vários artistas. Ainda assim, ela te representa?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Sentiu-se acolhida na terra da garoa?</strong>
+  **Trololó de Mulher >>> Sentiu-se acolhida na terra da garoa?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> De onde vem tanto aprendizado?</strong>
+  **Trololó de Mulher >>> De onde vem tanto aprendizado?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Sua essência é a mesma de quando começou isso tudo?</strong>
+  **Trololó de Mulher >>> Sua essência é a mesma de quando começou isso tudo?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> A que você atribui tanta popularidade em meio aos criativos empreendedores?</strong>
+  **Trololó de Mulher >>> A que você atribui tanta popularidade em meio aos criativos empreendedores?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Amizades e negócios dão uma boa mistura?</strong>
+  **Trololó de Mulher >>> Amizades e negócios dão uma boa mistura?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como, sendo tão ativa, é possível dar espaço para a vida pessoal?</strong>
+  **Trololó de Mulher >>> Como, sendo tão ativa, é possível dar espaço para a vida pessoal?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>></strong> <strong>É uma boa ideia envolver o marido, parceiro da vida, nos negócios também?</strong>
+  **Trololó de Mulher >>>** **É uma boa ideia envolver o marido, parceiro da vida, nos negócios também?**
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como você lida com a alta expectativa criada pelos seus alunos do programa <a href="http://decolalab.com.br/" target="_blank">Decola! Lab</a>?</strong>
+  **Trololó de Mulher >>> Como você lida com a alta expectativa criada pelos seus alunos do programa <a href="http://decolalab.com.br/" target="_blank">Decola! Lab</a>?**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3011
+
 title: Você receberia em casa um estrangeiro que nunca viu?
-date: 2011-06-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/15/intercambio/
@@ -12,7 +12,7 @@ categories:
 A pergunta parece sem sentido? Se é para você, também é para outras mulheres. Imagine se eu te perguntasse: você assumiria a responsabilidade de mãe de um adolescente estrangeiro? Ficaria ainda mais estranho? Pois saiba que há quem faça isso, tudo através de **programas de intercâmbio**. Já ouviu falar?
 
 <p style="text-align: justify;">
-  A pauta desse post foi uma sugestão da <strong>Marluce</strong>, que é leitora assídua do Bicha Fêmea e quis divulgar essa forma fantástica de troca humana e de possibilidade de aprender uma nova língua…tudo sem sair de casa! Confere!
+  A pauta desse post foi uma sugestão da **Marluce**, que é leitora assídua do Bicha Fêmea e quis divulgar essa forma fantástica de troca humana e de possibilidade de aprender uma nova língua…tudo sem sair de casa! Confere!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mapa.jpg"><img class="alignnone size-full wp-image-6523" title="mapa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mapa.jpg" alt="" width="600" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mapa.jpg"><img class="alignnone size-full wp-image-6523" title="mapa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/mapa.jpg" alt="" width="600" height="600" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
 </p>
 
 <p style="text-align: justify;">
@@ -34,11 +34,11 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: justify;">
-  Em terras tupiniquins, se você quiser receber um estudante estrangeiro e vivenciar esse tipo de troca, é possível. Quem pode ajudar as famílias brasileiras nesse sentido é o pessoal do <strong><a href="http://www.yfu.com.br/index.shtml" target="_blank">YFU</a></strong>. Já ouviu falar? Eles se apresentam assim:
+  Em terras tupiniquins, se você quiser receber um estudante estrangeiro e vivenciar esse tipo de troca, é possível. Quem pode ajudar as famílias brasileiras nesse sentido é o pessoal do **<a href="http://www.yfu.com.br/index.shtml" target="_blank">YFU</a>**. Já ouviu falar? Eles se apresentam assim:
 </p>
 
 > <p style="text-align: justify;">
->   “<em>O <strong>YOUTH FOR UNDERSTANDING</strong> (YFU) é um dos maiores e mais antigos programas de intercâmbio em operação. Foi fundado em 1951 e funciona no Brasil desde 1963. Desde essa data já enviamos milhares de estudantes brasileiros e também acolhemos estudantes estrangeiros aqui. Já influenciamos a vida de milhares de jovens e nos sentimos muito orgulhosos disto</em>.”
+>   “<em>O **YOUTH FOR UNDERSTANDING** (YFU) é um dos maiores e mais antigos programas de intercâmbio em operação. Foi fundado em 1951 e funciona no Brasil desde 1963. Desde essa data já enviamos milhares de estudantes brasileiros e também acolhemos estudantes estrangeiros aqui. Já influenciamos a vida de milhares de jovens e nos sentimos muito orgulhosos disto</em>.”
 > </p>
 
 <p style="text-align: justify;">
@@ -66,27 +66,27 @@ A pergunta parece sem sentido? Se é para você, também é para outras mulheres
 </p>
 
 <p style="text-align: justify;">
-  Ficou interessada, ao menos, em se informar melhor sobre o que é o programa de intercâmbio do YFU, bonita? Se joga no <strong><a href="http://www.yfu.com.br/index.shtml" target="_blank">site</a></strong>, explore as informações, pondere e pense a respeito. A Marluce também pode tirar suas dúvidas pelo <a href="mailto:marluce48@hotmail.com">marluce48@hotmail.com</a>. Quem sabe não está aí algo novo pela frente? Quem sabe…
+  Ficou interessada, ao menos, em se informar melhor sobre o que é o programa de intercâmbio do YFU, bonita? Se joga no **<a href="http://www.yfu.com.br/index.shtml" target="_blank">site</a>**, explore as informações, pondere e pense a respeito. A Marluce também pode tirar suas dúvidas pelo <a href="mailto:marluce48@hotmail.com">marluce48@hotmail.com</a>. Quem sabe não está aí algo novo pela frente? Quem sabe…
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> </em></strong>
+  **<em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> </em>**
 </p>
 
 <p style="text-align: center;">
-  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 <p style="text-align: center;">

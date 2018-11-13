@@ -1,7 +1,7 @@
 ---
-id: 2779
+
 title: Prateleira do Bicha Fêmea – Izabelle Nossa
-date: 2010-02-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/03/prateleira-do-bicha-femea-izabelle-nossa/

@@ -1,7 +1,7 @@
 ---
-id: 3321
+
 title: Qual a hora certa de mandar a cria para a escolinha?
-date: 2014-07-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/16/hora-certa-escolinha/
@@ -29,17 +29,17 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 </p>
 
 <p align="justify">
-  <strong>Já que falamos na tal da culpa materna, não deixe de ler:</strong>
+  **Já que falamos na tal da culpa materna, não deixe de ler:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/04/culpa-materna/" target="_blank">Culpa materna na consciência da outra é refresco. Liberte-se!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/02/04/culpa-materna/" target="_blank">Culpa materna na consciência da outra é refresco. Liberte-se!</a>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">“Nunca deixarei minha criança ser educada pela escola. Acredito que este papel é meu e do meu esposo. Mas acredito que a escola é parceira.”</span></strong>
+  **<span style="font-size: small;">“Nunca deixarei minha criança ser educada pela escola. Acredito que este papel é meu e do meu esposo. Mas acredito que a escola é parceira.”</span>**
 </p>
 
 &nbsp;
@@ -61,7 +61,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">“Optei por manter na escola e depois de duas semanas lulu entendeu a escola, conheceu amigos, apaixonou na professora e simplesmente fez um &#8220;tchau mamãe &#8220;</span></strong>
+  **<span style="font-size: small;">“Optei por manter na escola e depois de duas semanas lulu entendeu a escola, conheceu amigos, apaixonou na professora e simplesmente fez um &#8220;tchau mamãe &#8220;</span>**
 </p>
 
 &nbsp;
@@ -71,11 +71,11 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 > </p>
 > 
 > <p align="justify">
->   <strong>Já que a Fernanda tocou no assunto &#8220;desfralde&#8221;, segue sugestão de leitura:</strong>
+>   **Já que a Fernanda tocou no assunto &#8220;desfralde&#8221;, segue sugestão de leitura:**
 > </p>
 > 
 > <p align="justify">
->   <strong><a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank">Dilema de mãe&#8230; a hora do desfralde: como fazer?</a></strong>
+>   **<a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank">Dilema de mãe&#8230; a hora do desfralde: como fazer?</a>**
 > </p>
 
 &nbsp;
@@ -91,7 +91,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">“Acho que não tem certo nem errado, fazemos o melhor dentro das nossas possibilidades. Existe o lado bom de ir na escolinha cedo e vice versa.”</span></strong>
+  **<span style="font-size: small;">“Acho que não tem certo nem errado, fazemos o melhor dentro das nossas possibilidades. Existe o lado bom de ir na escolinha cedo e vice versa.”</span>**
 </p>
 
 &nbsp;
@@ -113,7 +113,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">“Apesar desse distanciamento escolar, ele não fica alheio a esse mundo. Tomás tem muito contato com livros, papéis, tinta, giz, canetinha, lápis&#8230;”</span></strong>
+  **<span style="font-size: small;">“Apesar desse distanciamento escolar, ele não fica alheio a esse mundo. Tomás tem muito contato com livros, papéis, tinta, giz, canetinha, lápis&#8230;”</span>**
 </p>
 
 &nbsp;
@@ -141,7 +141,7 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

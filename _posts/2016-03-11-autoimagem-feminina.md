@@ -1,7 +1,7 @@
 ---
-id: 3562
+
 title: 'Autoimagem feminina: por que mulheres tão insatisfeitas?'
-date: 2016-03-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/11/autoimagem-feminina/
@@ -11,11 +11,11 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Basta um tempo diante de uma rede social, e o que se vê é um monte de mulheres que reclamam do cabelo, do corpo, da pele. A <strong>autoimagem feminina</strong> reflete algo que não deixa essas mulheres nada contentes, e a preocupação em buscar a perfeição faz parte do dia a dia delas. Quando é que a vaidade deixa de ser normal? É certo que somos constantemente bombardeadas pelas imagens ditadas como sendo o padrão, e estar fora dele pode causar sofrimento. Como ser feliz se estamos “desencaixadas” desse modelo de beleza? Como dar o primeiro passo rumo a aceitação do que vemos no espelho, e partir para o uma vida mais leve, satisfeita com a própria imagem?
+  Basta um tempo diante de uma rede social, e o que se vê é um monte de mulheres que reclamam do cabelo, do corpo, da pele. A **autoimagem feminina** reflete algo que não deixa essas mulheres nada contentes, e a preocupação em buscar a perfeição faz parte do dia a dia delas. Quando é que a vaidade deixa de ser normal? É certo que somos constantemente bombardeadas pelas imagens ditadas como sendo o padrão, e estar fora dele pode causar sofrimento. Como ser feliz se estamos “desencaixadas” desse modelo de beleza? Como dar o primeiro passo rumo a aceitação do que vemos no espelho, e partir para o uma vida mais leve, satisfeita com a própria imagem?
 </p>
 
 <p align="justify">
-  O x dessas questões e de tantas outras, que pode nos ajudar a refletir sobre o que é e como sentir-se bonita de verdade, foi tratado pela <strong>Psicóloga Elaine Sibinelli, de Campinas – SP</strong>. Elaine conta mais adiante o que pode impactar o nosso grau de satisfação com nossa própria imagem, e explica como superar esse sofrimento de ver tanto defeito onde, na verdade, não existe. Vamos todas fazer as pazes com nosso corpo?
+  O x dessas questões e de tantas outras, que pode nos ajudar a refletir sobre o que é e como sentir-se bonita de verdade, foi tratado pela **Psicóloga Elaine Sibinelli, de Campinas – SP**. Elaine conta mais adiante o que pode impactar o nosso grau de satisfação com nossa própria imagem, e explica como superar esse sofrimento de ver tanto defeito onde, na verdade, não existe. Vamos todas fazer as pazes com nosso corpo?
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem **página do Facebook**, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
 </p>
 
 <p align="center">

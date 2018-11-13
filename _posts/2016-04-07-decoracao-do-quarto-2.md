@@ -1,7 +1,7 @@
 ---
-id: 3582
+
 title: Aprenda uma dica top e deixe a decoração do quarto linda!
-date: 2016-04-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/07/decoracao-do-quarto-2/
@@ -12,7 +12,7 @@ categories:
   - Quarto
 ---
 <p align="justify">
-  Este post tem o propósito de te surpreender, bem positivamente eu diria, com uma ideia simples e prática para você <em>trans-for-mar</em> a <strong>decoração do quarto</strong> já! Acompanha comigo: já imaginou colocar <em>pitadinhas</em> de cor, alegria e <em>design</em> na sua cama, de modo que a decoração fique exatamente com sua cara, seu jeito? Essa ideia é da <strong><a href="https://www.primitas.com.br/" target="_blank">Primitas</a></strong>, uma loja virtual especializada em vender <strong>fronhas avulsas</strong>, com estampas que traduzem os mais variados estilos e que, sim, podem promover a mudança que você deseja ao seu cantinho de dormir, tudo por precinhos bem camaradas.
+  Este post tem o propósito de te surpreender, bem positivamente eu diria, com uma ideia simples e prática para você <em>trans-for-mar</em> a **decoração do quarto** já! Acompanha comigo: já imaginou colocar <em>pitadinhas</em> de cor, alegria e <em>design</em> na sua cama, de modo que a decoração fique exatamente com sua cara, seu jeito? Essa ideia é da **<a href="https://www.primitas.com.br/" target="_blank">Primitas</a>**, uma loja virtual especializada em vender **fronhas avulsas**, com estampas que traduzem os mais variados estilos e que, sim, podem promover a mudança que você deseja ao seu cantinho de dormir, tudo por precinhos bem camaradas.
 </p>
 
 <p align="center">
@@ -44,15 +44,15 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <em><strong>3º lugar</strong> &#8211; fronhas produzidas com qualidade e carinho: buscamos tecidos estampados e trabalhamos com mão de obra especializada para que sua fronha tenha qualidade e durabilidade. Além disso, embalamos pessoalmente sua compra, com grande carinho e dedicação.</em><em> </em>
+  <em>**3º lugar** &#8211; fronhas produzidas com qualidade e carinho: buscamos tecidos estampados e trabalhamos com mão de obra especializada para que sua fronha tenha qualidade e durabilidade. Além disso, embalamos pessoalmente sua compra, com grande carinho e dedicação.</em><em> </em>
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <em><strong>2º lugar</strong> &#8211; fronhas versáteis: as fronhas Primitas são tão bonitas que podem ser utilizadas tanto para dormir, quanto para decorar. Quer o conforto do travesseiro na sala? Troque as fronhas e decore o ambiente! Quer dormir com estilo? Troque as fronhas e tenha sonhos lindos!</em><em> </em>
+  <em>**2º lugar** &#8211; fronhas versáteis: as fronhas Primitas são tão bonitas que podem ser utilizadas tanto para dormir, quanto para decorar. Quer o conforto do travesseiro na sala? Troque as fronhas e decore o ambiente! Quer dormir com estilo? Troque as fronhas e tenha sonhos lindos!</em><em> </em>
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <em><strong>1º lugar</strong> &#8211; fronhas que revelam sua personalidade na decoração do quarto: as fronhas avulsas Primitas deixam seu cantinho com sua cara e estilo. Você é tradicional, descolada ou romântica? <strong>Revele seu estilo</strong> na decoração! <strong>As fronhas Primitas com certeza vão te ajudar</strong>!</em>”
+  <em>**1º lugar** &#8211; fronhas que revelam sua personalidade na decoração do quarto: as fronhas avulsas Primitas deixam seu cantinho com sua cara e estilo. Você é tradicional, descolada ou romântica? **Revele seu estilo** na decoração! **As fronhas Primitas com certeza vão te ajudar**!</em>”
 </p>
 
 <p align="center">

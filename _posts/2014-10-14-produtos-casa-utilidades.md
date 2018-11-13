@@ -1,7 +1,7 @@
 ---
-id: 3355
+
 title: 'Produtos para a casa: úteis… e bonitos também!'
-date: 2014-10-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/14/produtos-casa-utilidades/
@@ -17,7 +17,7 @@ categories:
 </p>
 
 <p align="justify">
-  A loja <strong><a href="http://grifedacasa.com.br/" target="_blank">Grife da Casa</a></strong> tem uma variedade incrível de produtos para facilitar a rotina doméstica. Para comprovar isso, basta dar uma olhada em seus departamentos. O que você precisa para equipar sua casa com itens funcionais e bonitos, pode apostar, você vai encontrar. Quer uma pitadinha do que eles têm pra te oferecer? Vem cá que eu te mostro, e você vai perceber do que estou falando. Vem!
+  A loja **<a href="http://grifedacasa.com.br/" target="_blank">Grife da Casa</a>** tem uma variedade incrível de produtos para facilitar a rotina doméstica. Para comprovar isso, basta dar uma olhada em seus departamentos. O que você precisa para equipar sua casa com itens funcionais e bonitos, pode apostar, você vai encontrar. Quer uma pitadinha do que eles têm pra te oferecer? Vem cá que eu te mostro, e você vai perceber do que estou falando. Vem!
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">E mais…</span></strong>
+  **<span style="font-size: large;">E mais…</span>**
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Confira também!</span></strong>
+  **<span style="font-size: large;">Confira também!</span>**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3866
+
 title: Dicas de organização da casa pra facilitar a vida já!
-date: 2018-06-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/06/05/organizacao-da-casa-7/
@@ -12,7 +12,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  E como vai a <strong>organização da casa</strong>? Está em dia ou mandou lembranças? Quando pensa no caos que anda instalado em seus domínios, você sente arrepios… mas uma preguiça danada de reverter a situação? Calma! Dar o primeiro passo pode ser bem menos penoso do que você imagina. Além do mais, quem disse que tudo precisa ser feito de uma vez, não é?
+  E como vai a **organização da casa**? Está em dia ou mandou lembranças? Quando pensa no caos que anda instalado em seus domínios, você sente arrepios… mas uma preguiça danada de reverter a situação? Calma! Dar o primeiro passo pode ser bem menos penoso do que você imagina. Além do mais, quem disse que tudo precisa ser feito de uma vez, não é?
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

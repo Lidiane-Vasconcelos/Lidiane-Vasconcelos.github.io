@@ -1,7 +1,7 @@
 ---
-id: 2796
+
 title: Cabelo cacheado tem corte, sim!
-date: 2010-02-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/23/cabelo-cacheado/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-6-leve.jpg"></a>Cabelo enrolado tem corte sim!</strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-6-leve.jpg"></a>Cabelo enrolado tem corte sim!**
 </p>
 
 Quem nunca quis ter outro cabelo, que atire a primeira pedra. Dizem por aí que mulher nunca está satisfeita com nada (o que acho particularmente uma injustiça), mas olha, vou te contar: quando você achar uma que ama o cabelo que deus lhe deu, emoldure e apresente à multidão!

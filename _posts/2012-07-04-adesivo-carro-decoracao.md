@@ -1,7 +1,7 @@
 ---
-id: 3147
+
 title: É possível usar adesivos de envelopar carros na decoração da casa?
-date: 2012-07-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/04/adesivo-carro-decoracao/
@@ -17,13 +17,13 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A <strong>Marcela</strong>, que é minha amiga e muito competente como <strong>Fisioterapeuta</strong> em seu espaço de <strong>Pilates</strong> na cidade de <strong>Sumaré (SP)</strong>, onde moramos, também tem muito bom gosto quando o assunto é <strong>decoração</strong>. Repara só no que ela fez e que dica fantástica isso pode ser para você.
+  A **Marcela**, que é minha amiga e muito competente como **Fisioterapeuta** em seu espaço de **Pilates** na cidade de **Sumaré (SP)**, onde moramos, também tem muito bom gosto quando o assunto é **decoração**. Repara só no que ela fez e que dica fantástica isso pode ser para você.
 </p>
 
 <!--more-->
 
 <p align="justify">
-  Quando a <strong>Marcela</strong> mostrou as fotos do que ela havia feito, fiquei ansiosa para dividir por aqui contigo. Logo pedi que ela me contasse <em>TU-DO</em> sobre o processo a fim de te provocar, inspirar e dar ideias… confira!
+  Quando a **Marcela** mostrou as fotos do que ela havia feito, fiquei ansiosa para dividir por aqui contigo. Logo pedi que ela me contasse <em>TU-DO</em> sobre o processo a fim de te provocar, inspirar e dar ideias… confira!
 </p>
 
 &nbsp;
@@ -35,7 +35,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “<em>Decidi transformar a mesa porque ela não estava combinando mais com as mudanças que tenho feito no nosso apartamento. As cores novas são mais modernas: <strong>móveis brancos, paredes cinza, detalhes coloridos</strong>… e nisso a mesa de jantar ficou perdida, fora do contexto. </em><em>Fiquei no dúvida e com pena de comprar uma nova, pois gosto muito dela, ela é prática e não encontraria uma parecida, muito menos amarela! Foi aí que veio a ideia da reforma!”</em>
+>   “<em>Decidi transformar a mesa porque ela não estava combinando mais com as mudanças que tenho feito no nosso apartamento. As cores novas são mais modernas: **móveis brancos, paredes cinza, detalhes coloridos**… e nisso a mesa de jantar ficou perdida, fora do contexto. </em><em>Fiquei no dúvida e com pena de comprar uma nova, pois gosto muito dela, ela é prática e não encontraria uma parecida, muito menos amarela! Foi aí que veio a ideia da reforma!”</em>
 > </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “<em>A princípio <strong>pensei em pintar</strong>, mas pesquisei e vi que não seria muito fácil, <strong>pesquisei mais e descobri que o adesivo que estão usando para envelopar carros também pode ser usado em móveis</strong>! Nossa, foi perfeito</em>!”
+>   “<em>A princípio **pensei em pintar**, mas pesquisei e vi que não seria muito fácil, **pesquisei mais e descobri que o adesivo que estão usando para envelopar carros também pode ser usado em móveis**! Nossa, foi perfeito</em>!”
 > </p>
 
 &nbsp;
@@ -75,29 +75,29 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “<em>Comprei o adesivo, <strong>coloquei no google vídeos de como aplicar</strong> e aí consegui o que queria: <strong>minha mesa amarela</strong>! <strong>Simples, prático e barato</strong>! Agora vou comprar cadeiras pretas, acho que vai ficar um charme!”</em>
+>   “<em>Comprei o adesivo, **coloquei no google vídeos de como aplicar** e aí consegui o que queria: **minha mesa amarela**! **Simples, prático e barato**! Agora vou comprar cadeiras pretas, acho que vai ficar um charme!”</em>
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Eu não duvido nem um pouco do charme que vai ficar, e tenho certeza que a ideia de <strong>Marcela</strong> pode te estimular a ter muitas outras para transformar sua casa assim: gastando bem pouco! Inspire-se e faça suas arteirices em seus domínios também!
+  Eu não duvido nem um pouco do charme que vai ficar, e tenho certeza que a ideia de **Marcela** pode te estimular a ter muitas outras para transformar sua casa assim: gastando bem pouco! Inspire-se e faça suas arteirices em seus domínios também!
 </p>
 
 <p align="justify">
-  <strong>Muito mais para você:</strong>
+  **Muito mais para você:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/" target="_blank">Ponha charme na decoração com a customização de móveis!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/" target="_blank">Ponha charme na decoração com a customização de móveis!</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas e acabe com suas dúvidas.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas e acabe com suas dúvidas.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/moveis-design-decoracao/" target="_blank">Como usar móveis de design na decoração da sala?</a></strong>
+  **<a href="http://www.decoracaodacasa.com/moveis-design-decoracao/" target="_blank">Como usar móveis de design na decoração da sala?</a>**
 </p>
 
 &nbsp;

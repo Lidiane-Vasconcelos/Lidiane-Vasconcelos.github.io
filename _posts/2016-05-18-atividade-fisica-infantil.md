@@ -1,7 +1,7 @@
 ---
-id: 3611
+
 title: Você sabe qual atividade física infantil é boa pra sua cria?
-date: 2016-05-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/18/atividade-fisica-infantil/
@@ -12,7 +12,7 @@ categories:
   - Saúde Infantil
 ---
 <p align="justify">
-  Cada um no seu quadrado, certo? A atividade física que é boa para uma criança, pode não ser legal para outra. Há que se ver o perfil do pequeno, suas preferências e a idade que tem. Ninguém duvida que <strong>atividade física infantil</strong> seja excelente para a criançada, mas qual delas escolher? A boa notícia é que, você sabe, no Trololó de Mulher a gente desfruta de consultorias profissionais para sanar nossas dúvidas. Dessa vez não poderia ser diferente, e recorri a <strong>Camila F. Alves de Mira, Educadora Física de São Paulo</strong>, que atua na área de desenvolvimento motor com crianças. Ela nos orienta, neste post, a observar melhor nossas crianças e proporcionar aos pequenos esportes e brincadeiras ideais que favoreçam o seu desenvolvimento em vários aspectos.
+  Cada um no seu quadrado, certo? A atividade física que é boa para uma criança, pode não ser legal para outra. Há que se ver o perfil do pequeno, suas preferências e a idade que tem. Ninguém duvida que **atividade física infantil** seja excelente para a criançada, mas qual delas escolher? A boa notícia é que, você sabe, no Trololó de Mulher a gente desfruta de consultorias profissionais para sanar nossas dúvidas. Dessa vez não poderia ser diferente, e recorri a **Camila F. Alves de Mira, Educadora Física de São Paulo**, que atua na área de desenvolvimento motor com crianças. Ela nos orienta, neste post, a observar melhor nossas crianças e proporcionar aos pequenos esportes e brincadeiras ideais que favoreçam o seu desenvolvimento em vários aspectos.
 </p>
 
 <p align="justify">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual a diferença entre atividade física e prática de esportes?</strong>
+  **Trololó de Mulher >>> Qual a diferença entre atividade física e prática de esportes?**
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual a indicação de frequência semanal para a prática de esportes das crianças?</strong>
+  **Trololó de Mulher >>> Qual a indicação de frequência semanal para a prática de esportes das crianças?**
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que o sedentarismo pode provocar na vida de uma criança e em que medida a prática de esportes beneficia a vida dos pequenos?</strong>
+  **Trololó de Mulher >>> O que o sedentarismo pode provocar na vida de uma criança e em que medida a prática de esportes beneficia a vida dos pequenos?**
 </p>
 
 <p align="justify">
@@ -56,27 +56,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="color: #ff0000;">A – Agitados</span></strong>: atividades que envolvam desafios e competição.
+  **<span style="color: #ff0000;">A – Agitados</span>**: atividades que envolvam desafios e competição.
 </p>
 
 <p align="justify">
-  <strong><span style="color: #ff0000;">B – Quietinhos e brincam sozinhos</span></strong>: atividades que podem ser realizadas sozinhas &#8211; patins, bicicleta, patinete, pular corda, natação.
+  **<span style="color: #ff0000;">B – Quietinhos e brincam sozinhos</span>**: atividades que podem ser realizadas sozinhas &#8211; patins, bicicleta, patinete, pular corda, natação.
 </p>
 
 <p align="justify">
-  <strong><span style="color: #ff0000;">C – Chegados em brincadeiras de contato</span></strong>: pega – pega, esconde-esconde, lutas tais como judô, karate, capoeira, futebol, basquetebol.
+  **<span style="color: #ff0000;">C – Chegados em brincadeiras de contato</span>**: pega – pega, esconde-esconde, lutas tais como judô, karate, capoeira, futebol, basquetebol.
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Considerando a idade dos pequenos, o que oferecer como opção de atividade física para:</strong>
+  **Trololó de Mulher >>> Considerando a idade dos pequenos, o que oferecer como opção de atividade física para:**
 </p>
 
 <p align="justify">
-  <strong><span style="color: #ff0000;">De 3 a 5 anos</span></strong> – “<em>Incentivar atividades como, “dançar” ao som de musicas preferidas, imitar movimentos simples e coordenados acompanhando uma música, como bater palmas, por a mãos na cabeça, mostrar partes do corpo. Atividades como arrastar- se, balançar-se, arremansar bolas, brincar com texturas diferentes para desenvolver o sistema tátil, procurar sons no ambiente e objetos escondidos, passar dentro de túneis, andar no meio fio, correr, saltar, chutar, pedalar e nadar. Incentivar o desenvolvimento da motricidade fina: brincar com massinha, encaixar blocos e pecas, pintar livremente, rasgar e colar papéis</em>.”
+  **<span style="color: #ff0000;">De 3 a 5 anos</span>** – “<em>Incentivar atividades como, “dançar” ao som de musicas preferidas, imitar movimentos simples e coordenados acompanhando uma música, como bater palmas, por a mãos na cabeça, mostrar partes do corpo. Atividades como arrastar- se, balançar-se, arremansar bolas, brincar com texturas diferentes para desenvolver o sistema tátil, procurar sons no ambiente e objetos escondidos, passar dentro de túneis, andar no meio fio, correr, saltar, chutar, pedalar e nadar. Incentivar o desenvolvimento da motricidade fina: brincar com massinha, encaixar blocos e pecas, pintar livremente, rasgar e colar papéis</em>.”
 </p>
 
 <p align="justify">
-  <strong><span style="color: #ff0000;">De 6 em diante</span></strong> – “<em>Nessa fase a criança desenvolve a planificação motora (antecipação das ações) e o praxia eficiente (coordena as ações com o pensamento antecipado), se interessa por jogos com regras, momento oportuno para a iniciação nos esportes, como vôlei, basquete, futebol, entre outros</em>.”
+  **<span style="color: #ff0000;">De 6 em diante</span>** – “<em>Nessa fase a criança desenvolve a planificação motora (antecipação das ações) e o praxia eficiente (coordena as ações com o pensamento antecipado), se interessa por jogos com regras, momento oportuno para a iniciação nos esportes, como vôlei, basquete, futebol, entre outros</em>.”
 </p>
 
 <p align="center">

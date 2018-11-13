@@ -1,7 +1,7 @@
 ---
-id: 3670
+
 title: '1º post da série para organização da casa: home office.'
-date: 2016-09-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/22/organizacao-da-casa-2/
@@ -10,27 +10,27 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts que inicia hoje é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a **organização da casa**, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts que inicia hoje é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
-  O Trololó de Mulher teve o privilégio de receber dicas preciosas de Personal Organizers queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o post Nº1, será sobre o home office, e a expert que aponta como colocar ordem nesse espaço da casa é a <strong>Willy Neves, Personal Organizer de Fortaleza – CE</strong>. Confira!
+  O Trololó de Mulher teve o privilégio de receber dicas preciosas de Personal Organizers queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o post Nº1, será sobre o home office, e a expert que aponta como colocar ordem nesse espaço da casa é a **Willy Neves, Personal Organizer de Fortaleza – CE**. Confira!
 </p>
 
 <p align="justify">
-  Não deixe de conferir o <strong>2° post da série</strong>, que é <strong>sobre cozinha</strong>. <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Não deixe de conferir o **2° post da série**, que é **sobre cozinha**. <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">**Clique aqui e confira**</a>!
 </p>
 
 <p align="justify">
-  O <strong>3º post da série</strong> saiu! <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">Clique aqui, confira e deixe sua penteadeira organizada e linda de viver</a>.
+  O **3º post da série** saiu! <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">Clique aqui, confira e deixe sua penteadeira organizada e linda de viver</a>.
 </p>
 
 <p align="justify">
-  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
+  O **quarto** está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
 </p>
 
 <p align="justify">
-  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
+  O **quinto post** está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Como organizar seu Home Office</span></strong>
+  **<span style="font-size: large;">Como organizar seu Home Office</span>**
 </p>
 
 <p align="justify">
@@ -64,11 +64,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank"><strong>Siga 4 passos e sua “gaveta da bagunça” ficará impecável!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank">**Siga 4 passos e sua “gaveta da bagunça” ficará impecável!**</a>
 </p>
 
 &nbsp;

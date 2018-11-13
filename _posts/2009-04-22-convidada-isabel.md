@@ -1,7 +1,7 @@
 ---
-id: 2651
+
 title: 'Bicha Fêmea Convidada: Isabela Kastrup'
-date: 2009-04-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/22/convidada-isabel/
@@ -36,7 +36,7 @@ Você é aquilo que reinvidica, o que consegue gerar através da sua verdade e d
     </td>
     
     <td width="124" valign="top">
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwleonaclarkecouk.jpg"><img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.leonaclarke.co.uk" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwleonaclarkecouk-thumb.jpg" border="0" alt="www.leonaclarke.co.uk" width="92" height="240" align="right" /></a> </strong>
+      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwleonaclarkecouk.jpg"><img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.leonaclarke.co.uk" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwleonaclarkecouk-thumb.jpg" border="0" alt="www.leonaclarke.co.uk" width="92" height="240" align="right" /></a> **
     </td>
   </tr>
 </table>

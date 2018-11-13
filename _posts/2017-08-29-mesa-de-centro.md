@@ -1,7 +1,7 @@
 ---
-id: 3789
+
 title: 'Mesa de centro da sala de estar: compre sem erro!'
-date: 2017-08-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/29/mesa-de-centro/
@@ -10,11 +10,11 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Uma sala de estar com uma <strong>mesa de centro</strong> ganha outros ares, não é verdade? O <em>design</em> do espaço fica tão harmonioso, que é difícil quem não queira uma para viver de amores, sem contar que essa peça de mobiliário é, sim, muito útil. Lá você pode apoiar um copo ou xícara, utilidades próprias da sala e até mesmo os pés, oh: é verdade ou não é? Agora, você há de concordar comigo: comprar uma dessas pode não ser uma tarefa das mais simples, certo? Imagine se o orçamento estiver curto, então?!
+  Uma sala de estar com uma **mesa de centro** ganha outros ares, não é verdade? O <em>design</em> do espaço fica tão harmonioso, que é difícil quem não queira uma para viver de amores, sem contar que essa peça de mobiliário é, sim, muito útil. Lá você pode apoiar um copo ou xícara, utilidades próprias da sala e até mesmo os pés, oh: é verdade ou não é? Agora, você há de concordar comigo: comprar uma dessas pode não ser uma tarefa das mais simples, certo? Imagine se o orçamento estiver curto, então?!
 </p>
 
 <p align="justify">
-  Foi pensando em facilitar sua vida e direcionar melhor suas escolhas que pensei em editar esse post. A ideia dele é que, ao final, você formule bem como deve ser a sua compra, de modo a adquirir um produto bonito e harmonioso com seu ambiente e, o melhor, com seu bolso. Para me ajudar a esclarecer algumas dúvidas, a <strong>Rosana Silva, pós-graduada em Design de Interiores</strong>, é a nossa consultora querida da vez. Fique atento a todas as dicas e faça sua compra do jeito certo, sem erros!
+  Foi pensando em facilitar sua vida e direcionar melhor suas escolhas que pensei em editar esse post. A ideia dele é que, ao final, você formule bem como deve ser a sua compra, de modo a adquirir um produto bonito e harmonioso com seu ambiente e, o melhor, com seu bolso. Para me ajudar a esclarecer algumas dúvidas, a **Rosana Silva, pós-graduada em Design de Interiores**, é a nossa consultora querida da vez. Fique atento a todas as dicas e faça sua compra do jeito certo, sem erros!
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank"><strong>Como decorar a mesa de centro de sala.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank">**Como decorar a mesa de centro de sala.**</a>
 </p>
 
 <p align="center">
@@ -58,19 +58,19 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Entre o sofá/poltronas  e a mesa,  uma <em>distância máxima de 60cm</em>. É mais ou menos o quanto a média das pessoas adultas consegue alcançar um objeto sobre a mesa sem desconforto.</strong>
+>   **Entre o sofá/poltronas  e a mesa,  uma <em>distância máxima de 60cm</em>. É mais ou menos o quanto a média das pessoas adultas consegue alcançar um objeto sobre a mesa sem desconforto.**
 > </p>
 
 > <p align="justify">
->   <strong>O comprimento da mesa deve  ser tal que no mínimo, <em> “sobrem” 50 cm de sofá de cada lado </em>(não considere o braço do sofá, mas somente a área de assento). Mesmo a pessoa lá no cantão, vai conseguir acessar a mesa sem problemas.</strong>
+>   **O comprimento da mesa deve  ser tal que no mínimo, <em> “sobrem” 50 cm de sofá de cada lado </em>(não considere o braço do sofá, mas somente a área de assento). Mesmo a pessoa lá no cantão, vai conseguir acessar a mesa sem problemas.**
 > </p>
 
 > <p align="justify">
->   <strong>A largura da mesa depende do quanto você tem de espaço para circulação. <em>O espaço livre mínimo é 60cm. O ideal é 80 cm.”</em></strong>
+>   **A largura da mesa depende do quanto você tem de espaço para circulação. <em>O espaço livre mínimo é 60cm. O ideal é 80 cm.”</em>**
 > </p>
 
 <p align="justify">
-  Pensando na <strong>altura de seu móvel</strong>, veja quanto mede do chão até o assento do seu sofá. Esta será mais ou menos a medida que você precisa encontrar na sua mesa de centro.
+  Pensando na **altura de seu móvel**, veja quanto mede do chão até o assento do seu sofá. Esta será mais ou menos a medida que você precisa encontrar na sua mesa de centro.
 </p>
 
 <p align="center">
@@ -90,11 +90,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/" target="_blank"><strong>Decoração na sala de estar: mesa de centro. Qual o seu estilo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/" target="_blank">**Decoração na sala de estar: mesa de centro. Qual o seu estilo?**</a>
 </p>
 
 <p align="justify">
@@ -110,11 +110,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Rosana:</strong>
+  **Mais consultorias da Rosana:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/14/moldura/" target="_blank"><strong>Moldura: coadjuvante ou protagonista na decoração?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/14/moldura/" target="_blank">**Moldura: coadjuvante ou protagonista na decoração?**</a>
 </p>
 
 <p align="justify">

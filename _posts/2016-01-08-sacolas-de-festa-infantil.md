@@ -1,7 +1,7 @@
 ---
-id: 3525
+
 title: '9 ideias de sacolas de festa infantil: faça você mesma.'
-date: 2016-01-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/08/sacolas-de-festa-infantil/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Percebeu que festa infantil passou a ser um tema mais frequente por aqui? Pois é, mas não se engane: a gente curte as ideias simples, com carinha de festa caseira. Você também é uma mãe nostálgica nesse sentido? Então, oh: veja a seguir <strong>sacolas de festa infantil</strong> que você mesma pode fazer para o grande dia de sua cria. São 9 sugestões simples, que qualquer uma de nós pode reproduzir, viu? Confira… o que você precisa mesmo é de carinho e algum tempo seu para doar. No mais, olh só:
+  Percebeu que festa infantil passou a ser um tema mais frequente por aqui? Pois é, mas não se engane: a gente curte as ideias simples, com carinha de festa caseira. Você também é uma mãe nostálgica nesse sentido? Então, oh: veja a seguir **sacolas de festa infantil** que você mesma pode fazer para o grande dia de sua cria. São 9 sugestões simples, que qualquer uma de nós pode reproduzir, viu? Confira… o que você precisa mesmo é de carinho e algum tempo seu para doar. No mais, olh só:
 </p>
 
 <p align="justify">

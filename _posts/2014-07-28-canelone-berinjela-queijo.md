@@ -1,7 +1,7 @@
 ---
-id: 3328
+
 title: Canelone de berinjela + queijo cottage (no molho caseiro)
-date: 2014-07-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/28/canelone-berinjela-queijo/
@@ -24,19 +24,19 @@ Hoje é dia de receita bonita, gostosa e saudável por aqui. Oba! A dica da Caro
 > </p>
 > 
 > <p align="justify">
->   <strong>A propósito, não deixe de ler:</strong>
+>   **A propósito, não deixe de ler:**
 > </p>
 > 
 > <p align="justify">
->   <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/" target="_blank"><strong>Você sabe preparar um molho de tomate SSS?</strong></a>
+>   <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/" target="_blank">**Você sabe preparar um molho de tomate SSS?**</a>
 > </p>
 > 
 > <p align="justify">
->   <a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/" target="_blank"><strong>O molho ao sugo da Cláudia Ramalho eu já fiz e, oh: hummm…</strong></a>
+>   <a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/" target="_blank">**O molho ao sugo da Cláudia Ramalho eu já fiz e, oh: hummm…**</a>
 > </p>
 > 
 > <p align="justify">
->   Refoguei a cebola e alho em algumas gotas de óleo de canola, depois coloquei os tomates picados, um pouquinho de água filtrada, sal, pimenta moída na hora, muito manjericão e colorau. Deixei ferver até que o tomate ficasse bem amolecido. Depois bati no mixer, mas pode ser liquidificador também. Voltei para a panela e deixei apurando. <strong>Montagem</strong>: Coloquei o queijo cottage na fatia da berinjela e enrolei. Em uma vasilha que possa ir ao forno, eu coloquei molho no fundo da vasilha, os canelones e cobri os canelones com mais molho. Levei ao forno até que ficasse bem aquecido e o queijo derretido.
+>   Refoguei a cebola e alho em algumas gotas de óleo de canola, depois coloquei os tomates picados, um pouquinho de água filtrada, sal, pimenta moída na hora, muito manjericão e colorau. Deixei ferver até que o tomate ficasse bem amolecido. Depois bati no mixer, mas pode ser liquidificador também. Voltei para a panela e deixei apurando. **Montagem**: Coloquei o queijo cottage na fatia da berinjela e enrolei. Em uma vasilha que possa ir ao forno, eu coloquei molho no fundo da vasilha, os canelones e cobri os canelones com mais molho. Levei ao forno até que ficasse bem aquecido e o queijo derretido.
 > </p>
 
 &nbsp;

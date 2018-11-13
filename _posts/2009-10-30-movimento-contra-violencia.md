@@ -1,7 +1,7 @@
 ---
-id: 2724
+
 title: Minha Contribuição Pessoal Contra a Violência?
-date: 2009-10-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/30/movimento-contra-violencia/

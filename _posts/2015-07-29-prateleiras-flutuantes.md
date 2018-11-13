@@ -1,7 +1,7 @@
 ---
-id: 3451
+
 title: 'Decoração: 6 prateleiras flutuantes pra inspirar'
-date: 2015-07-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/29/prateleiras-flutuantes/
@@ -71,11 +71,11 @@ categories:
   </p>
   
   <p align="justify">
-    <strong>Veja também:</strong>
+    **Veja também:**
   </p>
   
   <p align="justify">
-    <strong><a href="http://www.decoracaodacasa.com/decoracao-de-parede-2/" target="_blank">Faltando algo naquele cantinho de parede?</a></strong>
+    **<a href="http://www.decoracaodacasa.com/decoracao-de-parede-2/" target="_blank">Faltando algo naquele cantinho de parede?</a>**
   </p>
   
   <p align="center">

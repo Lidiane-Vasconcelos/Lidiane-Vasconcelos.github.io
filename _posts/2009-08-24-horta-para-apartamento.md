@@ -1,7 +1,7 @@
 ---
-id: 2703
+
 title: Ideia Para Mini-Horta Em Um “Apertamento”…
-date: 2009-08-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/24/horta-para-apartamento/
@@ -63,5 +63,5 @@ _ÊÊÊÊÊ_!!! Agora dá para ter hortinha no _apertamento_, hã?
 Imagens: <a href="http://www.instructables.com/" target="_blank">Instructables</a>
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

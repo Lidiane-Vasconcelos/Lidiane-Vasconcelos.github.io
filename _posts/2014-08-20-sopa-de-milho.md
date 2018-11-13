@@ -1,7 +1,7 @@
 ---
-id: 3333
+
 title: 'Todo inverno pede: sopa de milho como você nunca viu.'
-date: 2014-08-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/20/sopa-de-milho/
@@ -22,7 +22,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;">Sopa de milho assado com palmito e refogadinho de manjericão.</span></strong>
+  **<span style="font-size: small;">Sopa de milho assado com palmito e refogadinho de manjericão.</span>**
 </p>
 
 &nbsp;
@@ -42,15 +42,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de espiar:</strong>
+  **Não deixe de espiar:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/" target="_blank"><strong>Comida para a família e o coração: sopa e caldo.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/" target="_blank">**Comida para a família e o coração: sopa e caldo.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/19/sopa-de-abobora/" target="_blank"><strong>Sopa de abóbora rápida, fácil e oh: superultramega delícia!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/19/sopa-de-abobora/" target="_blank">**Sopa de abóbora rápida, fácil e oh: superultramega delícia!**</a>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

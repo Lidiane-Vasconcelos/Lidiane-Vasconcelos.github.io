@@ -1,7 +1,7 @@
 ---
-id: 2649
+
 title: Os sete pecados capitais nos nossos dias.
-date: 2009-04-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/15/pecados-capitais/

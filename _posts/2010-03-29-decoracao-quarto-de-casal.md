@@ -1,7 +1,7 @@
 ---
-id: 2802
+
 title: 'Pitacos de bicha fêmea: decoração do quarto de casal'
-date: 2010-03-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/29/decoracao-quarto-de-casal/
@@ -168,5 +168,5 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 [Dicas e detalhes na decoração do quarto](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/).
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

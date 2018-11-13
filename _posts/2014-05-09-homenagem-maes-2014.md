@@ -1,7 +1,7 @@
 ---
-id: 3292
+
 title: Hoje tem homenagem para as mães? Ô, se tem!
-date: 2014-05-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/09/homenagem-maes-2014/
@@ -45,7 +45,7 @@ Ser mãe no dia a dia implica em delícias e batalhas, tudo para ver a cria cres
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Para ver a galeria das bichas fêmeas mães, na nossa página no Facebook, <a href="https://www.facebook.com/media/set/?set=a.1475057189394265.1073741829.1430184973881487&type=1" target="_blank">clique aqui</a>… e emocione-se!</span></strong>
+  **<span style="font-size: small;">Para ver a galeria das bichas fêmeas mães, na nossa página no Facebook, <a href="https://www.facebook.com/media/set/?set=a.1475057189394265.1073741829.1430184973881487&type=1" target="_blank">clique aqui</a>… e emocione-se!</span>**
 </p>
 
 &nbsp;
@@ -57,7 +57,7 @@ Ser mãe no dia a dia implica em delícias e batalhas, tudo para ver a cria cres
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

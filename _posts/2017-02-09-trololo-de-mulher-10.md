@@ -1,7 +1,7 @@
 ---
-id: 3724
+
 title: Maternidade define a Prateleira do Trololó de Mulher em Fevereiro.
-date: 2017-02-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/09/trololo-de-mulher-10/
@@ -11,7 +11,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  A prateleira este mês no <strong>Trololó de Mulher</strong> está re-che-a-da de itens dos nossos parceiros comerciais voltados, exclusivamente, para nosso lado mais maternal. Tem itens pra vestir meninas, organizar o quarto do bebê, decorar com muito amor o cantinho da cria, lindezas para compor o enxoval do seu amorzinho que deve estar ainda na barriga, e até itens muito importantes na volta às aulas. Tudo muito delicado, de bom gosto e feitos com muito carinho para os pequenos. Pronta pra viver no amor com tantas gostosuras? Confira!
+  A prateleira este mês no **Trololó de Mulher** está re-che-a-da de itens dos nossos parceiros comerciais voltados, exclusivamente, para nosso lado mais maternal. Tem itens pra vestir meninas, organizar o quarto do bebê, decorar com muito amor o cantinho da cria, lindezas para compor o enxoval do seu amorzinho que deve estar ainda na barriga, e até itens muito importantes na volta às aulas. Tudo muito delicado, de bom gosto e feitos com muito carinho para os pequenos. Pronta pra viver no amor com tantas gostosuras? Confira!
 </p>
 
 <p align="justify">

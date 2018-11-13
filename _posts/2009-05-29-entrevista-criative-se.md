@@ -1,7 +1,7 @@
 ---
-id: 2668
+
 title: Se eu contar, ninguém acredita. Mas é verdade!
-date: 2009-05-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/29/entrevista-criative-se/

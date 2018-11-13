@@ -1,7 +1,7 @@
 ---
-id: 2948
+
 title: Ganhei mimos by Joana Campos. Vem cá que eu te mostro!
-date: 2011-01-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/26/joana-campos-artesanato/
@@ -26,7 +26,7 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Joana Campos</strong>, que edita um <a href="http://www.joanacampos.com/" target="_blank">blog que leva o nome dela</a>, inaugurou há um certo tempo uma lojinha virtual, a <a href="http://www.joanacampos.com/" target="_blank">JoanaJoana</a>. Ela é artesã, e produz tudo o que está disponível em sua loja. Um dos produtos com maior variedade são os descansos de copo, a exemplo desses que você vê na imagem acima, todo fofo de poá. E não é que fui mimada com um conjunto desses, além de pimentas decorativas?
+  A **Joana Campos**, que edita um <a href="http://www.joanacampos.com/" target="_blank">blog que leva o nome dela</a>, inaugurou há um certo tempo uma lojinha virtual, a <a href="http://www.joanacampos.com/" target="_blank">JoanaJoana</a>. Ela é artesã, e produz tudo o que está disponível em sua loja. Um dos produtos com maior variedade são os descansos de copo, a exemplo desses que você vê na imagem acima, todo fofo de poá. E não é que fui mimada com um conjunto desses, além de pimentas decorativas?
 </p>
 
 <p style="text-align: center;">
@@ -70,7 +70,7 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
     </td>
     
     <td style="text-align: justify;" width="541" valign="top">
-      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em></strong>
+      Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em>**
     </td>
   </tr>
   
@@ -80,7 +80,7 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em></strong>
+      Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em>**
     </td>
   </tr>
   
@@ -90,21 +90,21 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em></strong>
+      Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em>**
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  <strong><em> </em></strong>
+  **<em> </em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em> </em></strong>
+  **<em> </em>**
 </p>
 
 <p style="text-align: center;">

@@ -1,7 +1,7 @@
 ---
-id: 2859
+
 title: 'Uma Bicha Fêmea por Outra: Margaret'
-date: 2010-08-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/11/entrevista-margaret/
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>A marca do seu blog, além do bom humor constante permeando os textos, é a cultura do “faça você mesmo”. Você é arteira desde criança?</strong>
+  **A marca do seu blog, além do bom humor constante permeando os textos, é a cultura do “faça você mesmo”. Você é arteira desde criança?**
 </p>
 
 <p style="text-align: justify;">
@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Você teve um primeiro blog, super bem frequentado e comentado. De repente, parou tudo. Achou realmente que sua porção blogueira tinha acabado ali?</strong>
+  **Você teve um primeiro blog, super bem frequentado e comentado. De repente, parou tudo. Achou realmente que sua porção blogueira tinha acabado ali?**
 </p>
 
 <p style="text-align: justify;">
@@ -67,7 +67,7 @@ categories:
     </div>
     
     <div style="text-align: justify;">
-      <strong>Logo depois desse “hiato bloguístico”, você recomeçou com um novo blog. Qual a importância desse novo espaço virtual na sua vida?</strong>
+      **Logo depois desse “hiato bloguístico”, você recomeçou com um novo blog. Qual a importância desse novo espaço virtual na sua vida?**
     </div>
     
     <div style="text-align: justify;">
@@ -79,11 +79,11 @@ categories:
     </div>
     
     <div style="text-align: justify;">
-      <strong> </strong>
+      ** **
     </div>
     
     <div style="text-align: justify;">
-      <strong>Você andou abrindo uma loja virtual “em outros carnavais” para vender suas artes&#8230; pensa em retomar essa atividade?</strong>
+      **Você andou abrindo uma loja virtual “em outros carnavais” para vender suas artes&#8230; pensa em retomar essa atividade?**
     </div>
     
     <div style="text-align: justify;">
@@ -95,24 +95,24 @@ categories:
     </div>
     
     <div style="text-align: justify;">
-      <strong> </strong>
+      ** **
     </div>
     
     <div style="text-align: justify;">
-      <strong>Margaret, só no trololó…</strong>
+      **Margaret, só no trololó…**
     </div>
     
     <p style="text-align: justify;">
       <p style="text-align: justify;">
-        <strong>Vaidade</strong>: <em>Boa, se for usada com moderação.</em>
+        **Vaidade**: <em>Boa, se for usada com moderação.</em>
       </p>
       
       <p style="text-align: justify;">
-        <strong>Filhos:</strong> <em>Orgulho. Por ter criado duas filhas da melhor forma que pude e elas hoje são duas adultas das quais me orgulho muito.</em>
+        **Filhos:** <em>Orgulho. Por ter criado duas filhas da melhor forma que pude e elas hoje são duas adultas das quais me orgulho muito.</em>
       </p>
       
       <p style="text-align: justify;">
-        <strong>Marido: </strong><em>Meu príncipe encantado, Bi. Que apareceu em bytes na minha vida em um momento em que eu desacreditava de tudo. De amor, de amigos, de felicidade. Em bytes porque conheci ele pela internet.</em>
+        **Marido: **<em>Meu príncipe encantado, Bi. Que apareceu em bytes na minha vida em um momento em que eu desacreditava de tudo. De amor, de amigos, de felicidade. Em bytes porque conheci ele pela internet.</em>
       </p>
       
       <div>
@@ -125,56 +125,56 @@ categories:
       
       <p style="text-align: justify;">
         <div style="text-align: justify;">
-          <em><strong>Paixões:</strong> <em>Pela vida, pelas minhas filhas, pelo meu marido, minha mãe, minha irmã Sara. Eu sou uma pessoa apaixonada. Tenho paixão pelo que faço, pelo que invento… Paixão por tudo.</em></em>
+          <em>**Paixões:** <em>Pela vida, pelas minhas filhas, pelo meu marido, minha mãe, minha irmã Sara. Eu sou uma pessoa apaixonada. Tenho paixão pelo que faço, pelo que invento… Paixão por tudo.</em></em>
         </div>
         
         <div style="text-align: justify;">
-          <strong> </strong>
+          ** **
         </div>
         
         <div style="text-align: justify;">
-          <strong>Seguidores: </strong><em>Pessoas que não conheço mas que são importantes para mim. Quando alguém me escreve pedindo algo e diz: &#8220;sou sua seguidora&#8221;, eu respondo: Seguidora não pede, seguidora manda!</em>
+          **Seguidores: **<em>Pessoas que não conheço mas que são importantes para mim. Quando alguém me escreve pedindo algo e diz: &#8220;sou sua seguidora&#8221;, eu respondo: Seguidora não pede, seguidora manda!</em>
         </div>
         
         <div>
-          <em><strong> </strong></em>
+          <em>** **</em>
         </div>
         
         <div>
-          <em><strong>Blogosfera</strong>: <em>Um mundo louco, apaixonante, delicioso. O futuro (já presente) real da internet.</em></em>
+          <em>**Blogosfera**: <em>Um mundo louco, apaixonante, delicioso. O futuro (já presente) real da internet.</em></em>
         </div>
         
         <div>
-          <strong> </strong>
+          ** **
         </div>
         
         <div>
-          <strong>Mais entrevistas no Bicha Fêmea…</strong>
+          **Mais entrevistas no Bicha Fêmea…**
         </div>
         
         <p style="text-align: justify;">
           <p style="text-align: justify;">
-            <em><strong><a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/">Uma Bicha Fêmea por Outra: Cláudia Ramalho</a></strong></em>
+            <em>**<a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/">Uma Bicha Fêmea por Outra: Cláudia Ramalho</a>**</em>
           </p>
           
           <p style="text-align: justify;">
-            <strong><em><a href="http://www.trololodemulher.com.br/2010/05/26/mara-porto/">Uma Bicha Fêmea por Outra: Mara Porto</a></em></strong>
+            **<em><a href="http://www.trololodemulher.com.br/2010/05/26/mara-porto/">Uma Bicha Fêmea por Outra: Mara Porto</a></em>**
           </p>
           
           <p style="text-align: justify;">
-            <strong><em><a href="http://www.trololodemulher.com.br/2010/04/28/entrevista-ruby-fernandes/">Uma Bicha Fêmea por Outra: Ruby Fernandes</a></em></strong>
+            **<em><a href="http://www.trololodemulher.com.br/2010/04/28/entrevista-ruby-fernandes/">Uma Bicha Fêmea por Outra: Ruby Fernandes</a></em>**
           </p>
           
           <p style="text-align: justify;">
-            <strong><em><a href="http://www.trololodemulher.com.br/2010/03/24/ana-medeiros/">Uma Bicha Fêmea por Outra: Ana Medeiros</a></em></strong>
+            **<em><a href="http://www.trololodemulher.com.br/2010/03/24/ana-medeiros/">Uma Bicha Fêmea por Outra: Ana Medeiros</a></em>**
           </p>
           
           <p style="text-align: justify;">
-            Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/uma-bicha-femea-por-outra/">Uma Bicha Fêmea por Outra</a></em></strong> > Uma Bicha Fêmea por Outra: Margaret
+            Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/uma-bicha-femea-por-outra/">Uma Bicha Fêmea por Outra</a></em>** > Uma Bicha Fêmea por Outra: Margaret
           </p>
           
           <p style="text-align: center;">
-            Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+            Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
           </p>
           
           <p style="text-align: justify;">

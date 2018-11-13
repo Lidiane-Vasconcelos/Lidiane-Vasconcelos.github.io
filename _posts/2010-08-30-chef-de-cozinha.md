@@ -1,7 +1,7 @@
 ---
-id: 2867
+
 title: O que é ser um chef de cozinha…
-date: 2010-08-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/30/chef-de-cozinha/
@@ -56,7 +56,7 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      <strong><em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo colaborativo</a></em></strong>
+      **<em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo colaborativo</a></em>**
     </td>
   </tr>
   
@@ -72,7 +72,7 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 </p>
 
 <p style="text-align: center;">
-  Quer fazer como a Debora, e publicar seu texto aqui? Seja uma <strong><em><a href="http://www.trololodemulher.com.br/colabore/">Bicha Fêmea colaboradora</a></em></strong>!
+  Quer fazer como a Debora, e publicar seu texto aqui? Seja uma **<em><a href="http://www.trololodemulher.com.br/colabore/">Bicha Fêmea colaboradora</a></em>**!
 </p>
 
 **Últimas colaborações no Bicha Fêmea…**
@@ -88,9 +88,9 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 **_[Perfeccionismo e obesidade.](http://www.trololodemulher.com.br/2010/07/21/perfeccionismo-e-obesidade/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/"><strong><em>Vida com Estilo</em></strong></a> > O que é ser um chef de cozinha…
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">**<em>Vida com Estilo</em>**</a> > O que é ser um chef de cozinha…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

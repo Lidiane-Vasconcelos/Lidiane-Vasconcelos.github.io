@@ -1,7 +1,7 @@
 ---
-id: 3742
+
 title: 'Calcinhas de algodão de bebê: 4 razões para usar.'
-date: 2017-03-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/22/calcinhas-de-algodao-de-bebe/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  <strong>Calcinhas de algodão</strong> <strong>de bebê</strong> são itens bastante importantes num enxoval de menina, e há pelo menos 4 bons motivos para você incluí-las o quanto antes. Mamães de primeira viagem, em geral, ficam em dúvida sobre se acrescentam um determinado tipo de peça ou outro no enxoval da cria, não é verdade? Tudo o que se quer é garantir que o bebê tenha roupas indispensáveis no seu pequeno guarda-roupas, então é necessário levar em consideração alguns pontos que norteiam essas escolhas. Resta ainda alguma dúvida sobre se você deve incluir as calcinhas na lista de enxoval da pequena, ou sobre quando será hora de começar a usá-las? Vem cá que te conto por que você deve adquirí-las, sim. Confira!
+  **Calcinhas de algodão** **de bebê** são itens bastante importantes num enxoval de menina, e há pelo menos 4 bons motivos para você incluí-las o quanto antes. Mamães de primeira viagem, em geral, ficam em dúvida sobre se acrescentam um determinado tipo de peça ou outro no enxoval da cria, não é verdade? Tudo o que se quer é garantir que o bebê tenha roupas indispensáveis no seu pequeno guarda-roupas, então é necessário levar em consideração alguns pontos que norteiam essas escolhas. Resta ainda alguma dúvida sobre se você deve incluir as calcinhas na lista de enxoval da pequena, ou sobre quando será hora de começar a usá-las? Vem cá que te conto por que você deve adquirí-las, sim. Confira!
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em><span style="font-size: x-large;">Peça única</span></em></strong>
+  **<em><span style="font-size: x-large;">Peça única</span></em>**
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 
 **Veja também:**
 
-<a href="http://www.trololodemulher.com.br/2015/03/13/desfralde-maternidade-bebe/" target="_blank"><strong>Desfralde: mais simples do que você imagina.</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/03/13/desfralde-maternidade-bebe/" target="_blank">**Desfralde: mais simples do que você imagina.**</a>
 
 &nbsp;
 

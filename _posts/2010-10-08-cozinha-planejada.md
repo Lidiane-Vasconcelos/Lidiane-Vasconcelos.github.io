@@ -1,7 +1,7 @@
 ---
-id: 2885
+
 title: 'Cozinha planejada: 8 espaços + combinações. Seu estilo está por aqui?'
-date: 2010-10-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/08/cozinha-planejada/
@@ -18,7 +18,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 <!--more-->
 
 <p style="text-align: justify;">
-  Antes de mais nada, se você tem dúvidas sobre o revestimento de sua cozinha, isto é, se vai fazer em todas as paredes ou não, sugiro a leitura do post que trata especificamente sobre <strong><em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_self">revestimentos de cozinha</a></em></strong>, e confira as ideias, opiniões e <em>pitacos</em> de leitoras sobre o assunto.
+  Antes de mais nada, se você tem dúvidas sobre o revestimento de sua cozinha, isto é, se vai fazer em todas as paredes ou não, sugiro a leitura do post que trata especificamente sobre **<em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_self">revestimentos de cozinha</a></em>**, e confira as ideias, opiniões e <em>pitacos</em> de leitoras sobre o assunto.
 </p>
 
 <p style="text-align: justify;">
@@ -66,7 +66,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: justify;">
-  Vai colocar porta com vidro totalmente transparente? Certifique-se de que você é organizada o suficiente para manter tudo em ordem, <em>hein</em>?! Se você quer mais referências, veja <a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/" target="_self"><strong><em>mais cozinhas brancas</em></strong> </a>e inspire-se!
+  Vai colocar porta com vidro totalmente transparente? Certifique-se de que você é organizada o suficiente para manter tudo em ordem, <em>hein</em>?! Se você quer mais referências, veja <a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/" target="_self">**<em>mais cozinhas brancas</em>** </a>e inspire-se!
 </p>
 
 <p style="text-align: center;">
@@ -107,7 +107,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
       </p>
       
       <p style="text-align: justify;">
-        <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank">basta clicar</a></strong>!</em>
+        <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
     
@@ -240,7 +240,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                     </p>
                     
                     <p style="text-align: justify;">
-                      <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
+                      <em>O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a>**!</em>
                     </p>
                   </td></tr> </tbody> </table> 
                   
@@ -253,7 +253,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                   </p>
                   
                   <p style="text-align: right;">
-                    <strong>Mais sugestão para decorar sua cozinha…</strong>
+                    **Mais sugestão para decorar sua cozinha…**
                   </p>
                   
                   <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -323,7 +323,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                               </p>
                               
                               <p style="text-align: justify;">
-                                <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">basta clicar</a></strong>!</em>
+                                <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">basta clicar</a>**!</em>
                               </p>
                             </td></tr> </tbody> </table> 
                             
@@ -336,29 +336,29 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                             </p>
                             
                             <p>
-                              <strong>Mais sobre cozinha no Bicha Fêmea…</strong>
+                              **Mais sobre cozinha no Bicha Fêmea…**
                             </p>
                             
                             <p>
-                              <strong><em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/">Pitacos de bicha fêmea: revestimentos de cozinha.</a></em></strong>
+                              **<em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/">Pitacos de bicha fêmea: revestimentos de cozinha.</a></em>**
                             </p>
                             
                             <p>
-                              <strong><em><a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/">Tudo branco na decoração da cozinha.</a></em></strong>
+                              **<em><a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/">Tudo branco na decoração da cozinha.</a></em>**
                             </p>
                             
                             <p style="text-align: center;">
-                              Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa</em></strong><strong><em> & Decoração</em></strong> </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/"><strong><em>Cozinha</em></strong></a>> Cozinha planejada: 8 espaços + combinações. Seu estilo está por aqui?
+                              Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa</em>****<em> & Decoração</em>** </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/">**<em>Cozinha</em>**</a>> Cozinha planejada: 8 espaços + combinações. Seu estilo está por aqui?
                             </p>
                             
                             <p style="text-align: center;">
-                              Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+                              Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
                             </p>
                             
                             <p style="text-align: center;">
-                              <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+                              **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
                             </p>
                             
                             <p>
-                              <strong><em> </em></strong>
+                              **<em> </em>**
                             </p>

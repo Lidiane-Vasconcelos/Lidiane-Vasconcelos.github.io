@@ -1,7 +1,7 @@
 ---
-id: 2907
+
 title: 'Prateleira do Bicha Fêmea : Eu sei disso…'
-date: 2010-11-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/10/prateleira-eu-sei-disso/
@@ -12,7 +12,7 @@ categories:
 Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos… imagine o paladar?! …_hummmm_… nessa onda deliciosa de _cupcakes_, fica quase impossível resistir a esses bolinhos decorados, não é verdade?
 
 <p style="text-align: justify;">
-  Pois são eles, os amados e desejados <em>cupcakes</em>, que estão na <strong><em>Prateleira do Bicha Fêmea</em></strong>. Todos, todinhos, são da talentosa Sandra Peres, a moça que edita o blog <a href="http://eutbseidisso.blogspot.com/" target="_blank">Eu sei disso…</a>
+  Pois são eles, os amados e desejados <em>cupcakes</em>, que estão na **<em>Prateleira do Bicha Fêmea</em>**. Todos, todinhos, são da talentosa Sandra Peres, a moça que edita o blog <a href="http://eutbseidisso.blogspot.com/" target="_blank">Eu sei disso…</a>
 </p>
 
 <!--more-->
@@ -30,7 +30,7 @@ Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos
 </p>
 
 <p style="text-align: justify;">
-  A Sandra cuida do blog Eu sei disso…, e é lá que ela costuma mostrar as delícias preparadas por ela. A exemplo do que aparece na <strong><em>Prateleira do Bicha Fêmea</em></strong> no dia de hoje, outras delícias são mostradas por essa blogueira talentosa no forno e fogão.
+  A Sandra cuida do blog Eu sei disso…, e é lá que ela costuma mostrar as delícias preparadas por ela. A exemplo do que aparece na **<em>Prateleira do Bicha Fêmea</em>** no dia de hoje, outras delícias são mostradas por essa blogueira talentosa no forno e fogão.
 </p>
 
 <p style="text-align: center;">
@@ -90,9 +90,9 @@ Sabe o que a Sandra Peres mais sabe? Sabe fazer gostosuras que encantam os olhos
 **_[Prateleira do Bicha Fêmea: Artesanatural](http://www.trololodemulher.com.br/2010/05/05/artesanato-artesanatural/)_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

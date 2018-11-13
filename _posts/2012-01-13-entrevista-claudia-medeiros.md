@@ -1,7 +1,7 @@
 ---
-id: 3104
+
 title: 'Uma bicha fêmea por outra: Claudia Medeiros'
-date: 2012-01-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/13/entrevista-claudia-medeiros/
@@ -26,7 +26,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 <p align="justify">
-  Movida pela paixão que tem pelo universo da casa e decoração, Claudia aproveitou a reviravolta que deu em sua própria vida, arregaçou as mangas e criou a <strong>Casa da Claudia</strong>, uma loja virtual de produtos que são uma <em>belezura</em>: “<em>Eu já tinha muita vontade de ter uma loja de objetos de decoração e, principalmente, de utilitários decorativos, que é o que eu mais gosto, mas não tinha capital para abrir um negócio. Com o curso, comecei a ter contato com lojas, com revistas estrangeiras e comecei a formar uma opinião sobre o que deveria vender e a ideia foi crescendo na minha cabeça. Daí, mais uma vez, o Pedro me incentivou a abrir uma loja virtual, pelo baixo custo, porque eu já conhecia muita gente e era conhecida na web por causa do blog, e porque este é um negócio que está crescendo no Brasil, as pessoas estão perdendo o medo de comprar pela internet</em>”.
+  Movida pela paixão que tem pelo universo da casa e decoração, Claudia aproveitou a reviravolta que deu em sua própria vida, arregaçou as mangas e criou a **Casa da Claudia**, uma loja virtual de produtos que são uma <em>belezura</em>: “<em>Eu já tinha muita vontade de ter uma loja de objetos de decoração e, principalmente, de utilitários decorativos, que é o que eu mais gosto, mas não tinha capital para abrir um negócio. Com o curso, comecei a ter contato com lojas, com revistas estrangeiras e comecei a formar uma opinião sobre o que deveria vender e a ideia foi crescendo na minha cabeça. Daí, mais uma vez, o Pedro me incentivou a abrir uma loja virtual, pelo baixo custo, porque eu já conhecia muita gente e era conhecida na web por causa do blog, e porque este é um negócio que está crescendo no Brasil, as pessoas estão perdendo o medo de comprar pela internet</em>”.
 </p>
 
 <p align="justify">
@@ -40,7 +40,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 &nbsp;
 
 <p align="justify">
-  <strong>Bicha Fêmea > O que você espera daqui para frente já que está na área de atuação que sonhou e empreendendo em algo que tem dado bons resultados?</strong>
+  **Bicha Fêmea > O que você espera daqui para frente já que está na área de atuação que sonhou e empreendendo em algo que tem dado bons resultados?**
 </p>
 
 > <p align="justify">
@@ -48,7 +48,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 > </p>
 
 <p align="justify">
-  <strong>BF > Há planos para linhas de produtos a serem lançados na Casa da Claudia com os quais você ainda não trabalha?</strong>
+  **BF > Há planos para linhas de produtos a serem lançados na Casa da Claudia com os quais você ainda não trabalha?**
 </p>
 
 > <p align="justify">
@@ -56,7 +56,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 > </p>
 
 <p align="justify">
-  <strong>BF > Quais os diferenciais dos produtos da Casa da Claudia?</strong>
+  **BF > Quais os diferenciais dos produtos da Casa da Claudia?**
 </p>
 
 > <p align="justify">
@@ -64,7 +64,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 > </p>
 
 <p align="justify">
-  <strong>BF > Como você acompanha as tendências de decoração?</strong>
+  **BF > Como você acompanha as tendências de decoração?**
 </p>
 
 > <p align="justify">
@@ -72,7 +72,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 > </p>
 
 <p align="justify">
-  <strong>BF > Há algum outro projeto em mente?</strong>
+  **BF > Há algum outro projeto em mente?**
 </p>
 
 > <p align="justify">
@@ -80,7 +80,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 > </p>
 
 <p align="justify">
-  <strong>BF > Quais as dicas para a bicha fêmea que quer dar um passo importante e que signifique mudanças na vida?</strong>
+  **BF > Quais as dicas para a bicha fêmea que quer dar um passo importante e que signifique mudanças na vida?**
 </p>
 
 > <p align="justify">
@@ -90,20 +90,20 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
+  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><strong><span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/">**<span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><img class="alignnone size-full wp-image-6891" title="home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><strong><span style="font-size: small;">Quer trabalhar sem sair de casa mas não sabe como?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/"><img class="alignnone size-full wp-image-6891" title="home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/">**<span style="font-size: small;">Quer trabalhar sem sair de casa mas não sabe como?</span>**</a>
       </p>
     </td>
   </tr>
@@ -111,13 +111,13 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><strong><span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/"><img class="alignnone size-full wp-image-6398" title="calculadora200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/calculadora200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/">**<span style="font-size: small;">Suas finanças pessoais estão no azul ou no vermelho?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/"><img class="alignnone size-full wp-image-5506" title="dúvidas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/duvidas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/"><strong><span style="font-size: small;">Home Office: união do útil ao agradável… mas nem sempre!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/"><img class="alignnone size-full wp-image-5506" title="dúvidas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/duvidas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/">**<span style="font-size: small;">Home Office: união do útil ao agradável… mas nem sempre!</span>**</a>
       </p>
     </td>
   </tr>
@@ -128,15 +128,15 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -159,5 +159,5 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

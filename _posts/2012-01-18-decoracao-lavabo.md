@@ -1,7 +1,7 @@
 ---
-id: 3105
+
 title: 'Boa ideia: arte na decoração do lavabo'
-date: 2012-01-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/18/decoracao-lavabo/
@@ -10,11 +10,11 @@ categories:
   - Banheiro
 ---
 <p style="text-align: justify;">
-  Quem tem <strong>lavabo</strong> não dispensa toques especiais na <strong>decoração</strong> desse ambiente. Com boas ideias, dá para transformar o espaço, que em geral é bem pequeno, em um lugar de encantamento para os olhos.
+  Quem tem **lavabo** não dispensa toques especiais na **decoração** desse ambiente. Com boas ideias, dá para transformar o espaço, que em geral é bem pequeno, em um lugar de encantamento para os olhos.
 </p>
 
 <p style="text-align: justify;" align="justify">
-  E por falar em boas ideias de decoração, garimpei uma delas no site <a href="http://www.hgtv.com/" target="_blank"><strong>HGTV</strong></a>, que é uma inspiração das boas para deixar o lavabo lindo de viver. A verdade é que para colocá-la em prática há que se ter um talento extra, ou contratar a pessoa certa que a execute para você… de qualquer forma espie, inspire-se e, quem sabe, aplique!
+  E por falar em boas ideias de decoração, garimpei uma delas no site <a href="http://www.hgtv.com/" target="_blank">**HGTV**</a>, que é uma inspiração das boas para deixar o lavabo lindo de viver. A verdade é que para colocá-la em prática há que se ter um talento extra, ou contratar a pessoa certa que a execute para você… de qualquer forma espie, inspire-se e, quem sabe, aplique!
 </p>
 
 &nbsp;

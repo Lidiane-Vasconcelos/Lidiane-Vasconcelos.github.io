@@ -1,7 +1,7 @@
 ---
-id: 2801
+
 title: Como sentir-se confiante.
-date: 2010-05-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/03/auto-estima/
@@ -12,7 +12,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  <strong>Como sentir-se confiante.</strong>
+  **Como sentir-se confiante.**
 </p>
 
 Você também se sente cercado do medo?

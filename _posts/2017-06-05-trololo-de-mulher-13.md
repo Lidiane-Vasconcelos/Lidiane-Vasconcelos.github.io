@@ -1,7 +1,7 @@
 ---
-id: 3771
+
 title: 'Prateleira do Trololó de mulher de Junho: mês do amor!'
-date: 2017-06-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/05/trololo-de-mulher-13/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Você já sabe, mensalmente escolho produtos dos parceiros comerciais do <strong>Trololó de Mulher</strong> pra te mostrar novidades, lançamentos e inspirações. Quando fiz a seleção desta vez, pude notar que havia algo em comum dentre os itens eleitos: <strong>amor</strong> envolvido no propósito de uso deles. Veja só: tem produto pra trocar amor entre você e a sua filha, entre você e sua cara-metade, entre você… consigo mesma! Prepare-se! A lista que mostro a seguir é daquelas que dão uma <em>quenturinha</em> no caração… oh:
+  Você já sabe, mensalmente escolho produtos dos parceiros comerciais do **Trololó de Mulher** pra te mostrar novidades, lançamentos e inspirações. Quando fiz a seleção desta vez, pude notar que havia algo em comum dentre os itens eleitos: **amor** envolvido no propósito de uso deles. Veja só: tem produto pra trocar amor entre você e a sua filha, entre você e sua cara-metade, entre você… consigo mesma! Prepare-se! A lista que mostro a seguir é daquelas que dão uma <em>quenturinha</em> no caração… oh:
 </p>
 
 <p align="center">

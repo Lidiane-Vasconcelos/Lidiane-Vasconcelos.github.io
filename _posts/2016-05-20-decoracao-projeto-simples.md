@@ -1,7 +1,7 @@
 ---
-id: 3613
+
 title: Execute 3 projetos de decoração num final de semana.
-date: 2016-05-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/20/decoracao-projeto-simples/
@@ -26,19 +26,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/" target="_blank"><strong>Antes & depois de uma mesa de cabeceira: haja inspiração!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/" target="_blank">**Antes & depois de uma mesa de cabeceira: haja inspiração!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank">**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank">**Quarto: ideias de organização para a cabeceira da cama.**</a>
 </p>
 
 <p align="center">

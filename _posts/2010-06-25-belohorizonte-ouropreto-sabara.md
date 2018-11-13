@@ -1,7 +1,7 @@
 ---
-id: 2837
+
 title: Fui ali em MG conhecer BH, Ouro Preto e Sabará…
-date: 2010-06-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/25/belohorizonte-ouropreto-sabara/

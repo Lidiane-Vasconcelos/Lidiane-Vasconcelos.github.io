@@ -1,7 +1,7 @@
 ---
-id: 3565
+
 title: O que fazer na decoração de quarto pequeno?
-date: 2016-03-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/23/decoracao-de-quarto-pequeno/
@@ -11,7 +11,7 @@ categories:
   - Quarto
 ---
 <p align="justify">
-  Fazer da <strong>decoração de quarto</strong> pequeno uma estratégia para torná-lo bonito, confortável e um lugar apropriado para relaxar é tudo uma questão de fazer boas escolhas. Neste post você verá uma série de dicas para conseguir isso, e certamente o fato desse ambiente no seu lar ter medidas enxutas será apenas um detalhe. Pode acreditar!
+  Fazer da **decoração de quarto** pequeno uma estratégia para torná-lo bonito, confortável e um lugar apropriado para relaxar é tudo uma questão de fazer boas escolhas. Neste post você verá uma série de dicas para conseguir isso, e certamente o fato desse ambiente no seu lar ter medidas enxutas será apenas um detalhe. Pode acreditar!
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não tumultue o espaço</strong>
+  **Não tumultue o espaço**
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Torne-o suave</strong>
+  **Torne-o suave**
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Amplie a capacidade de armazenamento</strong>
+  **Amplie a capacidade de armazenamento**
 </p>
 
 <p align="justify">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Eleja um foco decorativo</strong>
+  **Eleja um foco decorativo**
 </p>
 
 <p align="justify">
@@ -75,19 +75,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank">**Cabeceira com enchimento “fofinho”: como fazer?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank"><strong>Uma ideia de cabeceira simples, rápida e barata = quarto com novo visual.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank">**Uma ideia de cabeceira simples, rápida e barata = quarto com novo visual.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank"><strong>3 ideias de cabeceiras diferentes… nada convencionais.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank">**3 ideias de cabeceiras diferentes… nada convencionais.**</a>
 </p>
 
 <p align="justify">
-  <strong>E não esqueça!</strong>
+  **E não esqueça!**
 </p>
 
 <p align="justify">

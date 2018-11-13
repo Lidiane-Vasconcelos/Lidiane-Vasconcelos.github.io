@@ -1,7 +1,7 @@
 ---
-id: 2822
+
 title: Como escolher cores para a parede?
-date: 2010-05-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/31/cores-para-parede/
@@ -36,27 +36,27 @@ Você tem ou teve dúvidas na hora de escolher qual a cor ideal para pintar as p
 > </p>
 
 <p style="text-align: justify;">
-  De acordo com a Arquiteta Letícia Lodi, que escreve no blog “<a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>”, a <strong>escolha das cores tem a ver com a personalidade da pessoa</strong>, e essa variação parte das cores neutras (branco, bege, gelo, colorido pastel) e que são as que eu prefiro, indo até as cores mais vibrantes, que parecem ser o gosto da Vania. A propósito, qual o seu gosto?
+  De acordo com a Arquiteta Letícia Lodi, que escreve no blog “<a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>”, a **escolha das cores tem a ver com a personalidade da pessoa**, e essa variação parte das cores neutras (branco, bege, gelo, colorido pastel) e que são as que eu prefiro, indo até as cores mais vibrantes, que parecem ser o gosto da Vania. A propósito, qual o seu gosto?
 </p>
 
 <p style="text-align: justify;">
-  Leticia segue explicando que é importante “<em><strong>ter foco no equilíbrio</strong>. Caso use <strong>cores vibrantes</strong>, <strong>diminua as áreas</strong>, <strong>aplique</strong> como se fosse <strong>um detalhe</strong>, um item decorativo. Procure usar <strong>cores com sintonia</strong>, não muito contrastantes, assim você terá um ambiente mais homogêneo e aconchegante.”, </em>conclui<em>.</em>
+  Leticia segue explicando que é importante “<em>**ter foco no equilíbrio**. Caso use **cores vibrantes**, **diminua as áreas**, **aplique** como se fosse **um detalhe**, um item decorativo. Procure usar **cores com sintonia**, não muito contrastantes, assim você terá um ambiente mais homogêneo e aconchegante.”, </em>conclui<em>.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para todas as suas dúvidas.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para todas as suas dúvidas.</a>**
 </p>
 
 <p style="text-align: justify;">
-  A Arquiteta vai além e dá dicas quanto a escolha das cores de acordo com a função do ambiente. São dicas preciosas e servem como uma excelente orientação: “<em>Outra coisa que é bom ter em mente, são os <strong>usos do ambientes</strong> que você pretende pintar: para áreas de<strong> repouso, estudo</strong>,<strong> evite cores com vibrações altas</strong> (como vermelho, laranja, amarelo), elas são cores excitantes, portanto, terão um efeito contrário ao desejado. Caso deseje muito aplicá-las, use apenas um dos cantos. </em>
+  A Arquiteta vai além e dá dicas quanto a escolha das cores de acordo com a função do ambiente. São dicas preciosas e servem como uma excelente orientação: “<em>Outra coisa que é bom ter em mente, são os **usos do ambientes** que você pretende pintar: para áreas de** repouso, estudo**,** evite cores com vibrações altas** (como vermelho, laranja, amarelo), elas são cores excitantes, portanto, terão um efeito contrário ao desejado. Caso deseje muito aplicá-las, use apenas um dos cantos. </em>
 </p>
 
 <p style="text-align: justify;">
-  <em>Em <strong>ambientes onde a limpeza é o foco</strong> (banheiros, cozinhas, copas) <strong>evite cores escuras</strong>, que escondam a sujeira (tais como preto, azul marinho e tons muito escuros). Também vale a máxima de usar apenas em detalhe.</em>
+  <em>Em **ambientes onde a limpeza é o foco** (banheiros, cozinhas, copas) **evite cores escuras**, que escondam a sujeira (tais como preto, azul marinho e tons muito escuros). Também vale a máxima de usar apenas em detalhe.</em>
 </p>
 
 <p style="text-align: justify;">
@@ -64,11 +64,11 @@ Você tem ou teve dúvidas na hora de escolher qual a cor ideal para pintar as p
 </p>
 
 <p style="text-align: justify;">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank"><strong>Decoração e interiores: que cor pintar na parede da sala de estar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">**Decoração e interiores: que cor pintar na parede da sala de estar?**</a>
 </p>
 
 <p align="center">

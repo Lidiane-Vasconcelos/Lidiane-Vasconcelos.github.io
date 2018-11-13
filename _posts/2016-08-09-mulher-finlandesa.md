@@ -1,7 +1,7 @@
 ---
-id: 3639
+
 title: Verdades pouco conhecidas sobre a mulher finlandesa.
-date: 2016-08-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/09/mulher-finlandesa/
@@ -12,7 +12,7 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Você tem curiosidade de saber como as mulheres ao redor do mundo se relacionam com o espelho? Não é novidade pra gente o quanto há de vaidade na mulher brasileira, não é? De maneira geral, somos amantes de maquiagem, cremes, unhas pintadas, roupas, bolsas, calçados, acessórios… ufa! Pra mulher brasileira se sentir bem com ela mesma é preciso uma parafernália de coisas! Já a francesa, por exemplo, tem fama de ostentar uma beleza menos carregada de artifícios. Hoje a proposta é de que matemos a seguinte curiosidade: como será que se manifesta a vaidade da <strong>mulher finlandesa</strong>? Adriana Minhoto, que nos brinda mês a mês com curiosidades e muita informação a respeito da Finlândia, nos conta como é que as coisas acontecem nesse sentido por lá… vem!
+  Você tem curiosidade de saber como as mulheres ao redor do mundo se relacionam com o espelho? Não é novidade pra gente o quanto há de vaidade na mulher brasileira, não é? De maneira geral, somos amantes de maquiagem, cremes, unhas pintadas, roupas, bolsas, calçados, acessórios… ufa! Pra mulher brasileira se sentir bem com ela mesma é preciso uma parafernália de coisas! Já a francesa, por exemplo, tem fama de ostentar uma beleza menos carregada de artifícios. Hoje a proposta é de que matemos a seguinte curiosidade: como será que se manifesta a vaidade da **mulher finlandesa**? Adriana Minhoto, que nos brinda mês a mês com curiosidades e muita informação a respeito da Finlândia, nos conta como é que as coisas acontecem nesse sentido por lá… vem!
 </p>
 
 <p align="justify">
@@ -84,7 +84,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3734
+
 title: 'Aromatizador de ambientes: como fazer?'
-date: 2017-03-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/07/aromatizador-de-ambientes-2/
@@ -12,7 +12,7 @@ categories:
   - Rotina da Casa
 ---
 <p style="text-align: justify;" align="center">
-  Você verá como é fácil preparar um <strong>aromatizador de ambientes</strong>! Difícil será escolher qual cheirinho usar, já que existem deliciosas opções. Confira!
+  Você verá como é fácil preparar um **aromatizador de ambientes**! Difícil será escolher qual cheirinho usar, já que existem deliciosas opções. Confira!
 </p>
 
 <p align="center">

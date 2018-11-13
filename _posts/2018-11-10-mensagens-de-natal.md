@@ -1,7 +1,7 @@
 ---
-id: 3713
+
 title: Envie carinho através de mensagens de Natal online!
-date: 2018-11-10T11:31:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/?p=3713
@@ -12,7 +12,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Natal é uma época gostosa porque a gente é inundado do desejo de estar ainda mais perto da família, não é? E quem não quer enviar amor para as pessoas queridas? Com <strong>mensagens de Natal</strong> online você pode acarinhar quem quer bem neste fim de ano, enviando palavras que de alguma forma traduzam todo o seu desejo de celebrar com ela tantas graças e bençãos, ou ainda demonstrar tudo o que você mentaliza para a vida dessas pessoas nesse novo ano que estará prestes a começar.
+  Natal é uma época gostosa porque a gente é inundado do desejo de estar ainda mais perto da família, não é? E quem não quer enviar amor para as pessoas queridas? Com **mensagens de Natal** online você pode acarinhar quem quer bem neste fim de ano, enviando palavras que de alguma forma traduzam todo o seu desejo de celebrar com ela tantas graças e bençãos, ou ainda demonstrar tudo o que você mentaliza para a vida dessas pessoas nesse novo ano que estará prestes a começar.
 </p>
 
 <p align="justify">

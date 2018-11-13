@@ -1,7 +1,7 @@
 ---
-id: 3179
+
 title: Qual próximo produto de beleza você vai comprar?
-date: 2012-09-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/03/produto-de-beleza-compras/
@@ -20,7 +20,7 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">Deixa eu te contar o meu…</span></strong>
+  **<span style="font-size: large;">Deixa eu te contar o meu…</span>**
 </p>
 
 &nbsp;
@@ -36,17 +36,17 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
 </p>
 
 <p align="justify">
-  Minha obstetra me deu uma dica de uso diferente do que eu fazia, que era aplicá-lo na barriga após o banho. Ela falou que <strong>ao tomar banho, eu não passasse sabonete na barriga, muito menos esponja. Apenas molhasse, em seguida deveria passar o óleo e permitir que a água escorrendo removesse o excesso sem esfregar. Após o banho, eu deveria secar a barriga com cuidado e, depois disso, passar o hidratante.</strong> Então, <em>oh</em>: fica a dica para você, que também está grávida, de como hidratar o barrigão.
+  Minha obstetra me deu uma dica de uso diferente do que eu fazia, que era aplicá-lo na barriga após o banho. Ela falou que **ao tomar banho, eu não passasse sabonete na barriga, muito menos esponja. Apenas molhasse, em seguida deveria passar o óleo e permitir que a água escorrendo removesse o excesso sem esfregar. Após o banho, eu deveria secar a barriga com cuidado e, depois disso, passar o hidratante.** Então, <em>oh</em>: fica a dica para você, que também está grávida, de como hidratar o barrigão.
 </p>
 
 <p align="justify">
-  O óleo que decidi experimentar e ver se gosto do resultado é este aí acima, o <strong>Mamie Bella Óleo Vegetal ,d´O Boticário</strong>. Espero que a tentativa dessa vez valha a pena. Agora é aguardar as cenas dos próximos capítulos…
+  O óleo que decidi experimentar e ver se gosto do resultado é este aí acima, o **Mamie Bella Óleo Vegetal ,d´O Boticário**. Espero que a tentativa dessa vez valha a pena. Agora é aguardar as cenas dos próximos capítulos…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">A Cely quer contar a próxima aquisição dela…</span></strong>
+  **<span style="font-size: large;">A Cely quer contar a próxima aquisição dela…</span>**
 </p>
 
 &nbsp;
@@ -58,17 +58,17 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
 &nbsp;
 
 > <p align="justify">
->   “<em>Oiê, Lidi! Eu tenho uma lista obesa de desejos, mas minha carteira se recusa a me fazer feliz. Por isso eu vou ser modesta e dizer o que realmente vou comprar nestes próximos dias: <strong>Lipikar Podologics da La Roche-Posay</strong>.  Diz a lenda que <strong>esse creme transforma pés de estivador (como o meu) em pés de princesa. </strong>Como eu quero muito ter estes pés, já vou buscar o meu, porque já usei DE TUDO e nada adiantou. Vamos ver&#8230;”</em>
+>   “<em>Oiê, Lidi! Eu tenho uma lista obesa de desejos, mas minha carteira se recusa a me fazer feliz. Por isso eu vou ser modesta e dizer o que realmente vou comprar nestes próximos dias: **Lipikar Podologics da La Roche-Posay**.  Diz a lenda que **esse creme transforma pés de estivador (como o meu) em pés de princesa. **Como eu quero muito ter estes pés, já vou buscar o meu, porque já usei DE TUDO e nada adiantou. Vamos ver&#8230;”</em>
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=4627" rel="attachment wp-att-4627"><img class="alignnone size-full wp-image-4627" title="mulher pensando" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/mulher-pensando.jpg" alt="" width="229" height="386" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/?attachment_id=4627" rel="attachment wp-att-4627"><img class="alignnone size-full wp-image-4627" title="mulher pensando" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/mulher-pensando.jpg" alt="" width="229" height="386" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">E você, bonita? Conta aí qual será sua próxima compra de beleza…</span></strong>
+  **<span style="font-size: large;">E você, bonita? Conta aí qual será sua próxima compra de beleza…</span>**
 </p>
 
 &nbsp;
@@ -78,20 +78,20 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/beleza-produtos-recomendados200/" rel="attachment wp-att-8978"><img class="alignnone size-full wp-image-8978" title="BELEZA-PRODUTOS-RECOMENDADOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-PRODUTOS-RECOMENDADOS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/06/produto-beleza-recomendado/"><strong><span style="font-size: medium;"><br /> Alguma mulher resiste a uma nova aquisição de produto de beleza?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/beleza-produtos-recomendados200/" rel="attachment wp-att-8978"><img class="alignnone size-full wp-image-8978" title="BELEZA-PRODUTOS-RECOMENDADOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-PRODUTOS-RECOMENDADOS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/06/produto-beleza-recomendado/">**<span style="font-size: medium;"><br /> Alguma mulher resiste a uma nova aquisição de produto de beleza?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><strong><span style="font-size: medium;"><br /> Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">**<span style="font-size: medium;"><br /> Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span>**</a>
       </p>
     </td>
   </tr>
@@ -99,17 +99,17 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a></strong>
+        **<a href="http://www.trololodemulher.com.br/corpo/mel200/" rel="attachment wp-att-8508"><img class="alignnone size-full wp-image-8508" title="MEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MEL200.jpg" alt="" width="200" height="200" /></a>**
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/"><strong><span style="font-size: medium;">Mel: bom para a saúde, melhor ainda para sua beleza…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/02/06/beleza/">**<span style="font-size: medium;">Mel: bom para a saúde, melhor ainda para sua beleza…</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/"><strong><span style="font-size: medium;">Beleza: só no trololó: segredos das blogueiras</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/keka200/" rel="attachment wp-att-8347"><img class="alignnone size-full wp-image-8347" title="Keka200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Keka200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/">**<span style="font-size: medium;">Beleza: só no trololó: segredos das blogueiras</span>**</a>
       </p>
     </td>
   </tr>
@@ -117,17 +117,17 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><strong><span style="font-size: medium;"><br /> Produtinhos de beleza recomendados pela blogueira Pauline Costa</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/corpo/pauline-costa200/" rel="attachment wp-att-8273"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/">**<span style="font-size: medium;"><br /> Produtinhos de beleza recomendados pela blogueira Pauline Costa</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/02/06/beleza/cely3200/" rel="attachment wp-att-6860"><img class="alignnone size-full wp-image-6860" title="cely3200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cely3200.jpg" alt="" width="200" height="200" /></a></strong>
+        **<a href="http://www.trololodemulher.com.br/2012/02/06/beleza/cely3200/" rel="attachment wp-att-6860"><img class="alignnone size-full wp-image-6860" title="cely3200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cely3200.jpg" alt="" width="200" height="200" /></a>**
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/09/02/cosmeticos-beleza/"><strong><span style="font-size: medium;">Dicas de cosméticos para manter a beleza de uma bicha fêmea em dia!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/09/02/cosmeticos-beleza/">**<span style="font-size: medium;">Dicas de cosméticos para manter a beleza de uma bicha fêmea em dia!</span>**</a>
       </p>
     </td>
   </tr>
@@ -144,7 +144,7 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -168,9 +168,9 @@ A gente sempre está de olho nas dicas de produtos de beleza, _né_? Eu, pelo me
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

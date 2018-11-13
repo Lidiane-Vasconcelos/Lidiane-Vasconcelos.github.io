@@ -1,7 +1,7 @@
 ---
-id: 3643
+
 title: 3 dicas simples para deixar seu quarto relaxante e calmo.
-date: 2016-08-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/15/quarto-relaxante/
@@ -11,7 +11,7 @@ categories:
   - Quarto
 ---
 <p style="text-align: justify;" align="justify">
-  Então você está mesmo precisando de ideias práticas para ter um <strong>quarto relaxante</strong>, tranquilo e harmonioso? Então, oh: a boa notícia é que esse post foi pensado e-xa-ta-men-te para isso. Quero te ajudar a realizar essa tarefa tão gostosa, de recompensa bem valiosa, afinal, quem mais vai frequentar esse cantinho que, a princípio, deveria ser um “santuário” de descanso?
+  Então você está mesmo precisando de ideias práticas para ter um **quarto relaxante**, tranquilo e harmonioso? Então, oh: a boa notícia é que esse post foi pensado e-xa-ta-men-te para isso. Quero te ajudar a realizar essa tarefa tão gostosa, de recompensa bem valiosa, afinal, quem mais vai frequentar esse cantinho que, a princípio, deveria ser um “santuário” de descanso?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -27,31 +27,31 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <em>“É importante arrumar a cama todos os dias. Quando você arruma a cama, é automático: você não vai querer ver aquela baguncinha extra no quarto. Você vai sentir uma motivação a mais para colocar todo o resto do quarto em ordem. Além de você sentir um impulso para começar o seu dia bem, por ver aquele espaço de descanso em ordem, durante o dia você não vai ter coragem de desorganizar o ambiente, jogando coisas por lá de qualquer jeito. Experimente, e tente fazer disso um hábito.”</em>. <strong>Dica minha, pra você, <em>viu</em>?</strong>
+  1 – <em>“É importante arrumar a cama todos os dias. Quando você arruma a cama, é automático: você não vai querer ver aquela baguncinha extra no quarto. Você vai sentir uma motivação a mais para colocar todo o resto do quarto em ordem. Além de você sentir um impulso para começar o seu dia bem, por ver aquele espaço de descanso em ordem, durante o dia você não vai ter coragem de desorganizar o ambiente, jogando coisas por lá de qualquer jeito. Experimente, e tente fazer disso um hábito.”</em>. **Dica minha, pra você, <em>viu</em>?**
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank"><strong>Se sua casa estiver em ordem, não duvide: você ficará bem.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">**Se sua casa estiver em ordem, não duvide: você ficará bem.**</a>
 </p>
 
 <p align="justify">
-  2 – <em>“Luz indireta. Um abajur faz toda diferença e percebi isto principalmente porque estou sem lustre no quarto, daí fica aquela luz branca gritante. Além do mais, uma vela ou aromatizador de ambientes suave”.</em> <strong>Dica da Renata Becker Wentz, do blog </strong><a href="http://www.vidaloucadecasada.blogspot.com.br/" target="_blank"><strong>VLC – Vida Louca de Casada</strong></a>
+  2 – <em>“Luz indireta. Um abajur faz toda diferença e percebi isto principalmente porque estou sem lustre no quarto, daí fica aquela luz branca gritante. Além do mais, uma vela ou aromatizador de ambientes suave”.</em> **Dica da Renata Becker Wentz, do blog **<a href="http://www.vidaloucadecasada.blogspot.com.br/" target="_blank">**VLC – Vida Louca de Casada**</a>
 </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank"><strong>Aromatizador de ambientes: como fazer?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank">**Aromatizador de ambientes: como fazer?**</a>
 </p>
 
 <p align="justify">
-  3 –<em> “A minha dica para deixar o quarto mais tranquilo e aconchegante é escolher a lâmpada certa. As pessoas começaram a fazer uso das lâmpadas fluorescentes, pois consomem menos energia, mas esqueceram de cuidar do conforto que um lar deve ter. Seu espaço de descanso não deve ser frio como um ambiente comercial, ele tem que trazer tranquilidade. E a gente pode sim aliar isso à economia das lâmpadas frias. Na hora de comprar a lâmpada procure pelo branco quente, pois esta possui o mesmo tom das lâmpadas antigas. Seja no teto ou no abajur, o ambiente ficará mais acolhedor.”</em> <strong>Dica da Raquel Martins (Keka), do blog </strong><a href="http://www.tresemcasa.com.br/" target="_blank"><strong>3 em Casa</strong></a>
+  3 –<em> “A minha dica para deixar o quarto mais tranquilo e aconchegante é escolher a lâmpada certa. As pessoas começaram a fazer uso das lâmpadas fluorescentes, pois consomem menos energia, mas esqueceram de cuidar do conforto que um lar deve ter. Seu espaço de descanso não deve ser frio como um ambiente comercial, ele tem que trazer tranquilidade. E a gente pode sim aliar isso à economia das lâmpadas frias. Na hora de comprar a lâmpada procure pelo branco quente, pois esta possui o mesmo tom das lâmpadas antigas. Seja no teto ou no abajur, o ambiente ficará mais acolhedor.”</em> **Dica da Raquel Martins (Keka), do blog **<a href="http://www.tresemcasa.com.br/" target="_blank">**3 em Casa**</a>
 </p>
 
 <p align="justify">

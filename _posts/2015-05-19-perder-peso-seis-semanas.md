@@ -1,7 +1,7 @@
 ---
-id: 3424
+
 title: Como perder peso em seis semanas com o Corpo D21.
-date: 2015-05-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/19/perder-peso-seis-semanas/
@@ -17,7 +17,7 @@ categories:
 </p>
 
 <p align="justify">
-  Já ouviu falar do Programa de Emagrecimento <strong><span style="color: #ff0000;">CORPO DE 21</span></strong>? Trata-se de um curso completo, que você faz em 6 semanas, mas é preciso dedicar 21 minutos diários do seu tempo. Sim! Não existe nada milagroso, é verdade. Por outro lado, se você fizer direitinho a sua parte, pode alcançar o seu objetivo de maneira descomplicada e eficiente, já que você não volta a engordar. E sabe o melhor? Você nem precisa sair de casa pra isso. Acompanha…
+  Já ouviu falar do Programa de Emagrecimento **<span style="color: #ff0000;">CORPO DE 21</span>**? Trata-se de um curso completo, que você faz em 6 semanas, mas é preciso dedicar 21 minutos diários do seu tempo. Sim! Não existe nada milagroso, é verdade. Por outro lado, se você fizer direitinho a sua parte, pode alcançar o seu objetivo de maneira descomplicada e eficiente, já que você não volta a engordar. E sabe o melhor? Você nem precisa sair de casa pra isso. Acompanha…
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ categories:
 </p>
 
 <p align="justify">
-  O <strong>método D21</strong> (Corpo de 21) foi criado pela <strong>fisioterapeuta carioca Olivia Andriolo</strong>, que é especializada em Pilates (<em>Adooooro! Pratiquei até os 7 meses de gravidez e não vejo a hora de voltar</em>!) e em treinamentos funcionais. O que a Olivia quer te mostrar é que com 21 minutos diários de exercícios você pratica o equivalente a 1h30m de academia, “<em>isso sem precisar se matar com horas de academia ou fechando a boca e passando uma fome absurda, ou coisas do tipo</em>”, explica a fisioterapeuta.
+  O **método D21** (Corpo de 21) foi criado pela **fisioterapeuta carioca Olivia Andriolo**, que é especializada em Pilates (<em>Adooooro! Pratiquei até os 7 meses de gravidez e não vejo a hora de voltar</em>!) e em treinamentos funcionais. O que a Olivia quer te mostrar é que com 21 minutos diários de exercícios você pratica o equivalente a 1h30m de academia, “<em>isso sem precisar se matar com horas de academia ou fechando a boca e passando uma fome absurda, ou coisas do tipo</em>”, explica a fisioterapeuta.
 </p>
 
 <p align="justify">
@@ -33,7 +33,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você tem tempo reduzido para frequentar uma academia, ou ainda não gosta mesmo de frequentar esses lugares, o programa D21 foi idealizado para você, bonita! Ele nasceu para atender aos anseios das alunas da Olivia, que não tinham disponibilidade pra ficar horas malhando, ou porque não curtiam cuidar do corpo dessa forma. Quando o método foi mostrado para elas, e o sucesso da proposta foi comprovado na prática, em pouco tempo a profissional que idealizou o D21 já nem tinha mais horas disponíveis para aulas. Foi exatamente aí que surgiu a ideia: <strong>por que não disponibilizar a metodologia <em>online</em>, com aulas em vídeo e dicas de alimentação, tudo disponível somente para os alunos</strong>? Confere aí um tantinho…
+  Se você tem tempo reduzido para frequentar uma academia, ou ainda não gosta mesmo de frequentar esses lugares, o programa D21 foi idealizado para você, bonita! Ele nasceu para atender aos anseios das alunas da Olivia, que não tinham disponibilidade pra ficar horas malhando, ou porque não curtiam cuidar do corpo dessa forma. Quando o método foi mostrado para elas, e o sucesso da proposta foi comprovado na prática, em pouco tempo a profissional que idealizou o D21 já nem tinha mais horas disponíveis para aulas. Foi exatamente aí que surgiu a ideia: **por que não disponibilizar a metodologia <em>online</em>, com aulas em vídeo e dicas de alimentação, tudo disponível somente para os alunos**? Confere aí um tantinho…
 </p>
 
 <p align="center">

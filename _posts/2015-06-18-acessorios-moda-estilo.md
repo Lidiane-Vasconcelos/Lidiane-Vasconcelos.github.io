@@ -1,7 +1,7 @@
 ---
-id: 3433
+
 title: Acessórios servem ao seu estilo…
-date: 2015-06-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/18/acessorios-moda-estilo/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  … porque, vamos combinar? O que são as peças e acessórios de moda sem que a marca pessoal de uma mulher faça deles itens até mais bonitos do que são? Isso se chama estilo, e cada uma tem o seu. O fato é que é bacana quando a gente encontra um lugar onde possamos dar vida ao nosso, independente de qual seja ele, certo? É disso que quero falar contigo hoje, de uma loja virtual com acessórios de moda belíssimos, capazes de nos deixar ainda mais marcantes. Estou falando da <strong>MIRART ACESSÓRIOS</strong>, um espaço virtual recheado de detalhes únicos, pois são produzidos APENAS por encomenda, tudo feito com capricho e amor pela <strong>Miriam</strong>, a artesã que dá vida a essas peças lindas de viver. Repare:
+  … porque, vamos combinar? O que são as peças e acessórios de moda sem que a marca pessoal de uma mulher faça deles itens até mais bonitos do que são? Isso se chama estilo, e cada uma tem o seu. O fato é que é bacana quando a gente encontra um lugar onde possamos dar vida ao nosso, independente de qual seja ele, certo? É disso que quero falar contigo hoje, de uma loja virtual com acessórios de moda belíssimos, capazes de nos deixar ainda mais marcantes. Estou falando da **MIRART ACESSÓRIOS**, um espaço virtual recheado de detalhes únicos, pois são produzidos APENAS por encomenda, tudo feito com capricho e amor pela **Miriam**, a artesã que dá vida a essas peças lindas de viver. Repare:
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p align="justify">
-  Na <strong>Mirart Acessórios</strong> você ainda encontra pingentes, broches, pulseiras masculinas e tornozeleiras. As peças são trabalhadas em metal, resina, cristal, pedras naturais, couro, tecidos, rendas e fitas. Quer dar uma espiadinha em toda a variedade de produtos da loja? Fique á vontade e <a href="http://www.elo7.com.br/mirart" target="_blank">clique aqui</a>. Depois, não esqueça de que as novidades são expostas pra você no <a href="https://www.facebook.com/mirartacessorios/timeline" target="_blank">Facebook</a> também, e você pode ficar a par de tudo curtindo a <a href="https://www.facebook.com/mirartacessorios/timeline" target="_blank">fanpage da loja bem aqui</a>. Se joga e fique ainda mais bonita!
+  Na **Mirart Acessórios** você ainda encontra pingentes, broches, pulseiras masculinas e tornozeleiras. As peças são trabalhadas em metal, resina, cristal, pedras naturais, couro, tecidos, rendas e fitas. Quer dar uma espiadinha em toda a variedade de produtos da loja? Fique á vontade e <a href="http://www.elo7.com.br/mirart" target="_blank">clique aqui</a>. Depois, não esqueça de que as novidades são expostas pra você no <a href="https://www.facebook.com/mirartacessorios/timeline" target="_blank">Facebook</a> também, e você pode ficar a par de tudo curtindo a <a href="https://www.facebook.com/mirartacessorios/timeline" target="_blank">fanpage da loja bem aqui</a>. Se joga e fique ainda mais bonita!
 </p>
 
 <p align="center">

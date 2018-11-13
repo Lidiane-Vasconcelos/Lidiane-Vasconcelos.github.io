@@ -1,7 +1,7 @@
 ---
-id: 3836
+
 title: '3 guirlandas de Natal diferentes e criativas: faça você mesma!'
-date: 2017-11-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/28/guirlandas-de-natal/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  <strong>Guirlandas de Natal</strong> na porta de casa é um clássico na decoração natalina,<em> né</em>? Quando a gente pensa em como arrumar a casa para o período natalino, logo passa pela cabeça a pergunta: e a guirlanda? Pois bem: este post tem 3 ideias bem diferentes pra você dar uma espiadinha. Veja o comprove qual tem a sua cara.
+  **Guirlandas de Natal** na porta de casa é um clássico na decoração natalina,<em> né</em>? Quando a gente pensa em como arrumar a casa para o período natalino, logo passa pela cabeça a pergunta: e a guirlanda? Pois bem: este post tem 3 ideias bem diferentes pra você dar uma espiadinha. Veja o comprove qual tem a sua cara.
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Fios… pra que te quero?!</span></strong>
+  **<span style="font-size: large;">Fios… pra que te quero?!</span>**
 </p>
 
 &nbsp;
@@ -61,15 +61,15 @@ categories:
 &nbsp;
 
 <p align="left">
-  <strong>E mais:</strong>
+  **E mais:**
 </p>
 
 <p align="left">
-  <strong><a href="http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/" target="_blank">Enfeites de Natal: você já sabe como decorar a mesa?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/" target="_blank">Enfeites de Natal: você já sabe como decorar a mesa?</a>**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Natal colorido!</span></strong>
+  **<span style="font-size: large;">Natal colorido!</span>**
 </p>
 
 &nbsp;
@@ -89,7 +89,7 @@ categories:
 Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 
 <p align="justify">
-  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank">**Clique aqui e confira**</a>!
 </p>
 
 <p align="center">

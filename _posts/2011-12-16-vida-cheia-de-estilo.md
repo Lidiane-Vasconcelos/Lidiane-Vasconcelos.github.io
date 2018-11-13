@@ -1,7 +1,7 @@
 ---
-id: 3094
+
 title: Por uma vida cheia de estilo… do SEU estilo!
-date: 2011-12-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/16/vida-cheia-de-estilo/
@@ -20,20 +20,20 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: medium;">Viajar mais… muito mais!</span></strong>
+  **<span style="font-size: medium;">Viajar mais… muito mais!</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg"><img class="alignnone size-full wp-image-8179" title="VIAGEM MAPA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/11/para-onde-voce-gosta-de-viajar/">Para onde você gosta de viajar?</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg"><img class="alignnone size-full wp-image-8179" title="VIAGEM MAPA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg" alt="" width="200" height="200" /></a><br /> **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/11/para-onde-voce-gosta-de-viajar/">Para onde você gosta de viajar?</a></span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg"><img class="alignnone size-full wp-image-6710" title="Laguna Colorada - Bolívia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/">Viagem: 5 lugares para conhecer e se surpreender. Duvida?!</a></span></strong>
+        **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg"><img class="alignnone size-full wp-image-6710" title="Laguna Colorada - Bolívia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/">Viagem: 5 lugares para conhecer e se surpreender. Duvida?!</a></span>**
       </p>
     </td>
   </tr>
@@ -44,40 +44,40 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">Viver mais a vida com quem você quer bem…</span></strong>
+  **<span style="font-size: medium;">Viver mais a vida com quem você quer bem…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg"><img class="alignnone size-full wp-image-4847" title="chá ou café da tarde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/">Chá ou café da tarde com amigas: dicas e ideias…</a></span></strong>
+        **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg"><img class="alignnone size-full wp-image-4847" title="chá ou café da tarde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/cha-ou-cafe-da-tarde200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/">Chá ou café da tarde com amigas: dicas e ideias…</a></span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200.jpg"><img class="alignnone size-full wp-image-6969" title="Final de semana200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/21/vivendo-fim-de-semana/">Como você vive e aproveita os fins de semana?</a></span></strong>
+        **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200.jpg"><img class="alignnone size-full wp-image-6969" title="Final de semana200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Final-de-semana200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/21/vivendo-fim-de-semana/">Como você vive e aproveita os fins de semana?</a></span>**
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <strong><span style="font-size: small;"><strong><span style="font-size: medium;">Tornar o seu sonho uma realidade…</span></strong></span></strong>
+  **<span style="font-size: small;">**<span style="font-size: medium;">Tornar o seu sonho uma realidade…</span>**</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> </span><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span></a></strong>
+        **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg"><img class="alignnone size-full wp-image-7002" title="cupcakes - doces abobrinhas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas200.jpg" alt="" width="200" height="200" /></a><br /> </span><a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/"><span style="font-size: small;">O talento na cozinha pode mesmo virar uma fonte de renda?</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg"><img class="alignnone size-full wp-image-6891" title="home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/">Quer trabalhar sem sair de casa mas não sabe como?</a></span></strong>
+        **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg"><img class="alignnone size-full wp-image-6891" title="home office200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/home-office200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/">Quer trabalhar sem sair de casa mas não sabe como?</a></span>**
       </p>
     </td>
   </tr>
@@ -87,7 +87,7 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
   <tr>
     <td valign="top" width="600">
       <p align="center">
-        <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha200.jpg"><img class="alignnone size-full wp-image-6700" title="escolha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/03/voce-e-feliz/">Você é feliz com as escolhas que fez para sua vida?</a></span></strong>
+        **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha200.jpg"><img class="alignnone size-full wp-image-6700" title="escolha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/escolha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/03/voce-e-feliz/">Você é feliz com as escolhas que fez para sua vida?</a></span>**
       </p>
     </td>
   </tr>
@@ -96,15 +96,15 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -127,5 +127,5 @@ Você sabe muito bem o que te deixa feliz, plena e realizada. O que te faz senti
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

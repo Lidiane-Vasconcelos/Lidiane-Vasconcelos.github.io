@@ -1,7 +1,7 @@
 ---
-id: 3740
+
 title: 'Festa do Capitão América caseira: 4 anos de João.'
-date: 2017-03-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/15/festa-do-capitao-america/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Marcela, de Recife, é uma mãe criativa e festeira, daquelas que amam pensar em cada detalhe para comemorar o aniversário da cria. Este ano João Pedro completou 4 anos e pediu uma <strong>festa do</strong> <strong>Capitão América</strong>, afinal de contas, ele já é um rapazinho e sabe o que quer. A mamãe decidiu que teria festa caseira, sim, e cheia de detalhes inspiradores.
+  Marcela, de Recife, é uma mãe criativa e festeira, daquelas que amam pensar em cada detalhe para comemorar o aniversário da cria. Este ano João Pedro completou 4 anos e pediu uma **festa do** **Capitão América**, afinal de contas, ele já é um rapazinho e sabe o que quer. A mamãe decidiu que teria festa caseira, sim, e cheia de detalhes inspiradores.
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  Marcela conta o que usou como <strong><span style="font-size: x-large;">elementos decorativos</span></strong> para compor essa festa tão linda de viver:
+  Marcela conta o que usou como **<span style="font-size: x-large;">elementos decorativos</span>** para compor essa festa tão linda de viver:
 </p>
 
 <p align="justify">
@@ -71,11 +71,11 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Bolo de Rogeane</strong>, <a href="https://www.instagram.com/rogemelocakes/" target="_blank">Instagram rogemelocakes</a>.
+  **Bolo de Rogeane**, <a href="https://www.instagram.com/rogemelocakes/" target="_blank">Instagram rogemelocakes</a>.
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como você fez a decoração em torno do bolo?</strong>
+  **Trololó de Mulher >>> Como você fez a decoração em torno do bolo?**
 </p>
 
 <p align="justify">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que você serviu na festa?</strong>
+  **Trololó de Mulher >>> O que você serviu na festa?**
 </p>
 
 <p align="justify">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Os convidados ganharam sacolinha?</strong>
+  **Trololó de Mulher >>> Os convidados ganharam sacolinha?**
 </p>
 
 <p align="justify">
@@ -103,15 +103,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil: faça você mesma.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil: faça você mesma.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a>**
 </p>
 
 <p align="center">

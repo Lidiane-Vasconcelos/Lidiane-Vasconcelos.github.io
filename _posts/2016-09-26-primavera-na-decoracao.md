@@ -1,7 +1,7 @@
 ---
-id: 3672
+
 title: Veja 10 truques pra colocar a Primavera na decoração.
-date: 2016-09-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/26/primavera-na-decoracao/
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quarto-calmo-e-relaxante/" target="_blank"><strong>3 dicas simples para deixar o seu quarto calmo e relaxante.</strong></a>
+  <a href="http://www.decoracaodacasa.com/quarto-calmo-e-relaxante/" target="_blank">**3 dicas simples para deixar o seu quarto calmo e relaxante.**</a>
 </p>
 
 <p align="center">
@@ -51,15 +51,15 @@ categories:
 </p>
 
 <p align="justify">
-  2 &#8211; Objetos, enfeites ou acessórios: esses pequenos detalhes podem fazer toda a diferença na decoração da sua sala de estar, por exemplo. Escolha vasos, caixas, velas, pequenas esculturas ou objetos interessantes que possam ser dispostos em composiçoes sobre a mesa de centro ou de canto, no aparador ou numa <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank"><strong>prateleira flutuante</strong></a>. Com imaginação e bom senso, você consegue renovar o <em>décor</em> da casa já!
+  2 &#8211; Objetos, enfeites ou acessórios: esses pequenos detalhes podem fazer toda a diferença na decoração da sua sala de estar, por exemplo. Escolha vasos, caixas, velas, pequenas esculturas ou objetos interessantes que possam ser dispostos em composiçoes sobre a mesa de centro ou de canto, no aparador ou numa <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank">**prateleira flutuante**</a>. Com imaginação e bom senso, você consegue renovar o <em>décor</em> da casa já!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank"><strong>Como decorar a mesa de centro de sala?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank">**Como decorar a mesa de centro de sala?**</a>
 </p>
 
 <p align="center">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-flores-floral/" target="_blank"><strong>Quando é que objetos refletem uma bossa primaveril no décor de sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-flores-floral/" target="_blank">**Quando é que objetos refletem uma bossa primaveril no décor de sua casa?**</a>
 </p>
 
 <p align="center">
@@ -95,11 +95,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar parede com quadros.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar parede com quadros.**</a>
 </p>
 
 <p align="center">
@@ -115,11 +115,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/" target="_blank"><strong>Sofá neutro + almofadas coloridas = sucesso no décor da sala de estar.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/" target="_blank">**Sofá neutro + almofadas coloridas = sucesso no décor da sala de estar.**</a>
 </p>
 
 <p align="center">
@@ -135,11 +135,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank"><strong>Cortinas: como escolher?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank">**Cortinas: como escolher?**</a>
 </p>
 
 <p align="center">
@@ -175,15 +175,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">**Como evitar o acúmulo e organizar o lar? Dicas práticas.**</a>
 </p>
 
 <p align="justify">
-  <strong>10 &#8211; Não esqueça de deixar a luz do céu e do sol entrar na sua vida, sempre, e agora mais do que nunca. Abra as janelas!</strong>
+  **10 &#8211; Não esqueça de deixar a luz do céu e do sol entrar na sua vida, sempre, e agora mais do que nunca. Abra as janelas!**
 </p>
 
 <p align="center">

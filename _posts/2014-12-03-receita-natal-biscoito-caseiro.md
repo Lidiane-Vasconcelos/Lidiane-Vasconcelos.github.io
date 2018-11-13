@@ -1,7 +1,7 @@
 ---
-id: 3374
+
 title: 'Receita natalina: biscoitinho de gengibre e cardamomo'
-date: 2014-12-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/03/receita-natal-biscoito-caseiro/
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Em uma vasilha coloque: as farinhas, manteiga, açúcar, gengibre e o cardamomo. Faça uma farofa, depois coloque a água e o ovo. Amasse bem até que a massa fique bem homogênea. Deixe descansar por 20 minutos. Enfarinhe a bancada, abra com um rolo e corte com os cortadores. Caso não tenha cortadores, pode cortar com a xícara ou faça bolinhas. Coloque papel manteiga na forma, coloque os biscoitinhos e leve para assar em 180 graus preaquecido. Os biscoitinhos não podem sair do forno secos. Eles saem levemente amolecidos, porque quando esfriarem eles endurecem, ok? Depois de esfriarem muito bem, podem ser embalados em saquinhos ou guardados em latas.”</strong>
+>   **Em uma vasilha coloque: as farinhas, manteiga, açúcar, gengibre e o cardamomo. Faça uma farofa, depois coloque a água e o ovo. Amasse bem até que a massa fique bem homogênea. Deixe descansar por 20 minutos. Enfarinhe a bancada, abra com um rolo e corte com os cortadores. Caso não tenha cortadores, pode cortar com a xícara ou faça bolinhas. Coloque papel manteiga na forma, coloque os biscoitinhos e leve para assar em 180 graus preaquecido. Os biscoitinhos não podem sair do forno secos. Eles saem levemente amolecidos, porque quando esfriarem eles endurecem, ok? Depois de esfriarem muito bem, podem ser embalados em saquinhos ou guardados em latas.”**
 > </p>
 
 <p align="center">
@@ -77,11 +77,11 @@ categories:
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau… hummmm!</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho de inhame assado com bacalhau… hummmm!**</a>
 
-<a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**</a>
 
-<a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">**Hamburguer de grão de bico facinho, facinho…**</a>
 
 &nbsp;
 

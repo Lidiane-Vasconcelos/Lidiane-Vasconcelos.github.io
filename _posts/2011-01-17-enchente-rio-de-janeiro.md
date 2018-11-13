@@ -1,7 +1,7 @@
 ---
-id: 2944
+
 title: 'Tragédias no Rio de Janeiro: é dando que se recebe…'
-date: 2011-01-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/17/enchente-rio-de-janeiro/
@@ -18,7 +18,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Mesmo a distância, a corrente de solidariedade pode se manter firme e indissolúvel. Ações como a que foi proposta pela<strong> Luci</strong>, do blog <a href="http://postandosobreartes.blogspot.com/" target="_blank">Postando Sobre Artes</a>, dão a oportunidade para que o carinho com que você confeccione alguma peça chegue até uma das mães que vivem toda aquela tragédia. Quer saber como? A <strong>Luci </strong>explica:
+  Mesmo a distância, a corrente de solidariedade pode se manter firme e indissolúvel. Ações como a que foi proposta pela** Luci**, do blog <a href="http://postandosobreartes.blogspot.com/" target="_blank">Postando Sobre Artes</a>, dão a oportunidade para que o carinho com que você confeccione alguma peça chegue até uma das mães que vivem toda aquela tragédia. Quer saber como? A **Luci **explica:
 </p>
 
 <blockquote style="text-align: justify;">
@@ -36,11 +36,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Está animada para ajudar também? O quartel general <em>bloguístico</em> para essas ações, inclusive com todas as informações quanto a logística durante o processo, é no blog da <strong>Luci</strong>. Tudo que você precisa saber para entrar nessa campanha e doar sua arte para quem precisa está no <a href="http://postandosobreartes.blogspot.com/2011/01/desafio-de-doacao-de-amor-e-arte.html" target="_blank">post da campanha</a>.
+  Está animada para ajudar também? O quartel general <em>bloguístico</em> para essas ações, inclusive com todas as informações quanto a logística durante o processo, é no blog da **Luci**. Tudo que você precisa saber para entrar nessa campanha e doar sua arte para quem precisa está no <a href="http://postandosobreartes.blogspot.com/2011/01/desafio-de-doacao-de-amor-e-arte.html" target="_blank">post da campanha</a>.
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Eu não sou arteira. E agora?</span></em></strong>
+  **<em><span style="font-size: medium;">Eu não sou arteira. E agora?</span></em>**
 </p>
 
 <p style="text-align: justify;">
@@ -52,11 +52,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  * A <strong>Cruz Vermelha</strong> está recolhendo água mineral, cobertores, colchões e kits de higiene pessoal. A entidade abriu uma conta para receber doações, no Banco Real, na Agência 0201, conta corrente número 1793928-5.
+  * A **Cruz Vermelha** está recolhendo água mineral, cobertores, colchões e kits de higiene pessoal. A entidade abriu uma conta para receber doações, no Banco Real, na Agência 0201, conta corrente número 1793928-5.
 </p>
 
 <p style="text-align: justify;">
-  * A <strong>Prefeitura de Teresópolis</strong> disponibilizou uma conta corrente no Banco do Brasil para receber doações e ajudar as famílias atingidas pelo temporal. Com o nome “SOS Teresópolis – Donativos”, a conta corrente é número 110000-9, na Agência 0741-2. Há também a conta 2011-1, Agência 4146, da Caixa Econômica Federal. O CNPJ da Prefeitura é número 29.138.369/0001-47.
+  * A **Prefeitura de Teresópolis** disponibilizou uma conta corrente no Banco do Brasil para receber doações e ajudar as famílias atingidas pelo temporal. Com o nome “SOS Teresópolis – Donativos”, a conta corrente é número 110000-9, na Agência 0741-2. Há também a conta 2011-1, Agência 4146, da Caixa Econômica Federal. O CNPJ da Prefeitura é número 29.138.369/0001-47.
 </p>
 
 **Outras contas:**
@@ -114,25 +114,25 @@ Conta: 32.000-5
 </p>
 
 <p style="text-align: justify;">
-  <strong>Mais no Bicha Fêmea&#8230;</strong>
+  **Mais no Bicha Fêmea&#8230;**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/01/11/viva-melhor-grupo-de-apoio-e-auto-ajuda-s-mulheres-mastectomizadas/" target="_self">Viva Melhor &#8211; Grupo de apoio e auto ajuda ás mulheres mastectomizadas.</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/01/11/viva-melhor-grupo-de-apoio-e-auto-ajuda-s-mulheres-mastectomizadas/" target="_self">Viva Melhor &#8211; Grupo de apoio e auto ajuda ás mulheres mastectomizadas.</a></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_self">Móveis e objetos usados. Lixo? Não! Doação? Sim!</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_self">Móveis e objetos usados. Lixo? Não! Doação? Sim!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/category/social/" target="_self">Social</a></em></strong>
+  **<em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/category/social/" target="_self">Social</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

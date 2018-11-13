@@ -1,7 +1,7 @@
 ---
-id: 3558
+
 title: O que tem na Prateleira do Trololó de Mulher?
-date: 2016-03-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/08/trololo-de-mulher/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p style="text-align: justify;" align="justify">
-  Para a casa, para os pequenos ou para você: quero te mostrar esta Prateleira do<strong> Trololó de Mulher</strong> re-che-a-da de lindezas que derretem corações femininos e maternos. Os parceiros comerciais do blog arrasam, sim, e quero te mostrar <em>tim por tim tim</em> o porquê… confira!
+  Para a casa, para os pequenos ou para você: quero te mostrar esta Prateleira do** Trololó de Mulher** re-che-a-da de lindezas que derretem corações femininos e maternos. Os parceiros comerciais do blog arrasam, sim, e quero te mostrar <em>tim por tim tim</em> o porquê… confira!
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Móveis de pallet para área de lazer que foram usados em um dos episódios do programa <em><strong>Mais Cor, Por Favor! &#8211; GNT</strong></em>, com pegada de sustentabilidade: amamos &#8230; e eles são da <a href="https://www.facebook.com/artesanatoscarlos/" target="_blank">Carllos Criações</a> {<a href="https://www.facebook.com/artesanatoscarlos/timeline" target="_blank">Fanpage no Facebook</a>}, viu?
+  Móveis de pallet para área de lazer que foram usados em um dos episódios do programa <em>**Mais Cor, Por Favor! &#8211; GNT**</em>, com pegada de sustentabilidade: amamos &#8230; e eles são da <a href="https://www.facebook.com/artesanatoscarlos/" target="_blank">Carllos Criações</a> {<a href="https://www.facebook.com/artesanatoscarlos/timeline" target="_blank">Fanpage no Facebook</a>}, viu?
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3735
+
 title: 'Estilo industrial na decoração: 15 imagens pra mudar conceitos.'
-date: 2017-03-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/07/estilo-industrial-na-decoracao/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  O <strong>estilo industrial na decoração</strong> deixa à mostra vigas, tijolos e tubulações, tudo fica aparente numa clara intenção de valorização desses materiais. Se por um lado abrir mão de esconder essas estruturas representa economizar na reforma tanto em tempo, quanto em gastos, por outro, se feito com bom gosto, o resultado final pode apresentar uma estética bastante atraente e interessante.
+  O **estilo industrial na decoração** deixa à mostra vigas, tijolos e tubulações, tudo fica aparente numa clara intenção de valorização desses materiais. Se por um lado abrir mão de esconder essas estruturas representa economizar na reforma tanto em tempo, quanto em gastos, por outro, se feito com bom gosto, o resultado final pode apresentar uma estética bastante atraente e interessante.
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Tubulação aparente</span></strong>
+  **<span style="font-size: x-large;">Tubulação aparente</span>**
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Tijolos à mostra</span></strong>
+  **<span style="font-size: x-large;">Tijolos à mostra</span>**
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Vigas descobertas</span></strong>
+  **<span style="font-size: x-large;">Vigas descobertas</span>**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3624
+
 title: 'Móvel modulado ou planejado: cubos no quarto infantil. 4 ideias.'
-date: 2016-06-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/10/movel-quarto-infantil/
@@ -15,15 +15,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ver:</strong>
+  **Não deixe de ver:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/" target="_blank"><strong>Decoração do quarto infantil: 4 soluções de marcenaria para você.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/" target="_blank">**Decoração do quarto infantil: 4 soluções de marcenaria para você.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank"><strong>Quarto infantil decorado com afetividade.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank">**Quarto infantil decorado com afetividade.**</a>
 </p>
 
 <p align="justify">
@@ -31,19 +31,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização no quarto infantil: você não vai copiar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização no quarto infantil: você não vai copiar?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizar-quarto-infantil/" target="_blank"><strong>3 ideias estratégicas para organizar o quarto infantil: copie!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizar-quarto-infantil/" target="_blank">**3 ideias estratégicas para organizar o quarto infantil: copie!**</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Pequeno e simples</span></strong>
+  **<span style="font-size: large;">Pequeno e simples</span>**
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Parede aproveitada ao extremo!</span></strong>
+  **<span style="font-size: large;">Parede aproveitada ao extremo!</span>**
 </p>
 
 <p align="center">
@@ -67,15 +67,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank"><strong>Como brincar com as cores na decoração do quarto infantil.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank">**Como brincar com as cores na decoração do quarto infantil.**</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">De tudo um pouco.</span></strong>
+  **<span style="font-size: large;">De tudo um pouco.</span>**
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">A cor está no móvel.</span></strong>
+  **<span style="font-size: large;">A cor está no móvel.</span>**
 </p>
 
 <p align="center">

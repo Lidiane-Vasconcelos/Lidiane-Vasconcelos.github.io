@@ -1,7 +1,7 @@
 ---
-id: 3483
+
 title: O que é empreendedorismo criativo?
-date: 2015-09-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/25/empreendedorismo-criativo/
@@ -15,15 +15,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank"><strong>Empreendedorismo feminino: 3 mulheres contaram tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank">**Empreendedorismo feminino: 3 mulheres contaram tudo!**</a>
 </p>
 
 <p align="justify">
-  <strong>Priscila Tescaro é consultora para empreendedores</strong>. <a href="http://www.pritescaro.com.br/" target="_blank">Em seu site há todas as informações</a> sobre como é o seu trabalho com o empreendedor criativo que pretende oferecer soluções diferentes no seu negócio. Por outro lado, o criativo empreendedor, que pretende fazer da sua ideia ou arte um negócio, pode se beneficiar de seus serviços também, que é oferecer soluções para tornar o seu sonho de negócio uma realidade viável. Priscila oferece consultoria para você que tem dúvidas sobre qual caminho seguir em seu empreendimento do coração, precisa melhorar aspectos sobre comunicação e marketing de sua empresa, quer atrair mais clientes e nem sabe como! Em meio a tantas dúvidas e dificuldades, ela pode ser seu suporte. <a href="https://www.facebook.com/PriscilaTescaroConsultoria/timeline" target="_blank">Acompanhe a Priscila em sua página no Facebook</a>, e fique por dentro de suas novidades. Foi ela quem, com gentileza extrema, esclareceu muitas dúvidas minhas para que eu pudesse compartilhar esse conteúdo com você, e já foi logo esclarecendo: “<em>um negócio criativo não precisa ser grande. Ele pode começar pequeno e manter-se pequeno durante toda sua existência. O que importa, neste caso, é encontrar um nicho que esse empreendedor possa colocar em prática sua criatividade mas, principalmente, sua identidade. Essa última palavra, na minha opinião, é super importante. Vivemos em um mundo em que as pessoas estão em busca de algo único, exclusivo, personalizado. Se a identidade do empreendedor estiver impressa nos produtos e serviços, fica muito mais fácil de vender”,</em> revela.
+  **Priscila Tescaro é consultora para empreendedores**. <a href="http://www.pritescaro.com.br/" target="_blank">Em seu site há todas as informações</a> sobre como é o seu trabalho com o empreendedor criativo que pretende oferecer soluções diferentes no seu negócio. Por outro lado, o criativo empreendedor, que pretende fazer da sua ideia ou arte um negócio, pode se beneficiar de seus serviços também, que é oferecer soluções para tornar o seu sonho de negócio uma realidade viável. Priscila oferece consultoria para você que tem dúvidas sobre qual caminho seguir em seu empreendimento do coração, precisa melhorar aspectos sobre comunicação e marketing de sua empresa, quer atrair mais clientes e nem sabe como! Em meio a tantas dúvidas e dificuldades, ela pode ser seu suporte. <a href="https://www.facebook.com/PriscilaTescaroConsultoria/timeline" target="_blank">Acompanhe a Priscila em sua página no Facebook</a>, e fique por dentro de suas novidades. Foi ela quem, com gentileza extrema, esclareceu muitas dúvidas minhas para que eu pudesse compartilhar esse conteúdo com você, e já foi logo esclarecendo: “<em>um negócio criativo não precisa ser grande. Ele pode começar pequeno e manter-se pequeno durante toda sua existência. O que importa, neste caso, é encontrar um nicho que esse empreendedor possa colocar em prática sua criatividade mas, principalmente, sua identidade. Essa última palavra, na minha opinião, é super importante. Vivemos em um mundo em que as pessoas estão em busca de algo único, exclusivo, personalizado. Se a identidade do empreendedor estiver impressa nos produtos e serviços, fica muito mais fácil de vender”,</em> revela.
 </p>
 
 <p align="center">
@@ -39,15 +39,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank">**Empreendedorismo feminino: o que é mais importante?**</a>
 </p>
 
 <p align="justify">
-  Quem tem vivenciado os desafios de empreender uma ideia criativa, e que é movida pelo coração, é a <strong>Maria Cordeiro</strong>, a moça que comanda a empresa <a href="http://www.mariacerejadigital.iluria.com/" target="_blank">Maria Cereja</a>, um espaço de criação de ilustrações e projetos visuais para a marca de outros empreendedores. Com <a href="https://www.facebook.com/mariacerejadigital/timeline" target="_blank">presença online forte no Facebook</a>, Maria tem construído o seu caminho colocando muito de sua história pessoal em seu negócio. “<em>Sou Maria, tenho 36 anos, há 16 anos casada e com filhos. Hoje sou designer e proprietária do <strong>Estúdio Maria Cereja Digital</strong>, que surgiu de um desejo de ter um comércio próprio, depois de trabalhar em empresas no ramo de publicidade e design de moda. Cereja surgiu do apelido que meus amigos me deram no trabalho, por eu ter sempre o rosto rosado e cheiro de doce. Originalmente me formei como professora e, aos 18 anos, já ministrava aulas pra crianças no pré-escolar. Procurei me especializar no ramo de informática que surgia no Brasil com muita força nos anos de 1996 a 1998. Novas tecnologias e tendências vinham para aprimorar não só a escola em si, mas o comércio também, e todos os ramos seriam agraciados com esse &#8220;boom&#8221; tecnológico que estava sendo implantado no país. Claro que a direção da escola foi muito importante para o meu crescimento, eles apostaram que eu seria a chave de ouro para as novidades, começando pelo curso técnico em processamento de dados (nível médio profissionalizante), e então usaram todos os recursos para que eu me tornasse uma profissional especializada para ministrar aulas teóricas e práticas, se fosse necessário. No ano de 2000 fui convocada a trabalhar na própria escola fazendo toda área de criação e marketing da mesma, foi quando eu descobri que era exatamente o que eu queria, ser desenhista gráfica. Fui em busca de novas experiências no ramo gráfico e, mais á frente, no ramo da moda, me tornando Designer de Moda, especializada em estamparia (superfície). Apaixonada por desenho, hoje busco a ilustração e o comércio gráfico para estampar e propagar o nome dos meus clientes</em>”, conta.
+  Quem tem vivenciado os desafios de empreender uma ideia criativa, e que é movida pelo coração, é a **Maria Cordeiro**, a moça que comanda a empresa <a href="http://www.mariacerejadigital.iluria.com/" target="_blank">Maria Cereja</a>, um espaço de criação de ilustrações e projetos visuais para a marca de outros empreendedores. Com <a href="https://www.facebook.com/mariacerejadigital/timeline" target="_blank">presença online forte no Facebook</a>, Maria tem construído o seu caminho colocando muito de sua história pessoal em seu negócio. “<em>Sou Maria, tenho 36 anos, há 16 anos casada e com filhos. Hoje sou designer e proprietária do **Estúdio Maria Cereja Digital**, que surgiu de um desejo de ter um comércio próprio, depois de trabalhar em empresas no ramo de publicidade e design de moda. Cereja surgiu do apelido que meus amigos me deram no trabalho, por eu ter sempre o rosto rosado e cheiro de doce. Originalmente me formei como professora e, aos 18 anos, já ministrava aulas pra crianças no pré-escolar. Procurei me especializar no ramo de informática que surgia no Brasil com muita força nos anos de 1996 a 1998. Novas tecnologias e tendências vinham para aprimorar não só a escola em si, mas o comércio também, e todos os ramos seriam agraciados com esse &#8220;boom&#8221; tecnológico que estava sendo implantado no país. Claro que a direção da escola foi muito importante para o meu crescimento, eles apostaram que eu seria a chave de ouro para as novidades, começando pelo curso técnico em processamento de dados (nível médio profissionalizante), e então usaram todos os recursos para que eu me tornasse uma profissional especializada para ministrar aulas teóricas e práticas, se fosse necessário. No ano de 2000 fui convocada a trabalhar na própria escola fazendo toda área de criação e marketing da mesma, foi quando eu descobri que era exatamente o que eu queria, ser desenhista gráfica. Fui em busca de novas experiências no ramo gráfico e, mais á frente, no ramo da moda, me tornando Designer de Moda, especializada em estamparia (superfície). Apaixonada por desenho, hoje busco a ilustração e o comércio gráfico para estampar e propagar o nome dos meus clientes</em>”, conta.
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ Maria é um exemplo de que é necessário buscar alternativas e soluções para 
 &nbsp;
 
 > <p align="justify">
->   <strong><em>“A criatividade deve estar sempre presente. E muita gente acredita que &#8220;ter criatividade&#8221; é parar e ficar esperando uma ideia brilhante. Não é nada disso. É observação. É estudo. É prática. Eu gosto de me inspirar olhando o Pinterest, por exemplo. Eu também gosto de &#8220;passear&#8221; por outros sites e blogs de empreendedores para ver o que eles estão fazendo e como eu posso aproveitar alguma inspiração que eu tenha. ​Acredito que ter um bom serviço ou produto, um atendimento excelente e uma relação apropriada com o cliente formam o tripé necessário para iniciar um negócio. Os próximos passos o empreendedor deve dar de acordo com a necessidade do mercado, a confiança que vai adquirindo em seu negócio, por exemplo. Mas não precisa ficar &#8220;se cobrando&#8221; para ter criatividade: &#8220;ah, agora é o momento de ser criativo&#8221;. Não, tem que deixar fluir!”</em></strong>
+>   **<em>“A criatividade deve estar sempre presente. E muita gente acredita que &#8220;ter criatividade&#8221; é parar e ficar esperando uma ideia brilhante. Não é nada disso. É observação. É estudo. É prática. Eu gosto de me inspirar olhando o Pinterest, por exemplo. Eu também gosto de &#8220;passear&#8221; por outros sites e blogs de empreendedores para ver o que eles estão fazendo e como eu posso aproveitar alguma inspiração que eu tenha. ​Acredito que ter um bom serviço ou produto, um atendimento excelente e uma relação apropriada com o cliente formam o tripé necessário para iniciar um negócio. Os próximos passos o empreendedor deve dar de acordo com a necessidade do mercado, a confiança que vai adquirindo em seu negócio, por exemplo. Mas não precisa ficar &#8220;se cobrando&#8221; para ter criatividade: &#8220;ah, agora é o momento de ser criativo&#8221;. Não, tem que deixar fluir!”</em>**
 > </p>
 
 &nbsp;
@@ -81,7 +81,7 @@ Maria é um exemplo de que é necessário buscar alternativas e soluções para 
 &nbsp;
 
 > <p align="justify">
->   <strong><em>“Nem sempre. É claro que algo criativo pode chamar mais a atenção num primeiro momento. Mas ele não se sustenta por muito tempo se não tiver uma estrutura de negócio por trás muito bem organizada e preparada. ​A criatividade destaque-se mas o cliente não é mais desinformado como antes. Ele vai atrás de informações e se tiver queixas de atendimento, entrega, qualidade, etc, não adianta ter criatividade, ele não vai se manter. Eu já vi algumas ideias bem legais e criativas que morreram porque o empreendedor não teve esse suporte dos bastidores.”</em></strong>
+>   **<em>“Nem sempre. É claro que algo criativo pode chamar mais a atenção num primeiro momento. Mas ele não se sustenta por muito tempo se não tiver uma estrutura de negócio por trás muito bem organizada e preparada. ​A criatividade destaque-se mas o cliente não é mais desinformado como antes. Ele vai atrás de informações e se tiver queixas de atendimento, entrega, qualidade, etc, não adianta ter criatividade, ele não vai se manter. Eu já vi algumas ideias bem legais e criativas que morreram porque o empreendedor não teve esse suporte dos bastidores.”</em>**
 > </p>
 
 &nbsp;
@@ -91,7 +91,7 @@ Maria é um exemplo de que é necessário buscar alternativas e soluções para 
 &nbsp;
 
 > <p align="justify">
->   <strong><em>“Pois é, esse é o grande desafio dessa nova geração de empreendedores. Está na moda empreender mas não basta ter uma ideia na cabeça e uma grana no banco. É fundamental estar estruturado. Eu recebo vários pedidos de Consultoria de empresas que nasceram assim: uma super ideia bacana e uma grana disponível​ mas falta qualidade no produto ou serviço, ou o atendimento não é legal, ou não tem processo algum, todo mundo faz tudo ou é uma conta bancária única, pessoa física e pessoa jurídica. Em algum momento essa bomba vai estourar e, mais cedo ou mais tarde é no próprio empreendedor que estoura. A maioria das pessoas decide empreender para ter melhor qualidade de vida mas, se você não tem estrutura você acaba trabalho muito mais, de maneira desorganizada e não tem retorno satisfatório.”</em></strong>
+>   **<em>“Pois é, esse é o grande desafio dessa nova geração de empreendedores. Está na moda empreender mas não basta ter uma ideia na cabeça e uma grana no banco. É fundamental estar estruturado. Eu recebo vários pedidos de Consultoria de empresas que nasceram assim: uma super ideia bacana e uma grana disponível​ mas falta qualidade no produto ou serviço, ou o atendimento não é legal, ou não tem processo algum, todo mundo faz tudo ou é uma conta bancária única, pessoa física e pessoa jurídica. Em algum momento essa bomba vai estourar e, mais cedo ou mais tarde é no próprio empreendedor que estoura. A maioria das pessoas decide empreender para ter melhor qualidade de vida mas, se você não tem estrutura você acaba trabalho muito mais, de maneira desorganizada e não tem retorno satisfatório.”</em>**
 > </p>
 
 <p align="center">

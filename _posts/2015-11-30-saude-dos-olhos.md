@@ -1,7 +1,7 @@
 ---
-id: 3517
+
 title: Quais os benefícios da boa alimentação na saúde dos olhos?
-date: 2015-11-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/30/saude-dos-olhos/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Não resta dúvidas de que uma dieta saudável promove, sim, a prevenção de doenças de maneira geral, não é? O que muitas de nós esquecemos é que, inclusive a saúde dos olhos, pode ganhar muito se a gente presta atenção ao que comemos e na forma como vivemos. A <strong>Dra. Elizabeth Navarrete, que é médica Oftalmologista no Rio de Janeiro</strong>, esclareceu tudo o que precisamos saber para que possamos adotar melhores escolhas daqui pra frente, e assim garantir a boa condição ocular que faz diferença na nossa qualidade de vida, isso no médio e longo prazo. Confira!
+  Não resta dúvidas de que uma dieta saudável promove, sim, a prevenção de doenças de maneira geral, não é? O que muitas de nós esquecemos é que, inclusive a saúde dos olhos, pode ganhar muito se a gente presta atenção ao que comemos e na forma como vivemos. A **Dra. Elizabeth Navarrete, que é médica Oftalmologista no Rio de Janeiro**, esclareceu tudo o que precisamos saber para que possamos adotar melhores escolhas daqui pra frente, e assim garantir a boa condição ocular que faz diferença na nossa qualidade de vida, isso no médio e longo prazo. Confira!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  “<strong><em>Qual o papel da alimentação na saúde ocular?</em></strong>
+  “**<em>Qual o papel da alimentação na saúde ocular?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em>Vale a pena usar suplementos alimentares para promover a saúde dos olhos?</em></strong>
+  **<em>Vale a pena usar suplementos alimentares para promover a saúde dos olhos?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -50,19 +50,19 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em>Quais alimentos influenciam diretamente na saúde da visão?</em></strong>
+  **<em>Quais alimentos influenciam diretamente na saúde da visão?</em>**
 </p>
 
 <p style="text-align: justify;">
-  <em>O <b>glutation</b> (ou glutationa) é uma molécula muito importante no metabolismo ocular, e com o envelhecimento, sua concentração intraocular diminui bastante. A ingesta de alimentos que contém alguns nutrientes específicos auxilia na síntese orgânica do glutation. O ácido alfalipoico e ao aminoácido cisteina são alguns desses nutrientes. Encontramos <b>alfa-lipoico</b> no <strong>espinafre, tomate, ervilhas e couve de bruxelas</strong>. Algumas fontes de <b>cisteina</b> são <strong>gema de ovo, alho, pimenta e brócolis</strong>. O <b>selênio</b> também é vital! Fontes interessantes são as <strong>nozes, as sementes de girassol, aveia, atum, ovos e arroz integral</strong>. </em>
+  <em>O <b>glutation</b> (ou glutationa) é uma molécula muito importante no metabolismo ocular, e com o envelhecimento, sua concentração intraocular diminui bastante. A ingesta de alimentos que contém alguns nutrientes específicos auxilia na síntese orgânica do glutation. O ácido alfalipoico e ao aminoácido cisteina são alguns desses nutrientes. Encontramos <b>alfa-lipoico</b> no **espinafre, tomate, ervilhas e couve de bruxelas**. Algumas fontes de <b>cisteina</b> são **gema de ovo, alho, pimenta e brócolis**. O <b>selênio</b> também é vital! Fontes interessantes são as **nozes, as sementes de girassol, aveia, atum, ovos e arroz integral**. </em>
 </p>
 
 <p style="text-align: justify;">
-  <em>As três melhores fontes de <b>luteína e zeaxantina</b> na categoria de vegetais de folhas verdes são a <strong>couve, o espinafre e o repolho</strong>. Outras fontes seriam: <strong>brócolis, pimenta alaranjada, pimenta vermelha, gema de ovo (quanto mais alaranjada for a gema, maior a quantidade de carotenoides</strong>). Vegetais frescos (crus) como a couve e salsa no suco verde diário&#8230;é uma excelente opção!</em>
+  <em>As três melhores fontes de <b>luteína e zeaxantina</b> na categoria de vegetais de folhas verdes são a **couve, o espinafre e o repolho**. Outras fontes seriam: **brócolis, pimenta alaranjada, pimenta vermelha, gema de ovo (quanto mais alaranjada for a gema, maior a quantidade de carotenoides**). Vegetais frescos (crus) como a couve e salsa no suco verde diário&#8230;é uma excelente opção!</em>
 </p>
 
 <p style="text-align: justify;">
-  <em>Em relação aos temperos, a salsa, o açafrão, o cominho e a canela são os mais importantes. O manjericão e a páprica também são excelentes opções! E se usarmos junto com pimenta vermelha maior a quantidade de luteína e zeaxantina que será absorvida! Principais fontes de <b>zinco</b> são <strong>ostras, gérmen de trigo, carne vermelha e fígado de boi</strong>. Fontes de <b>cobre</b> são as <strong>ostras e fígado</strong>. As fontes de <b>ômega 3</b> são principalmente os <strong>peixes de agua fria, ricos em EPA e DHA, ácidos graxos de cadeia longa, do grupo ômega 3 (salmão, sardinha, cavalinha, etc).</strong> O salmão criado em cativeiro tem mais ômega 6 do que ômega 3. Por isso a suplementação de ômega 3 tem sido mais discutida e deve ser bem avaliada a origem do ácido graxo, que é suplementado ou ingerido através da alimentação.</em>”
+  <em>Em relação aos temperos, a salsa, o açafrão, o cominho e a canela são os mais importantes. O manjericão e a páprica também são excelentes opções! E se usarmos junto com pimenta vermelha maior a quantidade de luteína e zeaxantina que será absorvida! Principais fontes de <b>zinco</b> são **ostras, gérmen de trigo, carne vermelha e fígado de boi**. Fontes de <b>cobre</b> são as **ostras e fígado**. As fontes de <b>ômega 3</b> são principalmente os **peixes de agua fria, ricos em EPA e DHA, ácidos graxos de cadeia longa, do grupo ômega 3 (salmão, sardinha, cavalinha, etc).** O salmão criado em cativeiro tem mais ômega 6 do que ômega 3. Por isso a suplementação de ômega 3 tem sido mais discutida e deve ser bem avaliada a origem do ácido graxo, que é suplementado ou ingerido através da alimentação.</em>”
 </p>
 
 &nbsp;

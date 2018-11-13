@@ -1,7 +1,7 @@
 ---
-id: 2685
+
 title: Dicas de decoração para a parede do quarto, sala e banheiro.
-date: 2009-07-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/13/decoracao-parede-sala-banheiro/

@@ -1,7 +1,7 @@
 ---
-id: 3823
+
 title: Como combinar roupas que você tem e ganhar novos looks?
-date: 2017-11-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/06/combinar-roupas/
@@ -11,7 +11,7 @@ categories:
   - Moda
 ---
 <p align="justify">
-  <strong>Combinar roupas</strong> começará a deixar de parecer difícil depois desse post, aposto! Claudia nos presenteou esse mês com um leque varíadíssimo de dicas, várias orientações, observações bastante pertinentes, e uma dose incrível de inspirações pra gente olhar nossas roupas com outros olhos na próxima vez que precisar usá-las. Confira a seguir as sugestões imperdíveis pra variar seus looks de maneira inteligente, e completamente a seu favor. Se joga!
+  **Combinar roupas** começará a deixar de parecer difícil depois desse post, aposto! Claudia nos presenteou esse mês com um leque varíadíssimo de dicas, várias orientações, observações bastante pertinentes, e uma dose incrível de inspirações pra gente olhar nossas roupas com outros olhos na próxima vez que precisar usá-las. Confira a seguir as sugestões imperdíveis pra variar seus looks de maneira inteligente, e completamente a seu favor. Se joga!
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Como rejuvenescer o look usando as peças que você já tem em casa?</strong>
+  **Como rejuvenescer o look usando as peças que você já tem em casa?**
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  O fato é que conforme vão passando os anos, ficamos com várias dúvidas sobre o que usar, algumas escolhas ao invés de nos deixarem mais jovem têm efeito contrário. Como eu já disse <strong><a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank">não acredito em roupas para cada faixa etária</a></strong><b></b>, mas existem opções e formas de uso que rejuvenescem.
+  O fato é que conforme vão passando os anos, ficamos com várias dúvidas sobre o que usar, algumas escolhas ao invés de nos deixarem mais jovem têm efeito contrário. Como eu já disse **<a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank">não acredito em roupas para cada faixa etária</a>**<b></b>, mas existem opções e formas de uso que rejuvenescem.
 </p>
 
 <p align="justify">
@@ -55,15 +55,15 @@ categories:
 </p>
 
 <p align="justify">
-  <b>Maquiagem pesada &#8211;</b> a ideia de que uma boa camada de base e cobertura extra de pó vai disfarçar as rugas é um erro grave! Geralmente acontece o contrário. O ideal é usar <strong><a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">maquiagem leve</a></strong>, pouca quantidade e com cuidado especial na região dos olhos. Cuidado com as sobrancelhas marcadas demais, elas deixam o visual bem pesado e também com o olhão preto, ele geralmente deixa a aparência cansada e envelhecida em quem não tem 20 e poucos anos.
+  <b>Maquiagem pesada &#8211;</b> a ideia de que uma boa camada de base e cobertura extra de pó vai disfarçar as rugas é um erro grave! Geralmente acontece o contrário. O ideal é usar **<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">maquiagem leve</a>**, pouca quantidade e com cuidado especial na região dos olhos. Cuidado com as sobrancelhas marcadas demais, elas deixam o visual bem pesado e também com o olhão preto, ele geralmente deixa a aparência cansada e envelhecida em quem não tem 20 e poucos anos.
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank"><strong>Maquiagem leve e sofisticada: como conseguir esse efeito?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">**Maquiagem leve e sofisticada: como conseguir esse efeito?**</a>
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Básico, <em>pero no mucho</em> &#8211; </strong>É preciso tomar cuidado com os básicos também, aquele jeans com camisetinha branca, fica lindo quando você tem 20 anos, mas depois de uma certa idade, pode parecer extremamente sem graça. Para isso, existem os acessórios, os sapatos estilosos, ou seja, escolhas mais interessantes, vamos ver:
+  **Básico, <em>pero no mucho</em> &#8211; **É preciso tomar cuidado com os básicos também, aquele jeans com camisetinha branca, fica lindo quando você tem 20 anos, mas depois de uma certa idade, pode parecer extremamente sem graça. Para isso, existem os acessórios, os sapatos estilosos, ou seja, escolhas mais interessantes, vamos ver:
 </p>
 
 <p align="center">
@@ -147,15 +147,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais de Claudia no Trololó de Mulher:</strong>
+  **Mais de Claudia no Trololó de Mulher:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank">**Notícia luxo: conteúdo exclusivo para você, mulher de 50.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank"><strong>Qual é a roupa certa para mulheres de 50 anos?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank">**Qual é a roupa certa para mulheres de 50 anos?**</a>
 </p>
 
 <p align="justify">

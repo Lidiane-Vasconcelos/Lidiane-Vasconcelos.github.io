@@ -1,7 +1,7 @@
 ---
-id: 3317
+
 title: Crianças de férias… e agora?
-date: 2014-07-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/11/ferias-dicas-brincadeiras/
@@ -21,7 +21,7 @@ Artur ainda não frequenta escola, então não sei o que é tê-lo longe de mim 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;">Dicas e pitacos das leitoras…</span></strong>
+  **<span style="font-size: small;">Dicas e pitacos das leitoras…</span>**
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Artur ainda não frequenta escola, então não sei o que é tê-lo longe de mim 
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Meus achados e indicações…</span></strong>
+  **<span style="font-size: small;">Meus achados e indicações…</span>**
 </p>
 
 <p style="text-align: justify;">
@@ -71,7 +71,7 @@ A **brincadeira de espiões/agentes secretos** é daquelas que instigam a inteli
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

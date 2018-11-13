@@ -1,7 +1,7 @@
 ---
-id: 3709
+
 title: Dê presença materna, e menos presentes, antes que seja tarde!
-date: 2016-11-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/24/presenca-materna/
@@ -11,11 +11,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  <strong>Presença materna</strong>, em substituição a tantos presentes, é possível, sim, mesmo com mães contemporâneas trabalhando tanto. Neste post veremos como fazer isso de maneira bastante simples, e sem espaço para culpas desnecessárias, já que está nesse sentimento a razão para um comportamento materno bastante comum: compensar a ausência com excesso de brinquedos. Essa atitude materna aparentemente inofensiva, que num primeiro momento pode proporcionar tanta alegria para as crianças, pode desencadear problemas de comportamento sérios no futuro da cria. Se queremos mesmo o bem de nossos pequenos, melhor mudar essa dinâmica familiar já, antes que seja tarde.
+  **Presença materna**, em substituição a tantos presentes, é possível, sim, mesmo com mães contemporâneas trabalhando tanto. Neste post veremos como fazer isso de maneira bastante simples, e sem espaço para culpas desnecessárias, já que está nesse sentimento a razão para um comportamento materno bastante comum: compensar a ausência com excesso de brinquedos. Essa atitude materna aparentemente inofensiva, que num primeiro momento pode proporcionar tanta alegria para as crianças, pode desencadear problemas de comportamento sérios no futuro da cria. Se queremos mesmo o bem de nossos pequenos, melhor mudar essa dinâmica familiar já, antes que seja tarde.
 </p>
 
 <p align="justify">
-  O maior prazer proporcionado pelo <strong>Trololó de Mulher</strong> na minha vida é ver que as leitoras percebem que esse espaço é nosso, e que aqui o que queremos é colocar em pauta temas relevantes para a vida delas. Elas sabem que têm total liberdade para sugerir pautas, e quando as ideias partem delas, de suas necessidades, sinto que o assunto abordado ganha ainda mais relevância. O tema a ser discutido no post de hoje foi sugestão de uma leitora, a <strong>Raissa</strong>, de Recife. Sei que ela não é mãe (ainda), mas acho muitíssimo interessante que ela se preocupe em pensar a respeito de questões importantíssimas que envolvam a criação de filhos. Não tenho dúvidas do quanto sua maternagem será comprometida quando esse momento chegar. Partiu dela a seguinte pergunta:
+  O maior prazer proporcionado pelo **Trololó de Mulher** na minha vida é ver que as leitoras percebem que esse espaço é nosso, e que aqui o que queremos é colocar em pauta temas relevantes para a vida delas. Elas sabem que têm total liberdade para sugerir pautas, e quando as ideias partem delas, de suas necessidades, sinto que o assunto abordado ganha ainda mais relevância. O tema a ser discutido no post de hoje foi sugestão de uma leitora, a **Raissa**, de Recife. Sei que ela não é mãe (ainda), mas acho muitíssimo interessante que ela se preocupe em pensar a respeito de questões importantíssimas que envolvam a criação de filhos. Não tenho dúvidas do quanto sua maternagem será comprometida quando esse momento chegar. Partiu dela a seguinte pergunta:
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  A consultoria para o post de hoje foi dada pela nossa querida <strong>Jenifer Longo, Psicóloga de São Paulo com foco em maternidade e desenvolvimento infantil</strong>. Confira a seguir o posicionamento da profissional:
+  A consultoria para o post de hoje foi dada pela nossa querida **Jenifer Longo, Psicóloga de São Paulo com foco em maternidade e desenvolvimento infantil**. Confira a seguir o posicionamento da profissional:
 </p>
 
 <p align="justify">
@@ -83,15 +83,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Jenifer:</strong>
+  **Mais consultorias da Jenifer:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/28/mentira-na-infancia/" target="_blank"><strong>Mentira na infância: como lidar com essa situação?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/28/mentira-na-infancia/" target="_blank">**Mentira na infância: como lidar com essa situação?**</a>
 </p>
 
 <p align="justify">
-  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites <a href="http://www.psicologiasdobrasil.com.br/author/jenifer-longo/" target="_blank">Psicologias do Brasil</a> e <a href="http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/" target="_blank">Espaço Psicologia e Família</a>. Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de <strong>fanpage no Facebook</strong>. <a href="https://www.facebook.com/espacopsicologiaefamilia/" target="_blank">Clique aqui, curta e acompanhe</a>. Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone <strong><em>11 98824-7963</em></strong>.
+  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites <a href="http://www.psicologiasdobrasil.com.br/author/jenifer-longo/" target="_blank">Psicologias do Brasil</a> e <a href="http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/" target="_blank">Espaço Psicologia e Família</a>. Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de **fanpage no Facebook**. <a href="https://www.facebook.com/espacopsicologiaefamilia/" target="_blank">Clique aqui, curta e acompanhe</a>. Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone **<em>11 98824-7963</em>**.
 </p>
 
 <p align="center">

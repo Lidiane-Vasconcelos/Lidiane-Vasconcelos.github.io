@@ -1,7 +1,7 @@
 ---
-id: 3460
+
 title: 'Unhas decoradas: claras, discretas e elegantes.'
-date: 2015-08-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/17/unhas-decoradas/
@@ -10,23 +10,23 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  <strong>Fotos e imagens de unhas decoradas</strong> são uma febre entre as mulheres, não é? É que a gente gosta mesmo é de novidades. Temos visto unhas ousadas, cheias de cores, brilhos, <em>pompa&circunstância</em>. Para quem gosta, ótimo… mas e quando queremos aderir a essa tendência das unhas com detalhes e desenhos, mas numa<em> bossa low profile</em>? Em outras palavras, o que fazer quando queremos unhas bonitas e decoradas, mas sem “chamar a atenção”? <em>A-há</em>! Este post é exatamente para isso, bonita: mostrar que é possível ter unhas decoradas clarinhas, discretas e elegantes, mas nem por isso menos bonitas. Gostou da proposta? Então… vem!
+  **Fotos e imagens de unhas decoradas** são uma febre entre as mulheres, não é? É que a gente gosta mesmo é de novidades. Temos visto unhas ousadas, cheias de cores, brilhos, <em>pompa&circunstância</em>. Para quem gosta, ótimo… mas e quando queremos aderir a essa tendência das unhas com detalhes e desenhos, mas numa<em> bossa low profile</em>? Em outras palavras, o que fazer quando queremos unhas bonitas e decoradas, mas sem “chamar a atenção”? <em>A-há</em>! Este post é exatamente para isso, bonita: mostrar que é possível ter unhas decoradas clarinhas, discretas e elegantes, mas nem por isso menos bonitas. Gostou da proposta? Então… vem!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/06/saude-e-beleza-das-unhas/" target="_blank">Saúde e beleza das unhas: verdades que você não sabia.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/07/06/saude-e-beleza-das-unhas/" target="_blank">Saúde e beleza das unhas: verdades que você não sabia.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-cuidados/" target="_blank">Dicas de beleza e saúde das unhas</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-cuidados/" target="_blank">Dicas de beleza e saúde das unhas</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/" target="_blank">Mãos e unhas: você trata as suas como elas merecem?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/01/02/maos-e-unhas/" target="_blank">Mãos e unhas: você trata as suas como elas merecem?</a>**
 </p>
 
 <p align="justify">
@@ -70,15 +70,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/05/16/cuidados-unhas-maos/" target="_blank">Mãos: segredos e cuidados das unhas, pele e afins.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/05/16/cuidados-unhas-maos/" target="_blank">Mãos: segredos e cuidados das unhas, pele e afins.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/08/20/esmaltes-no-inverno/" target="_blank">Você é das que se rendem aos tons fechados de esmaltes no Inverno?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/08/20/esmaltes-no-inverno/" target="_blank">Você é das que se rendem aos tons fechados de esmaltes no Inverno?</a>**
 </p>
 
 <p align="center">

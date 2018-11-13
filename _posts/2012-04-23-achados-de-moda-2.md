@@ -1,7 +1,7 @@
 ---
-id: 3132
+
 title: Quem não gosta de ver achados de moda?
-date: 2012-04-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/23/achados-de-moda-2/
@@ -24,7 +24,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  Brinco prata, entremeio com strass e argola em mini cristais (acrílico). Via <a href="http://www.donnalitaaccessorios.com/" target="_blank"><strong>Donna Lita Acessórios</strong></a>.
+  Brinco prata, entremeio com strass e argola em mini cristais (acrílico). Via <a href="http://www.donnalitaaccessorios.com/" target="_blank">**Donna Lita Acessórios**</a>.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  CINTO EM COURO TAMANHO ÚNICO. Via <a href="http://www.anibiju.com.br/" target="_blank"><strong>AniBiju</strong></a>.
+  CINTO EM COURO TAMANHO ÚNICO. Via <a href="http://www.anibiju.com.br/" target="_blank">**AniBiju**</a>.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  MAXICOLAR com chatons de vidro. Via <strong><a href="https://www.facebook.com/Alexsandradoya" target="_blank">Alexsandra Arruda Doya Salles</a></strong>.
+  MAXICOLAR com chatons de vidro. Via **<a href="https://www.facebook.com/Alexsandradoya" target="_blank">Alexsandra Arruda Doya Salles</a>**.
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  Pingentes em dourado e closonê, e pingentes em metal dourado também. Via <strong><a href="http://closone.blogspot.com.br/" target="_blank">Closonê Acessórios</a></strong>.
+  Pingentes em dourado e closonê, e pingentes em metal dourado também. Via **<a href="http://closone.blogspot.com.br/" target="_blank">Closonê Acessórios</a>**.
 </p>
 
 &nbsp;
@@ -62,33 +62,33 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  Coordenado Tshirt + Pantalona cinza chumbo. T-shirt e pantalona que formam um coordenado lindo e perfeito para você. 94% viscose 6% elastano. Via <strong><a href="http://villapano.com.br/" target="_blank">Villa Pano</a></strong>.
+  Coordenado Tshirt + Pantalona cinza chumbo. T-shirt e pantalona que formam um coordenado lindo e perfeito para você. 94% viscose 6% elastano. Via **<a href="http://villapano.com.br/" target="_blank">Villa Pano</a>**.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais para você</span></strong>
+  **<span style="font-size: large;">Muito mais para você</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MODA-ACESSÓRIO-CABELO-TIARA200.jpg"><img class="alignnone size-full wp-image-8297" title="MODA ACESSÓRIO CABELO TIARA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MODA-ACESSÓRIO-CABELO-TIARA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/12/12/acessorios-para-cabelos/"><strong><span style="font-size: small;"><br /> Acessórios para cabelos: o que passa na cabeça das bichas fêmeas?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MODA-ACESSÓRIO-CABELO-TIARA200.jpg"><img class="alignnone size-full wp-image-8297" title="MODA ACESSÓRIO CABELO TIARA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/MODA-ACESSÓRIO-CABELO-TIARA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/12/12/acessorios-para-cabelos/">**<span style="font-size: small;"><br /> Acessórios para cabelos: o que passa na cabeça das bichas fêmeas?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BLUSA-LILLY200.jpg"><img class="alignnone size-full wp-image-8138" title="BLUSA - LILLY200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BLUSA-LILLY200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/11/07/achados-de-moda/"><strong><span style="font-size: small;"><br /> Achados de moda: boas compras até R$ 50,00! Sabe onde tem?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BLUSA-LILLY200.jpg"><img class="alignnone size-full wp-image-8138" title="BLUSA - LILLY200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/BLUSA-LILLY200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/11/07/achados-de-moda/">**<span style="font-size: small;"><br /> Achados de moda: boas compras até R$ 50,00! Sabe onde tem?</span>**</a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda200.jpg"><img class="alignnone size-full wp-image-6533" title="moda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/06/17/moda-ser-chique/"><strong><span style="font-size: small;"><br /> Quando se fala de moda, o que é ser chique?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda200.jpg"><img class="alignnone size-full wp-image-6533" title="moda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2011/06/17/moda-ser-chique/">**<span style="font-size: small;"><br /> Quando se fala de moda, o que é ser chique?</span>**</a>
 </p>
 
 &nbsp;
@@ -100,7 +100,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -124,9 +124,9 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

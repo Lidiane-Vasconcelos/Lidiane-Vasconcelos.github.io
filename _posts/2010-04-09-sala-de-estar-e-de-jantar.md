@@ -1,7 +1,7 @@
 ---
-id: 2805
+
 title: 'Pitacos de bicha fêmea: sala de estar e de jantar.'
-date: 2010-04-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/09/sala-de-estar-e-de-jantar/
@@ -144,7 +144,7 @@ E como se não bastasse o excelente pitaco, a Letícia ainda me enviou imagens c
 <table align="center">
   <tr>
     <td>
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg"><img class="aligncenter size-full wp-image-4527" title="mla103942_1208_pillow_l" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg" alt="" width="225" height="281" /></a></strong>
+      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg"><img class="aligncenter size-full wp-image-4527" title="mla103942_1208_pillow_l" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg" alt="" width="225" height="281" /></a>**
     </td>
     
     <td>
@@ -212,5 +212,5 @@ _Então na sala de jantar ainda não tenho nada. Ela é estreita, por isso eu a
 **_[Decoração em salas de jantar e estar para inspiração](http://www.trololodemulher.com.br/2009/04/12/salas-de-estar-e-de-jantar-sofisticadas-para-inspirao/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

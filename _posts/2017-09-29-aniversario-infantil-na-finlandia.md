@@ -1,7 +1,7 @@
 ---
-id: 3807
+
 title: Como é comemorado o aniversário infantil na Finlândia?
-date: 2017-09-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/29/aniversario-infantil-na-finlandia/
@@ -12,7 +12,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Quando o assunto é <strong>aniversário infantil na Finlândia</strong>, simplicidade é palavra de ordem. Esqueça as festas enormes e cheias de convidados, com <em>status</em>  de <em>mega</em> evento, aquelas que você está acostumada a ver no Brasil. Neste mês Adriana Minhoto nos conta (e mostra!) como é diferente o modo de comemorar a vida da criança na Finlândia, isso se comparamos com o que acontece no nosso país. Por que será? Adriana dá algumas pistas… confira!
+  Quando o assunto é **aniversário infantil na Finlândia**, simplicidade é palavra de ordem. Esqueça as festas enormes e cheias de convidados, com <em>status</em>  de <em>mega</em> evento, aquelas que você está acostumada a ver no Brasil. Neste mês Adriana Minhoto nos conta (e mostra!) como é diferente o modo de comemorar a vida da criança na Finlândia, isso se comparamos com o que acontece no nosso país. Por que será? Adriana dá algumas pistas… confira!
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ categories:
 **<a href="http://www.trololodemulher.com.br/2016/05/31/finlandia-3/" target="_blank">O que você não sabia sobre a cultura popular na Finlândia.</a>**
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3479
+
 title: 'Bandeirolas de aniversário: imprima grátis!'
-date: 2015-09-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/04/bandeirolas-de-aniversario/
@@ -11,15 +11,15 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Se tem uma coisa que acho uma <em>fofurice</em> são aquelas <strong>bandeirolas de aniversário</strong>, sabe? Tenho visto delas penduradas na parede que fica atrás do bolo, ou ainda na mesa mesmo, enfeitando a frente do móvel. Quanto mais coloridas, melhor. E elas têm uma <em>bossa</em> de festa feita em casa, com os detalhes pensados e preparados pela mamãe, bem do jeito que acontecia antigamente e que agora estão super em alta (ainda bem!): festa simples, caseira e com gostinho <em>retrô</em>. Quando bati os olhos nessas bandeirinhos logo abaixo pensei: é disso aí que eu gosto! Você também? Desconfiei… por isso trouxe a ideia para compartilhar contigo. Olha só:
+  Se tem uma coisa que acho uma <em>fofurice</em> são aquelas **bandeirolas de aniversário**, sabe? Tenho visto delas penduradas na parede que fica atrás do bolo, ou ainda na mesa mesmo, enfeitando a frente do móvel. Quanto mais coloridas, melhor. E elas têm uma <em>bossa</em> de festa feita em casa, com os detalhes pensados e preparados pela mamãe, bem do jeito que acontecia antigamente e que agora estão super em alta (ainda bem!): festa simples, caseira e com gostinho <em>retrô</em>. Quando bati os olhos nessas bandeirinhos logo abaixo pensei: é disso aí que eu gosto! Você também? Desconfiei… por isso trouxe a ideia para compartilhar contigo. Olha só:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank"><strong>Sacolinha de festa infantil: faça você mesma!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">**Sacolinha de festa infantil: faça você mesma!**</a>
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para decoração de festa infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para decoração de festa infantil: faça você mesma!**</a>
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank"><strong>Decoração de festa infantil: ideias para a festa das meninas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank">**Decoração de festa infantil: ideias para a festa das meninas.**</a>
 </p>
 
 <p align="center">

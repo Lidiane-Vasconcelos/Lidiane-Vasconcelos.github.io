@@ -1,7 +1,7 @@
 ---
-id: 3595
+
 title: 'Autonomia infantil: saiba quando e como estimular.'
-date: 2016-04-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/20/autonomia-infantil/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Desejamos tanto para nossos pequenos, não é? Dentre tantas coisas, queremos que eles sejam adultos responsáveis, e a verdade é que para que isso aconteça, precisamos dar nossa contribuição desde já. A autonomia infantil pode e deve ser estimulada desde sempre, e começa quando as crianças são ainda muito pequenas. Veja neste post, através da consultoria da <strong>Vívian Hagen, Psicóloga Infantil</strong>, como ajudar sua cria a fortalecer essa independência ao longo de seu desenvolvimento.
+  Desejamos tanto para nossos pequenos, não é? Dentre tantas coisas, queremos que eles sejam adultos responsáveis, e a verdade é que para que isso aconteça, precisamos dar nossa contribuição desde já. A autonomia infantil pode e deve ser estimulada desde sempre, e começa quando as crianças são ainda muito pequenas. Veja neste post, através da consultoria da **Vívian Hagen, Psicóloga Infantil**, como ajudar sua cria a fortalecer essa independência ao longo de seu desenvolvimento.
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Que diferença ter estimulado os pequenos a serem independentes será notada no futuro?</strong>
+  **Trololó de Mulher >>> Que diferença ter estimulado os pequenos a serem independentes será notada no futuro?**
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Pegar ônibus sozinho, por exemplo, não é uma tarefa tão comum para as crianças de hoje em dia como era para os pequenos de antigamente. Além do mais, a infância tem acontecido atrás dos muros dos condomínios. Isso tudo se dá, sobretudo, pelo avanço da violência dos grandes centros urbanos. Como estimular a autonomia infantil num cenário como esse?</strong>
+  **Trololó de Mulher >>> Pegar ônibus sozinho, por exemplo, não é uma tarefa tão comum para as crianças de hoje em dia como era para os pequenos de antigamente. Além do mais, a infância tem acontecido atrás dos muros dos condomínios. Isso tudo se dá, sobretudo, pelo avanço da violência dos grandes centros urbanos. Como estimular a autonomia infantil num cenário como esse?**
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Super proteção de babás ou cuidadores, dedicados exclusivamente a criança, pode impactar no desenvolvimento da autonomia nos pequenos?</strong>
+  **Trololó de Mulher >>> Super proteção de babás ou cuidadores, dedicados exclusivamente a criança, pode impactar no desenvolvimento da autonomia nos pequenos?**
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Em que medida uma criança de 1 ano, por exemplo, pode ser estimulada?</strong>
+  **Trololó de Mulher >>> Em que medida uma criança de 1 ano, por exemplo, pode ser estimulada?**
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Comparar o nível de desenvolvimento de uma criança para outra pode atrapalhar?</strong>
+  **Trololó de Mulher >>> Comparar o nível de desenvolvimento de uma criança para outra pode atrapalhar?**
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual o limite entre estimular e cobrar?</strong>
+  **Trololó de Mulher >>> Qual o limite entre estimular e cobrar?**
 </p>
 
 <p align="justify">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Com quantos anos a criança já pode participar das tarefas da casa?</strong>
+  **Trololó de Mulher >>> Com quantos anos a criança já pode participar das tarefas da casa?**
 </p>
 
 <p align="justify">
@@ -103,23 +103,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">> Comer sozinho?</span></strong> 1 ano, quando está em um ambiente que ela pode ser livre para aprender, mesmo errando, ou se sujando.
+  **<span style="color: #c0504d;">> Comer sozinho?</span>** 1 ano, quando está em um ambiente que ela pode ser livre para aprender, mesmo errando, ou se sujando.
 </p>
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">> Usar talheres?</span></strong> Acho que com 3 anos já podemos auxiliar a criança ao uso de talheres, de forma segura.
+  **<span style="color: #c0504d;">> Usar talheres?</span>** Acho que com 3 anos já podemos auxiliar a criança ao uso de talheres, de forma segura.
 </p>
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">> Tomar banho sozinho?</span></strong> Com 4 anos a criança já consegue tomar banho sozinha, mas vale uma supervisão da higiene.
+  **<span style="color: #c0504d;">> Tomar banho sozinho?</span>** Com 4 anos a criança já consegue tomar banho sozinha, mas vale uma supervisão da higiene.
 </p>
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">> Ir ao banheiro e se limpar sozinho?</span></strong> Com 4 anos acho isso possível também, mas vale a supervisão da higiene. Às vezes a criança, na vontade de continuar brincando, corre com algumas coisas importantes, então devemos estar atentos.
+  **<span style="color: #c0504d;">> Ir ao banheiro e se limpar sozinho?</span>** Com 4 anos acho isso possível também, mas vale a supervisão da higiene. Às vezes a criança, na vontade de continuar brincando, corre com algumas coisas importantes, então devemos estar atentos.
 </p>
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">> Fazer a tarefa de casa sozinho?</span></strong> Eu acho que desde sempre a criança é capaz de desenvolver tarefas escolares sozinho. Se a escola passa a tarefa, é porque certamente está apropriada a desenvolvê-la. O que eu acho interessante é mesmo antes de nossos filhos terem tarefas na escola, já tirarmos um tempo diário para desenvolver a leitura, a arte de estar atento em uma atividade de pintura ou de colorir. Assim, quando chegar a obrigação de estar sentado e desenvolvendo tarefas, isso não será árduo, e sim prazeroso, se sentindo seguro e capaz de fazer sozinho. Sabemos que fazendo sozinho às vezes não estará tão perfeito quanto gostaríamos, mas com amor podemos expor as melhoras que podem ser feitas, e assim nossas crianças crescerão seguras e independentes.
+  **<span style="color: #c0504d;">> Fazer a tarefa de casa sozinho?</span>** Eu acho que desde sempre a criança é capaz de desenvolver tarefas escolares sozinho. Se a escola passa a tarefa, é porque certamente está apropriada a desenvolvê-la. O que eu acho interessante é mesmo antes de nossos filhos terem tarefas na escola, já tirarmos um tempo diário para desenvolver a leitura, a arte de estar atento em uma atividade de pintura ou de colorir. Assim, quando chegar a obrigação de estar sentado e desenvolvendo tarefas, isso não será árduo, e sim prazeroso, se sentindo seguro e capaz de fazer sozinho. Sabemos que fazendo sozinho às vezes não estará tão perfeito quanto gostaríamos, mas com amor podemos expor as melhoras que podem ser feitas, e assim nossas crianças crescerão seguras e independentes.
 </p>
 
 <p align="center">
@@ -127,11 +127,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultoria da Vívian Hagen:</strong>
+  **Mais consultoria da Vívian Hagen:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/18/mau-comportamento-infantil/" target="_blank"><strong>O mau comportamento infantil ocorre em sua família?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/09/18/mau-comportamento-infantil/" target="_blank">**O mau comportamento infantil ocorre em sua família?**</a>
 </p>
 
 <p align="justify">

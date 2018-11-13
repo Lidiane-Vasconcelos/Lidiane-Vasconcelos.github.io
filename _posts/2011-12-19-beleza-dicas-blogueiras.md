@@ -1,7 +1,7 @@
 ---
-id: 3097
+
 title: 'Beleza… só no trololó: segredos das blogueiras'
-date: 2011-12-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/19/beleza-dicas-blogueiras/
@@ -26,7 +26,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="justify">
-  <strong>Musa Magalhães</strong> comanda o blog <strong><a href="http://donamusa.blogspot.com/" target="_blank">Dona Musa</a></strong>, um espaço virtual delicioso de ser acompanhado porque a moça conta o seu dia a dia de uma forma bem particular, isto é, bem humorada na medida certa. Casada, e agora grávida de um menino, a bonita “compacta”, como ela mesma se classifica por ser pequena, dá suas dicas de cuidados de beleza para que a gente ponha em prática também… olha só:
+  **Musa Magalhães** comanda o blog **<a href="http://donamusa.blogspot.com/" target="_blank">Dona Musa</a>**, um espaço virtual delicioso de ser acompanhado porque a moça conta o seu dia a dia de uma forma bem particular, isto é, bem humorada na medida certa. Casada, e agora grávida de um menino, a bonita “compacta”, como ela mesma se classifica por ser pequena, dá suas dicas de cuidados de beleza para que a gente ponha em prática também… olha só:
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 </p>
 
 > <p align="justify">
->   “…<em>Para essa minha dificuldade de passar hidratente, encontrei o <strong><a href="http://www.dermatus.com.br/produto.asp?id=78" target="_blank">Body Concept &#8211; Hidratante in Shower, da Dermatus</a></strong>, que me permite espalhá-lo pelo corpo ainda no banho, antes do último enxágue. …</em>
+>   “…<em>Para essa minha dificuldade de passar hidratente, encontrei o **<a href="http://www.dermatus.com.br/produto.asp?id=78" target="_blank">Body Concept &#8211; Hidratante in Shower, da Dermatus</a>**, que me permite espalhá-lo pelo corpo ainda no banho, antes do último enxágue. …</em>
 > </p>
 
 &nbsp;
@@ -54,7 +54,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 > <p align="justify">
->   “…<em>Agora que estou grávida, não dá pra ter preguiça, se não o fantasma da estria aparece. Então, depois do banho, revezo entre o <strong><a href="http://www.cosmiatric.com.br/materskin.htm" target="_blank">Mater Skin, da Cosmiatric</a></strong>, …</em>
+>   “…<em>Agora que estou grávida, não dá pra ter preguiça, se não o fantasma da estria aparece. Então, depois do banho, revezo entre o **<a href="http://www.cosmiatric.com.br/materskin.htm" target="_blank">Mater Skin, da Cosmiatric</a>**, …</em>
 > </p>
 
 &nbsp;
@@ -66,7 +66,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 > <p align="justify">
->   <em>“…e o <strong><a href="http://www.dermatus.com.br/produto.asp?id=79" target="_blank">Body Concept &#8211; Óleo Corporal, da Dermatus</a></strong>. Não sou fã de óleos, mas eu gosto desse porque não é muito grudento. Com o rosto sou mais preocupada. Vou à dermatologista regularmente (não deixo passar de 6 meses). Minha pele é mista, então preciso ter cuidados com a acne na zona T. Alguns produtos, por conterem diferentes tipos de ácidos, tiveram de ser deixados de lado durante a gestação para darem lugar a outros.</em> …
+>   <em>“…e o **<a href="http://www.dermatus.com.br/produto.asp?id=79" target="_blank">Body Concept &#8211; Óleo Corporal, da Dermatus</a>**. Não sou fã de óleos, mas eu gosto desse porque não é muito grudento. Com o rosto sou mais preocupada. Vou à dermatologista regularmente (não deixo passar de 6 meses). Minha pele é mista, então preciso ter cuidados com a acne na zona T. Alguns produtos, por conterem diferentes tipos de ácidos, tiveram de ser deixados de lado durante a gestação para darem lugar a outros.</em> …
 > </p>
 
 &nbsp;
@@ -78,7 +78,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 > <p align="justify">
->   “…<em>Lavo o rosto duas vezes ao dia com o <strong><a href="http://www.cetaphil.com.br/Site/Produtos/Higienizadores/SabonetePeleOleosa.aspx" target="_blank">sabonete líquido Cetaphil</a></strong>, depois passo uma loção manipulada que foi indicada pela médica. É como se fosse um tônico de limpeza com &#8220;ingredientes&#8221; específicos para a gravidez…</em>
+>   “…<em>Lavo o rosto duas vezes ao dia com o **<a href="http://www.cetaphil.com.br/Site/Produtos/Higienizadores/SabonetePeleOleosa.aspx" target="_blank">sabonete líquido Cetaphil</a>**, depois passo uma loção manipulada que foi indicada pela médica. É como se fosse um tônico de limpeza com &#8220;ingredientes&#8221; específicos para a gravidez…</em>
 > </p>
 
 &nbsp;
@@ -90,7 +90,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 > <p align="justify">
->   “…<em>Depois passo o<strong> Hydracid C20</strong>, com 20% de vitamina C, que promete ser um anti-rugas que dá tonicidade, firmeza e renovação, além de iluminar a pele.</em>
+>   “…<em>Depois passo o** Hydracid C20**, com 20% de vitamina C, que promete ser um anti-rugas que dá tonicidade, firmeza e renovação, além de iluminar a pele.</em>
 > </p>
 
 &nbsp;
@@ -102,7 +102,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 > <p align="justify">
->   <em>“…Completo usando o protetor solar <strong>Capital Soleil, da Vichy</strong>, …</em>
+>   <em>“…Completo usando o protetor solar **Capital Soleil, da Vichy**, …</em>
 > </p>
 
 &nbsp;
@@ -114,7 +114,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 > <p align="justify">
->   “…<em>E, por último, em cima das espinhas, uso um <strong>gel chamado Dermazelaic</strong>, que também pode ser usado na gravidez.  Maquiagem: dia a dia com corretivo nas olheiras, pó, blush, sombra neutra, rímel marrom nos cílios, rímel incolor nas sobrancelhas, batom e voilà!…</em>
+>   “…<em>E, por último, em cima das espinhas, uso um **gel chamado Dermazelaic**, que também pode ser usado na gravidez.  Maquiagem: dia a dia com corretivo nas olheiras, pó, blush, sombra neutra, rímel marrom nos cílios, rímel incolor nas sobrancelhas, batom e voilà!…</em>
 > </p>
 
 &nbsp;
@@ -126,7 +126,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 > <p align="justify">
->   <em>“… Cabelos: atualmente estou usando a <strong><a href="http://www.lorealprofessionnel.com.br/_pt/_br/products/fam_Product00_S.aspx?Catcode=Axe_Salon%5EAxe_Shampoing_S%5EF1_Sha_AbsoRepair_S&prdcode=CI3&tc=Navigation%5ENav_Produits_et_conseils%5ENav_Produits_et_services" target="_blank">linha Absolut Repair, da L´oreal Professional</a></strong>.”</em>
+>   <em>“… Cabelos: atualmente estou usando a **<a href="http://www.lorealprofessionnel.com.br/_pt/_br/products/fam_Product00_S.aspx?Catcode=Axe_Salon%5EAxe_Shampoing_S%5EF1_Sha_AbsoRepair_S&prdcode=CI3&tc=Navigation%5ENav_Produits_et_conseils%5ENav_Produits_et_services" target="_blank">linha Absolut Repair, da L´oreal Professional</a>**.”</em>
 > </p>
 
 &nbsp;
@@ -138,7 +138,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="justify">
-  <strong>Renata Becker</strong> é uma blogueira que acompanho há um certo tempo, e acho super criativas as suas ideias de baixíssimo custo para deixar a casa com sua cara, e é o que ela mais gosta de mostrar em seu blog <strong><a href="http://vidaloucadecasada.blogspot.com/" target="_blank">Vida Louca de Casada</a></strong>. Bonita que só ela, repara só nas diquinhas que ela separou para nos contar:
+  **Renata Becker** é uma blogueira que acompanho há um certo tempo, e acho super criativas as suas ideias de baixíssimo custo para deixar a casa com sua cara, e é o que ela mais gosta de mostrar em seu blog **<a href="http://vidaloucadecasada.blogspot.com/" target="_blank">Vida Louca de Casada</a>**. Bonita que só ela, repara só nas diquinhas que ela separou para nos contar:
 </p>
 
 &nbsp;
@@ -188,7 +188,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="justify">
-  Alguma dúvida do quanto essa moça é bonita? Pois é… essa é a bela <strong>Talita Cavalcante</strong>, editora do blog <strong><a href="http://www.donaperfeitinha.com/" target="_blank">Dona Perfeitinha</a></strong>. Seu blog é <em>superultramega</em> variado quanto aos assuntos abordados, todos dentro do universo feminino. Falar sobre beleza faz parte de seu dia a dia <em>bloguístico</em>, e porque gosta desse tema, ela topou dividir o que sabe conosco:
+  Alguma dúvida do quanto essa moça é bonita? Pois é… essa é a bela **Talita Cavalcante**, editora do blog **<a href="http://www.donaperfeitinha.com/" target="_blank">Dona Perfeitinha</a>**. Seu blog é <em>superultramega</em> variado quanto aos assuntos abordados, todos dentro do universo feminino. Falar sobre beleza faz parte de seu dia a dia <em>bloguístico</em>, e porque gosta desse tema, ela topou dividir o que sabe conosco:
 </p>
 
 &nbsp;
@@ -218,7 +218,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="justify">
-  Esta bonitona aí logo acima é a<strong> Keka</strong>, a blogueira que comanda o <strong><a href="http://coisas-para-meninas.blogspot.com/" target="_blank">Coisas de Meninas</a></strong>. O blog é uma mistura de feminices gostosas, com destaque para o universo da casa e decoração. É essa blogueira talentosa e com modestia proporcional a sua beleza quem revela uma dica super simples e, ao mesmo tempo, <em>superultramega glamourosa</em>… confere!
+  Esta bonitona aí logo acima é a** Keka**, a blogueira que comanda o **<a href="http://coisas-para-meninas.blogspot.com/" target="_blank">Coisas de Meninas</a>**. O blog é uma mistura de feminices gostosas, com destaque para o universo da casa e decoração. É essa blogueira talentosa e com modestia proporcional a sua beleza quem revela uma dica super simples e, ao mesmo tempo, <em>superultramega glamourosa</em>… confere!
 </p>
 
 &nbsp;
@@ -230,7 +230,7 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
+  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
 </p>
 
 &nbsp;
@@ -239,13 +239,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/">Produtinhos de beleza recomendados pela blogueira Pauline Costa</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/"><img class="alignnone size-full wp-image-8273" title="pauline-costa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/pauline-costa200.jpg" alt="" width="200" height="200" /></a><br /> **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/12/05/produtos-de-beleza/">Produtinhos de beleza recomendados pela blogueira Pauline Costa</a></span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/">Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/"><img class="alignnone size-full wp-image-8213" title="Batom YVS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Batom-YVS200.jpg" alt="" width="200" height="200" /></a><br /> **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/">Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!</a></span>**
       </p>
     </td>
   </tr>
@@ -253,13 +253,13 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele200.jpg"><img class="alignnone size-full wp-image-7019" title="beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele200.jpg" alt="" width="200" height="200" /><br /> </a><strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/">Pescoço, costas e cotovelo: beleza da pele no Verão.</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele200.jpg"><img class="alignnone size-full wp-image-7019" title="beleza da pele200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele200.jpg" alt="" width="200" height="200" /><br /> </a>**<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/">Pescoço, costas e cotovelo: beleza da pele no Verão.</a></span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><br /> <strong><span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/">Dicas de maquiagem para um visual… “melhor, impossível”!</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg"><img class="alignnone size-full wp-image-6981" title="maquiagem[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/maquiagem2200.jpg" alt="" width="200" height="200" /></a><br /> **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/">Dicas de maquiagem para um visual… “melhor, impossível”!</a></span>**
       </p>
     </td>
   </tr>
@@ -268,15 +268,15 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -299,5 +299,5 @@ Quem não gosta de saber qual a relação que as outras mulheres, reais e mortai
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

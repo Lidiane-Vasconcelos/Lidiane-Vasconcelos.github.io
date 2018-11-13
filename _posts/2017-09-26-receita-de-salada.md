@@ -1,7 +1,7 @@
 ---
-id: 3802
+
 title: 'Receita de salada de figo: com história e afeto.'
-date: 2017-09-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/26/receita-de-salada/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Chamo de comida afetiva aquela que tem um carinho especial envolvendo o seu preparo, ou uma história, ou ambos, e é exatamente o caso dessa <strong>receita de salada</strong> compartilhada hoje pela <strong>Tânia</strong>, no <strong>Trololó de Mulher</strong>. O post tem imagens incríveis de uma viagem que a moça fez, que traz lembranças especiais e o motivo por que quis fazer a receita. Confira logo a seguir as fotos, e termine o post desejando reproduzir a receita também.
+  Chamo de comida afetiva aquela que tem um carinho especial envolvendo o seu preparo, ou uma história, ou ambos, e é exatamente o caso dessa **receita de salada** compartilhada hoje pela **Tânia**, no **Trololó de Mulher**. O post tem imagens incríveis de uma viagem que a moça fez, que traz lembranças especiais e o motivo por que quis fazer a receita. Confira logo a seguir as fotos, e termine o post desejando reproduzir a receita também.
 </p>
 
 <p align="center">
@@ -91,11 +91,11 @@ _2. Caso queira, é possível substituir o pinoli por castanha do Pará ou Pinh�
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank"><strong>Canja de galinha para colocar um sorriso no rosto.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank">**Canja de galinha para colocar um sorriso no rosto.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank"><strong>Picolé caseiro de tangerina assada, com gengibre e iogurte.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank">**Picolé caseiro de tangerina assada, com gengibre e iogurte.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank"><strong>Pão caseiro trançado com recheio de pesto.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank">**Pão caseiro trançado com recheio de pesto.**</a>
 
 <p align="justify">
   O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!

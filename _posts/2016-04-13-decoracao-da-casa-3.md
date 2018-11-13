@@ -1,7 +1,7 @@
 ---
-id: 3586
+
 title: Como adicionar afeto à decoração da casa?
-date: 2016-04-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/13/decoracao-da-casa-3/
@@ -11,11 +11,11 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Esse é o tipo de coisa que a gente não consegue se quiser reproduzir, ao pé da letra, os ambientes lindos de viver que vemos em fotos de blogs, por exemplo. Sabe por quê? Afeto a gente distribui pela <strong>decoração da casa</strong> através de itens decorativos que traduzam quem a gente é, que nos emocione, e melhor ainda se tiver gente de verdade atrás da produção deles. Essa foi exatamente a sensação que tive quando conheci uma loja virtual que quero te apresentar aqui: <strong><a href="http://www.elo7.com.br/boutiqueateline" target="_blank">Boutique Ateline</a></strong>. Quando conheço uma loja virtual nesse <em>mundão internético</em>, já quero logo saber quem está por trás dela… e já vivi de amores pela forma como a Aline apresenta o seu negócio do coração:
+  Esse é o tipo de coisa que a gente não consegue se quiser reproduzir, ao pé da letra, os ambientes lindos de viver que vemos em fotos de blogs, por exemplo. Sabe por quê? Afeto a gente distribui pela **decoração da casa** através de itens decorativos que traduzam quem a gente é, que nos emocione, e melhor ainda se tiver gente de verdade atrás da produção deles. Essa foi exatamente a sensação que tive quando conheci uma loja virtual que quero te apresentar aqui: **<a href="http://www.elo7.com.br/boutiqueateline" target="_blank">Boutique Ateline</a>**. Quando conheço uma loja virtual nesse <em>mundão internético</em>, já quero logo saber quem está por trás dela… e já vivi de amores pela forma como a Aline apresenta o seu negócio do coração:
 </p>
 
 <p align="center">
-  <strong><em><span style="font-size: large;">“Queremos proporcionar exclusividade aos nossos clientes, oferecendo produtos personalizados com qualidade e criatividade, colocando como prioridade atender e superar prazos de entrega sem perder o amor e carinho único.”</span></em></strong>
+  **<em><span style="font-size: large;">“Queremos proporcionar exclusividade aos nossos clientes, oferecendo produtos personalizados com qualidade e criatividade, colocando como prioridade atender e superar prazos de entrega sem perder o amor e carinho único.”</span></em>**
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ _“Querendo uma nova decoração para sua casa sem gastar muito? Esse lindo tri
 </p>
 
 <p style="text-align: justify;">
-  Bonitas, a <strong>Boutique Ateline</strong>, com a Aline dando vida ao espaço virtual, está de portas abertas a um clique. Você pode ir correndo lá dar uma espiadinha nos outros produtos <a href="http://www.elo7.com.br/boutiqueateline" target="_blank">clicando aqui</a>. Dá para acompanhar todas as novidades, lançamentos e inspirações da Aline nas redes sociais: <a href="https://www.facebook.com/boutiqueateline/timeline" target="_blank">fanpage do facebook</a> e o <a href="https://www.instagram.com/boutiqueateline/" target="_blank">perfil no Instagram</a> estão recheadas disso tudo pra você. Se joga!
+  Bonitas, a **Boutique Ateline**, com a Aline dando vida ao espaço virtual, está de portas abertas a um clique. Você pode ir correndo lá dar uma espiadinha nos outros produtos <a href="http://www.elo7.com.br/boutiqueateline" target="_blank">clicando aqui</a>. Dá para acompanhar todas as novidades, lançamentos e inspirações da Aline nas redes sociais: <a href="https://www.facebook.com/boutiqueateline/timeline" target="_blank">fanpage do facebook</a> e o <a href="https://www.instagram.com/boutiqueateline/" target="_blank">perfil no Instagram</a> estão recheadas disso tudo pra você. Se joga!
 </p>
 
 <p align="center">

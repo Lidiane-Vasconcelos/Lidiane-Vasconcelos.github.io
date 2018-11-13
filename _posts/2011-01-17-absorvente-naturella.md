@@ -1,7 +1,7 @@
 ---
-id: 2938
+
 title: 'Novidade: absorvente Naturella. Quer experimentar?'
-date: 2011-01-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/17/absorvente-naturella/
@@ -26,11 +26,11 @@ Ei, bonita! Deixa eu te perguntar: você já viu nas prateleiras do supermercado
 </p>
 
 <p style="text-align: justify;">
-  Está vendo esse <strong>kit da imagem com um pacote de absorvente com 8 unidades + um pacote de protetor diário com 15 unidades + uma almofada de flor</strong>? Ele pode ser seu! Se quiser tentar a sorte num sorteio, deixe <strong>um comentário neste post avisando que quer receber o kit</strong>. Pronto! Você já estará concorrendo.
+  Está vendo esse **kit da imagem com um pacote de absorvente com 8 unidades + um pacote de protetor diário com 15 unidades + uma almofada de flor**? Ele pode ser seu! Se quiser tentar a sorte num sorteio, deixe **um comentário neste post avisando que quer receber o kit**. Pronto! Você já estará concorrendo.
 </p>
 
 <p style="text-align: justify;">
-  A <strong>única restrição é que seu endereço de entrega seja em território brasileiro</strong>. As <strong>inscrições vão até 28 de Janeiro</strong>. Farei o sorteio via Random.Org e a <strong>divulgação será dia 31 de Janeiro</strong>. Eu <strong>enviarei um e-mail questionando o endereço de entrega para a ganhadora e vou aguardar no máximo uma semana para resposta</strong>, e se ela não chegar, farei novo sorteio entre as inscritas.
+  A **única restrição é que seu endereço de entrega seja em território brasileiro**. As **inscrições vão até 28 de Janeiro**. Farei o sorteio via Random.Org e a **divulgação será dia 31 de Janeiro**. Eu **enviarei um e-mail questionando o endereço de entrega para a ganhadora e vou aguardar no máximo uma semana para resposta**, e se ela não chegar, farei novo sorteio entre as inscritas.
 </p>
 
 <p style="text-align: justify;">
@@ -44,9 +44,9 @@ Ei, bonita! Deixa eu te perguntar: você já viu nas prateleiras do supermercado
 Valendo!
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3578
+
 title: Quer toques de decoração vintage em casa? Veja 7 dicas.
-date: 2016-04-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/04/retro-decoracao-vintage/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – Achados vintage.</strong>
+  **1 – Achados vintage.**
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – Eletrodoméstico + revestimento.</strong>
+  **2 – Eletrodoméstico + revestimento.**
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Detalhes charmosos.</strong>
+  **3 – Detalhes charmosos.**
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Panos de prato, por que te quero?</strong>
+  **4 – Panos de prato, por que te quero?**
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Pausa…</strong>
+  **Pausa…**
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Cortina + flores + regador.</strong>
+  **5 – Cortina + flores + regador.**
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 – E para o quarto de uma princesa…</strong>
+  **6 – E para o quarto de uma princesa…**
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>7 – Papel de parede.</strong>
+  **7 – Papel de parede.**
 </p>
 
 <p align="center">

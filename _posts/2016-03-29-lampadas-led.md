@@ -1,7 +1,7 @@
 ---
-id: 3573
+
 title: 'Lâmpadas LED: você conhece as vantagens?'
-date: 2016-03-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/29/lampadas-led/
@@ -26,43 +26,43 @@ categories:
 </p>
 
 <p align="justify">
-  Ficou animada para deixar seu bolso mais aliviado com a economia na conta da energia elétrica? Pudera! Eu também ficaria. Quando você decidir que é hora de realizar a troca de suas lâmpadas em casa, saiba que essa substituição será bastante simples: a voltagem que ela necessita é a mesma utilizada para a iluminação convencional ou bivolt, e não será necessário substituir sua fiação, soquete e disjuntor. Boa notícia, hein? Quer mais? É bom que você saiba: a lâmpada <strong>LED</strong> não precisa de descarte especial, pois não possui metais pesados em sua composição, o que reduz custos na gestão de descarte em relação à lâmpada fluorescente, que contém mercúrio e pode causar sérios riscos ambientais. A natureza agradece, e a saúde de todos nós também.
+  Ficou animada para deixar seu bolso mais aliviado com a economia na conta da energia elétrica? Pudera! Eu também ficaria. Quando você decidir que é hora de realizar a troca de suas lâmpadas em casa, saiba que essa substituição será bastante simples: a voltagem que ela necessita é a mesma utilizada para a iluminação convencional ou bivolt, e não será necessário substituir sua fiação, soquete e disjuntor. Boa notícia, hein? Quer mais? É bom que você saiba: a lâmpada **LED** não precisa de descarte especial, pois não possui metais pesados em sua composição, o que reduz custos na gestão de descarte em relação à lâmpada fluorescente, que contém mercúrio e pode causar sérios riscos ambientais. A natureza agradece, e a saúde de todos nós também.
 </p>
 
 <p align="justify">
-  <strong>Saiba mais benefícios para a saúde e bem-estar:</strong>
+  **Saiba mais benefícios para a saúde e bem-estar:**
 </p>
 
 <p align="justify">
-  > O <strong>LED</strong> não emite raios Infra Vermelho e Ultra Violeta no feixe de luz, assim não prejudica a pele.
+  > O **LED** não emite raios Infra Vermelho e Ultra Violeta no feixe de luz, assim não prejudica a pele.
 </p>
 
 <p align="justify">
-  > O <strong>LED</strong> possui resistência térmica, portanto não gera calor;
+  > O **LED** possui resistência térmica, portanto não gera calor;
 </p>
 
 <p align="justify">
-  > O <strong>LED</strong> não atrai insetos;
+  > O **LED** não atrai insetos;
 </p>
 
 <p align="justify">
-  > O <strong>LED</strong> possui baixa voltagem de operação, assim não representa perigo para o instalador;
+  > O **LED** possui baixa voltagem de operação, assim não representa perigo para o instalador;
 </p>
 
 <p align="justify">
-  > A lâmpada <strong>LED</strong> é construída em policarbonatos (não quebra) evitando acidentes durante o manuseio;
+  > A lâmpada **LED** é construída em policarbonatos (não quebra) evitando acidentes durante o manuseio;
 </p>
 
 <p align="justify">
-  > A lâmpada de <strong>LED</strong> é 98% reciclável gerando menos resíduos para o meio ambiente;
+  > A lâmpada de **LED** é 98% reciclável gerando menos resíduos para o meio ambiente;
 </p>
 
 <p align="justify">
-  > O <strong>LED</strong> não possui risco de contato direto, por ser executado em baixa tensão, pode ser utilizado em ambientes úmidos ou até mesmo embaixo d’água, como em piscinas e banheiros, sem oferecer riscos de choque.
+  > O **LED** não possui risco de contato direto, por ser executado em baixa tensão, pode ser utilizado em ambientes úmidos ou até mesmo embaixo d’água, como em piscinas e banheiros, sem oferecer riscos de choque.
 </p>
 
 <p align="justify">
-  <strong>Onde encontrar essa maravilha?</strong>
+  **Onde encontrar essa maravilha?**
 </p>
 
 <p align="justify">

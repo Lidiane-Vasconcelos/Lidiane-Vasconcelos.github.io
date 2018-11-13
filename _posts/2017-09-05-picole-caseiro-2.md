@@ -1,7 +1,7 @@
 ---
-id: 3794
+
 title: Picolé caseiro de tangerina assada, com gengibre e iogurte.
-date: 2017-09-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/05/picole-caseiro-2/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Logo logo os dias quentes darão o ar da graça e refrescar faz bem. Não tenho dúvidas de que todos, sobretudo as crianças, vão aprovar sua versão de <strong>picolé caseiro</strong> como a que você verá nesse post. Como já estamos acostumadas, Tânia nos apresenta versões diferentes, inusitadas e, o melhor de tudo, bem descomplicadas para reproduzir em nossos lares. Confira!
+  Logo logo os dias quentes darão o ar da graça e refrescar faz bem. Não tenho dúvidas de que todos, sobretudo as crianças, vão aprovar sua versão de **picolé caseiro** como a que você verá nesse post. Como já estamos acostumadas, Tânia nos apresenta versões diferentes, inusitadas e, o melhor de tudo, bem descomplicadas para reproduzir em nossos lares. Confira!
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes:</em></strong>
+  **<em>Ingredientes:</em>**
 </p>
 
 <p align="justify">
@@ -82,19 +82,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank">Pão caseiro trançado com recheio de pesto.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank">Pão caseiro trançado com recheio de pesto.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank">Geleia de banana e as reminiscências infantis.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank">Geleia de banana e as reminiscências infantis.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank">Chá de menta de Marraquexe, ou como acolher bem…</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank">Chá de menta de Marraquexe, ou como acolher bem…</a>**
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 2607
+
 title: Tudo Branco na decoração da Cozinha.
-date: 2009-01-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/22/decoracao-cozinha-branca/
@@ -11,7 +11,7 @@ categories:
 ---
 Eu tenho lá minhas desconfianças com **_cozinha toda branca_**. A maior razão de todas elas é que mostra logo a sujeira. Talvez isso fosse algo a favor porque sujou, logo se vê, logo se limpa, _but_&#8230;
 
-A outra razão é que  parece comum, assim&#8230; todo mundo tem. ‘Tá, eu sei que a gente é quem dá o toque original e tudo o mais, e que nestes casos os objetos salvam&#8230; mas quando eu fiz a minha quis fugir do branco. Pronto. Falei! Já até mostrei este meu espaço por aqui quando falei sobre <a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_self"><strong><em>revestimentos de cozinha</em></strong></a>.
+A outra razão é que  parece comum, assim&#8230; todo mundo tem. ‘Tá, eu sei que a gente é quem dá o toque original e tudo o mais, e que nestes casos os objetos salvam&#8230; mas quando eu fiz a minha quis fugir do branco. Pronto. Falei! Já até mostrei este meu espaço por aqui quando falei sobre <a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_self">**<em>revestimentos de cozinha</em>**</a>.
 
 Todavia, contudo, no entanto&#8230; vendo essa galeria de fotos publicada <a href="http://www.thekitchn.com/thekitchn/kitchen-tours/kitchen-gallery-white-bright-and-clean-074195" target="_blank">nest post</a> do “<a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>”, comecei a rever meus conceitos.  Vamos ás imagens?
 

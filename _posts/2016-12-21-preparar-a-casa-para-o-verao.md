@@ -1,7 +1,7 @@
 ---
-id: 3716
+
 title: 8 maneiras de preparar a casa para o Verão!
-date: 2016-12-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/21/preparar-a-casa-para-o-verao/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Os dias cada vez mais quentes estão dando o ar da graça, o clima de férias para alguns começa a se instalar, e toda essa atmosfera nos convida a <strong>preparar a casa para o</strong> <strong>Verão</strong>. Algumas escolhas podem ser feitas, de modo que a casa ganhe toques inspiradores que remetem a estação mais ensolarada. A certeza é de que o clima em seus domínios muda, com ambientes que tornam-se mais alegres e cheios de vida. Veja a seguir dicas que vão te ajudar a deixar seu lar em sintonia com essa época do ano, e faça do seu espaço um lugar de aconchego para ser compartilhado em família.
+  Os dias cada vez mais quentes estão dando o ar da graça, o clima de férias para alguns começa a se instalar, e toda essa atmosfera nos convida a **preparar a casa para o** **Verão**. Algumas escolhas podem ser feitas, de modo que a casa ganhe toques inspiradores que remetem a estação mais ensolarada. A certeza é de que o clima em seus domínios muda, com ambientes que tornam-se mais alegres e cheios de vida. Veja a seguir dicas que vão te ajudar a deixar seu lar em sintonia com essa época do ano, e faça do seu espaço um lugar de aconchego para ser compartilhado em família.
 </p>
 
 &nbsp;
@@ -27,7 +27,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">1 – Dê boas vindas ao Verão!</span></strong>
+  **<span style="font-size: large;">1 – Dê boas vindas ao Verão!</span>**
 </p>
 
 &nbsp;
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="justify">
-  É hora de deixar sua decoração leve e florida! A propósito: <strong><a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank">flores na decoração</a></strong> são um recurso acertadíssimo! Use e abuse delas.
+  É hora de deixar sua decoração leve e florida! A propósito: **<a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank">flores na decoração</a>** são um recurso acertadíssimo! Use e abuse delas.
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que <strong>você encontra online na Xique Xique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank"><em>Clique aqui para ver estes e outros modelos disponíveis</em></a><em>.</em>
+  <em>Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que **você encontra online na Xique Xique Brasil**. </em><a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank"><em>Clique aqui para ver estes e outros modelos disponíveis</em></a><em>.</em>
 </p>
 
 <p align="center">
@@ -81,23 +81,23 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <em>Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da <strong>Xique Xique Brasil, </strong>você encontra todas online, e elas são enviadas para todo o Brasil. <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Clique aqui</a>, veja esses e mais produtos.</em>
+  <em>Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da **Xique Xique Brasil, **você encontra todas online, e elas são enviadas para todo o Brasil. <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Clique aqui</a>, veja esses e mais produtos.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">2 – Confira itens de primeira necessidade!</span></strong>
+  **<span style="font-size: large;">2 – Confira itens de primeira necessidade!</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  É hora de sair de casa e desfrutar os <strong><a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/" target="_blank">finais de semana com mais leveza, e ao ar livre</a></strong>! Procure saber sobre os parques que existem em sua cidade, e se jogue na vida com a família! Praia e piscina certamente já estão na lista das atividades preferidas no Verão, não é verdade? Antes de se programar para essas saídas durante toda a estação, <strong>não esqueça de conferir nos armários seu estoque de produtos para a pele</strong>, e abasteça com <strong>protetor solar e repelente</strong> o quanto antes! Esses itens são fundamentais nos seus passeios de Verão.
+  É hora de sair de casa e desfrutar os **<a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/" target="_blank">finais de semana com mais leveza, e ao ar livre</a>**! Procure saber sobre os parques que existem em sua cidade, e se jogue na vida com a família! Praia e piscina certamente já estão na lista das atividades preferidas no Verão, não é verdade? Antes de se programar para essas saídas durante toda a estação, **não esqueça de conferir nos armários seu estoque de produtos para a pele**, e abasteça com **protetor solar e repelente** o quanto antes! Esses itens são fundamentais nos seus passeios de Verão.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">3 – Torne seu guarda-roupas mais leve!</span></strong>
+  **<span style="font-size: large;">3 – Torne seu guarda-roupas mais leve!</span>**
 </p>
 
 &nbsp;
@@ -109,7 +109,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">4 – Crie um ambiente externo com a cara do Verão!</span></strong>
+  **<span style="font-size: large;">4 – Crie um ambiente externo com a cara do Verão!</span>**
 </p>
 
 &nbsp;
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">5 – Renove o banheiro com toalhas que remetam á leveza!</span></strong>
+  **<span style="font-size: large;">5 – Renove o banheiro com toalhas que remetam á leveza!</span>**
 </p>
 
 &nbsp;
@@ -129,7 +129,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Conjunto de toalhas 5 peças: 2 toalhas de banho, 2 toalhas de rosto e 1 piso. Toalhas de banho e rosto com finíssimo aplique de barra em percal bordado com Richelieu. Piso em felpa com acabamento superior e inferior em matame &#8220;onda&#8221;. Essas belíssimas toalhas são encontradas <strong>online, a um clique, na loja Xique Xique Brasil</strong>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/banho/toalha-richelieu-conjunto-banho-branca-margarida-5-pecas/?ref=trololodemulher" target="_blank"><em>Clique aqui para mais detalhes sobre esse produto</em></a><em>.</em>
+  <em>Conjunto de toalhas 5 peças: 2 toalhas de banho, 2 toalhas de rosto e 1 piso. Toalhas de banho e rosto com finíssimo aplique de barra em percal bordado com Richelieu. Piso em felpa com acabamento superior e inferior em matame &#8220;onda&#8221;. Essas belíssimas toalhas são encontradas **online, a um clique, na loja Xique Xique Brasil**. </em><a href="https://www.xiquexiquebrasil.com.br/casa/banho/toalha-richelieu-conjunto-banho-branca-margarida-5-pecas/?ref=trololodemulher" target="_blank"><em>Clique aqui para mais detalhes sobre esse produto</em></a><em>.</em>
 </p>
 
 &nbsp;
@@ -141,7 +141,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">6 – Ponha a mesa para o Verão!</span></strong>
+  **<span style="font-size: large;">6 – Ponha a mesa para o Verão!</span>**
 </p>
 
 &nbsp;
@@ -165,7 +165,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Porta guardanapo formado por argola em madeira e conchas do mar. Esse produto é comercializado por unidade na <strong>loja online Xique Xique Brasil</strong>, compre quantos desejar e forme o seu conjunto. </em><a href="https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo/?ref=trololodemulher" target="_blank"><em>Clique aqui para ver mais detalhes sobre esse modelo e vários outros</em></a><em>.</em>
+  <em>Porta guardanapo formado por argola em madeira e conchas do mar. Esse produto é comercializado por unidade na **loja online Xique Xique Brasil**, compre quantos desejar e forme o seu conjunto. </em><a href="https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo/?ref=trololodemulher" target="_blank"><em>Clique aqui para ver mais detalhes sobre esse modelo e vários outros</em></a><em>.</em>
 </p>
 
 <p align="center">
@@ -179,7 +179,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">7 – Faça receitas refrescantes na sua cozinha!</span></strong>
+  **<span style="font-size: large;">7 – Faça receitas refrescantes na sua cozinha!</span>**
 </p>
 
 &nbsp;
@@ -217,7 +217,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">8 – Deixe o sol entrar!</span></strong>
+  **<span style="font-size: large;">8 – Deixe o sol entrar!</span>**
 </p>
 
 &nbsp;

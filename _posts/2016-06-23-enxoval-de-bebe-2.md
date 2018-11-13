@@ -1,7 +1,7 @@
 ---
-id: 3631
+
 title: 'Enxoval de bebê que nasce no calor: o que comprar?'
-date: 2016-06-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/23/enxoval-de-bebe-2/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  <strong>Enxoval de bebê</strong> que nasce no calor pede peças leves, não é verdade? Afinal de contas, os dias e noites são quentes, e o recém-nascido precisa ficar protegido, mas também bem confortável. Peças em tecido algodão são as mais recomendadas para o enxoval do bebê, porque esse tecido é feito com fibras naturais, permitindo a pele respirar e reduzindo as chances de alergias. Considerando onde o bebê mora, e em qual época do ano ele vai nascer, a proposta deste post é te mostrar peças que são puro amor, além de ideais para a temporada de calor. Já mostrei no Trololó de Mulher <a href="http://www.trololodemulher.com.br/2016/04/11/enxoval-de-bebe/" target="_blank">o que é essencial num enxoval de bebê</a>. Agora vamos babar juntas nas peças que têm a cara do Verão no Brasil, oh:
+  **Enxoval de bebê** que nasce no calor pede peças leves, não é verdade? Afinal de contas, os dias e noites são quentes, e o recém-nascido precisa ficar protegido, mas também bem confortável. Peças em tecido algodão são as mais recomendadas para o enxoval do bebê, porque esse tecido é feito com fibras naturais, permitindo a pele respirar e reduzindo as chances de alergias. Considerando onde o bebê mora, e em qual época do ano ele vai nascer, a proposta deste post é te mostrar peças que são puro amor, além de ideais para a temporada de calor. Já mostrei no Trololó de Mulher <a href="http://www.trololodemulher.com.br/2016/04/11/enxoval-de-bebe/" target="_blank">o que é essencial num enxoval de bebê</a>. Agora vamos babar juntas nas peças que têm a cara do Verão no Brasil, oh:
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ categories:
 Os itens são da <a href="http://bit.ly/xxb-trololo" target="_blank">loja online XiqueXique Brasil</a>, repleta de delicadezas para quem está chegando ao mundo.
 
 <p align="justify">
-  A <strong>Xique Xique Brasil</strong> é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-trololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>.<a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe!
+  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-trololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**.<a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe!
 </p>
 
 <p align="center">

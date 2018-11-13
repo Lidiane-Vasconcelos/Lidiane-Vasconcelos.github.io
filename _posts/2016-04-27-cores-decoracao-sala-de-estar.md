@@ -1,7 +1,7 @@
 ---
-id: 3600
+
 title: Como usar cores vibrantes na sala de estar?
-date: 2016-04-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/27/cores-decoracao-sala-de-estar/
@@ -10,11 +10,11 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Ter uma dúvida como essa… quem nunca? Foi assim também com a <strong>Viviane</strong>, leitora deste blog, que vive de amores por objetos de decoração com cores vibrantes, mas não sabe muito bem como colocá-las em seu espaço, e nem mesmo tem certeza se essa seria uma boa ideia. O que ela fez? Tratou de enviar um e-mail &#8211; <strong>trololomulher@gmail.com</strong> &#8211;  aqui pro <strong>Trololó de Mulher</strong>, certa de que poderíamos ajudá-la. A boa notícia é que, sim, este post é para solucionar sua dúvida de uma vez por todas.
+  Ter uma dúvida como essa… quem nunca? Foi assim também com a **Viviane**, leitora deste blog, que vive de amores por objetos de decoração com cores vibrantes, mas não sabe muito bem como colocá-las em seu espaço, e nem mesmo tem certeza se essa seria uma boa ideia. O que ela fez? Tratou de enviar um e-mail &#8211; **trololomulher@gmail.com** &#8211;  aqui pro **Trololó de Mulher**, certa de que poderíamos ajudá-la. A boa notícia é que, sim, este post é para solucionar sua dúvida de uma vez por todas.
 </p>
 
 <p align="justify">
-  A seguir você verá as orientações de nossa mais nova consultora, a <strong>Maristela Leonel, Designer de Interiores, de Florianópolis e região.</strong> Suas dicas, dadas de forma simples e didática, ajudarão a Viviane a compor harmoniosamente seu ambiente, e eu não tenho dúvidas quanto a isso. Se o uso de cores vibrantes na sala de estar também te encanta, mas a insegurança não deixa você arriscar, aproveita que esse post pode ser bem útil pra você também. Vem!
+  A seguir você verá as orientações de nossa mais nova consultora, a **Maristela Leonel, Designer de Interiores, de Florianópolis e região.** Suas dicas, dadas de forma simples e didática, ajudarão a Viviane a compor harmoniosamente seu ambiente, e eu não tenho dúvidas quanto a isso. Se o uso de cores vibrantes na sala de estar também te encanta, mas a insegurança não deixa você arriscar, aproveita que esse post pode ser bem útil pra você também. Vem!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Meu sofá é marrom, o home marrom e bege, porém o tapete é vermelho. Vejo umas peças lindas amarelas, azul turquesa, verde, aí fico babando, mas não sei se combina com minha sala.&#8221; Viviane</strong>
+>   **Meu sofá é marrom, o home marrom e bege, porém o tapete é vermelho. Vejo umas peças lindas amarelas, azul turquesa, verde, aí fico babando, mas não sei se combina com minha sala.&#8221; Viviane**
 > </p>
 
 <p align="center">
@@ -46,15 +46,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <i><strong>A cor vermelha é marcante e, talvez, possa inibir algum objeto que esteja em outra cor. Prefira dar uniformidade na decoração e utilizar objetos em tonalidades semelhantes. Pontuando com delicadeza, afinal, estamos falando do vibrante vermelho!</strong></i>
+>   <i>**A cor vermelha é marcante e, talvez, possa inibir algum objeto que esteja em outra cor. Prefira dar uniformidade na decoração e utilizar objetos em tonalidades semelhantes. Pontuando com delicadeza, afinal, estamos falando do vibrante vermelho!**</i>
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank"><strong>Cadeiras vermelhas: 6 ambientes para te encorajar a usá-las.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank">**Cadeiras vermelhas: 6 ambientes para te encorajar a usá-las.**</a>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <i><strong>No sofá sugiro compôr com almofadas lisas e estampadas (ou com bordados).</strong></i>
+>   <i>**No sofá sugiro compôr com almofadas lisas e estampadas (ou com bordados).**</i>
 > </p>
 
 <p align="center">
@@ -78,15 +78,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <i><strong>No móvel da TV pode-se colocar vasos ou garrafas com diferentes alturas, cachepôs em cor neutra (branco ou espelhado) com flores vermelhas, caixas, esculturas. Caso a leitora pense em adquirir uma mesa de centro <i>pode-se decorar com objetos baixos (até 20 cm de altura). Pois assim não haverá problemas quando alguém for passar com bolsas e sacolas.</i></strong></i>
+>   <i>**No móvel da TV pode-se colocar vasos ou garrafas com diferentes alturas, cachepôs em cor neutra (branco ou espelhado) com flores vermelhas, caixas, esculturas. Caso a leitora pense em adquirir uma mesa de centro <i>pode-se decorar com objetos baixos (até 20 cm de altura). Pois assim não haverá problemas quando alguém for passar com bolsas e sacolas.</i>**</i>
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
+  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank">**Mesa de centro da sala de estar: compre sem erro!**</a>
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <i><strong>Uma opção para a bancada que dá acesso à cozinha é expôr eletrodomésticos com detalhes em vermelho. Você ganha espaço dentro dos armários e faz com que os dois ambientes &#8220;conversem&#8221;. Outra dica: ter um conjunto de potes para biscoitos ou condimentos.</strong></i>
+>   <i>**Uma opção para a bancada que dá acesso à cozinha é expôr eletrodomésticos com detalhes em vermelho. Você ganha espaço dentro dos armários e faz com que os dois ambientes &#8220;conversem&#8221;. Outra dica: ter um conjunto de potes para biscoitos ou condimentos.**</i>
 > </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
 </p>
 
 <p align="center">

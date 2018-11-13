@@ -1,7 +1,7 @@
 ---
-id: 3687
+
 title: 4 dicas para decoração natalina nos cantinhos da casa.
-date: 2016-10-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/18/decoracao-natalina/
@@ -11,11 +11,11 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Árvore de Natal, <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">guirlanda natalina</a>, <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">arranjo de mesa</a>, pisca-pisca na janela: esses itens são clássicos na <strong>decoração natalina</strong>. Mas, oh: se você quer mais,  veja neste post 4 dicas para satisfazer sua vontade de espalhar o espírito natalino pelo lar. Dê a cada pequeno espaço de seu ninho um toque de <em>bossa</em> natalina com essas ideias criativas, e de simples execução. Preparada? Então vem!
+  Árvore de Natal, <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">guirlanda natalina</a>, <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">arranjo de mesa</a>, pisca-pisca na janela: esses itens são clássicos na **decoração natalina**. Mas, oh: se você quer mais,  veja neste post 4 dicas para satisfazer sua vontade de espalhar o espírito natalino pelo lar. Dê a cada pequeno espaço de seu ninho um toque de <em>bossa</em> natalina com essas ideias criativas, e de simples execução. Preparada? Então vem!
 </p>
 
 <p align="justify">
-  <strong>Arranjo rústico</strong>
+  **Arranjo rústico**
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Tradição natalina</strong>
+  **Tradição natalina**
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Natal na Cozinha</strong>
+  **Natal na Cozinha**
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Toques de cor aqui e acolá</strong>
+  **Toques de cor aqui e acolá**
 </p>
 
 <p align="center">

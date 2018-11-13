@@ -1,7 +1,7 @@
 ---
-id: 3527
+
 title: Peixe assado ao molho de abóbora
-date: 2016-01-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/13/peixe-assado/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Eu vivo de amores pelas receitas da Carol. Invariavelmente, suas sugestões compartilhadas por aqui, no <strong>Trololó de Mulher</strong>, são <em>superultramega</em> fáceis de serem reproduzidas, e bastante práticas. Não é de praticidade que gostamos? Sim! Além do mais, gostamos e queremos comer de maneira mais saudável, certo? E, nesse sentido, as comidinhas que a Carol propõe são imbatíveis! Quer mais um exemplo? Olha esse <strong>peixe assado</strong> ao molho de abóbora! Como não dar água na boca? A receita abre o apetite, é linda de viver, bem fácil de preparar e muito, muito saudável. Confira!
+  Eu vivo de amores pelas receitas da Carol. Invariavelmente, suas sugestões compartilhadas por aqui, no **Trololó de Mulher**, são <em>superultramega</em> fáceis de serem reproduzidas, e bastante práticas. Não é de praticidade que gostamos? Sim! Além do mais, gostamos e queremos comer de maneira mais saudável, certo? E, nesse sentido, as comidinhas que a Carol propõe são imbatíveis! Quer mais um exemplo? Olha esse **peixe assado** ao molho de abóbora! Como não dar água na boca? A receita abre o apetite, é linda de viver, bem fácil de preparar e muito, muito saudável. Confira!
 </p>
 
 <p align="center">
@@ -58,23 +58,23 @@ Sal e pimenta-do-reino a gosto;
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/" target="_blank">Bolo de Chocolate funcional.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/" target="_blank">Bolo de Chocolate funcional.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank">Beijinho sem leite condensado.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank">Beijinho sem leite condensado.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank">Suflê de couve-flor e cenoura.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank">Suflê de couve-flor e cenoura.</a>**
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
@@ -82,5 +82,5 @@ Sal e pimenta-do-reino a gosto;
 </p>
 
 <p align="justify">
-  <strong> </strong>
+  ** **
 </p>

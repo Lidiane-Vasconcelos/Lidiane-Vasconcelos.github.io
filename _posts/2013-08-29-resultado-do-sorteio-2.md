@@ -1,7 +1,7 @@
 ---
-id: 3255
+
 title: 'Resultado do sorteio da blogagem coletiva [ATUALIZADO]'
-date: 2013-08-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/29/resultado-do-sorteio-2/
@@ -14,7 +14,7 @@ A blogagem coletiva acabou e me deixou saudade, porque eu estava curtindo a ades
 &nbsp;
 
 <p align="justify">
-  Agora, vem a parte divertida: a brincadeira que põe as blogueiras sob o risco de ganhar mimos. Ô, delícia! Vamos lá conhecer o nome da sortuda que vai ganhar <strong><a href="http://www.trololodemulher.com.br/2013/08/12/cores-decoracao-sorteio/">presentes da La Pomme e da Tera Artes</a></strong> em casa? Vem comigo e espia:
+  Agora, vem a parte divertida: a brincadeira que põe as blogueiras sob o risco de ganhar mimos. Ô, delícia! Vamos lá conhecer o nome da sortuda que vai ganhar **<a href="http://www.trololodemulher.com.br/2013/08/12/cores-decoracao-sorteio/">presentes da La Pomme e da Tera Artes</a>** em casa? Vem comigo e espia:
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ A blogagem coletiva acabou e me deixou saudade, porque eu estava curtindo a ades
 &nbsp;
 
 <p align="justify">
-  Viu? A felizarda é a <strong><span style="font-size: large;">Ellen Caliseo</span></strong>. Parabéns!!!!!
+  Viu? A felizarda é a **<span style="font-size: large;">Ellen Caliseo</span>**. Parabéns!!!!!
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ A blogagem coletiva acabou e me deixou saudade, porque eu estava curtindo a ades
 </p>
 
 <p align="center">
-  <strong><span style="color: #ff0000; font-size: large;">Atualizado…</span></strong>
+  **<span style="color: #ff0000; font-size: large;">Atualizado…</span>**
 </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ A blogagem coletiva acabou e me deixou saudade, porque eu estava curtindo a ades
   
   <p align="justify">
     <p align="justify">
-      Viu? É a <strong><span style="font-size: large;">Maria Laura Martins</span></strong>. Parabéns!!!
+      Viu? É a **<span style="font-size: large;">Maria Laura Martins</span>**. Parabéns!!!
     </p>
     
     <p align="justify">

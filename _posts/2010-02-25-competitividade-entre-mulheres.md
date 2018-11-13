@@ -1,7 +1,7 @@
 ---
-id: 2797
+
 title: Há competitividade entre as mulheres?
-date: 2010-02-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/25/competitividade-entre-mulheres/
@@ -61,7 +61,7 @@ Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 **Quer ler mais sobre comportamento feminino no Bicha Fêmea?**
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2009/07/30/bicha-fmea-convidada-em-foco-claudia/" target="_self"></a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2009/07/30/bicha-fmea-convidada-em-foco-claudia/" target="_self"></a></em>**
 </p>
 
 **_<a href="http://www.trololodemulher.com.br/2009/07/29/mulher-um-bicho-danado-se-no-vejamos/" target="_self">Mulher é um &#8220;bicho danado&#8221;. Se não, vejamos&#8230;</a>_**

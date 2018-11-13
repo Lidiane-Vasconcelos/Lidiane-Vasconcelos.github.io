@@ -1,7 +1,7 @@
 ---
-id: 3316
+
 title: 'Caixas: 5 soluções de organização da casa.'
-date: 2014-06-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/30/caixas-organizacao-casa/
@@ -22,7 +22,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <strong>1 – Sala</strong>
+  **1 – Sala**
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong>2 – Home Office ou Escritório</strong>
+  **2 – Home Office ou Escritório**
 </p>
 
 <p align="center">
@@ -52,21 +52,21 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-de-escritorio/" target="_blank"><strong>Organização de escritório ou home office: dicas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-de-escritorio/" target="_blank">**Organização de escritório ou home office: dicas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/escritorio-casa-organizacao/" target="_blank"><strong>Escritório em casa: ideias simples e baratas para organização.</strong></a>
+  <a href="http://www.decoracaodacasa.com/escritorio-casa-organizacao/" target="_blank">**Escritório em casa: ideias simples e baratas para organização.**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong>3 – Cozinha</strong>
+  **3 – Cozinha**
 </p>
 
 <p align="center">
@@ -80,25 +80,25 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais ideias para uma cozinha nos trinques:</strong>
+  **Mais ideias para uma cozinha nos trinques:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank"><strong>Quer 5 razões para ter um suporte de organização na parde da cozinha?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank">**Quer 5 razões para ter um suporte de organização na parde da cozinha?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank"><strong>3 dicas para organização da cozinha… confira!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank">**3 dicas para organização da cozinha… confira!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank"><strong>4 ideias para manter sua cozinha organizada.</strong></a>
+  <a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank">**4 ideias para manter sua cozinha organizada.**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong>4 – Quarto</strong>
+  **4 – Quarto**
 </p>
 
 <p align="center">
@@ -113,16 +113,16 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 
 **Tudo em ordem no quarto!**
 
-<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização para o quarto infantil: você não vai copiar?</strong></a>
+<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização para o quarto infantil: você não vai copiar?**</a>
 
-<a href="http://www.decoracaodacasa.com/moveis-organizacao-quarto/" target="_blank"><strong>Móveis para a organização do quarto: o que dá para usar?</strong></a>
+<a href="http://www.decoracaodacasa.com/moveis-organizacao-quarto/" target="_blank">**Móveis para a organização do quarto: o que dá para usar?**</a>
 
 &nbsp;
 
 &nbsp;
 
 <p align="center">
-  <strong>5 – Banheiro</strong>
+  **5 – Banheiro**
 </p>
 
 <p align="center">
@@ -136,11 +136,11 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 </p>
 
 <p align="justify">
-  <strong>E mais!</strong>
+  **E mais!**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">**5 ideias de organização do banheiro que favorecem a decoração.**</a>
 </p>
 
 &nbsp;

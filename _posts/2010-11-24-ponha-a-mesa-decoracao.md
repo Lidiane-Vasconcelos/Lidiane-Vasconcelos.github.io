@@ -1,7 +1,7 @@
 ---
-id: 2910
+
 title: Arrume sua mesa para receber ou encantar os olhos!
-date: 2010-11-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/24/ponha-a-mesa-decoracao/
@@ -13,7 +13,7 @@ categories:
 A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim. Momentos singulares merecem um carinho a mais. Mas também é verdade que fazer uso de detalhes no dia a dia enche os olhos e, por que não, o coração. É ou não é?
 
 <p style="text-align: justify;">
-  Seja para <strong>receber</strong> ou alegrar o dia a dia, este post é para você que gosta de se inspirar em ideias que são fáceis de reproduzir na sua casa. Ponha a mesa! Boa refeição!
+  Seja para **receber** ou alegrar o dia a dia, este post é para você que gosta de se inspirar em ideias que são fáceis de reproduzir na sua casa. Ponha a mesa! Boa refeição!
 </p>
 
 <!--more-->
@@ -57,7 +57,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O que é menos óbvio encanta, sim. A imagem serve como inspiração e arranca meus suspiros&#8230; é que um jogo assim, redondo, também não tenho (ainda)&#8230;
 
 <p style="text-align: center;">
-  <strong>Sugestões de itens que vão deixar sua mesa arrumada, cheia de <em>bossa</em>, e com estilo…</strong>
+  **Sugestões de itens que vão deixar sua mesa arrumada, cheia de <em>bossa</em>, e com estilo…**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -78,7 +78,7 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
       </p>
       
       <p style="text-align: justify;">
-        <em>O porta guardanapo está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-guardanapo-arabesco/" target="_blank"><strong><em>Basta clicar</em></strong></a><em>!</em>
+        <em>O porta guardanapo está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-guardanapo-arabesco/" target="_blank">**<em>Basta clicar</em>**</a><em>!</em>
       </p>
     </td>
   </tr>
@@ -94,7 +94,7 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
       </p>
       
       <p style="text-align: justify;">
-        <em>O porta chá está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-cha-poa/" target="_blank"><strong><em>Basta clicar</em></strong></a><em>!</em>
+        <em>O porta chá está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-cha-poa/" target="_blank">**<em>Basta clicar</em>**</a><em>!</em>
       </p>
     </td>
     
@@ -107,11 +107,11 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
 </table>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;"> </span></strong>
+  **<span style="font-size: medium;"> </span>**
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Bônus: e a mesa para as crianças?</span></strong>
+  **<span style="font-size: medium;">Bônus: e a mesa para as crianças?</span>**
 </p>
 
 <p style="text-align: center;">
@@ -137,13 +137,13 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Alternativas para decorar uma mesa de jantar.](http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/"><strong><em>Salas & Halls</em></strong></a>> Ponha sua mesa para receber ou encantar os olhos!
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">**<em>Salas & Halls</em>**</a>> Ponha sua mesa para receber ou encantar os olhos!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

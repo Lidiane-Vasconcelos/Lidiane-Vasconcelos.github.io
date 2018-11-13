@@ -1,7 +1,7 @@
 ---
-id: 3708
+
 title: Biscoitos Amaretti, com gostinho de família.
-date: 2016-11-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  O que é o Natal se não for a festa da família? O aniversário de Jesus, comemorado junto aos mais caros, fica muito mais significativo. E entenda por família os amigos também, aqueles que escolhemos para fazer parte do nosso círculo de afeto mais querido. Essa receita de <strong>Biscoitos Amaretti</strong> da Tânia é uma sugestão inspirada pelo clima natalino, que já bate à nossa porta, pra ser saboreada por companhias especiais, pra aflorar reminiscências afetivas. Confira!
+  O que é o Natal se não for a festa da família? O aniversário de Jesus, comemorado junto aos mais caros, fica muito mais significativo. E entenda por família os amigos também, aqueles que escolhemos para fazer parte do nosso círculo de afeto mais querido. Essa receita de **Biscoitos Amaretti** da Tânia é uma sugestão inspirada pelo clima natalino, que já bate à nossa porta, pra ser saboreada por companhias especiais, pra aflorar reminiscências afetivas. Confira!
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes:</em></strong>
+  **<em>Ingredientes:</em>**
 </p>
 
   * <div align="justify">
@@ -82,23 +82,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/" target="_blank"><strong>Receita de frango com azeitonas, pra tornar festiva a comida caseira.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/" target="_blank">**Receita de frango com azeitonas, pra tornar festiva a comida caseira.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/" target="_blank"><strong>Pão de queijo pra ser feliz no café da tarde.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/" target="_blank">**Pão de queijo pra ser feliz no café da tarde.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank"><strong>Por um Verão perfeito: picolé caseiro de morango e iogurte.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank">**Por um Verão perfeito: picolé caseiro de morango e iogurte.**</a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">

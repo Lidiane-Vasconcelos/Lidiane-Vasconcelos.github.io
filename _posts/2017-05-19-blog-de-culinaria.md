@@ -1,7 +1,7 @@
 ---
-id: 3765
+
 title: Tânia Telva, o talento por trás de um blog de culinária incrível!
-date: 2017-05-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/19/blog-de-culinaria/
@@ -14,7 +14,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Quem entra no <strong>blog de culinária </strong><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want To Be a Cook</a> pela primeira vez certamente imagina que há alguém de muito talento por trás dele, com posts de escrita envolvente, fotografias belíssimas, receitas que nos atraem pelo bom gosto, e nos surpreendem pela execução descomplicada. Tânia Telva, a moça bonita que idealizou o blog, é quem está por trás desse trabalho de qualidade inquestionável, com um espaço virtual dedicado a boa cozinha bastante atraente, e que vale a pena acompanhar.
+  Quem entra no **blog de culinária **<a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want To Be a Cook</a> pela primeira vez certamente imagina que há alguém de muito talento por trás dele, com posts de escrita envolvente, fotografias belíssimas, receitas que nos atraem pelo bom gosto, e nos surpreendem pela execução descomplicada. Tânia Telva, a moça bonita que idealizou o blog, é quem está por trás desse trabalho de qualidade inquestionável, com um espaço virtual dedicado a boa cozinha bastante atraente, e que vale a pena acompanhar.
 </p>
 
 <p align="justify">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="center">
-  A <strong>receita de maior sucesso, das que foram publicadas aqui no Trololó de Mulher</strong>, foi a de pão de queijo… <em>hummm</em>… <a href="https://iwanttobeacook.wordpress.com/2016/10/16/pao-de-queijo-brazilian-cheese-puffs/" target="_blank">clique aqui e veja no blog de Tânia</a> (post em inglês e português) como preparar em casa essa delícia!
+  A **receita de maior sucesso, das que foram publicadas aqui no Trololó de Mulher**, foi a de pão de queijo… <em>hummm</em>… <a href="https://iwanttobeacook.wordpress.com/2016/10/16/pao-de-queijo-brazilian-cheese-puffs/" target="_blank">clique aqui e veja no blog de Tânia</a> (post em inglês e português) como preparar em casa essa delícia!
 </p>
 
 <p align="justify">
-  <strong>Tânia se derrete de amores por sua arte enquanto me conta do que se orgulha em seu trabalho, e diz:</strong>
+  **Tânia se derrete de amores por sua arte enquanto me conta do que se orgulha em seu trabalho, e diz:**
 </p>
 
 <p align="justify">
@@ -54,11 +54,11 @@ categories:
 </p>
 
 <p align="center">
-  A <strong>segunda receita mais acessada aqui no blog</strong> é essa delícia: <strong>brigadeiro de pistache</strong>. <a href="https://iwanttobeacook.wordpress.com/2016/05/09/brigadeiro-brazilian-pistachio-truffles/" target="_blank">Clique aqui e delicie-se, lá no blog da moça, só de olhar</a>… e depois reproduza em seus domínios!
+  A **segunda receita mais acessada aqui no blog** é essa delícia: **brigadeiro de pistache**. <a href="https://iwanttobeacook.wordpress.com/2016/05/09/brigadeiro-brazilian-pistachio-truffles/" target="_blank">Clique aqui e delicie-se, lá no blog da moça, só de olhar</a>… e depois reproduza em seus domínios!
 </p>
 
 <p align="justify">
-  <strong>E sobre o início de tudo:</strong>
+  **E sobre o início de tudo:**
 </p>
 
 <p align="justify">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E de lá pra cá…</strong>
+  **E de lá pra cá…**
 </p>
 
 <p align="justify">
-  “<em>Uau… mudou muita coisa! O primeiro post foi feito na brincadeira, despretensiosamente, e eu não sabia se continuaria. Mas o blog foi a primeira vez na vida que dediquei tempo para fazer algo quase artístico (risos), pois cada post pra mim é uma criação, penso no prato, na foto, nos meus leitores, etc. e isso tem influenciado muito a minha criatividade. Estou cheia de projetos. Além disso, com o blog intensifiquei a minha relação com a cozinha, e isso acabou me levando a iniciar um processo de formação profissional na área, na escola <strong>Le Cordon Blue, em Londres, Inglaterra</strong>. E por fim, depois do blog mudei minha forma de pensar sobre comida, já que hoje, quando programo um post, penso em preparar algo prático, delicioso, de certa forma acessível, e preferencialmente saudável. Eu não avaliava nada disso antes</em>.”
+  “<em>Uau… mudou muita coisa! O primeiro post foi feito na brincadeira, despretensiosamente, e eu não sabia se continuaria. Mas o blog foi a primeira vez na vida que dediquei tempo para fazer algo quase artístico (risos), pois cada post pra mim é uma criação, penso no prato, na foto, nos meus leitores, etc. e isso tem influenciado muito a minha criatividade. Estou cheia de projetos. Além disso, com o blog intensifiquei a minha relação com a cozinha, e isso acabou me levando a iniciar um processo de formação profissional na área, na escola **Le Cordon Blue, em Londres, Inglaterra**. E por fim, depois do blog mudei minha forma de pensar sobre comida, já que hoje, quando programo um post, penso em preparar algo prático, delicioso, de certa forma acessível, e preferencialmente saudável. Eu não avaliava nada disso antes</em>.”
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="center">
-  A <strong>terceira gostosura da Tânia mais acessada no Trololó de Mulher</strong> é a <strong>sopa de lentilha</strong>, cuja receita é simples: aposte nisso! <a href="https://iwanttobeacook.wordpress.com/2017/01/13/lentil-soup/" target="_blank">Clique aqui, e lá no blog de Tânia</a>, você encontra mais imagens inspiradoras e a receita completa.
+  A **terceira gostosura da Tânia mais acessada no Trololó de Mulher** é a **sopa de lentilha**, cuja receita é simples: aposte nisso! <a href="https://iwanttobeacook.wordpress.com/2017/01/13/lentil-soup/" target="_blank">Clique aqui, e lá no blog de Tânia</a>, você encontra mais imagens inspiradoras e a receita completa.
 </p>
 
 <p align="justify">
-  <strong>Pra quem é, primordialmente, todo esse amor dedicado à comida?</strong>
+  **Pra quem é, primordialmente, todo esse amor dedicado à comida?**
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em><strong>Gosto de cozinhar para pessoas que não têm medo de experimentar um prato que nunca comeu. Daquelas pessoas que podem dizer: não sei se vou gostar, mas vou experimentar isso de paladar e mente aberta. Talvez eu goste de cozinhar para essas pessoas porque me identifico com elas. Lembro de uma vez que pedi língua de pato frita em um restaurante chinês, o garçom, que era chinês, ficou me olhando de olhos arregalados quando fiz o pedido, minutos depois voltou para confirmar se eu realmente queria aquele prato, eu respondi que sim. Quando comi a língua, não curti o sabor nem a textura, mas e daí?! Ao menos experimentei.  Para falar a verdade, mesmo não tendo gostado tenho a curiosidade de provar o mesmo prato outra vez, em outro restaurante, claro. Uma vez ouvi dizer que pra você ter certeza se gosta ou não de uma comida deveria prová-la, no mínimo por três vezes; então ainda me restam minimamente duas tentativas. Se você tiver coragem de provar, o que não significa necessariamente comer três vezes uma comida que não foi tão interessante na primeira vez, parabéns! Você faz parte do seleto grupo de pessoas que eu gostaria de cozinhar</strong></em>.” Tânia Telva – <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want To Be a Cook</a>
+>   “<em>**Gosto de cozinhar para pessoas que não têm medo de experimentar um prato que nunca comeu. Daquelas pessoas que podem dizer: não sei se vou gostar, mas vou experimentar isso de paladar e mente aberta. Talvez eu goste de cozinhar para essas pessoas porque me identifico com elas. Lembro de uma vez que pedi língua de pato frita em um restaurante chinês, o garçom, que era chinês, ficou me olhando de olhos arregalados quando fiz o pedido, minutos depois voltou para confirmar se eu realmente queria aquele prato, eu respondi que sim. Quando comi a língua, não curti o sabor nem a textura, mas e daí?! Ao menos experimentei.  Para falar a verdade, mesmo não tendo gostado tenho a curiosidade de provar o mesmo prato outra vez, em outro restaurante, claro. Uma vez ouvi dizer que pra você ter certeza se gosta ou não de uma comida deveria prová-la, no mínimo por três vezes; então ainda me restam minimamente duas tentativas. Se você tiver coragem de provar, o que não significa necessariamente comer três vezes uma comida que não foi tão interessante na primeira vez, parabéns! Você faz parte do seleto grupo de pessoas que eu gostaria de cozinhar**</em>.” Tânia Telva – <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want To Be a Cook</a>
 > </p>
 
 <p align="justify">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se joga nas redes! <strong>I Want to Be a Cook</strong> <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">no Facebook</a>, e <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram</a>. Delicie-se!
+  Se joga nas redes! **I Want to Be a Cook** <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">no Facebook</a>, e <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram</a>. Delicie-se!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3091
+
 title: 'Sorteio Bicha Fêmea &#038; La Pomme – Resultado II'
-date: 2011-12-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/08/sorteio-la-pomme-2/
@@ -34,7 +34,7 @@ E não é que a **Juliana Oliveira**, ganhadora dos presentes da **La Pomme**, d
 &nbsp;
 
 <p align="justify">
-  Quem vai receber o <strong>KIT COM UMA ECOBAG + UMA CADERNETA MINI, </strong>sendo tudo personalizado com uma das estampas do site nas cores de preferência da ganhadora + nome/frase que ela desejar ou com material enviado por ela é a<strong> Bárbara Szücs.</strong>
+  Quem vai receber o **KIT COM UMA ECOBAG + UMA CADERNETA MINI, **sendo tudo personalizado com uma das estampas do site nas cores de preferência da ganhadora + nome/frase que ela desejar ou com material enviado por ela é a** Bárbara Szücs.**
 </p>
 
 Hoje mesmo será enviado um e-mail para a bonita, que terá até o dia **12 de Dezembro** para responder. Caso eu não receba a resposta, farei novo sorteio entre as inscritas…
@@ -48,15 +48,15 @@ Hoje mesmo será enviado um e-mail para a bonita, que terá até o dia **12 de D
 </p>
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -82,5 +82,5 @@ Hoje mesmo será enviado um e-mail para a bonita, que terá até o dia **12 de D
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

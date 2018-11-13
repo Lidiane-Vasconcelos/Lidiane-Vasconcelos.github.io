@@ -1,7 +1,7 @@
 ---
-id: 3757
+
 title: 'Prateleira do Trololó de Mulher de Maio: dia das mães'
-date: 2017-05-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/03/trololo-de-mulher-12/
@@ -10,15 +10,15 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  … mas não serão apenas sugestões de presentes de dia das mães que você verá nesse post do <strong>Trololó de Mulher</strong>, focando o <strong>seu lado filha</strong>. Tem dicas de presentes para você mesma, lembrando o <strong>seu lado mulher</strong>. E como não é fácil resistir, trago para você alguns mimos para as crias, pra você curtir <strong>sua versão mãe</strong>. Se joga que esse mês tem muitas lindezas pra te mostrar, com links (também) para as redes sociais das <em>parcerias comerciais</em> do Trololó de Mulher: clique, curta, siga e acompanhe!
+  … mas não serão apenas sugestões de presentes de dia das mães que você verá nesse post do **Trololó de Mulher**, focando o **seu lado filha**. Tem dicas de presentes para você mesma, lembrando o **seu lado mulher**. E como não é fácil resistir, trago para você alguns mimos para as crias, pra você curtir **sua versão mãe**. Se joga que esse mês tem muitas lindezas pra te mostrar, com links (também) para as redes sociais das <em>parcerias comerciais</em> do Trololó de Mulher: clique, curta, siga e acompanhe!
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Qual sua melhor versão?</span></strong>
+  **<span style="font-size: x-large;">Qual sua melhor versão?</span>**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Um mimo seu pra você mesma…</span></strong>
+  **<span style="font-size: x-large;">Um mimo seu pra você mesma…</span>**
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Um mimo seu pra sua mãe</span></strong>
+  **<span style="font-size: x-large;">Um mimo seu pra sua mãe</span>**
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Um mimo seu para sua cria</span></strong>
+  **<span style="font-size: x-large;">Um mimo seu para sua cria</span>**
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Dica extra!!!</span></strong>
+  **<span style="font-size: x-large;">Dica extra!!!</span>**
 </p>
 
 <p align="center">
@@ -114,5 +114,5 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong> </strong>
+  ** **
 </p>

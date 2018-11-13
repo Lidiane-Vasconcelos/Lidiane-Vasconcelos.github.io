@@ -1,7 +1,7 @@
 ---
-id: 3330
+
 title: 'Dias frios, hidratantes e tudo mais: tudo a ver!'
-date: 2014-08-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/13/hidratantes-pele-inverno/
@@ -21,7 +21,7 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 <!--more-->
 
 <p align="justify">
-  <strong><span style="font-size: small;">Bicha Fêmea > Para a hidratação do corpo, o melhor é usar óleo ou creme?</span></strong>
+  **<span style="font-size: small;">Bicha Fêmea > Para a hidratação do corpo, o melhor é usar óleo ou creme?</span>**
 </p>
 
 &nbsp;
@@ -41,7 +41,7 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">Bicha Fêmea > Há algum problema em usar o óleo diariamente?</span></strong>
+  **<span style="font-size: small;">Bicha Fêmea > Há algum problema em usar o óleo diariamente?</span>**
 </p>
 
 &nbsp;
@@ -53,7 +53,7 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">Bicha Fêmea > O hidratante de banho é uma boa alternativa?</span></strong>
+  **<span style="font-size: small;">Bicha Fêmea > O hidratante de banho é uma boa alternativa?</span>**
 </p>
 
 &nbsp;
@@ -65,7 +65,7 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">Bicha Fêmea > Sobre o cuidado do rosto, mesmo quem tem pele oleosa, deve hidratá-la diariamente?</span></strong>
+  **<span style="font-size: small;">Bicha Fêmea > Sobre o cuidado do rosto, mesmo quem tem pele oleosa, deve hidratá-la diariamente?</span>**
 </p>
 
 &nbsp;
@@ -75,11 +75,11 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 > </p>
 
 <p align="justify">
-  <strong>A propósito, não deixe de ler:</strong>
+  **A propósito, não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/23/saude-beleza-pele-inverno/" target="_blank"><strong>A saúde da pele agradece o filtro solar, mesmo no inverno.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/23/saude-beleza-pele-inverno/" target="_blank">**A saúde da pele agradece o filtro solar, mesmo no inverno.**</a>
 </p>
 
 &nbsp;

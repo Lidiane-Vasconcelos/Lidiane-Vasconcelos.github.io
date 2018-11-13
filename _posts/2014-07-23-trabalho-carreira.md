@@ -1,7 +1,7 @@
 ---
-id: 3325
+
 title: “Amo tanto o meu trabalho!”… será mesmo amor?
-date: 2014-07-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/23/trabalho-carreira/
@@ -22,25 +22,25 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">Trololó de Mulher > Amar o trabalho, a ponto de sentir necessidade constante de estar mergulhada nele, é saudável?</span></strong>
+  **<span style="color: #c0504d;">Trololó de Mulher > Amar o trabalho, a ponto de sentir necessidade constante de estar mergulhada nele, é saudável?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>“Amar” está associado a sentir prazer no que faz. “Necessidade” está associada a sentir obrigação. Partindo deste princípio, quem sente necessidade de estar mergulhada no trabalho está mais para sentir obrigação de trabalhar do que amar o trabalho. Quem trabalha demais nem sempre gosta do que faz e a obrigação pressupõe a existência de um desgaste (físico/psicológico), portanto, não é saudável.”</strong>
+>   **“Amar” está associado a sentir prazer no que faz. “Necessidade” está associada a sentir obrigação. Partindo deste princípio, quem sente necessidade de estar mergulhada no trabalho está mais para sentir obrigação de trabalhar do que amar o trabalho. Quem trabalha demais nem sempre gosta do que faz e a obrigação pressupõe a existência de um desgaste (físico/psicológico), portanto, não é saudável.”**
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">TMulher > A pessoa que é viciada em trabalho, o popular workaholic, acaba sendo negligente com a vida pessoal. Nesse caso, a família é quem sofre as consequências?</span></strong>
+  **<span style="color: #c0504d;">TMulher > A pessoa que é viciada em trabalho, o popular workaholic, acaba sendo negligente com a vida pessoal. Nesse caso, a família é quem sofre as consequências?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>Workaholic é uma expressão americana que teve origem na palavra alcoholic (alcoólatra). Serve para designar uma pessoa viciada, não em álcool, mas em trabalho (work em inglês significa trabalho). Como todo viciado ele vive única e exclusivamente para satisfazer o seu vício, no caso, o trabalho, sendo, portanto, dependente do mesmo. O seu físico fica comprometido sendo acometido por várias doenças e a sua vida familiar fica relegada a segundo plano. Todos os membros da família sofrem as conseqüências porque são co-dependentes, e principalmente o próprio viciado que não percebe o que está acontecendo ao seu redor.”</strong>
+>   **Workaholic é uma expressão americana que teve origem na palavra alcoholic (alcoólatra). Serve para designar uma pessoa viciada, não em álcool, mas em trabalho (work em inglês significa trabalho). Como todo viciado ele vive única e exclusivamente para satisfazer o seu vício, no caso, o trabalho, sendo, portanto, dependente do mesmo. O seu físico fica comprometido sendo acometido por várias doenças e a sua vida familiar fica relegada a segundo plano. Todos os membros da família sofrem as conseqüências porque são co-dependentes, e principalmente o próprio viciado que não percebe o que está acontecendo ao seu redor.”**
 > </p>
 
 &nbsp;
@@ -56,49 +56,49 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">TM > Trabalhar em várias tarefas, assumir jornadas longas de trabalho, priorizar o trabalho em detrimento da vida pessoal, perfeccionismo, motivação exagerada: tudo isso pode caracterizar um workaholic?</span></strong>
+  **<span style="color: #c0504d;">TM > Trabalhar em várias tarefas, assumir jornadas longas de trabalho, priorizar o trabalho em detrimento da vida pessoal, perfeccionismo, motivação exagerada: tudo isso pode caracterizar um workaholic?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>Não necessariamente. Um workaholic não tem um perfil específico. O que eles têm em comum é a obsessão pelo trabalho. Cada caso precisa ser analisado separadamente porque o importante é descobrir o motivo que levou a pessoa a ter este vício.”</strong>
+>   **Não necessariamente. Um workaholic não tem um perfil específico. O que eles têm em comum é a obsessão pelo trabalho. Cada caso precisa ser analisado separadamente porque o importante é descobrir o motivo que levou a pessoa a ter este vício.”**
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">TM > Há quem trabalhe muito sem negligenciar a própria saúde ou a família, e faz porque ama sua atividade. Ou ainda, há quem precise muito aumentar a renda e, por isso, excedem um pouco mais. O que diferencia um viciado em trabalho de quem não é?</span></strong>
+  **<span style="color: #c0504d;">TM > Há quem trabalhe muito sem negligenciar a própria saúde ou a família, e faz porque ama sua atividade. Ou ainda, há quem precise muito aumentar a renda e, por isso, excedem um pouco mais. O que diferencia um viciado em trabalho de quem não é?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>É preciso salientar que tudo que é realizado em excesso é prejudicial, seja por qualquer motivo e é aí que está a diferença. O vício é uma válvula de escape da angústia. Na busca de um alívio, o workaholic compensa esta angústia “se jogando no trabalho”, portanto, a satisfação sentida não é exatamente pelo trabalho, mas porque alivia a angústia.  Ao invés de procurar resolver a causa que originou a dor, o indivíduo busca o vício para aliviar a tensão existente.”</strong>
+>   **É preciso salientar que tudo que é realizado em excesso é prejudicial, seja por qualquer motivo e é aí que está a diferença. O vício é uma válvula de escape da angústia. Na busca de um alívio, o workaholic compensa esta angústia “se jogando no trabalho”, portanto, a satisfação sentida não é exatamente pelo trabalho, mas porque alivia a angústia.  Ao invés de procurar resolver a causa que originou a dor, o indivíduo busca o vício para aliviar a tensão existente.”**
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">TM > Personalidade, genes, valores pessoais, educação voltada para competência e competição: o que determina que uma pessoa desenvolva esse problema?</span></strong>
+  **<span style="color: #c0504d;">TM > Personalidade, genes, valores pessoais, educação voltada para competência e competição: o que determina que uma pessoa desenvolva esse problema?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>Não existe um fator determinante que faça desencadear esse problema, podem ser todos estes que você citou, ou somente um deles. Uma pessoa pode ser ativa desde pequena desempenhando várias tarefas e não apresentar um quadro doentio. O que aponta para a existência de um problema é a obsessão caracterizada pelo exagero/excesso que causa distorções em outras áreas da vida.”</strong>
+>   **Não existe um fator determinante que faça desencadear esse problema, podem ser todos estes que você citou, ou somente um deles. Uma pessoa pode ser ativa desde pequena desempenhando várias tarefas e não apresentar um quadro doentio. O que aponta para a existência de um problema é a obsessão caracterizada pelo exagero/excesso que causa distorções em outras áreas da vida.”**
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">TM > Há como a pessoa sozinha perceber que ela se tornou viciada em trabalho? O que fazer?</span></strong>
+  **<span style="color: #c0504d;">TM > Há como a pessoa sozinha perceber que ela se tornou viciada em trabalho? O que fazer?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>Como todo viciado, a pessoa não percebe que está sendo afetada por uma doença. A necessidade de trabalhar responde a uma compulsão que se origina de fatores inconscientes e por isso não pode ser percebido pela pessoa conscientemente. O que acontece conscientemente é que a pessoa percebe isso como um amor ao trabalho. A indicação mais adequada para resolver o problema é a terapia para que seja tratada a dor primordial que levou ao vício e isso só com uma ajuda profissional.”</strong>
+>   **Como todo viciado, a pessoa não percebe que está sendo afetada por uma doença. A necessidade de trabalhar responde a uma compulsão que se origina de fatores inconscientes e por isso não pode ser percebido pela pessoa conscientemente. O que acontece conscientemente é que a pessoa percebe isso como um amor ao trabalho. A indicação mais adequada para resolver o problema é a terapia para que seja tratada a dor primordial que levou ao vício e isso só com uma ajuda profissional.”**
 > </p>
 
 &nbsp;

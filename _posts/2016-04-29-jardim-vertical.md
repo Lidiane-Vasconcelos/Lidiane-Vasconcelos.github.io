@@ -1,7 +1,7 @@
 ---
-id: 3599
+
 title: 2 imagens revelam ótimas ideias de jardim vertical.
-date: 2016-04-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/29/jardim-vertical/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.trololodemulher.com.br/2012/01/04/jardim-casa-margaret/" target="_blank"><strong>Tem jardim na casa da Margaret? Ô… se tem!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/01/04/jardim-casa-margaret/" target="_blank">**Tem jardim na casa da Margaret? Ô… se tem!**</a>
 </p>
 
 <p align="justify">

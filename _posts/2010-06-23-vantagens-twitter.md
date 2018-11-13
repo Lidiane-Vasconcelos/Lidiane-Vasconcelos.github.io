@@ -1,7 +1,7 @@
 ---
-id: 2835
+
 title: Você ainda não se rendeu ao Twitter?
-date: 2010-06-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/23/vantagens-twitter/

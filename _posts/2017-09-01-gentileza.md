@@ -1,7 +1,7 @@
 ---
-id: 3791
+
 title: Agir com gentileza muda no mínimo o seu mundo.
-date: 2017-09-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/01/gentileza/
@@ -10,7 +10,7 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  Uma conversa verdadeira ou uma atitude empática trazem a <strong>gentileza</strong> para o nosso dia a dia, e embora possa parecer que estamos fazendo bem apenas ao outro, na verdade a nossa vida é que ganha leveza, tranquilidade e paz. Assim, as marcas que deixamos por aí afora, se recheadas de afeto, fazem bem aos outros, mas mudam mesmo é o nosso mundo, seja ele no nosso entorno, seja no nosso interior.
+  Uma conversa verdadeira ou uma atitude empática trazem a **gentileza** para o nosso dia a dia, e embora possa parecer que estamos fazendo bem apenas ao outro, na verdade a nossa vida é que ganha leveza, tranquilidade e paz. Assim, as marcas que deixamos por aí afora, se recheadas de afeto, fazem bem aos outros, mas mudam mesmo é o nosso mundo, seja ele no nosso entorno, seja no nosso interior.
 </p>
 
 <p align="justify">

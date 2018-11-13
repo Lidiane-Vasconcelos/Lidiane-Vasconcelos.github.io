@@ -1,7 +1,7 @@
 ---
-id: 3354
+
 title: Fazer compras é simples, a menos que seja na Finlândia!
-date: 2014-10-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/10/compras-finlandia/
@@ -15,11 +15,11 @@ categories:
 </p>
 
 <p align="justify">
-  Você já se imaginou numa situação assim? Não?! Pois é… estou contigo! Eu até já vivi o dia a dia e rotina em outro país, mas foi nos EUA, bonita. E convenhamos, é bem mais fácil porque o jeito de viver dos americanos tem um pouco a ver com o nosso. Além do mais, inglês não é um bicho de sete cabeças quando você resolve aprendê-lo. Enfim… ir ao supermercado por lá foi bem tranquilio para mim… mas para a nossa <strong>Dri Minhoto</strong>, que está se aventurando por esse país frio de doer, com língua <em>beeem</em> difícil, não foi bem assim. Repara:
+  Você já se imaginou numa situação assim? Não?! Pois é… estou contigo! Eu até já vivi o dia a dia e rotina em outro país, mas foi nos EUA, bonita. E convenhamos, é bem mais fácil porque o jeito de viver dos americanos tem um pouco a ver com o nosso. Além do mais, inglês não é um bicho de sete cabeças quando você resolve aprendê-lo. Enfim… ir ao supermercado por lá foi bem tranquilio para mim… mas para a nossa **Dri Minhoto**, que está se aventurando por esse país frio de doer, com língua <em>beeem</em> difícil, não foi bem assim. Repara:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Minha primeira vez no mercado</span></strong>
+  **<span style="font-size: large;">Minha primeira vez no mercado</span>**
 </p>
 
 <p align="justify">
@@ -67,11 +67,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Entenda o início de tudo:</strong>
+  **Entenda o início de tudo:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank"><strong>As voltas que a vida dá nos leva a lugares inimagináveis!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">**As voltas que a vida dá nos leva a lugares inimagináveis!**</a>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
 </p>
 
 <p align="center">

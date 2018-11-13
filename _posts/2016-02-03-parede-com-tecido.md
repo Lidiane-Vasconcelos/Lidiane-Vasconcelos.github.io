@@ -1,7 +1,7 @@
 ---
-id: 3537
+
 title: Decore, você mesma, sua parede com tecido.
-date: 2016-02-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/03/parede-com-tecido/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Decorar a <strong>parede com tecido</strong> pode ser uma estratégia das mais acertadas, sobretudo se você imaginar a variedade de estampas que há no mercado. O custo será baixo, acredite. Se você tem disposição para investir nesse projeto, o resultado pode ser surpreendente! Quero te inspirar e mostrar algumas paredes por aí afora que ficaram uma <em>lindeza</em>. Olha só quem aderiu a ideia:
+  Decorar a **parede com tecido** pode ser uma estratégia das mais acertadas, sobretudo se você imaginar a variedade de estampas que há no mercado. O custo será baixo, acredite. Se você tem disposição para investir nesse projeto, o resultado pode ser surpreendente! Quero te inspirar e mostrar algumas paredes por aí afora que ficaram uma <em>lindeza</em>. Olha só quem aderiu a ideia:
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E sabe quem mostra tudo em vídeo, de um jeito simples?</strong>
+  **E sabe quem mostra tudo em vídeo, de um jeito simples?**
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  Essa é a <strong>Margaret</strong>, <em>superultramega</em> conhecida na blogosfera, sobretudo pelos amantes do “faça você mesma”. Margaret faz da sua casa um verdadeiro laboratório de decoração, experimentando de tudo e, o melhor, mostra como fazer. Aplicar tecido em parede, claro, foi mais uma das experiências pelas quais ela passou. A boa notícia é que ela esclareceu as dúvidas mais frequentes sobre o assunto, com a autoridade de quem colocou a mão na massa, e ainda registrou um vídeo mostrando a aplicação. Se você se animou para colocar tecido na sua parede também, não faça sem antes conferir tudo o que a Margaret tem pra te contar em seu blog, o <a href="http://www.margaretss.com.br/colando-tecido-na-parede/" target="_blank">Margaretss</a>.
+  Essa é a **Margaret**, <em>superultramega</em> conhecida na blogosfera, sobretudo pelos amantes do “faça você mesma”. Margaret faz da sua casa um verdadeiro laboratório de decoração, experimentando de tudo e, o melhor, mostra como fazer. Aplicar tecido em parede, claro, foi mais uma das experiências pelas quais ela passou. A boa notícia é que ela esclareceu as dúvidas mais frequentes sobre o assunto, com a autoridade de quem colocou a mão na massa, e ainda registrou um vídeo mostrando a aplicação. Se você se animou para colocar tecido na sua parede também, não faça sem antes conferir tudo o que a Margaret tem pra te contar em seu blog, o <a href="http://www.margaretss.com.br/colando-tecido-na-parede/" target="_blank">Margaretss</a>.
 </p>
 
 <p align="center">

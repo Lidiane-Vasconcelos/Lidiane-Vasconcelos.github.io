@@ -1,7 +1,7 @@
 ---
-id: 2963
+
 title: Registre e Emagreça
-date: 2011-03-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/11/registre-e-emagreca/
@@ -56,7 +56,7 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
     </td>
     
     <td valign="top" width="300">
-      <em> </em><em>Psicóloga e especialista em Transtornos Alimentares, <strong>Luciana Kotaka</strong> desenvolve seus trabalhos há mais de 14 anos, sendo referência nesta área por realizar atividades focadas em tratamentos que envolvam a relação direta entre o distúrbio do peso e a psicologia. Luciana Kotaka edita o site <a href="http://lucianakotaka.com.br/"><em>Comportamento Magro</em></a><em>.</em></em>
+      <em> </em><em>Psicóloga e especialista em Transtornos Alimentares, **Luciana Kotaka** desenvolve seus trabalhos há mais de 14 anos, sendo referência nesta área por realizar atividades focadas em tratamentos que envolvam a relação direta entre o distúrbio do peso e a psicologia. Luciana Kotaka edita o site <a href="http://lucianakotaka.com.br/"><em>Comportamento Magro</em></a><em>.</em></em>
     </td>
   </tr>
 </table>

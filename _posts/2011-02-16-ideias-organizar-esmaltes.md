@@ -1,7 +1,7 @@
 ---
-id: 2949
+
 title: 5 ideias para organizar esmaltes. Você já imaginou algo assim?
-date: 2011-02-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/16/ideias-organizar-esmaltes/
@@ -19,11 +19,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 <!--more-->
 
 <p style="text-align: justify;">
-  Antes de mais nada, é preciso que se diga que esse post surgiu das necessidades pessoais da <strong>Myriam Cedro</strong>, uma das editoras do blog <a href="http://www.coisasdemenininha.com.br/" target="_blank">Coisas de Menininha</a>, e da <strong>Raquel</strong>, ambas leitoras do Bicha Fêmea, e amantes dos vidrinhos cheios de cor. Elas deixaram suas sugestões para que esse tema, <strong>organização de esmaltes</strong>, fosse abordado por aqui. Depois de sair em busca de ideias, aqui estão todas as que foram reunidas para você se inspirar. Aproveite!
+  Antes de mais nada, é preciso que se diga que esse post surgiu das necessidades pessoais da **Myriam Cedro**, uma das editoras do blog <a href="http://www.coisasdemenininha.com.br/" target="_blank">Coisas de Menininha</a>, e da **Raquel**, ambas leitoras do Bicha Fêmea, e amantes dos vidrinhos cheios de cor. Elas deixaram suas sugestões para que esse tema, **organização de esmaltes**, fosse abordado por aqui. Depois de sair em busca de ideias, aqui estão todas as que foram reunidas para você se inspirar. Aproveite!
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">O básico sempre funciona!</span></em></strong>
+  **<em><span style="font-size: medium;">O básico sempre funciona!</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -39,7 +39,7 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Reaproveitando as latas…</span></em></strong>
+  **<em><span style="font-size: medium;">Reaproveitando as latas…</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -51,11 +51,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: justify;">
-  As utilidades após o reaproveitamento de latas são as mais diversas possíveis. Não duvide! No <strong>Bicha Fêmea</strong> elas já foram mostradas, por exemplo, no uso como cachepôs. Isso mesmo, a ideia de utilização dessas belezinhas, devidamente cobertas com tecido e como suporte de plantas, foi uma inspiração da <strong>Fernanda Reali</strong> mostrada num outro post sobre <strong><em><a href="http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/">reutilização de materiais na decoração</a></em></strong>, com várias outras ideias.
+  As utilidades após o reaproveitamento de latas são as mais diversas possíveis. Não duvide! No **Bicha Fêmea** elas já foram mostradas, por exemplo, no uso como cachepôs. Isso mesmo, a ideia de utilização dessas belezinhas, devidamente cobertas com tecido e como suporte de plantas, foi uma inspiração da **Fernanda Reali** mostrada num outro post sobre **<em><a href="http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/">reutilização de materiais na decoração</a></em>**, com várias outras ideias.
 </p>
 
 <p style="text-align: justify;">
-  Em outra situação, elas apareceram como alternativas para serem revestidas com papel decorado, além de outras <strong><em><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/">ideias para uso das sobras de papel de parede</a></em></strong>. Na ocasião, a sugestão era para que você usasse as latas como depósitos de trecos no seu escritório, no quarto das crianças ou onde mais sua imaginação permitisse.
+  Em outra situação, elas apareceram como alternativas para serem revestidas com papel decorado, além de outras **<em><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/">ideias para uso das sobras de papel de parede</a></em>**. Na ocasião, a sugestão era para que você usasse as latas como depósitos de trecos no seu escritório, no quarto das crianças ou onde mais sua imaginação permitisse.
 </p>
 
 <p style="text-align: justify;">
@@ -63,7 +63,7 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Velhos conhecidos, novos usos!</span></em></strong>
+  **<em><span style="font-size: medium;">Velhos conhecidos, novos usos!</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -79,7 +79,7 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Da central de abastecimento para sua casa…</span></em></strong>
+  **<em><span style="font-size: medium;">Da central de abastecimento para sua casa…</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -99,11 +99,11 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Veronica Kraemer</strong>, que é artesã e está a frente do blog <a href="http://www.alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>,  já pensou nisso por você, e mais: ela ensinou como reciclou este caixote de madeiras com o objetivo de organizar os esmaltes. Quer aprender como faz? Corre <a href="http://alemdaruaatelier.blogspot.com/2011/01/vamos-reciclar-patina-em-caixote-de.html" target="_blank">aqui</a> e confere!
+  A **Veronica Kraemer**, que é artesã e está a frente do blog <a href="http://www.alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>,  já pensou nisso por você, e mais: ela ensinou como reciclou este caixote de madeiras com o objetivo de organizar os esmaltes. Quer aprender como faz? Corre <a href="http://alemdaruaatelier.blogspot.com/2011/01/vamos-reciclar-patina-em-caixote-de.html" target="_blank">aqui</a> e confere!
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Organize e decore!</span></em></strong>
+  **<em><span style="font-size: medium;">Organize e decore!</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -119,7 +119,7 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 </p>
 
 <p style="text-align: justify;">
-  Quer ver mais ideias ainda? A <strong>Leticia Lodi</strong>, ou <strong>Lelê</strong> para quem conhece a moça mais de perto (como a bicha fêmea que vos escreve… <em>cof cof cof</em>…), e que comanda a <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, reuniu mais algumas ideias de outras blogueiras sobre como organizar esmaltes. Confere <a href="http://blog.casadecatarina.com.br/eu-voc-ns-decoramos-organizao-de-esmaltes/" target="_blank">aqui</a>!
+  Quer ver mais ideias ainda? A **Leticia Lodi**, ou **Lelê** para quem conhece a moça mais de perto (como a bicha fêmea que vos escreve… <em>cof cof cof</em>…), e que comanda a <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, reuniu mais algumas ideias de outras blogueiras sobre como organizar esmaltes. Confere <a href="http://blog.casadecatarina.com.br/eu-voc-ns-decoramos-organizao-de-esmaltes/" target="_blank">aqui</a>!
 </p>
 
 <p style="text-align: justify;">
@@ -143,21 +143,21 @@ Você já viu quantos posts blogosfera afora abordam a mais nova mania entre as 
 **_[Organizando a bagunça em casa: dicas, truques e objetos úteis.](http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>>5 ideias para organizar esmaltes. Você já imaginou algo assim?
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**>5 ideias para organizar esmaltes. Você já imaginou algo assim?
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>

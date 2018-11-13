@@ -1,7 +1,7 @@
 ---
-id: 2732
+
 title: Mimos de férias no quarto, sala, cozinha e escritório.
-date: 2009-11-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/12/mimos-de-frias-no-quarto-sala-cozinha-e-escritrio/

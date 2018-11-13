@@ -1,7 +1,7 @@
 ---
-id: 3601
+
 title: O que tem na Prateleira do Trololó de Mulher de Maio?
-date: 2016-05-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/02/trololo-de-mulher-3/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Tem coisas lindas de viver para deixar a casa funcional, mas também muito bonita. Tem itens indispensáveis para o aconchego no seu quarto, e no cantinho do bebê também. Tem detalhes no capricho para a cria e para a mamãe. Você já sabe: no <strong>Trololó de Mulher</strong> tem uma seleção eleita com carinho que eu trago com produtos de cada um dos meus parceiros comerciais, para te mostrar e inspirar. Confira!
+  Tem coisas lindas de viver para deixar a casa funcional, mas também muito bonita. Tem itens indispensáveis para o aconchego no seu quarto, e no cantinho do bebê também. Tem detalhes no capricho para a cria e para a mamãe. Você já sabe: no **Trololó de Mulher** tem uma seleção eleita com carinho que eu trago com produtos de cada um dos meus parceiros comerciais, para te mostrar e inspirar. Confira!
 </p>
 
 <p align="center">

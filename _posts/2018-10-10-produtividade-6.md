@@ -1,7 +1,7 @@
 ---
-id: 3881
+
 title: Quer ter mais produtividade? Alimente-se melhor!
-date: 2018-10-10T00:00:00+00:00
+
 author: Lidiane
 excerpt: Como mãe, precisei focar na minha produtividade para fazer mais em menos tempo, e me alimentar melhor foi fundamental nesse processo. Veja como fiz isso!
 layout: post
@@ -15,7 +15,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Quando me tornei mãe, precisei focar na minha <strong>produtividade</strong> para fazer mais em menos tempo, e me alimentar melhor foi fundamental nesse processo. Eu queria oferecer o melhor de mim para Artur, e inclusive ensiná-lo sobre como comer direito e, claro, não há nada melhor que dar o exemplo. Para não recorrer a uma alimentação preparada de qualquer jeito, passei a pensar no planejamento do que servir à minha família. Isso seria fundamental para que eu tivesse uma ideia geral do que estávamos comendo, assim evitaria excesso ou falta de determinado tipo de alimento, e não me tornaria repetitiva.
+  Quando me tornei mãe, precisei focar na minha **produtividade** para fazer mais em menos tempo, e me alimentar melhor foi fundamental nesse processo. Eu queria oferecer o melhor de mim para Artur, e inclusive ensiná-lo sobre como comer direito e, claro, não há nada melhor que dar o exemplo. Para não recorrer a uma alimentação preparada de qualquer jeito, passei a pensar no planejamento do que servir à minha família. Isso seria fundamental para que eu tivesse uma ideia geral do que estávamos comendo, assim evitaria excesso ou falta de determinado tipo de alimento, e não me tornaria repetitiva.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Algumas lições que aprendi durante esse processo:</strong>
+  **Algumas lições que aprendi durante esse processo:**
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>[A PROPÓSITO]</strong> Aprender a fazer um planejamento de cardápio de maneira simples é um dos passos do Projeto Lar Bonito Lar, que continua com inscrições abertas para a turma de Outubro, última de 2018. Quer ter uma rotina de demandas da casa mais leve?
+  **[A PROPÓSITO]** Aprender a fazer um planejamento de cardápio de maneira simples é um dos passos do Projeto Lar Bonito Lar, que continua com inscrições abertas para a turma de Outubro, última de 2018. Quer ter uma rotina de demandas da casa mais leve?
 </p>
 
 <a href="https://bit.ly/2Ldn0bt" target="_blank" rel="noopener">Clique aqui e fale comigo no whatsApp</a>, e diga QUERO. Ou mande mensagem para mim no whats 81 . 9 . 9530-7307 – Ou ainda, diga QUERO nos comentários.
@@ -65,7 +65,7 @@ Beijos!<img src="https://static.xx.fbcdn.net/images/emoji.php/v9/fce/1.5/16/1f61
 Lidiane {Lidi}
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Lidiane {Lidi}
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ Lidiane {Lidi}
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

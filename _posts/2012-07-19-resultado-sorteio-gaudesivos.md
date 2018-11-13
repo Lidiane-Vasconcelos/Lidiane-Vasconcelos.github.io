@@ -1,7 +1,7 @@
 ---
-id: 3157
+
 title: Sabe quem vai ter a Gaudesivos inteirinha para escolher um presente?
-date: 2012-07-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/19/resultado-sorteio-gaudesivos/
@@ -14,7 +14,7 @@ Saiu o resultado do **[sorteio Gaudesivos](http://www.trololodemulher.com.br/201
 &nbsp;
 
 <p align="justify">
-  Quem fizesse isso teria a loja virtual da <strong>Gaudesivos</strong> <em>IN-TEI-RA</em> para escolher um presente e recebê-lo em casa… e sabe quem ganhou? Se você também participou da brincadeira, corre para conferir, oh:
+  Quem fizesse isso teria a loja virtual da **Gaudesivos** <em>IN-TEI-RA</em> para escolher um presente e recebê-lo em casa… e sabe quem ganhou? Se você também participou da brincadeira, corre para conferir, oh:
 </p>
 
 <!--more-->
@@ -46,7 +46,7 @@ Hoje mesmo foi enviado o e-mail para ela, onde eu peço os dados de entrega. Se 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -70,9 +70,9 @@ Hoje mesmo foi enviado o e-mail para ela, onde eu peço os dados de entrega. Se 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

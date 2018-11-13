@@ -1,7 +1,7 @@
 ---
-id: 3469
+
 title: 'Agenda Recife com crianças: 22 e 23 de Agosto'
-date: 2015-08-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/21/recife-com-criancas/
@@ -10,7 +10,7 @@ categories:
   - Sem categoria
 ---
 <p align="justify">
-  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda <strong>Recife com crianças</strong>, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e <a href="http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/" target="_blank">clique aqui</a>. Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. <em>Bora</em>?!
+  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda **Recife com crianças**, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e <a href="http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/" target="_blank">clique aqui</a>. Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. <em>Bora</em>?!
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Sábado}</strong>
+  **{Sábado}**
 </p>
 
 <p align="justify">
-  <strong>Manhãs Analógicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank"><strong>Zepelim</strong></a><strong> {Rua da Hora} e Manhãs Lúdicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank"><strong>Zepelim Brinquedos Educativos</strong></a><strong> e </strong><a href="https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline" target="_blank"><strong>Reinoceronte</strong></a>
+  **Manhãs Analógicas – **<a href="http://zepelimbrinquedos.com.br/" target="_blank">**Zepelim**</a>** {Rua da Hora} e Manhãs Lúdicas – **<a href="http://zepelimbrinquedos.com.br/" target="_blank">**Zepelim Brinquedos Educativos**</a>** e **<a href="https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline" target="_blank">**Reinoceronte**</a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>#PartiuVacina – Campanha Nacional Contra Poliomielite – <a href="http://www2.recife.pe.gov.br/" target="_blank">Prefeitura do Recife</a></strong>
+  **#PartiuVacina – Campanha Nacional Contra Poliomielite – <a href="http://www2.recife.pe.gov.br/" target="_blank">Prefeitura do Recife</a>**
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Domingo}</strong>
+  **{Domingo}**
 </p>
 
 <p align="justify">
-  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank"><strong>Olha Recife</strong></a><strong> – Passeio Pedalando</strong>
+  **OLHA! RECIFE – **<a href="http://www.olharecife.com.br/" target="_blank">**Olha Recife**</a>** – Passeio Pedalando**
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank"><strong>Olha Recife</strong></a><strong> – Passeio à Pé</strong>
+  **OLHA! RECIFE – **<a href="http://www.olharecife.com.br/" target="_blank">**Olha Recife**</a>** – Passeio à Pé**
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Sábado & Domingo}</strong>
+  **{Sábado & Domingo}**
 </p>
 
 <p align="justify">
-  <strong>Sonoros Ofícios – Cantos de Trabalho – </strong><a href="http://www.caisdosertao.com.br/" target="_blank"><strong>Museu Cais do Sertão</strong></a>
+  **Sonoros Ofícios – Cantos de Trabalho – **<a href="http://www.caisdosertao.com.br/" target="_blank">**Museu Cais do Sertão**</a>
 </p>
 
 <p align="center">

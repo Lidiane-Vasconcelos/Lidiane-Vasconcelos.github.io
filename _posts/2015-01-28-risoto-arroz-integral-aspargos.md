@@ -1,7 +1,7 @@
 ---
-id: 3384
+
 title: Risoto com arroz comum, mas integral, com aspargos.
-date: 2015-01-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/28/risoto-arroz-integral-aspargos/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Primeiro eu aqueci uma panela com água e quando começou a ferver coloquei os aspargos e deixei por 2 minutos. Depois dei um banho de água fria para parar o cozimento. Reserve. Em uma panela coloque azeite e a cebola. Deixa dar fritadinha, depois acrescente o arroz e deixa pegar o sabor da cebola.Acrescente o vinho e mexa até que seque e depois vai regando com o caldo. Você coloca um pouco do caldo, vai mexendo até secar e depois coloque mais caldo e assim por diante&#8230; Quando estiver mais cremoso, coloque a cenoura e tomate, acrescente mais o caldo e vai mexendo aos poucos. Acrescente os aspargos, tomilho, mostarda, sal e pimenta. Por último o creme de ricota light.”</strong>
+>   **Primeiro eu aqueci uma panela com água e quando começou a ferver coloquei os aspargos e deixei por 2 minutos. Depois dei um banho de água fria para parar o cozimento. Reserve. Em uma panela coloque azeite e a cebola. Deixa dar fritadinha, depois acrescente o arroz e deixa pegar o sabor da cebola.Acrescente o vinho e mexa até que seque e depois vai regando com o caldo. Você coloca um pouco do caldo, vai mexendo até secar e depois coloque mais caldo e assim por diante&#8230; Quando estiver mais cremoso, coloque a cenoura e tomate, acrescente mais o caldo e vai mexendo aos poucos. Acrescente os aspargos, tomilho, mostarda, sal e pimenta. Por último o creme de ricota light.”**
 > </p>
 
 <p align="center">
@@ -86,23 +86,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau… hummm…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho de inhame assado com bacalhau… hummm…**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank">**Receita molezinha e gostosa: torta de abóbora + frango**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

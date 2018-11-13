@@ -1,7 +1,7 @@
 ---
-id: 3076
+
 title: 'Sorteio Bicha Fêmea &#038; La Pomme entre amigas!'
-date: 2011-11-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/09/sorteio-la-pomme/
@@ -14,7 +14,7 @@ E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea*
 &nbsp;
 
 <p align="justify">
-  Se você ainda não conhece essa <em>belezura</em> de loja e prestação de serviço da <strong>La Pomme</strong>, perdeu a oportunidade de apreciar ideias incríveis de personalização de objetos e presentes, daqueles de viver de amores. Mas, oh: vamos remediar isso? <em>Espia</em> só:
+  Se você ainda não conhece essa <em>belezura</em> de loja e prestação de serviço da **La Pomme**, perdeu a oportunidade de apreciar ideias incríveis de personalização de objetos e presentes, daqueles de viver de amores. Mas, oh: vamos remediar isso? <em>Espia</em> só:
 </p>
 
 <!--more-->
@@ -26,11 +26,11 @@ E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea*
 &nbsp;
 
 <p align="justify">
-  A <strong>Eva Caroline</strong> é a moça bonita que está a frente da <strong>La Pomme</strong>. Ela é uma fotógrafa inquieta que decidiu unir sua paixão por imagens, cores e manualidades a serviço da criação e produção de objetos personalizados.
+  A **Eva Caroline** é a moça bonita que está a frente da **La Pomme**. Ela é uma fotógrafa inquieta que decidiu unir sua paixão por imagens, cores e manualidades a serviço da criação e produção de objetos personalizados.
 </p>
 
 <p align="justify">
-  O resultado disso tudo é uma variedade <strong>enorme de objetos de papelaria, infantis, para casa, escritório e para presentear que podem ser personalizados. São agendas, canecas, almofadas, marcadores de páginas e muito mais </strong>que, acredite, podem ganhar uma carinha única. Quer um exemplo? Olha só:
+  O resultado disso tudo é uma variedade **enorme de objetos de papelaria, infantis, para casa, escritório e para presentear que podem ser personalizados. São agendas, canecas, almofadas, marcadores de páginas e muito mais **que, acredite, podem ganhar uma carinha única. Quer um exemplo? Olha só:
 </p>
 
 &nbsp;
@@ -58,29 +58,29 @@ E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea*
 </p>
 
 <p align="justify">
-  Há como a gente não viver de amores por coisinhas assim e já ficar imaginando qual carinha cada um desses objetos teria? Então…Quer ganhar um <strong>KIT COM UMA ECOBAG + UMA CADERNETA MINI, sendo tudo personalizado com uma das estampas do site nas cores de sua preferência + nome/frase que você desejar ou com material enviado por você </strong>? <strong>Se você for sorteada, ganha você e sua melhor amiga, cada uma um kit!</strong>
+  Há como a gente não viver de amores por coisinhas assim e já ficar imaginando qual carinha cada um desses objetos teria? Então…Quer ganhar um **KIT COM UMA ECOBAG + UMA CADERNETA MINI, sendo tudo personalizado com uma das estampas do site nas cores de sua preferência + nome/frase que você desejar ou com material enviado por você **? **Se você for sorteada, ganha você e sua melhor amiga, cada uma um kit!**
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o <strong><a href="https://www.lojalapomme.com.br/" target="_blank">site da La Pomme</a></strong>, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o **<a href="https://www.lojalapomme.com.br/" target="_blank">site da La Pomme</a>**, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p align="justify">
-  <strong>“Qual produto você daria de presente para uma pessoa querida neste Natal… para quem seria, e por quê?”</strong>
+  **“Qual produto você daria de presente para uma pessoa querida neste Natal… para quem seria, e por quê?”**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Feito isso, você já estará concorrendo! As <strong>inscrições começam agora e vão até o dia 16 de Novembro. </strong>O sorteio será via random.org, com <strong>divulgação do nome da ganhadora dia 02 de Dezembro.</strong> Se você for sorteada, receberá meu <strong>e-mail pedindo seus dados de entrega e, neste momento, você vai informar o nome, e-mail e dados de entrega da sua amiga. Você terá até o dia 06 de Dezembro para responder o meu e-mail</strong>, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. <strong>Vocês duas receberão seus presentes em endereço de entrega no território brasileiro</strong>, desde que seja uma área atendida pelos Correios, certo?
+  Feito isso, você já estará concorrendo! As **inscrições começam agora e vão até o dia 16 de Novembro. **O sorteio será via random.org, com **divulgação do nome da ganhadora dia 02 de Dezembro.** Se você for sorteada, receberá meu **e-mail pedindo seus dados de entrega e, neste momento, você vai informar o nome, e-mail e dados de entrega da sua amiga. Você terá até o dia 06 de Dezembro para responder o meu e-mail**, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. **Vocês duas receberão seus presentes em endereço de entrega no território brasileiro**, desde que seja uma área atendida pelos Correios, certo?
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Quer chance dupla de ganhar o presente?</span></strong>
+  **<span style="font-size: large;">Quer chance dupla de ganhar o presente?</span>**
 </p>
 
 <p align="justify">
-  É fácil! Fala para sua amiga se inscrever aqui também, bonita! <strong>Se você ganhar, ela ganha. Se ela ganhar, você ganha também!</strong> Na verdade, vocês duas passam a ter chance dupla. Está esperando o quê, <em>hein?</em> Corre!
+  É fácil! Fala para sua amiga se inscrever aqui também, bonita! **Se você ganhar, ela ganha. Se ela ganhar, você ganha também!** Na verdade, vocês duas passam a ter chance dupla. Está esperando o quê, <em>hein?</em> Corre!
 </p>
 
 <p align="justify">

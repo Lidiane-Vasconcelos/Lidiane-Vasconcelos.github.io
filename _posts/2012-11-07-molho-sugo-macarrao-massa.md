@@ -1,7 +1,7 @@
 ---
-id: 3206
+
 title: O Molho ao Sugo da Cláudia Ramalho eu já fiz…e ficou, oh…
-date: 2012-11-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/07/molho-sugo-macarrao-massa/
@@ -20,13 +20,13 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 <!--more-->
 
 <p align="justify">
-  Com a palavra, a bonita, inteligente, prendada e talentosa <strong>Cláudia Ramalho</strong>:
+  Com a palavra, a bonita, inteligente, prendada e talentosa **Cláudia Ramalho**:
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Molho ao Sugo</span></strong>
+  **<span style="font-size: large;">Molho ao Sugo</span>**
 </p>
 
 &nbsp;
@@ -66,24 +66,24 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 </p>
 
 <p align="justify">
-  Acompanho o blog da <strong>Cláudia Ramalho</strong> – <strong><a href="http://www.blogfeitoamao.com/" target="_blank">Feito a Mão</a></strong> – há um bom tempo, <em>viu</em>? Seu blog tem alma feminina, cheio de assuntos bem diversificados, do jeito que todas nós somos: meio caleidoscópicas. É lá que me inspiro sobre a vida, vejo coisas bonitas em artesanato e festas infantis, aprendo receitas novas (diferentes e práticas!) e ainda me inspiro para o mundo da maternidade que se abre a minha frente. Penso cá com meus botões que você vai curtir (demais) acompanhar essa bonitona daqui <em>pra </em>frente, hein? Quer ver só? <strong><a href="http://www.blogfeitoamao.com/" target="_blank">Se joga</a></strong>!
+  Acompanho o blog da **Cláudia Ramalho** – **<a href="http://www.blogfeitoamao.com/" target="_blank">Feito a Mão</a>** – há um bom tempo, <em>viu</em>? Seu blog tem alma feminina, cheio de assuntos bem diversificados, do jeito que todas nós somos: meio caleidoscópicas. É lá que me inspiro sobre a vida, vejo coisas bonitas em artesanato e festas infantis, aprendo receitas novas (diferentes e práticas!) e ainda me inspiro para o mundo da maternidade que se abre a minha frente. Penso cá com meus botões que você vai curtir (demais) acompanhar essa bonitona daqui <em>pra </em>frente, hein? Quer ver só? **<a href="http://www.blogfeitoamao.com/" target="_blank">Se joga</a>**!
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/receita-molho-tomate2200/" rel="attachment wp-att-9249"><img class="alignnone size-full wp-image-9249" title="RECEITA-MOLHO-TOMATE[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/RECEITA-MOLHO-TOMATE2200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/"><strong><span style="font-size: medium;"><br /> Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/receita-molho-tomate2200/" rel="attachment wp-att-9249"><img class="alignnone size-full wp-image-9249" title="RECEITA-MOLHO-TOMATE[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/RECEITA-MOLHO-TOMATE2200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/">**<span style="font-size: medium;"><br /> Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/receita-frango200/" rel="attachment wp-att-9196"><img class="alignnone size-full wp-image-9196" title="RECEITA-FRANGO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/RECEITA-FRANGO200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/"><strong><span style="font-size: medium;"><br /> Espetinho de frango saudável e saboroso… quer ver como faz?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/receita-frango200/" rel="attachment wp-att-9196"><img class="alignnone size-full wp-image-9196" title="RECEITA-FRANGO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/RECEITA-FRANGO200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/">**<span style="font-size: medium;"><br /> Espetinho de frango saudável e saboroso… quer ver como faz?</span>**</a>
       </p>
     </td>
   </tr>
@@ -91,13 +91,13 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/samsung-4/" rel="attachment wp-att-9142"><img class="alignnone size-full wp-image-9142" title="RECEITA-FRANGO[4]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RECEITA-FRANGO4200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/19/receita-frango/"><strong><span style="font-size: medium;"><br /> Como você saboreia o franguinho do dia a dia?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/samsung-4/" rel="attachment wp-att-9142"><img class="alignnone size-full wp-image-9142" title="RECEITA-FRANGO[4]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RECEITA-FRANGO4200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/19/receita-frango/">**<span style="font-size: medium;"><br /> Como você saboreia o franguinho do dia a dia?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/09/19/receita-frango/buffalo-wings-com-chipotle-receita-frango200/" rel="attachment wp-att-9097"><img class="alignnone size-full wp-image-9097" title="BUFFALO WINGS COM CHIPOTLE-RECEITA-FRANGO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/BUFFALO-WINGS-COM-CHIPOTLE-RECEITA-FRANGO200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/05/frango-receita/"><strong><span style="font-size: medium;"><br /> Frango crocante e sequinho? Oh, meus sais! Aqui tem!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/09/19/receita-frango/buffalo-wings-com-chipotle-receita-frango200/" rel="attachment wp-att-9097"><img class="alignnone size-full wp-image-9097" title="BUFFALO WINGS COM CHIPOTLE-RECEITA-FRANGO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/BUFFALO-WINGS-COM-CHIPOTLE-RECEITA-FRANGO200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/05/frango-receita/">**<span style="font-size: medium;"><br /> Frango crocante e sequinho? Oh, meus sais! Aqui tem!</span>**</a>
       </p>
     </td>
   </tr>
@@ -105,13 +105,13 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/creme-de-milho-com-queijo200/" rel="attachment wp-att-9047"><img class="alignnone size-full wp-image-9047" title="CREME DE MILHO COM QUEIJO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/CREME-DE-MILHO-COM-QUEIJO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/"><strong><span style="font-size: medium;"><br /> Quer um creme de milho com queijo digno do seu caderno de receitas?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/creme-de-milho-com-queijo200/" rel="attachment wp-att-9047"><img class="alignnone size-full wp-image-9047" title="CREME DE MILHO COM QUEIJO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/CREME-DE-MILHO-COM-QUEIJO200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/">**<span style="font-size: medium;"><br /> Quer um creme de milho com queijo digno do seu caderno de receitas?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/vinagre-branco-balsamico-maca200/" rel="attachment wp-att-8987"><img class="alignnone size-full wp-image-8987" title="VINAGRE-BRANCO-BALSAMICO-MACA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/"><strong><span style="font-size: medium;"><br /> Temperinho bom na salada? Coloca vinagre aí, bonita!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/08/22/creme-de-milho-com-queijo/vinagre-branco-balsamico-maca200/" rel="attachment wp-att-8987"><img class="alignnone size-full wp-image-8987" title="VINAGRE-BRANCO-BALSAMICO-MACA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/">**<span style="font-size: medium;"><br /> Temperinho bom na salada? Coloca vinagre aí, bonita!</span>**</a>
       </p>
     </td>
   </tr>
@@ -124,7 +124,7 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -148,9 +148,9 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

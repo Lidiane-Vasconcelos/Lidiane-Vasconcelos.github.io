@@ -1,7 +1,7 @@
 ---
-id: 3733
+
 title: Dicas pra não errar quando for pintar o cabelo.
-date: 2017-03-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/06/pintar-o-cabelo/
@@ -10,15 +10,15 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  <strong>Pintar o cabelo</strong> pode significar muito mais que deixar as madeixas bonitas e diferentes. A verdade é que para muitas de nós, variar na aparência pode impactar diretamente a <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">autoestima</a>, e de forma bastante positiva. Quem nunca correu até um salão para promover alguma mudança quando se viu em um momento divisor de águas na vida? Pra te ajudar a fazer boas escolhas quando for colorir seus fios, preparamos algumas dicas certeiras sob a consultoria da bela <strong>Erika Grisi, Cabeleireira especialista em mechas e colorimetria, de Recife – PE</strong>.
+  **Pintar o cabelo** pode significar muito mais que deixar as madeixas bonitas e diferentes. A verdade é que para muitas de nós, variar na aparência pode impactar diretamente a <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">autoestima</a>, e de forma bastante positiva. Quem nunca correu até um salão para promover alguma mudança quando se viu em um momento divisor de águas na vida? Pra te ajudar a fazer boas escolhas quando for colorir seus fios, preparamos algumas dicas certeiras sob a consultoria da bela **Erika Grisi, Cabeleireira especialista em mechas e colorimetria, de Recife – PE**.
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank"><strong>Medidas práticas para restarurar sua autoestima… já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">**Medidas práticas para restarurar sua autoestima… já!**</a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  Seja por um bom motivo, ou apenas pelo desejo de variar, muitas de nós pintam os cabelos, e difícil mesmo é encontrar quem não o faça. Embora haja muitas mulheres com suas variações de castanhos na cabeça, Erika garante: no seu salão, o <strong>Studio Grisi</strong>, que fica no bairro de Boa Viagem, em Recife, o loiro é rei! Embora dar um passo tão transformador quanto esse seja bastante tentador, Erika ressalta que é preciso estar bastante segura de uma mudança como essas, porque geralmente as morenas querem virar loiras, e isso de fato muda bastante a aparência dessa mulher.
+  Seja por um bom motivo, ou apenas pelo desejo de variar, muitas de nós pintam os cabelos, e difícil mesmo é encontrar quem não o faça. Embora haja muitas mulheres com suas variações de castanhos na cabeça, Erika garante: no seu salão, o **Studio Grisi**, que fica no bairro de Boa Viagem, em Recife, o loiro é rei! Embora dar um passo tão transformador quanto esse seja bastante tentador, Erika ressalta que é preciso estar bastante segura de uma mudança como essas, porque geralmente as morenas querem virar loiras, e isso de fato muda bastante a aparência dessa mulher.
 </p>
 
 <p align="center">
@@ -106,15 +106,15 @@ categories:
 </p>
 
 <p align="justify">
-  … <strong><em>Iluminar</em></strong>: castanho claro.
+  … **<em>Iluminar</em>**: castanho claro.
 </p>
 
 <p align="justify">
-  … <strong><em>Rejuvenescer</em></strong>: loiro perolado.
+  … **<em>Rejuvenescer</em>**: loiro perolado.
 </p>
 
 <p align="justify">
-  … <strong><em>Disfaçar brancos</em></strong>: loiro platinado.
+  … **<em>Disfaçar brancos</em>**: loiro platinado.
 </p>
 
 <p align="justify">

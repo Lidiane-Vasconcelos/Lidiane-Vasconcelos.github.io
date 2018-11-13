@@ -1,7 +1,7 @@
 ---
-id: 3298
+
 title: 'Cabelos: saiba 5 verdades sobre saúde e beleza'
-date: 2014-05-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/27/cabelos-saude-e-beleza/
@@ -20,7 +20,7 @@ O que vem a seguir são informações que você precisa saber para aplicá-las n
 <!--more-->
 
 <p align="justify">
-  <strong>Tudo a ver:</strong>
+  **Tudo a ver:**
 </p>
 
 <p align="justify">
@@ -36,19 +36,19 @@ O que vem a seguir são informações que você precisa saber para aplicá-las n
 </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > Reparador de pontas apenas disfarça ou também previne pontas duplas?</strong>
+  **Bicha Fêmea > Reparador de pontas apenas disfarça ou também previne pontas duplas?**
 </p>
 
 > O reparador de pontas serve para proteger a cutícula exposta do fio, e pode ser usado com o cabelo úmido e principalmente no cabelo seco.”
 
 <p align="justify">
-  <strong>BF > O uso de cremes sem exágue é importante no cuidado com os fios?</strong>
+  **BF > O uso de cremes sem exágue é importante no cuidado com os fios?**
 </p>
 
 > O creme sem enxágüe, mais conhecido como leave- in, é essencial para os cuidados dos fios, pois eles continuam o trabalho do condicionador, deixando os cabelos suaves e alinhados por mais tempo.”
 
 <p align="justify">
-  <strong>BF > Pintar os cabelos faz mal para eles?</strong>
+  **BF > Pintar os cabelos faz mal para eles?**
 </p>
 
 > <p align="justify">
@@ -60,7 +60,7 @@ O que vem a seguir são informações que você precisa saber para aplicá-las n
 </p>
 
 <p align="justify">
-  <strong>BF > Lavar os cabelos todos os dias causa algum dano?</strong>
+  **BF > Lavar os cabelos todos os dias causa algum dano?**
 </p>
 
 > <p align="justify">
@@ -68,7 +68,7 @@ O que vem a seguir são informações que você precisa saber para aplicá-las n
 > </p>
 
 <p align="justify">
-  <strong>BF > Esfregar os cabelos é uma boa tática para lavá-los?</strong>
+  **BF > Esfregar os cabelos é uma boa tática para lavá-los?**
 </p>
 
 > <p align="justify">
@@ -80,7 +80,7 @@ O que vem a seguir são informações que você precisa saber para aplicá-las n
 </p>
 
 <p align="justify">
-  Então, bonita, contar com dicas de uma profissional como a Fabiana faz toda a diferença, não é verdade? Quem é de Santo André pode chegar no salão e entregar-se a equipe do Fa´bella, que oferece serviços como Dia da Noiva, além de cuidar dos cabelos e estética de suas clientes. Quem não está por lá, mas quer acompanhar todas as novidades e dicas do Fa´bella, pode visitar <a href="http://www.fabella.com.br/" target="_blank">seu site</a><strong></strong>, acompanhar os <a href="http://dicasdofabella.blogspot.com.br/" target="_blank">posts no blog</a><strong></strong> ou curtir a <a href="https://www.facebook.com/Fabiana.fabella" target="_blank">página do salão no Facebook</a><strong></strong>. Se joga, bonita!
+  Então, bonita, contar com dicas de uma profissional como a Fabiana faz toda a diferença, não é verdade? Quem é de Santo André pode chegar no salão e entregar-se a equipe do Fa´bella, que oferece serviços como Dia da Noiva, além de cuidar dos cabelos e estética de suas clientes. Quem não está por lá, mas quer acompanhar todas as novidades e dicas do Fa´bella, pode visitar <a href="http://www.fabella.com.br/" target="_blank">seu site</a>****, acompanhar os <a href="http://dicasdofabella.blogspot.com.br/" target="_blank">posts no blog</a>**** ou curtir a <a href="https://www.facebook.com/Fabiana.fabella" target="_blank">página do salão no Facebook</a>****. Se joga, bonita!
 </p>
 
 &nbsp;
@@ -96,7 +96,7 @@ Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

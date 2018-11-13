@@ -1,7 +1,7 @@
 ---
-id: 3736
+
 title: Quando a vida recomeça aos 40, na idade da loba…
-date: 2017-03-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/10/idade-da-loba/
@@ -11,11 +11,11 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  … a mulher sente-se forte, vigorosa e muito atenta: ela sabe exatamente o que não faz bem. A mulher na <strong>idade da loba</strong> não quer perder tempo com bobagens, coisas sem sentido, sem propósito. Ela é emancipada, menos passiva, ainda mais bonita, mais feliz porque é autêntica, e conhecedora da própria verdade. A maturidade traz a delícia de não se preocupar tanto com o julgamento alheio, e urgência em realizar vontades. Viver a vida com intensidade é tudo o que uma mulher a partir dos 40 deseja, e por isso ela sabe dizer “sim” e “não” como nunca, da maneira mais adequada para ela. Ousadia e cautela, tranquilidade e inquietação… opostos também definem essa mulher…
+  … a mulher sente-se forte, vigorosa e muito atenta: ela sabe exatamente o que não faz bem. A mulher na **idade da loba** não quer perder tempo com bobagens, coisas sem sentido, sem propósito. Ela é emancipada, menos passiva, ainda mais bonita, mais feliz porque é autêntica, e conhecedora da própria verdade. A maturidade traz a delícia de não se preocupar tanto com o julgamento alheio, e urgência em realizar vontades. Viver a vida com intensidade é tudo o que uma mulher a partir dos 40 deseja, e por isso ela sabe dizer “sim” e “não” como nunca, da maneira mais adequada para ela. Ousadia e cautela, tranquilidade e inquietação… opostos também definem essa mulher…
 </p>
 
 <p align="justify">
-  Essa foi a leitura que fiz de uma de nós, que acabou de completar 40. <strong>Raissa Saldanha, de Recife</strong>, é uma leitora querida do <strong>Trololó de Mulher</strong>. Tive a honra de ela ter concordado em publicar um texto/desabafo íntimo, que ela escreveu num momento de explosão de sentidos, desejos, inquietações e constatações. O texto é de muita lucidez e maturidade, e revela uma mulher inteira, forjada pela experiência que acumulou até aqui, prontinha para o melhor que está por vir. Eu, que aos 38 estou orbitando por essa fase, me senti inspirada por ler uma mulher conectada com ela mesma, norteada pelo amor à vida, às pessoas mais caras para ela, aos momentos íntimos e valiosos, às relações verdadeiras, ao ter o essencial. Tudo isso certamente faz a Raissa fazer escolhas mais conscientes, alinhadas com sua verdade. Não duvido do quanto isso reverbera numa vida muito mais significativa, leve e feliz&#8230;.
+  Essa foi a leitura que fiz de uma de nós, que acabou de completar 40. **Raissa Saldanha, de Recife**, é uma leitora querida do **Trololó de Mulher**. Tive a honra de ela ter concordado em publicar um texto/desabafo íntimo, que ela escreveu num momento de explosão de sentidos, desejos, inquietações e constatações. O texto é de muita lucidez e maturidade, e revela uma mulher inteira, forjada pela experiência que acumulou até aqui, prontinha para o melhor que está por vir. Eu, que aos 38 estou orbitando por essa fase, me senti inspirada por ler uma mulher conectada com ela mesma, norteada pelo amor à vida, às pessoas mais caras para ela, aos momentos íntimos e valiosos, às relações verdadeiras, ao ter o essencial. Tudo isso certamente faz a Raissa fazer escolhas mais conscientes, alinhadas com sua verdade. Não duvido do quanto isso reverbera numa vida muito mais significativa, leve e feliz&#8230;.
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Sobre Fazer 40 Anos</span></strong>
+  **<span style="font-size: x-large;">Sobre Fazer 40 Anos</span>**
 </p>
 
 <p align="justify">

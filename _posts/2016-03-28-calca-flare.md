@@ -1,7 +1,7 @@
 ---
-id: 3574
+
 title: 'Calça Flare: aprenda como combinar o modelo da vez!'
-date: 2016-03-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/28/calca-flare/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Sarah Tapias, Consultora de Imagem e Estilo, de Florianópolis – SC</strong>, ensina como compor um visual sofisticado e elegante. Com salto alto ou plataforma, Sarah garante que vamos ganhar uma silhueta longilínea. Confesso que amei os segredinhos compartilhados pela <em>expert</em>, e já quero aplicá-los quando for usar a minha calça <em>flare</em>. Pronta para descobrir tudo também? Então, oh: vem!
+  **Sarah Tapias, Consultora de Imagem e Estilo, de Florianópolis – SC**, ensina como compor um visual sofisticado e elegante. Com salto alto ou plataforma, Sarah garante que vamos ganhar uma silhueta longilínea. Confesso que amei os segredinhos compartilhados pela <em>expert</em>, e já quero aplicá-los quando for usar a minha calça <em>flare</em>. Pronta para descobrir tudo também? Então, oh: vem!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  “<strong>MANUAL da Calça Flare: Aprenda como combinar o modelo da vez!!!</strong>
+  “**MANUAL da Calça Flare: Aprenda como combinar o modelo da vez!!!**
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Evite combiná-la com tops cheios de detalhes:</em></strong>
+  **<em>Evite combiná-la com tops cheios de detalhes:</em>**
 </p>
 
 <p align="justify">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Corte em A:</strong></em>
+  <em>**Corte em A:**</em>
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Comprimento da barra:</em></strong>
+  **<em>Comprimento da barra:</em>**
 </p>
 
 <p align="justify">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Use SEMPRE com salto alto:</em></strong>
+  **<em>Use SEMPRE com salto alto:</em>**
 </p>
 
 <p align="justify">

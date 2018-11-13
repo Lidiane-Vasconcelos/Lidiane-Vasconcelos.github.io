@@ -1,7 +1,7 @@
 ---
-id: 3408
+
 title: Quando é que estamos bonitas, afinal?
-date: 2015-03-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/17/beleza-equilibrio/
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  Quem nos aponta um caminho nesta discussão é a <strong>Dra. Manuela Rocha Braz, médica endocrinologista e clínica geral, de São Paulo.</strong> É ela quem nos orienta sobre alguns pontos importantes que devemos considerar sobre a busca por um estado onde possamos nos considerar bonitas mas que, acima de tudo, que seja feita com cautela. Afinal de contas, só mesmo com saúde é que a beleza vem de dentro pra fora, pode apostar nisso!
+  Quem nos aponta um caminho nesta discussão é a **Dra. Manuela Rocha Braz, médica endocrinologista e clínica geral, de São Paulo.** É ela quem nos orienta sobre alguns pontos importantes que devemos considerar sobre a busca por um estado onde possamos nos considerar bonitas mas que, acima de tudo, que seja feita com cautela. Afinal de contas, só mesmo com saúde é que a beleza vem de dentro pra fora, pode apostar nisso!
 </p>
 
 <p align="justify">
-  Ser muito magra ou muito gorda, a gente já deve desconfiar, não é bom para ninguém. O que os médicos observam, neste caso, é um conjunto de características que indiquem que estamos conseguindo trilhar o caminho do meio. Essas referências começam, portanto, na análise do <strong>IMC</strong>, que é o <strong>Índice de Massa Corpórea</strong>. Mas não é só, hein? Quem sai por aí fazendo essa conta, e acredita que se encaixa num padrão de beleza&saúde apenas pelo resultado numérico pode estar ligeiramente enganada. De acordo com a Dra. Manuela, “<em>o IMC é um índice impreciso, não diferencia entre massa gorda e massa magra e não reflete a distribuição de gordura, que sabemos que tem influência no metabolismo e no risco de doenças como diabetes, hipertensão, hipertrigliceridemia, etc. Apesar disso, ele é uma ferramenta importante para o médico, mas pelas suas limitações deve ser avaliado sempre em conjunto com outros dados para dizer se o paciente está saudável &#8211; da história clínica, dos hábitos, do exame físico e dos exames laboratoriais</em>”. Portanto, mais atenção e cuidado, por favor!
+  Ser muito magra ou muito gorda, a gente já deve desconfiar, não é bom para ninguém. O que os médicos observam, neste caso, é um conjunto de características que indiquem que estamos conseguindo trilhar o caminho do meio. Essas referências começam, portanto, na análise do **IMC**, que é o **Índice de Massa Corpórea**. Mas não é só, hein? Quem sai por aí fazendo essa conta, e acredita que se encaixa num padrão de beleza&saúde apenas pelo resultado numérico pode estar ligeiramente enganada. De acordo com a Dra. Manuela, “<em>o IMC é um índice impreciso, não diferencia entre massa gorda e massa magra e não reflete a distribuição de gordura, que sabemos que tem influência no metabolismo e no risco de doenças como diabetes, hipertensão, hipertrigliceridemia, etc. Apesar disso, ele é uma ferramenta importante para o médico, mas pelas suas limitações deve ser avaliado sempre em conjunto com outros dados para dizer se o paciente está saudável &#8211; da história clínica, dos hábitos, do exame físico e dos exames laboratoriais</em>”. Portanto, mais atenção e cuidado, por favor!
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que reflete, com maior exatidão, que uma mulher está a caminho de se tornar obesa?</strong>
+  **Trololó de Mulher >>> O que reflete, com maior exatidão, que uma mulher está a caminho de se tornar obesa?**
 </p>
 
 > <p align="justify">
->   <strong>A obesidade é habitualmente definida pelo IMC. Quando acima de 25 kg/m2, chamamos de sobrepeso, e acima de 30 kg/m2 obesidade. Claro que existem as falhas comentadas acima, mas essa é a classificação mais fácil de ser aplicada, e dá certo na maioria das pessoas. </strong>
+>   **A obesidade é habitualmente definida pelo IMC. Quando acima de 25 kg/m2, chamamos de sobrepeso, e acima de 30 kg/m2 obesidade. Claro que existem as falhas comentadas acima, mas essa é a classificação mais fácil de ser aplicada, e dá certo na maioria das pessoas. **
 > </p>
 
 <p align="center">
@@ -63,27 +63,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TMulher >>> Quando podemos considerar que um corpo feminino está em equilíbrio?</strong>
+  **TMulher >>> Quando podemos considerar que um corpo feminino está em equilíbrio?**
 </p>
 
 > <p align="justify">
->   <strong>Quando recebe uma alimentação saudável, adequando valores nutricionais e valores calóricos, e faz atividade física com frequência.</strong>
+>   **Quando recebe uma alimentação saudável, adequando valores nutricionais e valores calóricos, e faz atividade física com frequência.**
 > </p>
 
 <p align="justify">
-  <strong>TM >>> A mulher brasileira tende a ter concentração de gordura no bumbum e no quadril. Essa gordura é tão nociva quanto a que fica no abdome?</strong>
+  **TM >>> A mulher brasileira tende a ter concentração de gordura no bumbum e no quadril. Essa gordura é tão nociva quanto a que fica no abdome?**
 </p>
 
 > <p align="justify">
->   <strong>Não, essa gordura está menos associada ao risco de doenças metabólicas (diabetes, hipertensão, esteatose hepática etc.). Quando em excesso podem levar a outros problemas associados à obesidade, como sobrecarga nas articulações, artrose, o que também é observado na obesidade abdominal.</strong>
+>   **Não, essa gordura está menos associada ao risco de doenças metabólicas (diabetes, hipertensão, esteatose hepática etc.). Quando em excesso podem levar a outros problemas associados à obesidade, como sobrecarga nas articulações, artrose, o que também é observado na obesidade abdominal.**
 > </p>
 
 <p align="justify">
-  <strong>TM >>> Hoje em dia se vê uma busca incessante pelo corpo perfeito, cheio de músculos definidos. Há algum problema nessa busca?</strong>
+  **TM >>> Hoje em dia se vê uma busca incessante pelo corpo perfeito, cheio de músculos definidos. Há algum problema nessa busca?**
 </p>
 
 > <p align="justify">
->   <strong>Tudo que é feito em excesso leva a males secundários. A busca pela perfeição é interminável, sempre existe algo a ser melhorado, e isso pode levar a graves consequências físicas e psicológicas. Em casos em que se recorre ao uso de suplementos e/ou hormônios para se chegar ao objetivo desejado, devem ser levados em consideração os efeitos colaterais destes, muitas vezes graves também.  </strong>
+>   **Tudo que é feito em excesso leva a males secundários. A busca pela perfeição é interminável, sempre existe algo a ser melhorado, e isso pode levar a graves consequências físicas e psicológicas. Em casos em que se recorre ao uso de suplementos e/ou hormônios para se chegar ao objetivo desejado, devem ser levados em consideração os efeitos colaterais destes, muitas vezes graves também.  **
 > </p>
 > 
 > <p align="justify">

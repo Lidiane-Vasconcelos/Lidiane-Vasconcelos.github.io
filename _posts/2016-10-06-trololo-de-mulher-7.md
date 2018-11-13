@@ -1,7 +1,7 @@
 ---
-id: 3681
+
 title: O que tem na Prateleira do Trololó de Mulher de Outubro?
-date: 2016-10-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/06/trololo-de-mulher-7/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Está aqui um post que faço mensalmente e curto demais prepará-lo. Os parceiros comerciais do <strong>Trololó de Mulher</strong>, você sabe, são <em>experts</em> em cada uma de suas áreas e têm sempre uma novidade pra mostrar ou contar pra gente. Este mês escolhi algumas delas para compartilhar contigo, e vou logo avisando: é pra viver no amor! Há delicadezas que mexem com a espiritualidade, coração, deixam a cria ainda mais gostosa, e a casa linda e aconchegante. Vamos juntas ver o que tem de lindezas por aqui? Se joga, bonita!
+  Está aqui um post que faço mensalmente e curto demais prepará-lo. Os parceiros comerciais do **Trololó de Mulher**, você sabe, são <em>experts</em> em cada uma de suas áreas e têm sempre uma novidade pra mostrar ou contar pra gente. Este mês escolhi algumas delas para compartilhar contigo, e vou logo avisando: é pra viver no amor! Há delicadezas que mexem com a espiritualidade, coração, deixam a cria ainda mais gostosa, e a casa linda e aconchegante. Vamos juntas ver o que tem de lindezas por aqui? Se joga, bonita!
 </p>
 
 <p align="center">

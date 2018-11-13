@@ -1,7 +1,7 @@
 ---
-id: 3685
+
 title: Sorvete caseiro de melancia para dias de sol!
-date: 2016-10-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/13/sorvete-caseiro/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Quem disse que o desejo realizado de comer um docinho na sobremesa do dia a dia precisa vir carregado de culpa? Com a receita de <strong>sorvete caseiro de melancia </strong>que vamos aprender hoje, essa lindeza de encher os olhos vai suprir sua vontade de doce, mas de maneira saudável e com zero peso de consciência. Confira logo a seguir e reproduza em seus domínios o quanto antes: é rápido, simples e muito prático!
+  Quem disse que o desejo realizado de comer um docinho na sobremesa do dia a dia precisa vir carregado de culpa? Com a receita de **sorvete caseiro de melancia **que vamos aprender hoje, essa lindeza de encher os olhos vai suprir sua vontade de doce, mas de maneira saudável e com zero peso de consciência. Confira logo a seguir e reproduza em seus domínios o quanto antes: é rápido, simples e muito prático!
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes:</em></strong>
+  **<em>Ingredientes:</em>**
 </p>
 
   * <div align="justify">
@@ -69,12 +69,12 @@ categories:
 
 **Mais receita de Tania:**
 
-<a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank"><strong>Como fazer barra de cereal caseira?</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank">**Como fazer barra de cereal caseira?**</a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <strong><em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em></strong>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se **<em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em>**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 2820
+
 title: Como decorar a parede da escada?
-date: 2010-05-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/24/como-decorar-parede-escada/
@@ -10,17 +10,17 @@ categories:
   - Dicas de Decoração
 ---
 <p style="text-align: justify;">
-  Você tem <strong>escada</strong> em casa? A <strong>parede</strong> dela está <strong>decorada</strong>? Você tem ideia de como <strong>decorar</strong> esse <strong>espaço</strong> de modo que fique bonito, harmonioso e faça muito bem aos olhos?
+  Você tem **escada** em casa? A **parede** dela está **decorada**? Você tem ideia de como **decorar** esse **espaço** de modo que fique bonito, harmonioso e faça muito bem aos olhos?
 </p>
 
 <p style="text-align: justify;">
-  Essas são dúvidas que a Vania Santos tem, e por isso pediu nossa opinião. Como somos mulheres que gostam de dar <em>pitacos</em> em tudo… <em>cof cof cof</em>… sobretudo em <strong>decoração</strong>, não vamos deixá-la sem nossas ideias, não é?
+  Essas são dúvidas que a Vania Santos tem, e por isso pediu nossa opinião. Como somos mulheres que gostam de dar <em>pitacos</em> em tudo… <em>cof cof cof</em>… sobretudo em **decoração**, não vamos deixá-la sem nossas ideias, não é?
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  Por aqui, em meus domínios, optei por colocar <strong>quadros nas paredes</strong>. É verdade que a parede não está toda revestida, mas eu tenho a intenção de colocar mais. Quando imagino o que faria na minha parede, penso que escolheria <strong>quadros com molduras similares</strong>, mas não iguais. Também penso que <strong>não misturaria telas com gravuras</strong>, por exemplo. Ou seja, escolheria o tipo de quadro, e então definiria o que enfeitaria aquele espaço obedecendo o tipo de quadro escolhido.
+  Por aqui, em meus domínios, optei por colocar **quadros nas paredes**. É verdade que a parede não está toda revestida, mas eu tenho a intenção de colocar mais. Quando imagino o que faria na minha parede, penso que escolheria **quadros com molduras similares**, mas não iguais. Também penso que **não misturaria telas com gravuras**, por exemplo. Ou seja, escolheria o tipo de quadro, e então definiria o que enfeitaria aquele espaço obedecendo o tipo de quadro escolhido.
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Escolhi essa imagem acima como referência porque ela me inspira bastante. Você consegue perceber que ela mostra exatamente o que disse que imagino para minha casa? Note que os <strong>quadros</strong> são todos <strong>diferentes</strong>, <strong>mas o tipo é o mesmo: gravuras</strong>. Além do mais, eles têm <strong>tamanhos diferentes e cores de molduras que não se repetem em sua totalidade</strong>, mas a <strong>espessura e proposta delas são similares</strong>, o que dá um ar harmonioso a todo o conjunto. É ou não é?
+  Escolhi essa imagem acima como referência porque ela me inspira bastante. Você consegue perceber que ela mostra exatamente o que disse que imagino para minha casa? Note que os **quadros** são todos **diferentes**, **mas o tipo é o mesmo: gravuras**. Além do mais, eles têm **tamanhos diferentes e cores de molduras que não se repetem em sua totalidade**, mas a **espessura e proposta delas são similares**, o que dá um ar harmonioso a todo o conjunto. É ou não é?
 </p>
 
 <p style="text-align: justify;">
-  O que eu mudaria na minha casa seria o seguinte: percebe que <strong>a linha de cima acompanha</strong>, mais ou menos, o <strong>desenho da escada</strong>? Percebe que na linha de baixo isso deixou de existir? Pois é, isso eu não gostaria que acontecesse por aqui. Na dúvida, sou sempre a favor da <strong>simetria</strong> na decoração. E você? O que diria a respeito?
+  O que eu mudaria na minha casa seria o seguinte: percebe que **a linha de cima acompanha**, mais ou menos, o **desenho da escada**? Percebe que na linha de baixo isso deixou de existir? Pois é, isso eu não gostaria que acontecesse por aqui. Na dúvida, sou sempre a favor da **simetria** na decoração. E você? O que diria a respeito?
 </p>
 
 <p style="text-align: justify;">
-  Para facilitar minha vida, não tenho dúvidas que recorreria ás dicas antes publicadas no blog <strong>Decoração da Casa</strong> sobre <strong><a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><em>como dispor quadros na parede</em></a></strong>. Você já leu? Recomendo, <em>viu</em>?!
+  Para facilitar minha vida, não tenho dúvidas que recorreria ás dicas antes publicadas no blog **Decoração da Casa** sobre **<a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><em>como dispor quadros na parede</em></a>**. Você já leu? Recomendo, <em>viu</em>?!
 </p>
 
 <p style="text-align: justify;">
@@ -52,11 +52,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2013/09/25/decoracao-escada/" target="_blank">Dilema de decoração: o que fazer sob a escada? Veja duas soluções.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2013/09/25/decoracao-escada/" target="_blank">Dilema de decoração: o que fazer sob a escada? Veja duas soluções.</a>**
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “<em>A decoração fica por conta dos vasos ao invés do guarda-corpo. Também pode ser feita com velas e ambas servem para casa sem crianças, animais e/ou idosos! Também aconselho para escadas largas e que tenham um corrimão do outro lado</em>.” Larissa<strong><br /> </strong>
+  “<em>A decoração fica por conta dos vasos ao invés do guarda-corpo. Também pode ser feita com velas e ambas servem para casa sem crianças, animais e/ou idosos! Também aconselho para escadas largas e que tenham um corrimão do outro lado</em>.” Larissa**<br /> **
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 2761
+
 title: Reutilização De Caixas De Ovos Para Decoração.
-date: 2010-01-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/04/caixas-ovos-decorao/

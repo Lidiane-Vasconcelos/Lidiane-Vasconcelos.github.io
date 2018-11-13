@@ -1,7 +1,7 @@
 ---
-id: 2674
+
 title: De volta aos trabalhos bloguísticos… :D
-date: 2009-06-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/25/de-volta-aos-trabalhos-blogusticos-d/

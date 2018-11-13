@@ -1,7 +1,7 @@
 ---
-id: 2842
+
 title: 'Pitacos de bicha fêmea: sala de jantar com móveis escuros.'
-date: 2010-07-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/07/decoracao-sala-de-jantar/
@@ -23,7 +23,7 @@ Salas de jantar já foram tema de posts anteriores no Bicha Fêmea, e há um del
 
 Há também um outro post, este exclusiamente sobre  **_[decoração de salas de jantar](http://www.trololodemulher.com.br/2009/02/18/sala-de-jantar-olhando-alm-do-enfeite-da-mesa/)_**, onde você vê vários outros ambientes com **_móveis na tonalidade marrom_**, onde** _cortinas e demais acessórios que compõem o espaço_** podem servir de referência para você também, sim?!
 
-Enfim, o post onde há <a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self"><strong><em>alternativas para decorar uma mesa de jantar</em></strong> </a>também tem imagens com móveis escuros. Os ambientes trazem vários elementos decorativos que podem servir como referência. Aproveite!
+Enfim, o post onde há <a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self">**<em>alternativas para decorar uma mesa de jantar</em>** </a>também tem imagens com móveis escuros. Os ambientes trazem vários elementos decorativos que podem servir como referência. Aproveite!
 
 O que selecionei para mostrar a você, Sandra, neste post, também poderá lhe ajudar com ideias e inspirações. Assim espero! Vamos ver juntas?
 
@@ -96,5 +96,5 @@ _Imagens:_ <a href="http://www.diyideas.com/" target="_blank"><em>do it yourself
 <span style="font-size: xx-small;"> </span>
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

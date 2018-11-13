@@ -1,7 +1,7 @@
 ---
-id: 3705
+
 title: '3 cordões de enfeites natalinos: faça você mesma'
-date: 2016-11-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/17/enfeites-natalinos-2/
@@ -15,11 +15,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ideias-decoracao-natalina/" target="_blank"><strong>3 ideias cheias de charme para sua decoração natalina</strong></a>
+  <a href="http://www.decoracaodacasa.com/ideias-decoracao-natalina/" target="_blank">**3 ideias cheias de charme para sua decoração natalina**</a>
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ornamentos-natalinos/" target="_blank"><strong>2 ideias de ornamentos natalinos para sua criança fazer</strong></a>
+  <a href="http://www.decoracaodacasa.com/ornamentos-natalinos/" target="_blank">**2 ideias de ornamentos natalinos para sua criança fazer**</a>
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank"><strong>3 guirlandas de Natal diferentes e criativas: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">**3 guirlandas de Natal diferentes e criativas: faça você mesma.**</a>
 </p>
 
 <p align="center">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/ornamentos-de-natal/" target="_blank">Ornamentos de Natal: 2 ideias “faça você mesma”</a></strong>
+  **<a href="http://www.decoracaodacasa.com/ornamentos-de-natal/" target="_blank">Ornamentos de Natal: 2 ideias “faça você mesma”</a>**
 </p>
 
 <p align="center">

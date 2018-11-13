@@ -1,7 +1,7 @@
 ---
-id: 3533
+
 title: 'Revestimento de piso que imita madeira: 6 dicas de expert.'
-date: 2016-02-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/02/piso-que-imita-madeira/
@@ -10,23 +10,23 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Tudo que remete à natureza, na decoração da casa, traz uma sensação de aconchego incrível. Claro que não seria diferente quando se pensa no chão onde pisamos. Ocorre que por razões diversas, nem sempre é possível ter um piso de madeira natural, e aí você toma a decisão: quer um revestimento de <strong>piso que imita madeira</strong>. Qual a melhor opção? Essa é mesmo uma boa ideia e solução para seu <em>décor</em>? Como tirar o melhor proveito do que há disponível no mercado?
+  Tudo que remete à natureza, na decoração da casa, traz uma sensação de aconchego incrível. Claro que não seria diferente quando se pensa no chão onde pisamos. Ocorre que por razões diversas, nem sempre é possível ter um piso de madeira natural, e aí você toma a decisão: quer um revestimento de **piso que imita madeira**. Qual a melhor opção? Essa é mesmo uma boa ideia e solução para seu <em>décor</em>? Como tirar o melhor proveito do que há disponível no mercado?
 </p>
 
 <p align="justify">
-  Sim, eu sei: as dúvidas são muitas. Por isso mesmo, consultei uma profissional na área. <strong>Claudia Medeiros</strong> é <em>Designer </em>de Interiores, de <strong>Campinas </strong>e região. Ela tirou todas as minhas dúvidas sobre o assunto, e hoje estou aqui para compartilhar contigo todas as informações a respeito. Ao final do post você terá muito mais segurança sobre suas escolhas. Confira!
+  Sim, eu sei: as dúvidas são muitas. Por isso mesmo, consultei uma profissional na área. **Claudia Medeiros** é <em>Designer </em>de Interiores, de **Campinas **e região. Ela tirou todas as minhas dúvidas sobre o assunto, e hoje estou aqui para compartilhar contigo todas as informações a respeito. Ao final do post você terá muito mais segurança sobre suas escolhas. Confira!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank"><strong>Revestimentos: piso e parede… quais as opções?</strong></a>
+  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">**Revestimentos: piso e parede… quais as opções?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank"><strong>Pitacos de decoração: revestimentos de cozinha.</strong></a>
+  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">**Pitacos de decoração: revestimentos de cozinha.**</a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Quando é que o revestimento que imita madeira é uma opção melhor que a própria madeira?</strong>
+  **Trololó de Mulher >>> Quando é que o revestimento que imita madeira é uma opção melhor que a própria madeira?**
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Se a ideia é mesmo dar a impressão de que o piso é de madeira, qual a melhor opção de cor?</strong>
+  **Trololó de Mulher >>> Se a ideia é mesmo dar a impressão de que o piso é de madeira, qual a melhor opção de cor?**
 </p>
 
 <p align="justify">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Quanto a disposição das peças no piso, há uma escolha que resulte num visual ainda mais bonito?</strong>
+  **Trololó de Mulher >>> Quanto a disposição das peças no piso, há uma escolha que resulte num visual ainda mais bonito?**
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Por que as peças retificadas são tidas como as melhores?</strong>
+  **Trololó de Mulher >>> Por que as peças retificadas são tidas como as melhores?**
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Cerâmica x porcelanato: qual escolher?</strong>
+  **Trololó de Mulher >>> Cerâmica x porcelanato: qual escolher?**
 </p>
 
 <p align="justify">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Para o revestimento de residências, há um tamanho de peça que seja ideal?</strong>
+  **Trololó de Mulher >>> Para o revestimento de residências, há um tamanho de peça que seja ideal?**
 </p>
 
 <p align="justify">
@@ -98,15 +98,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-cozinha-revestimento/" target="_blank"><strong>Decoração de cozinha: 4 dúvidas sobre revestimentos respondidas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-cozinha-revestimento/" target="_blank">**Decoração de cozinha: 4 dúvidas sobre revestimentos respondidas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank"><strong>Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank">**Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.**</a>
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ categories:
 </p>
 
 <p align="justify">
-  A <strong>Claudia Medeiros</strong> também tem um blog, o <strong><a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank">Se fosse na minha casa</a>. </strong>Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="http://www.claudiamedeiros.com.br/" target="_blank">site profissional</a>, bem como visitar sua loja virtual de móveis de produtos de decoração, a <a href="http://inspiratta.com.br/" target="_blank">Inspiratta</a>. Se joga!
+  A **Claudia Medeiros** também tem um blog, o **<a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank">Se fosse na minha casa</a>. **Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="http://www.claudiamedeiros.com.br/" target="_blank">site profissional</a>, bem como visitar sua loja virtual de móveis de produtos de decoração, a <a href="http://inspiratta.com.br/" target="_blank">Inspiratta</a>. Se joga!
 </p>
 
 <p align="center">

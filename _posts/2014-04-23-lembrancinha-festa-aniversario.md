@@ -1,7 +1,7 @@
 ---
-id: 3290
+
 title: 'Lembrancinhas de festas que saem da mesmice: dicas.'
-date: 2014-04-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/04/23/lembrancinha-festa-aniversario/
@@ -16,15 +16,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacola de festa infanti: faça você mesma.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacola de festa infanti: faça você mesma.</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a>**
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -34,7 +34,7 @@ categories:
 <!--more-->
 
 <p align="justify">
-  <em>1 – <strong>Escolha um tema e personalize a lembrancinha</strong>: na maioria das vezes escolher um tema é a parte mais fácil. Seu filhote está fissurado com a galinha pintadinha, ama as princesas, quer assistir Toy Story três vezes por dia, ou quer ser o homem aranha quando crescer. Temas comuns como estes são encontrados sem problema e uma festa temática será um total sucesso. Se futebol for o tema, por exemplo, aproveite para entrar no clima da Copa e envie os convites animando os convidados a vestir a camisa canarinha. Invista no verde e amarelo em copos e pratos descartáveis, guardanapos e bexigas para a decoração, encomende um bolo personalizado com a bandeira do Brasil, improvise traves e organize uma competição entre a criançada (e os adultos também) com brindes para quem marcar mais gols, e arremate a festa com um saquinho surpresa cheio de coisas boas — <strong>bandeirinhas para que os pequenos também celebrem durante os jogos, brinquedos como um <a href="http://www.festaexpress.com/produto/2035089/Mini-brinquedo-Campo-de-Futebol-(12un)" target="_blank">mini campo de futebol</a></strong><strong>, que além de divertido, estimula a coordenação motora da garotada, adesivos e até bolas de futebol que vêm murchas para caber na sacolinha (que também não podem deixar de ser no tema da Copa).</strong></em>
+  <em>1 – **Escolha um tema e personalize a lembrancinha**: na maioria das vezes escolher um tema é a parte mais fácil. Seu filhote está fissurado com a galinha pintadinha, ama as princesas, quer assistir Toy Story três vezes por dia, ou quer ser o homem aranha quando crescer. Temas comuns como estes são encontrados sem problema e uma festa temática será um total sucesso. Se futebol for o tema, por exemplo, aproveite para entrar no clima da Copa e envie os convites animando os convidados a vestir a camisa canarinha. Invista no verde e amarelo em copos e pratos descartáveis, guardanapos e bexigas para a decoração, encomende um bolo personalizado com a bandeira do Brasil, improvise traves e organize uma competição entre a criançada (e os adultos também) com brindes para quem marcar mais gols, e arremate a festa com um saquinho surpresa cheio de coisas boas — **bandeirinhas para que os pequenos também celebrem durante os jogos, brinquedos como um <a href="http://www.festaexpress.com/produto/2035089/Mini-brinquedo-Campo-de-Futebol-(12un)" target="_blank">mini campo de futebol</a>****, que além de divertido, estimula a coordenação motora da garotada, adesivos e até bolas de futebol que vêm murchas para caber na sacolinha (que também não podem deixar de ser no tema da Copa).**</em>
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em>2 – <strong>Deixe os doces de fora</strong>: embora criança adore doces, depois de um bolo saboroso e muitos brigadeiros e beijinhos, a última coisa que você quer é que os convidados do seu filho tenham uma overdose de açúcar. <strong>Do mesmo jeito que você não quer os seus filhos se enchendo de doces, evite as guloseimas na hora de preparar os saquinhos surpresa</strong>. Reserve os doces para outros eventos como Halloween, Páscoa e festas juninas. Muitas escolas hoje em dia utilizam essas datas como uma forma de sair da rotina e desenvolver atividades como dança e artesanato, e os pais muitas vezes são encorajados a contribuir com comes, bebes e, claro, um saquinho surpresa.</em>
+  <em>2 – **Deixe os doces de fora**: embora criança adore doces, depois de um bolo saboroso e muitos brigadeiros e beijinhos, a última coisa que você quer é que os convidados do seu filho tenham uma overdose de açúcar. **Do mesmo jeito que você não quer os seus filhos se enchendo de doces, evite as guloseimas na hora de preparar os saquinhos surpresa**. Reserve os doces para outros eventos como Halloween, Páscoa e festas juninas. Muitas escolas hoje em dia utilizam essas datas como uma forma de sair da rotina e desenvolver atividades como dança e artesanato, e os pais muitas vezes são encorajados a contribuir com comes, bebes e, claro, um saquinho surpresa.</em>
 </p>
 
 <p align="justify">
-  <em>3 – <strong>Brinquedos são sempre uma boa ideia</strong>: toda criança adora brinquedo e a surpresa de recebê-los. <strong>Na hora da compra mantenha o tema da festa em mente e procure por itens que estimulem a criatividade, imaginação e lógica da meninada</strong>. Leve em consideração a idade do seu filho e dos seus convidados. <strong>Os famosos esquenta-cuca, quebra-cabeça, e jogo da memória fazem sucesso entre os mais velhos e são uma boa forma de estimular o raciocínio, enquanto carrinhos, máscaras e bonecas são ótimas opções entres as crianças menores e proporcionam a oportunidade de desenvolver o imaginação através do faz de conta. Livros de colorir, lápis de cor e adesivos são uma boa pedida para todas as idades</strong> e uma excelente maneira de estimular a criatividade além de oferecer aos pais a chance de interagir com as crianças durante o processo de criação das “obras de arte”.</em>
+  <em>3 – **Brinquedos são sempre uma boa ideia**: toda criança adora brinquedo e a surpresa de recebê-los. **Na hora da compra mantenha o tema da festa em mente e procure por itens que estimulem a criatividade, imaginação e lógica da meninada**. Leve em consideração a idade do seu filho e dos seus convidados. **Os famosos esquenta-cuca, quebra-cabeça, e jogo da memória fazem sucesso entre os mais velhos e são uma boa forma de estimular o raciocínio, enquanto carrinhos, máscaras e bonecas são ótimas opções entres as crianças menores e proporcionam a oportunidade de desenvolver o imaginação através do faz de conta. Livros de colorir, lápis de cor e adesivos são uma boa pedida para todas as idades** e uma excelente maneira de estimular a criatividade além de oferecer aos pais a chance de interagir com as crianças durante o processo de criação das “obras de arte”.</em>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/category/festas-infantis/" target="_blank">Clique aqui</a></strong> e veja todo o <strong>conteúdo do Trololó de Mulher sobre festas infantis</strong>, editado com carinho para você. Se joga!
+  **<a href="http://www.trololodemulher.com.br/category/festas-infantis/" target="_blank">Clique aqui</a>** e veja todo o **conteúdo do Trololó de Mulher sobre festas infantis**, editado com carinho para você. Se joga!
 </p>
 
 &nbsp;

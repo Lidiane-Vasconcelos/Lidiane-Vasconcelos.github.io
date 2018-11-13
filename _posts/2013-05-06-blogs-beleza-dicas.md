@@ -1,7 +1,7 @@
 ---
-id: 3214
+
 title: Blogs de beleza bons e que as bichas fêmeas gostam…
-date: 2013-05-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/06/blogs-beleza-dicas/
@@ -20,13 +20,13 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg"><img class="alignnone size-full wp-image-9382" alt="BLOG-BELEZA-DICAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg" width="600" height="450" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/profile/loleia" target="_blank">Loleia</a></em></strong> via <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg"><img class="alignnone size-full wp-image-9382" alt="BLOG-BELEZA-DICAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg" width="600" height="450" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/profile/loleia" target="_blank">Loleia</a></em>** via **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Clica nos blogs e se joga, bonita!!!</span></strong>
+  **<span style="font-size: x-large;">Clica nos blogs e se joga, bonita!!!</span>**
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 &nbsp;
@@ -57,13 +57,13 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg"><img class="alignnone size-full wp-image-9267" alt="BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg" width="200" height="200" /></a><br /> <strong><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/10/22/beleza-pincel-maquiagem/">Usar pincel na maquiagem faz diferença?[Parte II]</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg"><img class="alignnone size-full wp-image-9267" alt="BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL-LEQUE-FAN200.jpg" width="200" height="200" /></a><br /> **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/10/22/beleza-pincel-maquiagem/">Usar pincel na maquiagem faz diferença?[Parte II]</a></span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png"><img class="alignnone size-full wp-image-9232" alt="BELEZA-MAQUIAGEM-PINCEL[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png" width="200" height="200" /></a><br /> <strong><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/">Usar pincel na maquiagem faz diferença? [Parte I]</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png"><img class="alignnone size-full wp-image-9232" alt="BELEZA-MAQUIAGEM-PINCEL[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-MAQUIAGEM-PINCEL2200.png" width="200" height="200" /></a><br /> **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/10/12/pincel-na-maquiagem/">Usar pincel na maquiagem faz diferença? [Parte I]</a></span>**
       </p>
     </td>
   </tr>
@@ -71,13 +71,13 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-CABELOS-OLEOS200.png"><img class="alignnone size-full wp-image-9213" alt="BELEZA-CABELOS-OLEOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-CABELOS-OLEOS200.png" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/10/08/oleo-nos-cabelos/"><strong><span style="font-size: medium;">Óleo nos cabelos… funciona?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-CABELOS-OLEOS200.png"><img class="alignnone size-full wp-image-9213" alt="BELEZA-CABELOS-OLEOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/10/BELEZA-CABELOS-OLEOS200.png" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/10/08/oleo-nos-cabelos/">**<span style="font-size: medium;">Óleo nos cabelos… funciona?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos200.jpg"><img class="alignnone size-full wp-image-6952" alt="cabelos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos200.jpg" width="200" height="200" /></a><br /> <strong><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/10/01/hidratacao-cabelos-em-casa/">Hidrate os cabelos em casa, fique bonita, poupe tempo e $$$!!!</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos200.jpg"><img class="alignnone size-full wp-image-6952" alt="cabelos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos200.jpg" width="200" height="200" /></a><br /> **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/10/01/hidratacao-cabelos-em-casa/">Hidrate os cabelos em casa, fique bonita, poupe tempo e $$$!!!</a></span>**
       </p>
     </td>
   </tr>
@@ -85,13 +85,13 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg"><img class="alignnone size-full wp-image-9172" alt="batom-mate-maybelline-maquiagem-boca200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg" width="200" height="200" /></a><br /> <strong><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/">Sabe aquela amiga que sabe dar dicas de maquiagem?</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg"><img class="alignnone size-full wp-image-9172" alt="batom-mate-maybelline-maquiagem-boca200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/batom-mate-maybelline-maquiagem-boca200.jpeg" width="200" height="200" /></a><br /> **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/">Sabe aquela amiga que sabe dar dicas de maquiagem?</a></span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/PRODUTOS-BELEZA200.png"><img class="alignnone size-full wp-image-9112" alt="PRODUTOS-BELEZA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/PRODUTOS-BELEZA200.png" width="200" height="200" /></a><br /> <strong><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/09/10/produto-de-beleza/">Qual produto de beleza vale a pena experimentar?</a></span></strong>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/PRODUTOS-BELEZA200.png"><img class="alignnone size-full wp-image-9112" alt="PRODUTOS-BELEZA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/PRODUTOS-BELEZA200.png" width="200" height="200" /></a><br /> **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/09/10/produto-de-beleza/">Qual produto de beleza vale a pena experimentar?</a></span>**
       </p>
     </td>
   </tr>
@@ -106,7 +106,7 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -130,9 +130,9 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

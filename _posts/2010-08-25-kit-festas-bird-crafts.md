@@ -1,7 +1,7 @@
 ---
-id: 2865
+
 title: 'Prateleira do Bicha Fêmea: Bird Crafts'
-date: 2010-08-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/25/kit-festas-bird-crafts/
@@ -90,9 +90,9 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 **_Prateleira do Bicha Fêmea: Ateliê Dorinha Junqueira_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/prateleira-bicha-femea/">Prateleira do Bicha Fêmea</a> </em></strong>> Prateleira do Bicha Fêmea: Bird Crafts
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/prateleira-bicha-femea/">Prateleira do Bicha Fêmea</a> </em>**> Prateleira do Bicha Fêmea: Bird Crafts
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

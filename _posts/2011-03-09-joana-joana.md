@@ -1,7 +1,7 @@
 ---
-id: 2959
+
 title: 'Prateleira do Bicha Fêmea: Joana Joana'
-date: 2011-03-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/09/joana-joana/
@@ -38,7 +38,7 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 </p>
 
 <p style="text-align: justify;">
-  Sugestão? O detalhe decorativo bem que poderia ser um descanso de copo ou prato/panela da <strong>Joana Joana</strong>, não é?
+  Sugestão? O detalhe decorativo bem que poderia ser um descanso de copo ou prato/panela da **Joana Joana**, não é?
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 </p>
 
 <p style="text-align: justify;">
-  Quem curte a casa, a decoração e o prazer de enfeitá-la sabe que o encantamento fica nos pequenos detalhes. A linha de frutas, verduras e legumes artesanais, produzidas em tecido pela <strong>Joana Campos</strong>, a artesã por trás dessas peças e que também edita o blog <a href="http://www.joanacampos.com/" target="_blank">Joana Campos – de mim pra você…e de você pra mim</a>, tem revelado um charme rústico que traz muita graça a qualquer cozinha. Olha só:
+  Quem curte a casa, a decoração e o prazer de enfeitá-la sabe que o encantamento fica nos pequenos detalhes. A linha de frutas, verduras e legumes artesanais, produzidas em tecido pela **Joana Campos**, a artesã por trás dessas peças e que também edita o blog <a href="http://www.joanacampos.com/" target="_blank">Joana Campos – de mim pra você…e de você pra mim</a>, tem revelado um charme rústico que traz muita graça a qualquer cozinha. Olha só:
 </p>
 
 <p style="text-align: center;">
@@ -74,19 +74,19 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 **_[Prateleira do Bicha Fêmea: Bird Crafts](http://www.trololodemulher.com.br/2010/08/25/kit-festas-bird-crafts/)_**
 
 <p style="text-align: center;">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 **_ _**

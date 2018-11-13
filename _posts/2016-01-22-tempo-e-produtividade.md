@@ -1,7 +1,7 @@
 ---
-id: 3531
+
 title: 'Gestão do tempo e produtividade: 6 dicas pra fazer mais.'
-date: 2016-01-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/22/tempo-e-produtividade/
@@ -12,23 +12,23 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  O dia tem apenas 24 horas, mas lá no fundinho, quem nunca lamentou que ele não tivesse mais? Duro é quando a gente percebe que há muito por fazer, e a quantidade de horas parece ainda ser menor. Para quem trabalha por conta própria, a ideia de que fazer os próprios horários é luxo, glória e poder logo cai por terra se não houver uma <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">gestão do tempo eficiente</a>. Como preservar o equilíbrio no dia a dia entre vida pessoal e trabalho, garantindo, ainda assim, a <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">produtividade</a>? O pulo do gato, bonita, está em conciliar <strong>tempo e produtividade</strong>, de modo a identificar o que rouba o primeiro, e prejudica o segundo.
+  O dia tem apenas 24 horas, mas lá no fundinho, quem nunca lamentou que ele não tivesse mais? Duro é quando a gente percebe que há muito por fazer, e a quantidade de horas parece ainda ser menor. Para quem trabalha por conta própria, a ideia de que fazer os próprios horários é luxo, glória e poder logo cai por terra se não houver uma <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">gestão do tempo eficiente</a>. Como preservar o equilíbrio no dia a dia entre vida pessoal e trabalho, garantindo, ainda assim, a <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">produtividade</a>? O pulo do gato, bonita, está em conciliar **tempo e produtividade**, de modo a identificar o que rouba o primeiro, e prejudica o segundo.
 </p>
 
 <p align="justify">
-  <strong>O que rouba o seu tempo?</strong>
+  **O que rouba o seu tempo?**
 </p>
 
 <p align="justify">
-  Você sabe, o <strong>Trololó de Mulher</strong> tornou-se o meu trabalho há algum tempo, e eu faço isso de casa. Além do mais, sou mãe e casada. Isso quer dizer que preciso equilibrar elementos da minha vida que são bastante caros pra mim, e para não supervalorizar um aspecto da vida, em detrimento de outros, preciso encontrar o ponto ideal de investimento de energia e dedicação em cada uma dessas áreas: cuidar de mim, do meu filho, casamento, trabalho, casa, vida social, etc. Aposto que isso funciona mais ou menos assim com você, não é? Dá aqui um abraço… estamos juntas. Este post é para compartilhar contigo um pouco mais da minha experiência pessoal com a gestão do tempo para aumentar minha produtividade.
+  Você sabe, o **Trololó de Mulher** tornou-se o meu trabalho há algum tempo, e eu faço isso de casa. Além do mais, sou mãe e casada. Isso quer dizer que preciso equilibrar elementos da minha vida que são bastante caros pra mim, e para não supervalorizar um aspecto da vida, em detrimento de outros, preciso encontrar o ponto ideal de investimento de energia e dedicação em cada uma dessas áreas: cuidar de mim, do meu filho, casamento, trabalho, casa, vida social, etc. Aposto que isso funciona mais ou menos assim com você, não é? Dá aqui um abraço… estamos juntas. Este post é para compartilhar contigo um pouco mais da minha experiência pessoal com a gestão do tempo para aumentar minha produtividade.
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank"><strong>O que é empreendedorismo criativo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank">**O que é empreendedorismo criativo?**</a>
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – Você gerencia seu tempo, mas esquece de direcionar bem a sua energia.</strong>
+  **1 – Você gerencia seu tempo, mas esquece de direcionar bem a sua energia.**
 </p>
 
 <p align="justify">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2- Você não trabalha quando está no seu melhor momento.</strong>
+  **2- Você não trabalha quando está no seu melhor momento.**
 </p>
 
 <p align="justify">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Você empurra suas atividades com a barriga, enquanto deveria produzir.</strong>
+  **3 – Você empurra suas atividades com a barriga, enquanto deveria produzir.**
 </p>
 
 <p align="justify">
@@ -76,7 +76,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Você não está descansando, efetivamente.</strong>
+  **4 – Você não está descansando, efetivamente.**
 </p>
 
 <p align="justify">
@@ -84,7 +84,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Você é escrava da leitura de e-mails.</strong>
+  **5 – Você é escrava da leitura de e-mails.**
 </p>
 
 <p align="justify">
@@ -96,7 +96,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 – Você tem o complexo da mulher maravilha.</strong>
+  **6 – Você tem o complexo da mulher maravilha.**
 </p>
 
 <p align="justify">
@@ -104,7 +104,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Como usar essas dicas?</strong>
+  **Como usar essas dicas?**
 </p>
 
 <p align="justify">

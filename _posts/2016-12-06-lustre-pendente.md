@@ -1,7 +1,7 @@
 ---
-id: 3714
+
 title: Como decorar a sala de jantar com lustre pendente?
-date: 2016-12-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/06/lustre-pendente/
@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Seja uma sala grande ou pequena, ter um <strong>lustre pendente</strong> nesse espaço faz toda diferença. Afinal de contas, ele pode ser o verdadeiro ponto de destaque no ambiente. O fato é que muitas dúvidas sobre qual estilo escolher pode pairar sobre a cabeça de qualquer mortal. Quem nunca? É sempre muito bom a gente espiar imagens inspiradoras de ambientes com a peça, e prestar bastante atenção: por qual tipo de lustre seu coração bate forte? Quando isso acontecer, seu dilema de decoração estará resolvido. E só para te dar uma maõzinha, aqui está este post editado com carinho, especialmente para te ajudar, sim? Vem comigo viver de amores pelos lustres pendentes selecionados… vem!
+  Seja uma sala grande ou pequena, ter um **lustre pendente** nesse espaço faz toda diferença. Afinal de contas, ele pode ser o verdadeiro ponto de destaque no ambiente. O fato é que muitas dúvidas sobre qual estilo escolher pode pairar sobre a cabeça de qualquer mortal. Quem nunca? É sempre muito bom a gente espiar imagens inspiradoras de ambientes com a peça, e prestar bastante atenção: por qual tipo de lustre seu coração bate forte? Quando isso acontecer, seu dilema de decoração estará resolvido. E só para te dar uma maõzinha, aqui está este post editado com carinho, especialmente para te ajudar, sim? Vem comigo viver de amores pelos lustres pendentes selecionados… vem!
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank"><strong>Ventilador de teto + luminária pendente… pode?</strong></a>
+  <a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank">**Ventilador de teto + luminária pendente… pode?**</a>
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank"><strong>5 salas de jantar modernas para viver de amores.</strong></a>
+  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank">**5 salas de jantar modernas para viver de amores.**</a>
 </p>
 
 <p align="center">

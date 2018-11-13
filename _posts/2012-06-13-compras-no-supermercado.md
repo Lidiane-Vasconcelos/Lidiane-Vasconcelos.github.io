@@ -1,7 +1,7 @@
 ---
-id: 3136
+
 title: Quer fazer boas compras no supermercado?
-date: 2012-06-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/13/compras-no-supermercado/
@@ -22,7 +22,7 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 <!--more-->
 
 <p align="justify">
-  Pois é, toda diva do lar precisa mesmo dar uma olhadinha e conferir o que tantas outras têm a dizer sobre compras no supermercado. A primeira de todas as dicas é jamais ir ao mercado com fome, pois isso vai fazer você comprar mais. Esse alerta é dado pela <strong>Milena Orlando</strong> e pela <strong>Elaine Cunha | <a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>. Além do mais, a <strong>Milena</strong> faz outros alertas, dentre eles, o de não levar crianças para as compras:
+  Pois é, toda diva do lar precisa mesmo dar uma olhadinha e conferir o que tantas outras têm a dizer sobre compras no supermercado. A primeira de todas as dicas é jamais ir ao mercado com fome, pois isso vai fazer você comprar mais. Esse alerta é dado pela **Milena Orlando** e pela **Elaine Cunha | <a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a>**. Além do mais, a **Milena** faz outros alertas, dentre eles, o de não levar crianças para as compras:
 </p>
 
 &nbsp;
@@ -34,13 +34,13 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 &nbsp;
 
 <p align="justify">
-  A propósito, levar crianças não é uma boa ideia na opinião da <strong>Márcia da Costa Trigueiro | <a href="http://www.simplesmenteaprendiz.blogspot.com.br/" target="_blank">Simplesmente Aprendiz</a></strong> também: “<em>Uma dica que eu levo muito a sério é deixar as crianças em casa com alguém: economia de tempo, preocupação e dinheiro !!!!”</em>
+  A propósito, levar crianças não é uma boa ideia na opinião da **Márcia da Costa Trigueiro | <a href="http://www.simplesmenteaprendiz.blogspot.com.br/" target="_blank">Simplesmente Aprendiz</a>** também: “<em>Uma dica que eu levo muito a sério é deixar as crianças em casa com alguém: economia de tempo, preocupação e dinheiro !!!!”</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Quer saber mais? Além da dica super básica com relação á fome, a <strong>Elaine Cunha</strong> vai além e dá dicas de economia nas compras. Olha só:
+  Quer saber mais? Além da dica super básica com relação á fome, a **Elaine Cunha** vai além e dá dicas de economia nas compras. Olha só:
 </p>
 
 &nbsp;
@@ -56,25 +56,25 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 </p>
 
 <p align="justify">
-  <strong>1 &#8211;</strong> Eu organizo minha lista de compras por categoria, ex.: hortifruti, higiene pessoal, limpeza, etc. Dessa forma, quando estou num setor compro tudo que é pertinente a ele e evito de ficar voltando ao mesmo lugar várias vezes.
+  **1 &#8211;** Eu organizo minha lista de compras por categoria, ex.: hortifruti, higiene pessoal, limpeza, etc. Dessa forma, quando estou num setor compro tudo que é pertinente a ele e evito de ficar voltando ao mesmo lugar várias vezes.
 </p>
 
 <p align="justify">
-  <strong>2 &#8211;</strong> Na ordem das compras, sempre pego os produtos refrigerados por último.
+  **2 &#8211;** Na ordem das compras, sempre pego os produtos refrigerados por último.
 </p>
 
 <p align="justify">
-  <strong>3 &#8211;</strong> Sempre olho a data de validade para facilitar meu planejamento e saber se o produto será consumido dentro do prazo.
+  **3 &#8211;** Sempre olho a data de validade para facilitar meu planejamento e saber se o produto será consumido dentro do prazo.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/organizacao-domestica/" rel="attachment wp-att-8719"><img class="alignnone size-full wp-image-8719" title="ORGANIZACAO DOMESTICA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ORGANIZACAO-DOMESTICA.png" alt="" width="396" height="317" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/organizacao-domestica/" rel="attachment wp-att-8719"><img class="alignnone size-full wp-image-8719" title="ORGANIZACAO DOMESTICA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ORGANIZACAO-DOMESTICA.png" alt="" width="396" height="317" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  E agora já aprendi outros truques com a <strong>Simone |</strong> <strong><a href="http://www.newsespacohome.blogspot.com.br/" target="_blank">Organização com Estilo</a></strong>… <em>espia</em>:
+  E agora já aprendi outros truques com a **Simone |** **<a href="http://www.newsespacohome.blogspot.com.br/" target="_blank">Organização com Estilo</a>**… <em>espia</em>:
 </p>
 
 &nbsp;
@@ -96,26 +96,26 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
 &nbsp;
 
 <p align="justify">
-  Eu não falei que o post seria dos bons? Agora é você incorporar as dicas que melhor se adequam ao seu perfil de consumidora e deixar essa atividade ainda mais prática. Toda diva do lar tem seus truques para dar conta do recado no dia a dia, não é? Ainda bem que as frequentadoras do bicha fêmea dividem os delas… <strong>a propósito, se você tiver alguma dica que não foi citada por aqui, não hesite: vai nos comentários e conta <em>´pra</em> gente, bonita!</strong>
+  Eu não falei que o post seria dos bons? Agora é você incorporar as dicas que melhor se adequam ao seu perfil de consumidora e deixar essa atividade ainda mais prática. Toda diva do lar tem seus truques para dar conta do recado no dia a dia, não é? Ainda bem que as frequentadoras do bicha fêmea dividem os delas… **a propósito, se você tiver alguma dica que não foi citada por aqui, não hesite: vai nos comentários e conta <em>´pra</em> gente, bonita!**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais para você…</span></strong>
+  **<span style="font-size: large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/"><strong><span style="font-size: small;">Sustentabilidade na casa de cada uma de nós: é possível?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/">**<span style="font-size: small;">Sustentabilidade na casa de cada uma de nós: é possível?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/aromatizador-de-ambiente200/" rel="attachment wp-att-6391"><img class="alignnone size-full wp-image-6391" title="aromatizador de ambiente200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/aromatizador-de-ambiente200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/"><strong><span style="font-size: small;"><br /> Aromatizador de ambientes: como fazer?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/aromatizador-de-ambiente200/" rel="attachment wp-att-6391"><img class="alignnone size-full wp-image-6391" title="aromatizador de ambiente200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/aromatizador-de-ambiente200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/">**<span style="font-size: small;"><br /> Aromatizador de ambientes: como fazer?</span>**</a>
       </p>
     </td>
   </tr>
@@ -123,17 +123,17 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/casa200/" rel="attachment wp-att-5150"><img class="alignnone size-full wp-image-5150" title="casa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/casa200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/"><strong><span style="font-size: small;"><br /> Dicas para facilitar a rotina doméstica</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/casa200/" rel="attachment wp-att-5150"><img class="alignnone size-full wp-image-5150" title="casa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/casa200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/">**<span style="font-size: small;"><br /> Dicas para facilitar a rotina doméstica</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/image-description-6/" rel="attachment wp-att-5130"><img class="alignnone size-full wp-image-5130" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a></strong>
+        **<a href="http://www.trololodemulher.com.br/casaedecoracao/image-description-6/" rel="attachment wp-att-5130"><img class="alignnone size-full wp-image-5130" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a>**
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/09/03/dicas-economizar-agua/"><strong><span style="font-size: small;">6 dicas para economizar água nas atividades domésticas</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/09/03/dicas-economizar-agua/">**<span style="font-size: small;">6 dicas para economizar água nas atividades domésticas</span>**</a>
       </p>
     </td>
   </tr>
@@ -141,21 +141,21 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/cobertores-200/" rel="attachment wp-att-5078"><img class="alignnone size-full wp-image-5078" title="cobertores 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cobertores-200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/cobertores-200/" rel="attachment wp-att-5078"><img class="alignnone size-full wp-image-5078" title="cobertores 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/cobertores-200.jpg" alt="" width="200" height="200" /></a> ****
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/"><strong><span style="font-size: small;">Ações esquecidas no cuidado da casa, porém necessárias.</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/">**<span style="font-size: small;">Ações esquecidas no cuidado da casa, porém necessárias.</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/casa-ecologica-200/" rel="attachment wp-att-4990"><img class="alignnone size-full wp-image-4990" title="casa ecológica 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/casa-ecologica-200.jpg" alt="" width="200" height="200" /></a></strong>
+        **<a href="http://www.trololodemulher.com.br/casaedecoracao/casa-ecologica-200/" rel="attachment wp-att-4990"><img class="alignnone size-full wp-image-4990" title="casa ecológica 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/07/casa-ecologica-200.jpg" alt="" width="200" height="200" /></a>**
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/07/26/dicas-domesticas-evitar-gastos/"><strong><span style="font-size: small;">Todos somos donos de casa: homens, mulheres, crianças.</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/07/26/dicas-domesticas-evitar-gastos/">**<span style="font-size: small;">Todos somos donos de casa: homens, mulheres, crianças.</span>**</a>
       </p>
     </td>
   </tr>
@@ -172,7 +172,7 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -196,9 +196,9 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

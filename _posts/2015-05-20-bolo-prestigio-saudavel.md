@@ -1,7 +1,7 @@
 ---
-id: 3425
+
 title: Bolo prestigio saudável!
-date: 2015-05-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/20/bolo-prestigio-saudavel/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes massa:</strong>
+  **Ingredientes massa:**
 </p>
 
 <p align="justify">
@@ -66,15 +66,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Bata bem os ovos com o açúcar de coco, pode ser na mão ou na batedeira. Depois acrescente o óleo, cacau, bicarbonato, canela, as farinhas e mexa muito bem. Depois acrescente o leite quente e mexa até que fique uma massa bem aveludada. Por último acrescente o fermento. Unte uma forma com óleo de coco e depois polvilhe cacau em pó. Leve ao forno em 180 graus até assar.</strong>
+>   **Bata bem os ovos com o açúcar de coco, pode ser na mão ou na batedeira. Depois acrescente o óleo, cacau, bicarbonato, canela, as farinhas e mexa muito bem. Depois acrescente o leite quente e mexa até que fique uma massa bem aveludada. Por último acrescente o fermento. Unte uma forma com óleo de coco e depois polvilhe cacau em pó. Leve ao forno em 180 graus até assar.**
 > </p>
 
 <p align="justify">
-  <strong>Ingredientes recheio:</strong>
+  **Ingredientes recheio:**
 </p>
 
 <p align="justify">
@@ -98,15 +98,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Em uma panela, coloque o leite e o amido. Mexa bem para dissolver, depois acrescente leite de coco, o coco ralado e o ingrediente que você deseja adoçar. Ligue o fogo e vai mexendo até engrossar.</strong>
+>   **Em uma panela, coloque o leite e o amido. Mexa bem para dissolver, depois acrescente leite de coco, o coco ralado e o ingrediente que você deseja adoçar. Ligue o fogo e vai mexendo até engrossar.**
 > </p>
 
 <p align="justify">
-  <strong>Ingredientes cobertura:</strong>
+  **Ingredientes cobertura:**
 </p>
 
 <p align="justify">
@@ -126,19 +126,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Em uma panela, coloque o creme de ricota light, o chocolate picado, amido de milho e o adoçante/açúcar. Em fogo baixo vai mexendo bem até que o chocolate derreta e tudo fique bem homogêneo. Precisa ficar levemente amolecido, se precisar acrescente um pouquinho de água ou creme de ricota.</strong>
+>   **Em uma panela, coloque o creme de ricota light, o chocolate picado, amido de milho e o adoçante/açúcar. Em fogo baixo vai mexendo bem até que o chocolate derreta e tudo fique bem homogêneo. Precisa ficar levemente amolecido, se precisar acrescente um pouquinho de água ou creme de ricota.**
 > </p>
 
 <p align="justify">
-  <strong>Montagem:</strong>
+  **Montagem:**
 </p>
 
 > <p align="justify">
->   <strong>Depois que o bolo estiver levemente morno, desenforme, corte ao meio, coloque o recheio morno, coloque a outra metade do bolo e cubra com a cobertura. Você pode polvilhar coco ou granulado. Fica muitooo bom, mais saudável e com menor quantidade de calorias.</strong>
+>   **Depois que o bolo estiver levemente morno, desenforme, corte ao meio, coloque o recheio morno, coloque a outra metade do bolo e cubra com a cobertura. Você pode polvilhar coco ou granulado. Fica muitooo bom, mais saudável e com menor quantidade de calorias.**
 > </p>
 
 <p align="center">
@@ -146,23 +146,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank"><strong>Salmão ao molho de manga</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank">**Salmão ao molho de manga**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank"><strong>Mini abóbora recheada de cuscuz marroquino</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank">**Mini abóbora recheada de cuscuz marroquino**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank"><strong>Mousse de abacate e cacau em pó</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank">**Mousse de abacate e cacau em pó**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

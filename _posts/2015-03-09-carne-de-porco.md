@@ -1,7 +1,7 @@
 ---
-id: 3404
+
 title: 'Carne de porco faz mal á saúde: mito ou verdade?'
-date: 2015-03-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/09/carne-de-porco/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quem nos dá todas as orientações e vai nos ajudar a colocar o preconceito por terra é a <strong>Dra. Pamela Miguel</strong>, <strong>Nutricionista de São Paulo</strong>, nossa consultora querida quando o assunto envolve uma nutrição saudável, tudo para que façamos boas opções de alimentos no dia a dia.
+  Quem nos dá todas as orientações e vai nos ajudar a colocar o preconceito por terra é a **Dra. Pamela Miguel**, **Nutricionista de São Paulo**, nossa consultora querida quando o assunto envolve uma nutrição saudável, tudo para que façamos boas opções de alimentos no dia a dia.
 </p>
 
 <p align="justify">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno + batata doce roxa</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno + batata doce roxa**</a>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>A carne de porco é rica em proteínas de alto valor biológico (nutriente essencial para crescimento e desenvolvimento, para o sistema imunológico, etc.). A carne também é fonte de vitaminas do complexo B (importantes para processo de geração de energia do organismo, sistema nervoso, etc.) e minerais como ferro, zinco, magnésio, selênio, fósforo e potássio. Além disso a carne de porco possui uma maior quantidade de gordura do tipo insaturada (“gordura boa”) em relação a gordura saturada (“gordura ruim”), contribuindo para uma melhora do perfil de gordura e colesterol do organismo.”</strong>
+>   **A carne de porco é rica em proteínas de alto valor biológico (nutriente essencial para crescimento e desenvolvimento, para o sistema imunológico, etc.). A carne também é fonte de vitaminas do complexo B (importantes para processo de geração de energia do organismo, sistema nervoso, etc.) e minerais como ferro, zinco, magnésio, selênio, fósforo e potássio. Além disso a carne de porco possui uma maior quantidade de gordura do tipo insaturada (“gordura boa”) em relação a gordura saturada (“gordura ruim”), contribuindo para uma melhora do perfil de gordura e colesterol do organismo.”**
 > </p>
 
 <p align="justify">
@@ -66,41 +66,41 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>No momento da compra da carne de porco é muito importante certificar-se se o local segue todas as normas higiênicas sanitárias estabelecidas, e se o local é fiscalizado e inspecionado pela vigilância sanitária. Cuidado com abatedouros clandestinos! Outros cuidados são:</strong>
+>   **No momento da compra da carne de porco é muito importante certificar-se se o local segue todas as normas higiênicas sanitárias estabelecidas, e se o local é fiscalizado e inspecionado pela vigilância sanitária. Cuidado com abatedouros clandestinos! Outros cuidados são:**
 > </p>
 
 > <p align="justify">
->   <strong>&#8211; verifique a existência do carimbo SIF (Serviço de Inspeção Federal) ou do SISP (Serviço de Inspeção do Estado de São Paulo) na embalagem. Isso garante que o animal foi acompanhado desde o nascimento;</strong>
+>   **&#8211; verifique a existência do carimbo SIF (Serviço de Inspeção Federal) ou do SISP (Serviço de Inspeção do Estado de São Paulo) na embalagem. Isso garante que o animal foi acompanhado desde o nascimento;**
 > </p>
 
 > <p align="justify">
->   <strong>&#8211; verifique sempre a data de validade do produto;</strong>
+>   **&#8211; verifique sempre a data de validade do produto;**
 > </p>
 > 
 > &nbsp;
 
 > <p align="justify">
->   <strong>&#8211; verifique a temperatura em que a carne está armazenada;</strong>
+>   **&#8211; verifique a temperatura em que a carne está armazenada;**
 > </p>
 
 > <p align="justify">
->   <strong>&#8211; se o produto estiver congelado, verifique se existe camadas de gelo sobre o produto. Isso impede a manutenção da temperatura correta do mesmo;</strong>
+>   **&#8211; se o produto estiver congelado, verifique se existe camadas de gelo sobre o produto. Isso impede a manutenção da temperatura correta do mesmo;**
 > </p>
 
 > <p align="justify">
->   <strong>&#8211; verifique se a embalagem está danificada;</strong>
+>   **&#8211; verifique se a embalagem está danificada;**
 > </p>
 
 > <p align="justify">
->   <strong>&#8211; verifique se a carne tem coloração viva (sem manchas de escurecimento), textura firme, e não contém granulações esbranquiçadas.”</strong>
+>   **&#8211; verifique se a carne tem coloração viva (sem manchas de escurecimento), textura firme, e não contém granulações esbranquiçadas.”**
 > </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>></strong> <b>E quanto ao preparo, qual a orientação?</b>
+  **Trololó de Mulher >>>** <b>E quanto ao preparo, qual a orientação?</b>
 </p>
 
 > <p align="justify">
->   <strong>Retire todas as gorduras aparentes da carne, tempere-a com limão e, o mais importante, cozinhe muito bem a carne, mesmo que outra forma de preparo seja utilizada em seguida como: assar, fritar. A carne deve ser muito bem cozida antes.”</strong>
+>   **Retire todas as gorduras aparentes da carne, tempere-a com limão e, o mais importante, cozinhe muito bem a carne, mesmo que outra forma de preparo seja utilizada em seguida como: assar, fritar. A carne deve ser muito bem cozida antes.”**
 > </p>
 
 <p align="center">
@@ -108,23 +108,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Dra. Pamela Miguel:</strong>
+  **Mais consultorias da Dra. Pamela Miguel:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank"><strong>Café x saúde: quando é que ele é mocinho ou vilão?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank">**Café x saúde: quando é que ele é mocinho ou vilão?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><strong>Me diz o que comes, e te direi se és saudável ou não.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes, e te direi se és saudável ou não.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank"><strong>Vinho e suco de uva oferecem os mesmos benefícios para a saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank">**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**</a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">

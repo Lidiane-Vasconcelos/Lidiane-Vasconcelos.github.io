@@ -1,7 +1,7 @@
 ---
-id: 3125
+
 title: Cozinha moderna em apartamento pequeno… tem jeito?
-date: 2012-03-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/28/cozinha-apartamento-pequeno/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Muito bem… este post é para você! As imagens são do site <strong><em><a href="http://www.hgtv.com/" target="_blank">HGTV</a></em></strong> e mostram uma cozinha bem minimalista e outra com um detalhe que chama a atenção de cara: o revestimento entre os armários inferior e superior… confere!
+  Muito bem… este post é para você! As imagens são do site **<em><a href="http://www.hgtv.com/" target="_blank">HGTV</a></em>** e mostram uma cozinha bem minimalista e outra com um detalhe que chama a atenção de cara: o revestimento entre os armários inferior e superior… confere!
 </p>
 
 &nbsp;
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Eu amei o <strong>revestimento bege com pastilhas ao longo do balcão</strong> e todo o aspecto do ambiente que atesta: menos é sempre mais!
+  Eu amei o **revestimento bege com pastilhas ao longo do balcão** e todo o aspecto do ambiente que atesta: menos é sempre mais!
 </p>
 
 &nbsp;
@@ -43,11 +43,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Esta cozinha, também bem pequena, chamou minha atenção logo que coloquei os olhos nela por causa desse <strong>azul lindo de viver entre os armários inferior e superior</strong>. Impossível isso não chamar a atenção, não é? Mas repare: todo o resto é <em>superultramega</em> discreto e o azul, que reina absoluto como ponto de atenção, emprega uma <em>bossa</em> moderna que é o diferencial de uma cozinha que se revela simples.
+  Esta cozinha, também bem pequena, chamou minha atenção logo que coloquei os olhos nela por causa desse **azul lindo de viver entre os armários inferior e superior**. Impossível isso não chamar a atenção, não é? Mas repare: todo o resto é <em>superultramega</em> discreto e o azul, que reina absoluto como ponto de atenção, emprega uma <em>bossa</em> moderna que é o diferencial de uma cozinha que se revela simples.
 </p>
 
 <p align="justify">
-  Eu vivi de amores pelo <strong>chão bem clarinho</strong> que poderia ser de porcelanato imitando madeira, certo? O legal é que ele sai da cozinha e vem para outros espaços da casa, confirmando que <strong>o que não divide contibui para um todo aparentemente bem maior</strong>, <em>hã</em>? Inspire-se!
+  Eu vivi de amores pelo **chão bem clarinho** que poderia ser de porcelanato imitando madeira, certo? O legal é que ele sai da cozinha e vem para outros espaços da casa, confirmando que **o que não divide contibui para um todo aparentemente bem maior**, <em>hã</em>? Inspire-se!
 </p>
 
 &nbsp;

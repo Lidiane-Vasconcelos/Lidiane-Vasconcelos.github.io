@@ -1,7 +1,7 @@
 ---
-id: 3536
+
 title: Empreendedora e sobrecarregada? Veja 8 dicas salvadoras!
-date: 2016-02-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/04/empreendedora-e-sobrecarregada/
@@ -11,7 +11,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Quem resolve tocar o próprio negócio, muitas vezes, se vê <strong>empreendedora e sobrecarregada</strong>. O desafio de empreender nos coloca em contato com várias atividades e, ao passo que assumimos várias outras responsabilidades como a de mãe, esposa e dona-de casa, por exemplo, acabamos por sentir essa sobrecarga. É muita coisa pra dar conta num espaço de tempo que julgamos ser pouco. É claro que isso nos leva ao sentimento de sobrecarga! Sim, já estive neste lugar e faz um tempo tenho tido o propósito de cada vez mais <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">simplificar a vida</a> em vários aspectos. A sensação de estress me fez aceitar de uma vez por todas: é preciso um tempo para descansar, deconectar, permitir que o cérebro se recupere. Caso contrário, a gente não dá conta de tantos afazeres. Não mesmo!
+  Quem resolve tocar o próprio negócio, muitas vezes, se vê **empreendedora e sobrecarregada**. O desafio de empreender nos coloca em contato com várias atividades e, ao passo que assumimos várias outras responsabilidades como a de mãe, esposa e dona-de casa, por exemplo, acabamos por sentir essa sobrecarga. É muita coisa pra dar conta num espaço de tempo que julgamos ser pouco. É claro que isso nos leva ao sentimento de sobrecarga! Sim, já estive neste lugar e faz um tempo tenho tido o propósito de cada vez mais <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">simplificar a vida</a> em vários aspectos. A sensação de estress me fez aceitar de uma vez por todas: é preciso um tempo para descansar, deconectar, permitir que o cérebro se recupere. Caso contrário, a gente não dá conta de tantos afazeres. Não mesmo!
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <strong>Aceite: você não é a mulher maravilha!</strong>
+  1 – **Aceite: você não é a mulher maravilha!**
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – É preciso dizer não!</strong>
+  **2 – É preciso dizer não!**
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Desconecte, descanse e durma!</strong>
+  **3 – Desconecte, descanse e durma!**
 </p>
 
 <p align="justify">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Entenda-se, antes de mais nada.</strong>
+  **4 – Entenda-se, antes de mais nada.**
 </p>
 
 <p align="justify">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Tenha controle sobre as distrações.</strong>
+  **5 – Tenha controle sobre as distrações.**
 </p>
 
 <p align="justify">
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 – Abra mão de fazer tudo.</strong>
+  **6 – Abra mão de fazer tudo.**
 </p>
 
 <p align="justify">
@@ -99,7 +99,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>7 – Respire… e acalme.</strong>
+  **7 – Respire… e acalme.**
 </p>
 
 <p align="justify">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>8 – Destralhe seu espaço de trabalho.</strong>
+  **8 – Destralhe seu espaço de trabalho.**
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 2773
+
 title: E se fosse você? Como lidaria com um enteado mal educado?
-date: 2010-01-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/28/como-lidar-enteado-mal-educado/

@@ -1,7 +1,7 @@
 ---
-id: 3520
+
 title: Ideias simples para uma festa infantil de picnic.
-date: 2015-12-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/04/festa-infantil-de-picnic/
@@ -11,11 +11,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Em tempos de festas <em>superultramega</em> elaboradas em espaços especializados (e caros!), meu coração vive de amores pelo que é simples. Já falei por aqui do meu amor pelo apelo <em>vintage </em>das festas caseiras, como se fazia antigamente. Outra alternativa que acho puro charme é a <strong>festa infantil de picnic</strong>, feita ao ar livre. Se você anda pensando em fazer uma para sua criança, aqui há algumas ideias reunidas para aplicar no seu evento. Tudo simples, de fácil execução… a gente não quer estresse em festa, não é? A gente quer é ser feliz! Se joga!
+  Em tempos de festas <em>superultramega</em> elaboradas em espaços especializados (e caros!), meu coração vive de amores pelo que é simples. Já falei por aqui do meu amor pelo apelo <em>vintage </em>das festas caseiras, como se fazia antigamente. Outra alternativa que acho puro charme é a **festa infantil de picnic**, feita ao ar livre. Se você anda pensando em fazer uma para sua criança, aqui há algumas ideias reunidas para aplicar no seu evento. Tudo simples, de fácil execução… a gente não quer estresse em festa, não é? A gente quer é ser feliz! Se joga!
 </p>
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">Para a decoração…</span></strong>
+  **<span style="color: #c0504d;">Para a decoração…</span>**
 </p>
 
 <p align="justify">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mensagem de boas vindas em quadro negro.</strong>
+  **Mensagem de boas vindas em quadro negro.**
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Bandeirolas coloridas.</strong>
+  **Bandeirolas coloridas.**
 </p>
 
 <p align="center">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank"><strong>Bandeirolas de aniversário: imprima grátis.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank">**Bandeirolas de aniversário: imprima grátis.**</a>
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Toalha + cesta e… balões!</strong>
+  **Toalha + cesta e… balões!**
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Flores!</strong>
+  **Flores!**
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Pequenos detalhes.</strong>
+  **Pequenos detalhes.**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3397
+
 title: Ir a um congresso de moda sem sair de casa… pode?!
-date: 2015-02-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/23/congresso-moda-estilo/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Não é de hoje que você acompanha as dicas de moda e estilo por aqui, todas dadas sob a consultoria da nossa querida <strong>Lilian Jordão, que é Consultora de Estilo, da Cidade de Ribeirão Preto</strong>, certo? Pois é ela mesma quem está no comando dessa que será a <strong>2ª edição do ConaStyle – Congresso Nacional de Estilo</strong>. Na 1ª edição a moça reuniu quase 10.000 pessoas no evento, e desta vez ela quer ir muito mais além!
+  Não é de hoje que você acompanha as dicas de moda e estilo por aqui, todas dadas sob a consultoria da nossa querida **Lilian Jordão, que é Consultora de Estilo, da Cidade de Ribeirão Preto**, certo? Pois é ela mesma quem está no comando dessa que será a **2ª edição do ConaStyle – Congresso Nacional de Estilo**. Na 1ª edição a moça reuniu quase 10.000 pessoas no evento, e desta vez ela quer ir muito mais além!
 </p>
 
 <p align="justify">

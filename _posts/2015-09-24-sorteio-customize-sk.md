@@ -1,7 +1,7 @@
 ---
-id: 3491
+
 title: Sorteio (simples de tudo) de relicário lindo de viver.
-date: 2015-09-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/24/sorteio-customize-sk/
@@ -12,7 +12,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  <strong><span style="color: #d16349;"><strong>***Atenção: este sorteio já está encerrado!</strong></span></strong>
+  **<span style="color: #d16349;">*****Atenção: este sorteio já está encerrado!**</span>**
 </p>
 
 <p align="justify">
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  Olha só esse relicário que as meninas da <strong>Customize SK</strong> prepararam para ser sorteado aqui, no <strong>Trololó de Mulher</strong>. Não é uma <em>lindeza</em>?
+  Olha só esse relicário que as meninas da **Customize SK** prepararam para ser sorteado aqui, no **Trololó de Mulher**. Não é uma <em>lindeza</em>?
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>O relicário pode ser usado junto com qualquer peça de roupa e ocasiões. Não pense que esses lindos colares têm idade para ser usado. Basta customizá-lo de acordo com seu gosto e estilo. Ele é super neutro e fica bem legal misturar com outras correntinhas. Este tem duas opções de uso: a frente com strass e a sem strass, é só virar os pins e a placa. Pode ser complementado com pingentes na corrente e outras opções de pins, que você encontra na nosso </em><a href="www.customiesk.com.br" target="_blank"><em>loja virtual</em></a><em>. Se preferir, pode revelar uma foto e substituir pela placa. Um colar com muitas possibilidades de estilos e gostos. Só usar a imaginação e criatividade, uma boa opção para compor qualquer look</em>”. <strong>Lyvia Kleis</strong>
+  “<em>O relicário pode ser usado junto com qualquer peça de roupa e ocasiões. Não pense que esses lindos colares têm idade para ser usado. Basta customizá-lo de acordo com seu gosto e estilo. Ele é super neutro e fica bem legal misturar com outras correntinhas. Este tem duas opções de uso: a frente com strass e a sem strass, é só virar os pins e a placa. Pode ser complementado com pingentes na corrente e outras opções de pins, que você encontra na nosso </em><a href="www.customiesk.com.br" target="_blank"><em>loja virtual</em></a><em>. Se preferir, pode revelar uma foto e substituir pela placa. Um colar com muitas possibilidades de estilos e gostos. Só usar a imaginação e criatividade, uma boa opção para compor qualquer look</em>”. **Lyvia Kleis**
 </p>
 
 <p align="justify">
-  <strong>Como participar desse sorteio?</strong>
+  **Como participar desse sorteio?**
 </p>
 
 <p align="justify">
-  <strong><span style="color: #c0504d;">*Deixe seu comentário neste post dizendo o que é, para você, vestir-se com personalidade.</span></strong>
+  **<span style="color: #c0504d;">*Deixe seu comentário neste post dizendo o que é, para você, vestir-se com personalidade.</span>**
 </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="color: #d16349;">Atualização:</span></strong>
+  **<span style="color: #d16349;">Atualização:</span>**
 </p>
 
 <p align="justify">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Adriana Minhoto</strong> é a ganhadora!!! Parabéns, Dri!!!
+  **Adriana Minhoto** é a ganhadora!!! Parabéns, Dri!!!
 </p>
 
 <p align="justify">

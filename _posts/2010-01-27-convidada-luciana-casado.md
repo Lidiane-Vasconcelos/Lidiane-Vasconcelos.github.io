@@ -1,7 +1,7 @@
 ---
-id: 2774
+
 title: 'A idade certa de ter filhos&#8230;'
-date: 2010-01-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/27/convidada-luciana-casado/
@@ -25,7 +25,7 @@ Para quem nem imagina o que passa pela cabeça de uma mulher numa posição assi
 **_Por Luciana Casado – Estudio de Ideias Decorativas_**
 
 <p style="text-align: center;">
-  <strong><em>&#8220;A idade certa para ter filhos&#8230; </em></strong>
+  **<em>&#8220;A idade certa para ter filhos&#8230; </em>**
 </p>
 
 Será que existe?! Será que eu já deveria ter ouvido o chamado do tempo me informando sobre isso?!

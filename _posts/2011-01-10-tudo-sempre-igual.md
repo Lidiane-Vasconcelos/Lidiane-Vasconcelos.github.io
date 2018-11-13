@@ -1,7 +1,7 @@
 ---
-id: 2934
+
 title: Todo dia ela faz tudo sempre igual…
-date: 2011-01-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/10/tudo-sempre-igual/
@@ -52,7 +52,7 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Pela Psicóloga <strong><em><a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a></em></strong> via <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a></em></strong>
+      Pela Psicóloga **<em><a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a></em>** via **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a></em>**
     </td>
   </tr>
   
@@ -76,29 +76,29 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 **_[O peso ideal é aquele que se sente bem…](http://www.trololodemulher.com.br/2010/03/01/emagrecimento-saudavel/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/"><strong><em>Comportamento</em></strong></a>> Todo dia ela faz tudo sempre igual…
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**<em>Comportamento</em>**</a>> Todo dia ela faz tudo sempre igual…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>
 
 <div>
-  <strong><em> </em></strong>
+  **<em> </em>**
 </div>
 
 <div>
-  <strong><em> </em></strong>
+  **<em> </em>**
 </div>
 
 <div>
-  <strong><em> </em></strong>
+  **<em> </em>**
 </div>
 
 **_ </p> 
 
-</em></strong>
+</em>**

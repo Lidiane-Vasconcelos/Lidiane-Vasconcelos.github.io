@@ -1,7 +1,7 @@
 ---
-id: 3560
+
 title: 'Papel de parede no quarto: como decorar?'
-date: 2016-03-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/10/papel-de-parede-no-quarto/
@@ -10,11 +10,11 @@ categories:
   - Quarto
 ---
 <p align="justify">
-  Esse é dos recursos de decoração que acredito ser incríveis! Basta aplicar opções lindas de viver e, num piscar de olhos, temos um ambiente to-tal-men-te renovado. A <strong>Natalie</strong>, leitora querida do blog, acredita muito nisso também, por isso decidiu que queria colocar <strong>papel de parede no quarto</strong>. Comprou 3 estampas lindas de viver e… veio a dúvida: e agora, como decorar? Esperta que só ela, Natalie sabe que pode contar conosco e tratou logo de enviar sua dúvida, por e-mail { <strong>trololomulher@gmail.com </strong>}, para o <strong>Trololó de Mulher</strong>. Natalie escreveu assim:
+  Esse é dos recursos de decoração que acredito ser incríveis! Basta aplicar opções lindas de viver e, num piscar de olhos, temos um ambiente to-tal-men-te renovado. A **Natalie**, leitora querida do blog, acredita muito nisso também, por isso decidiu que queria colocar **papel de parede no quarto**. Comprou 3 estampas lindas de viver e… veio a dúvida: e agora, como decorar? Esperta que só ela, Natalie sabe que pode contar conosco e tratou logo de enviar sua dúvida, por e-mail { **trololomulher@gmail.com **}, para o **Trololó de Mulher**. Natalie escreveu assim:
 </p>
 
 > <p align="justify">
->   <strong><em>“Estou com um problema no meu quarto, no qual três das paredes estão brancas e a quarta é preenchida pelo meu armário. Escolhi um composê de papel de parede (um florido e um listrado), mas estou com dúvida em quais paredes coloco e o que faço na parede que restar. Em relação ao papel de parede, fiquei em dúvida se fazia o composê com um estampado e um liso, ou com os dois estampados. Mandei foto das duas ideias, mas estou aberta para novas opiniões. Uma das paredes fica atrás da cama, a segunda, que é bem menor, tem uma janela no meio, e a terceira, em frente a cama, tem um móvel comprido pregado na parede, com gavetas e uma televisão logo acima. Gostaria de saber em quais paredes você me sugere colocar os papéis, e o que faço com a parede que restar.”</em></strong>
+>   **<em>“Estou com um problema no meu quarto, no qual três das paredes estão brancas e a quarta é preenchida pelo meu armário. Escolhi um composê de papel de parede (um florido e um listrado), mas estou com dúvida em quais paredes coloco e o que faço na parede que restar. Em relação ao papel de parede, fiquei em dúvida se fazia o composê com um estampado e um liso, ou com os dois estampados. Mandei foto das duas ideias, mas estou aberta para novas opiniões. Uma das paredes fica atrás da cama, a segunda, que é bem menor, tem uma janela no meio, e a terceira, em frente a cama, tem um móvel comprido pregado na parede, com gavetas e uma televisão logo acima. Gostaria de saber em quais paredes você me sugere colocar os papéis, e o que faço com a parede que restar.”</em>**
 > </p>
 
 <p align="justify">
@@ -66,15 +66,15 @@ categories:
 </p>
 
 <p align="justify">
-  A dúvida da leitora foi respondida pela <strong>Maristela Leonel, Designer de Interiores, de Florianópolis e região. </strong>Nossa consultora ofereceu uma solução inusitada e diferente do que a Natalie pensou. Vivi de amores pela solução desse dilema, e desconfio que a leitora também viverá. Repara:
+  A dúvida da leitora foi respondida pela **Maristela Leonel, Designer de Interiores, de Florianópolis e região. **Nossa consultora ofereceu uma solução inusitada e diferente do que a Natalie pensou. Vivi de amores pela solução desse dilema, e desconfio que a leitora também viverá. Repara:
 </p>
 
 > <p align="justify">
->   <strong><em>“Olá!</em></strong>
+>   **<em>“Olá!</em>**
 > </p>
 
 > <p align="justify">
->   <strong><em>Adorei sua escolha de papeis! Que achas de utilizar todos?</em></strong>
+>   **<em>Adorei sua escolha de papeis! Que achas de utilizar todos?</em>**
 > </p>
 
 <p align="center">
@@ -82,11 +82,11 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em>Composê III – floral + listrado + liso</em></strong>
+  **<em>Composê III – floral + listrado + liso</em>**
 </p>
 
 > <p align="justify">
->   <strong><em>Na parede da cabeceira podemos pôr o papel de parede florido, e nas outras paredes restantes instalar o papel listrado (na vertical) até a altura da vista da porta (que é a mesma do topo da janela).</em></strong>
+>   **<em>Na parede da cabeceira podemos pôr o papel de parede florido, e nas outras paredes restantes instalar o papel listrado (na vertical) até a altura da vista da porta (que é a mesma do topo da janela).</em>**
 > </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>O papel azul liso ficará acima do roda-teto, que pode ser de poliestireno ou isopor (não se preocupe, o isopor não vai ficar amassado a dois metros do chão, rsrsrs). </em></strong>
+>   **<em>O papel azul liso ficará acima do roda-teto, que pode ser de poliestireno ou isopor (não se preocupe, o isopor não vai ficar amassado a dois metros do chão, rsrsrs). </em>**
 > </p>
 
 <p align="center">
@@ -126,11 +126,11 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>Espero que goste da sugestão!</em></strong>
+>   **<em>Espero que goste da sugestão!</em>**
 > </p>
 
 > <p align="justify">
->   <strong><em>Grande beijo!!!”</em></strong>
+>   **<em>Grande beijo!!!”</em>**
 > </p>
 
 <p align="center">
@@ -138,15 +138,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultoria da Maristela:</strong>
+  **Mais consultoria da Maristela:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank"><strong>Demonstração: como usar cores vibrantes na sala de estar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank">**Demonstração: como usar cores vibrantes na sala de estar?**</a>
 </p>
 
 <p align="justify">
-  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
 </p>
 
 <p align="center">

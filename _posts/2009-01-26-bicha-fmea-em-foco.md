@@ -1,7 +1,7 @@
 ---
-id: 2609
+
 title: Bicha Fêmea em Foco
-date: 2009-01-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/26/bicha-fmea-em-foco/

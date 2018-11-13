@@ -1,7 +1,7 @@
 ---
-id: 3813
+
 title: Adote sábias atitudes para uma vida em equilíbrio.
-date: 2017-10-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/16/vida-em-equilibrio/
@@ -11,7 +11,7 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  Viver em harmonia com o mundo, e com você mesma, certamente trará a sensação de <strong>vida em equilíbrio</strong>, e a boa notícia é que isso depende de atitudes e escolhas pessoais. Neste post a <strong>Paula Elisa</strong>, que é <strong>Professora de Yoga em Rio do Sul e região – SC</strong>, traz um guia escolhas e posturas de vida que proporcionam leveza e felicidade no dia a dia.
+  Viver em harmonia com o mundo, e com você mesma, certamente trará a sensação de **vida em equilíbrio**, e a boa notícia é que isso depende de atitudes e escolhas pessoais. Neste post a **Paula Elisa**, que é **Professora de Yoga em Rio do Sul e região – SC**, traz um guia escolhas e posturas de vida que proporcionam leveza e felicidade no dia a dia.
 </p>
 
 <p align="justify">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Vivendo em harmonia com o mundo segundo os textos clássicos do yoga.</strong>
+  **Vivendo em harmonia com o mundo segundo os textos clássicos do yoga.**
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>1 . Ahimsa – compaixão por todos os seres vivos. </strong></em>
+  <em>**1 . Ahimsa – compaixão por todos os seres vivos. **</em>
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>2 . Satya &#8211; Compromisso com a Verdade.</strong></em>
+  <em>**2 . Satya &#8211; Compromisso com a Verdade.**</em>
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>3 . Asteya &#8211; Não roubar.</strong></em>
+  <em>**3 . Asteya &#8211; Não roubar.**</em>
 </p>
 
 <p align="justify">
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>4 . Brahmacharya – controle dos sentidos. </strong></em>
+  <em>**4 . Brahmacharya – controle dos sentidos. **</em>
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>5 . Aparigraha – Não possessividade – Desapego.</strong> </em>
+  <em>**5 . Aparigraha – Não possessividade – Desapego.** </em>
 </p>
 
 <p align="justify">
@@ -127,19 +127,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais de Paula Elisa no Trololó de Mulher:</strong>
+  **Mais de Paula Elisa no Trololó de Mulher:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank"><strong>Quer melhorar sua prática de meditação? Faça yoga!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank">**Quer melhorar sua prática de meditação? Faça yoga!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank">**O que a meditação pode fazer por seu bem-estar e saúde?**</a>
 </p>
 
 <p align="justify">
-  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
+  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo **Namastê Yoga Blog**, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
 </p>
 
 <p align="center">

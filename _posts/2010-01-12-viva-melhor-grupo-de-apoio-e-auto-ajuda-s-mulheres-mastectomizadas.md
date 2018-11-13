@@ -1,7 +1,7 @@
 ---
-id: 2764
+
 title: VIVA MELHOR – Grupo de apoio e auto ajuda ás mulheres mastectomizadas
-date: 2010-01-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/12/viva-melhor-grupo-de-apoio-e-auto-ajuda-s-mulheres-mastectomizadas/

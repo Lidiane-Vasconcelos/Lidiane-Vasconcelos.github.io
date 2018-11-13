@@ -1,7 +1,7 @@
 ---
-id: 2723
+
 title: Prateleira do Bicha Fêmea – Favas a Contar
-date: 2009-10-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/28/prateleira-do-bicha-fmea-favas-a-contar/

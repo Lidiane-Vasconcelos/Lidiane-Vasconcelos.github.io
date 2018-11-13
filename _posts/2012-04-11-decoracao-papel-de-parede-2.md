@@ -1,7 +1,7 @@
 ---
-id: 3130
+
 title: 3 ideias criativas de uso do papel de parede… fora da parede!
-date: 2012-04-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/11/decoracao-papel-de-parede-2/
@@ -15,13 +15,13 @@ O **papel de parede** é um recurso decorativo que deixa o espaço onde ele est�
 &nbsp;
 
 <p align="justify">
-  As ideias são do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong> e revelam que para a criatividade não há limites. Inspire-se e aplique as soluções no seu espaço, depois é só preparar-se para receber elogios…
+  As ideias são do site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>** e revelam que para a criatividade não há limites. Inspire-se e aplique as soluções no seu espaço, depois é só preparar-se para receber elogios…
 </p>
 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">No topo de uma mesa de centro…</span></strong>
+  **<span style="font-size: large;">No topo de uma mesa de centro…</span>**
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ O **papel de parede** é um recurso decorativo que deixa o espaço onde ele est�
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">No fundo de um armário com prateleira aberta…</span></strong>
+  **<span style="font-size: large;">No fundo de um armário com prateleira aberta…</span>**
 </p>
 
 &nbsp;
@@ -63,13 +63,13 @@ O **papel de parede** é um recurso decorativo que deixa o espaço onde ele est�
 &nbsp;
 
 <p align="justify">
-  Esse móvel é da <strong>Maria,</strong> bicha fêmea navegante que arregaçou as mangas e reformou um móvel e aplicou papel de parede no fundo dele. Viu que lindo o resultado? A história dessa transformação foi publicada no <strong>Bicha Fêmea</strong> e você pode conhecê-la <strong><a href="http://www.trololodemulher.com.br/2011/06/02/decoracao-faca-voce-mesma/">clicando aqui</a></strong>.
+  Esse móvel é da **Maria,** bicha fêmea navegante que arregaçou as mangas e reformou um móvel e aplicou papel de parede no fundo dele. Viu que lindo o resultado? A história dessa transformação foi publicada no **Bicha Fêmea** e você pode conhecê-la **<a href="http://www.trololodemulher.com.br/2011/06/02/decoracao-faca-voce-mesma/">clicando aqui</a>**.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Na cabeceira da cama…</span></strong>
+  **<span style="font-size: large;">Na cabeceira da cama…</span>**
 </p>
 
 &nbsp;
@@ -85,31 +85,31 @@ O **papel de parede** é um recurso decorativo que deixa o espaço onde ele est�
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais para você…</span></strong>
+  **<span style="font-size: large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede2200.jpg"><img class="alignnone size-full wp-image-6121" title="decoração em parede com papel de parede[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede2200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/03/25/decoracao-papel-de-parede/"><strong><span style="font-size: small;"><br /> Decoração com papel de parede: arrisque e encante-se!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede2200.jpg"><img class="alignnone size-full wp-image-6121" title="decoração em parede com papel de parede[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-em-parede-com-papel-de-parede2200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/03/25/decoracao-papel-de-parede/">**<span style="font-size: small;"><br /> Decoração com papel de parede: arrisque e encante-se!</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200.jpg"><img class="alignnone size-full wp-image-5246" title="latas cobertas com papel de parede200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/"><strong><span style="font-size: small;">Papel de parede: 4 dicas de decoração com as sobras</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200.jpg"><img class="alignnone size-full wp-image-5246" title="latas cobertas com papel de parede200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/">**<span style="font-size: small;">Papel de parede: 4 dicas de decoração com as sobras</span>**</a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg"><img class="alignnone size-full wp-image-8674" title="DECORACAO AMBIENTE PEQUENO PAPEL DE PAREDE[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg" alt="" width="200" height="200" /></a></strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg"><img class="alignnone size-full wp-image-8674" title="DECORACAO AMBIENTE PEQUENO PAPEL DE PAREDE[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg" alt="" width="200" height="200" /></a>**
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/"><strong><span style="font-size: small;">Decoração de pequenos espaços com papel de parede: inspirações e ideias</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/">**<span style="font-size: small;">Decoração de pequenos espaços com papel de parede: inspirações e ideias</span>**</a>
 </p>
 
 &nbsp;
@@ -123,7 +123,7 @@ O **papel de parede** é um recurso decorativo que deixa o espaço onde ele est�
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -147,9 +147,9 @@ O **papel de parede** é um recurso decorativo que deixa o espaço onde ele est�
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

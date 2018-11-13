@@ -1,7 +1,7 @@
 ---
-id: 3850
+
 title: Como gerenciar melhor a rotina doméstica?
-date: 2018-02-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/02/27/como-gerenciar-melhor-rotina-domestica/
@@ -15,19 +15,19 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Saber se organizar para gerenciar a <strong>rotina doméstica</strong>, e sobrar tempo para o que mais importa, é fundamental! Sempre digo para as bonitas que estão em vivência comigo no Projeto Lar Bonito Lar: se sua casa tornou-se um caos, não é de uma hora pra outra que tudo entrará nos eixos. Devagar e sempre, com calma, planejamento e consistência, chegamos lá!
+  Saber se organizar para gerenciar a **rotina doméstica**, e sobrar tempo para o que mais importa, é fundamental! Sempre digo para as bonitas que estão em vivência comigo no Projeto Lar Bonito Lar: se sua casa tornou-se um caos, não é de uma hora pra outra que tudo entrará nos eixos. Devagar e sempre, com calma, planejamento e consistência, chegamos lá!
 </p>
 
 <p align="justify">
-  <strong><em>“Me organizando melhor&#8230; tendo mais noção de como facilitar a vida! Estou feliz e determinada!&#8221; Amanda | Turma de Fevereiro, 2018.</em></strong>
+  **<em>“Me organizando melhor&#8230; tendo mais noção de como facilitar a vida! Estou feliz e determinada!&#8221; Amanda | Turma de Fevereiro, 2018.</em>**
 </p>
 
 <p align="justify">
-  <strong><em>“Para mim também tem feito diferença, sinto minha casa muito mais organizada e me sinto mais leve, com mais tempo pra curtir&#8221; Telma | Turma de Fevereiro, 2018.</em></strong>
+  **<em>“Para mim também tem feito diferença, sinto minha casa muito mais organizada e me sinto mais leve, com mais tempo pra curtir&#8221; Telma | Turma de Fevereiro, 2018.</em>**
 </p>
 
 <p align="justify">
-  <strong><em>“Quebrando a crença de que limpeza e organização é algo desgastante e chato, aprendi com o projeto a olhar de uma outra forma e hoje só vejo benefícios! Ter controle sobre a organização faz tudo fluir, e gera a sensação que tudo está sob seu controle, e aos poucos vai ficando cada vez mais fácil&#8221; Aline | Turma de Fevereiro, 2018.</em></strong>
+  **<em>“Quebrando a crença de que limpeza e organização é algo desgastante e chato, aprendi com o projeto a olhar de uma outra forma e hoje só vejo benefícios! Ter controle sobre a organização faz tudo fluir, e gera a sensação que tudo está sob seu controle, e aos poucos vai ficando cada vez mais fácil&#8221; Aline | Turma de Fevereiro, 2018.</em>**
 </p>
 
 <p align="center">

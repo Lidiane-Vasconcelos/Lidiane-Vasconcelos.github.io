@@ -1,7 +1,7 @@
 ---
-id: 3844
+
 title: 5 motivos para morar na Finlândia, e 5 para não fazê-lo.
-date: 2017-12-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/15/morar-na-finlandia-3/
@@ -11,7 +11,7 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  Não tenho a pretensão de morar fora do Brasil, mas confesso que quando fui lendo a lista preparada por Adriana Minhoto sobre os motivos para <strong>morar na Finlândia</strong>, fiz nota mental: não é nada mal! O que Adriana pontua sobre se preparar bem para morar em outro país é que, em terras finlandesas, por exemplo, nem tudo são flores. É preciso estar preparado para uma série de dificuldades também. Então se joga na lista de Adriana e pondere cada ítem. Avalie com carinho e pergunte a si mesmo: você moraria numa terra tão fria?
+  Não tenho a pretensão de morar fora do Brasil, mas confesso que quando fui lendo a lista preparada por Adriana Minhoto sobre os motivos para **morar na Finlândia**, fiz nota mental: não é nada mal! O que Adriana pontua sobre se preparar bem para morar em outro país é que, em terras finlandesas, por exemplo, nem tudo são flores. É preciso estar preparado para uma série de dificuldades também. Então se joga na lista de Adriana e pondere cada ítem. Avalie com carinho e pergunte a si mesmo: você moraria numa terra tão fria?
 </p>
 
 <p align="center">
@@ -163,23 +163,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais colaborações de Adriana Minhoto:</strong>
+  **Mais colaborações de Adriana Minhoto:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/11/08/criar-filhos-fora-do-brasil/" target="_blank"><strong>Sobre criar filhos fora do Brasil: bilinguismo.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/11/08/criar-filhos-fora-do-brasil/" target="_blank">**Sobre criar filhos fora do Brasil: bilinguismo.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/" target="_blank"><strong>Como é comemorado o aniversário infantil na Finlândia?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/" target="_blank">**Como é comemorado o aniversário infantil na Finlândia?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/" target="_blank"><strong>Caso de sucesso: o enfrentamento do bullying na Finlândia.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/" target="_blank">**Caso de sucesso: o enfrentamento do bullying na Finlândia.**</a>
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">

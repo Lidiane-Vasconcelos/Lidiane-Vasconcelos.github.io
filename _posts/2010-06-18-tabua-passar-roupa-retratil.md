@@ -1,7 +1,7 @@
 ---
-id: 2833
+
 title: 'Organização na lavanderia: ganhe espaço com uma tábua de passar roupa retrátil.'
-date: 2010-06-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/18/tabua-passar-roupa-retratil/
@@ -10,17 +10,17 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Imagine a cena: na hora de passar roupas você “se agarra” com a <strong>tábua de passar roupas</strong>, lá na lavanderia, para montá-la e começar mais uma saga doméstica. Se você tiver uma vida bem real como a minha, de vez em quando ela escapa da sua mão e cai no chão, fazendo um barulho chato, e que tira teu bom humor… nada prático, vamos combinar?
+  Imagine a cena: na hora de passar roupas você “se agarra” com a **tábua de passar roupas**, lá na lavanderia, para montá-la e começar mais uma saga doméstica. Se você tiver uma vida bem real como a minha, de vez em quando ela escapa da sua mão e cai no chão, fazendo um barulho chato, e que tira teu bom humor… nada prático, vamos combinar?
 </p>
 
 <p style="text-align: justify;">
-  Se você já deixa a tábua montada lá no canto, talvez passe pela sua cabeça que aquele ambiente ficaria muito mais bonito sem ela, ou que ganhar um pouco mais de espaço no seu campo de visão não seria nada mal… quer <strong>ideias</strong> para uma <strong>tábua de passar roupas retrátil</strong>?
+  Se você já deixa a tábua montada lá no canto, talvez passe pela sua cabeça que aquele ambiente ficaria muito mais bonito sem ela, ou que ganhar um pouco mais de espaço no seu campo de visão não seria nada mal… quer **ideias** para uma **tábua de passar roupas retrátil**?
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  E quem não quer ideias assim? Fala a verdade. A Luma que o diga, porque foi no post sobre <a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/" target="_blank"><strong><em>organização numa lavanderia pequena</em></strong> </a>(que talvez você não tenha visto, e vale a pena a leitura!) que ela manifestou o desejo de uma diva do lar desesperada. Veja só:
+  E quem não quer ideias assim? Fala a verdade. A Luma que o diga, porque foi no post sobre <a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/" target="_blank">**<em>organização numa lavanderia pequena</em>** </a>(que talvez você não tenha visto, e vale a pena a leitura!) que ela manifestou o desejo de uma diva do lar desesperada. Veja só:
 </p>
 
 > <p style="text-align: justify;">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A boa notícia é que há possibilidades bacanas para solucionar esse problema doméstico, e tudo o que a gente precisa conseguir é um bom profissional capaz de tornar real o que a gente deseja. Digo isso porque as <strong><em><a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/" target="_blank">ideias para o home office</a></em></strong> daqui de casa, por exemplo, foram as que marido garimpou na web estrangeira, mas nosso marceneiro (que é da região de Campinas e, para quem quiser, posso passar os contatos), conseguiu executar tudo o que mostramos. Ele viu imagens, e nos garantiu que conseguiria reproduzí-las em nossa casa. E assim o fez! Não é ótimo?
+  A boa notícia é que há possibilidades bacanas para solucionar esse problema doméstico, e tudo o que a gente precisa conseguir é um bom profissional capaz de tornar real o que a gente deseja. Digo isso porque as **<em><a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/" target="_blank">ideias para o home office</a></em>** daqui de casa, por exemplo, foram as que marido garimpou na web estrangeira, mas nosso marceneiro (que é da região de Campinas e, para quem quiser, posso passar os contatos), conseguiu executar tudo o que mostramos. Ele viu imagens, e nos garantiu que conseguiria reproduzí-las em nossa casa. E assim o fez! Não é ótimo?
 </p>
 
 Sendo assim, e isto posto, vamos ás ideias?
@@ -42,7 +42,7 @@ Sendo assim, e isto posto, vamos ás ideias?
 </p>
 
 <p style="text-align: justify;">
-  Passar roupas não é das minhas atividades preferidas, definitivamente. Mas só de imaginar que isto tudo pode tornar-se menos árduo com uma <strong>tábua</strong> que fica assim, <strong>embutida num armário</strong>, e que meu trabalho será abrir uma portinha e descê-la para executar o serviço, já me deixa mais alegre. Fale com seu marceneiro, bonita! Mostre a imagem, a ideia, quem sabe ele pode pensar nas ferragens necessárias, e em como executar essa <em>belezura</em> de ideia para você? Fale com seu eletricista para instalar um ponto com tomada na parte interna do armário, para que você possa ligar o ferro na energia aí mesmo, pertinho, tudo muito prático como bichas fêmeas espertas merecem. É ou não é?
+  Passar roupas não é das minhas atividades preferidas, definitivamente. Mas só de imaginar que isto tudo pode tornar-se menos árduo com uma **tábua** que fica assim, **embutida num armário**, e que meu trabalho será abrir uma portinha e descê-la para executar o serviço, já me deixa mais alegre. Fale com seu marceneiro, bonita! Mostre a imagem, a ideia, quem sabe ele pode pensar nas ferragens necessárias, e em como executar essa <em>belezura</em> de ideia para você? Fale com seu eletricista para instalar um ponto com tomada na parte interna do armário, para que você possa ligar o ferro na energia aí mesmo, pertinho, tudo muito prático como bichas fêmeas espertas merecem. É ou não é?
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Sendo assim, e isto posto, vamos ás ideias?
 </p>
 
 <p style="text-align: justify;">
-  Já imaginou uma gaveta falsa? De lá pode sair uma <strong>tábua de passar roupas deslizante</strong>. Se instalada numa <strong>altura ergonomicamente adequada</strong>, será uma solução bastante interessante, não é verdade? E quando não estiver em uso, esconda a famigerada tábua bem longe dos seus olhos, abstraia, e seja feliz!
+  Já imaginou uma gaveta falsa? De lá pode sair uma **tábua de passar roupas deslizante**. Se instalada numa **altura ergonomicamente adequada**, será uma solução bastante interessante, não é verdade? E quando não estiver em uso, esconda a famigerada tábua bem longe dos seus olhos, abstraia, e seja feliz!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3516
+
 title: 'Empreendedorismo: quais os 7 medos mais comuns?'
-date: 2015-11-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/27/empreendedorismo/
@@ -11,11 +11,11 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Medos: quem não os tem? <strong>Empreendedorismo</strong> feminino envolve todos eles juntos, misturados e gigantes como nunca. Não é fácil lidar com eles, é verdade. Pior mesmo é quando tantas incertezas são capazes de nos paralisar! Calma! Você não é a primeira nem a única a sentir um frio na barriga quando pensa em realizar um voo sozinha na carreira. Tantos questionamentos são mais comuns do que você imagina, e justamente por isso esse post reúne os 7 mais corriqueiros e, tenho certeza, você deve se reconhecer em vários deles.
+  Medos: quem não os tem? **Empreendedorismo** feminino envolve todos eles juntos, misturados e gigantes como nunca. Não é fácil lidar com eles, é verdade. Pior mesmo é quando tantas incertezas são capazes de nos paralisar! Calma! Você não é a primeira nem a única a sentir um frio na barriga quando pensa em realizar um voo sozinha na carreira. Tantos questionamentos são mais comuns do que você imagina, e justamente por isso esse post reúne os 7 mais corriqueiros e, tenho certeza, você deve se reconhecer em vários deles.
 </p>
 
 <p align="justify">
-  Sabe a melhor das notícias? <strong>Simone Mitjans</strong>, especialista em mentorizar mulheres a fim de que tenham mais sucesso em suas vidas, vai discutir cada um desses medos que podem estar travando sua capacidade de empreender, e mostrar meios possíveis para você tirá-los de seu caminho já! Aproveite cada orientação, dica e aconselhamento: eles dão sinais muito importantes de qual caminho você deve escolher para fazer seu sonho virar realidade. Confira!
+  Sabe a melhor das notícias? **Simone Mitjans**, especialista em mentorizar mulheres a fim de que tenham mais sucesso em suas vidas, vai discutir cada um desses medos que podem estar travando sua capacidade de empreender, e mostrar meios possíveis para você tirá-los de seu caminho já! Aproveite cada orientação, dica e aconselhamento: eles dão sinais muito importantes de qual caminho você deve escolher para fazer seu sonho virar realidade. Confira!
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 &#8211; Do medo da mudança…</strong>
+  **1 &#8211; Do medo da mudança…**
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >> Para minimizar o medo da mudança de vida quando se decide empreender, como fazer essa transição com riscos controlados? </strong>
+  **Trololó de Mulher >> Para minimizar o medo da mudança de vida quando se decide empreender, como fazer essa transição com riscos controlados? **
 </p>
 
 <p align="justify">
@@ -39,19 +39,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank"><strong>Empreendedorismo feminino: 3 mulheres contaram tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank">**Empreendedorismo feminino: 3 mulheres contaram tudo!**</a>
 </p>
 
 <p align="justify">
-  <strong>2 &#8211; Do medo das dificuldades…</strong>
+  **2 &#8211; Do medo das dificuldades…**
 </p>
 
 <p align="justify">
-  <strong>TMulher >> Reconhecer que há dificuldades para quem empreende, aceitá-las e trabalhar para revertê-las ajuda a diminuir a sensação de medo? </strong>
+  **TMulher >> Reconhecer que há dificuldades para quem empreende, aceitá-las e trabalhar para revertê-las ajuda a diminuir a sensação de medo? **
 </p>
 
 <p align="justify">
@@ -59,19 +59,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank"><strong>De hobby a trabalho: como ganhar dinheiro?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">**De hobby a trabalho: como ganhar dinheiro?**</a>
 </p>
 
 <p align="justify">
-  <strong>3 &#8211; Do medo de trabalhar muito, mas ganhar pouco…</strong>
+  **3 &#8211; Do medo de trabalhar muito, mas ganhar pouco…**
 </p>
 
 <p align="justify">
-  <strong>TM >> Trabalhar muito e ganhar pouco: esse é um medo clássico. Qual a melhor estratégia para fugir dessa realidade? </strong>
+  **TM >> Trabalhar muito e ganhar pouco: esse é um medo clássico. Qual a melhor estratégia para fugir dessa realidade? **
 </p>
 
 <p align="justify">
@@ -79,11 +79,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 &#8211; Do medo da inadequação…</strong>
+  **4 &#8211; Do medo da inadequação…**
 </p>
 
 <p align="justify">
-  <strong>TM >> O medo de não corresponder as expectativas socias (conta bancária farta, status, poder, etc.) pode atrapalhar o desenvolvimento de quem sonha com o próprio negócio? </strong>
+  **TM >> O medo de não corresponder as expectativas socias (conta bancária farta, status, poder, etc.) pode atrapalhar o desenvolvimento de quem sonha com o próprio negócio? **
 </p>
 
 <p align="justify">
@@ -91,11 +91,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 &#8211; Do medo de vender…</strong>
+  **5 &#8211; Do medo de vender…**
 </p>
 
 <p align="justify">
-  <strong>TM >> O medo de vender pode estar associado a uma má relação com o dinheiro?</strong>
+  **TM >> O medo de vender pode estar associado a uma má relação com o dinheiro?**
 </p>
 
 <p align="justify">
@@ -103,11 +103,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 &#8211; Do medo do trabalho excessivo…</strong>
+  **6 &#8211; Do medo do trabalho excessivo…**
 </p>
 
 <p align="justify">
-  <strong>TM >> O medo de trabalhar além da conta, numa rotina opressora, pode paralisar quem pensa em empreender. O dia a dia de quem toca o próprio negócio precisa ser assim?</strong>
+  **TM >> O medo de trabalhar além da conta, numa rotina opressora, pode paralisar quem pensa em empreender. O dia a dia de quem toca o próprio negócio precisa ser assim?**
 </p>
 
 <p align="justify">
@@ -115,19 +115,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank"><strong>Produtividade: 5 mulheres empreendedoras dão dicas top.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">**Produtividade: 5 mulheres empreendedoras dão dicas top.**</a>
 </p>
 
 <p align="justify">
-  <strong>7 &#8211; Do medo da imperfeição…</strong>
+  **7 &#8211; Do medo da imperfeição…**
 </p>
 
 <p align="justify">
-  <strong>TM >> Medo de não fazer perfeito. Perfeccionismo pode ser um obstáculo para quem quer ter um negócio próprio? </strong>
+  **TM >> Medo de não fazer perfeito. Perfeccionismo pode ser um obstáculo para quem quer ter um negócio próprio? **
 </p>
 
 <p align="justify">
@@ -135,11 +135,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank">**Empreendedorismo feminino: o que é mais importante?**</a>
 </p>
 
 <p align="justify">

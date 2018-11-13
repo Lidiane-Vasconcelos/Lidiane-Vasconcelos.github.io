@@ -1,7 +1,7 @@
 ---
-id: 2615
+
 title: 5 dicas para ser “verde” e economizar nas finanças do lar.
-date: 2009-02-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/04/5-dicas-para-ser-verde-em-casa/

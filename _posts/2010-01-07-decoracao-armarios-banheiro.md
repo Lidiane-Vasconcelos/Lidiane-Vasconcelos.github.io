@@ -1,7 +1,7 @@
 ---
-id: 2759
+
 title: 'Pitacos de bicha fêmea: armários para banheiro.'
-date: 2010-01-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/07/decoracao-armarios-banheiro/
@@ -68,5 +68,5 @@ Como sempre acontece, o melhor do Bicha Fêmea ocorre nos desdobramentos dos com
 Na verdade eu já havia feito uma postagem com esse tipo de aprendizado que eu já adquiri, o de que no banheiro nós não devemos guardar cosméticos. Além dessa dica sobre organização dos nossos cosméticos, há mais tantas outras sobre <a href="http://www.trololodemulher.com.br/2009/01/25/e-eu-me-organizando/" target="_self">organização</a>, e só conferir <a href="http://www.trololodemulher.com.br/2009/01/25/e-eu-me-organizando/" target="_self">aqui</a>!
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 2950
+
 title: Resultado do sorteio Naturella no Bicha Fêmea.
-date: 2011-01-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/31/resultado-naturella/
@@ -16,7 +16,7 @@ Você, bicha fêmea navegante que se inscreveu para tentar a sorte de ganhar um 
 </p>
 
 <p style="text-align: justify;">
-  Foram <strong>155 inscrições válidas para o sorteio, e o número premiado foi o de 134, correspondente á Rosane</strong>. Hoje mesmo um <em>e-mail</em> foi enviado, e a Rosane terá uma semana para me responder com seu endereço de entrega em território nacional. Caso ela não responda, será feito um novo sorteio entre as inscritas.
+  Foram **155 inscrições válidas para o sorteio, e o número premiado foi o de 134, correspondente á Rosane**. Hoje mesmo um <em>e-mail</em> foi enviado, e a Rosane terá uma semana para me responder com seu endereço de entrega em território nacional. Caso ela não responda, será feito um novo sorteio entre as inscritas.
 </p>
 
 <p style="text-align: justify;">
@@ -24,19 +24,19 @@ Você, bicha fêmea navegante que se inscreveu para tentar a sorte de ganhar um 
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 [](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/Absorvente-Naturella.jpg)

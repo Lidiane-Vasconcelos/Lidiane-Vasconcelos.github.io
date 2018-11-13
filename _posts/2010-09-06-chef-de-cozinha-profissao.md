@@ -1,7 +1,7 @@
 ---
-id: 2870
+
 title: 'Sendo chef de cozinha: os bastidores da profissão…'
-date: 2010-09-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/06/chef-de-cozinha-profissao/
@@ -60,7 +60,7 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por <strong><em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a></em></strong>
+      Por **<em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a></em>**
     </td>
   </tr>
   
@@ -80,11 +80,11 @@ Quer fazer como a Débora? Publique seu texto aqui e seja uma **_[Bicha Fêmea C
 **_<a href="http://www.trololodemulher.com.br/2010/08/30/chef-de-cozinha%e2%80%a6/" target="_self">O que é ser um chef de cozinha… </a>_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/"><strong><em>Vida com Estilo</em></strong></a> > Sendo chef de cozinha: os bastidores da profissão…
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">**<em>Vida com Estilo</em>**</a> > Sendo chef de cozinha: os bastidores da profissão…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 **_ _**

@@ -1,7 +1,7 @@
 ---
-id: 2880
+
 title: 'Uma Bicha Fêmea por Outra: Katia Bonfadini'
-date: 2010-09-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/22/entrevista-katia-bonfadini/
@@ -59,7 +59,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Como você equilibra sua capacidade criativa com os desejos de um cliente na hora de oferecer seus serviços?</em></strong>
+  **<em>Como você equilibra sua capacidade criativa com os desejos de um cliente na hora de oferecer seus serviços?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -67,7 +67,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Quem te conhece, sabe da sua falta de desejo de ser mãe. Como você lida com as cobranças de familiares, amigos e conhecidos quanto a isso?</em></strong>
+  **<em>Quem te conhece, sabe da sua falta de desejo de ser mãe. Como você lida com as cobranças de familiares, amigos e conhecidos quanto a isso?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -75,7 +75,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Você tem estado na blogosfera, deixando sua marca na construção visual de blogs, a exemplo do <a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>, de Cláudia Ramalho. Há algum outro blog passando por suas mãos e mente criativas no momento?</em></strong>
+  **<em>Você tem estado na blogosfera, deixando sua marca na construção visual de blogs, a exemplo do <a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>, de Cláudia Ramalho. Há algum outro blog passando por suas mãos e mente criativas no momento?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +83,7 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Você tem mais sonhos para o <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>?</em></strong>
+  **<em>Você tem mais sonhos para o <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -91,71 +91,71 @@ Katia Bonfadini é uma designer de talento reconhecido na blogosfera. Quem acomp
 </p>
 
 <p style="text-align: justify;">
-  <strong>Katia Bonfadini, só no <em>trololó</em>…</strong>
+  **Katia Bonfadini, só no <em>trololó</em>…**
 </p>
 
 <p style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini-no-trololo.jpg"><img class="alignnone size-medium wp-image-5224" title="Katia Bonfadini no trololó" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini-no-trololo-225x300.jpg" alt="" width="225" height="300" /></a></strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini-no-trololo.jpg"><img class="alignnone size-medium wp-image-5224" title="Katia Bonfadini no trololó" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Katia-Bonfadini-no-trololo-225x300.jpg" alt="" width="225" height="300" /></a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Infância</strong> &#8211; <em>Muito carinho e amor dos meus pais, brincadeiras divertidas com minhas irmãs e primas, e infelizmente, alguns episódios de bullying dos quais fui vítima no colégio.</em>
+  **Infância** &#8211; <em>Muito carinho e amor dos meus pais, brincadeiras divertidas com minhas irmãs e primas, e infelizmente, alguns episódios de bullying dos quais fui vítima no colégio.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Blogosfera</strong> &#8211; <em>Troca de experiências, sugestões, informações, descoberta de novos horizontes, perspectivas e amizades.</em>
+  **Blogosfera** &#8211; <em>Troca de experiências, sugestões, informações, descoberta de novos horizontes, perspectivas e amizades.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Futuro</strong> &#8211; <em>Hummm&#8230; não penso muito no futuro pra falar a verdade. Não sei quanto tempo me resta nesse mundo e tento viver o presente da melhor forma possível. Só faço planos a curto e médio prazo e tenho a consciência de que o destino nos reserva algumas surpresas. Então tento viver um dia (ou uma semana) de cada vez.</em>
+  **Futuro** &#8211; <em>Hummm&#8230; não penso muito no futuro pra falar a verdade. Não sei quanto tempo me resta nesse mundo e tento viver o presente da melhor forma possível. Só faço planos a curto e médio prazo e tenho a consciência de que o destino nos reserva algumas surpresas. Então tento viver um dia (ou uma semana) de cada vez.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Remorso</strong> &#8211; <em>Eu me arrependo de algumas (ou várias) atitudes e condutas, mas sei que não seria quem sou hoje se não tivessem acontecido certos episódios desagradáveis no passado que me fizeram sofrer e aprender com a experiência. Acho que devemos sempre tentar extrair algo bom de um episódio ruim.</em>
+  **Remorso** &#8211; <em>Eu me arrependo de algumas (ou várias) atitudes e condutas, mas sei que não seria quem sou hoje se não tivessem acontecido certos episódios desagradáveis no passado que me fizeram sofrer e aprender com a experiência. Acho que devemos sempre tentar extrair algo bom de um episódio ruim.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Medo</strong> &#8211; <em>De  perder as pessoas que amo e da violência urbana. Ah, de avião também!!!!! Adoro viajar mas morro de medo desse meio de transporte!</em>
+  **Medo** &#8211; <em>De  perder as pessoas que amo e da violência urbana. Ah, de avião também!!!!! Adoro viajar mas morro de medo desse meio de transporte!</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Perfeição</strong> &#8211; <em>Não existe! Acho que nada nem ninguém é perfeito e penso que é impossível atingir a perfeição. Somos todos seres humanos passíveis de erros, dotados de virtudes e defeitos.</em>
+  **Perfeição** &#8211; <em>Não existe! Acho que nada nem ninguém é perfeito e penso que é impossível atingir a perfeição. Somos todos seres humanos passíveis de erros, dotados de virtudes e defeitos.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Mais entrevistas no Bicha Fêmea…</strong>
+  **Mais entrevistas no Bicha Fêmea…**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/08/11/entrevista-margaret/" target="_self">Uma bicha fêmea por outra: Margaret</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/08/11/entrevista-margaret/" target="_self">Uma bicha fêmea por outra: Margaret</a></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/" target="_self">Uma bicha fêmea por outra: Cláudia Ramalho</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/" target="_self">Uma bicha fêmea por outra: Cláudia Ramalho</a></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/05/26/mara-porto/" target="_self">Uma bicha fêmea por outra: Mara Porto</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/05/26/mara-porto/" target="_self">Uma bicha fêmea por outra: Mara Porto</a></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/04/28/entrevista-ruby-fernandes/" target="_self">Uma bicha fêmea por outra: Ruby Fernandes</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/04/28/entrevista-ruby-fernandes/" target="_self">Uma bicha fêmea por outra: Ruby Fernandes</a></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/03/24/ana-medeiros/" target="_self">Uma bicha fêmea por outra: Ana Medeiros</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/03/24/ana-medeiros/" target="_self">Uma bicha fêmea por outra: Ana Medeiros</a></em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Quer as novidades do Bicha Fêmea? </em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><em>Receba gratuitamente em seu e-mail</em></a><em>!</em></strong>
+  **<em>Quer as novidades do Bicha Fêmea? </em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><em>Receba gratuitamente em seu e-mail</em></a><em>!</em>**
 </p>
 
 <p style="text-align: center;">
-  <strong>Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.</strong>
+  **Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em>**
 </p>
 
 <p style="text-align: center;">

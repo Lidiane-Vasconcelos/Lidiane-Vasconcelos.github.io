@@ -1,7 +1,7 @@
 ---
-id: 3620
+
 title: 'Sorteio: Almofada Santo Anjo&#8230;pura delicadeza!'
-date: 2016-06-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/01/almofada-santo-anjo/
@@ -15,7 +15,7 @@ categories:
   - Quarto Infantil
 ---
 <p align="justify">
-  A <strong>Almofada Santo Anjo</strong> remete àquela oração que toda criança católica aprende ainda pequena. O significado de proteção e acolhimento do anjo da guarda é bastante forte, e mães católicas fazem questão de ensinar a oração o quanto antes, não é? Por aqui não foi diferente, e a almofada que Artur tem desde bebê o acompanha até hoje. Quer ganhar uma almofada, e presentear uma amiga sua com outra? Olha como elas são lindas:
+  A **Almofada Santo Anjo** remete àquela oração que toda criança católica aprende ainda pequena. O significado de proteção e acolhimento do anjo da guarda é bastante forte, e mães católicas fazem questão de ensinar a oração o quanto antes, não é? Por aqui não foi diferente, e a almofada que Artur tem desde bebê o acompanha até hoje. Quer ganhar uma almofada, e presentear uma amiga sua com outra? Olha como elas são lindas:
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Essas almofadas são pura delicadeza, assim como todos os produtos da <strong>linha BEBÊ da Xique Xique Brasil</strong>. Vários ítens para um enxoval clássico e de bom gosto, com peças exclusivas, podem ser adquiridos <em>online</em> na loja virtual da Xique Xique Brasil. Já dei uma <a href="http://www.trololodemulher.com.br/2016/04/11/enxoval-de-bebe/" target="_blank">pequena amostra aqui no Trololó de Mulher</a>, inclusive, do que há por lá: fraldas delicadamente bordadas, panos de boca com detalhes lindos de viver, jogos de lençol de berço que são pura delicadeza, toalhas de capuz bonitas e confortáveis. <a href="http://www.xiquexiquebrasil.com.br/?ref=trololo" target="_blank">Clique aqui, visite a loja e delicie-se</a>!
+  Essas almofadas são pura delicadeza, assim como todos os produtos da **linha BEBÊ da Xique Xique Brasil**. Vários ítens para um enxoval clássico e de bom gosto, com peças exclusivas, podem ser adquiridos <em>online</em> na loja virtual da Xique Xique Brasil. Já dei uma <a href="http://www.trololodemulher.com.br/2016/04/11/enxoval-de-bebe/" target="_blank">pequena amostra aqui no Trololó de Mulher</a>, inclusive, do que há por lá: fraldas delicadamente bordadas, panos de boca com detalhes lindos de viver, jogos de lençol de berço que são pura delicadeza, toalhas de capuz bonitas e confortáveis. <a href="http://www.xiquexiquebrasil.com.br/?ref=trololo" target="_blank">Clique aqui, visite a loja e delicie-se</a>!
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <strong>Como participar desse sorteio?</strong>
+  **Como participar desse sorteio?**
 </p>
 
 <p style="text-align: justify;">
-  Esse sorteio será realizado <strong>em paralelo com o Facebook</strong>. O que você tem a fazer é o seguinte:
+  Esse sorteio será realizado **em paralelo com o Facebook**. O que você tem a fazer é o seguinte:
 </p>
 
 <p style="text-align: justify;">
@@ -43,11 +43,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Foi lá e marcou sua amiga que será sortuda junto com você? Volta aqui para o passo 2.</strong>
+  **Foi lá e marcou sua amiga que será sortuda junto com você? Volta aqui para o passo 2.**
 </p>
 
 <p style="text-align: justify;">
-  2 – Deixe seu comentário neste post dizendo <strong>qual almofada você quer receber em casa: azul, rosa ou bege</strong>?
+  2 – Deixe seu comentário neste post dizendo **qual almofada você quer receber em casa: azul, rosa ou bege**?
 </p>
 
 <p style="text-align: justify;">
@@ -73,7 +73,7 @@ Participe!
 Boa sorte!
 
 <p align="justify">
-  <strong>Atualização:</strong>
+  **Atualização:**
 </p>
 
 <p align="justify">

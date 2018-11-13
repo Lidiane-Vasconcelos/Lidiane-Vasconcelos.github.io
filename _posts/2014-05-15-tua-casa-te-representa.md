@@ -1,7 +1,7 @@
 ---
-id: 3295
+
 title: Tua casa te representa?
-date: 2014-05-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/15/tua-casa-te-representa/
@@ -20,7 +20,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 <!--more-->
 
 <p align="justify">
-  Eu propus esse desafio para algumas leitoras queridas desse blog. <strong>A brincadeira foi a seguinte: tirar uma foto de qualquer cantinho de suas casas onde,  sob a ótica das bonitas, a decoração as representasse de alguma forma. Pedi também que elas explicassem, brevemente, o porquê.</strong>
+  Eu propus esse desafio para algumas leitoras queridas desse blog. **A brincadeira foi a seguinte: tirar uma foto de qualquer cantinho de suas casas onde,  sob a ótica das bonitas, a decoração as representasse de alguma forma. Pedi também que elas explicassem, brevemente, o porquê.**
 </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 <p align="justify">
-  O resultado você vê abaixo e, pode apostar, é total derretimento de amores pelo canto onde se vive. Espie, e inspire-se… e experimente: <strong>viva de amores por sua casa também.</strong>
+  O resultado você vê abaixo e, pode apostar, é total derretimento de amores pelo canto onde se vive. Espie, e inspire-se… e experimente: **viva de amores por sua casa também.**
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Gosto de vários lugares em minha casa, mas o lugar onde a família passa a maior parte do tempo é no meu quintal que transformei em sala de almoço. Apesar de possuir um outro lugar em casa destinado ao lazer (piscina/churrasqueira) é esse lugar que nos sentimos melhor aconchegados. A minha cozinha ficou mais alegre e espaçosa. Vale a pena transformar o seu quintal!” <strong>Luma Rosa | </strong><a href="http://luzdeluma.blogspot.com.br/" target="_blank"><strong>Luz de Luma, yes party</strong></a>
+>   Gosto de vários lugares em minha casa, mas o lugar onde a família passa a maior parte do tempo é no meu quintal que transformei em sala de almoço. Apesar de possuir um outro lugar em casa destinado ao lazer (piscina/churrasqueira) é esse lugar que nos sentimos melhor aconchegados. A minha cozinha ficou mais alegre e espaçosa. Vale a pena transformar o seu quintal!” **Luma Rosa | **<a href="http://luzdeluma.blogspot.com.br/" target="_blank">**Luz de Luma, yes party**</a>
 > </p>
 
 &nbsp;
@@ -60,7 +60,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Aqui está a foto do meu cantinho favorito no apê. Foi difícil escolher, porque a casinha toda foi decorada com muito carinho. A foto é de um pedaço da sala, onde fiz meu home office. É aqui que faço o tratamento de imagens, respondo e-mails e ainda asssito a um filminho na TV. Desenhei os móveis e pedi para o marceneiro fazer sob medida, e assim ganhei centímetros valiosos.” <strong>Ruby Fernandes | </strong><a href="http://rubyfernandes.com.br/" target="_blank"><strong>Ruby Fernandes Fotografia</strong></a>
+>   Aqui está a foto do meu cantinho favorito no apê. Foi difícil escolher, porque a casinha toda foi decorada com muito carinho. A foto é de um pedaço da sala, onde fiz meu home office. É aqui que faço o tratamento de imagens, respondo e-mails e ainda asssito a um filminho na TV. Desenhei os móveis e pedi para o marceneiro fazer sob medida, e assim ganhei centímetros valiosos.” **Ruby Fernandes | **<a href="http://rubyfernandes.com.br/" target="_blank">**Ruby Fernandes Fotografia**</a>
 > </p>
 
 &nbsp;
@@ -80,7 +80,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Esse cantinho da casa tem um significado muito especial para nós três. Foi a primeira mudança que fizemos na casa depois de passarmos por um momento muito difícil em nossas vidas. Foi algo tipo: ano novo, vida nova, decoração nova, bola pra frente, a vida segue, não podemos deixar espaço pra tristeza entrar nesse lar que sempre foi de alegrias. Assim mesmo: cheio de vírgulas e sem pontos. Sem parar pra respirar. Sem parar pra pensar&#8230; Tive a ideia, procurei o tecido, comprei. Filhote (na época com 9 anos) e marido ajudaram a colocar. Foi algo feito para nós três e por nós três. Uma bagunça deliciosamente bonita! O resultado ficou incrível!” <strong>Raquel Teixeira (Keka) | </strong><a href="http://www.tresemcasa.com.br/" target="_blank"><strong>3 em casa</strong></a>
+>   Esse cantinho da casa tem um significado muito especial para nós três. Foi a primeira mudança que fizemos na casa depois de passarmos por um momento muito difícil em nossas vidas. Foi algo tipo: ano novo, vida nova, decoração nova, bola pra frente, a vida segue, não podemos deixar espaço pra tristeza entrar nesse lar que sempre foi de alegrias. Assim mesmo: cheio de vírgulas e sem pontos. Sem parar pra respirar. Sem parar pra pensar&#8230; Tive a ideia, procurei o tecido, comprei. Filhote (na época com 9 anos) e marido ajudaram a colocar. Foi algo feito para nós três e por nós três. Uma bagunça deliciosamente bonita! O resultado ficou incrível!” **Raquel Teixeira (Keka) | **<a href="http://www.tresemcasa.com.br/" target="_blank">**3 em casa**</a>
 > </p>
 
 &nbsp;
@@ -92,7 +92,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Minha casa tem muitas referências dos lugares por onde passei e tanto a estante, quanto a parede adjacente, e o móvel da TV, concentram lembranças de viagens que me marcaram. Bom, na verdade, posso dizer que toda viagem que fiz na vida me marcou de alguma maneira. Outro dia escrevi o seguinte: “Sinto que volto pra casa diferente depois de uma viagem, principalmente as que faço pra lugares distantes com culturas muito diferentes da nossa. É tanto aprendizado num período de tempo tão curto! Não tem como voltar igualzinha&#8230; mais do que um novo carimbo no passaporte, sinto que ganho um carimbo na alma”. Por isso gosto de me cercar de objetos que possuem histórias e que foram adquiridos em momentos especiais. Não os vejo como simples peças de decoração porque toda vez que olho pra eles lembro dos lugares que visitei e sinto uma nostalgia gostosa.” <strong>Katia Bonfadini | </strong><a href="http://www.casosecoisasdabonfa.blogspot.com.br/" target="_blank"><strong>Casos e Coisas da Bonfa</strong></a>
+>   Minha casa tem muitas referências dos lugares por onde passei e tanto a estante, quanto a parede adjacente, e o móvel da TV, concentram lembranças de viagens que me marcaram. Bom, na verdade, posso dizer que toda viagem que fiz na vida me marcou de alguma maneira. Outro dia escrevi o seguinte: “Sinto que volto pra casa diferente depois de uma viagem, principalmente as que faço pra lugares distantes com culturas muito diferentes da nossa. É tanto aprendizado num período de tempo tão curto! Não tem como voltar igualzinha&#8230; mais do que um novo carimbo no passaporte, sinto que ganho um carimbo na alma”. Por isso gosto de me cercar de objetos que possuem histórias e que foram adquiridos em momentos especiais. Não os vejo como simples peças de decoração porque toda vez que olho pra eles lembro dos lugares que visitei e sinto uma nostalgia gostosa.” **Katia Bonfadini | **<a href="http://www.casosecoisasdabonfa.blogspot.com.br/" target="_blank">**Casos e Coisas da Bonfa**</a>
 > </p>
 
 &nbsp;
@@ -112,7 +112,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

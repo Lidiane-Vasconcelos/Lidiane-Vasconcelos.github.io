@@ -1,7 +1,7 @@
 ---
-id: 3009
+
 title: Colorido nos armários da cozinha…fica bonito e inspirador!
-date: 2011-06-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/13/cozinha-moveis-cor/
@@ -10,11 +10,11 @@ categories:
   - Cozinha
 ---
 <p style="text-align: justify;">
-  Você não é a única pessoa desse mundo que tem uma vontade imensa de levar <strong>cor</strong> para a sua <strong>cozinha</strong> através dos <strong>móveis</strong>, sabia? Se para você o branco nesse espaço já está óbvio demais, vai gostar de ver que há várias possibilidades que podem deixar os  <strong>armários</strong> nesse espaço lindos de viver…
+  Você não é a única pessoa desse mundo que tem uma vontade imensa de levar **cor** para a sua **cozinha** através dos **móveis**, sabia? Se para você o branco nesse espaço já está óbvio demais, vai gostar de ver que há várias possibilidades que podem deixar os  **armários** nesse espaço lindos de viver…
 </p>
 
 <p style="text-align: justify;">
-  A <strong>Margaret</strong>, do blog <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, decidiu que queria brincar com as cores na cozinha dela também, e o resultado foi um banho de azul que, indiscutivelmente, trouxe muita alegria a esse canto da casa… olha só!
+  A **Margaret**, do blog **<a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**, decidiu que queria brincar com as cores na cozinha dela também, e o resultado foi um banho de azul que, indiscutivelmente, trouxe muita alegria a esse canto da casa… olha só!
 </p>
 
 &nbsp;
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Ela mostrou muito mais detalhes desse espaço <strong>neste post aqui</strong>, e eu tenho certeza que essa revolução doméstica deixou muitas de suas leitoras com um faniquito daqueles para implementar mudanças nesse sentido na cozinha também.
+  Ela mostrou muito mais detalhes desse espaço **neste post aqui**, e eu tenho certeza que essa revolução doméstica deixou muitas de suas leitoras com um faniquito daqueles para implementar mudanças nesse sentido na cozinha também.
 </p>
 
 <p style="text-align: justify;">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O <strong>azul</strong>, a exempo da escolha da Margaret e a dessa imagem para sua inspiração, pode trazer um resultado bem bonito. Veja que nesse ambiente para sua inspiração ele vem numa tonalidade bem suave, e que o resultado final ficou bacana com a cor do balcão e piso, que têm tom amadeirado mais escuro. A cor da parede não  é completamente branca, percebeu? Esse tipo de combinação de cores te seduz?
+  O **azul**, a exempo da escolha da Margaret e a dessa imagem para sua inspiração, pode trazer um resultado bem bonito. Veja que nesse ambiente para sua inspiração ele vem numa tonalidade bem suave, e que o resultado final ficou bacana com a cor do balcão e piso, que têm tom amadeirado mais escuro. A cor da parede não  é completamente branca, percebeu? Esse tipo de combinação de cores te seduz?
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O tom <strong>amarelo</strong> bem clarinho, como o da imagem acima para sua inspiração, foi o que escolhi para meus armários também. Se você ainda não viu o tom de meus armários, ele está no post onde tratamos de <strong><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank">revestimentos de cozinha</a></strong>. Para quem quer cor, mas com suavidade, fica a dica!
+  O tom **amarelo** bem clarinho, como o da imagem acima para sua inspiração, foi o que escolhi para meus armários também. Se você ainda não viu o tom de meus armários, ele está no post onde tratamos de **<a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank">revestimentos de cozinha</a>**. Para quem quer cor, mas com suavidade, fica a dica!
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Sabe uma boa alternativa para você experimentar o uso de cores na sua cozinha? Aplicá-las em algo que não seja nos armários, mas em prateleiras por exemplo. Que tal pincelar de <strong>lilás</strong> algumas delas? Fazendo isso, você dá o colorido na medida certa de seu gosto e estilo ao espaço. Pense nisso…
+  Sabe uma boa alternativa para você experimentar o uso de cores na sua cozinha? Aplicá-las em algo que não seja nos armários, mas em prateleiras por exemplo. Que tal pincelar de **lilás** algumas delas? Fazendo isso, você dá o colorido na medida certa de seu gosto e estilo ao espaço. Pense nisso…
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O <strong>verde</strong> está nos seus pensamentos? Escolha um tom suave e leve ares de refrescância para a cozinha. Veja como fica bonito? Perceba que compor essa tonalidade com o marrom fica muito bacana, então você pode caprichar em detalhes nesse tom na decoração do espaço. Você tem dúvidas de que a escolha pode ser muito acertada?
+  O **verde** está nos seus pensamentos? Escolha um tom suave e leve ares de refrescância para a cozinha. Veja como fica bonito? Perceba que compor essa tonalidade com o marrom fica muito bacana, então você pode caprichar em detalhes nesse tom na decoração do espaço. Você tem dúvidas de que a escolha pode ser muito acertada?
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Ousadia pouca é bobagem para quem decide ter uma cozinha toda <strong>vermelha</strong>, assim… mas que o resultado final fica vibrante, sedutor e muito, muito bonito, isso também é verdade. Ainda te resta alguma dúvida do quanto todo o espaço pode ficar super bonito? Note que todo o ambiente tem a leveza do branco para contrastar, o que dá um resultado de perfeito equilíbrio, não acha? Então, se essa é sua vontade, se joga no vermelho!
+  Ousadia pouca é bobagem para quem decide ter uma cozinha toda **vermelha**, assim… mas que o resultado final fica vibrante, sedutor e muito, muito bonito, isso também é verdade. Ainda te resta alguma dúvida do quanto todo o espaço pode ficar super bonito? Note que todo o ambiente tem a leveza do branco para contrastar, o que dá um resultado de perfeito equilíbrio, não acha? Então, se essa é sua vontade, se joga no vermelho!
 </p>
 
 <p style="text-align: justify;">

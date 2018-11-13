@@ -1,7 +1,7 @@
 ---
-id: 3549
+
 title: Como escolher a mesa de jantar perfeita para seu lar?
-date: 2016-02-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/25/mesa-de-jantar/
@@ -18,15 +18,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank"><strong>5 salas de jantar modernas pra viver de amores</strong></a>
+  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank">**5 salas de jantar modernas pra viver de amores**</a>
 </p>
 
 <p align="justify">
-  <strong>A sempre querida mesa retangular</strong>
+  **A sempre querida mesa retangular**
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A sala com a mesa redonda</strong>
+  **A sala com a mesa redonda**
 </p>
 
 <p align="justify">
@@ -74,15 +74,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-sala-mesa-de-jantar/" target="_blank"><strong>Qual mesa de jantar reinaria absoluta ne decoração sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-sala-mesa-de-jantar/" target="_blank">**Qual mesa de jantar reinaria absoluta ne decoração sua casa?**</a>
 </p>
 
 <p align="justify">
-  <strong>Quadrada e perfeita</strong>
+  **Quadrada e perfeita**
 </p>
 
 <p align="justify">
@@ -110,15 +110,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ambientes-sala-de-jantar/" target="_blank"><strong>3 ambientes inspiradores para sua sala de jantar. Comprove!</strong></a>
+  <a href="http://www.decoracaodacasa.com/ambientes-sala-de-jantar/" target="_blank">**3 ambientes inspiradores para sua sala de jantar. Comprove!**</a>
 </p>
 
 <p align="justify">
-  <strong>Questão de estilo</strong>
+  **Questão de estilo**
 </p>
 
 <p align="justify">
@@ -142,11 +142,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank"><strong>Dicas para a decoração sobre sua mesa de jantar.</strong></a>
+  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank">**Dicas para a decoração sobre sua mesa de jantar.**</a>
 </p>
 
 <p align="justify">
@@ -178,15 +178,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank"><strong>Cadeiras vermelhas: 6 ambientes inspiradores para te encorajar a usá-las.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank">**Cadeiras vermelhas: 6 ambientes inspiradores para te encorajar a usá-las.**</a>
 </p>
 
 <p align="justify">
-  <strong>Qual espaço você tem?</strong>
+  **Qual espaço você tem?**
 </p>
 
 <p align="justify">
@@ -194,11 +194,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank"><strong>Quer misturar cadeiras diferentes na mesa da sala de jantar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank">**Quer misturar cadeiras diferentes na mesa da sala de jantar?**</a>
 </p>
 
 <p align="justify">

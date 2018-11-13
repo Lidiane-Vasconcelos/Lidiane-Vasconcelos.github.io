@@ -1,7 +1,7 @@
 ---
-id: 3795
+
 title: Não basta passar protetor solar para bebê. Saiba tudo!
-date: 2017-09-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/06/protetor-solar-para-bebe/
@@ -11,11 +11,11 @@ categories:
   - Saúde Infantil
 ---
 <p align="justify">
-  <strong>Protetor solar</strong> <strong>para bebê</strong> protege, mas é preciso prestar atenção em várias outras medidas para garantir que a criança estará mesmo protegida nos dias ensolarados. Seja no parque, praia ou piscina, é importante que tenhamos a atenção redobrada para evitar o efeito nocivo do sol na pele dos pequenos, e para isso a informação salva!
+  **Protetor solar** **para bebê** protege, mas é preciso prestar atenção em várias outras medidas para garantir que a criança estará mesmo protegida nos dias ensolarados. Seja no parque, praia ou piscina, é importante que tenhamos a atenção redobrada para evitar o efeito nocivo do sol na pele dos pequenos, e para isso a informação salva!
 </p>
 
 <p align="justify">
-  A seguir, veja esclarecimentos e orientações importantes dados por nossa consultora, a <strong>Dra. Gláucia Labinas, Médica Dermatologista de São Paulo</strong>.
+  A seguir, veja esclarecimentos e orientações importantes dados por nossa consultora, a **Dra. Gláucia Labinas, Médica Dermatologista de São Paulo**.
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que o excesso de exposição solar causa na criança?</strong>
+  **Trololó de Mulher >>> O que o excesso de exposição solar causa na criança?**
 </p>
 
 <p align="justify">
@@ -111,7 +111,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que fazer para prevenir esse excesso?</strong>
+  **Trololó de Mulher >>> O que fazer para prevenir esse excesso?**
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que fazer se a criança apresentar sintomas de que ficou tempo demais exposta no sol?</strong>
+  **Trololó de Mulher >>> O que fazer se a criança apresentar sintomas de que ficou tempo demais exposta no sol?**
 </p>
 
 <p align="justify">

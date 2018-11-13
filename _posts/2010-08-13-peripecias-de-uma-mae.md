@@ -1,7 +1,7 @@
 ---
-id: 2860
+
 title: Peripécias de uma mãe desesperada…
-date: 2010-08-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/13/peripecias-de-uma-mae/
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>O que eu queria dizer é o seguinte: MÃES, as coisas melhoram! Acreditem! (até o marido colabora mais hoje…) </strong>
+  **O que eu queria dizer é o seguinte: MÃES, as coisas melhoram! Acreditem! (até o marido colabora mais hoje…) **
 </p>
 
 _Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_
@@ -110,7 +110,7 @@ _Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por <strong><em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/adriana-vieira/">Adriana Vieira</a></em></strong>
+      Por **<em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/adriana-vieira/">Adriana Vieira</a></em>**
     </td>
   </tr>
   
@@ -138,9 +138,9 @@ Quer ver seu texto publicado por aqui? Seja uma **_[bicha fêmea colaboradora](h
 **_[E a educação? Vem mesmo de berço?](http://www.trololodemulher.com.br/2009/11/16/educao-criancas/)_**
 
 <p style="text-align: center;">
-  Navegue no Bicha Fêmea: <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">Comportamento</a></em></strong> > Peripécias de uma mãe desesperada…
+  Navegue no Bicha Fêmea: **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">Comportamento</a></em>** > Peripécias de uma mãe desesperada…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

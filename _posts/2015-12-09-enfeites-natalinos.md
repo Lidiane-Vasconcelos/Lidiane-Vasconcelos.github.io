@@ -1,7 +1,7 @@
 ---
-id: 3521
+
 title: Enfeites natalinos para fazer com crianças
-date: 2015-12-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/09/enfeites-natalinos/
@@ -10,7 +10,7 @@ categories:
   - Decoração
 ---
 <p align="justify">
-  A essa altura do campeonato você já deve ter arrumado a casa para o Natal, não é? Se ainda não fez, é claro que ainda dá tempo! <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank">As crianças participam da decoração de Natal na sua casa</a>? Se sim, pergunto: que tal acrescentar alguns <strong>enfeites natalinos</strong>, mas que sejam confeccionados por você e os pequenos, juntos? Gostou da ideia? A execução é bem simples, e o resultado é muito bonitinho. Eu vivi de amores pela ideia, e desconfio que não será dierente contigo. Olha só:
+  A essa altura do campeonato você já deve ter arrumado a casa para o Natal, não é? Se ainda não fez, é claro que ainda dá tempo! <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank">As crianças participam da decoração de Natal na sua casa</a>? Se sim, pergunto: que tal acrescentar alguns **enfeites natalinos**, mas que sejam confeccionados por você e os pequenos, juntos? Gostou da ideia? A execução é bem simples, e o resultado é muito bonitinho. Eu vivi de amores pela ideia, e desconfio que não será dierente contigo. Olha só:
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ornamentos-natalinos/" target="_blank"><strong>2 ideias de ornamentos natalinos para sua criança fazer.</strong></a>
+  <a href="http://www.decoracaodacasa.com/ornamentos-natalinos/" target="_blank">**2 ideias de ornamentos natalinos para sua criança fazer.**</a>
 </p>
 
 <p align="center">

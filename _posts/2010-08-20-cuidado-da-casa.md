@@ -1,7 +1,7 @@
 ---
-id: 2863
+
 title: Ações esquecidas no cuidado da casa, porém necessárias.
-date: 2010-08-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/20/cuidado-da-casa/
@@ -10,7 +10,7 @@ categories:
   - Rotina da Casa
 ---
 <p style="text-align: justify;">
-  No dia a dia da diva do lar, há <strong><em>atividades de organização e limpeza da casa</em></strong> onde a necessidade de execução não é tão evidente, e a gente acaba esquecendo e deixando para lá. Mas elas são muito importantes!
+  No dia a dia da diva do lar, há **<em>atividades de organização e limpeza da casa</em>** onde a necessidade de execução não é tão evidente, e a gente acaba esquecendo e deixando para lá. Mas elas são muito importantes!
 </p>
 
 <p style="text-align: justify;">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Virar o colchão para prevenir que ele deforme, além de evitar a dor nas costas</em></strong>. Você se dá conta dessa necessidade? Para te ajudar a manter esse rotina e como se organizar para não esquecer como irá rotacionar o colchão toda vez que fizer isso, sugiro a leitura do post com <strong><em><a href="http://www.trololodemulher.com.br/2009/12/15/dica-como-virar-colchao/" target="_self">dicas para as viradas do colchão</a></em></strong>. Neste post já mostrei como confeccionar um cartão que te ajuda visualizar a melhor forma de executar essa atividade.
+  **<em>Virar o colchão para prevenir que ele deforme, além de evitar a dor nas costas</em>**. Você se dá conta dessa necessidade? Para te ajudar a manter esse rotina e como se organizar para não esquecer como irá rotacionar o colchão toda vez que fizer isso, sugiro a leitura do post com **<em><a href="http://www.trololodemulher.com.br/2009/12/15/dica-como-virar-colchao/" target="_self">dicas para as viradas do colchão</a></em>**. Neste post já mostrei como confeccionar um cartão que te ajuda visualizar a melhor forma de executar essa atividade.
 </p>
 
 <p style="text-align: center;">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Mandar lavar os cobertores antes de acondicioná-los para a próxima estação fria. </em></strong>Você faz isso? Isso é bom para evitar cheiro ruim e fungos, já que quando a gente se cobre deixa nele a gordura e impureza de nosso corpo. Além do mais, certifique-se que depois da higienização eles sejam acondicionados em embalagens adequadas, ou ainda que sejam usadas as embalagens que são a vácuo, já que isso te fará poupar espaço.
+  **<em>Mandar lavar os cobertores antes de acondicioná-los para a próxima estação fria. </em>**Você faz isso? Isso é bom para evitar cheiro ruim e fungos, já que quando a gente se cobre deixa nele a gordura e impureza de nosso corpo. Além do mais, certifique-se que depois da higienização eles sejam acondicionados em embalagens adequadas, ou ainda que sejam usadas as embalagens que são a vácuo, já que isso te fará poupar espaço.
 </p>
 
 <p style="text-align: center;">
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Mandar lavar os tapetes</em></strong>. Já que eles são os queridinhos do Inverno, quando mais se usa, eles acabam ficando especialmente mais sujos. Cuidado para não esquecer a lavagem periódica. Anote na agenda a hora de lavá-los!
+  **<em>Mandar lavar os tapetes</em>**. Já que eles são os queridinhos do Inverno, quando mais se usa, eles acabam ficando especialmente mais sujos. Cuidado para não esquecer a lavagem periódica. Anote na agenda a hora de lavá-los!
 </p>
 
 <p style="text-align: center;">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Limpar a geladeira periodicamente para evitar acúmulo de sujeira e mau cheiro</em></strong>. Nada que esponja macia e detergente neutro não resolva! Confira <a href="http://www.trololodemulher.com.br/2009/04/21/limpeza-organizacao-geladeira/" target="_self"><strong><em>dicas para higienização e organização da geladeira</em></strong> </a>que vão te ajudar nessa tarefa, e que foram publicadas no Bicha Fêmea anteriormente…
+  **<em>Limpar a geladeira periodicamente para evitar acúmulo de sujeira e mau cheiro</em>**. Nada que esponja macia e detergente neutro não resolva! Confira <a href="http://www.trololodemulher.com.br/2009/04/21/limpeza-organizacao-geladeira/" target="_self">**<em>dicas para higienização e organização da geladeira</em>** </a>que vão te ajudar nessa tarefa, e que foram publicadas no Bicha Fêmea anteriormente…
 </p>
 
 <p style="text-align: center;">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Adotar no dia a dia a postura do “cada coisa em seu lugar, um lugar para cada coisa”, tudo para facilitar na manutenção da limpeza e organização da casa</em></strong>. É difícil para você, e para mim também. Eu bem sei…
+  **<em>Adotar no dia a dia a postura do “cada coisa em seu lugar, um lugar para cada coisa”, tudo para facilitar na manutenção da limpeza e organização da casa</em>**. É difícil para você, e para mim também. Eu bem sei…
 </p>
 
 <p style="text-align: justify;">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Quer dicas? Sugiro a leitura de <strong><em><a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/" target="_self">5 dicas para controlar a bagunça em casa</a></em></strong>, assim você ganha tempo e reduz a quantidade de coisas para limpar, hã?
+  Quer dicas? Sugiro a leitura de **<em><a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/" target="_self">5 dicas para controlar a bagunça em casa</a></em>**, assim você ganha tempo e reduz a quantidade de coisas para limpar, hã?
 </p>
 
 Agora, ei! Deixa uma dica aí, vai…
@@ -86,11 +86,11 @@ _Imagens: <a href="http://www.countryliving.com/" target="_blank">Country Living
 **_[Dicas para passar camisa social.](http://www.trololodemulher.com.br/2008/11/25/dicas-passar-camisa-social/)_**
 
 <p style="text-align: center;">
-  Navegue no Bicha Fêmea: <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/">Cuidados & Limpeza</a></em></strong> > Ações esquecidas no cuidado da casa, porém necessárias.
+  Navegue no Bicha Fêmea: **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/">Cuidados & Limpeza</a></em>** > Ações esquecidas no cuidado da casa, porém necessárias.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 **_ _**

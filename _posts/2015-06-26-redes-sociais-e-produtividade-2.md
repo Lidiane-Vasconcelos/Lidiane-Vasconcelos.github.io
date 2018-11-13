@@ -1,7 +1,7 @@
 ---
-id: 3439
+
 title: 'Redes sociais e produtividade no dia a dia: qual o impacto?'
-date: 2015-06-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/26/redes-sociais-e-produtividade-2/
@@ -42,15 +42,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/" target="_blank">Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/" target="_blank">Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank">Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank">Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</a>**
 </p>
 
 <p align="center">

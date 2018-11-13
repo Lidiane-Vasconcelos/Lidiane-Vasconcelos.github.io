@@ -1,7 +1,7 @@
 ---
-id: 3382
+
 title: 'Gravidez saudável, segura e em equilíbrio: como vivenciá-la?'
-date: 2015-01-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/09/gravidez-saudavel-gestacao/
@@ -16,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  As informações bem valiosas a seguir são da <strong>Dra. Denise Vasconcelos, Médica Ginecologista e Obstetra, de Fortaleza – CE</strong>, e nossa mais nova querida consultora por aqui. Repare como as informações podem ajudar qualquer grávida a encontrar o caminho da tranquilidade para este período, o que pode fazer muita diferença no bem-estar do bebê também. Confere!
+  As informações bem valiosas a seguir são da **Dra. Denise Vasconcelos, Médica Ginecologista e Obstetra, de Fortaleza – CE**, e nossa mais nova querida consultora por aqui. Repare como as informações podem ajudar qualquer grávida a encontrar o caminho da tranquilidade para este período, o que pode fazer muita diferença no bem-estar do bebê também. Confere!
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Comer por dois?</span></strong>
+  **<span style="font-size: large;">Comer por dois?</span>**
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Passei da idade?</span></strong>
+  **<span style="font-size: large;">Passei da idade?</span>**
 </p>
 
 <p align="justify">
@@ -44,15 +44,15 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Grávida pode se exercitar?</span></strong>
+  **<span style="font-size: large;">Grávida pode se exercitar?</span>**
 </p>
 
 > <p align="justify">
->   <strong>Deve se exercitar! O exercício dá mais vigor e disposição à gestante, previne dores musculares e dores nas costas (lombalgias); melhora a circulação diminuindo a sensação de inchaço, cãimbras e dormências nas pernas. Melhora a qualidade do sono, ajuda no alongamento e flexibilidade que serão importantes para o momento do parto.”</strong>
+>   **Deve se exercitar! O exercício dá mais vigor e disposição à gestante, previne dores musculares e dores nas costas (lombalgias); melhora a circulação diminuindo a sensação de inchaço, cãimbras e dormências nas pernas. Melhora a qualidade do sono, ajuda no alongamento e flexibilidade que serão importantes para o momento do parto.”**
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Sobre a diabetes gestacional</span></strong>
+  **<span style="font-size: large;">Sobre a diabetes gestacional</span>**
 </p>
 
 <p align="justify">
@@ -68,27 +68,27 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Como escolher um Obstetra?</span></strong>
+  **<span style="font-size: large;">Como escolher um Obstetra?</span>**
 </p>
 
 > <p align="justify">
->   <strong>São longos 9 meses! Em primeiro lugar, empatia e afinidade é a base da relação médico-paciente. Além disso, precisa ser alguém em que você confie e obedeça cegamente. Tanto em relação às condutas tomadas durante o pré-natal quanto no momento do parto em si. A gravidez e amamentação são períodos cercados de lendas, receitas caseiras; todos querem palpitar. Cabe a mulher seguir as recomendações médicas pois seu obstetra é a pessoa mais preparada para orientá-la.</strong>
+>   **São longos 9 meses! Em primeiro lugar, empatia e afinidade é a base da relação médico-paciente. Além disso, precisa ser alguém em que você confie e obedeça cegamente. Tanto em relação às condutas tomadas durante o pré-natal quanto no momento do parto em si. A gravidez e amamentação são períodos cercados de lendas, receitas caseiras; todos querem palpitar. Cabe a mulher seguir as recomendações médicas pois seu obstetra é a pessoa mais preparada para orientá-la.**
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Quanto aos inchaços, toda grávida terá?</span></strong>
+  **<span style="font-size: large;">Quanto aos inchaços, toda grávida terá?</span>**
 </p>
 
 > <p align="justify">
->   <strong>Os hormônios da gravidez predispõem a uma retenção de líquidos. Além disso, à medida que o útero cresce dificulta o retorno da circulação que fica nas pernas. Isso pode ser amenizado com atividade física, massagens e drenagem linfática.”</strong>
+>   **Os hormônios da gravidez predispõem a uma retenção de líquidos. Além disso, à medida que o útero cresce dificulta o retorno da circulação que fica nas pernas. Isso pode ser amenizado com atividade física, massagens e drenagem linfática.”**
 > </p>
 
 <p align="center">
-  <span style="font-size: large;"><strong>Cansaço extra faz parte da gravidez?</strong></span>
+  <span style="font-size: large;">**Cansaço extra faz parte da gravidez?**</span>
 </p>
 
 > <p align="justify">
->   <strong>Sim, claro. A mulher vai ficando cada vez mais pesada com o crescimento da barriga e isso diminui sua agilidade. Ela demora mais tempo para realizar tarefas corriqueiras. Além disso, o útero dificulta a adequada expansão dos pulmões, então a mulher fica com fôlego mais curto e se cansa mais fácil.”</strong>
+>   **Sim, claro. A mulher vai ficando cada vez mais pesada com o crescimento da barriga e isso diminui sua agilidade. Ela demora mais tempo para realizar tarefas corriqueiras. Além disso, o útero dificulta a adequada expansão dos pulmões, então a mulher fica com fôlego mais curto e se cansa mais fácil.”**
 > </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ categories:
 </p>
 
 <p align="justify">
-  Meninas, é preciso que se diga que a <strong>Dra. Denise Vasconcelos</strong> tem um site incrível, recheado de muita informação pertinente a saúde da mulher, tanto em forma de blog, com posts ricos em orientações, como em vídeos. Vale <em>superultramega </em>a pena você espiar! <a href="http://dradenisevasconcelos.com.br/" target="_blank">Clique aqui e fique por dentro de tudo</a>! É lá, também, que você saberá como entrar em contato com a médica e até marcar uma consulta. Ah! Não deixe de <a href="https://www.facebook.com/dradenisevasconcelos" target="_blank">curtir sua fanpage no Facebook</a> e acompanhar suas atualizações por lá também. Informe-se!
+  Meninas, é preciso que se diga que a **Dra. Denise Vasconcelos** tem um site incrível, recheado de muita informação pertinente a saúde da mulher, tanto em forma de blog, com posts ricos em orientações, como em vídeos. Vale <em>superultramega </em>a pena você espiar! <a href="http://dradenisevasconcelos.com.br/" target="_blank">Clique aqui e fique por dentro de tudo</a>! É lá, também, que você saberá como entrar em contato com a médica e até marcar uma consulta. Ah! Não deixe de <a href="https://www.facebook.com/dradenisevasconcelos" target="_blank">curtir sua fanpage no Facebook</a> e acompanhar suas atualizações por lá também. Informe-se!
 </p>
 
 <p align="center">

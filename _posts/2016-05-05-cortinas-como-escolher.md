@@ -1,7 +1,7 @@
 ---
-id: 3605
+
 title: 'Cortinas: como escolher?'
-date: 2016-05-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/05/cortinas-como-escolher/
@@ -14,15 +14,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-cortinas-persianas/" target="_blank"><strong>4 ideias de decoração com cortinas e persianas nas janelas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-cortinas-persianas/" target="_blank">**4 ideias de decoração com cortinas e persianas nas janelas.**</a>
 </p>
 
 <p align="justify">
-  Acompanhe neste post todas as orientações da nossa consultora querida, a <strong>Arquiteta Regiane Yuki Sabanai</strong>, que divide-se entre Brasil e Portugal. É ela quem tira todas as nossas dúvidas pra garantir uma compra mais segura das cortinas, tudo por uma casa bonita e aconchegante.
+  Acompanhe neste post todas as orientações da nossa consultora querida, a **Arquiteta Regiane Yuki Sabanai**, que divide-se entre Brasil e Portugal. É ela quem tira todas as nossas dúvidas pra garantir uma compra mais segura das cortinas, tudo por uma casa bonita e aconchegante.
 </p>
 
 <p align="justify">
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortinas/" target="_blank"><strong>Quer ver 2 estilos diferentes (e simples!) de cortinas?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortinas/" target="_blank">**Quer ver 2 estilos diferentes (e simples!) de cortinas?**</a>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Muitas vezes nos chega a pergunta: qual a altura e comprimento ideal para cortinas? Bem&#8230;não existe uma obrigatoriedade, porém é preciso seguir umas dicas para que esta peça fique harmônica de acordo com o ambiente. E certamente, uma bela cortina faz toda a diferença na decoração. Em geral, cortinas longas são elegantes e sofisticadas, dando a sensação de pé direito mais alto e de ampliar o espaço. Um detalhe importante: não deve passar de 4 cm de arraste no chão para que o excesso de tecido não acumule poeira e cause acidentes. E a barra com 10 a 15 cm. Outro detalhe importante é a altura da colocação da cortina, e seguir de acordo com a altura do pé direito e tamanho da janela. Se o pé direito for baixo, coloque o varão ou trilho o mais próximo possível do teto, “alongando” o ambiente. No caso de um pé direito de 2.70 por exemplo, pode instalar o varão no meio da altura entre a parte superior da janela e o teto, pois fica bem bonito. Nas laterais o ideal é deixar 50 cm para a abertura da cortina sem atrapalhar. Para cortinas curtas o uso fica perfeito quando existe um móvel ou obstáculo para que esta não possa ir até o chão, como em cozinhas, escritório ou quartinho de bebê. Neste caso, quando possível, o ideal é deixar com 20cm abaixo do peitoril da janela e 50 cm nas laterais para não entrar a luminosidade excessiva e vento. Nos banheiros, o uso de tecido não é recomendado para não causar mofo.”</strong>
+>   **Muitas vezes nos chega a pergunta: qual a altura e comprimento ideal para cortinas? Bem&#8230;não existe uma obrigatoriedade, porém é preciso seguir umas dicas para que esta peça fique harmônica de acordo com o ambiente. E certamente, uma bela cortina faz toda a diferença na decoração. Em geral, cortinas longas são elegantes e sofisticadas, dando a sensação de pé direito mais alto e de ampliar o espaço. Um detalhe importante: não deve passar de 4 cm de arraste no chão para que o excesso de tecido não acumule poeira e cause acidentes. E a barra com 10 a 15 cm. Outro detalhe importante é a altura da colocação da cortina, e seguir de acordo com a altura do pé direito e tamanho da janela. Se o pé direito for baixo, coloque o varão ou trilho o mais próximo possível do teto, “alongando” o ambiente. No caso de um pé direito de 2.70 por exemplo, pode instalar o varão no meio da altura entre a parte superior da janela e o teto, pois fica bem bonito. Nas laterais o ideal é deixar 50 cm para a abertura da cortina sem atrapalhar. Para cortinas curtas o uso fica perfeito quando existe um móvel ou obstáculo para que esta não possa ir até o chão, como em cozinhas, escritório ou quartinho de bebê. Neste caso, quando possível, o ideal é deixar com 20cm abaixo do peitoril da janela e 50 cm nas laterais para não entrar a luminosidade excessiva e vento. Nos banheiros, o uso de tecido não é recomendado para não causar mofo.”**
 > </p>
 
 <p align="center">

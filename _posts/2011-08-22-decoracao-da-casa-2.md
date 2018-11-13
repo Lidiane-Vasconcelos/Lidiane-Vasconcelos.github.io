@@ -1,7 +1,7 @@
 ---
-id: 3039
+
 title: Do que você mais gosta na sua casa?
-date: 2011-08-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/22/decoracao-da-casa-2/
@@ -22,7 +22,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: medium;">A sala de estar…</span></strong>
+  **<span style="font-size: medium;">A sala de estar…</span>**
 </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Heranças de família…</span></strong>
+  **<span style="font-size: medium;">Heranças de família…</span>**
 </p>
 
 <p align="justify">
@@ -104,7 +104,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Quarto com toques de romantismo…</span></strong>
+  **<span style="font-size: medium;">Quarto com toques de romantismo…</span>**
 </p>
 
 <p align="justify">
@@ -124,41 +124,41 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 > </p>
 
 <p align="justify">
-  Vânia mudou recentemente do estado do Rio de Janeiro para Pernambuco, e agora é <strong>Recife</strong> quem abraça essa mulher cheia de talentos. Enquanto não retoma suas atividades profissionais com mãos de fada para tantas realizações artesanais, é a casa quem agradece tantos mimos e cuidados, o que enche os olhos de quem vive num lar tão bonito de se ver… e não é isso que também dá graça ao dia a dia?
+  Vânia mudou recentemente do estado do Rio de Janeiro para Pernambuco, e agora é **Recife** quem abraça essa mulher cheia de talentos. Enquanto não retoma suas atividades profissionais com mãos de fada para tantas realizações artesanais, é a casa quem agradece tantos mimos e cuidados, o que enche os olhos de quem vive num lar tão bonito de se ver… e não é isso que também dá graça ao dia a dia?
 </p>
 
 <p align="justify">
-  <strong>Mais no Bicha Fêmea…</strong>
+  **Mais no Bicha Fêmea…**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/">Decoração “faça você mesma”: luminárias de taça de vinho.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/">Decoração “faça você mesma”: luminárias de taça de vinho.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/">Móvel usado e antigo: dá mesmo para repaginá-lo?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/">Móvel usado e antigo: dá mesmo para repaginá-lo?</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/">Decoração barata: casa de Rejane</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/">Decoração barata: casa de Rejane</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/">Quer um mesinha? Improvisa!!!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/">Quer um mesinha? Improvisa!!!</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/07/05/decoracao-romantica-ruby/">Decoração romântica: casa da Ruby</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/07/05/decoracao-romantica-ruby/">Decoração romântica: casa da Ruby</a>**
 </p>
 
 <p align="center">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://twitter.com/#!/bichafemea" target="_blank">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank">Facebook</a> </strong>
+  **<a href="http://twitter.com/#!/bichafemea" target="_blank">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank">Facebook</a> **
 </p>

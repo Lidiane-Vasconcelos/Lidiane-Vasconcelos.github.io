@@ -1,7 +1,7 @@
 ---
-id: 3731
+
 title: Veja como aplicar 5 truques de maquiagem de festa.
-date: 2017-02-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/23/maquiagem-de-festa/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  A <strong>maquiagem de festa</strong> não precisa obedecer regra alguma, apenas estar alinhada com o seu estilo. Neste post a nossa querida consultora, <strong>Márcia Damasceno, Maquiadora de Belo Horizonte – MG</strong>, dá toques e dicas sobre como usar 5 truques de maquiagem que vão deixar você festiva, sim, mas sem perder sua identidade. Afinal de contas, é como Márcia diz: “<em>a maquiagem cuida de como estamos e transmite uma mensagem sobre nós. E que ela seja positiva e tenha a ver com a gente, sempre!</em>”. É por essas e outras que sou apaixonada pela proposta de trabalho dessa moça!
+  A **maquiagem de festa** não precisa obedecer regra alguma, apenas estar alinhada com o seu estilo. Neste post a nossa querida consultora, **Márcia Damasceno, Maquiadora de Belo Horizonte – MG**, dá toques e dicas sobre como usar 5 truques de maquiagem que vão deixar você festiva, sim, mas sem perder sua identidade. Afinal de contas, é como Márcia diz: “<em>a maquiagem cuida de como estamos e transmite uma mensagem sobre nós. E que ela seja positiva e tenha a ver com a gente, sempre!</em>”. É por essas e outras que sou apaixonada pela proposta de trabalho dessa moça!
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual outra cor de boca causa impacto tanto quanto o vermelho?</strong>
+  **Trololó de Mulher >>> Qual outra cor de boca causa impacto tanto quanto o vermelho?**
 </p>
 
 <p align="justify">
@@ -114,7 +114,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Quais suas dicas para essa maquiagem?</strong>
+  **Trololó de Mulher >>> Quais suas dicas para essa maquiagem?**
 </p>
 
 <p align="justify">
@@ -126,19 +126,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias de Márcia:</strong>
+  **Mais consultorias de Márcia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/12/15/consultoria-online-de-maquiagem/" target="_blank"><strong>Consultoria online de maquiagem pra ser você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/12/15/consultoria-online-de-maquiagem/" target="_blank">**Consultoria online de maquiagem pra ser você mesma.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/24/maquiagem-rosa/" target="_blank"><strong>Como usar maquiagem rosa sem parecer desatualizada?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/24/maquiagem-rosa/" target="_blank">**Como usar maquiagem rosa sem parecer desatualizada?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank"><strong>Medidas práticas para restaurar sua autoestima… já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">**Medidas práticas para restaurar sua autoestima… já!**</a>
 </p>
 
 <p align="justify">

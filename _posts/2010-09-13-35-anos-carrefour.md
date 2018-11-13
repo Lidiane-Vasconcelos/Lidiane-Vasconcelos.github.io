@@ -1,7 +1,7 @@
 ---
-id: 2877
+
 title: '35 anos de Carrefour no Brasil: seus bons momentos valem prêmios!'
-date: 2010-09-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/13/35-anos-carrefour/
@@ -16,7 +16,7 @@ _Ei_, bonita! Deixa eu te perguntar: você sabia que o Carrefour já está no Br
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Tem surpresa na loja de Pinheiros. Divirta-se!</em></strong>
+  **<em>Tem surpresa na loja de Pinheiros. Divirta-se!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -40,7 +40,7 @@ _Ei_, bonita! Deixa eu te perguntar: você sabia que o Carrefour já está no Br
   </p>
   
   <p style="text-align: center;">
-    <strong><em>Quer ganhar presente na promoção de aniversário do Carrefour?</em></strong>
+    **<em>Quer ganhar presente na promoção de aniversário do Carrefour?</em>**
   </p>
   
   <p style="text-align: justify;">

@@ -1,7 +1,7 @@
 ---
-id: 3474
+
 title: O que é ter um trabalho com propósito?
-date: 2015-09-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/11/trabalho-com-proposito/
@@ -12,7 +12,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Antes de fazer dos blogs (<strong>Trololó de Mulher e </strong><a href="http://decoracaodacasa.com/" target="_blank"><strong>Decoração da Casa</strong></a>) meu trabalho com propósito, eu tinha passado por empregos formais: carteira assinada, hora para entrar e sair, salário fixo, benefícios, etc. Eu pensava que aquele era o único jeito de trabalhar e gerar renda, até que chegasse a aposentadoria. No momento em que me aposentasse, imaginava, pararia de produzir. Chegar até esse ponto seria um sonho! Ora… se parar de trabalhar iria se constituir no meu tempo de vida ideal, quando eu de fato iria viver… então eu não vivia, mas apenas sobrevivia. Me arrastava… eu trabalhava dia a após dia para que, sei lá quando, “pendurasse” as chuteiras.
+  Antes de fazer dos blogs (**Trololó de Mulher e **<a href="http://decoracaodacasa.com/" target="_blank">**Decoração da Casa**</a>) meu trabalho com propósito, eu tinha passado por empregos formais: carteira assinada, hora para entrar e sair, salário fixo, benefícios, etc. Eu pensava que aquele era o único jeito de trabalhar e gerar renda, até que chegasse a aposentadoria. No momento em que me aposentasse, imaginava, pararia de produzir. Chegar até esse ponto seria um sonho! Ora… se parar de trabalhar iria se constituir no meu tempo de vida ideal, quando eu de fato iria viver… então eu não vivia, mas apenas sobrevivia. Me arrastava… eu trabalhava dia a após dia para que, sei lá quando, “pendurasse” as chuteiras.
 </p>
 
 <p align="justify">

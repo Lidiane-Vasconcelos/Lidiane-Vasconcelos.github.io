@@ -1,7 +1,7 @@
 ---
-id: 2735
+
 title: E A Educação? Vem Mesmo De Berço???
-date: 2009-11-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/16/educao-criancas/
@@ -32,12 +32,12 @@ Imagens: <a href="http://vintageholidaycrafts.com/" target="_blank">Vintage Holi
 > 
 > _<span style="color: #800080;">Mais no Bicha Fêmea sobre comportamento?</span>_
 > 
-> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/" target="_self">Por que será que queremos ser sempre heroínas?</a></strong></span>
+> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/" target="_self">Por que será que queremos ser sempre heroínas?</a>**</span>
 > 
-> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/10/05/comportamento-masculino/" target="_self">Já não há homens como antigamente? Que bom!</a></strong></span>
+> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/10/05/comportamento-masculino/" target="_self">Já não há homens como antigamente? Que bom!</a>**</span>
 > 
-> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/" target="_self">De repente você acorda e toma um susto: você é mãe!</a></strong></span>
+> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/" target="_self">De repente você acorda e toma um susto: você é mãe!</a>**</span>
 > 
-> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/" target="_self">Maternidade: um aprendizado que requer inteligência.</a></strong></span>
+> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/" target="_self">Maternidade: um aprendizado que requer inteligência.</a>**</span>
 > 
-> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/07/29/cobrancas-femininas/" target="_self">Mulher é um &#8220;bicho danado&#8221;. Se não, vejamos&#8230;</a></strong></span>
+> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/07/29/cobrancas-femininas/" target="_self">Mulher é um &#8220;bicho danado&#8221;. Se não, vejamos&#8230;</a>**</span>

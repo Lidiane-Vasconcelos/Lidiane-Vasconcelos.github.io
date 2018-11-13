@@ -1,7 +1,7 @@
 ---
-id: 2964
+
 title: 5 ideias para a decoração infantil no quarto dos pequenos…
-date: 2011-03-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/14/ideias-decoracao-infantil/
@@ -27,17 +27,17 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 </p>
 
 <p style="text-align: center;">
-  <em>Sugestão de quadros que podem enfeitar o quarto de meninos  e meninas. Ambos estão á venda no <strong>Mercado de Artes</strong>, a loja virtual do Bicha Fêmea. Clique no nome deles para saber maiores detalhes!</em>
+  <em>Sugestão de quadros que podem enfeitar o quarto de meninos  e meninas. Ambos estão á venda no **Mercado de Artes**, a loja virtual do Bicha Fêmea. Clique no nome deles para saber maiores detalhes!</em>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em></strong>
+      **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-full wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em>**
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-full wp-image-5325" title="Quadro Cenário Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank">Quadro Cenário Bolsinha</a></em></strong>
+      **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-full wp-image-5325" title="Quadro Cenário Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank">Quadro Cenário Bolsinha</a></em>**
     </td>
   </tr>
 </table>
@@ -55,17 +55,17 @@ Quer dar um ar diferente e artesanal na decoração do quarto de sua criança, o
 </p>
 
 <p style="text-align: center;">
-  <em>Sugestão de caixas que organizam e decoram o quarto de uma criança, seja ele para menina ou para menino. Ambas as caixas estão á venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer saber mais detalhes dos produtos? Clique no nome deles!</em>
+  <em>Sugestão de caixas que organizam e decoram o quarto de uma criança, seja ele para menina ou para menino. Ambas as caixas estão á venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer saber mais detalhes dos produtos? Clique no nome deles!</em>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">Porta Fotografia Lembranças da Praia</a></em></strong>
+      **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">Porta Fotografia Lembranças da Praia</a></em>**
     </td>
     
     <td style="text-align: center;" width="300" valign="top">
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-full wp-image-5349" title="Mini Cômoda Gatinha 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em></strong>
+      **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-full wp-image-5349" title="Mini Cômoda Gatinha 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em>**
     </td>
   </tr>
 </table>
@@ -113,21 +113,21 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Pitacos de bicha fêmea: decoração para quarto de mãe e filho](http://www.trololodemulher.com.br/2010/04/22/decoracao-quarto-mae-e-filho/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a>> 5 ideias para decoração infantil no quarto dos pequenos…
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>> 5 ideias para decoração infantil no quarto dos pequenos…
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>

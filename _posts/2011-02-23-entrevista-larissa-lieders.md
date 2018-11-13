@@ -1,7 +1,7 @@
 ---
-id: 2954
+
 title: 'Uma bicha fêmea por outra: Larissa Lieders'
-date: 2011-02-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/23/entrevista-larissa-lieders/
@@ -13,7 +13,7 @@ categories:
 Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Larissa Lieders** já comemora quase 10 anos de formação na área, e para nossa sorte, tem dividido seu bom gosto na arte de decorar uma casa em seu espaço virtual muito bem frequentado: <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">Fui morar numa casinha…</a>
 
 <p style="text-align: justify;">
-  Se você ainda não ouviu falar em <strong>Larissa</strong>, certamente ouvirá. A moça de bom gosto, e simpatia flagrante na forma como edita o blog, tem um espaço virtual em franco crescimento de visibilidade, e desconfio que ainda dará muito o que falar…
+  Se você ainda não ouviu falar em **Larissa**, certamente ouvirá. A moça de bom gosto, e simpatia flagrante na forma como edita o blog, tem um espaço virtual em franco crescimento de visibilidade, e desconfio que ainda dará muito o que falar…
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </p>
 
 <p style="text-align: justify;">
-  Assim como a maioria de nós, a <strong>Larissa</strong> se desdobra conduzindo sua carreira, a casa, a maternidade e seu casamento. Além disso tudo, não descuida do corpo, prezando pela saúde e bem estar: “<em>eu corro no parque 2 vezes por semana, logo cedinho, às 6h30 da manhã, assim não atrapalho a rotina da casa, por vezes volto e meu marido e filha ainda estão dormindo. E esse ano pretendo iniciar sessões de musculação. Da mente eu cuido quando faço as artes que posto no blog</em>”.
+  Assim como a maioria de nós, a **Larissa** se desdobra conduzindo sua carreira, a casa, a maternidade e seu casamento. Além disso tudo, não descuida do corpo, prezando pela saúde e bem estar: “<em>eu corro no parque 2 vezes por semana, logo cedinho, às 6h30 da manhã, assim não atrapalho a rotina da casa, por vezes volto e meu marido e filha ainda estão dormindo. E esse ano pretendo iniciar sessões de musculação. Da mente eu cuido quando faço as artes que posto no blog</em>”.
 </p>
 
 <p style="text-align: justify;">
@@ -35,19 +35,19 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </p>
 
 <p style="text-align: justify;">
-  Sorte de quem acompanha seu blog de perto, é preciso que se diga! Cheio de inspirações para quem gosta de trocar figurinhas sobre casa e decoração, o <strong>Fui morar numa casinha…</strong> é sinônimo de ponto de encontro virtual para quem gosta desse tipo de assunto, com <em>trololó</em> dos bons que nos deixa super á vontade…
+  Sorte de quem acompanha seu blog de perto, é preciso que se diga! Cheio de inspirações para quem gosta de trocar figurinhas sobre casa e decoração, o **Fui morar numa casinha…** é sinônimo de ponto de encontro virtual para quem gosta desse tipo de assunto, com <em>trololó</em> dos bons que nos deixa super á vontade…
 </p>
 
 <p style="text-align: justify;">
-  A bonita, literalmente falando, conta nessa entrevista para o <strong>Bicha Fêmea</strong> muito de sua experiência como blogueira e um pouco mais de sua experiência como arquiteta premiada, já que até prêmio de <em>design</em> já ganhou, em parceria com sua amiga Marcela. Confira!
+  A bonita, literalmente falando, conta nessa entrevista para o **Bicha Fêmea** muito de sua experiência como blogueira e um pouco mais de sua experiência como arquiteta premiada, já que até prêmio de <em>design</em> já ganhou, em parceria com sua amiga Marcela. Confira!
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">O Blog</span></em></strong>
+  **<em><span style="font-size: medium;">O Blog</span></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>O blog surgiu timidamente, em 2009, para mostrar como a casa que vocês haviam reformado estava sendo decorada. É notório que em 2010 a popularidade dele avançou significativamente. Isso assustou em algum momento?</em></strong>
+  **<em>O blog surgiu timidamente, em 2009, para mostrar como a casa que vocês haviam reformado estava sendo decorada. É notório que em 2010 a popularidade dele avançou significativamente. Isso assustou em algum momento?</em>**
 </p>
 
 <blockquote style="text-align: justify;">
@@ -57,7 +57,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </blockquote>
 
 <p style="text-align: justify;">
-  <strong><em>Como blogueira, faria algo diferente do que fez neste tempo de vida do blog?</em></strong>
+  **<em>Como blogueira, faria algo diferente do que fez neste tempo de vida do blog?</em>**
 </p>
 
 <blockquote style="text-align: justify;">
@@ -71,7 +71,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Ao longo da história do blog, você firmou parceria com o Instituto Brasileiro de Design de Interior para troca de informações e matérias. Além disso, um de seus posts foi citado com imagens na Revista Minha Casa. Como é começar a ter tanta visibilidade na blogosfera?</em></strong>
+  **<em>Ao longo da história do blog, você firmou parceria com o Instituto Brasileiro de Design de Interior para troca de informações e matérias. Além disso, um de seus posts foi citado com imagens na Revista Minha Casa. Como é começar a ter tanta visibilidade na blogosfera?</em>**
 </p>
 
 <blockquote style="text-align: justify;">
@@ -81,7 +81,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </blockquote>
 
 <p style="text-align: justify;">
-  <strong><em>O que você diria para as blogueiras que estão começando que querem ter um blog com visibilidade como é o seu?</em></strong>
+  **<em>O que você diria para as blogueiras que estão começando que querem ter um blog com visibilidade como é o seu?</em>**
 </p>
 
 <blockquote style="text-align: justify;">
@@ -91,7 +91,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </blockquote>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Arquiteta Premiada</span></em></strong>
+  **<em><span style="font-size: medium;">Arquiteta Premiada</span></em>**
 </p>
 
 **_Você e sua amiga Marcela, companheira desde a época de faculdade, tiveram um projeto de design premiado no IDEA/Brasil 2010 na categoria Casa, com a <a href="http://atelierladushki.blogspot.com/2010/02/chapeleira-gaudino.html" target="_blank">Chapeleira Gaudino</a>. Há mais projetos em andamento?_**
@@ -107,11 +107,11 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 > “_Na verdade ele foi criado com o intuito de promover a venda dos produtos criados por nós, claro que a ideia é incluir informações pertinentes também, sempre com o intuito de dividir conhecimento.”_
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Blogosfera </span></em></strong>
+  **<em><span style="font-size: medium;">Blogosfera </span></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Um blog bom tem que&#8230; </strong>
+  **Um blog bom tem que&#8230; **
 </p>
 
 <blockquote style="text-align: justify;">
@@ -121,7 +121,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </blockquote>
 
 <p style="text-align: justify;">
-  <strong><em>Uma blogueira jamais deveria&#8230;</em></strong>
+  **<em>Uma blogueira jamais deveria&#8230;</em>**
 </p>
 
 <blockquote style="text-align: justify;">
@@ -131,7 +131,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </blockquote>
 
 <p style="text-align: justify;">
-  <strong><em>A blogosfera é&#8230;</em></strong>
+  **<em>A blogosfera é&#8230;</em>**
 </p>
 
 <blockquote style="text-align: justify;">
@@ -141,7 +141,7 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 </blockquote>
 
 <p style="text-align: justify;">
-  <strong><em>Mais no Bicha Fêmea…</em></strong>
+  **<em>Mais no Bicha Fêmea…</em>**
 </p>
 
 **_[Uma bicha fêmea por outra: Veronica Kraemer](http://www.trololodemulher.com.br/2010/11/17/entrevista-veronica-kraemer/)_**
@@ -155,19 +155,19 @@ Ela é uma mulher ativa, moderna, jovem e bonita. Aos 32 anos, a **Arquiteta Lar
 **_[Uma bicha fêmea por outra: Mara Porto](http://www.trololodemulher.com.br/2010/05/26/mara-porto/)_**
 
 <p style="text-align: center;">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 **_ _**

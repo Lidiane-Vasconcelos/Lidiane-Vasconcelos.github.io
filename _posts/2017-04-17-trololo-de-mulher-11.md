@@ -1,7 +1,7 @@
 ---
-id: 3752
+
 title: 'Prateleira do Trololó de Mulher de Abril: pra viver no amor.'
-date: 2017-04-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/17/trololo-de-mulher-11/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Neste mês, no <strong>Trololó de Mulher</strong>, a <em>Prateleira</em> está recheada de inspirações para a casa, para os bebês, para as meninas e para você mesma. Tem conteúdo daqueles imperdíveis e necessários, e produtos que, oh: segura o coração! É muita lindeza, fofura e itens “tem que ter” num post só. Se joga e confia!
+  Neste mês, no **Trololó de Mulher**, a <em>Prateleira</em> está recheada de inspirações para a casa, para os bebês, para as meninas e para você mesma. Tem conteúdo daqueles imperdíveis e necessários, e produtos que, oh: segura o coração! É muita lindeza, fofura e itens “tem que ter” num post só. Se joga e confia!
 </p>
 
 <p align="center">

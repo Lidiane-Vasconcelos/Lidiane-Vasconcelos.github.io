@@ -1,7 +1,7 @@
 ---
-id: 3387
+
 title: Quer duas razões pra pintar suas paredes de branco?
-date: 2015-01-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/21/cor-parede-branco-decoracao/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**</a>
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank">**Cores salpicadas na decoração aqui e acolá: lindeza de ver.**</a>
 </p>
 
 &nbsp;

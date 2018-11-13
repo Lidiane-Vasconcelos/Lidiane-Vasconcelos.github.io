@@ -1,7 +1,7 @@
 ---
-id: 3485
+
 title: 'Purê de ervilha: bonito, saudável e nutritivo'
-date: 2015-09-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/16/pure-de-ervilha/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Que coisa linda de viver é esse <strong>purê de ervilha</strong>, minha gente?! Essa é mais uma receita sugerida pela Carol, nossa querida colaboradora que nos presenteia com essas delícias <em>superultramega</em> fáceis de reproduzir. Sabe como é, né? Receita simples, prática, bonita, gostosa e saudável é o que você mais vê por aqui. Vamos aprender como faz? Vem!
+  Que coisa linda de viver é esse **purê de ervilha**, minha gente?! Essa é mais uma receita sugerida pela Carol, nossa querida colaboradora que nos presenteia com essas delícias <em>superultramega</em> fáceis de reproduzir. Sabe como é, né? Receita simples, prática, bonita, gostosa e saudável é o que você mais vê por aqui. Vamos aprender como faz? Vem!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 4 xícaras (chá) de mandioquinha cozida;
@@ -53,11 +53,11 @@ Pimenta moída na hora a gosto.
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank"><strong>Saint peter ao forno ao molho de abóbora</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank">**Saint peter ao forno ao molho de abóbora**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank"><strong>Mousse de chocolate com café… porque merecemos!</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">**Mousse de chocolate com café… porque merecemos!**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank"><strong>Brigadeiro de colher saudável: xô, TPM!</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank">**Brigadeiro de colher saudável: xô, TPM!**</a>
 
 &nbsp;
 

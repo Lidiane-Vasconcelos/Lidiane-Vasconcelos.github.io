@@ -1,7 +1,7 @@
 ---
-id: 2791
+
 title: Mulherzinha? Eu?
-date: 2010-02-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/24/mulherzinha-preconceito/
@@ -25,7 +25,7 @@ Lucidez e argumentação inteligente é o que mais se lê em seus textos. Quer
 **_Por Laély – <a href="http://saladala.blogspot.com/" target="_blank">Sala da La</a>_**
 
 <p style="text-align: center;">
-  <strong><em>&#8220;Mulherzinha&#8221;, eeeu?!&#8230;</em></strong>
+  **<em>&#8220;Mulherzinha&#8221;, eeeu?!&#8230;</em>**
 </p>
 
 <table align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3432
+
 title: 'Cuidados com a pele do pescoço: você não esqueceu, certo?'
-date: 2015-06-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/08/cuidados-pele-pescoco/
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher: Por que, com o passar do tempo, o pescoço tende a mostrar rugas e flacidez antes mesmo que isso aconteça com a face?</strong>
+  **Trololó de Mulher: Por que, com o passar do tempo, o pescoço tende a mostrar rugas e flacidez antes mesmo que isso aconteça com a face?**
 </p>
 
 <p align="justify">

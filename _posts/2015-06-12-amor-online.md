@@ -1,7 +1,7 @@
 ---
-id: 3436
+
 title: 'O amor está online: com wi-fi &#038; muito carinho.'
-date: 2015-06-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/12/amor-online/
@@ -12,7 +12,7 @@ categories:
   - Relacionamento
 ---
 <p align="justify">
-  Sabe aquelas pessoas que, juntas, têm uma identidade como casal? Sabe quando isso é percebido por quem os conhece e, de tão verdadeiro que o amor delas parece pra gente, é impossível não torcer sempre a favor dessas relações. E mais… sabe quando a gente acompanha esse amor pela internet e sente uma energia boa que emana desses casais? Pois é… é nesse momento que a gente sente que o amor está online e, pra nossa alegria, ele invadiu o <strong>Trololó de Mulher</strong> neste dia dos namorados.
+  Sabe aquelas pessoas que, juntas, têm uma identidade como casal? Sabe quando isso é percebido por quem os conhece e, de tão verdadeiro que o amor delas parece pra gente, é impossível não torcer sempre a favor dessas relações. E mais… sabe quando a gente acompanha esse amor pela internet e sente uma energia boa que emana desses casais? Pois é… é nesse momento que a gente sente que o amor está online e, pra nossa alegria, ele invadiu o **Trololó de Mulher** neste dia dos namorados.
 </p>
 
 <p align="justify">
@@ -28,27 +28,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher: Qual o papel da internet na relação?</strong>
+  **Trololó de Mulher: Qual o papel da internet na relação?**
 </p>
 
 > <p align="justify">
->   <strong><em>“Um papel muito saudável e cheio de confiança. Enquanto para alguns casais a internet é motivo de desavença, para nós é motivo de união, afinal nos conhecemos através dela. Eu sou a que fica mais tempo, mas ele participa de tudo. Torce, palpita, conserta meus erros de português. E além de tudo, dividimos o conhecimento e as coisas engraçadas.”</em></strong>
+>   **<em>“Um papel muito saudável e cheio de confiança. Enquanto para alguns casais a internet é motivo de desavença, para nós é motivo de união, afinal nos conhecemos através dela. Eu sou a que fica mais tempo, mas ele participa de tudo. Torce, palpita, conserta meus erros de português. E além de tudo, dividimos o conhecimento e as coisas engraçadas.”</em>**
 > </p>
 
 <p align="justify">
-  <strong>TMulher: Como evitar que a conexão do casal caia?</strong>
+  **TMulher: Como evitar que a conexão do casal caia?**
 </p>
 
 > <p align="justify">
->   <strong><em>“Tendo companheirismo e confiança.”</em></strong>
+>   **<em>“Tendo companheirismo e confiança.”</em>**
 > </p>
 
 <p align="justify">
-  <strong>TM: Quando foi que vocês tiveram certeza de que esse amor tinha tudo pra dar certo?</strong>
+  **TM: Quando foi que vocês tiveram certeza de que esse amor tinha tudo pra dar certo?**
 </p>
 
 > <p align="justify">
->   <strong>“<em>No primeiro dia. E eu nem queria acreditar que eu tinha encontrado o homem da minha vida. Achei que era muito bom pra ser verdade. A parte boa é que foi verdade.”</em></strong>
+>   **“<em>No primeiro dia. E eu nem queria acreditar que eu tinha encontrado o homem da minha vida. Achei que era muito bom pra ser verdade. A parte boa é que foi verdade.”</em>**
 > </p>
 
 <p align="center">
@@ -64,27 +64,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher: Como vocês se conheceram?</strong>
+  **Trololó de Mulher: Como vocês se conheceram?**
 </p>
 
 > <p align="justify">
->   <strong><em>“Nos conhecemos através da internet (Eder era amigo virtual da minha mãe&#8230; (hihihi)”</em></strong>
+>   **<em>“Nos conhecemos através da internet (Eder era amigo virtual da minha mãe&#8230; (hihihi)”</em>**
 > </p>
 
 <p align="justify">
-  <strong>TMulher:</strong> <strong>Como manter a chama acesa, trabalhando lado a lado, dia após dia? </strong>
+  **TMulher:** **Como manter a chama acesa, trabalhando lado a lado, dia após dia? **
 </p>
 
 > <p align="justify">
->   <strong>“<em>Eu não tenho outro parâmetro de relacionamento, apesar do casamento dos meus pais não ter dado certo, cresci vendo os dois sempre trabalhando juntos&#8230; pra mim, esse é o padrão. Casei com alguém que também enxerga a vida assim, que um casal tá lado a lado em todos os aspectos pro que der e vier. Às vezes é bem complicado estar 24 horas por dia juntos, separar chateações de trabalho com chateações pessoais, ou não ter aquela ansiedade de esperar por um encontro, ou quando falta assunto pra conversar porque a gente olha no olho do outro e sabe o que o outro tá sentindo.”</em></strong>
+>   **“<em>Eu não tenho outro parâmetro de relacionamento, apesar do casamento dos meus pais não ter dado certo, cresci vendo os dois sempre trabalhando juntos&#8230; pra mim, esse é o padrão. Casei com alguém que também enxerga a vida assim, que um casal tá lado a lado em todos os aspectos pro que der e vier. Às vezes é bem complicado estar 24 horas por dia juntos, separar chateações de trabalho com chateações pessoais, ou não ter aquela ansiedade de esperar por um encontro, ou quando falta assunto pra conversar porque a gente olha no olho do outro e sabe o que o outro tá sentindo.”</em>**
 > </p>
 
 <p align="justify">
-  <strong>TM: Quando o dia a dia desfoca, como colorir a relação?</strong>
+  **TM: Quando o dia a dia desfoca, como colorir a relação?**
 </p>
 
 > <p align="justify">
->   <strong><em>“Não tem um artifício específico que usamos pra manter a relação acesa e colorida. Nossa relação tem uma cumplicidade muito grande que vai muito além da relação marido e mulher, e a gente vai se ajustando quando vemos que algo não tá indo bem&#8230; Ver um filme juntos, em casa, com uma bacia de pipoca, ir numa praia calma e tranquila&#8230; Essas pequenas coisas que valorizamos, esse olhar que tá sempre na mesma direção é o que nos ajuda a seguir lado a lado.”</em></strong>
+>   **<em>“Não tem um artifício específico que usamos pra manter a relação acesa e colorida. Nossa relação tem uma cumplicidade muito grande que vai muito além da relação marido e mulher, e a gente vai se ajustando quando vemos que algo não tá indo bem&#8230; Ver um filme juntos, em casa, com uma bacia de pipoca, ir numa praia calma e tranquila&#8230; Essas pequenas coisas que valorizamos, esse olhar que tá sempre na mesma direção é o que nos ajuda a seguir lado a lado.”</em>**
 > </p>
 
 <p align="center">
@@ -98,43 +98,43 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong>Trololó de Mulher: Como foram os alinhavos dessa conquista?</strong>
+  **Trololó de Mulher: Como foram os alinhavos dessa conquista?**
 </p>
 
 > <p align="justify">
->   <strong>“Tudo foi muito rápido : nos conhecemos na internet e ficamos amigos, logo ele veio me conhecer na minha cidade, e em um passeio o pneu do meu carro furou. Sérgio trocou o pneu do carro, às 2 hrs da madrugada, e eu me apaixonei por aquela cena. No dia seguinte ele me ligou dizendo que tinha vindo a Mossoró para me conhecer e ficar comigo.”</strong>
+>   **“Tudo foi muito rápido : nos conhecemos na internet e ficamos amigos, logo ele veio me conhecer na minha cidade, e em um passeio o pneu do meu carro furou. Sérgio trocou o pneu do carro, às 2 hrs da madrugada, e eu me apaixonei por aquela cena. No dia seguinte ele me ligou dizendo que tinha vindo a Mossoró para me conhecer e ficar comigo.”**
 > </p>
 
 <p align="justify">
-  <strong>TMulher: Quando foi que perceberam que era amor pra toda a vida?</strong>
+  **TMulher: Quando foi que perceberam que era amor pra toda a vida?**
 </p>
 
 > <p align="justify">
->   <strong>“Quando terminamos o namoro após 3 meses percebemos que não íamos conseguir ficar um sem o outro. Peguei o ônibus e fui ao encontro dele em Recife e na rodoviária ele estava me esperando com uma rosa na mão. Batata! Dali em diante sabíamos que seria para sempre.”</strong>
+>   **“Quando terminamos o namoro após 3 meses percebemos que não íamos conseguir ficar um sem o outro. Peguei o ônibus e fui ao encontro dele em Recife e na rodoviária ele estava me esperando com uma rosa na mão. Batata! Dali em diante sabíamos que seria para sempre.”**
 > </p>
 
 <p align="justify">
-  <strong>TM: Quando a relação desanda, como colocar os pingos nos is?</strong>
+  **TM: Quando a relação desanda, como colocar os pingos nos is?**
 </p>
 
 > <p align="justify">
->   <strong>“Com uns gritos, uns desabafos de TUDO, logo um bom vinho e em seguida uma boa noite de amor, daquelas que raramente acontecem no casamento, quando se dorme abraçados a noite inteira.”</strong>
+>   **“Com uns gritos, uns desabafos de TUDO, logo um bom vinho e em seguida uma boa noite de amor, daquelas que raramente acontecem no casamento, quando se dorme abraçados a noite inteira.”**
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank"><strong>Casamento: os conselhos mais inteligentes. Já leu?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank">**Casamento: os conselhos mais inteligentes. Já leu?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank"><strong>Casamento duradouro: isto tem algum segredo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank">**Casamento duradouro: isto tem algum segredo?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank"><strong>Há vida após o casamento?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank">**Há vida após o casamento?**</a>
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 2715
+
 title: Você Tem 27 Motivos Para Sorrir? Eu Tenho.
-date: 2009-10-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/12/promocao-blog-ainda-mininama/

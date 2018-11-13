@@ -1,7 +1,7 @@
 ---
-id: 3233
+
 title: Decoração simples… mas das boas!
-date: 2013-07-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/03/decoracao-simples/
@@ -14,17 +14,17 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="justify">
-  <strong>Rosana</strong>, do blog <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a></strong>, sonha tornar o <em>design de interiores</em> acessível para pessoas como você e eu. Pensando nisso, ela criou um dos blogs mais ricos em conteúdo voltado para a <strong>decoração.</strong> Sorte nossa! É ela quem conta o caminho trilhado para ocupar um lugar de destaque na blogosfera… confere!
+  **Rosana**, do blog **<a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a>**, sonha tornar o <em>design de interiores</em> acessível para pessoas como você e eu. Pensando nisso, ela criou um dos blogs mais ricos em conteúdo voltado para a **decoração.** Sorte nossa! É ela quem conta o caminho trilhado para ocupar um lugar de destaque na blogosfera… confere!
 </p>
 
 <!--more-->
 
 <p align="justify">
-  A vida quase colocou a Rosana no lugar de uma profissional da área de informática, onde atuou por mais de 20 anos. Em 2007 ela havia criado um blog para distrair a cabeça por causa da morte do marido, e também desde esse período fazia pós em <em>Design</em> de Interiores. Em 2008 foi demitida e, o que para muitos poderia representar uma tragédia pessoal, para ela a situação soou como uma oportunidade de mudança… e foi para melhor! Nascia o <strong>Simples Decoração</strong>, um projeto que vem dando super certo até hoje.
+  A vida quase colocou a Rosana no lugar de uma profissional da área de informática, onde atuou por mais de 20 anos. Em 2007 ela havia criado um blog para distrair a cabeça por causa da morte do marido, e também desde esse período fazia pós em <em>Design</em> de Interiores. Em 2008 foi demitida e, o que para muitos poderia representar uma tragédia pessoal, para ela a situação soou como uma oportunidade de mudança… e foi para melhor! Nascia o **Simples Decoração**, um projeto que vem dando super certo até hoje.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO.jpg"><img class="alignnone size-full wp-image-9510" alt="SIMPLES DECORACAO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO.jpg" width="600" height="404" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO.jpg"><img class="alignnone size-full wp-image-9510" alt="SIMPLES DECORACAO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SIMPLES-DECORACAO.jpg" width="600" height="404" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Para conhecê-la uma pouco mais…</span></strong>
+  **<span style="font-size: large;">Para conhecê-la uma pouco mais…</span>**
 </p>
 
 &nbsp;
@@ -68,26 +68,26 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="justify">
-  Curiosa para ver de perto todo o seu trabalho e envolvimento com a decoração? Se joga no <strong><a href="http://www.simplesdecoracao.com.br/" target="_blank">blog</a></strong>, confira, encante-se e viva de amores!
+  Curiosa para ver de perto todo o seu trabalho e envolvimento com a decoração? Se joga no **<a href="http://www.simplesdecoracao.com.br/" target="_blank">blog</a>**, confira, encante-se e viva de amores!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/LIVEMAGNETS200.png"><img class="alignnone size-full wp-image-9501" alt="LIVEMAGNETS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/LIVEMAGNETS200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/13/decoracao-geladeira-cozinha/"><strong><span style="font-size: medium;"><br /> Quer decorar a geladeira, mas não quer usar adesivo? É fácil!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/LIVEMAGNETS200.png"><img class="alignnone size-full wp-image-9501" alt="LIVEMAGNETS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/LIVEMAGNETS200.png" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/13/decoracao-geladeira-cozinha/">**<span style="font-size: medium;"><br /> Quer decorar a geladeira, mas não quer usar adesivo? É fácil!</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9467" alt="DECORACAO SALA ESTAR SIMPLES BARATA FACA VOCE MESMA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/"><strong><span style="font-size: medium;">Solução de decoração boa, bonita e barata: tapete de sisal listrado</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9467" alt="DECORACAO SALA ESTAR SIMPLES BARATA FACA VOCE MESMA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SALA-ESTAR-SIMPLES-BARATA-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/">**<span style="font-size: medium;">Solução de decoração boa, bonita e barata: tapete de sisal listrado</span>**</a>
       </p>
     </td>
   </tr>
@@ -95,13 +95,13 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg"><img class="alignnone size-full wp-image-9446" alt="DECORACAO SIMPLES BASICA ELEGANTE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/"><strong><span style="font-size: medium;"><br /> Decoração básica com graça e charme: aprenda os truques!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg"><img class="alignnone size-full wp-image-9446" alt="DECORACAO SIMPLES BASICA ELEGANTE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/DECORACAO-SIMPLES-BASICA-ELEGANTE200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/">**<span style="font-size: medium;"><br /> Decoração básica com graça e charme: aprenda os truques!</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-9433" alt="DECORACAO-QUARTO-INFANTIL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/"><strong><span style="font-size: medium;"><br /> Dica de decoração infantil que sua criança pode fazer…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-9433" alt="DECORACAO-QUARTO-INFANTIL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DECORACAO-QUARTO-INFANTIL200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/">**<span style="font-size: medium;"><br /> Dica de decoração infantil que sua criança pode fazer…</span>**</a>
       </p>
     </td>
   </tr>
@@ -118,7 +118,7 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -142,9 +142,9 @@ Você sonha com uma casa confortável e com jeito de lar? Materializar esse dese
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

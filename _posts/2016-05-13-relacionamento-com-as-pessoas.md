@@ -1,7 +1,7 @@
 ---
-id: 3608
+
 title: Entenda por que é difícil o relacionamento com as pessoas.
-date: 2016-05-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/13/relacionamento-com-as-pessoas/
@@ -10,7 +10,7 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  Amo criar banners para nos colocar pulgas atrás da orelha, fazer a gente pensar sobre variadas questões. Dia desses eu estava fazendo a divulgação de um deles, que falava sobre relacionamento interpessoal e, de cara, ele instigou uma de minhas leitoras. Erika Felício, uma bonitona que tive o privilégio de conhecer pessoalmente, logo me perguntou: “<em><strong>relacionamento com as pessoas</strong> é tão difícil… por que isso acontece?</em>”
+  Amo criar banners para nos colocar pulgas atrás da orelha, fazer a gente pensar sobre variadas questões. Dia desses eu estava fazendo a divulgação de um deles, que falava sobre relacionamento interpessoal e, de cara, ele instigou uma de minhas leitoras. Erika Felício, uma bonitona que tive o privilégio de conhecer pessoalmente, logo me perguntou: “<em>**relacionamento com as pessoas** é tão difícil… por que isso acontece?</em>”
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Uma das coisas que amo no meu trabalho como blogueira é tornar esse espaço vivo, no sentido de que há troca entre as leitoras comigo. Ou seja, aqui não há monólogo, mas muito diálogo. Aqui nos relacionamos de gente pra gente, de coração pra coração. Melhor ainda é quando desse relacionamento surgem ideias incríveis para posts. Diante da pergunta da Erika, sabe qual é a melhor das notícias? O blog tem consultores qualificados, como a <strong>Psicóloga Elaine Sibinelli, de Campinas – SP, </strong>que também é bastante gentil. Ela aceitou responder essa dúvida da Erika, que é tão comum a muitas de nós, não é? Para entender porque é mesmo complicado se relacionar, em algumas situações, com outras pessoas, e mostrar possíveis saídas para esse problema, acompanhe o que Elaine tem a nos dizer:
+  Uma das coisas que amo no meu trabalho como blogueira é tornar esse espaço vivo, no sentido de que há troca entre as leitoras comigo. Ou seja, aqui não há monólogo, mas muito diálogo. Aqui nos relacionamos de gente pra gente, de coração pra coração. Melhor ainda é quando desse relacionamento surgem ideias incríveis para posts. Diante da pergunta da Erika, sabe qual é a melhor das notícias? O blog tem consultores qualificados, como a **Psicóloga Elaine Sibinelli, de Campinas – SP, **que também é bastante gentil. Ela aceitou responder essa dúvida da Erika, que é tão comum a muitas de nós, não é? Para entender porque é mesmo complicado se relacionar, em algumas situações, com outras pessoas, e mostrar possíveis saídas para esse problema, acompanhe o que Elaine tem a nos dizer:
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com" target="_blank">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com" target="_blank">sibinelllipsico@gmail.com</a>. Ela também tem **página do Facebook**, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>!
 </p>
 
 <p align="center">

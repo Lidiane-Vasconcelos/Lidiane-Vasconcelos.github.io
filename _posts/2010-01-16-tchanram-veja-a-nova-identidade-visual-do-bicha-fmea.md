@@ -1,7 +1,7 @@
 ---
-id: 2767
+
 title: “Tchanram”… Nova identidade visual do Bicha Fêmea!
-date: 2010-01-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/16/tchanram-veja-a-nova-identidade-visual-do-bicha-fmea/

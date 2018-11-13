@@ -1,7 +1,7 @@
 ---
-id: 3318
+
 title: Quer presentear com algo criativo, mas não sabe como?
-date: 2014-07-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/03/presente-personalizado/
@@ -26,7 +26,7 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="justify">
-  Isso é só um pouquinho, pouquinho bem mínimo, do que você pode escolher e atribuir um visual exclusivo. As possibilidades são muitas em produtos de <strong>papelaria, para você, sua casa, para as crianças, seu pet, escritório</strong>, etc. E na <strong>La Pomme</strong> é assim:
+  Isso é só um pouquinho, pouquinho bem mínimo, do que você pode escolher e atribuir um visual exclusivo. As possibilidades são muitas em produtos de **papelaria, para você, sua casa, para as crianças, seu pet, escritório**, etc. E na **La Pomme** é assim:
 </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Você soube do sorteio relâmpago no Facebook?</span></strong>
+  **<span style="font-size: small;">Você soube do sorteio relâmpago no Facebook?</span>**
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 2828
+
 title: 'Organização como blogueira: faz alguma diferença?'
-date: 2010-06-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/11/organizacao-blogosfera/

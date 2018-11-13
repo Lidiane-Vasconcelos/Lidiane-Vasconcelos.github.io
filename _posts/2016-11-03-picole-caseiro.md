@@ -1,7 +1,7 @@
 ---
-id: 3696
+
 title: 'Por um Verão perfeito: picolé caseiro de morango e iogurte.'
-date: 2016-11-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/03/picole-caseiro/
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes:</em></strong>
+  **<em>Ingredientes:</em>**
 </p>
 
 <p align="justify">
@@ -78,23 +78,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/" target="_blank">Brigadeiro de pistache pra adoçar a vida com bossa.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/" target="_blank">Brigadeiro de pistache pra adoçar a vida com bossa.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank">Alho assado com alecrim, pra tornar tudo especial.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank">Alho assado com alecrim, pra tornar tudo especial.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank">Sorvete caseiro de melancia para dias de sol.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank">Sorvete caseiro de melancia para dias de sol.</a>**
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">

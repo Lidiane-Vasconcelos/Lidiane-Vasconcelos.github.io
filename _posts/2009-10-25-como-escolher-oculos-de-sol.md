@@ -1,7 +1,7 @@
 ---
-id: 2721
+
 title: Como Escolher Óculos de Sol Para o Nosso Rosto.
-date: 2009-10-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/25/como-escolher-oculos-de-sol/

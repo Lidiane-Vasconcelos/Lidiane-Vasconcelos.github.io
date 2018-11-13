@@ -1,7 +1,7 @@
 ---
-id: 3035
+
 title: Você gosta de blogs de culinária?
-date: 2011-08-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/12/blogs-de-culinaria/
@@ -14,7 +14,7 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 &nbsp;
 
 <p align="justify">
-  Um dos blogs que entra na minha lista de favoritos é o da <strong>Juliana Stelli</strong>, a moça que comanda o <strong><a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong>. O blog dela é tão bacana que só poderia ser editado por uma blogueira que entende o que é fazer um blog com qualidade nesse tipo de nicho. Isso faz sentido para você também?
+  Um dos blogs que entra na minha lista de favoritos é o da **Juliana Stelli**, a moça que comanda o **<a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**. O blog dela é tão bacana que só poderia ser editado por uma blogueira que entende o que é fazer um blog com qualidade nesse tipo de nicho. Isso faz sentido para você também?
 </p>
 
 <!--more-->
@@ -26,23 +26,23 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">O que eu fiz?</span></strong>
+  **<span style="font-size: medium;">O que eu fiz?</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Convidei a <strong>Ju</strong> para <strong>elencar 5 blogs de culinária queridos por ela</strong>, e dissesse o porquê de sua escolha. Ela topou o desafio e listou essas preciosidades para a gente navegar, explorar e não tirar mais dos favoritos, tudo com exclusividade para o <strong>Bicha Fêmea</strong>. Desfrute das escolhas…
+  Convidei a **Ju** para **elencar 5 blogs de culinária queridos por ela**, e dissesse o porquê de sua escolha. Ela topou o desafio e listou essas preciosidades para a gente navegar, explorar e não tirar mais dos favoritos, tudo com exclusividade para o **Bicha Fêmea**. Desfrute das escolhas…
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta.jpg"><img class="alignnone size-full wp-image-6733" title="green peper isolated on white" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta.jpg" alt="" width="600" height="435" /><br /> </a>Imagem:<strong> </strong><a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta.jpg"><img class="alignnone size-full wp-image-6733" title="green peper isolated on white" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta.jpg" alt="" width="600" height="435" /><br /> </a>Imagem:** **<a href="http://www.sxc.hu/" target="_blank">**stock.xchng**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <span style="font-size: small;">1 – <strong><a href="http://mixirica.uol.com.br/" target="_blank">Mixirica</a></strong></span>
+  <span style="font-size: small;">1 – **<a href="http://mixirica.uol.com.br/" target="_blank">Mixirica</a>**</span>
 </p>
 
 &nbsp;
@@ -60,7 +60,7 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 &nbsp;
 
 <p align="center">
-  <span style="font-size: small;">2 – <strong><a href="http://www.naminhapanela.com/" target="_blank">Na minha panela</a></strong></span>
+  <span style="font-size: small;">2 – **<a href="http://www.naminhapanela.com/" target="_blank">Na minha panela</a>**</span>
 </p>
 
 &nbsp;
@@ -76,11 +76,11 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 > </p>
 
 <p align="center">
-  <span style="font-size: small;">3 – <strong><a href="http://www.chocolatria.com/" target="_blank">Chocolatria</a></strong></span>
+  <span style="font-size: small;">3 – **<a href="http://www.chocolatria.com/" target="_blank">Chocolatria</a>**</span>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Chocolatria.png"><img class="alignnone size-full wp-image-6729" title="Chocolatria" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Chocolatria.png" alt="" width="600" height="126" /></a></strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Chocolatria.png"><img class="alignnone size-full wp-image-6729" title="Chocolatria" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Chocolatria.png" alt="" width="600" height="126" /></a>**
 </p>
 
 > <p align="justify">
@@ -88,11 +88,11 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 > </p>
 
 <p align="center">
-  <span style="font-size: small;">4 – <strong><a href="http://www.quitandoca.com/" target="_blank">Quitandoca</a></strong></span>
+  <span style="font-size: small;">4 – **<a href="http://www.quitandoca.com/" target="_blank">Quitandoca</a>**</span>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Quitandoca.png"><img class="alignnone size-full wp-image-6736" title="Quitandoca" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Quitandoca.png" alt="" width="600" height="127" /></a></strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Quitandoca.png"><img class="alignnone size-full wp-image-6736" title="Quitandoca" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Quitandoca.png" alt="" width="600" height="127" /></a>**
 </p>
 
 > <p align="justify">
@@ -100,11 +100,11 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 > </p>
 
 <p align="center">
-  <span style="font-size: small;">5 – <strong><a href="http://come-se.blogspot.com/" target="_blank">Come-se</a></strong></span>
+  <span style="font-size: small;">5 – **<a href="http://come-se.blogspot.com/" target="_blank">Come-se</a>**</span>
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Come-se.png"><img class="alignnone size-full wp-image-6730" title="Come-se" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Come-se.png" alt="" width="600" height="175" /></a></strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Come-se.png"><img class="alignnone size-full wp-image-6730" title="Come-se" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Come-se.png" alt="" width="600" height="175" /></a>**
 </p>
 
 > <p align="justify">
@@ -112,25 +112,25 @@ Eu gosto, mas confesso que conto nos dedos os **blogs** editados com **receitas*
 > </p>
 
 <p align="justify">
-  <strong>Mais no Bicha Fêmea…</strong>
+  **Mais no Bicha Fêmea…**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/12/01/video-receita-barrita-de-coco/">Video-receita: Barrita de Coco</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/12/01/video-receita-barrita-de-coco/">Video-receita: Barrita de Coco</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/09/24/video-dica-conservar-bananas/">Vídeo-dica: como conservar bananas por mais tempo…</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/09/24/video-dica-conservar-bananas/">Vídeo-dica: como conservar bananas por mais tempo…</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/09/15/video-receita-macarrao/">Vídeo-receita: Macarrão da Preguiça</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/09/15/video-receita-macarrao/">Vídeo-receita: Macarrão da Preguiça</a>**
 </p>
 
 <p align="center">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa</em></strong><strong><em> & Decoração</em></strong> </a>> <strong><em><a href="http://www.trololodemulher.com.br/category/casa-cozinha/">Casa – Cozinha</a></em></strong>
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa</em>****<em> & Decoração</em>** </a>> **<em><a href="http://www.trololodemulher.com.br/category/casa-cozinha/">Casa – Cozinha</a></em>**
 </p>
 
 <p align="center">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>

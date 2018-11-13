@@ -1,7 +1,7 @@
 ---
-id: 3245
+
 title: 'Enfeites (faça você mesma) para a decoração: fácil, bonito e barato'
-date: 2013-08-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/09/enfeites-decoracao/
@@ -57,7 +57,7 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais sobre <a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração para sua casa</a>? <a href="http://www.trololodemulher.com.br/category/decoracao/">Clique aqui</a>!</span></strong>
+  **<span style="font-size: large;">Muito mais sobre <a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração para sua casa</a>? <a href="http://www.trololodemulher.com.br/category/decoracao/">Clique aqui</a>!</span>**
 </p>
 
 &nbsp;
@@ -69,7 +69,7 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -93,9 +93,9 @@ Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3638
+
 title: O que tem na Prateleira do Trololó de Mulher de Agosto?
-date: 2016-08-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/08/trololo-de-mulher-5/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Chegamos ao segundo semestre, de fato! Julho passou lindo, com gostinho de descanso por aqui. Não tivemos nossa Prateleira do <strong>Trololó de Mulher</strong> do mês passado e eu estava, oh: doidinha para te mostrar novidades, lindezas e inspirações. Separei produtos dos nossos parceiros comerciais, com bastante carinho, para te mostrar no blog. São achados para sua bebê menina, para a casa e o coração… vem cá que quero te mostrar, oh:
+  Chegamos ao segundo semestre, de fato! Julho passou lindo, com gostinho de descanso por aqui. Não tivemos nossa Prateleira do **Trololó de Mulher** do mês passado e eu estava, oh: doidinha para te mostrar novidades, lindezas e inspirações. Separei produtos dos nossos parceiros comerciais, com bastante carinho, para te mostrar no blog. São achados para sua bebê menina, para a casa e o coração… vem cá que quero te mostrar, oh:
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3870
+
 title: Não falei que teríamos coisa boa?
-date: 2018-08-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/08/01/rotinas-da-casa/
@@ -12,7 +12,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Estou prestes a lançar uma vivência num grupo de WhatsApp, fechado e exclusivo, sobre gestão do tempo e produtividade nas <strong>rotinas da casa</strong>, por 7 semanas. Quer participar?
+  Estou prestes a lançar uma vivência num grupo de WhatsApp, fechado e exclusivo, sobre gestão do tempo e produtividade nas **rotinas da casa**, por 7 semanas. Quer participar?
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

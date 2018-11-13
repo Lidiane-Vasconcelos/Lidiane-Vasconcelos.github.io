@@ -1,7 +1,7 @@
 ---
-id: 2901
+
 title: Parceria Infinita Arte for Baby no Aniversário do Bicha Fêmea!
-date: 2010-11-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/01/parceria-infinita-arte-baby/
@@ -14,7 +14,7 @@ Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinit
 <!--more-->
 
 <p style="text-align: justify;">
-  A <strong><em>Infinita Arte for Baby</em></strong> é o lugar onde todas as <em>belezuras</em> para receber o seu bebê estão a sua disposição, seja para seu meninão ou sua princesinha. É tudo muito fofo e exclusivo, o que deixa qualquer mãe babando… veja só a fofurice que você pode receber em casa:
+  A **<em>Infinita Arte for Baby</em>** é o lugar onde todas as <em>belezuras</em> para receber o seu bebê estão a sua disposição, seja para seu meninão ou sua princesinha. É tudo muito fofo e exclusivo, o que deixa qualquer mãe babando… veja só a fofurice que você pode receber em casa:
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +30,7 @@ Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinit
 </p>
 
 <p style="text-align: justify;">
-  Já pensou em ganhar um presente assim? A sortuda vai ter que escolher entre o azul ou o rosa. Cada kit vem com: <em>01 mantinha de micro soft azul liso 80&#215;80 + 01 ursinho Napolitano azul 25cm</em> <strong><em>OU</em></strong> <em>01 mantinha micro soft rosa liso 80&#215;80 + 01 ursinha Napolitano rosa 25cm.</em> Não é fofo?
+  Já pensou em ganhar um presente assim? A sortuda vai ter que escolher entre o azul ou o rosa. Cada kit vem com: <em>01 mantinha de micro soft azul liso 80&#215;80 + 01 ursinho Napolitano azul 25cm</em> **<em>OU</em>** <em>01 mantinha micro soft rosa liso 80&#215;80 + 01 ursinha Napolitano rosa 25cm.</em> Não é fofo?
 </p>
 
 <p style="text-align: justify;">
@@ -42,19 +42,19 @@ Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinit
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Quer aumentar as chances de ganhar?</span></em></strong>
+  **<em><span style="font-size: medium;">Quer aumentar as chances de ganhar?</span></em>**
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a <strong><em>Infinita Arte for Baby </em></strong>num post em seu blog, me avise com seu link, e ganhe +2 inscrições;
+  *Fale do sorteio em parceria com a **<em>Infinita Arte for Baby </em>**num post em seu blog, me avise com seu link, e ganhe +2 inscrições;
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a <strong><em>Infinita Arte for Baby </em></strong>no Twitter, me avise com seu link, e ganhe +2 inscrições;
+  *Fale do sorteio em parceria com a **<em>Infinita Arte for Baby </em>**no Twitter, me avise com seu link, e ganhe +2 inscrições;
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a <strong><em>Infinita Arte for Baby </em></strong>num post no blog + Twitter, me avise com os links, e ganhe, ao todo, 5 inscrições.
+  *Fale do sorteio em parceria com a **<em>Infinita Arte for Baby </em>**num post no blog + Twitter, me avise com os links, e ganhe, ao todo, 5 inscrições.
 </p>
 
 <p style="text-align: justify;">
@@ -66,13 +66,13 @@ Mais uma vez a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinit
 </p>
 
 <p style="text-align: center;">
-  *Você ainda não entendeu o que estamos comemorando? Quer ganhar muito mais prêmios nesta comemoração? Entenda tudo e saiba como <strong><em><a href="http://www.trololodemulher.com.br/2010/11/01/2-aniversario-bicha-femea/" target="_self">clicando aqui</a></em></strong>.
+  *Você ainda não entendeu o que estamos comemorando? Quer ganhar muito mais prêmios nesta comemoração? Entenda tudo e saiba como **<em><a href="http://www.trololodemulher.com.br/2010/11/01/2-aniversario-bicha-femea/" target="_self">clicando aqui</a></em>**.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

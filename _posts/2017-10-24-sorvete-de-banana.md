@@ -1,7 +1,7 @@
 ---
-id: 3819
+
 title: 'Sorvete de banana: receita vapt-vupt.'
-date: 2017-10-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/24/sorvete-de-banana/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Nossos dias de calor estão dando o ar da graça, e um <strong>sorvete de banana</strong> cai bem, não é? Como se não bastasse ser perfeita a combinação do clima com a receita, preparar ela é tão fácil que você vai ler, e reler… só pra ter certeza de que entendeu ser molezinha mesmo reproduzir essa delícia. Confira a seguir a partilha de Tânia com a gente, e veja: ela não acertou em cheio?
+  Nossos dias de calor estão dando o ar da graça, e um **sorvete de banana** cai bem, não é? Como se não bastasse ser perfeita a combinação do clima com a receita, preparar ela é tão fácil que você vai ler, e reler… só pra ter certeza de que entendeu ser molezinha mesmo reproduzir essa delícia. Confira a seguir a partilha de Tânia com a gente, e veja: ela não acertou em cheio?
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes</em></strong>
+  **<em>Ingredientes</em>**
 </p>
 
 <p align="justify">
@@ -86,19 +86,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank"><strong>Bolo de lavanda com perfume e bossa vintage.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank">**Bolo de lavanda com perfume e bossa vintage.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank"><strong>Receita de salada de figo: com história e afeto.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank">**Receita de salada de figo: com história e afeto.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank"><strong>Canja de galinha… para colocar um sorriso no rosto.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank">**Canja de galinha… para colocar um sorriso no rosto.**</a>
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 2780
+
 title: Da minha porção diva do lar. Como é a sua??
-date: 2010-02-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/04/dicas-tarefas-domesticas/
@@ -43,7 +43,7 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 
 **Mais no Bicha Fêmea sobre organização da casa? É &#8216;pra já:**
 
-<a href="http://www.trololodemulher.com.br/2009/11/10/5-dicas-de-oganizao-e-passe-bem-seja-feliz/" target="_blank"><strong><em>5 dicas de organização. E passe bem! Seja feliz!</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/11/10/5-dicas-de-oganizao-e-passe-bem-seja-feliz/" target="_blank">**<em>5 dicas de organização. E passe bem! Seja feliz!</em>**</a>
 
 **_<a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-pequena/" target="_self">Organização da lavanderia com pouco espaço. É possível?</a>_**
 
@@ -72,21 +72,21 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 **<a href="http://www.ohsojolly.com/2010/01/lista-de-tarefas-diarias.html" target="_blank">Lista de tarefas diárias</a> via <a href="http://www.ohsojolly.com/" target="_blank">Oh So Jolly!</a>**
 
 <p style="text-align: center;">
-  <strong><em>Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a> > <a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/">Cuidados & Limpeza</a></em></strong>
+  **<em>Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a> > <a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/">Cuidados & Limpeza</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>

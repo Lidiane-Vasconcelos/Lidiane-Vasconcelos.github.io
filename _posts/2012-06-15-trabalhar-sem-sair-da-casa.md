@@ -1,7 +1,7 @@
 ---
-id: 3137
+
 title: Quer trabalhar sem sair de casa? Abra sua loja na Divitae!
-date: 2012-06-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/15/trabalhar-sem-sair-da-casa/
@@ -15,13 +15,13 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Já pensou nisso? Se você me pergunta como conseguir algo assim, eu te devolvo as questões: <strong>você tem talento para produzir algo? E para lidar com clientes? Já pensou em comercializar seus produtos?</strong> Fique bem atenta para a dica que vou te dar, bonita!
+  Já pensou nisso? Se você me pergunta como conseguir algo assim, eu te devolvo as questões: **você tem talento para produzir algo? E para lidar com clientes? Já pensou em comercializar seus produtos?** Fique bem atenta para a dica que vou te dar, bonita!
 </p>
 
 Quem vê o noticiário na TV e assiste a programas cuja temática é o empreendedorismo, ou ainda lê matérias em revistas de negócios e sites do gênero, já ouviu falar no quanto o comércio virtual anda crescendo no Brasil. Quem abre um negócio na internet, se dedica com afinco ao projeto, se informa sobre as melhores práticas para conduzí-lo e procura tocar o trabalho com seriedade e competência, certamente tem grandes chances de se sobressair.
 
 <p align="justify">
-  Você estaria disposta a trabalhar firme no seu projeto de vendas de seus produtos sem sair de casa? Se sim, e se a ideia de ter uma loja virtual já passou por sua cabeça, você precisa conhecer a <strong><a href="http://divitae.com.br/index.php" target="_blank">Divitae</a></strong>.
+  Você estaria disposta a trabalhar firme no seu projeto de vendas de seus produtos sem sair de casa? Se sim, e se a ideia de ter uma loja virtual já passou por sua cabeça, você precisa conhecer a **<a href="http://divitae.com.br/index.php" target="_blank">Divitae</a>**.
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@ Quem vê o noticiário na TV e assiste a programas cuja temática é o empreende
 </p>
 
 <p align="justify">
-  A <strong>Divitae</strong> é um sistema de lojas virtuais <em>superultramega</em> bacana idealizado pela <strong>Margaret</strong>, a querida que edita o <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, uma mulher linda de viver e muito conhecida pela blogosfera pelas inúmeras qualidades e talentos que tem. Pois bem… foi pensando em você que quer empreender na internet e gostaria de <strong>algo simples, rápido para colocar em prática, que pudesse ser personalizado ao seu gosto e de fácil gerenciamento</strong>, que ela passou meses debruçada nisso tudo. Assim nasceu a <strong>Divitae</strong>!
+  A **Divitae** é um sistema de lojas virtuais <em>superultramega</em> bacana idealizado pela **Margaret**, a querida que edita o **<a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**, uma mulher linda de viver e muito conhecida pela blogosfera pelas inúmeras qualidades e talentos que tem. Pois bem… foi pensando em você que quer empreender na internet e gostaria de **algo simples, rápido para colocar em prática, que pudesse ser personalizado ao seu gosto e de fácil gerenciamento**, que ela passou meses debruçada nisso tudo. Assim nasceu a **Divitae**!
 </p>
 
 <p style="text-align: justify;" align="center">
-  Quer exemplos de mulheres espertas que aproveitaram a dica e abriram sua loja? <strong>Clique nas imagens e conheça a loja de cada uma delas</strong>!
+  Quer exemplos de mulheres espertas que aproveitaram a dica e abriram sua loja? **Clique nas imagens e conheça a loja de cada uma delas**!
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Quem vê o noticiário na TV e assiste a programas cuja temática é o empreende
 </p>
 
 <p align="justify">
-  Ficou com vontade de conhecer um pouco mais sobre a <strong>Divitae</strong>? Não perca tempo, bonita! Conheça o <strong><a href="http://divitae.com.br/index.php" target="_blank">site clicando aqui</a></strong> e o <strong><a href="http://divitae.com.br/blog/" target="_blank">blog bem aqui</a></strong>. Informe-se, planeje-se, coloque a mão na massa e ponha em prática o seu sonho… quem sabe não é agora?
+  Ficou com vontade de conhecer um pouco mais sobre a **Divitae**? Não perca tempo, bonita! Conheça o **<a href="http://divitae.com.br/index.php" target="_blank">site clicando aqui</a>** e o **<a href="http://divitae.com.br/blog/" target="_blank">blog bem aqui</a>**. Informe-se, planeje-se, coloque a mão na massa e ponha em prática o seu sonho… quem sabe não é agora?
 </p>
 
 &nbsp;

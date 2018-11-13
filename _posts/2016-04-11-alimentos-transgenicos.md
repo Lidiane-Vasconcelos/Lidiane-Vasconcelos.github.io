@@ -1,7 +1,7 @@
 ---
-id: 3581
+
 title: 'Alimentos transgênicos: consumí-los ou não?'
-date: 2016-04-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/11/alimentos-transgenicos/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  O post é dedicado a tirar as dúvidas básicas para que você tome sua própria decisão sobre como se posicionar diante de alimentos transgênicos no supermercado: se leva pra casa ou não. A <strong>Nutricionista Pamela Miguel, de São Paulo, </strong>nossa consultora, tirou todas as minhas dúvidas e, daqui pra frente, a escolha é sua. Informe-se e faça o que julgar melhor por você, e sua família. Confira!
+  O post é dedicado a tirar as dúvidas básicas para que você tome sua própria decisão sobre como se posicionar diante de alimentos transgênicos no supermercado: se leva pra casa ou não. A **Nutricionista Pamela Miguel, de São Paulo, **nossa consultora, tirou todas as minhas dúvidas e, daqui pra frente, a escolha é sua. Informe-se e faça o que julgar melhor por você, e sua família. Confira!
 </p>
 
 <p align="center">
@@ -30,47 +30,47 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >> O que são alimentos transgênicos?</strong>
+  **Trololó de Mulher >> O que são alimentos transgênicos?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Os alimentos transgênios são aliementos que não existem de forma natural na natureza. São alimentos produzidos em laboratórios, utilizando genes de espécies diferentes de animais, vegetais ou microrganismos.”</em>
+  **“**<em>Os alimentos transgênios são aliementos que não existem de forma natural na natureza. São alimentos produzidos em laboratórios, utilizando genes de espécies diferentes de animais, vegetais ou microrganismos.”</em>
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >> Qual o objetivo de produzir alimentos com tais características?</strong>
+  **Trololó de Mulher >> Qual o objetivo de produzir alimentos com tais características?**
 </p>
 
 <p align="justify">
-  <strong>“</strong>O objetivo da produção de alimentos transgênicos é o aumento da produção de determinados grupos de alimentos, melhora na resistência do alimento contra pragas e danos externos, maior durabilidade do alimento (facilitando o seu armazenamento) e mehoria de valor nutricional (dicção de vitaminas, minerais, etc.), redução do custo e maior disponibilidade de elimentos.”
+  **“**O objetivo da produção de alimentos transgênicos é o aumento da produção de determinados grupos de alimentos, melhora na resistência do alimento contra pragas e danos externos, maior durabilidade do alimento (facilitando o seu armazenamento) e mehoria de valor nutricional (dicção de vitaminas, minerais, etc.), redução do custo e maior disponibilidade de elimentos.”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >></strong> <b>Esses alimentos são seguros para a saúde humana?</b>
+  **Trololó de Mulher >>** <b>Esses alimentos são seguros para a saúde humana?</b>
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Segundo a minha opinião os alimentos transgênicos não são seguros para a saúde. Os produtos são modificados e o organismo pode não reconhecê-los, e utilizar seus nutrientes de forma incorreta. Além disso, a mudança genética do alimento pode levar a produção de substâncias indesejadas no organimo, como fatores antinutricionais, levando ao aparecimento de reações alérgicas, intolêrancias, má absorção de nutrientes, etc. Não existe consenso na comunidade científica sobre a segurança dos transgênicos para a saúde humana e o meio ambiente</em>.”
+  **“**<em>Segundo a minha opinião os alimentos transgênicos não são seguros para a saúde. Os produtos são modificados e o organismo pode não reconhecê-los, e utilizar seus nutrientes de forma incorreta. Além disso, a mudança genética do alimento pode levar a produção de substâncias indesejadas no organimo, como fatores antinutricionais, levando ao aparecimento de reações alérgicas, intolêrancias, má absorção de nutrientes, etc. Não existe consenso na comunidade científica sobre a segurança dos transgênicos para a saúde humana e o meio ambiente</em>.”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >></strong> <b>Quais os alimentos cultivados hoje em dia que têm a transgenia aplicadas a sua produção?</b>
+  **Trololó de Mulher >>** <b>Quais os alimentos cultivados hoje em dia que têm a transgenia aplicadas a sua produção?</b>
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Dentre os principais alimentos transgênicos cultivados podemos destacar o milho, a soja, o feijão, canola, a margarina (feita da canola), o salmão, o trigo, etc</em>.”
+  **“**<em>Dentre os principais alimentos transgênicos cultivados podemos destacar o milho, a soja, o feijão, canola, a margarina (feita da canola), o salmão, o trigo, etc</em>.”
 </p>
 
 <p align="justify">
-  <b><strong>Trololó de Mulher >></strong>Quais os produtos mais comuns, disponíveis no mercado, que têm em sua composição alimentos transgênicos?</b>
+  <b>**Trololó de Mulher >>**Quais os produtos mais comuns, disponíveis no mercado, que têm em sua composição alimentos transgênicos?</b>
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Podemos destacar: salsicha, leite, pães e bolos e biscoitos a base de trigo transgênico, milho, óleo de canola e soja, arroz, salmão, maisena, salgadinho de milho, etc</em>.”
+  **“**<em>Podemos destacar: salsicha, leite, pães e bolos e biscoitos a base de trigo transgênico, milho, óleo de canola e soja, arroz, salmão, maisena, salgadinho de milho, etc</em>.”
 </p>
 
 <p align="justify">
-  <b><strong>Trololó de Mulher >></strong>Como identificar que um alimento tem essas características?</b>
+  <b>**Trololó de Mulher >>**Como identificar que um alimento tem essas características?</b>
 </p>
 
 <p align="center">
@@ -93,16 +93,16 @@ categories:
 
 **Mais consultorias de Pamela Miguel:**
 
-<a href="http://www.belezacorpoecia.com/gluten/" target="_blank"><strong>O glúten é mesmo um vilão nos alimentos?</strong></a>
+<a href="http://www.belezacorpoecia.com/gluten/" target="_blank">**O glúten é mesmo um vilão nos alimentos?**</a>
 
-<a href="http://www.belezacorpoecia.com/alimentacao-nutricao-saude/" target="_blank"><strong>Alimentação e nutrição: 7 dúvidas respondidas.</strong></a>
+<a href="http://www.belezacorpoecia.com/alimentacao-nutricao-saude/" target="_blank">**Alimentação e nutrição: 7 dúvidas respondidas.**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/05/26/dieta-vegetariana/" target="_blank"><strong>Dieta vegetariana: saudável, rica e variada. Mito ou verdade?</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/05/26/dieta-vegetariana/" target="_blank">**Dieta vegetariana: saudável, rica e variada. Mito ou verdade?**</a>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 &nbsp;

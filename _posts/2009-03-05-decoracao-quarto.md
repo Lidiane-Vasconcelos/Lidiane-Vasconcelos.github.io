@@ -1,7 +1,7 @@
 ---
-id: 2633
+
 title: Ideias para a decoração de quartos.
-date: 2009-03-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/05/decoracao-quarto/
@@ -13,7 +13,7 @@ Sabe aquele pequeno **detalhe** na **decoração do quarto** que faz toda a dif
 
 Pois! O propósito desse post é oferecer ideias as quais possamos por em prática para deixar o quarto ainda mais bonito.
 
-Se for para equilibrar a decoração com detalhes femininos para você, mas também contemplar a masculinidade de seu companheiro, sugiro a leitura das <a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_self"><strong><em>dicas para o quarto de casal</em></strong> </a>da Roberta Feijó que demos por aqui.
+Se for para equilibrar a decoração com detalhes femininos para você, mas também contemplar a masculinidade de seu companheiro, sugiro a leitura das <a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_self">**<em>dicas para o quarto de casal</em>** </a>da Roberta Feijó que demos por aqui.
 
 A seleção de imagens para nos inspirar é muito bela, e as ideias são dignas de qualquer uma de nossas casas… é colocar os olhos, deixar a imaginação correr solta e, quem sabe, não está aí por baixo entre um detalhe e outro aquela que será sua porção mais querida na **decoração de seu quarto**, hein?[<img style="display: inline;" title="clip_image001[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image0014-thumb3.gif" alt="clip_image001[4]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00143.gif)
 

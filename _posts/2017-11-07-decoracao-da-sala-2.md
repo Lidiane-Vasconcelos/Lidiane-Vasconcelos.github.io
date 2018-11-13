@@ -1,7 +1,7 @@
 ---
-id: 3824
+
 title: As 9 dicas que vão renovar a decoração da sala da leitora.
-date: 2017-11-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/07/decoracao-da-sala-2/
@@ -10,19 +10,19 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Sabe quando a <strong>decoração da sala</strong> está sem vida? Esse tem sido o sentimento da <strong>leitora Rose</strong>, que logo teve a ideia de mandar um <strong><em>e-mail</em> pro Trololó de Mulher</strong>. A boa notícia é que veremos a seguir <strong>9 sugestões</strong> dadas pela <strong>Adryana Moutinho, Designer de Interiores, de Cotia – SP e região</strong>.
+  Sabe quando a **decoração da sala** está sem vida? Esse tem sido o sentimento da **leitora Rose**, que logo teve a ideia de mandar um **<em>e-mail</em> pro Trololó de Mulher**. A boa notícia é que veremos a seguir **9 sugestões** dadas pela **Adryana Moutinho, Designer de Interiores, de Cotia – SP e região**.
 </p>
 
 <p align="justify">
-  <strong>Em tempo:</strong>
+  **Em tempo:**
 </p>
 
 <p align="justify">
-  <strong>Não deixe de conferir <a href="https://mundomio.com.br/paris-o-que-fazer-dicas-roteiros-e-gastos/" target="_blank">dicas para uma viagem a Paris</a> se isso está nos seus planos&#8230;</strong>
+  **Não deixe de conferir <a href="https://mundomio.com.br/paris-o-que-fazer-dicas-roteiros-e-gastos/" target="_blank">dicas para uma viagem a Paris</a> se isso está nos seus planos&#8230;**
 </p>
 
 <p align="justify">
-  Sim, por aqui as pequenas dúvidas das leitoras são respondidas com muito carinho, porque a gente sabe que isso pode ajudar outras pessoas também. Se você deseja uma sugestão de decoração para um ambiente em sua casa, e ver as respostas no <strong>Trololó de Mulher</strong>, manda <em>e-mail</em>! Escreva para <a href="mailto:trololomulher@gmail.com.br"><strong><em>trololomulher@gmail.com.br</em></strong></a> e, quem sabe, seu dilema não vira um post?! Confira…
+  Sim, por aqui as pequenas dúvidas das leitoras são respondidas com muito carinho, porque a gente sabe que isso pode ajudar outras pessoas também. Se você deseja uma sugestão de decoração para um ambiente em sua casa, e ver as respostas no **Trololó de Mulher**, manda <em>e-mail</em>! Escreva para <a href="mailto:trololomulher@gmail.com.br">**<em>trololomulher@gmail.com.br</em>**</a> e, quem sabe, seu dilema não vira um post?! Confira…
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Gostaria de ajuda pra dar um toque legal em minha sala de jantar, que é integrada à sala de estar. Minha sala tem sofá marrom de 2 e 3 lugares, um tapete de sizal bege, meu rack cor marrom escura e com painel. As  duas salas têm cortinas iguais na cor palha. A sala de jantar tinha aparador, e mesa de vidro com 6 cadeiras, mas precisei tirá-los, pois tenho criança, e o espaço ficou muito pequeno. Agora comprei uma mesa de vidro com 4 cadeiras, de almofadas na cor caramelo, e tenho um quadro na parede com flor copa de leite, mas achei que está sem vida.  O que você pode me orientar?  Tinha pensado em colocar um espelho nessa parede que tem o quadro</em>.” <strong>Rose</strong>
+  “<em>Gostaria de ajuda pra dar um toque legal em minha sala de jantar, que é integrada à sala de estar. Minha sala tem sofá marrom de 2 e 3 lugares, um tapete de sizal bege, meu rack cor marrom escura e com painel. As  duas salas têm cortinas iguais na cor palha. A sala de jantar tinha aparador, e mesa de vidro com 6 cadeiras, mas precisei tirá-los, pois tenho criança, e o espaço ficou muito pequeno. Agora comprei uma mesa de vidro com 4 cadeiras, de almofadas na cor caramelo, e tenho um quadro na parede com flor copa de leite, mas achei que está sem vida.  O que você pode me orientar?  Tinha pensado em colocar um espelho nessa parede que tem o quadro</em>.” **Rose**
 </p>
 
 <p style="text-align: justify;">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Após analisar sua sala de estar e sala de jantar, quero primeiramente parabenizá-la pela ideia de colocar um espelho na parede onde, atualmente, está o quadro com o copo de leite. <strong>{1} Um espelho de meia parede com uma bonita moldura</strong> em madeira vai deixar o ambiente bonito e vai dar a sensação de amplitude. <strong>{2}</strong> <strong>O quadro pode ir para a parede oposta à janela</strong>, próximo a mesa de jantar.
+  Após analisar sua sala de estar e sala de jantar, quero primeiramente parabenizá-la pela ideia de colocar um espelho na parede onde, atualmente, está o quadro com o copo de leite. **{1} Um espelho de meia parede com uma bonita moldura** em madeira vai deixar o ambiente bonito e vai dar a sensação de amplitude. **{2}** **O quadro pode ir para a parede oposta à janela**, próximo a mesa de jantar.
 </p>
 
 <p style="text-align: justify;">
@@ -50,31 +50,31 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>{3}</strong> Pintar o teto de branco;
+  **{3}** Pintar o teto de branco;
 </p>
 
 <p style="text-align: justify;">
-  <strong>{4}</strong> Nas paredes, sugiro aplicar tinta acrílica acetinada na cor Areia do Deserto da Suvinil;
+  **{4}** Nas paredes, sugiro aplicar tinta acrílica acetinada na cor Areia do Deserto da Suvinil;
 </p>
 
 <p style="text-align: justify;">
-  <strong>{5}</strong> Utilizar lâmpadas com temperatura em torno de 2.700K. À noite, elas darão a sensação de acolhimento e conforto visual;
+  **{5}** Utilizar lâmpadas com temperatura em torno de 2.700K. À noite, elas darão a sensação de acolhimento e conforto visual;
 </p>
 
 <p style="text-align: justify;">
-  <strong>{6}</strong> No rejunte do piso aplicar tinta para rejunte na cor branca;
+  **{6}** No rejunte do piso aplicar tinta para rejunte na cor branca;
 </p>
 
 <p style="text-align: justify;">
-  <strong>{7}</strong> Quanto ao quadro próximo à porta de entrada, sugiro instalá-lo mais ao centro da parede e pode ser em altura inferior à atual;
+  **{7}** Quanto ao quadro próximo à porta de entrada, sugiro instalá-lo mais ao centro da parede e pode ser em altura inferior à atual;
 </p>
 
 <p style="text-align: justify;">
-  <strong>{8}</strong> Para as almofadas do sofá, sugiro que a cor seja semelhante à da cortina (palha)
+  **{8}** Para as almofadas do sofá, sugiro que a cor seja semelhante à da cortina (palha)
 </p>
 
 <p style="text-align: justify;">
-  E por fim, faço uma pequena <strong>{9} ressalva quanto ao tapete</strong>. Procure dar preferência por um cujas medidas permitam que ele venha desde debaixo do sofá seguindo até o rack. Além de tornar o visual da sala mais atraente, evitará acidentes. Mas, cuidado para não obstruir a abertura da porta da sala.
+  E por fim, faço uma pequena **{9} ressalva quanto ao tapete**. Procure dar preferência por um cujas medidas permitam que ele venha desde debaixo do sofá seguindo até o rack. Além de tornar o visual da sala mais atraente, evitará acidentes. Mas, cuidado para não obstruir a abertura da porta da sala.
 </p>
 
 <p style="text-align: justify;">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para entrar em contato com Adryana, é possível pelo <strong>telefone, (11) 99559-1218</strong>, ou ainda no <strong>e-mail </strong><a href="mailto:contato@adryanamoutinho.com.br"><strong>contato@adryanamoutinho.com.br</strong></a> – nas redes socias a designer está presente no <strong>Facebook</strong>, <a href="https://www.facebook.com/AdryanaMoutinho/" target="_blank">clique aqui e curta sua página</a>, ou ainda no <strong>Instagram</strong>, <a href="https://www.instagram.com/adryana_moutinho/" target="_blank">clique aqui e siga</a>!
+  Para entrar em contato com Adryana, é possível pelo **telefone, (11) 99559-1218**, ou ainda no **e-mail **<a href="mailto:contato@adryanamoutinho.com.br">**contato@adryanamoutinho.com.br**</a> – nas redes socias a designer está presente no **Facebook**, <a href="https://www.facebook.com/AdryanaMoutinho/" target="_blank">clique aqui e curta sua página</a>, ou ainda no **Instagram**, <a href="https://www.instagram.com/adryana_moutinho/" target="_blank">clique aqui e siga</a>!
 </p>
 
 <p align="center">

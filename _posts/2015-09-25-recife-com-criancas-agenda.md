@@ -1,7 +1,7 @@
 ---
-id: 3492
+
 title: 'Recife com crianças agenda: 26 e 27 de Setembro'
-date: 2015-09-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/25/recife-com-criancas-agenda/
@@ -10,7 +10,7 @@ categories:
   - Sem categoria
 ---
 <p align="justify">
-  Final de semana é a cereja do bolo: a gente tratou de ser feliz a semana inteira e agora a gente coloca uma cobertura delícia e parte pro abraço. E se a vida é melhor vivida em família, aqui está uma mãozinha: <strong>Recife com crianças</strong> agenda para os dias 26 e 27 de Setembro. Veja o que tem a cara de todos vocês e se joguem!
+  Final de semana é a cereja do bolo: a gente tratou de ser feliz a semana inteira e agora a gente coloca uma cobertura delícia e parte pro abraço. E se a vida é melhor vivida em família, aqui está uma mãozinha: **Recife com crianças** agenda para os dias 26 e 27 de Setembro. Veja o que tem a cara de todos vocês e se joguem!
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Teatro de Santa Isabel</strong> – Visita Guiada: a visita guiada acontece aos domingos à tarde. Os visitantes tem a oportunidade de conhecer de perto a arquitetura e a história do Teatro de Santa Isabel acompanhados por um guia. Não é preciso agendamento. O último grupo de visitantes começa o passeio até meia hora antes do horário de encerramento das visitas. Confira abaixo os horários de visita deste mês. Entrada Gratuita. <strong>∙ 06, 13, 20 e 27 de setembro das 14h às 16h30. </strong>Mais informações: (81) 3355.3323
+  **Teatro de Santa Isabel** – Visita Guiada: a visita guiada acontece aos domingos à tarde. Os visitantes tem a oportunidade de conhecer de perto a arquitetura e a história do Teatro de Santa Isabel acompanhados por um guia. Não é preciso agendamento. O último grupo de visitantes começa o passeio até meia hora antes do horário de encerramento das visitas. Confira abaixo os horários de visita deste mês. Entrada Gratuita. **∙ 06, 13, 20 e 27 de setembro das 14h às 16h30. **Mais informações: (81) 3355.3323
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Shtim Shlim – O sonho de um aprendiz</strong> – Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance.<strong>Local:</strong> Galeria 2. <strong>Entrada:</strong> De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. <strong>Valor do Ingresso:</strong> Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mailgentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510" target="_blank">aqui</a>.
+  **Shtim Shlim – O sonho de um aprendiz** – Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance.**Local:** Galeria 2. **Entrada:** De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. **Valor do Ingresso:** Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mailgentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510" target="_blank">aqui</a>.
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Abelardo da Hora 90 anos: Vida e Arte</strong> – Sábado: 10h ás 20h e Domingo: 10h ás 17h | <strong>Horário da Bilheteria:</strong> De terça a sábado das 10h às 20h, domingo das 10h às 17h. | <strong>Local:</strong> Galeria 1 | <strong>Entrada – </strong><strong>Valor do Ingresso:</strong> Entrada gratuita | Dentre as esculturas, desenhos, pinturas e maquetes destacam-se os bronzes <b>Menino de Mocambo</b>(1969) e <b>A Fome e o Brado </b>(1947); a série de 22 desenhos de bico de pena de 1962 e o poema <b>Meninos do Recife</b>; além da maquete e fotos da polêmica <b>Torre de Iluminação Cinética</b>, instalada em 1961 na Praça da Torre, no Recife e destruída pelo regime militar em 1964. Mais informações, <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=462" target="_blank">aqui</a>.
+  **Abelardo da Hora 90 anos: Vida e Arte** – Sábado: 10h ás 20h e Domingo: 10h ás 17h | **Horário da Bilheteria:** De terça a sábado das 10h às 20h, domingo das 10h às 17h. | **Local:** Galeria 1 | **Entrada – ****Valor do Ingresso:** Entrada gratuita | Dentre as esculturas, desenhos, pinturas e maquetes destacam-se os bronzes <b>Menino de Mocambo</b>(1969) e <b>A Fome e o Brado </b>(1947); a série de 22 desenhos de bico de pena de 1962 e o poema <b>Meninos do Recife</b>; além da maquete e fotos da polêmica <b>Torre de Iluminação Cinética</b>, instalada em 1961 na Praça da Torre, no Recife e destruída pelo regime militar em 1964. Mais informações, <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=462" target="_blank">aqui</a>.
 </p>
 
 {Sábado & Domingo}
@@ -104,7 +104,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A Academia Pernambucana de Letras, que fica bem pertinho do <strong>NACC</strong>, recebe a exposição “Frutos da Natureza”, do fotógrafo e escritor Silvio A. Costa. Os quadros ficarão expostos de 24 de setembro até 04 de outubro, das 16h às 20h, de quinta a domingo e as vendas serão revertidas para nossa instituição.
+  A Academia Pernambucana de Letras, que fica bem pertinho do **NACC**, recebe a exposição “Frutos da Natureza”, do fotógrafo e escritor Silvio A. Costa. Os quadros ficarão expostos de 24 de setembro até 04 de outubro, das 16h às 20h, de quinta a domingo e as vendas serão revertidas para nossa instituição.
 </p>
 
 &nbsp;

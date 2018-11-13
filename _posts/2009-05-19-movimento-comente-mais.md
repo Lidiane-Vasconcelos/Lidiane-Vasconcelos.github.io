@@ -1,7 +1,7 @@
 ---
-id: 2662
+
 title: Neste post você comenta??? :o
-date: 2009-05-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/19/movimento-comente-mais/

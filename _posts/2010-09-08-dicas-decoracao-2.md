@@ -1,7 +1,7 @@
 ---
-id: 2874
+
 title: 3 dúvidas sobre decoração solucionadas no Bicha Fêmea…
-date: 2010-09-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/08/dicas-decoracao-2/
@@ -12,7 +12,7 @@ categories:
 Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as leitoras do blog, que são espertas, enviaram as suas. Fique atenta, porque a dúvida alheia pode ser sua também, assim teremos oportunidade de, juntas, aprendermos regras básicas para deixar a casa ainda mais bonita.
 
 <p style="text-align: justify;">
-  A <strong><em>Arquiteta e blogueira Larissa</em></strong>, que edita o delicioso espaço virtual <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">“Fui morar numa casinha…”</a>, respondeu algumas dúvidas de leitoras do Bicha Fêmea, e os segredos da decoração podem deixar a SUA casa ainda mais aconchegante. Confira!
+  A **<em>Arquiteta e blogueira Larissa</em>**, que edita o delicioso espaço virtual <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">“Fui morar numa casinha…”</a>, respondeu algumas dúvidas de leitoras do Bicha Fêmea, e os segredos da decoração podem deixar a SUA casa ainda mais aconchegante. Confira!
 </p>
 
 <!--more-->
@@ -24,19 +24,19 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 > “…_eu acredito que não existe verdade absoluta na decoração, regrinhas sim, mas isso não significa que uma outra opção não fique boa também!”_
 
 <p style="text-align: justify;">
-  E isso não é a mais pura verdade? Nunca é demais salientar que tudo o que se vê e lê sobre esse delicioso universo deve ser adequado a realidade e gosto pessoal de cada uma de nós. Isso tudo, inclusive, já foi objeto de <strong><em><a href="http://www.trololodemulher.com.br/2010/05/10/blog-dicas-decoracao/">discussão no Bicha Fêmea sobre as imagens de ambientes decorados que são publicadas no blog</a></em></strong>. Lembra?
+  E isso não é a mais pura verdade? Nunca é demais salientar que tudo o que se vê e lê sobre esse delicioso universo deve ser adequado a realidade e gosto pessoal de cada uma de nós. Isso tudo, inclusive, já foi objeto de **<em><a href="http://www.trololodemulher.com.br/2010/05/10/blog-dicas-decoracao/">discussão no Bicha Fêmea sobre as imagens de ambientes decorados que são publicadas no blog</a></em>**. Lembra?
 </p>
 
 <p style="text-align: justify;">
-  Pois muito bem. Isto posto, a primeira dúvida sobre a delícia de decorar a casa veio da Michele Susin, que deixou o seu pedido no post sobre <strong><em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">como escolher cores para a parede</a></em></strong>. A dúvida da Michele é:
+  Pois muito bem. Isto posto, a primeira dúvida sobre a delícia de decorar a casa veio da Michele Susin, que deixou o seu pedido no post sobre **<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">como escolher cores para a parede</a></em>**. A dúvida da Michele é:
 </p>
 
 <p style="text-align: center;">
-   <strong><em>Sala com móveis escuros: quais cores usar para a cortina e o sofá?</em></strong>
+   **<em>Sala com móveis escuros: quais cores usar para a cortina e o sofá?</em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/poltrona.jpg"><img class="alignnone size-medium wp-image-5178" title="poltrona" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/poltrona-300x300.jpg" alt="" width="300" height="300" /></a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/poltrona.jpg"><img class="alignnone size-medium wp-image-5178" title="poltrona" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/poltrona-300x300.jpg" alt="" width="300" height="300" /></a></em>**
 </p>
 
 <p style="text-align: center;">
@@ -50,7 +50,7 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 > “_Para quem optou por móveis escuros, eu sugiro tapetes e cortinas mais claros, dentro da mesma gama de cor dos móveis, para os tapetes, prefira a opção de mescla de fios, assim seu tapete será composto por 2 ou 3 cores, disfarçando a sujeira até o dia da faxina. No caso das cortinas, além de claras, penso em tecidos leves, translúcidos para tirar o peso que geralmente os móveis escuros trazem.”_
 
 <p style="text-align: justify;">
-  Para esse tipo de dúvida, sugiro a leitura do post onde a <strong><em><a href="http://www.trololodemulher.com.br/2010/07/07/decoracao-sala-de-jantar/">sala com móveis escuros</a></em></strong> já foi objeto de <em>pitacos</em> entre as bichas fêmeas navegantes. Desfrute e inspire-se!
+  Para esse tipo de dúvida, sugiro a leitura do post onde a **<em><a href="http://www.trololodemulher.com.br/2010/07/07/decoracao-sala-de-jantar/">sala com móveis escuros</a></em>** já foi objeto de <em>pitacos</em> entre as bichas fêmeas navegantes. Desfrute e inspire-se!
 </p>
 
 <p style="text-align: justify;">
@@ -58,7 +58,7 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Cozinha: qual a melhor forma de combinar a cor do piso com a do balcão?</em></strong>
+  **<em>Cozinha: qual a melhor forma de combinar a cor do piso com a do balcão?</em>**
 </p>
 
 <p style="text-align: center;">
@@ -76,7 +76,7 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 > “_Piso branco na cozinha exige manutanção constante e, no meu caso, a prioridade é a cozinha ser prática! Para bancadas de granito claro, como o aqualux, por exemplo, o piso pode ser no mesmo granito ou em um porcelanato bege. Já no uso do marmoglass na bancada, coloco um porcelanato cinza, que imita cimento queimado. Na minha cozinha usei o granito preto São Gabriel e o porcelanato preto polido no piso, não tenho do que reclamar!”_
 
 <p style="text-align: justify;">
-  Inspire-se com imagens no post onde o assunto foi o <strong><em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/">revestimento para cozinha</a></em></strong>, além de outro, onde o<em> trololó</em> foi sobre <strong><em><a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/">cozinhas brancas</a></em></strong>. Quem sabe você não tem ótimas ideias para a sua também?!
+  Inspire-se com imagens no post onde o assunto foi o **<em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/">revestimento para cozinha</a></em>**, além de outro, onde o<em> trololó</em> foi sobre **<em><a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/">cozinhas brancas</a></em>**. Quem sabe você não tem ótimas ideias para a sua também?!
 </p>
 
 <p style="text-align: justify;">
@@ -84,7 +84,7 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Cortina na Janela: qual o comprimento adequado?</em></strong>
+  **<em>Cortina na Janela: qual o comprimento adequado?</em>**
 </p>
 
 <p style="text-align: center;">
@@ -102,7 +102,7 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 > “_Acho que fica um pouco estranho uma parede muito grande com uma janela pequena, tímida. Mas existem saídas para isso também, por exemplo, fazer uma cortina maior do que a janela para aumentar a área que ela ocupa na parede. É importante também pensar em deixar algumas paredes de pé para se colocar quadros e outros acessórios, por isso acho que analisar o objetivo do ambiente essencial.”_
 
 <p style="text-align: justify;">
-  Está decidida a incrementar a parede onde tem janela com cortina usando quadros e outros acessórios? Então faça bonito e coloque uma bela composição! Para dúvidas sobre como organizar o arranjo de quadros ou o que mais você queira pendurar, sugiro a leitura do post onde há <strong><em><a href="http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/">dicas de como decorar a parede com quadros</a></em></strong>. Inspire-se!
+  Está decidida a incrementar a parede onde tem janela com cortina usando quadros e outros acessórios? Então faça bonito e coloque uma bela composição! Para dúvidas sobre como organizar o arranjo de quadros ou o que mais você queira pendurar, sugiro a leitura do post onde há **<em><a href="http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/">dicas de como decorar a parede com quadros</a></em>**. Inspire-se!
 </p>
 
 **Mais no Bicha Fêmea…**
@@ -118,11 +118,11 @@ Quem não tem dúvidas sobre decoração? Qualquer bicha fêmea mortal tem, e as
 **_[Pitacos de Bicha Fêmea: quarto de menino.](http://www.trololodemulher.com.br/2010/06/16/decoracao-quarto-menino/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <strong><em><a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração</a></em></strong> > 3 dúvidas sobre decoração solucionadas no Bicha Fêmea…
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração</a></em>** > 3 dúvidas sobre decoração solucionadas no Bicha Fêmea…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 _ _

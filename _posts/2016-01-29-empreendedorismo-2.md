@@ -1,7 +1,7 @@
 ---
-id: 3534
+
 title: 'Empreendedorismo: 6 maneiras de agir e nunca desistir.'
-date: 2016-01-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/29/empreendedorismo-2/
@@ -11,11 +11,11 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Se há um item básico no rol de qualidades pessoais de quem empreende, esse é a perseverança. <strong>Empreendedorismo</strong> é um caminho que trilhamos colocando em prática uma série de atitudes que nos fortalecem diante dos percalços… e eles existem! Sem esse trabalho mental, que é um presente que oferecemos a nós mesmas, é muito fácil desistir. Pedras no caminho sempre vão existir, e a questão é: como não desanimar?
+  Se há um item básico no rol de qualidades pessoais de quem empreende, esse é a perseverança. **Empreendedorismo** é um caminho que trilhamos colocando em prática uma série de atitudes que nos fortalecem diante dos percalços… e eles existem! Sem esse trabalho mental, que é um presente que oferecemos a nós mesmas, é muito fácil desistir. Pedras no caminho sempre vão existir, e a questão é: como não desanimar?
 </p>
 
 <p align="justify">
-  <strong>Simone Mitjans</strong>, especialista em mentorizar mulheres a fim de que tenham mais sucesso em suas vidas, vai discutir cada uma dessas estratégias mentais e mostrar que, com boas atitudes, estaremos preparadas e saberemos como agir diante dessas dificuldades. O objetivo é que possamos ter pistas de como desenvolver nossa capacidade de perseverar enquanto buscamos atingir nossos objetivos, mas de maneira tranquila, consciente e equilibrada. Acompanhe!
+  **Simone Mitjans**, especialista em mentorizar mulheres a fim de que tenham mais sucesso em suas vidas, vai discutir cada uma dessas estratégias mentais e mostrar que, com boas atitudes, estaremos preparadas e saberemos como agir diante dessas dificuldades. O objetivo é que possamos ter pistas de como desenvolver nossa capacidade de perseverar enquanto buscamos atingir nossos objetivos, mas de maneira tranquila, consciente e equilibrada. Acompanhe!
 </p>
 
 <p align="center">
@@ -39,11 +39,11 @@ categories:
 </p>
 
 <p align="justify">
-  A seguir, veja como colocar em prática <strong>6 atitudes</strong> para seguir seu caminho como empreendedora de forma equilibrada, sempre em harmonia com o seu propósito de vida:
+  A seguir, veja como colocar em prática **6 atitudes** para seguir seu caminho como empreendedora de forma equilibrada, sempre em harmonia com o seu propósito de vida:
 </p>
 
 <p align="justify">
-  <strong>1 – Trololó de Mulher >>> O que é importante mentalizar para <span style="color: #9bbb59;">manter o foco</span> e não desistir de um sonho?</strong>
+  **1 – Trololó de Mulher >>> O que é importante mentalizar para <span style="color: #9bbb59;">manter o foco</span> e não desistir de um sonho?**
 </p>
 
 <p align="justify">
@@ -51,15 +51,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">De hobby a trabalho: como ganhar dinheiro?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">De hobby a trabalho: como ganhar dinheiro?</a>**
 </p>
 
 <p align="justify">
-  <strong>2 &#8211; Trololó de Mulher >>> O que é importante observar para <span style="color: #9bbb59;">definir metas realistas</span>?</strong>
+  **2 &#8211; Trololó de Mulher >>> O que é importante observar para <span style="color: #9bbb59;">definir metas realistas</span>?**
 </p>
 
 <p align="justify">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 &#8211; Trololó de Mulher >>> Para <span style="color: #333333;">manter o pique</span> e não perder o foco, é preciso <span style="color: #9bbb59;">disciplina</span>. Como exercitá-la?</strong>
+  **3 &#8211; Trololó de Mulher >>> Para <span style="color: #333333;">manter o pique</span> e não perder o foco, é preciso <span style="color: #9bbb59;">disciplina</span>. Como exercitá-la?**
 </p>
 
 <p align="justify">
@@ -75,23 +75,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/01/22/tempo-e-produtividade/" target="_blank">Gestão do tempo e produtividade: 6 dicas pra fazer mais.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/01/22/tempo-e-produtividade/" target="_blank">Gestão do tempo e produtividade: 6 dicas pra fazer mais.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">Produtividade: 5 mulheres empreendedoras dão dicas top.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">Produtividade: 5 mulheres empreendedoras dão dicas top.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank">Boa produtividade é realizar o essencial e eliminar o resto.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank">Boa produtividade é realizar o essencial e eliminar o resto.</a>**
 </p>
 
 <p align="justify">
-  <strong>4 &#8211; Trololó de Mulher >>> Medos e receios podem ser um alerta de que é preciso <span style="color: #9bbb59;">saber dar uma pausa</span>, se reorganizar e, a partir daí, seguir em frente?</strong>
+  **4 &#8211; Trololó de Mulher >>> Medos e receios podem ser um alerta de que é preciso <span style="color: #9bbb59;">saber dar uma pausa</span>, se reorganizar e, a partir daí, seguir em frente?**
 </p>
 
 <p align="justify">
@@ -99,7 +99,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 &#8211; Trololó de Mulher >>> Como <span style="color: #9bbb59;">lidar com a ansiedade</span> e pressa de ver as coisas acontecerem?</strong>
+  **5 &#8211; Trololó de Mulher >>> Como <span style="color: #9bbb59;">lidar com a ansiedade</span> e pressa de ver as coisas acontecerem?**
 </p>
 
 <p align="justify">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 &#8211; Trololó de Mulher >>> A necessidade de <span style="color: #9bbb59;">realizar mudanças necessárias em estratégias e rotas</span> não é razão para desistir, certo?</strong>
+  **6 &#8211; Trololó de Mulher >>> A necessidade de <span style="color: #9bbb59;">realizar mudanças necessárias em estratégias e rotas</span> não é razão para desistir, certo?**
 </p>
 
 <p align="justify">

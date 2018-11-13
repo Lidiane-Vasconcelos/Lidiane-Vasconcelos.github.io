@@ -1,7 +1,7 @@
 ---
-id: 3462
+
 title: Apartamento pequeno e lições de como viver com menos.
-date: 2015-08-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/12/apartamento-pequeno/
@@ -11,19 +11,19 @@ categories:
   - Pequenos Espaços
 ---
 <p align="justify">
-  Esse é o espírito desse post, e não poderia pensar em outra coisa quando dei de cara com esse <strong>apartamento pequeno. </strong>Aliás, eu diria mini. Como viver com menos, num espaço de medidas tão enxutas? Há que se ter muita consciência do que é necessário para uma vida boa, plena, mas sem excessos, não é verdade? O rapaz que mora nesse imóvel, de sorriso largo e cativante, conta que seu apartamento anterior era pelo menos duas vezes o tamanho deste atual, onde ele mora há 6 meses. Desapegar e diminuir suas “coisas” foi uma experiência pela qual ele teve de passar, e ele diz que tem sido bom. Não duvido disso. Eu mesma tenho estado envolvida com aprendizados sobre viver com menos, de modo mais simples, e isso não quer dizer menos confortável. Esse apartamento é um exemplo per-fei-to desta ideia: embora mini, é extremamente funcional, com tudo o que é necessário para uma pessoa viver com conforto e muita, muita diginidade. Veja só… e fique de boca aberta, como eu fiquei. E não esqueça: inspire-se!
+  Esse é o espírito desse post, e não poderia pensar em outra coisa quando dei de cara com esse **apartamento pequeno. **Aliás, eu diria mini. Como viver com menos, num espaço de medidas tão enxutas? Há que se ter muita consciência do que é necessário para uma vida boa, plena, mas sem excessos, não é verdade? O rapaz que mora nesse imóvel, de sorriso largo e cativante, conta que seu apartamento anterior era pelo menos duas vezes o tamanho deste atual, onde ele mora há 6 meses. Desapegar e diminuir suas “coisas” foi uma experiência pela qual ele teve de passar, e ele diz que tem sido bom. Não duvido disso. Eu mesma tenho estado envolvida com aprendizados sobre viver com menos, de modo mais simples, e isso não quer dizer menos confortável. Esse apartamento é um exemplo per-fei-to desta ideia: embora mini, é extremamente funcional, com tudo o que é necessário para uma pessoa viver com conforto e muita, muita diginidade. Veja só… e fique de boca aberta, como eu fiquei. E não esqueça: inspire-se!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank"><strong>Apartamento mínimo, com tudo para viver bem: é possível?</strong></a>
+  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank">**Apartamento mínimo, com tudo para viver bem: é possível?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank"><strong>Dá para viver bem em pequenos espaços?</strong></a>
+  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank">**Dá para viver bem em pequenos espaços?**</a>
 </p>
 
 <p align="center">
@@ -75,15 +75,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank"><strong>Cozinha pequena: o grande charme da decoração está nos detalhes.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank">**Cozinha pequena: o grande charme da decoração está nos detalhes.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/" target="_blank"><strong>Cozinha moderna em apartamento pequeno… tem jeito?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/" target="_blank">**Cozinha moderna em apartamento pequeno… tem jeito?**</a>
 </p>
 
 <p align="center">
@@ -95,19 +95,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank"><strong>Como fazer seu espaço pequeno parecer maior? 10 dicas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank">**Como fazer seu espaço pequeno parecer maior? 10 dicas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank">**3 erros na decoração e organização de espaços pequenos: você os comete?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank"><strong>5 dicas de decoração para casas com pouco espaço.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank">**5 dicas de decoração para casas com pouco espaço.**</a>
 </p>
 
 <p align="center">
@@ -131,15 +131,15 @@ categories:
 </p>
 
 <p align="left">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank">**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**</a>
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank"><strong>Móvel funcional na sua sala de estar pequena é a melhor escolha.</strong></a>
+  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank">**Móvel funcional na sua sala de estar pequena é a melhor escolha.**</a>
 </p>
 
 <p align="center">
@@ -159,11 +159,11 @@ categories:
 </p>
 
 <p align="left">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank">**4 composições de cantinhos para sua varanda pequena.**</a>
 </p>
 
 <p align="center">
@@ -179,11 +179,11 @@ categories:
 </p>
 
 <p align="left">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank">**Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.**</a>
 </p>
 
 <p align="center">

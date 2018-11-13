@@ -1,7 +1,7 @@
 ---
-id: 3377
+
 title: 'Empreendedorismo feminino: 3 mulheres contaram tudo!'
-date: 2014-12-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/12/empreendedorismo-feminino/
@@ -11,27 +11,27 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Horários rígidos e chefes difíceis de engolir… essa é uma realidade que te pertence? Saiba que você não é a única a ficar insatisfeita com esse tipo de cenário. Muitas mulheres andam inquietas e desejando muito virar o jogo, e o que prova isso é que muito se tem falado em <strong>empreendedorismo feminino</strong>, não é verdade? Você é dessas que gostariam de investir em algo próprio também?
+  Horários rígidos e chefes difíceis de engolir… essa é uma realidade que te pertence? Saiba que você não é a única a ficar insatisfeita com esse tipo de cenário. Muitas mulheres andam inquietas e desejando muito virar o jogo, e o que prova isso é que muito se tem falado em **empreendedorismo feminino**, não é verdade? Você é dessas que gostariam de investir em algo próprio também?
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/" target="_blank"><strong>Trabalho: o que é mais importante na hora de empreender?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/" target="_blank">**Trabalho: o que é mais importante na hora de empreender?**</a>
 </p>
 
 <p align="justify">
-  As histórias que você verá a seguir, de <strong>3 mulheres</strong> que foram lá e fizeram suas ideias darem certo, são mesmo inspiradoras. A vontade de tomá-las como exemplo é enorme, você verá… mas, atenção: há uma distância entre sonhar… e tornar o sonho realidade. Nem toda grande ideia pode se revelar um caso de sucesso, porque é preciso ter muita atitude,<em> viu</em>? Ser criativa é importante, mas é vital, na mesma medida, que haja muita perseverança e “mão na massa”. Ficou animada e sente que esse é o seu perfil? Então… inspire-se!
+  As histórias que você verá a seguir, de **3 mulheres** que foram lá e fizeram suas ideias darem certo, são mesmo inspiradoras. A vontade de tomá-las como exemplo é enorme, você verá… mas, atenção: há uma distância entre sonhar… e tornar o sonho realidade. Nem toda grande ideia pode se revelar um caso de sucesso, porque é preciso ter muita atitude,<em> viu</em>? Ser criativa é importante, mas é vital, na mesma medida, que haja muita perseverança e “mão na massa”. Ficou animada e sente que esse é o seu perfil? Então… inspire-se!
 </p>
 
 <p align="justify">
-  <strong>Você já se perguntou?</strong>
+  **Você já se perguntou?**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank"><strong>O que faz uma mãe optar pelo trabalho autônomo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">**O que faz uma mãe optar pelo trabalho autônomo?**</a>
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  A relação de Taís com os doces vem de muito tempo, de quando ela era ainda uma menina. Com 10 ou 11 anos cismou que iria aprender a fazer bolo de chocolate, com muito brigadeiro e… quer saber? Aquele capricho de menina dava sinais sobre por onde a mulher empreendedora do futuro iria enveredar: Taís deu início ao seu projeto literalmente delicioso, a empresa <strong><a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank">Maria Mel</a></strong>.
+  A relação de Taís com os doces vem de muito tempo, de quando ela era ainda uma menina. Com 10 ou 11 anos cismou que iria aprender a fazer bolo de chocolate, com muito brigadeiro e… quer saber? Aquele capricho de menina dava sinais sobre por onde a mulher empreendedora do futuro iria enveredar: Taís deu início ao seu projeto literalmente delicioso, a empresa **<a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank">Maria Mel</a>**.
 </p>
 
 <p align="justify">
-  Aos poucos essa criativa foi percebendo que era preciso inovar e, por isso, procurou explorar ao máximo o seu talento. Foi assim que ela se entregou a delícia e ao desafio de experimentar novos sabores e dar asas a sua imaginação, e o resultado é uma variedade incrível desse doce que é paixão nacional: <strong>o brigadeiro</strong>.
+  Aos poucos essa criativa foi percebendo que era preciso inovar e, por isso, procurou explorar ao máximo o seu talento. Foi assim que ela se entregou a delícia e ao desafio de experimentar novos sabores e dar asas a sua imaginação, e o resultado é uma variedade incrível desse doce que é paixão nacional: **o brigadeiro**.
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para provar suas delícias, você irá encontrá-la de <strong>Quarta á Domingo, das 16h ás 22h, no Bessa Shopping, em João Pessoa</strong>. Mas, creio, não demorará muito e você poderá encontrá-la também pelas praias da Paraíba, porque essa moça quer chegar por essas bandas também. E quem duvida que ela vai conseguir?!
+  Para provar suas delícias, você irá encontrá-la de **Quarta á Domingo, das 16h ás 22h, no Bessa Shopping, em João Pessoa**. Mas, creio, não demorará muito e você poderá encontrá-la também pelas praias da Paraíba, porque essa moça quer chegar por essas bandas também. E quem duvida que ela vai conseguir?!
 </p>
 
 <p align="justify">
@@ -83,11 +83,11 @@ categories:
 </p>
 
 <p align="justify">
-  Da ideia para a concretização do sonho do negócio ela não demorou muito, e começou tão logo concluiu o seu curso. Dessa forma, deu o início necessário a sua atuação como <strong><a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Consultora de Estilo</a></strong>. Entretanto, viu seu projeto ser alavancado quando idealizou algo inovador, o seu congresso &#8211; <strong><a href="https://www.facebook.com/conastyle/timeline" target="_blank">ConaStyle &#8211; Congresso Nacional de Estilo</a></strong>.
+  Da ideia para a concretização do sonho do negócio ela não demorou muito, e começou tão logo concluiu o seu curso. Dessa forma, deu o início necessário a sua atuação como **<a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Consultora de Estilo</a>**. Entretanto, viu seu projeto ser alavancado quando idealizou algo inovador, o seu congresso &#8211; **<a href="https://www.facebook.com/conastyle/timeline" target="_blank">ConaStyle &#8211; Congresso Nacional de Estilo</a>**.
 </p>
 
 <p align="justify">
-  Lilian revela, contudo, que tudo não são flores. As dificuldades existem e, para ela, a maior de todas foi fazer com que as pessoas entendessem que “<em>Consultoria de Imagem & Estilo não é algo para ricos e famosos. Todo mundo pode ter um</em>”, e é assim que ela segue, incansável e determinada a provar isso. Para tanto, procura desenvolver seu trabalho atuando em várias frentes: <strong>consultoria de imagem e estilo pessoal, consultoria corporativa, treinamentos, <em>workshops</em> e palestras</strong>.
+  Lilian revela, contudo, que tudo não são flores. As dificuldades existem e, para ela, a maior de todas foi fazer com que as pessoas entendessem que “<em>Consultoria de Imagem & Estilo não é algo para ricos e famosos. Todo mundo pode ter um</em>”, e é assim que ela segue, incansável e determinada a provar isso. Para tanto, procura desenvolver seu trabalho atuando em várias frentes: **consultoria de imagem e estilo pessoal, consultoria corporativa, treinamentos, <em>workshops</em> e palestras**.
 </p>
 
 <p align="justify">
@@ -111,11 +111,11 @@ categories:
 </p>
 
 <p align="justify">
-  A hora da virada se deu em 2012 quando, com o apoio do marido e da família, essa criativa corajosa resolveu assumir sua veia artística e deu a volta por cima: largou o emprego formal e investiu o seu tempo e seus esforços no seu negócio do coração. Foi assim que nasceu o <strong><a href="https://www.facebook.com/kecaatelie/timeline" target="_blank">KeCa Ateliê</a></strong>.
+  A hora da virada se deu em 2012 quando, com o apoio do marido e da família, essa criativa corajosa resolveu assumir sua veia artística e deu a volta por cima: largou o emprego formal e investiu o seu tempo e seus esforços no seu negócio do coração. Foi assim que nasceu o **<a href="https://www.facebook.com/kecaatelie/timeline" target="_blank">KeCa Ateliê</a>**.
 </p>
 
 <p align="justify">
-  <em>“Inicialmente vendi alguns mimos para amigos e estes foram indicando novos clientes, mas a </em><a href="http://www.vitrine.elo7.com.br/kecaatelie" target="_blank"><strong><em>loja virtual</em></strong></a><em> foi criada em conjunto. Quando fiz minha primeira venda pela loja virtual para uma pessoa que nunca tinha visto e de outro estado, foi um dia marcante e especial pra mim. Vi que estava no caminho certo. Hoje já temos mimos do <strong>KeCa ateliê</strong> em todos os estados da federação, EUA e Argentina. Costumo dizer no grupo de clientes do facebook que nossa família está crescendo, já somos mais de 450 membros, 450 pessoas que valorizam o meu trabalho e que apreciam a minha arte</em>”, revela Adriana, orgulhosa de seu feito. E não é pra menos!
+  <em>“Inicialmente vendi alguns mimos para amigos e estes foram indicando novos clientes, mas a </em><a href="http://www.vitrine.elo7.com.br/kecaatelie" target="_blank">**<em>loja virtual</em>**</a><em> foi criada em conjunto. Quando fiz minha primeira venda pela loja virtual para uma pessoa que nunca tinha visto e de outro estado, foi um dia marcante e especial pra mim. Vi que estava no caminho certo. Hoje já temos mimos do **KeCa ateliê** em todos os estados da federação, EUA e Argentina. Costumo dizer no grupo de clientes do facebook que nossa família está crescendo, já somos mais de 450 membros, 450 pessoas que valorizam o meu trabalho e que apreciam a minha arte</em>”, revela Adriana, orgulhosa de seu feito. E não é pra menos!
 </p>
 
 <p align="justify">
@@ -139,27 +139,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Você viu?</strong>
+  **Você viu?**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank"><strong>Qual é o mistério do sucesso da Margaret?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank">**Qual é o mistério do sucesso da Margaret?**</a>
 </p>
 
 <p align="justify">
-  Não satisfeita, pedi que as meninas me contassem: <strong><span style="font-size: medium;">qual dica elas dariam para você que quer empreender o seu próprio negócio, a  partir da experiência delas.</span></strong> A boa notícia, bonita, é que elas entregaram seus segredinhos… olha só:
+  Não satisfeita, pedi que as meninas me contassem: **<span style="font-size: medium;">qual dica elas dariam para você que quer empreender o seu próprio negócio, a  partir da experiência delas.</span>** A boa notícia, bonita, é que elas entregaram seus segredinhos… olha só:
 </p>
 
 > <p align="justify">
->   <strong>Uma dica é sempre acreditar em seus sonhos, fazer tudo com dedicação, aprender sempre, e nunca, nunca, nunca desistir, por que um dia se torna realidade, se focar realmente no que quer. Fé e foco! O tempo que vai demorar, não importa, o tempo passa de qualquer forma, então aproveita para subir de um em um degrau até chegar lá!” Taís Marçal – </strong><a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank"><strong>Maria Mel</strong></a>
+>   **Uma dica é sempre acreditar em seus sonhos, fazer tudo com dedicação, aprender sempre, e nunca, nunca, nunca desistir, por que um dia se torna realidade, se focar realmente no que quer. Fé e foco! O tempo que vai demorar, não importa, o tempo passa de qualquer forma, então aproveita para subir de um em um degrau até chegar lá!” Taís Marçal – **<a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank">**Maria Mel**</a>
 > </p>
 
 > <p align="justify">
->   <strong>Perfil Empreendedor; Buscar conhecimento sempre; Tirar a ideia do papel; Conheça sua área; Errar é humano; Nunca desista dos seus sonhos; Ame o que você faz.” Lilian Jordão – </strong><a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank"><strong>Consultoria de Estilo</strong></a>
+>   **Perfil Empreendedor; Buscar conhecimento sempre; Tirar a ideia do papel; Conheça sua área; Errar é humano; Nunca desista dos seus sonhos; Ame o que você faz.” Lilian Jordão – **<a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">**Consultoria de Estilo**</a>
 > </p>
 
 > <p align="justify">
->   <strong>Minha dica pra quem quer viver exclusivamente de sua arte é concentrar-se no que faz de melhor e depois partir para novos desafios. Investir tempo para criar uma identidade para seu trabalho, um conceito, algo que faça as pessoas perceberem o quanto de paixão e de carinho há em cada detalhe da sua peça. Não tenha medo de colocar mais de você em sua marca. Por fim, persistir sempre!” Adriana Galvão – </strong><a href="https://www.facebook.com/kecaatelie/timeline" target="_blank"><strong>KeCa Ateliê</strong></a>
+>   **Minha dica pra quem quer viver exclusivamente de sua arte é concentrar-se no que faz de melhor e depois partir para novos desafios. Investir tempo para criar uma identidade para seu trabalho, um conceito, algo que faça as pessoas perceberem o quanto de paixão e de carinho há em cada detalhe da sua peça. Não tenha medo de colocar mais de você em sua marca. Por fim, persistir sempre!” Adriana Galvão – **<a href="https://www.facebook.com/kecaatelie/timeline" target="_blank">**KeCa Ateliê**</a>
 > </p>
 
 <p align="center">

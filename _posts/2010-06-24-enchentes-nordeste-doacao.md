@@ -1,7 +1,7 @@
 ---
-id: 2836
+
 title: 'Enchentes no Nordeste: o Bicha Fêmea abraça a causa.'
-date: 2010-06-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/24/enchentes-nordeste-doacao/

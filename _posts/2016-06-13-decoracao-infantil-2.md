@@ -1,7 +1,7 @@
 ---
-id: 3625
+
 title: 'Decoração infantil: enfeite de tecido para o quarto ou festa.'
-date: 2016-06-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/13/decoracao-infantil-2/
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Não deixe de ver:</strong>
+  **Não deixe de ver:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank"><strong>Cortina de bolinhas em quarto infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank">**Cortina de bolinhas em quarto infantil: faça você mesma!**</a>
 </p>
 
 &nbsp;
@@ -43,11 +43,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>E por falar em festa infantil:</strong>
+  **E por falar em festa infantil:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma!**</a>
 </p>
 
 &nbsp;

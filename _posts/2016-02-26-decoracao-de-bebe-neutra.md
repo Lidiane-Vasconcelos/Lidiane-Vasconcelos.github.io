@@ -1,7 +1,7 @@
 ---
-id: 3550
+
 title: 'Decoração de bebê neutra: como fazer?'
-date: 2016-02-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/26/decoracao-de-bebe-neutra/
@@ -19,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe/" target="_blank"><strong>Decoração para quarto de bebê menino e menina.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe/" target="_blank">**Decoração para quarto de bebê menino e menina.**</a>
 </p>
 
 <p align="justify">
-  <strong>Escolha combinações suaves de cores</strong>
+  **Escolha combinações suaves de cores**
 </p>
 
 <p align="center">
@@ -43,15 +43,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank"><strong>Decoração neutra e simples para bebê: pitacos e inspirações.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank">**Decoração neutra e simples para bebê: pitacos e inspirações.**</a>
 </p>
 
 <p align="justify">
-  <strong>Use formas geométricas</strong>
+  **Use formas geométricas**
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Escolha um bichinho reinante</strong>
+  **Escolha um bichinho reinante**
 </p>
 
 <p align="center">
@@ -83,15 +83,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank"><strong>Decoração de bebê bonita, segura e funcional: 8 dicas infalíveis!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank">**Decoração de bebê bonita, segura e funcional: 8 dicas infalíveis!**</a>
 </p>
 
 <p align="justify">
-  <strong>Use adesivos</strong>
+  **Use adesivos**
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Escolha detalhes em tecido</strong>
+  **Escolha detalhes em tecido**
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Amarelo ou verde? Nenhum deles.</strong>
+  **Amarelo ou verde? Nenhum deles.**
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Aposte nos brinquedos!</strong>
+  **Aposte nos brinquedos!**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3697
+
 title: 'Casamento intimista: celebração afetiva, para poucos.'
-date: 2016-11-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/04/casamento-intimista/
@@ -10,11 +10,11 @@ categories:
   - Relacionamento
 ---
 <p style="text-align: justify;">
-  Pessoalmente, sou bastante entusiasta das celebrações intimistas e mais afetuosas, para poucos, sabe? Já falei sobre isso no post a respeito de <a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank">festa infantil</a>, e foi nos comentários dele que a Mariana Alcântara sugeriu esse assunto: <strong>casamento intimista</strong>. Confesso que a pauta sobre casamento, falando da cerimônia em si, será novidade no blog. O nosso público, em sua maioria, é formado por mulheres maduras, já casadas, e com filhos. Mas certamente dentre muitas delas há aquelas que apenas “juntaram”, e que um dia sonham oficializar a relação com cerimônia + recepção. Esse é o meu caso, por exemplo, que casei apenas no civil. Não me admira que a sugestão tenha vindo de uma leitora. Ela, como eu, deve ter esse desejo que é tão comum entre muitas de nós. Pensei: por que não? Vindo de uma leitora, então, penso que o post ganhará ainda mais relevância.
+  Pessoalmente, sou bastante entusiasta das celebrações intimistas e mais afetuosas, para poucos, sabe? Já falei sobre isso no post a respeito de <a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank">festa infantil</a>, e foi nos comentários dele que a Mariana Alcântara sugeriu esse assunto: **casamento intimista**. Confesso que a pauta sobre casamento, falando da cerimônia em si, será novidade no blog. O nosso público, em sua maioria, é formado por mulheres maduras, já casadas, e com filhos. Mas certamente dentre muitas delas há aquelas que apenas “juntaram”, e que um dia sonham oficializar a relação com cerimônia + recepção. Esse é o meu caso, por exemplo, que casei apenas no civil. Não me admira que a sugestão tenha vindo de uma leitora. Ela, como eu, deve ter esse desejo que é tão comum entre muitas de nós. Pensei: por que não? Vindo de uma leitora, então, penso que o post ganhará ainda mais relevância.
 </p>
 
 <p style="text-align: justify;">
-  Para falar sobre casamento intimista (<em>mini wedding</em>), que vai na via contrária das grandes celebrações de hoje em dia, convidei uma <em>expert</em> no assunto: <strong>Amanda Accioli, </strong><strong>Consultora em Eventos Sociais & Casamentos. </strong>Amanda tem dicas incríveis para nós que queremos celebrar a união com menos pompa, e já adianta que “<em>os grandes, mega, ultra casamentos, com pompas e circunstâncias, têm dado lugar aos íntimos, charmosos e delicados mini weddings</em>”, ou seja, já há uma tendência nesse sentido, um retorno ao simples. Isso, contudo, não quer dizer que um evento como esse, de caráter mais intimista, não tenha beleza e detalhes encantadores. Prepare-se para ideias incríveis trazidas pela Amanda, e comece a pensar nas escolhas para esse dia tão especial.
+  Para falar sobre casamento intimista (<em>mini wedding</em>), que vai na via contrária das grandes celebrações de hoje em dia, convidei uma <em>expert</em> no assunto: **Amanda Accioli, ****Consultora em Eventos Sociais & Casamentos. **Amanda tem dicas incríveis para nós que queremos celebrar a união com menos pompa, e já adianta que “<em>os grandes, mega, ultra casamentos, com pompas e circunstâncias, têm dado lugar aos íntimos, charmosos e delicados mini weddings</em>”, ou seja, já há uma tendência nesse sentido, um retorno ao simples. Isso, contudo, não quer dizer que um evento como esse, de caráter mais intimista, não tenha beleza e detalhes encantadores. Prepare-se para ideias incríveis trazidas pela Amanda, e comece a pensar nas escolhas para esse dia tão especial.
 </p>
 
 &nbsp;
@@ -134,7 +134,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Nota:</strong> já pensou que o casamento pode ser comemorado com um churrasco? Antes que você coloque as mãos na cabeça e ache um absurdo, aviso: a versão pode ser muito mais elegante do que você imagina. Amanda dá as dicas. <a href="http://amandicaindica.blogspot.com.br/2012/01/como-servir-e-fazer-acontecer-um.html" target="_blank">Clique aqui e confira como servir e fazer acontecer um churrasco glam</a>.
+  **Nota:** já pensou que o casamento pode ser comemorado com um churrasco? Antes que você coloque as mãos na cabeça e ache um absurdo, aviso: a versão pode ser muito mais elegante do que você imagina. Amanda dá as dicas. <a href="http://amandicaindica.blogspot.com.br/2012/01/como-servir-e-fazer-acontecer-um.html" target="_blank">Clique aqui e confira como servir e fazer acontecer um churrasco glam</a>.
 </p>
 
 <p align="center">
@@ -142,7 +142,7 @@ categories:
 </p>
 
 <p align="justify">
-  Amanda comanda o blog <a href="http://amandicaindica.blogspot.com.br/" target="_blank">Amandica Indica</a>, blog dedicado ao conteúdo voltado para eventos sociais em geral. A boa notícia para as bonitas que querem casar é que em breve nascerá o <strong>Despertei Noiva</strong>, que será uma parte dentro do blog especializada em casamentos. <a href="http://amandicaindica.blogspot.com.br/" target="_blank">Clique aqui, visite o blog</a> e confira o conteúdo riquíssimo que há por lá.  <a href="https://www.instagram.com/desperteinoiva/" target="_blank">Aqui você confere e segue</a> o <strong>Instagram Despertei Noiva</strong>. <a href="https://www.facebook.com/desperteinoivaamandicaindica/?fref=ts" target="_blank">Aqui fica a fanpage no Facebook</a> do Despertei Noiva. Se joga e sonha, bonita!!!!
+  Amanda comanda o blog <a href="http://amandicaindica.blogspot.com.br/" target="_blank">Amandica Indica</a>, blog dedicado ao conteúdo voltado para eventos sociais em geral. A boa notícia para as bonitas que querem casar é que em breve nascerá o **Despertei Noiva**, que será uma parte dentro do blog especializada em casamentos. <a href="http://amandicaindica.blogspot.com.br/" target="_blank">Clique aqui, visite o blog</a> e confira o conteúdo riquíssimo que há por lá.  <a href="https://www.instagram.com/desperteinoiva/" target="_blank">Aqui você confere e segue</a> o **Instagram Despertei Noiva**. <a href="https://www.facebook.com/desperteinoivaamandicaindica/?fref=ts" target="_blank">Aqui fica a fanpage no Facebook</a> do Despertei Noiva. Se joga e sonha, bonita!!!!
 </p>
 
 <p align="center">

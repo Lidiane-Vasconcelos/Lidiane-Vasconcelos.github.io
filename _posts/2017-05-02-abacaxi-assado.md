@@ -1,7 +1,7 @@
 ---
-id: 3756
+
 title: 'Abacaxi assado: receita simples e surpreendente.'
-date: 2017-05-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/02/abacaxi-assado/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  <strong>Abacaxi assado</strong> soa exótico? Tânia apresenta pra gente uma versão que não pode ter outro resultado que não seja o de uma delícia dos deuses! A fruta ganha toques inusitados de especiarias e o gostinho inconfundível do mel, resultando numa combinação que nossa <em>expert</em> em comida gostosa atesta: impossível não gostar. Vamos aprender como faz? Vem!
+  **Abacaxi assado** soa exótico? Tânia apresenta pra gente uma versão que não pode ter outro resultado que não seja o de uma delícia dos deuses! A fruta ganha toques inusitados de especiarias e o gostinho inconfundível do mel, resultando numa combinação que nossa <em>expert</em> em comida gostosa atesta: impossível não gostar. Vamos aprender como faz? Vem!
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes</em></strong>
+  **<em>Ingredientes</em>**
 </p>
 
 <p align="justify">
@@ -94,23 +94,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/04/25/couve-flor-assada/" target="_blank"><strong>Couve-flor assada com temperinhos… pra variar.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/04/25/couve-flor-assada/" target="_blank">**Couve-flor assada com temperinhos… pra variar.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank"><strong>Bolo de alecrim… e a delícia de experimentar o novo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank">**Bolo de alecrim… e a delícia de experimentar o novo!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/" target="_blank"><strong>Suco de beterraba, cenoura e laranja… e sabedoria de vó.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/" target="_blank">**Suco de beterraba, cenoura e laranja… e sabedoria de vó.**</a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">

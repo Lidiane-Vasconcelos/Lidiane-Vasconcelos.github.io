@@ -1,7 +1,7 @@
 ---
-id: 2772
+
 title: Emagrecimento e organização
-date: 2010-01-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/26/emagrecimento/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  <strong><em>EMAGRECIMENTO E ORGANIZAÇÃO</em></strong>
+  **<em>EMAGRECIMENTO E ORGANIZAÇÃO</em>**
 </p>
 
 Esse é um aspecto muito importante para quem está em busca de um peso magro. Emagrecer e se manter magro, depende de um conjunto de ações que só você que é o principal interessado, pode alcançar. E a organização faz parte deste contexto, bem como a perda de peso.<!--more-->
@@ -18,23 +18,23 @@ Esse é um aspecto muito importante para quem está em busca de um peso magro. E
 Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a façam permanecer dentro das metas traçadas:
 
 <div>
-  <strong>&#8211; Escolha um dia da semana para fazer suas compras.</strong>
+  **&#8211; Escolha um dia da semana para fazer suas compras.**
 </div>
 
 <div>
-  <strong> </strong>
+  ** **
 </div>
 
 <div>
-  <strong>&#8211; Caminhe nas gôndolas de produtos importantes para sua Reeducação Alimentar com calma, estando aberta a novas aquisições, como por exemplo, experimentar o arroz integral ao invés do branco tradicional.</strong>
+  **&#8211; Caminhe nas gôndolas de produtos importantes para sua Reeducação Alimentar com calma, estando aberta a novas aquisições, como por exemplo, experimentar o arroz integral ao invés do branco tradicional.**
 </div>
 
 <div>
-  <strong> </strong>
+  ** **
 </div>
 
 <div>
-  <strong>&#8211; Compre alimentos para seu café da manhã, lanches intermediários, almoço, janta e ceia, para a semana toda.</strong>
+  **&#8211; Compre alimentos para seu café da manhã, lanches intermediários, almoço, janta e ceia, para a semana toda.**
 </div>
 
 <div>
@@ -42,23 +42,23 @@ Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a 
 </div>
 
 <div>
-  &#8211;<strong> Não leve para casa produtos gordurosos que possam fazer você perder o controle e comer demais.</strong>
+  &#8211;** Não leve para casa produtos gordurosos que possam fazer você perder o controle e comer demais.**
 </div>
 
 <div>
-  <strong> </strong> 
+  ** ** 
 </div>
 
 <div>
-  <strong>&#8211; Não faça estoques.</strong>
+  **&#8211; Não faça estoques.**
 </div>
 
 <div>
-  <strong> </strong>
+  ** **
 </div>
 
 <div style="text-align: center;">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento.jpg"><img class="alignnone size-full wp-image-6471" title="emagrecimento" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento.jpg" alt="" width="600" height="800" /></a></strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento.jpg"><img class="alignnone size-full wp-image-6471" title="emagrecimento" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/emagrecimento.jpg" alt="" width="600" height="800" /></a>**
 </div>
 
 <p style="text-align: justify;">
@@ -86,7 +86,7 @@ Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a 
 </p>
 
 <p style="text-align: justify;">
-  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
 </p>
 
 <p style="text-align: justify;">
@@ -98,18 +98,18 @@ Psicóloga &#8211; Curitiba
 <a href="http://www.comportamentomagro.com.br" target="_blank">WWW.comportamentomagro.com.br</a>
 
 <p style="text-align: center;">
-  <strong>Quer ver seu texto publicado como o de uma bicha fêmea colaboradora? Clique <a href="http://www.trololodemulher.com.br/colabore/">aqui</a> e saiba como!</strong>
+  **Quer ver seu texto publicado como o de uma bicha fêmea colaboradora? Clique <a href="http://www.trololodemulher.com.br/colabore/">aqui</a> e saiba como!**
 </p>
 
 <p style="text-align: left;">
-  <strong>Mais no Bicha Fêmea&#8230;</strong>
+  **Mais no Bicha Fêmea&#8230;**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2010/01/13/bicha-fmea-colaboradora-luciana-kotaka/" target="_self"><strong><em>Comer bem para viver melhor.</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2010/01/13/bicha-fmea-colaboradora-luciana-kotaka/" target="_self">**<em>Comer bem para viver melhor.</em>**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-para-automotivacao-na-pratica-de-exercicios-fisicos/" target="_self"><strong><em>Dicas para automotivação na prática de exercícios físicos.</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-para-automotivacao-na-pratica-de-exercicios-fisicos/" target="_self">**<em>Dicas para automotivação na prática de exercícios físicos.</em>**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/02/07/4-razes-para-voc-tomar-caf-da-manh-mas-um-caf-completo-hein/" target="_self"><strong><em>4 razões para você tomar café da manhã. Mas um café completo, hein?</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/02/07/4-razes-para-voc-tomar-caf-da-manh-mas-um-caf-completo-hein/" target="_self">**<em>4 razões para você tomar café da manhã. Mas um café completo, hein?</em>**</a>
 
 **_<a href="http://www.trololodemulher.com.br/2010/06/28/emagrecimento-expectativas/" target="_self">Expectativas reais: você tem?</a>_**
 

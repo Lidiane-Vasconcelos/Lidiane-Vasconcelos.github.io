@@ -1,7 +1,7 @@
 ---
-id: 2866
+
 title: Qual é a importância do alongamento?
-date: 2010-08-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/27/importancia-do-alongamento/
@@ -48,13 +48,13 @@ _ _
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      <strong><em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/tamires-roque/" target="_self">Tamires Fernandes Roque</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo</a></em></strong>
+      **<em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/tamires-roque/" target="_self">Tamires Fernandes Roque</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo</a></em>**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      <strong><a href="mailto:tamires_ef@ig.com.br">tamires_ef@ig.com.br</a></strong>
+      **<a href="mailto:tamires_ef@ig.com.br">tamires_ef@ig.com.br</a>**
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ _ _
  
 
 <p style="text-align: left;">
-  <strong>Mais no Bicha Fêmea…</strong>
+  **Mais no Bicha Fêmea…**
 </p>
 
 **_[Alimentos gordurosos versus escolhas saudáveis…](http://www.trololodemulher.com.br/2010/05/28/escolha-alimentos-saudaveis/)_**
@@ -76,9 +76,9 @@ _ _
 **_[Dicas para automotivação na prática de exercícios físicos.](http://www.trololodemulher.com.br/2009/12/28/dicas-exercicios-fisicos/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/corpo/"><strong><em>Corpo</em></strong></a> > <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em></strong> > Qual é a importância do alongamento?
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a> > **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>** > Qual é a importância do alongamento?
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

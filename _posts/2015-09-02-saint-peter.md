@@ -1,7 +1,7 @@
 ---
-id: 3478
+
 title: Saint Peter ao forno ao molho de abóbora
-date: 2015-09-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/02/saint-peter/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Como fazer:</strong>
+  **Como fazer:**
 </p>
 
 <p align="justify">
@@ -78,23 +78,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café… porque merecemos!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café… porque merecemos!</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank">Brigadeiro de colher saudável: xô, TPM!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank">Brigadeiro de colher saudável: xô, TPM!</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank">Sopa de tomate com couve</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank">Sopa de tomate com couve</a>**
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

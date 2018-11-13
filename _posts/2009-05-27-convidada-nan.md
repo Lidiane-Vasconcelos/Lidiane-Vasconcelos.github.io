@@ -1,7 +1,7 @@
 ---
-id: 2666
+
 title: Sexy and City Paulista
-date: 2009-05-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/27/convidada-nan/

@@ -1,7 +1,7 @@
 ---
-id: 3115
+
 title: Já pegou o pacotinho de confete e serpentina?
-date: 2012-02-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/02/17/confete-e-serpentina/
@@ -20,7 +20,7 @@ Se, por outro lado, você pegou um livro, revistas queridas ou seja lá o que fo
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/CONFETE-SERPENTINA.jpg"><img class="alignnone size-full wp-image-8534" title="CONFETE SERPENTINA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/CONFETE-SERPENTINA.jpg" alt="" width="600" height="476" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/CONFETE-SERPENTINA.jpg"><img class="alignnone size-full wp-image-8534" title="CONFETE SERPENTINA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/CONFETE-SERPENTINA.jpg" alt="" width="600" height="476" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Se, por outro lado, você pegou um livro, revistas queridas ou seja lá o que fo
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -56,9 +56,9 @@ Se, por outro lado, você pegou um livro, revistas queridas ou seja lá o que fo
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

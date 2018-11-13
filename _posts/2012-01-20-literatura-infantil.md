@@ -1,7 +1,7 @@
 ---
-id: 3106
+
 title: Seu filho ama os livros?
-date: 2012-01-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/20/literatura-infantil/
@@ -27,7 +27,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="justify">
-  A frase acima é de autoria de <strong>Elaine Cunha. </strong>Contadora de histórias  e blogueira, ela edita o <strong><a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>, um espaço dedicado a dividir experiências, aprendizados e novidades no mundo da contação de histórias.
+  A frase acima é de autoria de **Elaine Cunha. **Contadora de histórias  e blogueira, ela edita o **<a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a>**, um espaço dedicado a dividir experiências, aprendizados e novidades no mundo da contação de histórias.
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">A criança é tão pequenininha…</span></strong>
+  **<span style="font-size: medium;">A criança é tão pequenininha…</span>**
 </p>
 
 &nbsp;
@@ -61,7 +61,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">O pequeno já cresceu, mas ainda não sabe ler?</span></strong>
+  **<span style="font-size: medium;">O pequeno já cresceu, mas ainda não sabe ler?</span>**
 </p>
 
 &nbsp;
@@ -73,7 +73,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">A criança já sabe ler… vale pedir que ela leia em voz alta?</span></strong>
+  **<span style="font-size: medium;">A criança já sabe ler… vale pedir que ela leia em voz alta?</span>**
 </p>
 
 &nbsp;
@@ -83,19 +83,19 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LITERATURA-INFANTIL.jpg"><img class="alignnone size-full wp-image-8459" title="LITERATURA INFANTIL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LITERATURA-INFANTIL.jpg" alt="" width="600" height="517" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LITERATURA-INFANTIL.jpg"><img class="alignnone size-full wp-image-8459" title="LITERATURA INFANTIL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LITERATURA-INFANTIL.jpg" alt="" width="600" height="517" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Opinião de Mãe…</span></strong>
+  **<span style="font-size: large;">Opinião de Mãe…</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Sim! Como eu poderia deixar de trazer para o <strong>Bicha Fêmea</strong> a opinião de uma mãe que põe em prática, de verdade, as ações recomendadas de incentivo á leitura na vida dos pequenos. <strong>Cláudia Ramalho</strong>, editora do delicioso e <em>superultramega</em> interessante <strong><a href="http://www.blogfeitoamao.com/" target="_blank">Feito á Mão</a></strong>, tem duas filhas. Desde muito cedo as meninas tiveram contato com os livros, e desenvolveram tanto o gosto pela leitura, que o desejo pela compra de livros não depende mais dos estímulos da mãe. Isso não é lindo? Cláudia dividiu um pouco de sua experiência e mostra suas conquistas nesse aspecto da educação das meninas…
+  Sim! Como eu poderia deixar de trazer para o **Bicha Fêmea** a opinião de uma mãe que põe em prática, de verdade, as ações recomendadas de incentivo á leitura na vida dos pequenos. **Cláudia Ramalho**, editora do delicioso e <em>superultramega</em> interessante **<a href="http://www.blogfeitoamao.com/" target="_blank">Feito á Mão</a>**, tem duas filhas. Desde muito cedo as meninas tiveram contato com os livros, e desenvolveram tanto o gosto pela leitura, que o desejo pela compra de livros não depende mais dos estímulos da mãe. Isso não é lindo? Cláudia dividiu um pouco de sua experiência e mostra suas conquistas nesse aspecto da educação das meninas…
 </p>
 
 &nbsp;
@@ -105,7 +105,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 > <p align="justify">
->   “<em>Geralmente, elas escolhem o tema e eu escolho o livro adequado à faixa etária delas. </em><em>Trago sempre comigo, salvo no celular, uma listinha dos melhores livros infantis que as revistas especializadas publicam. A <strong><a href="http://revistacrescer.globo.com/Revista/Crescer/0,,EMI237592-17759,00-OS+MELHORES+LIVROS+INFANTIS.html" target="_blank">Crescer faz uma listinha dessas por ano</a></strong>. Facilita muito na hora de escolher o que comprar. Como em Maceió somos carentes de livrarias boas, quase sempre faço minhas compras on line ou durante viagens. </em><em>Outro dia, estava em Brasília, numa viagem a trabalho, quando recebi por e-mail uma listinha de livros que Clarinha enviou, como sugestão de presente. Ela havia tirado a tal lista de uma edição da Revista Recreio. Fiquei impressionada com sua capacidade. Eu nem sabia que ela tinha criado uma conta de e-mail, muito menos que já tinha interesses literários próprios. Desde então, sempre conversamos sobre o que ela está querendo ler. Suas escolhas são bem peculiares. O último escolhido foi &#8220;O que Einstein disse a seu cozinheiro&#8221;, um livro que aborda as transformações químicas que os alimentos sofrem na cozinha. Muito interessante!”</em>
+>   “<em>Geralmente, elas escolhem o tema e eu escolho o livro adequado à faixa etária delas. </em><em>Trago sempre comigo, salvo no celular, uma listinha dos melhores livros infantis que as revistas especializadas publicam. A **<a href="http://revistacrescer.globo.com/Revista/Crescer/0,,EMI237592-17759,00-OS+MELHORES+LIVROS+INFANTIS.html" target="_blank">Crescer faz uma listinha dessas por ano</a>**. Facilita muito na hora de escolher o que comprar. Como em Maceió somos carentes de livrarias boas, quase sempre faço minhas compras on line ou durante viagens. </em><em>Outro dia, estava em Brasília, numa viagem a trabalho, quando recebi por e-mail uma listinha de livros que Clarinha enviou, como sugestão de presente. Ela havia tirado a tal lista de uma edição da Revista Recreio. Fiquei impressionada com sua capacidade. Eu nem sabia que ela tinha criado uma conta de e-mail, muito menos que já tinha interesses literários próprios. Desde então, sempre conversamos sobre o que ela está querendo ler. Suas escolhas são bem peculiares. O último escolhido foi &#8220;O que Einstein disse a seu cozinheiro&#8221;, um livro que aborda as transformações químicas que os alimentos sofrem na cozinha. Muito interessante!”</em>
 > </p>
 
 &nbsp;
@@ -151,19 +151,19 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">O que colocar na biblioteca básica dos pequenos?</span></strong>
+  **<span style="font-size: medium;">O que colocar na biblioteca básica dos pequenos?</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Confira a seguir algumas obras sugeridas pela <strong>Elaine Cunha</strong> para que você leia com sua criança, ou que ela poderá ler sozinha. A lista foi adaptada do livro “Técnicas de Contar Histórias”, de Vania Dohme.
+  Confira a seguir algumas obras sugeridas pela **Elaine Cunha** para que você leia com sua criança, ou que ela poderá ler sozinha. A lista foi adaptada do livro “Técnicas de Contar Histórias”, de Vania Dohme.
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Até 3 anos &#8211; </strong>Histórias com bichos, de brinquedos, animais com caraterísticas humanas (falam, usam roupas, tem hábitos humanos), histórias cujos personagens são crianças.
+  **Até 3 anos &#8211; **Histórias com bichos, de brinquedos, animais com caraterísticas humanas (falam, usam roupas, tem hábitos humanos), histórias cujos personagens são crianças.
 </p>
 
 &nbsp;
@@ -173,7 +173,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 </p>
 
 <p align="center">
-  <a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank"><strong><em>O Pintinho</em></strong></a><em> &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank"><strong><em>Ed Vere</em></strong></a><em>  Livro pop-up que mostra o crescimento do Pintinho. Encanta extamamente pelas figuras que surgem.</em>
+  <a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank">**<em>O Pintinho</em>**</a><em> &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=410" target="_blank">**<em>Ed Vere</em>**</a><em>  Livro pop-up que mostra o crescimento do Pintinho. Encanta extamamente pelas figuras que surgem.</em>
 </p>
 
 &nbsp;
@@ -183,13 +183,13 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 </p>
 
 <p align="center">
-  <em>A Pequena Tartaruga Verde- </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank"><strong><em>A.J. Wood</em></strong></a><strong><em> </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank"><em>Rachel Williams</em></a></strong><strong></strong><em>  A tartaruga acha que não tem nada de especial. Vê nos outros bichos carateristicas que ela não tem. Até que vem uma situação inesperada e ela percebe o quanto ela é. Livro em pop-up. É de encher os olhos quando surgem os bichos.</em>
+  <em>A Pequena Tartaruga Verde- </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank">**<em>A.J. Wood</em>**</a>**<em> </em><a href="http://www.brinquebook.com.br/livro.php?id=424" target="_blank"><em>Rachel Williams</em></a>******<em>  A tartaruga acha que não tem nada de especial. Vê nos outros bichos carateristicas que ela não tem. Até que vem uma situação inesperada e ela percebe o quanto ela é. Livro em pop-up. É de encher os olhos quando surgem os bichos.</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>Entre 3 e 6 anos</strong> &#8211; Histórias com bastante fantasia, histórias com fatos inesperados e repetitivos, histórias cujos personagens são crianças ou animais.
+  **Entre 3 e 6 anos** &#8211; Histórias com bastante fantasia, histórias com fatos inesperados e repetitivos, histórias cujos personagens são crianças ou animais.
 </p>
 
 &nbsp;
@@ -215,7 +215,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="justify">
-  <strong>Entre 7 e 9 anos &#8211; </strong>Aventuras no ambiente conhecido (a escola, o bairro, a familia&#8230;) histórias com fadas, fábulas. Histórias que utilizam a fantasia de forma mais elaborada, histórias vinculadas à realidade. Histórias de Aventuras em ambientes longínquos (selva, oriente, fundo do mar, outros planetas) .
+  **Entre 7 e 9 anos &#8211; **Aventuras no ambiente conhecido (a escola, o bairro, a familia&#8230;) histórias com fadas, fábulas. Histórias que utilizam a fantasia de forma mais elaborada, histórias vinculadas à realidade. Histórias de Aventuras em ambientes longínquos (selva, oriente, fundo do mar, outros planetas) .
 </p>
 
 &nbsp;
@@ -241,7 +241,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="justify">
-  <strong>Entre 10 e 12 anos &#8211; </strong>Histórias humorísticas, explorações, viagens, invenções, mitos e lendas.
+  **Entre 10 e 12 anos &#8211; **Histórias humorísticas, explorações, viagens, invenções, mitos e lendas.
 </p>
 
 &nbsp;
@@ -261,34 +261,34 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 </p>
 
 <p align="center">
-  <em>Diomira, a Sherazade do sertão, coronel Carrerão e Lucinha &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=438" target="_blank"><strong><em>Ivana Arruda Leite</em></strong></a><em> Minha raiz nordestina neste livro. Muito bom!</em>
+  <em>Diomira, a Sherazade do sertão, coronel Carrerão e Lucinha &#8211; </em><a href="http://www.brinquebook.com.br/livro.php?id=438" target="_blank">**<em>Ivana Arruda Leite</em>**</a><em> Minha raiz nordestina neste livro. Muito bom!</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Então, bonita! Disposta a incentivar a leitura na vida do seu filho, agora mais do que nunca? Vai em frente e depois curta o resultado toda orgulhosa, assim como a <strong>Cláudia Ramalho</strong> que, aliás, conta muito mais de suas experiências maternas, dentre outras coisas, no <strong><a href="http://www.blogfeitoamao.com/" target="_blank">Feito á Mão</a></strong>.
+  Então, bonita! Disposta a incentivar a leitura na vida do seu filho, agora mais do que nunca? Vai em frente e depois curta o resultado toda orgulhosa, assim como a **Cláudia Ramalho** que, aliás, conta muito mais de suas experiências maternas, dentre outras coisas, no **<a href="http://www.blogfeitoamao.com/" target="_blank">Feito á Mão</a>**.
 </p>
 
 <p align="justify">
-  Para se manter cada vez mais antenada no universo da contação de histórias e aprender muito mais sobre o assunto, o <strong><a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>, da meiga e delicada <strong>Elaine Cunha</strong>, é leitura obrigatória! Desfrute!
+  Para se manter cada vez mais antenada no universo da contação de histórias e aprender muito mais sobre o assunto, o **<a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a>**, da meiga e delicada **Elaine Cunha**, é leitura obrigatória! Desfrute!
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
+  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><span style="font-size: small;">Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><img class="alignnone size-full wp-image-4651" title="Mãe e filha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/05/Mae-e-filha200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/"><span style="font-size: small;">Bichas fêmeas em debate: filho de ecomãe, ecofilho é?</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-8200" title="EDUCACAO INFANTIL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/"><span style="font-size: small;"><br /> E a educação? Vem mesmo de berço?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg"><img class="alignnone size-full wp-image-8200" title="EDUCACAO INFANTIL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/EDUCACAO-INFANTIL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/"><span style="font-size: small;"><br /> E a educação? Vem mesmo de berço?</span></a>**
       </p>
     </td>
   </tr>
@@ -296,13 +296,13 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/flá200.jpg"><img class="alignnone size-full wp-image-8453" title="flá200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/flá200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/"><span style="font-size: small;"><br /> De repente você acorda e toma um susto: você é mãe!</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/flá200.jpg"><img class="alignnone size-full wp-image-8453" title="flá200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/flá200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/"><span style="font-size: small;"><br /> De repente você acorda e toma um susto: você é mãe!</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg"><img class="alignnone size-full wp-image-8207" title="MATERNIDADE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/"><span style="font-size: small;"><br /> Maternidade – um aprendizado que requer inteligência</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg"><img class="alignnone size-full wp-image-8207" title="MATERNIDADE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/MATERNIDADE200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/"><span style="font-size: small;"><br /> Maternidade – um aprendizado que requer inteligência</span></a>**
       </p>
     </td>
   </tr>
@@ -313,15 +313,15 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Decoração da Casa</span></strong>
+  **<span style="font-size: large;">Mais no Decoração da Casa</span>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/organização-quarto-infantil200.jpg"><img class="alignnone size-full wp-image-8466" title="organização quarto infantil200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/organização-quarto-infantil200.jpg" alt="" width="200" height="200" /></a></strong>
+  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/organização-quarto-infantil200.jpg"><img class="alignnone size-full wp-image-8466" title="organização quarto infantil200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/organização-quarto-infantil200.jpg" alt="" width="200" height="200" /></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank"><span style="font-size: small;">Ideias para você organizar um cantinho de leitura e artes infantil</span></a></strong>
+  **<a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank"><span style="font-size: small;">Ideias para você organizar um cantinho de leitura e artes infantil</span></a>**
 </p>
 
 &nbsp;
@@ -333,7 +333,7 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -357,9 +357,9 @@ O mínimo que sua criança ganha com o amor pela leitura é uma boa escrita, mas
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

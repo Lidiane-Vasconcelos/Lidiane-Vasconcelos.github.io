@@ -1,7 +1,7 @@
 ---
-id: 3699
+
 title: Pão de Queijo pra ser feliz no café da tarde.
-date: 2016-11-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/08/pao-de-queijo/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  <strong>Pão de queijo</strong> no café da tarde é uma combinação pra lá de perfeita! A receita de hoje ensina a prepará-lo artesanalmente, do começo ao fim. Tânia garante que embora usar uma farinha pré-pronta seja bastante prático, nada se compara ao sabor dos pãezinhos quando a gente faz tudo do zero, e com ingredientes de qualidade. A julgar pela beleza deles, o sabor deve mesmo ficar uma gostosura. Vamos à receita?
+  **Pão de queijo** no café da tarde é uma combinação pra lá de perfeita! A receita de hoje ensina a prepará-lo artesanalmente, do começo ao fim. Tânia garante que embora usar uma farinha pré-pronta seja bastante prático, nada se compara ao sabor dos pãezinhos quando a gente faz tudo do zero, e com ingredientes de qualidade. A julgar pela beleza deles, o sabor deve mesmo ficar uma gostosura. Vamos à receita?
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes:</em></strong>
+  **<em>Ingredientes:</em>**
 </p>
 
   * <div align="justify">
@@ -106,23 +106,23 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Mais receitas de Tânia:</strong></em>
+  <em>**Mais receitas de Tânia:**</em>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank"><em><strong>Por um Verão perfeito: picolé caseiro de morango e iogurte.</strong></em></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank"><em>**Por um Verão perfeito: picolé caseiro de morango e iogurte.**</em></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/" target="_blank"><em><strong>Brigadeiro de pistache para adoçar a vida com bossa.</strong></em></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/" target="_blank"><em>**Brigadeiro de pistache para adoçar a vida com bossa.**</em></a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank"><em><strong>Alho assado com alecrim, pra tornar tudo especial.</strong></em></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank"><em>**Alho assado com alecrim, pra tornar tudo especial.**</em></a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">

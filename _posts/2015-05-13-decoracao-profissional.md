@@ -1,7 +1,7 @@
 ---
-id: 3420
+
 title: Decore como se você fosse uma profissional!
-date: 2015-05-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/13/decoracao-profissional/
@@ -34,19 +34,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank"><strong>Dicas para decoração da área de entrada.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank">**Dicas para decoração da área de entrada.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank"><strong>Ideia para organização de objetos na área de entrada da casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank">**Ideia para organização de objetos na área de entrada da casa.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank"><strong>Área de entrada da casa: organização desde o início.</strong></a>
+  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank">**Área de entrada da casa: organização desde o início.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank"><strong>Quer reformar uma cômoda e criar uma área de entrada na sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank">**Quer reformar uma cômoda e criar uma área de entrada na sua casa?**</a>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se sua cozinha tem poucas medidas, saiba que isso é o que há de mais comum hoje em dia. Cada centímetro conta e para deixá-la bonita e bem decorada é imprescindível que não haja bagunça por lá. Por isso, deixe á mostra somente o que é bonito e essencial. Use e abuse de organizadores de parede para te ajudar na organização do espaço e, se você ainda desconfia da eficiência dessa dica, deixa eu te mostrar <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank"><strong>5 razões para ter um suporte de organização da parede da cozinha</strong></a>, combinado?
+  Se sua cozinha tem poucas medidas, saiba que isso é o que há de mais comum hoje em dia. Cada centímetro conta e para deixá-la bonita e bem decorada é imprescindível que não haja bagunça por lá. Por isso, deixe á mostra somente o que é bonito e essencial. Use e abuse de organizadores de parede para te ajudar na organização do espaço e, se você ainda desconfia da eficiência dessa dica, deixa eu te mostrar <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank">**5 razões para ter um suporte de organização da parede da cozinha**</a>, combinado?
 </p>
 
 <p align="justify">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank"><strong>Cozinha inteligente, prática e funcional: dicas profissionais.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank">**Cozinha inteligente, prática e funcional: dicas profissionais.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank"><strong>Decoração da cozinha: 7 profissionais dizem o que é top.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank">**Decoração da cozinha: 7 profissionais dizem o que é top.**</a>
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_blank"><strong>Como decorar a mesa de centro de sala?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_blank">**Como decorar a mesa de centro de sala?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
+  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank">**Mesa de centro da sala de estar: compre sem erro!**</a>
 </p>
 
 <p align="center">
@@ -94,23 +94,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro para ganhar/poupar espaço: 4 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank">**Decoração de banheiro para ganhar/poupar espaço: 4 dicas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">**4 ideias para decoração de banheiro pequeno.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank"><strong>Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">**Banheiro pequeno? Veja 6 ideias e ganhe espaço já!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank">**Banheiro: dicas simples de decoração que custam quase nada!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-decoracao/" target="_blank"><strong>Banheiro: 4 ideias baratas e simples para deixá-lo mais bonito.</strong></a>
+  <a href="http://www.decoracaodacasa.com/banheiro-decoracao/" target="_blank">**Banheiro: 4 ideias baratas e simples para deixá-lo mais bonito.**</a>
 </p>
 
 <p align="center">

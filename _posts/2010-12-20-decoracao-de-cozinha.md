@@ -1,7 +1,7 @@
 ---
-id: 2921
+
 title: 'Decoração de cozinha: 2 ideias que também organizam.'
-date: 2010-12-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/20/decoracao-de-cozinha/
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Sugestões de mimos decorativos para sua cozinha…</em></strong>
+  **<em>Sugestões de mimos decorativos para sua cozinha…</em>**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -49,7 +49,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">Conjunto Bandeja&Potes Lavanda</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">Conjunto Bandeja&Potes Lavanda</a>** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
     
@@ -69,7 +69,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">Móbile Galinha Country</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">Móbile Galinha Country</a>** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
   </tr>
@@ -81,7 +81,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank"><strong><em>Placa Galinha Country</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">**<em>Placa Galinha Country</em>**</a><em> está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
     
@@ -101,7 +101,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">Quadro Cenário Cozinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A **<a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">Quadro Cenário Cozinha</a>** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
   </tr>
@@ -117,7 +117,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>As <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">basta clicar</a></strong>!</em>
+        <em>As **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a>** estão a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
     
@@ -137,7 +137,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>O par de quadros <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">Cenário Copa&Café</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
+        <em>O par de quadros **<a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">Cenário Copa&Café</a>** estão a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
       </p>
     </td>
   </tr>
@@ -154,13 +154,13 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **[Tudo branco na decoração da cozinha.](http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/)**
 
 <p style="text-align: center;">
-  Navegando no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa</em></strong><strong><em> & Decoração</em></strong> </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/"><strong><em>Cozinha</em></strong></a>> Decoração de cozinha: 2 ideias que também organizam.
+  Navegando no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa</em>****<em> & Decoração</em>** </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/">**<em>Cozinha</em>**</a>> Decoração de cozinha: 2 ideias que também organizam.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

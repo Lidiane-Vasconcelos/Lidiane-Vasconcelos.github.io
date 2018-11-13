@@ -1,7 +1,7 @@
 ---
-id: 3221
+
 title: Dica de decoração infantil que sua criança pode fazer…
-date: 2013-05-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/29/decoracao-quarto-infantil-2/
@@ -16,13 +16,13 @@ Já imaginou que legal se no **quarto** do pequeno ou da pequena tivesse algo qu
 &nbsp;
 
 <p align="justify">
-  Separe algum <strong>tempo na sua agenda</strong>: isso é fundamental! Depois, providencie <strong>cartolina, lã, botões, cola colorida, pedaços de tecido</strong> e o que mais sua imaginação sugerir a partir da ideia que você verá. O resultado é um projeto <em>superultramega</em> divertido para enfeitar o quarto da criançada… <em>espia</em> a sugestão garimpada no site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>:
+  Separe algum **tempo na sua agenda**: isso é fundamental! Depois, providencie **cartolina, lã, botões, cola colorida, pedaços de tecido** e o que mais sua imaginação sugerir a partir da ideia que você verá. O resultado é um projeto <em>superultramega</em> divertido para enfeitar o quarto da criançada… <em>espia</em> a sugestão garimpada no site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**:
 </p>
 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">Enfeite para porta ou janela</span></strong>
+  **<span style="font-size: large;">Enfeite para porta ou janela</span>**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3863
+
 title: Linda, leve, solta e produtiva.
-date: 2018-05-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/05/14/produtiva/
@@ -13,7 +13,7 @@ categories:
   - Produtividade
 ---
 <p align="justify">
-  Já disse que tenho feito mais no meu tempo, e ando me sentindo mais <strong>produtiva</strong>? Que ironia! Justamente porque andei desacelerando, tenho conseguido fazer mais! Isso é prova de que andar sempre apressada, “na correria”, sem tempo para nada, é uma escolha de vida contraproducente. Na mão inversa, o melhor a fazer é colocar o pé no freio e repensar certas atitudes. No post “<a href="http://www.trololodemulher.com.br/2016/04/18/desacelerar/" target="_blank">Desacelerar e ter uma vida leve: veja 4 dicas práticas</a>” te mostro como tenho tentado ter um dia a dia mais tranquilo, com espaço para cuidar melhor de mim, inclusive.
+  Já disse que tenho feito mais no meu tempo, e ando me sentindo mais **produtiva**? Que ironia! Justamente porque andei desacelerando, tenho conseguido fazer mais! Isso é prova de que andar sempre apressada, “na correria”, sem tempo para nada, é uma escolha de vida contraproducente. Na mão inversa, o melhor a fazer é colocar o pé no freio e repensar certas atitudes. No post “<a href="http://www.trololodemulher.com.br/2016/04/18/desacelerar/" target="_blank">Desacelerar e ter uma vida leve: veja 4 dicas práticas</a>” te mostro como tenho tentado ter um dia a dia mais tranquilo, com espaço para cuidar melhor de mim, inclusive.
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>[… a propósito!]</strong>
+  **[… a propósito!]**
 </p>
 
 Conheça o <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>, o programa via whatsapp que vai te orientar, passo a passo, na organização da gestão doméstica, para que você ganhe tranquilidade e mais tempo no dia a dia!
@@ -61,7 +61,7 @@ Nova turma apenas no segundo semestre. Se você quiser saber em primeira mão as
 </p>
 
 <p align="justify">
-  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
+  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
 </p>
 
 <p align="justify">
@@ -69,7 +69,7 @@ Nova turma apenas no segundo semestre. Se você quiser saber em primeira mão as
 </p>
 
 <p style="text-align: justify;">
-  Insights, inspiração e incentivo para uma vida mais organizada, leve e produtiva. Vou distribuir essas pequenas contribuições uma vez por semana, via WhatsApp, por lista de transmissão. Quer fazer parte? Vem no <strong>81.9.9530-7307</strong> e diz &#8220;quero entrar na lista&#8221;!
+  Insights, inspiração e incentivo para uma vida mais organizada, leve e produtiva. Vou distribuir essas pequenas contribuições uma vez por semana, via WhatsApp, por lista de transmissão. Quer fazer parte? Vem no **81.9.9530-7307** e diz &#8220;quero entrar na lista&#8221;!
 </p>
 
 &nbsp;

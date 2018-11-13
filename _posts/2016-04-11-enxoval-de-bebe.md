@@ -1,7 +1,7 @@
 ---
-id: 3585
+
 title: O que é essencial num enxoval de bebê?
-date: 2016-04-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/11/enxoval-de-bebe/
@@ -11,11 +11,11 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Quando a gente engravida o coração se enche de uma alegria sem fim, não é? Depois de um tempo, quando a ficha cai, vem um monte de dúvidas sobre a montagem do <strong>enxoval de bebê</strong>. Quando me preparei para receber Artur (que hoje já é um rapazinho do alto de seus 3 anos!), de uma coisa eu tinha certeza: o enxoval tinha de ser composto pelo que é essencial. Assim, procurei fazer minha lista após bastante pesquisa e, depois que a montei, fui fiel a ela. As tentações são muitas, é verdade. A gente vê tanta coisa linda, que se não tiver uma listinha para nos guiar e não soubermos exatamente o que a gente quer, corre o risco de entulhar as gavetas e armário do bebê com um monte de coisas desnecessárias e supérfluas.
+  Quando a gente engravida o coração se enche de uma alegria sem fim, não é? Depois de um tempo, quando a ficha cai, vem um monte de dúvidas sobre a montagem do **enxoval de bebê**. Quando me preparei para receber Artur (que hoje já é um rapazinho do alto de seus 3 anos!), de uma coisa eu tinha certeza: o enxoval tinha de ser composto pelo que é essencial. Assim, procurei fazer minha lista após bastante pesquisa e, depois que a montei, fui fiel a ela. As tentações são muitas, é verdade. A gente vê tanta coisa linda, que se não tiver uma listinha para nos guiar e não soubermos exatamente o que a gente quer, corre o risco de entulhar as gavetas e armário do bebê com um monte de coisas desnecessárias e supérfluas.
 </p>
 
 <p align="justify">
-  Sendo assim, neste post vou te mostrar alguns itens que julgo importantes, <strong>daqueles que não podem faltar num enxoval essencial</strong>, e que funcionaram muito bem pra mim no dia a dia com Artur. Quero te mostrar também que você pode comprar alguns deles, com bastante comodidade, na loja virtual <a href="http://bit.ly/xxbtrololo" target="_blank">Xique Xique Brasil</a>, que é repleta de opções para você montar um enxoval lindo de viver para sua cria que está a caminho… vem comigo!
+  Sendo assim, neste post vou te mostrar alguns itens que julgo importantes, **daqueles que não podem faltar num enxoval essencial**, e que funcionaram muito bem pra mim no dia a dia com Artur. Quero te mostrar também que você pode comprar alguns deles, com bastante comodidade, na loja virtual <a href="http://bit.ly/xxbtrololo" target="_blank">Xique Xique Brasil</a>, que é repleta de opções para você montar um enxoval lindo de viver para sua cria que está a caminho… vem comigo!
 </p>
 
 <p align="center">
@@ -23,15 +23,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Roupas</strong>
+  **Roupas**
 </p>
 
 <p align="justify">
-  Em qual época do ano seu bebê vai nascer? Pense nisso na hora da compra. Artur nasceu num mês quente, em Dezembro. Sendo assim, não comprei <strong>macacão de plush</strong>, por exemplo, muito menos <strong>de lã ou de linha</strong>. Seguindo a proposta de roupa de peça única, comprei <strong>macaquinho (calça curta) de algodão</strong>, para os dias de calor. Para os dias em que eu julgava mais fresquinhos, e que pediam cobertura nas pernas ou bracinhos, comprei <strong>culotes e bodies de manga curta e longa</strong>. Assim eu tinha liberdade de cobrir somente pernas, ou também os bracinhos, sem o “engessamento” do macacão. A gente sempre anda com roupinhas extras na bolsa, e nunca se sabe se o tempo vai virar. Se a gente sai com uma roupa onde os bracinhos ficaram livres e o tempo vira, é sempre bom ter <strong>casaquinho</strong> para aquecer o bebê. Fica a dica. Mais uma vez, isso tudo depende de quando e onde o bebê nasce, certo? Ah! <strong>Meias</strong>… elas são importantes.
+  Em qual época do ano seu bebê vai nascer? Pense nisso na hora da compra. Artur nasceu num mês quente, em Dezembro. Sendo assim, não comprei **macacão de plush**, por exemplo, muito menos **de lã ou de linha**. Seguindo a proposta de roupa de peça única, comprei **macaquinho (calça curta) de algodão**, para os dias de calor. Para os dias em que eu julgava mais fresquinhos, e que pediam cobertura nas pernas ou bracinhos, comprei **culotes e bodies de manga curta e longa**. Assim eu tinha liberdade de cobrir somente pernas, ou também os bracinhos, sem o “engessamento” do macacão. A gente sempre anda com roupinhas extras na bolsa, e nunca se sabe se o tempo vai virar. Se a gente sai com uma roupa onde os bracinhos ficaram livres e o tempo vira, é sempre bom ter **casaquinho** para aquecer o bebê. Fica a dica. Mais uma vez, isso tudo depende de quando e onde o bebê nasce, certo? Ah! **Meias**… elas são importantes.
 </p>
 
 <p align="justify">
-  <strong>Fraldas de tecido</strong>
+  **Fraldas de tecido**
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Roupa de cama e banho</strong>
+  **Roupa de cama e banho**
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  Na Xique Xique Brasil você encontra vários outros itens bastante importantes para o enxoval de seu bebê, a exemplo de <strong>mantas e cueiros</strong>, dentre outros. A variedade é enorme e você pode comprovar visitando a loja, <a href="http://bit.ly/xxbtrololo" target="_blank">clicando aqui</a>. A Xique Xique Brasil também está no Facebook, inspirando você que deseja preparar a chegada do seu bebê com peças lindas, de qualidade e bom gosto. <a href="https://www.facebook.com/XiqueXiqueBrasil" target="_blank">Clique aqui, curta</a> e acompanhe!
+  Na Xique Xique Brasil você encontra vários outros itens bastante importantes para o enxoval de seu bebê, a exemplo de **mantas e cueiros**, dentre outros. A variedade é enorme e você pode comprovar visitando a loja, <a href="http://bit.ly/xxbtrololo" target="_blank">clicando aqui</a>. A Xique Xique Brasil também está no Facebook, inspirando você que deseja preparar a chegada do seu bebê com peças lindas, de qualidade e bom gosto. <a href="https://www.facebook.com/XiqueXiqueBrasil" target="_blank">Clique aqui, curta</a> e acompanhe!
 </p>
 
 <p align="center">
@@ -87,5 +87,5 @@ categories:
 </p>
 
 <p align="justify">
-  <strong> </strong>
+  ** **
 </p>

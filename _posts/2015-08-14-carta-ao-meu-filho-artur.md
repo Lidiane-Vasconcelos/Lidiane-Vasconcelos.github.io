@@ -1,7 +1,7 @@
 ---
-id: 3464
+
 title: Carta ao meu filho Artur.
-date: 2015-08-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/14/carta-ao-meu-filho-artur/

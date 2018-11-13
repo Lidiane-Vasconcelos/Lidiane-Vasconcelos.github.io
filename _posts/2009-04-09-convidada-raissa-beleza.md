@@ -1,7 +1,7 @@
 ---
-id: 2645
+
 title: Um dia de beleza só para você!
-date: 2009-04-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/09/convidada-raissa-beleza/

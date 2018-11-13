@@ -1,7 +1,7 @@
 ---
-id: 3707
+
 title: 'Decoração da sala de jantar: dúvidas da leitora solucionadas.'
-date: 2016-11-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/22/sala-de-jantar-3/
@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Já falei o quanto amo quando há oportunidade de, através do blog, resolver problemas reais das leitoras? No <strong>Trololó de Mulher</strong> há espaço para isso, e hoje a Luana terá suas dúvidas de decoração resolvidas, tudo a respeito de sua <strong>sala de jantar.</strong> O melhor de tudo é que a dúvida dela pode ser a sua também, e aprendendo com a solução apresentada para a realidade dela, a sua também pode mudar. Repara só:
+  Já falei o quanto amo quando há oportunidade de, através do blog, resolver problemas reais das leitoras? No **Trololó de Mulher** há espaço para isso, e hoje a Luana terá suas dúvidas de decoração resolvidas, tudo a respeito de sua **sala de jantar.** O melhor de tudo é que a dúvida dela pode ser a sua também, e aprendendo com a solução apresentada para a realidade dela, a sua também pode mudar. Repara só:
 </p>
 
 <p align="justify">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  A querida <strong>Claudia Medeiros, Personal Organizer e Designer de Interiores, de Campinas – SP</strong>, deu dicas preciosíssimas para a Luana. Tudo foi explicadinho de maneira bastante didática, com imagens que servem de referência para nortear a Luana em suas escolhas na hora das compras. Se forem seguidas, não tenho dúvidas do quanto a sala da leitora ficará uma graça! Confira:
+  A querida **Claudia Medeiros, Personal Organizer e Designer de Interiores, de Campinas – SP**, deu dicas preciosíssimas para a Luana. Tudo foi explicadinho de maneira bastante didática, com imagens que servem de referência para nortear a Luana em suas escolhas na hora das compras. Se forem seguidas, não tenho dúvidas do quanto a sala da leitora ficará uma graça! Confira:
 </p>
 
 <p align="justify">
@@ -58,15 +58,15 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Veja também:</strong></em>
+  <em>**Veja também:**</em>
 </p>
 
 <p align="justify">
-  <em><a href="http://www.trololodemulher.com.br/2016/08/29/luminaria-pendente/" target="_blank"><strong>Você sabe inserir a luminária pendente na decoração?</strong></a></em>
+  <em><a href="http://www.trololodemulher.com.br/2016/08/29/luminaria-pendente/" target="_blank">**Você sabe inserir a luminária pendente na decoração?**</a></em>
 </p>
 
 <p align="justify">
-  <em><a href="http://decoracaodacasa.com/lustre-pendente/" target="_blank"><strong>Como decorar a sala de jantar com lustre pendente?</strong></a></em>
+  <em><a href="http://decoracaodacasa.com/lustre-pendente/" target="_blank">**Como decorar a sala de jantar com lustre pendente?**</a></em>
 </p>
 
 <p align="justify">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  *Você tem dúvidas de decoração também? Escreve pra gente! A resposta pra sua pergunta pode virar um post, o que é bom para você, mas também para outras leitoras. Fale comigo &#8211; <em><strong>Lidiane {Lidi} Vasconcelos (trololomulher@gmail.com)</strong></em>. Te aguardo!
+  *Você tem dúvidas de decoração também? Escreve pra gente! A resposta pra sua pergunta pode virar um post, o que é bom para você, mas também para outras leitoras. Fale comigo &#8211; <em>**Lidiane {Lidi} Vasconcelos (trololomulher@gmail.com)**</em>. Te aguardo!
 </p>
 
 <p align="center">
@@ -110,23 +110,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias de Claudia:</strong>
+  **Mais consultorias de Claudia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank"><strong>4º post da série para organização da casa: closet.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">**4º post da série para organização da casa: closet.**</a>
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/02/02/piso-que-imita-madeira/" target="_blank">Revestimento de piso que imita madeira: 6 dicas de expert.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/02/02/piso-que-imita-madeira/" target="_blank">Revestimento de piso que imita madeira: 6 dicas de expert.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/" target="_blank">Antes x depois do quarto do casal: dicas de expert.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/" target="_blank">Antes x depois do quarto do casal: dicas de expert.</a>**
 </p>
 
 <p align="justify">
-  A <strong>Claudia Medeiros</strong> também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na minha casa</a><strong>. </strong>A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">perfil no Instagram</a>. Se joga!
+  A **Claudia Medeiros** também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na minha casa</a>**. **A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">perfil no Instagram</a>. Se joga!
 </p>
 
 <p align="center">

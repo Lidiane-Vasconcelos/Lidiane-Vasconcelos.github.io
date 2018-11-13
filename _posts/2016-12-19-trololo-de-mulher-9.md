@@ -1,7 +1,7 @@
 ---
-id: 3719
+
 title: O que tem na Prateleira do Trololó de Mulher de Dezembro?
-date: 2016-12-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/19/trololo-de-mulher-9/
@@ -10,11 +10,11 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Sente o clima de Natal esta semana? Junto com ele vem chegando o Verão, o fim do ano, e o recomeço no ano que vem… para muitas de nós, é tempo de férias!! Ô, delícia! Nesse período do ano gosto de pensar em como melhorar algumas coisas da casa, penso em comprinhas para a cria, e também nas minhas necessidades pessoais. Imaginei que com você possa funcionar mais ou menos assim também, então selecionei coisas bacanas dos parceiros comerciais do <strong>Trololó de Mulher</strong> pra te mostrar, e separei por blocos: Casa&Decoração | Maternidade&Filhos | Só para você. Dessa maneira você começa a ter uma noção das melhores escolhas nesse início de ano… boas compras!
+  Sente o clima de Natal esta semana? Junto com ele vem chegando o Verão, o fim do ano, e o recomeço no ano que vem… para muitas de nós, é tempo de férias!! Ô, delícia! Nesse período do ano gosto de pensar em como melhorar algumas coisas da casa, penso em comprinhas para a cria, e também nas minhas necessidades pessoais. Imaginei que com você possa funcionar mais ou menos assim também, então selecionei coisas bacanas dos parceiros comerciais do **Trololó de Mulher** pra te mostrar, e separei por blocos: Casa&Decoração | Maternidade&Filhos | Só para você. Dessa maneira você começa a ter uma noção das melhores escolhas nesse início de ano… boas compras!
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Casa&Decoração</span></strong>
+  **<span style="font-size: large;">Casa&Decoração</span>**
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Maternidade&Filhos</span></strong>
+  **<span style="font-size: large;">Maternidade&Filhos</span>**
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Só para você!!</span></strong>
+  **<span style="font-size: large;">Só para você!!</span>**
 </p>
 
 <p align="center">

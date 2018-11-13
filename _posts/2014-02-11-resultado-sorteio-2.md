@@ -1,7 +1,7 @@
 ---
-id: 3283
+
 title: Resultado do sorteio Dreams Factory por aqui…
-date: 2014-02-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/11/resultado-sorteio-2/
@@ -14,7 +14,7 @@ E hoje é o dia que sai o nome da sortuda que vai receber o kit de organização
 &nbsp;
 
 <p style="text-align: justify;">
-  O número total de meninas que entraram na brincadeira foi 69, e o sorteio foi feito via random.org. Logo a seguir você verá o nome da felizarda, e desde já adianto que vem brincadeira nova por ai, com presente lindo de viver via <strong><a href="https://www.facebook.com/maxicolaresarruda?fref=ts" target="_blank">SANDRA ARRUDA MAXI COLARES</a></strong>. Aguarde!
+  O número total de meninas que entraram na brincadeira foi 69, e o sorteio foi feito via random.org. Logo a seguir você verá o nome da felizarda, e desde já adianto que vem brincadeira nova por ai, com presente lindo de viver via **<a href="https://www.facebook.com/maxicolaresarruda?fref=ts" target="_blank">SANDRA ARRUDA MAXI COLARES</a>**. Aguarde!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ E hoje é o dia que sai o nome da sortuda que vai receber o kit de organização
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ E hoje é o dia que sai o nome da sortuda que vai receber o kit de organização
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

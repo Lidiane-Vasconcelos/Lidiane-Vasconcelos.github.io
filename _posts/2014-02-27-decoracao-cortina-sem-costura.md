@@ -1,7 +1,7 @@
 ---
-id: 3282
+
 title: 'Decoração com cortina sem costura&#8230; e bem barata!'
-date: 2014-02-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/27/decoracao-cortina-sem-costura/
@@ -37,15 +37,15 @@ Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Garden
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
+  **<span style="font-size: small;">Muito mais para você:</span>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/"><span style="font-size: small;">Dá para customizar uma cortina sem usar máquina de costura?</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/"><span style="font-size: small;">Dá para customizar uma cortina sem usar máquina de costura?</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span></a></strong>
+  **<a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span></a>**
 </p>
 
 &nbsp;

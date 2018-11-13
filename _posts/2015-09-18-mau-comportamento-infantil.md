@@ -1,7 +1,7 @@
 ---
-id: 3487
+
 title: O mau comportamento infantil ocorre em sua família?
-date: 2015-09-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/18/mau-comportamento-infantil/
@@ -11,11 +11,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  O melhor amiguinho de seu filho dá uma resposta mal educada toda vez que a mãe dele diz que é hora de sair do parquinho. A amiga inseparável de sua filha começou a falar palavras que, saídas da boca de uma criança, dão arrepios. Pior: você já percebe que seus filhos é que manifestam comportamentos indesejados, mas você está perdida sem saber exatamente como agir. O <strong>mau comportamento infantil</strong> pode ser um obstáculo que qualquer família tenha que enfrentar algum dia. Entender as razões por que isso acontece e aprender estratégias para lidar com essa situação pode minimizar o estresse, e nos orientar quanto a dar uma boa educação aos nossos filhos. O futuro dos pequenos agradece.
+  O melhor amiguinho de seu filho dá uma resposta mal educada toda vez que a mãe dele diz que é hora de sair do parquinho. A amiga inseparável de sua filha começou a falar palavras que, saídas da boca de uma criança, dão arrepios. Pior: você já percebe que seus filhos é que manifestam comportamentos indesejados, mas você está perdida sem saber exatamente como agir. O **mau comportamento infantil** pode ser um obstáculo que qualquer família tenha que enfrentar algum dia. Entender as razões por que isso acontece e aprender estratégias para lidar com essa situação pode minimizar o estresse, e nos orientar quanto a dar uma boa educação aos nossos filhos. O futuro dos pequenos agradece.
 </p>
 
 <p align="justify">
-  As más influências vão acompanhar seu filho por toda a vida, é verdade. O que também é fato é que, quando ainda pequenos, elas são bem impactantes. “<em>Na literatura científica não se encontra um achado especifico da idade em que a personalidade é totalmente formada, sabe-se que as vivências nos primeiros anos de vida são determinantes para sua formação, e os valores vão se modificando, dependendo das nossas relações, ao longo de toda a vida</em>”, esclarece <strong>Vívian Hagen, Psicóloga Infantil</strong>. É ela quem tira todas as nossas dúvidas sobre como agir diante do mau comportamento dos amigos de nossos filhos ou se posicionar diante da má postura de nossas crianças. E para quem tem filhos entrando na adolescência, já há um alerta: “<em>visando a educação de filhos, toda idade é super importante, até que eles realmente tenham a consciência de causa-consequência e saibam realmente qual caminho estão trilhando para a construção de sua história. Até que assumam essa consciência, a orientação e presença dos pais diante das decisões é de extrema importância. Contudo, a fase mais crítica, no que se refere a influência de amizades, é a adolescência. Nesta fase, eles estão mais grupais, alguns acham que os pais não entendem bem do que eles falam, logo a influência externa fala muito</em>”.
+  As más influências vão acompanhar seu filho por toda a vida, é verdade. O que também é fato é que, quando ainda pequenos, elas são bem impactantes. “<em>Na literatura científica não se encontra um achado especifico da idade em que a personalidade é totalmente formada, sabe-se que as vivências nos primeiros anos de vida são determinantes para sua formação, e os valores vão se modificando, dependendo das nossas relações, ao longo de toda a vida</em>”, esclarece **Vívian Hagen, Psicóloga Infantil**. É ela quem tira todas as nossas dúvidas sobre como agir diante do mau comportamento dos amigos de nossos filhos ou se posicionar diante da má postura de nossas crianças. E para quem tem filhos entrando na adolescência, já há um alerta: “<em>visando a educação de filhos, toda idade é super importante, até que eles realmente tenham a consciência de causa-consequência e saibam realmente qual caminho estão trilhando para a construção de sua história. Até que assumam essa consciência, a orientação e presença dos pais diante das decisões é de extrema importância. Contudo, a fase mais crítica, no que se refere a influência de amizades, é a adolescência. Nesta fase, eles estão mais grupais, alguns acham que os pais não entendem bem do que eles falam, logo a influência externa fala muito</em>”.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >> Isolar a cria ou evitar que ela tenha contato com outras crianças de comportamento duvidoso é uma boa estratégia?</strong>
+  **Trololó de Mulher >> Isolar a cria ou evitar que ela tenha contato com outras crianças de comportamento duvidoso é uma boa estratégia?**
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TMulher >> Já dá para definir como será um adolescente no futuro com base no mau comportamento quando ainda é criança?</strong>
+  **TMulher >> Já dá para definir como será um adolescente no futuro com base no mau comportamento quando ainda é criança?**
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM >> E quando se percebe que a má influência é o próprio filho ou filha, e não as outras crianças? O que fazer?</strong>
+  **TM >> E quando se percebe que a má influência é o próprio filho ou filha, e não as outras crianças? O que fazer?**
 </p>
 
 <p align="justify">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mau comportamento na prática: algumas orientações…</strong>
+  **Mau comportamento na prática: algumas orientações…**
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >> Crianças que respondem mal aos pais quando é exigido que elas façam a lição de casa: o que pode motivar este tipo de comportamento? Como lidar?</strong>
+  **Trololó de Mulher >> Crianças que respondem mal aos pais quando é exigido que elas façam a lição de casa: o que pode motivar este tipo de comportamento? Como lidar?**
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TMulher >> Crianças que querem “tudo agora” e fazem escândalo quando são contrariadas: por que isso acontece? Como agir?</strong>
+  **TMulher >> Crianças que querem “tudo agora” e fazem escândalo quando são contrariadas: por que isso acontece? Como agir?**
 </p>
 
 <p align="justify">

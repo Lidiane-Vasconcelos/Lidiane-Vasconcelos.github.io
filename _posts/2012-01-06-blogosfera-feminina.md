@@ -1,7 +1,7 @@
 ---
-id: 3102
+
 title: Há vida inteligente na blogosfera feminina?
-date: 2012-01-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/06/blogosfera-feminina/
@@ -23,7 +23,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="center">
-  <em><strong>Patrícia Pirota</strong>: professora (de coração e formação), blogueira wannabe (<strong><a href="http://patriciapirota.blogspot.com/">Ainda MininaMá</a></strong>), tuiteira entusiasmada (<strong><a href="http://twitter.com/#!/patriciapirota">@patriciapirota</a></strong>), e leitora nas horas vagas. Parafraseando Clarice, você pode conferir cada pedaço infernal meu lá no <strong><a href="http://flavors.me/patriciapirota">flavors.me</a></strong>.</em>
+  <em>**Patrícia Pirota**: professora (de coração e formação), blogueira wannabe (**<a href="http://patriciapirota.blogspot.com/">Ainda MininaMá</a>**), tuiteira entusiasmada (**<a href="http://twitter.com/#!/patriciapirota">@patriciapirota</a>**), e leitora nas horas vagas. Parafraseando Clarice, você pode conferir cada pedaço infernal meu lá no **<a href="http://flavors.me/patriciapirota">flavors.me</a>**.</em>
 </p>
 
 &nbsp;
@@ -35,7 +35,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">5 blogs inteligentes indicados pela MininaMá…</span></strong>
+  **<span style="font-size: medium;">5 blogs inteligentes indicados pela MininaMá…</span>**
 </p>
 
 &nbsp;
@@ -49,7 +49,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>Bom, desabafo feito, deixa eu explicar como fiz a lista: levei em consideração <strong>conteúdo, frequência de postagens e navegabilidade.</strong> Busquei blogs que tivessem um <strong>conteúdo bacana, que publicassem com uma boa frequência e cuja página fosse agradável de ler e navegar.</strong></em>
+  <em>Bom, desabafo feito, deixa eu explicar como fiz a lista: levei em consideração **conteúdo, frequência de postagens e navegabilidade.** Busquei blogs que tivessem um **conteúdo bacana, que publicassem com uma boa frequência e cuja página fosse agradável de ler e navegar.**</em>
 </p>
 
 <p align="justify">
@@ -69,7 +69,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>1. <strong><a href="http://demarcelaparaana.com/" target="_blank">De Marcela, para Ana</a></strong></em>
+  <em>1. **<a href="http://demarcelaparaana.com/" target="_blank">De Marcela, para Ana</a>**</em>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>2.<strong><a href="http://www.little-doll-house.com/" target="_blank">Little Doll House</a></strong></em>
+  <em>2.**<a href="http://www.little-doll-house.com/" target="_blank">Little Doll House</a>**</em>
 </p>
 
 <p align="center">
@@ -117,7 +117,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>3. <strong><a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party!</a></strong></em>
+  <em>3. **<a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party!</a>**</em>
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>4. <strong><a href="http://www.obatomdeclarice.com/" target="_blank">O Batom de Clarice</a></strong></em>
+  <em>4. **<a href="http://www.obatomdeclarice.com/" target="_blank">O Batom de Clarice</a>**</em>
 </p>
 
 <p align="center">
@@ -169,7 +169,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="justify">
-  <em>5. <strong><a href="http://vidaorganizada.com/" target="_blank">Vida Organizada</a></strong></em>
+  <em>5. **<a href="http://vidaorganizada.com/" target="_blank">Vida Organizada</a>**</em>
 </p>
 
 <p align="center">
@@ -209,7 +209,7 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </p>
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/SITES-FEMININOS.jpg"><img class="alignnone size-full wp-image-8419" title="SITES FEMININOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/SITES-FEMININOS.jpg" alt="" width="600" height="473" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong></em>
+  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/SITES-FEMININOS.jpg"><img class="alignnone size-full wp-image-8419" title="SITES FEMININOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/SITES-FEMININOS.jpg" alt="" width="600" height="473" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**</em>
 </p>
 
 &nbsp;
@@ -221,20 +221,20 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
+  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><img class="alignnone size-full wp-image-6836" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/internet3200.jpg" alt="" width="200" height="200" /></a></strong><a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><br /> <strong><span style="font-size: small;">Bloguetiqueta” ou etiqueta na blogosfera: você se importa com isso?</span></strong></a>
+        **<a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><img class="alignnone size-full wp-image-6836" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/internet3200.jpg" alt="" width="200" height="200" /></a>**<a href="http://www.trololodemulher.com.br/2011/08/26/boas-maneiras-internet/"><br /> **<span style="font-size: small;">Bloguetiqueta” ou etiqueta na blogosfera: você se importa com isso?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/"><img class="alignnone size-full wp-image-6687" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/ansiedade200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/"><strong><span style="font-size: small;">Ansiedade bloguística: você sente isso?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/"><img class="alignnone size-full wp-image-6687" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/ansiedade200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/">**<span style="font-size: small;">Ansiedade bloguística: você sente isso?</span>**</a>
       </p>
     </td>
   </tr>
@@ -242,13 +242,13 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/"><img class="alignnone size-full wp-image-4712" title="mulher no computador200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mulher-no-computador200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/"><strong><span style="font-size: small;">Organização como blogueira: faz alguma diferença?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/"><img class="alignnone size-full wp-image-4712" title="mulher no computador200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/mulher-no-computador200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/06/11/organizacao-blogosfera/">**<span style="font-size: small;">Organização como blogueira: faz alguma diferença?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/"><img class="alignnone  wp-image-8383" title="banner 200x200 tipo jpg" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/banner-200x200-tipo-jpg.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/"><strong><span style="font-size: small;">Estilos de vida e de blogar: cada bicha fêmea com o seu!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/"><img class="alignnone  wp-image-8383" title="banner 200x200 tipo jpg" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/banner-200x200-tipo-jpg.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/11/25/estilos-de-vida/">**<span style="font-size: small;">Estilos de vida e de blogar: cada bicha fêmea com o seu!</span>**</a>
       </p>
     </td>
   </tr>
@@ -259,15 +259,15 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -290,5 +290,5 @@ Sim, seu blog é uma prova feliz de que há, de fato, vida inteligente na blogos
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

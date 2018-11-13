@@ -1,7 +1,7 @@
 ---
-id: 3418
+
 title: O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!
-date: 2015-03-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/22/moda-idades/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  Foi justamente por isso que convidei a <strong>Lilian Jordão</strong>, <strong>que é Consultora de Estilo, da Cidade de Ribeirão Preto, </strong>e nossa querida consultora por aqui. É ela quem vai nos presentear com dicas incríveis e imperdíveis de como fazer suas escolhas de moda e estilo, seja você uma mulher de 20, 30, 40, 50 anos ou mais. Vem comigo que o <em>trololó</em> é sobre moda… para todas as idades.
+  Foi justamente por isso que convidei a **Lilian Jordão**, **que é Consultora de Estilo, da Cidade de Ribeirão Preto, **e nossa querida consultora por aqui. É ela quem vai nos presentear com dicas incríveis e imperdíveis de como fazer suas escolhas de moda e estilo, seja você uma mulher de 20, 30, 40, 50 anos ou mais. Vem comigo que o <em>trololó</em> é sobre moda… para todas as idades.
 </p>
 
 <p align="center">
@@ -33,15 +33,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Lilian Jordão:</strong>
+  **Mais consultorias da Lilian Jordão:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/" target="_blank"><strong>Moda sem mistérios: 2 dicas para colocar em prática já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/" target="_blank">**Moda sem mistérios: 2 dicas para colocar em prática já!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank"><strong>Trololó do dia: moda para a vida real. Aprenda tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank">**Trololó do dia: moda para a vida real. Aprenda tudo!**</a>
 </p>
 
 <p align="justify">

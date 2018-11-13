@@ -1,7 +1,7 @@
 ---
-id: 3540
+
 title: 'Maquiagem leve e sofisticada: como conseguir esse efeito?'
-date: 2016-02-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/15/maquiagem-leve-e-sofisticada/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  Os dias têm sido de sol e calor aquecendo a vida, e o que queremos é ficar bem bonitas de viver, não é? Se você é das minhas, pensa logo de cara: maquiagem pesada e escorrendo não é legal, e não combina nem um pouco com o Verão. Bonito mesmo é sair por aí com uma <strong>maquiagem leve e sofisticada</strong>, e é para que gente aprenda todos os truques e <em>trucões</em> que esse post foi pensado, viu? Prepare-se: a bela <strong>Márcia Damasceno, maquiadora de Belo Horizonte – MG</strong>, nos dará dicas <em>superultramega</em> simples para que possamos atingir o resultado que esperamos. Confere!
+  Os dias têm sido de sol e calor aquecendo a vida, e o que queremos é ficar bem bonitas de viver, não é? Se você é das minhas, pensa logo de cara: maquiagem pesada e escorrendo não é legal, e não combina nem um pouco com o Verão. Bonito mesmo é sair por aí com uma **maquiagem leve e sofisticada**, e é para que gente aprenda todos os truques e <em>trucões</em> que esse post foi pensado, viu? Prepare-se: a bela **Márcia Damasceno, maquiadora de Belo Horizonte – MG**, nos dará dicas <em>superultramega</em> simples para que possamos atingir o resultado que esperamos. Confere!
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Veja também:</strong></em>
+  <em>**Veja também:**</em>
 </p>
 
 <p align="justify">
-  <em><a href="http://www.trololodemulher.com.br/2015/02/02/bb-cream-base-hidratante/" target="_blank"><strong>BB Cream x Base x Hidratante com cor: qual usar?</strong></a></em>
+  <em><a href="http://www.trololodemulher.com.br/2015/02/02/bb-cream-base-hidratante/" target="_blank">**BB Cream x Base x Hidratante com cor: qual usar?**</a></em>
 </p>
 
 <p align="justify">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>E pra finalizar…</em></strong>
+  **<em>E pra finalizar…</em>**
 </p>
 
 <p align="justify">

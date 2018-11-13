@@ -1,7 +1,7 @@
 ---
-id: 2845
+
 title: 'Prateleira do Bicha Fêmea: Meu Jardim'
-date: 2010-07-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/28/prateleira-meu-jardim/
@@ -78,5 +78,5 @@ E pensa que para por aí? A Elaine produz brinquedos lúdicos artesanalmente con
 **_[Prateleira do Bicha Fêmea: Izabelle Nossa](http://www.trololodemulher.com.br/2010/02/03/prateleira-do-bicha-femea-%e2%80%93-izabelle-nossa/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

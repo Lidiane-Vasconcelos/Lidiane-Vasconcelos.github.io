@@ -1,7 +1,7 @@
 ---
-id: 2799
+
 title: Fui ali no Nordeste do Brasil. Ah! Eu fui!
-date: 2010-03-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/26/fui-ali-no-nordeste-do-brasil-ah-eu-fui/
@@ -88,7 +88,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      <strong>Maceió – Alagoas</strong>
+      **Maceió – Alagoas**
     </p>
     
     <p>
@@ -144,7 +144,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      <strong>Piaçabuçu – Alagoas</strong>
+      **Piaçabuçu – Alagoas**
     </p>
     
     <p>
@@ -280,7 +280,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      <strong>Penedo – Alagoas</strong>
+      **Penedo – Alagoas**
     </p>
     
     <p>
@@ -340,7 +340,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      <strong>Paulo Afonso – Bahia e Canindé do São Francisco &#8211; Sergipe</strong>
+      **Paulo Afonso – Bahia e Canindé do São Francisco &#8211; Sergipe**
     </p>
     
     <p>

@@ -1,7 +1,7 @@
 ---
-id: 3770
+
 title: Como usar calça cigarrete no dia a dia?
-date: 2017-05-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/29/como-usar-calca-cigarrete/
@@ -10,7 +10,7 @@ categories:
   - Moda
 ---
 <p style="text-align: justify;">
-  Você tem dúvidas sobre <strong>como usar calça cigarrete</strong>? Com corte sequinho, num comprimento que vai até a altura do ossinho do tornozelo, a peça é item básico e atemporal do guarda-roupas feminino. Quer aprender a tirar melhor proveito dessa escolha cheia de estilo e elegância? Confira as dicas e orientações da <strong>Tatiane Velasques, Consultora de Imagem e Estilo</strong>, e saia linda e segura, arrasando por aí!
+  Você tem dúvidas sobre **como usar calça cigarrete**? Com corte sequinho, num comprimento que vai até a altura do ossinho do tornozelo, a peça é item básico e atemporal do guarda-roupas feminino. Quer aprender a tirar melhor proveito dessa escolha cheia de estilo e elegância? Confira as dicas e orientações da **Tatiane Velasques, Consultora de Imagem e Estilo**, e saia linda e segura, arrasando por aí!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Saiba escolher…</span></strong>
+  **<span style="font-size: x-large;">Saiba escolher…</span>**
 </p>
 
 <p style="text-align: justify;">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Trabalho ou festa?</span></strong>
+  **<span style="font-size: x-large;">Trabalho ou festa?</span>**
 </p>
 
 <p style="text-align: justify;">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Pra saber mais…</span></strong>
+  **<span style="font-size: x-large;">Pra saber mais…</span>**
 </p>
 
 <p style="text-align: justify;">

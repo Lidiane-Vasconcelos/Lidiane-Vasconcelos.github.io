@@ -1,7 +1,7 @@
 ---
-id: 3776
+
 title: 'Armário de banheiro: falta ideia? Veja 6 bonitos e simples!'
-date: 2017-06-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/20/armario-de-banheiro/
@@ -10,11 +10,11 @@ categories:
   - Banheiro
 ---
 <p align="justify">
-  Ás vezes tudo o que precisamos é de alguma referência para resolver o dilema de decoração que se forma sobre o <strong>armário de banheiro</strong>: qual design escolher para atender as necessidades diárias, de modo que fique funcional e tudo fique organizado? Veja neste post 6 sugestões para você imaginá-las em seus domínios, avaliar se atende ao que você precisa, e te ajudar a decidir o que você quer. Se joga… e inspire-se!
+  Ás vezes tudo o que precisamos é de alguma referência para resolver o dilema de decoração que se forma sobre o **armário de banheiro**: qual design escolher para atender as necessidades diárias, de modo que fique funcional e tudo fique organizado? Veja neste post 6 sugestões para você imaginá-las em seus domínios, avaliar se atende ao que você precisa, e te ajudar a decidir o que você quer. Se joga… e inspire-se!
 </p>
 
 <p align="justify">
-  <em><strong>1 &#8211; Diferente do comum:</strong></em>
+  <em>**1 &#8211; Diferente do comum:**</em>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>2 &#8211; Armário flutuante:</strong></em>
+  <em>**2 &#8211; Armário flutuante:**</em>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>3 &#8211; Bem pequeno, mas moderno:</strong></em>
+  <em>**3 &#8211; Bem pequeno, mas moderno:**</em>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>4 – Armário contemporâneo:</strong></em>
+  <em>**4 – Armário contemporâneo:**</em>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>5 – Linhas simples:</strong></em>
+  <em>**5 – Linhas simples:**</em>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>6 – Armário encorpado e com estilo:</strong></em>
+  <em>**6 – Armário encorpado e com estilo:**</em>
 </p>
 
 <p align="center">

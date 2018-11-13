@@ -1,7 +1,7 @@
 ---
-id: 3351
+
 title: 3 ideias para organizar os livros infantis e facilitar o acesso.
-date: 2014-10-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/03/decoracao-infantil/
@@ -20,19 +20,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/01/20/literatura-infantil/" target="_blank"><strong>Seu filho ama livros?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/01/20/literatura-infantil/" target="_blank">**Seu filho ama livros?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank"><strong>Ideias para você organizar um cantinho de leitura e artes infantil.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank">**Ideias para você organizar um cantinho de leitura e artes infantil.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank"><strong>Quarto infantil decorado com afetividade.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank">**Quarto infantil decorado com afetividade.**</a>
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Cestos aramados que são fixados na parede</strong>. Desde que na altura dos pequenos, podem ser uma excelente opção de organização e exposição dos livrinhos infantis.
+  **Cestos aramados que são fixados na parede**. Desde que na altura dos pequenos, podem ser uma excelente opção de organização e exposição dos livrinhos infantis.
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  Sabe aquelas <strong>prateleiras fininhas</strong> muito usadas hoje em dia para expor quadros na decoração da sala? Pois elas ficam per-fei-tas para os livros das crianças. A abinha que tem na frente evita que os livros caiam com facilidade.
+  Sabe aquelas **prateleiras fininhas** muito usadas hoje em dia para expor quadros na decoração da sala? Pois elas ficam per-fei-tas para os livros das crianças. A abinha que tem na frente evita que os livros caiam com facilidade.
 </p>
 
 <p align="center">
@@ -72,23 +72,23 @@ categories:
 </p>
 
 <p align="justify">
-  Se você não encontrar um <strong>móvel</strong> como esse, que seja <strong>modulado</strong> e se adeque ao quarto de sua cria, pode encomendar algo <strong>planejado</strong> para seu espaço. Outra ideia que me ocorreu vendo essa imagem foi a seguinte: sabe aqueles<strong> nichos de parede, em cubos</strong>, que em geral as mães colocam no quarto para decorar com bichinhos que repousam dentro dele? Pois bem: por que não comprá-los para o propósito de acomodar livrinhos? Basta que você coloque os nichos-cubos na altura dos pequenos, em composição um ao lado do outro, e você terá algo com efeito bem similar a esse móvel. Fica a dica!
+  Se você não encontrar um **móvel** como esse, que seja **modulado** e se adeque ao quarto de sua cria, pode encomendar algo **planejado** para seu espaço. Outra ideia que me ocorreu vendo essa imagem foi a seguinte: sabe aqueles** nichos de parede, em cubos**, que em geral as mães colocam no quarto para decorar com bichinhos que repousam dentro dele? Pois bem: por que não comprá-los para o propósito de acomodar livrinhos? Basta que você coloque os nichos-cubos na altura dos pequenos, em composição um ao lado do outro, e você terá algo com efeito bem similar a esse móvel. Fica a dica!
 </p>
 
 <p align="justify">
-  <strong>Mais para você:</strong>
+  **Mais para você:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização para o quarto infantil… você não vai copiar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização para o quarto infantil… você não vai copiar?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil/" target="_blank"><strong>Decoração para quarto infantil.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil/" target="_blank">**Decoração para quarto infantil.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank"><strong>2 ideias que organizam o quarto da criança.. e até decoram!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank">**2 ideias que organizam o quarto da criança.. e até decoram!**</a>
 </p>
 
 <p align="center">

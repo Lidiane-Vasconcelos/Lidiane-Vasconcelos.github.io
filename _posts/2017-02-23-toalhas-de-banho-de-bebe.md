@@ -1,7 +1,7 @@
 ---
-id: 3729
+
 title: 'Toalhas de banho de bebê: qual delas escolher?'
-date: 2017-02-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/23/toalhas-de-banho-de-bebe/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  <strong>Toalhas de banho de bebê</strong> são ítens muito importantes no enxoval da cria, porque a peça precisa ser extremamente gentil com a pele da criança, já que é tão fininha e delicada. Dentre as opções disponíveis, qual mãe não fica em dúvida sobre qual delas escolher? Na hora do banho do bebezinho, é preciso levar em consideração se a toalha tem tecido delicado, se absorve bem e deixa o bebê sequinho, mas também bem protegido. Neste post quero te mostrar algumas opções, e compartilhar contigo minha experiência. Vem comigo!
+  **Toalhas de banho de bebê** são ítens muito importantes no enxoval da cria, porque a peça precisa ser extremamente gentil com a pele da criança, já que é tão fininha e delicada. Dentre as opções disponíveis, qual mãe não fica em dúvida sobre qual delas escolher? Na hora do banho do bebezinho, é preciso levar em consideração se a toalha tem tecido delicado, se absorve bem e deixa o bebê sequinho, mas também bem protegido. Neste post quero te mostrar algumas opções, e compartilhar contigo minha experiência. Vem comigo!
 </p>
 
 &nbsp;

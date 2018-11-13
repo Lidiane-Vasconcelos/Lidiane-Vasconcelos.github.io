@@ -1,7 +1,7 @@
 ---
-id: 3701
+
 title: 'Empreendedorismo feminino: dicas de sucesso com Ju Amorim.'
-date: 2016-11-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/10/empreendedorismo-feminino-3/
@@ -11,7 +11,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  A empresa da Juliana Amorim é pura inspiração. No ramo da moda infantil desde a sua segunda gravidez, seus produtos têm uma carinha bastante diferenciada, caracterizados por cortes e estampas que, definitivamente, fogem da mesmice. O sucesso tem explicação e não gera surpresa, já que Ju ama o que faz. Parece <em>clichê</em>? Saiba que isso faz, sim, muita diferença. Isso acontece porque tem muito dela mesma nesse negócio, a começar pelo nome: <strong>Boduchinhos</strong>. Juliana é um exemplo de que ser bem sucedida no <strong>empreendedorismo feminino</strong> tem muito a ver com realizar um trabalho com propósito e significado, e que começar dessa forma é dar um passo com o pé direito rumo a realização de um sonho: ganhar dinheiro fazendo o que ama. Quer entender melhor isso tudo? Confira o que Juliana tem a dizer.
+  A empresa da Juliana Amorim é pura inspiração. No ramo da moda infantil desde a sua segunda gravidez, seus produtos têm uma carinha bastante diferenciada, caracterizados por cortes e estampas que, definitivamente, fogem da mesmice. O sucesso tem explicação e não gera surpresa, já que Ju ama o que faz. Parece <em>clichê</em>? Saiba que isso faz, sim, muita diferença. Isso acontece porque tem muito dela mesma nesse negócio, a começar pelo nome: **Boduchinhos**. Juliana é um exemplo de que ser bem sucedida no **empreendedorismo feminino** tem muito a ver com realizar um trabalho com propósito e significado, e que começar dessa forma é dar um passo com o pé direito rumo a realização de um sonho: ganhar dinheiro fazendo o que ama. Quer entender melhor isso tudo? Confira o que Juliana tem a dizer.
 </p>
 
 &nbsp;
@@ -33,19 +33,19 @@ categories:
 &nbsp;
 
 <p align="justify">
-  “<em>Sempre tive o sonho de ter o meu próprio negócio, e amadureci a ideia de criar minha própria marca. A <strong><a href="http://www.boduchinhos.com.br/" target="_blank">Boduchinhos</a></strong> foi concebida durante minha segunda gravidez. Comecei com a escolha do nome, que veio como um &#8220;click&#8221;: por que não usar o apelido do meu primeiro filho, Boducho? Resolvi arriscar no mercado da moda, dando vida às minhas ideias, usando toda a criatividade e minha a experiência como designer gráfica. Observava que o mercado não oferecia produtos que eu gostaria de ter para meus filhos, foi um processo muito natural, e vejo que tudo fez parte do conceito da marca. Faço com muita dedicação, tento me organizar para dar conta de todo o trabalho, no qual hoje ainda faço sozinha, e não deixo que os obstáculos e problemas me deixem abater. O amor envolvido no meu trabalho é muito grande, e muito maior pelos Boduchos que me inspiraram</em>.”
+  “<em>Sempre tive o sonho de ter o meu próprio negócio, e amadureci a ideia de criar minha própria marca. A **<a href="http://www.boduchinhos.com.br/" target="_blank">Boduchinhos</a>** foi concebida durante minha segunda gravidez. Comecei com a escolha do nome, que veio como um &#8220;click&#8221;: por que não usar o apelido do meu primeiro filho, Boducho? Resolvi arriscar no mercado da moda, dando vida às minhas ideias, usando toda a criatividade e minha a experiência como designer gráfica. Observava que o mercado não oferecia produtos que eu gostaria de ter para meus filhos, foi um processo muito natural, e vejo que tudo fez parte do conceito da marca. Faço com muita dedicação, tento me organizar para dar conta de todo o trabalho, no qual hoje ainda faço sozinha, e não deixo que os obstáculos e problemas me deixem abater. O amor envolvido no meu trabalho é muito grande, e muito maior pelos Boduchos que me inspiraram</em>.”
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank"><strong>O que faz uma mãe decidir pelo trabalho autônomo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">**O que faz uma mãe decidir pelo trabalho autônomo?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/14/trabalho-em-casa/" target="_blank"><strong>Trabalho em casa e rotina doméstica: como conciliá-los?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/14/trabalho-em-casa/" target="_blank">**Trabalho em casa e rotina doméstica: como conciliá-los?**</a>
 </p>
 
 <p align="center">
@@ -57,11 +57,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank"><strong>Empreendedorismo feminino: o que é mais importante?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank">**Empreendedorismo feminino: o que é mais importante?**</a>
 </p>
 
 <p align="center">

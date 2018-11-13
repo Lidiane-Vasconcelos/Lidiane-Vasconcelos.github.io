@@ -1,7 +1,7 @@
 ---
-id: 3419
+
 title: Salmão ao molho de manga
-date: 2015-05-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/06/salmao-molho-manga/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -54,11 +54,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Tempere o salmão com sal, pimenta e alecrim fresco. Leve ao forno em 180 graus, coberto com papel alumínio, até assar. Em uma vasilha, coloque um fio (bem pouco) de azeite, cebola, manga picadinha e a pimenta. Com o fogo baixo vai apurando essa manga com os temperos. Se secar demais, coloque gotinhas de água, até que a manga fique bem amolecida. Tire o salmão do forno e regue com molho de manga. Fica delicioso!</strong>
+>   **Tempere o salmão com sal, pimenta e alecrim fresco. Leve ao forno em 180 graus, coberto com papel alumínio, até assar. Em uma vasilha, coloque um fio (bem pouco) de azeite, cebola, manga picadinha e a pimenta. Com o fogo baixo vai apurando essa manga com os temperos. Se secar demais, coloque gotinhas de água, até que a manga fique bem amolecida. Tire o salmão do forno e regue com molho de manga. Fica delicioso!**
 > </p>
 
 <p align="center">
@@ -66,23 +66,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank"><strong>Mini abóbora recheada de cuscuz marroquino</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank">**Mini abóbora recheada de cuscuz marroquino**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank"><strong>Mousse de abacate e cacau em pó</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank">**Mousse de abacate e cacau em pó**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/20/pupunha-salmao-aspargos/" target="_blank"><strong>Espaguete de pupunha ao molho de salmão e aspargos</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/20/pupunha-salmao-aspargos/" target="_blank">**Espaguete de pupunha ao molho de salmão e aspargos**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

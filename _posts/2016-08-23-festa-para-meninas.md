@@ -1,7 +1,7 @@
 ---
-id: 3647
+
 title: '{dance} Festa para meninas crescidinhas: dicas e ideias.'
-date: 2016-08-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/23/festa-para-meninas/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em><strong><span style="font-size: large;">Ideias lindas! Desde que me tornei mãe (9 anos atrás) que amo o assunto festa infantil, mas gosto mesmo é das “handmade”… Agora estou em busca de inspiração pras festinhas de pré-adolescente, alguma sugestão? Quero um post!!! rsrsrs… Jujú vai fazer 10 anos e ainda curte fazer festa de aniversário, quer dançar, um tal “just dance”…. help-me…Ela foi numa festa em buffet infantil, lá pelas tantas os brinquedos pararam de funcionar e apagaram as luzes e surgiu uma pista de dança, com outras luzes, fumacinha e no telão aparecia o clipe da música em forma de coreografia, onde todos dançavam imitando a coreografia da tela e diz chamar-se “just dance”, ou seja é como um jogo, um brinquedo eletrônico … daí a idéia da festinha dela ser somente “dançante”, sem brinquedos, sem balões (agora é mico), enfim… uma festa de menina grande, uma baladinha teen!!!</span></strong></em>”
+  “<em>**<span style="font-size: large;">Ideias lindas! Desde que me tornei mãe (9 anos atrás) que amo o assunto festa infantil, mas gosto mesmo é das “handmade”… Agora estou em busca de inspiração pras festinhas de pré-adolescente, alguma sugestão? Quero um post!!! rsrsrs… Jujú vai fazer 10 anos e ainda curte fazer festa de aniversário, quer dançar, um tal “just dance”…. help-me…Ela foi numa festa em buffet infantil, lá pelas tantas os brinquedos pararam de funcionar e apagaram as luzes e surgiu uma pista de dança, com outras luzes, fumacinha e no telão aparecia o clipe da música em forma de coreografia, onde todos dançavam imitando a coreografia da tela e diz chamar-se “just dance”, ou seja é como um jogo, um brinquedo eletrônico … daí a idéia da festinha dela ser somente “dançante”, sem brinquedos, sem balões (agora é mico), enfim… uma festa de menina grande, uma baladinha teen!!!</span>**</em>”
 </p>
 
 <p align="justify">

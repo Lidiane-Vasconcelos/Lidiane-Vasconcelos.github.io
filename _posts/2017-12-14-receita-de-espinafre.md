@@ -1,7 +1,7 @@
 ---
-id: 3843
+
 title: Receita de espinafre com uvas passas e pinolis
-date: 2017-12-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/14/receita-de-espinafre/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  A <strong>receita de espinafre</strong> que Tânia nos mostra hoje tem uma apresentação linda, dá água na boca de quem é adepta de uma alimentação saudável, e impressiona pela simplicidade na execução. Nossa <em>expert</em> usou pinolis na receita, mas dá várias outras opções como castanha de caju, castanha do pará ou nozes. Portanto, é possível variar e/ou adaptar a receita às várias regiões do Brasil. Vamos ao preparo? Olha como é fácil!
+  A **receita de espinafre** que Tânia nos mostra hoje tem uma apresentação linda, dá água na boca de quem é adepta de uma alimentação saudável, e impressiona pela simplicidade na execução. Nossa <em>expert</em> usou pinolis na receita, mas dá várias outras opções como castanha de caju, castanha do pará ou nozes. Portanto, é possível variar e/ou adaptar a receita às várias regiões do Brasil. Vamos ao preparo? Olha como é fácil!
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes</em></strong>
+  **<em>Ingredientes</em>**
 </p>
 
 <p align="justify">
@@ -95,11 +95,11 @@ categories:
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/12/05/receita-de-pastel/" target="_blank"><strong>Receita de pastel.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/12/05/receita-de-pastel/" target="_blank">**Receita de pastel.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/11/28/receita-de-espaguete/" target="_blank"><strong>Receita de Espaguette alla Puttanesca.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/11/28/receita-de-espaguete/" target="_blank">**Receita de Espaguette alla Puttanesca.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/11/21/muffin-de-limao/" target="_blank"><strong>Muffin de limão com sementes de papoula ou chia.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/11/21/muffin-de-limao/" target="_blank">**Muffin de limão com sementes de papoula ou chia.**</a>
 
 <p align="justify">
   O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!

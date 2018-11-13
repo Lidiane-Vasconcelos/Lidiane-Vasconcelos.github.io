@@ -1,7 +1,7 @@
 ---
-id: 3067
+
 title: 'Mãe, faça a momografia por mim, sim? #outubrorosa'
-date: 2011-10-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/24/momografia-outubrorosa/
@@ -11,7 +11,7 @@ categories:
   - Social
 ---
 <p style="text-align: justify;">
-  O ano de 2011 foi bem importante para a saúde da minha mãe. Hoje ela tem 51 anos e, acredite, nunca tinha feito <strong>mamografia</strong>. Eu sempre me incomodei por isso, porque a amo e quero muito que ela tenha uma vida saudável e tranquila, então não medi esforços para tentar convencê-la da importância do exame.
+  O ano de 2011 foi bem importante para a saúde da minha mãe. Hoje ela tem 51 anos e, acredite, nunca tinha feito **mamografia**. Eu sempre me incomodei por isso, porque a amo e quero muito que ela tenha uma vida saudável e tranquila, então não medi esforços para tentar convencê-la da importância do exame.
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -25,7 +25,7 @@ categories:
 </p>
 
 <p align="justify">
-  Fiquei imaginando: quanto deve ser o número de mulheres que agem assim como a minha mãe agia? Você certamente conhece alguma, que está bem pertinho de você, que <strong>tem mais de 40 anos</strong>, e <strong>nunca fez o exame</strong>. Por que ela não fez?
+  Fiquei imaginando: quanto deve ser o número de mulheres que agem assim como a minha mãe agia? Você certamente conhece alguma, que está bem pertinho de você, que **tem mais de 40 anos**, e **nunca fez o exame**. Por que ela não fez?
 </p>
 
 <p align="justify">
@@ -33,7 +33,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando eu vi os vídeos produzidos pela <strong><a href="http://www.femama.org.br/novo/index.php" target="_blank">FEMAMA</a></strong> sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
+  Quando eu vi os vídeos produzidos pela **<a href="http://www.femama.org.br/novo/index.php" target="_blank">FEMAMA</a>** sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
 </p>
 
 
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta <strong><a href="http://www.femama.org.br/novo/cancer-mama.php?menu=can" target="_blank">página da FEMEMA</a> </strong>onde há informações simples e diretas sobre <strong>o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.</strong> Faça isso, bonita!
+  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta **<a href="http://www.femama.org.br/novo/cancer-mama.php?menu=can" target="_blank">página da FEMEMA</a> **onde há informações simples e diretas sobre **o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.** Faça isso, bonita!
 </p>
 
 <p align="center">

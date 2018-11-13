@@ -1,7 +1,7 @@
 ---
-id: 3838
+
 title: 'Decoração de Natal com reutilização de janela velha: dica.'
-date: 2017-12-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/05/decoracao-de-natal-4/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  É por essas e outras que amo passear por blogs, sejam eles nacionais ou não. O que a gente vê de ideia bacana de <strong>decoração de natal</strong> não é brincadeira, <em>viu</em>? Foi justamente isso o que pensei quando esbarrei nessa sugestão: reutilizar uma janela velha para compor um cantinho de Natal com tanto bom gosto. Vivi de amores pela ideia, e desconfio que você vai curtir também. Vem comigo e inspire-se!
+  É por essas e outras que amo passear por blogs, sejam eles nacionais ou não. O que a gente vê de ideia bacana de **decoração de natal** não é brincadeira, <em>viu</em>? Foi justamente isso o que pensei quando esbarrei nessa sugestão: reutilizar uma janela velha para compor um cantinho de Natal com tanto bom gosto. Vivi de amores pela ideia, e desconfio que você vai curtir também. Vem comigo e inspire-se!
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank">**Clique aqui e confira**</a>!
 </p>
 
 <p align="center">

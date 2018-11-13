@@ -1,7 +1,7 @@
 ---
-id: 3231
+
 title: Quer decorar a geladeira, mas não quer usar adesivo? É fácil!
-date: 2013-06-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/13/decoracao-geladeira-cozinha/
@@ -15,7 +15,7 @@ Já sei… ficou curiosa para saber como fazer isso, não é? Então prepare-se:
 &nbsp;
 
 <p align="justify">
-  Deixa eu te contar do que estou falando: o que você verá a seguir são <strong>grandes imãs ilustrados e customizados</strong>, cada um mais criativo ou engraçado que o outro. Sabe o melhor? Sua geladeira pode ganhar várias versões de acordo com o dia e seu humor, e tudo assim: <strong>rápido e sem complicação</strong>. Quer ver?
+  Deixa eu te contar do que estou falando: o que você verá a seguir são **grandes imãs ilustrados e customizados**, cada um mais criativo ou engraçado que o outro. Sabe o melhor? Sua geladeira pode ganhar várias versões de acordo com o dia e seu humor, e tudo assim: **rápido e sem complicação**. Quer ver?
 </p>
 
 <!--more-->

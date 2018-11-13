@@ -1,7 +1,7 @@
 ---
-id: 2660
+
 title: 'Gostosuras que dão graça no estilo de viver&#8230;'
-date: 2009-05-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/15/gostosuras-da-vida/

@@ -1,7 +1,7 @@
 ---
-id: 3345
+
 title: 'Papel de parede na cozinha: bonito para os olhos e coração.'
-date: 2014-09-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/18/papel-parede-cozinha/

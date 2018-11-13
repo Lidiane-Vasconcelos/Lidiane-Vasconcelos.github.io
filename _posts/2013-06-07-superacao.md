@@ -1,7 +1,7 @@
 ---
-id: 3223
+
 title: O dia não terminou como previsto, um aneurisma cerebral mudou meus planos…
-date: 2013-06-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/07/superacao/
@@ -20,7 +20,7 @@ Já pensou se isso acontecesse com você? Não, talvez você não tenha pensado.
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: medium;">DEUS ME RESGATOU DO VALE DA SOMBRA DA MORTE</span></strong>
+  **<span style="font-size: medium;">DEUS ME RESGATOU DO VALE DA SOMBRA DA MORTE</span>**
 </p>
 
 &nbsp;
@@ -40,7 +40,7 @@ Já pensou se isso acontecesse com você? Não, talvez você não tenha pensado.
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/SUPERACAO.jpg"><img class="alignnone size-full wp-image-9450" alt="SUPERACAO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/SUPERACAO.jpg" width="600" height="454" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/SUPERACAO.jpg"><img class="alignnone size-full wp-image-9450" alt="SUPERACAO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/SUPERACAO.jpg" width="600" height="454" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ Já pensou se isso acontecesse com você? Não, talvez você não tenha pensado.
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -92,9 +92,9 @@ Já pensou se isso acontecesse com você? Não, talvez você não tenha pensado.
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

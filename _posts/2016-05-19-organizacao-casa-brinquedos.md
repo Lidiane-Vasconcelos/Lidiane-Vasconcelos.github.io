@@ -1,7 +1,7 @@
 ---
-id: 3612
+
 title: Suas crianças ajudam na organização da casa?
-date: 2016-05-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/19/organizacao-casa-brinquedos/
@@ -17,15 +17,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/07/25/organizacao-quarto-infantil/" target="_blank"><strong>Quando a organização favorece a decoração do quarto infantil.</strong></a>
+  <a href="http://www.bichafemea.com/2012/07/25/organizacao-quarto-infantil/" target="_blank">**Quando a organização favorece a decoração do quarto infantil.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização do quarto infantil: você não vai copiar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização do quarto infantil: você não vai copiar?**</a>
 </p>
 
 <p align="justify">
@@ -33,11 +33,11 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em><span style="font-size: large;">“…desde sempre ensinamos a guardar os objetos de uma brincadeira antes de começar outra…”</span></em></strong>
+  **<em><span style="font-size: large;">“…desde sempre ensinamos a guardar os objetos de uma brincadeira antes de começar outra…”</span></em>**
 </p>
 
 > <p align="justify">
->   <strong>Oi, Lidi! Lá em casa temos uma sapequina de 4 anos. Ela tem uma caixa plástica organizadora, que chamamos de &#8220;baú&#8221;, onde ficam bonecas, bichinhos de pelúcia e uns outros brinquedos. E o pai mandou fazer uma estante sob medida para caber todos os livros dela e outros brinquedos menores. A ideia era com que a estante fosse um lugar para brincar e não só para guardar os brinquedos. Quanto à arrumação, desde sempre ensinamos a guardar os objetos de uma brincadeira antes de começar outra ou, quando é o caso, só a liberamos para outra atividade depois que guardar o que espalhou; por exemplo: só pode sair para brincar na rua, depois que guardar os brinquedos. Regra simples e que nunca foi um problema lá em casa. Claro que vez ou outra ela embirra, empaca, enrola, mas nunca a ponto de fazer pirraça por causa disso. Acho que a regra já foi assimilada de tal forma que não há mais problemas quanto a isso. E minha dica é essa, desde muito cedo, bebê mesmo, ir ensinando a guardar depois que brincar.”</strong> <strong>Silvia Azevedo</strong>
+>   **Oi, Lidi! Lá em casa temos uma sapequina de 4 anos. Ela tem uma caixa plástica organizadora, que chamamos de &#8220;baú&#8221;, onde ficam bonecas, bichinhos de pelúcia e uns outros brinquedos. E o pai mandou fazer uma estante sob medida para caber todos os livros dela e outros brinquedos menores. A ideia era com que a estante fosse um lugar para brincar e não só para guardar os brinquedos. Quanto à arrumação, desde sempre ensinamos a guardar os objetos de uma brincadeira antes de começar outra ou, quando é o caso, só a liberamos para outra atividade depois que guardar o que espalhou; por exemplo: só pode sair para brincar na rua, depois que guardar os brinquedos. Regra simples e que nunca foi um problema lá em casa. Claro que vez ou outra ela embirra, empaca, enrola, mas nunca a ponto de fazer pirraça por causa disso. Acho que a regra já foi assimilada de tal forma que não há mais problemas quanto a isso. E minha dica é essa, desde muito cedo, bebê mesmo, ir ensinando a guardar depois que brincar.”** **Silvia Azevedo**
 > </p>
 
 <p align="center">
@@ -49,31 +49,31 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">“…separamos alguns brinquedos e doamos. Sempre com a participação dele…”</span></strong>
+  **<span style="font-size: large;">“…separamos alguns brinquedos e doamos. Sempre com a participação dele…”</span>**
 </p>
 
 > <p align="justify">
->   <strong>Eu tenho dois filhos, um de 15 e um de 6. Mas quanto a organização, eu tenho dificuldades em ter a ajuda dos dois. Eles dividem o mesmo quarto. O menor é que ainda tem vários brinquedos, mas quanto a organizar, nem sempre é espontâneo. A maioria das vezes temos que chamar a atenção para ele guardar os brinquedos, que ficam em caixas plásticas grandes. Os blocos de montar, que ele adora, fica em uma separada, os carrinhos de metal em outra, e os demais brinquedos vivem misturados&#8230; Uma coisa que também fazia com meu filho mais velho, é revezar os brinquedos. Deixo guardado alguns brinquedos em um lugar que a criança não consegue nem ver, depois de um tempo em que vou percebendo um certo desinteresse para os brinquedos que estão disponíveis para ele, eu vou e pego alguns desses que estão guardados, ele olha o brinquedo como novidade. Outra coisa que incentivamos, principalmente depois de datas em que há um aumento de brinquedos (aniversário e Natal), separamos alguns brinquedos e doamos. Sempre com a participação dele, explicando que aquele brinquedo fará outra criança feliz.</strong>” <strong>Gislaine Brito</strong>
+>   **Eu tenho dois filhos, um de 15 e um de 6. Mas quanto a organização, eu tenho dificuldades em ter a ajuda dos dois. Eles dividem o mesmo quarto. O menor é que ainda tem vários brinquedos, mas quanto a organizar, nem sempre é espontâneo. A maioria das vezes temos que chamar a atenção para ele guardar os brinquedos, que ficam em caixas plásticas grandes. Os blocos de montar, que ele adora, fica em uma separada, os carrinhos de metal em outra, e os demais brinquedos vivem misturados&#8230; Uma coisa que também fazia com meu filho mais velho, é revezar os brinquedos. Deixo guardado alguns brinquedos em um lugar que a criança não consegue nem ver, depois de um tempo em que vou percebendo um certo desinteresse para os brinquedos que estão disponíveis para ele, eu vou e pego alguns desses que estão guardados, ele olha o brinquedo como novidade. Outra coisa que incentivamos, principalmente depois de datas em que há um aumento de brinquedos (aniversário e Natal), separamos alguns brinquedos e doamos. Sempre com a participação dele, explicando que aquele brinquedo fará outra criança feliz.**” **Gislaine Brito**
 > </p>
 
 <p align="justify">
-  <strong>Muito mais para você:</strong>
+  **Muito mais para você:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank"><strong>2 ideias que organizam o quarto da criança… e até decoram!</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-da-crianca/" target="_blank">**2 ideias que organizam o quarto da criança… e até decoram!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil/" target="_blank"><strong>Como ajudar seu filho a manter a organização do quarto?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil/" target="_blank">**Como ajudar seu filho a manter a organização do quarto?**</a>
 </p>
 
 <p align="center">
-  <strong><em><span style="font-size: large;">“…comprei um baú de rodinhas e incentivo de maneira divertida a guardá-los.”</span></em></strong>
+  **<em><span style="font-size: large;">“…comprei um baú de rodinhas e incentivo de maneira divertida a guardá-los.”</span></em>**
 </p>
 
 > <p align="justify">
->   <strong>Aqui em casa tenho o João, como você sabe, ele está com 5 anos. Durante a semana ele estuda das 13:00 as !8:00, mas nem por isso os brinquedos ficam parados no baú e nem na prateleira, pois tenho minha sobrinha que fica comigo de segunda a quinta. A regra serve para os dois: brincar até cansar, pode ser no quarto ou na sala, não imponho limites na hora da farra, mas assim que terminar a brincadeira tem que colocar tudo no lugar. Toda criança faz cara de cansada e até enrola pra guardar a bagunça, por isso comprei um baú de rodinhas e incentivo de maneira divertida a guardá-los. Uso muito a tática de quem guardar ganha uma surpresa, ou quem guardar primeiro será o vencedor, e assim vai. Dessa forma eles se divertem até mesmo na hora de guardar os brinquedos! Se você fizer de maneira ditadora ou disser que &#8220;se você não guardar ficará de castigo&#8221;, o mais provável e que eles não façam, e guardar os brinquedos será estressante para ambas as partes! Aqui tem dado certo e minha casa sempre está organizada sem que eu fique neurótica.</strong>” <strong>Rosa Trindade, do canal </strong><a href="https://www.youtube.com/user/pscrie" target="_blank"><strong>Pense Crie</strong></a>
+>   **Aqui em casa tenho o João, como você sabe, ele está com 5 anos. Durante a semana ele estuda das 13:00 as !8:00, mas nem por isso os brinquedos ficam parados no baú e nem na prateleira, pois tenho minha sobrinha que fica comigo de segunda a quinta. A regra serve para os dois: brincar até cansar, pode ser no quarto ou na sala, não imponho limites na hora da farra, mas assim que terminar a brincadeira tem que colocar tudo no lugar. Toda criança faz cara de cansada e até enrola pra guardar a bagunça, por isso comprei um baú de rodinhas e incentivo de maneira divertida a guardá-los. Uso muito a tática de quem guardar ganha uma surpresa, ou quem guardar primeiro será o vencedor, e assim vai. Dessa forma eles se divertem até mesmo na hora de guardar os brinquedos! Se você fizer de maneira ditadora ou disser que &#8220;se você não guardar ficará de castigo&#8221;, o mais provável e que eles não façam, e guardar os brinquedos será estressante para ambas as partes! Aqui tem dado certo e minha casa sempre está organizada sem que eu fique neurótica.**” **Rosa Trindade, do canal **<a href="https://www.youtube.com/user/pscrie" target="_blank">**Pense Crie**</a>
 > </p>
 
 <p align="justify">

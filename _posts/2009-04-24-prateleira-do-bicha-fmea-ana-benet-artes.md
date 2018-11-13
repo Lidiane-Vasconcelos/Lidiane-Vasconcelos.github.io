@@ -1,7 +1,7 @@
 ---
-id: 2652
+
 title: Prateleira do Bicha Fêmea – Ana Benet Artes
-date: 2009-04-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/24/prateleira-do-bicha-fmea-ana-benet-artes/

@@ -1,7 +1,7 @@
 ---
-id: 3669
+
 title: '6 convites de aniversário infantil: faça você mesma.'
-date: 2016-09-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/21/convites-de-aniversario-infantil/
@@ -11,11 +11,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Quando se deseja fazer uma comemoração por mais um ano de vida da cria, é importante que sejam entregues convites, não é? Sei bem que hoje em dia existem as versões digitais, mas pessoalmente acho bem simpático ter algo concreto à mão, para entregar com antecedência a quem a gente quer que esteja presente no dia. Em se tratando de uma <strong><a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank">festa em casa</a></strong>, com número de convidados reduzido aos mais íntimos, a pouca quantidade de unidades permite que eles sejam feitos por você mesma, concorda? Gosta da ideia? Então repare logo abaixo 6 sugestões de <strong>convites de aniversário infantil</strong> que você mesma pode preparar… se joga!
+  Quando se deseja fazer uma comemoração por mais um ano de vida da cria, é importante que sejam entregues convites, não é? Sei bem que hoje em dia existem as versões digitais, mas pessoalmente acho bem simpático ter algo concreto à mão, para entregar com antecedência a quem a gente quer que esteja presente no dia. Em se tratando de uma **<a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank">festa em casa</a>**, com número de convidados reduzido aos mais íntimos, a pouca quantidade de unidades permite que eles sejam feitos por você mesma, concorda? Gosta da ideia? Então repare logo abaixo 6 sugestões de **convites de aniversário infantil** que você mesma pode preparar… se joga!
 </p>
 
 <p style="text-align: justify;">
-  <strong>Veja também!</strong>
+  **Veja também!**
 </p>
 
 <p style="text-align: justify;">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – Abra o envelope e…</strong>
+  **1 – Abra o envelope e…**
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – Quando a cria pede um tema.</strong>
+  **2 – Quando a cria pede um tema.**
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Quer fazer você mesma convites do homem aranha?</strong>
+  **3 – Quer fazer você mesma convites do homem aranha?**
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Bolinho Festivo.</strong>
+  **4 – Bolinho Festivo.**
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Lúdico e colorido.</strong>
+  **5 – Lúdico e colorido.**
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 – Balão: tem que ter!</strong>
+  **6 – Balão: tem que ter!**
 </p>
 
 <p align="center">

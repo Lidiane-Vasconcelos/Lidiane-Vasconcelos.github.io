@@ -1,7 +1,7 @@
 ---
-id: 3019
+
 title: Quer uma mesinha? Improvisa!!!!
-date: 2011-07-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/12/decoracao-faca-voce-mesma-2/
@@ -57,7 +57,7 @@ Daí inventei uma mesinha **_pobre-improvisada-ex banquinho sem utilidade_**:
 Vejam que para disfarçar **cobri ela com meu papel _contact_ craquelado** 😀
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg"><img class="alignnone size-full wp-image-6590" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg" alt="" width="600" height="450" /></a><strong><br /> </strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg"><img class="alignnone size-full wp-image-6590" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg" alt="" width="600" height="450" /></a>**<br /> **
 </p>
 
 Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura meu cunhado trouxe do Chile _pra_ gente e a girafa e a caixa lá atrás (que é um álbum de fotos) vieram do Chile trazidos por nós.
@@ -73,10 +73,10 @@ Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura 
     </td>
     
     <td valign="top" width="300">
-      <strong></strong></p> 
+      ****</p> 
       
       <p style="text-align: justify;">
-        <strong>Renata Becker Wentz</strong>, estudante de Publicidade, trabalha como auxiliar de marketing e nas horas vagas brinca de criar, inventar e modificar a casa. E o casamento também, óbvio! Autora do blog <strong><a href="http://www.vidaloucadecasada.blogspot.com/">Vida Louca de Casada</a></strong>.
+        **Renata Becker Wentz**, estudante de Publicidade, trabalha como auxiliar de marketing e nas horas vagas brinca de criar, inventar e modificar a casa. E o casamento também, óbvio! Autora do blog **<a href="http://www.vidaloucadecasada.blogspot.com/">Vida Louca de Casada</a>**.
       </p>
     </td>
   </tr>
@@ -85,7 +85,7 @@ Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura 
 &nbsp;
 
 <p style="text-align: center;">
-  Faça como a <strong>Renata</strong>, e envie <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em></strong> para o <strong>Bicha Fêmea</strong>!
+  Faça como a **Renata**, e envie **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em>** para o **Bicha Fêmea**!
 </p>
 
 &nbsp;
@@ -103,17 +103,17 @@ Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura 
 **[Pitacos de bicha fêmea: decorando a sala de estar com amarelo!](http://www.trololodemulher.com.br/2011/01/26/decoracao-sala-estar-amarelo/)**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>
 </p>
 
 <p style="text-align: center;" align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;" align="center">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;" align="center">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>

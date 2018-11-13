@@ -1,7 +1,7 @@
 ---
-id: 3715
+
 title: 'Como ter uma cozinha de casa alugada mais bonita: 6 dicas.'
-date: 2016-12-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/07/cozinha-de-casa-alugada-2/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Verdade seja dita: seja por causa de um detalhe ou outro, você não vive de amores pela sua <strong>cozinha de casa alugada</strong>. Felizmente, há várias coisas que você pode fazer já, e reverter essa situação. Veja o que reproduzir em seus domínios e passe a ver nesse ambiente a sua cara. Daqui por diante vai ser muito mais gostoso estar lá, preparar suas refeições e confraternizar com sua família. Vamos ás ideias?
+  Verdade seja dita: seja por causa de um detalhe ou outro, você não vive de amores pela sua **cozinha de casa alugada**. Felizmente, há várias coisas que você pode fazer já, e reverter essa situação. Veja o que reproduzir em seus domínios e passe a ver nesse ambiente a sua cara. Daqui por diante vai ser muito mais gostoso estar lá, preparar suas refeições e confraternizar com sua família. Vamos ás ideias?
 </p>
 
 &nbsp;

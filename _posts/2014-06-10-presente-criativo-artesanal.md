@@ -1,7 +1,7 @@
 ---
-id: 3304
+
 title: 'Presentes criativos, feitos á mão: todo mundo gosta!'
-date: 2014-06-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/10/presente-criativo-artesanal/
@@ -68,5 +68,5 @@ E se é algo assim, nesse estilo, que você está procurando para presentear aqu
 &nbsp;
 
 <p align="justify">
-  Quer conhecer um pouco mais sobre a <strong>ScolAstika´S</strong>? Fique á vontade, bonita! <strong>Para conhecer a loja</strong>, <a href="http://scolastikasloja.tanlup.com/" target="_blank">clique aqui</a>. Para acompanhar as novidades na <strong>página do Facebook</strong>, <a href="https://www.facebook.com/ScolAstikaSLoja" target="_blank">clique aqui</a>… e encante-se!
+  Quer conhecer um pouco mais sobre a **ScolAstika´S**? Fique á vontade, bonita! **Para conhecer a loja**, <a href="http://scolastikasloja.tanlup.com/" target="_blank">clique aqui</a>. Para acompanhar as novidades na **página do Facebook**, <a href="https://www.facebook.com/ScolAstikaSLoja" target="_blank">clique aqui</a>… e encante-se!
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3884
+
 title: Você quer se organizar melhor em 2019?
-date: 2018-10-30T00:00:00+00:00
+
 author: Lidiane
 excerpt: Hoje está sendo lançado o sorteio de um planner para quem quer se organizar melhor em 2019, e você está super convidada a participar. Olha que lindeza!!!
 layout: post
@@ -12,7 +12,7 @@ categories:
   - Promoção
 ---
 <p align="justify">
-  Hoje está sendo lançado o sorteio de um presente lindo de viver para quem quer se <strong>organizar</strong> melhor em 2019, e você está super convidada a participar. Olha que lindeza!!!
+  Hoje está sendo lançado o sorteio de um presente lindo de viver para quem quer se **organizar** melhor em 2019, e você está super convidada a participar. Olha que lindeza!!!
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quer concorrer a um planner 2019, personalizado com seu nome e frase escolhida por você para a capa de rosto, produzido com todo o carinho pela <a href="https://www.elo7.com.br/criapapel/loja" target="_blank" rel="noopener">Cria Papel</a>? <a href="https://bit.ly/2AzxPBA" target="_blank" rel="noopener"><strong>Então é só clicar aqui</strong></a>, e ver as regras de participação no <strong>Instagram do Trololó de Mulher</strong>. É super simples, como a vida deve ser. Te aguardo por lá!!!
+  Quer concorrer a um planner 2019, personalizado com seu nome e frase escolhida por você para a capa de rosto, produzido com todo o carinho pela <a href="https://www.elo7.com.br/criapapel/loja" target="_blank" rel="noopener">Cria Papel</a>? <a href="https://bit.ly/2AzxPBA" target="_blank" rel="noopener">**Então é só clicar aqui**</a>, e ver as regras de participação no **Instagram do Trololó de Mulher**. É super simples, como a vida deve ser. Te aguardo por lá!!!
 </p>
 
 <p align="justify">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

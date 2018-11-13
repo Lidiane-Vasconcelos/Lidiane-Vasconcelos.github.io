@@ -1,7 +1,7 @@
 ---
-id: 3353
+
 title: Como evitar o acúmulo e organizar o lar? Dicas práticas.
-date: 2014-10-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/08/acumulo-e-organizacao/
@@ -18,19 +18,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank"><strong>Se sua casa estiver em ordem, não duvide: você ficará bem.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">**Se sua casa estiver em ordem, não duvide: você ficará bem.**</a>
 </p>
 
 <p align="justify">
-  Repare: há sugestões para duas situações. Antes de organizar a casa, é preciso que você pare de juntar tanta coisa sem necessidade. É preciso destralhar! Para atacar o acúmulo de coisas, veja o que sugiro e o que outras leitoras do <strong>Trololó  de Mulher</strong> andam fazendo… aproveite!
+  Repare: há sugestões para duas situações. Antes de organizar a casa, é preciso que você pare de juntar tanta coisa sem necessidade. É preciso destralhar! Para atacar o acúmulo de coisas, veja o que sugiro e o que outras leitoras do **Trololó  de Mulher** andam fazendo… aproveite!
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Para evitar o acúmulo…</span></strong>
+  **<span style="font-size: large;">Para evitar o acúmulo…</span>**
 </p>
 
 <p align="justify">
@@ -42,35 +42,35 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <strong><span style="font-size: large;">E mais…</span></strong>
+  **<span style="font-size: large;">E mais…</span>**
 </p>
 
 > <p align="justify">
->   <strong>Para evitar o acúmulo desnecessário uma coisa que quase sempre faço: &#8220;Comprei 1, tiro 1&#8221;. É assim: comprei uma camiseta &#8211; vou direto ver no guarda-roupa descobrir aquela que eu posso doar, que eu não uso faz tempo, que não vou usar mais e tal. Até para livros (a coisa que mais acumulei na vida&#8230;) estou fazendo isso. “ Rosana Silva, do blog </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank"><strong>Simples Decoração</strong></a>
+>   **Para evitar o acúmulo desnecessário uma coisa que quase sempre faço: &#8220;Comprei 1, tiro 1&#8221;. É assim: comprei uma camiseta &#8211; vou direto ver no guarda-roupa descobrir aquela que eu posso doar, que eu não uso faz tempo, que não vou usar mais e tal. Até para livros (a coisa que mais acumulei na vida&#8230;) estou fazendo isso. “ Rosana Silva, do blog **<a href="http://www.simplesdecoracao.com.br/" target="_blank">**Simples Decoração**</a>
 > </p>
 
 <p align="justify">
-  <strong>E por falar nisso:</strong>
+  **E por falar nisso:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank"><strong>Como e onde doar móveis e objetos usados?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank">**Como e onde doar móveis e objetos usados?**</a>
 </p>
 
 > <p align="justify">
->   <strong>Para evitar o acúmulo, eu jogo tudo fora rs. Sério, quando pego correspondência, por exemplo, ali mesmo já seleciono o que não presta e&#8230;lixo. Eu também costumo fazer doações de tudo, louças, panelas, roupas de camas, sapatos, até almofadas. Eu só tenho o que uso (ou aquilo que tem valor afetivo). Documentos pagos só guardo por uns 2 anos. Comprei um jogo novo de panelas e doei todas as antigas. Doei uma panela de pressão, não preciso de duas, somos dois. Hoje só tenho 4 bolsas para o dia-a-dia, duas miúdas, dessas de usar atravessada ao corpo para uma saidinha rápida e uma de festa. Para que mais? Eu tinha coleção de havaianas, acredita? Pensei nas pessoas que não tinham. Dei roupas usadas e novas. Sabe aquela peça que você compra mas nunca usa? Não usei por 1 ano, vou usar? Doei. Roupas que não cabem mais, não me apego. Não vou esperar emagrecer. Quando emagrecer, compro outra. Doei duas jaquetas de couro para minhas enteadas, jovens, elas amaram. Doei dois sobretudos. Eu tinha prato demais, copo demais, xícara demais. O filho da minha empregada vai casar às pressas, a namorada está grávida. Dei tudo. Lidi, importa ajudar sim, mas importa que tenhamos o necessário. E que aprendamos a consumir. Por que gastar tanto? As coisas ficam guardadas. O dinheiro pode ser usado em outra coisa. ” Flavinha Gomes, do blog </strong><a href="http://casinhabonitinha.blogspot.com.br/" target="_blank"><strong>Casinha Bonitinha</strong></a>
+>   **Para evitar o acúmulo, eu jogo tudo fora rs. Sério, quando pego correspondência, por exemplo, ali mesmo já seleciono o que não presta e&#8230;lixo. Eu também costumo fazer doações de tudo, louças, panelas, roupas de camas, sapatos, até almofadas. Eu só tenho o que uso (ou aquilo que tem valor afetivo). Documentos pagos só guardo por uns 2 anos. Comprei um jogo novo de panelas e doei todas as antigas. Doei uma panela de pressão, não preciso de duas, somos dois. Hoje só tenho 4 bolsas para o dia-a-dia, duas miúdas, dessas de usar atravessada ao corpo para uma saidinha rápida e uma de festa. Para que mais? Eu tinha coleção de havaianas, acredita? Pensei nas pessoas que não tinham. Dei roupas usadas e novas. Sabe aquela peça que você compra mas nunca usa? Não usei por 1 ano, vou usar? Doei. Roupas que não cabem mais, não me apego. Não vou esperar emagrecer. Quando emagrecer, compro outra. Doei duas jaquetas de couro para minhas enteadas, jovens, elas amaram. Doei dois sobretudos. Eu tinha prato demais, copo demais, xícara demais. O filho da minha empregada vai casar às pressas, a namorada está grávida. Dei tudo. Lidi, importa ajudar sim, mas importa que tenhamos o necessário. E que aprendamos a consumir. Por que gastar tanto? As coisas ficam guardadas. O dinheiro pode ser usado em outra coisa. ” Flavinha Gomes, do blog **<a href="http://casinhabonitinha.blogspot.com.br/" target="_blank">**Casinha Bonitinha**</a>
 > </p>
 
 > <p align="justify">
->   <strong>Os assuntos que você tocou são duas pedras no meu caminho&#8230;. Venho de uma família de quase acumuladores e eu sempre guardei, comprei, ganhei, acumulei coisas&#8230; mas isso sempre me incomodou e tem uns dois anos que estou trabalhando no sentido de me desfazer de coisas desnecessárias e não comprar mais nada inútil&#8230; é super difícil, já consegui avançar bastante. Vários objetos que tinha guardado por anos, foram embora. A seleção foi baseada na utilidade mas também ficaram alguns que carregam uma boa carga emocional, porque algumas me trazem boas recordações e dão a sensação de aconchego. Um fator complicador disso é que meu marido é bem apegado aos objetos dele e  nessa parte nem posso mexer e é bem raro quando ele se desfaz de alguma coisa dele.” Gislaine Brito</strong>
+>   **Os assuntos que você tocou são duas pedras no meu caminho&#8230;. Venho de uma família de quase acumuladores e eu sempre guardei, comprei, ganhei, acumulei coisas&#8230; mas isso sempre me incomodou e tem uns dois anos que estou trabalhando no sentido de me desfazer de coisas desnecessárias e não comprar mais nada inútil&#8230; é super difícil, já consegui avançar bastante. Vários objetos que tinha guardado por anos, foram embora. A seleção foi baseada na utilidade mas também ficaram alguns que carregam uma boa carga emocional, porque algumas me trazem boas recordações e dão a sensação de aconchego. Um fator complicador disso é que meu marido é bem apegado aos objetos dele e  nessa parte nem posso mexer e é bem raro quando ele se desfaz de alguma coisa dele.” Gislaine Brito**
 > </p>
 
 > <p align="justify">
->   <strong>A dica que tenho para compartilhar é: ao adquirir alguma peça de roupa (por exemplo) que você esteja disposto a doar uma outra ou até mesmo 2 peças. Isso também pode ser feito com as crianças, ajudando-o inclusive a valorizar mais o que tem. Explique ao seu filho quantas crianças no mundo não têm um brinquedo para se divertir, não têm roupa nova e nem sequer a comida gostosa que ele come em casa. Então, se ele quer realmente aquele brinquedo (ou roupa) deverá separar 2 brinquedos (ou roupas) para DOAR a quem não tem. Acredito que essa seja uma maneira eficaz de evitar o acúmulo desnecessário e de ser solidário com quem precisa!” </strong><a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank"><strong>Carol Carneiro</strong></a>
+>   **A dica que tenho para compartilhar é: ao adquirir alguma peça de roupa (por exemplo) que você esteja disposto a doar uma outra ou até mesmo 2 peças. Isso também pode ser feito com as crianças, ajudando-o inclusive a valorizar mais o que tem. Explique ao seu filho quantas crianças no mundo não têm um brinquedo para se divertir, não têm roupa nova e nem sequer a comida gostosa que ele come em casa. Então, se ele quer realmente aquele brinquedo (ou roupa) deverá separar 2 brinquedos (ou roupas) para DOAR a quem não tem. Acredito que essa seja uma maneira eficaz de evitar o acúmulo desnecessário e de ser solidário com quem precisa!” **<a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">**Carol Carneiro**</a>
 > </p>
 
 > <p align="justify">
->   <strong>Periodicamente podemos esvaziar prateleiras, guarda roupa , armários de cozinha e etc&#8230; e separar em três categorias: o que ainda serve que não uso mais (posso doar para instituições, igrejas &#8230;), o que não serve mais (devo jogar no lixo) e o que ainda serve e eu uso mesmo que não seja sempre (devo reorganizar por tipo em seus devidos lugares). “ Josi Sousa</strong>
+>   **Periodicamente podemos esvaziar prateleiras, guarda roupa , armários de cozinha e etc&#8230; e separar em três categorias: o que ainda serve que não uso mais (posso doar para instituições, igrejas &#8230;), o que não serve mais (devo jogar no lixo) e o que ainda serve e eu uso mesmo que não seja sempre (devo reorganizar por tipo em seus devidos lugares). “ Josi Sousa**
 > </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Para organizar o lar…</span></strong>
+  **<span style="font-size: large;">Para organizar o lar…</span>**
 </p>
 
 <p align="justify">
@@ -94,51 +94,51 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A propósito: </strong>
+  **A propósito: **
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank"><strong>18 hábitos da pessoa organizada na arrumação da casa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">**18 hábitos da pessoa organizada na arrumação da casa.**</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">E mais…</span></strong>
+  **<span style="font-size: large;">E mais…</span>**
 </p>
 
 > <p align="justify">
->   <strong>Ao levantar da cama, arrume-a logo! Aqui em casa já é costume que todos nós praticamos. Essa pequena prática já dá uma grande ajuda, pra mim principalmente, porque sou gestora do meu lar, e você pode imaginar o tanto de coisinhas que são feitas para manter uma casa em ordem.” Karla Jeanne</strong>
+>   **Ao levantar da cama, arrume-a logo! Aqui em casa já é costume que todos nós praticamos. Essa pequena prática já dá uma grande ajuda, pra mim principalmente, porque sou gestora do meu lar, e você pode imaginar o tanto de coisinhas que são feitas para manter uma casa em ordem.” Karla Jeanne**
 > </p>
 
 > <p align="justify">
->   <strong>Não é tão dificil organizar a casa, devemos organizar as coisas por tipo, em caixas organizadoras, gavetas com divisórias, sempre por categoria: caixa de costura, de pintura, de ferramentas &#8230; tudo etiquetado. Dicas simples: botas devem ser guardadas com um &#8220;rolo&#8221; de papelão dentro dela, para ficar sempre no formato de nova. Cabides precisam ser padronizados e colocados sempre virados na mesma direção (organize e compare). Para não perder os cosméticos (por esquecimento) coloque sempre os mais antigos na frente em sua prateleira, assim você não esquecerá de usar. Caixas organizadoras são úteis para deixar a casa toda mais bonita e prática, pois são transparentes, o que facilita e muito na hora de encontrar o que você precisa.” Josi Sousa</strong>
+>   **Não é tão dificil organizar a casa, devemos organizar as coisas por tipo, em caixas organizadoras, gavetas com divisórias, sempre por categoria: caixa de costura, de pintura, de ferramentas &#8230; tudo etiquetado. Dicas simples: botas devem ser guardadas com um &#8220;rolo&#8221; de papelão dentro dela, para ficar sempre no formato de nova. Cabides precisam ser padronizados e colocados sempre virados na mesma direção (organize e compare). Para não perder os cosméticos (por esquecimento) coloque sempre os mais antigos na frente em sua prateleira, assim você não esquecerá de usar. Caixas organizadoras são úteis para deixar a casa toda mais bonita e prática, pois são transparentes, o que facilita e muito na hora de encontrar o que você precisa.” Josi Sousa**
 > </p>
 
 > <p align="justify">
->   <strong>Para manter a casa organizada, sei que o melhor método é o que você já falou: manter as coisas nos seus lugares. Mas devo dizer: sou caótica. Então, o que faço é ter em alguns lugares da casa (meu quarto e meu escritório, especificamente, porque são os lugares que tenho tendência para desorganizar) uma &#8220;área de bagunça&#8221;. Um lugar só, onde coloco as coisas que não estou com saco ou tempo de guardar no lugar certo. Aí, um dia quando a área está entulhada ou eu tenho paciência, vou lá, pego tudo e arrumo no seu lugar.” Rosana Silva, do blog </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank"><strong>Simples Decoração</strong></a>
+>   **Para manter a casa organizada, sei que o melhor método é o que você já falou: manter as coisas nos seus lugares. Mas devo dizer: sou caótica. Então, o que faço é ter em alguns lugares da casa (meu quarto e meu escritório, especificamente, porque são os lugares que tenho tendência para desorganizar) uma &#8220;área de bagunça&#8221;. Um lugar só, onde coloco as coisas que não estou com saco ou tempo de guardar no lugar certo. Aí, um dia quando a área está entulhada ou eu tenho paciência, vou lá, pego tudo e arrumo no seu lugar.” Rosana Silva, do blog **<a href="http://www.simplesdecoracao.com.br/" target="_blank">**Simples Decoração**</a>
 > </p>
 
 > <p align="justify">
->   <strong>Para manter a organização, meu lema é: tudo tem sua &#8220;casinha e deve voltar para ela. Não tenho filhos, mas meu marido é &#8220;O Bagunceiro&#8221;, então, dou &#8220;dura&#8221; nas coisas dele. Eu coloco etiqueta nas caixas, arrumo os cabides, limpo os sapatos, minha filha, porque se depender dele&#8230;Olha, Lidi, eu fico de olho na validade de tudo, desde o sabonete até o arroz. Uma vez por semana, dou geral na geladeira. Se tiver refrigerante velho, vai pro lixo.” Flavinha Gomes, do blog </strong><a href="http://casinhabonitinha.blogspot.com.br/" target="_blank"><strong>Casinha Bonitinha</strong></a>
+>   **Para manter a organização, meu lema é: tudo tem sua &#8220;casinha e deve voltar para ela. Não tenho filhos, mas meu marido é &#8220;O Bagunceiro&#8221;, então, dou &#8220;dura&#8221; nas coisas dele. Eu coloco etiqueta nas caixas, arrumo os cabides, limpo os sapatos, minha filha, porque se depender dele&#8230;Olha, Lidi, eu fico de olho na validade de tudo, desde o sabonete até o arroz. Uma vez por semana, dou geral na geladeira. Se tiver refrigerante velho, vai pro lixo.” Flavinha Gomes, do blog **<a href="http://casinhabonitinha.blogspot.com.br/" target="_blank">**Casinha Bonitinha**</a>
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-organizacao/" target="_blank"><strong>Siga 10 passos e o canto da bagunça deixará de existir.</strong></a>
+  <a href="http://www.decoracaodacasa.com/dicas-organizacao/" target="_blank">**Siga 10 passos e o canto da bagunça deixará de existir.**</a>
 </p>
 
 > <p align="justify">
->   <strong>Quanto à organização de casa, tento fazer um pouquinho por dia. Escalei meu filho mais velho para ajudar, ele é responsável pela louça do almoço, limpar o cocô do cachorro e retirar o lixo de casa. O maridão ajuda fazendo a comida e compras e eu vou me virando com a organização, limpeza, lavar e passar&#8230;O filho mais novo ainda não ajuda efetivamente mas sempre procuro orientá-lo para guardar os brinquedos que ele usou.” Gislaine Brito</strong>
+>   **Quanto à organização de casa, tento fazer um pouquinho por dia. Escalei meu filho mais velho para ajudar, ele é responsável pela louça do almoço, limpar o cocô do cachorro e retirar o lixo de casa. O maridão ajuda fazendo a comida e compras e eu vou me virando com a organização, limpeza, lavar e passar&#8230;O filho mais novo ainda não ajuda efetivamente mas sempre procuro orientá-lo para guardar os brinquedos que ele usou.” Gislaine Brito**
 > </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-casa-brinquedos/" target="_blank"><strong>Organização da casa: suas crianças ajudam?</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-casa-brinquedos/" target="_blank">**Organização da casa: suas crianças ajudam?**</a>
 </p>
 
 <p align="center">

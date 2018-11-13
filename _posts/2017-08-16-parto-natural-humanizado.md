@@ -1,7 +1,7 @@
 ---
-id: 3784
+
 title: 'Relato de parto natural humanizado: nascimento de Angelo'
-date: 2017-08-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/16/parto-natural-humanizado/
@@ -11,7 +11,7 @@ categories:
   - Saúde Infantil
 ---
 <p align="justify">
-  Se há alguma dúvida sobre como se dá um <strong>parto natural humanizado</strong>, como ele realmente deveria acontecer, no relato de Telma, a respeito do nascimento de Angelo, a gente compreende bem. Uma mãe bem informada, tranquila e segura com sua escolha, parindo no melhor lugar possível para realizar o sonho de trazer seu filho ao mundo naturalmente, sem maiores intervenções… é o que você verá nesse post.
+  Se há alguma dúvida sobre como se dá um **parto natural humanizado**, como ele realmente deveria acontecer, no relato de Telma, a respeito do nascimento de Angelo, a gente compreende bem. Uma mãe bem informada, tranquila e segura com sua escolha, parindo no melhor lugar possível para realizar o sonho de trazer seu filho ao mundo naturalmente, sem maiores intervenções… é o que você verá nesse post.
 </p>
 
 <p align="justify">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">O nascimento de Angelo…</span></strong>
+  **<span style="font-size: x-large;">O nascimento de Angelo…</span>**
 </p>
 
 <p align="center">

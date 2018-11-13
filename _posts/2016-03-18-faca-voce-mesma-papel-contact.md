@@ -1,7 +1,7 @@
 ---
-id: 3566
+
 title: '7 ideias &#8220;faça você mesma&#8221; com papel contact.'
-date: 2016-03-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/18/faca-voce-mesma-papel-contact/
@@ -11,7 +11,7 @@ categories:
   - Faça Você Mesma
 ---
 <p align="justify">
-  <strong>Ideias do tipo faça você mesma com papel contact</strong> têm sido muito queridas para quem é da turma do <em>DIY</em> (faça você mesmo) na decoração, não é verdade? Pudera! Com ele dá para sair revestindo móveis e objetos e, num piscar de olhos, dar ares novos a um ambiente eleito em seus domínios. De quebra, dá pra se devertir um bocado com esses projetinhos, já que há uma variedade enorme de estampas, expandindo, com isso, suas possibilidades. E por falar em ideias, é delas que você gosta, certo? Então repare em 7 delas que garimpei para te mostrar, todas com o papel contact no efeito mármore, aplicadas em móveis ou objetos, que te deixarão com a cabeça fervilhando sobre o que revestir em sua casa. Confira!
+  **Ideias do tipo faça você mesma com papel contact** têm sido muito queridas para quem é da turma do <em>DIY</em> (faça você mesmo) na decoração, não é verdade? Pudera! Com ele dá para sair revestindo móveis e objetos e, num piscar de olhos, dar ares novos a um ambiente eleito em seus domínios. De quebra, dá pra se devertir um bocado com esses projetinhos, já que há uma variedade enorme de estampas, expandindo, com isso, suas possibilidades. E por falar em ideias, é delas que você gosta, certo? Então repare em 7 delas que garimpei para te mostrar, todas com o papel contact no efeito mármore, aplicadas em móveis ou objetos, que te deixarão com a cabeça fervilhando sobre o que revestir em sua casa. Confira!
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank"><strong>Objetos e enfeites nas feiras de antiguidades</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank">**Objetos e enfeites nas feiras de antiguidades**</a>
 </p>
 
 <p align="center">
@@ -63,11 +63,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank">**Truques de decoração: bandejas… por que te quero?**</a>
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">**Caixas: 5 soluções de organização da casa**</a>
 </p>
 
 <p align="center">

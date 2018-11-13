@@ -1,7 +1,7 @@
 ---
-id: 2952
+
 title: 'Decoração de cozinha: 4 dúvidas sobre revestimento de piso respondidas!'
-date: 2011-02-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/21/revestimento-piso-cozinha/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para nos ajudar a avaliar alguns aspectos na hora de fazer a escolha do piso para essa área da casa que, sem dúvidas, merece muito de nossa atenção, a <strong>arquiteta Letícia Lodi, de São Paulo, </strong>dá dicas e algumas orientações a respeito. Confira!
+  Para nos ajudar a avaliar alguns aspectos na hora de fazer a escolha do piso para essa área da casa que, sem dúvidas, merece muito de nossa atenção, a **arquiteta Letícia Lodi, de São Paulo, **dá dicas e algumas orientações a respeito. Confira!
 </p>
 
 <!--more-->
@@ -32,11 +32,11 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg"><img class="alignnone size-full wp-image-5932" title="piso de cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg" alt="" width="592" height="395" /></a></span></em></strong>
+  **<em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg"><img class="alignnone size-full wp-image-5932" title="piso de cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg" alt="" width="592" height="395" /></a></span></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Como, então, melhor escolher o piso pra cozinha?</strong> Boa pergunta essa, não? Para quem é leigo, esse é um momento onde pode bater um desespero total. Mas você, que lê esse post, vai aprender o que obeservar na sua escolha. Anota aí!
+  **Como, então, melhor escolher o piso pra cozinha?** Boa pergunta essa, não? Para quem é leigo, esse é um momento onde pode bater um desespero total. Mas você, que lê esse post, vai aprender o que obeservar na sua escolha. Anota aí!
 </p>
 
 <p style="text-align: justify;">
@@ -49,12 +49,12 @@ categories:
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    <strong>“<em>Outra característica importante a ser observada é a resistência ao escorregamento, mas isso é algo muito pessoal. Particularmente não gosto de recomendar pisos muito lisos para cozinha, porque a combinação piso liso + óleos de cozinha pode ser desastrosa. Em caso de pessoas com idosos e crianças em casa, devem observar muito isso, por questões de segurança. Em caso de uso de pedras (granitos, mármores) tome a precaução de perguntar sobre a porosidade. Quanto mais poroso o revestimento, mais irá absorver água e outros produtos, o que não é recomendável para cozinhas, não? Alguns pisos são mais porosos que os outros, portanto, se puder observar é legal para não ter problemas futuros. Algo muito comum em pisos porosos é a corrosão pelos produtos de limpeza (tais como cloro).”</em></strong>
+    **“<em>Outra característica importante a ser observada é a resistência ao escorregamento, mas isso é algo muito pessoal. Particularmente não gosto de recomendar pisos muito lisos para cozinha, porque a combinação piso liso + óleos de cozinha pode ser desastrosa. Em caso de pessoas com idosos e crianças em casa, devem observar muito isso, por questões de segurança. Em caso de uso de pedras (granitos, mármores) tome a precaução de perguntar sobre a porosidade. Quanto mais poroso o revestimento, mais irá absorver água e outros produtos, o que não é recomendável para cozinhas, não? Alguns pisos são mais porosos que os outros, portanto, se puder observar é legal para não ter problemas futuros. Algo muito comum em pisos porosos é a corrosão pelos produtos de limpeza (tais como cloro).”</em>**
   </p>
 </blockquote>
 
 <p style="text-align: justify;">
-  <strong>O barato pode sair caro!</strong> Muitas pessoas são seduzidas por valores bem vantajosos se comparados a outros, e não desconfiam de que isso possa ter um preço caro no futuro, no médio e longo prazo. Será que certas escolhas valem a pena?
+  **O barato pode sair caro!** Muitas pessoas são seduzidas por valores bem vantajosos se comparados a outros, e não desconfiam de que isso possa ter um preço caro no futuro, no médio e longo prazo. Será que certas escolhas valem a pena?
 </p>
 
 <p style="text-align: justify;">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg"><img class="alignnone size-full wp-image-5931" title="Exif JPEG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg" alt="" width="530" height="409" /></a></span></em></strong>
+  **<em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg"><img class="alignnone size-full wp-image-5931" title="Exif JPEG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg" alt="" width="530" height="409" /></a></span></em>**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Com que cor eu vou?</strong> Essa dúvida de cor, vira e mexe, acaba martelando a cabeça de qualquer uma de nós na hora da escolha do piso, não é verdade? A escolha da cor é algo totalmente pessoal, e não vai interferir na durabilidade de sua cozinha. O único critério a ser observado é a realidade no dia a dia. Pense na seguinte questão: você pode limpar sua cozinha constantemente?
+  **Com que cor eu vou?** Essa dúvida de cor, vira e mexe, acaba martelando a cabeça de qualquer uma de nós na hora da escolha do piso, não é verdade? A escolha da cor é algo totalmente pessoal, e não vai interferir na durabilidade de sua cozinha. O único critério a ser observado é a realidade no dia a dia. Pense na seguinte questão: você pode limpar sua cozinha constantemente?
 </p>
 
 <p style="text-align: justify;">

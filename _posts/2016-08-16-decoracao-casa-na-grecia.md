@@ -1,7 +1,7 @@
 ---
-id: 3644
+
 title: 6 lições de decoração (e de vida!) em uma casa na Grécia.
-date: 2016-08-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/16/decoracao-casa-na-grecia/
@@ -11,7 +11,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  A Grécia é um dos lugares que eu gostaria de conhecer nesta vida, confesso. Fico imaginando como será ver de pertinho aquele casario branquinho tão característico. Enquanto isso não acontece, fico grata pela oportunidade de esbarrar em fotos de <strong>decoração de uma casa na Grécia</strong> tão lindas de viver quanto estas. Apreciá-las com calma foi uma delícia para mim, porque há sentimento nelas. Espero que você se delicie também.
+  A Grécia é um dos lugares que eu gostaria de conhecer nesta vida, confesso. Fico imaginando como será ver de pertinho aquele casario branquinho tão característico. Enquanto isso não acontece, fico grata pela oportunidade de esbarrar em fotos de **decoração de uma casa na Grécia** tão lindas de viver quanto estas. Apreciá-las com calma foi uma delícia para mim, porque há sentimento nelas. Espero que você se delicie também.
 </p>
 
 <p align="justify">
@@ -27,15 +27,15 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank">Wabi Sabi na decoração e o resgate do simples.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank">Wabi Sabi na decoração e o resgate do simples.</a>**
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank">Decoração escandinava: como aplicar esse estilo?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank">Decoração escandinava: como aplicar esse estilo?</a>**
 </p>
 
 <p align="center">
@@ -71,15 +71,15 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/05/04/cores-pasteis-decoracao/" target="_blank">Cores pasteis na decoração: 3 maneiras simples de usá-las.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/05/04/cores-pasteis-decoracao/" target="_blank">Cores pasteis na decoração: 3 maneiras simples de usá-las.</a>**
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank">Amarelo na decoração: 8 imagens com detalhes solares.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank">Amarelo na decoração: 8 imagens com detalhes solares.</a>**
 </p>
 
 <p align="center">

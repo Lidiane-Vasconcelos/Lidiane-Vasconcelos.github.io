@@ -1,7 +1,7 @@
 ---
-id: 2690
+
 title: '“Pitacos” de decoração: revestimentos de cozinha.'
-date: 2009-07-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/23/decoracao-revestimento-cozinha/
@@ -10,7 +10,7 @@ categories:
   - Cozinha
 ---
 <p style="text-align: justify;">
-  A gente já sabe que os desdobramentos do nosso <em>trololó</em> nos comentários do blog “rolam” soltos, não é? Como não foi diferente quando vimos dicas de<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"> <strong><em>decoração para paredes</em></strong></a>, a conversa com a Rose, do blog “<a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Receitinhas e Frescurinhas</a>”, acabou desembocando na reforma da casa dela. Como mulher gosta de perguntar as coisas a outra, porque tudo é motivo para fomentar o <em>trololó</em>, a bonita me perguntou:
+  A gente já sabe que os desdobramentos do nosso <em>trololó</em> nos comentários do blog “rolam” soltos, não é? Como não foi diferente quando vimos dicas de<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"> **<em>decoração para paredes</em>**</a>, a conversa com a Rose, do blog “<a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Receitinhas e Frescurinhas</a>”, acabou desembocando na reforma da casa dela. Como mulher gosta de perguntar as coisas a outra, porque tudo é motivo para fomentar o <em>trololó</em>, a bonita me perguntou:
 </p>
 
 <p style="text-align: justify;">
@@ -76,7 +76,7 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
 </p>
 
 <p style="text-align: justify;">
-  <strong>Falando em área molhada:</strong>
+  **Falando em área molhada:**
 </p>
 
 <p style="text-align: justify;">
@@ -92,7 +92,7 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
 </p>
 
 <p style="text-align: justify;">
-  <strong>É bom ler sobre isso:</strong>
+  **É bom ler sobre isso:**
 </p>
 
 <p style="text-align: justify;">

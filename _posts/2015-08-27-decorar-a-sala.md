@@ -1,7 +1,7 @@
 ---
-id: 3472
+
 title: Como decorar a sala gastando pouco?
-date: 2015-08-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/27/decorar-a-sala/

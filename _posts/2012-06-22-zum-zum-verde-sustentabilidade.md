@@ -1,7 +1,7 @@
 ---
-id: 3142
+
 title: Zum Zum Verde na blogosfera… sabe o que é isso?
-date: 2012-06-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/22/zum-zum-verde-sustentabilidade/
@@ -20,7 +20,7 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
 <!--more-->
 
 <p align="justify">
-  Eu sou como você, e sei que posso aprender muito mais sobre o assunto. Eu até gostaria de aplicar mais práticas na minha casa, no meu dia a dia, mas muitas vezes as ideias para as pessoas normais e reais como nós carecem de popularização. É por isso que acho <em>superultramega</em> importante projetos como o da <strong>Zootecnista, Educadora e Consultora Ambiental Carina Abreu</strong>, que para nossa alegria, <strong>também é blogueira</strong>!
+  Eu sou como você, e sei que posso aprender muito mais sobre o assunto. Eu até gostaria de aplicar mais práticas na minha casa, no meu dia a dia, mas muitas vezes as ideias para as pessoas normais e reais como nós carecem de popularização. É por isso que acho <em>superultramega</em> importante projetos como o da **Zootecnista, Educadora e Consultora Ambiental Carina Abreu**, que para nossa alegria, **também é blogueira**!
 </p>
 
 <p align="center">
@@ -28,11 +28,11 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
 </p>
 
 <p align="justify">
-  É de seu projeto como blogueira, o <strong><a href="http://zumzumverde.blogspot.com.br/" target="_blank">Zum Zum Verde</a></strong>, a que me refiro. O blog é uma delícia de ser lido, porque mostra de forma bastante didática e com linguagem acessível, as práticas sustentáveis perfeitamente aplicáveis no lar de qualquer bicha fêmea navegante.
+  É de seu projeto como blogueira, o **<a href="http://zumzumverde.blogspot.com.br/" target="_blank">Zum Zum Verde</a>**, a que me refiro. O blog é uma delícia de ser lido, porque mostra de forma bastante didática e com linguagem acessível, as práticas sustentáveis perfeitamente aplicáveis no lar de qualquer bicha fêmea navegante.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Sustentabilidade no Zum Zum Verde…</span></strong>
+  **<span style="font-size: x-large;">Sustentabilidade no Zum Zum Verde…</span>**
 </p>
 
 > <p align="justify">
@@ -40,7 +40,7 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Dos posts…</span></strong>
+  **<span style="font-size: x-large;">Dos posts…</span>**
 </p>
 
 > <p align="justify">
@@ -48,7 +48,7 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Por que o blog nasceu?</span></strong>
+  **<span style="font-size: x-large;">Por que o blog nasceu?</span>**
 </p>
 
 > <p align="justify">
@@ -60,26 +60,26 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
 </p>
 
 <p align="justify">
-  Quer exemplos de como tudo isso se traduz na prática? Eu recomendo <em>comtodasasforçasdomeuser</em> que você dê uma espiada nos posts “<strong><a href="http://zumzumverde.blogspot.com.br/2012/06/da-cozinha-para-o-resto-da-casa.html" target="_blank">Da cozinha para o resto da casa</a></strong>” e “<strong><a href="http://zumzumverde.blogspot.com.br/2012/06/composteira-domestica-todo-mundo-pode.html" target="_blank">Composteira doméstica: todo mundo pode ter uma!</a></strong>”, e você vai entender por que vale tanto a pena acompanhar as atualizações do blog… inspire-se!
+  Quer exemplos de como tudo isso se traduz na prática? Eu recomendo <em>comtodasasforçasdomeuser</em> que você dê uma espiada nos posts “**<a href="http://zumzumverde.blogspot.com.br/2012/06/da-cozinha-para-o-resto-da-casa.html" target="_blank">Da cozinha para o resto da casa</a>**” e “**<a href="http://zumzumverde.blogspot.com.br/2012/06/composteira-domestica-todo-mundo-pode.html" target="_blank">Composteira doméstica: todo mundo pode ter uma!</a>**”, e você vai entender por que vale tanto a pena acompanhar as atualizações do blog… inspire-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/"><strong><span style="font-size: medium;"><br /> Sustentabilidade na casa de cada uma de nós: é possível?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/">**<span style="font-size: medium;"><br /> Sustentabilidade na casa de cada uma de nós: é possível?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/"><strong><span style="font-size: medium;"><br /> Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/cosmetica-sustentavel200/" rel="attachment wp-att-8754"><img class="alignnone size-full wp-image-8754" title="COSMETICA SUSTENTAVEL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/COSMETICA-SUSTENTAVEL200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">**<span style="font-size: medium;"><br /> Cosmética Sustentável: a natureza agradece, mas a beleza muito mais!</span>**</a>
       </p>
     </td>
   </tr>
@@ -87,13 +87,13 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/ecobag200/" rel="attachment wp-att-5587"><img class="alignnone size-full wp-image-5587" title="ecobag200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/ecobag200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/11/04/usar-ecobag-ser-uma-aliengena/"><strong><span style="font-size: medium;"><br /> Usar ecobag = ser uma alienígena. Será?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/ecobag200/" rel="attachment wp-att-5587"><img class="alignnone size-full wp-image-5587" title="ecobag200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/ecobag200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/11/04/usar-ecobag-ser-uma-aliengena/">**<span style="font-size: medium;"><br /> Usar ecobag = ser uma alienígena. Será?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/doacao200/" rel="attachment wp-att-6344"><img class="alignnone size-full wp-image-6344" title="doação200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/doacao200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/"><strong><span style="font-size: medium;"><br /> Móveis e objetos usados: lixo? Não. Doação? Sim.</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/doacao200/" rel="attachment wp-att-6344"><img class="alignnone size-full wp-image-6344" title="doação200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/doacao200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/">**<span style="font-size: medium;"><br /> Móveis e objetos usados: lixo? Não. Doação? Sim.</span>**</a>
       </p>
     </td>
   </tr>
@@ -101,13 +101,13 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/ser-verde200/" rel="attachment wp-att-5839"><img class="alignnone size-full wp-image-5839" title="ser verde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/02/04/5-dicas-para-ser-verde-em-casa/"><strong><span style="font-size: medium;"><br /> 5 dicas para ser “verde” e economizar nas finanças do lar.</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/ser-verde200/" rel="attachment wp-att-5839"><img class="alignnone size-full wp-image-5839" title="ser verde200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ser-verde200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2009/02/04/5-dicas-para-ser-verde-em-casa/">**<span style="font-size: medium;"><br /> 5 dicas para ser “verde” e economizar nas finanças do lar.</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/image-description-6/" rel="attachment wp-att-5130"><img class="alignnone size-full wp-image-5130" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/09/03/dicas-economizar-agua/"><strong><span style="font-size: medium;"><br /> 6 dicas para economizar água nas atividades domésticas</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/image-description-6/" rel="attachment wp-att-5130"><img class="alignnone size-full wp-image-5130" title="image description" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/agua-planeta-terra200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/09/03/dicas-economizar-agua/">**<span style="font-size: medium;"><br /> 6 dicas para economizar água nas atividades domésticas</span>**</a>
       </p>
     </td>
   </tr>
@@ -124,7 +124,7 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -148,9 +148,9 @@ Esses dias a gente tem ouvido falar mais do que nunca em sustentabilidade, não 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

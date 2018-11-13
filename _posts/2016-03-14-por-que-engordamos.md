@@ -1,7 +1,7 @@
 ---
-id: 3561
+
 title: Por que engordamos?
-date: 2016-03-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/14/por-que-engordamos/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Já é bem comum a gente ouvir histórias de mulheres que tentaram diversas dietas, e nada! <strong>Por que engordamos</strong>? Difícil entender por que isso acontece? Assim como você, tenho muitas dúvidas a respeito e tratei de tirar todas com uma profissional. <strong>Gabriela Pimentel, Nutricionista de Valinhos, SP</strong>, esclareceu questionamentos que nos ajudam a compreender o que fazemos no dia a dia, nos pormenores, que contribui para o ganho de medidas. Acredite: os ajustes na rotina não precisam passar por enormes sacrifícios e restrições, mas apenas por implementação de hábitos saudáveis. Estes, sim, é que salvam! Entenda tudo e dê uma guinada, agora:
+  Já é bem comum a gente ouvir histórias de mulheres que tentaram diversas dietas, e nada! **Por que engordamos**? Difícil entender por que isso acontece? Assim como você, tenho muitas dúvidas a respeito e tratei de tirar todas com uma profissional. **Gabriela Pimentel, Nutricionista de Valinhos, SP**, esclareceu questionamentos que nos ajudam a compreender o que fazemos no dia a dia, nos pormenores, que contribui para o ganho de medidas. Acredite: os ajustes na rotina não precisam passar por enormes sacrifícios e restrições, mas apenas por implementação de hábitos saudáveis. Estes, sim, é que salvam! Entenda tudo e dê uma guinada, agora:
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >></strong> <b>Se somos o que comemos, e estamos acima do peso, o que pode estar errado na nossa dieta? </b>
+  **Trololó de Mulher >>** <b>Se somos o que comemos, e estamos acima do peso, o que pode estar errado na nossa dieta? </b>
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <b><strong>Trololó de Mulher >></strong> Por que <a href="http://www.belezacorpoecia.com/emagrecimento-dietas/" target="_blank">a maioria das dietas vistas por aí não dá certo</a>?</b>
+  <b>**Trololó de Mulher >>** Por que <a href="http://www.belezacorpoecia.com/emagrecimento-dietas/" target="_blank">a maioria das dietas vistas por aí não dá certo</a>?</b>
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <b><strong>Trololó de Mulher >></strong> </b><b>Existe algum tipo de alimento que, definitivamente é um vilão, e precisa ser cortado de uma vez por todas do cardápio?</b>
+  <b>**Trololó de Mulher >>** </b><b>Existe algum tipo de alimento que, definitivamente é um vilão, e precisa ser cortado de uma vez por todas do cardápio?</b>
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  <b><strong>Trololó de Mulher >></strong> </b><b>Refrigerantes, sanduíches, chocolates, doces, salgadinhos industrializados, macarrão instantâneo, biscoitos recheados, maionese, frituras… isso precisa ser banido de uma vez por todas? Há como permití-los de alguma forma?</b>
+  <b>**Trololó de Mulher >>** </b><b>Refrigerantes, sanduíches, chocolates, doces, salgadinhos industrializados, macarrão instantâneo, biscoitos recheados, maionese, frituras… isso precisa ser banido de uma vez por todas? Há como permití-los de alguma forma?</b>
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <b><strong>Trololó de Mulher >> </strong></b><b>Comer e levar uma vida sedentária, necessariamente, leva a pessoa a engordar?</b>
+  <b>**Trololó de Mulher >> **</b><b>Comer e levar uma vida sedentária, necessariamente, leva a pessoa a engordar?</b>
 </p>
 
 <p align="justify">

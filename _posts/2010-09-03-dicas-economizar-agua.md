@@ -1,7 +1,7 @@
 ---
-id: 2869
+
 title: 6 dicas para economizar água nas atividades domésticas
-date: 2010-09-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/03/dicas-economizar-agua/
@@ -20,11 +20,11 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 <!--more-->
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/escova-de-dente.jpg"><img class="size-medium wp-image-5119 aligncenter" title="escova de dente" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/escova-de-dente-300x168.jpg" alt="" width="300" height="168" /></a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/escova-de-dente.jpg"><img class="size-medium wp-image-5119 aligncenter" title="escova de dente" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/escova-de-dente-300x168.jpg" alt="" width="300" height="168" /></a></em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Desligue a torneira enquanto escova os dentes!</em></strong>
+  **<em>Desligue a torneira enquanto escova os dentes!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -32,11 +32,11 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/garrafa-spray.jpg"><img class="size-medium wp-image-5121 aligncenter" title="garrafa spray" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/garrafa-spray-171x300.jpg" alt="" width="171" height="300" /></a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/garrafa-spray.jpg"><img class="size-medium wp-image-5121 aligncenter" title="garrafa spray" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/garrafa-spray-171x300.jpg" alt="" width="171" height="300" /></a></em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Regue suas plantas no início da manhã ou fim do dia!</em></strong>
+  **<em>Regue suas plantas no início da manhã ou fim do dia!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -44,11 +44,11 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/esponja-de-banho.jpg"><img class="size-medium wp-image-5120 aligncenter" title="esponja de banho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/esponja-de-banho-300x200.jpg" alt="" width="300" height="200" /></a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/esponja-de-banho.jpg"><img class="size-medium wp-image-5120 aligncenter" title="esponja de banho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/esponja-de-banho-300x200.jpg" alt="" width="300" height="200" /></a></em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Desligue o chuveiro ao se ensaboar!</em></strong>
+  **<em>Desligue o chuveiro ao se ensaboar!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -58,11 +58,11 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 > _“No banho, não esquecer o chuveiro ligado por muito tempo, podemos nos ensaboar e depois tirar o sabonete. Importante sempre observar os famosos pinguinhos que muitas vezes as crianças deixam nas torneiras correndo&#8230; Juntos, gastam um montão…”_
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/maquina-de-lavar-roupas.jpg"><img class="size-medium wp-image-5122 aligncenter" title="<Digimax S500 / Kenox S500 / Digimax Cyber 530>" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/maquina-de-lavar-roupas-222x300.jpg" alt="" width="222" height="300" /></a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/maquina-de-lavar-roupas.jpg"><img class="size-medium wp-image-5122 aligncenter" title="<Digimax S500 / Kenox S500 / Digimax Cyber 530>" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/maquina-de-lavar-roupas-222x300.jpg" alt="" width="222" height="300" /></a></em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Reaproveite a água da máquina de lavar!</em></strong>
+  **<em>Reaproveite a água da máquina de lavar!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -72,7 +72,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 > _“Eu geralmente reaproveito a água da máquina de lavar, na última enxaguada eu encho baldes com a água para a próxima lavada, claro, se eu for lavar em sequência. Não guardo por causa dos mosquitos da dengue. Assim a água já está limpa, e então aproveito para a proxima quando vou colocar o sabão em pó.”_
 
 <p style="text-align: center;">
-  <strong><em>Continue reaproveitando a água da máquina de lavar roupas!</em></strong>
+  **<em>Continue reaproveitando a água da máquina de lavar roupas!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -82,7 +82,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 > _“O que fazemos muito aqui em casa é lavar o quintal com a última água da máquina de lavar.”_
 
 <p style="text-align: center;">
-  <strong><em>Ensaboe toda a louça e, só depois, enxague!</em></strong>
+  **<em>Ensaboe toda a louça e, só depois, enxague!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -96,7 +96,7 @@ Hoje em dia é rotina a gente escutar na TV, por exemplo, o quanto precisamos cu
 </p>
 
 <p style="text-align: justify;">
-  Essas 6 dicas listadas aqui podem se multiplicar se várias divas do lar, como você, dividirem o que faz em casa para poupar água. A Adriana Vieira do blog <a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank">Coisas que eu amo e são tudo pra mim&#8230; </a> revelou, por exemplo, que dá banho nas três crianças que tem de uma só vez, o que a faz poupar água, energia e tempo. Ela ensinou isso e muito mais quando escreveu, para o Bicha Fêmea, o texto “<strong><em><a href="http://www.trololodemulher.com.br/2010/07/26/dicas-domesticas-evitar-gastos/">Todos somos donos de casa: homens, mulheres, crianças</a></em></strong>”.
+  Essas 6 dicas listadas aqui podem se multiplicar se várias divas do lar, como você, dividirem o que faz em casa para poupar água. A Adriana Vieira do blog <a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank">Coisas que eu amo e são tudo pra mim&#8230; </a> revelou, por exemplo, que dá banho nas três crianças que tem de uma só vez, o que a faz poupar água, energia e tempo. Ela ensinou isso e muito mais quando escreveu, para o Bicha Fêmea, o texto “**<em><a href="http://www.trololodemulher.com.br/2010/07/26/dicas-domesticas-evitar-gastos/">Todos somos donos de casa: homens, mulheres, crianças</a></em>**”.
 </p>
 
 <p style="text-align: justify;">
@@ -122,9 +122,9 @@ _Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 **_[Dicas para passar camisa social.](http://www.trololodemulher.com.br/2008/11/25/dicas-passar-camisa-social/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/"><strong><em>Casa</em></strong></a>> 6 dicas para economizar água nas atividades domésticas
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/">**<em>Casa</em>**</a>> 6 dicas para economizar água nas atividades domésticas
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

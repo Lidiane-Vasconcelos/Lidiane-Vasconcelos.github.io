@@ -1,7 +1,7 @@
 ---
-id: 3592
+
 title: 'Desacelerar e ter uma vida leve: veja 4 dicas práticas.'
-date: 2016-04-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/18/desacelerar/
@@ -31,27 +31,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – Priorizar.</strong>
+  **1 – Priorizar.**
 </p>
 
 <p align="justify">
-  Se deixar, a lista de tarefas diárias vai <em>looonnge</em>… mas a realidade é que não daremos conta. Simples assim. O resultado? Frustração. O remédio é lidar com a realidade. São 8 tarefas importantes no dia? Priorize e escolha três. Esse é o número com o qual lido no trabalho, mas poderia ser mais ou menos. Não há aqui uma receita de bolo, porque o que funciona para mim pode não surtir o mesmo efeito para você. O importante é perceber que algumas delas podem ficar de fora de sua agenda para HOJE, e serem distribuídas para outros dias. Cancelar ou delegar pode ser uma alternativa também. A ideia é se perguntar: <strong>como o meu tempo será usado de maneira eficiente? Onde devo concentrar minhas energias?</strong> Sendo assim, no trabalho ou na <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank">rotina doméstica</a>, defina menos tarefas importantes por dia. Não falo de emergências, sabe? Sobre as quais não temos controle algum. Falo do que pode ser planejado, falo de uma agenda possível…
+  Se deixar, a lista de tarefas diárias vai <em>looonnge</em>… mas a realidade é que não daremos conta. Simples assim. O resultado? Frustração. O remédio é lidar com a realidade. São 8 tarefas importantes no dia? Priorize e escolha três. Esse é o número com o qual lido no trabalho, mas poderia ser mais ou menos. Não há aqui uma receita de bolo, porque o que funciona para mim pode não surtir o mesmo efeito para você. O importante é perceber que algumas delas podem ficar de fora de sua agenda para HOJE, e serem distribuídas para outros dias. Cancelar ou delegar pode ser uma alternativa também. A ideia é se perguntar: **como o meu tempo será usado de maneira eficiente? Onde devo concentrar minhas energias?** Sendo assim, no trabalho ou na <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank">rotina doméstica</a>, defina menos tarefas importantes por dia. Não falo de emergências, sabe? Sobre as quais não temos controle algum. Falo do que pode ser planejado, falo de uma agenda possível…
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank"><strong>Boa produtividade é realizar o essencial e eliminar o resto.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/28/produtividade/" target="_blank">**Boa produtividade é realizar o essencial e eliminar o resto.**</a>
 </p>
 
 <p align="justify">
-  <strong>2 – Criar uma agenda possível.</strong>
+  **2 – Criar uma agenda possível.**
 </p>
 
 <p align="justify">
-  Esse exercício de se observar e perceber nossa capacidade diária, que depende de vários fatores e são estritamente pessoais, permite que a gente admita quando está montando uma agenda real, ou não. <strong>Seja muito honesta consigo mesma e reponda: o que dá para realizar?</strong> No meu caso, que trabalho de casa e por conta própria, passei a priorizar apenas 3 tarefas diárias para que o Trololó de Mulher continue funcionando, de modo que meu trabalho seja sadio no dia a dia, sem correria e estresse. É claro que há outras necessidades além dessas que elegi, que devem ser cumpridas, mas elas não são vitais, entende? Se forem executadas, ótimo. Se não, tudo bem.
+  Esse exercício de se observar e perceber nossa capacidade diária, que depende de vários fatores e são estritamente pessoais, permite que a gente admita quando está montando uma agenda real, ou não. **Seja muito honesta consigo mesma e reponda: o que dá para realizar?** No meu caso, que trabalho de casa e por conta própria, passei a priorizar apenas 3 tarefas diárias para que o Trololó de Mulher continue funcionando, de modo que meu trabalho seja sadio no dia a dia, sem correria e estresse. É claro que há outras necessidades além dessas que elegi, que devem ser cumpridas, mas elas não são vitais, entende? Se forem executadas, ótimo. Se não, tudo bem.
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Me dar mais tempo.</strong>
+  **3 – Me dar mais tempo.**
 </p>
 
 <p align="justify">
@@ -75,19 +75,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank"><strong>Como desacelerar a vida e viver sem estresse?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank">**Como desacelerar a vida e viver sem estresse?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank"><strong>Vida simples: menos é mais e a gente vive melhor…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">**Vida simples: menos é mais e a gente vive melhor…**</a>
 </p>
 
 <p align="justify">
-  <strong>4 – Acalmar e relaxar… sozinha.</strong>
+  **4 – Acalmar e relaxar… sozinha.**
 </p>
 
 <p align="justify">
@@ -95,11 +95,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/12/relaxar-tensoes-bem-estar/" target="_blank"><strong>Como relaxar suas tensões? 4 profissionais dão dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/12/relaxar-tensoes-bem-estar/" target="_blank">**Como relaxar suas tensões? 4 profissionais dão dicas.**</a>
 </p>
 
 <p align="center">

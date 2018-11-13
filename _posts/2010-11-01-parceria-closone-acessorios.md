@@ -1,7 +1,7 @@
 ---
-id: 2903
+
 title: Parceria Closonê Acessórios no Aniversário do Bicha Fêmea!
-date: 2010-11-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/01/parceria-closone-acessorios/
@@ -14,7 +14,7 @@ Mais uma vez a <a href="http://closone.blogspot.com/" target="_blank">Closonê A
 <!--more-->
 
 <p style="text-align: justify;">
-  A <strong><em>Closonê Acessórios</em></strong> preparou uma peça exclusiva para o sorteio de aniversário do Bicha Fêmea, assim como todas as que estão disponíveis em sua loja virtual: acessórios feitos de forma artesanal, tanto as bijouterias quanto as peças de tecido. Está curiosa para ver o presente que pode ser seu, não está? Veja só:
+  A **<em>Closonê Acessórios</em>** preparou uma peça exclusiva para o sorteio de aniversário do Bicha Fêmea, assim como todas as que estão disponíveis em sua loja virtual: acessórios feitos de forma artesanal, tanto as bijouterias quanto as peças de tecido. Está curiosa para ver o presente que pode ser seu, não está? Veja só:
 </p>
 
 <p style="text-align: center;">
@@ -38,19 +38,19 @@ Mais uma vez a <a href="http://closone.blogspot.com/" target="_blank">Closonê A
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Quer aumentar as chances de ganhar?</span></em></strong>
+  **<em><span style="font-size: medium;">Quer aumentar as chances de ganhar?</span></em>**
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a <strong><em>Closonê Acessórios </em></strong>num post em seu blog, me avise com seu link, e ganhe +2 inscrições;
+  *Fale do sorteio em parceria com a **<em>Closonê Acessórios </em>**num post em seu blog, me avise com seu link, e ganhe +2 inscrições;
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a <strong><em>Closonê Acessórios </em></strong>no Twitter, me avise com seu link, e ganhe +2 inscrições;
+  *Fale do sorteio em parceria com a **<em>Closonê Acessórios </em>**no Twitter, me avise com seu link, e ganhe +2 inscrições;
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a <strong><em>Closonê Acessórios </em></strong>num post no blog + Twitter, me avise com os links, e ganhe, ao todo, 5 inscrições.
+  *Fale do sorteio em parceria com a **<em>Closonê Acessórios </em>**num post no blog + Twitter, me avise com os links, e ganhe, ao todo, 5 inscrições.
 </p>
 
 <p style="text-align: justify;">
@@ -62,13 +62,13 @@ Mais uma vez a <a href="http://closone.blogspot.com/" target="_blank">Closonê A
 </p>
 
 <p style="text-align: center;">
-  *Você ainda não entendeu o que estamos comemorando? Quer ganhar muito mais prêmios nesta comemoração? Entenda tudo e saiba como <strong><em><a href="http://www.trololodemulher.com.br/2010/11/01/2-aniversario-bicha-femea/" target="_self">clicando aqui</a></em></strong>.
+  *Você ainda não entendeu o que estamos comemorando? Quer ganhar muito mais prêmios nesta comemoração? Entenda tudo e saiba como **<em><a href="http://www.trololodemulher.com.br/2010/11/01/2-aniversario-bicha-femea/" target="_self">clicando aqui</a></em>**.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

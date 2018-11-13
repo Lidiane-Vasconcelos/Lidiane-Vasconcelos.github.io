@@ -1,7 +1,7 @@
 ---
-id: 3759
+
 title: Você vive a solidão a dois? Saiba como sair dela.
-date: 2017-05-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/05/solidao-a-dois/
@@ -11,11 +11,11 @@ categories:
   - Relacionamento
 ---
 <p align="justify">
-  <strong>Solidão a dois</strong> é, sim, um assunto bastante delicado no universo do casamento, porque envolve o encontro de quem a experimenta com suas sombras, dúvidas e angústias. Este post é daqueles que publico e tornam-se dos mais preferidos, porque se por um lado foi sugerido por uma leitora, o que dá ao blog o caráter colaborativo que eu desejo que ele tenha, por outro seu conteúdo pode ser um divisor de águas na vida de alguém. Desde já deixo meu obrigada a leitora Patrícia, de Recife, que colaborou com a sugestão do tema, e reitero o espaço livre que há no <strong>Trololó de Mulher</strong> para sua ideia de pauta também. Esse espaço é nosso!
+  **Solidão a dois** é, sim, um assunto bastante delicado no universo do casamento, porque envolve o encontro de quem a experimenta com suas sombras, dúvidas e angústias. Este post é daqueles que publico e tornam-se dos mais preferidos, porque se por um lado foi sugerido por uma leitora, o que dá ao blog o caráter colaborativo que eu desejo que ele tenha, por outro seu conteúdo pode ser um divisor de águas na vida de alguém. Desde já deixo meu obrigada a leitora Patrícia, de Recife, que colaborou com a sugestão do tema, e reitero o espaço livre que há no **Trololó de Mulher** para sua ideia de pauta também. Esse espaço é nosso!
 </p>
 
 <p align="justify">
-  A seguir, confira o que nossa consultora e parceira, a <strong>Psicóloga Elaine Sibinelli, de Campinas – SP</strong>, nos orienta sobre como identificar se estamos experienciando essa situação no casamento, e os caminhos para reverter o que não anda bem. Se joga!
+  A seguir, confira o que nossa consultora e parceira, a **Psicóloga Elaine Sibinelli, de Campinas – SP**, nos orienta sobre como identificar se estamos experienciando essa situação no casamento, e os caminhos para reverter o que não anda bem. Se joga!
 </p>
 
 &nbsp;
@@ -67,23 +67,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias de Elaine:</strong>
+  **Mais consultorias de Elaine:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank"><strong>Como encontrar a pessoa certa para um relacionamento?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/16/relacionamento-2/" target="_blank">**Como encontrar a pessoa certa para um relacionamento?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank"><strong>Como lidar com a intolerância, nossa e dos outros?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/12/intolerancia/" target="_blank">**Como lidar com a intolerância, nossa e dos outros?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank"><strong>Entenda por que é difícil o relacionamento com as pessoas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/13/relacionamento-com-as-pessoas/" target="_blank">**Entenda por que é difícil o relacionamento com as pessoas.**</a>
 </p>
 
 <p align="justify">
-  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem <strong>página do Facebook</strong>, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>! Além do mais, você também pode seguir o perfil da Psicóloga no Instagram. <a href="https://www.instagram.com/psicologiaxreiki/" target="_blank">Clique aqui, siga</a> e fique por dentro de suas ricas atualizações.
+  Elaine atende na Av. Nossa Senhora da Consolação, 768, Jardim Aurélia – Campinas SP. Fones: (19) 3385-8241 ou (19) 99785-5505. Para mais informações junto à Psicóloga você ainda pode entrar em contato pelo e-mail <a href="mailto:sibinelllipsico@gmail.com">sibinelllipsico@gmail.com</a>. Ela também tem **página do Facebook**, onde há atualização de conteúdo sobre comportamento que, certamente, pode ajudar a todas nós. <a href="https://www.facebook.com/ElaineSibinelliPsicologaClinica/timeline" target="_blank">Clique aqui e curta</a>! Além do mais, você também pode seguir o perfil da Psicóloga no Instagram. <a href="https://www.instagram.com/psicologiaxreiki/" target="_blank">Clique aqui, siga</a> e fique por dentro de suas ricas atualizações.
 </p>
 
 <p align="center">

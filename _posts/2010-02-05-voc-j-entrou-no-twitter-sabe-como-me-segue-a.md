@@ -1,7 +1,7 @@
 ---
-id: 2781
+
 title: Você já entrou no Twitter? Sabe como é? Me segue aí…
-date: 2010-02-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/05/voc-j-entrou-no-twitter-sabe-como-me-segue-a/

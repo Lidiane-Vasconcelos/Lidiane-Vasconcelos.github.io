@@ -1,7 +1,7 @@
 ---
-id: 3674
+
 title: '2º post da série para organização da casa: cozinha.'
-date: 2016-09-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/27/organizacao-da-casa-3/
@@ -10,27 +10,27 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a **organização da casa**, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
-  O <strong>Trololó de Mulher</strong> teve o privilégio de receber dicas preciosas de <strong><em>Personal Organizers</em></strong> queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o <strong>post Nº2</strong>, será sobre <strong>a cozinha</strong>, e a <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a <strong>Luana Vieira, Personal Organizer de São Paulo-SP e região</strong>. Confira!
+  O **Trololó de Mulher** teve o privilégio de receber dicas preciosas de **<em>Personal Organizers</em>** queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o **post Nº2**, será sobre **a cozinha**, e a <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a **Luana Vieira, Personal Organizer de São Paulo-SP e região**. Confira!
 </p>
 
 <p align="justify">
-  Não deixe de conferir <strong>o primeiro post da série</strong>: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">clique aqui e veja como deixar seu home office em ordem</a>!
+  Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">clique aqui e veja como deixar seu home office em ordem</a>!
 </p>
 
 <p align="justify">
-  O <strong>3º post da série</strong> saiu! <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">Clique aqui, confira e deixe sua penteadeira organizada e linda de viver</a>.
+  O **3º post da série** saiu! <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">Clique aqui, confira e deixe sua penteadeira organizada e linda de viver</a>.
 </p>
 
 <p align="justify">
-  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
+  O **quarto** está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
 </p>
 
 <p align="justify">
-  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
+  O **quinto post** está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Cozinha, o coração da casa!</strong>
+  **Cozinha, o coração da casa!**
 </p>
 
 <div class="post">
@@ -108,7 +108,7 @@ categories:
 </p>
 
 <p align="justify">
-  Luana Vieira atualiza constantemente sua fanpage no Facebook com conteúdo relevante e essencial para que você mantenha sua vida organizada. Não deixe de conferir! <a href="https://www.facebook.com/nolugarpersonalorganizer" target="_blank">Clique aqui, curta e acompanhe</a>. Para mais informações sobre o trabalho de Luana, você pode entrar em contato através do <a href="http://www.nolugar.com.br/" target="_blank">seu site, o No Lugar. Clique aqui e confira</a>! A <em>expert </em>também atualiza seu blog com conteúdo relevante e imperdível, <a href="http://www.nolugar.com.br/blog" target="_blank">clique aqui e confira</a>. No <strong>Instagram</strong> você também fica por dentro de todas as suas dicas. <a href="https://www.instagram.com/no_lugar/" target="_blank">Clique aqui e siga</a>!
+  Luana Vieira atualiza constantemente sua fanpage no Facebook com conteúdo relevante e essencial para que você mantenha sua vida organizada. Não deixe de conferir! <a href="https://www.facebook.com/nolugarpersonalorganizer" target="_blank">Clique aqui, curta e acompanhe</a>. Para mais informações sobre o trabalho de Luana, você pode entrar em contato através do <a href="http://www.nolugar.com.br/" target="_blank">seu site, o No Lugar. Clique aqui e confira</a>! A <em>expert </em>também atualiza seu blog com conteúdo relevante e imperdível, <a href="http://www.nolugar.com.br/blog" target="_blank">clique aqui e confira</a>. No **Instagram** você também fica por dentro de todas as suas dicas. <a href="https://www.instagram.com/no_lugar/" target="_blank">Clique aqui e siga</a>!
 </p>
 
 <p align="center">

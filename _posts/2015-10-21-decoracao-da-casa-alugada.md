@@ -1,7 +1,7 @@
 ---
-id: 3500
+
 title: 'Decoração da casa alugada: ideias temporárias'
-date: 2015-10-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/21/decoracao-da-casa-alugada/
@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  O desafio de quem está temporariamente num imóvel é fazer dele um lar pra chamar de seu. Se a estada nesse cantinho vai demorar bastante ou será bem rápida, não importa. Quando a gente volta pra casa quer se sentir acolhido, e isso inclui olhar para o ninho e sentir que ele é seu, porque te representa, porque tem nele sua identidade. Pois então: como colocar mais de você na <strong>decoração da casa alugada</strong>? Este post foi pensado com carinho para te dar algumas dicas nesse sentido. Veja logo abaixo que tem jeito, sim. Ainda que temporária, a casa é sua, e é bom que tenha a sua essência nela. Vamos ás ideias? Inspire-se!
+  O desafio de quem está temporariamente num imóvel é fazer dele um lar pra chamar de seu. Se a estada nesse cantinho vai demorar bastante ou será bem rápida, não importa. Quando a gente volta pra casa quer se sentir acolhido, e isso inclui olhar para o ninho e sentir que ele é seu, porque te representa, porque tem nele sua identidade. Pois então: como colocar mais de você na **decoração da casa alugada**? Este post foi pensado com carinho para te dar algumas dicas nesse sentido. Veja logo abaixo que tem jeito, sim. Ainda que temporária, a casa é sua, e é bom que tenha a sua essência nela. Vamos ás ideias? Inspire-se!
 </p>
 
 <p align="justify">
-  <strong>Adesivos de parede</strong>
+  **Adesivos de parede**
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Belas cortinas</strong>
+  **Belas cortinas**
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Tapete</strong>
+  **Tapete**
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Adesivos na cozinha</strong>
+  **Adesivos na cozinha**
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Invista nos objetos</strong>
+  **Invista nos objetos**
 </p>
 
 <p align="center">
@@ -94,19 +94,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/primavera-na-decoracao/" target="_blank"><strong>Primavera na decoração: 10 truques simples.</strong></a>
+  <a href="http://www.decoracaodacasa.com/primavera-na-decoracao/" target="_blank">**Primavera na decoração: 10 truques simples.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank"><strong>Download grátis: decora a cozinha com quadro de frutas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank">**Download grátis: decora a cozinha com quadro de frutas.**</a>
 </p>
 
 <p align="justify">
-  <strong>Pinceladas de cor</strong>
+  **Pinceladas de cor**
 </p>
 
 <p align="center">

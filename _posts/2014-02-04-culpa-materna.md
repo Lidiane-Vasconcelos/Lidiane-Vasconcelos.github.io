@@ -1,7 +1,7 @@
 ---
-id: 3278
+
 title: Culpa materna na consciência da outra é refresco. Liberte-se!
-date: 2014-02-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/04/culpa-materna/
@@ -33,7 +33,7 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
 </p>
 
 <p style="text-align: center;">
-  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
@@ -49,25 +49,25 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
 &nbsp;
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Mais sobre maternidade:</span></strong>
+  **<span style="font-size: medium;">Mais sobre maternidade:</span>**
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/10/14/crianca-alimentacao/"><strong><span style="font-size: medium;">Lugar de criança é na cozinha?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/10/14/crianca-alimentacao/">**<span style="font-size: medium;">Lugar de criança é na cozinha?</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/"><strong><span style="font-size: medium;">Você amamentou? Tenho uma pergunta sobre rachaduras.</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/">**<span style="font-size: medium;">Você amamentou? Tenho uma pergunta sobre rachaduras.</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/"><strong><span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/">**<span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span>**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

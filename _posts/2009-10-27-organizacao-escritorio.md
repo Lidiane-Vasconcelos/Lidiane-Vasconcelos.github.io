@@ -1,7 +1,7 @@
 ---
-id: 2714
+
 title: 'Organização de Escritório ou Home Office: dicas.'
-date: 2009-10-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/27/organizacao-escritorio/
@@ -79,15 +79,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>As leitoras falam&#8230;</strong>
+  **As leitoras falam&#8230;**
 </p>
 
 <p style="text-align: justify;">
-  <strong>O legal desse espaço aqui é ler as ideias que vão surgindo, sendo costuradas e dando novas cores ao post. Isso é <em>Ó-TE-MO</em> e eu gosto muito, muito muito&#8230;</strong>
+  **O legal desse espaço aqui é ler as ideias que vão surgindo, sendo costuradas e dando novas cores ao post. Isso é <em>Ó-TE-MO</em> e eu gosto muito, muito muito&#8230;**
 </p>
 
 <p style="text-align: justify;">
-  <strong>A Fla, mulher boa de forno e fogão e que edita o </strong><a href="http://artenacozinha.blogspot.com/" target="_blank"><strong>ARTE NA COZINHA</strong></a><strong>, mencionou o seguinte:</strong>
+  **A Fla, mulher boa de forno e fogão e que edita o **<a href="http://artenacozinha.blogspot.com/" target="_blank">**ARTE NA COZINHA**</a>**, mencionou o seguinte:**
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Pois é, Fla, essa ideia que você deu é muito massa, e talvez tenha tudo a ver com um bastidor de bordado que foi mostrado </strong><a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-com-novos-usos/" target="_blank"><strong>neste post onde falamos de reaproveitamento e reutilização de materiais</strong></a><strong>.</strong>
+  **Pois é, Fla, essa ideia que você deu é muito massa, e talvez tenha tudo a ver com um bastidor de bordado que foi mostrado **<a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-com-novos-usos/" target="_blank">**neste post onde falamos de reaproveitamento e reutilização de materiais**</a>**.**
 </p>
 
 <p align="center">

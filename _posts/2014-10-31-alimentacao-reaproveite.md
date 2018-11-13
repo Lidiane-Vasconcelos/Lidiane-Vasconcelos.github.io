@@ -1,7 +1,7 @@
 ---
-id: 3362
+
 title: 'Alimentação: coma melhor, reaproveite e economize!'
-date: 2014-10-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/31/alimentacao-reaproveite/
@@ -30,31 +30,31 @@ categories:
 </p>
 
 <p align="justify">
-  Sabe a <strong>Juliana Stelli</strong>? Você já deve conhecer, aposto! Ela é a bonitona que comanda o blog <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>, um espaço virtual <em>superultramega</em> querido recheado de receitas do tipo “gente da gente”, o que me fez viver de amores e frequentá-lo, regularmente, há muito tempo. Essa moça tem uma série de dicas sobre mudanças de hábitos na alimentação que valem a pena a nossa atenção. A boa notícia é que ela compartilhou conosco… espia só, repense como e o que você anda comendo, e mude!
+  Sabe a **Juliana Stelli**? Você já deve conhecer, aposto! Ela é a bonitona que comanda o blog <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>, um espaço virtual <em>superultramega</em> querido recheado de receitas do tipo “gente da gente”, o que me fez viver de amores e frequentá-lo, regularmente, há muito tempo. Essa moça tem uma série de dicas sobre mudanças de hábitos na alimentação que valem a pena a nossa atenção. A boa notícia é que ela compartilhou conosco… espia só, repense como e o que você anda comendo, e mude!
 </p>
 
 <p align="justify">
-  <em><strong>“Mudança nos hábitos alimentares começa primeiro na cabeça. Hoje em dia o termo &#8220;saudável&#8221; pode ter milhões de significados e temos tanta informação que é fácil ficar confuso. Mas há cinco dicas que facilitam para quem quer começar esta mudança:</strong></em>
+  <em>**“Mudança nos hábitos alimentares começa primeiro na cabeça. Hoje em dia o termo &#8220;saudável&#8221; pode ter milhões de significados e temos tanta informação que é fácil ficar confuso. Mas há cinco dicas que facilitam para quem quer começar esta mudança:**</em>
 </p>
 
 <p align="justify">
-  <em><strong>1. <span style="color: #ff0000;">Coma comida</span>. Tente diminuir ao máximo o consumo de industrializados que não agregam valor nutricional e dê preferência para alimentos minimamente processados. Fruta é o fast food da natureza 😉</strong></em>
+  <em>**1. <span style="color: #ff0000;">Coma comida</span>. Tente diminuir ao máximo o consumo de industrializados que não agregam valor nutricional e dê preferência para alimentos minimamente processados. Fruta é o fast food da natureza 😉**</em>
 </p>
 
 <p align="justify">
-  <em><strong>2. <span style="color: #ff0000;">Simplifique</span>. Deixe as invenções culinárias para o fim de semana e ocasiões especiais. Nos demais dias mantenha um cardápio leve e básico.</strong></em>
+  <em>**2. <span style="color: #ff0000;">Simplifique</span>. Deixe as invenções culinárias para o fim de semana e ocasiões especiais. Nos demais dias mantenha um cardápio leve e básico.**</em>
 </p>
 
 <p align="justify">
-  <em><strong>3. <span style="color: #ff0000;">Não compre o super-alimento da moda</span>. Na maioria das vezes é mais marketing que outra coisa. Valorize seu dinheirinho e compre o que a sua região tem de melhor para oferecer. Sempre tem.</strong></em>
+  <em>**3. <span style="color: #ff0000;">Não compre o super-alimento da moda</span>. Na maioria das vezes é mais marketing que outra coisa. Valorize seu dinheirinho e compre o que a sua região tem de melhor para oferecer. Sempre tem.**</em>
 </p>
 
 <p align="justify">
-  <em><strong>4. <span style="color: #ff0000;">Não fique paranóica</span>. Quando buscamos mudanças na área alimentar geralmente ficamos obcecadas com o assunto. Vá com calma e respeite quem pensa diferente de você. </strong></em>
+  <em>**4. <span style="color: #ff0000;">Não fique paranóica</span>. Quando buscamos mudanças na área alimentar geralmente ficamos obcecadas com o assunto. Vá com calma e respeite quem pensa diferente de você. **</em>
 </p>
 
 <p align="justify">
-  <em><strong>5. <span style="color: #ff0000;">Aproveite!</span> Comer é muito bom e comer comida que nos dá o que precisamos para viver bem é melhor ainda :)” Juliana Stelli | <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong></em>
+  <em>**5. <span style="color: #ff0000;">Aproveite!</span> Comer é muito bom e comer comida que nos dá o que precisamos para viver bem é melhor ainda :)” Juliana Stelli | <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**</em>
 </p>
 
 <p align="center">
@@ -70,15 +70,15 @@ categories:
 </p>
 
 <p align="justify">
-  Quem faz isso também é a <strong>Carol Vieira</strong>, que você já sabe, é nossa super parceira por aqui. É ela a dona das receitas saudáveis e gostosas publicadas no <strong>Trololó de Mulher</strong>. Repara em como ela se planeja:
+  Quem faz isso também é a **Carol Vieira**, que você já sabe, é nossa super parceira por aqui. É ela a dona das receitas saudáveis e gostosas publicadas no **Trololó de Mulher**. Repara em como ela se planeja:
 </p>
 
 > <p align="justify">
->   <strong>Para reduzir o desperdício de comida sugiro fazer o cardápio semanal, pelo menos é o que eu faço em casa. Eu faço uma planilha de segunda a sexta e vou preenchendo. Geralmente faço no final de semana, porque vou ao varejão e já compro tudo. Com a planilha a gente só compra o que será feito e além disso é uma forma clara para ver o que anda preparando para a família. Assim fica muito fácil de equilibrar/variar a alimentação. Minha planilha é grande e quando não tenho tempo acabo repetindo um cardápio de algumas semanas atrás.”</strong>
+>   **Para reduzir o desperdício de comida sugiro fazer o cardápio semanal, pelo menos é o que eu faço em casa. Eu faço uma planilha de segunda a sexta e vou preenchendo. Geralmente faço no final de semana, porque vou ao varejão e já compro tudo. Com a planilha a gente só compra o que será feito e além disso é uma forma clara para ver o que anda preparando para a família. Assim fica muito fácil de equilibrar/variar a alimentação. Minha planilha é grande e quando não tenho tempo acabo repetindo um cardápio de algumas semanas atrás.”**
 > </p>
 
 <p align="justify">
-  Outra forma de evitar o desperdício, eu acrescento, é<strong> ficar atenta a datas de validade dos produtos</strong>. Além do mais, é sempre bom saber como variar o cardápio com as sobras dos alimentos. Quem nos ensina como fazer isso é a <strong>Carol</strong>, que além de dividir o que sabe aqui conosco, também edita um blog recheado com muito mais de suas receitas, dicas de viagens e bem viver…o <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">Mundo da Carol</a>.
+  Outra forma de evitar o desperdício, eu acrescento, é** ficar atenta a datas de validade dos produtos**. Além do mais, é sempre bom saber como variar o cardápio com as sobras dos alimentos. Quem nos ensina como fazer isso é a **Carol**, que além de dividir o que sabe aqui conosco, também edita um blog recheado com muito mais de suas receitas, dicas de viagens e bem viver…o <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">Mundo da Carol</a>.
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1ª &#8211; O arroz que sobrou pode virar um bolinho assado, saboroso e sem culpa!</strong>
+  **1ª &#8211; O arroz que sobrou pode virar um bolinho assado, saboroso e sem culpa!**
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 2 xícaras (chá) de arroz integral pronto (pode ser arroz branco também)
@@ -118,13 +118,13 @@ Sal a gosto
 &nbsp;
 
 <p align="justify">
-  <strong>Modo de Preparo:</strong>
+  **Modo de Preparo:**
 </p>
 
 Misturar bem todos os ingredientes até formar uma massa. Tente modelar o bolinho (ele fica molhadinho), se conseguir não precisa colocar mais farinha, agora se ficar desmanchando com facilidade daí acrescente mais uma colher (sopa) de farinha. Modele os bolinhos e leve para uma forma untada com óleo. Asse em 180 graus até que os bolinhos fiquem douradinhos.
 
 <p align="justify">
-  <strong>2ª &#8211; E o feijão, também sobrou? Vamos transformá-lo em bolinho assado com queijo?</strong>
+  **2ª &#8211; E o feijão, também sobrou? Vamos transformá-lo em bolinho assado com queijo?**
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Misturar bem todos os ingredientes até formar uma massa. Tente modelar o bolinh
 </p>
 
 <p align="justify">
-  <strong>Ingredientes</strong>
+  **Ingredientes**
 </p>
 
 <p align="justify">
@@ -152,13 +152,13 @@ Queijo mussarela light cortado em quadradinhos (coloquei um quadradinho generoso
 &nbsp;
 
 <p align="justify">
-  <strong>Modo de preparo</strong>
+  **Modo de preparo**
 </p>
 
 Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei a farinha de mandioca até ficar uma massa homogênea. Acrescentei a pimenta dedo de moça bem picadinha e salsinha. Modelei as bolinhas, coloquei o quadradinho de queijo dentro e passei na farinha de mandioca. Levei ao forno em 200° até que a farinha fique douradinha e o queijo derretido.
 
 <p align="justify">
-  <strong>3ª &#8211; Na gaveta da geladeira tem abobrinha italiana e cenoura? Você não aguenta mais comer legumes refogados? Então vamos fazer espaguete deles??</strong>
+  **3ª &#8211; Na gaveta da geladeira tem abobrinha italiana e cenoura? Você não aguenta mais comer legumes refogados? Então vamos fazer espaguete deles??**
 </p>
 
 <p align="center">
@@ -170,11 +170,11 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="justify">
-  <strong>4ª &#8211; Comprou muito alho e agora está com medo de estragar? Descasque e coloque em um vidro esterilizado e preencha com azeite. Você vai conservá-lo, além de ter um azeite muito saboroso.</strong>
+  **4ª &#8211; Comprou muito alho e agora está com medo de estragar? Descasque e coloque em um vidro esterilizado e preencha com azeite. Você vai conservá-lo, além de ter um azeite muito saboroso.**
 </p>
 
 <p align="justify">
-  <strong>5ª &#8211; Tem morangos estragando na geladeira? Vamos fazer uma geleia com especiarias?</strong>
+  **5ª &#8211; Tem morangos estragando na geladeira? Vamos fazer uma geleia com especiarias?**
 </p>
 
 <p align="center">
@@ -186,19 +186,19 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="justify">
-  <strong>Para ver mais receitas da Carol:</strong>
+  **Para ver mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">**Hamburguer de grão de bico facinho, facinho…**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage ) no molho caseiro.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage ) no molho caseiro.**</a>
 </p>
 
 <p align="justify">

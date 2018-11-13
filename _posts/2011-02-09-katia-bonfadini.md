@@ -1,7 +1,7 @@
 ---
-id: 2946
+
 title: 'Prateleira do Bicha Fêmea: Katia Bonfadini'
-date: 2011-02-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/09/katia-bonfadini/
@@ -12,17 +12,17 @@ categories:
 Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com coisas bonitas, diferentes e recheadas de talentos, mas em sua maioria ligada a artesanato, não é verdade? Sim, poucas foram as vezes que os produtos divulgados nesse espaço não tivessem um pé dentro do universo artesanal.
 
 <p style="text-align: justify;">
-  Prepare-se! Hoje a <strong>Prateleira do Bicha Fêmea</strong> apresenta algo bem diferente, é a arte da <strong>Katia Bonfadini</strong>, que é <em>designer</em> e ilustradora, cujo talento é inquestionável quando se aprecia o que essa bonita é capaz de fazer. Confira!
+  Prepare-se! Hoje a **Prateleira do Bicha Fêmea** apresenta algo bem diferente, é a arte da **Katia Bonfadini**, que é <em>designer</em> e ilustradora, cujo talento é inquestionável quando se aprecia o que essa bonita é capaz de fazer. Confira!
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  <strong>Katia Bonfadini</strong> é formada em Desenho Industrial com Habilitação em Programação Visual desde 2000, e atualmente atua como <em>free-lancer</em> desenvolvendo projetos os mais diversos possíveis, criando imagens gostosas de se ver e exclusivas, que podem ser apreciadas das mais diversas formas: em logomarcas, nos cartões de visitas, impressas em convites, ilustrando <em>folders</em>, e até enfeitando blogs.
+  **Katia Bonfadini** é formada em Desenho Industrial com Habilitação em Programação Visual desde 2000, e atualmente atua como <em>free-lancer</em> desenvolvendo projetos os mais diversos possíveis, criando imagens gostosas de se ver e exclusivas, que podem ser apreciadas das mais diversas formas: em logomarcas, nos cartões de visitas, impressas em convites, ilustrando <em>folders</em>, e até enfeitando blogs.
 </p>
 
 <p style="text-align: justify;">
-  Ou seja, você que está lendo esse post agora pode se dar ao luxo de ter sua empresa, seu casamento, sua comemoração ou seu blog com um visual ‘<em>pra</em> lá de especial, se as mãos e mente inventivas de <strong>Katia Bonfadini</strong>, a moça bonita que também edita o <a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>, tocarem o seu projeto.
+  Ou seja, você que está lendo esse post agora pode se dar ao luxo de ter sua empresa, seu casamento, sua comemoração ou seu blog com um visual ‘<em>pra</em> lá de especial, se as mãos e mente inventivas de **Katia Bonfadini**, a moça bonita que também edita o <a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>, tocarem o seu projeto.
 </p>
 
 <p style="text-align: justify;">
@@ -98,7 +98,7 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
     </td>
     
     <td style="text-align: justify;" width="541" valign="top">
-      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em></strong>
+      Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em>**
     </td>
   </tr>
   
@@ -108,7 +108,7 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em></strong>
+      Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em>**
     </td>
   </tr>
   
@@ -118,17 +118,17 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em></strong>
+      Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em>**
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  <strong><em> </em></strong>
+  **<em> </em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>
 
 <p style="text-align: center;">

@@ -1,7 +1,7 @@
 ---
-id: 3621
+
 title: 4 dicas de decoração de quarto de menina que fazem diferença.
-date: 2016-06-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/03/quarto-de-menina/
@@ -11,7 +11,7 @@ categories:
   - Quarto Infantil
 ---
 <p align="justify">
-  Cheias de imaginação, o quarto delas merecem toques que revelam detalhes únicos na <strong>decoração de quarto de menina</strong>. Cores, formas ou pontos caprichosos no ambiente podem fomentar a criatividade das pequenas e levá-las para um mundo encantado, onde elas serão o que quiserem. Neste post você verá 4 ideias bem fáceis de serem aplicadas no quarto de sua princesa, e certamente vão arrancar dela um sorrisinho de alegria por ter um cantinho com <em>charmosices</em> tão lindinhas. Quer ver só? Se joga!
+  Cheias de imaginação, o quarto delas merecem toques que revelam detalhes únicos na **decoração de quarto de menina**. Cores, formas ou pontos caprichosos no ambiente podem fomentar a criatividade das pequenas e levá-las para um mundo encantado, onde elas serão o que quiserem. Neste post você verá 4 ideias bem fáceis de serem aplicadas no quarto de sua princesa, e certamente vão arrancar dela um sorrisinho de alegria por ter um cantinho com <em>charmosices</em> tão lindinhas. Quer ver só? Se joga!
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quartos-de-menina/" target="_blank"><strong>Decoração infantil: quartos de menina muito fofos!</strong></a>
+  <a href="http://www.decoracaodacasa.com/quartos-de-menina/" target="_blank">**Decoração infantil: quartos de menina muito fofos!**</a>
 </p>
 
 <p align="center">
@@ -67,11 +67,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina/" target="_blank"><strong>Decoração de quarto de menina.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina/" target="_blank">**Decoração de quarto de menina.**</a>
 </p>
 
 <p align="center">
@@ -87,15 +87,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank"><strong>Enfeite de tecido para a decoração do quarto ou festa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank">**Enfeite de tecido para a decoração do quarto ou festa.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank"><strong>Cortina de bolinhas em quarto infantil: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank">**Cortina de bolinhas em quarto infantil: faça você mesma.**</a>
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3407
+
 title: 'Desfralde: mais simples do que você imagina!'
-date: 2015-03-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/13/desfralde-maternidade-bebe/
@@ -15,15 +15,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank"><strong>Dilema de mãe: a hora do desfralde… como fazer?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank">**Dilema de mãe: a hora do desfralde… como fazer?**</a>
 </p>
 
 <p align="justify">
-  Como conduzir esse processo? Essa é a pergunta que toda mãe se faz quando decide que é hora de começar. A verdade é que nem há um momento padrão para o início, e nem mesmo uma <em>receita de bolo</em> para a execução. Vamos combinar isso logo de início? No mais, bonita, informação salva! Essa é a razão do post: abastecê-la de informações e dicas valiosas sobre como agir nesta etapa do desenvolvimento infantil. Quem nos ajuda por aqui é a <strong>Paolla Alberton, Médica Pediatra de Campinas</strong>, e nossa consultora querida por aqui. Vem comigo… vem!
+  Como conduzir esse processo? Essa é a pergunta que toda mãe se faz quando decide que é hora de começar. A verdade é que nem há um momento padrão para o início, e nem mesmo uma <em>receita de bolo</em> para a execução. Vamos combinar isso logo de início? No mais, bonita, informação salva! Essa é a razão do post: abastecê-la de informações e dicas valiosas sobre como agir nesta etapa do desenvolvimento infantil. Quem nos ajuda por aqui é a **Paolla Alberton, Médica Pediatra de Campinas**, e nossa consultora querida por aqui. Vem comigo… vem!
 </p>
 
 <p align="center">
@@ -43,39 +43,39 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>1) A criança deve saber andar sozinha, sem apoio.</strong>
+>   **1) A criança deve saber andar sozinha, sem apoio.**
 > </p>
 
 > <p align="justify">
->   <strong>2) A criança deve ser capaz de mostrar o que quer. Não precisa dizer claramente &#8220;mamãe, eu quero fazer xixi/cocô&#8221;. Pode ser colocando a mão nas partes íntimas, pode ser falando só &#8220;XIXI&#8221; (muitas vezes elas falam &#8220;xixi&#8221; pras duas coisas), pode ser simplesmente se dirigindo ao banheiro&#8230; claro que daí desencadeia a famosa corrida da mãe pra chegar ao banheiro antes de ter que ir buscar o rodo com o pano.</strong>
+>   **2) A criança deve ser capaz de mostrar o que quer. Não precisa dizer claramente &#8220;mamãe, eu quero fazer xixi/cocô&#8221;. Pode ser colocando a mão nas partes íntimas, pode ser falando só &#8220;XIXI&#8221; (muitas vezes elas falam &#8220;xixi&#8221; pras duas coisas), pode ser simplesmente se dirigindo ao banheiro&#8230; claro que daí desencadeia a famosa corrida da mãe pra chegar ao banheiro antes de ter que ir buscar o rodo com o pano.**
 > </p>
 
 > <p align="justify">
->   <strong>3) A criança já deve ser capaz de avisar que FEZ xixi ou cocô. Esse é um dos primeiros sinais de que ela está chegando na fase do desfralde.</strong>
+>   **3) A criança já deve ser capaz de avisar que FEZ xixi ou cocô. Esse é um dos primeiros sinais de que ela está chegando na fase do desfralde.**
 > </p>
 
 > <p align="justify">
->   <strong>4) A criança se sente desconfortável com a fralda e pode chegar a tentar tirar sozinha.</strong>
+>   **4) A criança se sente desconfortável com a fralda e pode chegar a tentar tirar sozinha.**
 > </p>
 
 > <p align="justify">
->   <strong>5) Ou ela pode virar como fez a minha mais velha: tirar a fralda no meio da sala, falar &#8220;não teio mais ixo&#8221; e sair correndo pra buscar uma calcinha&#8230;</strong>
-> </p>
-
-<p align="justify">
-  <strong>Trololó de Mulher >>> O que atrapalha, ou facilita, o processo de desfralde?</strong>
-</p>
-
-> <p align="justify">
->   <strong>O que atrapalha mais é a ansiedade dos pais e a pressão familiar. Tem criança que não está pronta e, se for tentado o desfralde, pode ficar traumatizada, levando até a problemas de retenção da urina e das fezes. O que facilita é respeitar o tempo da criança, principalmente sem dar bronca, sem brigar porque escapou no chão.</strong>
+>   **5) Ou ela pode virar como fez a minha mais velha: tirar a fralda no meio da sala, falar &#8220;não teio mais ixo&#8221; e sair correndo pra buscar uma calcinha&#8230;**
 > </p>
 
 <p align="justify">
-  <strong>TM >>> Existe uma época do ano melhor para o início dos trabalhos?</strong>
+  **Trololó de Mulher >>> O que atrapalha, ou facilita, o processo de desfralde?**
 </p>
 
 > <p align="justify">
->   <strong>Popularmente se diz que é melhor no verão por causa do calor, mas nada impede que seja feito no inverno. Tudo depende da disposição da família.</strong>
+>   **O que atrapalha mais é a ansiedade dos pais e a pressão familiar. Tem criança que não está pronta e, se for tentado o desfralde, pode ficar traumatizada, levando até a problemas de retenção da urina e das fezes. O que facilita é respeitar o tempo da criança, principalmente sem dar bronca, sem brigar porque escapou no chão.**
+> </p>
+
+<p align="justify">
+  **TM >>> Existe uma época do ano melhor para o início dos trabalhos?**
+</p>
+
+> <p align="justify">
+>   **Popularmente se diz que é melhor no verão por causa do calor, mas nada impede que seja feito no inverno. Tudo depende da disposição da família.**
 > </p>
 
 <p align="center">
@@ -91,31 +91,31 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>A maioria das crianças estará desfraldada (do xixi) aos 36 meses, o cocô demora mais, pois algumas crianças têm medo do vaso sanitário (lembra do filme Olha Quem Está Falando Também, quando o Mikey pensa que a privada irá comer o bumbum dele? É mais ou menos por aí&#8230;). Mas se não ocorrer o desfralde diurno até os 4 anos, é interessante procurar um médico.</strong>
+>   **A maioria das crianças estará desfraldada (do xixi) aos 36 meses, o cocô demora mais, pois algumas crianças têm medo do vaso sanitário (lembra do filme Olha Quem Está Falando Também, quando o Mikey pensa que a privada irá comer o bumbum dele? É mais ou menos por aí&#8230;). Mas se não ocorrer o desfralde diurno até os 4 anos, é interessante procurar um médico.**
 > </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Há algum problema ou prejuízo no desenvolvimento da criança se o processo for interrompido, para ser retomado depois?</strong>
+  **Trololó de Mulher >>> Há algum problema ou prejuízo no desenvolvimento da criança se o processo for interrompido, para ser retomado depois?**
 </p>
 
 > <p align="justify">
->   <strong>Não, se for feito em consenso entre os pais. O que não pode é um continuar e o outro parar o processo.</strong>
+>   **Não, se for feito em consenso entre os pais. O que não pode é um continuar e o outro parar o processo.**
 > </p>
 
 <p align="justify">
-  <strong>TM >>> Há alguma recomendação específica para o desfralde de meninos e meninas?</strong>
+  **TM >>> Há alguma recomendação específica para o desfralde de meninos e meninas?**
 </p>
 
 > <p align="justify">
->   <strong>Não, ambos são desfraldados da mesma forma. Tem famílias que ensinam os meninos a fazer xixi no ralo, mas depois é complicado ensinar que é feio fazer isso fora de casa&#8230;</strong>
+>   **Não, ambos são desfraldados da mesma forma. Tem famílias que ensinam os meninos a fazer xixi no ralo, mas depois é complicado ensinar que é feio fazer isso fora de casa&#8230;**
 > </p>
 
 <p align="justify">
-  <strong>TM >>> Crianças não desfraldadas em casa têm mais sucesso com o desfralde na escola por causa das outras crianças?</strong>
+  **TM >>> Crianças não desfraldadas em casa têm mais sucesso com o desfralde na escola por causa das outras crianças?**
 </p>
 
 > <p align="justify">
->   <strong>Não, porque na hora que elas são desfraldadas na escola, elas têm que ser desfraldadas em casa. O que pode acontecer é que elas acham legal todo mundo ir ao banheiro e querer ir junto (fica um show na porta do banheiro), então facilita um pouco. Mas se não estiverem prontas, não desfraldam.</strong>
+>   **Não, porque na hora que elas são desfraldadas na escola, elas têm que ser desfraldadas em casa. O que pode acontecer é que elas acham legal todo mundo ir ao banheiro e querer ir junto (fica um show na porta do banheiro), então facilita um pouco. Mas se não estiverem prontas, não desfraldam.**
 > </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Paciência, muita paciência, roupas extras, calcinhas/cuecas bonitinhas, rodo, balde, pano e desinfetante. 😀</strong>
+>   **Paciência, muita paciência, roupas extras, calcinhas/cuecas bonitinhas, rodo, balde, pano e desinfetante. 😀**
 > </p>
 
 <p align="center">
@@ -131,19 +131,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Dra. Paolla:</strong>
+  **Mais consultorias da Dra. Paolla:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/" target="_blank"><strong>Chegou o frio… e as doenças infantis: e agora?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/" target="_blank">**Chegou o frio… e as doenças infantis: e agora?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank"><strong>Bebê sem assaduras: é possível sim, mamãe!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank">**Bebê sem assaduras: é possível sim, mamãe!**</a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a> e aproveita!
+  A **Dra. Paolla** também é blogueira, e escreve **textos informativos na linguagem de mãe**, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a> e aproveita!
 </p>
 
 <p align="center">

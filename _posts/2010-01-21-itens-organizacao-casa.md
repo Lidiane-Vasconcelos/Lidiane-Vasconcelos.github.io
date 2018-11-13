@@ -1,7 +1,7 @@
 ---
-id: 2770
+
 title: Dicas de itens para organização em casa by bichas fêmeas…
-date: 2010-01-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/21/itens-organizacao-casa/

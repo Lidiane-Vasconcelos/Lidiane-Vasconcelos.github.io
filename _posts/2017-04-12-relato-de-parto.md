@@ -1,7 +1,7 @@
 ---
-id: 3750
+
 title: 'Relato de parto: empoderamento e limites!'
-date: 2017-04-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/12/relato-de-parto/
@@ -11,7 +11,7 @@ categories:
   - Saúde Infantil
 ---
 <p align="justify">
-  O <strong>relato de parto </strong>de Dani (Daniela Santana) é daqueles que tiram o nosso fôlego porque é cheio de surpresas, e vem de uma mãe consciente de suas escolhas, e empoderada o suficiente para perceber quando há um limite para levar adiante o que havia planejado. Dani é uma mulher madura, linda, que idealizou o parto que considerava ideal, mas também sempre soube que o melhor mesmo é o parto possível. Confiante de que parto não pode ser uma história preto no branco, soube fazer valer o seu direito de escolher como gostaria de parir, mas não agarrou-se a radicalismos quando precisou garantir que seu bebê pudesse chegar ao mundo de maneira segura. Quer se emocionar tanto quanto eu, e vibrar com uma mãe que sabe escolher bem o caminho do meio? Confira!
+  O **relato de parto **de Dani (Daniela Santana) é daqueles que tiram o nosso fôlego porque é cheio de surpresas, e vem de uma mãe consciente de suas escolhas, e empoderada o suficiente para perceber quando há um limite para levar adiante o que havia planejado. Dani é uma mulher madura, linda, que idealizou o parto que considerava ideal, mas também sempre soube que o melhor mesmo é o parto possível. Confiante de que parto não pode ser uma história preto no branco, soube fazer valer o seu direito de escolher como gostaria de parir, mas não agarrou-se a radicalismos quando precisou garantir que seu bebê pudesse chegar ao mundo de maneira segura. Quer se emocionar tanto quanto eu, e vibrar com uma mãe que sabe escolher bem o caminho do meio? Confira!
 </p>
 
 <p align="center">

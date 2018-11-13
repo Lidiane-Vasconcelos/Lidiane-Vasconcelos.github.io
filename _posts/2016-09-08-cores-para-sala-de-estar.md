@@ -1,7 +1,7 @@
 ---
-id: 3659
+
 title: Você quer ideias de cores para a sala de estar?
-date: 2016-09-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/08/cores-para-sala-de-estar/
@@ -11,11 +11,11 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Ô dúvida cruel a gente fica quando precisa decidir <strong>cores para sala de estar</strong>, não é? Este ambiente é um espaço bem usado, onde a gente fica junto da família depois do jantar para jogar conversa fora, ou recebe pessoas queridas. Qual cor escolher?
+  Ô dúvida cruel a gente fica quando precisa decidir **cores para sala de estar**, não é? Este ambiente é um espaço bem usado, onde a gente fica junto da família depois do jantar para jogar conversa fora, ou recebe pessoas queridas. Qual cor escolher?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Não é mais fácil quando a gente vê um ambiente que gosta, com uma cor que nos encanta? Foi nisso que pensei quando garimpei as imagens a seguir lá no <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>. Apesar de elas serem meramente ilustrativas, dá para a gente ter bem uma noção por qual família de cores e tons a gente suspira… <em>espia</em>!
+  Não é mais fácil quando a gente vê um ambiente que gosta, com uma cor que nos encanta? Foi nisso que pensei quando garimpei as imagens a seguir lá no **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**. Apesar de elas serem meramente ilustrativas, dá para a gente ter bem uma noção por qual família de cores e tons a gente suspira… <em>espia</em>!
 </p>
 
 <!--more-->
@@ -31,19 +31,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.bichafemea.com/2010/05/31/cores-para-parede/" target="_blank">Como escolher cores para a parede?</a></strong>
+  **<a href="http://www.bichafemea.com/2010/05/31/cores-para-parede/" target="_blank">Como escolher cores para a parede?</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas e acabe suas dúvidas!</a></strong>
+  **<a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas e acabe suas dúvidas!</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a></strong>
+  **<a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a>**
 </p>
 
 <p align="justify">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para a diversão ser ainda maior:</strong>
+  **Para a diversão ser ainda maior:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Decoração de interiores: que cor pintar a parede da sala de estar?</a></strong>
+  **<a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Decoração de interiores: que cor pintar a parede da sala de estar?</a>**
 </p>
 
 &nbsp;

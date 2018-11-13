@@ -1,7 +1,7 @@
 ---
-id: 3259
+
 title: 'Decoração da parede com fotos: faça a sua!'
-date: 2013-09-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/11/decoracao-parede-fotos/
@@ -51,7 +51,7 @@ categories:
   </p>
   
   <p>
-    Imagem: <strong><em><a href="http://www.homedit.com/" target="_blank">Homedit</a></em></strong>
+    Imagem: **<em><a href="http://www.homedit.com/" target="_blank">Homedit</a></em>**
   </p>
   
   <p>

@@ -1,7 +1,7 @@
 ---
-id: 2851
+
 title: Perfeccionismo e Obesidade
-date: 2010-07-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/21/perfeccionismo-e-obesidade/
@@ -48,5 +48,5 @@ Especialista em Obesidade e Transtornos Alimentares
 **_[Expectativas reais, você tem?](http://www.trololodemulher.com.br/2010/06/28/emagrecimento-expectativas/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

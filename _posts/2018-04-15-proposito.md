@@ -1,7 +1,7 @@
 ---
-id: 3859
+
 title: Mudanças por aqui, mas com propósito.
-date: 2018-04-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/15/proposito/
@@ -16,7 +16,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Em Novembro de 2018 fará 10 anos que trabalho com produção de conteúdo digital com foco no público feminino, e este é um ano que está trazendo para mim a necessidade de redirecionar essa rota, realianhando-a com o meu <strong>propósito</strong>. A minha decisão por ser produtiva de maneira criativa, trabalhando de casa em esquema de <em>home office</em>, tem como pano de fundo o desejo de equilibrar melhor os meus papeis.
+  Em Novembro de 2018 fará 10 anos que trabalho com produção de conteúdo digital com foco no público feminino, e este é um ano que está trazendo para mim a necessidade de redirecionar essa rota, realianhando-a com o meu **propósito**. A minha decisão por ser produtiva de maneira criativa, trabalhando de casa em esquema de <em>home office</em>, tem como pano de fundo o desejo de equilibrar melhor os meus papeis.
 </p>
 
 <p align="justify">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para conseguir ser produtiva trabalhando de casa, esses 10 anos foram de pesquisas pessoais sobre as melhores práticas na gestão da rotina doméstica, pois eu desejava manter minha casa em harmonia, limpa e organizada, mas também queria e precisava de tempo para os meus projetos pessoais. <strong>Gestão do tempo, organização pessoal e produtividade passaram a ser minhas paixões</strong>, porque esse conhecimento iria impactar diretamente na forma como eu gerenciaria o meu dia a dia, conseguindo um caminho do meio de equilíbrio entre o cuidado do lar e o meu trabalho.
+  Para conseguir ser produtiva trabalhando de casa, esses 10 anos foram de pesquisas pessoais sobre as melhores práticas na gestão da rotina doméstica, pois eu desejava manter minha casa em harmonia, limpa e organizada, mas também queria e precisava de tempo para os meus projetos pessoais. **Gestão do tempo, organização pessoal e produtividade passaram a ser minhas paixões**, porque esse conhecimento iria impactar diretamente na forma como eu gerenciaria o meu dia a dia, conseguindo um caminho do meio de equilíbrio entre o cuidado do lar e o meu trabalho.
 </p>
 
 <p align="justify">
@@ -60,11 +60,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Este ano, a luzinha acendeu!!</strong> Por que não ensinar às minhas leitoras o que aprendi em tanto tempo dedicado a buscar otimizar minha rotina, para que elas possam se beneficiar desse conhecimento também? Foi assim que em Outubro de 2017 eu comecei um projeto com o objetivo de que ele estivesse sob o guarda-chuva do Trololó de Mulher, mas ele cresceu de uma forma que eu não esperava, e trouxe uma satisfação pessoal tão grande, que não há mais espaço na minha agenda de trabalho para produzir conteúdo no ritmo que eu produzia para o Trololó de Mulher.
+  **Este ano, a luzinha acendeu!!** Por que não ensinar às minhas leitoras o que aprendi em tanto tempo dedicado a buscar otimizar minha rotina, para que elas possam se beneficiar desse conhecimento também? Foi assim que em Outubro de 2017 eu comecei um projeto com o objetivo de que ele estivesse sob o guarda-chuva do Trololó de Mulher, mas ele cresceu de uma forma que eu não esperava, e trouxe uma satisfação pessoal tão grande, que não há mais espaço na minha agenda de trabalho para produzir conteúdo no ritmo que eu produzia para o Trololó de Mulher.
 </p>
 
 <p align="justify">
-  O <strong>Projeto Lar Bonito Lar</strong>, meu programa via whatsapp que orienta, passo a passo, na organização da gestão doméstica, para que haja ganho em tranquilidade e mais tempo no dia a dia, é a principal mudança na minha rota de trabalho este ano. Ele tem tido muito da minha atenção no cotidiano, e por isso os posts aqui no Trololó de Mulher têm estado mais escassos. Eu desacelerei bastante por aqui, ao ponto de haver apenas um post por semana. Mas tenho estado com muito carinho nos bastidores do blog, entregando <strong>minha Newsletter por e-mail com conteúdo ligado a produtividade, gestão do tempo, organização pessoal, vida simples e bem viver.</strong> Esse tipo de conhecimento realmente tem movido o meu coração, e tenho preparado tudo isso com muito carinho para quem tiver interesse também.
+  O **Projeto Lar Bonito Lar**, meu programa via whatsapp que orienta, passo a passo, na organização da gestão doméstica, para que haja ganho em tranquilidade e mais tempo no dia a dia, é a principal mudança na minha rota de trabalho este ano. Ele tem tido muito da minha atenção no cotidiano, e por isso os posts aqui no Trololó de Mulher têm estado mais escassos. Eu desacelerei bastante por aqui, ao ponto de haver apenas um post por semana. Mas tenho estado com muito carinho nos bastidores do blog, entregando **minha Newsletter por e-mail com conteúdo ligado a produtividade, gestão do tempo, organização pessoal, vida simples e bem viver.** Esse tipo de conhecimento realmente tem movido o meu coração, e tenho preparado tudo isso com muito carinho para quem tiver interesse também.
 </p>
 
 <p align="justify">
@@ -76,27 +76,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Alinhando com você as mudanças:</strong>
+  **Alinhando com você as mudanças:**
 </p>
 
 <p align="justify">
-  1 – Se você sente que sua casa está fora de controle, se experimenta o sentimento de sobrecarga, cansaço e estresse, e gostaria que seu lar estivesse em ordem e limpo, mas com menos esforço para dar conta dessas demandas, te apresento o <strong>Projeto Lar Bonito Lar</strong>:  meu programa via WhatsApp que te orienta quanto às <strong>melhores práticas na gestão da rotina doméstica</strong>, numa caminhada de 7 semanas onde estaremos juntas numa consultoria em grupo, numa turma vip de no máximo 15 mulheres. As inscrições para a turma de Maio já estão abertas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank"><strong>Clique aqui para mais informações sobre o projeto</strong></a>, ou entre em contato comigo via <strong>WhatsApp 81 9 9530-7307 – </strong>pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
+  1 – Se você sente que sua casa está fora de controle, se experimenta o sentimento de sobrecarga, cansaço e estresse, e gostaria que seu lar estivesse em ordem e limpo, mas com menos esforço para dar conta dessas demandas, te apresento o **Projeto Lar Bonito Lar**:  meu programa via WhatsApp que te orienta quanto às **melhores práticas na gestão da rotina doméstica**, numa caminhada de 7 semanas onde estaremos juntas numa consultoria em grupo, numa turma vip de no máximo 15 mulheres. As inscrições para a turma de Maio já estão abertas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">**Clique aqui para mais informações sobre o projeto**</a>, ou entre em contato comigo via **WhatsApp 81 9 9530-7307 – **pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
 </p>
 
 <p align="justify">
-  2 – Continuarei com <strong>um post semanal aqui no Trololó de Mulher</strong>, e se quiser ter certeza de que lerá todos, você poderá receber as notificações deles por email. <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><strong>Assine aqui e receba</strong></a>. É grátis!
+  2 – Continuarei com **um post semanal aqui no Trololó de Mulher**, e se quiser ter certeza de que lerá todos, você poderá receber as notificações deles por email. <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank">**Assine aqui e receba**</a>. É grátis!
 </p>
 
 <p align="justify">
-  3 – Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank"><strong>Avise que quer, neste post</strong></a>. É grátis!
+  3 – Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">**Avise que quer, neste post**</a>. É grátis!
 </p>
 
 <p align="justify">
-  4 – Alinhada com este meu novo momento, <strong>desenvolvi um guia com práticas de bem viver</strong>, para que você traga mais qualidade de vida, na prática, para o seu cotidiano. Você deseja recebê-lo? Esse conteúdo foi produzido com muito carinho, e é grátis! <strong><a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Diga que quer, neste post</a></strong>.
+  4 – Alinhada com este meu novo momento, **desenvolvi um guia com práticas de bem viver**, para que você traga mais qualidade de vida, na prática, para o seu cotidiano. Você deseja recebê-lo? Esse conteúdo foi produzido com muito carinho, e é grátis! **<a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Diga que quer, neste post</a>**.
 </p>
 
 <p align="justify">
-  5 &#8211; Se não estamos conectadas ainda no <a href="https://www.facebook.com/TrololoMulher/" target="_blank"><strong>Facebook, vem cá!</strong></a> Eu também estou no <a href="https://www.instagram.com/trololodemulher/" target="_blank"><strong>Instagram. Vem, também!</strong></a>
+  5 &#8211; Se não estamos conectadas ainda no <a href="https://www.facebook.com/TrololoMulher/" target="_blank">**Facebook, vem cá!**</a> Eu também estou no <a href="https://www.instagram.com/trololodemulher/" target="_blank">**Instagram. Vem, também!**</a>
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3258
+
 title: 2 ideias simples de decoração para copiar já!
-date: 2013-09-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/09/ideias-simples-decoracao/
@@ -36,27 +36,27 @@ Então… bati o olho em dois cantinhos compostos de forma muito simples, mas qu
 </p>
 
 <p align="justify">
-  Imagens: <strong><em><a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></em></strong>
+  Imagens: **<em><a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></em>**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">E mais…</span></strong>
+  **<span style="font-size: large;">E mais…</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/28/ilustracao-desenho-xilogravura/"><strong><span style="font-size: large;">Xilogravura revisitada… cheia de história e afeto.</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/28/ilustracao-desenho-xilogravura/">**<span style="font-size: large;">Xilogravura revisitada… cheia de história e afeto.</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/26/reutilizacao-decoracao/"><strong><span style="font-size: large;">Reutilização de móveis e objetos na decoração: questão de estilo.</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/26/reutilizacao-decoracao/">**<span style="font-size: large;">Reutilização de móveis e objetos na decoração: questão de estilo.</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/09/enfeites-decoracao/"><strong><span style="font-size: large;">Enfeites (faça você mesma) para a decoração: fácil, bonito e barato.</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/09/enfeites-decoracao/">**<span style="font-size: large;">Enfeites (faça você mesma) para a decoração: fácil, bonito e barato.</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/23/maes-filhos/"><strong><span style="font-size: large;"> </span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/23/maes-filhos/">**<span style="font-size: large;"> </span>**</a>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Então… bati o olho em dois cantinhos compostos de forma muito simples, mas qu
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

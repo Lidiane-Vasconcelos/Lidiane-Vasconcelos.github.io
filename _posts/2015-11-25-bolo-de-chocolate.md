@@ -1,7 +1,7 @@
 ---
-id: 3515
+
 title: Bolo de Chocolate Funcional
-date: 2015-11-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/25/bolo-de-chocolate/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Bateu aquela vontade de comer <strong>bolo de chocolate</strong>? Quem nunca? Eu mesma, vez outra, sou acometida por esse pequeno desespero. Até mesmo as bonitas bem cuidadosas com a alimentação, como a Carol, passam por isso. Mas aí ela lança mão da vantagem de ter aprendido a comer bem, e resolve a questão com um bolo de chocolate funcional. Ficou curiosa para aprender a receita? É pra já… vem!
+  Bateu aquela vontade de comer **bolo de chocolate**? Quem nunca? Eu mesma, vez outra, sou acometida por esse pequeno desespero. Até mesmo as bonitas bem cuidadosas com a alimentação, como a Carol, passam por isso. Mas aí ela lança mão da vantagem de ter aprendido a comer bem, e resolve a questão com um bolo de chocolate funcional. Ficou curiosa para aprender a receita? É pra já… vem!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes (bolo):</strong>
+  **Ingredientes (bolo):**
 </p>
 
 4 claras;
@@ -83,13 +83,13 @@ categories:
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank"><strong>Beijinho sem leite condensado</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank">**Beijinho sem leite condensado**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank"><strong>Receita saudável: suflê de couve-flor e cenoura</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank">**Receita saudável: suflê de couve-flor e cenoura**</a>
 
-<a href="http://www.belezacorpoecia.com/bolo-simples-integral/" target="_blank"><strong>Bolo simples integral com gotas de chocolate</strong></a>
+<a href="http://www.belezacorpoecia.com/bolo-simples-integral/" target="_blank">**Bolo simples integral com gotas de chocolate**</a>
 
-<a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank"><strong>Mousse de abacate e cacau em pó</strong></a>
+<a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">**Mousse de abacate e cacau em pó**</a>
 
 &nbsp;
 

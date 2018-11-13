@@ -1,7 +1,7 @@
 ---
-id: 2929
+
 title: Ganhei presente da Closonê Acessórios. Vem cá que eu te mostro!
-date: 2011-01-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/05/presente-closone-acessorios/
@@ -12,7 +12,7 @@ categories:
 Ganhar presente todo mundo gosta, não é verdade? E toda blogueira gosta mesmo é de ganhá-los via correspondência, porque o melhor de tudo é receber o famoso “pacotinho”. Sim, sei que você, que também é blogueira, entende do que eu falo. Se você não for, deve achar isso tudo uma loucura, não é? Mas quando você se tornar uma, vai entender bem o que falo…
 
 <p style="text-align: justify;">
-  Pois é. Eu recebi um “pacotinho” com conteúdo muito fofo. E sabe de quem? Foi da <strong><em>Cristiane Inokuma</em></strong>, a artesã que comanda a <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>. <em>Espia</em> só:
+  Pois é. Eu recebi um “pacotinho” com conteúdo muito fofo. E sabe de quem? Foi da **<em>Cristiane Inokuma</em>**, a artesã que comanda a <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>. <em>Espia</em> só:
 </p>
 
 <!--more-->
@@ -58,9 +58,9 @@ Ganhar presente todo mundo gosta, não é verdade? E toda blogueira gosta mesmo 
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

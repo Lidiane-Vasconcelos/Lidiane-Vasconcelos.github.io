@@ -1,7 +1,7 @@
 ---
-id: 3853
+
 title: 'Rotina doméstica ou bem viver: o que você quer ler?'
-date: 2018-03-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/03/13/rotina-domestica-3/
@@ -13,11 +13,11 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  A leitora do Trololó de Mulher tem estado interessada em como suavizar sua <strong>rotina doméstica</strong>, e isso tem refletido no quanto curte nosso conteúdo. Eu me interesso pelo tipo de informação que as leitoras querem consumir, porque elas estão em primeiro lugar para mim. Por isso, estou sempre atenta a essas preferências. As redes sociais são um excelente termômetro para isso, então busco saber através do comportamento das minhas leitoras o que elas pensam, quais são seus desejos e paixões. Por que isso? É através dessa análise que planejo a pauta do blog, e transformo a manifestação desses interesses em conteúdo relevante, direcionado para o que <strong>VOCÊ</strong> quer ler.
+  A leitora do Trololó de Mulher tem estado interessada em como suavizar sua **rotina doméstica**, e isso tem refletido no quanto curte nosso conteúdo. Eu me interesso pelo tipo de informação que as leitoras querem consumir, porque elas estão em primeiro lugar para mim. Por isso, estou sempre atenta a essas preferências. As redes sociais são um excelente termômetro para isso, então busco saber através do comportamento das minhas leitoras o que elas pensam, quais são seus desejos e paixões. Por que isso? É através dessa análise que planejo a pauta do blog, e transformo a manifestação desses interesses em conteúdo relevante, direcionado para o que **VOCÊ** quer ler.
 </p>
 
 <p align="justify">
-  Na última análise que fiz, por exemplo, dois temas foram <strong>SUCESSO</strong> entre a mulherada: <strong>rotina doméstica e leveza no dia a dia. Em outras palavras, bem viver no lar (e na vida!)</strong>. Independente da atividade que exerça (professora, médica, psicóloga, empreendedora, dona de casa em tempo integral, etc.) a mulher precisa lidar com as demandas domésticas, e isso para muitas acaba sendo fonte de estresse… mas ela também sabe que não é isso o que deseja, por isso seu interesse em formas de adocicar o dia a dia com leveza.
+  Na última análise que fiz, por exemplo, dois temas foram **SUCESSO** entre a mulherada: **rotina doméstica e leveza no dia a dia. Em outras palavras, bem viver no lar (e na vida!)**. Independente da atividade que exerça (professora, médica, psicóloga, empreendedora, dona de casa em tempo integral, etc.) a mulher precisa lidar com as demandas domésticas, e isso para muitas acaba sendo fonte de estresse… mas ela também sabe que não é isso o que deseja, por isso seu interesse em formas de adocicar o dia a dia com leveza.
 </p>
 
 <p align="justify">
@@ -33,7 +33,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Rotina doméstica:</strong>
+  **Rotina doméstica:**
 </p>
 
 <p align="justify">
@@ -53,7 +53,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Bem Viver:</strong>
+  **Bem Viver:**
 </p>
 
 <p align="justify">

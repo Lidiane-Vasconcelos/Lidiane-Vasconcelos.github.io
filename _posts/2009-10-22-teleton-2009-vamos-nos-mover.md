@@ -1,7 +1,7 @@
 ---
-id: 2720
+
 title: TELETON 2009 – Vamos Nos Mover?
-date: 2009-10-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/22/teleton-2009-vamos-nos-mover/

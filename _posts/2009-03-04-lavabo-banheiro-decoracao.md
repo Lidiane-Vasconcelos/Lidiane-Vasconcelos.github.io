@@ -1,7 +1,7 @@
 ---
-id: 2632
+
 title: Lavabo e Banheiro Charmosos by Bichas Fêmeas
-date: 2009-03-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/04/lavabo-banheiro-decoracao/
@@ -75,10 +75,10 @@ E o creminho é um mimo para quem usa o lavabo, para garantir mãos cheirosas e 
 
 <span style="color: #000080;">Valeu, Michelle!!</span>
 
-<span style="color: #000080;"><strong>Quer ler mais sobre decoração no banheiro?</strong></span>
+<span style="color: #000080;">**Quer ler mais sobre decoração no banheiro?**</span>
 
-<span style="color: #000080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">Pitacos de bicha fêmea: armários para banheiro.</a></em></strong></span>
+<span style="color: #000080;">**<em><a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">Pitacos de bicha fêmea: armários para banheiro.</a></em>**</span>
 
-<span style="color: #000080;"><strong><em><a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_self">Dicas e imagens de como maximizar o banheiro.</a></em></strong></span>
+<span style="color: #000080;">**<em><a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_self">Dicas e imagens de como maximizar o banheiro.</a></em>**</span>
 
-<span style="color: #000080;"><strong><em><a href="http://www.trololodemulher.com.br/2009/03/02/banheiros/" target="_self">Banheiros, banheiros e mais banheiros.</a></em></strong></span>
+<span style="color: #000080;">**<em><a href="http://www.trololodemulher.com.br/2009/03/02/banheiros/" target="_self">Banheiros, banheiros e mais banheiros.</a></em>**</span>

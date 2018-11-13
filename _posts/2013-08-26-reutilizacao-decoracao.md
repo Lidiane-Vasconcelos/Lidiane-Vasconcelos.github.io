@@ -1,7 +1,7 @@
 ---
-id: 3254
+
 title: 'Reutilização de móveis e objetos na decoração: questão de estilo'
-date: 2013-08-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/26/reutilizacao-decoracao/
@@ -21,7 +21,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">O que deixou de ser agora é…</span></strong>
+  **<span style="font-size: large;">O que deixou de ser agora é…</span>**
 </p>
 
 &nbsp;
@@ -31,7 +31,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  <strong>Caixote de frutas</strong> agora é <strong>criado mudo</strong> na casa da <strong>Vero Kraemer | <a href="http://alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a></strong>
+  **Caixote de frutas** agora é **criado mudo** na casa da **Vero Kraemer | <a href="http://alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>**
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  <strong>Penteadeira</strong> (com espelho abaixado) agora é <strong>mesa de apoio</strong> na casa da <strong>Rosângela Mira | <a href="http://www.amigadamoda1.com/" target="_blank">Amiga da Moda</a></strong>
+  **Penteadeira** (com espelho abaixado) agora é **mesa de apoio** na casa da **Rosângela Mira | <a href="http://www.amigadamoda1.com/" target="_blank">Amiga da Moda</a>**
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  <strong>Porta</strong> virou <strong>cabeceira </strong>na casa da <strong>Margaret | </strong><a href="http://www.margaretss.com.br/" target="_blank"><strong>Margaretss</strong></a>
+  **Porta** virou **cabeceira **na casa da **Margaret | **<a href="http://www.margaretss.com.br/" target="_blank">**Margaretss**</a>
 </p>
 
 <p align="center">
@@ -55,25 +55,25 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  <strong>Espelho de salão</strong> virou <strong>móvel de apoio</strong> na casa da <strong>Claudia Anderson</strong>
+  **Espelho de salão** virou **móvel de apoio** na casa da **Claudia Anderson**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Tudo a ver…</span></strong>
+  **<span style="font-size: large;">Tudo a ver…</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-jardins/" target="_blank"><strong><span style="font-size: large;">Decoração de jardins com objetos reutilizados</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-jardins/" target="_blank">**<span style="font-size: large;">Decoração de jardins com objetos reutilizados</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/reutilizacao-de-objetos/" target="_blank"><strong><span style="font-size: large;">Reutilização de objetos com novos usos</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/reutilizacao-de-objetos/" target="_blank">**<span style="font-size: large;">Reutilização de objetos com novos usos</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2009/01/28/reutilizando-decoracao/"><strong><span style="font-size: large;">Ideia para reutilização de quadro na decoração da casa</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/01/28/reutilizando-decoracao/">**<span style="font-size: large;">Ideia para reutilização de quadro na decoração da casa</span>**</a>
 </p>
 
 &nbsp;
@@ -85,7 +85,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -109,9 +109,9 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

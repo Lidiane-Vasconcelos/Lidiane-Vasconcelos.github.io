@@ -1,7 +1,7 @@
 ---
-id: 3615
+
 title: Saiba como usar a camisa branca, clássico da moda feminina.
-date: 2016-05-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/23/camisa-branca/
@@ -10,7 +10,7 @@ categories:
   - Moda
 ---
 <p style="text-align: justify;">
-  A <strong>camisa branca</strong> vai e vem na moda feminina, em modelos diferentes a atendendo a diversos estilos, mas sempre mostrando-se como um clássico no guarda-roupas das mulheres. No Inverno que vem por aí, use e abuse da peça, e saia linda de acordo com seu estilo. Para que não haja dúvidas quanto às possibilidades de uso dessa queridinha, pedi a ajuda a nossa já querida <em>expert</em> <strong>Lilian Jordão</strong>, <strong>Consultora de Estilo, da Cidade de Ribeirão Preto</strong>. Veja logo abaixo várias versões da peça… escolha a sua, a arrase!
+  A **camisa branca** vai e vem na moda feminina, em modelos diferentes a atendendo a diversos estilos, mas sempre mostrando-se como um clássico no guarda-roupas das mulheres. No Inverno que vem por aí, use e abuse da peça, e saia linda de acordo com seu estilo. Para que não haja dúvidas quanto às possibilidades de uso dessa queridinha, pedi a ajuda a nossa já querida <em>expert</em> **Lilian Jordão**, **Consultora de Estilo, da Cidade de Ribeirão Preto**. Veja logo abaixo várias versões da peça… escolha a sua, a arrase!
 </p>
 
 <p style="text-align: justify;">
@@ -23,7 +23,7 @@ categories:
   </p>
   
   <p>
-    <strong>Trololó de Mulher >>> A camisa branca continua sendo um clássico no guarda-roupas feminino?</strong>
+    **Trololó de Mulher >>> A camisa branca continua sendo um clássico no guarda-roupas feminino?**
   </p>
   
   <p>
@@ -43,11 +43,11 @@ categories:
   </p>
   
   <p>
-    <strong>Trololó de Mulher >>></strong> <b>A peça é bem-vinda no dia a dia?</b>
+    **Trololó de Mulher >>>** <b>A peça é bem-vinda no dia a dia?</b>
   </p>
   
   <p>
-    <strong>“</strong><em>É super bem-vinda no dia-a-dia. Pode combiná-la com uma peça para o trabalho ou para um passeio informal no shopping, buscar o filho na escola e fazer compras no supermercado.”</em>
+    **“**<em>É super bem-vinda no dia-a-dia. Pode combiná-la com uma peça para o trabalho ou para um passeio informal no shopping, buscar o filho na escola e fazer compras no supermercado.”</em>
   </p>
   
   <p align="center">
@@ -55,11 +55,11 @@ categories:
   </p>
   
   <p>
-    <strong>Trololó de Mulher >>> Em um jantar, como criar um look super bacana com essa peça?</strong>
+    **Trololó de Mulher >>> Em um jantar, como criar um look super bacana com essa peça?**
   </p>
   
   <p>
-    <strong>“</strong>Segue abaixo algumas inspirações para você usar e abusar dessa peça super versátil, clássica, elegante e atemporal.”
+    **“**Segue abaixo algumas inspirações para você usar e abusar dessa peça super versátil, clássica, elegante e atemporal.”
   </p>
   
   <p>
@@ -99,19 +99,19 @@ categories:
   </p>
   
   <p>
-    <strong>Mais Consultorias de Lilian Jordão:</strong>
+    **Mais Consultorias de Lilian Jordão:**
   </p>
   
   <p>
-    <strong><a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank">Como usar saia, a peça mais feminina?</a></strong>
+    **<a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank">Como usar saia, a peça mais feminina?</a>**
   </p>
   
   <p>
-    <a href="http://www.trololodemulher.com.br/2015/10/26/blazer/"><strong>Blazer em dias quentes: monte 3 looks.</strong></a>
+    <a href="http://www.trololodemulher.com.br/2015/10/26/blazer/">**Blazer em dias quentes: monte 3 looks.**</a>
   </p>
   
   <p>
-    <a href="http://www.trololodemulher.com.br/2015/09/28/moda-para-gravidas/"><strong>Moda pra grávidas: o que favorece as futuras mamães?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2015/09/28/moda-para-gravidas/">**Moda pra grávidas: o que favorece as futuras mamães?**</a>
   </p>
   
   <p>

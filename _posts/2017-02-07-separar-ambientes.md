@@ -1,7 +1,7 @@
 ---
-id: 3722
+
 title: 5 ideias para separar ambientes sem paredes.
-date: 2017-02-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/07/separar-ambientes/
@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Quando casas e apartamentos são pequenos, um espaço pode ter mais de uma função. Se há a intenção de <strong>separar ambientes</strong> com praticidade e charme, isso pode ser feito de várias formas. Veja a seguir sugestões cheias de bossa para fazer essa separação, sem complicações. Confira!
+  Quando casas e apartamentos são pequenos, um espaço pode ter mais de uma função. Se há a intenção de **separar ambientes** com praticidade e charme, isso pode ser feito de várias formas. Veja a seguir sugestões cheias de bossa para fazer essa separação, sem complicações. Confira!
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">Porta de correr</span></strong>
+  **<span style="font-size: large;">Porta de correr</span>**
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <span style="font-size: large;"><strong>Cobogós</strong></span>
+  <span style="font-size: large;">**Cobogós**</span>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">Biombo</span></strong>
+  **<span style="font-size: large;">Biombo</span>**
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">Cortina</span></strong>
+  **<span style="font-size: large;">Cortina</span>**
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">Estante</span></strong>
+  **<span style="font-size: large;">Estante</span>**
 </p>
 
 <p align="center">

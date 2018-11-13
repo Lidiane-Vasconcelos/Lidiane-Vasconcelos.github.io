@@ -1,7 +1,7 @@
 ---
-id: 3718
+
 title: Consultoria online de maquiagem pra ser você mesma.
-date: 2016-12-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/15/consultoria-online-de-maquiagem/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  <strong>Márcia Damasceno</strong>, Maquiadora experiente há anos, identificou que maquiar os olhos é o ponto que mais desencoraja as mulheres, e por isso oferece sua <strong>consultoria online de maquiagem</strong> para mostrar que você é capaz. A verdade é que vemos inúmeros tutorias de maquiagem e, quando resolvemos reproduzí-los, não dá muito certo… sabe por quê? É que nem sempre os olhos da moça do tutorial são como os nossos. Nós temos nossos traços pessoais, portanto precisamos de dicas e orientações bem específicas e individualizadas. Dessa maneira, sabendo valorizar nossa beleza, a gente se encoraja a usar a maquiagem do jeitinho certo, e se sente bonita de verdade.
+  **Márcia Damasceno**, Maquiadora experiente há anos, identificou que maquiar os olhos é o ponto que mais desencoraja as mulheres, e por isso oferece sua **consultoria online de maquiagem** para mostrar que você é capaz. A verdade é que vemos inúmeros tutorias de maquiagem e, quando resolvemos reproduzí-los, não dá muito certo… sabe por quê? É que nem sempre os olhos da moça do tutorial são como os nossos. Nós temos nossos traços pessoais, portanto precisamos de dicas e orientações bem específicas e individualizadas. Dessa maneira, sabendo valorizar nossa beleza, a gente se encoraja a usar a maquiagem do jeitinho certo, e se sente bonita de verdade.
 </p>
 
 <p align="justify">

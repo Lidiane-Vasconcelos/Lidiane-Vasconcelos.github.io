@@ -1,7 +1,7 @@
 ---
-id: 2911
+
 title: 'Decoração de Natal: de inspiração em inspiração, faça a sua!'
-date: 2010-11-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/19/decoracao-natal-em-isopor/
@@ -19,7 +19,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 <!--more-->
 
 <p style="text-align: justify;">
-  No ano passado eu mostrei o que havia feito para decorar a janela de minha casa, além de todos os detalhes que havia por aqui. Foi no post onde mostrei a <strong><em><a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/">minha decoração de Natal de 2009</a></em></strong> que o Dercio deixou seu primeiro comentário:
+  No ano passado eu mostrei o que havia feito para decorar a janela de minha casa, além de todos os detalhes que havia por aqui. Foi no post onde mostrei a **<em><a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/">minha decoração de Natal de 2009</a></em>** que o Dercio deixou seu primeiro comentário:
 </p>
 
 > <p style="text-align: justify;">
@@ -55,7 +55,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 <p style="text-align: justify;">
-  Eu mostrei essa imagem num outro <strong><em><a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/">post sobre decoração de Natal</a></em></strong> que havia feito anteriormente, dando ideias para que você, bicha fêmea navegante, se inspirasse. Eu mesma me divirto e aprendo bastante com tudo o que pesquiso para trazer para você, e aplico na minha casa também.
+  Eu mostrei essa imagem num outro **<em><a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/">post sobre decoração de Natal</a></em>** que havia feito anteriormente, dando ideias para que você, bicha fêmea navegante, se inspirasse. Eu mesma me divirto e aprendo bastante com tudo o que pesquiso para trazer para você, e aplico na minha casa também.
 </p>
 
 <p style="text-align: justify;">
@@ -167,13 +167,13 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 **_[Dicas para a decoração das salas no Natal.](http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>> Decoração de Natal: de inspiração em inspiração, faça a sua!
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>> Decoração de Natal: de inspiração em inspiração, faça a sua!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

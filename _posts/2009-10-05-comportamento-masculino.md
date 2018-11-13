@@ -1,7 +1,7 @@
 ---
-id: 2712
+
 title: Já Não Há Homens Como Antigamente? Que Bom!!
-date: 2009-10-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/05/comportamento-masculino/

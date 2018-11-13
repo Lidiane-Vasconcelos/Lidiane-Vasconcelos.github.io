@@ -1,7 +1,7 @@
 ---
-id: 2593
+
 title: Dicas para passar camisa social.
-date: 2008-11-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2008/11/25/dicas-passar-camisa-social/

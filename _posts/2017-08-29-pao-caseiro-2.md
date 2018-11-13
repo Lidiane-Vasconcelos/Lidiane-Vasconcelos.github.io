@@ -1,7 +1,7 @@
 ---
-id: 3790
+
 title: Pão caseiro trançado com recheio de pesto.
-date: 2017-08-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/29/pao-caseiro-2/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  <strong>Pão caseiro</strong> tem seu charme, com sabor e cheiro irresistíveis! O que você verá aqui no blog é uma receita inusitada apresentada pela Tânia: uma versão recheada com molho pesto. Consegue imaginar o quanto deve ter ficado delicioso? Eu não só imaginei, como desejei comer esse pão… olha que lindeza!
+  **Pão caseiro** tem seu charme, com sabor e cheiro irresistíveis! O que você verá aqui no blog é uma receita inusitada apresentada pela Tânia: uma versão recheada com molho pesto. Consegue imaginar o quanto deve ter ficado delicioso? Eu não só imaginei, como desejei comer esse pão… olha que lindeza!
 </p>
 
 <p align="center">
@@ -76,11 +76,11 @@ _10 – Asse por cerca de 25-30, até ficar dourado._
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank"><strong>Geleia de banana e as reminiscências infantis…</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank">**Geleia de banana e as reminiscências infantis…**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank"><strong>Chá de menta de Marraquexe, ou como acolher bem…</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank">**Chá de menta de Marraquexe, ou como acolher bem…**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank"><strong>Sopa de abóbora e alho pra aquecer os dias frios.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank">**Sopa de abóbora e alho pra aquecer os dias frios.**</a>
 
 <p align="justify">
   O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!

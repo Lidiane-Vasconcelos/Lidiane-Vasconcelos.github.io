@@ -1,7 +1,7 @@
 ---
-id: 2905
+
 title: 'Quartos: soluções de decoração para pouco espaço.'
-date: 2010-11-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/05/quartos-pequeno-decoracao/
@@ -13,7 +13,7 @@ categories:
 Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas de hoje em dia, seu **_quarto tem medidas mínimas_** e você precisa de ideias e “truques” em **_decoração_** para driblar esse detalhe, certo?
 
 <p style="text-align: justify;">
-  Tenho uma boa notícia para você e para a <strong><em>Fernanda</em></strong>, que pediu ideias para quartos pequenos no post onde <strong><em><a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/">decoração para quarto de casal</a></em></strong> foi o tema principal: esse post reúne algumas sugestões e inspirações que podem te dar uma luz sobre o que fazer no seu quarto a fim de aproveitar melhor o espaço que você dispõe. Quer ver?
+  Tenho uma boa notícia para você e para a **<em>Fernanda</em>**, que pediu ideias para quartos pequenos no post onde **<em><a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/">decoração para quarto de casal</a></em>** foi o tema principal: esse post reúne algumas sugestões e inspirações que podem te dar uma luz sobre o que fazer no seu quarto a fim de aproveitar melhor o espaço que você dispõe. Quer ver?
 </p>
 
 <!--more-->
@@ -31,7 +31,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: justify;">
-  Mas, oh: antes de ter certeza que você precisa de mais espaço sob a cama porque seu guarda-roupas não é suficiente, tenha certeza que você precisa de tudo que tem, e que as coisas estão bem organizadas por lá, hein? Quer dicas? Veja o que já foi publicado no Bicha Fêmea sobre <strong><em><a href="http://www.trololodemulher.com.br/2010/07/02/organizacao-guarda-roupa/">organização do closet ou guarda-roupa</a></em></strong>.
+  Mas, oh: antes de ter certeza que você precisa de mais espaço sob a cama porque seu guarda-roupas não é suficiente, tenha certeza que você precisa de tudo que tem, e que as coisas estão bem organizadas por lá, hein? Quer dicas? Veja o que já foi publicado no Bicha Fêmea sobre **<em><a href="http://www.trololodemulher.com.br/2010/07/02/organizacao-guarda-roupa/">organização do closet ou guarda-roupa</a></em>**.
 </p>
 
 <p style="text-align: center;">
@@ -51,11 +51,11 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: justify;">
-  Além do mais, vale ressaltar que cores suaves num quarto que já é pequeno serão muito bem vindas. Escolher cores fortes para o espaço é um dos <strong><em><a href="http://www.trololodemulher.com.br/2009/01/15/10-erros-decoracao-quarto/">10 erros na decoração e bem-estar do seu quarto</a></em></strong> já tratados no Bicha Fêmea. Você não vai querer cemetê-los, certo? Há pelo menos duas razões para suavizar as cores nesse ambiente: a primeira razão é que cores acentuadas no local onde você vai descansar são sempre uma boa pedida, porque acalmam, e o segundo propósito é que cores claras dão a sensação de que o ambiente é maior. Não é isso o que você quer?
+  Além do mais, vale ressaltar que cores suaves num quarto que já é pequeno serão muito bem vindas. Escolher cores fortes para o espaço é um dos **<em><a href="http://www.trololodemulher.com.br/2009/01/15/10-erros-decoracao-quarto/">10 erros na decoração e bem-estar do seu quarto</a></em>** já tratados no Bicha Fêmea. Você não vai querer cemetê-los, certo? Há pelo menos duas razões para suavizar as cores nesse ambiente: a primeira razão é que cores acentuadas no local onde você vai descansar são sempre uma boa pedida, porque acalmam, e o segundo propósito é que cores claras dão a sensação de que o ambiente é maior. Não é isso o que você quer?
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Sugestão para decorar a cortina na janela de seu quarto, de modo que o ambiente te remeta a romantismo e muito charme…</em></strong>
+  **<em>Sugestão para decorar a cortina na janela de seu quarto, de modo que o ambiente te remeta a romantismo e muito charme…</em>**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -76,7 +76,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
       </p>
       
       <p style="text-align: justify;">
-        O Móbile Primavera está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">basta clicar</a></strong>!
+        O Móbile Primavera está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">basta clicar</a>**!
       </p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Sugestão de espelho com moldura clássica, e que pode ser usado em uma composição ao sabor de sua imaginação…</em></strong>
+  **<em>Sugestão de espelho com moldura clássica, e que pode ser usado em uma composição ao sabor de sua imaginação…</em>**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -118,7 +118,7 @@ Você tem **_pouco espaço_** em casa? Então, assim como na maioria das casas d
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong>Espelho Provençal</strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O **Espelho Provençal** está a venda no **Mercado de Artes**, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
     
@@ -149,13 +149,13 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Decoração de quartos: cabeceiras.](http://www.trololodemulher.com.br/2009/04/30/cabeceiras-cama-casal/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a>> Quartos: soluções de decoração para pouco espaço.
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>> Quartos: soluções de decoração para pouco espaço.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

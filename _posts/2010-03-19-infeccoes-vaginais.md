@@ -1,7 +1,7 @@
 ---
-id: 2788
+
 title: Dicas para evitar infecções vaginais no verão.
-date: 2010-03-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/19/infeccoes-vaginais/

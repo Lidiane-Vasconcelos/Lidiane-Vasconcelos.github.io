@@ -1,7 +1,7 @@
 ---
-id: 3277
+
 title: Hoje tem lançamento de sorteio de uma lindeza por aqui…
-date: 2014-01-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/30/sorteio-organizador-tecido/
@@ -30,7 +30,7 @@ A gente gosta de ter as coisas organizadas de maneira prática, tudo para facili
 </p>
 
 <p style="text-align: justify;">
-  Essa delicadeza é um dos vários produtos criados pela <strong>Jê Pereira</strong>, a arteira por trás das criações da <strong><em><a href="http://www.etsy.com/shop/DreamsFactoryByJeane" target="_blank">Dreams Factory</a></em></strong>.
+  Essa delicadeza é um dos vários produtos criados pela **Jê Pereira**, a arteira por trás das criações da **<em><a href="http://www.etsy.com/shop/DreamsFactoryByJeane" target="_blank">Dreams Factory</a></em>**.
 </p>
 
 <p style="text-align: center;">
@@ -46,13 +46,13 @@ A gente gosta de ter as coisas organizadas de maneira prática, tudo para facili
 &nbsp;
 
 <p style="text-align: center;">
-  <strong><a href="http://www.etsy.com/pt/shop/DreamsFactoryByJeane?section_id=14082441&ref=shopsection_leftnav_1" target="_blank"><span style="font-size: medium;">Cozinha</span></a></strong><span style="font-size: medium;"> | <strong><a href="http://www.etsy.com/pt/shop/DreamsFactoryByJeane?section_id=14748826&ref=shopsection_leftnav_2" target="_blank">Bebês</a></strong> | <strong><a href="http://www.etsy.com/pt/shop/DreamsFactoryByJeane?section_id=14914536&ref=shopsection_leftnav_4" target="_blank">Produtos em promoção</a></strong> | <strong><a href="http://www.etsy.com/shop/DreamsFactoryByJeane" target="_blank">Toda a loja aqui</a></strong></span>
+  **<a href="http://www.etsy.com/pt/shop/DreamsFactoryByJeane?section_id=14082441&ref=shopsection_leftnav_1" target="_blank"><span style="font-size: medium;">Cozinha</span></a>**<span style="font-size: medium;"> | **<a href="http://www.etsy.com/pt/shop/DreamsFactoryByJeane?section_id=14748826&ref=shopsection_leftnav_2" target="_blank">Bebês</a>** | **<a href="http://www.etsy.com/pt/shop/DreamsFactoryByJeane?section_id=14914536&ref=shopsection_leftnav_4" target="_blank">Produtos em promoção</a>** | **<a href="http://www.etsy.com/shop/DreamsFactoryByJeane" target="_blank">Toda a loja aqui</a>**</span>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Quer participar da brincadeira e concorrer a esse presente lindo de viver que você viu acima? É muito simples:<span style="color: #dd8484;"> <strong>basta deixar um comentário neste post, dizendo que, sim, você quer participar do sorteio, e cruzar os dedos.</strong></span>
+  Quer participar da brincadeira e concorrer a esse presente lindo de viver que você viu acima? É muito simples:<span style="color: #dd8484;"> **basta deixar um comentário neste post, dizendo que, sim, você quer participar do sorteio, e cruzar os dedos.**</span>
 </p>
 
 <p style="text-align: justify;">
@@ -60,7 +60,7 @@ A gente gosta de ter as coisas organizadas de maneira prática, tudo para facili
 </p>
 
 <p style="text-align: justify;">
-  As inscrições começam hoje e vão até o dia 07 de Fevereiro, com divulgação do nome da sortuda no dia 11, também de Fevereiro. Eu enviarei um e-mail questionando os dados de entrega que, <strong><span style="text-decoration: underline;">ATENÇÃO</span></strong>, também pode ser para fora do Brasil. Obaaaa!!! o/o/o/… dessa vez as bichas fêmeas navegantes residentes em terras gringas também podem participar, viu?
+  As inscrições começam hoje e vão até o dia 07 de Fevereiro, com divulgação do nome da sortuda no dia 11, também de Fevereiro. Eu enviarei um e-mail questionando os dados de entrega que, **<span style="text-decoration: underline;">ATENÇÃO</span>**, também pode ser para fora do Brasil. Obaaaa!!! o/o/o/… dessa vez as bichas fêmeas navegantes residentes em terras gringas também podem participar, viu?
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +70,7 @@ A gente gosta de ter as coisas organizadas de maneira prática, tudo para facili
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ A gente gosta de ter as coisas organizadas de maneira prática, tudo para facili
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

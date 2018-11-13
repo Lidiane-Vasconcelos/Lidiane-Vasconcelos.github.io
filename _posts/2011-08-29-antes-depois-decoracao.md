@@ -1,7 +1,7 @@
 ---
-id: 3043
+
 title: 'Antes &#038; Depois de mesa + camiseta na decoração da casa…'
-date: 2011-08-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/29/antes-depois-decoracao/
@@ -21,11 +21,11 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg"><img class="alignnone size-full wp-image-6838" title="surpresa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg" alt="" width="559" height="600" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg"><img class="alignnone size-full wp-image-6838" title="surpresa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg" alt="" width="559" height="600" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
 </p>
 
 <p align="justify">
-  Basta um pouco de jeito com as atividades manuais, e menos dinheiro ainda, para que você pegue um móvel condenado ao lixo por muitos e transforme ele em algo novo, totalmente renovado. Foi exatamente o que fez a <strong>Lilly</strong>, editora do <strong><a href="http://blogdareforma.wordpress.com/" target="_blank">Blog da Reforma</a></strong>, quando resolveu dar um <em>up</em> nessa mesinha, bem acabadinha, logo a seguir…
+  Basta um pouco de jeito com as atividades manuais, e menos dinheiro ainda, para que você pegue um móvel condenado ao lixo por muitos e transforme ele em algo novo, totalmente renovado. Foi exatamente o que fez a **Lilly**, editora do **<a href="http://blogdareforma.wordpress.com/" target="_blank">Blog da Reforma</a>**, quando resolveu dar um <em>up</em> nessa mesinha, bem acabadinha, logo a seguir…
 </p>
 
 &nbsp;
@@ -37,7 +37,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="justify">
-  Sabe quanto a <strong>Lilly </strong>pagou por essa mesinha? Somente R$ 5,00! Creia! Mas ela enxergou que havia jeito para a mesinha, e colocou a mão na massa. O resultado? Veja a seguir e leia o que ela mesma explicou o que fez e como fez…
+  Sabe quanto a **Lilly **pagou por essa mesinha? Somente R$ 5,00! Creia! Mas ela enxergou que havia jeito para a mesinha, e colocou a mão na massa. O resultado? Veja a seguir e leia o que ela mesma explicou o que fez e como fez…
 </p>
 
 &nbsp;
@@ -55,11 +55,11 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="justify">
-  Eu acho que ficou muito boa mesmo! Você concorda? Pois é… há jeito para tudo! Se você ainda desconfia de que móveis usados são difíceis de serem repaginados ou não sabe por onde começar para melhorar o visual de algo que você tenha em casa, sugiro a leitura do post “<strong><a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/">Móvel usado e antigo: dá mesmo para repaginá-lo?</a></strong>”, pois certamente você vai se empolgar, bonita. Certamente…
+  Eu acho que ficou muito boa mesmo! Você concorda? Pois é… há jeito para tudo! Se você ainda desconfia de que móveis usados são difíceis de serem repaginados ou não sabe por onde começar para melhorar o visual de algo que você tenha em casa, sugiro a leitura do post “**<a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/">Móvel usado e antigo: dá mesmo para repaginá-lo?</a>**”, pois certamente você vai se empolgar, bonita. Certamente…
 </p>
 
 <p align="justify">
-  Mais do que te inspirar para renovar um móvel de sua casa, esse post de <strong>Antes&Depois</strong> quer mostrar que algumas coisas podem mesmo se transformar, ganhar nova função. Sabe o que a <strong>Renata Becker</strong>, que comanda o blog <strong><a href="http://vidaloucadecasada.blogspot.com/" target="_blank">Vida Louca de Casada</a></strong>, fez na casa dela? Ela usou uma camiseta para confeccionar uma almofada… pois, é! Se você tiver uma camiseta abandonada no fundo do armário, corre e veja se ela tem potencial. A inspiração para isso? Veja a seguir…
+  Mais do que te inspirar para renovar um móvel de sua casa, esse post de **Antes&Depois** quer mostrar que algumas coisas podem mesmo se transformar, ganhar nova função. Sabe o que a **Renata Becker**, que comanda o blog **<a href="http://vidaloucadecasada.blogspot.com/" target="_blank">Vida Louca de Casada</a>**, fez na casa dela? Ela usou uma camiseta para confeccionar uma almofada… pois, é! Se você tiver uma camiseta abandonada no fundo do armário, corre e veja se ela tem potencial. A inspiração para isso? Veja a seguir…
 </p>
 
 &nbsp;
@@ -71,7 +71,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="justify">
-  Foi numa dessas arrumações do armário que a <strong>Renata</strong> encontrou a camiseta esquecida. Empolgada com o achado, como conta em detalhes<strong> <a href="http://vidaloucadecasada.blogspot.com/2011/07/faca-vc-mesmo-almofada-de-camiseta.html" target="_blank">neste post publicado em seu blog</a></strong>, ela resolveu investir na transformação…
+  Foi numa dessas arrumações do armário que a **Renata** encontrou a camiseta esquecida. Empolgada com o achado, como conta em detalhes** <a href="http://vidaloucadecasada.blogspot.com/2011/07/faca-vc-mesmo-almofada-de-camiseta.html" target="_blank">neste post publicado em seu blog</a>**, ela resolveu investir na transformação…
 </p>
 
 &nbsp;
@@ -111,13 +111,13 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="center">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://twitter.com/#!/bichafemea">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157">Facebook</a> </strong>
+  **<a href="http://twitter.com/#!/bichafemea">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157">Facebook</a> **
 </p>

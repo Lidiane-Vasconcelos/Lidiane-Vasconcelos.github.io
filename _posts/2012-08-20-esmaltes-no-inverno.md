@@ -1,7 +1,7 @@
 ---
-id: 3174
+
 title: Você é das que se rendem aos tons fechados de esmaltes no inverno?
-date: 2012-08-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/20/esmaltes-no-inverno/
@@ -26,13 +26,13 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <strong><em>1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque</em>.” Cláudia Ramalho | </strong><a href="http://www.blogfeitoamao.com/" target="_blank"><strong>Feito a Mão</strong></a>
+>   **<em>1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque</em>.” Cláudia Ramalho | **<a href="http://www.blogfeitoamao.com/" target="_blank">**Feito a Mão**</a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>2 –<em> “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon.</em>” Mayara Santana | </strong><a href="http://mayaramonica.blogspot.com.br/" target="_blank"><strong>My Diary</strong></a>
+>   **2 –<em> “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon.</em>” Mayara Santana | **<a href="http://mayaramonica.blogspot.com.br/" target="_blank">**My Diary**</a>
 > </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3781
+
 title: 'Presentes criativos online: veja 5 motivos para comprá-los.'
-date: 2017-08-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/11/presentes-criativos/
@@ -10,7 +10,7 @@ categories:
   - Publieditorial
 ---
 <p style="text-align: justify;">
-  <strong>Presentes criativos</strong> são perfeitos quando o objetivo é algo diferente, que surpreenda a pessoa presenteada e, claro, que seja útil. O <em>design</em> inovador desses queridinhos encantam quem recebe o mimo, mas também a gente que presenteia, por isso a emoção gostosa de fazer alguém feliz já começa no momento da escolha dentre as tantas possibilidades inusitadas.
+  **Presentes criativos** são perfeitos quando o objetivo é algo diferente, que surpreenda a pessoa presenteada e, claro, que seja útil. O <em>design</em> inovador desses queridinhos encantam quem recebe o mimo, mas também a gente que presenteia, por isso a emoção gostosa de fazer alguém feliz já começa no momento da escolha dentre as tantas possibilidades inusitadas.
 </p>
 
 <p style="text-align: justify;">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Comodidade</strong> é a principal vantagem da compra online, porque comprar sem sair de casa significa poupar tempo e dinheiro. Além do mais, você ainda pode optar por várias formas de pagamento: boleto, transferência bancária e até PagSeguro! Esse é um diferencial, para citar somente um exemplo, da <strong>This Dream – Presentes Criativos</strong>, e isso tudo facilita bastante suas compras, já que as opções de pagamento se adequam a sua necessidade.
+  **Comodidade** é a principal vantagem da compra online, porque comprar sem sair de casa significa poupar tempo e dinheiro. Além do mais, você ainda pode optar por várias formas de pagamento: boleto, transferência bancária e até PagSeguro! Esse é um diferencial, para citar somente um exemplo, da **This Dream – Presentes Criativos**, e isso tudo facilita bastante suas compras, já que as opções de pagamento se adequam a sua necessidade.
 </p>
 
 <p align="center">
@@ -34,15 +34,15 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <em>Presentes criativos pensados para os pequenos: lindos de viver, com design diferenciado, coloridos como eles amam, práticos e úteis. Todos disponíveis a um clique na loja virtual <strong>This Dream – Presentes Criativos</strong>.</em><em> </em>
+  <em>Presentes criativos pensados para os pequenos: lindos de viver, com design diferenciado, coloridos como eles amam, práticos e úteis. Todos disponíveis a um clique na loja virtual **This Dream – Presentes Criativos**.</em><em> </em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Variedades</strong> é um ponto bastante importante encontrado em lojas completas como a <strong>This Dream – Presentes Criativos</strong>, o que nos permite ver muitas opções para mimar quem a gente quer bem num mix de produtos bastante amplo. Isso, pra quem quer evitar filas, trânsito, vendedores mal educados e o cansaço que tudo isso proporciona&#8230; é luxo, glória e poder!
+  **Variedades** é um ponto bastante importante encontrado em lojas completas como a **This Dream – Presentes Criativos**, o que nos permite ver muitas opções para mimar quem a gente quer bem num mix de produtos bastante amplo. Isso, pra quem quer evitar filas, trânsito, vendedores mal educados e o cansaço que tudo isso proporciona&#8230; é luxo, glória e poder!
 </p>
 
 <p style="text-align: justify;">
-  <strong>Presentear quem está longe</strong> é um carinho possível quando você conta com serviços <em>superultramega</em> particulares como os que a This Dream oferece. A loja manda suas escolhas já embaladas para presente sem qualquer custo adicional, e os produtos disponíveis no site são para pronta entrega, ou seja, você escolhe e envia. Além dos mais, suas compras saem da loja em menos de 24h!
+  **Presentear quem está longe** é um carinho possível quando você conta com serviços <em>superultramega</em> particulares como os que a This Dream oferece. A loja manda suas escolhas já embaladas para presente sem qualquer custo adicional, e os produtos disponíveis no site são para pronta entrega, ou seja, você escolhe e envia. Além dos mais, suas compras saem da loja em menos de 24h!
 </p>
 
 <p align="center">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Disponibilidade 24 x 7</strong> para o seu conforto, já que as lojas online estão abertas a qualquer momento, em qualquer dia da semana, para você fazer pesquisas de produtos. Além do mais, pontos de venda virtuais como a This Dream estão preparados para você acessar de seu computador ou <em>smartphone</em>, já que o site facilita seu acesso na versão <em>mobile</em>.
+  **Disponibilidade 24 x 7** para o seu conforto, já que as lojas online estão abertas a qualquer momento, em qualquer dia da semana, para você fazer pesquisas de produtos. Além do mais, pontos de venda virtuais como a This Dream estão preparados para você acessar de seu computador ou <em>smartphone</em>, já que o site facilita seu acesso na versão <em>mobile</em>.
 </p>
 
 <p style="text-align: justify;">
-  <strong>Novidades</strong> a um clique! Na This Dream você pode ter certeza de que encontrará itens diferenciados de presentes criativos, porque a loja trabalha com as melhores marcas do mercado. Além disso, eles estão sempre antenados com as novidades e tendências, participando das maiores feiras internacionais do segmento que ocorrem em São Paulo.
+  **Novidades** a um clique! Na This Dream você pode ter certeza de que encontrará itens diferenciados de presentes criativos, porque a loja trabalha com as melhores marcas do mercado. Além disso, eles estão sempre antenados com as novidades e tendências, participando das maiores feiras internacionais do segmento que ocorrem em São Paulo.
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Importante ressaltar, ainda, que na <strong>This Dream – Presentes Criativos</strong> todos os produtos de personagens são das linhas oficiais, seja da Disney, Marvel, Hora da Aventura ou Snoopy, e todos os itens de plástico são <em>BPA Free</em>.
+  Importante ressaltar, ainda, que na **This Dream – Presentes Criativos** todos os produtos de personagens são das linhas oficiais, seja da Disney, Marvel, Hora da Aventura ou Snoopy, e todos os itens de plástico são <em>BPA Free</em>.
 </p>
 
 <p style="text-align: justify;">

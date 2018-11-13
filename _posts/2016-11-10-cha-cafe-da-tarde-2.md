@@ -1,7 +1,7 @@
 ---
-id: 3700
+
 title: Chá ou café da tarde com amigas, dicas e ideias
-date: 2016-11-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/10/cha-cafe-da-tarde-2/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Você precisa de uma razão especial para <strong><em>receber amigas num chá ou café da tarde</em></strong>? Gostaria de promover um evento desses mas não imagina por onde começar ou <strong><em>precisa de alguma inspiração</em></strong>? Há algum tempo editei <strong>um dos posts mais visitados do Trololó de Mulher</strong>, e ele foi pensado pra ser completinho: dos motivos que te levariam a promover um encontrinho com as amigas, até dicas de cardápio, decoração, etc.
+  Você precisa de uma razão especial para **<em>receber amigas num chá ou café da tarde</em>**? Gostaria de promover um evento desses mas não imagina por onde começar ou **<em>precisa de alguma inspiração</em>**? Há algum tempo editei **um dos posts mais visitados do Trololó de Mulher**, e ele foi pensado pra ser completinho: dos motivos que te levariam a promover um encontrinho com as amigas, até dicas de cardápio, decoração, etc.
 </p>
 
 &nbsp;

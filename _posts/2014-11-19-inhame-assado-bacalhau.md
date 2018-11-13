@@ -1,7 +1,7 @@
 ---
-id: 3365
+
 title: Bolinho de inhame assado com bacalhau…huuummmm!
-date: 2014-11-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/19/inhame-assado-bacalhau/
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes</strong>
+  **Ingredientes**
 </p>
 
 <p align="justify">
@@ -66,19 +66,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo da massa: </strong>
+  **Modo de preparo da massa: **
 </p>
 
 > <p align="justify">
->   <strong>Descascar o inhame, cortá-lo em pedaços pequenos e colocar numa bacia com água e sal para não escurecer. Cozinhar em panela aberta com água cobrindo até ficar no ponto de colocar o palito e estiver cozido, mas sem desmanchar muito. Escorrer a água e voltar ao fogo baixo só para secar bem. Deixe esfriar um pouco e, ainda quente, amasse no amassador de batatas ou no garfo. Reserve.”</strong>
+>   **Descascar o inhame, cortá-lo em pedaços pequenos e colocar numa bacia com água e sal para não escurecer. Cozinhar em panela aberta com água cobrindo até ficar no ponto de colocar o palito e estiver cozido, mas sem desmanchar muito. Escorrer a água e voltar ao fogo baixo só para secar bem. Deixe esfriar um pouco e, ainda quente, amasse no amassador de batatas ou no garfo. Reserve.”**
 > </p>
 
 <p align="justify">
-  <strong>Modo de preparo do recheio:</strong>
+  **Modo de preparo do recheio:**
 </p>
 
 > <p align="justify">
->   <strong>Refogue a cebola até ficar bem transparente. Deixe o bacalhau de molho e cozinhe até ficar macio. Desfie. Acrescente a cebola refogada com a cenoura, pimenta e orégano. Junte a massa de inhame ao bacalhau já temperado e faça os bolinhos. Leve ao forno aquecido a 200ºC por 30 min.”</strong>
+>   **Refogue a cebola até ficar bem transparente. Deixe o bacalhau de molho e cozinhe até ficar macio. Desfie. Acrescente a cebola refogada com a cenoura, pimenta e orégano. Junte a massa de inhame ao bacalhau já temperado e faça os bolinhos. Leve ao forno aquecido a 200ºC por 30 min.”**
 > </p>
 
 <p align="center">
@@ -86,23 +86,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">**Hamburguer de grão de bico facinho, facinho…**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage (no molho caseiro)**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

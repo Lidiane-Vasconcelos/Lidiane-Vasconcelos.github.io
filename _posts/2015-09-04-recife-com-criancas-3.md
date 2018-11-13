@@ -1,7 +1,7 @@
 ---
-id: 3481
+
 title: 'Agenda Recife com crianças: 05, 06 e 07 de Setembro.'
-date: 2015-09-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/04/recife-com-criancas-3/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Sábado}</strong>
+  **{Sábado}**
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Domingo}</strong>
+  **{Domingo}**
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Sábado, Domingo e Segunda}</strong>
+  **{Sábado, Domingo e Segunda}**
 </p>
 
 <p align="justify">

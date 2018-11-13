@@ -1,7 +1,7 @@
 ---
-id: 3414
+
 title: 'Nugget de Frango: caseiro, assado e saudável.'
-date: 2015-03-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/17/nugget-frango-saudavel-assado/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -50,19 +50,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para empanar :</strong>
+  **Para empanar :**
 </p>
 
 > <p align="justify">
->   <strong>1 Clara e quanto baste de farinha de aveia ou farinha de amaranto ou farinha quinoa (eu usei amaranto).</strong>
+>   **1 Clara e quanto baste de farinha de aveia ou farinha de amaranto ou farinha quinoa (eu usei amaranto).**
 > </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Bata todos os ingredientes, menos a clara e a farinha, no mixer, processador (ou caso não tenha, no liquidificador, mas será preciso um pouco de paciência para bater). Quando a massa estiver homogênea, molde os bolinhos, imitando o formato de nuggets, passe na clara de ovo e depois na farinha escolhida. Leve ao forno pré aquecido (180ºC) por 25-30 minutos ou até dourar dos dois lados. Pode ser servido como petisco ou no dia a dia com arroz, feijão e salada.</strong>
+>   **Bata todos os ingredientes, menos a clara e a farinha, no mixer, processador (ou caso não tenha, no liquidificador, mas será preciso um pouco de paciência para bater). Quando a massa estiver homogênea, molde os bolinhos, imitando o formato de nuggets, passe na clara de ovo e depois na farinha escolhida. Leve ao forno pré aquecido (180ºC) por 25-30 minutos ou até dourar dos dois lados. Pode ser servido como petisco ou no dia a dia com arroz, feijão e salada.**
 > </p>
 
 <p align="center">
@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank"><strong>Receita mais fácil não existe: tabule de quinoa</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank">**Receita mais fácil não existe: tabule de quinoa**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank"><strong>Filé de saint peter enroladinho no aspargo e salada de lentilha</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank">**Filé de saint peter enroladinho no aspargo e salada de lentilha**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank"><strong>Suflê de abobrinha com hortelã: bonito, gostoso e saudável</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank">**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3454
+
 title: 'Brigadeiro de colher saudável: xô, TPM!'
-date: 2015-08-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/05/brigadeiro-de-colher-saudavel/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -38,11 +38,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   “<strong><em>Leve ao fogo e vai baixo e vai mexendo sempre, até engrossar. Demora um pouco, mas engrossa. Coloque nas tacinhas e polvilhe granulado.”</em></strong>
+>   “**<em>Leve ao fogo e vai baixo e vai mexendo sempre, até engrossar. Demora um pouco, mas engrossa. Coloque nas tacinhas e polvilhe granulado.”</em>**
 > </p>
 
 <p align="center">
@@ -50,23 +50,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank"><strong>Sopa de tomate com couve: para aquecer neste Inverno.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank">**Sopa de tomate com couve: para aquecer neste Inverno.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank"><strong>Bolo de banana sem glúten e light… e cheiroso!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank">**Bolo de banana sem glúten e light… e cheiroso!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/" target="_blank"><strong>Tofu ao forno… com toques especiais!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/" target="_blank">**Tofu ao forno… com toques especiais!**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

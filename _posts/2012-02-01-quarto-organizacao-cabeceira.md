@@ -1,7 +1,7 @@
 ---
-id: 3110
+
 title: 'Quarto: ideias de organização para a cabeceira da cama.'
-date: 2012-02-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/02/01/quarto-organizacao-cabeceira/
@@ -11,11 +11,11 @@ categories:
   - Quarto
 ---
 <p style="text-align: justify;">
-  A forma como a <strong>cabeceira</strong> <strong>da cama</strong> pode ser planejada, <strong>decorada </strong>e <strong>organizada</strong> depende exclusivamente dos hábitos de cada um. Há quem leia antes de dormir, tome água durante a noite, precise de um relógio despertador ou precise acomodar remédios. Como organizar estes itens numa cabeceira bonita, útil e que tenha espaço para essas coisas?
+  A forma como a **cabeceira** **da cama** pode ser planejada, **decorada **e **organizada** depende exclusivamente dos hábitos de cada um. Há quem leia antes de dormir, tome água durante a noite, precise de um relógio despertador ou precise acomodar remédios. Como organizar estes itens numa cabeceira bonita, útil e que tenha espaço para essas coisas?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Este post é justamente para te mostrar ideias legais, que inspiram a aplicação dessas soluções em sua casa aí, bem real. As referências são todas do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>, e uma delas pode servir exatamente para suas necessidades. Será? Confere!
+  Este post é justamente para te mostrar ideias legais, que inspiram a aplicação dessas soluções em sua casa aí, bem real. As referências são todas do site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**, e uma delas pode servir exatamente para suas necessidades. Será? Confere!
 </p>
 
 &nbsp;

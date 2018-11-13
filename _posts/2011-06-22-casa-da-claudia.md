@@ -1,7 +1,7 @@
 ---
-id: 3014
+
 title: 'Prateleira do Bicha Fêmea: Casa da Claudia'
-date: 2011-06-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/22/casa-da-claudia/
@@ -12,7 +12,7 @@ categories:
 Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _fofurices_ e _fru-frus_ decorativos, a **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">Casa da Claudia</a>** é uma verdadeira tentação… sim, é esta loja virtual cheia de coisinhas tentadoras que está na **Prateleira do Bicha Fêmea** do mês, e isso vai te deixar descontrolada… quer apostar?
 
 <p style="text-align: justify;">
-  Ah! Você sabe de quem é essa loja virtual fofíssima? Não te contaram? Eu conto: é da <strong>Claudia Medeiros</strong>, bonita! Ela mesma, a dona do blog <strong><a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa…</a></strong>
+  Ah! Você sabe de quem é essa loja virtual fofíssima? Não te contaram? Eu conto: é da **Claudia Medeiros**, bonita! Ela mesma, a dona do blog **<a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa…</a>**
 </p>
 
 <p style="text-align: justify;">
@@ -56,7 +56,7 @@ Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _
 </p>
 
 <p style="text-align: justify;">
-  Ficou curiosa e quer ver para crer a variedade de produtos e os preços convidativos? É só <strong><a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">clicar aqui</a></strong>, dar um pulinho lá e avaliar… e se controlar, coisa que acho difícil… <em>cof cof cof…</em>
+  Ficou curiosa e quer ver para crer a variedade de produtos e os preços convidativos? É só **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">clicar aqui</a>**, dar um pulinho lá e avaliar… e se controlar, coisa que acho difícil… <em>cof cof cof…</em>
 </p>
 
 **Mais no Bicha Fêmea…**
@@ -72,17 +72,17 @@ Para as bichas fêmeas navegantes que gostam tanto de encher a casa com mimos, _
 **[Prateleira do Bicha Fêmea: Infinita Arte for Baby](http://www.trololodemulher.com.br/2010/12/15/infinita-arte-for-baby/)**
 
 <p style="text-align: center;">
-  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>

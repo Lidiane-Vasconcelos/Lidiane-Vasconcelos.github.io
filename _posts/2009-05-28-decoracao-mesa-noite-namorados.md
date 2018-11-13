@@ -1,7 +1,7 @@
 ---
-id: 2667
+
 title: Dicas de decoração para sua mesa de jantar no dia dos namorados.
-date: 2009-05-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/28/decoracao-mesa-noite-namorados/
@@ -47,6 +47,6 @@ Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart<
 
 <span style="color: #800080;">Diz aí, você tem planos para a noite do dia dos namorados? E dicas?</span>
 
-<span style="color: #800080;"><strong>Veja mais dicas e inspirações para o dia dos namorados no Bicha Fêmea&#8230;</strong></span>
+<span style="color: #800080;">**Veja mais dicas e inspirações para o dia dos namorados no Bicha Fêmea&#8230;**</span>
 
-<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/" target="_self">Dia dos namorados: dicas e sugestões. </a></em></strong></span>
+<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/" target="_self">Dia dos namorados: dicas e sugestões. </a></em>**</span>

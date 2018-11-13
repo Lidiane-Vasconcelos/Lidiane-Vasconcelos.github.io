@@ -1,7 +1,7 @@
 ---
-id: 2644
+
 title: Como decorar paredes com quadros.
-date: 2009-04-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/07/decoracao-parede-quadros/
@@ -69,14 +69,14 @@ Imaginaram quanto de efeito bacana podemos conseguir se enfeitarmos as paredes c
 
 <span>Então diz aí, você tem sugestões nesse sentido? Você já é adepta desse recurso decorativo?</span>
 
-<span><strong>Mais no Bicha Fêmea&#8230;</strong></span>
+<span>**Mais no Bicha Fêmea&#8230;**</span>
 
-<span><strong><em><a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">Dicas de decoração para a parede do quarto, sala e banheiro.</a></em></strong></span>
+<span>**<em><a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">Dicas de decoração para a parede do quarto, sala e banheiro.</a></em>**</span>
 
-<span><strong><em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher as cores para a parede?</a></em></strong></span>
+<span>**<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher as cores para a parede?</a></em>**</span>
 
-<span><strong><em><a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Como decorar a parede da escada?</a></em></strong></span>
+<span>**<em><a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Como decorar a parede da escada?</a></em>**</span>
 
-<span><strong><em><a href="http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/" target="_self">Reutilização de caixas de ovos na decoração</a></em></strong></span>
+<span>**<em><a href="http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/" target="_self">Reutilização de caixas de ovos na decoração</a></em>**</span>
 
-<span><strong><em><a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/" target="_self">Como decorar um mesa de fibra natural e vidro?</a></em></strong></span>
+<span>**<em><a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/" target="_self">Como decorar um mesa de fibra natural e vidro?</a></em>**</span>

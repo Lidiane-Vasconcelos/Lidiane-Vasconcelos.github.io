@@ -1,7 +1,7 @@
 ---
-id: 3682
+
 title: '4º post da série para organização da casa: closet.'
-date: 2016-10-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/06/organizacao-da-casa-5/
@@ -10,27 +10,27 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">terceiro sobre penteadeira</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a **organização da casa**, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">terceiro sobre penteadeira</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
-  O <strong>Trololó de Mulher</strong> teve o privilégio de receber dicas preciosas de <strong><em>Personal Organizers</em></strong> queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o <strong>post Nº4</strong>, será sobre <strong>o <em>closet</em>, </strong>ou o <strong>guarda-roupas. </strong>A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a <strong>Claudia Medeiros, de Campinas – SP. </strong>Confira!
+  O **Trololó de Mulher** teve o privilégio de receber dicas preciosas de **<em>Personal Organizers</em>** queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o **post Nº4**, será sobre **o <em>closet</em>, **ou o **guarda-roupas. **A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a **Claudia Medeiros, de Campinas – SP. **Confira!
 </p>
 
 <p align="justify">
-  Não deixe de conferir <strong>o primeiro post da série</strong>: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">clique aqui e veja como deixar seu home office em ordem</a>!
+  Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">clique aqui e veja como deixar seu home office em ordem</a>!
 </p>
 
 <p align="justify">
-  O <strong>segundo post da série</strong> também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/">clique aqui e veja como deixar sua cozinha um brinco</a>!
+  O **segundo post da série** também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/">clique aqui e veja como deixar sua cozinha um brinco</a>!
 </p>
 
 <p align="justify">
-  O <strong>terceiro</strong> está cheio de dicas muito úteis: <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">clique aqui e veja como deixar sua penteadeira linda de viver</a>!
+  O **terceiro** está cheio de dicas muito úteis: <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">clique aqui e veja como deixar sua penteadeira linda de viver</a>!
 </p>
 
 <p align="justify">
-  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
+  O **quinto post** está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Veja 9 dicas e deixe seu closet impecável!</strong>
+  **Veja 9 dicas e deixe seu closet impecável!**
 </p>
 
 <p align="justify">
-  <em><strong>“</strong>Além de ser Personal Organizer, sou Designer de Interiores, então além de pensar na organização de um espaço sempre penso na questão estética também. Organizado e bonito sempre é melhor, não é? É assim que eu penso. E quando se fala sobre closets, sempre penso que este é um sonho de consumo da maioria das pessoas, mulheres principalmente, que imaginam um closet espaçoso, organizado e com lugar para tudo (inclusive os excessos), mas com a realidade dos imóveis cada vez menores, o que mais se vê é pouco espaço para guardar muito.</em>
+  <em>**“**Além de ser Personal Organizer, sou Designer de Interiores, então além de pensar na organização de um espaço sempre penso na questão estética também. Organizado e bonito sempre é melhor, não é? É assim que eu penso. E quando se fala sobre closets, sempre penso que este é um sonho de consumo da maioria das pessoas, mulheres principalmente, que imaginam um closet espaçoso, organizado e com lugar para tudo (inclusive os excessos), mas com a realidade dos imóveis cada vez menores, o que mais se vê é pouco espaço para guardar muito.</em>
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  A <strong>Claudia Medeiros</strong> também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na minha casa</a><strong>. </strong>A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">perfil no Instagram</a>. Se joga!
+  A **Claudia Medeiros** também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na minha casa</a>**. **A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">perfil no Instagram</a>. Se joga!
 </p>
 
 <p align="center">

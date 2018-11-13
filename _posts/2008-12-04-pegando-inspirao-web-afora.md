@@ -1,7 +1,7 @@
 ---
-id: 2596
+
 title: Inspiração para a decoração de Natal.
-date: 2008-12-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2008/12/04/pegando-inspirao-web-afora/
@@ -19,19 +19,19 @@ categories:
 </p>
 
 <p style="text-align: left;">
-  <strong>Quer mais dicas para a decoração de Natal de sua casa?</strong>
+  **Quer mais dicas para a decoração de Natal de sua casa?**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/" target="_self">Decoração de Natal da bicha fêmea mor: eu!</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/" target="_self">Decoração de Natal da bicha fêmea mor: eu!</a></em>**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2009/12/10/decoracao-da-mesa-de-natal/" target="_self">Dica para a decoração da mesa da sala de jantar no Natal.</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2009/12/10/decoracao-da-mesa-de-natal/" target="_self">Dica para a decoração da mesa da sala de jantar no Natal.</a></em>**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_self">Dicas para a decoração das salas no Natal.</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_self">Dicas para a decoração das salas no Natal.</a></em>**
 </p>
 
 <p style="text-align: center;">

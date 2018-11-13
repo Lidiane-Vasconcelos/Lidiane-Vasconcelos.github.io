@@ -1,7 +1,7 @@
 ---
-id: 2896
+
 title: 4 passos e sua “gaveta da bagunça” ficará impecável!
-date: 2010-10-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/27/4-passos-gaveta-organizada/
@@ -10,7 +10,7 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Todo mundo, com algumas exceções, tem “<strong><em>a gaveta da bagunça</em></strong>” em casa, não é verdade? Eu tinha duas. Isto mesmo: tinha! Minhas navegações <em>bloguísticas</em> me levaram a aprender a <strong><em>organizar essas gavetas</em></strong>, eliminando tudo o que era desnecessário estar lá.
+  Todo mundo, com algumas exceções, tem “**<em>a gaveta da bagunça</em>**” em casa, não é verdade? Eu tinha duas. Isto mesmo: tinha! Minhas navegações <em>bloguísticas</em> me levaram a aprender a **<em>organizar essas gavetas</em>**, eliminando tudo o que era desnecessário estar lá.
 </p>
 
 <p style="text-align: justify;">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  1 – <strong><em>Esvaziar</em></strong>;
+  1 – **<em>Esvaziar</em>**;
 </p>
 
 <p style="text-align: justify;">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  2 – <strong><em>Separar o que não serve</em></strong>;
+  2 – **<em>Separar o que não serve</em>**;
 </p>
 
 <p style="text-align: justify;">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  3 – <strong><em>Categorizar</em></strong>;
+  3 – **<em>Categorizar</em>**;
 </p>
 
 <p style="text-align: justify;">
@@ -72,7 +72,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  4 – <strong><em>Agrupar objetos na gaveta</em></strong>;
+  4 – **<em>Agrupar objetos na gaveta</em>**;
 </p>
 
 <p style="text-align: justify;">

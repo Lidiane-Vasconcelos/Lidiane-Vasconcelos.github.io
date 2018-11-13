@@ -1,7 +1,7 @@
 ---
-id: 3332
+
 title: 'Se sua casa estiver em ordem, não duvide: você ficará bem.'
-date: 2014-08-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/18/casa-em-ordem-2/
@@ -36,19 +36,19 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 &nbsp;
 
 <p align="justify">
-  <strong>Leia também:</strong>
+  **Leia também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/" target="_blank"><strong>Casa em ordem, já! Como? Veja 19 dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/" target="_blank">**Casa em ordem, já! Como? Veja 19 dicas.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/" target="_blank"><strong>Siga 10 passos e o canto da bagunça deixará de existir.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/" target="_blank">**Siga 10 passos e o canto da bagunça deixará de existir.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank"><strong>18 hábitos da pessoa organizada na arrumação da casa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">**18 hábitos da pessoa organizada na arrumação da casa.**</a>
 </p>
 
 <p align="justify">
@@ -60,15 +60,15 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <strong>Vale o clique!</strong>
+  **Vale o clique!**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-organizacao-da-casa/" target="_blank"><strong>Dicas de organização para toda a casa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/dicas-organizacao-da-casa/" target="_blank">**Dicas de organização para toda a casa.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/5-dicas-de-oganizacao/" target="_blank"><strong>5 dicas de organização, passe bem, e seja feliz!</strong></a>
+  <a href="http://www.decoracaodacasa.com/5-dicas-de-oganizacao/" target="_blank">**5 dicas de organização, passe bem, e seja feliz!**</a>
 </p>
 
 <p align="justify">
@@ -76,19 +76,19 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank"><strong>Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank">**Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/" target="_blank"><strong>Dicas para facilitar a rotina doméstica.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/" target="_blank">**Dicas para facilitar a rotina doméstica.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/" target="_blank"><strong>Ações esquecidas no cuidado da casa, porém necessárias.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/" target="_blank">**Ações esquecidas no cuidado da casa, porém necessárias.**</a>
 </p>
 
 <p align="center">

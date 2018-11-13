@@ -1,7 +1,7 @@
 ---
-id: 2676
+
 title: 'Dicas e imagens: como maximizar o banheiro.'
-date: 2009-06-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/30/dicas-como-aumentar-banheiro/
@@ -26,13 +26,13 @@ Box de vidro em pequenos banheiros dão a falsa impressão (mas aí a gente já 
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="HGTV.com" src="http://img.hgtv.com/HGTV/2009/02/14/dp-pubillones-bathroom-vanity_s4x3_lg.jpg" alt="HGTV.com" />
 </p>
 
-Um armário flutuante sob o balcão oferece muito estilo ao banheiro (e já fiquei daqui de olho no charme que ele pode proporcionar), e deixa o piso livre para os nossos olhos. Isso também da a impressão de que o espaço é maior. Tem muito mais <a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self"><strong><em>dicas para armários no banheiro</em></strong> </a>antes publicadas no Bicha Fêmea, hein?!
+Um armário flutuante sob o balcão oferece muito estilo ao banheiro (e já fiquei daqui de olho no charme que ele pode proporcionar), e deixa o piso livre para os nossos olhos. Isso também da a impressão de que o espaço é maior. Tem muito mais <a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">**<em>dicas para armários no banheiro</em>** </a>antes publicadas no Bicha Fêmea, hein?!
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="HGTV.com" src="http://img.hgtv.com/HGTV/2004/06/01/sollugub_Picture001_lg.jpg" alt="HGTV.com" />
 </p>
 
-É importante ter espaço para armazenar coisas no banheiro, como embaixo da pia (o mais comum), e também espaço para pendurar as toalhas. Tudo deve contribuir para que o balcão fique o mais vazio possível a fim de eliminar a sensação de bagunça em um banheiro pequeno. Aliás, se você gosta do banheiro organizado e bonito, certamente vai gostar de ler <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self"><strong><em>dicas para organizar e embelezar o banheiro</em></strong> </a>dadas pelas leitoras do Bicha Fêmea, _hã_?!
+É importante ter espaço para armazenar coisas no banheiro, como embaixo da pia (o mais comum), e também espaço para pendurar as toalhas. Tudo deve contribuir para que o balcão fique o mais vazio possível a fim de eliminar a sensação de bagunça em um banheiro pequeno. Aliás, se você gosta do banheiro organizado e bonito, certamente vai gostar de ler <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self">**<em>dicas para organizar e embelezar o banheiro</em>** </a>dadas pelas leitoras do Bicha Fêmea, _hã_?!
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="HGTV.com" src="http://img.hgtv.com/HGTV/2005/12/16/Hittinger_Bath1_lg.jpg" alt="HGTV.com" />

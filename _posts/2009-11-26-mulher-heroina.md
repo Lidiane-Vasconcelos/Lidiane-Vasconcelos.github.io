@@ -1,7 +1,7 @@
 ---
-id: 2741
+
 title: Por que será que queremos ser sempre heroínas?
-date: 2009-11-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/26/mulher-heroina/

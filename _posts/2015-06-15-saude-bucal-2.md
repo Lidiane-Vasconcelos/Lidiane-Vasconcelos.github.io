@@ -1,7 +1,7 @@
 ---
-id: 3435
+
 title: O que você não sabia sobre a saúde bucal x corporal.
-date: 2015-06-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/15/saude-bucal-2/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Nossa querida consultora, a <strong>Dra. Ana Paula Pasqualin Tokunaga, que é Cirurgiã-Dentista, de Curitiba</strong>, deu todas as orientações necessárias para que, ao final desse post, você entenda a importância da saúde de sua boca e comprove: seu dentista salva! Vem comigo…
+  Nossa querida consultora, a **Dra. Ana Paula Pasqualin Tokunaga, que é Cirurgiã-Dentista, de Curitiba**, deu todas as orientações necessárias para que, ao final desse post, você entenda a importância da saúde de sua boca e comprove: seu dentista salva! Vem comigo…
 </p>
 
 <p align="justify">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher: Se em toda escovação a boca sangra, o que pode ser?</strong>
+  **Trololó de Mulher: Se em toda escovação a boca sangra, o que pode ser?**
 </p>
 
 > <p align="justify">
->   <em><strong>“O sangramento espontâneo ou à escovação é um sinal clássico de gengivite, a inflamação da gengiva. A causa da gengivite é, também, a má higienização, já que a placa bacteriana se acumula na margem da gengiva. Pra vocês verem como a maioria dos problemas bucais têm uma origem só: higiene bucal deficiente. Escovem bem os dentes, por favor!”</strong></em>
+>   <em>**“O sangramento espontâneo ou à escovação é um sinal clássico de gengivite, a inflamação da gengiva. A causa da gengivite é, também, a má higienização, já que a placa bacteriana se acumula na margem da gengiva. Pra vocês verem como a maioria dos problemas bucais têm uma origem só: higiene bucal deficiente. Escovem bem os dentes, por favor!”**</em>
 > </p>
 
 <p align="center">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TMulher: Qual a aparência de uma gengiva saudável, e o que pode não ser um bom sinal?</strong>
+  **TMulher: Qual a aparência de uma gengiva saudável, e o que pode não ser um bom sinal?**
 </p>
 
 > <p align="justify">
->   <strong><em>“A gengiva saudável é rosada e tem aspecto de casca de laranja, ou seja, com aqueles &#8220;furinhos&#8221;. Se a gengiva estiver avermelhada, inchada e/ou sangrante, procure um dentista.”</em></strong>
+>   **<em>“A gengiva saudável é rosada e tem aspecto de casca de laranja, ou seja, com aqueles &#8220;furinhos&#8221;. Se a gengiva estiver avermelhada, inchada e/ou sangrante, procure um dentista.”</em>**
 > </p>
 
 <p align="center">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM: Aftas aparecem e somem por si só&#8230; quando é preciso ficar alerta?</strong>
+  **TM: Aftas aparecem e somem por si só&#8230; quando é preciso ficar alerta?**
 </p>
 
 > <p align="justify">
->   <strong><em>“Existem 2 tipos de aftas, as menores e as maiores. A mais comum dentre as menores é a afta vulgar, geralmente pequena e única. Ela aparece de vez em quando, dura de 7 a 10 dias e não deixa cicatrizes. O que causa mais preocupação são as aftas maiores (múltiplas e maiores que as menores :), cujo tratamento costuma ser não apenas tópico, mas sistêmico, geralmente na forma de bochechos. Principalmente no caso de aftas grandes, que durem mais de 1 mês para melhorar e que deixem cicatrizes, consulte um dentista pra ver o que está acontecendo.”</em></strong>
+>   **<em>“Existem 2 tipos de aftas, as menores e as maiores. A mais comum dentre as menores é a afta vulgar, geralmente pequena e única. Ela aparece de vez em quando, dura de 7 a 10 dias e não deixa cicatrizes. O que causa mais preocupação são as aftas maiores (múltiplas e maiores que as menores :), cujo tratamento costuma ser não apenas tópico, mas sistêmico, geralmente na forma de bochechos. Principalmente no caso de aftas grandes, que durem mais de 1 mês para melhorar e que deixem cicatrizes, consulte um dentista pra ver o que está acontecendo.”</em>**
 > </p>
 
 <p align="center">
@@ -86,23 +86,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Dra. Ana Paula:</strong>
+  **Mais consultorias da Dra. Ana Paula:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/16/placa-bacteriana/" target="_blank"><strong>Placa bacteriana: como removê-la?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/16/placa-bacteriana/" target="_blank">**Placa bacteriana: como removê-la?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank"><strong>Dentes bonitos e saudáveis: o que fazer e evitar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank">**Dentes bonitos e saudáveis: o que fazer e evitar?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank"><strong>Você sabe mesmo cuidar da higiene dos dentes?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank">**Você sabe mesmo cuidar da higiene dos dentes?**</a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Ana</strong> é a autora do blog <a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank">Facebook. Clique aqui, curta</a> e fique por dentro!
+  A **Dra. Ana** é a autora do blog <a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank">Facebook. Clique aqui, curta</a> e fique por dentro!
 </p>
 
 <p align="center">

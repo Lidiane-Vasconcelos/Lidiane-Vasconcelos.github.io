@@ -1,7 +1,7 @@
 ---
-id: 3551
+
 title: Como usar saia, a peça mais feminina?
-date: 2016-02-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/29/como-usar-saia/
@@ -10,7 +10,7 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Saia tem de todo jeito, para todos os gostos, idades, tipos físicos e estilos. Elas variam bastante de modelo, e <strong>como usar saia</strong> pode se tornar um dilema <em>fashion</em> na vida da gente, <em>né</em>? A boa notícia é que a <strong>Lilian Jordão</strong>, <strong>Consultora de Estilo, da Cidade de Ribeirão Preto</strong>, vai nos ensinar o <em>beabá</em> das saias neste post. Ao final dele é certeza que estaremos bem seguras sobre a escolha do nosso modelo favorito e, o melhor, a melhor maneira de usá-lo. Vamos todas juntas para essa aula de moda? Vem!
+  Saia tem de todo jeito, para todos os gostos, idades, tipos físicos e estilos. Elas variam bastante de modelo, e **como usar saia** pode se tornar um dilema <em>fashion</em> na vida da gente, <em>né</em>? A boa notícia é que a **Lilian Jordão**, **Consultora de Estilo, da Cidade de Ribeirão Preto**, vai nos ensinar o <em>beabá</em> das saias neste post. Ao final dele é certeza que estaremos bem seguras sobre a escolha do nosso modelo favorito e, o melhor, a melhor maneira de usá-lo. Vamos todas juntas para essa aula de moda? Vem!
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><em>Fonte: </em><a href="http://www.lojasrenner.com.br/p/saia-evase-em-crepe-533433087" target="_blank"><em>Renner</em></a></strong>
+  **<em>Fonte: </em><a href="http://www.lojasrenner.com.br/p/saia-evase-em-crepe-533433087" target="_blank"><em>Renner</em></a>**
 </p>
 
 <p style="text-align: justify;">
@@ -97,11 +97,11 @@ _Lilian Jordão_”
 
 **Mais Consultorias de Lilian Jordão:**
 
-<a href="http://www.trololodemulher.com.br/2015/10/26/blazer/" target="_blank"><strong>Blazer em dias quentes: monte 3 looks.</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/10/26/blazer/" target="_blank">**Blazer em dias quentes: monte 3 looks.**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/09/28/moda-para-gravidas/" target="_blank"><strong>Moda pra grávidas: o que favorece as futuras mamães?</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/09/28/moda-para-gravidas/" target="_blank">**Moda pra grávidas: o que favorece as futuras mamães?**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank"><strong>O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank">**O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!**</a>
 
 &nbsp;
 
@@ -122,5 +122,5 @@ _Lilian Jordão_”
 &nbsp;
 
 <p align="justify">
-  <strong> </strong>
+  ** **
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3403
+
 title: 'Alimentação e nutrição: 7 dúvidas respondidas.'
-date: 2015-03-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/06/alimentacao-nutricao/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Esse e outros questionamentos foram respondidos pela <strong>Nutricionista Pamela Miguel, de São Paulo</strong>, que é nossa consultora querida quando o assunto envolve uma nutrição saudável, tudo para que façamos boas opções de alimentos no dia a dia. Neste post, além de aprender a selecionar melhor o que comemos, vamos aprender a tomar atitudes certas que farão diferença na saúde do corpo como um todo. Confira!
+  Esse e outros questionamentos foram respondidos pela **Nutricionista Pamela Miguel, de São Paulo**, que é nossa consultora querida quando o assunto envolve uma nutrição saudável, tudo para que façamos boas opções de alimentos no dia a dia. Neste post, além de aprender a selecionar melhor o que comemos, vamos aprender a tomar atitudes certas que farão diferença na saúde do corpo como um todo. Confira!
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Quando ingerimos alimentos o estômago dilata de acordo com a quantidade de comida ingerida. Essa dilatação é essencial para a que o estômago encaminhe uma mensagem para o cérebro gerando a sensação de saciedade (estar satisfeito e parar a ingestão de alimentos). Quando comemos uma quantidade excessiva de alimentos, ou quando ingerimos líquidos juntamente com os alimentos, ocorre uma dilatação maior do estômago e o órgão com o tempo perde a capacidade de sinalizar o cérebro com a informação de saciedade. Dessa forma, comer grandes quantidades de alimentos, além de gerar uma dilatação maior do estômago, pode levar à uma perda da sensação de “estar satisfeito”, levando a uma necessidade de comer cada vez mais.”</strong>
+>   **Quando ingerimos alimentos o estômago dilata de acordo com a quantidade de comida ingerida. Essa dilatação é essencial para a que o estômago encaminhe uma mensagem para o cérebro gerando a sensação de saciedade (estar satisfeito e parar a ingestão de alimentos). Quando comemos uma quantidade excessiva de alimentos, ou quando ingerimos líquidos juntamente com os alimentos, ocorre uma dilatação maior do estômago e o órgão com o tempo perde a capacidade de sinalizar o cérebro com a informação de saciedade. Dessa forma, comer grandes quantidades de alimentos, além de gerar uma dilatação maior do estômago, pode levar à uma perda da sensação de “estar satisfeito”, levando a uma necessidade de comer cada vez mais.”**
 > </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Muitas pessoas associam o consumo de gordura com algo ruim para saúde ou ao ganho de peso. Porém em uma dieta balanceada e equilibrada devemos ter um consumo equilibrado entre vitaminas, minerais, carboidratos, proteínas e gorduras. As gorduras são divididas em insaturadas: as gorduras mono e polinsaturadas que, quando consumidas de maneira equilibrada na dieta, estão associadas à benefícios à saúde, como redução do “colesterol ruim” (LDL-Colesterol) e aumento do “bom colesterol” (HDL-Colesterol), ação antiinflamatória, entre outros. As gorduras saturadas são encontradas naturalmente em alimentos (principalmente de origem animal, mas está presente também na polpa do coco), estão relacionadas ao aumento do “colesterol ruim” (LDL-Colesterol) e à doenças cardiovasculares, somente quando consumidas em excesso na dieta. Já as gorduras trans, encontradas principalmente em alimentos industrializados, são derivadas de uma hidrogenação industrial de óleos vegetais. E devem ser evitadas, pois estão relacionadas à malefícios à saúde. Dessa forma a gordura está, sim, inserida em uma dieta balanceada e equilibrada, o que devemos ter cuidado é com o tipo de gordura consumido, afinal elas são essenciais para absorção das vitaminas A,D,E e K, e para a síntese de hormônios.”</strong>
+>   **Muitas pessoas associam o consumo de gordura com algo ruim para saúde ou ao ganho de peso. Porém em uma dieta balanceada e equilibrada devemos ter um consumo equilibrado entre vitaminas, minerais, carboidratos, proteínas e gorduras. As gorduras são divididas em insaturadas: as gorduras mono e polinsaturadas que, quando consumidas de maneira equilibrada na dieta, estão associadas à benefícios à saúde, como redução do “colesterol ruim” (LDL-Colesterol) e aumento do “bom colesterol” (HDL-Colesterol), ação antiinflamatória, entre outros. As gorduras saturadas são encontradas naturalmente em alimentos (principalmente de origem animal, mas está presente também na polpa do coco), estão relacionadas ao aumento do “colesterol ruim” (LDL-Colesterol) e à doenças cardiovasculares, somente quando consumidas em excesso na dieta. Já as gorduras trans, encontradas principalmente em alimentos industrializados, são derivadas de uma hidrogenação industrial de óleos vegetais. E devem ser evitadas, pois estão relacionadas à malefícios à saúde. Dessa forma a gordura está, sim, inserida em uma dieta balanceada e equilibrada, o que devemos ter cuidado é com o tipo de gordura consumido, afinal elas são essenciais para absorção das vitaminas A,D,E e K, e para a síntese de hormônios.”**
 > </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Muito mais importante que a quantidade é a qualidade do que se ingere á noite, assim como em todas as refeições durante o dia. O que comer no jantar depende muito dos objetivos e da rotina (tipo de alimentação durante o dia, rotina de exercícios) de uma pessoa. Muitas pessoas trocam uma refeição no jantar por um “lanche saudável” por achar esse alimento é mais leve para esse horário, porém 2 fatias de pão integral podem corresponder até 5 colheres de sopa de arroz. No jantar devemos ter uma oferta de legumes e verduras (saladas) e proteínas, podendo ter uma restrição de carboidratos, dependendo do objetivo de cada pessoa. Uma dica para um jantar saudável e leve é consumir saladas e legumes com uma opção de proteína magra (carne branca, omelete de claras).</strong>
+>   **Muito mais importante que a quantidade é a qualidade do que se ingere á noite, assim como em todas as refeições durante o dia. O que comer no jantar depende muito dos objetivos e da rotina (tipo de alimentação durante o dia, rotina de exercícios) de uma pessoa. Muitas pessoas trocam uma refeição no jantar por um “lanche saudável” por achar esse alimento é mais leve para esse horário, porém 2 fatias de pão integral podem corresponder até 5 colheres de sopa de arroz. No jantar devemos ter uma oferta de legumes e verduras (saladas) e proteínas, podendo ter uma restrição de carboidratos, dependendo do objetivo de cada pessoa. Uma dica para um jantar saudável e leve é consumir saladas e legumes com uma opção de proteína magra (carne branca, omelete de claras).**
 > </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Consumir abacaxi após o almoço ou jantar não auxilia na queima de gordura. O abacaxi é rico em vitaminas (C, complexo B) e minerais (potássio, cálcio ) e a fruta contem uma substância chamada Bromelina que tem ação de enzima natural, auxiliando na digestão de proteínas. Porém o abacaxi não interfere na queima de gorduras.</strong>
+>   **Consumir abacaxi após o almoço ou jantar não auxilia na queima de gordura. O abacaxi é rico em vitaminas (C, complexo B) e minerais (potássio, cálcio ) e a fruta contem uma substância chamada Bromelina que tem ação de enzima natural, auxiliando na digestão de proteínas. Porém o abacaxi não interfere na queima de gorduras.**
 > </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>A manteiga é produzida a partir da gordura do leite e por esse motivo é um alimento rico em gordura do tipo saturada e colesterol. Já a margarina, apesar de apresentar um apelo mais “saudável”, é feita a partir do processo de hidrogenação de óleos vegetais e, portanto, rica em gorduras do tipo trans. Como citei acima o consumo de gordura saturada torna-se prejudicial quando é feito em excesso logo, o consumo excessivo de manteiga pode trazer malefícios à saúde, porém as gorduras trans estão muito relacionados ás doenças cardiovasculares e aumento do “colesterol ruim” (LDL-Colesterol). A margarina é um alimento industrializado e manipulado pelo homem, enquanto a manteiga é um alimento natural, mas que deve ser consumido de forma equilibrada e na quantidade correta na dieta.”</strong>
+>   **A manteiga é produzida a partir da gordura do leite e por esse motivo é um alimento rico em gordura do tipo saturada e colesterol. Já a margarina, apesar de apresentar um apelo mais “saudável”, é feita a partir do processo de hidrogenação de óleos vegetais e, portanto, rica em gorduras do tipo trans. Como citei acima o consumo de gordura saturada torna-se prejudicial quando é feito em excesso logo, o consumo excessivo de manteiga pode trazer malefícios à saúde, porém as gorduras trans estão muito relacionados ás doenças cardiovasculares e aumento do “colesterol ruim” (LDL-Colesterol). A margarina é um alimento industrializado e manipulado pelo homem, enquanto a manteiga é um alimento natural, mas que deve ser consumido de forma equilibrada e na quantidade correta na dieta.”**
 > </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Todas as refeições realizadas durante o dia são importantes e devemos nos atentar sobre a qualidade do que estamos ingerindo em cada uma delas. O café da manhã é a nossa primeira refeição e é realizada após um longo período de jejum. O café da manhã nos fornece as energias necessárias para começar o dia e desenvolver as atividades ao longo dele. Um café da manhã inadequado ou a sua ausência pode levar a uma fadiga maior no final do dia e ao consumo de uma maior quantidade de alimentos nas refeições seguintes (almoço e jantar). Além da fadiga, essa falta de energia pode estressar o organismo levando ao aumento do hormônio Cortisol, promovendo um maior acúmulo de gordura no organismo. É no café da manhã também que ingerimos fibras, vitaminas e minerais importantes para o correto funcionamento do organismo durante o dia. Por esse motivo o café da manhã é, sim, uma refeição importantíssima.”</strong>
+>   **Todas as refeições realizadas durante o dia são importantes e devemos nos atentar sobre a qualidade do que estamos ingerindo em cada uma delas. O café da manhã é a nossa primeira refeição e é realizada após um longo período de jejum. O café da manhã nos fornece as energias necessárias para começar o dia e desenvolver as atividades ao longo dele. Um café da manhã inadequado ou a sua ausência pode levar a uma fadiga maior no final do dia e ao consumo de uma maior quantidade de alimentos nas refeições seguintes (almoço e jantar). Além da fadiga, essa falta de energia pode estressar o organismo levando ao aumento do hormônio Cortisol, promovendo um maior acúmulo de gordura no organismo. É no café da manhã também que ingerimos fibras, vitaminas e minerais importantes para o correto funcionamento do organismo durante o dia. Por esse motivo o café da manhã é, sim, uma refeição importantíssima.”**
 > </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Sim, pois comer rápido demais está associado à uma mastigação incorreta dos alimentos. O processo de saciedade inicia-se com a mastigação, quando comemos rápido demais não mastigamos bem os alimentos e temos uma menor sensação de saciedade (a fome aparece mais cedo após a refeição). Além disso, a falta de mastigação ou a mastigação incorreta acaba sobrecarregando o estômago e o intestino, podendo levar a uma absorção inadequada dos nutrientes.”</strong>
+>   **Sim, pois comer rápido demais está associado à uma mastigação incorreta dos alimentos. O processo de saciedade inicia-se com a mastigação, quando comemos rápido demais não mastigamos bem os alimentos e temos uma menor sensação de saciedade (a fome aparece mais cedo após a refeição). Além disso, a falta de mastigação ou a mastigação incorreta acaba sobrecarregando o estômago e o intestino, podendo levar a uma absorção inadequada dos nutrientes.”**
 > </p>
 
 <p align="center">
@@ -94,23 +94,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais orientações da Dra. Pamela Miguel:</strong>
+  **Mais orientações da Dra. Pamela Miguel:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank"><strong>Café x saúde: quando é que ele é mocinho ou vilão?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank">**Café x saúde: quando é que ele é mocinho ou vilão?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><strong>Me diz o que comes… e te direi se és saudável ou não.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes… e te direi se és saudável ou não.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank"><strong>Vinho e suco de uva oferecem os mesmos benefícios para a saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank">**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**</a>
 </p>
 
 <p align="justify">
-  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">

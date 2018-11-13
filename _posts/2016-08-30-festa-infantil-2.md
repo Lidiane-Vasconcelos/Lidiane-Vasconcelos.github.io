@@ -1,7 +1,7 @@
 ---
-id: 3654
+
 title: Por menos festa infantil espetáculo, e mais festa afetiva.
-date: 2016-08-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/30/festa-infantil-2/
@@ -11,15 +11,15 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  <strong>Festa infantil</strong> em bufê da moda… e bem caro! Quem nunca foi a um evento assim? O ambiente a gente conhece: brinquedos com luzes piscando e emitindo sons os mais diversos, e as crianças enlouquecidas correndo de um lado para o outro. De repente, uma parada: a criança aniversariante entra na festa. Mas agora ela usa uma roupa diferente da que estava logo no início do evento, quando recebeu 3 dígitos de convidados. Será que aquele pingo de gente conhece mesmo tantas pessoas assim? A comemoração segue. Os presentes ainda nem foram abertos, repousam num lugar reservado para eles. Isso fica pra depois! Foi-se o tempo da alegria de abrir o mimo, e agradecer pessoalmente a gentileza do amiguinho ou do primo com um abraço. Isso tornou-se desnecessário.
+  **Festa infantil** em bufê da moda… e bem caro! Quem nunca foi a um evento assim? O ambiente a gente conhece: brinquedos com luzes piscando e emitindo sons os mais diversos, e as crianças enlouquecidas correndo de um lado para o outro. De repente, uma parada: a criança aniversariante entra na festa. Mas agora ela usa uma roupa diferente da que estava logo no início do evento, quando recebeu 3 dígitos de convidados. Será que aquele pingo de gente conhece mesmo tantas pessoas assim? A comemoração segue. Os presentes ainda nem foram abertos, repousam num lugar reservado para eles. Isso fica pra depois! Foi-se o tempo da alegria de abrir o mimo, e agradecer pessoalmente a gentileza do amiguinho ou do primo com um abraço. Isso tornou-se desnecessário.
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/09/21/convites-de-aniversario-infantil/" target="_blank">6 convites de aniversário infantil: faça você mesma.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/09/21/convites-de-aniversario-infantil/" target="_blank">6 convites de aniversário infantil: faça você mesma.</a>**
 </p>
 
 <p align="justify">
@@ -27,15 +27,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil: faça você mesma.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil: faça você mesma.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a>**
 </p>
 
 <p align="justify">
@@ -67,19 +67,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank">6 mesas de festa infantil caseira para inspirar.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank">6 mesas de festa infantil caseira para inspirar.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2017/03/15/festa-do-capitao-america/" target="_blank">Festa do capitão américa caseira: 4 anos de João.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2017/03/15/festa-do-capitao-america/" target="_blank">Festa do capitão américa caseira: 4 anos de João.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/11/16/festa-de-menina/" target="_blank">Festa de menina sem personagens: 9 ideias.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/11/16/festa-de-menina/" target="_blank">Festa de menina sem personagens: 9 ideias.</a>**
 </p>
 
 <p align="justify">

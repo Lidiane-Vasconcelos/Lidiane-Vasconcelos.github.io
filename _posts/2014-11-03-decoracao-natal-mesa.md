@@ -1,7 +1,7 @@
 ---
-id: 3364
+
 title: 'Decoração de Natal: 4 centros de mesa simples, mas lindos!'
-date: 2014-11-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/03/decoracao-natal-mesa/
@@ -14,23 +14,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank"><strong>3 guirlandas de Natal diferentes e criativas: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">**3 guirlandas de Natal diferentes e criativas: faça você mesma!**</a>
 </p>
 
 <p align="justify">
-  Eu já havia mostrado para você, aqui mesmo no <strong>Trololó de Mulher</strong>, <strong><a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank">5 centros de mesa do tipo “faça você mesma”</a></strong>, lembra? Se você não viu, sugiro dar uma espiadinha. Desta vez, as sugestões são para você mesma compor também, e todas diferentes do que foi mostrado no post anterior. Repare nas várias ideias, as do post anterior anterior associadas a este, viva de amores e identifique o que arrebata seu coração. Inspire-se!
+  Eu já havia mostrado para você, aqui mesmo no **Trololó de Mulher**, **<a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank">5 centros de mesa do tipo “faça você mesma”</a>**, lembra? Se você não viu, sugiro dar uma espiadinha. Desta vez, as sugestões são para você mesma compor também, e todas diferentes do que foi mostrado no post anterior. Repare nas várias ideias, as do post anterior anterior associadas a este, viva de amores e identifique o que arrebata seu coração. Inspire-se!
 </p>
 
 <p align="justify">
-  <strong>E mais:</strong>
+  **E mais:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank">**Decoração de Natal com reutilização de janela velha: dica.**</a>
 </p>
 
 <p align="center">
@@ -58,15 +58,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de conferir:</strong>
+  **Não deixe de conferir:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><strong>2 elegantes (e simples!) enfeites de Natal que você mesma pode fazer.</strong></a>
+  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank">**2 elegantes (e simples!) enfeites de Natal que você mesma pode fazer.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank"><strong>Dicas para a decoração das salas no Natal.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank">**Dicas para a decoração das salas no Natal.**</a>
 </p>
 
 <p align="center">

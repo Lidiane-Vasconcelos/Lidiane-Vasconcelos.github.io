@@ -1,7 +1,7 @@
 ---
-id: 3359
+
 title: 'Decoração de Natal: 5 centros de mesa “faça você mesma”.'
-date: 2014-10-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/20/decoracao-de-natal-2/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank">**Decoração de Natal com reutilização de janela velha: dica.**</a>
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E mais:</strong>
+  **E mais:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank"><strong>As crianças participam da decoração de Natal na sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank">**As crianças participam da decoração de Natal na sua casa?**</a>
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ver:</strong>
+  **Não deixe de ver:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><strong>2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!</strong></a>
+  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank">**2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!**</a>
 </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal/" target="_blank"><strong>Enfeites de Natal: você já sabe como decorar a mesa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natal/" target="_blank">**Enfeites de Natal: você já sabe como decorar a mesa?**</a>
 </p>
 
 <p align="center">
@@ -82,11 +82,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para te inspirar:</strong>
+  **Para te inspirar:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank"><strong>Dicas para a decoração das salas no Natal.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank">**Dicas para a decoração das salas no Natal.**</a>
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3073
+
 title: 'Sorteio Bicha Fêmea &#038; Espaço Home + Pura Tendência entre amigas!'
-date: 2011-11-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/02/espaco-home-pura-tendencia/
@@ -14,7 +14,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 &nbsp;
 
 <p align="justify">
-  Conhece a <strong>Espaço Home</strong> e a <strong>Pura Tendência</strong>? A linha de produtos exclusivos dessas marcas, que andam de mão dadas, são tão úteis e charmosos que nem te conto… aliás, conto sim, e até te mostro. Olha só!
+  Conhece a **Espaço Home** e a **Pura Tendência**? A linha de produtos exclusivos dessas marcas, que andam de mão dadas, são tão úteis e charmosos que nem te conto… aliás, conto sim, e até te mostro. Olha só!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 &nbsp;
 
 <p align="justify">
-  O <em><strong>Espaço Home</strong> e a <strong>Pura Tendência</strong></em> oferecem, através do <strong><a href="http://www.thenorthstarusa.com/" target="_blank">site</a></strong>, <strong><a href="http://newsespacohome.blogspot.com/" target="_blank">blog</a></strong> e <strong><a href="http://twitter.com/#!/EspacoHome" target="_blank">twitter</a></strong>, produtos, acessórios e dicas que irão facilitar a organização dentro do estilo de vida de cada um.
+  O <em>**Espaço Home** e a **Pura Tendência**</em> oferecem, através do **<a href="http://www.thenorthstarusa.com/" target="_blank">site</a>**, **<a href="http://newsespacohome.blogspot.com/" target="_blank">blog</a>** e **<a href="http://twitter.com/#!/EspacoHome" target="_blank">twitter</a>**, produtos, acessórios e dicas que irão facilitar a organização dentro do estilo de vida de cada um.
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 </p>
 
 <p align="justify">
-  Quer a prova? Olha só o que eles estão oferecendo para ser <strong>sorteado na festa de comemoração de aniversário do Bicha Fêmea!</strong> Detalhe: <strong>ganha você e sua melhor amiga!</strong> <em>Espia</em>…
+  Quer a prova? Olha só o que eles estão oferecendo para ser **sorteado na festa de comemoração de aniversário do Bicha Fêmea!** Detalhe: **ganha você e sua melhor amiga!** <em>Espia</em>…
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 &nbsp;
 
 <p align="justify">
-  A linha de Papel Perfumado para gavetas e armários apresenta <em>design</em> e aroma exclusivos. A coleção é formada por 8 diferentes estampas e aromas, sendo 6 estampas destinadas para o público adulto e adolescente ( <a href="http://www.thenorthstarusa.com/eh_papelp_lh.htm" target="_blank"><strong>Linha Home</strong></a><em></em> ) e 2 estampas para crianças e bebês ( <a href="http://www.thenorthstarusa.com/eh_papelp_lb.htm" target="_blank"><strong>Linha Baby</strong></a><em></em> ).
+  A linha de Papel Perfumado para gavetas e armários apresenta <em>design</em> e aroma exclusivos. A coleção é formada por 8 diferentes estampas e aromas, sendo 6 estampas destinadas para o público adulto e adolescente ( <a href="http://www.thenorthstarusa.com/eh_papelp_lh.htm" target="_blank">**Linha Home**</a><em></em> ) e 2 estampas para crianças e bebês ( <a href="http://www.thenorthstarusa.com/eh_papelp_lb.htm" target="_blank">**Linha Baby**</a><em></em> ).
 </p>
 
 &nbsp;
@@ -88,25 +88,25 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 &nbsp;
 
 <p align="justify">
-  Viu só? Eu não falei da utilidade e beleza dos produtos? Quer ganhar um <strong>KIT COM UMA CAIXA DE PAPEL PERFUMADO PARA GAVETAS + UM PAR DE SUPORTE PARA BOTAS</strong>?  <strong>Se você for sorteada, ganha você e sua melhor amiga, cada uma um kit!</strong>
+  Viu só? Eu não falei da utilidade e beleza dos produtos? Quer ganhar um **KIT COM UMA CAIXA DE PAPEL PERFUMADO PARA GAVETAS + UM PAR DE SUPORTE PARA BOTAS**?  **Se você for sorteada, ganha você e sua melhor amiga, cada uma um kit!**
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o <strong><a href="http://www.thenorthstarusa.com/" target="_blank">site da Espaço Home + Pura Tendência</a></strong>, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o **<a href="http://www.thenorthstarusa.com/" target="_blank">site da Espaço Home + Pura Tendência</a>**, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p align="justify">
-  “<strong>Além dos presentes nesse sorteio, qual produto da Espaço Home ou Pura Tendência deixariam sua vida organizada com estilo</strong>?”
+  “**Além dos presentes nesse sorteio, qual produto da Espaço Home ou Pura Tendência deixariam sua vida organizada com estilo**?”
 </p>
 
 <p align="justify">
-  Feito isso, você já estará concorrendo! As <strong>inscrições começam agora e vão até o dia 09 de Novembro. </strong>O sorteio será via random.org, com <strong>divulgação do nome da ganhadora dia 02 de Dezembro.</strong> Se você for sorteada, receberá meu <strong>e-mail pedindo seus dados de entrega e, neste momento, você vai informar o  nome, e-mail e dados de entrega da sua amiga. Você terá até o dia 06 de Dezembro para responder o meu e-mail</strong>, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. <strong>Vocês duas receberão seus presentes em endereço de entrega no território brasileiro</strong>, certo?
+  Feito isso, você já estará concorrendo! As **inscrições começam agora e vão até o dia 09 de Novembro. **O sorteio será via random.org, com **divulgação do nome da ganhadora dia 02 de Dezembro.** Se você for sorteada, receberá meu **e-mail pedindo seus dados de entrega e, neste momento, você vai informar o  nome, e-mail e dados de entrega da sua amiga. Você terá até o dia 06 de Dezembro para responder o meu e-mail**, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. **Vocês duas receberão seus presentes em endereço de entrega no território brasileiro**, certo?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <span style="font-size: large;"><strong>Quer chance dupla de ganhar o presente?</strong></span>
+  <span style="font-size: large;">**Quer chance dupla de ganhar o presente?**</span>
 </p>
 
 &nbsp;

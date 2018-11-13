@@ -1,7 +1,7 @@
 ---
-id: 3860
+
 title: 4 pistas pra desacelerar, e viver a vida mais leve…
-date: 2018-04-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/23/desacelerar-2/
@@ -13,11 +13,11 @@ categories:
   - Produtividade
 ---
 <p align="justify">
-  Pisar no freio e <strong>desacelerar</strong>, saborear a vida com menos pressa e mais leveza, é como tenho preferido viver. Já ouviu falar do movimento &#8220;<em>slow</em>&#8220;? A proposta é <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank">desacelerar para viver melhor</a>. Para alguns, correr pra lá e pra cá, e depois reclamar que anda correndo muito, especialmente nas redes sociais, parece ter virado sinônimo de sucesso. Será?
+  Pisar no freio e **desacelerar**, saborear a vida com menos pressa e mais leveza, é como tenho preferido viver. Já ouviu falar do movimento &#8220;<em>slow</em>&#8220;? A proposta é <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank">desacelerar para viver melhor</a>. Para alguns, correr pra lá e pra cá, e depois reclamar que anda correndo muito, especialmente nas redes sociais, parece ter virado sinônimo de sucesso. Será?
 </p>
 
 <p align="justify">
-  Felizmente, para outras pessoas, e eu estou neste time, tempo não é dinheiro, mas vida. Sendo assim, tê-lo tão escasso pode ser qualquer outra coisa, menos sucesso. Aliás, para essas pessoas, com as quais eu me identifico totalmente, tomar as rédeas da própria vida e fazer escolhas mais autênticas, mais verdadeiras, é que é luxo, glória e poder. Em outras palavras, é ter qualidade de vida. É ter tempo para si própria, familia, amigos, etc. Trabalhar é uma delícia, mas viver fora do ambiente de trabalho também. A palavra, bonita, é<strong> equilíbrio</strong>. Isso salva!
+  Felizmente, para outras pessoas, e eu estou neste time, tempo não é dinheiro, mas vida. Sendo assim, tê-lo tão escasso pode ser qualquer outra coisa, menos sucesso. Aliás, para essas pessoas, com as quais eu me identifico totalmente, tomar as rédeas da própria vida e fazer escolhas mais autênticas, mais verdadeiras, é que é luxo, glória e poder. Em outras palavras, é ter qualidade de vida. É ter tempo para si própria, familia, amigos, etc. Trabalhar é uma delícia, mas viver fora do ambiente de trabalho também. A palavra, bonita, é** equilíbrio**. Isso salva!
 </p>
 
 <p align="justify">
@@ -29,7 +29,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Respiração</strong>
+  **Respiração**
 </p>
 
 <p align="justify">
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Hábitos</strong>
+  **Hábitos**
 </p>
 
 <p align="justify">
@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Conexão</strong>
+  **Conexão**
 </p>
 
 <p align="justify">
@@ -53,7 +53,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Relaxe</strong>
+  **Relaxe**
 </p>
 
 <p align="justify">
@@ -69,7 +69,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>[EXPERIMENTE GRÁTIS] PROJETO LAR BONITO LAR</strong>
+  **[EXPERIMENTE GRÁTIS] PROJETO LAR BONITO LAR**
 </p>
 
 <p align="justify">
@@ -89,7 +89,7 @@ categories:
 </p>
 
 <p align="justify">
-  As inscrições para a turma de Maio já estão abertas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Clique aqui para mais informações sobre o projeto</a>, ou <strong>entre em contato comigo via WhatsApp 81 9 9530-7307</strong> – pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
+  As inscrições para a turma de Maio já estão abertas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Clique aqui para mais informações sobre o projeto</a>, ou **entre em contato comigo via WhatsApp 81 9 9530-7307** – pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
+  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3747
+
 title: 'Hipertensão arterial: tudo que você precisa saber.'
-date: 2017-04-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/10/hipertensao-arterial/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  <strong>Hipertensão arterial</strong>, ou pressão alta, é uma doença crônica que, felizmente, tem tratamento. Suas consequências podem ser muito graves, então saiba como identificar o problema e tratá-lo, com informação e o acompanhamento adequado junto a um profissional de confiança. Neste post, editado sob consultoria da <strong>Dra. Gisele de Brito Azzi, Cardiologista de São Caetano do Sul – Grande ABC de São Paulo | SP</strong>, há uma série de dúvidas que tirei com ela para explicar <em>tim por tim tim</em> o que todas nós precisamos saber, e manter a saúde do coração em dia! Confira!
+  **Hipertensão arterial**, ou pressão alta, é uma doença crônica que, felizmente, tem tratamento. Suas consequências podem ser muito graves, então saiba como identificar o problema e tratá-lo, com informação e o acompanhamento adequado junto a um profissional de confiança. Neste post, editado sob consultoria da **Dra. Gisele de Brito Azzi, Cardiologista de São Caetano do Sul – Grande ABC de São Paulo | SP**, há uma série de dúvidas que tirei com ela para explicar <em>tim por tim tim</em> o que todas nós precisamos saber, e manter a saúde do coração em dia! Confira!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Ops! Subiu?</span></strong>
+  **<span style="font-size: x-large;">Ops! Subiu?</span>**
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que caracteriza a hipertensão arterial?</strong>
+  **Trololó de Mulher >>> O que caracteriza a hipertensão arterial?**
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Se não tratar, o que a hipertensão provoca?</strong>
+  **Trololó de Mulher >>> Se não tratar, o que a hipertensão provoca?**
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual pressão arterial é ideal?</strong>
+  **Trololó de Mulher >>> Qual pressão arterial é ideal?**
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Controle é tudo!</span></strong>
+  **<span style="font-size: x-large;">Controle é tudo!</span>**
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher>>> O que ajuda a manter a pressão nos eixos?</strong>
+  **Trololó de Mulher>>> O que ajuda a manter a pressão nos eixos?**
 </p>
 
 <p align="justify">
@@ -130,7 +130,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Tem a ver com você?</span></strong>
+  **<span style="font-size: x-large;">Tem a ver com você?</span>**
 </p>
 
 <p align="justify">
@@ -166,7 +166,7 @@ _> Estresse_”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual o principal vilão no cuidado da saúde de uma pessoa hipertensa?</strong>
+  **Trololó de Mulher >>> Qual o principal vilão no cuidado da saúde de uma pessoa hipertensa?**
 </p>
 
 <p align="justify">

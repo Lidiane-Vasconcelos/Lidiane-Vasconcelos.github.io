@@ -1,7 +1,7 @@
 ---
-id: 2855
+
 title: 'Resultado do sorteio Bicha Fêmea &#038; OZ!'
-date: 2010-08-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/02/resultado-sorteio-oz/
@@ -10,7 +10,7 @@ categories:
   - Promoção
 ---
 <p style="text-align: justify;">
-  <em>Eita, lelê</em>! Essa parceria foi boa, hein? Muita gente ficou ansiosa em levar um pouco mais de organização para casa através do <strong><em><a href="http://www.trololodemulher.com.br/2010/07/19/sorteio-bicha-femea-oz/" target="_self">organizador de maquiagem LU-XO da OZ</a></em></strong>! E nessa vontade toda, as inscrições chegaram ao número de 451. Será que fiquei feliz hein?! <em>cof cof cof</em>…
+  <em>Eita, lelê</em>! Essa parceria foi boa, hein? Muita gente ficou ansiosa em levar um pouco mais de organização para casa através do **<em><a href="http://www.trololodemulher.com.br/2010/07/19/sorteio-bicha-femea-oz/" target="_self">organizador de maquiagem LU-XO da OZ</a></em>**! E nessa vontade toda, as inscrições chegaram ao número de 451. Será que fiquei feliz hein?! <em>cof cof cof</em>…
 </p>
 
 <!--more-->
@@ -34,7 +34,7 @@ categories:
 <table style="text-align: justify;" border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/promocao/">Promoção</a></em></strong> > Resultado do sorteio Bicha Fêmea & OZ!
+      Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/promocao/">Promoção</a></em>** > Resultado do sorteio Bicha Fêmea & OZ!
     </td>
   </tr>
 </table>
@@ -44,5 +44,5 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

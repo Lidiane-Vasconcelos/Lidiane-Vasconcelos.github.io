@@ -1,7 +1,7 @@
 ---
-id: 2664
+
 title: Do jardim japonês e tudo o mais que nos acalme.
-date: 2009-05-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/22/jardim-japones/

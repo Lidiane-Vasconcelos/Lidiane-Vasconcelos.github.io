@@ -1,7 +1,7 @@
 ---
-id: 3828
+
 title: 'Ornamentos de Natal: 2 ideias “faça você mesma”.'
-date: 2017-11-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/14/ornamentos-de-natal/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Preciso dizer que estou a-man-do pesquisar ideias de <strong>ornamentos de Natal</strong> para compartilhar por aqui, porque tenho visto sugestões incrivelmente simples de serem executadas, ao mesmo tempo que resultam em verdadeiras <em>belezuras</em>, daqueles detalhes charmosinhos que a gente não resiste e pensa: quero!
+  Preciso dizer que estou a-man-do pesquisar ideias de **ornamentos de Natal** para compartilhar por aqui, porque tenho visto sugestões incrivelmente simples de serem executadas, ao mesmo tempo que resultam em verdadeiras <em>belezuras</em>, daqueles detalhes charmosinhos que a gente não resiste e pensa: quero!
 </p>
 
 <p align="justify">
@@ -47,15 +47,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ver:</strong>
+  **Não deixe de ver:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank"><strong>Decoração de Natal: 5 centros de mesa “faça você mesma”.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank">**Decoração de Natal: 5 centros de mesa “faça você mesma”.**</a>
 </p>
 
 <p align="justify">
-  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank">**Clique aqui e confira**</a>!
 </p>
 
 <p align="center">

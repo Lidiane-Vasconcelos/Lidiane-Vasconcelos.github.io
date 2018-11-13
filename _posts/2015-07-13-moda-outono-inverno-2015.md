@@ -1,7 +1,7 @@
 ---
-id: 3445
+
 title: 'Moda Outono Inverno 2015: seu guarda-roupa inteligente.'
-date: 2015-07-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/13/moda-outono-inverno-2015/
@@ -10,11 +10,11 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Você sabe quais as peças básicas da <strong>Moda Outono Inverno 2015</strong>? Provavelmente sim. A questão é: o que fazer com esses itens? Esse post foi pensado para dar dicas de como usar o guarda-roupas de maneira inteligente, de modo que a gente não precise abarrotá-lo de peças para se vestir bem. Afinal, não adianta nada ter um amontoado de itens que a gente não usa, ou não sabe como combiná-los, certo? Então vem cá que o trololó é sobre moda.
+  Você sabe quais as peças básicas da **Moda Outono Inverno 2015**? Provavelmente sim. A questão é: o que fazer com esses itens? Esse post foi pensado para dar dicas de como usar o guarda-roupas de maneira inteligente, de modo que a gente não precise abarrotá-lo de peças para se vestir bem. Afinal, não adianta nada ter um amontoado de itens que a gente não usa, ou não sabe como combiná-los, certo? Então vem cá que o trololó é sobre moda.
 </p>
 
 <p align="justify">
-  Nossa querida <em>expert</em>, a <strong>Lilian Jordão</strong>, <strong>que é Consultora de Estilo, da Cidade de Ribeirão Preto</strong>, nos deu dicas incríveis sobre quais são as peças consideradas “chave” nessa estação, e com cada uma delas, nossa consultora mostrou 3 situações diferentes onde podemos usá-las, todas combinadas com o que já temos no armário. Isso, sim, é uma maneira inteligente de usar o seu guarda-roupas! “<em>A maioria das mulheres gosta de tudo em muita quantidade. Mas, cuidado! Em se tratando de roupas, o excesso só cria confusão. É fato que quem tem mais coisas acaba não conseguindo usar tudo o que tem. Por isso vou te ensinar a usar a mesma peça em várias ocasiões diferentes</em>”, explica a Lilian. Vamos aprender juntas? Então… vem!
+  Nossa querida <em>expert</em>, a **Lilian Jordão**, **que é Consultora de Estilo, da Cidade de Ribeirão Preto**, nos deu dicas incríveis sobre quais são as peças consideradas “chave” nessa estação, e com cada uma delas, nossa consultora mostrou 3 situações diferentes onde podemos usá-las, todas combinadas com o que já temos no armário. Isso, sim, é uma maneira inteligente de usar o seu guarda-roupas! “<em>A maioria das mulheres gosta de tudo em muita quantidade. Mas, cuidado! Em se tratando de roupas, o excesso só cria confusão. É fato que quem tem mais coisas acaba não conseguindo usar tudo o que tem. Por isso vou te ensinar a usar a mesma peça em várias ocasiões diferentes</em>”, explica a Lilian. Vamos aprender juntas? Então… vem!
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>“Sabe aquele dia chuvoso acompanhado de frio? Então esse casaco/capa é essencial para esse dia, além de ser super cool, ele é peça querida da estação, então abuse! Use com vestidos, botas, calças, camisetas, camisas, scarpin, sapatilha, sobreposição, oxford. Este casaco além de ser uma peça atemporal (nunca sai de moda), você pode usar para trabalhar, sair com as amigas para uma balada e ainda para passear no fim de semana, ele é super versátil e ainda dá aquele up no look.”</em></strong>
+>   **<em>“Sabe aquele dia chuvoso acompanhado de frio? Então esse casaco/capa é essencial para esse dia, além de ser super cool, ele é peça querida da estação, então abuse! Use com vestidos, botas, calças, camisetas, camisas, scarpin, sapatilha, sobreposição, oxford. Este casaco além de ser uma peça atemporal (nunca sai de moda), você pode usar para trabalhar, sair com as amigas para uma balada e ainda para passear no fim de semana, ele é super versátil e ainda dá aquele up no look.”</em>**
 > </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>“Além de ser super quentinho, o cardigan é ótimo para fazer sobreposições, pode ser usado com vestido, saia, calça jeans, calça de alfaiataria, etc&#8230;”</em></strong>
+>   **<em>“Além de ser super quentinho, o cardigan é ótimo para fazer sobreposições, pode ser usado com vestido, saia, calça jeans, calça de alfaiataria, etc&#8230;”</em>**
 > </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><em>“A bota de cano curto pode ser usada com jeans, saias, shorts, vestidos, etc&#8230;”</em></strong>
+>   **<em>“A bota de cano curto pode ser usada com jeans, saias, shorts, vestidos, etc&#8230;”</em>**
 > </p>
 
 <p align="justify">
@@ -70,19 +70,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Lilian:</strong>
+  **Mais consultorias da Lilian:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank"><strong>O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/22/moda-idades/" target="_blank">**O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/" target="_blank"><strong>Moda sem mistérios: duas dicas para colocar em prática já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/" target="_blank">**Moda sem mistérios: duas dicas para colocar em prática já!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank"><strong>Trololó do dia: moda para a vida real. Aprenda tudo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank">**Trololó do dia: moda para a vida real. Aprenda tudo!**</a>
 </p>
 
 <p align="justify">

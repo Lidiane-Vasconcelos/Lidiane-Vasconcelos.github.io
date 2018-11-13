@@ -1,7 +1,7 @@
 ---
-id: 3788
+
 title: 'Festa caseira princesa sofia: Clarinha faz 3.'
-date: 2017-08-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/23/festa-caseira-princesa-sofia/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Detalhes pensados, produzidos e incrementados pela mãe deram graça a <strong>festa caseira princesa sofia</strong> preparada para Clarinha, com um ponto alto: a chegada da princesa para a comemoração. Segundo Marcela, a mãe festeira e prendada, a pequena nem acreditou… e a gente não duvida do quanto ela ficou feliz, <em>né</em>? Quer conferir cada detalhe desse aniversário intimista e afetivo? Se joga!
+  Detalhes pensados, produzidos e incrementados pela mãe deram graça a **festa caseira princesa sofia** preparada para Clarinha, com um ponto alto: a chegada da princesa para a comemoração. Segundo Marcela, a mãe festeira e prendada, a pequena nem acreditou… e a gente não duvida do quanto ela ficou feliz, <em>né</em>? Quer conferir cada detalhe desse aniversário intimista e afetivo? Se joga!
 </p>
 
 <p align="center">

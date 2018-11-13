@@ -1,7 +1,7 @@
 ---
-id: 3434
+
 title: Tofu ao forno… com toques especiais!
-date: 2015-06-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/17/tofu-ao-forno/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -54,11 +54,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong><em>“Coloquei o tofu em uma vasilha que poderia ir ao forno. Depois reguei com azeite, coloquei os tomatinhos picadinhos ao lado, salpiquei sal, pimenta moída na hora, manjericão e orégano. Cobri com papel alumínio, levei ao forno em 180 graus, até que o tofu ficasse bem aquecido.Servi com arroz e salada. Ficou bom demais!!!”</em></strong>
+>   **<em>“Coloquei o tofu em uma vasilha que poderia ir ao forno. Depois reguei com azeite, coloquei os tomatinhos picadinhos ao lado, salpiquei sal, pimenta moída na hora, manjericão e orégano. Cobri com papel alumínio, levei ao forno em 180 graus, até que o tofu ficasse bem aquecido.Servi com arroz e salada. Ficou bom demais!!!”</em>**
 > </p>
 
 <p align="center">
@@ -66,23 +66,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/" target="_blank"><strong>Creme de aspargos: receita que conforta nos dias frios.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/" target="_blank">**Creme de aspargos: receita que conforta nos dias frios.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/" target="_blank"><strong>Bolo prestígio saudável.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/" target="_blank">**Bolo prestígio saudável.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank"><strong>Salmão ao molho de manga.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank">**Salmão ao molho de manga.**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

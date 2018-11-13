@@ -1,7 +1,7 @@
 ---
-id: 3087
+
 title: 'Resultado dos sorteios Bicha Fêmea &#038; Parceiros entre amigas!'
-date: 2011-12-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/02/sorteios-entre-amigas/
@@ -14,13 +14,13 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  Então, oh: prepare-se para ver o nome das pessoas sortudas, dentre as <strong>285 inscrições</strong> válidas, que vão receber os mimos em casa. E as melhores amigas dessas pessoas sortudas? Vão ganhar também, ora! Confere!
+  Então, oh: prepare-se para ver o nome das pessoas sortudas, dentre as **285 inscrições** válidas, que vão receber os mimos em casa. E as melhores amigas dessas pessoas sortudas? Vão ganhar também, ora! Confere!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: medium;">Espaço Home + Pura Tendência entre amigas!</span></strong>
+  **<span style="font-size: medium;">Espaço Home + Pura Tendência entre amigas!</span>**
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  Sabe quem ganhou o <strong>KIT COM UMA CAIXA DE PAPEL PERFUMADO PARA GAVETAS + UM PAR DE SUPORTE PARA BOTAS</strong>?
+  Sabe quem ganhou o **KIT COM UMA CAIXA DE PAPEL PERFUMADO PARA GAVETAS + UM PAR DE SUPORTE PARA BOTAS**?
 </p>
 
 &nbsp;
@@ -56,13 +56,13 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  A ganhadora foi a  <strong>Fernanda Faria e a sua melhor amiga</strong>!
+  A ganhadora foi a  **Fernanda Faria e a sua melhor amiga**!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">La Pomme entre amigas!</span></strong>
+  **<span style="font-size: large;">La Pomme entre amigas!</span>**
 </p>
 
 &nbsp;
@@ -74,7 +74,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  E quem vai receber o <strong>KIT COM UMA ECOBAG + UMA CADERNETA MINI, sendo tudo personalizado com uma das estampas do site nas cores de preferência da ganhadora + nome/frase que ela desejar ou com material enviado por ela </strong>?
+  E quem vai receber o **KIT COM UMA ECOBAG + UMA CADERNETA MINI, sendo tudo personalizado com uma das estampas do site nas cores de preferência da ganhadora + nome/frase que ela desejar ou com material enviado por ela **?
 </p>
 
 <p align="center">
@@ -88,13 +88,13 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  Será a <strong>Juliana Oliveria e a melhor amiga dela!</strong>
+  Será a **Juliana Oliveria e a melhor amiga dela!**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Casa da Claudia entre amigas!</span></strong>
+  **<span style="font-size: large;">Casa da Claudia entre amigas!</span>**
 </p>
 
 &nbsp;
@@ -106,7 +106,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  Você consegue imaginar quem vai receber o <strong>KIT DE LOUÇA PRETA COM BOLINHAS BRANCAS COMPOSTO DE TERRINA/SOPEIRA E PRATO</strong> em casa?
+  Você consegue imaginar quem vai receber o **KIT DE LOUÇA PRETA COM BOLINHAS BRANCAS COMPOSTO DE TERRINA/SOPEIRA E PRATO** em casa?
 </p>
 
 &nbsp;
@@ -118,13 +118,13 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  É a <strong>Cleo Moretti e a amiga que ela vai indicar!</strong>
+  É a **Cleo Moretti e a amiga que ela vai indicar!**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Personal Buyers entre amigas!</span></strong>
+  **<span style="font-size: large;">Personal Buyers entre amigas!</span>**
 </p>
 
 &nbsp;
@@ -136,7 +136,7 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  Você arrisca dizer quem foi sorteada com o <strong>KIT COM</strong> <strong>CREME RELAX + UM CD DE RELAXAMENTO</strong>?
+  Você arrisca dizer quem foi sorteada com o **KIT COM** **CREME RELAX + UM CD DE RELAXAMENTO**?
 </p>
 
 &nbsp;
@@ -148,11 +148,11 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="justify">
-  Foi a <strong>Nah Jardim e sua melhor amiga!</strong>
+  Foi a **Nah Jardim e sua melhor amiga!**
 </p>
 
 <p align="justify">
-  Meninas sortudas, vocês receberão meu e-mail e terão até o dia <strong>06 de Dezembro para responder</strong>, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. Fico aguardando suas respostas, sim?
+  Meninas sortudas, vocês receberão meu e-mail e terão até o dia **06 de Dezembro para responder**, caso contrário, farei novo sorteio entre as bichas fêmeas navegantes inscritas. Fico aguardando suas respostas, sim?
 </p>
 
 <p align="justify">
@@ -170,15 +170,15 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -201,5 +201,5 @@ Chegamos ao fim da festa de comemoração dos **3 anos de aniversário do Bicha 
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

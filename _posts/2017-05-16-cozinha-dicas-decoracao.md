@@ -1,7 +1,7 @@
 ---
-id: 3764
+
 title: 'Cozinha inteligente, prática e funcional: dicas profissionais.'
-date: 2017-05-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/16/cozinha-dicas-decoracao/
@@ -14,15 +14,15 @@ categories:
 </p>
 
 <p align="justify">
-  Pensando nisso eu resolvi editar esse post, com dicas e orientações profissionais para você fazer bonito no seu cantinho aí, do outro lado, na sua casa. As soluções são da <strong>equipe MA Arquitetura, de Recife</strong>, e são perfeitas pra você que quer caprichar na sua cozinha, e fazer dela um bom lugar de convivência, ou de trabalho diário… e no final das contas, tudo acaba contribuindo para bons momentos. Inspire-se!
+  Pensando nisso eu resolvi editar esse post, com dicas e orientações profissionais para você fazer bonito no seu cantinho aí, do outro lado, na sua casa. As soluções são da **equipe MA Arquitetura, de Recife**, e são perfeitas pra você que quer caprichar na sua cozinha, e fazer dela um bom lugar de convivência, ou de trabalho diário… e no final das contas, tudo acaba contribuindo para bons momentos. Inspire-se!
 </p>
 
 <p align="justify">
-  <strong>Você sabe?</strong>
+  **Você sabe?**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank"><strong>Como combinar cor da pedra do balcão com revestimento na cozinha?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank">**Como combinar cor da pedra do balcão com revestimento na cozinha?**</a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Hoje em dia  temos várias opções de pastilhas e revestimentos legais no mercado. Uma opção boa e de baixo custo, é utilizar o revestimento diferenciado só em uma das paredes, podendo nas outras paredes  serem utilizados o mesmo revestimento do piso, ou um papel de parede vinílico (que seja lavável), ou até mesmo uma pintura do tipo cimento queimado que deixa a cozinha com um ar bem contemporâneo.”</strong>
+>   **Hoje em dia  temos várias opções de pastilhas e revestimentos legais no mercado. Uma opção boa e de baixo custo, é utilizar o revestimento diferenciado só em uma das paredes, podendo nas outras paredes  serem utilizados o mesmo revestimento do piso, ou um papel de parede vinílico (que seja lavável), ou até mesmo uma pintura do tipo cimento queimado que deixa a cozinha com um ar bem contemporâneo.”**
 > </p>
 
 <p align="center">
@@ -50,31 +50,31 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Imagens: Projeto de MA Arquitetura</strong>
+  **Imagens: Projeto de MA Arquitetura**
 </p>
 
 > <p align="justify">
->   <strong>A iluminação em qualquer projeto realça ainda mais o ambiente e é de extrema importância ter um projeto luminotécnico adequado para cada local. Em cozinha geralmente não é utilizado luminárias pontuais, privilegiando sempre por uma iluminação mais difusa e natural.”</strong>
+>   **A iluminação em qualquer projeto realça ainda mais o ambiente e é de extrema importância ter um projeto luminotécnico adequado para cada local. Em cozinha geralmente não é utilizado luminárias pontuais, privilegiando sempre por uma iluminação mais difusa e natural.”**
 > </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Em se tratando de cozinhas pequenas, móveis com porta corrediça são uma boa opção?</strong>
+  **Trololó de Mulher >>> Em se tratando de cozinhas pequenas, móveis com porta corrediça são uma boa opção?**
 </p>
 
 > <p align="justify">
->   <strong>Em ambientes pequenos optar por móveis funcionais sempre será a melhor solução. Uma cozinha bem projetada precisa ter:  gavetas para guardar talheres, nichos com suporte para toalhas ao lado do fogão, armários superiores com portas de correr ou basculantes, sempre aproveitando todos os espaços da melhor forma possível.”</strong>
+>   **Em ambientes pequenos optar por móveis funcionais sempre será a melhor solução. Uma cozinha bem projetada precisa ter:  gavetas para guardar talheres, nichos com suporte para toalhas ao lado do fogão, armários superiores com portas de correr ou basculantes, sempre aproveitando todos os espaços da melhor forma possível.”**
 > </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank"><strong>Decoração de cozinha: 4 dúvidas sobre revestimentos de piso respondidas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank">**Decoração de cozinha: 4 dúvidas sobre revestimentos de piso respondidas!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank"><strong>Decoração da cozinha: +2 dúvidas sobre revestimentos respondidas!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank">**Decoração da cozinha: +2 dúvidas sobre revestimentos respondidas!**</a>
 </p>
 
 <p align="center">

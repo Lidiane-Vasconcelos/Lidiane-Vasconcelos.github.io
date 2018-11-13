@@ -1,7 +1,7 @@
 ---
-id: 3409
+
 title: Filé de frango recheado com queijo cottage ao molho de tomate caseiro
-date: 2015-03-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/18/file-de-frango-recheado/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes para o frango:</strong>
+  **Ingredientes para o frango:**
 </p>
 
 <p align="justify">
@@ -50,15 +50,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Tempere os filés com sal e pimenta. Depois recheie os filés com o queijo cottage e algumas folhas de manjericão. Enrole e feche os os palitinhos de madeira.</strong>
+>   **Tempere os filés com sal e pimenta. Depois recheie os filés com o queijo cottage e algumas folhas de manjericão. Enrole e feche os os palitinhos de madeira.**
 > </p>
 
 <p align="justify">
-  <strong>Ingredientes para o molho:</strong>
+  **Ingredientes para o molho:**
 </p>
 
 <p align="justify">
@@ -94,19 +94,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Corte os tomates em cubinhos pequenos. Se quiser pode tirar a pele e semente, mas eu não tirei. Em uma panela coloque algumas gotinhas de azeite e a cebola. Quando a cebola estiver transparente, coloque o alho e depois os tomates com o manjericão e orégano. Deixe o tomate soltar um pouco da água e coloque a água ou vinho. Eu usei o vinho. Abaixe o fogo, acrescente o bicarbonato e deixe dar uma apuradinha e coloque sal/pimenta.</strong>
+>   **Corte os tomates em cubinhos pequenos. Se quiser pode tirar a pele e semente, mas eu não tirei. Em uma panela coloque algumas gotinhas de azeite e a cebola. Quando a cebola estiver transparente, coloque o alho e depois os tomates com o manjericão e orégano. Deixe o tomate soltar um pouco da água e coloque a água ou vinho. Eu usei o vinho. Abaixe o fogo, acrescente o bicarbonato e deixe dar uma apuradinha e coloque sal/pimenta.**
 > </p>
 
 <p align="justify">
-  <strong>Montagem:</strong>
+  **Montagem:**
 </p>
 
 > <p align="justify">
->   <strong>Em uma vasilha que possa ir ao forno, forre com a metade do molho, coloque os filés e cubra os filés com a outra metade do molho. Feche com papel alumínio e leve ao forno por 25 minutos para o frango ficar cozindinho, depois tire o papel alumínio e deixe dar uma dourada. Prontinho!!! Pode ser servido no dia a dia com arroz, feijão e salada.</strong>
+>   **Em uma vasilha que possa ir ao forno, forre com a metade do molho, coloque os filés e cubra os filés com a outra metade do molho. Feche com papel alumínio e leve ao forno por 25 minutos para o frango ficar cozindinho, depois tire o papel alumínio e deixe dar uma dourada. Prontinho!!! Pode ser servido no dia a dia com arroz, feijão e salada.**
 > </p>
 
 <p align="center">
@@ -114,23 +114,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank"><strong>Filé de Saint Peter enroladinho no aspargo e salada de lentilha</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank">**Filé de Saint Peter enroladinho no aspargo e salada de lentilha**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank"><strong>Suflê de abobrinha com hortelã: bonito, gostoso e saudável</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank">**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank"><strong>Risoto com arroz comum, mas integral, com aspargos</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank">**Risoto com arroz comum, mas integral, com aspargos**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

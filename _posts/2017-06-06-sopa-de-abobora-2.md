@@ -1,7 +1,7 @@
 ---
-id: 3772
+
 title: Sopa de abóbora e alho pra aquecer os dias frios.
-date: 2017-06-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/06/sopa-de-abobora-2/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  <strong>Sopa de abóbora</strong> faz parte do nosso cardápio há muito tempo, e Artur ama desde que era bebê. O fruto da aboboreira combina incrivelmente bem com o alho, e a receita que Tânia compartilha conosco explora exatamente esse casamento perfeito. Vamos aprender juntas a preparar um creminho gostoso e apropriadíssimo para os dias mais frios? Se joga que o resultado não pode ser outro: delícia, delícia!
+  **Sopa de abóbora** faz parte do nosso cardápio há muito tempo, e Artur ama desde que era bebê. O fruto da aboboreira combina incrivelmente bem com o alho, e a receita que Tânia compartilha conosco explora exatamente esse casamento perfeito. Vamos aprender juntas a preparar um creminho gostoso e apropriadíssimo para os dias mais frios? Se joga que o resultado não pode ser outro: delícia, delícia!
 </p>
 
 <p align="center">
@@ -55,16 +55,16 @@ _4 – Decore com sementes de abóbora, e iogurte, e sirva_.”
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank"><strong>Receita de brownie de chocolate marmorizado.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank">**Receita de brownie de chocolate marmorizado.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/05/09/receita-de-biscoito/" target="_blank"><strong>Receita de biscoito caseiro, de azeite e alecrim.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/09/receita-de-biscoito/" target="_blank">**Receita de biscoito caseiro, de azeite e alecrim.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/" target="_blank"><strong>Abacaxi assado: receita simples e supreendente.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/" target="_blank">**Abacaxi assado: receita simples e supreendente.**</a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">

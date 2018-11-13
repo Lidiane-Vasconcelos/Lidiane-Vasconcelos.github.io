@@ -1,7 +1,7 @@
 ---
-id: 3636
+
 title: Como escolher o melhor sapatinho de bebê?
-date: 2016-08-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/12/sapatinho-de-bebe/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Se você é mamãe com a cria a caminho, titia, vovó ou madrinha, esperando essa riqueza linda de viver, deve pensar em itens do enxoval com bastante frequência, certo? Saiba que <strong>sapatinho de bebê</strong> é peça essencial, porque se por um lado deixa o look super gracinha, por outro (e o mais importante!) garante a <strong>proteção</strong> de pezinhos tão delicados. Além de proteção, é preciso levar em consideração outro aspecto primordial nessa escolha: <strong>conforto</strong>. A gente sabe que há muita variedade, e muitas vezes algumas fofurices não são, necessariamente, o melhor para o pé da criança. Veja, neste post, opções que reúnem as três qualidades esperadas nesse item do guarda-roupas do bebê:
+  Se você é mamãe com a cria a caminho, titia, vovó ou madrinha, esperando essa riqueza linda de viver, deve pensar em itens do enxoval com bastante frequência, certo? Saiba que **sapatinho de bebê** é peça essencial, porque se por um lado deixa o look super gracinha, por outro (e o mais importante!) garante a **proteção** de pezinhos tão delicados. Além de proteção, é preciso levar em consideração outro aspecto primordial nessa escolha: **conforto**. A gente sabe que há muita variedade, e muitas vezes algumas fofurices não são, necessariamente, o melhor para o pé da criança. Veja, neste post, opções que reúnem as três qualidades esperadas nesse item do guarda-roupas do bebê:
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando o assunto é <strong>sapatinho de menina</strong>, em geral as mamães usam e abusam das cores, detalhes, e tudo o mais, não é? <strong>Rosa, vermelho e amarelo</strong> são cores amadas para elas, afinal, quem não vive de amores por uma menininha toda arrumadinha, bonitinha e fofinha, hein? Mas muito mais do que isso, é importante  não perder de vista o conforto da bebê, por isso sapatinhos que acarinhem seus pezinhos tornam-se fundamentais. Nada de calçados rígidos, ok?
+  Quando o assunto é **sapatinho de menina**, em geral as mamães usam e abusam das cores, detalhes, e tudo o mais, não é? **Rosa, vermelho e amarelo** são cores amadas para elas, afinal, quem não vive de amores por uma menininha toda arrumadinha, bonitinha e fofinha, hein? Mas muito mais do que isso, é importante  não perder de vista o conforto da bebê, por isso sapatinhos que acarinhem seus pezinhos tornam-se fundamentais. Nada de calçados rígidos, ok?
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  Os <strong>sapatinhos para os meninos</strong> deixam os bebês muito fofos, é verdade. Mas atenção! Eles crescem rápido: fique atenta para usar tamanhos adequados, pelo tempo suficiente para proteger o pé do bebê de maneira agradável para ele. Branco e azul, em escalas variadas, são cores queridas pelas mamães. Mas variações do bege e marrom são excelentes escolhas também. Estando feliz e gostosamente bem calçado, certeza que o bebezinho vai retribuir você com sorrisos deliciosos!
+  Os **sapatinhos para os meninos** deixam os bebês muito fofos, é verdade. Mas atenção! Eles crescem rápido: fique atenta para usar tamanhos adequados, pelo tempo suficiente para proteger o pé do bebê de maneira agradável para ele. Branco e azul, em escalas variadas, são cores queridas pelas mamães. Mas variações do bege e marrom são excelentes escolhas também. Estando feliz e gostosamente bem calçado, certeza que o bebezinho vai retribuir você com sorrisos deliciosos!
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ E quem nunca associou, de imediato, bebê recém-nascido ao sapatinho vermelho? 
 </p>
 
 <p align="justify">
-  Para ver <strong>todos os modelos de sapatinhos</strong> que são pequenas pecinhas de arte, produzidas com carinho e garimpadas com muito bom gosto, visite a <strong><a href="https://www.xiquexiquebrasil.com.br/" target="_blank">Xique Xique Brasil</a></strong>, uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-trololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! Ah! No Instagram dá para ficar por dentro de todas as novidades também. <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">Clique aqui</a> e siga!
+  Para ver **todos os modelos de sapatinhos** que são pequenas pecinhas de arte, produzidas com carinho e garimpadas com muito bom gosto, visite a **<a href="https://www.xiquexiquebrasil.com.br/" target="_blank">Xique Xique Brasil</a>**, uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-trololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! Ah! No Instagram dá para ficar por dentro de todas as novidades também. <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">Clique aqui</a> e siga!
 </p>
 
 <p align="center">

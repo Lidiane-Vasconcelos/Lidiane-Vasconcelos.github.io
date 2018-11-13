@@ -1,7 +1,7 @@
 ---
-id: 3792
+
 title: 'Prateleira do Trololó de Mulher de Setembro: presentes criativos.'
-date: 2017-09-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/04/presentes-criativos-2/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Não importa a época do ano, temos sempre a necessidade, vez ou outra, de presentear alguém. Na dúvida sobre como mimar? Aposte nos <strong>presentes criativos</strong>, mas também úteis, e não tem erro! Se são criativos, úteis, lindos de viver e de muita qualidade, a solução é perfeita! Repare nas sugestões abaixo na <strong>Prateleira do Trololó de Mulher de Setembro</strong>… e viva de amores!
+  Não importa a época do ano, temos sempre a necessidade, vez ou outra, de presentear alguém. Na dúvida sobre como mimar? Aposte nos **presentes criativos**, mas também úteis, e não tem erro! Se são criativos, úteis, lindos de viver e de muita qualidade, a solução é perfeita! Repare nas sugestões abaixo na **Prateleira do Trololó de Mulher de Setembro**… e viva de amores!
 </p>
 
 <p align="center">

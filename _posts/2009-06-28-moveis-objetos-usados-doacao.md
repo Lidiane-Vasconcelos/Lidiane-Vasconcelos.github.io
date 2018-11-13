@@ -1,7 +1,7 @@
 ---
-id: 2675
+
 title: 'Móveis e objetos usados para doação&#8230;'
-date: 2009-06-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/28/moveis-objetos-usados-doacao/
@@ -34,53 +34,53 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg"><img class="alignnone size-full wp-image-10078" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg" alt="DOACAO[2]" width="476" height="600" /></a><br /> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg"><img class="alignnone size-full wp-image-10078" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg" alt="DOACAO[2]" width="476" height="600" /></a><br /> **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Casas André Luiz</strong><br /> A entidade realiza há 50 anos o Mercatudo, cujo dinheiro arrecadado corresponde a 40% dos gastos de assistência a 600 internos com doença mental.<br /> <a href="http://www.mercatudo.org.br">www.mercatudo.org.br</a><br /> Informações: 0800 7734066
+  **Casas André Luiz**<br /> A entidade realiza há 50 anos o Mercatudo, cujo dinheiro arrecadado corresponde a 40% dos gastos de assistência a 600 internos com doença mental.<br /> <a href="http://www.mercatudo.org.br">www.mercatudo.org.br</a><br /> Informações: 0800 7734066
 </p>
 
 <p style="text-align: justify;">
-  <strong> </strong>
+  ** **
 </p>
 
 <p style="text-align: justify;">
-  <strong>Lar Escola São Francisco</strong><br /> Cinco caminhões saem diariamente para buscar doações. Venda corresponde a 31% do valor destinado a ajudar tratamento de pessoas carentes que tenham deficiência física.<br /> Informações: (11) 5908-7899<br /> <a href="http://www.lesf.org.br">www.lesf.org.br</a>
+  **Lar Escola São Francisco**<br /> Cinco caminhões saem diariamente para buscar doações. Venda corresponde a 31% do valor destinado a ajudar tratamento de pessoas carentes que tenham deficiência física.<br /> Informações: (11) 5908-7899<br /> <a href="http://www.lesf.org.br">www.lesf.org.br</a>
 </p>
 
 <p style="text-align: justify;">
-  <strong> </strong>
+  ** **
 </p>
 
 <p style="text-align: justify;">
-  <strong>Comitê para Democracia da Informática</strong><br /> Recebe computadores que funcionam para serem reformados e aproveitado pela população carente. Atende todo o Brasil.<br /> <a href="http://www.cdi.org.br">www.cdi.org.br</a><br /> Informações: (21) 3546-6570
+  **Comitê para Democracia da Informática**<br /> Recebe computadores que funcionam para serem reformados e aproveitado pela população carente. Atende todo o Brasil.<br /> <a href="http://www.cdi.org.br">www.cdi.org.br</a><br /> Informações: (21) 3546-6570
 </p>
 
 ** **
 
 <p style="text-align: justify;">
-  <strong>Rede Solidária Curitiba</strong><br /> Recebe e recolhe doações de móveis e roupas em toda Região Metropolitana de Curitiba. O dinheiro arrecadado com a vendas das peças é dividido para quatro entidades.<br /> Informações: (41) 3079-1790<br /> <a href="http://www.socorroaosnecessitados.org.br">http://www.socorroaosnecessitados.org.br</a><br /> <strong> </strong>
+  **Rede Solidária Curitiba**<br /> Recebe e recolhe doações de móveis e roupas em toda Região Metropolitana de Curitiba. O dinheiro arrecadado com a vendas das peças é dividido para quatro entidades.<br /> Informações: (41) 3079-1790<br /> <a href="http://www.socorroaosnecessitados.org.br">http://www.socorroaosnecessitados.org.br</a><br /> ** **
 </p>
 
 <p style="text-align: justify;">
-  <strong>Nokia</strong><br /> Recolhe aparelhos e acessórios, inclusive de outras marcas. No site, basta clicar o Estado e a cidade para saber onde levar.<br /> <a href="http://www.nokia.com.br/A4524104">http://www.nokia.com.br/A4524104</a>
+  **Nokia**<br /> Recolhe aparelhos e acessórios, inclusive de outras marcas. No site, basta clicar o Estado e a cidade para saber onde levar.<br /> <a href="http://www.nokia.com.br/A4524104">http://www.nokia.com.br/A4524104</a>
 </p>
 
 <p style="text-align: justify;">
-  <strong> </strong>
+  ** **
 </p>
 
 <p style="text-align: justify;">
-  <strong>Motorola</strong><br /> Desde 1999 tem o programa de reciclagem de baterias. No período, já reciclou mais de 150 toneladas do produto.<br /> <a href="http://www.motorola.com">www.motorola.com</a><br /> <strong> </strong>
+  **Motorola**<br /> Desde 1999 tem o programa de reciclagem de baterias. No período, já reciclou mais de 150 toneladas do produto.<br /> <a href="http://www.motorola.com">www.motorola.com</a><br /> ** **
 </p>
 
 <p style="text-align: justify;">
-  <strong>HP</strong><br /> Desde 2002 recolhe e encaminha baterias para a reciclagem. <a href="http://www.hp.com/latam/br/baterias/index.html">http://www.hp.com/latam/br/baterias/index.html</a>
+  **HP**<br /> Desde 2002 recolhe e encaminha baterias para a reciclagem. <a href="http://www.hp.com/latam/br/baterias/index.html">http://www.hp.com/latam/br/baterias/index.html</a>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Porto Seguro</strong><br /> A companhia de seguros lançou a campanha de reciclagem de cartões de plástico, celulares e baterias. Após serem recolhidos em postos da empresa, os produtos são encaminhados para reciclagem. <a href="http://www.portoseguro.com.br">www.portoseguro.com.br</a>
+  **Porto Seguro**<br /> A companhia de seguros lançou a campanha de reciclagem de cartões de plástico, celulares e baterias. Após serem recolhidos em postos da empresa, os produtos são encaminhados para reciclagem. <a href="http://www.portoseguro.com.br">www.portoseguro.com.br</a>
 </p>
 
 <p style="text-align: justify;">
@@ -88,11 +88,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <span style="color: #993366;"><strong>Muito importante:</strong></span>
+  <span style="color: #993366;">**Muito importante:**</span>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Perceba que nos comentários deste post há muitos recados de pessoas querendo doar, e de outras precisando de doações. Se você quer participar dessa troca solidária, deixe seu comentário com seus dados como cidade, telefone ou e-mail. Dessa forma quem quiser falar com você poderá fazê-lo com facilidade. Outra coisa: eu não realizo retirada de móveis ou objetos, sim? Eu apenas libero os comentários que vocês deixam por aqui, mas o acerto é feito entre vocês. Boa sorte a todos!</strong>
+  **Perceba que nos comentários deste post há muitos recados de pessoas querendo doar, e de outras precisando de doações. Se você quer participar dessa troca solidária, deixe seu comentário com seus dados como cidade, telefone ou e-mail. Dessa forma quem quiser falar com você poderá fazê-lo com facilidade. Outra coisa: eu não realizo retirada de móveis ou objetos, sim? Eu apenas libero os comentários que vocês deixam por aqui, mas o acerto é feito entre vocês. Boa sorte a todos!**
 </p>
 
 <p align="center">

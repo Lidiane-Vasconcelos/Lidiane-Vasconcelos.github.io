@@ -1,7 +1,7 @@
 ---
-id: 3780
+
 title: Saiba como contornar a dificuldade de aprendizagem de sua cria!
-date: 2017-08-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/09/dificuldade-de-aprendizagem/
@@ -11,11 +11,11 @@ categories:
   - Maternidade
 ---
 <p style="text-align: justify;">
-  A <strong>dificuldade de aprendizagem</strong> de uma criança, na verdade, pode estar relacionada à falta de observação sobre como ela aprende, pois afinal de contas, os pequenos não são todos iguais. Preste bem atenção na sua cria e identifique qual o modo de absorção de conhecimento que funciona pra ela, acrescente alguns cuidados com a rotina, esteja atenta à dinâmica familiar e, certamente, os resultados que você tanto deseja vão aparecer.
+  A **dificuldade de aprendizagem** de uma criança, na verdade, pode estar relacionada à falta de observação sobre como ela aprende, pois afinal de contas, os pequenos não são todos iguais. Preste bem atenção na sua cria e identifique qual o modo de absorção de conhecimento que funciona pra ela, acrescente alguns cuidados com a rotina, esteja atenta à dinâmica familiar e, certamente, os resultados que você tanto deseja vão aparecer.
 </p>
 
 <p style="text-align: justify;">
-  A seguir, acompanhe as orientações valiosíssimas de nossa consultora, a <strong>Eliane Volpe, Psicopedagoga</strong> de Curitiba – PR, e facilite a vida de sua criança na escola e em casa.
+  A seguir, acompanhe as orientações valiosíssimas de nossa consultora, a **Eliane Volpe, Psicopedagoga** de Curitiba – PR, e facilite a vida de sua criança na escola e em casa.
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Trololó de Mulher >>> Toda criança aprende da mesma forma?</strong>
+  **Trololó de Mulher >>> Toda criança aprende da mesma forma?**
 </p>
 
 <p style="text-align: justify;">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Trololó de Mulher >>> Como saber qual método escolar é o mais adequado para a aprendizagem da cria?</strong>
+  **Trololó de Mulher >>> Como saber qual método escolar é o mais adequado para a aprendizagem da cria?**
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Trololó de Mulher >>> Como criar, em casa, um ambiente/rotina que favoreça o aprendizado das crianças?</strong>
+  **Trololó de Mulher >>> Como criar, em casa, um ambiente/rotina que favoreça o aprendizado das crianças?**
 </p>
 
 <p style="text-align: justify;">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Trololó de Mulher >>> O que evitar, ainda em casa, para que não haja obstáculos na aquisição de conhecimento dos pequenos?</strong>
+  **Trololó de Mulher >>> O que evitar, ainda em casa, para que não haja obstáculos na aquisição de conhecimento dos pequenos?**
 </p>
 
 <p style="text-align: justify;">

@@ -1,7 +1,7 @@
 ---
-id: 3607
+
 title: '{mãe, obrigada…}'
-date: 2016-05-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/06/mae-obrigada/
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>“Mainha, agradeço imensamente por ter me criado, educado, dado broncas e por ter sido meu porto seguro em momentos que me senti frágil. A senhora é meu exemplo de vida, fortaleza, amor e dedicação à família. Se eu for para minha família apenas parte do que a senhora foi para a nossa, sei que meu papel será bem cumprido. Muito de mim como mãe de Artur reflete o que a senhora foi para mim e meus irmãos. Muito obrigada por tudo.”</em></strong>
+  **<em>“Mainha, agradeço imensamente por ter me criado, educado, dado broncas e por ter sido meu porto seguro em momentos que me senti frágil. A senhora é meu exemplo de vida, fortaleza, amor e dedicação à família. Se eu for para minha família apenas parte do que a senhora foi para a nossa, sei que meu papel será bem cumprido. Muito de mim como mãe de Artur reflete o que a senhora foi para mim e meus irmãos. Muito obrigada por tudo.”</em>**
 </p>
 
 <p align="center">

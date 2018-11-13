@@ -1,7 +1,7 @@
 ---
-id: 3237
+
 title: 'Decoração do quarto infantil: 4 soluções de marcenaria para você!'
-date: 2013-07-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/10/decoracao-quarto-infantil-3/
@@ -15,7 +15,7 @@ Você anda pensando em como será o quarto de sua criança, que já não é mais
 &nbsp;
 
 <p align="justify">
-  Foi pensando em mostrar ideias para a<strong> decoração do quarto infantil</strong> que este post foi editado. Ele apresenta <strong>4 soluções de marcenaria</strong> para você se inspirar e aplicar por aí. As ideias foram garimpadas no site <strong><em><a href="http://www.home-designing.com/" target="_blank">Home Designing</a></em></strong> e vão te inspirar muito. Quer ver?
+  Foi pensando em mostrar ideias para a** decoração do quarto infantil** que este post foi editado. Ele apresenta **4 soluções de marcenaria** para você se inspirar e aplicar por aí. As ideias foram garimpadas no site **<em><a href="http://www.home-designing.com/" target="_blank">Home Designing</a></em>** e vão te inspirar muito. Quer ver?
 </p>
 
 <!--more-->
@@ -39,7 +39,7 @@ Você anda pensando em como será o quarto de sua criança, que já não é mais
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais sobre <span style="font-size: x-large;">Decoração de Quarto</span> para você… <span style="font-size: x-large;"><a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">clique aqui</a></span>!</span></strong>
+  **<span style="font-size: large;">Muito mais sobre <span style="font-size: x-large;">Decoração de Quarto</span> para você… <span style="font-size: x-large;"><a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">clique aqui</a></span>!</span>**
 </p>
 
 &nbsp;
@@ -51,7 +51,7 @@ Você anda pensando em como será o quarto de sua criança, que já não é mais
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -75,9 +75,9 @@ Você anda pensando em como será o quarto de sua criança, que já não é mais
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

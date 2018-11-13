@@ -1,7 +1,7 @@
 ---
-id: 3347
+
 title: '4 detalhes decorativos charmosos para sua varanda: ideias.'
-date: 2014-09-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/24/decoracao-varanda-2/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Cores, cores, cores…</span></strong>
+  **<span style="font-size: large;">Cores, cores, cores…</span>**
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Branco relaxante…</span></strong>
+  **<span style="font-size: large;">Branco relaxante…</span>**
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Atenção ao detalhe!</span></strong>
+  **<span style="font-size: large;">Atenção ao detalhe!</span>**
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Atenção ao detalhe[2]!</span></strong>
+  **<span style="font-size: large;">Atenção ao detalhe[2]!</span>**
 </p>
 
 <p align="center">
@@ -66,15 +66,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais ideias para sua varanda:</strong>
+  **Mais ideias para sua varanda:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/17/decoracao-varanda/" target="_blank"><strong>Decoração de varanda: ideia fácil e barata para você copiar.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/17/decoracao-varanda/" target="_blank">**Decoração de varanda: ideia fácil e barata para você copiar.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank">**Como escolher tecidos para a decoração da varanda?**</a>
 </p>
 
 <p align="justify">

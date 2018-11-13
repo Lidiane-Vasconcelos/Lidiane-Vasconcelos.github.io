@@ -1,7 +1,7 @@
 ---
-id: 3341
+
 title: 'O bom e velho short: peça certeira nos dias de sol.'
-date: 2014-09-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/10/short-dias-de-sol/
@@ -14,11 +14,11 @@ categories:
 </p>
 
 <p align="justify">
-  Se você não tem muita segurança sobre como identificá-lo e usar esse item do guarda-roupas a seu favor, calma! Quem vai nos ajudar a acertar na produção é a <strong>Lilian Jordão, Consultora de Estilo</strong>, e a mais nova parceira do blog. Sua consultoria vai esclarecer nossas dúvidas, e a gente vai se sentir pronta e segura para desfilar de short por aí… confira!
+  Se você não tem muita segurança sobre como identificá-lo e usar esse item do guarda-roupas a seu favor, calma! Quem vai nos ajudar a acertar na produção é a **Lilian Jordão, Consultora de Estilo**, e a mais nova parceira do blog. Sua consultoria vai esclarecer nossas dúvidas, e a gente vai se sentir pronta e segura para desfilar de short por aí… confira!
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Palavra de especialista…</span></strong>
+  **<span style="font-size: large;">Palavra de especialista…</span>**
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">Bicha Fêmea: A peça favorece qualquer tipo físico?</span></strong>
+  **<span style="font-size: large;">Bicha Fêmea: A peça favorece qualquer tipo físico?</span>**
 </p>
 
 > <p align="justify">
@@ -46,7 +46,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">Bicha Fêmea: Para fazer a linha chique com esse short, com o que ele pode ser usado?</span></strong>
+  **<span style="font-size: large;">Bicha Fêmea: Para fazer a linha chique com esse short, com o que ele pode ser usado?</span>**
 </p>
 
 > <p align="justify">
@@ -54,7 +54,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">Bicha Fêmea: Além desse clássico, há algum outro modelo de short que veremos com frequência nos cabides das lojas nesta próxima estação?</span></strong>
+  **<span style="font-size: large;">Bicha Fêmea: Além desse clássico, há algum outro modelo de short que veremos com frequência nos cabides das lojas nesta próxima estação?</span>**
 </p>
 
 <p align="center">

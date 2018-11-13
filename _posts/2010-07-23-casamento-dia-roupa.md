@@ -1,7 +1,7 @@
 ---
-id: 2848
+
 title: 'Casamento durante o dia: o que vestir?'
-date: 2010-07-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/23/casamento-dia-roupa/
@@ -76,5 +76,5 @@ Imagens: <a href="http://www.marieclaire.com/" target="_blank">Marie Claire</a>
 **_<a href="http://www.trololodemulher.com.br/2009/02/27/regata-branca-basica/" target="_self">Regata branca, básica, versátil&#8230; e esquecida?</a>_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

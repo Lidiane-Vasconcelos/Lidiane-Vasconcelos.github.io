@@ -1,7 +1,7 @@
 ---
-id: 2814
+
 title: Como você lê posts de decoração?
-date: 2010-05-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/10/blog-dicas-decoracao/

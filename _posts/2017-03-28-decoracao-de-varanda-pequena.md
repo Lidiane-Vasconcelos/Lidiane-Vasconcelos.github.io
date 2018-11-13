@@ -1,7 +1,7 @@
 ---
-id: 3746
+
 title: 'Decoração de varanda pequena: 4 ideias, 8 inspirações.'
-date: 2017-03-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/28/decoracao-de-varanda-pequena/
@@ -11,7 +11,7 @@ categories:
   - 'Varanda &amp; Jardim'
 ---
 <p align="justify">
-  A <strong>decoração de varanda pequena, </strong>quando feita com criatividade e bom gosto, valoriza o espaço e traz aconchego. Na verdade, a limitação de medidas passa a ser um mero detalhe. Pequenas, sim, mas não menos bonitas e acolhedoras. Veja a seguir 4 ideias lindas em 8 referências para você se inspirar, e tornar sua pequena notável o lugar mais disputado de sua casa. Confira!
+  A **decoração de varanda pequena, **quando feita com criatividade e bom gosto, valoriza o espaço e traz aconchego. Na verdade, a limitação de medidas passa a ser um mero detalhe. Pequenas, sim, mas não menos bonitas e acolhedoras. Veja a seguir 4 ideias lindas em 8 referências para você se inspirar, e tornar sua pequena notável o lugar mais disputado de sua casa. Confira!
 </p>
 
 <p align="center">
@@ -111,15 +111,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/02/decoracao-varanda-pequena/" target="_blank"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/02/decoracao-varanda-pequena/" target="_blank">**4 composições de cantinhos para sua varanda pequena.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/29/jardim-vertical/" target="_blank"><strong>2 ótimas ideias de jardim vertical.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/04/29/jardim-vertical/" target="_blank">**2 ótimas ideias de jardim vertical.**</a>
 </p>
 
 <p align="center">

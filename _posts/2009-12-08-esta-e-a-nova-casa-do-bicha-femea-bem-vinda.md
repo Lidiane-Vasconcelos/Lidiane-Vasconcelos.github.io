@@ -1,7 +1,7 @@
 ---
-id: 2746
+
 title: Esta é a nova casa do Bicha Fêmea. Bem Vinda!!!
-date: 2009-12-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/08/esta-e-a-nova-casa-do-bicha-femea-bem-vinda/

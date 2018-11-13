@@ -1,7 +1,7 @@
 ---
-id: 3164
+
 title: Quer misturar cadeiras diferentes na mesa da sala de jantar?
-date: 2012-08-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/01/cadeiras-sala-mesa-jantar/
@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  E por que ainda não fez? Não tem nada demais, e fica bem interessante. Se falta inspiração para você sobre como fazer isso, eu te mostro <strong>3 delas</strong> garimpadas no <strong><em><a href="http://www.shelterness.com/" target="_blank">Shelterness</a></em></strong>. Com uma pitada de ousadia, e conhecimento pleno do estilo que você gosta, dá para deixar sua mesa de jantar sem a aparência óbvia das cadeiras todas iguais.
+  E por que ainda não fez? Não tem nada demais, e fica bem interessante. Se falta inspiração para você sobre como fazer isso, eu te mostro **3 delas** garimpadas no **<em><a href="http://www.shelterness.com/" target="_blank">Shelterness</a></em>**. Com uma pitada de ousadia, e conhecimento pleno do estilo que você gosta, dá para deixar sua mesa de jantar sem a aparência óbvia das cadeiras todas iguais.
 </p>
 
 <p style="text-align: justify;" align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3296
+
 title: O que você faz para dormir bem?
-date: 2014-05-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/20/o-que-voce-faz-para-dormir-bem/
@@ -26,25 +26,25 @@ Fiz essa pergunta para leitoras queridas do blog, porque gostaria de rechear ess
 &nbsp;
 
 > <p align="justify">
->   Oi, Lidi! Eu acho que fazer exercícios regularmente ajuda muito para um sono tranquilo! E fazer yoga também, viu! Yoga eu faço só uma vez por semana, porque não tenho tempo de fazer mais, mas eu adoro!Sinto que nos dias que faço exercícios durmo bem melhor! No dia da yoga então! E com isso aprendi muito sobre respiração, sobre me acalmar antes de deitar, sabe&#8230;. “ <strong>Adriana Minhoto | </strong><a href="http://www.visivae.com.br/" target="_blank"><strong>Visivae</strong></a>
+>   Oi, Lidi! Eu acho que fazer exercícios regularmente ajuda muito para um sono tranquilo! E fazer yoga também, viu! Yoga eu faço só uma vez por semana, porque não tenho tempo de fazer mais, mas eu adoro!Sinto que nos dias que faço exercícios durmo bem melhor! No dia da yoga então! E com isso aprendi muito sobre respiração, sobre me acalmar antes de deitar, sabe&#8230;. “ **Adriana Minhoto | **<a href="http://www.visivae.com.br/" target="_blank">**Visivae**</a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Bom&#8230; se eu tive um dia muito agitado, eu tomo um copo de leite com bolacha. É como se isso me carregasse no colo com uma canção de ninar. Eu tenho um sono muito bom, mas se eu estou preocupada demais, ás vezes é difícil dormir. Fazer uma boa caminhada a qualquer hora do dia ajuda e muuuuito, e assistir um seriadinho também. Ah&#8230; e banho. Não deito sem tomar um banho quentinho.” <strong>Fatima Moral | </strong><a href="https://www.personalbuyers.com.br/" target="_blank"><strong>Personal Buyers</strong></a>
+>   Bom&#8230; se eu tive um dia muito agitado, eu tomo um copo de leite com bolacha. É como se isso me carregasse no colo com uma canção de ninar. Eu tenho um sono muito bom, mas se eu estou preocupada demais, ás vezes é difícil dormir. Fazer uma boa caminhada a qualquer hora do dia ajuda e muuuuito, e assistir um seriadinho também. Ah&#8230; e banho. Não deito sem tomar um banho quentinho.” **Fatima Moral | **<a href="https://www.personalbuyers.com.br/" target="_blank">**Personal Buyers**</a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Oi, Lidiane! Antes de dormir eu adoro ler&#8230;a leitura me leva para outros mundos que me fazem relaxar da minha rotina diária&#8230;” <strong>Caroline Willrich Flesch | </strong><a href="http://arquitetando-projetoseobjetos.blogspot.com.br/" target="_blank"><strong>Arquitetando – Projetos e Objetos</strong></a>
+>   Oi, Lidiane! Antes de dormir eu adoro ler&#8230;a leitura me leva para outros mundos que me fazem relaxar da minha rotina diária&#8230;” **Caroline Willrich Flesch | **<a href="http://arquitetando-projetoseobjetos.blogspot.com.br/" target="_blank">**Arquitetando – Projetos e Objetos**</a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Bem, para conseguir dormir bem, ter uma noite tranquila e acordar feliz e sorridente, além de energia para realizar os objetivos diários, sigo os seguintes passos: 1 &#8211; Tomo um gostoso banho morno, realizando massagens em meu corpo com uma esponja de banho para tirar o stress do dia; 2 &#8211; Em seguida preparo um chá quente das ervas que mais me agradam, gosto muito do sabor alimonado da erva lúcia-lima; 3 &#8211; Preparo o quarto com umas velinhas com cheirinhos de frutas vermelhas e deixo uma luz focando o lugar em que me sento na cama, mas não muito forte, só para leitura… ; 4 &#8211; Escolho um tema ou autor favorito para ler antes de dormir, e esqueço de computadores, televisões e discussões que possam me atrapalhar.”  <strong>Paulinha</strong>
+>   Bem, para conseguir dormir bem, ter uma noite tranquila e acordar feliz e sorridente, além de energia para realizar os objetivos diários, sigo os seguintes passos: 1 &#8211; Tomo um gostoso banho morno, realizando massagens em meu corpo com uma esponja de banho para tirar o stress do dia; 2 &#8211; Em seguida preparo um chá quente das ervas que mais me agradam, gosto muito do sabor alimonado da erva lúcia-lima; 3 &#8211; Preparo o quarto com umas velinhas com cheirinhos de frutas vermelhas e deixo uma luz focando o lugar em que me sento na cama, mas não muito forte, só para leitura… ; 4 &#8211; Escolho um tema ou autor favorito para ler antes de dormir, e esqueço de computadores, televisões e discussões que possam me atrapalhar.”  **Paulinha**
 > </p>
 
 &nbsp;
@@ -56,13 +56,13 @@ Fiz essa pergunta para leitoras queridas do blog, porque gostaria de rechear ess
 &nbsp;
 
 > <p align="justify">
->   Oi, Lidi! Procuro seguir algumas dicas, como: dormir e acordar no mesmo horário (ter uma rotina); Tentar respeitar a quantidade de horas  de sono que meu corpo precisa (cada pessoa tem a sua). Se o sono não vier, tento o seguinte: ouvir uma música tranquilinha; respirar profundamente várias vezes &#8211; esse não costuma falhar; ler um livro chatinho, daqueles que exigem mais concentração e raciocínio. Mas também vale lembrar que o quarto deve estar bem escurinho e sem tv, de preferência. Acredito no poder das cores também: cores fortes, como vermelho, laranja, são carregadas de muita energia, e devem ficar longe dos quartos. Esses ficam melhor com cores em tons pastéis, que estimulem o relaxamento.” <strong>Carol Maia | </strong><a href="http://bloguitodacarolzita.blogspot.com.br/" target="_blank"><strong>Bloguito da Carolzita</strong></a>
+>   Oi, Lidi! Procuro seguir algumas dicas, como: dormir e acordar no mesmo horário (ter uma rotina); Tentar respeitar a quantidade de horas  de sono que meu corpo precisa (cada pessoa tem a sua). Se o sono não vier, tento o seguinte: ouvir uma música tranquilinha; respirar profundamente várias vezes &#8211; esse não costuma falhar; ler um livro chatinho, daqueles que exigem mais concentração e raciocínio. Mas também vale lembrar que o quarto deve estar bem escurinho e sem tv, de preferência. Acredito no poder das cores também: cores fortes, como vermelho, laranja, são carregadas de muita energia, e devem ficar longe dos quartos. Esses ficam melhor com cores em tons pastéis, que estimulem o relaxamento.” **Carol Maia | **<a href="http://bloguitodacarolzita.blogspot.com.br/" target="_blank">**Bloguito da Carolzita**</a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Eu estou fazendo aulas de pilates de solo e tem me ajudado muito a dormir bem. Antes eu não dormia direito. O pilates ajuda a colocar a coluna no lugar, enfim, ajuda a relaxar. Depois da aula, tomo um banho morno, visto um pijama e vou para a cama, tendo disciplina no horário também.” <strong>Rita Reis</strong>
+>   Eu estou fazendo aulas de pilates de solo e tem me ajudado muito a dormir bem. Antes eu não dormia direito. O pilates ajuda a colocar a coluna no lugar, enfim, ajuda a relaxar. Depois da aula, tomo um banho morno, visto um pijama e vou para a cama, tendo disciplina no horário também.” **Rita Reis**
 > </p>
 
 &nbsp;
@@ -78,7 +78,7 @@ Imagens: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

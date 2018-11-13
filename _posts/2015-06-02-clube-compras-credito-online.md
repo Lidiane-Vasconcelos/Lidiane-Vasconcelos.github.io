@@ -1,7 +1,7 @@
 ---
-id: 3429
+
 title: 'Comprar online e ainda ganhar créditos: já pensou nisso?'
-date: 2015-06-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/02/clube-compras-credito-online/
@@ -17,7 +17,7 @@ categories:
 </p>
 
 <p align="justify">
-  Recentemente <strong>fiz o meu cadastro e me tornei afilidada no programa SEMPRE EXCLUSIVO</strong>. <strong>Você também pode fazer a mesma coisa</strong>, e começar a desfrutar dos benefícios muito em breve. Desconfio que você vai querer, sim, se cadastrar, assim que eu explicar o porquê essa é uma boa ideia. Esse post é justamente para apresentá-la pra você… vem!
+  Recentemente **fiz o meu cadastro e me tornei afilidada no programa SEMPRE EXCLUSIVO**. **Você também pode fazer a mesma coisa**, e começar a desfrutar dos benefícios muito em breve. Desconfio que você vai querer, sim, se cadastrar, assim que eu explicar o porquê essa é uma boa ideia. Esse post é justamente para apresentá-la pra você… vem!
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ categories:
 </p>
 
 <p align="justify">
-  Basicamente, esse programa nos dá créditos a partir das compras que fizermos nas lojas online. Note: <strong>não se trata de comprar mais, mas ser beneficiada pelas compras que você já está acostumada a fazer</strong>. O cadastro é gratuito, mas para fazê-lo, você precisa ser convidada por outra pessoa que já esteja no programa, e esse post é o meu convite oficial a você… já já te conto como isso acontece.
+  Basicamente, esse programa nos dá créditos a partir das compras que fizermos nas lojas online. Note: **não se trata de comprar mais, mas ser beneficiada pelas compras que você já está acostumada a fazer**. O cadastro é gratuito, mas para fazê-lo, você precisa ser convidada por outra pessoa que já esteja no programa, e esse post é o meu convite oficial a você… já já te conto como isso acontece.
 </p>
 
 <p align="justify">
@@ -36,11 +36,11 @@ categories:
 </p>
 
 <p align="justify">
-  As lojas online que participam do programa são várias e em muitos segmentos. Só para você ter uma noção, olha quem já aderiu: <strong>americanas.com, Submarino, Dafiti, Morena Rosa, Sephora, Sépha, Loungerie</strong>, dentre outras. Além do mais, cidades como Taubaté já contam com lojas físicas fazendo parte do time, e em breve outras mais entrarão para o programa. Já imaginou ganhar créditos, também, comprando no supermercado, na drograria, abastecendo o carro, etc. ? É uma boa, <em>né</em>?
+  As lojas online que participam do programa são várias e em muitos segmentos. Só para você ter uma noção, olha quem já aderiu: **americanas.com, Submarino, Dafiti, Morena Rosa, Sephora, Sépha, Loungerie**, dentre outras. Além do mais, cidades como Taubaté já contam com lojas físicas fazendo parte do time, e em breve outras mais entrarão para o programa. Já imaginou ganhar créditos, também, comprando no supermercado, na drograria, abastecendo o carro, etc. ? É uma boa, <em>né</em>?
 </p>
 
 <p align="justify">
-  O programa <strong>SEMPRE EXCLUSIVO</strong> é uma iniciativa da <a href="http://markafidelizacao.com.br/" target="_blank">MARKA FIDELIZAÇÃO</a>, empresa que está há 18 anos no mercado. Esse clube de compras, a princípio, não seria uma novidade, já que existem outros no mercado, não fosse exatamente este diferencial: você também pode <strong>convidar seus amigos</strong> e <strong>receber créditos pelas compras que eles realizarem</strong>.
+  O programa **SEMPRE EXCLUSIVO** é uma iniciativa da <a href="http://markafidelizacao.com.br/" target="_blank">MARKA FIDELIZAÇÃO</a>, empresa que está há 18 anos no mercado. Esse clube de compras, a princípio, não seria uma novidade, já que existem outros no mercado, não fosse exatamente este diferencial: você também pode **convidar seus amigos** e **receber créditos pelas compras que eles realizarem**.
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  Você pode participar de duas formas, como <strong>“cadastrada”</strong> ou <strong>“afiliada”.</strong> Na primeira opção, você acumula os créditos vindos somente de suas compras. Por outro lado, se você quiser pode fazer como eu e tornar-se uma <strong>“afiliada”,</strong> ou seja, <strong>ganhar créditos a partir das compras dos seus convidados. Você escolhe uma opção ou outra quando</strong> você entra no programa <strong><a href="http://www.sempreexclusivo.com.br/padrinho/11737" target="_blank">através do meu link convite</a></strong>, combinado? Então é assim: <strong><a href="http://www.sempreexclusivo.com.br/padrinho/11737" target="_blank">clique aqui, preencha seus dados básicos</a></strong> e você pega o seu link convite (seu link de padrinho) no seu painel de controle, e divulga para seus amigos como achar mais conveniente. Ah! Curta a página do <a href="https://www.facebook.com/sempreexclusivo" target="_blank">SEMPRE EXCLUSIVO  no Facebook</a> e acompanhe todas as novidades por lá também! Há ainda outro canal pra você ficar sabendo de todas as novidades, o <a href="http://sempreexclusivoblog.com.br/" target="_blank">blog do SEMPRE EXCLUSIVO</a>. Se joga!
+  Você pode participar de duas formas, como **“cadastrada”** ou **“afiliada”.** Na primeira opção, você acumula os créditos vindos somente de suas compras. Por outro lado, se você quiser pode fazer como eu e tornar-se uma **“afiliada”,** ou seja, **ganhar créditos a partir das compras dos seus convidados. Você escolhe uma opção ou outra quando** você entra no programa **<a href="http://www.sempreexclusivo.com.br/padrinho/11737" target="_blank">através do meu link convite</a>**, combinado? Então é assim: **<a href="http://www.sempreexclusivo.com.br/padrinho/11737" target="_blank">clique aqui, preencha seus dados básicos</a>** e você pega o seu link convite (seu link de padrinho) no seu painel de controle, e divulga para seus amigos como achar mais conveniente. Ah! Curta a página do <a href="https://www.facebook.com/sempreexclusivo" target="_blank">SEMPRE EXCLUSIVO  no Facebook</a> e acompanhe todas as novidades por lá também! Há ainda outro canal pra você ficar sabendo de todas as novidades, o <a href="http://sempreexclusivoblog.com.br/" target="_blank">blog do SEMPRE EXCLUSIVO</a>. Se joga!
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  Sempre que for fazer compras online, para garantir que você terá créditos futuros, entre sempre primeiro pelo site da <strong>SEMPRE EXCLUSIVO</strong>. Basta acessar o seu perfil, clicar em <strong>OFERTAS > NACIONAL,</strong> buscar sua<strong> LOJA FAVORITA,</strong> e clicar no botão <strong>IR PARA LOJA. </strong>Boas compras!!!
+  Sempre que for fazer compras online, para garantir que você terá créditos futuros, entre sempre primeiro pelo site da **SEMPRE EXCLUSIVO**. Basta acessar o seu perfil, clicar em **OFERTAS > NACIONAL,** buscar sua** LOJA FAVORITA,** e clicar no botão **IR PARA LOJA. **Boas compras!!!
 </p>
 
 <p align="center">

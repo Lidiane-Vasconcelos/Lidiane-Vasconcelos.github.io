@@ -1,7 +1,7 @@
 ---
-id: 2927
+
 title: 'Prateleira do Bicha Fêmea: Infinita Arte for Baby'
-date: 2010-12-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/15/infinita-arte-for-baby/
@@ -13,7 +13,7 @@ categories:
 Toda mulher, logo que engravida, já se imagina completamente diferente e apaixonada pelo bebezinho que logo começará a crescer na barriga, não é assim? É natural que ela comece a sonhar com o rostinho, a mãozinha, o quarto do bebê, e por aí vai…
 
 <p style="text-align: justify;">
-  E por falar em quartinho do bebê, da decoração dele e o conforto do ambiente, a mamãe que quer tudo exclusivo e lindo de viver, conta com o espaço apresentado na <strong><em>Prateleira do Bicha Fêmea</em></strong> de hoje: a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinita Arte for Baby</a>.
+  E por falar em quartinho do bebê, da decoração dele e o conforto do ambiente, a mamãe que quer tudo exclusivo e lindo de viver, conta com o espaço apresentado na **<em>Prateleira do Bicha Fêmea</em>** de hoje: a <a href="http://www.infinitaarte.com.br/" target="_blank">Infinita Arte for Baby</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -21,7 +21,7 @@ Toda mulher, logo que engravida, já se imagina completamente diferente e apaixo
 </p>
 
 <p style="text-align: justify;">
-  Você, que está esperando um bebê, sonha com um quartinho colorido, aconchegante e perfeito? Ah! Você precisa dar uma olhada nos produtos da <strong><em>Infinita Arte for Baby</em></strong>. Olha só:
+  Você, que está esperando um bebê, sonha com um quartinho colorido, aconchegante e perfeito? Ah! Você precisa dar uma olhada nos produtos da **<em>Infinita Arte for Baby</em>**. Olha só:
 </p>
 
 <p style="text-align: center;">
@@ -33,7 +33,7 @@ Toda mulher, logo que engravida, já se imagina completamente diferente e apaixo
 </p>
 
 <p style="text-align: justify;">
-  Quem comanda o time da<strong><em> Infinita Arte for Baby</em></strong> é a <strong><em>Bia Silvestre</em></strong>, e a equipe é formada por uma série de artesãs muito talentosas, que produzem tudo assim: produtos personalizados e orginais. Tudo que a mamãe possa imaginar para a chegada do bebê tem por lá: lembrancinhas de maternidade e batizado, enfeites para porta de maternidade e quarto, artigos para decoração do quartinho do bebê e para brincar (bonecas e bichinhos de pano), pecinhas exclusivas para enxoval, kits de higiene, porta fraldas, lixeirinhas, etc.
+  Quem comanda o time da**<em> Infinita Arte for Baby</em>** é a **<em>Bia Silvestre</em>**, e a equipe é formada por uma série de artesãs muito talentosas, que produzem tudo assim: produtos personalizados e orginais. Tudo que a mamãe possa imaginar para a chegada do bebê tem por lá: lembrancinhas de maternidade e batizado, enfeites para porta de maternidade e quarto, artigos para decoração do quartinho do bebê e para brincar (bonecas e bichinhos de pano), pecinhas exclusivas para enxoval, kits de higiene, porta fraldas, lixeirinhas, etc.
 </p>
 
 <p style="text-align: center;">
@@ -45,7 +45,7 @@ Toda mulher, logo que engravida, já se imagina completamente diferente e apaixo
 </p>
 
 <p style="text-align: justify;">
-  Os produtos da <strong><em>Infinita Arte for Baby</em></strong> não são apenas bonitos, é preciso que se diga. As bonitas talentosas produzem tudo isso com muita qualidade e carinho, porque as peças são confeccionadas com material atóxico e alérgico. Afinal de contas, é um ambiente seguro e saudável que você quer para o seu bebê, não é?
+  Os produtos da **<em>Infinita Arte for Baby</em>** não são apenas bonitos, é preciso que se diga. As bonitas talentosas produzem tudo isso com muita qualidade e carinho, porque as peças são confeccionadas com material atóxico e alérgico. Afinal de contas, é um ambiente seguro e saudável que você quer para o seu bebê, não é?
 </p>
 
 <p style="text-align: center;">
@@ -73,9 +73,9 @@ Ficou encantada? Difícil não ficar, não é? O encantamento será muito maior 
 **_[Prateleira do Bicha Fêmea: Aluada.](http://www.trololodemulher.com.br/2010/06/09/artesanato-aluada/)_** 
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

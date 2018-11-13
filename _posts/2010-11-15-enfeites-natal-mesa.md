@@ -1,7 +1,7 @@
 ---
-id: 2909
+
 title: 'Enfeites de Natal: você já sabe como decorar a mesa?'
-date: 2010-11-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/15/enfeites-natal-mesa/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p style="text-align: justify;">
-  Se a resposta for não, justamente porque você precisa de inspirações para a <strong><em>decoração da mesa de Natal</em></strong>, então aqui está um apanhado de ideias bem simples de serem reproduzidas em sua casa.
+  Se a resposta for não, justamente porque você precisa de inspirações para a **<em>decoração da mesa de Natal</em>**, então aqui está um apanhado de ideias bem simples de serem reproduzidas em sua casa.
 </p>
 
 <p style="text-align: justify;">
@@ -59,7 +59,7 @@ Um prato de bolinhos e doces, desses que são altos e tem mais de um andar, serv
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Bônus: sugestão de decoração para quem tem escada em casa…</span></em></strong>
+  **<em><span style="font-size: medium;">Bônus: sugestão de decoração para quem tem escada em casa…</span></em>**
 </p>
 
 <p align="center">

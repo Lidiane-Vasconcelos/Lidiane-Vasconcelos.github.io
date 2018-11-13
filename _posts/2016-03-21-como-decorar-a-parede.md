@@ -1,7 +1,7 @@
 ---
-id: 3569
+
 title: Como decorar a parede sem uma galeria de quadros?
-date: 2016-03-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/21/como-decorar-a-parede/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Colocar uma galeria de quadros na parede sem dúvidas é algo lindo de viver, mas não é a única alternativa capaz de deixar sua casa uma belezura. Sendo assim, <strong>como decorar a parede</strong> sem esse recurso e, ainda assim, conseguir um visual incrível? Eis aí a razão por que esse post nasceu, para te mostrar três sugestões tão lindas de viver quanto um conjunto de quadros. Dê uma espiada, veja o que atende ao seu estilo e aplique já em seus domínios. O que é diferente também pode ser belíssimo… confere!
+  Colocar uma galeria de quadros na parede sem dúvidas é algo lindo de viver, mas não é a única alternativa capaz de deixar sua casa uma belezura. Sendo assim, **como decorar a parede** sem esse recurso e, ainda assim, conseguir um visual incrível? Eis aí a razão por que esse post nasceu, para te mostrar três sugestões tão lindas de viver quanto um conjunto de quadros. Dê uma espiada, veja o que atende ao seu estilo e aplique já em seus domínios. O que é diferente também pode ser belíssimo… confere!
 </p>
 
 <p align="center">
@@ -30,15 +30,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Puro charme: decoração da parede com fotos.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank">**Puro charme: decoração da parede com fotos.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank"><strong>Decoração da parede com fotos: faça a sua!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank">**Decoração da parede com fotos: faça a sua!**</a>
 </p>
 
 <p align="center">

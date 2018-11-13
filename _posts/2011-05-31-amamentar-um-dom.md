@@ -1,7 +1,7 @@
 ---
-id: 3003
+
 title: Amamentar, um dom!
-date: 2011-05-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/31/amamentar-um-dom/
@@ -27,7 +27,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: justify;">
-  Para <strong>rachaduras no peito</strong> recorri a algumas pomadas (massê, bepantol, bico de silicone entre outros &#8230;) mas a que resolveu mesmo como num toque de mágica foi a Lansinoh, uma pomada que faz milagres e que realmente cicatriza as rachaduras no peito, o problema foi que até eu “chegar” nessa solução, começou a diminuir a produção de leite e então eu experimentei o desespero de querer amamentá-la e não poder. Minha GO me receitou o Equilid (só com receita médica), que aumenta a produção do leite, recorri também ao NAN pro 1 e chegou a um ponto em que eu podia alternar entre peito e mamadeira.
+  Para **rachaduras no peito** recorri a algumas pomadas (massê, bepantol, bico de silicone entre outros &#8230;) mas a que resolveu mesmo como num toque de mágica foi a Lansinoh, uma pomada que faz milagres e que realmente cicatriza as rachaduras no peito, o problema foi que até eu “chegar” nessa solução, começou a diminuir a produção de leite e então eu experimentei o desespero de querer amamentá-la e não poder. Minha GO me receitou o Equilid (só com receita médica), que aumenta a produção do leite, recorri também ao NAN pro 1 e chegou a um ponto em que eu podia alternar entre peito e mamadeira.
 </p>
 
 <p style="text-align: center;">
@@ -59,7 +59,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: justify;">
-  Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
+  Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
 </p>
 
 ** **
@@ -73,21 +73,21 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
-       Analista Fiscal, mãe da Sophia (2 meses) e da Daniele (18 anos), <strong>Josi Sousa</strong> tem  o Blog “<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank"><strong>Mulher, mãe, esposa, profissional</strong></a>”, onde divide suas descobertas e anseios de toda mulher que sabe o quanto é dificil e prazeroso ao mesmo tempo ser: mãe, mulher, esposa e profissional.
+       Analista Fiscal, mãe da Sophia (2 meses) e da Daniele (18 anos), **Josi Sousa** tem  o Blog “<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank">**Mulher, mãe, esposa, profissional**</a>”, onde divide suas descobertas e anseios de toda mulher que sabe o quanto é dificil e prazeroso ao mesmo tempo ser: mãe, mulher, esposa e profissional.
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  Faça como a <strong>Josi</strong>, e envie <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em></strong> para o <strong>Bicha Fêmea</strong>!
+  Faça como a **Josi**, e envie **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em>** para o **Bicha Fêmea**!
 </p>
 
 <p style="text-align: left;">
-  <strong>Mais no Bicha Fêmea…</strong>
+  **Mais no Bicha Fêmea…**
 </p>
 
 <p style="text-align: left;">
-  <strong><a href="http://www.trololodemulher.com.br/2011/03/03/adocao-sim-ou-nao/">Adoção, sim ou não?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/03/03/adocao-sim-ou-nao/">Adoção, sim ou não?</a>**
 </p>
 
 **[Saúde no Bicha Fêmea: respirador bucal](http://www.trololodemulher.com.br/2010/08/18/saude-respirador-bucal/)**
@@ -99,23 +99,23 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 **[A educação dos homens e mulheres de amanhã…](http://www.trololodemulher.com.br/2009/12/02/educacao-domestica/)**
 
 <p style="text-align: center;">
-  <strong><em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> </em></strong>
+  **<em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> </em>**
 </p>
 
 <p style="text-align: center;">
-  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 ** **

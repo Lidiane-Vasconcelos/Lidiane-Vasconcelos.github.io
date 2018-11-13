@@ -1,7 +1,7 @@
 ---
-id: 3524
+
 title: Casa limpa e organizada com menos esforço? 11 dicas.
-date: 2016-01-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/06/casa-limpa-e-organizada/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Ninguém merece passar a vida cuidando da casa, <em>néam</em>? Justamente por isso, tenho bastante interesse em aplicar dicas e ideias que facilitem esse trabalho de deixar a <strong>casa limpa e organizada</strong> no dia a dia &#8211; sem neuras! &#8211; em menos tempo, e com o mínimo de esforço. Você é das minhas e está a fim de conhecer novas ideias e estratégias nesse sentido também? Vem comigo!
+  Ninguém merece passar a vida cuidando da casa, <em>néam</em>? Justamente por isso, tenho bastante interesse em aplicar dicas e ideias que facilitem esse trabalho de deixar a **casa limpa e organizada** no dia a dia &#8211; sem neuras! &#8211; em menos tempo, e com o mínimo de esforço. Você é das minhas e está a fim de conhecer novas ideias e estratégias nesse sentido também? Vem comigo!
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Trocar roupa de cama/mesa/banho, lavar roupas, limpar fogão, limpar vaso + pia do banheiro, passar roupas, limpar objetos + superfícies e  lavar o banheiro (limpeza completa)</em></strong> são atividades que não precisam ser feitas, necessariamente, todos os dias. Então, fiz a distribuição delas pelos dias da semana.
+  **<em>Trocar roupa de cama/mesa/banho, lavar roupas, limpar fogão, limpar vaso + pia do banheiro, passar roupas, limpar objetos + superfícies e  lavar o banheiro (limpeza completa)</em>** são atividades que não precisam ser feitas, necessariamente, todos os dias. Então, fiz a distribuição delas pelos dias da semana.
 </p>
 
 <p align="justify">
-  <strong><em>Aspirar sob os móveis e os estofados, trocar capas de almofadas, trocar colcha de cama, limpar os vidros e limpar geladeira + micro</em></strong> são atividades que podem ter um espaçamento de tempo um pouco maior, então fiz a distribuição dessas necessidades ao longo do mês.
+  **<em>Aspirar sob os móveis e os estofados, trocar capas de almofadas, trocar colcha de cama, limpar os vidros e limpar geladeira + micro</em>** são atividades que podem ter um espaçamento de tempo um pouco maior, então fiz a distribuição dessas necessidades ao longo do mês.
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Ações como <strong><em>fazer a cama, manter cada coisa em seu lugar, lavar louça, jogar o lixo e limpar o chão</em></strong>, <strong><span style="color: #c0504d;"><em>na minha casa</em></span></strong>, precisam ser feitas todos os dias. Chamei a sua atenção para o “na minha casa” para que você faça esse exercício de listar as atividades diárias, semanais, quinzenais, mensais ou semestrais de acordo com sua realidade e de sua família. E lembre-se: o que é adequado pra mim, pode não ser pra você, e tudo bem!
+  Ações como **<em>fazer a cama, manter cada coisa em seu lugar, lavar louça, jogar o lixo e limpar o chão</em>**, **<span style="color: #c0504d;"><em>na minha casa</em></span>**, precisam ser feitas todos os dias. Chamei a sua atenção para o “na minha casa” para que você faça esse exercício de listar as atividades diárias, semanais, quinzenais, mensais ou semestrais de acordo com sua realidade e de sua família. E lembre-se: o que é adequado pra mim, pode não ser pra você, e tudo bem!
 </p>
 
 <p align="justify">

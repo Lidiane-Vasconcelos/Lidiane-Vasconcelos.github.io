@@ -1,7 +1,7 @@
 ---
-id: 3694
+
 title: 'Enfeite natalino rústico: faça você mesma.'
-date: 2016-10-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/25/enfeite-natalino-rustico/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Você gosta de toques diferentes e inusitados na decoração da sua árvore de Natal? Para quem gosta de <strong>enfeite natalino rústico</strong>, essa estrela que você verá a seguir é perfeita! Na próxima ida ao parque, fique de olho nos gravetos que você encontrar. É com ele que você dará vida a esse ornamento que deixará sua árvore diferente, com sua cara e estilo. Confere:
+  Você gosta de toques diferentes e inusitados na decoração da sua árvore de Natal? Para quem gosta de **enfeite natalino rústico**, essa estrela que você verá a seguir é perfeita! Na próxima ida ao parque, fique de olho nos gravetos que você encontrar. É com ele que você dará vida a esse ornamento que deixará sua árvore diferente, com sua cara e estilo. Confere:
 </p>
 
 <p align="center">

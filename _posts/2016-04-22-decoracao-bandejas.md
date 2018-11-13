@@ -1,7 +1,7 @@
 ---
-id: 3596
+
 title: 'Truques de decoração: bandejas… por que te quero?'
-date: 2016-04-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/22/decoracao-bandejas/

@@ -1,7 +1,7 @@
 ---
-id: 3337
+
 title: “Se eu não lutasse, se eu não tivesse fé, não teria aguentado até aqui”
-date: 2014-09-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/01/cancer-de-mama-3/
@@ -16,7 +16,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><span style="font-size: medium;">“Eu era uma mulher indepedente, hoje dependo da minha mãe pra tudo, raramente estou bem o suficiente pra fazer minha própria comida (por exemplo).”</span></strong>
+>   **<span style="font-size: medium;">“Eu era uma mulher indepedente, hoje dependo da minha mãe pra tudo, raramente estou bem o suficiente pra fazer minha própria comida (por exemplo).”</span>**
 > </p>
 
 <p align="justify">
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > O que passou pela sua cabeça quando soube da doença? </strong>
+  **Bicha Fêmea > O que passou pela sua cabeça quando soube da doença? **
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > O tempo passou, você seguiu com o seu tratamento para o câncer de mama e…você soube que a doença evoluiu de outras formas em seu corpo. Em algum momento você se revoltou? </strong>
+  **Bicha Fêmea > O tempo passou, você seguiu com o seu tratamento para o câncer de mama e…você soube que a doença evoluiu de outras formas em seu corpo. Em algum momento você se revoltou? **
 </p>
 
 <p align="justify">
@@ -44,19 +44,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > Como sua família lidou com sua doença e as consequências dela? </strong>
+  **Bicha Fêmea > Como sua família lidou com sua doença e as consequências dela? **
 </p>
 
 <p align="justify">
-  <em><strong>“</strong>No inicio tentaram levar naturalmente. Meu filho foi o que mais me surpreendeu com a maturidade e responsabilidade. Ele lida muito bem, apesar de ter apenas 8 anos. Me ajuda, apoia. Faz coisas simples como trazer um lanche pra mim, ou respeitar o silêncio (que é algo que eu tenho necessitado e valorizado demais). Minha mãe é muito forte, ajuda muito além do que poderia ajudar, mas tem os momentos em que tenta ignorar / fugir da realidade, como muitos pacientes mesmo fazem. Eu sou hiper realista. Se estou paralisada por uma lesão eu não fico me enganando dizendo que é o tempo frio, eu sei que é a lesão que está me paralisando e ponto. Me medico e enfrento a dor até ela passar. É mais fácil fugir da realidade do que enfrentá-la. Muitos fazem isso com superstições, fé, rituais&#8230; eu tento ser realista e não me enganar achando que porque uma compressa de água quente aliviou minha dor eu vou poder sair andando por ai&#8230; sei os meus limites e respeito.”</em>
+  <em>**“**No inicio tentaram levar naturalmente. Meu filho foi o que mais me surpreendeu com a maturidade e responsabilidade. Ele lida muito bem, apesar de ter apenas 8 anos. Me ajuda, apoia. Faz coisas simples como trazer um lanche pra mim, ou respeitar o silêncio (que é algo que eu tenho necessitado e valorizado demais). Minha mãe é muito forte, ajuda muito além do que poderia ajudar, mas tem os momentos em que tenta ignorar / fugir da realidade, como muitos pacientes mesmo fazem. Eu sou hiper realista. Se estou paralisada por uma lesão eu não fico me enganando dizendo que é o tempo frio, eu sei que é a lesão que está me paralisando e ponto. Me medico e enfrento a dor até ela passar. É mais fácil fugir da realidade do que enfrentá-la. Muitos fazem isso com superstições, fé, rituais&#8230; eu tento ser realista e não me enganar achando que porque uma compressa de água quente aliviou minha dor eu vou poder sair andando por ai&#8230; sei os meus limites e respeito.”</em>
 </p>
 
 > <p align="justify">
->   <span style="font-size: medium;"><strong>Pra quem me vê fica a lição da persistência, de não cair. Não caio mesmo, não. Dói, machuca, é difcil, mas me levanto, não fico no chão.”</strong></span>
+>   <span style="font-size: medium;">**Pra quem me vê fica a lição da persistência, de não cair. Não caio mesmo, não. Dói, machuca, é difcil, mas me levanto, não fico no chão.”**</span>
 > </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > Apesar da doença e os tratamentos dolorosos para o corpo, você não se isolou. Você esteve presente na blogosfera [<a href="http://eraumavezumcancer.blogspot.com.br/" target="_blank">Era uma vez um câncer&#8230;</a>], redes sociais e eventos na sua cidade, esbanjando vontade de viver. A vida continua? </strong>
+  **Bicha Fêmea > Apesar da doença e os tratamentos dolorosos para o corpo, você não se isolou. Você esteve presente na blogosfera [<a href="http://eraumavezumcancer.blogspot.com.br/" target="_blank">Era uma vez um câncer&#8230;</a>], redes sociais e eventos na sua cidade, esbanjando vontade de viver. A vida continua? **
 </p>
 
 <p align="justify">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Bicha Fêmea > O que tem ficado dessa experiência toda? </strong>
+  **Bicha Fêmea > O que tem ficado dessa experiência toda? **
 </p>
 
 <p align="justify">

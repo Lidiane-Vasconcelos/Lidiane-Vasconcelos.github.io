@@ -1,7 +1,7 @@
 ---
-id: 3442
+
 title: 'Saúde e beleza das unhas: verdades que você não sabia.'
-date: 2015-07-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/06/saude-e-beleza-das-unhas/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para tirar todas as nossa dúvidas, a <strong>Dra. Marcella Ledo, Médica Dermatologista de Jundiaí/SP</strong>, respondeu perguntas que fiz sobre os cuidados básicos e a respeito de nossas atividades no dia a dia, de modo a compreender em que medida nossas atitudes contribuem para a saúde geral de nossas unhas. Acompanha comigo… vem!
+  Para tirar todas as nossa dúvidas, a **Dra. Marcella Ledo, Médica Dermatologista de Jundiaí/SP**, respondeu perguntas que fiz sobre os cuidados básicos e a respeito de nossas atividades no dia a dia, de modo a compreender em que medida nossas atitudes contribuem para a saúde geral de nossas unhas. Acompanha comigo… vem!
 </p>
 
 <p align="center">
@@ -43,19 +43,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher:</strong> <b>Qual a melhor estratégia para melhorar o aspecto das unhas?</b>
+  **Trololó de Mulher:** <b>Qual a melhor estratégia para melhorar o aspecto das unhas?</b>
 </p>
 
 > <p align="justify">
->   “<strong><em>Independentemente da atividade profissional, ter uma boa alimentação com todos os nutrientes necessários e até suplementação vitamínica orientado por médico dermatologista conforme a necessidade. Além disso, utilizar luvas em atividades diárias e realizar hidratação diversas vezes ao dia do local. De preferência antes de fazer as unhas, ficar uns 2 ou 3 dias apenas hidratando e orientar à manicure para não lixar tão vigorosamente nem empurrar as cutículas intensamente para evitar os traumas à matriz. Além disso, se for utilizar esmaltes com cores fortes como vermelho ou laranja, aplicar 2 camadas de base para proteger as unhas de manchas. Para evitar que elas encravem, principalmente nos pés, realizar o corte de forma reta evitando cortar os cantos, pois quando eles crescem acabam entrando na pele gerando inflamação</em></strong>.”
+>   “**<em>Independentemente da atividade profissional, ter uma boa alimentação com todos os nutrientes necessários e até suplementação vitamínica orientado por médico dermatologista conforme a necessidade. Além disso, utilizar luvas em atividades diárias e realizar hidratação diversas vezes ao dia do local. De preferência antes de fazer as unhas, ficar uns 2 ou 3 dias apenas hidratando e orientar à manicure para não lixar tão vigorosamente nem empurrar as cutículas intensamente para evitar os traumas à matriz. Além disso, se for utilizar esmaltes com cores fortes como vermelho ou laranja, aplicar 2 camadas de base para proteger as unhas de manchas. Para evitar que elas encravem, principalmente nos pés, realizar o corte de forma reta evitando cortar os cantos, pois quando eles crescem acabam entrando na pele gerando inflamação</em>**.”
 > </p>
 
 <p align="justify">
-  <strong>TMulher: Quais produtos você recomenda para o bom cuidado das unhas?</strong>
+  **TMulher: Quais produtos você recomenda para o bom cuidado das unhas?**
 </p>
 
 > <p align="justify">
->   “<em><strong>Utilizar hidratante de cutículas e unhas. Caso tenha alergia à esmalte, usar esmaltes anti-alérgicos. Caso tenha alteração da coloração ou unha encravada, procurar sempre um médico dermatologista para diagnóstico preciso e tratamento adequado do local. Atenção com o uso de esmalte fortalecedores, pois muitos contém formol que promove um ressecamento ungueal, deixando as unhas mais endurecidas a curto prazo, mas que a longo prazo promove uma quebra mais frequente. Além disso, antes de qualquer suplementação vitamínica é necessário um investigação minuciosa das causas de alterações ungueais com posterior tratamento da causa exata do problema. E sempre para um bom funcionamento de todo o organismo buscar uma alimentação equilibrada e hidratação com o consumo de líquidos ao longo do dia.”</strong></em>
+>   “<em>**Utilizar hidratante de cutículas e unhas. Caso tenha alergia à esmalte, usar esmaltes anti-alérgicos. Caso tenha alteração da coloração ou unha encravada, procurar sempre um médico dermatologista para diagnóstico preciso e tratamento adequado do local. Atenção com o uso de esmalte fortalecedores, pois muitos contém formol que promove um ressecamento ungueal, deixando as unhas mais endurecidas a curto prazo, mas que a longo prazo promove uma quebra mais frequente. Além disso, antes de qualquer suplementação vitamínica é necessário um investigação minuciosa das causas de alterações ungueais com posterior tratamento da causa exata do problema. E sempre para um bom funcionamento de todo o organismo buscar uma alimentação equilibrada e hidratação com o consumo de líquidos ao longo do dia.”**</em>
 > </p>
 
 <p align="center">
@@ -63,11 +63,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Dra. Marcella:</strong>
+  **Mais consultorias da Dra. Marcella:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/08/cuidados-pele-pescoco/" target="_blank"><strong>Cuidados com a pele do pescoço: você não esqueceu, certo?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/08/cuidados-pele-pescoco/" target="_blank">**Cuidados com a pele do pescoço: você não esqueceu, certo?**</a>
 </p>
 
 <p align="justify">

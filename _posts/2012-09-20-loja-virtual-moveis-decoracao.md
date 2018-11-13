@@ -1,7 +1,7 @@
 ---
-id: 3188
+
 title: Todo mundo quer uma casa bonita e funcional, certo?
-date: 2012-09-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/20/loja-virtual-moveis-decoracao/
@@ -15,7 +15,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 &nbsp;
 
 <p align="justify">
-  Estou falando da possibilidade de você encontrar o que precisa para a decoração de sua casa em uma <strong>loja virtual repleta de produtos</strong> e que, certamente, te deixará confiante para fazer boas compras, de cara, pela longa história no mercado que possui. Quer saber? Confere!
+  Estou falando da possibilidade de você encontrar o que precisa para a decoração de sua casa em uma **loja virtual repleta de produtos** e que, certamente, te deixará confiante para fazer boas compras, de cara, pela longa história no mercado que possui. Quer saber? Confere!
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 &nbsp;
 
 <p align="justify">
-  No mercado desde 1959, a empresa conta com <strong>357 lojas a nossa disposição</strong>. Você já deve ter visto uma perto de você, <em>né</em>? Mas, <em>oh</em>: está com vontade mesmo é de <strong>dar uma olhada nos produtos, pesquisar preços e condições sem sair da casa?</strong> A <strong><a href="http://www.colombo.com.br/" target="_blank" rel="nofollow">loja virtual</a></strong> existe <strong>toda bonita e com fácil navegabilidade</strong> justamente para isso, bonita! Se joga!
+  No mercado desde 1959, a empresa conta com **357 lojas a nossa disposição**. Você já deve ter visto uma perto de você, <em>né</em>? Mas, <em>oh</em>: está com vontade mesmo é de **dar uma olhada nos produtos, pesquisar preços e condições sem sair da casa?** A **<a href="http://www.colombo.com.br/" target="_blank" rel="nofollow">loja virtual</a>** existe **toda bonita e com fácil navegabilidade** justamente para isso, bonita! Se joga!
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 &nbsp;
 
 <p align="justify">
-  Esse <strong>criado mudo branquinho para favorecer uma decoração romântica</strong>, e que <strong>aceita belas pinceladas de cores através dos mimos decorativos que a gente possa escolher para colocar sobre ele</strong>.
+  Esse **criado mudo branquinho para favorecer uma decoração romântica**, e que **aceita belas pinceladas de cores através dos mimos decorativos que a gente possa escolher para colocar sobre ele**.
 </p>
 
 &nbsp;
@@ -55,7 +55,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 &nbsp;
 
 <p align="justify">
-  Esse <strong>puff baú para colocar ao pé da cama, ou ainda num canto estratégico do quarto a fim de decorar, servir como assento de apoio e até espaço extra para guardar objetos</strong>. Não é para viver de amores?
+  Esse **puff baú para colocar ao pé da cama, ou ainda num canto estratégico do quarto a fim de decorar, servir como assento de apoio e até espaço extra para guardar objetos**. Não é para viver de amores?
 </p>
 
 &nbsp;

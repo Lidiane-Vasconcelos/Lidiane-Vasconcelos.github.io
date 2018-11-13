@@ -1,7 +1,7 @@
 ---
-id: 3868
+
 title: Como morar melhor, de maneira mais simples?
-date: 2018-06-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/06/19/morar-melhor/
@@ -12,7 +12,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  <strong>Morar melhor</strong> está associado a ter mais qualidade de vida em casa, e isso também passa pela decoração do espaço onde você vive. Que sentimentos sua casa provoca em você? Já ouviu falar do minimalismo como um estilo aplicado a decoração da casa? Parece que estamos mesmo chegando num ponto de saturação: ninguém aguenta mais o culto ao consumismo desenfreado, onde quanto mais se tem, melhor.
+  **Morar melhor** está associado a ter mais qualidade de vida em casa, e isso também passa pela decoração do espaço onde você vive. Que sentimentos sua casa provoca em você? Já ouviu falar do minimalismo como um estilo aplicado a decoração da casa? Parece que estamos mesmo chegando num ponto de saturação: ninguém aguenta mais o culto ao consumismo desenfreado, onde quanto mais se tem, melhor.
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Aviso importante!</strong>
+  **Aviso importante!**
 </p>
 
 <p align="center">
@@ -80,11 +80,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Clique aqui e mande mensagem para mim no WhatsApp</a>, ou me chame no <strong>81.9.9530-7307</strong>, e peça para entrar na lista de espera. Estou a disposição para tirar dúvidas.
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Clique aqui e mande mensagem para mim no WhatsApp</a>, ou me chame no **81.9.9530-7307**, e peça para entrar na lista de espera. Estou a disposição para tirar dúvidas.
 </p>
 
 <p align="center">
-  <strong>Aviso de Férias!</strong>
+  **Aviso de Férias!**
 </p>
 
 <p align="justify">
@@ -100,7 +100,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -116,7 +116,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

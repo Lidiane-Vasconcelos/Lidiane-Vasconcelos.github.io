@@ -1,7 +1,7 @@
 ---
-id: 3822
+
 title: 'Festa picnic do Rhuan: 2 anos.'
-date: 2017-11-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/01/festa-picnic/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  A <strong>festa picnic</strong> do pequeno Rhuan teve tudo a ver com ele, já que a mãe sabe bem do que a cria gosta: natureza e brincadeiras ao ar livre. Clássicos como cesta recheada de delícias apropriadas para a ocasião, toalha pra forrar no chão e muita brincadeira de criança livre, leve e solta, não faltaram.
+  A **festa picnic** do pequeno Rhuan teve tudo a ver com ele, já que a mãe sabe bem do que a cria gosta: natureza e brincadeiras ao ar livre. Clássicos como cesta recheada de delícias apropriadas para a ocasião, toalha pra forrar no chão e muita brincadeira de criança livre, leve e solta, não faltaram.
 </p>
 
 <p align="justify">

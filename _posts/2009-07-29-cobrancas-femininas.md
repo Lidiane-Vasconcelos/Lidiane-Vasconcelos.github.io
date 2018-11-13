@@ -1,7 +1,7 @@
 ---
-id: 2692
+
 title: “Mulher É Um Bicho Danado!”… Se Não, Vejamos…
-date: 2009-07-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/29/cobrancas-femininas/
@@ -14,7 +14,7 @@ Há uma observação sempre recorrente na boca de marido que diz assim: _mulher
 
 Essa observação, que eu diria não ser das mais requintadas, tem um “Q” de reflexiva, ou no mínimo “dá pano para manga”, para não dizer um bom _trololó_.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonthumbsup13.gif)
 
-Ela vem sempre após atitudes femininas que ele acha extremamente curiosas, que talvez ele não veja ou sinta no universo masculino, e por isso cause tanta perplexidade. São atitudes que levam as mulheres a fazerem sacrifícios para estarem belas e se sentirem jovens, como por exemplo <a href="http://www.trololodemulher.com.br/2009/04/02/o-que-ser-escrava-da-beleza-2/" target="_self"><strong><em>a busca pela beleza que se torna escravidão</em></strong> </a>, ou a <a href="http://www.trololodemulher.com.br/2009/07/02/eu-tenho-celulite-tu-tens-todas-ns-temos-e-da/" target="_self"><strong><em>preocupação paranóica com a celulite</em></strong></a>,  e ainda tentarem desmentir uma verdade inexorável: todo mundo vai envelhecer, inclusive a gente. E nessa busca incessante pela beleza e juventude, as mulheres se avaliam e se medem umas pelas outras, para analisar quem está no padrão, ou quem foge dele&#8230;[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused5.gif) 
+Ela vem sempre após atitudes femininas que ele acha extremamente curiosas, que talvez ele não veja ou sinta no universo masculino, e por isso cause tanta perplexidade. São atitudes que levam as mulheres a fazerem sacrifícios para estarem belas e se sentirem jovens, como por exemplo <a href="http://www.trololodemulher.com.br/2009/04/02/o-que-ser-escrava-da-beleza-2/" target="_self">**<em>a busca pela beleza que se torna escravidão</em>** </a>, ou a <a href="http://www.trololodemulher.com.br/2009/07/02/eu-tenho-celulite-tu-tens-todas-ns-temos-e-da/" target="_self">**<em>preocupação paranóica com a celulite</em>**</a>,  e ainda tentarem desmentir uma verdade inexorável: todo mundo vai envelhecer, inclusive a gente. E nessa busca incessante pela beleza e juventude, as mulheres se avaliam e se medem umas pelas outras, para analisar quem está no padrão, ou quem foge dele&#8230;[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused5.gif) 
 
 Também causa espanto a cobrança que as mulheres fazem entre si para que “arrumem marido”. Umas perguntam ás outras em tom de curiosidade se têm namorado, se não vão arrumar um, se já casaram, quando vão casar, etc. A princípio parece curiosidade, mas a pergunta é inquisidora e logo parte-se para a sessão dos “porquês” se ela responder que não tem um homem, como se isso fosse algo errado. Essa cobrança no mínimo esquisita foi colocada em discussão** __**[**_aqui no Bicha_**](http://www.trololodemulher.com.br/2009/05/07/bicha-fmea-convidada-4/),  e com maestria , pela Patrícia Pirota do blog “<a href="http://patriciapirota.blogspot.com/" target="_blank">Ainda MininaMá</a>”.
 

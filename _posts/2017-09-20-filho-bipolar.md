@@ -1,7 +1,7 @@
 ---
-id: 3803
+
 title: Como ajudar seu filho bipolar? Comece por você!
-date: 2017-09-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/20/filho-bipolar/
@@ -10,11 +10,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Não tenho dúvida do quanto deve ser difícil uma mãe admitir um <strong>filho bipolar</strong>, porque isso significa assumir a necessidade de travar uma batalha por dia, até que haja a cura da cria… e dela própria. Neste post você vai ler um depoimento emocionante de uma mãe guerreira, que teve sua filha dignosticada com o transtorno bipolar, viu sua menina tentar suicídio, e até precisou interná-la numa clínica psiquiátrica.
+  Não tenho dúvida do quanto deve ser difícil uma mãe admitir um **filho bipolar**, porque isso significa assumir a necessidade de travar uma batalha por dia, até que haja a cura da cria… e dela própria. Neste post você vai ler um depoimento emocionante de uma mãe guerreira, que teve sua filha dignosticada com o transtorno bipolar, viu sua menina tentar suicídio, e até precisou interná-la numa clínica psiquiátrica.
 </p>
 
 <p align="justify">
-  Ao relatar toda uma trajetória de sofrimento, mas de muito aprendizado, <strong>Márcia Damasceno, que é Maquiadora – Belo Horizonte, MG</strong>, e <strong>consultora de beleza no Trololó de Mulher</strong>, chama a atenção para um ponto importantíssimo para quem está em situação similar: para dar suporte a um filho que enfrenta um processo tão difícil, aprenda a cuidar de você mesma. É vital que você admita quando precisar de ajuda.. e peça! Confira:
+  Ao relatar toda uma trajetória de sofrimento, mas de muito aprendizado, **Márcia Damasceno, que é Maquiadora – Belo Horizonte, MG**, e **consultora de beleza no Trololó de Mulher**, chama a atenção para um ponto importantíssimo para quem está em situação similar: para dar suporte a um filho que enfrenta um processo tão difícil, aprenda a cuidar de você mesma. É vital que você admita quando precisar de ajuda.. e peça! Confira:
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Não sei (ou melhor, agora sei, sim) de onde eu tirei tanta força naquele momento pra lidar com aquilo com tanta assertividade para resolver aquela situação. Uma das coisas que me veio na mente naquela hora foi uma das frases que tinha ouvido em uma das palestras, em que o tema era empatia e a comunicação não violenta: <em>“p<strong>or trás de todo comportamento existe uma necessidade</strong>”. <em>Foi isso o que me direcionou naquelas frações de segundo para que eu pudesse agir com precisão.</em></em></em>
+  <em>Não sei (ou melhor, agora sei, sim) de onde eu tirei tanta força naquele momento pra lidar com aquilo com tanta assertividade para resolver aquela situação. Uma das coisas que me veio na mente naquela hora foi uma das frases que tinha ouvido em uma das palestras, em que o tema era empatia e a comunicação não violenta: <em>“p**or trás de todo comportamento existe uma necessidade**”. <em>Foi isso o que me direcionou naquelas frações de segundo para que eu pudesse agir com precisão.</em></em></em>
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Existe muita vergonha por serem adoecimentos em que as feridas não são visuais em que colocam-se ataduras. <strong>São feridas na alma que se externalizam como comportamentos e emoções.</strong></em>
+  <em>Existe muita vergonha por serem adoecimentos em que as feridas não são visuais em que colocam-se ataduras. **São feridas na alma que se externalizam como comportamentos e emoções.**</em>
 </p>
 
 <p align="justify">
@@ -114,15 +114,15 @@ categories:
 </p>
 
 <p align="justify">
-  <em>> Porque eu sei que com a minha experiência e com o que tenho aprendido posso ajudar muitas mulheres a se conhecerem, se fortalecerem e então descobrirem a beleza verdadeira que existe nelas, e na vida em volta. <strong>Essa tem sido a minha história</strong>.</em>
+  <em>> Porque eu sei que com a minha experiência e com o que tenho aprendido posso ajudar muitas mulheres a se conhecerem, se fortalecerem e então descobrirem a beleza verdadeira que existe nelas, e na vida em volta. **Essa tem sido a minha história**.</em>
 </p>
 
 <p align="justify">
-  <em>Só conseguimos cuidar do outro quando nos cuidamos primeiro. Porque aprendemos a nos acolher com verdade. E aí a maquiagem entra como um toque de cuidado, e não como uma camada grossa que esconda ou tente mudar quem somos. <em><strong>Menos corretivo e mais coração.</strong> Dessa forma construímos uma vida melhor, sabendo nos relacionar primeiro com nós mesmas e depois com os outros, sendo esse outro um familiar ou não, com desafios diversos e naturais da vida de qualquer um.</em></em>
+  <em>Só conseguimos cuidar do outro quando nos cuidamos primeiro. Porque aprendemos a nos acolher com verdade. E aí a maquiagem entra como um toque de cuidado, e não como uma camada grossa que esconda ou tente mudar quem somos. <em>**Menos corretivo e mais coração.** Dessa forma construímos uma vida melhor, sabendo nos relacionar primeiro com nós mesmas e depois com os outros, sendo esse outro um familiar ou não, com desafios diversos e naturais da vida de qualquer um.</em></em>
 </p>
 
 <p align="justify">
-  <em><strong>Acredito que as curas moram em aprender como viver da melhor forma possível, um dia de cada vez, sendo nós mesmos. Aceitar, mas sem se conformar ou acomodar. </strong><em>A maioria de nós não sabe lidar nem com as próprias emoções, nem com o próprio comportamento. E isso precisa mudar pra termos um mundo melhor. Primeiro o nosso mundo interno, depois o mundo das nossas casas, e aí sim poderemos transbordar mundo afora. <em>E se tem uma coisa que aprendi com esse processo, foi que a gente não tem que ‘dar conta’ de tudo. Podemos e devemos ter a humildade (e não fraqueza) de pedir ajuda quando realmente precisamos.</em></em></em>
+  <em>**Acredito que as curas moram em aprender como viver da melhor forma possível, um dia de cada vez, sendo nós mesmos. Aceitar, mas sem se conformar ou acomodar. **<em>A maioria de nós não sabe lidar nem com as próprias emoções, nem com o próprio comportamento. E isso precisa mudar pra termos um mundo melhor. Primeiro o nosso mundo interno, depois o mundo das nossas casas, e aí sim poderemos transbordar mundo afora. <em>E se tem uma coisa que aprendi com esse processo, foi que a gente não tem que ‘dar conta’ de tudo. Podemos e devemos ter a humildade (e não fraqueza) de pedir ajuda quando realmente precisamos.</em></em></em>
 </p>
 
 <p align="justify">
@@ -146,19 +146,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais de Márcia no Trololó de Mulher:</strong>
+  **Mais de Márcia no Trololó de Mulher:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/02/23/maquiagem-de-festa/" target="_blank"><strong>Veja como aplicar 5 truques de maquiagem de festa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/02/23/maquiagem-de-festa/" target="_blank">**Veja como aplicar 5 truques de maquiagem de festa.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/12/15/consultoria-online-de-maquiagem/" target="_blank"><strong>Consultoria online de maquiagem para ser você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/12/15/consultoria-online-de-maquiagem/" target="_blank">**Consultoria online de maquiagem para ser você mesma.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/24/maquiagem-rosa/" target="_blank"><strong>Como usar maquiagem rosa sem parecer desatualizada?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/24/maquiagem-rosa/" target="_blank">**Como usar maquiagem rosa sem parecer desatualizada?**</a>
 </p>
 
 <p align="justify">

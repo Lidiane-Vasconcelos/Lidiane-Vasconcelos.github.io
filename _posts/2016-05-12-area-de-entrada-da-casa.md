@@ -1,7 +1,7 @@
 ---
-id: 3606
+
 title: 'Área de entrada da casa: organização… desde o início.'
-date: 2016-05-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/12/area-de-entrada-da-casa/
@@ -14,11 +14,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank"><strong>Quer reformar uma cômoda e criar um hall de entrada na sua casa?</strong></a>
+  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank">**Quer reformar uma cômoda e criar um hall de entrada na sua casa?**</a>
 </p>
 
 <p align="justify">
@@ -42,15 +42,15 @@ categories:
 </p>
 
 <p align="justify">
-  Não ficou incrível? Repare nas boas escolhas: <strong>cor preferida + gancho estiloso bem ao lado da porta + prateleira bem fininha para apoiar detalhes decorativos como um quadro, foto de família e uma palavra do coração + suporte de madeira com ganchos abaixo dessa prateleira fininha</strong>. Quer ver mais fotos e detalhes desse cantinho lindo de viver, simples e bem eficiente ao que se propõe? Espie aqui, no blog <a href="http://thediydreamer.com/diy/small-entryway-shelf-with-hooks/" target="_blank">The DIY Dreamer</a>. Inspire-se na ideia e providencie algo similar em seus domínios também!
+  Não ficou incrível? Repare nas boas escolhas: **cor preferida + gancho estiloso bem ao lado da porta + prateleira bem fininha para apoiar detalhes decorativos como um quadro, foto de família e uma palavra do coração + suporte de madeira com ganchos abaixo dessa prateleira fininha**. Quer ver mais fotos e detalhes desse cantinho lindo de viver, simples e bem eficiente ao que se propõe? Espie aqui, no blog <a href="http://thediydreamer.com/diy/small-entryway-shelf-with-hooks/" target="_blank">The DIY Dreamer</a>. Inspire-se na ideia e providencie algo similar em seus domínios também!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank"><strong>Dicas de decoração para a área de entrada da sua casa.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank">**Dicas de decoração para a área de entrada da sua casa.**</a>
 </p>
 
 <p align="center">

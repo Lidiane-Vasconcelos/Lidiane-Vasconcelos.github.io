@@ -1,7 +1,7 @@
 ---
-id: 3293
+
 title: 'Faça você mesma: moldura de porta-retratos linda de viver.'
-date: 2014-05-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/13/moldura-porta-retratos/
@@ -53,7 +53,7 @@ Seja para presentear ou pincelar sua decoração com fotos, o que dá bastante p
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

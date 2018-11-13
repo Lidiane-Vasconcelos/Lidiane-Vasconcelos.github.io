@@ -1,7 +1,7 @@
 ---
-id: 3285
+
 title: '16 dicas de 6 blogueiras: decore gastando pouco.'
-date: 2014-03-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/11/decoracao-barata-2/
@@ -14,7 +14,7 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Sabe por que digo isso? É que eu convidei <strong>3 blogueiras da área de decoração</strong> para dar seus<em> pitacos</em> e perguntei: <strong>o que fazer para dar uma renovada na decoração de um ambiente gastando pouco?</strong> Sabe de uma coisa? As bonitas deram dicas incríveis para você se inspirar, colocar a mão na massa e mudar a decor da casa. Confere.
+  Sabe por que digo isso? É que eu convidei **3 blogueiras da área de decoração** para dar seus<em> pitacos</em> e perguntei: **o que fazer para dar uma renovada na decoração de um ambiente gastando pouco?** Sabe de uma coisa? As bonitas deram dicas incríveis para você se inspirar, colocar a mão na massa e mudar a decor da casa. Confere.
 </p>
 
 <!--more-->
@@ -30,7 +30,7 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">1 </span></strong>– “<em>Lembro de duas coisas que eu quero fazer em casa: uma é <strong>procurar umas imagens bacanas da internet para imprimir em adesivo vinílico, e adesivar meu banheiro</strong> <strong>[1]</strong>. O que eu mais imagino é uma parede com imagens de floresta, sabe?!”</em>
+  **<span style="font-size: small;">1 </span>**– “<em>Lembro de duas coisas que eu quero fazer em casa: uma é **procurar umas imagens bacanas da internet para imprimir em adesivo vinílico, e adesivar meu banheiro** **[1]**. O que eu mais imagino é uma parede com imagens de floresta, sabe?!”</em>
 </p>
 
 &nbsp;
@@ -40,19 +40,19 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://www.arquitrecos.com/" target="_blank">Arquitrecos</a></strong>
+  Imagem: **<a href="http://www.arquitrecos.com/" target="_blank">Arquitrecos</a>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <em>“E a outra é <strong>crochetar alguns pedaços de crochet filé, com motivos florais, em cores variadas (peças de 15&#215;15 – 15&#215;20, etc), engomar e pendurar na parede da sala, como quadros [2]</strong>&#8230;e ainda, se tiver coragem e tempo, <strong>replicar as cores e motivos nas almofadas da sala [3]</strong>! Mãos arteiras!!!”</em> <strong>Carol Santana | </strong><a href="http://inspiracaodacasa.wordpress.com/" target="_blank"><strong>Inspiração da Casa</strong></a>
+  <em>“E a outra é **crochetar alguns pedaços de crochet filé, com motivos florais, em cores variadas (peças de 15&#215;15 – 15&#215;20, etc), engomar e pendurar na parede da sala, como quadros [2]**&#8230;e ainda, se tiver coragem e tempo, **replicar as cores e motivos nas almofadas da sala [3]**! Mãos arteiras!!!”</em> **Carol Santana | **<a href="http://inspiracaodacasa.wordpress.com/" target="_blank">**Inspiração da Casa**</a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">2 </span></strong>– <em>“<strong>Customizar um móvel vale a pena e muda totalmente um ambiente [4]</strong>. São várias as possibilidades para se fazer essa customização: pintura, decoupage, adesivo, forrar com papel de parede ou com tecido, etc.”</em>
+  **<span style="font-size: small;">2 </span>**– <em>“**Customizar um móvel vale a pena e muda totalmente um ambiente [4]**. São várias as possibilidades para se fazer essa customização: pintura, decoupage, adesivo, forrar com papel de parede ou com tecido, etc.”</em>
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://www.reciclaredecorar.com/" target="_blank">Fabiana Tardochi via Reciclar e Decorar</a></strong>
+  Imagem: **<a href="http://www.reciclaredecorar.com/" target="_blank">Fabiana Tardochi via Reciclar e Decorar</a>**
 </p>
 
 <p style="text-align: center;">
@@ -74,19 +74,19 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p style="text-align: center;">
-  Imagem: <strong><a href="http://www.reciclaredecorar.com/" target="_blank">Fabiana Tardochi via Reciclar e Decorar</a></strong>
+  Imagem: **<a href="http://www.reciclaredecorar.com/" target="_blank">Fabiana Tardochi via Reciclar e Decorar</a>**
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  <em>“…e como ele ficou depois de lixar e pintar. O buffet tem nas portas uma pintura diferenciada que imita madeira. Depois de tudo pintado de branco eu achei que faltava um pouco de &#8220;personalidade&#8221;, então peguei goma laca incolor, purpurina cobre e purpurina ouro e fiz uma pátina com as duas cores nas portas para ficarem manchadas. O acabamento foi feito com hidrobetume e é o responsável por unificar a cor. Para pintar os móveis eu faço assim: lixo bem até retirar todo o verniz  (se a peça tiver), corrijo as imperfeições com massa acrílica se necessário, lixo novamente, limpo e começo a aplicação de tinta esmalte sintético a base de água com rolinho. Duas ou 3 demãos e o trabalho fica perfeito</em>.” <strong>Fabiana Tardochi | </strong><a href="http://www.reciclaredecorar.com/" target="_blank"><strong>Reciclar e Decorar</strong></a>
+  <em>“…e como ele ficou depois de lixar e pintar. O buffet tem nas portas uma pintura diferenciada que imita madeira. Depois de tudo pintado de branco eu achei que faltava um pouco de &#8220;personalidade&#8221;, então peguei goma laca incolor, purpurina cobre e purpurina ouro e fiz uma pátina com as duas cores nas portas para ficarem manchadas. O acabamento foi feito com hidrobetume e é o responsável por unificar a cor. Para pintar os móveis eu faço assim: lixo bem até retirar todo o verniz  (se a peça tiver), corrijo as imperfeições com massa acrílica se necessário, lixo novamente, limpo e começo a aplicação de tinta esmalte sintético a base de água com rolinho. Duas ou 3 demãos e o trabalho fica perfeito</em>.” **Fabiana Tardochi | **<a href="http://www.reciclaredecorar.com/" target="_blank">**Reciclar e Decorar**</a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">3 </span></strong>– <em>“O mais barato é <strong>mudar os móveis de lugar &#8211; se for uma sala, por exemplo &#8211; e trocar almofadas e objetos das mesas de centro e de canto [5]</strong>&#8230;isso renova tudo! <strong>Se for quarto: colchas novas, uma mão de tinta nas mesinhas e luminárias novas [6]</strong>. <strong>Se for cozinha, uma boa destralhada nas superfícies antes, uma boa limpeza e alguns enfeites de cor diferente [7]</strong>”</em>
+  **<span style="font-size: small;">3 </span>**– <em>“O mais barato é **mudar os móveis de lugar &#8211; se for uma sala, por exemplo &#8211; e trocar almofadas e objetos das mesas de centro e de canto [5]**&#8230;isso renova tudo! **Se for quarto: colchas novas, uma mão de tinta nas mesinhas e luminárias novas [6]**. **Se for cozinha, uma boa destralhada nas superfícies antes, uma boa limpeza e alguns enfeites de cor diferente [7]**”</em>
 </p>
 
 &nbsp;
@@ -96,13 +96,13 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://blogdareforma.wordpress.com/" target="_blank">Lilian Rose (Lilly) via Blog da Reforma</a></strong>
+  Imagem: **<a href="http://blogdareforma.wordpress.com/" target="_blank">Lilian Rose (Lilly) via Blog da Reforma</a>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <em>“<strong>Em varandas, por exemplo, lá na minha foi só forrar um sofá que ficou super colorido [8]</strong>: os tons de vermelho e verde junto ao beginho favorecem as plantinhas. Então minha varanda era uma coisa com os tecidos brancos no sofá,  e hoje é super alegre!”</em> <strong>Lilian Rose (Lilly) | </strong><a href="http://blogdareforma.wordpress.com/" target="_blank"><strong>Blog da Reforma</strong></a>
+  <em>“**Em varandas, por exemplo, lá na minha foi só forrar um sofá que ficou super colorido [8]**: os tons de vermelho e verde junto ao beginho favorecem as plantinhas. Então minha varanda era uma coisa com os tecidos brancos no sofá,  e hoje é super alegre!”</em> **Lilian Rose (Lilly) | **<a href="http://blogdareforma.wordpress.com/" target="_blank">**Blog da Reforma**</a>
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  <strong><span style="font-size: small;">4</span></strong> – <em>“Aqui em casa, por exemplo, eu gosto muito é de <strong>renovar/ trocar apenas as capas das almofadas [9]</strong>, pois dá uma cara nova ao ambiente, e hoje em dia a gente acha capas lindas com ótimos preços.”</em>
+  **<span style="font-size: small;">4</span>** – <em>“Aqui em casa, por exemplo, eu gosto muito é de **renovar/ trocar apenas as capas das almofadas [9]**, pois dá uma cara nova ao ambiente, e hoje em dia a gente acha capas lindas com ótimos preços.”</em>
 </p>
 
 &nbsp;
@@ -132,13 +132,13 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  <em>“&#8230;.e depois com almofadas em tons de azul, tapete e manta amarela</em>” Imagens: <strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">Vânia Pinho via Casa de Boneca Decor</a></strong>
+  <em>“&#8230;.e depois com almofadas em tons de azul, tapete e manta amarela</em>” Imagens: **<a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">Vânia Pinho via Casa de Boneca Decor</a>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  “<em>Semana passada eu troquei as minhas capas e fotografei tudo. Ah&#8230;outra coisa que gosto muito de fazer para decorar, já que fica lindo e gasta-se pouco, é <strong>reciclar garrafinhas [10]</strong>”</em>
+  “<em>Semana passada eu troquei as minhas capas e fotografei tudo. Ah&#8230;outra coisa que gosto muito de fazer para decorar, já que fica lindo e gasta-se pouco, é **reciclar garrafinhas [10]**”</em>
 </p>
 
 &nbsp;
@@ -148,31 +148,31 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 </p>
 
 <p align="center">
-  Imagem: <strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">Vânia Pinho via Casa de Boneca Decor</a></strong>
+  Imagem: **<a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">Vânia Pinho via Casa de Boneca Decor</a>**
 </p>
 
 &nbsp;
 
 <p style="text-align: center;" align="justify">
-  <em>“Tenho aqui em casa um cantinho com minhas garrafinhas recicladas.”</em> <strong>Vânia Pinho | </strong><a href="http://casadebonecadecor.blogspot.com.br/" target="_blank"><strong>Casa de Boneca Decor</strong></a>
+  <em>“Tenho aqui em casa um cantinho com minhas garrafinhas recicladas.”</em> **Vânia Pinho | **<a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">**Casa de Boneca Decor**</a>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  É preciso que se diga, neste ponto, que a Vânia fez um vídeo ensinando a reciclar garrafas. Esse vídeo, inclusive, já foi mostrado aqui no Trololó de Mulher no post: <strong><a href="http://www.trololodemulher.com.br/2013/10/21/artesanato-craquele-decoracao/">como fazer o efeito craquelê nas suas pinturas?</a></strong>. É clicar e aproveitar!
+  É preciso que se diga, neste ponto, que a Vânia fez um vídeo ensinando a reciclar garrafas. Esse vídeo, inclusive, já foi mostrado aqui no Trololó de Mulher no post: **<a href="http://www.trololodemulher.com.br/2013/10/21/artesanato-craquele-decoracao/">como fazer o efeito craquelê nas suas pinturas?</a>**. É clicar e aproveitar!
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">5</span></strong> – <em>“O que eu sempre costumo dizer: o jeito mais barato de renovar um ambiente, é com tinta! Monotonia, mesmice&#8230; <strong>pinta a parede que tudo se renova [11]</strong>! E o melhor, os próprios moradores podem pintar e acabar virando uma farra em família</em>.” <strong>Re Batista | </strong><a href="http://www.casacorpoecia.com/" target="_blank"><strong>Casa Corpo e Cia</strong></a>
+  **<span style="font-size: small;">5</span>** – <em>“O que eu sempre costumo dizer: o jeito mais barato de renovar um ambiente, é com tinta! Monotonia, mesmice&#8230; **pinta a parede que tudo se renova [11]**! E o melhor, os próprios moradores podem pintar e acabar virando uma farra em família</em>.” **Re Batista | **<a href="http://www.casacorpoecia.com/" target="_blank">**Casa Corpo e Cia**</a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">6</span></strong> – “<em><strong>Reaproveite os móveis: pinte, dê nova função a eles, troque de lugar [12]</strong>. Aposte nas cores para dar uma renovada rápida na decoração: <strong>pinte uma ou duas paredes [13]</strong>, isso já vai dar uma renovada na decoração rapidinho e sem você gastar muito $$$. Mude os objetos: <strong>compre almofadas novas, uma manta para o sofá [14]</strong> e voilá, a decoração já vai ficar diferente rapidinho. <strong>Mude a posição dos móveis [15]</strong>, experimente uma nova formatação para o ambiente. <strong>Invista em flores e plantas [16]</strong> para dar vida e graça na decoração</em>” <strong>Isabela Kastrup | </strong><a href="http://www.arrumadissimo.com.br/" target="_blank"><strong>Arrumadíssimo</strong></a>
+  **<span style="font-size: small;">6</span>** – “<em>**Reaproveite os móveis: pinte, dê nova função a eles, troque de lugar [12]**. Aposte nas cores para dar uma renovada rápida na decoração: **pinte uma ou duas paredes [13]**, isso já vai dar uma renovada na decoração rapidinho e sem você gastar muito $$$. Mude os objetos: **compre almofadas novas, uma manta para o sofá [14]** e voilá, a decoração já vai ficar diferente rapidinho. **Mude a posição dos móveis [15]**, experimente uma nova formatação para o ambiente. **Invista em flores e plantas [16]** para dar vida e graça na decoração</em>” **Isabela Kastrup | **<a href="http://www.arrumadissimo.com.br/" target="_blank">**Arrumadíssimo**</a>
 </p>
 
 &nbsp;
@@ -184,19 +184,19 @@ Você olha para um ambiente em casa e percebe que algo precisa ser mudado, certo
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
+  **<span style="font-size: small;">Muito mais para você:</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/"><strong><span style="font-size: small;">Decoração barata: casa de Rejane</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/">**<span style="font-size: small;">Decoração barata: casa de Rejane</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/"><strong><span style="font-size: small;">Meus pitacos de decoração baratinha no escritório da Maria</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/">**<span style="font-size: small;">Meus pitacos de decoração baratinha no escritório da Maria</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-4/" target="_blank"><strong><span style="font-size: small;">Inove da decoração do seu quarto sem sair do orçamento!</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-4/" target="_blank">**<span style="font-size: small;">Inove da decoração do seu quarto sem sair do orçamento!</span>**</a>
 </p>
 
 &nbsp;

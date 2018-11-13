@@ -1,7 +1,7 @@
 ---
-id: 2729
+
 title: Hoje É Dia De Festa No Bicha Fêmea…
-date: 2009-11-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/06/comemorao-vista-no-bicha-fmea/

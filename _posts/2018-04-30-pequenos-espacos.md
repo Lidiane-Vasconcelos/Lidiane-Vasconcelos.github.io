@@ -1,7 +1,7 @@
 ---
-id: 3861
+
 title: Sobre bem viver em pequenos espaços.
-date: 2018-04-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/30/pequenos-espacos/
@@ -13,7 +13,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Lembro-me quando aprendi ser possível viver bem em <strong>pequenos espaços</strong> quando saí da casa de meus pais e fui para o meu canto, com meu amado Denis, em Campinas-SP. Era um apartamento bem pequeno (e coloque pequeno nisso!), cujo aluguel era o que cabia no nosso bolso. Ele era bem localizado, é verdade, mas um desafio ao propósito de morar com o mínimo possível. Num primeiro momento, a pequenez do imóvel me assustou um pouco, confesso. Eu, que vinha de uma casa ampla com 3 quartos, duas salas, terraço enorme, cozinha e lavanderia super espaçosa, fiquei pensando com meus botões como viveria bem naquele “apertamento” de quarto+sala+cozinha+banheiro. O tempo se encarregou de mostrar para mim que menos é mais, se exercitamos a busca pelas melhores soluções. Aos poucos, as medidas enxutas do nosso lar já não pareciam tão pequenas. Bingo! Eu me adaptei.
+  Lembro-me quando aprendi ser possível viver bem em **pequenos espaços** quando saí da casa de meus pais e fui para o meu canto, com meu amado Denis, em Campinas-SP. Era um apartamento bem pequeno (e coloque pequeno nisso!), cujo aluguel era o que cabia no nosso bolso. Ele era bem localizado, é verdade, mas um desafio ao propósito de morar com o mínimo possível. Num primeiro momento, a pequenez do imóvel me assustou um pouco, confesso. Eu, que vinha de uma casa ampla com 3 quartos, duas salas, terraço enorme, cozinha e lavanderia super espaçosa, fiquei pensando com meus botões como viveria bem naquele “apertamento” de quarto+sala+cozinha+banheiro. O tempo se encarregou de mostrar para mim que menos é mais, se exercitamos a busca pelas melhores soluções. Aos poucos, as medidas enxutas do nosso lar já não pareciam tão pequenas. Bingo! Eu me adaptei.
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>[Só até Sexta!]</strong>
+  **[Só até Sexta!]**
 </p>
 
 <p align="justify">
@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p align="justify">
-  São 7 semanas de aprendizado, e encerramos o grupo. <strong>Experimente grátis os 5 dias iniciais, e só então decida se deseja fazer o programa completo.</strong> Quer participar? Se sim, <strong>me chame no WhatsApp 81 9 9530-7307 e faça sua inscrição</strong> (só até 04 de Maio), ou tire as suas dúvidas.
+  São 7 semanas de aprendizado, e encerramos o grupo. **Experimente grátis os 5 dias iniciais, e só então decida se deseja fazer o programa completo.** Quer participar? Se sim, **me chame no WhatsApp 81 9 9530-7307 e faça sua inscrição** (só até 04 de Maio), ou tire as suas dúvidas.
 </p>
 
 <p align="justify">
@@ -57,7 +57,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de <strong>gestão do tempo, organização pessoal, produtividade, vida simples e bem viver</strong>. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
+  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
 </p>
 
 <p align="justify">

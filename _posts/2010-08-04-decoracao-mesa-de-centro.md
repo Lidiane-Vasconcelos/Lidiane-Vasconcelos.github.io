@@ -1,7 +1,7 @@
 ---
-id: 2856
+
 title: 'Decoração na sala de estar: mesa de centro. Qual seu estilo?'
-date: 2010-08-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/04/decoracao-mesa-de-centro/
@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Você deve estar pensando em escolher uma <strong><em>mesa de centro para sua sala</em></strong>, ou trocar a que você já tem, e fica imaginando qual o estilo de <strong><em>decoração</em></strong> que essa mesa teria, não é? Quem não tem esse tipo de dúvida?!
+  Você deve estar pensando em escolher uma **<em>mesa de centro para sua sala</em>**, ou trocar a que você já tem, e fica imaginando qual o estilo de **<em>decoração</em>** que essa mesa teria, não é? Quem não tem esse tipo de dúvida?!
 </p>
 
 <p style="text-align: justify;">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A mesa de centro acima tem o <strong><em>estilo cottage</em></strong>. Já ouviu falar? Ele nos remete ao que é <em>vintage</em>, digo, ao que foi usado no passado, em outras épocas. Repare como a mesa, que serve para sua inspiração, tem cor clara (e as <strong><em>mais usadas são cores pasteis e branco</em></strong>), e <strong><em>remete a conforto</em></strong>. Viu? A ideia é justamente essa.
+  A mesa de centro acima tem o **<em>estilo cottage</em>**. Já ouviu falar? Ele nos remete ao que é <em>vintage</em>, digo, ao que foi usado no passado, em outras épocas. Repare como a mesa, que serve para sua inspiração, tem cor clara (e as **<em>mais usadas são cores pasteis e branco</em>**), e **<em>remete a conforto</em>**. Viu? A ideia é justamente essa.
 </p>
 
 <p style="text-align: justify;">
@@ -40,11 +40,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se você quiser uma mesa de centro contemporânea para sua sala, então você deve gostar da <strong><em>mistura de cores, texturas, de algo leve, elegante e atual</em></strong>, certo? Uma mesa de centro assim, você deve reparar, tem <strong><em>linhas retas e simples</em></strong>, e <strong><em>poucos detalhes</em></strong>.
+  Se você quiser uma mesa de centro contemporânea para sua sala, então você deve gostar da **<em>mistura de cores, texturas, de algo leve, elegante e atual</em>**, certo? Uma mesa de centro assim, você deve reparar, tem **<em>linhas retas e simples</em>**, e **<em>poucos detalhes</em>**.
 </p>
 
 <p style="text-align: justify;">
-  Você deve encontrar móveis nas <strong><em>cores preta, branca ou neutra</em></strong> para imprimir essas características. Lembre-se! <strong><em>Esse estilo pede organização e poucos objetos para decorá-la</em></strong>, <strong><em>nada de curvas ou decoração em seu design</em></strong>. A propósito, sugiro a leitura de <strong><em><a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/">dicas para a decoração da mesa de centro de sala</a></em></strong>. Inspire-se!
+  Você deve encontrar móveis nas **<em>cores preta, branca ou neutra</em>** para imprimir essas características. Lembre-se! **<em>Esse estilo pede organização e poucos objetos para decorá-la</em>**, **<em>nada de curvas ou decoração em seu design</em>**. A propósito, sugiro a leitura de **<em><a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/">dicas para a decoração da mesa de centro de sala</a></em>**. Inspire-se!
 </p>
 
 <p style="text-align: center;">
@@ -52,11 +52,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Talvez você não goste nem de uma coisa nem de outra, ou seja, de nada do que foi dito e exposto. Você quer mesmo é algo tradicional? Então o que você deseja para a sua mesa de centro é algo <strong><em>confortável visualmente para todos na família</em></strong>, que <strong><em>não tenha metais em seu design ou remeta a modernidade</em></strong>. Em outras palavras, você quer algo clássico!
+  Talvez você não goste nem de uma coisa nem de outra, ou seja, de nada do que foi dito e exposto. Você quer mesmo é algo tradicional? Então o que você deseja para a sua mesa de centro é algo **<em>confortável visualmente para todos na família</em>**, que **<em>não tenha metais em seu design ou remeta a modernidade</em>**. Em outras palavras, você quer algo clássico!
 </p>
 
 <p style="text-align: justify;">
-  Sua escolha pode ser <strong><em>algo em madeira, clara ou escura, com alguma curva nos detalhes do desenho do móvel e que diga pouco sobre uma época, ou seja, algo mais atemporal</em></strong>. A ideia é que sua mesa seja <strong><em>simples, nada de ostentação ou exageros</em></strong>. E se sua sala é pequena, mais do que nunca é importante escolher algo que te permita enxergar o chão. Esta é uma das <strong><em><a href="http://www.trololodemulher.com.br/2009/06/03/decoracao-espacos-pequenos/">dicas para quem pretende decorar pequenos espaços</a></em></strong>. Aproveite!
+  Sua escolha pode ser **<em>algo em madeira, clara ou escura, com alguma curva nos detalhes do desenho do móvel e que diga pouco sobre uma época, ou seja, algo mais atemporal</em>**. A ideia é que sua mesa seja **<em>simples, nada de ostentação ou exageros</em>**. E se sua sala é pequena, mais do que nunca é importante escolher algo que te permita enxergar o chão. Esta é uma das **<em><a href="http://www.trololodemulher.com.br/2009/06/03/decoracao-espacos-pequenos/">dicas para quem pretende decorar pequenos espaços</a></em>**. Aproveite!
 </p>
 
 <p style="text-align: justify;">
@@ -94,7 +94,7 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="600" valign="top">
-      Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a> > <strong><em><a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">Salas & Hall</a></em></strong> > Decoração na sala de estar: mesa de centro. Qual seu estilo?
+      Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a> > **<em><a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">Salas & Hall</a></em>** > Decoração na sala de estar: mesa de centro. Qual seu estilo?
     </td>
   </tr>
 </table>
@@ -102,5 +102,5 @@ categories:
  
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

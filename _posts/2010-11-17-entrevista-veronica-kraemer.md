@@ -1,7 +1,7 @@
 ---
-id: 2912
+
 title: 'Uma Bicha Fêmea por Outra: Veronica Kraemer'
-date: 2010-11-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/17/entrevista-veronica-kraemer/
@@ -47,7 +47,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>Em um de seus posts, você fala de sua sobrinha:</strong> <strong>“<em>O que me mata mesmo é ficar longe da minha pequena Anna, a luz da minha vida&#8230; Muitos acham que ela é minha filhota, mas é minha sobrinha. Ela está lá no Sul e às vezes sinto uma vontade tão grande de apertar aquelas bochechas rosadas que parece que vou explodir.</em>” Você não tem filhos?</strong>
+  **Em um de seus posts, você fala de sua sobrinha:** **“<em>O que me mata mesmo é ficar longe da minha pequena Anna, a luz da minha vida&#8230; Muitos acham que ela é minha filhota, mas é minha sobrinha. Ela está lá no Sul e às vezes sinto uma vontade tão grande de apertar aquelas bochechas rosadas que parece que vou explodir.</em>” Você não tem filhos?**
 </p>
 
 <p style="text-align: justify;">
@@ -55,7 +55,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>Você parece ter recebido uma educação voltada para a sensibilidade e evolução espiritual, de acordo com um trecho de uma carta de sua mãe que está em seu blog: &#8221; <em>sabes, querida, o tempo passa, a vida é curta, os afetos são raros e valorizar isto tudo é fundamental. Em determinados momentos de nossa vida, na flor da idade, parece que não temos necessidade de nada nem de ninguém. Porém, a nossa evolução espiritual cobra. A amo e o afeto é tudo o que importa. Não te esqueça, eu te amo e preciso de ti; você representa a nossa continuidade.</em> &#8220;</strong><strong>No quanto esse tipo de sentimento e postura diante da vida influencia no teu trabalho?</strong>
+  **Você parece ter recebido uma educação voltada para a sensibilidade e evolução espiritual, de acordo com um trecho de uma carta de sua mãe que está em seu blog: &#8221; <em>sabes, querida, o tempo passa, a vida é curta, os afetos são raros e valorizar isto tudo é fundamental. Em determinados momentos de nossa vida, na flor da idade, parece que não temos necessidade de nada nem de ninguém. Porém, a nossa evolução espiritual cobra. A amo e o afeto é tudo o que importa. Não te esqueça, eu te amo e preciso de ti; você representa a nossa continuidade.</em> &#8220;****No quanto esse tipo de sentimento e postura diante da vida influencia no teu trabalho?**
 </p>
 
 <p style="text-align: justify;">
@@ -67,15 +67,15 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>Quando você começou a criar?</strong>
+  **Quando você começou a criar?**
 </p>
 
 <p style="text-align: justify;">
-  “<strong>…</strong><em>desde pequena faço minhas artes. Eu amava o Daniel Azulay, não perdia um programa!!!Mesmo atuando como psicóloga, desenhava com meus pacientes</em>.”
+  “**…**<em>desde pequena faço minhas artes. Eu amava o Daniel Azulay, não perdia um programa!!!Mesmo atuando como psicóloga, desenhava com meus pacientes</em>.”
 </p>
 
 <p style="text-align: justify;">
-  <strong>Você teve vontade de ter algo na vida que não tem?</strong>
+  **Você teve vontade de ter algo na vida que não tem?**
 </p>
 
 <p style="text-align: justify;">
@@ -83,7 +83,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>Como surge uma artista como você? Qualquer um pode tornar-se um artesão?</strong>
+  **Como surge uma artista como você? Qualquer um pode tornar-se um artesão?**
 </p>
 
 <p style="text-align: justify;">
@@ -91,7 +91,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>Você revela, em um trecho de seu post, que tem alma de artista: “<em>Quando começo a pintar sinto uma música tocando em minha alma, algo que pulsa mais forte, o contato com um outro plano&#8230; A pintura é entregar-se, soltar-se, sem ego, sem críticas nem julgamentos. Pintar é entrar em contato com áreas desconhecidas, sair do racional, elevar-se, ficar mais próximo de Deus. Qualquer forma de arte é uma transformação, onde podemos nos conhecer melhor e evoluirmos</em>.” Você é capaz de atingir um êxtase artístico?</strong>
+  **Você revela, em um trecho de seu post, que tem alma de artista: “<em>Quando começo a pintar sinto uma música tocando em minha alma, algo que pulsa mais forte, o contato com um outro plano&#8230; A pintura é entregar-se, soltar-se, sem ego, sem críticas nem julgamentos. Pintar é entrar em contato com áreas desconhecidas, sair do racional, elevar-se, ficar mais próximo de Deus. Qualquer forma de arte é uma transformação, onde podemos nos conhecer melhor e evoluirmos</em>.” Você é capaz de atingir um êxtase artístico?**
 </p>
 
 <p style="text-align: justify;">
@@ -103,7 +103,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>O que te deixa triste?</strong>
+  **O que te deixa triste?**
 </p>
 
 <p style="text-align: justify;">
@@ -111,7 +111,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>Existe algum tipo de técnica artística que você tem vontade de aprender?</strong>
+  **Existe algum tipo de técnica artística que você tem vontade de aprender?**
 </p>
 
 <p style="text-align: justify;">
@@ -119,7 +119,7 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 </p>
 
 <p style="text-align: justify;">
-  <strong>De acordo com um trecho de um post seu, 2009 parece ter sido um ano difícil e 2010 de virada: “</strong><strong><em>Neste ano muitas e muitas coisas aconteceram, e quem acompanha meu blog querido e amado sabe muito bem do que falo, mas o mais importante foi a conquista e o resgate de mim mesma. Da Veronica, de meus sentimentos, daquilo que sou e expresso.</em>..Passei por momentos difíceis, confrontos, travei uma batalha aqui dentro e cresci, libertei-me de muito peso.” 2010 está sendo como você esperava?</strong>
+  **De acordo com um trecho de um post seu, 2009 parece ter sido um ano difícil e 2010 de virada: “****<em>Neste ano muitas e muitas coisas aconteceram, e quem acompanha meu blog querido e amado sabe muito bem do que falo, mas o mais importante foi a conquista e o resgate de mim mesma. Da Veronica, de meus sentimentos, daquilo que sou e expresso.</em>..Passei por momentos difíceis, confrontos, travei uma batalha aqui dentro e cresci, libertei-me de muito peso.” 2010 está sendo como você esperava?**
 </p>
 
 “_Lidi, 2010 está sendo um ano de muito trabalho e de muito aprendizado. Como disse e você mencionou, eu tive um grande resgate em 2009, e sinto que este ano amadureço e me firmo como uma “ nova “ pessoa. A cada dia, aprendo a me conhecer melhor. Por isso, passei muito tempo sozinha. Hoje, sinto-me saindo da casca, de novo. 2010 me ensina que nada é permanente, que todos os dias temos que lutar por nossos sonhos, e que a vida é uma constante mudança. Percebo, cada vez mais, que para mantermos o que conquistamos, e crescermos ainda mais, a luta é maior. 2010 também tem sido um ano de limpeza em todas as relações. Sabe quando você muda e percebe que tem pessoas que não te acompanham mais? Mas, ao mesmo tempo que perdemos , ganhamos. Conheci pessoas que fazem parte deste meu novo “ modus operandi “ , e agradeço a Deus por cada uma !!! Eu andava numa fasesinha triste de pensar: poxa, cadê todo mundo? – Porque não me encaixava nem aqui nem acolá. Me sintia um peixe fora d´ água. Hoje entendo que tudo tem seu tempo, e que realmente nada é permanente, e quem acompanha nossa caminhada são os nossos, sejam eles novos ou velhos por aqui. Então 2010 continua sendo o quebrar a casca, a coragem e vontade de sair, de conhecer, de viver !!! E a eterna luta pra conquistar meu espaço !!! E a certeza de que “ sem amor eu nada seria_ “.
@@ -137,13 +137,13 @@ A artista Veronica Kraemer já é bem conhecida na blogosfera por suas criaçõe
 **_[Uma Bicha Fêmea por Outra: Ruby Fernandes](http://www.trololodemulher.com.br/2010/04/28/entrevista-ruby-fernandes/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/category/uma-bicha-femea-por-outra/"><strong><em>Uma Bicha Fêmea por Outra</em></strong></a>> Uma Bicha Fêmea por Outra: Veronica Kraemer
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/category/uma-bicha-femea-por-outra/">**<em>Uma Bicha Fêmea por Outra</em>**</a>> Uma Bicha Fêmea por Outra: Veronica Kraemer
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

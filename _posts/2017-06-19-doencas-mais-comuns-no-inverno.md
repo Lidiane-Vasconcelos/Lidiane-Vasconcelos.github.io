@@ -1,7 +1,7 @@
 ---
-id: 3775
+
 title: Combata doenças mais comuns no inverno com o Yoga.
-date: 2017-06-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/19/doencas-mais-comuns-no-inverno/
@@ -11,11 +11,11 @@ categories:
   - Saúde
 ---
 <p style="text-align: justify;">
-  A temporada de frio mais intenso está só começando, e por todo lado o que se vê são as <strong>doenças mais comuns no Inverno</strong>: gripes, resfriados e a evolução delas para males mais graves. Já reparou, entretanto, quem nem todas as pessoas ficam doentes, ou ainda, algumas ficam mas não passam de resfriados leves? Se está todo mundo exposto às mesmas variações climáticas, qual a diferença entre elas? O <em>X dessa equação</em> pode estar no sistema imunológico, fortalecido em um indivíduo, e no outro não. Sabe uma forma simples de combater essas incômodos, através do fortalecimento do seu sistema de proteção à doenças, aí dentro de seu corpo? Com a prática de Yoga, bonita!
+  A temporada de frio mais intenso está só começando, e por todo lado o que se vê são as **doenças mais comuns no Inverno**: gripes, resfriados e a evolução delas para males mais graves. Já reparou, entretanto, quem nem todas as pessoas ficam doentes, ou ainda, algumas ficam mas não passam de resfriados leves? Se está todo mundo exposto às mesmas variações climáticas, qual a diferença entre elas? O <em>X dessa equação</em> pode estar no sistema imunológico, fortalecido em um indivíduo, e no outro não. Sabe uma forma simples de combater essas incômodos, através do fortalecimento do seu sistema de proteção à doenças, aí dentro de seu corpo? Com a prática de Yoga, bonita!
 </p>
 
 <p style="text-align: justify;">
-  <strong>Paula Elisa</strong>, que é <strong>Professora de Yoga em Rio do Sul e região &#8211; SC, </strong>conta por que o Yoga é assim tão especial, o que certamente vai te convencer a pensar com carinho sobre seu início da prática desde já! De forma bastante simples e didática, entenda tudo <em>tim tim por tim tim</em>, oh:
+  **Paula Elisa**, que é **Professora de Yoga em Rio do Sul e região &#8211; SC, **conta por que o Yoga é assim tão especial, o que certamente vai te convencer a pensar com carinho sobre seu início da prática desde já! De forma bastante simples e didática, entenda tudo <em>tim tim por tim tim</em>, oh:
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">FORTALECENDO SEU SISTEMA IMUNOLOGICO COM YOGA</span></strong>
+  **<span style="font-size: x-large;">FORTALECENDO SEU SISTEMA IMUNOLOGICO COM YOGA</span>**
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <em>Vejamos abaixo <strong><span style="font-size: large;">4 motivos</span></strong> pelo qual o Yoga auxilia você a ficar menos suscetível a ação de vírus diversos, e mantém seu sistema imunológico sempre em dia:</em><span style="font-family: inherit; font-style: inherit; font-weight: inherit;"> </span>
+  <em>Vejamos abaixo **<span style="font-size: large;">4 motivos</span>** pelo qual o Yoga auxilia você a ficar menos suscetível a ação de vírus diversos, e mantém seu sistema imunológico sempre em dia:</em><span style="font-family: inherit; font-style: inherit; font-weight: inherit;"> </span>
 </p>
 
 <p align="center">
@@ -82,10 +82,10 @@ categories:
 
 **Mais consultorias de Paula:**
 
-<a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank">**O que a meditação pode fazer por seu bem-estar e saúde?**</a>
 
 <p align="justify">
-  Paula também é blogueira, para nossa alegria. Ela edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
+  Paula também é blogueira, para nossa alegria. Ela edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo **Namastê Yoga Blog**, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
 </p>
 
 <p align="center">

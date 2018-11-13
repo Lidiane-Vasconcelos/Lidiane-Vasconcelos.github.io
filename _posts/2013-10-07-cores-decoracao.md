@@ -1,7 +1,7 @@
 ---
-id: 3267
+
 title: Cores salpicadas na decoração aqui e acolá… lindeza de ver!
-date: 2013-10-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/07/cores-decoracao/
@@ -38,37 +38,37 @@ Imagens: **_<a href="http://www.homedit.com/" target="_blank">Homedit</a>_**
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais para você:</span></strong>
+  **<span style="font-size: large;">Muito mais para você:</span>**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;"> </span></strong>
+  **<span style="font-size: large;"> </span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/"><strong><span style="font-size: large;">Decoração e interiores: que cor usar na pintura da parede da sala de estar?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/">**<span style="font-size: large;">Decoração e interiores: que cor usar na pintura da parede da sala de estar?</span>**</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;"> </span></strong>
+  **<span style="font-size: large;"> </span>**
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank"><strong><span style="font-size: large;">Decoração da sala de estar: como inserir detalhes coloridos?</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">**<span style="font-size: large;">Decoração da sala de estar: como inserir detalhes coloridos?</span>**</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;"> </span></strong>
+  **<span style="font-size: large;"> </span>**
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/cor-casa-piso/" target="_blank"><strong><span style="font-size: large;">Já pensou em qual cor pintar, não a parede, mas o piso da casa?</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/cor-casa-piso/" target="_blank">**<span style="font-size: large;">Já pensou em qual cor pintar, não a parede, mas o piso da casa?</span>**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;"> </span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;"> </span>**</a>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ Imagens: **_<a href="http://www.homedit.com/" target="_blank">Homedit</a>_**
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

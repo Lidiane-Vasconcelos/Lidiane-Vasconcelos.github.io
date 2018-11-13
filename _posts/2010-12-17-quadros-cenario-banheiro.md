@@ -1,7 +1,7 @@
 ---
-id: 2928
+
 title: 'Mercado de Artes: Quadros Cenário Banheiro Arabesco e Listrado.'
-date: 2010-12-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/17/quadros-cenario-banheiro/
@@ -22,7 +22,7 @@ Que o **_Quadro Cenário Banheiro_** virou o queridinho do **_Mercado de Artes_*
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank">Quadro Cenário Banheiro Marrom Listrado</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank">Quadro Cenário Banheiro Marrom Listrado</a></em>**
 </p>
 
 <p style="text-align: center;">
@@ -30,11 +30,11 @@ Que o **_Quadro Cenário Banheiro_** virou o queridinho do **_Mercado de Artes_*
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank">Quadro Cenário Banheiro Marrom Arabesco</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank">Quadro Cenário Banheiro Marrom Arabesco</a></em>**
 </p>
 
 <p style="text-align: justify;">
-  Os <strong><em>Quadros Cenário Banheiro Marrom </em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank"><em>Arabesco</em></a></strong> e <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank">Listrado</a></em></strong> foram produtos encomendados. São exclusivos! Mas quem vê a lista de quadros cenário que já foi encomendada antes, acaba querendo um igualzinho. Foi o que aconteceu com a bicha fêmea navegante que viu um desses sendo azul, como o que está abaixo:
+  Os **<em>Quadros Cenário Banheiro Marrom </em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-2/" target="_blank"><em>Arabesco</em></a>** e **<em><a href="http://www.trololodemulher.com.br/loja/2010/12/16/quadro-cenario-banheiro-3/" target="_blank">Listrado</a></em>** foram produtos encomendados. São exclusivos! Mas quem vê a lista de quadros cenário que já foi encomendada antes, acaba querendo um igualzinho. Foi o que aconteceu com a bicha fêmea navegante que viu um desses sendo azul, como o que está abaixo:
 </p>
 
 <p style="text-align: center;">
@@ -42,7 +42,7 @@ Que o **_Quadro Cenário Banheiro_** virou o queridinho do **_Mercado de Artes_*
 </p>
 
 <p style="text-align: center;">
-  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/" target="_blank">Quadro Cenário Banheiro Azul</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/" target="_blank">Quadro Cenário Banheiro Azul</a></em>**
 </p>
 
 <p style="text-align: justify;">
@@ -50,7 +50,7 @@ Que o **_Quadro Cenário Banheiro_** virou o queridinho do **_Mercado de Artes_*
 </p>
 
 <p style="text-align: justify;">
-  Há uma série de produtos para pronta entrega no <strong><em>Mercado de Artes do Bicha Fêmea</em></strong>, prontos para serem enviados para você. No caso de encomendas, preciso avisar: elas <strong><em>só poderão ser feitas até o dia 23/12</em></strong>, <em>hein</em>? Quer fazer uma? Então, corre!
+  Há uma série de produtos para pronta entrega no **<em>Mercado de Artes do Bicha Fêmea</em>**, prontos para serem enviados para você. No caso de encomendas, preciso avisar: elas **<em>só poderão ser feitas até o dia 23/12</em>**, <em>hein</em>? Quer fazer uma? Então, corre!
 </p>
 
 **Mais no Bicha Fêmea…**
@@ -64,7 +64,7 @@ Que o **_Quadro Cenário Banheiro_** virou o queridinho do **_Mercado de Artes_*
 **_[Mercado de Artes by Bicha Fêmea: a loja virtual que faltava na blogosfera!](http://www.trololodemulher.com.br/2010/09/20/loja-virtual-bicha-femea/)_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">

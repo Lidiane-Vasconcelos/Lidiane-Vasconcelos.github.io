@@ -1,7 +1,7 @@
 ---
-id: 3755
+
 title: 'Cozinha americana pequena e simples: ideias, dicas e modelos.'
-date: 2017-05-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/02/cozinha-americana/
@@ -10,7 +10,7 @@ categories:
   - Cozinha
 ---
 <p align="justify">
-  A <strong>cozinha americana</strong>, que é aberta para a<strong> sala de jantar e estar</strong>, mesmo que <strong>pequena e simples</strong>, pode ser bastante graciosa e aconchegante. Conhecida também como cozinha gourmet ou integrada, já que liga-se aos ambientes em geral por um <strong>balcão</strong>, de fato oferece a vantagem da união da família e amigos. Ficam todos juntos ali, no mesmo espaço, desde o momento em que o alimento é preparado até a hora de comer. Além do mais, ela tem um apelo <strong>moderno</strong>, e fica perfeita em <strong>apartamentos pequenos</strong>. Bom, hein? Quer ter uma? O importante é você ler sobre o assunto e conferir imagens de cozinhas decoradas, tudo para descobrir as referências que aprecia, e elencar o que você gostaria de implantar na sua casa ou apartamento. Espie este post que ele está recheado de dicas, e imagens, para sua informação e inspiração. Vem!
+  A **cozinha americana**, que é aberta para a** sala de jantar e estar**, mesmo que **pequena e simples**, pode ser bastante graciosa e aconchegante. Conhecida também como cozinha gourmet ou integrada, já que liga-se aos ambientes em geral por um **balcão**, de fato oferece a vantagem da união da família e amigos. Ficam todos juntos ali, no mesmo espaço, desde o momento em que o alimento é preparado até a hora de comer. Além do mais, ela tem um apelo **moderno**, e fica perfeita em **apartamentos pequenos**. Bom, hein? Quer ter uma? O importante é você ler sobre o assunto e conferir imagens de cozinhas decoradas, tudo para descobrir as referências que aprecia, e elencar o que você gostaria de implantar na sua casa ou apartamento. Espie este post que ele está recheado de dicas, e imagens, para sua informação e inspiração. Vem!
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Dos armários</strong>
+  **Dos armários**
 </p>
 
 <p align="justify">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Do balcão</strong>
+  **Do balcão**
 </p>
 
 <p align="justify">
@@ -138,11 +138,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E não esqueça!</strong>
+  **E não esqueça!**
 </p>
 
 <p align="justify">
-  1 &#8211; Não é porque sua cozinha é integrada que você vai tentar usar a luz comum de todo o ambiente, ok? Dedique a sua cozinha uma <strong>iluminação própria para ela</strong>, porque o ambiente precisa estar bem iluminado para que você trabalhe melhor lá. Deixe o <a href="http://www.trololodemulher.com.br/2016/12/06/lustre-pendente/" target="_blank">lustre pendente para a sala/mesa de jantar</a>. Embaixo dos seus armários também pode haver pequenos focos de luz, que cumprem uma função decorativa bastante interessante.
+  1 &#8211; Não é porque sua cozinha é integrada que você vai tentar usar a luz comum de todo o ambiente, ok? Dedique a sua cozinha uma **iluminação própria para ela**, porque o ambiente precisa estar bem iluminado para que você trabalhe melhor lá. Deixe o <a href="http://www.trololodemulher.com.br/2016/12/06/lustre-pendente/" target="_blank">lustre pendente para a sala/mesa de jantar</a>. Embaixo dos seus armários também pode haver pequenos focos de luz, que cumprem uma função decorativa bastante interessante.
 </p>
 
 <p align="justify">

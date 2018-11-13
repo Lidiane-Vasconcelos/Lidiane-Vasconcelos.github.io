@@ -1,7 +1,7 @@
 ---
-id: 3519
+
 title: Como escolher roupa para bebê? Veja 4 dicas.
-date: 2015-12-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/03/roupa-para-bebe/
@@ -12,7 +12,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Se tem uma coisa que tira o bom humor de nossos pequenos, e leva toda a gostosura deles por água abaixo, é vestí-los de maneira inadequada. <strong>Roupa para bebê</strong>, que tenha conforto, faz toda a diferença na vida deles, assim como faz na minha e na sua. Então, por que não dar a devida importância a isso? Já que não podemos provar nós mesmas essas roupas, como saber se elas são, de fato, gostosas de serem usadas pela garotada, e vão passar no controle de qualidade infantil? Veja abaixo 4 dicas que podem nos nortear e melhorar as escolhas que fazemos para nossos pequenos. Mantenha todas elas em mente na sua próxima compra… confira!
+  Se tem uma coisa que tira o bom humor de nossos pequenos, e leva toda a gostosura deles por água abaixo, é vestí-los de maneira inadequada. **Roupa para bebê**, que tenha conforto, faz toda a diferença na vida deles, assim como faz na minha e na sua. Então, por que não dar a devida importância a isso? Já que não podemos provar nós mesmas essas roupas, como saber se elas são, de fato, gostosas de serem usadas pela garotada, e vão passar no controle de qualidade infantil? Veja abaixo 4 dicas que podem nos nortear e melhorar as escolhas que fazemos para nossos pequenos. Mantenha todas elas em mente na sua próxima compra… confira!
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – Evite apertos!</strong>
+  **1 – Evite apertos!**
 </p>
 
 <p align="justify">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – Fique de olho no que machuca!</strong>
+  **2 – Fique de olho no que machuca!**
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Nem tudo que enfeita vale a pena.</strong>
+  **3 – Nem tudo que enfeita vale a pena.**
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Considere o tipo de tecido.</strong>
+  **4 – Considere o tipo de tecido.**
 </p>
 
 <p align="justify">
@@ -60,11 +60,11 @@ categories:
 </p>
 
 <p align="justify">
-  A <strong><a href="http://www.bebecotton.com/" target="_blank">Bebê Cotton</a></strong> é uma loja virtual que eu gostaria de apresentar pra você. Lá você encontra roupas para bebês de 0 a 3 anos, com foco nas últimas tendências para esses pequenos. Mas não fica apenas aí, eles vão além: as roupas são de alta qualidade e conforto, produzidas em algodão egípcio ou pima. Isso significa, bonita, que as peças são duráveis e macias ao toque, de modo que elas são bem diferentes de uma roupa confeccionada com algodão comum.
+  A **<a href="http://www.bebecotton.com/" target="_blank">Bebê Cotton</a>** é uma loja virtual que eu gostaria de apresentar pra você. Lá você encontra roupas para bebês de 0 a 3 anos, com foco nas últimas tendências para esses pequenos. Mas não fica apenas aí, eles vão além: as roupas são de alta qualidade e conforto, produzidas em algodão egípcio ou pima. Isso significa, bonita, que as peças são duráveis e macias ao toque, de modo que elas são bem diferentes de uma roupa confeccionada com algodão comum.
 </p>
 
 <p align="justify">
-  Na <strong>Bebê Cotton</strong> você encontra as linhas <strong>bebê menina, bebê menino, moda praia bebê, moda básica bebê, saídas de maternidade e body divertido</strong>. <a href="http://www.bebecotton.com/" target="_blank">Clique aqui</a> e fique à vontade para fazer um <em>tour</em> pela loja virtual, e conhecer tantas <em>belezuras</em> para vestir sua coisinha linda de viver. Ah! Fique por dentro das novidades e atualizações da <strong>loja no Facebook também</strong>. <a href="https://www.facebook.com/Beb%C3%AA-Cotton-763563123754005/timeline" target="_blank">Clique aqui e curta</a>. Se joga!
+  Na **Bebê Cotton** você encontra as linhas **bebê menina, bebê menino, moda praia bebê, moda básica bebê, saídas de maternidade e body divertido**. <a href="http://www.bebecotton.com/" target="_blank">Clique aqui</a> e fique à vontade para fazer um <em>tour</em> pela loja virtual, e conhecer tantas <em>belezuras</em> para vestir sua coisinha linda de viver. Ah! Fique por dentro das novidades e atualizações da **loja no Facebook também**. <a href="https://www.facebook.com/Beb%C3%AA-Cotton-763563123754005/timeline" target="_blank">Clique aqui e curta</a>. Se joga!
 </p>
 
 <p align="center">

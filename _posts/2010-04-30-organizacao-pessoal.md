@@ -1,7 +1,7 @@
 ---
-id: 2810
+
 title: 'Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?'
-date: 2010-04-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/30/organizacao-pessoal/
@@ -11,7 +11,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p style="text-align: justify;">
-  Na sua <strong>rotina</strong>, você sente que há <strong>organização</strong> pessoal nas suas<strong> tarefas</strong> ou você vai executando o que aparece na sua frente para ser realizado? Você tem o <strong>controle</strong> do que precisa ser feito, ou simplesmente as coisas acontecem e você “apaga incêndios” diariamente? Já pensou sobre isso?
+  Na sua **rotina**, você sente que há **organização** pessoal nas suas** tarefas** ou você vai executando o que aparece na sua frente para ser realizado? Você tem o **controle** do que precisa ser feito, ou simplesmente as coisas acontecem e você “apaga incêndios” diariamente? Já pensou sobre isso?
 </p>
 
 <p style="text-align: justify;">
@@ -29,31 +29,31 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Uma das coisas que  não abro mão é de uma <strong>agenda</strong>. A agenda é minha fiel escudeira há muito tempo, e nela eu <strong>planejo minhas atividades diárias com até uma semana de antecedência</strong>, sabia? Mas há um detalhe que gostaria de pontuar: eu <strong>planejo ações que sei que terei condições de cumprir</strong>. Já ouviu falar que <strong>objetivos e metas inatingíveis são desmotivadores</strong>? Pense nisso, bonita…Eu sou do tipo que faz as coisas acontecerem e se organiza para que nada saia do controle. Lógico, eu encontrei minhas táticas pessoais para gerenciar o meu tempo. Certamente cada mulher tem a sua, mas há quem não tenha qualquer uma, e este post pode servir para ajudar você que sente que as coisas simplesmente acontecem em sua vida.
+  Uma das coisas que  não abro mão é de uma **agenda**. A agenda é minha fiel escudeira há muito tempo, e nela eu **planejo minhas atividades diárias com até uma semana de antecedência**, sabia? Mas há um detalhe que gostaria de pontuar: eu **planejo ações que sei que terei condições de cumprir**. Já ouviu falar que **objetivos e metas inatingíveis são desmotivadores**? Pense nisso, bonita…Eu sou do tipo que faz as coisas acontecerem e se organiza para que nada saia do controle. Lógico, eu encontrei minhas táticas pessoais para gerenciar o meu tempo. Certamente cada mulher tem a sua, mas há quem não tenha qualquer uma, e este post pode servir para ajudar você que sente que as coisas simplesmente acontecem em sua vida.
 </p>
 
 <p style="text-align: justify;">
-  Ah, sim! Claro! O orçamento. Sabe que não compro tudo que vejo pela frente? Desejar a gente deseja muita coisa, não é verdade? Mas há que se ter <strong>controle sobre os gastos</strong>, bonitona! E isso nós temos por aqui. Nosso <strong>orçamento doméstico é dividido em “contas”,</strong> com valores definidos para cada uma delas. Essas contas, e suas respectivas receitas (valor disponível para ser gasto em cada uma delas), estão <strong>registradas numa planilha e toda a despesa é contabilizada nela também</strong>. Assim nós visualizamos tudo o que gastamos e consumimos de forma consciente.Outra tática pessoal é a montagem de <strong>listas</strong>. Eu tenho listas para tudo: <strong>O que precisa ser executado em casa, o que precisa ser comprado para casa, o que precisa ser comprado para mim,</strong> <strong>o que será comprado na feira semanal</strong>, etc. O que me move a fazer isso é desconfiar sempre de minha memória. Se eu estou vendo uma revista ou blog, e vejo algo bacana que quero adquirir, é para a lista de desejos que aquele objeto vai. Depois, por uma questão de prioridades e de acordo com o orçamento previsto para cada mês, os itens desejados vão sendo adquiridos.
+  Ah, sim! Claro! O orçamento. Sabe que não compro tudo que vejo pela frente? Desejar a gente deseja muita coisa, não é verdade? Mas há que se ter **controle sobre os gastos**, bonitona! E isso nós temos por aqui. Nosso **orçamento doméstico é dividido em “contas”,** com valores definidos para cada uma delas. Essas contas, e suas respectivas receitas (valor disponível para ser gasto em cada uma delas), estão **registradas numa planilha e toda a despesa é contabilizada nela também**. Assim nós visualizamos tudo o que gastamos e consumimos de forma consciente.Outra tática pessoal é a montagem de **listas**. Eu tenho listas para tudo: **O que precisa ser executado em casa, o que precisa ser comprado para casa, o que precisa ser comprado para mim,** **o que será comprado na feira semanal**, etc. O que me move a fazer isso é desconfiar sempre de minha memória. Se eu estou vendo uma revista ou blog, e vejo algo bacana que quero adquirir, é para a lista de desejos que aquele objeto vai. Depois, por uma questão de prioridades e de acordo com o orçamento previsto para cada mês, os itens desejados vão sendo adquiridos.
 </p>
 
 <p style="text-align: justify;">
-  Recomendo a leitura do post onde falei sobre como é o meu <a href="http://www.trololodemulher.com.br/2010/02/04/da-minha-porcao-diva-do-lar-como-e-a-sua/"><strong>dia a dia de tarefas domésticas</strong></a>, como diva do lar, e outras leitorias navegantes “soltaram o verbo” também. Ainda sobre organização doméstica, já escrevi antes <strong><a href="http://www.trololodemulher.com.br/2009/11/10/5-dicas-de-oganizao-e-passe-bem-seja-feliz/">5 dicas para manter tudo em ordem</a></strong>, e isso certamente favorece o nosso controle sobre nossas vidas. Duvida? Até mesmo as <strong>tarefas do lar são controladas</strong>, sabia? Sim, porque se alguém disser que as coisas que são feitas em casa são uma moleza e que não tomam o tempo da criatura… <em>ahhhhh</em>!!! Sei não, <em>hein</em>?! Não me responsabilizo pelos meus atos… <em>cof cof cof</em>…
+  Recomendo a leitura do post onde falei sobre como é o meu <a href="http://www.trololodemulher.com.br/2010/02/04/da-minha-porcao-diva-do-lar-como-e-a-sua/">**dia a dia de tarefas domésticas**</a>, como diva do lar, e outras leitorias navegantes “soltaram o verbo” também. Ainda sobre organização doméstica, já escrevi antes **<a href="http://www.trololodemulher.com.br/2009/11/10/5-dicas-de-oganizao-e-passe-bem-seja-feliz/">5 dicas para manter tudo em ordem</a>**, e isso certamente favorece o nosso controle sobre nossas vidas. Duvida? Até mesmo as **tarefas do lar são controladas**, sabia? Sim, porque se alguém disser que as coisas que são feitas em casa são uma moleza e que não tomam o tempo da criatura… <em>ahhhhh</em>!!! Sei não, <em>hein</em>?! Não me responsabilizo pelos meus atos… <em>cof cof cof</em>…
 </p>
 
 <p style="text-align: justify;">
-  <strong>E você, hein? Pensou sobre sua condição diária? Está tudo “dominado” ou você se perde em meio aos <em>zilhões</em> de coisas para fazer? Qual tua dica? Divide aí, bonita! Conta tudo…</strong>
+  **E você, hein? Pensou sobre sua condição diária? Está tudo “dominado” ou você se perde em meio aos <em>zilhões</em> de coisas para fazer? Qual tua dica? Divide aí, bonita! Conta tudo…**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Ah! E tenha um excelente final de semana!!!</strong>
+  **Ah! E tenha um excelente final de semana!!!**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Atualização</strong>
+  **Atualização**
 </p>
 
 <p style="text-align: justify;">
-  <strong>As leitoras fêmeas falam&#8230;</strong>
+  **As leitoras fêmeas falam&#8230;**
 </p>
 
 <p style="text-align: justify;">
@@ -65,7 +65,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>As leitoras falam&#8230;</strong>
+  **As leitoras falam&#8230;**
 </p>
 
 <p style="text-align: justify;">

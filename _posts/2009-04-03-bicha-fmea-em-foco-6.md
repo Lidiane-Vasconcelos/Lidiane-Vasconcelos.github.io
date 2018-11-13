@@ -1,7 +1,7 @@
 ---
-id: 2641
+
 title: Bicha Fêmea em Foco
-date: 2009-04-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/03/bicha-fmea-em-foco-6/
@@ -10,7 +10,7 @@ categories:
   - Sem categoria
 ---
 <p align="center">
-  <font color="#800000" size="4"><strong>MEU CANTO MINHA PROSA</strong></font>
+  <font color="#800000" size="4">**MEU CANTO MINHA PROSA**</font>
 </p>
 
 <p align="center">

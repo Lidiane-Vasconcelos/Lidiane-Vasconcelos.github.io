@@ -1,7 +1,7 @@
 ---
-id: 3307
+
 title: A blogosfera transforma?
-date: 2014-06-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/11/a-blogosfera-transforma/
@@ -31,13 +31,13 @@ categories:
 </p>
 
 <p align="center">
-  Thais Godinho, do <strong>Vida Organizada</strong>.
+  Thais Godinho, do **Vida Organizada**.
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Você conhece a <strong>Thais Godinho</strong>? Ela é uma bonita incrivelmente sensível e inteligente que, arrisco dizer, edita o blog mais rico e interessante de toda a blogosfera (ui!). Seu blog, o <a href="http://vidaorganizada.com/" target="_blank">Vida Organizada</a>, me ajudou muito nessa descoberta pessoal de que tanto falo. O blog, que f<strong>ala sobre organização em sua totalidade na nossa vida, nos ajuda no desenvolvimento em vários aspectos: cuidar da casa, da família, do trabalho e da mente</strong>.
+  Você conhece a **Thais Godinho**? Ela é uma bonita incrivelmente sensível e inteligente que, arrisco dizer, edita o blog mais rico e interessante de toda a blogosfera (ui!). Seu blog, o <a href="http://vidaorganizada.com/" target="_blank">Vida Organizada</a>, me ajudou muito nessa descoberta pessoal de que tanto falo. O blog, que f**ala sobre organização em sua totalidade na nossa vida, nos ajuda no desenvolvimento em vários aspectos: cuidar da casa, da família, do trabalho e da mente**.
 </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organiz
 &nbsp;
 
 <p align="justify">
-  Eu realmente me sinto feliz de tê-la encontrado nessa imensidão de blogs, e <strong>faço questão de indicá-la para que você acompanhe o trabalho dessa blogueira pra lá de talentosa</strong> e veja, por si mesma, que seus posts podem, sim, transformar o seu dia a dia também. Vai por mim!
+  Eu realmente me sinto feliz de tê-la encontrado nessa imensidão de blogs, e **faço questão de indicá-la para que você acompanhe o trabalho dessa blogueira pra lá de talentosa** e veja, por si mesma, que seus posts podem, sim, transformar o seu dia a dia também. Vai por mim!
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organiz
 &nbsp;
 
 <p style="text-align: center;">
-  Agora, me conta que eu quero saber: <strong><span style="font-size: small;">há algum blog cujo conteúdo tenha feito diferença, de fato, em sua vida real?</span></strong>
+  Agora, me conta que eu quero saber: **<span style="font-size: small;">há algum blog cujo conteúdo tenha feito diferença, de fato, em sua vida real?</span>**
 </p>
 
 &nbsp;
@@ -73,7 +73,7 @@ A Thais sempre diz que sua missão  é inspirar as pessoas a serem mais organiz
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

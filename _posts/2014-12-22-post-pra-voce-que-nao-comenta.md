@@ -1,7 +1,7 @@
 ---
-id: 3380
+
 title: Post pra você que não comenta…
-date: 2014-12-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/22/post-pra-voce-que-nao-comenta/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  E por falar em energia positiva, sabe que esse período do ano a gente se sente ainda mais motivada a espalhar a amor, <em>né</em>? Imagine se comigo seria diferente? Claro que não! Por isso, quero te passar o meu amor, daqui do lado de cá, para você aí do lado de lá. <em>Tá</em> sentindo ele chegar em você?!? Junto com essa energia do bem, quero te transmitir meus agradecimentos. Este ano de trabalho foi muito bom. Consegui retomar o <strong>Decoração da Casa</strong>, que existia já antes do nascimento de meu pequeno Artur, mas parei com ele porque não dava conta de manter dois blogs e… veja você: até o <strong>BelezaCorpo&Cia</strong> ganhou vida neste ano! Você faz parte disso…
+  E por falar em energia positiva, sabe que esse período do ano a gente se sente ainda mais motivada a espalhar a amor, <em>né</em>? Imagine se comigo seria diferente? Claro que não! Por isso, quero te passar o meu amor, daqui do lado de cá, para você aí do lado de lá. <em>Tá</em> sentindo ele chegar em você?!? Junto com essa energia do bem, quero te transmitir meus agradecimentos. Este ano de trabalho foi muito bom. Consegui retomar o **Decoração da Casa**, que existia já antes do nascimento de meu pequeno Artur, mas parei com ele porque não dava conta de manter dois blogs e… veja você: até o **BelezaCorpo&Cia** ganhou vida neste ano! Você faz parte disso…
 </p>
 
 <p align="justify">

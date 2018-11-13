@@ -1,7 +1,7 @@
 ---
-id: 3219
+
 title: 'Dentes bonitos e saudáveis: o que fazer e evitar?'
-date: 2013-05-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/27/dentes-bonitos/
@@ -14,7 +14,7 @@ Quem não quer ter um sorriso perfeito e a saúde bucal em dia? Para isso, a gen
 &nbsp;
 
 <p align="justify">
-  Pode se desfazer dessa pulga,<em> viu</em>? A <strong>Dra. Ana Paula Pasqualin Tokunaga, que é Cirurgiã-Dentista,</strong> comenta o que a gente deve fazer, e <strong>não </strong>fazer, para ter dentes saudáveis e bonitos. Depois disso, aposto que seu sorriso ficará nota 10! <em>Bora</em> ver?
+  Pode se desfazer dessa pulga,<em> viu</em>? A **Dra. Ana Paula Pasqualin Tokunaga, que é Cirurgiã-Dentista,** comenta o que a gente deve fazer, e **não **fazer, para ter dentes saudáveis e bonitos. Depois disso, aposto que seu sorriso ficará nota 10! <em>Bora</em> ver?
 </p>
 
 <!--more-->
@@ -40,7 +40,7 @@ Quem não quer ter um sorriso perfeito e a saúde bucal em dia? Para isso, a gen
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/SAUDE-BUCAL.jpg"><img class="alignnone size-full wp-image-9418" alt="SAUDE BUCAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/SAUDE-BUCAL.jpg" width="400" height="600" /></a><br /> Imagem: <a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a><em></em>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/SAUDE-BUCAL.jpg"><img class="alignnone size-full wp-image-9418" alt="SAUDE BUCAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/SAUDE-BUCAL.jpg" width="400" height="600" /></a><br /> Imagem: <a href="http://www.sxc.hu/" target="_blank">**stock.xchng**</a><em></em>
 </p>
 
 &nbsp;
@@ -84,26 +84,26 @@ Quem não quer ter um sorriso perfeito e a saúde bucal em dia? Para isso, a gen
 &nbsp;
 
 <p align="justify">
-  A <strong>Dra. Ana</strong> é a autora do blog <strong><a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a></strong> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <strong><a href="http://medodedentista.com.br/" target="_blank">clica aqui</a></strong>, bonita!
+  A **Dra. Ana** é a autora do blog **<a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a>** e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e **<a href="http://medodedentista.com.br/" target="_blank">clica aqui</a>**, bonita!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE200.jpg"><img class="alignnone size-full wp-image-9346" alt="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/"><strong><span style="font-size: medium;">Mulher, alimentos e ansiedade…há algo familiar nisso?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE200.jpg"><img class="alignnone size-full wp-image-9346" alt="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/">**<span style="font-size: medium;">Mulher, alimentos e ansiedade…há algo familiar nisso?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MAQUIAGEM-SAUDE200.png"><img class="alignnone size-full wp-image-9122" alt="MAQUIAGEM - SAUDE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MAQUIAGEM-SAUDE200.png" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/"><strong><span style="font-size: medium;">Maquiagem e demaquilantes do dia a dia também são assuntos de saúde.</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MAQUIAGEM-SAUDE200.png"><img class="alignnone size-full wp-image-9122" alt="MAQUIAGEM - SAUDE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MAQUIAGEM-SAUDE200.png" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/">**<span style="font-size: medium;">Maquiagem e demaquilantes do dia a dia também são assuntos de saúde.</span>**</a>
       </p>
     </td>
   </tr>
@@ -111,25 +111,25 @@ Quem não quer ter um sorriso perfeito e a saúde bucal em dia? Para isso, a gen
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FUNCIONAMENTO-DO-INTESTINO200.png"><img class="alignnone size-full wp-image-8736" alt="FUNCIONAMENTO DO INTESTINO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FUNCIONAMENTO-DO-INTESTINO200.png" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/"><strong><span style="font-size: medium;">Seu intestino está funcionando bem?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FUNCIONAMENTO-DO-INTESTINO200.png"><img class="alignnone size-full wp-image-8736" alt="FUNCIONAMENTO DO INTESTINO200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FUNCIONAMENTO-DO-INTESTINO200.png" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/14/maquiagem-demaquilante-saude/">**<span style="font-size: medium;">Seu intestino está funcionando bem?</span>**</a>
       </p>
     </td>
     
     <td style="text-align: center;" valign="top" width="300">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL200.jpg"><img class="alignnone size-full wp-image-8652" alt="HIGIENE BUCAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL200.jpg" width="200" height="200" /></a><br /> <a style="line-height: 19px;" href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/"><strong><span style="font-size: medium;">Você sabe mesmo cuidar da higiene dos dentes?</span></strong></a>
+      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL200.jpg"><img class="alignnone size-full wp-image-8652" alt="HIGIENE BUCAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL200.jpg" width="200" height="200" /></a><br /> <a style="line-height: 19px;" href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/">**<span style="font-size: medium;">Você sabe mesmo cuidar da higiene dos dentes?</span>**</a>
     </td>
   </tr>
   
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/reeducacao-alimentar2001.jpg"><img class="alignnone size-full wp-image-7560" alt="Cherry red summer apple isolated on white, macro close up with copy space" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/reeducacao-alimentar2001.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/"><strong><span style="font-size: medium;">É possível emagrecer apenas com mudanças de hábitos?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/reeducacao-alimentar2001.jpg"><img class="alignnone size-full wp-image-7560" alt="Cherry red summer apple isolated on white, macro close up with copy space" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/reeducacao-alimentar2001.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/">**<span style="font-size: medium;">É possível emagrecer apenas com mudanças de hábitos?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal200.jpg"><img class="alignnone size-full wp-image-6680" alt="saúde bucal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/07/27/saude-bucal/"><strong><span style="font-size: medium;">Creme e enxaguantes bucais de ação clareadora: isso funciona?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal200.jpg"><img class="alignnone size-full wp-image-6680" alt="saúde bucal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/07/27/saude-bucal/">**<span style="font-size: medium;">Creme e enxaguantes bucais de ação clareadora: isso funciona?</span>**</a>
       </p>
     </td>
   </tr>
@@ -146,7 +146,7 @@ Quem não quer ter um sorriso perfeito e a saúde bucal em dia? Para isso, a gen
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -170,9 +170,9 @@ Quem não quer ter um sorriso perfeito e a saúde bucal em dia? Para isso, a gen
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

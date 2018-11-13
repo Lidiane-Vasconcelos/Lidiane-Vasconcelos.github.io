@@ -1,7 +1,7 @@
 ---
-id: 3506
+
 title: 'Receita saudável: suflê de couve-flor e cenoura'
-date: 2015-10-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/28/receita-saudavel-2/
@@ -11,7 +11,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Não é de hoje que a Carol arrasa nas suas dicas de <strong>receita saudável</strong>, e sem dúvidas seu diferencial se dá pelas sugestões <em>superultramega</em> fáceis de preparo. Suas dicas são a prova de que é possível comer bem sem que para isso seja necessário “morar” na cozinha. A receita de hoje é um exemplo disso: suflê de couve flor e cenoura. Bonito de se ver, bom para o corpo e paladar, e prática, muito prática. Vamos àa receita? Vem?
+  Não é de hoje que a Carol arrasa nas suas dicas de **receita saudável**, e sem dúvidas seu diferencial se dá pelas sugestões <em>superultramega</em> fáceis de preparo. Suas dicas são a prova de que é possível comer bem sem que para isso seja necessário “morar” na cozinha. A receita de hoje é um exemplo disso: suflê de couve flor e cenoura. Bonito de se ver, bom para o corpo e paladar, e prática, muito prática. Vamos àa receita? Vem?
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Sal e pimenta moída na hora.
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
@@ -67,7 +67,7 @@ Sal e pimenta moída na hora.
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

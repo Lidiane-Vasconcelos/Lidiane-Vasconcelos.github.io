@@ -1,7 +1,7 @@
 ---
-id: 3398
+
 title: 'Cores na decoração: uma coletânea e várias ideias…'
-date: 2015-02-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/25/cores-na-decoracao-2/

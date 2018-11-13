@@ -1,7 +1,7 @@
 ---
-id: 3679
+
 title: Como fazer barra de cereal caseira?
-date: 2016-10-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/05/barra-de-cereal-caseira/
@@ -10,11 +10,11 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  A <strong>barra de cereal caseira</strong> é uma excelente alternativa para manter uma alimentação saudável no dia a dia, já que além de ser fonte de fibras, o que é muito bom, ela será feita em casa: então a boa procedência é garantida! A seguir você vai aprender como preparar as suas, e quem te ensina é uma amiga querida de longa data: <strong>Tânia Telva</strong>.
+  A **barra de cereal caseira** é uma excelente alternativa para manter uma alimentação saudável no dia a dia, já que além de ser fonte de fibras, o que é muito bom, ela será feita em casa: então a boa procedência é garantida! A seguir você vai aprender como preparar as suas, e quem te ensina é uma amiga querida de longa data: **Tânia Telva**.
 </p>
 
 <p align="justify">
-  Há um bom tempo estávamos sem conteúdo de <strong><a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank">receitas</a></strong> aqui no <strong>Trololó de Mulher</strong>, e fiquei quietinha aguardando que o tempo me mostrasse uma nova parceria para reativar essa categoria de conteúdo. Dia desses reencontrei Tânia virtualmente, já que ela mora em Londres e, conversa vai, conversa vem… não é que descubro que a bonita estava a todo vapor na cozinha e, de quebra, editando um blog lindo de viver? Pensei em você, leitora querida, e tive certeza no momento em que visitei o blog da minha amiga que você se apaixonaria também… agora veja como tenho razão:
+  Há um bom tempo estávamos sem conteúdo de **<a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank">receitas</a>** aqui no **Trololó de Mulher**, e fiquei quietinha aguardando que o tempo me mostrasse uma nova parceria para reativar essa categoria de conteúdo. Dia desses reencontrei Tânia virtualmente, já que ela mora em Londres e, conversa vai, conversa vem… não é que descubro que a bonita estava a todo vapor na cozinha e, de quebra, editando um blog lindo de viver? Pensei em você, leitora querida, e tive certeza no momento em que visitei o blog da minha amiga que você se apaixonaria também… agora veja como tenho razão:
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes</em></strong>
+  **<em>Ingredientes</em>**
 </p>
 
   * <div align="justify">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <strong><em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em></strong>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia </strong><strong><a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <strong><a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a></strong>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se **<em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em>**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia ****<a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua **<a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>**. Se joga… e inspire-se!
 </p>
 
 <p align="center">

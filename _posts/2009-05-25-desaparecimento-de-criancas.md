@@ -1,7 +1,7 @@
 ---
-id: 2665
+
 title: Movimento na blogosfera sobre o desaparecimento de crianças.
-date: 2009-05-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/25/desaparecimento-de-criancas/

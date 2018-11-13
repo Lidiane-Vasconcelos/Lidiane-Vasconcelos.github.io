@@ -1,7 +1,7 @@
 ---
-id: 3463
+
 title: 'Vídeo receita batata doce assada: amor de vó.'
-date: 2015-08-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/12/video-receita-batata-doce-assada/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes</strong>
+  **Ingredientes**
 </p>
 
   * <p align="justify">
@@ -38,7 +38,7 @@ categories:
     </p>
 
 <p align="justify">
-  <strong>Pré-preparo</strong>
+  **Pré-preparo**
 </p>
 
   * <p align="justify">
@@ -54,27 +54,27 @@ categories:
     </p>
 
 <p align="justify">
-  <strong>Passo-a-passo</strong>
+  **Passo-a-passo**
 </p>
 
 <p align="justify">
-  <strong>1 – </strong>Coloque as batatas em uma assadeira coberta com papel alumínio, regue com azeite e leve ao forno por 30 minutos;
+  **1 – **Coloque as batatas em uma assadeira coberta com papel alumínio, regue com azeite e leve ao forno por 30 minutos;
 </p>
 
 <p align="justify">
-  <strong>2 – </strong>Retire as rodelas do forno, vire-as, pincele manteiga sobre cada uma das rodelas;
+  **2 – **Retire as rodelas do forno, vire-as, pincele manteiga sobre cada uma das rodelas;
 </p>
 
 <p align="justify">
-  <strong>3 – </strong>Leve ao forno alto por mais 10-20 minutinhos para dourarem;
+  **3 – **Leve ao forno alto por mais 10-20 minutinhos para dourarem;
 </p>
 
 <p align="justify">
-  <strong>4 – </strong>Retire do forno e sirva imediatamente!
+  **4 – **Retire do forno e sirva imediatamente!
 </p>
 
 > <p align="justify">
->   <strong><em>“A batata doce solta uma gosminha, para que ela não grude na sua faca, passe um pouco de óleo na faca antes de começar a cortar! Faça o passo 3 somente se for servir na hora, pois elas murcham facilmente. A dica é levar ao forno por 30 minutos, pincelar a manteiga e depois conservar na geladeira, na hora de servir, aqueça bem o forno e finalize as batatas!!! Use essa batata doce como acompanhamento para tudo! A criançada adora!!!”</em></strong>
+>   **<em>“A batata doce solta uma gosminha, para que ela não grude na sua faca, passe um pouco de óleo na faca antes de começar a cortar! Faça o passo 3 somente se for servir na hora, pois elas murcham facilmente. A dica é levar ao forno por 30 minutos, pincelar a manteiga e depois conservar na geladeira, na hora de servir, aqueça bem o forno e finalize as batatas!!! Use essa batata doce como acompanhamento para tudo! A criançada adora!!!”</em>**
 > </p>
 
 <p align="center">

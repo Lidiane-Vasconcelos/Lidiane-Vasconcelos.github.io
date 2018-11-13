@@ -1,7 +1,7 @@
 ---
-id: 3286
+
 title: 4 quartos de bebê menino para você suspirar… e se inspirar.
-date: 2014-03-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/13/quarto-bebe-menino/
@@ -25,7 +25,7 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Amei</span></strong>: cortina com tecido listrado fininho e colorido, e a banquetinha azul de apoio.
+  **<span style="font-size: small;">Amei</span>**: cortina com tecido listrado fininho e colorido, e a banquetinha azul de apoio.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Eu faria igual</span></strong>: quadros com animais na parede.
+  **<span style="font-size: small;">Eu faria igual</span>**: quadros com animais na parede.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Curti a ideia</span></strong>: aplicar papel em uma das paredes e, a partir da cor da estampa, pincelar detalhes decorativos pelo quarto na mesma cor.
+  **<span style="font-size: small;">Curti a ideia</span>**: aplicar papel em uma das paredes e, a partir da cor da estampa, pincelar detalhes decorativos pelo quarto na mesma cor.
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Para copiar</span></strong>: composição de quadros delicados + adesivo de parede.
+  **<span style="font-size: small;">Para copiar</span>**: composição de quadros delicados + adesivo de parede.
 </p>
 
 &nbsp;
@@ -59,19 +59,19 @@ Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
+  **<span style="font-size: small;">Muito mais para você:</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe/" target="_blank"><strong><span style="font-size: small;">Decoração para quarto de bebê menino e menina</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe/" target="_blank">**<span style="font-size: small;">Decoração para quarto de bebê menino e menina</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank"><strong><span style="font-size: small;">Decoração neutra e simples para bebê: dicas, pitacos e inspirações</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank">**<span style="font-size: small;">Decoração neutra e simples para bebê: dicas, pitacos e inspirações</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank"><strong><span style="font-size: small;">2 ideias de decoração para quartos de bebê inéditas por aqui</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank">**<span style="font-size: small;">2 ideias de decoração para quartos de bebê inéditas por aqui</span>**</a>
 </p>
 
 &nbsp;
@@ -83,7 +83,7 @@ Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

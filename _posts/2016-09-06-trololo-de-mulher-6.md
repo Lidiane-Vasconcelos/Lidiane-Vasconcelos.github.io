@@ -1,7 +1,7 @@
 ---
-id: 3658
+
 title: O que tem na Prateleira do Trololó de Mulher de Setembro?
-date: 2016-09-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/06/trololo-de-mulher-6/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Setembro é um mês tão gostoso! A gente começa uma nova estação, a Primavera, e começa a entrar no clima do Verão que está por vir. O mês inspira novidades, abertura para o novo, para a vida, para a alegria de viver! Neste mês quero te mostrar um lançamento que é pura lindeza da <strong>Boutique Ateline</strong>, dicas e gostosuras da <strong>Xique Xique Brasil</strong> para o seu <strong>bebê</strong> e para a <strong>casa</strong>, tem também o produto campeão da <strong>Carllos Criações</strong> e uma delicadeza apaixonante da <strong>Silvana R. Acessórios</strong>. Tudo selecionado com carinho pra te mostrar apenas uma pitadinha dos <strong>parceiros comerciais queridos do Trololó de Mulher</strong>. Olha só:
+  Setembro é um mês tão gostoso! A gente começa uma nova estação, a Primavera, e começa a entrar no clima do Verão que está por vir. O mês inspira novidades, abertura para o novo, para a vida, para a alegria de viver! Neste mês quero te mostrar um lançamento que é pura lindeza da **Boutique Ateline**, dicas e gostosuras da **Xique Xique Brasil** para o seu **bebê** e para a **casa**, tem também o produto campeão da **Carllos Criações** e uma delicadeza apaixonante da **Silvana R. Acessórios**. Tudo selecionado com carinho pra te mostrar apenas uma pitadinha dos **parceiros comerciais queridos do Trololó de Mulher**. Olha só:
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  Nova coleção de mini-telas para enfeitar cantinhos queridos. Amei os quadrinhos com <strong>Nossa Senhora</strong>, pra inspirar a fé; o da <strong>cozinha</strong>, pra temperar com afeto; e o <strong>London</strong>, pra enfeitar o home office. Todos da <a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">Boutique Ateline</a>.
+  Nova coleção de mini-telas para enfeitar cantinhos queridos. Amei os quadrinhos com **Nossa Senhora**, pra inspirar a fé; o da **cozinha**, pra temperar com afeto; e o **London**, pra enfeitar o home office. Todos da <a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">Boutique Ateline</a>.
 </p>
 
 <p align="center">

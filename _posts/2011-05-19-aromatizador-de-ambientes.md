@@ -1,7 +1,7 @@
 ---
-id: 2995
+
 title: 'Aromatizador de Ambientes: como fazer?'
-date: 2011-05-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/19/aromatizador-de-ambientes/
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <em>&#8220;Eu adoro a casa com cheirinho gostoso. Na verdade, quem não gosta? Eu costumo usar aquele produto que fica lançando no ambiente, onde o perfume é lançado a cada 8, 16 ou 36 minutos. Já sabe de qual estou falando, não é?  </em><em>Então, estes últimos dias, resolvi aderir ao <strong>“Faça você mesma!”</strong> inspirada pelo “Trololó de Mulher”. Saí na busca de como fazer o aromatizador caseiro. Descobri várias “fórmulas caseiras” que algumas, inclusive, já uso. Quem não coloca cravo na água para ferver para tirar aquele cheiro de fritura que fica na cozinha, por exemplo?</em>
+  <em>&#8220;Eu adoro a casa com cheirinho gostoso. Na verdade, quem não gosta? Eu costumo usar aquele produto que fica lançando no ambiente, onde o perfume é lançado a cada 8, 16 ou 36 minutos. Já sabe de qual estou falando, não é?  </em><em>Então, estes últimos dias, resolvi aderir ao **“Faça você mesma!”** inspirada pelo “Trololó de Mulher”. Saí na busca de como fazer o aromatizador caseiro. Descobri várias “fórmulas caseiras” que algumas, inclusive, já uso. Quem não coloca cravo na água para ferver para tirar aquele cheiro de fritura que fica na cozinha, por exemplo?</em>
 </p>
 
 <p style="text-align: justify;">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Comprei uma garrafinha de vidro pequena de colocar azeite naquelas lojas de R$1,99. Ela comporta até 250ml. Comprei uma essência de canela e cravo (lembrando que cada essência tem apenas 10ml). Usei apenas uma com receio de ficar com cheiro muito forte. Maridão tem enxaqueca e não uso nada forte aqui em casa. Álcool encontrei na loja de produtos naturais perto de casa. Mas acredito que em lojas de artesanato você possa encontrar também. Usei copinho de medida e funil para não derramar. </em><em>Lavei bem o vidro, e coloquei as proporções: </em><em><strong>100ml de água mineral + 100ml de álcool + 1 essência de 10ml + 8 palitinhos de churrasco.</strong></em>
+  <em>Comprei uma garrafinha de vidro pequena de colocar azeite naquelas lojas de R$1,99. Ela comporta até 250ml. Comprei uma essência de canela e cravo (lembrando que cada essência tem apenas 10ml). Usei apenas uma com receio de ficar com cheiro muito forte. Maridão tem enxaqueca e não uso nada forte aqui em casa. Álcool encontrei na loja de produtos naturais perto de casa. Mas acredito que em lojas de artesanato você possa encontrar também. Usei copinho de medida e funil para não derramar. </em><em>Lavei bem o vidro, e coloquei as proporções: </em><em>**100ml de água mineral + 100ml de álcool + 1 essência de 10ml + 8 palitinhos de churrasco.**</em>
 </p>
 
 <p style="text-align: justify;">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Da próxima vez que fizer, colocarei <strong>duas</strong> <strong>essências</strong>. Com uma apenas, o cheirinho ficou bem suave mesmo!  Com as fragâncias mais doces pode ser que fique enjoativo. Melhor colocar uma essência, se preciso for, adicionar outra. Outra dica, não esqueça de misturar sempre e virar os palitinhos. Agora é criatividade para deixar a casa mais cheirosa e linda. Espero que goste. Se fizer, conta qual usou e como ficou?&#8221;</em>
+  <em>Da próxima vez que fizer, colocarei **duas** **essências**. Com uma apenas, o cheirinho ficou bem suave mesmo!  Com as fragâncias mais doces pode ser que fique enjoativo. Melhor colocar uma essência, se preciso for, adicionar outra. Outra dica, não esqueça de misturar sempre e virar os palitinhos. Agora é criatividade para deixar a casa mais cheirosa e linda. Espero que goste. Se fizer, conta qual usou e como ficou?&#8221;</em>
 </p>
 
 <p style="text-align: justify;">
@@ -88,7 +88,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Além das essências, na Empório Aroma você encontra essências para sabonetes e cosméticos, essência para perfumaria, essências para velas, matéria prima em geral e acessórios para produzir seus cheirinhos e aromas irresistíveis. A boa notícia é que você pode <em><strong>pagar de maneira facilitada, ganhar desconto e ainda desfrutar de frete grátis!</strong></em> <a href="http://www.emporioaroma.com.br/" target="_blank">Clique aqui, visite a loja e confira todas as vantagens exclusivas</a>. Pra ficar por dentro de todas as novidades do Empório Aromas, não deixe de acompanhá-los no Facebook. <a href="https://www.facebook.com/Emp%C3%B3rio-Aroma-136393423096960/" target="_blank">Clique aqui, curta e saiba tudo em primeira mão</a>!
+  Além das essências, na Empório Aroma você encontra essências para sabonetes e cosméticos, essência para perfumaria, essências para velas, matéria prima em geral e acessórios para produzir seus cheirinhos e aromas irresistíveis. A boa notícia é que você pode <em>**pagar de maneira facilitada, ganhar desconto e ainda desfrutar de frete grátis!**</em> <a href="http://www.emporioaroma.com.br/" target="_blank">Clique aqui, visite a loja e confira todas as vantagens exclusivas</a>. Pra ficar por dentro de todas as novidades do Empório Aromas, não deixe de acompanhá-los no Facebook. <a href="https://www.facebook.com/Emp%C3%B3rio-Aroma-136393423096960/" target="_blank">Clique aqui, curta e saiba tudo em primeira mão</a>!
 </p>
 
 <p align="center">

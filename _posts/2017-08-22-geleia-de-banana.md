@@ -1,7 +1,7 @@
 ---
-id: 3787
+
 title: Geleia de banana e as reminiscências infantis…
-date: 2017-08-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/22/geleia-de-banana/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  <strong>Geleia de banana</strong> é algo que faz parte das lembranças de infância de Tânia, e das melhores, daquelas ligadas a casa da avó. A receita que ela nos traz hoje é das mais fáceis, práticas e versáteis. Repare na simplicidade que há em reproduzir essa delícia, e se joga pra fazer a sua em seu lar. Confira!
+  **Geleia de banana** é algo que faz parte das lembranças de infância de Tânia, e das melhores, daquelas ligadas a casa da avó. A receita que ela nos traz hoje é das mais fáceis, práticas e versáteis. Repare na simplicidade que há em reproduzir essa delícia, e se joga pra fazer a sua em seu lar. Confira!
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>Ingredientes</em></strong>
+  **<em>Ingredientes</em>**
 </p>
 
 <ul style="text-align: justify;">
@@ -73,11 +73,11 @@ categories:
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank"><strong>Chá de menta de Marraquexe, ou como acolher bem…</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank">**Chá de menta de Marraquexe, ou como acolher bem…**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank"><strong>Sopa de abóbora e alho para aquecer os dias frios.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank">**Sopa de abóbora e alho para aquecer os dias frios.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank"><strong>Receita de brownie de chocolate marmorizado.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank">**Receita de brownie de chocolate marmorizado.**</a>
 
 &nbsp;
 

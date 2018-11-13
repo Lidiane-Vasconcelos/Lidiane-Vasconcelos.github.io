@@ -1,7 +1,7 @@
 ---
-id: 3315
+
 title: Faça você mesma um enfeite de parede para sua casa.
-date: 2014-06-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/27/enfeite-parede-faca-voce-mesma/
@@ -31,19 +31,19 @@ Eu amo espiar ideias de decoração do tipo “faça você mesma”, especialmen
 </p>
 
 <p align="justify">
-  <strong>Não deixe de espiar:</strong>
+  **Não deixe de espiar:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/" target="_blank"><strong>Baú vintage: faça você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/" target="_blank">**Baú vintage: faça você mesma.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank"><strong>Decoração “faça você mesma”: luminárias de taça de vinho.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank">**Decoração “faça você mesma”: luminárias de taça de vinho.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/" target="_blank"><strong>Faça você mesma: moldura de porta-retratos linda de viver.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/" target="_blank">**Faça você mesma: moldura de porta-retratos linda de viver.**</a>
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ Eu amo espiar ideias de decoração do tipo “faça você mesma”, especialmen
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

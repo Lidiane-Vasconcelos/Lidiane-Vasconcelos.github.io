@@ -1,7 +1,7 @@
 ---
-id: 3163
+
 title: 'Artesanal Shop: a loja que decora sua casa pela internet!'
-date: 2012-07-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/31/artesanal-shop-loja-decoracao/
@@ -27,7 +27,7 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 &nbsp;
 
 <p align="justify">
-  Eu te digo: é na <strong><a href="http://www.artesanalshop.com.br/" target="_blank">Artesanal Shop</a></strong>! E quando eu falei que na loja você pode “vestir” sua casa, é justamente porque os produtos que você vai encontrar por lá dão o arremate em qualquer decoração. Lá você encontra <strong>almofadas, capas para almofadas, cortinas, colchas, caminhos de mesa, trilhos e passadeiras, toalhas de mesa, mantas para sofá</strong>…
+  Eu te digo: é na **<a href="http://www.artesanalshop.com.br/" target="_blank">Artesanal Shop</a>**! E quando eu falei que na loja você pode “vestir” sua casa, é justamente porque os produtos que você vai encontrar por lá dão o arremate em qualquer decoração. Lá você encontra **almofadas, capas para almofadas, cortinas, colchas, caminhos de mesa, trilhos e passadeiras, toalhas de mesa, mantas para sofá**…
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 </p>
 
 <p align="justify">
-  …<strong>lugar americano individual ou kits, assentos para cadeira, jogos de banheiros, etc. Ainda tem enchimentos para almofadas e braçadeiras para cortinas!</strong> Tudo isso é enviado para todo o Brasil! Vale dizer que a loja preza pela qualidade no atendimento, e eles disponibilizam vários canais para que você tire qualquer dúvida que tiver.
+  …**lugar americano individual ou kits, assentos para cadeira, jogos de banheiros, etc. Ainda tem enchimentos para almofadas e braçadeiras para cortinas!** Tudo isso é enviado para todo o Brasil! Vale dizer que a loja preza pela qualidade no atendimento, e eles disponibilizam vários canais para que você tire qualquer dúvida que tiver.
 </p>
 
 <p align="center">
@@ -55,5 +55,5 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 </p>
 
 <p align="justify">
-  E aí? Não ficou com vontade de dar uma olhadinha, bonita? Prepare-se para uma variedade imensa de produtos, <em>viu</em>? Se sua casa anda meio “peladinha”, sem detalhes como cortinas, almofadas bonitas ou tapetes, tudo o que deixa a casa muito mais bonita e confortável, na <strong>Artesanal Shop</strong> você deve encontrar algo com seu estilo… <strong><a href="http://www.artesanalshop.com.br/" target="_blank">clica aqui</a></strong> e confere!
+  E aí? Não ficou com vontade de dar uma olhadinha, bonita? Prepare-se para uma variedade imensa de produtos, <em>viu</em>? Se sua casa anda meio “peladinha”, sem detalhes como cortinas, almofadas bonitas ou tapetes, tudo o que deixa a casa muito mais bonita e confortável, na **Artesanal Shop** você deve encontrar algo com seu estilo… **<a href="http://www.artesanalshop.com.br/" target="_blank">clica aqui</a>** e confere!
 </p>

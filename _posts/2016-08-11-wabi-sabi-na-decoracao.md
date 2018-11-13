@@ -1,7 +1,7 @@
 ---
-id: 3641
+
 title: Wabi Sabi na decoração e o resgate do simples.
-date: 2016-08-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/11/wabi-sabi-na-decoracao/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  O mundo anda acelerado. Felizmente, nossa casa é nosso refúgio, e nela está abrigada a nossa essência. Se não dá para fazer o mundo pisar no freio como gostaríamos, que nós pisemos, então. Certamente, se o que está ao nosso redor muda de alguma forma, o mundo já não será o mesmo pra gente. Acredite nisso! A decoração da nossa casa, por exemplo, pode ter uma influência bastante significativa nesse nosso movimento pessoal de redução da velocidade no dia a dia. A <strong>Arquiteta Regiane Yuki Sabanai</strong>, nossa querida consultora, nos mostra a simplicidade cheia de significados que há por trás do conceito <strong><em>Wabi Sabi</em> na decoração</strong>… deixe-se inspirar e faça, ao menos de sua casa, um mundo melhor!
+  O mundo anda acelerado. Felizmente, nossa casa é nosso refúgio, e nela está abrigada a nossa essência. Se não dá para fazer o mundo pisar no freio como gostaríamos, que nós pisemos, então. Certamente, se o que está ao nosso redor muda de alguma forma, o mundo já não será o mesmo pra gente. Acredite nisso! A decoração da nossa casa, por exemplo, pode ter uma influência bastante significativa nesse nosso movimento pessoal de redução da velocidade no dia a dia. A **Arquiteta Regiane Yuki Sabanai**, nossa querida consultora, nos mostra a simplicidade cheia de significados que há por trás do conceito **<em>Wabi Sabi</em> na decoração**… deixe-se inspirar e faça, ao menos de sua casa, um mundo melhor!
 </p>
 
 <p align="justify">
@@ -30,19 +30,19 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  <em><strong>Materiais orgânicos</strong>: mantenha o espaço natural, com grandes janelas, armários de madeira aparente, azulejos de cerâmica pintados à mão e as cores originais da pintura.</em>
+  <em>**Materiais orgânicos**: mantenha o espaço natural, com grandes janelas, armários de madeira aparente, azulejos de cerâmica pintados à mão e as cores originais da pintura.</em>
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Armazenamento</strong>: coloque armários embutidos para esconder fios e papéis. Espaço limpo e organizado.</em>
+  <em>**Armazenamento**: coloque armários embutidos para esconder fios e papéis. Espaço limpo e organizado.</em>
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>As linhas horizontais</strong>: use mobiliário moderno e simples, sem adornos, com linhas horizontais para dar a ilusão de espaço e ordem.</em>
+  <em>**As linhas horizontais**: use mobiliário moderno e simples, sem adornos, com linhas horizontais para dar a ilusão de espaço e ordem.</em>
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Cerâmica</strong>: decore prateleiras e mesas com taças e vasos de cerâmica antigos.</em>
+  <em>**Cerâmica**: decore prateleiras e mesas com taças e vasos de cerâmica antigos.</em>
 </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Tecido e couro</strong>: decore o espaço com os artigos que duraram ao longo do tempo: kilim antigo ou almofadas de crochê, e poltronas de couro.</em>
+  <em>**Tecido e couro**: decore o espaço com os artigos que duraram ao longo do tempo: kilim antigo ou almofadas de crochê, e poltronas de couro.</em>
 </p>
 
 <p align="center">
@@ -68,11 +68,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>A vida orgânica</strong>: as flores frescas, vasos de plantas e tigelas de frutas.</em>
+  <em>**A vida orgânica**: as flores frescas, vasos de plantas e tigelas de frutas.</em>
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Assimetria (fukinsei)</strong>: permite ser solto e espontâneo, mais humana do que divina.</em>
+  <em>**Assimetria (fukinsei)**: permite ser solto e espontâneo, mais humana do que divina.</em>
 </p>
 
 &nbsp;
@@ -86,11 +86,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Simplicidade (Kanos)</strong>: fresco e puro. É o triunfo do estilo do artesão.</em>
+  <em>**Simplicidade (Kanos)**: fresco e puro. É o triunfo do estilo do artesão.</em>
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Austeridade (Koko)</strong>: não consegue encontrar um uso para ele? Deixe ir.</em>
+  <em>**Austeridade (Koko)**: não consegue encontrar um uso para ele? Deixe ir.</em>
 </p>
 
 &nbsp;
@@ -104,11 +104,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Naturalidade (Shizen)</strong>: é madeira nua, pedra bruta, e as flores do quintal.</em>
+  <em>**Naturalidade (Shizen)**: é madeira nua, pedra bruta, e as flores do quintal.</em>
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Sutil Profundity (Yugen)</strong>: uma reserva de profundidade, um misterioso, escuridão sombria.</em>
+  <em>**Sutil Profundity (Yugen)**: uma reserva de profundidade, um misterioso, escuridão sombria.</em>
 </p>
 
 &nbsp;
@@ -122,11 +122,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Liberdade de apegos mundanos (Datsuzoku)</strong>: é o movimento da simplicidade, não manter as aparências.</em>
+  <em>**Liberdade de apegos mundanos (Datsuzoku)**: é o movimento da simplicidade, não manter as aparências.</em>
 </p>
 
 <p style="text-align: justify;">
-  <em><strong>Silence (Sejaku)</strong>: serena calma do amanhecer, entardecer, final do outono e início da primavera.”</em>
+  <em>**Silence (Sejaku)**: serena calma do amanhecer, entardecer, final do outono e início da primavera.”</em>
 </p>
 
 &nbsp;
@@ -148,7 +148,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Regiane divide-se entre <strong>Brasil e Portugal</strong>, colocando sua competência a favor de uma decoração de muito bom gosto e alinhada com o estilo de seus clientes, seja em terra tupiniquim ou além mar. Você pode acompanhar mais detalhes do trabalho da Arquiteta através de seu site, o <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a>, ou ainda através de sua página no Facebook, <a href="https://www.facebook.com/StudioRYS/timeline" target="_blank">clicando bem aqui</a>. Aproveite!
+  Regiane divide-se entre **Brasil e Portugal**, colocando sua competência a favor de uma decoração de muito bom gosto e alinhada com o estilo de seus clientes, seja em terra tupiniquim ou além mar. Você pode acompanhar mais detalhes do trabalho da Arquiteta através de seu site, o <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a>, ou ainda através de sua página no Facebook, <a href="https://www.facebook.com/StudioRYS/timeline" target="_blank">clicando bem aqui</a>. Aproveite!
 </p>
 
 &nbsp;

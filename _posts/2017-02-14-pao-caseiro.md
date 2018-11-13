@@ -1,7 +1,7 @@
 ---
-id: 3726
+
 title: Receita de pão caseiro de abobrinha… das mais fáceis!
-date: 2017-02-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/14/pao-caseiro/
@@ -76,16 +76,16 @@ _8 – Asse no forno pré-aquecido por cerca de 40 minutos ou até que um palito
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank"><strong>Abóbora assada com cebolas: bonito, saudável e gostoso.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank">**Abóbora assada com cebolas: bonito, saudável e gostoso.**</a>
 
-<a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank"><strong>Biscoitos amaretti, com gostinho de família.</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank">**Biscoitos amaretti, com gostinho de família.**</a>
 
-<a href="http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/" target="_blank"><strong>Receita de frango com azeitonas, pra tornar festiva a comida caseira.</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/" target="_blank">**Receita de frango com azeitonas, pra tornar festiva a comida caseira.**</a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">

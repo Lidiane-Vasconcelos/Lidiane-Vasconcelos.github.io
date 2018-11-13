@@ -1,7 +1,7 @@
 ---
-id: 3386
+
 title: 'Dias e dias sem sol: o temido Novembro na Finlândia.'
-date: 2015-01-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/16/finlandia-novembro/
@@ -23,15 +23,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Quando vim morar na Finlândia, já sabia que o clima aqui é bem diferente do Brasil. Quando digo bem diferente, multiplique isso a décima potência. Aqui as estações são bem marcadas com as mudanças visíveis.</strong>
+>   **Quando vim morar na Finlândia, já sabia que o clima aqui é bem diferente do Brasil. Quando digo bem diferente, multiplique isso a décima potência. Aqui as estações são bem marcadas com as mudanças visíveis.**
 > </p>
 
 > <p align="justify">
->   <strong>Quando cheguei em Agosto, mês com temperatura beirando os 15 graus e de muito sol, todas as pessoas que conheci me falavam sobre a escuridão do mês de Novembro (em finlandês <i>marraskuu</i>), e na minha cabeça imaginava que só ficaria noite, que nunca iria clarear.</strong>
+>   **Quando cheguei em Agosto, mês com temperatura beirando os 15 graus e de muito sol, todas as pessoas que conheci me falavam sobre a escuridão do mês de Novembro (em finlandês <i>marraskuu</i>), e na minha cabeça imaginava que só ficaria noite, que nunca iria clarear.**
 > </p>
 
 > <p align="justify">
->   <strong>O tempo foi passando, as temperaturas abaixando e Novembro chegou! Comecei a entender o que estavam me avisando. Bem no início ele começou a mostrar como seria. Totalmente nublado, céu cinza o dia todo e cada dia com menos horas de claridade. Segundo as previsões meteorológicas, o sol começa a nascer por volta das nove, nove e meia da manhã, e se põe lá para as três e meia, quatro horas da tarde.</strong>
+>   **O tempo foi passando, as temperaturas abaixando e Novembro chegou! Comecei a entender o que estavam me avisando. Bem no início ele começou a mostrar como seria. Totalmente nublado, céu cinza o dia todo e cada dia com menos horas de claridade. Segundo as previsões meteorológicas, o sol começa a nascer por volta das nove, nove e meia da manhã, e se põe lá para as três e meia, quatro horas da tarde.**
 > </p>
 
 <p align="center">
@@ -39,11 +39,11 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Em <i>marraskuu</i> não está frio o suficiente para nevar, nem calor suficiente para ter sol e um clima agradável e, além disso, está perto demais do solstício de inverno – o dia mais curto do ano, em outras palavras a noite mais longa.</strong>
+>   **Em <i>marraskuu</i> não está frio o suficiente para nevar, nem calor suficiente para ter sol e um clima agradável e, além disso, está perto demais do solstício de inverno – o dia mais curto do ano, em outras palavras a noite mais longa.**
 > </p>
 
 > <p align="justify">
->   <strong>Vou confessar que ter pouco tempo “de dia” não me assustou. Para mim era total novidade ver o céu escuro às quatro horas da tarde com as luzes da cidade acesas, ainda mais nessa época que em boa parte do Brasil tem o horário de verão e começa escurecer umas oito horas da noite.</strong>
+>   **Vou confessar que ter pouco tempo “de dia” não me assustou. Para mim era total novidade ver o céu escuro às quatro horas da tarde com as luzes da cidade acesas, ainda mais nessa época que em boa parte do Brasil tem o horário de verão e começa escurecer umas oito horas da noite.**
 > </p>
 
 <p align="center">
@@ -55,15 +55,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>O que me assustou, e confesso me fez muito mal, foi a falta de sol! Segundo o site oficial da meteorologia da Finlândia, em Novembro, Helsinki teve apenas 12 horas de sol. Sim, você não leu errado e eu não escrevi errado: 12 horas de sol!!! Até na Lapônia, região conhecida por só ficar escura e não ter dia nos meses de inverno, o sol brilhou mais.</strong>
+>   **O que me assustou, e confesso me fez muito mal, foi a falta de sol! Segundo o site oficial da meteorologia da Finlândia, em Novembro, Helsinki teve apenas 12 horas de sol. Sim, você não leu errado e eu não escrevi errado: 12 horas de sol!!! Até na Lapônia, região conhecida por só ficar escura e não ter dia nos meses de inverno, o sol brilhou mais.**
 > </p>
 
 > <p align="justify">
->   <strong>Imagine-se acordando às oito da manhã e o céu está fortemente nublado. Ao meio dia o céu continua da mesma cor. Às duas da tarde nada mudou. Já às três e meia começa a escurecer, e quatro e vinte já é noite. Multiplica isso por 30 dias no mês. Loucura total!!!</strong>
+>   **Imagine-se acordando às oito da manhã e o céu está fortemente nublado. Ao meio dia o céu continua da mesma cor. Às duas da tarde nada mudou. Já às três e meia começa a escurecer, e quatro e vinte já é noite. Multiplica isso por 30 dias no mês. Loucura total!!!**
 > </p>
 
 > <p align="justify">
->   <strong>Não é a toa que vitamina D é vendida em supermercados aqui na Finlândia, pois só com muito amor no coração e vitamina D no organismo é possível passar por um mês tão escuro e frio.</strong>
+>   **Não é a toa que vitamina D é vendida em supermercados aqui na Finlândia, pois só com muito amor no coração e vitamina D no organismo é possível passar por um mês tão escuro e frio.**
 > </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Para não dizer que Novembro foi de todo ruim, em um dia nevou bastante! A neve caindo do céu parece uma bailarina dançando para nos encantar ou São Pedro pedindo desculpas por um mês tão feio. O chão coberto de branco, as árvores todas brancas&#8230; Totalmente lindo e iluminado! É engraçado dizer, mas os dias escuros ficam mais claros quando tudo está coberto pela neve!</strong>
+>   **Para não dizer que Novembro foi de todo ruim, em um dia nevou bastante! A neve caindo do céu parece uma bailarina dançando para nos encantar ou São Pedro pedindo desculpas por um mês tão feio. O chão coberto de branco, as árvores todas brancas&#8230; Totalmente lindo e iluminado! É engraçado dizer, mas os dias escuros ficam mais claros quando tudo está coberto pela neve!**
 > </p>
 
 <p align="center">
@@ -83,27 +83,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Entenda como tudo começou:</strong>
+  **Entenda como tudo começou:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 </p>
 
 <p align="justify">
-  <strong>Mais sobre a Finlândia, por Adriana Minhoto:</strong>
+  **Mais sobre a Finlândia, por Adriana Minhoto:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso: lá na Finlândia é assim!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso: lá na Finlândia é assim!</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">Fazer compras é simples, a menos que seja na Finlândia!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">Fazer compras é simples, a menos que seja na Finlândia!</a>**
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
 </p>
 
 <p align="center">

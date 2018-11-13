@@ -1,7 +1,7 @@
 ---
-id: 2600
+
 title: Inspirações para a decoração do home office.
-date: 2009-01-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/06/decoracao-escritorio/

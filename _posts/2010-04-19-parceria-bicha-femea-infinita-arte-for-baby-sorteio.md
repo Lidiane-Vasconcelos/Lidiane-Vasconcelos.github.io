@@ -1,7 +1,7 @@
 ---
-id: 2808
+
 title: Parceria Bicha Fêmea + Infinita Arte For Baby = Sorteio!!!
-date: 2010-04-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/19/parceria-bicha-femea-infinita-arte-for-baby-sorteio/
@@ -68,4 +68,4 @@ Queria deixar aqui o meu agradecimento ás blogueiras, que por livre e espont�
 
 Letícia, do blog **_<a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>_**.
 
-Rosi, do blog <a href="http://mundinhodarosi.blogspot.com/2010/04/ta-rolando.html" target="_blank"><strong><em>Mundinho Particular</em></strong></a>.
+Rosi, do blog <a href="http://mundinhodarosi.blogspot.com/2010/04/ta-rolando.html" target="_blank">**<em>Mundinho Particular</em>**</a>.

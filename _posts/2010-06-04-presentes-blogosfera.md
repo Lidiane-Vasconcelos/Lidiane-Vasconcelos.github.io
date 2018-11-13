@@ -1,7 +1,7 @@
 ---
-id: 2827
+
 title: Quem não gosta de pacotinhos bloguísticos?
-date: 2010-06-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/04/presentes-blogosfera/

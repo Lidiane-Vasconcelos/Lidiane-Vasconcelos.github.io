@@ -1,7 +1,7 @@
 ---
-id: 3329
+
 title: 5 coisas que você precisa saber sobre dor nas costas.
-date: 2014-08-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/11/dor-nas-costas/
@@ -29,7 +29,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: small;">[1] Bicha Fêmea &#8211; Estar acima do peso favorece a dor nas costas?</span></strong>
+  **<span style="font-size: small;">[1] Bicha Fêmea &#8211; Estar acima do peso favorece a dor nas costas?</span>**
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 > </p>
 
 <p align="justify">
-  <strong><span style="font-size: small;">[2] Bicha Fêmea &#8211; Envelhecer significa passar a ter dores na região?</span></strong>
+  **<span style="font-size: small;">[2] Bicha Fêmea &#8211; Envelhecer significa passar a ter dores na região?</span>**
 </p>
 
 &nbsp;
@@ -51,7 +51,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">[3] Bicha Fêmea &#8211; Passar muito tempo sentada agrava a situação?</span></strong>
+  **<span style="font-size: small;">[3] Bicha Fêmea &#8211; Passar muito tempo sentada agrava a situação?</span>**
 </p>
 
 &nbsp;
@@ -63,7 +63,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">[4] Bicha Fêmea &#8211; Fazer atividade física regularmente previne esse tipo de dor?</span></strong>
+  **<span style="font-size: small;">[4] Bicha Fêmea &#8211; Fazer atividade física regularmente previne esse tipo de dor?</span>**
 </p>
 
 &nbsp;
@@ -75,7 +75,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 &nbsp;
 
 <p align="justify">
-  <strong><span style="font-size: small;">[5] Bicha Fêmea &#8211; Como melhorar a qualidade de vida de quem já convive com esse mal?</span></strong>
+  **<span style="font-size: small;">[5] Bicha Fêmea &#8211; Como melhorar a qualidade de vida de quem já convive com esse mal?</span>**
 </p>
 
 &nbsp;

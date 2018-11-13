@@ -1,7 +1,7 @@
 ---
-id: 3274
+
 title: 'Beleza dos olhos no Verão: sombras'
-date: 2014-01-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/21/beleza-olhos-verao-sombras/
@@ -14,7 +14,7 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 <p style="text-align: justify;">
-  A nossa consultora <strong>Jóice Fogassi, que é Esteticista Facial e Maquiadora</strong>, contou tudo sobre o que é legal usar hoje em dia, e até indicou produtos legais para atingir o que queremos: uma beleza sem exageros, sem afetamentos, o mais natural possível. Vem comigo aprender as dicas e truques?
+  A nossa consultora **Jóice Fogassi, que é Esteticista Facial e Maquiadora**, contou tudo sobre o que é legal usar hoje em dia, e até indicou produtos legais para atingir o que queremos: uma beleza sem exageros, sem afetamentos, o mais natural possível. Vem comigo aprender as dicas e truques?
 </p>
 
 <!--more-->
@@ -24,7 +24,7 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 > <p style="text-align: justify;">
->   “Sempre que chega o verão a tendência quase sempre se repete, a ordem é iluminar, clarear a região dos olhos, porém este ano pintou a <strong><span style="text-decoration: underline;">tendência das sombras metalizadas e cintilantes</span></strong>, especialmente os <strong><span style="text-decoration: underline;">tons de prata</span></strong>, o que eu acho que remete muito a maquiagem dos anos 70. Quanto ao uso  <strong><span style="text-decoration: underline;">recomendo cautela</span></strong>, preferindo as <strong><span style="text-decoration: underline;">metalizadas sempre no canto interno do olho ou centro, para realmente iluminar o olhar </span></strong>e <strong><span style="text-decoration: underline;">lembrando que tons metalizados ficam bem somente em peles jovens, as mais maduras devem usar somente como ponto iluminador no canto interno</span></strong>.  Para as morenas caem bem  tons metalizados de prata, cinza e chumbo, as loiras devem apostar nos pigmentos quentes de metalizados como o dourado, pérola ,bronze e rosados.”
+>   “Sempre que chega o verão a tendência quase sempre se repete, a ordem é iluminar, clarear a região dos olhos, porém este ano pintou a **<span style="text-decoration: underline;">tendência das sombras metalizadas e cintilantes</span>**, especialmente os **<span style="text-decoration: underline;">tons de prata</span>**, o que eu acho que remete muito a maquiagem dos anos 70. Quanto ao uso  **<span style="text-decoration: underline;">recomendo cautela</span>**, preferindo as **<span style="text-decoration: underline;">metalizadas sempre no canto interno do olho ou centro, para realmente iluminar o olhar </span>**e **<span style="text-decoration: underline;">lembrando que tons metalizados ficam bem somente em peles jovens, as mais maduras devem usar somente como ponto iluminador no canto interno</span>**.  Para as morenas caem bem  tons metalizados de prata, cinza e chumbo, as loiras devem apostar nos pigmentos quentes de metalizados como o dourado, pérola ,bronze e rosados.”
 > </p>
 
 &nbsp;
@@ -34,7 +34,7 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 > <p style="text-align: justify;">
->   “Na pele morena naturalmente prevalecem os pigmentos frios, ou seja, as<strong><span style="text-decoration: underline;"> peles negras e morenas</span></strong> são peles &#8220;frias&#8221;, estas<strong><span style="text-decoration: underline;"> combinam perfeitamente com os tons também frios como tonalidades de: prata, cinza, violeta  e azul.</span></strong> O oposto ocorre com as <strong><span style="text-decoration: underline;">peles &#8220;quentes&#8221; com predominância de pigmentação avermelhada e amarelada</span></strong>. Para estas peles  <strong><span style="text-decoration: underline;">invisto sempre em combinações com todos tons terrosos como marrom, cobre , bronze e dourado e colorindo com rosa, laranja e vinho</span></strong>, lembrando é claro que é possivel ousar, por exemplo: nas peles negras o dourado também fica deslumbrante e em uma pele muito branca , desde que jovem, tons de violeta e lilás, por exemplo, caem muito bem. O bom senso sempre prevalece.”
+>   “Na pele morena naturalmente prevalecem os pigmentos frios, ou seja, as**<span style="text-decoration: underline;"> peles negras e morenas</span>** são peles &#8220;frias&#8221;, estas**<span style="text-decoration: underline;"> combinam perfeitamente com os tons também frios como tonalidades de: prata, cinza, violeta  e azul.</span>** O oposto ocorre com as **<span style="text-decoration: underline;">peles &#8220;quentes&#8221; com predominância de pigmentação avermelhada e amarelada</span>**. Para estas peles  **<span style="text-decoration: underline;">invisto sempre em combinações com todos tons terrosos como marrom, cobre , bronze e dourado e colorindo com rosa, laranja e vinho</span>**, lembrando é claro que é possivel ousar, por exemplo: nas peles negras o dourado também fica deslumbrante e em uma pele muito branca , desde que jovem, tons de violeta e lilás, por exemplo, caem muito bem. O bom senso sempre prevalece.”
 > </p>
 
 &nbsp;
@@ -68,31 +68,31 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 <p style="text-align: justify;">
-  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank"><strong>Joice Fogassi</strong></a> é o seu lugar. Se joga e <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank"><strong>clica aqui</strong></a>…
+  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">**Joice Fogassi**</a> é o seu lugar. Se joga e <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">**clica aqui**</a>…
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Muito mais para você:</span></strong>
+  **<span style="font-size: medium;">Muito mais para você:</span>**
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2014/01/16/beleza-de-verao/"><strong><span style="font-size: medium;">Beleza de Verão: simples, fácil e rápido</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/01/16/beleza-de-verao/">**<span style="font-size: medium;">Beleza de Verão: simples, fácil e rápido</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/11/05/beleza-verao-produtos-gel/"><strong><span style="font-size: medium;">A beleza nos dias quentes clama por produtos em gel</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/05/beleza-verao-produtos-gel/">**<span style="font-size: medium;">A beleza nos dias quentes clama por produtos em gel</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/10/29/dicas-maquiagem-iluminada/"><strong><span style="font-size: medium;">Quer dicas para uma maquiagem do tipo… iluminada pelo sol?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/29/dicas-maquiagem-iluminada/">**<span style="font-size: medium;">Quer dicas para uma maquiagem do tipo… iluminada pelo sol?</span>**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ E os dias quentes estão aí…delícia, delícia. A gente quer ficar toda bonit
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

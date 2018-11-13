@@ -1,7 +1,7 @@
 ---
-id: 2766
+
 title: Sorteio no Bicha Fêmea em parceria com a Closonê Acessórios…
-date: 2010-01-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/18/sorteio-no-bicha-femea-em-parceria-com-a-closone-acessorios/

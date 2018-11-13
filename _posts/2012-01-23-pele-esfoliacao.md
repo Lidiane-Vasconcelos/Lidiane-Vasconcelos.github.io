@@ -1,7 +1,7 @@
 ---
-id: 3108
+
 title: Você costuma promover a renovação da pele com a esfoliação?
-date: 2012-01-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/23/pele-esfoliacao/
@@ -14,7 +14,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="justify">
-  Para que possamos ficar bem informadas sobre o processo de esfoliação da pele, eu entrevistei a <strong>Dra. Livia Pino</strong>, que é <strong>Dermatologista</strong> e sempre está por aqui, no <strong>Bicha Fêmea</strong>, tirando as dúvidas de beleza que temos. Confira as orientações e dicas da médica…
+  Para que possamos ficar bem informadas sobre o processo de esfoliação da pele, eu entrevistei a **Dra. Livia Pino**, que é **Dermatologista** e sempre está por aqui, no **Bicha Fêmea**, tirando as dúvidas de beleza que temos. Confira as orientações e dicas da médica…
 </p>
 
 <!--more-->
@@ -50,7 +50,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg"><img class="alignnone size-full wp-image-8480" title="ESFOLIACAO DA PELE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg" alt="" width="600" height="424" /></a><br /> Ilustração: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg"><img class="alignnone size-full wp-image-8480" title="ESFOLIACAO DA PELE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg" alt="" width="600" height="424" /></a><br /> Ilustração: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
@@ -68,13 +68,13 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Dica de Dermatologista</span></strong>
+  **<span style="font-size: large;">Dica de Dermatologista</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A Dra. Livia Pino recomenda que é melhor evitar as receitas caseiras para esfoliação da pele do rosto, pois esse procedimento pode resultar em manchas. Já para o corpo, nas áreas mais grossas, a exemplo dos cotovelos, joelhos e pés, ela sugere uma receita antiga e bem simples: <strong>4 colheres de açúcar mascavo + 1 colher de bepantol líquido + 1 colher de óleo de rosa mosqueta + 2 colheres de óleo de banho. Misture tudo e guarde em um pote bem fechado, que deverá ser armazenado num local fresco.</strong> Outra dica é de que após a esfoliação é importante tratar a pele do corpo com hidratação e a do rosto com vitaminas específicas recomendadas pelo dermatologista.
+  A Dra. Livia Pino recomenda que é melhor evitar as receitas caseiras para esfoliação da pele do rosto, pois esse procedimento pode resultar em manchas. Já para o corpo, nas áreas mais grossas, a exemplo dos cotovelos, joelhos e pés, ela sugere uma receita antiga e bem simples: **4 colheres de açúcar mascavo + 1 colher de bepantol líquido + 1 colher de óleo de rosa mosqueta + 2 colheres de óleo de banho. Misture tudo e guarde em um pote bem fechado, que deverá ser armazenado num local fresco.** Outra dica é de que após a esfoliação é importante tratar a pele do corpo com hidratação e a do rosto com vitaminas específicas recomendadas pelo dermatologista.
 </p>
 
 <p align="justify">
@@ -88,7 +88,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>Sabonete liquido de mel e cereais da <strong>NATURA</strong> &#8211; bem delicado para o corpo; Brown sugar body polish, da marca <strong>FRESH</strong> &#8211; AMO este esfoliante de açúcar mascavo; Esfoliante corporal da <strong>CAUDALIE</strong> com propriedades da uva.”</em>
+>   “<em>Sabonete liquido de mel e cereais da **NATURA** &#8211; bem delicado para o corpo; Brown sugar body polish, da marca **FRESH** &#8211; AMO este esfoliante de açúcar mascavo; Esfoliante corporal da **CAUDALIE** com propriedades da uva.”</em>
 > </p>
 
 &nbsp;
@@ -98,7 +98,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>Dermotivin scrub da <strong>Galderma </strong>&#8211; para peles oleosas; Complex up gommage enzimatica da <strong>DERMATUS</strong> &#8211; com extrato de romã, especialíssimo.”</em>
+>   “<em>Dermotivin scrub da **Galderma **&#8211; para peles oleosas; Complex up gommage enzimatica da **DERMATUS** &#8211; com extrato de romã, especialíssimo.”</em>
 > </p>
 
 &nbsp;
@@ -110,13 +110,13 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="justify">
-  A Dra. Livia Pino atende na <strong>cidade do Rio de Janeiro</strong> e também edita o blog <strong><a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a></strong>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <strong><a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">clica bem aqui</a></strong> e aproveita, bonita!
+  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>**, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">clica bem aqui</a>** e aproveita, bonita!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
+  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -127,13 +127,13 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/"><strong><span style="font-size: small;">Pescoço, costas e cotovelo: beleza da pele no Verão</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/">**<span style="font-size: small;">Pescoço, costas e cotovelo: beleza da pele no Verão</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne200.jpg"><img class="alignnone size-full wp-image-6895" title="beleza da pele acne200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/09/12/acne-beleza-pele/"><strong><span style="font-size: small;"><br /> Verão á vista: como evitar a acne e garantir a beleza da pele?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne200.jpg"><img class="alignnone size-full wp-image-6895" title="beleza da pele acne200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/beleza-da-pele-acne200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/09/12/acne-beleza-pele/">**<span style="font-size: small;"><br /> Verão á vista: como evitar a acne e garantir a beleza da pele?</span>**</a>
       </p>
     </td>
   </tr>
@@ -141,13 +141,13 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/24/beleza-da-pele/"><strong><span style="font-size: small;">Tônico facial: você sabe a importância desse produto para a beleza da pele?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg"><img class="alignnone size-full wp-image-6823" title="beleza200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/24/beleza-da-pele/">**<span style="font-size: small;">Tônico facial: você sabe a importância desse produto para a beleza da pele?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos200.jpg"><img class="alignnone size-full wp-image-5235" title="cabelos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/09/27/dicas-beleza-verao/"><strong><span style="font-size: small;"><br /> Acne nas costas e no colo: dicas de beleza para o Verão</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos200.jpg"><img class="alignnone size-full wp-image-5235" title="cabelos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/cabelos200.jpg" alt="" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2010/09/27/dicas-beleza-verao/">**<span style="font-size: small;"><br /> Acne nas costas e no colo: dicas de beleza para o Verão</span>**</a>
       </p>
     </td>
   </tr>
@@ -164,7 +164,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -188,9 +188,9 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

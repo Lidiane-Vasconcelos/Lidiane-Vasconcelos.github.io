@@ -1,7 +1,7 @@
 ---
-id: 2743
+
 title: Dicas para a decoração das salas no Natal.
-date: 2009-12-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/01/dicas-decoracao-de-natal/
@@ -38,6 +38,6 @@ Imagens: <a href="http://www.realsimple.com/" target="_blank">Real Simple</a>
 
 **Mais no Bicha Fêmea sobre decoração natalina&#8230;**
 
-<a href="http://www.trololodemulher.com.br/2008/12/04/pegando-inspirao-web-afora/" target="_self"><strong><em>Pegando inspiração web afora…</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2008/12/04/pegando-inspirao-web-afora/" target="_self">**<em>Pegando inspiração web afora…</em>**</a>
 
 &nbsp;

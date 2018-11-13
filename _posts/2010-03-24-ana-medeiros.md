@@ -1,7 +1,7 @@
 ---
-id: 2795
+
 title: 'Uma Bicha Fêmea Por Outra: Ana Medeiros'
-date: 2010-03-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/24/ana-medeiros/
@@ -17,7 +17,7 @@ Quem acompanhou o blog PRENDADAS, em 2008, conhece bem a Ana Medeiros. Ela é um
 <table align="center">
   <tr>
     <td>
-      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/bicha-femea-ana-medeiros.jpg"><img class="aligncenter size-medium wp-image-4373" title="bicha femea ana medeiros" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/bicha-femea-ana-medeiros-300x273.jpg" alt="" width="300" height="273" /></a></strong>
+      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/bicha-femea-ana-medeiros.jpg"><img class="aligncenter size-medium wp-image-4373" title="bicha femea ana medeiros" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/bicha-femea-ana-medeiros-300x273.jpg" alt="" width="300" height="273" /></a>**
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@ _**“…encontrei um sentido maior pra isso, a minha avó. Morei com ela grande
 <table align="center">
   <tr>
     <td>
-      <strong><em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz.jpg"><img class="aligncenter size-medium wp-image-4374" title="familia feliz" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz-300x224.jpg" alt="" width="300" height="224" /></a></em></strong>
+      **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz.jpg"><img class="aligncenter size-medium wp-image-4374" title="familia feliz" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz-300x224.jpg" alt="" width="300" height="224" /></a></em>**
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ _**“Os dois falam basicamente de decoração, da minha forma leiga de curtir a
 
 Alguma experiência a Ana ganhou, e blogar sobre decoração lhe trouxe algumas lições e sensações bem interessantes, e que ela divide comigo e contigo. Olha só:
 
-**Do nome do Blog –** _<a href="http://acasaqueaminhavoqueria.blogspot.com/" target="_blank"><strong>A Casa Que A Minha Vó Queria</strong></a>_
+**Do nome do Blog –** _<a href="http://acasaqueaminhavoqueria.blogspot.com/" target="_blank">**A Casa Que A Minha Vó Queria**</a>_
 
 > “_Blog tem que ser convidativo, começando pelo nome. Muitas pessoas me falam que foram parar ali porque acharam o nome curioso.”_
 

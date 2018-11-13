@@ -1,7 +1,7 @@
 ---
-id: 3629
+
 title: 'Cortina de bolinhas em quarto infantil: faça você mesma!'
-date: 2016-06-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/16/cortina-quarto-infantil/
@@ -16,19 +16,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-cortinas-persianas/" target="_blank"><strong>4 ideias com cortinas e persianas na janela: inspire-se!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-cortinas-persianas/" target="_blank">**4 ideias com cortinas e persianas na janela: inspire-se!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortina-ideia-decoracao/" target="_blank"><strong>Cortina: ideia fácil, rápida e barata para decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortina-ideia-decoracao/" target="_blank">**Cortina: ideia fácil, rápida e barata para decoração.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank"><strong>Cortinas: 3 ideias para personalizar sua decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank">**Cortinas: 3 ideias para personalizar sua decoração.**</a>
 </p>
 
 <p align="justify">
@@ -52,23 +52,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais ideias para você:</strong>
+  **Mais ideias para você:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortinas/" target="_blank"><strong>Quer ver 2 estilos diferentes (e simples!) de cortina?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortinas/" target="_blank">**Quer ver 2 estilos diferentes (e simples!) de cortina?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/" target="_blank"><strong>Decoração com cortina sem costura… e bem barata!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/" target="_blank">**Decoração com cortina sem costura… e bem barata!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/" target="_blank"><strong>Repare: há duas formas de inserir a cortina na decoração.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/" target="_blank">**Repare: há duas formas de inserir a cortina na decoração.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/" target="_blank"><strong>Dá para customizar uma cortina sem usar máquina de costura?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/" target="_blank">**Dá para customizar uma cortina sem usar máquina de costura?**</a>
 </p>
 
 <p align="justify">

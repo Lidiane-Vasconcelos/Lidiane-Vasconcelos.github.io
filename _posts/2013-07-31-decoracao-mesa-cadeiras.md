@@ -1,7 +1,7 @@
 ---
-id: 3243
+
 title: Comer á mesa em cadeiras coloridas é mais divertido?
-date: 2013-07-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/31/decoracao-mesa-cadeiras/
@@ -14,7 +14,7 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
 &nbsp;
 
 <p align="justify">
-  Seu estilo pede cores aliadas aos sabores á mesa? Então repara só na seleção de ambientes garimpados no <strong><em><a href="http://www.homedit.com/" target="_blank">homedit</a></em></strong> que eu trouxe para você. Tudo simples, radiante e alegre, oh: só vendo! Se joga e se inspira, bonita!
+  Seu estilo pede cores aliadas aos sabores á mesa? Então repara só na seleção de ambientes garimpados no **<em><a href="http://www.homedit.com/" target="_blank">homedit</a></em>** que eu trouxe para você. Tudo simples, radiante e alegre, oh: só vendo! Se joga e se inspira, bonita!
 </p>
 
 <!--more-->
@@ -36,7 +36,7 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
 </p>
 
 <p align="center">
-  <span style="font-size: large;">Muito mais sobre <strong>Salas | Mesas e Cadeiras</strong> para você… <strong><a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">clique aqui</a></strong>!!!</span>
+  <span style="font-size: large;">Muito mais sobre **Salas | Mesas e Cadeiras** para você… **<a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">clique aqui</a>**!!!</span>
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -72,9 +72,9 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3033
+
 title: 'Viagem: 5 lugares para conhecer e se surpreender. Duvida?!'
-date: 2011-08-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/05/viagem-5-lugares-para-conhecer/
@@ -14,7 +14,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 &nbsp;
 
 <p align="justify">
-  Essa é a razão desse post: <strong>listar cinco destinos imperdíveis</strong> na opinião da blogueira que vem se tornando referência quando o assunto é viajar, mostrar descobertas, cores e sabores dos mais diferentes roteiros. Já sabe de quem estou falando? Isso mesmo: <strong>Katia Bonfadini</strong>.
+  Essa é a razão desse post: **listar cinco destinos imperdíveis** na opinião da blogueira que vem se tornando referência quando o assunto é viajar, mostrar descobertas, cores e sabores dos mais diferentes roteiros. Já sabe de quem estou falando? Isso mesmo: **Katia Bonfadini**.
 </p>
 
 <!--more-->
@@ -24,13 +24,13 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 </p>
 
 <p align="justify">
-  Imagino que você, que também gosta de sair por aí para aproveitar o que de melhor o mundo tem a oferecer, vai ficar inquieta para experimentar as sensações que a <strong>Katia</strong>, editora do inspirador <strong><a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a></strong>, tem para dividir sobre cada um dos destinos que ela esolheu com exclusividade para indicar para você, leitora do Bicha Fêmea. <em>Espia</em> logo abaixo e viaje nas palavras e recomendações da bonita…
+  Imagino que você, que também gosta de sair por aí para aproveitar o que de melhor o mundo tem a oferecer, vai ficar inquieta para experimentar as sensações que a **Katia**, editora do inspirador **<a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>**, tem para dividir sobre cada um dos destinos que ela esolheu com exclusividade para indicar para você, leitora do Bicha Fêmea. <em>Espia</em> logo abaixo e viaje nas palavras e recomendações da bonita…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cairo-Abu-Simbel-Egito.jpg"><img class="alignnone size-full wp-image-6706" title="Cairo - Abu Simbel - Egito" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cairo-Abu-Simbel-Egito.jpg" alt="" width="450" height="600" /></a><br /> <strong><a href="http://casosecoisasdabonfa.blogspot.com/search/label/Egito" target="_blank">Cairo e Abu Simbel, Egito (2009)</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cairo-Abu-Simbel-Egito.jpg"><img class="alignnone size-full wp-image-6706" title="Cairo - Abu Simbel - Egito" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cairo-Abu-Simbel-Egito.jpg" alt="" width="450" height="600" /></a><br /> **<a href="http://casosecoisasdabonfa.blogspot.com/search/label/Egito" target="_blank">Cairo e Abu Simbel, Egito (2009)</a>**
 </p>
 
 > <p align="justify">
@@ -38,7 +38,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg"><img class="alignnone size-full wp-image-6707" title="Cidade Proibida - Praça da Paz Celestial - Muralha em Badaling - China" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg" alt="" width="545" height="376" /></a><br /> <strong>Cidade Proibida (vista da Praça da Paz Celestial) em Beijing e parte da Muralha em Badaling, China (1997)</strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg"><img class="alignnone size-full wp-image-6707" title="Cidade Proibida - Praça da Paz Celestial - Muralha em Badaling - China" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Cidade-Proibida-Praca-da-Paz-Celestial-Muralha-em-Badaling-China.jpg" alt="" width="545" height="376" /></a><br /> **Cidade Proibida (vista da Praça da Paz Celestial) em Beijing e parte da Muralha em Badaling, China (1997)**
 </p>
 
 > <p align="justify">
@@ -46,7 +46,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia.jpg"><img class="alignnone size-full wp-image-6708" title="Laguna Colorada - Bolívia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia.jpg" alt="" width="600" height="415" /></a><br /> <strong><a href="http://casosecoisasdabonfa.blogspot.com/2010/12/resumao-das-ferias-no-deserto-do.html" target="_blank">Laguna Colorada na Bolívia</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia.jpg"><img class="alignnone size-full wp-image-6708" title="Laguna Colorada - Bolívia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Laguna-Colorada-Bolivia.jpg" alt="" width="600" height="415" /></a><br /> **<a href="http://casosecoisasdabonfa.blogspot.com/2010/12/resumao-das-ferias-no-deserto-do.html" target="_blank">Laguna Colorada na Bolívia</a>**
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Parque-Vigeland-Oslo-Noruega.jpg"><img class="alignnone size-full wp-image-6711" title="Parque Vigeland - Oslo - Noruega" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Parque-Vigeland-Oslo-Noruega.jpg" alt="" width="545" height="409" /></a><br /> <strong>Parque Vigeland em Oslo, Noruega (2008)</strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Parque-Vigeland-Oslo-Noruega.jpg"><img class="alignnone size-full wp-image-6711" title="Parque Vigeland - Oslo - Noruega" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Parque-Vigeland-Oslo-Noruega.jpg" alt="" width="545" height="409" /></a><br /> **Parque Vigeland em Oslo, Noruega (2008)**
 </p>
 
 &nbsp;
@@ -72,7 +72,7 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg"><img class="alignnone size-full wp-image-6712" title="Sidi Bou Said - Mar Mediterrâneo - Tunísia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg" alt="" width="545" height="366" /><br /> </a><strong><a href="http://casosecoisasdabonfa.blogspot.com/2009/10/minha-primeira-viagem-africa-tunisia.html" target="_blank">Sidi Bou Said e o Mar Mediterrâneo ao fundo, Tunísia (2007)</a></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg"><img class="alignnone size-full wp-image-6712" title="Sidi Bou Said - Mar Mediterrâneo - Tunísia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Sidi-Bou-Said-Mar-Mediterraneo-Tuninia.jpg" alt="" width="545" height="366" /><br /> </a>**<a href="http://casosecoisasdabonfa.blogspot.com/2009/10/minha-primeira-viagem-africa-tunisia.html" target="_blank">Sidi Bou Said e o Mar Mediterrâneo ao fundo, Tunísia (2007)</a>**
 </p>
 
 > <p align="justify">
@@ -80,45 +80,45 @@ Sempre que marido e eu pensamos sobre qual lugar conhecer na **próxima viagem**
 > </p>
 
 <p align="justify">
-  <strong>Mais no Bicha Fêmea…</strong>
+  **Mais no Bicha Fêmea…**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/06/15/intercambio/">Você receberia em casa um estrangeiro que nunca viu?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/06/15/intercambio/">Você receberia em casa um estrangeiro que nunca viu?</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/">Suas finanças pessoais estão no azul ou no vermelho?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/">Suas finanças pessoais estão no azul ou no vermelho?</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2011/01/17/um-dia-so-para-mim%e2%80%a6/">Um dia só para mim…</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/01/17/um-dia-so-para-mim%e2%80%a6/">Um dia só para mim…</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/12/08/o-que-e-a-blogosfera/">O que é a blogosfera? Que é que você está fazendo nela?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/12/08/o-que-e-a-blogosfera/">O que é a blogosfera? Que é que você está fazendo nela?</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/">Chá ou café da tarde com amigas: dicas e ideias</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/">Chá ou café da tarde com amigas: dicas e ideias</a>**
 </p>
 
 <p align="center">
-  <strong><em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> </em></strong>
+  **<em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> </em>**
 </p>
 
 <p align="center">
-  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p align="center">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p align="center">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>

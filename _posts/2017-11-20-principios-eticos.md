@@ -1,7 +1,7 @@
 ---
-id: 3832
+
 title: Veja 5 princípios éticos básicos e universais para bem viver.
-date: 2017-11-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/20/principios-eticos/
@@ -12,11 +12,11 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  É bom que tenhamos tendências de pensamento, e comportamentos, que façam com que a gente se sinta bem, plena, tranquila… mas nem sempre isso acontece. Refletir sobre <strong>princípios éticos </strong>básicos, universais e sem associação religiosa, pode nos dar pistas de como desenvolver autoconhecimento e melhorar nossa evolução como pessoas.
+  É bom que tenhamos tendências de pensamento, e comportamentos, que façam com que a gente se sinta bem, plena, tranquila… mas nem sempre isso acontece. Refletir sobre **princípios éticos **básicos, universais e sem associação religiosa, pode nos dar pistas de como desenvolver autoconhecimento e melhorar nossa evolução como pessoas.
 </p>
 
 <p align="justify">
-  Veja a seguir o que <strong>Paula Elisa</strong>, <strong>Professora de Yoga em Rio do Sul e região – SC</strong>, traz como reflexão, considerando alguns aspectos que podemos observar no dia a dia, e trabalhar na mudança de alguns padrões de pensamentos, e comportamentais, a fim de colher frutos diários. Os resultados e benefícios apontam para boas sensações de paz e bem-estar. Confira!
+  Veja a seguir o que **Paula Elisa**, **Professora de Yoga em Rio do Sul e região – SC**, traz como reflexão, considerando alguns aspectos que podemos observar no dia a dia, e trabalhar na mudança de alguns padrões de pensamentos, e comportamentais, a fim de colher frutos diários. Os resultados e benefícios apontam para boas sensações de paz e bem-estar. Confira!
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>1 . Sauca – Pureza interna e externa</strong></em>
+  <em>**1 . Sauca – Pureza interna e externa**</em>
 </p>
 
 <p align="justify">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>2 . Santosha – Contentamento/Satisfação</strong> </em>
+  <em>**2 . Santosha – Contentamento/Satisfação** </em>
 </p>
 
 <p align="justify">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>3. Tapas – Esforço sobre si mesmo, uso disciplinado da nossa energia, auto esforço, purificação, austeridade</strong></em>
+  <em>**3. Tapas – Esforço sobre si mesmo, uso disciplinado da nossa energia, auto esforço, purificação, austeridade**</em>
 </p>
 
 <p align="justify">
@@ -80,7 +80,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>4 . Svadhyaya &#8211; O estudo de si mesmo</strong></em>
+  <em>**4 . Svadhyaya &#8211; O estudo de si mesmo**</em>
 </p>
 
 <p align="justify">
@@ -96,7 +96,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>5 &#8211; Isvarapranidhana – Entrega a Deus</strong> </em>
+  <em>**5 &#8211; Isvarapranidhana – Entrega a Deus** </em>
 </p>
 
 <p align="justify">
@@ -120,23 +120,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais de Paula Elisa no Trololó de Mulher:</strong>
+  **Mais de Paula Elisa no Trololó de Mulher:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/16/vida-em-equilibrio/" target="_blank"><strong>Adote sábias atitudes para uma vida em equilíbrio.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/16/vida-em-equilibrio/" target="_blank">**Adote sábias atitudes para uma vida em equilíbrio.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank"><strong>Quer melhorar a sua prática de meditação? Faça Yoga!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/21/meditacao/" target="_blank">**Quer melhorar a sua prática de meditação? Faça Yoga!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank"><strong>O que a meditação pode fazer por seu bem-estar e saúde?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank">**O que a meditação pode fazer por seu bem-estar e saúde?**</a>
 </p>
 
 <p align="justify">
-  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo <strong>Namastê Yoga Blog</strong>, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta! No Instagram suas atualizações ocorrem no <a href="https://www.instagram.com/espaconamasteyoga/" target="_blank">perfil Espaço Namastê Yoga. Clique aqui e siga</a>!
+  Paula edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo **Namastê Yoga Blog**, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta! No Instagram suas atualizações ocorrem no <a href="https://www.instagram.com/espaconamasteyoga/" target="_blank">perfil Espaço Namastê Yoga. Clique aqui e siga</a>!
 </p>
 
 <p align="center">

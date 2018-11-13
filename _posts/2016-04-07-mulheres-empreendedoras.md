@@ -1,7 +1,7 @@
 ---
-id: 3584
+
 title: Veja dicas de 5 mulheres empreendedoras e saia do lugar!
-date: 2016-04-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/07/mulheres-empreendedoras/
@@ -13,11 +13,11 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  Você decidiu que quer fazer carreira solo, colocando em prática o trabalho que te inspira, te move, pelo qual você é apaixonada. Você obeserva a carreira de <strong>mulheres empreendedoras</strong>, percebe que elas estão em movimento e olha para a sua: sente-se estagnada? Pensa que talvez não tenha feito boas escolhas mas não sabe direito como corrigir? Calma! Dúvidas, quem não as tem? Este post foi pensado para te ajudar a alavancar a sua carreira, fazê-la sair do lugar de alguma forma. Para atingir seu objetivo, bonita, querer não é suficiente. É preciso se mover! Mas, para que esse movimento ocorra na direção certa, convidei mulheres incríveis e super competentes em suas diferentes áreas de atuação, e perguntei:
+  Você decidiu que quer fazer carreira solo, colocando em prática o trabalho que te inspira, te move, pelo qual você é apaixonada. Você obeserva a carreira de **mulheres empreendedoras**, percebe que elas estão em movimento e olha para a sua: sente-se estagnada? Pensa que talvez não tenha feito boas escolhas mas não sabe direito como corrigir? Calma! Dúvidas, quem não as tem? Este post foi pensado para te ajudar a alavancar a sua carreira, fazê-la sair do lugar de alguma forma. Para atingir seu objetivo, bonita, querer não é suficiente. É preciso se mover! Mas, para que esse movimento ocorra na direção certa, convidei mulheres incríveis e super competentes em suas diferentes áreas de atuação, e perguntei:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Qual sua dica, a que você considera bastante importante, para que a carreira de uma empreendedora (na sua área) saia do lugar?</span></strong>
+  **<span style="font-size: large;">Qual sua dica, a que você considera bastante importante, para que a carreira de uma empreendedora (na sua área) saia do lugar?</span>**
 </p>
 
 <p align="justify">
@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Luciana Ratis</strong> é <strong>Criativa Empreendedora</strong> dona da <a href="http://dalulojinha.divitae.com.br/home" target="_blank">Dalu Lojinha</a>, uma loja virtual especializada em papelaria de festa e para demais ocasiões especiais.
+  **Luciana Ratis** é **Criativa Empreendedora** dona da <a href="http://dalulojinha.divitae.com.br/home" target="_blank">Dalu Lojinha</a>, uma loja virtual especializada em papelaria de festa e para demais ocasiões especiais.
 </p>
 
 <p align="justify">
@@ -65,7 +65,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Regiane Yuki Sabanai</strong> é <strong>Arquiteta</strong>, criadora do <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a>, que atua no mercado de arquitetura e interiores  desde 1996, desenvolvendo projetos que buscam alternativas viáveis para promover o bem estar dos clientes.
+  **Regiane Yuki Sabanai** é **Arquiteta**, criadora do <a href="http://www.studiorys.com/crbst_0.html" target="_blank">Studio Rys</a>, que atua no mercado de arquitetura e interiores  desde 1996, desenvolvendo projetos que buscam alternativas viáveis para promover o bem estar dos clientes.
 </p>
 
 <p align="justify">
@@ -77,7 +77,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Márcia Damasceno</strong> é <strong>Maquiadora</strong> e está a frente do projeto <a href="http://www.marciadamasceno.com.br/" target="_blank">Maquiagem Não é Tudo</a>, onde cuida de mulheres. Seu trabalho é desenvolvido através de maquiagens, cursos, consultorias, workshops, palestras e muito mais.
+  **Márcia Damasceno** é **Maquiadora** e está a frente do projeto <a href="http://www.marciadamasceno.com.br/" target="_blank">Maquiagem Não é Tudo</a>, onde cuida de mulheres. Seu trabalho é desenvolvido através de maquiagens, cursos, consultorias, workshops, palestras e muito mais.
 </p>
 
 <p align="justify">
@@ -145,7 +145,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Liliane Benatti</strong> é <strong>Coach</strong> no projeto <a href="http://www.despertarvoce.com.br/" target="_blank">Despertar Você</a>, onde oferece o serviço de coaching e treinamentos para o desenvolvimento e excelência humana através da PNL.
+  **Liliane Benatti** é **Coach** no projeto <a href="http://www.despertarvoce.com.br/" target="_blank">Despertar Você</a>, onde oferece o serviço de coaching e treinamentos para o desenvolvimento e excelência humana através da PNL.
 </p>
 
 <p align="justify">
@@ -157,7 +157,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Dra. Livia A. Vieira</strong> é <strong>Ginecologista e Obstetra</strong>, e atende em São José do Rio Preto. Mantém <a href="http://www.liviaavieira.com/" target="_blank">site</a> e <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank">fanpage</a>, onde compartilha conteúdo sobre suas áreas de atuação: Saúde da mulher, Ginecologia, Pré natal, Estética genital, Sexualidade Feminina, Uroginecologia e Endoscopia ginecológica.
+  **Dra. Livia A. Vieira** é **Ginecologista e Obstetra**, e atende em São José do Rio Preto. Mantém <a href="http://www.liviaavieira.com/" target="_blank">site</a> e <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank">fanpage</a>, onde compartilha conteúdo sobre suas áreas de atuação: Saúde da mulher, Ginecologia, Pré natal, Estética genital, Sexualidade Feminina, Uroginecologia e Endoscopia ginecológica.
 </p>
 
 <p align="justify">

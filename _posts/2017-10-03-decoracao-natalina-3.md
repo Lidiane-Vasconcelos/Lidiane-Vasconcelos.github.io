@@ -1,7 +1,7 @@
 ---
-id: 3810
+
 title: 3 ideias cheias de charme para sua decoração natalina.
-date: 2017-10-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/03/decoracao-natalina-3/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  As ideias de <strong>decoração natalina</strong> estão fervilhando pela <em>internet</em>, e eu <em>amoooo</em> ver sugestões inusitadas, diferentes, charmosas e bem fáceis de reproduzir. Neste post eu compartilho com você três achados que preenchem esses requisitos e, tenho certeza, você vai amar e ficar toda ansiosa para reproduzir alguma delas… ou será todas?
+  As ideias de **decoração natalina** estão fervilhando pela <em>internet</em>, e eu <em>amoooo</em> ver sugestões inusitadas, diferentes, charmosas e bem fáceis de reproduzir. Neste post eu compartilho com você três achados que preenchem esses requisitos e, tenho certeza, você vai amar e ficar toda ansiosa para reproduzir alguma delas… ou será todas?
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank">**Clique aqui e confira**</a>!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3493
+
 title: Bolo de maçã sem glúten
-date: 2015-09-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/30/bolo-de-maca-sem-gluten/
@@ -13,7 +13,7 @@ categories:
   <div class="body">
     <div id="f5717c45-1423-4abd-bc5f-2e8a23d32846" class="postBody" style="margin: 4px 0px 0px; border-width: 0px; padding: 0px;" contenteditable="true">
       <p style="text-align: justify;" align="justify">
-        Cheirinho de bolo assando em casa é tudo que há. Bolo é daquelas comidinhas reconfortantes, e não é por causa de uma intolerância que você ou alguém que você ama tenha que esse carinho não vai tomar conta do seu lar. Confira a dica de receita saudável da Carol e deixe o aroma desse <strong>bolo de maçã sem glúten</strong> se espalhar em sua casa. Você e sua família merecem!
+        Cheirinho de bolo assando em casa é tudo que há. Bolo é daquelas comidinhas reconfortantes, e não é por causa de uma intolerância que você ou alguém que você ama tenha que esse carinho não vai tomar conta do seu lar. Confira a dica de receita saudável da Carol e deixe o aroma desse **bolo de maçã sem glúten** se espalhar em sua casa. Você e sua família merecem!
       </p>
       
       <p align="center">
@@ -21,7 +21,7 @@ categories:
       </p>
       
       <p align="justify">
-        <strong>Ingredientes:</strong>
+        **Ingredientes:**
       </p>
       
       <p align="justify">
@@ -73,7 +73,7 @@ categories:
       </p>
       
       <p align="justify">
-        <strong>Antes de começar, já préaqueça o forno a 200 graus.<br /> </strong>
+        **Antes de começar, já préaqueça o forno a 200 graus.<br /> **
       </p>
       
       <p align="justify">
@@ -81,7 +81,7 @@ categories:
       </p>
       
       <p align="justify">
-        <strong>Montagem:</strong>
+        **Montagem:**
       </p>
       
       <p align="justify">
@@ -97,23 +97,23 @@ categories:
       </p>
       
       <p align="justify">
-        <strong>Mais receitas da Carol:</strong>
+        **Mais receitas da Carol:**
       </p>
       
       <p align="justify">
-        <strong><a href="http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/" target="_blank">Purê de ervilha: bonito, saudável e nutritivo</a></strong>
+        **<a href="http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/" target="_blank">Purê de ervilha: bonito, saudável e nutritivo</a>**
       </p>
       
       <p align="justify">
-        <strong><a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank">Saint peter ao forno ao molho de abóbora</a></strong>
+        **<a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank">Saint peter ao forno ao molho de abóbora</a>**
       </p>
       
       <p align="justify">
-        <strong><a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café: porque merecemos!</a></strong>
+        **<a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café: porque merecemos!</a>**
       </p>
       
       <p align="justify">
-        Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+        Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
       </p>
       
       <p align="center">

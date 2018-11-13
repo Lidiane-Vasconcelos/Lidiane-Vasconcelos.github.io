@@ -1,7 +1,7 @@
 ---
-id: 2785
+
 title: O peso ideal é aquele que se sente bem …
-date: 2010-03-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/01/emagrecimento-saudavel/
@@ -13,15 +13,15 @@ categories:
 ---
 <p style="text-align: center;">
   <div style="text-align: center;">
-    <strong><em><span style="font-size: small;">O peso ideal é aquele que se sente bem …</span></em></strong>
+    **<em><span style="font-size: small;">O peso ideal é aquele que se sente bem …</span></em>**
   </div>
   
   <div>
-    <strong><em><span style="font-size: small;"> </span></em></strong>
+    **<em><span style="font-size: small;"> </span></em>**
   </div>
   
   <div>
-    <strong><em><span style="font-size: small;"> </span></em></strong>
+    **<em><span style="font-size: small;"> </span></em>**
   </div>
   
   <div style="text-align: justify;">
@@ -34,7 +34,7 @@ categories:
     </div>
     
     <div>
-      <em><span style="font-size: small;"><strong><!--more--></strong></span></em>
+      <em><span style="font-size: small;">**<!--more-->**</span></em>
     </div>
     
     <div>
@@ -89,9 +89,9 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <strong><em><a href="http://www.trololodemulher.com.br/2010/05/21/auto-estima-confianca-mulher/" target="_self">Você é confiante?</a></em></strong>
+        **<em><a href="http://www.trololodemulher.com.br/2010/05/21/auto-estima-confianca-mulher/" target="_self">Você é confiante?</a></em>**
       </p>
       
       <p style="text-align: justify;">
-        <strong><em><a href="http://www.trololodemulher.com.br/2010/05/03/auto-estim/" target="_self">Como sentir-se confiante.</a></em></strong>
+        **<em><a href="http://www.trololodemulher.com.br/2010/05/03/auto-estim/" target="_self">Como sentir-se confiante.</a></em>**
       </p>

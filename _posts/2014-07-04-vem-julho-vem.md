@@ -1,7 +1,7 @@
 ---
-id: 3319
+
 title: E o segundo semestre chegou! Vem, Julho, vem!
-date: 2014-07-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/04/vem-julho-vem/
@@ -20,7 +20,7 @@ E Julho chegou, bonita! Coisa boa, não é? Entramos no segundo semestre num pis
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;">Posts campeões de audiência…</span></strong>
+  **<span style="font-size: small;">Posts campeões de audiência…</span>**
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ E Julho chegou, bonita! Coisa boa, não é? Entramos no segundo semestre num pis
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Consultores do Mês…</span></strong>
+  **<span style="font-size: small;">Consultores do Mês…</span>**
 </p>
 
 &nbsp;
@@ -58,41 +58,41 @@ E Julho chegou, bonita! Coisa boa, não é? Entramos no segundo semestre num pis
 &nbsp;
 
 <p align="justify">
-  1 – <strong>Joice Fogassi é Esteticista Facial e Maquiadora</strong>. Edita o <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">blog que leva seu nome</a> e prestou consultoria no post > <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank">Você sabe tudo que precisa sobre batom?</a>
+  1 – **Joice Fogassi é Esteticista Facial e Maquiadora**. Edita o <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">blog que leva seu nome</a> e prestou consultoria no post > <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank">Você sabe tudo que precisa sobre batom?</a>
 </p>
 
 <p align="justify">
-  2 – <strong>Geisa Machado</strong> <strong>é Psicanalista</strong>. Edita o blog > <a href="http://geisamachado.blogspot.com.br/" target="_blank">A força e a beleza de ser mulher</a>. Sua consultoria pode ser vista no post > <a href="http://www.trololodemulher.com.br/2014/06/04/felicidade-mitos/" target="_blank">3 “verdades” duvidosas que minam sua vida: fuja disso já!</a>
+  2 – **Geisa Machado** **é Psicanalista**. Edita o blog > <a href="http://geisamachado.blogspot.com.br/" target="_blank">A força e a beleza de ser mulher</a>. Sua consultoria pode ser vista no post > <a href="http://www.trololodemulher.com.br/2014/06/04/felicidade-mitos/" target="_blank">3 “verdades” duvidosas que minam sua vida: fuja disso já!</a>
 </p>
 
 <p align="justify">
-  3 – <strong>Dra. Ingrid Seiler Prior</strong> <strong>é Nutricionista</strong>. Edita o <a href="http://www.nutricionistaingrid.com.br/" target="_blank">blog que tem seu nome</a> e a <a href="https://www.facebook.com/nutri.ingrid.prior" target="_blank">página no Facebook</a>. Sua consultoria foi dada no post > <a href="http://www.trololodemulher.com.br/2014/06/09/alimentos-enriquecidos/" target="_blank">Cálcio, fibras, probióticos, ômega-3: quanto mais, melhor?</a>
+  3 – **Dra. Ingrid Seiler Prior** **é Nutricionista**. Edita o <a href="http://www.nutricionistaingrid.com.br/" target="_blank">blog que tem seu nome</a> e a <a href="https://www.facebook.com/nutri.ingrid.prior" target="_blank">página no Facebook</a>. Sua consultoria foi dada no post > <a href="http://www.trololodemulher.com.br/2014/06/09/alimentos-enriquecidos/" target="_blank">Cálcio, fibras, probióticos, ômega-3: quanto mais, melhor?</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">O que as leitoras falam?</span></strong>
+  **<span style="font-size: small;">O que as leitoras falam?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Oi, Lidi ! Que show de delicadeza nas belas caixas! Gostei muito da sugestão com a cesta de palha para organizar os recipientes para azeite, vinagre, etc. “Bicha Fêmea” é demais !!!! Um abração” <strong>Cirlei em </strong><a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
+>   Oi, Lidi ! Que show de delicadeza nas belas caixas! Gostei muito da sugestão com a cesta de palha para organizar os recipientes para azeite, vinagre, etc. “Bicha Fêmea” é demais !!!! Um abração” **Cirlei em **<a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">**Caixas: 5 soluções de organização da casa.**</a>
 > </p>
 
 > <p align="justify">
->   Lidi, querida! Que postagem fofa…adoro produto artesanal, também não podia ser diferente né? Tudo lindo e bem feito, temos que valorizar mais o artesanato…venho conhecendo tantas páginas de mulheres e homens com tanto talento,é maravilhoso isso! Beijusss <3” <strong>Rosa Trindade Cavalcanti | </strong><a href="http://pensecrie.wordpress.com/" target="_blank"><strong>Pense Crie</strong></a><strong> em </strong><a href="http://www.trololodemulher.com.br/2014/06/10/presente-criativo-artesanal/" target="_blank"><strong>Presentes criativos, feitos á mão: todo mundo gosta!</strong></a>
+>   Lidi, querida! Que postagem fofa…adoro produto artesanal, também não podia ser diferente né? Tudo lindo e bem feito, temos que valorizar mais o artesanato…venho conhecendo tantas páginas de mulheres e homens com tanto talento,é maravilhoso isso! Beijusss <3” **Rosa Trindade Cavalcanti | **<a href="http://pensecrie.wordpress.com/" target="_blank">**Pense Crie**</a>** em **<a href="http://www.trololodemulher.com.br/2014/06/10/presente-criativo-artesanal/" target="_blank">**Presentes criativos, feitos á mão: todo mundo gosta!**</a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Quer conferir tudo o que rolou no mês de Junho? </span></strong><a href="http://www.trololodemulher.com.br/2014/06/" target="_blank"><strong><span style="font-size: small;">Clique aqui</span></strong></a><strong><span style="font-size: small;">!</span></strong>
+  **<span style="font-size: small;">Quer conferir tudo o que rolou no mês de Junho? </span>**<a href="http://www.trololodemulher.com.br/2014/06/" target="_blank">**<span style="font-size: small;">Clique aqui</span>**</a>**<span style="font-size: small;">!</span>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">O que vem por aí no mês de Julho?</span></strong>
+  **<span style="font-size: small;">O que vem por aí no mês de Julho?</span>**
 </p>
 
 &nbsp;
@@ -102,7 +102,7 @@ E Julho chegou, bonita! Coisa boa, não é? Entramos no segundo semestre num pis
 </p>
 
 <p align="center">
-  <strong>Comida boa, bonita e saudável: você verá por aqui.</strong>
+  **Comida boa, bonita e saudável: você verá por aqui.**
 </p>
 
 &nbsp;
@@ -118,7 +118,7 @@ E Julho chegou, bonita! Coisa boa, não é? Entramos no segundo semestre num pis
 </p>
 
 <p align="center">
-  <strong>3 ideias de decoração para quintal ou jardim.</strong>
+  **3 ideias de decoração para quintal ou jardim.**
 </p>
 
 &nbsp;
@@ -136,7 +136,7 @@ E Julho chegou, bonita! Coisa boa, não é? Entramos no segundo semestre num pis
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Aguarde!!!</span></strong>
+  **<span style="font-size: small;">Aguarde!!!</span>**
 </p>
 
 &nbsp;
@@ -148,7 +148,7 @@ E Julho chegou, bonita! Coisa boa, não é? Entramos no segundo semestre num pis
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

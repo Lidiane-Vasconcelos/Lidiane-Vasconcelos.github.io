@@ -1,7 +1,7 @@
 ---
-id: 3575
+
 title: 'Decoração com composições: veja 13 dicas e faça a sua!'
-date: 2016-04-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/01/decoracao-com-composicoes/
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank"><strong>Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank">**Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!**</a>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  Faça uma <strong>composição com quadros de molduras iguais e gravuras similares</strong>. Escolha <strong>molduras</strong> com um tamanho razoável de modo que <strong>posicionadas lado a lado</strong> na composição, passem a impressão de um <strong>único painel que tem a largura de sua cama</strong>. Viu que bonito o efeito final? Fica a dica para preencher de uma vez por todas a parede de sua cabeceira…
+  Faça uma **composição com quadros de molduras iguais e gravuras similares**. Escolha **molduras** com um tamanho razoável de modo que **posicionadas lado a lado** na composição, passem a impressão de um **único painel que tem a largura de sua cama**. Viu que bonito o efeito final? Fica a dica para preencher de uma vez por todas a parede de sua cabeceira…
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  Está aí uma ideia para as arteiras que gostam de colocar “a mão na massa” no melhor estilo da decoração “faça você mesma”: quadros de MDF do tipo cenário pintados <strong>+</strong> revestimento do fundo do quadro com tecidos de estampas variadas <strong>+</strong> pratos de melamina colados no quadro <strong>= composição estilosa para a sala de jantar</strong>. Gostou da ideia, bonita? Ficou inspirada? Se joga!
+  Está aí uma ideia para as arteiras que gostam de colocar “a mão na massa” no melhor estilo da decoração “faça você mesma”: quadros de MDF do tipo cenário pintados **+** revestimento do fundo do quadro com tecidos de estampas variadas **+** pratos de melamina colados no quadro **= composição estilosa para a sala de jantar**. Gostou da ideia, bonita? Ficou inspirada? Se joga!
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quer ideia mais simples e de grande efeito que essa? Invista num <strong>conjunto de espelhos com formatos diferentes</strong> e monte uma super composição na parede. E se seu espaço é pequeno, melhor ainda! Já ouviu falar na dica clássica de decoração que recomenda o uso de espelhos em ambientes pequenos? Vá em frente!
+  Quer ideia mais simples e de grande efeito que essa? Invista num **conjunto de espelhos com formatos diferentes** e monte uma super composição na parede. E se seu espaço é pequeno, melhor ainda! Já ouviu falar na dica clássica de decoração que recomenda o uso de espelhos em ambientes pequenos? Vá em frente!
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ categories:
 </p>
 
 <p align="justify">
-  Olha que ideia bacana e simples: <strong>fotos impressas em preto e branco + molduras iguais + fotos sobre fundos de cores diferentes</strong>. Escolha como quer dispor os elementos na parede… e pronto! Fala para mim se o resultado não é lindo de viver e digno de elogios?!
+  Olha que ideia bacana e simples: **fotos impressas em preto e branco + molduras iguais + fotos sobre fundos de cores diferentes**. Escolha como quer dispor os elementos na parede… e pronto! Fala para mim se o resultado não é lindo de viver e digno de elogios?!
 </p>
 
 <p align="center">
@@ -178,7 +178,7 @@ categories:
 </p>
 
 <p align="justify">
-  Escolha um <strong>adesivo de parede com formato de árvore</strong> para receber a foto de seus  queridos e<strong> personalize sua árvore familiar</strong>…
+  Escolha um **adesivo de parede com formato de árvore** para receber a foto de seus  queridos e** personalize sua árvore familiar**…
 </p>
 
 <p align="center">

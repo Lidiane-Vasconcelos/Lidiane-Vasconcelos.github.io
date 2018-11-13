@@ -1,7 +1,7 @@
 ---
-id: 3213
+
 title: Eu disse que voltava, não disse?
-date: 2013-05-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/01/eu-disse-que-voltava-nao-disse/

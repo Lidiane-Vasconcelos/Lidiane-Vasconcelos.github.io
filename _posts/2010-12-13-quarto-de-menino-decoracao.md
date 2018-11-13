@@ -1,7 +1,7 @@
 ---
-id: 2919
+
 title: 'Quarto de menino: decoração que acompanha o crescimento dele…'
-date: 2010-12-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/13/quarto-de-menino-decoracao/
@@ -31,15 +31,15 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
 </p>
 
 <p style="text-align: justify;">
-  Olhe para o ambiente. Note que <strong>o verde tem uma boa dose de vivacidade que as cores proporcionam aos olhos, mas é neutro o suficiente para dar a ideia de “pano de fundo” para os detalhes de cor dos móveis e objetos</strong>. <strong>Tem cor no ambiente, mas definitivamente o espaço não é colorido</strong>. É mais ou menos disso que você precisa, não é?
+  Olhe para o ambiente. Note que **o verde tem uma boa dose de vivacidade que as cores proporcionam aos olhos, mas é neutro o suficiente para dar a ideia de “pano de fundo” para os detalhes de cor dos móveis e objetos**. **Tem cor no ambiente, mas definitivamente o espaço não é colorido**. É mais ou menos disso que você precisa, não é?
 </p>
 
 <p style="text-align: justify;">
-  O quarto pode ganhar <strong>um tapete bonito e confortável</strong> para ser colocado estrategicamente num local dedicado a brincadeira. É lá onde jogos e quebra-cabeças poderão ser usados, e onde histórias poderão ser ouvidas. <strong>Almofadões</strong> podem ser usados sobre o tapete para dar conforto na hora da leitura dos gibis…
+  O quarto pode ganhar **um tapete bonito e confortável** para ser colocado estrategicamente num local dedicado a brincadeira. É lá onde jogos e quebra-cabeças poderão ser usados, e onde histórias poderão ser ouvidas. **Almofadões** podem ser usados sobre o tapete para dar conforto na hora da leitura dos gibis…
 </p>
 
 <p style="text-align: justify;">
-  Reserve um espaço no quarto para <strong>uma pequena mesa com cadeiras, somadas a um quadro negro</strong>, a fim de estimular esse canto para o estudo e criatividade. Além do mais, olhe atentamente para o ambiente: o que mais você pode reproduzir nos domínios do seu garoto?
+  Reserve um espaço no quarto para **uma pequena mesa com cadeiras, somadas a um quadro negro**, a fim de estimular esse canto para o estudo e criatividade. Além do mais, olhe atentamente para o ambiente: o que mais você pode reproduzir nos domínios do seu garoto?
 </p>
 
 <p style="text-align: center;">
@@ -47,7 +47,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
 </p>
 
 <p style="text-align: justify;">
-  Que tal a ideia de colocar algum <strong>banco com formato divertido, e de cor igualmente alegre</strong>, para servir de apoio para um objeto inusitado e que estimule a imaginação como, por exemplo, um globo terrestre?
+  Que tal a ideia de colocar algum **banco com formato divertido, e de cor igualmente alegre**, para servir de apoio para um objeto inusitado e que estimule a imaginação como, por exemplo, um globo terrestre?
 </p>
 
 <p style="text-align: justify;">
@@ -55,11 +55,11 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
 </p>
 
 <p style="text-align: justify;">
-  Não é apenas um menino que você tem? E o espaço não é lá essas coisas? Tire vantagem do <strong>beliche</strong>, mulher! Modelos disponíveis existem dos mais diversos, e ninguém pode negar o quanto há de praticidade numa escolha assim, não é verdade? Inspire-se!
+  Não é apenas um menino que você tem? E o espaço não é lá essas coisas? Tire vantagem do **beliche**, mulher! Modelos disponíveis existem dos mais diversos, e ninguém pode negar o quanto há de praticidade numa escolha assim, não é verdade? Inspire-se!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Sugestões de mimos decorativos para o quarto do pequeno…</em></strong>
+  **<em>Sugestões de mimos decorativos para o quarto do pequeno…</em>**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -74,7 +74,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">Móbile Bike</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">Móbile Bike</a>** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
   </tr>
@@ -86,7 +86,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
       </p>
       
       <p style="text-align: justify;">
-        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a>** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
     
@@ -121,7 +121,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
             </p>
             
             <p style="text-align: justify;">
-              <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank"><strong><em>Porta Fotografia Lembranças da Praia</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>><strong> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">basta clicar</a></strong>!</em>
+              <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">**<em>Porta Fotografia Lembranças da Praia</em>**</a><em> está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">basta clicar</a>**!</em>
             </p>
           </td></tr> </tbody> </table> 
           
@@ -130,29 +130,29 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
           </p>
           
           <p>
-            <strong>Mais no Bicha Fêmea…</strong>
+            **Mais no Bicha Fêmea…**
           </p>
           
           <p>
-            <strong><em><a href="http://www.trololodemulher.com.br/2010/08/16/decoracao-quarto-infantil/">Pitacos de bicha fêmea: decoração para quarto infantil.</a></em></strong>
+            **<em><a href="http://www.trololodemulher.com.br/2010/08/16/decoracao-quarto-infantil/">Pitacos de bicha fêmea: decoração para quarto infantil.</a></em>**
           </p>
           
           <p>
-            <strong><em><a href="http://www.trololodemulher.com.br/2010/06/16/decoracao-quarto-menino/">Pitacos de bicha fêmea: quarto de menino.</a></em></strong>
+            **<em><a href="http://www.trololodemulher.com.br/2010/06/16/decoracao-quarto-menino/">Pitacos de bicha fêmea: quarto de menino.</a></em>**
           </p>
           
           <p>
-            <strong><em><a href="http://www.trololodemulher.com.br/2010/04/22/decoracao-quarto-mae-e-filho/">Pitacos de bicha fêmea: decoração para quarto de mãe e filho.</a></em></strong>
+            **<em><a href="http://www.trololodemulher.com.br/2010/04/22/decoracao-quarto-mae-e-filho/">Pitacos de bicha fêmea: decoração para quarto de mãe e filho.</a></em>**
           </p>
           
           <p style="text-align: center;">
-            Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a>> Quarto de menino: decoração que acompanha o crescimento dele…
+            Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>> Quarto de menino: decoração que acompanha o crescimento dele…
           </p>
           
           <p style="text-align: center;">
-            Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+            Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
           </p>
           
           <p style="text-align: center;">
-            <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+            **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
           </p>

@@ -1,7 +1,7 @@
 ---
-id: 3287
+
 title: Decoração bonita, aconchegante e econômica… como?
-date: 2014-03-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/20/decoracao-economica/
@@ -24,7 +24,7 @@ Com o coração aberto para enxergar beleza na simplicidade, é isso! Quem preci
 </p>
 
 <p align="center">
-  <strong><span style="font-size: small;">Eu curti</span></strong>: quadros com imagens que podem sair de uma revista (por que não?) + vidros reaproveitados como vasos + corte de tecido simples como passadeira.
+  **<span style="font-size: small;">Eu curti</span>**: quadros com imagens que podem sair de uma revista (por que não?) + vidros reaproveitados como vasos + corte de tecido simples como passadeira.
 </p>
 
 &nbsp;
@@ -34,19 +34,19 @@ Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Garden
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
+  **<span style="font-size: small;">Muito mais para você:</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/"><strong><span style="font-size: small;">Decoração barata: casa de Rejane</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/">**<span style="font-size: small;">Decoração barata: casa de Rejane</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/"><strong><span style="font-size: small;">Meus pitacos de decoração baratinha no escritório da Maria</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/">**<span style="font-size: small;">Meus pitacos de decoração baratinha no escritório da Maria</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-4/" target="_blank"><strong><span style="font-size: small;">Inove na decoração do seu quarto sem sair do orçamento</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-4/" target="_blank">**<span style="font-size: small;">Inove na decoração do seu quarto sem sair do orçamento</span>**</a>
 </p>
 
 &nbsp;
@@ -58,7 +58,7 @@ Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Garden
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

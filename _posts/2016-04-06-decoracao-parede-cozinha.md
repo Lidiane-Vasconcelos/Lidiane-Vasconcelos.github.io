@@ -1,7 +1,7 @@
 ---
-id: 3583
+
 title: 'Pôster grátis: decoração da parede da cozinha com frutas!'
-date: 2016-04-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/06/decoracao-parede-cozinha/
@@ -31,15 +31,15 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-cozinha-3/" target="_blank">Nem toda mudança na decoração da cozinha exige muitos gastos.</a></strong>
+  **<a href="http://www.decoracaodacasa.com/decoracao-cozinha-3/" target="_blank">Nem toda mudança na decoração da cozinha exige muitos gastos.</a>**
 </p>
 
 <p style="text-align: justify;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-cozinha-3/" target="_blank">Para dar uma repaginada na decoração da cozinha é simples.</a></strong>
+  **<a href="http://www.decoracaodacasa.com/decoracao-cozinha-3/" target="_blank">Para dar uma repaginada na decoração da cozinha é simples.</a>**
 </p>
 
 <p align="center">

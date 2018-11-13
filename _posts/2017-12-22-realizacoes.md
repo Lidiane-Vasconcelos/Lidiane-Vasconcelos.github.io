@@ -1,7 +1,7 @@
 ---
-id: 3847
+
 title: Que 2018 tenha, para você, gosto de realizações!
-date: 2017-12-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/22/realizacoes/
@@ -10,7 +10,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Mais um ano que vai embora, e outro novinho em folha chegando para todos nós. Que alegria! É sempre tão bom recomeçar, não é? Fico muito feliz de sabê-la aí, do outro lado, lendo e acompanhando o meu trabalho no Trololó de Mulher. Quero que saiba que fui bastante feliz em 2017 por isso, e na busca por oferecer o melhor, tenho sentido o gosto bom das <strong>realizações</strong>.
+  Mais um ano que vai embora, e outro novinho em folha chegando para todos nós. Que alegria! É sempre tão bom recomeçar, não é? Fico muito feliz de sabê-la aí, do outro lado, lendo e acompanhando o meu trabalho no Trololó de Mulher. Quero que saiba que fui bastante feliz em 2017 por isso, e na busca por oferecer o melhor, tenho sentido o gosto bom das **realizações**.
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3450
+
 title: É julho…ops!…é Verão na Finlândia!
-date: 2015-07-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/24/verao-na-finlandia-2/
@@ -19,15 +19,15 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em><strong>Depois de alguns meses morando na Finlândia, percebi que aqui tem duas estações: Julho e o Inverno. Agora estamos em julho, ou melhor, no Verão. =)</strong></em>
+>   “<em>**Depois de alguns meses morando na Finlândia, percebi que aqui tem duas estações: Julho e o Inverno. Agora estamos em julho, ou melhor, no Verão. =)**</em>
 > </p>
 > 
 > <p align="justify">
->   <em><strong>Brincadeiras à parte, esse país tão longe se transforma totalmente quando o sol brilha.</strong></em>
+>   <em>**Brincadeiras à parte, esse país tão longe se transforma totalmente quando o sol brilha.**</em>
 > </p>
 
 > <p align="justify">
->   <em><strong>Se no Inverno, com neve, frio e escuridão, sempre vemos nas ruas alguém se exercitando, no Verão a quantidade de “atletas” (seja correndo, caminhando ou de bike) aumenta e muito. Em qualquer trilha que você passe, sempre há alguém se exercitando em dupla, grupo ou sozinho com seu fone de ouvido.</strong></em>
+>   <em>**Se no Inverno, com neve, frio e escuridão, sempre vemos nas ruas alguém se exercitando, no Verão a quantidade de “atletas” (seja correndo, caminhando ou de bike) aumenta e muito. Em qualquer trilha que você passe, sempre há alguém se exercitando em dupla, grupo ou sozinho com seu fone de ouvido.**</em>
 > </p>
 > 
 > <p align="center">
@@ -35,7 +35,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <em><strong>As finlandesas em geral são magras e muito bonitas. Ser mãe aqui não é sinal de desleixo. Muitas mamães andam e até correm com seus babies em seus carrinhos. Se a criança é maior, a mãe corre, e a cria anda de bicicleta, ou andam todos juntos com suas magrelas.</strong></em>
+>   <em>**As finlandesas em geral são magras e muito bonitas. Ser mãe aqui não é sinal de desleixo. Muitas mamães andam e até correm com seus babies em seus carrinhos. Se a criança é maior, a mãe corre, e a cria anda de bicicleta, ou andam todos juntos com suas magrelas.**</em>
 > </p>
 > 
 > <p align="center">
@@ -43,7 +43,7 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   <em><strong>A Finlândia possui inúmeras quadras (futebol, basquete, tênis) e pistas de skate abertas à população. É só chegar e usar, e se tiver alguém usando, torna-se uma boa oportunidade para fazer amizade, pois sim, no Verão os finlandeses até tornam-se mais amigáveis. O sol e o calor podem mudar as pessoas. =)</strong></em>
+>   <em>**A Finlândia possui inúmeras quadras (futebol, basquete, tênis) e pistas de skate abertas à população. É só chegar e usar, e se tiver alguém usando, torna-se uma boa oportunidade para fazer amizade, pois sim, no Verão os finlandeses até tornam-se mais amigáveis. O sol e o calor podem mudar as pessoas. =)**</em>
 > </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <em><strong>No mercado há uma infinidade de cores (nada como nossas frutas do Brasil, pois a grande maioria daqui é importada – ai que saudade do mamão papaia!) e produtos orgânicos. Aqui a diferença de preço entre produto sem agrotóxico não é tão alta, e por isso em todos os carrinhos de supermercado pode-se encontrar frutas e legumes “luomu” (como é chamado o alimento orgânico em finlandês.)</strong></em>
+>   <em>**No mercado há uma infinidade de cores (nada como nossas frutas do Brasil, pois a grande maioria daqui é importada – ai que saudade do mamão papaia!) e produtos orgânicos. Aqui a diferença de preço entre produto sem agrotóxico não é tão alta, e por isso em todos os carrinhos de supermercado pode-se encontrar frutas e legumes “luomu” (como é chamado o alimento orgânico em finlandês.)**</em>
 > </p>
 
 <p align="center">
@@ -67,11 +67,11 @@ categories:
 </p>
 
 > <p align="justify">
->   <em><strong>Nas lojas de roupas há muita blusa curta, deixando a barriga de fora, há muito vestido minúsculo e shorts que mais parecem cinto de tão pequenos. A finlandesa, apesar de, na minha opinião, não se vestir tão bem, e não ligar para combinação de cores, usa roupas bem curtas, mas nada que possa ser considerado vulgar, é apenas o estilo daqui. Em contrapartida, as calças e shorts de cintura alta estão com tudo!</strong></em>
+>   <em>**Nas lojas de roupas há muita blusa curta, deixando a barriga de fora, há muito vestido minúsculo e shorts que mais parecem cinto de tão pequenos. A finlandesa, apesar de, na minha opinião, não se vestir tão bem, e não ligar para combinação de cores, usa roupas bem curtas, mas nada que possa ser considerado vulgar, é apenas o estilo daqui. Em contrapartida, as calças e shorts de cintura alta estão com tudo!**</em>
 > </p>
 
 > <p align="justify">
->   <em><strong>A preocupação com a saúde e o bem estar é nítida em terras finlandesas, e apesar da população ser considerada uma das que mais bebem álcool no mundo (acho que só perdem para os russos), em geral os finlandeses gostam de ter um corpo bonito e saudável.”</strong></em>
+>   <em>**A preocupação com a saúde e o bem estar é nítida em terras finlandesas, e apesar da população ser considerada uma das que mais bebem álcool no mundo (acho que só perdem para os russos), em geral os finlandeses gostam de ter um corpo bonito e saudável.”**</em>
 > </p>
 
 <p align="center">
@@ -80,17 +80,17 @@ categories:
 
 **Entenda como tudo começou:**
 
-<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank"><strong>As voltas que a vida dá nos leva a lugares inimagináveis!</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">**As voltas que a vida dá nos leva a lugares inimagináveis!**</a>
 
 &nbsp;
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-<a href="http://www.trololodemulher.com.br/2015/06/19/primavera-finlandia/" target="_blank"><strong>Compare: a diferença da Primavera no Brasil e na Finlândia</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/06/19/primavera-finlandia/" target="_blank">**Compare: a diferença da Primavera no Brasil e na Finlândia**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/" target="_blank"><strong>Dri… de volta pra Finlândia.</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/" target="_blank">**Dri… de volta pra Finlândia.**</a>
 
-<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank"><strong>Tanto tempo longe da família e amigos: quem aguenta?</strong></a>
+<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank">**Tanto tempo longe da família e amigos: quem aguenta?**</a>
 
 &nbsp;
 

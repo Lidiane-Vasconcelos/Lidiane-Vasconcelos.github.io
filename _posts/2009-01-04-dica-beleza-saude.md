@@ -1,7 +1,7 @@
 ---
-id: 2599
+
 title: 'Resoluções de beleza, saúde e bem viver&#8230;'
-date: 2009-01-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/04/dica-beleza-saude/
@@ -18,7 +18,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-   <strong><em>Usar protetor solar diariamente</em></strong>, independentemente de como está o dia: ensolarado ou nublado.
+   **<em>Usar protetor solar diariamente</em>**, independentemente de como está o dia: ensolarado ou nublado.
 </p>
 
 <p style="text-align: center;">
@@ -26,7 +26,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  Vestir as <strong><em>roupas (que já temos)</em></strong> com atitude.
+  Vestir as **<em>roupas (que já temos)</em>** com atitude.
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Cuidar (nós mesmas, por que não?) das unhas</em></strong> em casa. Aliás, há <a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-para-uma-bicha-beeeem-fmea/" target="_self"><strong><em>dicas sobre cuidados com as unhas</em></strong> </a>antes publicadas no Bicha Fêmea que você seria interessante você saber. Confira! 
+  **<em>Cuidar (nós mesmas, por que não?) das unhas</em>** em casa. Aliás, há <a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-para-uma-bicha-beeeem-fmea/" target="_self">**<em>dicas sobre cuidados com as unhas</em>** </a>antes publicadas no Bicha Fêmea que você seria interessante você saber. Confira! 
 </p>
 
 <p style="text-align: center;">
@@ -42,7 +42,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Beber mais água. </em></strong>
+  **<em>Beber mais água. </em>**
 </p>
 
 <p style="text-align: center;">
@@ -50,7 +50,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Usar menos maquiagem</em></strong>, quando isso for possível. Ter uma aparência mais leve contribui para a pele estar mais limpa. Já pensou nisso? 
+  **<em>Usar menos maquiagem</em>**, quando isso for possível. Ter uma aparência mais leve contribui para a pele estar mais limpa. Já pensou nisso? 
 </p>
 
 <p style="text-align: center;">
@@ -58,7 +58,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Passar longe de fast food</em></strong> sempre que possível, tentando manter uma dieta saudável.
+  **<em>Passar longe de fast food</em>** sempre que possível, tentando manter uma dieta saudável.
 </p>
 
 <p style="text-align: left;">

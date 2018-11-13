@@ -1,7 +1,7 @@
 ---
-id: 3557
+
 title: 'Balões: decoração de festa infantil diferente'
-date: 2016-03-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/09/decoracao-de-festa-infantil/
@@ -11,19 +11,19 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Quando pequena eu chamava bola de festa. Quando morei no Sudeste soube que chamavam bexiga. De um jeito ou de outro, <strong>decoração de festa infantil</strong> sempre pede balões. Você não tem dúvidas de quer colocá-los na festa da cria, mas a questão é: como fazer isso de um jeitinho diferente? Eu também me fiz essa mesma pergunta, e a boa notícia é que eu quis pesquisar algumas ideias pra gente. O resultado é uma coletânea de 7 ideias que são facilmente copiáveis, daqueles detalhes para aplicar na melhor das festas de aniversário caseira. Confira!
+  Quando pequena eu chamava bola de festa. Quando morei no Sudeste soube que chamavam bexiga. De um jeito ou de outro, **decoração de festa infantil** sempre pede balões. Você não tem dúvidas de quer colocá-los na festa da cria, mas a questão é: como fazer isso de um jeitinho diferente? Eu também me fiz essa mesma pergunta, e a boa notícia é que eu quis pesquisar algumas ideias pra gente. O resultado é uma coletânea de 7 ideias que são facilmente copiáveis, daqueles detalhes para aplicar na melhor das festas de aniversário caseira. Confira!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/17/festa-infantil-do-balao/" target="_blank"><strong>Festa infantil do balão: ideias lindas de viver.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/17/festa-infantil-do-balao/" target="_blank">**Festa infantil do balão: ideias lindas de viver.**</a>
 </p>
 
 <p align="justify">
-  <strong>Como uma surpresa…</strong>
+  **Como uma surpresa…**
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Como fundo de mesa…</strong>
+  **Como fundo de mesa…**
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Como uma parede multicolorida…</strong>
+  **Como uma parede multicolorida…**
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Como companhia para os convidados…</strong>
+  **Como companhia para os convidados…**
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Como lembrança da festa…</strong>
+  **Como lembrança da festa…**
 </p>
 
 <p align="center">
@@ -111,15 +111,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank"><strong>Sacolinhas de festa infantil: faça você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">**Sacolinhas de festa infantil: faça você mesma.**</a>
 </p>
 
 <p align="justify">
-  <strong>Como topo de bolo…</strong>
+  **Como topo de bolo…**
 </p>
 
 <p align="center">
@@ -135,15 +135,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/" target="_blank"><strong>Festa infantil: como fazer topper para cupcake.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/" target="_blank">**Festa infantil: como fazer topper para cupcake.**</a>
 </p>
 
 <p align="justify">
-  <strong>Como o detalhe que faz a diferença…</strong>
+  **Como o detalhe que faz a diferença…**
 </p>
 
 <p align="center">
@@ -159,11 +159,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank"><strong>Bandeirolas de aniversário: imprima grátis.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank">**Bandeirolas de aniversário: imprima grátis.**</a>
 </p>
 
 <p align="center">

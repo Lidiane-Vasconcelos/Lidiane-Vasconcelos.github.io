@@ -1,7 +1,7 @@
 ---
-id: 2798
+
 title: Alongamento Para Caminhada. Você Faz???
-date: 2010-03-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/05/alongamento-caminhada/
@@ -147,6 +147,6 @@ Pronto! As imagens e instruções não são fáceis de serem entendidas? Agora �
 
 **Mais no Bicha Fêmea…**
 
-<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-exercicios-fisicos/" target="_self"><strong><em>Dicas</em></strong><strong><em> para automotivação para a prática de exercícios físicos</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-exercicios-fisicos/" target="_self">**<em>Dicas</em>****<em> para automotivação para a prática de exercícios físicos</em>**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self"><strong><em>Queime</em></strong><strong><em> calorias e ganhe saúde cuidando da casa!</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self">**<em>Queime</em>****<em> calorias e ganhe saúde cuidando da casa!</em>**</a>

@@ -1,7 +1,7 @@
 ---
-id: 3667
+
 title: O pão integral de sua dieta é integral mesmo?
-date: 2016-09-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/19/pao-integral/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Quando se pretende emagrecer ou levar uma vida mais saudável, logo se pensa na <strong><a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank">dieta</a></strong>. Uma troca bastante comum e recomendada é a do pão. É preciso trocar a versão que leva farinha branca pelo <strong>pão integral</strong>. Já se perguntou o porquê é tão importante comer produtos integrais? “<em>A farinha branca é pobre em nutrientes, e você sentirá fome mais rápido. Já a farinha integral contém fibras, que é responsável por nos proporcionar maior saciedade</em>”, explica a <strong>Nutricionista Jéssica Xavier, de Campo dos Goytacazes – RJ</strong>. “<em>Escolha algum produto que contém farinha integral na sua composição, lembrando que ter uma alimentação saudável vai muito além de consumir produtos integrais. Procure um nutricionista para tirar suas dúvidas e te orientar qual melhor tratamento a seguir</em>”, alerta nossa consultora.
+  Quando se pretende emagrecer ou levar uma vida mais saudável, logo se pensa na **<a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank">dieta</a>**. Uma troca bastante comum e recomendada é a do pão. É preciso trocar a versão que leva farinha branca pelo **pão integral**. Já se perguntou o porquê é tão importante comer produtos integrais? “<em>A farinha branca é pobre em nutrientes, e você sentirá fome mais rápido. Já a farinha integral contém fibras, que é responsável por nos proporcionar maior saciedade</em>”, explica a **Nutricionista Jéssica Xavier, de Campo dos Goytacazes – RJ**. “<em>Escolha algum produto que contém farinha integral na sua composição, lembrando que ter uma alimentação saudável vai muito além de consumir produtos integrais. Procure um nutricionista para tirar suas dúvidas e te orientar qual melhor tratamento a seguir</em>”, alerta nossa consultora.
 </p>
 
 <p align="center">
@@ -22,35 +22,35 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>></strong> <b>Quando se lê que um produto tem chia ou linhaça, por exemplo, ou tem cor mais escura, ou ainda recebe ingrediente como oleaginosas, e até recebe farinha enriquecida com ácido fólico ou ferro, significa que ele é integral?</b>
+  **Trololó de Mulher >>>** <b>Quando se lê que um produto tem chia ou linhaça, por exemplo, ou tem cor mais escura, ou ainda recebe ingrediente como oleaginosas, e até recebe farinha enriquecida com ácido fólico ou ferro, significa que ele é integral?</b>
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Depende! Muitos produtos dizem ser integrais e na verdade não são. Por isso, sempre oriento meus pacientes a terem o hábito de lerem os rótulos dos alimentos.  O produto que se diz ser integral só tem que ter ingredientes integrais, certo?! A maioria deses produtos tem ingredientes que não são nada saudáveis. Quando vocês virem nesses itens a farinha enriquecida com ferro e ácido fólico (farinha branca), você já vai saber que não é 100% integral, por conter farinha branca. Então, a partir de agora, vamos ler os rótulos, combinado?!”</em>
+  **“**<em>Depende! Muitos produtos dizem ser integrais e na verdade não são. Por isso, sempre oriento meus pacientes a terem o hábito de lerem os rótulos dos alimentos.  O produto que se diz ser integral só tem que ter ingredientes integrais, certo?! A maioria deses produtos tem ingredientes que não são nada saudáveis. Quando vocês virem nesses itens a farinha enriquecida com ferro e ácido fólico (farinha branca), você já vai saber que não é 100% integral, por conter farinha branca. Então, a partir de agora, vamos ler os rótulos, combinado?!”</em>
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como escolher o pão ideal, considerando que o que se quer é o integral?</strong>
+  **Trololó de Mulher >>> Como escolher o pão ideal, considerando que o que se quer é o integral?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Se você tem a oportunidade de fazer o seu próprio pão integral, ótimo! Agora, se você compra ele já pronto, leia o rótulo para poder escolher o melhor possível. Para o pão ser 100% integral, ele só deve conter farinha integral. Prete atenção nos rótulos, e lembre-se: os itens que aparecem primeiro são os que estão presentes em maior quantidade</em>.”
+  **“**<em>Se você tem a oportunidade de fazer o seu próprio pão integral, ótimo! Agora, se você compra ele já pronto, leia o rótulo para poder escolher o melhor possível. Para o pão ser 100% integral, ele só deve conter farinha integral. Prete atenção nos rótulos, e lembre-se: os itens que aparecem primeiro são os que estão presentes em maior quantidade</em>.”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Pão integral é pobre em calorias?</strong>
+  **Trololó de Mulher >>> Pão integral é pobre em calorias?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Não! Isso é mais um mito. O pão integral tem a mesma caloria de um pão de farinha branca. Porém, o pão integral contém fibras que é essencial para o bom funcionamento do intestino</em>.”
+  **“**<em>Não! Isso é mais um mito. O pão integral tem a mesma caloria de um pão de farinha branca. Porém, o pão integral contém fibras que é essencial para o bom funcionamento do intestino</em>.”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que é melhor: pão integral ou tapioca?</strong>
+  **Trololó de Mulher >>> O que é melhor: pão integral ou tapioca?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Pão integral! Por conter fibras, te dará maior saciedade. Já a tapioca, por ser de alto índice glicêmico, você sentirá fome mais rápido.  Na hora de consumir a tapioca, acrescenta uma fonte de fibra, como a chia, linhaça, entre outras.</em>”
+  **“**<em>Pão integral! Por conter fibras, te dará maior saciedade. Já a tapioca, por ser de alto índice glicêmico, você sentirá fome mais rápido.  Na hora de consumir a tapioca, acrescenta uma fonte de fibra, como a chia, linhaça, entre outras.</em>”
 </p>
 
 <p align="center">

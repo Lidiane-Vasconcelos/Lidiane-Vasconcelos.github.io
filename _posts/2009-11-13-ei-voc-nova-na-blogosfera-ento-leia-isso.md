@@ -1,7 +1,7 @@
 ---
-id: 2733
+
 title: Ei! Você É Nova Na Blogosfera? Então Leia Isso…
-date: 2009-11-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/13/ei-voc-nova-na-blogosfera-ento-leia-isso/
@@ -35,4 +35,4 @@ Ah! Bom fim de semana para nós!!!!
 
 Imagem: <a href="http://aquestforbalance.blogspot.com/" target="_blank">Mammajamma Blabba</a>
 
-<span style="color: #800080;"><strong>Antes de ir, deixa eu te perguntar: você está sabendo da festa de comemoração do aniversário de 1 ano do Bicha Fêmea? Os convidados já começaram a chegar. <a href="http://www.trololodemulher.com.br/2009/11/06/comemorao-vista-no-bicha-fmea/">Você não quer vir?</a></strong></span>
+<span style="color: #800080;">**Antes de ir, deixa eu te perguntar: você está sabendo da festa de comemoração do aniversário de 1 ano do Bicha Fêmea? Os convidados já começaram a chegar. <a href="http://www.trololodemulher.com.br/2009/11/06/comemorao-vista-no-bicha-fmea/">Você não quer vir?</a>**</span>

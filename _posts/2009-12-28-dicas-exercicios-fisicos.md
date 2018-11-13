@@ -1,7 +1,7 @@
 ---
-id: 2755
+
 title: Dicas para automotivação na prática de exercícios físicos.
-date: 2009-12-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/28/dicas-exercicios-fisicos/
@@ -41,7 +41,7 @@ Diz aí, você vai se mexer depois de tantas dicas para facilitar a saída do se
 
 **Mais no Bicha Fêmea sobre &#8220;mexer&#8221; o corpo…**
 
-<a href="http://www.trololodemulher.com.br/2010/03/05/alongamento-caminhada/" target="_self"><strong><em>Alongamento</em></strong><strong><em> para caminhada: você faz?</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2010/03/05/alongamento-caminhada/" target="_self">**<em>Alongamento</em>****<em> para caminhada: você faz?</em>**</a>
 
 **<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self"><em>Queime calorias e ganhe saúde cuidando da casa!</em></a>**
 

@@ -1,7 +1,7 @@
 ---
-id: 3820
+
 title: Dicas pra sua maquiagem de verão leve e suave.
-date: 2017-10-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/30/maquiagem-de-verao/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  Os dias ensolarados inspiram a <strong>maquiagem de Verão</strong>, e tudo o que a gente deseja é leveza e suavidade. Quem vai nos ensinar a imprimir frescura e delideza na <em>make</em> nossa de cada dia é a <em>expert</em> Pâmela Cabrinni, <strong>Maquiadora Profissional e Designer de Sobrancelhas</strong>, de Recife – PE, terra de sol e mar. Acompanhe a seguir as dicas de Pâmela pra gente dar boas vindas ao Verão lindas de bonitas!
+  Os dias ensolarados inspiram a **maquiagem de Verão**, e tudo o que a gente deseja é leveza e suavidade. Quem vai nos ensinar a imprimir frescura e delideza na <em>make</em> nossa de cada dia é a <em>expert</em> Pâmela Cabrinni, **Maquiadora Profissional e Designer de Sobrancelhas**, de Recife – PE, terra de sol e mar. Acompanhe a seguir as dicas de Pâmela pra gente dar boas vindas ao Verão lindas de bonitas!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Pele de Cetim</strong>
+  **Pele de Cetim**
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Brilho nos Olhos</strong>
+  **Brilho nos Olhos**
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Boca Discreta</strong>
+  **Boca Discreta**
 </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Existe truque para contornar o rosto com blush de forma suave?</strong>
+  **Trololó de Mulher >>> Existe truque para contornar o rosto com blush de forma suave?**
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Qual tom de sombra tem a suavidade própria da estação?</strong>
+  **Trololó de Mulher >>> Qual tom de sombra tem a suavidade própria da estação?**
 </p>
 
 <p align="justify">
@@ -110,7 +110,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>></strong> <strong>Qual segredo para caprichar na hidratação dos lábios e prepara-los para os batons levinhos em dias de sol?</strong>
+  **Trololó de Mulher >>>** **Qual segredo para caprichar na hidratação dos lábios e prepara-los para os batons levinhos em dias de sol?**
 </p>
 
 <p align="justify">
@@ -122,7 +122,7 @@ categories:
 </p>
 
 <p align="justify">
-  Pâmela atende em Recife, seja com maquigem ou delineando perfeitamente suas sobancelhas. A moça ainda promove cursos de maquiagem, exclusivo ou para grupos. Entre em contato via whatsapp e peça mais informações: <strong>81 9 9529-6189</strong>, ou ainda, fique por dentro de suas novidades pela <a href="https://www.instagram.com/pamelacabrinimakeup/" target="_blank">Instagram. Clique aqui e siga</a>!
+  Pâmela atende em Recife, seja com maquigem ou delineando perfeitamente suas sobancelhas. A moça ainda promove cursos de maquiagem, exclusivo ou para grupos. Entre em contato via whatsapp e peça mais informações: **81 9 9529-6189**, ou ainda, fique por dentro de suas novidades pela <a href="https://www.instagram.com/pamelacabrinimakeup/" target="_blank">Instagram. Clique aqui e siga</a>!
 </p>
 
 <p align="center">

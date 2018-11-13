@@ -1,7 +1,7 @@
 ---
-id: 2898
+
 title: Como melhorar o Bicha Fêmea?
-date: 2010-11-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/03/como-melhorar-o-bicha-femea/
@@ -22,7 +22,7 @@ Sim, faço a você, bicha fêmea navegante, essa pergunta, porque quem acha que 
 </p>
 
 <p style="text-align: justify;">
-  Nesses 2 anos de vida <em>bloguística</em> já aprendi um bocado, mas quero aprender muito mais. E como <strong><em>para tocar o Bicha Fêmea e torná-lo melhor eu jamais faria sozinha, até porque nem posso</em></strong>, queria te ouvir um pouco mais. Você topa me ajudar nessa empreitada? Como? Basta responder o questionário abaixo, e já vou ficar feliz “que só pinto no lixo”. E, oh: muito agradecida…
+  Nesses 2 anos de vida <em>bloguística</em> já aprendi um bocado, mas quero aprender muito mais. E como **<em>para tocar o Bicha Fêmea e torná-lo melhor eu jamais faria sozinha, até porque nem posso</em>**, queria te ouvir um pouco mais. Você topa me ajudar nessa empreitada? Como? Basta responder o questionário abaixo, e já vou ficar feliz “que só pinto no lixo”. E, oh: muito agradecida…
 </p>
 
 <p style="text-align: justify;">
@@ -42,9 +42,9 @@ Sim, faço a você, bicha fêmea navegante, essa pergunta, porque quem acha que 
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

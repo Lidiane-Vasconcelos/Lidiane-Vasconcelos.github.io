@@ -1,7 +1,7 @@
 ---
-id: 3299
+
 title: Você sabe tudo que precisa sobre batom?
-date: 2014-06-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/02/beleza-maquiagem-batom/
@@ -18,13 +18,13 @@ Queremos ficar com a beleza em dia e nem por isso gastar com o que é desceness�
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;"><span style="color: #ff0000;">Bicha Fêmea</span> > Há formatos diversos de batom: caneta ou lápis, tradicional ou bala e o batom líquido. O que levar em conta na hora de escolher o formato do produto?</span></strong>
+  **<span style="font-size: small;"><span style="color: #ff0000;">Bicha Fêmea</span> > Há formatos diversos de batom: caneta ou lápis, tradicional ou bala e o batom líquido. O que levar em conta na hora de escolher o formato do produto?</span>**
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   No quesito <strong>praticidade</strong>, na minha opinião, <strong>aposto no batom tradicional (bala) ou gloss.  </strong>Comparando com o batom liquido ou lápis, são formas muito mais fáceis de utilizar rapidamente e sem muitos recursos, além de  serem mais seguros para carregar junto.  No quesito finalidade daí temos várias opções. Balada longa exigindo durabilidade? Vou de batom liquido, depois de seco se mantém no desenho dos  lábios mesmo bebendo, comendo, etc, enquanto o batom tradicional por ser mais cremoso tende a escorrer e marcar demais o &#8221; código de barras&#8221; ao redor dos lábios e também borrar. Quanto ao lápis é uma aposta válida tanto para o batom tradicional como o líquido, por ser mais seco ajuda na fixação da cor e funciona como uma &#8221; barreira&#8221; para o centro do batom não escapar fora do desenho.”
+>   No quesito **praticidade**, na minha opinião, **aposto no batom tradicional (bala) ou gloss.  **Comparando com o batom liquido ou lápis, são formas muito mais fáceis de utilizar rapidamente e sem muitos recursos, além de  serem mais seguros para carregar junto.  No quesito finalidade daí temos várias opções. Balada longa exigindo durabilidade? Vou de batom liquido, depois de seco se mantém no desenho dos  lábios mesmo bebendo, comendo, etc, enquanto o batom tradicional por ser mais cremoso tende a escorrer e marcar demais o &#8221; código de barras&#8221; ao redor dos lábios e também borrar. Quanto ao lápis é uma aposta válida tanto para o batom tradicional como o líquido, por ser mais seco ajuda na fixação da cor e funciona como uma &#8221; barreira&#8221; para o centro do batom não escapar fora do desenho.”
 > </p>
 
 &nbsp;
@@ -48,13 +48,13 @@ Queremos ficar com a beleza em dia e nem por isso gastar com o que é desceness�
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;"><span style="color: #ff0000;">Bicha Fêmea</span> > Com relação ao brilho do batom, o mercado oferece as opções: mate, acetinado, cremoso e cintilante. Quais as diferenças com relação ao resultado final? E mais: há alguma versão que favoreça mais que outra?</span></strong>
+  **<span style="font-size: small;"><span style="color: #ff0000;">Bicha Fêmea</span> > Com relação ao brilho do batom, o mercado oferece as opções: mate, acetinado, cremoso e cintilante. Quais as diferenças com relação ao resultado final? E mais: há alguma versão que favoreça mais que outra?</span>**
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   Os batons cintilantes e acetinados costumam dar um ar mais sensual a produção, portanto acho que depende da intenção. Quando aplicados no centro dos lábios dão efeito de relativo aumento no tamanho dos lábios. Ambos pedem mais atenção nos retoques, pois  assim como os cremosos, tendem a escorrer mais dos lábios devido a consistência.  Os batons Matte (muitas versões matte são liquidas)  estão super em alta, especialmente aqui no Brasil, por motivos ligados a praticidade, pois normalmente duram mais quando aplicados, e também devido a preferência nacional de Make do tipo &#8220;olho tudo, boca nada&#8221;. <strong>Particularmente gosto muito do acabamento dos batons Matte, acho sofisticado</strong> e, com o inverno chegando, acho que caem super bem nas produções mais geladinhas, além de casar bem com  qualquer tipo de lábio, seja maior, menor, jovem , maduro.”
+>   Os batons cintilantes e acetinados costumam dar um ar mais sensual a produção, portanto acho que depende da intenção. Quando aplicados no centro dos lábios dão efeito de relativo aumento no tamanho dos lábios. Ambos pedem mais atenção nos retoques, pois  assim como os cremosos, tendem a escorrer mais dos lábios devido a consistência.  Os batons Matte (muitas versões matte são liquidas)  estão super em alta, especialmente aqui no Brasil, por motivos ligados a praticidade, pois normalmente duram mais quando aplicados, e também devido a preferência nacional de Make do tipo &#8220;olho tudo, boca nada&#8221;. **Particularmente gosto muito do acabamento dos batons Matte, acho sofisticado** e, com o inverno chegando, acho que caem super bem nas produções mais geladinhas, além de casar bem com  qualquer tipo de lábio, seja maior, menor, jovem , maduro.”
 > </p>
 
 &nbsp;
@@ -74,13 +74,13 @@ Queremos ficar com a beleza em dia e nem por isso gastar com o que é desceness�
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;"><span style="color: #ff0000;">Bicha Fêmea </span>> Há alguma dica ou truque infalível com relação a escolha ou uso dos batons?</span></strong>
+  **<span style="font-size: small;"><span style="color: #ff0000;">Bicha Fêmea </span>> Há alguma dica ou truque infalível com relação a escolha ou uso dos batons?</span>**
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   <strong>Opte por cores realmente usáveis a partir de sua personalidade</strong>, a compra deve ser inteligente, não é porque a cor está na moda que você TEM que usar. Se você  tende a se maquiar chamando mais atenção para os olhos, aposto que um batom vinho ou vermelho não será uma boa compra, pois será usado com pouca frequência.. Na hora de escolher pense em qualidade, na sua saúde, afinal são seus lábios, e sempre <strong>comece comprando primeiro o básico, por exemplo: um nude cremoso, um vermelho matte e um cintilante rosado ou alaranjado</strong>. Quanto ao uso, o que nunca dispenso  é uma boa delineada nos lábios com lápis, para formar aquela barreira que falei anteriormente, para qualquer opção de batom.  No caso dos cremosos uso duas camadas, intercalando com pó compacto entre elas.”
+>   **Opte por cores realmente usáveis a partir de sua personalidade**, a compra deve ser inteligente, não é porque a cor está na moda que você TEM que usar. Se você  tende a se maquiar chamando mais atenção para os olhos, aposto que um batom vinho ou vermelho não será uma boa compra, pois será usado com pouca frequência.. Na hora de escolher pense em qualidade, na sua saúde, afinal são seus lábios, e sempre **comece comprando primeiro o básico, por exemplo: um nude cremoso, um vermelho matte e um cintilante rosado ou alaranjado**. Quanto ao uso, o que nunca dispenso  é uma boa delineada nos lábios com lápis, para formar aquela barreira que falei anteriormente, para qualquer opção de batom.  No caso dos cremosos uso duas camadas, intercalando com pó compacto entre elas.”
 > </p>
 
 &nbsp;
@@ -106,7 +106,7 @@ Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

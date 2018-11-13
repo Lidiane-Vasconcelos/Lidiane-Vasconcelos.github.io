@@ -1,7 +1,7 @@
 ---
-id: 3546
+
 title: 'Água morna com limão: faz bem ou é modinha?'
-date: 2016-02-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/22/agua-morna-com-limao/
@@ -10,11 +10,11 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Sempre tive a curiosidade de saber qual o ponto de vista de um profissional em Nutrição a respeito da famosa <strong>água morna com limão</strong>, especialmente se tomá-la em jejum faz mesmo tanto bem para a saúde. Confesso que tomo. Você já reparou que em muitos blogs que tratam de vida boa e de qualidade há sempre essa recomendação? O problema é que “a blogueira” indica, e sinto falta de um respaldo científico por trás disso. Posso ser <em>cri-cri</em>?
+  Sempre tive a curiosidade de saber qual o ponto de vista de um profissional em Nutrição a respeito da famosa **água morna com limão**, especialmente se tomá-la em jejum faz mesmo tanto bem para a saúde. Confesso que tomo. Você já reparou que em muitos blogs que tratam de vida boa e de qualidade há sempre essa recomendação? O problema é que “a blogueira” indica, e sinto falta de um respaldo científico por trás disso. Posso ser <em>cri-cri</em>?
 </p>
 
 <p align="justify">
-  Inquieta e cheia de dúvidas, pedi a consultoria de uma profissional. <strong>Gabriela Pimentel, Nutricionista de Valinhos, SP</strong>, esclareceu todas as dúvidas que eu tinha a respeito. A boa notícia é que esse post foi preparado para compartilhar tudo com você, e te dá suporte para fazer suas melhores escolhas no dia a dia quando o assunto é saúde e nutrição. Vamos lá?
+  Inquieta e cheia de dúvidas, pedi a consultoria de uma profissional. **Gabriela Pimentel, Nutricionista de Valinhos, SP**, esclareceu todas as dúvidas que eu tinha a respeito. A boa notícia é que esse post foi preparado para compartilhar tudo com você, e te dá suporte para fazer suas melhores escolhas no dia a dia quando o assunto é saúde e nutrição. Vamos lá?
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultoria da Nutricionista Gabriela Pimentel:</strong>
+  **Mais consultoria da Nutricionista Gabriela Pimentel:**
 </p>
 
 <p align="justify">
-  <a href="http://www.belezacorpoecia.com/por-que-engordamos/" target="_blank"><strong>Por que engordamos?</strong></a>
+  <a href="http://www.belezacorpoecia.com/por-que-engordamos/" target="_blank">**Por que engordamos?**</a>
 </p>
 
 <p align="justify">

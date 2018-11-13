@@ -1,7 +1,7 @@
 ---
-id: 3509
+
 title: 'Decoração da porta no Natal: 4 ideias sem guirlandas.'
-date: 2015-11-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/11/decoracao-da-porta-no-natal/
@@ -11,15 +11,15 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Usar <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">guirlandas de Natal</a> para decorar portas tornou-se um clássico! A gente vê algumas muito lindas de viver, e eu mesma vivo de amores por elas. Mas não é só de guirlanda que vive a <strong>decoração da porta no Natal</strong>. Na verdade é possível enfeitar a entrada da casa de outras formas bastante criativas, e que trazem igual encantamento. Neste post, por exemplo, separei 4 ideias de decoração da porta, sem o uso delas. Espero que você se inspire e, quem sabe, sua guirlanda não vai enfeitar outro cantinho da casa este ano? Será?! Me conta depois? Se joga!
+  Usar <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">guirlandas de Natal</a> para decorar portas tornou-se um clássico! A gente vê algumas muito lindas de viver, e eu mesma vivo de amores por elas. Mas não é só de guirlanda que vive a **decoração da porta no Natal**. Na verdade é possível enfeitar a entrada da casa de outras formas bastante criativas, e que trazem igual encantamento. Neste post, por exemplo, separei 4 ideias de decoração da porta, sem o uso delas. Espero que você se inspire e, quem sabe, sua guirlanda não vai enfeitar outro cantinho da casa este ano? Será?! Me conta depois? Se joga!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal/" target="_blank"><strong>6 guirlandas de Natal superultramega criativas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal/" target="_blank">**6 guirlandas de Natal superultramega criativas.**</a>
 </p>
 
 <p align="center">
@@ -71,15 +71,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/28/mesa-arrumada-para-o-natal/" target="_blank"><strong>Mesa arrumada para o Natal: veja 8 ideias.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/28/mesa-arrumada-para-o-natal/" target="_blank">**Mesa arrumada para o Natal: veja 8 ideias.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank"><strong>Arranjo de mesa de Natal: faça você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">**Arranjo de mesa de Natal: faça você mesma.**</a>
 </p>
 
 <p align="center">

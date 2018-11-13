@@ -1,7 +1,7 @@
 ---
-id: 3269
+
 title: Como fazer o efeito craquelê nas suas pinturas?
-date: 2013-10-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/21/artesanato-craquele-decoracao/
@@ -21,7 +21,7 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
 <!--more-->
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Com a palavra a artesã… aperta o play!</span></strong>
+  **<span style="font-size: medium;">Com a palavra a artesã… aperta o play!</span>**
 </p>
 
 <p style="text-align: center;">
@@ -33,7 +33,7 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
 </p>
 
 <p style="text-align: center;" align="center">
-  <strong><span style="font-size: medium;">Mais sobre nossa consultora para assuntos de artesanato:</span></strong>
+  **<span style="font-size: medium;">Mais sobre nossa consultora para assuntos de artesanato:</span>**
 </p>
 
 <p style="text-align: center;" align="center">
@@ -45,27 +45,27 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://casadebonecadecor.blogspot.com.br/" target="_blank"><strong><span style="font-size: small;">Blog da Vânia Pinho</span></strong></a><strong><span style="font-size: small;"> | </span></strong><a href="https://www.facebook.com/pages/Casa-de-Boneca-Decor/538576672831951" target="_blank"><strong><span style="font-size: small;">Página do blog no Facebook</span></strong></a>
+  <a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">**<span style="font-size: small;">Blog da Vânia Pinho</span>**</a>**<span style="font-size: small;"> | </span>**<a href="https://www.facebook.com/pages/Casa-de-Boneca-Decor/538576672831951" target="_blank">**<span style="font-size: small;">Página do blog no Facebook</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: large;">Muito mais sobre decoração faça você mesma, oh:</span></strong>
+  **<span style="font-size: large;">Muito mais sobre decoração faça você mesma, oh:</span>**
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/"><strong><span style="font-size: large;">Decoração faça você mesma: luminárias de taça de vinho</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/">**<span style="font-size: large;">Decoração faça você mesma: luminárias de taça de vinho</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/"><strong><span style="font-size: large;">Quer uma mesinha? Improvisa!</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/">**<span style="font-size: large;">Quer uma mesinha? Improvisa!</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2011/08/29/antes-depois-decoracao/"><strong><span style="font-size: large;">Antes & depois de mesa + camiseta na decoração da casa</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/08/29/antes-depois-decoracao/">**<span style="font-size: large;">Antes & depois de mesa + camiseta na decoração da casa</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;"> </span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;"> </span>**</a>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

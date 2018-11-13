@@ -1,7 +1,7 @@
 ---
-id: 3684
+
 title: 6 boas ideias de arranjo de mesa de natal simples.
-date: 2016-10-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/10/arranjo-de-mesa-de-natal-2/
@@ -11,15 +11,15 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Você já está entrando no clima de Natal, mas decidiu fazer um retorno ao que é simples quando pensa na decoração natalina que gostaria de colocar em casa. Compreensível… talvez a euforia que naturalmente se instala nessa época do ano tenha feito você se sentir deslocada, ou menos desacelarada se comparada aos demais. O resultado disso é sua voltade de simplificar tudo, não é? De certa forma, me sinto assim também. E se tem algo que revela o nosso estado de espírito e como anda o nosso jeito de ver o mundo, é a forma como escolhemos decorar o nosso lar. Sendo assim, veja a seguir 6 ideias de <strong>arranjo de mesa de natal </strong>simples, sem firulas, e simplifique sua vida neste final de ano. Confira!
+  Você já está entrando no clima de Natal, mas decidiu fazer um retorno ao que é simples quando pensa na decoração natalina que gostaria de colocar em casa. Compreensível… talvez a euforia que naturalmente se instala nessa época do ano tenha feito você se sentir deslocada, ou menos desacelarada se comparada aos demais. O resultado disso é sua voltade de simplificar tudo, não é? De certa forma, me sinto assim também. E se tem algo que revela o nosso estado de espírito e como anda o nosso jeito de ver o mundo, é a forma como escolhemos decorar o nosso lar. Sendo assim, veja a seguir 6 ideias de **arranjo de mesa de natal **simples, sem firulas, e simplifique sua vida neste final de ano. Confira!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natalina-2/" target="_blank"><strong>4 dicas para decoração natalina nos catinhos da casa</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natalina-2/" target="_blank">**4 dicas para decoração natalina nos catinhos da casa**</a>
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/" target="_blank"><strong>Natal em apartamento pequeno: 5 dicas para decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/" target="_blank">**Natal em apartamento pequeno: 5 dicas para decoração.**</a>
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeite-natalino-rustico/" target="_blank"><strong>Enfeite natalino rústico: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/enfeite-natalino-rustico/" target="_blank">**Enfeite natalino rústico: faça você mesma.**</a>
 </p>
 
 <p align="center">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank"><strong>Decoração natalina: inspiração das casas reais.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank">**Decoração natalina: inspiração das casas reais.**</a>
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3074
+
 title: 'Fuxicos e Flores: quando criatividade e feminilidade florescem…'
-date: 2011-11-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/03/fuxicos-flores-moda-acessorio/
@@ -15,7 +15,7 @@ Todas nós respiramos modernidade e é verdade que **nos vestimos** como mulhere
 &nbsp;
 
 <p align="justify">
-  Por essas e outras, confesso que fiquei encantada com os acessórios da <strong><a href="http://www.elo7.com.br/fuxicoseflores/" target="_blank">Fuxicos e Flores</a></strong>, loja virtual da criativa <strong>Renata Faustino</strong>. Pudera! Passear entre os cliques e imagens de seus produtos fizeram com que uma palavra não saísse de minha cabeça: feminilidade… quer ver? Vem que eu te mostro!
+  Por essas e outras, confesso que fiquei encantada com os acessórios da **<a href="http://www.elo7.com.br/fuxicoseflores/" target="_blank">Fuxicos e Flores</a>**, loja virtual da criativa **Renata Faustino**. Pudera! Passear entre os cliques e imagens de seus produtos fizeram com que uma palavra não saísse de minha cabeça: feminilidade… quer ver? Vem que eu te mostro!
 </p>
 
 <!--more-->
@@ -41,7 +41,7 @@ Todas nós respiramos modernidade e é verdade que **nos vestimos** como mulhere
 </p>
 
 <p align="justify">
-  Não são fofas?!  Agora você entendeu bem por que a feminilidade realmente está em alta nos produtos da <strong>Fuxicos e Flores</strong>? O que me impressiona também no trabalho da Renata é o bom gosto na escolha de estampas e modelos de suas criações, o que definitivamente revela que ela busca passar longe de estilos do tipo “mais do mesmo”. Os acessórios têm mesmo uma <em>bossa</em> bem charmosa… olha só:
+  Não são fofas?!  Agora você entendeu bem por que a feminilidade realmente está em alta nos produtos da **Fuxicos e Flores**? O que me impressiona também no trabalho da Renata é o bom gosto na escolha de estampas e modelos de suas criações, o que definitivamente revela que ela busca passar longe de estilos do tipo “mais do mesmo”. Os acessórios têm mesmo uma <em>bossa</em> bem charmosa… olha só:
 </p>
 
 <p align="center">
@@ -67,5 +67,5 @@ Todas nós respiramos modernidade e é verdade que **nos vestimos** como mulhere
 </p>
 
 <p align="justify">
-  A boa notícia é que se deliciar escolhendo itens que vão para o seu <em>closet</em> é simples e fácil… está tudo ao alcance de um clique <strong><a href="http://www.elo7.com.br/fuxicoseflores/" target="_blank">bem aqui</a></strong>. Aproveite a facilidade no pagamento e a possibilidade de personalizar algumas dessas <em>lindezas</em> em cores, modelos e tamanhos. Depois é só sair por aí toda bonita, serelepe e faceira…
+  A boa notícia é que se deliciar escolhendo itens que vão para o seu <em>closet</em> é simples e fácil… está tudo ao alcance de um clique **<a href="http://www.elo7.com.br/fuxicoseflores/" target="_blank">bem aqui</a>**. Aproveite a facilidade no pagamento e a possibilidade de personalizar algumas dessas <em>lindezas</em> em cores, modelos e tamanhos. Depois é só sair por aí toda bonita, serelepe e faceira…
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3634
+
 title: 'Foto com detalhe floral em 3D: faça você mesma!'
-date: 2016-08-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/03/foto-decoracao/
@@ -17,7 +17,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Repare: que coisa rica e delicada! Olha só:</span></strong>
+  **<span style="font-size: large;">Repare: que coisa rica e delicada! Olha só:</span>**
 </p>
 
 &nbsp;
@@ -52,11 +52,11 @@ categories:
 
 **Não deixe de ler:**
 
-<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank">**Já viu como imprimir charme na decoração da parede com fotos?**</a>
 
-<a href="http://www.trololodemulher.com.br/2014/05/22/decoracao-com-fotos/" target="_blank"><strong>Decore com fotos… quer saber como?</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/05/22/decoracao-com-fotos/" target="_blank">**Decore com fotos… quer saber como?**</a>
 
-<a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank"><strong>Quer ver um jeito simples e elegante de decorar com fotos?</strong></a>
+<a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank">**Quer ver um jeito simples e elegante de decorar com fotos?**</a>
 
 &nbsp;
 

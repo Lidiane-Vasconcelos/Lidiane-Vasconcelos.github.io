@@ -1,7 +1,7 @@
 ---
-id: 3488
+
 title: 'Casa e decoração: o jeito de morar na Finlândia'
-date: 2015-09-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/18/morar-na-finlandia/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Se tem uma coisa que chama minha atenção quando se trata de conhecer outros países é saber como os nativos vivem no dia a dia, isto é, como é o jeito de morar em países bem diferentes do nosso. Claro que eu não poderia perder a oportunidade de saber um pouco mais nesse sentido sobre a Finlândia, país que estamos conhecendo aos pouquinhos e nos pormenores através da experiência da <strong>Adriana Minhoto</strong>. Este mês a Dri está nos presenteando com mais detalhes sobre aquele país gelado, nos contando um pouco sobre o espaço privado. Vem comigo conhecer sobre o jeito de morar lá na Finlândia… vem!
+  Se tem uma coisa que chama minha atenção quando se trata de conhecer outros países é saber como os nativos vivem no dia a dia, isto é, como é o jeito de morar em países bem diferentes do nosso. Claro que eu não poderia perder a oportunidade de saber um pouco mais nesse sentido sobre a Finlândia, país que estamos conhecendo aos pouquinhos e nos pormenores através da experiência da **Adriana Minhoto**. Este mês a Dri está nos presenteando com mais detalhes sobre aquele país gelado, nos contando um pouco sobre o espaço privado. Vem comigo conhecer sobre o jeito de morar lá na Finlândia… vem!
 </p>
 
 <p align="justify">

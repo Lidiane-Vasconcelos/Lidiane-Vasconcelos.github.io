@@ -1,7 +1,7 @@
 ---
-id: 3261
+
 title: 'Amarelo na decoração: como usar?'
-date: 2013-09-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/16/amarelo-na-decoracao/
@@ -48,7 +48,7 @@ A única certeza que você tem é que quer inserir essa cor na sua decoração, 
 </p>
 
 <p align="center">
-  Na prateleira e nas almofadas. Se animou para colorir uma prateleira? A <strong>Eva</strong>, do <strong>Peripécias de Eva</strong>, ensina <strong><a href="http://asperipeciasdeeva.com.br/2013/08/prateleiras-coloridas-como-fazer-e-como-instalar/" target="_blank">como fazer prateleiras coloridas e instalar. Basta clicar aqui</a></strong>.
+  Na prateleira e nas almofadas. Se animou para colorir uma prateleira? A **Eva**, do **Peripécias de Eva**, ensina **<a href="http://asperipeciasdeeva.com.br/2013/08/prateleiras-coloridas-como-fazer-e-como-instalar/" target="_blank">como fazer prateleiras coloridas e instalar. Basta clicar aqui</a>**.
 </p>
 
 <p align="center">
@@ -66,25 +66,25 @@ Imagens: **_<a href="http://www.ivillage.com/" target="_blank">ivillage</a>_**
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Tudo a ver:</span></strong>
+  **<span style="font-size: large;">Tudo a ver:</span>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/"><span style="font-size: large;">Quarto com parede amarela: você quer inspirações?</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/"><span style="font-size: large;">Quarto com parede amarela: você quer inspirações?</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.decoracaodacasa.com/sala-de-estar-com-amarelo/" target="_blank"><span style="font-size: large;">Decorando a sala de estar com amerelo.</span></a></strong>
+  **<a href="http://www.decoracaodacasa.com/sala-de-estar-com-amarelo/" target="_blank"><span style="font-size: large;">Decorando a sala de estar com amerelo.</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank"><span style="font-size: large;">Decoração e interiores: que cor usar na parede da sala de estar?</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank"><span style="font-size: large;">Decoração e interiores: que cor usar na parede da sala de estar?</span></a>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/23/maes-filhos/"><strong><span style="font-size: large;"> </span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/23/maes-filhos/">**<span style="font-size: large;"> </span>**</a>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ Imagens: **_<a href="http://www.ivillage.com/" target="_blank">ivillage</a>_**
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

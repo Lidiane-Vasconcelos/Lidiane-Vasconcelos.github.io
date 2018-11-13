@@ -1,7 +1,7 @@
 ---
-id: 2718
+
 title: Atitudes que garantem um vida mais saudável.
-date: 2009-10-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/21/atitudes-vida-saudavel/
@@ -31,7 +31,7 @@ Sempre fui magra, e nunca tive problemas com excesso de peso. Me casei com 21 an
 
 Mas eu sabia&#8230; sabia, sim! Foi toda a pizza, hambúrguer, coca-cola, trakinas (o biscoito recheado mais gostoso que existe e eu comia um pacote todo dia); resumindo: uma alimentação errada e uma vida sedentária.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="antes_e_depois_-__bicha_femea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea_thumb.jpg" border="0" alt="antes_e_depois_-__bicha_femea" width="260" height="260" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea.jpg) RESULTADO: cansaço, falta de ânimo, ansiedade, colesterol alto, dor nos joelhos, inchaço, retenção de líquidos&#8230; chegou a um ponto que eu tinha que tomar uma atitude. Nunca pensei (e acho erradíssimo) fazer dietas _mirabolantes_ e tomar medicamentos; precisava mais do que isso: <span style="text-decoration: underline;"><strong>Queria mudar a minha vida</strong></span>. Procurei uma nutricionista para me orientar e entrei na academia. Foram conquistas, sacrifícios e renúncias dia após dia, meses&#8230; emagreci 10 quilos em sete meses. Hoje não largo o meu exercício físico por nada e principalmente a minha aula de _spinning_, que é fundamental para queimar calorias, fortalecer o coração e os membros inferiores, e melhorar a circulação sanguínea. Hoje tenho disposição para tudo e me sinto sempre vigorada. A minha resistência física está ótima.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="antes_e_depois_-__bicha_femea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea_thumb.jpg" border="0" alt="antes_e_depois_-__bicha_femea" width="260" height="260" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea.jpg) RESULTADO: cansaço, falta de ânimo, ansiedade, colesterol alto, dor nos joelhos, inchaço, retenção de líquidos&#8230; chegou a um ponto que eu tinha que tomar uma atitude. Nunca pensei (e acho erradíssimo) fazer dietas _mirabolantes_ e tomar medicamentos; precisava mais do que isso: <span style="text-decoration: underline;">**Queria mudar a minha vida**</span>. Procurei uma nutricionista para me orientar e entrei na academia. Foram conquistas, sacrifícios e renúncias dia após dia, meses&#8230; emagreci 10 quilos em sete meses. Hoje não largo o meu exercício físico por nada e principalmente a minha aula de _spinning_, que é fundamental para queimar calorias, fortalecer o coração e os membros inferiores, e melhorar a circulação sanguínea. Hoje tenho disposição para tudo e me sinto sempre vigorada. A minha resistência física está ótima.
 
 E por experiência própria, deixo estas orientações para as bichas que também querem mudar de atitude para uma vida mais saudável:
 

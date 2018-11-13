@@ -1,7 +1,7 @@
 ---
-id: 2605
+
 title: Dicas para relaxar em casa, como se você estivesse em um SPA.
-date: 2009-01-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/19/dicas-relaxamento/

@@ -1,7 +1,7 @@
 ---
-id: 2775
+
 title: Cumprir Tarefas Ou Saboreá-las?
-date: 2010-01-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/29/cumprir-tarefas-rotina/

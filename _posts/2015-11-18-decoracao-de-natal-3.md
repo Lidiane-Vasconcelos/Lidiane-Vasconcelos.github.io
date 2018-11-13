@@ -1,7 +1,7 @@
 ---
-id: 3513
+
 title: 'Decoração de Natal: download grátis de bandeirolas'
-date: 2015-11-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/18/decoracao-de-natal-3/
@@ -10,19 +10,19 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Tenho produzido posts para te inspirar a preparar a sua casa para o Natal, de modo que não seja necessário gastar horrores. Isso mesmo! O que é barato ou simples pode ser muito bonito. Um post que gostei bastante de fazer foi o que mostra <a href="http://www.trololodemulher.com.br/2015/11/11/decoracao-da-porta-no-natal/" target="_blank">formas de decorar a entrada da casa sem guirlanda</a>. Dentre as sugestões mostradas, está o uso de letras formando frases, para serem penduradas no alto da porta. A boa notícia é que, agora, nem a compra das bandeirolas será necessária, porque quero te dar uma dica das boas sobre onde fazer o <em>download</em> grátis de letras para a sua <strong>decoração de Natal</strong>. Vem comigo!
+  Tenho produzido posts para te inspirar a preparar a sua casa para o Natal, de modo que não seja necessário gastar horrores. Isso mesmo! O que é barato ou simples pode ser muito bonito. Um post que gostei bastante de fazer foi o que mostra <a href="http://www.trololodemulher.com.br/2015/11/11/decoracao-da-porta-no-natal/" target="_blank">formas de decorar a entrada da casa sem guirlanda</a>. Dentre as sugestões mostradas, está o uso de letras formando frases, para serem penduradas no alto da porta. A boa notícia é que, agora, nem a compra das bandeirolas será necessária, porque quero te dar uma dica das boas sobre onde fazer o <em>download</em> grátis de letras para a sua **decoração de Natal**. Vem comigo!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/28/mesa-arrumada-para-o-natal/" target="_blank"><strong>Mesa arrumada para o Natal: veja 8 ideias.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/28/mesa-arrumada-para-o-natal/" target="_blank">**Mesa arrumada para o Natal: veja 8 ideias.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank"><strong>Arranjo de mesa de Natal: faça você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">**Arranjo de mesa de Natal: faça você mesma.**</a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>O que você pode fazer?</strong>
+  **O que você pode fazer?**
 </p>
 
 <p align="justify">
@@ -50,23 +50,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/" target="_blank"><strong>Natal em apartamento pequeno: 5 dicas para decoração.</strong></a>
+  <a href="http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/" target="_blank">**Natal em apartamento pequeno: 5 dicas para decoração.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeite-natalino-rustico/" target="_blank"><strong>Enfeite natalino rústico: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/enfeite-natalino-rustico/" target="_blank">**Enfeite natalino rústico: faça você mesma.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank"><strong>Decoração natalina: inspiração das casas reais.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank">**Decoração natalina: inspiração das casas reais.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeites-natalinos/" target="_blank"><strong>3 cordões de enfeites natalinos: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/enfeites-natalinos/" target="_blank">**3 cordões de enfeites natalinos: faça você mesma.**</a>
 </p>
 
 <p align="center">

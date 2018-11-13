@@ -1,7 +1,7 @@
 ---
-id: 3444
+
 title: 'Hipertensão Gestacional: entenda tudo de um jeito simples.'
-date: 2015-07-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/10/hipertensao-gestacional/
@@ -16,7 +16,7 @@ categories:
 </p>
 
 <p align="justify">
-  Nossa consultora é nova por aqui, e desde já é muito querida no espaço. Trata-se da <strong>Dra. Lívia A. Vieira, Médica Ginecologista e Obstetra, de São José do Rio Preto-SP</strong>. Ela tirou todas as nossas dúvidas, o que resultou no que você verá a seguir… informe-se e fique a atenta a mudanças perigosas no curso da gestão que podem custar a vida de mãe e bebê. Vem!
+  Nossa consultora é nova por aqui, e desde já é muito querida no espaço. Trata-se da **Dra. Lívia A. Vieira, Médica Ginecologista e Obstetra, de São José do Rio Preto-SP**. Ela tirou todas as nossas dúvidas, o que resultou no que você verá a seguir… informe-se e fique a atenta a mudanças perigosas no curso da gestão que podem custar a vida de mãe e bebê. Vem!
 </p>
 
 <p align="justify">
@@ -24,15 +24,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank"><strong>Alimentação na gravidez: saúde para mamãe e bebê</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank">**Alimentação na gravidez: saúde para mamãe e bebê**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank"><strong>Gavidez saudável, segura e em equilíbrio: como vivenciá-la?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank">**Gavidez saudável, segura e em equilíbrio: como vivenciá-la?**</a>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<strong><em>Não dispomos de meios satisfatórios para prevenção primária da Hipertensão Gestacional. Mas em casos em que ela já foi diagnosticada, um correto acompanhamento pré-natal e tratamento eficiente podem prevenir maiores complicações. O momento do parto depende das condições clínica e laboratorial maternas, da idade gestacional e das condições fetais. Sendo a via de parto, cesárea ou normal, também individualizadas</em></strong>.”
+>   “**<em>Não dispomos de meios satisfatórios para prevenção primária da Hipertensão Gestacional. Mas em casos em que ela já foi diagnosticada, um correto acompanhamento pré-natal e tratamento eficiente podem prevenir maiores complicações. O momento do parto depende das condições clínica e laboratorial maternas, da idade gestacional e das condições fetais. Sendo a via de parto, cesárea ou normal, também individualizadas</em>**.”
 > </p>
 
 <p align="center">

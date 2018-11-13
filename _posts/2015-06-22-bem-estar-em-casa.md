@@ -1,7 +1,7 @@
 ---
-id: 3438
+
 title: 'Bem-estar em casa: 3 dicas pra relaxar após o trabalho'
-date: 2015-06-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/22/bem-estar-em-casa/
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  O que eu tenho a dizer pra você é: <strong>cozinhar algo fácil</strong>.
+  O que eu tenho a dizer pra você é: **cozinhar algo fácil**.
 </p>
 
 <p align="justify">
@@ -34,35 +34,35 @@ categories:
 </p>
 
 <p align="justify">
-  O que Rosana tem a dizer pra você é: <strong>desconecte</strong>.
+  O que Rosana tem a dizer pra você é: **desconecte**.
 </p>
 
 > <p align="justify">
->   “<strong><em>Minha sugestão é algo bem simples, mas que eu acredito ter um efeito enorme, se se transforma em um hábito, da pessoa ou da família: Desligar a tv e outras tranqueiras eletrônicas, e usar um tempo &#8211; seja meia hora, seja uma hora, seja 2 vezes por semana, seja todo dia, mas que tenha frequência, que se torne realmente um hábito &#8211; para se dedicar a ouvir. Ouvir a si mesmo, ouvir como foi o dia de cada um dos familiares ou fazer uma atividade juntos, seja montar um quebra-cabeças, seja ler partes de um livro, contar uma piada, enfim. Fazer realmente algo junto com a família ou consigo mesmo, só para si. Estamos cada vez mais conectados com o mundo, mas vivemos em lares em que todos estão sós e, pior, nós acabamos por ficar tempo demais desconectados de nós mesmos. Sem gente (ou sem a gente mesmo) não há lar.</em>” Rosana Silva | </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank"><strong>Simples Decoração</strong></a>
+>   “**<em>Minha sugestão é algo bem simples, mas que eu acredito ter um efeito enorme, se se transforma em um hábito, da pessoa ou da família: Desligar a tv e outras tranqueiras eletrônicas, e usar um tempo &#8211; seja meia hora, seja uma hora, seja 2 vezes por semana, seja todo dia, mas que tenha frequência, que se torne realmente um hábito &#8211; para se dedicar a ouvir. Ouvir a si mesmo, ouvir como foi o dia de cada um dos familiares ou fazer uma atividade juntos, seja montar um quebra-cabeças, seja ler partes de um livro, contar uma piada, enfim. Fazer realmente algo junto com a família ou consigo mesmo, só para si. Estamos cada vez mais conectados com o mundo, mas vivemos em lares em que todos estão sós e, pior, nós acabamos por ficar tempo demais desconectados de nós mesmos. Sem gente (ou sem a gente mesmo) não há lar.</em>” Rosana Silva | **<a href="http://www.simplesdecoracao.com.br/" target="_blank">**Simples Decoração**</a>
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/01/23/conectada-vida-real/" target="_blank">O que te conecta com a vida real?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/01/23/conectada-vida-real/" target="_blank">O que te conecta com a vida real?</a>**
 </p>
 
 <p align="justify">
-  O que a Evinha tem a dizer pra você é: <strong>organize-se e viva</strong>!
+  O que a Evinha tem a dizer pra você é: **organize-se e viva**!
 </p>
 
 > <p align="justify">
->   “<strong><em>O que eu tenho feito no fim do dia pra relaxar é: organizar minha mesa e planejar minimamente o outro dia anotando na agenda. Essa é uma tarefa bem importante pra mim porque depois que eu anoto eu não preciso mais ficar com elas martelando na cabeça. Também dou uma breve organizada em algo que esteja fora do lugar em casa e aí me sinto tranquila por não ter pendência pro outro dia (além do que já é tarefa do outro dia). E aí eu vou ficar com minha filha. Tomo um banho, coloco o pijama, preparo algo pra gente comer e ficamos na cama. Num dia lemos um livro (cada um lê o seu), no outro vemos um filme, às vezes ficamos só jogando joguinhos no celular e sempre conversamos sobre nossos dias. Isso me ajuda muito a desconectar do trabalho porque &#8220;saio do meu mundo pra entrar no mundo dela&#8221;. Essa é uma forma que encontro de estar mais próxima dela. Não consigo fazer isso todo dia ainda, mas é a estratégia que tenho usado e tem sido MUITO bom quando consigo, e tem influenciado demais na minha relação com Doricas!”</em> Evinha Caroline | </strong><a href="http://www.lojalapomme.com.br/" target="_blank"><strong>La Pomme</strong></a>
+>   “**<em>O que eu tenho feito no fim do dia pra relaxar é: organizar minha mesa e planejar minimamente o outro dia anotando na agenda. Essa é uma tarefa bem importante pra mim porque depois que eu anoto eu não preciso mais ficar com elas martelando na cabeça. Também dou uma breve organizada em algo que esteja fora do lugar em casa e aí me sinto tranquila por não ter pendência pro outro dia (além do que já é tarefa do outro dia). E aí eu vou ficar com minha filha. Tomo um banho, coloco o pijama, preparo algo pra gente comer e ficamos na cama. Num dia lemos um livro (cada um lê o seu), no outro vemos um filme, às vezes ficamos só jogando joguinhos no celular e sempre conversamos sobre nossos dias. Isso me ajuda muito a desconectar do trabalho porque &#8220;saio do meu mundo pra entrar no mundo dela&#8221;. Essa é uma forma que encontro de estar mais próxima dela. Não consigo fazer isso todo dia ainda, mas é a estratégia que tenho usado e tem sido MUITO bom quando consigo, e tem influenciado demais na minha relação com Doricas!”</em> Evinha Caroline | **<a href="http://www.lojalapomme.com.br/" target="_blank">**La Pomme**</a>
 > </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/03/12/relaxar-tensoes-bem-estar/" target="_blank">Como relaxar suas tensões? 4 profissionais dão dicas.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/03/12/relaxar-tensoes-bem-estar/" target="_blank">Como relaxar suas tensões? 4 profissionais dão dicas.</a>**
 </p>
 
 &nbsp;

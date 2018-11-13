@@ -1,7 +1,7 @@
 ---
-id: 3728
+
 title: Veja como cuidar de sua autoestima, e tenha uma vida leve!
-date: 2017-02-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/17/autoestima-2/
@@ -11,11 +11,11 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Cuidar de si mesmo, tanto do corpo quanto da mente, é fundamental para uma vida boa e feliz. A vida flui leve, a gente encara melhor os obstáculos, e a <strong>autoestima</strong> vai lá pra cima! Se, por outro lado, a sua anda baixinha, é preciso acender o sinal de alerta: algumas atitudes precisam ser corrigidas para reverter essa situação.
+  Cuidar de si mesmo, tanto do corpo quanto da mente, é fundamental para uma vida boa e feliz. A vida flui leve, a gente encara melhor os obstáculos, e a **autoestima** vai lá pra cima! Se, por outro lado, a sua anda baixinha, é preciso acender o sinal de alerta: algumas atitudes precisam ser corrigidas para reverter essa situação.
 </p>
 
 <p align="justify">
-  É importante saber que nem sempre nos sentimos satisfeitas, e tudo bem. Nossa consultora <strong>Angélica de Lima, Psicóloga, de Belo Horizonte – MG</strong>, alerta que é preciso estar atenta quando a situação de tristeza e autodepreciação se torna constante… aí, sim: é preciso buscar ajuda. Confira!
+  É importante saber que nem sempre nos sentimos satisfeitas, e tudo bem. Nossa consultora **Angélica de Lima, Psicóloga, de Belo Horizonte – MG**, alerta que é preciso estar atenta quando a situação de tristeza e autodepreciação se torna constante… aí, sim: é preciso buscar ajuda. Confira!
 </p>
 
 <p align="center">
@@ -47,11 +47,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank"><strong>Medidas práticas pra restaurar sua autoestima… já!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">**Medidas práticas pra restaurar sua autoestima… já!**</a>
 </p>
 
 <p style="text-align: justify;">

@@ -1,7 +1,7 @@
 ---
-id: 3514
+
 title: Por que o sistema de saúde pública na Finlândia funciona?
-date: 2015-11-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/20/saude-publica-na-finlandia/
@@ -11,7 +11,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Quando eu soube que era raríssimo ver a cara de um médico naquela terra tão fria, me questionei se a <strong>saúde pública na Finlândia</strong> era boa. Será?! Pois é disso que a <strong>Adriana Minhoto</strong> fala com exclusividade para o <strong>Trololó de Mulher</strong> neste mês. Acredite! Mesmo parecendo estranho, já que é muito diferente do que conhecemos por atendimento de saúde, o jeito de lidar com essa necessidade coletiva funciona em terras finlandesas. Entenda como e o porquê…
+  Quando eu soube que era raríssimo ver a cara de um médico naquela terra tão fria, me questionei se a **saúde pública na Finlândia** era boa. Será?! Pois é disso que a **Adriana Minhoto** fala com exclusividade para o **Trololó de Mulher** neste mês. Acredite! Mesmo parecendo estranho, já que é muito diferente do que conhecemos por atendimento de saúde, o jeito de lidar com essa necessidade coletiva funciona em terras finlandesas. Entenda como e o porquê…
 </p>
 
 <p align="center">
@@ -75,31 +75,31 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Entenda como tudo começou:</strong>
+  **Entenda como tudo começou:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
 </p>
 
 <p align="justify">
-  <strong>Mais sobre a Finlândia, por Adriana Minhoto:</strong>
+  **Mais sobre a Finlândia, por Adriana Minhoto:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank">Serviço doméstico na Finlândia: quem cuida disso?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/10/16/servico-domestico-na-finlandia/" target="_blank">Serviço doméstico na Finlândia: quem cuida disso?</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank">Casa e decoração: o jeito de morar na Finlândia.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/09/18/morar-na-finlandia/" target="_blank">Casa e decoração: o jeito de morar na Finlândia.</a>**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank">Mulheres brasileiras na Finlândia: histórias da vida real.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/21/mulheres-brasileiras-na-finlandia/" target="_blank">Mulheres brasileiras na Finlândia: histórias da vida real.</a>**
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">

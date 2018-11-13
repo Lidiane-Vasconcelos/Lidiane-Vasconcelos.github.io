@@ -1,7 +1,7 @@
 ---
-id: 3858
+
 title: Conteúdo feminino relevante pra fazer diferença!
-date: 2018-04-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/09/conteudo-feminino/
@@ -10,15 +10,15 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  O Trololó de Mulher é sinônimo de <strong>conteúdo feminino</strong> pensado pra tocar positivamente o nosso dia, e desejo que o post da semana cumpra esse objetivo. Preciso dizer pra você que tenho estado bastante motivada para os encontros mais intimistas, nos <strong>bastidores do Trololó de Mulher, através da Newsletter que chega no e-mail das leitoras</strong>.
+  O Trololó de Mulher é sinônimo de **conteúdo feminino** pensado pra tocar positivamente o nosso dia, e desejo que o post da semana cumpra esse objetivo. Preciso dizer pra você que tenho estado bastante motivada para os encontros mais intimistas, nos **bastidores do Trololó de Mulher, através da Newsletter que chega no e-mail das leitoras**.
 </p>
 
 <p align="justify">
-  Espero que quando você receba minha mensagem, haja um sorriso no rosto e vontade de trocar figurinhas virtuais também. Para esse nosso encontro mais de pertinho acontecer, <strong><a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">deixe o seu “Eu quero!” neste post</a></strong>.
+  Espero que quando você receba minha mensagem, haja um sorriso no rosto e vontade de trocar figurinhas virtuais também. Para esse nosso encontro mais de pertinho acontecer, **<a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">deixe o seu “Eu quero!” neste post</a>**.
 </p>
 
 <p align="justify">
-  <strong>E por aqui a gente continua, sempre acreditando que informação salva!</strong>
+  **E por aqui a gente continua, sempre acreditando que informação salva!**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3512
+
 title: 'Mulher que trata companheiro como filho: instinto materno?'
-date: 2015-11-13T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/13/instinto-materno/
@@ -12,7 +12,7 @@ categories:
   - Relacionamento
 ---
 <p align="justify">
-  Há mulheres que cuidam de seus companheiros com bastante zelo, e há homens que permitem esse tipo de tratamento. Há <strong>instinto materno</strong> nisso? Cuidar e ser cuidado, de tal maneira, faz parte da natureza íntima de ambos? Até que ponto isso pode trazer danos para a relação? Na dúvida sobre se isso está ou não dentro do que é saudável na convivência entre um homem e uma mulher, busquei a consultoria da <strong>Psicanalista Geisa Machado, de São Paulo</strong>. Embora qualquer um de nós, homens ou mulheres, gostemos tanto de carinho e cuidado, Geisa desmistifica o senso comum de que o gosto pelo cuidar seja algo exclusivamente feminino: “n<em>ão se pode afirmar que mulheres gostam de cuidar. Algumas gostam mais do que outras, e existem mulheres que só querem cuidar delas mesmas. O cuidar faz parte do universo feminino, mas esta função não é de uso exclusivo da mulher, muitos homens também cuidam de suas esposas e filhos</em>”.
+  Há mulheres que cuidam de seus companheiros com bastante zelo, e há homens que permitem esse tipo de tratamento. Há **instinto materno** nisso? Cuidar e ser cuidado, de tal maneira, faz parte da natureza íntima de ambos? Até que ponto isso pode trazer danos para a relação? Na dúvida sobre se isso está ou não dentro do que é saudável na convivência entre um homem e uma mulher, busquei a consultoria da **Psicanalista Geisa Machado, de São Paulo**. Embora qualquer um de nós, homens ou mulheres, gostemos tanto de carinho e cuidado, Geisa desmistifica o senso comum de que o gosto pelo cuidar seja algo exclusivamente feminino: “n<em>ão se pode afirmar que mulheres gostam de cuidar. Algumas gostam mais do que outras, e existem mulheres que só querem cuidar delas mesmas. O cuidar faz parte do universo feminino, mas esta função não é de uso exclusivo da mulher, muitos homens também cuidam de suas esposas e filhos</em>”.
 </p>
 
 <p align="justify">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> É possível que uma mulher, que não queira filhos, transfira o sentimento maternal para o companheiro?</strong>
+  **Trololó de Mulher >>> É possível que uma mulher, que não queira filhos, transfira o sentimento maternal para o companheiro?**
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TMulher >>> Como se caracteriza um relacionamento entre um homem e mulher onde os papeis de filho e mãe estão instalados?</strong>
+  **TMulher >>> Como se caracteriza um relacionamento entre um homem e mulher onde os papeis de filho e mãe estão instalados?**
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM >>> Somente mulheres fortes são capazes de colocar homens no lugar de filhos? Homens neste lugar são fracos?</strong>
+  **TM >>> Somente mulheres fortes são capazes de colocar homens no lugar de filhos? Homens neste lugar são fracos?**
 </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM >>>Tratar um homem dessa forma dá a sensação de empoderamento para essa mulher?</strong>
+  **TM >>>Tratar um homem dessa forma dá a sensação de empoderamento para essa mulher?**
 </p>
 
 <p align="justify">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TM >>> Quais os riscos envolvidos numa relação como essa?</strong>
+  **TM >>> Quais os riscos envolvidos numa relação como essa?**
 </p>
 
 <p align="justify">
@@ -68,23 +68,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank"><strong>Casamento: os conselhos mais inteligentes. Já leu?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank">**Casamento: os conselhos mais inteligentes. Já leu?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/" target="_blank"><strong>Você é daquelas que acreditam nunca acertar em suas relações amorosas?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/09/relacoes-amorosas/" target="_blank">**Você é daquelas que acreditam nunca acertar em suas relações amorosas?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/07/loucuras-de-amor/" target="_blank"><strong>Você já viveu um amor louco… um louco amor?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/07/07/loucuras-de-amor/" target="_blank">**Você já viveu um amor louco… um louco amor?**</a>
 </p>
 
 <p align="justify">
-  <strong>TM >>> O que quer uma mulher nestas condições: um homem ou um filho?</strong>
+  **TM >>> O que quer uma mulher nestas condições: um homem ou um filho?**
 </p>
 
 <p align="justify">
@@ -104,15 +104,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias de Geisa Machado:</strong>
+  **Mais consultorias de Geisa Machado:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/23/trabalho-carreira/" target="_blank"><strong>“Amo tanto o meu trabalho!”… será mesmo amor?!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/07/23/trabalho-carreira/" target="_blank">**“Amo tanto o meu trabalho!”… será mesmo amor?!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/" target="_blank"><strong>Mães que trabalham muito e ficam menos com os filhos: e daí?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/" target="_blank">**Mães que trabalham muito e ficam menos com os filhos: e daí?**</a>
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 2744
+
 title: 'A educação dos homens e mulheres de amanhã&#8230;'
-date: 2009-12-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/02/educacao-domestica/
@@ -44,6 +44,6 @@ Imagem: <a href="http://embroideryetcetera.com/" target="_blank">Embroidery Etce
 
 **Mais no Bicha Fêmea…**
 
-<a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/" target="_self"><strong><em>A</em></strong><strong><em> educação vem mesmo de berço?</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/" target="_self">**<em>A</em>****<em> educação vem mesmo de berço?</em>**</a>
 
 **_<a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/" target="_self">Filho de ecomãe, ecofilho é?</a>_**

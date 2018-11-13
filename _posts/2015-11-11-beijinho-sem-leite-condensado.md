@@ -1,7 +1,7 @@
 ---
-id: 3510
+
 title: Beijinho sem leite condensado
-date: 2015-11-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/11/beijinho-sem-leite-condensado/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Docinho de festa é um clássico: seja para um momento festivo, ou para aquela vontade repentina de saborear um doce, ele sempre faz sucesso. Essa receita de <strong>beijinho sem leite condensado</strong> que a Carol compartilhou conosco é pra guardar com carinho e recorrer a ela nestas situações. Aprecie sem culpa… olha só:
+  Docinho de festa é um clássico: seja para um momento festivo, ou para aquela vontade repentina de saborear um doce, ele sempre faz sucesso. Essa receita de **beijinho sem leite condensado** que a Carol compartilhou conosco é pra guardar com carinho e recorrer a ela nestas situações. Aprecie sem culpa… olha só:
 </p>
 
 &nbsp;
@@ -54,27 +54,27 @@ Cravo;
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank"><strong>Suflê de couve-flor e cenoura</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank">**Suflê de couve-flor e cenoura**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/14/pudim-de-chocolate-light/" target="_blank"><strong>Pudim de chocolate light</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/14/pudim-de-chocolate-light/" target="_blank">**Pudim de chocolate light**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.belezacorpoecia.com/bolo-simples-integral/" target="_blank"><strong>Bolo simples integral com gotas de chocolate</strong></a>
+  <a href="http://www.belezacorpoecia.com/bolo-simples-integral/" target="_blank">**Bolo simples integral com gotas de chocolate**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank"><strong>Mousse de abacate e cacau em pó</strong></a>
+  <a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">**Mousse de abacate e cacau em pó**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

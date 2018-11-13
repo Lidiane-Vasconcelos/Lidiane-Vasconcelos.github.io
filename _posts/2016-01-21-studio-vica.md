@@ -1,7 +1,7 @@
 ---
-id: 3530
+
 title: 'Sorteio de pôster Studio Vica: escolha um e viva de amores.'
-date: 2016-01-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/21/studio-vica/
@@ -12,7 +12,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Já falei do <strong>Studio Vica</strong> e sua linha de <a href="http://www.decoracaodacasa.com/vica-pra-casa/" target="_blank">produtos Vica pra Casa</a> dia desses lá no <strong>Decoração da Casa</strong>? A ideia é te mostrar uma loja com produtos bonitos, descolados e com pitadas de <em>design</em> pra deixar sua casa do seu jeito. Os pôsters com propostas visuais diferentes e exclusivas é daqueles itens moderninhos pelos quais eu vivo de amores. Sabe a boa notícia? No Studio Vica há alguns dos mais lindos e cheios de <em>bossa</em> para o seu lar. Você pode usar apenas um deles, ou vários em composição. Pendurados na parede ou despretensiosamente encostados em algum lugar, o resultado é pura lindeza… é pra viver de amor!
+  Já falei do **Studio Vica** e sua linha de <a href="http://www.decoracaodacasa.com/vica-pra-casa/" target="_blank">produtos Vica pra Casa</a> dia desses lá no **Decoração da Casa**? A ideia é te mostrar uma loja com produtos bonitos, descolados e com pitadas de <em>design</em> pra deixar sua casa do seu jeito. Os pôsters com propostas visuais diferentes e exclusivas é daqueles itens moderninhos pelos quais eu vivo de amores. Sabe a boa notícia? No Studio Vica há alguns dos mais lindos e cheios de <em>bossa</em> para o seu lar. Você pode usar apenas um deles, ou vários em composição. Pendurados na parede ou despretensiosamente encostados em algum lugar, o resultado é pura lindeza… é pra viver de amor!
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Esse sorteio será realizado em paralelo com o Facebook. O que você tem a fazer
 &nbsp;
 
 <p style="text-align: justify;">
-  1 – <a href="https://www.facebook.com/studiovica/timeline" target="_blank">Curta a página do Studio Vica no Facebook</a>. O objetivo é que você, leitora do blog que vive de amores pela ideia de usar itens decorativos com personalidade em sua casa, fique por dentro das novidades que vêm por aí na linha de produtos <strong>Vica pra Casa</strong>, combinado?
+  1 – <a href="https://www.facebook.com/studiovica/timeline" target="_blank">Curta a página do Studio Vica no Facebook</a>. O objetivo é que você, leitora do blog que vive de amores pela ideia de usar itens decorativos com personalidade em sua casa, fique por dentro das novidades que vêm por aí na linha de produtos **Vica pra Casa**, combinado?
 </p>
 
 &nbsp;
@@ -84,16 +84,16 @@ Simples, não é?!?
 **<span style="color: #c0504d;">Atualização</span>**
 
 <p style="text-align: justify;">
-  Meninas, algumas de vocês estão esquecendo um detalhe bastante importante das regras (bastante simples) do sorteio: <strong>curtir a fanpage do Studio Vica</strong>. Fiquem atentas e cumpram as (pouquíssimas) regras bem direitinho pra garantir que vai receber seu presente, caso seja sorteada. Combinado?
+  Meninas, algumas de vocês estão esquecendo um detalhe bastante importante das regras (bastante simples) do sorteio: **curtir a fanpage do Studio Vica**. Fiquem atentas e cumpram as (pouquíssimas) regras bem direitinho pra garantir que vai receber seu presente, caso seja sorteada. Combinado?
 </p>
 
 <p align="justify">
-  <strong><span style="color: #d16349;">Atualização</span></strong>
+  **<span style="color: #d16349;">Atualização</span>**
 </p>
 
 <p align="justify">
   <p align="justify">
-    E saiu o resultado!!!! A sortuda que vai receber o pôster do <strong>Studio Vica</strong> em casa é…
+    E saiu o resultado!!!! A sortuda que vai receber o pôster do **Studio Vica** em casa é…
   </p>
   
   <p align="justify">
@@ -103,7 +103,7 @@ Simples, não é?!?
     
     <p align="justify">
       <p align="justify">
-        <strong>Roberta</strong>!!! Parabéns, Beta!
+        **Roberta**!!! Parabéns, Beta!
       </p>
       
       <p align="justify">

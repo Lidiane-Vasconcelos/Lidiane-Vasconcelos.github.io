@@ -1,7 +1,7 @@
 ---
-id: 3306
+
 title: 'Cálcio, fibras, probióticos, ômega-3: quanto mais, melhor?'
-date: 2014-06-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/09/alimentos-enriquecidos/
@@ -20,7 +20,7 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;">Com a palavra, a especialista:</span></strong>
+  **<span style="font-size: small;">Com a palavra, a especialista:</span>**
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;"><span style="color: #9c85c0; background-color: #ffffff;">Bicha Fêmea</span> > É comum vermos pães, biscoitos ou torradas enriquecidos com fibras. Afinal, porque elas são tão importantes?</span></strong>
+  **<span style="font-size: small;"><span style="color: #9c85c0; background-color: #ffffff;">Bicha Fêmea</span> > É comum vermos pães, biscoitos ou torradas enriquecidos com fibras. Afinal, porque elas são tão importantes?</span>**
 </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;"><span style="color: #9c85c0;">Bicha Fêmea</span> > Quanto aos iogurtes com probióticos, no que eles são diferentes dos comuns?</span></strong>
+  **<span style="font-size: small;"><span style="color: #9c85c0;">Bicha Fêmea</span> > Quanto aos iogurtes com probióticos, no que eles são diferentes dos comuns?</span>**
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;"><span style="color: #9c85c0;">Bicha Fêmea</span> > O cálcio é bom para os ossos e vemos no supermercado alimentos lácteos enriquecidos com a substância. Vale a pena investir nesses alimentos, mesmo que não sejamos crianças ou idosas?</span></strong>
+  **<span style="font-size: small;"><span style="color: #9c85c0;">Bicha Fêmea</span> > O cálcio é bom para os ossos e vemos no supermercado alimentos lácteos enriquecidos com a substância. Vale a pena investir nesses alimentos, mesmo que não sejamos crianças ou idosas?</span>**
 </p>
 
 &nbsp;
@@ -82,7 +82,7 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;"><span style="color: #9c85c0;">Bicha Fêmea</span> > Há margarinas e pães enriquecidos com ômega-3 disponíveis no mercado. Consumí-los é imprescindível para a saúde? E, ainda, quanto ás capsulas que têm esses nutrientes, é válido consumí-las em detrimento dos alimentos enriquecidos?</span></strong>
+  **<span style="font-size: small;"><span style="color: #9c85c0;">Bicha Fêmea</span> > Há margarinas e pães enriquecidos com ômega-3 disponíveis no mercado. Consumí-los é imprescindível para a saúde? E, ainda, quanto ás capsulas que têm esses nutrientes, é válido consumí-las em detrimento dos alimentos enriquecidos?</span>**
 </p>
 
 &nbsp;
@@ -100,7 +100,7 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p align="justify">
-  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank">seu blog clicando bem aqui</a>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong>pelo<strong>Facebook</strong>, através de sua <em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em>. Vai perder?
+  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank">seu blog clicando bem aqui</a>. Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid**pelo**Facebook**, através de sua <em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em>. Vai perder?
 </p>
 
 <p align="justify">
@@ -114,7 +114,7 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3322
+
 title: 'Dinheiro: guardar x gastar x investir. O que é melhor?'
-date: 2014-07-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/18/dinheiro-educacao-financeira/
@@ -32,7 +32,7 @@ categories:
   </p>
   
   <p align="justify">
-    <strong><span style="color: #c0504d;">Trololó de Mulher: Como se dá uma relação saudável entre guardar, gastar e investir, quando o assunto é dinheiro?</span></strong>
+    **<span style="color: #c0504d;">Trololó de Mulher: Como se dá uma relação saudável entre guardar, gastar e investir, quando o assunto é dinheiro?</span>**
   </p>
   
   <p>
@@ -41,16 +41,16 @@ categories:
   
   <blockquote>
     <p align="justify">
-      <strong>O saudável é encontrar o equilíbrio entre essas três ações. O consumo é fundamental, mas precisa ser feito de forma consciente. Criar o hábito de economizar e criar seu colchão de segurança é muito importante para criar uma vida financeira de sucesso. Através de uma análise do seu orçamento, identifica-se um valor ideal para ser guardado, sagradamente, todo mês. Tudo é um processo, você entende qual é a forma de consumo saudável para suas finanças, economiza um valor mensal definido sem que interfira no seu estilo de vida e de acordo com seus objetivos financeiros e por fim, identifica qual é o melhor tipo de investimento para que seu dinheiro guardado seja aplicado. O investimento é como se fosse um atalho para suas conquistas financeiras. Só guardar seu dinheiro, pode ser um tanto quanto desmotivador, demora para se ver um resultado e a se conquistar os objetivos. Investir faz com que você veja seu dinheiro se multiplicar e trabalhar por você, deixando-a cada vez mais perto de seus sonhos.”</strong>
+      **O saudável é encontrar o equilíbrio entre essas três ações. O consumo é fundamental, mas precisa ser feito de forma consciente. Criar o hábito de economizar e criar seu colchão de segurança é muito importante para criar uma vida financeira de sucesso. Através de uma análise do seu orçamento, identifica-se um valor ideal para ser guardado, sagradamente, todo mês. Tudo é um processo, você entende qual é a forma de consumo saudável para suas finanças, economiza um valor mensal definido sem que interfira no seu estilo de vida e de acordo com seus objetivos financeiros e por fim, identifica qual é o melhor tipo de investimento para que seu dinheiro guardado seja aplicado. O investimento é como se fosse um atalho para suas conquistas financeiras. Só guardar seu dinheiro, pode ser um tanto quanto desmotivador, demora para se ver um resultado e a se conquistar os objetivos. Investir faz com que você veja seu dinheiro se multiplicar e trabalhar por você, deixando-a cada vez mais perto de seus sonhos.”**
     </p>
   </blockquote>
   
   <p align="justify">
-    <strong>Não deixe de ler:</strong>
+    **Não deixe de ler:**
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
+    <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank">**Dicas que seu bolso agradece, e muito!**</a>
   </p>
   
   <p align="center">
@@ -66,7 +66,7 @@ categories:
   </p>
   
   <p align="justify">
-    <strong><span style="color: #c0504d;">Trololó de Mulher: Aprender a parar e pensar sobre o que fazer com o dinheiro é a chave para a prosperidade financeira?</span></strong>
+    **<span style="color: #c0504d;">Trololó de Mulher: Aprender a parar e pensar sobre o que fazer com o dinheiro é a chave para a prosperidade financeira?</span>**
   </p>
   
   <p>
@@ -75,16 +75,16 @@ categories:
   
   <blockquote>
     <p align="justify">
-      <strong>Sim, é uma delas. Temos o péssimo hábito de nos deixar influenciar pelas ofertas, promoções e apelos de consumo. Tudo isso porque para nós é mais fácil agirmos sem pensar. Quando tiramos um tempo para criar nosso planejamento financeiro, estamos tirando um tempo para pensar na nossa situação e tornamos tudo muito mais racional. Conhecemos nossa situação atual, definimos objetivos que nos ajudam a seguir em frente com determinação e com tudo isso acabamos tomando o controle do nosso orçamento e assim caminhando com prosperidade rumo ao sucesso financeiro.”</strong>
+      **Sim, é uma delas. Temos o péssimo hábito de nos deixar influenciar pelas ofertas, promoções e apelos de consumo. Tudo isso porque para nós é mais fácil agirmos sem pensar. Quando tiramos um tempo para criar nosso planejamento financeiro, estamos tirando um tempo para pensar na nossa situação e tornamos tudo muito mais racional. Conhecemos nossa situação atual, definimos objetivos que nos ajudam a seguir em frente com determinação e com tudo isso acabamos tomando o controle do nosso orçamento e assim caminhando com prosperidade rumo ao sucesso financeiro.”**
     </p>
   </blockquote>
   
   <p align="justify">
-    <strong>Para pensar sobre o assunto:</strong>
+    **Para pensar sobre o assunto:**
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank"><strong>Consumismo: você ficaria 365 dias sem compras?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank">**Consumismo: você ficaria 365 dias sem compras?**</a>
   </p>
   
   <p>
@@ -92,7 +92,7 @@ categories:
   </p>
   
   <p align="justify">
-    <strong><span style="color: #c0504d;">Trololó de Mulher: No seu site você ensina gestão financeira para a mulherada. Como fazer isso sem que pareça algo complicado? </span></strong>
+    **<span style="color: #c0504d;">Trololó de Mulher: No seu site você ensina gestão financeira para a mulherada. Como fazer isso sem que pareça algo complicado? </span>**
   </p>
   
   <p>
@@ -101,16 +101,16 @@ categories:
   
   <blockquote>
     <p align="justify">
-      <strong>Eu tive várias transformações na minha vida financeira e a principal, que foi onde tudo começou a fazer sentido pra mim, eu estipulei pequenos objetivos e fui trabalhando para alcançar cada um deles, a cada conquista era uma alegria e emoção imensa. Para mim se tornou uma diversão e em 1 ano eu liquidei todas minhas dívidas, encontrei diferentes formas de ganhar dinheiro, comecei a economizar e a investir o meu dinheiro. Em um ano eu tinha conseguido juntar R$ 5.000 sendo que na época tinha um salário de R$ 450,00 por mês. Depois que você supera as fases inicias, de liquidar as dívidas e fazer as primeiras economias, a diversão só aumenta porque ver seu dinheiro rendendo e seu patrimônio aumentando é uma emoção inexplicável. Você saber onde quer chegar e o que quer conquistar são as peças fundamentais para fazer desse processo algo muito interessante. Você passa a ser mais dona de si , sente-se poderosa e segura. A vida ganha muito mais propósito. Você tem objetivos, você trabalha por eles e tudo começa a fazer sentido. Nada mais poderoso do que uma mulher que assume o controle de sua vida financeira. Ela começa a escrever sua própria história, reconhece seu valor e sabe do que é capaz. Para essa mulher não existe impossível e ela começa a se amar muito mais! Existe diversão maior que essa?”</strong>
+      **Eu tive várias transformações na minha vida financeira e a principal, que foi onde tudo começou a fazer sentido pra mim, eu estipulei pequenos objetivos e fui trabalhando para alcançar cada um deles, a cada conquista era uma alegria e emoção imensa. Para mim se tornou uma diversão e em 1 ano eu liquidei todas minhas dívidas, encontrei diferentes formas de ganhar dinheiro, comecei a economizar e a investir o meu dinheiro. Em um ano eu tinha conseguido juntar R$ 5.000 sendo que na época tinha um salário de R$ 450,00 por mês. Depois que você supera as fases inicias, de liquidar as dívidas e fazer as primeiras economias, a diversão só aumenta porque ver seu dinheiro rendendo e seu patrimônio aumentando é uma emoção inexplicável. Você saber onde quer chegar e o que quer conquistar são as peças fundamentais para fazer desse processo algo muito interessante. Você passa a ser mais dona de si , sente-se poderosa e segura. A vida ganha muito mais propósito. Você tem objetivos, você trabalha por eles e tudo começa a fazer sentido. Nada mais poderoso do que uma mulher que assume o controle de sua vida financeira. Ela começa a escrever sua própria história, reconhece seu valor e sabe do que é capaz. Para essa mulher não existe impossível e ela começa a se amar muito mais! Existe diversão maior que essa?”**
     </p>
   </blockquote>
   
   <p align="justify">
-    <strong>Para começar a se organizar:</strong>
+    **Para começar a se organizar:**
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank"><strong>Suas finanças pessoais estão no azul ou no vermelho?</strong></a>
+    <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank">**Suas finanças pessoais estão no azul ou no vermelho?**</a>
   </p>
   
   <p>
@@ -126,7 +126,7 @@ categories:
   </p>
   
   <p align="justify">
-    A <strong>Maiara</strong> edita o blog <a href="http://www.mulher-rica.com.br/" target="_blank">Mulher Rica</a>, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público… <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <a href="http://www.mulher-rica.com.br/" target="_blank">se joga no blog da moça</a> porque o<em> trololó</em> por lá é exatamente sobre esse assunto.
+    A **Maiara** edita o blog <a href="http://www.mulher-rica.com.br/" target="_blank">Mulher Rica</a>, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público… <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então <a href="http://www.mulher-rica.com.br/" target="_blank">se joga no blog da moça</a> porque o<em> trololó</em> por lá é exatamente sobre esse assunto.
   </p>
   
   <p>

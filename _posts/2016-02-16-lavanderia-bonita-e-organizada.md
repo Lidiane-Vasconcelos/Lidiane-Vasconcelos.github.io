@@ -1,7 +1,7 @@
 ---
-id: 3542
+
 title: 'Por uma lavanderia bonita e organizada: 8 dicas.'
-date: 2016-02-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/16/lavanderia-bonita-e-organizada/
@@ -11,7 +11,7 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Ter uma <strong>lavanderia bonita e organizada</strong>, ou a área de serviço, como é chamada por muitos, não é nada do outro mundo. Pensar em suas necessidades diárias é básico e fundamental, porque é o ponto de partida para definir o que você precisa ter no espaço. A partir daí, é importante ficar atenta a imagens e inspirações que tratam das soluções de decoração e organização que atendem às necessidades que você elencou. Este post foi pensado para isso, isto é, para te mostrar referências sobre como deixar sua lavanderia na medida do que você deseja e precisa. Veja a seguir que, embora esse seja um espaço da casa de trabalho pesado, tê-lo bonito, bem organizado e funcional faz com que as tarefas do dia a dia pareçam até mais leves. Confere!
+  Ter uma **lavanderia bonita e organizada**, ou a área de serviço, como é chamada por muitos, não é nada do outro mundo. Pensar em suas necessidades diárias é básico e fundamental, porque é o ponto de partida para definir o que você precisa ter no espaço. A partir daí, é importante ficar atenta a imagens e inspirações que tratam das soluções de decoração e organização que atendem às necessidades que você elencou. Este post foi pensado para isso, isto é, para te mostrar referências sobre como deixar sua lavanderia na medida do que você deseja e precisa. Veja a seguir que, embora esse seja um espaço da casa de trabalho pesado, tê-lo bonito, bem organizado e funcional faz com que as tarefas do dia a dia pareçam até mais leves. Confere!
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais dicas e sugestões:</strong>
+  **Mais dicas e sugestões:**
 </p>
 
 <p align="justify">

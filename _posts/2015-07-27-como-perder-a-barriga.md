@@ -1,7 +1,7 @@
 ---
-id: 3455
+
 title: Como perder a barriga? 3 profissionais contam tudo!
-date: 2015-07-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/27/como-perder-a-barriga/
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Eu diria que o primeiro passo para perder a barriga é deixar de dar ouvidos para promessas milagrosas. Sabe quando você escuta aqui e acolá que dá para se livrar dessa gordura abdominal em poucos dias? O resultado, muitas vezes, é a frustração. É compreensível que quando a gente seja confrontada com um problema o desejo seja de eliminá-lo o quanto antes, mas nesse caso, é preciso aceitar e encarar um processo de médio e longo prazo. Ser realista, acredito, oferece todas as chances de sucesso. Se formos falar de prazos, isso também pode variar bastante. “<em>O metabolismo de cada pessoa e a genética influenciam nesse processo. Tem gente que consegue secar em poucos dias, 4 semanas mais especificamente, e tem gente que precisa de pelo menos 12 semanas (3 meses) para conseguir ver resultados</em>”, explica a <strong>Educadora Física Denny Tavares</strong>, da <a href="https://www.facebook.com/centralfitnesstudio?pnref=lhc" target="_blank">Central Fitness</a>, <strong>São Paulo – capital</strong>. Ainda de acordo com Denny, “<em>uma dieta equilibrada é, na verdade, a responsável pela perda de gordura. Abdominais, na verdade, são responsáveis pelo enriquecimento da musculatura abdominal, e não pela perda de gordura. Para se obter uma barriga &#8220;sequinha&#8221; recomenda se: uma dieta equilibrada, a prática de exercícios aeróbicos para a queima de gordura (calorias), e abdominais para enrijecer o abdômen</em>”, conclui.
+  Eu diria que o primeiro passo para perder a barriga é deixar de dar ouvidos para promessas milagrosas. Sabe quando você escuta aqui e acolá que dá para se livrar dessa gordura abdominal em poucos dias? O resultado, muitas vezes, é a frustração. É compreensível que quando a gente seja confrontada com um problema o desejo seja de eliminá-lo o quanto antes, mas nesse caso, é preciso aceitar e encarar um processo de médio e longo prazo. Ser realista, acredito, oferece todas as chances de sucesso. Se formos falar de prazos, isso também pode variar bastante. “<em>O metabolismo de cada pessoa e a genética influenciam nesse processo. Tem gente que consegue secar em poucos dias, 4 semanas mais especificamente, e tem gente que precisa de pelo menos 12 semanas (3 meses) para conseguir ver resultados</em>”, explica a **Educadora Física Denny Tavares**, da <a href="https://www.facebook.com/centralfitnesstudio?pnref=lhc" target="_blank">Central Fitness</a>, **São Paulo – capital**. Ainda de acordo com Denny, “<em>uma dieta equilibrada é, na verdade, a responsável pela perda de gordura. Abdominais, na verdade, são responsáveis pelo enriquecimento da musculatura abdominal, e não pela perda de gordura. Para se obter uma barriga &#8220;sequinha&#8221; recomenda se: uma dieta equilibrada, a prática de exercícios aeróbicos para a queima de gordura (calorias), e abdominais para enrijecer o abdômen</em>”, conclui.
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Não deixe de ver:</strong>
+  **Não deixe de ver:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="https://runnerclick.com/best-running-shorts-reviewed/" target="_blank">Shorts para corrida</a>: lista com alguns deles avaliados.</strong>
+  **<a href="https://runnerclick.com/best-running-shorts-reviewed/" target="_blank">Shorts para corrida</a>: lista com alguns deles avaliados.**
 </p>
 
 <p style="text-align: justify;">
@@ -67,11 +67,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para perder gordura abdominal há que se adotar algumas estratégias, e todas elas são extremamente importantes para alcançar esse objetivo. A <strong>Nutricionista Pamela Miguel, de São Paulo – capital</strong>, profissional que compõe a equipe da <a href="http://www.drafernandagranja.com/" target="_blank">Clínica de Nutrição Funcional da Dra. Fernanda Granja</a> orienta:
+  Para perder gordura abdominal há que se adotar algumas estratégias, e todas elas são extremamente importantes para alcançar esse objetivo. A **Nutricionista Pamela Miguel, de São Paulo – capital**, profissional que compõe a equipe da <a href="http://www.drafernandagranja.com/" target="_blank">Clínica de Nutrição Funcional da Dra. Fernanda Granja</a> orienta:
 </p>
 
 <p style="text-align: justify;">
-  1 &#8211; <strong>Controle do nível de açúcar no sangue</strong>: a dieta de quem deseja perder gordura abdominal deve ser rica em fibras, que reduzem a absorção de gordura e açúcar da alimentação. As fibras fazem com que o açúcar entre de forma gradual no organismo, evitando picos de açúcar e picos do hormônio insulina. Picos de insulina estimulam o acúmulo de gordura no organismo. Por esse motivo as frutas e sucos devem ser consumidos sempre com alguma fibra (farelo de aveia, semente de chia, farinha de linhaça, etc.); pães, massas, arroz e biscoitos devem ser sempre integrais.
+  1 &#8211; **Controle do nível de açúcar no sangue**: a dieta de quem deseja perder gordura abdominal deve ser rica em fibras, que reduzem a absorção de gordura e açúcar da alimentação. As fibras fazem com que o açúcar entre de forma gradual no organismo, evitando picos de açúcar e picos do hormônio insulina. Picos de insulina estimulam o acúmulo de gordura no organismo. Por esse motivo as frutas e sucos devem ser consumidos sempre com alguma fibra (farelo de aveia, semente de chia, farinha de linhaça, etc.); pães, massas, arroz e biscoitos devem ser sempre integrais.
 </p>
 
 **A propósito, veja:**
@@ -79,27 +79,27 @@ categories:
 **<a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank">Risoto com arroz comum, mas integral, e com aspargos.</a>**
 
 <p style="text-align: justify;">
-  2 &#8211; <strong>Controle no nível de cortisol</strong>: o cortisol é um hormônio liberado sempre nos momentos de estresse. Altos níveis de cortisol estão relacionados com maior acúmulo de gordura na região abdominal. Alguns alimentos auxiliam no controle desse hormônio, evitando assim o acúmulo de gordura. São eles: abacate, azeite de oliva extravirgem, óleo de coco. Cacau, banana, aveia e espinafre são alimentos que auxiliam na melhora do bem estar, evitando o estresse e a produção do cortisol.
+  2 &#8211; **Controle no nível de cortisol**: o cortisol é um hormônio liberado sempre nos momentos de estresse. Altos níveis de cortisol estão relacionados com maior acúmulo de gordura na região abdominal. Alguns alimentos auxiliam no controle desse hormônio, evitando assim o acúmulo de gordura. São eles: abacate, azeite de oliva extravirgem, óleo de coco. Cacau, banana, aveia e espinafre são alimentos que auxiliam na melhora do bem estar, evitando o estresse e a produção do cortisol.
 </p>
 
 <p style="text-align: justify;">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank">Bolo de banana sem glúten e light… e cheiroso!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank">Bolo de banana sem glúten e light… e cheiroso!</a>**
 </p>
 
 <p style="text-align: justify;">
-  3 &#8211; <strong>Inclua alimentos com ação antiinflamatória</strong>: o acúmulo de gordura promove a produção de substâncias inflamatórias no organismo, o que dificulta a perda de peso. Para que haja a perda de gordura o corpo precisa desinflamar. Dentre os alimentos com ação antiinflamatória podemos destacar: semente de chia, sardinha, óleo de coco, óleo de linhaça, açafrão, gengibre.
+  3 &#8211; **Inclua alimentos com ação antiinflamatória**: o acúmulo de gordura promove a produção de substâncias inflamatórias no organismo, o que dificulta a perda de peso. Para que haja a perda de gordura o corpo precisa desinflamar. Dentre os alimentos com ação antiinflamatória podemos destacar: semente de chia, sardinha, óleo de coco, óleo de linhaça, açafrão, gengibre.
 </p>
 
 <p style="text-align: justify;">
-  4 – <strong>Coma alimentos com ação termogênica</strong>: eles ajudam no processo de queima de gordura. Lembrando que eles não devem ser consumidos por pessoas com pressão alta e problemas cardíacos, além de crianças, idosos e gestantes. Dentre eles podemos destacar: pimenta vermelha, chá verde, canela, gengibre, vinagre de maçã.
+  4 – **Coma alimentos com ação termogênica**: eles ajudam no processo de queima de gordura. Lembrando que eles não devem ser consumidos por pessoas com pressão alta e problemas cardíacos, além de crianças, idosos e gestantes. Dentre eles podemos destacar: pimenta vermelha, chá verde, canela, gengibre, vinagre de maçã.
 </p>
 
 <p style="text-align: justify;">
-  5 – <strong>Evite alguns alimentos para uma perda mais eficaz de gordura na região abdominal</strong>. São eles: farinha branca, pão branco, arroz branco, leite e derivados, excesso de trigo (mesmo o integral), bebida alcoólica, refrigerante, açúcar refinado, embutidos, sal refinado, excesso de alimentos industrializados e frituras.
+  5 – **Evite alguns alimentos para uma perda mais eficaz de gordura na região abdominal**. São eles: farinha branca, pão branco, arroz branco, leite e derivados, excesso de trigo (mesmo o integral), bebida alcoólica, refrigerante, açúcar refinado, embutidos, sal refinado, excesso de alimentos industrializados e frituras.
 </p>
 
 **Trololó de Mulher> Muito se fala nos sucos funcionais… para perder a barriga, existe algum que acerte nesse alvo?**

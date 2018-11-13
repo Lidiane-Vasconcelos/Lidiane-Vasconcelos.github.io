@@ -1,7 +1,7 @@
 ---
-id: 3160
+
 title: Quando a organização favorece a decoração do quarto infantil?
-date: 2012-07-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/25/organizacao-quarto-infantil/
@@ -12,11 +12,11 @@ categories:
   - Quarto Infantil
 ---
 <p style="text-align: justify;">
-  Ora! Isso acontece quando as escolhas que são feitas para organizar o quarto do pequeno têm toques charmosos, o que as deixam muito mais que funcionais no ambiente. Sendo assim, repare nas soluções de <strong>organização</strong> do <strong>quarto infantil</strong> garimpadas e postadas aqui: elas também decoram!
+  Ora! Isso acontece quando as escolhas que são feitas para organizar o quarto do pequeno têm toques charmosos, o que as deixam muito mais que funcionais no ambiente. Sendo assim, repare nas soluções de **organização** do **quarto infantil** garimpadas e postadas aqui: elas também decoram!
 </p>
 
 <p style="text-align: justify;" align="justify">
-  As imagens são do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>, e representam duas <strong>ideias de marcenaria</strong> para você encomendar a um profissional de sua confiança. O resultado final será um quarto mais organizado e de decoração linda de viver. Confere!
+  As imagens são do site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**, e representam duas **ideias de marcenaria** para você encomendar a um profissional de sua confiança. O resultado final será um quarto mais organizado e de decoração linda de viver. Confere!
 </p>
 
 <!--more-->
@@ -28,7 +28,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Um <strong>banco com uma prateleira na parte de baixo</strong>, onde você possa colocar alguns cestos organizadores para acomodar brinquedos pode fazer milagre para deixar tudo limpo, em ordem e bonito. Para arrematar essa solução de <strong>organização e decoração</strong>, providencie um<em> futon</em> bem bonito e colorido para colocar sobre ele. Pronto! Aquele cantinho no quarto infantil vai ficar lindo de viver. Não duvide!
+  Um **banco com uma prateleira na parte de baixo**, onde você possa colocar alguns cestos organizadores para acomodar brinquedos pode fazer milagre para deixar tudo limpo, em ordem e bonito. Para arrematar essa solução de **organização e decoração**, providencie um<em> futon</em> bem bonito e colorido para colocar sobre ele. Pronto! Aquele cantinho no quarto infantil vai ficar lindo de viver. Não duvide!
 </p>
 
 &nbsp;
@@ -40,7 +40,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Sabe um <em>design</em> básico de <strong>armário de cozinha</strong>? É exatamente o que você vê acima, só que <strong>com um <em>futon</em> bem bonito sobre ele, assumirá o papel de banco</strong>. Essa solução é para quem quer esconder tudo atrás das portinhas! Num armário como esse, que também é banco, dá para guardar brinquedos, ou ainda roupa de cama, material escolar, ou o que vier na sua imaginação e de seus herdeiros, <em>viu</em>? Inspire-se!
+  Sabe um <em>design</em> básico de **armário de cozinha**? É exatamente o que você vê acima, só que **com um <em>futon</em> bem bonito sobre ele, assumirá o papel de banco**. Essa solução é para quem quer esconder tudo atrás das portinhas! Num armário como esse, que também é banco, dá para guardar brinquedos, ou ainda roupa de cama, material escolar, ou o que vier na sua imaginação e de seus herdeiros, <em>viu</em>? Inspire-se!
 </p>
 
 &nbsp;

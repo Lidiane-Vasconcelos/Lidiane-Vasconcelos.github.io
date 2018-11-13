@@ -1,7 +1,7 @@
 ---
-id: 3262
+
 title: …da delícia que é o Ragu Apressadinho…
-date: 2013-09-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/18/receita-carne-ragu/
@@ -20,7 +20,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">A explicação da bonitona sobre o Ragu Apressadinho que, na época, estava grávida:</span></strong>
+  **<span style="font-size: large;">A explicação da bonitona sobre o Ragu Apressadinho que, na época, estava grávida:</span>**
 </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg"><img class="alignnone size-full wp-image-9779" alt="RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA STELLI-PITADINHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg" width="600" height="450" /></a><br /> Imagem: Juliana Stelli, do<strong> <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a></strong>.
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg"><img class="alignnone size-full wp-image-9779" alt="RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA STELLI-PITADINHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg" width="600" height="450" /></a><br /> Imagem: Juliana Stelli, do** <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**.
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
   8. Verifique os temperos e a textura do molho, caso prefira, deixe secar mais um pouco com a panela aberta e o fogo alto.
 
 <p align="justify">
-  <strong>Dica da Ju:</strong> se quiser, pode finalizar com salsinha fresca, fica ainda melhor.
+  **Dica da Ju:** se quiser, pode finalizar com salsinha fresca, fica ainda melhor.
 </p>
 
 &nbsp;
@@ -73,31 +73,31 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 &nbsp;
 
 <p align="justify">
-  Olha só, posso falar? Eu acho, <em>comtodaforçadomeuser,</em> que você realmente deveria conhecer o <a href="http://www.pitadinha.com/" target="_blank"><strong>Pitadinha</strong></a> da<strong>Juliana</strong>, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, <strong><a href="http://www.pitadinha.com/" target="_blank">clica aqui</a></strong> e se joga!
+  Olha só, posso falar? Eu acho, <em>comtodaforçadomeuser,</em> que você realmente deveria conhecer o <a href="http://www.pitadinha.com/" target="_blank">**Pitadinha**</a> da**Juliana**, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, **<a href="http://www.pitadinha.com/" target="_blank">clica aqui</a>** e se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais delícias…</span></strong>
+  **<span style="font-size: large;">Mais delícias…</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/19/sopa-de-abobora/"><strong><span style="font-size: large;">Sopa de abóbora fácil, rápida e, oh: superultramega delícia!</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/19/sopa-de-abobora/">**<span style="font-size: large;">Sopa de abóbora fácil, rápida e, oh: superultramega delícia!</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/"><strong><span style="font-size: large;">Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/">**<span style="font-size: large;">Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/"><strong><span style="font-size: large;">Espetinho de frango saudável e saboroso… quer ver como faz?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/">**<span style="font-size: large;">Espetinho de frango saudável e saboroso… quer ver como faz?</span>**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/23/maes-filhos/"><strong><span style="font-size: large;"> </span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/23/maes-filhos/">**<span style="font-size: large;"> </span>**</a>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

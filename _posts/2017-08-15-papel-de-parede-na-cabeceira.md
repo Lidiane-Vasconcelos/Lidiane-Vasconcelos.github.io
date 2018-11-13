@@ -1,7 +1,7 @@
 ---
-id: 3783
+
 title: 'Papel de parede na cabeceira da cama: inspirações.'
-date: 2017-08-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/15/papel-de-parede-na-cabeceira/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2016/03/10/papel-de-parede-no-quarto/" target="_blank">Papel de parede no quarto: como decorar?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2016/03/10/papel-de-parede-no-quarto/" target="_blank">Papel de parede no quarto: como decorar?</a>**
 </p>
 
 <p align="center">
@@ -102,11 +102,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/23/decoracao-de-quarto-pequeno/" target="_blank"><strong>O que fazer na decoração de quarto pequeno?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/23/decoracao-de-quarto-pequeno/" target="_blank">**O que fazer na decoração de quarto pequeno?**</a>
 </p>
 
 <p align="center">

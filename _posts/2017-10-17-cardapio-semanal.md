@@ -1,7 +1,7 @@
 ---
-id: 3815
+
 title: Como planejar cardápio semanal? Simplifique!
-date: 2017-10-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/17/cardapio-semanal/
@@ -10,11 +10,11 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  A definição do <strong>cardápio semanal</strong> da família não precisa ser uma tarefa complicada, e na verdade é mesmo bastante simples. Hoje eu gostaria de compartilhar com você essa estratégia que permite à família comer com mais qualidade, poupa o estresse de quem cozinha, e ajuda a economizar nas compras, evitando desperdícios.
+  A definição do **cardápio semanal** da família não precisa ser uma tarefa complicada, e na verdade é mesmo bastante simples. Hoje eu gostaria de compartilhar com você essa estratégia que permite à família comer com mais qualidade, poupa o estresse de quem cozinha, e ajuda a economizar nas compras, evitando desperdícios.
 </p>
 
 <p align="justify">
-  A ideia é que seja uma tarefa fácil, e pra isso você precisa apenas de um caderno simples (é o que uso por aqui). Pergunte a si mesma, para suas crianças ou seu amor: o que gostam de comer? <strong>Faça uma lista</strong>. Considerando o que você já tem no armário e geladeira, <strong>defina quais serão as próximas refeições</strong>. Comece aos poucos com esse planejamento, se antecipando em um ou dois dias. Devagar, você vai avançando até que consiga se antecipar com um planejamento maior.
+  A ideia é que seja uma tarefa fácil, e pra isso você precisa apenas de um caderno simples (é o que uso por aqui). Pergunte a si mesma, para suas crianças ou seu amor: o que gostam de comer? **Faça uma lista**. Considerando o que você já tem no armário e geladeira, **defina quais serão as próximas refeições**. Comece aos poucos com esse planejamento, se antecipando em um ou dois dias. Devagar, você vai avançando até que consiga se antecipar com um planejamento maior.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  Hoje em dia eu planejo o cardápio de almoço e janta para uma semana inteira. Com base no planejamento, <strong>elaboro a lista de compras com exatamente o que preciso</strong>. Evito desperdício, e estresse, já que <strong>não tenho que pensar e decidir, todos os dias</strong>, sobre o que vou cozinhar. Invisto minha energia nisso apenas uma vez por semana. Registro os planejamentos, semana a semana, num caderno, então <strong>o que comemos semana passada, ou há um mês, está lá</strong>. <strong>Consigo ir variando</strong>, e não me tornar repetitiva nas refeições.
+  Hoje em dia eu planejo o cardápio de almoço e janta para uma semana inteira. Com base no planejamento, **elaboro a lista de compras com exatamente o que preciso**. Evito desperdício, e estresse, já que **não tenho que pensar e decidir, todos os dias**, sobre o que vou cozinhar. Invisto minha energia nisso apenas uma vez por semana. Registro os planejamentos, semana a semana, num caderno, então **o que comemos semana passada, ou há um mês, está lá**. **Consigo ir variando**, e não me tornar repetitiva nas refeições.
 </p>
 
 <p align="justify">
@@ -34,19 +34,19 @@ categories:
 </p>
 
 <p align="justify">
-  Quando o planejamento de cardápio estiver fluindo bem, e cozinhar passe a ser algo prazeroso, livre de estresse, você pode dar <strong>mais um passo: inserir novas receitas no seu planejamento</strong>. Acho uma delícia pesquisar novidades pra testar, tanto em livros de receitas (tenho alguns), quanto na internet. E sempre me proponho experimentar algo novo vez ou outra, eu me divirto, e surpreendo a família.
+  Quando o planejamento de cardápio estiver fluindo bem, e cozinhar passe a ser algo prazeroso, livre de estresse, você pode dar **mais um passo: inserir novas receitas no seu planejamento**. Acho uma delícia pesquisar novidades pra testar, tanto em livros de receitas (tenho alguns), quanto na internet. E sempre me proponho experimentar algo novo vez ou outra, eu me divirto, e surpreendo a família.
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank"><strong>Receitas publicadas no Trololó de Mulher.</strong></a>
+  <a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank">**Receitas publicadas no Trololó de Mulher.**</a>
 </p>
 
 <p align="justify">
-  Percebe que não é tão difícil assim?<br /> <strong>1 &#8211; Listar o que você e sua família gostam de comer.</strong><br /> <strong> 2 &#8211; Escolher, a partir dessa lista, o que vocês vão comer nos próximos dois dias (no jantar, por exemplo).</strong><br /> <strong> 3 &#8211; Conferir se você tem os ingredientes, ou se precisa comprar.</strong>
+  Percebe que não é tão difícil assim?<br /> **1 &#8211; Listar o que você e sua família gostam de comer.**<br /> ** 2 &#8211; Escolher, a partir dessa lista, o que vocês vão comer nos próximos dois dias (no jantar, por exemplo).**<br /> ** 3 &#8211; Conferir se você tem os ingredientes, ou se precisa comprar.**
 </p>
 
 <p align="justify">

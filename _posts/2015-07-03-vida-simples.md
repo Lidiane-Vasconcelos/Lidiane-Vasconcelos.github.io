@@ -1,7 +1,7 @@
 ---
-id: 3441
+
 title: 'Vida simples: menos é mais e a gente vive melhor…'
-date: 2015-07-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/03/vida-simples/
@@ -17,11 +17,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank"><strong>Redes sociais e produtividade no dia a dia: qual o impacto?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">**Redes sociais e produtividade no dia a dia: qual o impacto?**</a>
 </p>
 
 <p align="justify">

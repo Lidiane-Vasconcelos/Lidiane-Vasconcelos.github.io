@@ -1,7 +1,7 @@
 ---
-id: 2940
+
 title: 3 ambientes inspiradores para sua sala de jantar. Comprove!
-date: 2011-01-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/28/ambientes-sala-de-jantar/
@@ -18,7 +18,7 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 <!--more-->
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: small;">Tradicional… mas nem tanto!</span></em></strong>
+  **<em><span style="font-size: small;">Tradicional… mas nem tanto!</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: small;">As cores ficam nos detalhes</span></em></strong>
+  **<em><span style="font-size: small;">As cores ficam nos detalhes</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -46,11 +46,11 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 </p>
 
 <p style="text-align: justify;">
-  E para arrematar, inspire-se na montagem com quadros na parede. Se você tem dúvidas sobre como organizar um arranjo de molduras assim, confira as <strong><em><a href="http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/">dicas para a decoração de paredes com quadros</a></em></strong> que já foram publicadas por aqui, assim você fica segura na hora de pendurá-los. Inspire-se!
+  E para arrematar, inspire-se na montagem com quadros na parede. Se você tem dúvidas sobre como organizar um arranjo de molduras assim, confira as **<em><a href="http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/">dicas para a decoração de paredes com quadros</a></em>** que já foram publicadas por aqui, assim você fica segura na hora de pendurá-los. Inspire-se!
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: small;">E se as cores te trazem alegria…</span></em></strong>
+  **<em><span style="font-size: small;">E se as cores te trazem alegria…</span></em>**
 </p>
 
 <p style="text-align: center;">
@@ -76,13 +76,13 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 **_[Caminho de mesa em mesa de vidro: usar ou não?](http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/"><strong><em>Salas & Halls</em></strong></a>> 3 ambientes inspiradores para sua sala de jantar. Comprove!
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">**<em>Salas & Halls</em>**</a>> 3 ambientes inspiradores para sua sala de jantar. Comprove!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

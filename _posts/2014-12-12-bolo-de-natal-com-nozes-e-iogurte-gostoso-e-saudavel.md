@@ -1,7 +1,7 @@
 ---
-id: 3402
+
 title: 'Bolo de Natal com nozes e iogurte: gostoso e saudável.'
-date: 2014-12-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/12/bolo-de-natal-com-nozes-e-iogurte-gostoso-e-saudavel/
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes massa:</strong>
+  **Ingredientes massa:**
 </p>
 
 <p align="justify">
@@ -66,27 +66,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo da massa:</strong>
+  **Modo de preparo da massa:**
 </p>
 
 > <p align="justify">
->   <strong>Bata os ovos, açúcar e óleo até derreter um pouco o açúcar. Depois acrescente as farinhas e o iogurte. Mexa bem. Acrescente as nozes, noz moscada e o fermento. Incorpore tudo muito bem delicadamente. Leve ao forno em 180 graus até assar. Eu usei forma de silicone, mas se não for, precisa untar e enfarinhar, ok?”</strong>
+>   **Bata os ovos, açúcar e óleo até derreter um pouco o açúcar. Depois acrescente as farinhas e o iogurte. Mexa bem. Acrescente as nozes, noz moscada e o fermento. Incorpore tudo muito bem delicadamente. Leve ao forno em 180 graus até assar. Eu usei forma de silicone, mas se não for, precisa untar e enfarinhar, ok?”**
 > </p>
 
 <p align="justify">
-  <strong>Cobertura:</strong>
+  **Cobertura:**
 </p>
 
 > <p align="justify">
->   <strong>Após o bolo esfriar, derreti 80g de chocolate 70% cacau, depois coloquei 1 colher sopa de creme de leite e 2 colheres (sopa) de rum. Mexi bem e passei no topo do bolo.”</strong>
+>   **Após o bolo esfriar, derreti 80g de chocolate 70% cacau, depois coloquei 1 colher sopa de creme de leite e 2 colheres (sopa) de rum. Mexi bem e passei no topo do bolo.”**
 > </p>
 
 <p align="justify">
-  <strong>Enfeite:</strong>
+  **Enfeite:**
 </p>
 
 > <p align="justify">
->   <strong>Enfeitei com framboesas e cerejas. Não se esqueça de higienizá-las hein?”</strong>
+>   **Enfeitei com framboesas e cerejas. Não se esqueça de higienizá-las hein?”**
 > </p>
 
 <p align="center">
@@ -94,23 +94,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/12/03/receita-natal-biscoito-caseiro/" target="_blank"><strong>Receita natalina: biscoitinho de gengibre e cardamomo</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/12/03/receita-natal-biscoito-caseiro/" target="_blank">**Receita natalina: biscoitinho de gengibre e cardamomo**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank">**Receita molezinha e gostosa: torta de abóbora + frango**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau… huummm</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho de inhame assado com bacalhau… huummm**</a>
 </p>
 
 <p style="text-align: justify;" align="center">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

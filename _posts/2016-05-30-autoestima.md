@@ -1,7 +1,7 @@
 ---
-id: 3618
+
 title: Medidas práticas pra restaurar sua autoestima… já!
-date: 2016-05-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/30/autoestima/
@@ -22,7 +22,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “<strong><em>Olá, bom dia !!!! Tomei um garrafão de coragem para escrever, rsrsrsr. Estou precisando de umas dicas. Tenho percebido que por mais que eu me arrume, nunca pareço arrumada, harmoniosa, cuidada, etc. Isso acontece, principalmente, no dia a dia, parece que fica faltando o acabamento, o toque final no visual. Não digo visual para passeios ou festas, pois estes naturalmente pedem uma preparação na composição do visual. Digo no dia a dia, ao acordar, colocar uma roupa, ir no supermercado, academia, etc. Esses dias, numa ida a uma lojinha de 1,99, dei de cara com um espelho&#8230; senti-me tão mal, acabada&#8230;descombinada&#8230;desarmoniosa&#8230;horrorosa. Enfim, quais os pequenos detalhes que dão um toque de harmonia e bem cuidado ao visual?? Qual o segredo??</em></strong>”
+>   “**<em>Olá, bom dia !!!! Tomei um garrafão de coragem para escrever, rsrsrsr. Estou precisando de umas dicas. Tenho percebido que por mais que eu me arrume, nunca pareço arrumada, harmoniosa, cuidada, etc. Isso acontece, principalmente, no dia a dia, parece que fica faltando o acabamento, o toque final no visual. Não digo visual para passeios ou festas, pois estes naturalmente pedem uma preparação na composição do visual. Digo no dia a dia, ao acordar, colocar uma roupa, ir no supermercado, academia, etc. Esses dias, numa ida a uma lojinha de 1,99, dei de cara com um espelho&#8230; senti-me tão mal, acabada&#8230;descombinada&#8230;desarmoniosa&#8230;horrorosa. Enfim, quais os pequenos detalhes que dão um toque de harmonia e bem cuidado ao visual?? Qual o segredo??</em>**”
 > </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  A melhor das notícias é que o Trololó de Mulher conta com consultorias pra lá de especiais, assim como a da <strong>Márcia Damasceno, maquiadora de Belo Horizonte – MG</strong>, cujo trabalho lindo desenvolvido junto às mulheres se amplia por questões que vão muito, mas muito além da estética. Mesmo! Aliás, desde já e para que você confirme o que estou falando, sugiro que você <a href="http://www.marciadamasceno.com.br/" target="_blank">visite o site da moça e deixe seu melhor e-mail para receber seu conteúdo gratuito</a>. Garanto! Você vai ficar grata.
+  A melhor das notícias é que o Trololó de Mulher conta com consultorias pra lá de especiais, assim como a da **Márcia Damasceno, maquiadora de Belo Horizonte – MG**, cujo trabalho lindo desenvolvido junto às mulheres se amplia por questões que vão muito, mas muito além da estética. Mesmo! Aliás, desde já e para que você confirme o que estou falando, sugiro que você <a href="http://www.marciadamasceno.com.br/" target="_blank">visite o site da moça e deixe seu melhor e-mail para receber seu conteúdo gratuito</a>. Garanto! Você vai ficar grata.
 </p>
 
 <p align="justify">

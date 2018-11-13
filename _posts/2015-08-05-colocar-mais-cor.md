@@ -1,7 +1,7 @@
 ---
-id: 3456
+
 title: 3 sugestões para colocar mais cor em casa.
-date: 2015-08-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/05/colocar-mais-cor/
@@ -22,15 +22,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank"><strong>Vai pintar as paredes da sala de estar? Quer mais ideias de cores?</strong></a>
+  <a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">**Vai pintar as paredes da sala de estar? Quer mais ideias de cores?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-para-a-parede/" target="_blank"><strong>Como escolher cores para a parede?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cores-para-a-parede/" target="_blank">**Como escolher cores para a parede?**</a>
 </p>
 
 <p align="center">
@@ -42,19 +42,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/25/ideias-decoracao-quarto-2/" target="_blank"><strong>6 ideias de decoração para mudar o seu quarto.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/25/ideias-decoracao-quarto-2/" target="_blank">**6 ideias de decoração para mudar o seu quarto.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/" target="_blank"><strong>Quarto com parede amarela: você quer inspirações?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/" target="_blank">**Quarto com parede amarela: você quer inspirações?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/02/14/ideias-decoracao-quarto/" target="_blank"><strong>Ideias econômicas para a decoração do quarto. Inspire-se!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/02/14/ideias-decoracao-quarto/" target="_blank">**Ideias econômicas para a decoração do quarto. Inspire-se!**</a>
 </p>
 
 <p align="center">
@@ -66,19 +66,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.marthastewart.com/" target="_blank"><strong>Arrume sua mesa para receber e encantar os olhos.</strong></a>
+  <a href="http://www.marthastewart.com/" target="_blank">**Arrume sua mesa para receber e encantar os olhos.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/" target="_blank"><strong>2 ideias superultramega simples de decoração pra mesa de jantar.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/" target="_blank">**2 ideias superultramega simples de decoração pra mesa de jantar.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank"><strong>Dicas para a decoração da mesa de jantar.</strong></a>
+  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank">**Dicas para a decoração da mesa de jantar.**</a>
 </p>
 
 <p align="justify">

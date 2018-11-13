@@ -1,7 +1,7 @@
 ---
-id: 2925
+
 title: Você também tem problemas com a sogra?
-date: 2010-12-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/10/problemas-nora-sogra/
@@ -25,11 +25,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2012/04/20/casamento-sogra-nora/" target="_blank">Um casamento&#8230; e a sogra!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/04/20/casamento-sogra-nora/" target="_blank">Um casamento&#8230; e a sogra!</a>**
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </blockquote>
 
 <p style="text-align: justify;">
-  Engana-se quem pensa que o problema dessa bonita anônima é algo pontual, e que o fato de o embate ser entre duas mulheres é mera coincidência. A <strong><em><a href="http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">competitividade parece ser algo muito comum entre as mulheres</a></em></strong>, infelizmente, e isso até já foi razão de debate no Tololó de Mulher. Na situação analisada neste momento, isto é, entre noras e sogras, a disputa é pelo amor do mesmo homem e o que move isso é o sentimento de posse, é o que explica a <strong><em>Psicanalista Clínica Geisa Machado</em></strong>, que é editora do blog &#8220;<a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a>&#8220;. Segundo Geisa, não há outra saída para a situação que não seja a conscientização. &#8220;<em>A mãe precisa se conscientizar que o amor dela é de uma mãe para com o filho. A mulher precisa se conscientizar que o amor dela é de uma mulher para com o homem. Amores diferentes, forma de amar diferente. Os sentimentos estando misturados é que causam a confusão e os atritos</em>&#8220;, esclarece. A Psicanalista enfatiza que a confusão de sentimentos resulta, inconscientemente, num troca de amores: a mãe ama o filho como a um homem e a mulher ama o homem como a um filho. Geisa ainda alerta que tudo isso não é de hoje, vem desde os tempos remotos.
+  Engana-se quem pensa que o problema dessa bonita anônima é algo pontual, e que o fato de o embate ser entre duas mulheres é mera coincidência. A **<em><a href="http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">competitividade parece ser algo muito comum entre as mulheres</a></em>**, infelizmente, e isso até já foi razão de debate no Tololó de Mulher. Na situação analisada neste momento, isto é, entre noras e sogras, a disputa é pelo amor do mesmo homem e o que move isso é o sentimento de posse, é o que explica a **<em>Psicanalista Clínica Geisa Machado</em>**, que é editora do blog &#8220;<a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a>&#8220;. Segundo Geisa, não há outra saída para a situação que não seja a conscientização. &#8220;<em>A mãe precisa se conscientizar que o amor dela é de uma mãe para com o filho. A mulher precisa se conscientizar que o amor dela é de uma mulher para com o homem. Amores diferentes, forma de amar diferente. Os sentimentos estando misturados é que causam a confusão e os atritos</em>&#8220;, esclarece. A Psicanalista enfatiza que a confusão de sentimentos resulta, inconscientemente, num troca de amores: a mãe ama o filho como a um homem e a mulher ama o homem como a um filho. Geisa ainda alerta que tudo isso não é de hoje, vem desde os tempos remotos.
 </p>
 
 <p style="text-align: justify;">

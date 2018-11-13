@@ -1,7 +1,7 @@
 ---
-id: 2823
+
 title: Alimentos Gordurosos Versus Escolhas Saudáveis
-date: 2010-05-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/28/escolha-alimentos-saudaveis/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  <strong>Alimentos Gordurosos <em>Versus</em> Escolhas Saudáveis</strong>
+  **Alimentos Gordurosos <em>Versus</em> Escolhas Saudáveis**
 </p>
 
 Quem já não sentiu na pele as tentações das comidas gordas, recheadas de gordura e sabor?

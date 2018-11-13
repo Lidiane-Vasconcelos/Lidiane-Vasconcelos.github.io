@@ -1,7 +1,7 @@
 ---
-id: 3627
+
 title: Mãe de menino, a cultura do estupro é da nossa conta, sim!
-date: 2016-06-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/14/cultura-do-estupro/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  A sugestão para essa pauta no blog foi dada por uma leitora querida, a Ethel. A gente acredita que informção conta, não é verdade? Mais uma vez fico muito grata pela oportunidade de mostrar que o <strong>Trololó de Mulher</strong> está a serviço de todas nós, para compartilhar informação relevante e de qualidade. Por isso, convidei a <strong>Psicóloga Marcela Ondei, de São José dos Campos (SP), que é Especialista em atendimento clínico infantil</strong>, e pedi a ela que respondesse a seguinte pergunta da Ethel:
+  A sugestão para essa pauta no blog foi dada por uma leitora querida, a Ethel. A gente acredita que informção conta, não é verdade? Mais uma vez fico muito grata pela oportunidade de mostrar que o **Trololó de Mulher** está a serviço de todas nós, para compartilhar informação relevante e de qualidade. Por isso, convidei a **Psicóloga Marcela Ondei, de São José dos Campos (SP), que é Especialista em atendimento clínico infantil**, e pedi a ela que respondesse a seguinte pergunta da Ethel:
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <span style="font-size: x-large;"><strong>O que as mães de meninos poderiam fazer na educação deles para que não se perpetuasse a cultura do estupro?</strong></span>
+  <span style="font-size: x-large;">**O que as mães de meninos poderiam fazer na educação deles para que não se perpetuasse a cultura do estupro?**</span>
 </p>
 
 <p align="justify">

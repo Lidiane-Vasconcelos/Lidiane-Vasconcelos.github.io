@@ -1,7 +1,7 @@
 ---
-id: 3270
+
 title: 'Decoração com papel: fácil de fazer e bonito de ver.'
-date: 2013-10-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/25/decoracao-papel-enfeites/
@@ -45,25 +45,25 @@ Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Garden
 &nbsp;
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Tudo a ver:</span></strong>
+  **<span style="font-size: medium;">Tudo a ver:</span>**
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/06/19/decoracao-papel-de-parede-3/"><strong><span style="font-size: medium;">Decoração com papel de parede, sem cobrir a parede?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/19/decoracao-papel-de-parede-3/">**<span style="font-size: medium;">Decoração com papel de parede, sem cobrir a parede?</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank"><strong><span style="font-size: medium;">Decoração de pequenos espaços com papel de parede: inspirações e ideias</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank">**<span style="font-size: medium;">Decoração de pequenos espaços com papel de parede: inspirações e ideias</span>**</a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank"><strong><span style="font-size: medium;">Como fazer flores de papel colorido para dar bossa na decoração</span></strong></a>
+  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank">**<span style="font-size: medium;">Como fazer flores de papel colorido para dar bossa na decoração</span>**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;"> </span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;"> </span>**</a>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Garden
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

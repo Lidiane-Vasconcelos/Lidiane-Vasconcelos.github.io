@@ -1,7 +1,7 @@
 ---
-id: 3693
+
 title: Como usar maquiagem rosa sem parecer desatualizada?
-date: 2016-10-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/24/maquiagem-rosa/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  Já ouviu falar que rosa é o vermelho suavisado? Gosto dessa definição. A cor lembra mesmo algo leve, e nos dias de sol do nosso Verão, que são bem quentes, essa nuance cai como uma luva. Mas também é verdade que se não tomarmos certos cuidados, o que era para nos deixar ainda mais bonitas, pode soar desatualizado. Por essa razão, para que a gente fique por dentro de truques e trucões na hora de aplicar a <strong>maquiagem rosa</strong>, e fresquinha, pedi ajuda a nossa querida consultora <strong>Márcia Damasceno, Maquiadora de Belo Horizonte – MG</strong>. Veja a seguir um post incrível, cheio de dicas práticas e passadas de forma muito didática pela Márcia. A gente sempre se sente um bocadinho mais segura depois das dicas dela, e já quer sair por aí serelepe e saltitante pintando o rosto… confira se não é assim, oh:
+  Já ouviu falar que rosa é o vermelho suavisado? Gosto dessa definição. A cor lembra mesmo algo leve, e nos dias de sol do nosso Verão, que são bem quentes, essa nuance cai como uma luva. Mas também é verdade que se não tomarmos certos cuidados, o que era para nos deixar ainda mais bonitas, pode soar desatualizado. Por essa razão, para que a gente fique por dentro de truques e trucões na hora de aplicar a **maquiagem rosa**, e fresquinha, pedi ajuda a nossa querida consultora **Márcia Damasceno, Maquiadora de Belo Horizonte – MG**. Veja a seguir um post incrível, cheio de dicas práticas e passadas de forma muito didática pela Márcia. A gente sempre se sente um bocadinho mais segura depois das dicas dela, e já quer sair por aí serelepe e saltitante pintando o rosto… confira se não é assim, oh:
 </p>
 
 <p align="center">
@@ -22,19 +22,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como criar um visual delicado, com cara de dia a dia?</strong>
+  **Trololó de Mulher >>> Como criar um visual delicado, com cara de dia a dia?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Na verdade, acredito que tudo dá. Elke Maravilha mostrava isso como ninguém 🙂 &#8211; O que não dá é sair se sentindo DESconfortável com sua maquiagem, não é? O que vale lembrar é: como a iluminação da noite é diferente, para aparecer que tem uma maquiagem ali, é bom reforçar os tons. Então, se estiver com aquela maquiagem leve do dia, pode dar uma reforçada em tudo, além daqueles bem-vindos toques de pretinho pra realçar cílios , tanto com rímel como com lápis. E mais sombra e uns brilhos, se você for mais animada na produção</em>.”
+  **“**<em>Na verdade, acredito que tudo dá. Elke Maravilha mostrava isso como ninguém 🙂 &#8211; O que não dá é sair se sentindo DESconfortável com sua maquiagem, não é? O que vale lembrar é: como a iluminação da noite é diferente, para aparecer que tem uma maquiagem ali, é bom reforçar os tons. Então, se estiver com aquela maquiagem leve do dia, pode dar uma reforçada em tudo, além daqueles bem-vindos toques de pretinho pra realçar cílios , tanto com rímel como com lápis. E mais sombra e uns brilhos, se você for mais animada na produção</em>.”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Quanto às sombras, qual sua dica para que não haja erro no acabamento?</strong>
+  **Trololó de Mulher >>> Quanto às sombras, qual sua dica para que não haja erro no acabamento?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Ir aos poucos. Aplicar a sombra no pincel e dar uma batidinha no dorso da mão pra tirar o excesso. E esfumar bem, com movimentos circulares, todos movimentos muito de leve, hein! Pra facilitar o entendimento dessa etapa, recomendo meus 3 vídeos sobre &#8216;Como passar dois tons de sombra&#8217; 🙂</em>”
+  **“**<em>Ir aos poucos. Aplicar a sombra no pincel e dar uma batidinha no dorso da mão pra tirar o excesso. E esfumar bem, com movimentos circulares, todos movimentos muito de leve, hein! Pra facilitar o entendimento dessa etapa, recomendo meus 3 vídeos sobre &#8216;Como passar dois tons de sombra&#8217; 🙂</em>”
 </p>
 
 <p align="justify">
@@ -59,27 +59,27 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Olhos maquiados com rosa&#8230; e agora? Como não deixar todo o resto rosa demais?</strong>
+  **Trololó de Mulher >>> Olhos maquiados com rosa&#8230; e agora? Como não deixar todo o resto rosa demais?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Pois é&#8230; Pra não virar caracterização da Penélope :P, uma misturinha bonita é aplicar um pouco de sombra preta no canto externo e/ou na raiz dos cílios. No caso de deixar a sombra mais rosada, fica legal um batom mais tom de boca e um blush menos rosado</em>.”
+  **“**<em>Pois é&#8230; Pra não virar caracterização da Penélope :P, uma misturinha bonita é aplicar um pouco de sombra preta no canto externo e/ou na raiz dos cílios. No caso de deixar a sombra mais rosada, fica legal um batom mais tom de boca e um blush menos rosado</em>.”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Usar blush em tom de rosa é uma boa escolha?</strong>
+  **Trololó de Mulher >>> Usar blush em tom de rosa é uma boa escolha?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Pessoalmente não gosto muito dos tons de blush que &#8216;puxam&#8217; pro pink, mas um rosa suave ou rosa mais queimado acho bonito sim, principalmente para peles clarinhas. As peles negras ficam lindas com um rosa puxando pro vinho</em>.”
+  **“**<em>Pessoalmente não gosto muito dos tons de blush que &#8216;puxam&#8217; pro pink, mas um rosa suave ou rosa mais queimado acho bonito sim, principalmente para peles clarinhas. As peles negras ficam lindas com um rosa puxando pro vinho</em>.”
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como evitar que o blush fique marcado demais?</strong>
+  **Trololó de Mulher >>> Como evitar que o blush fique marcado demais?**
 </p>
 
 <p align="justify">
-  <strong>“</strong><em>Soprar ou balançar o pincel antes de aplicar, para retirar o excesso de produto das cerdas. Começar a aplicar das laterais externas para o centro, em movimentos suaves. Caso fique excesso mesmo assim, é só retirar um pouco com a esponjinha ou com a mão e aplicar um pouco de pó onde foi retirado o blush. Tenho um vídeo também.</em>”
+  **“**<em>Soprar ou balançar o pincel antes de aplicar, para retirar o excesso de produto das cerdas. Começar a aplicar das laterais externas para o centro, em movimentos suaves. Caso fique excesso mesmo assim, é só retirar um pouco com a esponjinha ou com a mão e aplicar um pouco de pó onde foi retirado o blush. Tenho um vídeo também.</em>”
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Quanto ao batom, qual a melhor forma de testá-lo e achar o tom ideal? Aplicar no dorso da mão é uma boa tática?</strong>
+  **Trololó de Mulher >>> Quanto ao batom, qual a melhor forma de testá-lo e achar o tom ideal? Aplicar no dorso da mão é uma boa tática?**
 </p>
 
 “_Só gosto de testar no dorso da mão para sentir consistência, ver se fica mate ou transparente. O tom dos lábios altera a cor, então gosto de testar ou na boca mesmo ou pensar em uma cor que não destoe do tom da gengiva. Caso não possa experimentar, se olhar no espelho e chegar o batom em frente à boca pode dar uma noção se o tom vai ficar bom pra você_.”
@@ -113,9 +113,9 @@ categories:
 
 **Mais consultorias da Márcia:**
 
-<a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank"><strong>Medidas práticas para restaurar sua aut-estima… já!</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">**Medidas práticas para restaurar sua aut-estima… já!**</a>
 
-<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank"><strong>Maquiagem leve e sofisticada: como conseguir esse efeito?</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">**Maquiagem leve e sofisticada: como conseguir esse efeito?**</a>
 
 &nbsp;
 

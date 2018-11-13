@@ -1,7 +1,7 @@
 ---
-id: 2661
+
 title: Movimento na blogosfera em alerta contra a erotização infantil.
-date: 2009-05-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/18/contra-erotizacao-infantil/

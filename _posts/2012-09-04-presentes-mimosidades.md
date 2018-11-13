@@ -1,7 +1,7 @@
 ---
-id: 3180
+
 title: Você consegue traduzir bem a expressão “mimosidades”?
-date: 2012-09-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/04/presentes-mimosidades/
@@ -14,7 +14,7 @@ Tenho certeza que depois que você vir umas _belezuras_ lindas de viver que eu t
 &nbsp;
 
 <p align="justify">
-  Bonita, é o seguinte: dois amigos <em>superultramega</em> talentosos, o <strong>Marcelo Ferreira</strong> e a <strong>Luciana Souza</strong>, resolveram agregar o <em>design</em> a produtos funcionais, daqueles necessários no nosso dia a dia. O resultado são as <em>fofurices</em> exclusivas da <strong><a href="http://loja.mimosidades.com.br/" target="_blank">Mimosidades</a></strong> que, <em>oh: </em>só vendo!
+  Bonita, é o seguinte: dois amigos <em>superultramega</em> talentosos, o **Marcelo Ferreira** e a **Luciana Souza**, resolveram agregar o <em>design</em> a produtos funcionais, daqueles necessários no nosso dia a dia. O resultado são as <em>fofurices</em> exclusivas da **<a href="http://loja.mimosidades.com.br/" target="_blank">Mimosidades</a>** que, <em>oh: </em>só vendo!
 </p>
 
 <!--more-->
@@ -26,13 +26,13 @@ Tenho certeza que depois que você vir umas _belezuras_ lindas de viver que eu t
 &nbsp;
 
 <p align="justify">
-  O que você encontra na <strong>Mimosidades</strong> é só coisa bonita, fofa demais… fiquei doidinha na hora de selecionar o que trazer aqui para te mostrar. Acredite! Dá só uma olhada e veja se não tenho razão:
+  O que você encontra na **Mimosidades** é só coisa bonita, fofa demais… fiquei doidinha na hora de selecionar o que trazer aqui para te mostrar. Acredite! Dá só uma olhada e veja se não tenho razão:
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Caderninhos…</span></strong>
+  **<span style="font-size: large;">Caderninhos…</span>**
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Tenho certeza que depois que você vir umas _belezuras_ lindas de viver que eu t
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Canecas e Memoboards (lousa magnética)…</span></strong>
+  **<span style="font-size: large;">Canecas e Memoboards (lousa magnética)…</span>**
 </p>
 
 <p align="center">
@@ -62,13 +62,13 @@ Tenho certeza que depois que você vir umas _belezuras_ lindas de viver que eu t
 &nbsp;
 
 <p align="justify">
-  Todo mês tem lançamento de um produtinho novo, além de sorteios/promoções. Ah! E dá para ter essas <em>mimosidades</em> na sua <em>timeline</em> do <em>Facebook</em>… basta fazer o<em> download</em> (grátis) <strong><a href="http://www.mimosidades.com.br/timeline_mimosidades/" target="_blank">bem aqui</a></strong>.
+  Todo mês tem lançamento de um produtinho novo, além de sorteios/promoções. Ah! E dá para ter essas <em>mimosidades</em> na sua <em>timeline</em> do <em>Facebook</em>… basta fazer o<em> download</em> (grátis) **<a href="http://www.mimosidades.com.br/timeline_mimosidades/" target="_blank">bem aqui</a>**.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Camisetas…</span></strong>
+  **<span style="font-size: large;">Camisetas…</span>**
 </p>
 
 <p align="center">
@@ -76,13 +76,13 @@ Tenho certeza que depois que você vir umas _belezuras_ lindas de viver que eu t
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">E muito mais!</span></strong>
+  **<span style="font-size: large;">E muito mais!</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Qual é a bicha fêmea esperta que não vai querer conferir tudo isso bem de perto, <em>hein?</em> Como eu sei que você é dessas, dá para acompanhá-los pelo <strong><a href="http://www.mimosidades.com.br/" target="_blank">Blog</a></strong>, <strong><em><a href="https://www.facebook.com/mimosidadespresentes" target="_blank">Facebook</a></em></strong> e <strong><em><a href="https://twitter.com/mimosidades" target="_blank">Twitter</a></em></strong>.
+  Qual é a bicha fêmea esperta que não vai querer conferir tudo isso bem de perto, <em>hein?</em> Como eu sei que você é dessas, dá para acompanhá-los pelo **<a href="http://www.mimosidades.com.br/" target="_blank">Blog</a>**, **<em><a href="https://www.facebook.com/mimosidadespresentes" target="_blank">Facebook</a></em>** e **<em><a href="https://twitter.com/mimosidades" target="_blank">Twitter</a></em>**.
 </p>
 
 <p align="center">
@@ -90,5 +90,5 @@ Tenho certeza que depois que você vir umas _belezuras_ lindas de viver que eu t
 </p>
 
 <p align="justify">
-  Agora, <em>oh</em>: se joga na <strong><a href="http://loja.mimosidades.com.br/" target="_blank">loja virtual Mimosidades</a></strong>, e delicie-se com tantas coisinhas irresistíveis… e resista se puder!
+  Agora, <em>oh</em>: se joga na **<a href="http://loja.mimosidades.com.br/" target="_blank">loja virtual Mimosidades</a>**, e delicie-se com tantas coisinhas irresistíveis… e resista se puder!
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3294
+
 title: Decore com fotos… quer saber como?
-date: 2014-05-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/22/decoracao-com-fotos/
@@ -64,7 +64,7 @@ Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

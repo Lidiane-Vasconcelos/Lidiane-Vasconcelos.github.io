@@ -1,7 +1,7 @@
 ---
-id: 2947
+
 title: 'Pitacos de decoração: decorando a sala de estar com amarelo!'
-date: 2011-01-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/26/decoracao-sala-estar-amarelo/
@@ -10,11 +10,11 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Você é solar? Gosta de <strong>cores radiantes</strong> na sua <strong>decoração</strong>? <em>Hum</em>… <strong>amarelo</strong> é um representante dos bons quando se pensa em <strong>cores alegres em decoração</strong>, não é? Se você pensa em usar algo assim na sua <strong>sala de estar</strong> e busca inspirações, então este post é para você!
+  Você é solar? Gosta de **cores radiantes** na sua **decoração**? <em>Hum</em>… **amarelo** é um representante dos bons quando se pensa em **cores alegres em decoração**, não é? Se você pensa em usar algo assim na sua **sala de estar** e busca inspirações, então este post é para você!
 </p>
 
 <p style="text-align: justify;">
-  A história que motivou este post começa com um comentário deixado pela Katy, quando foram publicadas, aqui no Trololó de Mulher, <strong><em><a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/">dicas e sugestões sobre cores na sala de estar</a></em></strong>.
+  A história que motivou este post começa com um comentário deixado pela Katy, quando foram publicadas, aqui no Trololó de Mulher, **<em><a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/">dicas e sugestões sobre cores na sala de estar</a></em>**.
 </p>
 
 <!--more-->
@@ -29,7 +29,7 @@ categories:
   </p>
   
   <p>
-    As cores da minha sala são bege, amarelo, mostarda e detalhes vermelho na decoração, sendo que: tenho uma <strong>parede na cor amarelo-canário que é o espaço para colocar o sofá de 3 lugares</strong>; as <strong>demais paredes e o teto são brancos</strong>. Nesta mesma parede amarela tenho um quadro que mistura as cores vermelha e bege. Faço uma combinação de duas cortinas, a cortina que fica nas pontas é mostarda e a cortina que fica no centro do varão é bege. Na sala tenho também um rack <strong>imbuiá com preto</strong>. Qual cor devo comprar meu sofá? Ah! E no caso de <strong>tapete, qual cor devo colocar</strong>? Desde já obrigada. Bjsss
+    As cores da minha sala são bege, amarelo, mostarda e detalhes vermelho na decoração, sendo que: tenho uma **parede na cor amarelo-canário que é o espaço para colocar o sofá de 3 lugares**; as **demais paredes e o teto são brancos**. Nesta mesma parede amarela tenho um quadro que mistura as cores vermelha e bege. Faço uma combinação de duas cortinas, a cortina que fica nas pontas é mostarda e a cortina que fica no centro do varão é bege. Na sala tenho também um rack **imbuiá com preto**. Qual cor devo comprar meu sofá? Ah! E no caso de **tapete, qual cor devo colocar**? Desde já obrigada. Bjsss
   </p>
 </blockquote>
 
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">O sofá…</span></em></strong>
+  **<em><span style="font-size: medium;">O sofá…</span></em>**
 </p>
 
 <p align="center">
@@ -70,15 +70,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A imagem me leva a perceber que <strong>a conjunção de detalhes brancos</strong>, <strong>como os que estão nas paredes da Katy, assim como no teto</strong> + <strong>amarelo da parede em destaque</strong> indicam uma <strong>boa opção</strong>. Ela conseguiu criar um ponto de destaque na sala dela, exatamente como sugere esta imagem para referência.
+  A imagem me leva a perceber que **a conjunção de detalhes brancos**, **como os que estão nas paredes da Katy, assim como no teto** + **amarelo da parede em destaque** indicam uma **boa opção**. Ela conseguiu criar um ponto de destaque na sala dela, exatamente como sugere esta imagem para referência.
 </p>
 
 <p style="text-align: justify;">
-  A combinação parece ser de muito bom gosto, e penso que para arrematar o ambiente, um <strong>sofá branco</strong> seria muito bem vindo. A sala ficaria clara, solar, alegre e bem harmoniosa. A questão é: a realidade e rotina da casa permite um sofá branco? Se a resposta for sim, o resultado final poderá ser dos melhores!
+  A combinação parece ser de muito bom gosto, e penso que para arrematar o ambiente, um **sofá branco** seria muito bem vindo. A sala ficaria clara, solar, alegre e bem harmoniosa. A questão é: a realidade e rotina da casa permite um sofá branco? Se a resposta for sim, o resultado final poderá ser dos melhores!
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">O tapete…</span></em></strong>
+  **<em><span style="font-size: medium;">O tapete…</span></em>**
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A imagem também mostra a opção de cor no <strong>tapete</strong> que pode vir a ser uma boa escolha: <strong>cor neutra</strong>! Seria exatamente numa cor assim que apostaria.
+  A imagem também mostra a opção de cor no **tapete** que pode vir a ser uma boa escolha: **cor neutra**! Seria exatamente numa cor assim que apostaria.
 </p>
 
 <p style="text-align: justify;">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Indo um pouco mais além do sofá + tapete…</span></em></strong>
+  **<em><span style="font-size: medium;">Indo um pouco mais além do sofá + tapete…</span></em>**
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  No mais, creio que valha a pena pensar em <strong>acessórios com variações de amarelo</strong>, a exemplo das almofadas e cortina mostarda que já estão na sala, assim como <strong>um detalhe ou outro um pouco mais cítrico</strong>, a exemplo de vasos que poderiam ser colocados no rack branco (o que está na mesa de centro da sala serve como referência visual), ou ainda de quadros que poderiam ornar sua parede (como os que têm folhagens, neste ambiente para inspiração, e que dão uma ideia de como quadros com pinceladas cítricas caem bem em paredes amarelas).
+  No mais, creio que valha a pena pensar em **acessórios com variações de amarelo**, a exemplo das almofadas e cortina mostarda que já estão na sala, assim como **um detalhe ou outro um pouco mais cítrico**, a exemplo de vasos que poderiam ser colocados no rack branco (o que está na mesa de centro da sala serve como referência visual), ou ainda de quadros que poderiam ornar sua parede (como os que têm folhagens, neste ambiente para inspiração, e que dão uma ideia de como quadros com pinceladas cítricas caem bem em paredes amarelas).
 </p>
 
 <p style="text-align: center;">

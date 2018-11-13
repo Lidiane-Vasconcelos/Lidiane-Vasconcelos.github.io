@@ -1,7 +1,7 @@
 ---
-id: 3743
+
 title: 'Pera assada: perfeita como entrada, ou sobremesa.'
-date: 2017-03-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/21/pera-assada/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  A receita de <strong>pera assada</strong> que a Tania Telva compartilhou conosco é das mais simples e lindas de viver. Tenho certeza que você vai concordar comigo: a impressão que temos é de que é uma delícia! A melhor das notícias é que ela é super versátil: entrada ou sobremesa? A única dificuldade é você decidir. Confira!
+  A receita de **pera assada** que a Tania Telva compartilhou conosco é das mais simples e lindas de viver. Tenho certeza que você vai concordar comigo: a impressão que temos é de que é uma delícia! A melhor das notícias é que ela é super versátil: entrada ou sobremesa? A única dificuldade é você decidir. Confira!
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ _Dica: o blue cheese pode ser substituído por gorgonzola._”
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">

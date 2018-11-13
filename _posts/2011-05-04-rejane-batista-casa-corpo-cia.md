@@ -1,7 +1,7 @@
 ---
-id: 2988
+
 title: 'Uma bicha fêmea por outra: Rejane Batista'
-date: 2011-05-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/04/rejane-batista-casa-corpo-cia/
@@ -13,7 +13,7 @@ categories:
 Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus posts é outro atributo: a efervescência de ideias extremamente criativas e a sua disposição para colocá-las em prática a fim de deixar a casa toda _embonecada_.
 
 <p style="text-align: justify;">
-  Quem acompanha a <strong>Rejane</strong>, dona do frequentadíssimo <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong>, acaba sendo envolvida por esse <em>faniquito</em> decorativo que toma conta da blogueira, e contagiada pelas inspirações da moça, sai louca e descontrolada querendo <em>embonecar</em> sua casa também…
+  Quem acompanha a **Rejane**, dona do frequentadíssimo **<a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>**, acaba sendo envolvida por esse <em>faniquito</em> decorativo que toma conta da blogueira, e contagiada pelas inspirações da moça, sai louca e descontrolada querendo <em>embonecar</em> sua casa também…
 </p>
 
 <!--more-->
@@ -47,11 +47,11 @@ Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus post
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Sobre o Blog</span></strong>
+  **<span style="font-size: medium;">Sobre o Blog</span>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong> é o nome de um blog com vocação para a variedade de assuntos. Entretanto, quem te acompanha percebe que o assunto Casa & Decoração impera absoluto no seu espaço virtual. O que mudou, desde a criação do blog, para que essa temática viesse cada vez com mais força para o centeúdo do seu blog?
+  **<a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>** é o nome de um blog com vocação para a variedade de assuntos. Entretanto, quem te acompanha percebe que o assunto Casa & Decoração impera absoluto no seu espaço virtual. O que mudou, desde a criação do blog, para que essa temática viesse cada vez com mais força para o centeúdo do seu blog?
 </p>
 
 <blockquote style="text-align: justify;">
@@ -95,7 +95,7 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 </blockquote>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Sobre a blogosfera</span></strong>
+  **<span style="font-size: medium;">Sobre a blogosfera</span>**
 </p>
 
 <p style="text-align: justify;">
@@ -145,59 +145,59 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Rejane, só no trololó…</span></strong>
+  **<span style="font-size: medium;">Rejane, só no trololó…</span>**
 </p>
 
 <p style="text-align: justify;">
-  <strong>1 &#8211; Um blog me conquista quando&#8230;</strong> <em>mesmo que seja simples, não tenha erros de portugês e mantenha um padrão nos posts. </em>
+  **1 &#8211; Um blog me conquista quando&#8230;** <em>mesmo que seja simples, não tenha erros de portugês e mantenha um padrão nos posts. </em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>2 &#8211; Toda blogueira deveria&#8230;</strong> <em>ser autêntica sem ferir ninguém. Ter classe para criticar e discordar.</em>
+  **2 &#8211; Toda blogueira deveria&#8230;** <em>ser autêntica sem ferir ninguém. Ter classe para criticar e discordar.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>3 &#8211; A blogosfera é&#8230;</strong> <em>um mundo à parte ao qual muitos &#8220;ainda&#8221; desconhecem. Amo fazer parte disso.</em>
+  **3 &#8211; A blogosfera é&#8230;** <em>um mundo à parte ao qual muitos &#8220;ainda&#8221; desconhecem. Amo fazer parte disso.</em>
 </p>
 
 <p style="text-align: justify;">
-  <strong>Mais no Bicha Fêmea…</strong>
+  **Mais no Bicha Fêmea…**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2011/02/23/entrevista-larissa-lieders/">Uma bicha fêmea por outra: Larissa Lieders</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2011/02/23/entrevista-larissa-lieders/">Uma bicha fêmea por outra: Larissa Lieders</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2010/11/17/entrevista-veronica-kraemer/">Uma bicha fêmea por outra: Veronica Kraemer</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/11/17/entrevista-veronica-kraemer/">Uma bicha fêmea por outra: Veronica Kraemer</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2010/09/22/entrevista-katia-bonfadini/">Uma bicha fêmea por outra: Katia Bonfadini</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/09/22/entrevista-katia-bonfadini/">Uma bicha fêmea por outra: Katia Bonfadini</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2010/08/11/entrevista-margaret/">Uma bicha fêmea por outra: Margaret</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/08/11/entrevista-margaret/">Uma bicha fêmea por outra: Margaret</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/">Uma bicha fêmea por outra: Cláudia Ramalho</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/">Uma bicha fêmea por outra: Cláudia Ramalho</a>**
 </p>
 
 <p style="text-align: center;">
-  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 <p style="text-align: justify;">

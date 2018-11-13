@@ -1,7 +1,7 @@
 ---
-id: 2789
+
 title: Destaques da semana no meu Twitter. Me segue aí…
-date: 2010-02-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/12/destaques-da-semana-no-meu-twitter-me-segue-a/

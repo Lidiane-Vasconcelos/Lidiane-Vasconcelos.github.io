@@ -1,7 +1,7 @@
 ---
-id: 3751
+
 title: 'Estresse engorda: mito ou verdade?'
-date: 2017-04-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/17/estresse-engorda/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Dizer que <strong>estresse engorda</strong> não é uma desculpa qualquer, porque é verdade: tem tudo a ver ser estressada e ter aumento de medidas no corpo. Está cientificamente comprovado e a consultoria para a edição deste post, pela <strong>Dra. Juliana Gabriel, Médica Endocrinologista de Campinas – SP</strong>, nos ajuda a entender de uma maneira bastante simples e didática como se dá essa relação entre estresse e ganho de peso. Tensão no dia a dia influencia na balança, e muito mais do que poderíamos imaginar. Confira!
+  Dizer que **estresse engorda** não é uma desculpa qualquer, porque é verdade: tem tudo a ver ser estressada e ter aumento de medidas no corpo. Está cientificamente comprovado e a consultoria para a edição deste post, pela **Dra. Juliana Gabriel, Médica Endocrinologista de Campinas – SP**, nos ajuda a entender de uma maneira bastante simples e didática como se dá essa relação entre estresse e ganho de peso. Tensão no dia a dia influencia na balança, e muito mais do que poderíamos imaginar. Confira!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Estresse do bem?</span></strong>
+  **<span style="font-size: x-large;">Estresse do bem?</span>**
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Estresse x Gula</span></strong>
+  **<span style="font-size: x-large;">Estresse x Gula</span>**
 </p>
 
 <p align="justify">
@@ -38,15 +38,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank">Mulher, alimentos e ansiedade… há algo familiar nisso?</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank">Mulher, alimentos e ansiedade… há algo familiar nisso?</a>**
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Como saber se estamos estressadas? Há sinais?</strong>
+  **Trololó de Mulher >>> Como saber se estamos estressadas? Há sinais?**
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">O corpo fala</span></strong>
+  **<span style="font-size: x-large;">O corpo fala</span>**
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Quais outros males à saúde podem ser associados ao estresse?</strong>
+  **Trololó de Mulher >>> Quais outros males à saúde podem ser associados ao estresse?**
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  <em><strong><span style="font-size: x-large;">Como evitar?</span></strong></em>
+  <em>**<span style="font-size: x-large;">Como evitar?</span>**</em>
 </p>
 
 <p align="justify">

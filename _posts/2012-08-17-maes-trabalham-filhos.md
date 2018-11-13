@@ -1,7 +1,7 @@
 ---
-id: 3173
+
 title: 'Mães trabalham muito e ficam menos com os filhos: e daí?'
-date: 2012-08-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/17/maes-trabalham-filhos/
@@ -25,15 +25,15 @@ categories:
 </p>
 
 <p align="justify">
-  A verdade é que a vida não é mais como antes, quando apenas os homens trabalhavam fora e as mulheres trabalhavam em casa, cuidando dos afazeres domésticos e da educação dos filhos. Hoje é diferente e isso representa um avanço nas nossas vidas, porque podemos fazer nossas escolhas e darmos atenção ao que queremos como mulher. Até aí, tudo parece ser muito saudável e alinhado com o nosso tempo. A questão é: <strong>e quando essa necessidade de trabalhar invade a relação familiar numa medida que até mesmo a educação das crianças passa a ser terceirizada?</strong>
+  A verdade é que a vida não é mais como antes, quando apenas os homens trabalhavam fora e as mulheres trabalhavam em casa, cuidando dos afazeres domésticos e da educação dos filhos. Hoje é diferente e isso representa um avanço nas nossas vidas, porque podemos fazer nossas escolhas e darmos atenção ao que queremos como mulher. Até aí, tudo parece ser muito saudável e alinhado com o nosso tempo. A questão é: **e quando essa necessidade de trabalhar invade a relação familiar numa medida que até mesmo a educação das crianças passa a ser terceirizada?**
 </p>
 
 <p align="justify">
-  Essa dúvida me levou até a <strong>Psicanalista Geisa Machado</strong>, que é nossa consultora para os assuntos ligados a comportamento, e que você já deve ter conhecido através de outros posts por aqui. É ela quem alerta: “<em>os pais delegam a educação dos próprios filhos a terceiros. Eu digo os pais porque esta tarefa é dos dois. Muitas mulheres fazem atualmente o que os homens faziam antigamente: chegam em casa, querem descansar e não ter aborrecimentos com criança. Com isso, fazem todas as vontades dela, enchem-na de brinquedos e acham que agindo assim minimizam uma possível culpa que sentem por não estar com o filho o tempo todo (a culpa na mulher pode ser maior, porque a pressão em cima dela é também muito maior na questão da maternidade</em>)”.
+  Essa dúvida me levou até a **Psicanalista Geisa Machado**, que é nossa consultora para os assuntos ligados a comportamento, e que você já deve ter conhecido através de outros posts por aqui. É ela quem alerta: “<em>os pais delegam a educação dos próprios filhos a terceiros. Eu digo os pais porque esta tarefa é dos dois. Muitas mulheres fazem atualmente o que os homens faziam antigamente: chegam em casa, querem descansar e não ter aborrecimentos com criança. Com isso, fazem todas as vontades dela, enchem-na de brinquedos e acham que agindo assim minimizam uma possível culpa que sentem por não estar com o filho o tempo todo (a culpa na mulher pode ser maior, porque a pressão em cima dela é também muito maior na questão da maternidade</em>)”.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/mae-e-bebe/" rel="attachment wp-att-9030"><img class="alignnone size-full wp-image-9030" title="MAE E BEBE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/MAE-E-BEBE.png" alt="" width="290" height="273" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/mae-e-bebe/" rel="attachment wp-att-9030"><img class="alignnone size-full wp-image-9030" title="MAE E BEBE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/MAE-E-BEBE.png" alt="" width="290" height="273" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 <p align="justify">
@@ -43,11 +43,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Será que chegamos ao ponto de constatar que <strong>o fato de as mulheres terem conseguido o direito de sair para trabalhar foi a pior coisa que elas fizeram por suas famílias?</strong> Não <em>né</em>, gente? Absolutamente! Na verdade, talvez esteja faltando equilíbrio. De acordo com Geisa, falta aparar arestas e tirar os excessos:
+  Será que chegamos ao ponto de constatar que **o fato de as mulheres terem conseguido o direito de sair para trabalhar foi a pior coisa que elas fizeram por suas famílias?** Não <em>né</em>, gente? Absolutamente! Na verdade, talvez esteja faltando equilíbrio. De acordo com Geisa, falta aparar arestas e tirar os excessos:
 </p>
 
 > <p align="justify">
->   <strong>“<em>Não há problema na mulher trabalhar e terceirizar os cuidados que o filho precisa. O problema é quando ela trabalha DEMAIS, isto pode ser um sinal de que ela não aceita a maternidade, inconscientemente rejeita o filho e&#8230; consequentemente&#8230; ele sente isso. Portanto, e eu acredito nisso, a qualidade, e não a quantidade, do tempo que a mãe está com o filho é que é importante, não por se sentir obrigada a, mas por gostar de. Estar junto dele e presente, de corpo e alma, é que faz toda a diferença. Mas para isso é extremamente necessário perceber se a mulher está presente dessa forma e ter muita AUTENTICIDADE para se responder a esta verdade. Se a mulher chega muito tarde em casa, trabalha demais e precisa ficar abrindo espaço na sua agenda para estar com o filho, é sinal que ela está dando mais importância ao trabalho e, querendo ou não, a criança percebe isso e reage das mais diversas formas</em>.”</strong>
+>   **“<em>Não há problema na mulher trabalhar e terceirizar os cuidados que o filho precisa. O problema é quando ela trabalha DEMAIS, isto pode ser um sinal de que ela não aceita a maternidade, inconscientemente rejeita o filho e&#8230; consequentemente&#8230; ele sente isso. Portanto, e eu acredito nisso, a qualidade, e não a quantidade, do tempo que a mãe está com o filho é que é importante, não por se sentir obrigada a, mas por gostar de. Estar junto dele e presente, de corpo e alma, é que faz toda a diferença. Mas para isso é extremamente necessário perceber se a mulher está presente dessa forma e ter muita AUTENTICIDADE para se responder a esta verdade. Se a mulher chega muito tarde em casa, trabalha demais e precisa ficar abrindo espaço na sua agenda para estar com o filho, é sinal que ela está dando mais importância ao trabalho e, querendo ou não, a criança percebe isso e reage das mais diversas formas</em>.”**
 > </p>
 
 <p align="justify">
@@ -69,7 +69,7 @@ categories:
 </p>
 
 <p align="justify">
-  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <strong><a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a></strong>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <strong><a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a></strong>!
+  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog **<a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a>**. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e **<a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a>**!
 </p>
 
 <p align="center">

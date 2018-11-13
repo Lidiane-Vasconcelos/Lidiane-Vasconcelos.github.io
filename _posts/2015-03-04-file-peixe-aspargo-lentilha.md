@@ -1,7 +1,7 @@
 ---
-id: 3400
+
 title: Filé de saint peter enroladinho no aspargo e salada de lentilha
-date: 2015-03-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/04/file-peixe-aspargo-lentilha/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
 <p align="justify">
@@ -62,23 +62,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de preparo:</strong>
+  **Modo de preparo:**
 </p>
 
 > <p align="justify">
->   <strong>Você tempera os filés com sal, pimenta, limão e açafrão. Coloque os filés e os aspargos em uma assadeira forrada com papel alumínio e untada com um pouquinho de azeite. Neste momento você pode colocar um pouquinho de pimenta e sal nos aspargos também. Leve ao forno em 180 graus coberto com papel alumínio por 5 minutos, e depois retire o papel alumínio e deixe mais 3 minutos.</strong>
+>   **Você tempera os filés com sal, pimenta, limão e açafrão. Coloque os filés e os aspargos em uma assadeira forrada com papel alumínio e untada com um pouquinho de azeite. Neste momento você pode colocar um pouquinho de pimenta e sal nos aspargos também. Leve ao forno em 180 graus coberto com papel alumínio por 5 minutos, e depois retire o papel alumínio e deixe mais 3 minutos.**
 > </p>
 
 > <p align="justify">
->   <strong>Escorra a lentilha da água que estava de molho, depois você coloca uma nova água, e leve ao fogo para ferver. Deixe ferver até que a lentilha fique al dente. Se preferir pode usar panela de pressão. Escorra, deixe esfriar, e tempere com sal, pimenta, azeite e acrescente pepino japonês picadinho.</strong>
+>   **Escorra a lentilha da água que estava de molho, depois você coloca uma nova água, e leve ao fogo para ferver. Deixe ferver até que a lentilha fique al dente. Se preferir pode usar panela de pressão. Escorra, deixe esfriar, e tempere com sal, pimenta, azeite e acrescente pepino japonês picadinho.**
 > </p>
 
 <p align="justify">
-  <strong>Montagem:</strong>
+  **Montagem:**
 </p>
 
 > <p align="justify">
->   <strong>Coloque a salada no prato, depois enrole o filé em um ou dois aspargos, e coloque-o em cima da &#8220;caminha&#8221;de lentilha. Eu coloquei alguns aspargos soltos nas laterais. Pode servir com arroz ou uma salada de folhas.”</strong>
+>   **Coloque a salada no prato, depois enrole o filé em um ou dois aspargos, e coloque-o em cima da &#8220;caminha&#8221;de lentilha. Eu coloquei alguns aspargos soltos nas laterais. Pode servir com arroz ou uma salada de folhas.”**
 > </p>
 
 <p align="center">
@@ -86,23 +86,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank"><strong>Suflê de abobrinha com hortelã: bonito, gostoso e saudável</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank">**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank"><strong>Risoto com arroz comum, mas integral, com aspargos</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank">**Risoto com arroz comum, mas integral, com aspargos**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho de inhame assado com bacalhau**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

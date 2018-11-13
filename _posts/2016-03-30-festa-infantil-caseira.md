@@ -1,7 +1,7 @@
 ---
-id: 3571
+
 title: 6 mesas de festa infantil caseira para inspirar
-date: 2016-03-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/30/festa-infantil-caseira/

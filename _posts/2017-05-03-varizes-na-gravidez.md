@@ -1,7 +1,7 @@
 ---
-id: 3758
+
 title: 'Varizes na gravidez: como minimizar o problema?'
-date: 2017-05-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/03/varizes-na-gravidez/
@@ -11,7 +11,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  <strong>Varizes na gravidez</strong> geram desconforto, dor e inchaço, e tudo o que mais queremos é encontrar o caminho das pedras: como ter uma gestação mais tranquila, sem esse incômodo? Nesse post você vai encontrar as orientações que precisa pra entender por que nessa fase elas são tão latentes, e um norte sobre como contornar esse mal, tudo através da consultoria dada pela <strong>Dra. Nivea Lins Czernocha, Médica Angiologista e Cirurgiã Vascular, do Rio de Janeiro – RJ.</strong>
+  **Varizes na gravidez** geram desconforto, dor e inchaço, e tudo o que mais queremos é encontrar o caminho das pedras: como ter uma gestação mais tranquila, sem esse incômodo? Nesse post você vai encontrar as orientações que precisa pra entender por que nessa fase elas são tão latentes, e um norte sobre como contornar esse mal, tudo através da consultoria dada pela **Dra. Nivea Lins Czernocha, Médica Angiologista e Cirurgiã Vascular, do Rio de Janeiro – RJ.**
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Imagem: <a href="http://www.flickr.com/photos/7485630@N06/" target="_blank">The 5th Ape</a> via <a href="http://foter.com/re/62f681" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a></strong>
+  **Imagem: <a href="http://www.flickr.com/photos/7485630@N06/" target="_blank">The 5th Ape</a> via <a href="http://foter.com/re/62f681" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>**
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> O que são as varizes?</strong>
+  **Trololó de Mulher >>> O que são as varizes?**
 </p>
 
 <p align="justify">
-  <strong>“<em>Varizes são veias dilatadas e tortuosas que perdem parcialmente a eficiência de realizar o retorno do sangue ao coração por estarem assim, doentes</em>.”</strong>
+  **“<em>Varizes são veias dilatadas e tortuosas que perdem parcialmente a eficiência de realizar o retorno do sangue ao coração por estarem assim, doentes</em>.”**
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Por que elas surgem ou aumentam durante a gravidez?</strong>
+  **Trololó de Mulher >>> Por que elas surgem ou aumentam durante a gravidez?**
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Elas podem surgir em outra parte do corpo? </strong>
+  **Trololó de Mulher >>> Elas podem surgir em outra parte do corpo? **
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> É possível prevenir as varizes durante a gravidez?</strong>
+  **Trololó de Mulher >>> É possível prevenir as varizes durante a gravidez?**
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Da solução…</span></strong>
+  **<span style="font-size: x-large;">Da solução…</span>**
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Trololó de Mulher >>> Uma vez resolvido o problema, as varizes podem voltar?</strong>
+  **Trololó de Mulher >>> Uma vez resolvido o problema, as varizes podem voltar?**
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Das consequências…</span></strong>
+  **<span style="font-size: x-large;">Das consequências…</span>**
 </p>
 
 <p align="justify">

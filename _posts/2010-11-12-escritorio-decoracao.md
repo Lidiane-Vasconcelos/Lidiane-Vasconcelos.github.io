@@ -1,7 +1,7 @@
 ---
-id: 2908
+
 title: 'Home office: soluções simples de decoração &#038; organização.'
-date: 2010-11-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/12/escritorio-decoracao/
@@ -11,7 +11,7 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Independentemente se é grande ou pequeno, os <strong><em>home offices</em> ou escritórios domésticos</strong> têm feito cada vez mais parte do dia a dia das casas por aí afora, não é? Mas quem disse que esse ambiente não merece toques legais de <strong>decoração</strong>, ou soluções para <strong>organização</strong>?
+  Independentemente se é grande ou pequeno, os **<em>home offices</em> ou escritórios domésticos** têm feito cada vez mais parte do dia a dia das casas por aí afora, não é? Mas quem disse que esse ambiente não merece toques legais de **decoração**, ou soluções para **organização**?
 </p>
 
 <p style="text-align: justify;">
@@ -29,7 +29,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Quando falta espaço para organizar os apetrechos do escritório…</span></em></strong>
+  **<em><span style="font-size: medium;">Quando falta espaço para organizar os apetrechos do escritório…</span></em>**
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Hum</em>&#8230; é espaço o que falta? Use a parede, bonita? Busque nas lojas do tipo <em>home center</em> <strong><em>nichos de parede que sirvam para você organizar pequenos objetos</em></strong>. As <strong><em>prateleiras</em></strong>, para esse fim, são válidas também. O importante é você <strong><em>usar o espaço vertical que dispõe</em></strong>, <strong><em>mantendo o que é essencial para o seu home office devidamente em ordem</em></strong>.
+  <em>Hum</em>&#8230; é espaço o que falta? Use a parede, bonita? Busque nas lojas do tipo <em>home center</em> **<em>nichos de parede que sirvam para você organizar pequenos objetos</em>**. As **<em>prateleiras</em>**, para esse fim, são válidas também. O importante é você **<em>usar o espaço vertical que dispõe</em>**, **<em>mantendo o que é essencial para o seu home office devidamente em ordem</em>**.
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Home Office na sala?</span></em></strong>
+  **<em><span style="font-size: medium;">Home Office na sala?</span></em>**
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Você deve ter se perguntado como se inspirar para ter um escritório na sala de modo que fique bonito, não é? Vamos lá&#8230; você não quer que haja uma discrepância no ambiente, correto? Então pense em <strong><em>usar elementos que fiquem sobre sua mesa que “conversem” com tudo o mais que há na sua sala de estar</em></strong>.
+  Você deve ter se perguntado como se inspirar para ter um escritório na sala de modo que fique bonito, não é? Vamos lá&#8230; você não quer que haja uma discrepância no ambiente, correto? Então pense em **<em>usar elementos que fiquem sobre sua mesa que “conversem” com tudo o mais que há na sua sala de estar</em>**.
 </p>
 
 <p style="text-align: justify;">
@@ -69,7 +69,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Escolha uma mesa que não tenha “cara” de escritório para compor esse espaço, e isso você pode conseguir até mesmo em lojas de móveis usados. <strong><em>Sob a mesa você pode colocar um gaveteiro</em></strong>, como no ambiente retratado na imagem, <strong><em>onde contas, recibos e documentos, todos devidamente separados por pastas, ficam organizados</em></strong>. E agora? A ideia começa a parecer possível na tua cabeça?
+  Escolha uma mesa que não tenha “cara” de escritório para compor esse espaço, e isso você pode conseguir até mesmo em lojas de móveis usados. **<em>Sob a mesa você pode colocar um gaveteiro</em>**, como no ambiente retratado na imagem, **<em>onde contas, recibos e documentos, todos devidamente separados por pastas, ficam organizados</em>**. E agora? A ideia começa a parecer possível na tua cabeça?
 </p>
 
 <p style="text-align: justify;">
@@ -77,7 +77,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Soluções simples de decoração & organização fazem diferença no seu escritório!</span></em></strong>
+  **<em><span style="font-size: medium;">Soluções simples de decoração & organização fazem diferença no seu escritório!</span></em>**
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Soluções simples podem fazer grande diferença no dia do seu <em>home office</em>. Repare como <strong>um quadro/mural de recados pode trazer graça, além de te ajudar selecionando o que de mais importante estará diante de seus olhos</strong>. Inspire-se na imagem!
+  Soluções simples podem fazer grande diferença no dia do seu <em>home office</em>. Repare como **um quadro/mural de recados pode trazer graça, além de te ajudar selecionando o que de mais importante estará diante de seus olhos**. Inspire-se na imagem!
 </p>
 
 <p style="text-align: justify;">
@@ -93,7 +93,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Veja sobre a mesa do ambiente como <strong>uma bandeja pequena é ótima para manter a organização</strong> do porta lápis, que poderá ser uma caneca reaproveitada (por que não?) e mais alguns pequenos objetos. Viu? Fica a dica para fazer algo parecido nos seus domínios também&#8230;
+  Veja sobre a mesa do ambiente como **uma bandeja pequena é ótima para manter a organização** do porta lápis, que poderá ser uma caneca reaproveitada (por que não?) e mais alguns pequenos objetos. Viu? Fica a dica para fazer algo parecido nos seus domínios também&#8230;
 </p>
 
 <p style="text-align: center;">

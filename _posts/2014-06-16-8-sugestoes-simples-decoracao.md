@@ -1,7 +1,7 @@
 ---
-id: 3302
+
 title: 8 sugestões simples de detalhes com bossa na decoração
-date: 2014-06-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/16/8-sugestoes-simples-decoracao/
@@ -24,10 +24,10 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
-<a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar paredes com quadros?</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar paredes com quadros?**</a>
 
 &nbsp;
 
@@ -36,14 +36,14 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Falando nisso:</strong>
+  **Falando nisso:**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2013/08/26/reutilizacao-decoracao/" target="_blank"><strong>Reutilização de móveis e objetos na decoração: questão de estilo.</strong></a>
+<a href="http://www.trololodemulher.com.br/2013/08/26/reutilizacao-decoracao/" target="_blank">**Reutilização de móveis e objetos na decoração: questão de estilo.**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-2/" target="_blank"><strong>Reutilização de objetos com novos usos.</strong></a>
+<a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-2/" target="_blank">**Reutilização de objetos com novos usos.**</a>
 
-<a href="http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/" target="_blank"><strong>Decoração com objetos reutilizados by bichas fêmeas navegantes</strong></a>
+<a href="http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/" target="_blank">**Decoração com objetos reutilizados by bichas fêmeas navegantes**</a>
 
 &nbsp;
 
@@ -52,14 +52,14 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Tudo a ver:</strong>
+  **Tudo a ver:**
 </p>
 
-<a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
+<a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank">**Banheiro: dicas simples de decoração que custam quase nada!**</a>
 
-<a href="http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/" target="_blank"><strong>Lavabo e banheiro charmosos com dicas de leitoras.</strong></a>
+<a href="http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/" target="_blank">**Lavabo e banheiro charmosos com dicas de leitoras.**</a>
 
-<a href="http://www.decoracaodacasa.com/dicas-decoracao-banheiro/" target="_blank"><strong>Dicas para a decoração do seu banheiro.</strong></a>
+<a href="http://www.decoracaodacasa.com/dicas-decoracao-banheiro/" target="_blank">**Dicas para a decoração do seu banheiro.**</a>
 
 &nbsp;
 
@@ -71,11 +71,11 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 
 **Falando nela, oh:**
 
-<a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank"><strong>Moldura: coadjuvante ou protagonista na decoração? Você decide!</strong></a>
+<a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank">**Moldura: coadjuvante ou protagonista na decoração? Você decide!**</a>
 
-<a href="http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/" target="_blank"><strong>Faça você mesma: moldura de porta-retratos linda de viver.</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/" target="_blank">**Faça você mesma: moldura de porta-retratos linda de viver.**</a>
 
-<a href="http://www.decoracaodacasa.com/reutilizacao-objeto-decoracao/" target="_blank"><strong>Ideia para reutilização de quadro na decoração da casa.</strong></a>
+<a href="http://www.decoracaodacasa.com/reutilizacao-objeto-decoracao/" target="_blank">**Ideia para reutilização de quadro na decoração da casa.**</a>
 
 &nbsp;
 
@@ -84,12 +84,12 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Ainda sobre cores:</strong>
+  **Ainda sobre cores:**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas!</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**</a>
 
-<a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank"><strong>Cores salpicadas na decoração aqui e ecolá: lindeza de ver!</strong></a>
+<a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank">**Cores salpicadas na decoração aqui e ecolá: lindeza de ver!**</a>
 
 &nbsp;
 
@@ -98,10 +98,10 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>O romantismo continua no ar:</strong>
+  **O romantismo continua no ar:**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2011/03/23/decoracao-do-quarto/" target="_blank"><strong>3 dicas para deixar a decoração do quarto mais romântica.</strong></a>
+<a href="http://www.trololodemulher.com.br/2011/03/23/decoracao-do-quarto/" target="_blank">**3 dicas para deixar a decoração do quarto mais romântica.**</a>
 
 &nbsp;
 
@@ -117,11 +117,11 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 
 **Quarto da criançada em ordem:**
 
-<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização para o quarto infantil: você não vai copiar?</strong></a>
+<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização para o quarto infantil: você não vai copiar?**</a>
 
-<a href="http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/" target="_blank"><strong>Quando a organização favorece a decoração do quarto infantil.</strong></a>
+<a href="http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/" target="_blank">**Quando a organização favorece a decoração do quarto infantil.**</a>
 
-<a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank"><strong>Ideias para você organizar um cantinho de leitura e artes infantil.</strong></a>
+<a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank">**Ideias para você organizar um cantinho de leitura e artes infantil.**</a>
 
 &nbsp;
 
@@ -136,7 +136,7 @@ Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Th
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

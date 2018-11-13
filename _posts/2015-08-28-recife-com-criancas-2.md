@@ -1,7 +1,7 @@
 ---
-id: 3476
+
 title: 'Agenda Recife com crianças: 29 e 30 de Agosto'
-date: 2015-08-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/28/recife-com-criancas-2/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Sábado}</strong>
+  **{Sábado}**
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Domingo}</strong>
+  **{Domingo}**
 </p>
 
 <p align="justify">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>{Sábado & Domingo}</strong>
+  **{Sábado & Domingo}**
 </p>
 
 <p align="justify">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Horário da Bilheteria:</strong> De terça a sábado das 10h às 20h, domingo das 10h às 17h.
+  **Horário da Bilheteria:** De terça a sábado das 10h às 20h, domingo das 10h às 17h.
 </p>
 
 **Local:** Galeria 1

@@ -1,7 +1,7 @@
 ---
-id: 3140
+
 title: 'Cosmética sustentável: a natureza agradece, mas a beleza muito mais!'
-date: 2012-06-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/21/cosmetica-sustentavel/
@@ -15,7 +15,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 &nbsp;
 
 <p align="justify">
-  Justamente por que eu sei bem que você, aí do outro lado, se importa em trazer um pouco mais de consciência ecológica para a sua vida, imaginei que você iria gostar de conhecer o novo projeto da <strong>Ilália</strong>, uma blogueira que conheço das antigas e que teve uma ideia <em>superultramega</em> bacana: <strong><a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">Cosmética Sustentável</a></strong>.
+  Justamente por que eu sei bem que você, aí do outro lado, se importa em trazer um pouco mais de consciência ecológica para a sua vida, imaginei que você iria gostar de conhecer o novo projeto da **Ilália**, uma blogueira que conheço das antigas e que teve uma ideia <em>superultramega</em> bacana: **<a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">Cosmética Sustentável</a>**.
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 &nbsp;
 
 <p align="justify">
-  Não é de hoje que a Ilália é envolvida com o universo da beleza, mas de um jeito diferente. Há muito tempo eu a conheci falando de <strong>cosméticos orgânicos</strong> e tal… depois de amadurecer bastante a sua vivência nesse universo, a bonita colocou no ar um site que busca informar sobre cosméticos sustentáveis, orgânicos e naturais.
+  Não é de hoje que a Ilália é envolvida com o universo da beleza, mas de um jeito diferente. Há muito tempo eu a conheci falando de **cosméticos orgânicos** e tal… depois de amadurecer bastante a sua vivência nesse universo, a bonita colocou no ar um site que busca informar sobre cosméticos sustentáveis, orgânicos e naturais.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 </p>
 
 <p align="justify">
-  Além disso, no site esses produtos serão comercializados, ou seja, é tudo o que a gente precisa num lugar só: <strong><a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank">informação através do blog</a></strong> e <strong><a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">produtos legais através da loja virtual</a></strong>! A natureza agradece, mas a nossa beleza e bem-estar muito mais!
+  Além disso, no site esses produtos serão comercializados, ou seja, é tudo o que a gente precisa num lugar só: **<a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank">informação através do blog</a>** e **<a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">produtos legais através da loja virtual</a>**! A natureza agradece, mas a nossa beleza e bem-estar muito mais!
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 </p>
 
 <p align="justify">
-  Sabe de uma coisa? A melhor das notícias é que os preços são bem convidativos, daqueles bem justos… e você ainda pode ganhar descontos!!! Quer saber como, <em>né</em>? <strong>Basta ser uma bicha fêmea navegante, bonita!</strong>
+  Sabe de uma coisa? A melhor das notícias é que os preços são bem convidativos, daqueles bem justos… e você ainda pode ganhar descontos!!! Quer saber como, <em>né</em>? **Basta ser uma bicha fêmea navegante, bonita!**
 </p>
 
 <p align="center">
@@ -59,5 +59,5 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 </p>
 
 <p align="justify">
-  <strong>Neste mês de lançamento</strong>, ou seja, até o final de Junho, as <strong>leitoras do Bicha Fêmea</strong> terão <strong>10% de desconto nas compras</strong>. Quer aproveitar? Então use o <span style="font-size: medium;">cupom de desconto sob o código: <strong>18CA35726X</strong>.</span> Quer dar uma olhadinha e ver<strong> <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">o que tem por lá</a></strong>? Navegue á vontade, informe-se bastante e aproveite!
+  **Neste mês de lançamento**, ou seja, até o final de Junho, as **leitoras do Bicha Fêmea** terão **10% de desconto nas compras**. Quer aproveitar? Então use o <span style="font-size: medium;">cupom de desconto sob o código: **18CA35726X**.</span> Quer dar uma olhadinha e ver** <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">o que tem por lá</a>**? Navegue á vontade, informe-se bastante e aproveite!
 </p>

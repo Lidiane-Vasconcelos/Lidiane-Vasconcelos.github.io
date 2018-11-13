@@ -1,7 +1,7 @@
 ---
-id: 3798
+
 title: 3 detalhes pra surpreender na decoração da cozinha.
-date: 2017-09-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/12/decoracao-da-cozinha-3/
@@ -10,17 +10,17 @@ categories:
   - Cozinha
 ---
 <p style="text-align: justify;">
-  Pois é… sou obrigada a usar um <em>clichesão</em>: o detalhe faz toda a diferença! Para te provar isso, te dar ideias e te instigar a reparar algo diferente a ser feito na <strong>decoração da cozinha</strong>, selecionei 3 sugestões para você se deliciar, <em>viu</em>?
+  Pois é… sou obrigada a usar um <em>clichesão</em>: o detalhe faz toda a diferença! Para te provar isso, te dar ideias e te instigar a reparar algo diferente a ser feito na **decoração da cozinha**, selecionei 3 sugestões para você se deliciar, <em>viu</em>?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  As ideias reunidas a partir do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong> passam por estratégias diferentes na sua decoração: revestimento, móveis e detalhes decorativos. Escolha a que mais agrada o seu estilo, ou aplique todas, e arranque elogios encantados com o ambiente que você vai compor. Divirta-se!
+  As ideias reunidas a partir do site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>** passam por estratégias diferentes na sua decoração: revestimento, móveis e detalhes decorativos. Escolha a que mais agrada o seu estilo, ou aplique todas, e arranque elogios encantados com o ambiente que você vai compor. Divirta-se!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">Sua cor favorita é…</span></strong>
+  **<span style="font-size: large;">Sua cor favorita é…</span>**
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Ela pode aparecer como o centro das atenções em apenas um detalhe de seus armários se você escolher produzí-los em <strong>laca</strong>. Olha só que lindo o efeito se todo o resto for branquinho? O mercado de móveis de cozinha oferece cores diferentes, para agradar todos os gostos. Decida qual cor será a rainha da sua cozinha e aplique-a num detalhe, no final das contas seus olhos agradecem.
+  Ela pode aparecer como o centro das atenções em apenas um detalhe de seus armários se você escolher produzí-los em **laca**. Olha só que lindo o efeito se todo o resto for branquinho? O mercado de móveis de cozinha oferece cores diferentes, para agradar todos os gostos. Decida qual cor será a rainha da sua cozinha e aplique-a num detalhe, no final das contas seus olhos agradecem.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">De onde menos se espera…</span></strong>
+  **<span style="font-size: large;">De onde menos se espera…</span>**
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Saia do lugar comum…</span></strong>
+  **<span style="font-size: large;">Saia do lugar comum…</span>**
 </p>
 
 <p align="center">

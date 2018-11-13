@@ -1,7 +1,7 @@
 ---
-id: 3061
+
 title: O talento na cozinha pode mesmo virar uma fonte de renda?
-date: 2011-10-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/07/empreendedorismo-cozinha/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Há quem já tenha feito disso uma realidade… conheça a linda e talentosa <strong>Roberta Dalsenter</strong>, editora do blog <strong><a href="http://docesabobrinhas.com/" target="_blank">Doces Abobrinhas</a></strong>, e uma das tantas mulheres por aí afora que fizeram do amor pelo forno e fogão uma fonte de renda. Ah…claro, inspire-se!
+  Há quem já tenha feito disso uma realidade… conheça a linda e talentosa **Roberta Dalsenter**, editora do blog **<a href="http://docesabobrinhas.com/" target="_blank">Doces Abobrinhas</a>**, e uma das tantas mulheres por aí afora que fizeram do amor pelo forno e fogão uma fonte de renda. Ah…claro, inspire-se!
 </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">O que te motiva para permanecer neste tipo de atividade?</span></strong>
+  **<span style="font-size: medium;">O que te motiva para permanecer neste tipo de atividade?</span>**
 </p>
 
 &nbsp;
@@ -57,25 +57,25 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">Quais são as dificuldades?</span></strong>
+  **<span style="font-size: medium;">Quais são as dificuldades?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <strong>“<em>São várias, a primeira delas é que trabalhar com algo perecível como alimentos é algo que requer muito cuidado na higienização e conservação. A segunda e mais importante de todas elas é que mudo muito de idéia e preciso me firmar de que quero isso por mais tempo e então passar credibilidade para meu marido me financiar e abrir uma padaria conceito, com um clima único, cheia de rococó e bossa. Décor, estilo, ambientação e um menu de confeitaria e patisserie incríveis. Já tive uma delicatessen em Blumenau e minha dificuldade está em administrar tudo isso: empresa, familia, educação dos filhos, amigos e encontrar as pessoas certas para estarem ao meu lado. Sozinha não fazemos nada</em>!”</strong>
+>   **“<em>São várias, a primeira delas é que trabalhar com algo perecível como alimentos é algo que requer muito cuidado na higienização e conservação. A segunda e mais importante de todas elas é que mudo muito de idéia e preciso me firmar de que quero isso por mais tempo e então passar credibilidade para meu marido me financiar e abrir uma padaria conceito, com um clima único, cheia de rococó e bossa. Décor, estilo, ambientação e um menu de confeitaria e patisserie incríveis. Já tive uma delicatessen em Blumenau e minha dificuldade está em administrar tudo isso: empresa, familia, educação dos filhos, amigos e encontrar as pessoas certas para estarem ao meu lado. Sozinha não fazemos nada</em>!”**
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">Há planos quanto aos cupcakes para o futuro?</span></strong>
+  **<span style="font-size: medium;">Há planos quanto aos cupcakes para o futuro?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<strong><em>Sim, sonho que eles cheguem fresquinhos e fofinhos em todos momentos doces que alguém deseje ter. Quero que eles virem marca e referência em minha região</em>.”</strong>
+>   “**<em>Sim, sonho que eles cheguem fresquinhos e fofinhos em todos momentos doces que alguém deseje ter. Quero que eles virem marca e referência em minha região</em>.”**
 > </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3101
+
 title: Tem jardim na casa de Margaret? Ô, se tem!
-date: 2012-01-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/04/jardim-casa-margaret/
@@ -26,13 +26,13 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 </p>
 
 <p align="center">
-  <em><strong>Margaret</strong> e o marido, seu amado <strong>Bi</strong>, com quem troca ideias para a decoração e paisagismo do jardim. Eles estão em frente a uma palmeira, um tipo de planta amado por ela pelo visual bonito que tem.</em>
+  <em>**Margaret** e o marido, seu amado **Bi**, com quem troca ideias para a decoração e paisagismo do jardim. Eles estão em frente a uma palmeira, um tipo de planta amado por ela pelo visual bonito que tem.</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Quem conhece a Margaret sabe que ela é o tipo de pessoa que gosta de colocar a mão na massa, por isso ela virou referência para a ideia do “faça você mesma” na decoração. Todas estamos muito acostumadas a ver no seu blog, o <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, suas ideias aplicadas em reaproveitamento de móveis e objetos, e este post mostra que ela também sabe das coisas quando o assunto é compor um ambiente externo que dê a sensação plena de aconchego.
+  Quem conhece a Margaret sabe que ela é o tipo de pessoa que gosta de colocar a mão na massa, por isso ela virou referência para a ideia do “faça você mesma” na decoração. Todas estamos muito acostumadas a ver no seu blog, o **<a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**, suas ideias aplicadas em reaproveitamento de móveis e objetos, e este post mostra que ela também sabe das coisas quando o assunto é compor um ambiente externo que dê a sensação plena de aconchego.
 </p>
 
 <p align="justify">
@@ -88,13 +88,13 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 &nbsp;
 
 <p align="justify">
-  Já imaginou dar uma voltinha nesse jardim e ver cada detalhe do espaço, sendo recebida pela própria Margaret? <strong>Se não dá para chegar lá agora, no Bicha Fêmea essa delícia de experiência chega até você.</strong> Acomode-se na cadeira e curta a simpatia ímpar da Margaret mostrando seu espaço para a gente… confere!
+  Já imaginou dar uma voltinha nesse jardim e ver cada detalhe do espaço, sendo recebida pela própria Margaret? **Se não dá para chegar lá agora, no Bicha Fêmea essa delícia de experiência chega até você.** Acomode-se na cadeira e curta a simpatia ímpar da Margaret mostrando seu espaço para a gente… confere!
 </p>
 
 
 
 <p align="center">
-  <strong><span style="font-size: medium;">Quais os cuidados necessários para ter um espaço tão lindo e gostoso?</span></strong>
+  **<span style="font-size: medium;">Quais os cuidados necessários para ter um espaço tão lindo e gostoso?</span>**
 </p>
 
 &nbsp;
@@ -110,20 +110,20 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
+  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><img class="alignnone size-full wp-image-6881" title="Jardim - Carol Carneiro[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro3200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><strong><span style="font-size: small;">Qual espaço na sua casa é a cara do Verão?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><img class="alignnone size-full wp-image-6881" title="Jardim - Carol Carneiro[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro3200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/">**<span style="font-size: small;">Qual espaço na sua casa é a cara do Verão?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg"><img class="alignnone size-full wp-image-5844" title="jardim200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/"><strong><span style="font-size: small;">Decoração de jardins com objetos reutilizados</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg"><img class="alignnone size-full wp-image-5844" title="jardim200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/">**<span style="font-size: small;">Decoração de jardins com objetos reutilizados</span>**</a>
       </p>
     </td>
   </tr>
@@ -132,15 +132,15 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -163,5 +163,5 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

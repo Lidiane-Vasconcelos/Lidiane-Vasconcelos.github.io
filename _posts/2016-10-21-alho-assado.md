@@ -1,7 +1,7 @@
 ---
-id: 3692
+
 title: Alho assado com alecrim, pra tornar tudo especial.
-date: 2016-10-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/21/alho-assado/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  A dica de Tânia é usar o <strong>alho assado</strong> em saladas, molhos, sopas ou mesmo com pães ou biscoitos. Que tudo vai ficar especial com esse toque aromático não tenho dúvidas, e a boa notícia é que essa delicadeza pode ser preparada no melhor estilo <em>vapt-vupt</em>! Confira e comprove: é simples, prático e rápido:
+  A dica de Tânia é usar o **alho assado** em saladas, molhos, sopas ou mesmo com pães ou biscoitos. Que tudo vai ficar especial com esse toque aromático não tenho dúvidas, e a boa notícia é que essa delicadeza pode ser preparada no melhor estilo <em>vapt-vupt</em>! Confira e comprove: é simples, prático e rápido:
 </p>
 
 <p align="center">
@@ -62,19 +62,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank"><strong>Sorvete caseiro de melancia para dias de sol.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank">**Sorvete caseiro de melancia para dias de sol.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank"><strong>Como fazer barra de cereal caseira?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank">**Como fazer barra de cereal caseira?**</a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <strong><em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em></strong>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se **<em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em>**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">

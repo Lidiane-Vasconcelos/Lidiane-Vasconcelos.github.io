@@ -1,7 +1,7 @@
 ---
-id: 3851
+
 title: 'Newsletter Trololó de Mulher: por que assinar?'
-date: 2018-02-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/02/28/newsletter/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Deixe seu comentário no formulário abaixo dizendo “eu quero!”</strong>, e logo logo entro em contato com você.
+  **Deixe seu comentário no formulário abaixo dizendo “eu quero!”**, e logo logo entro em contato com você.
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ categories:
 </p>
 
 <p align="justify">
-  A minha principal ferramenta de comunicação com quem curte o Trololó de Mulher, sobretudo com quem participou do <strong><a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a></strong>, é o e-mail. Com essa rede de mulheres mais que bonitas eu compartilho informação sobre como melhorar a vida em vários aspectos, em especial no que diz respeito a produtividade, organização e gestão do tempo, e bem viver. Continuo firme e forte na crença de que informação salva! Quer fazer parte dessa rede de compartilhamento de aprendizados?
+  A minha principal ferramenta de comunicação com quem curte o Trololó de Mulher, sobretudo com quem participou do **<a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>**, é o e-mail. Com essa rede de mulheres mais que bonitas eu compartilho informação sobre como melhorar a vida em vários aspectos, em especial no que diz respeito a produtividade, organização e gestão do tempo, e bem viver. Continuo firme e forte na crença de que informação salva! Quer fazer parte dessa rede de compartilhamento de aprendizados?
 </p>
 
 <p align="center">
-  <strong>Deixe seu comentário no formulário abaixo dizendo “eu quero!”</strong>, e logo logo entro em contato com você.
+  **Deixe seu comentário no formulário abaixo dizendo “eu quero!”**, e logo logo entro em contato com você.
 </p>

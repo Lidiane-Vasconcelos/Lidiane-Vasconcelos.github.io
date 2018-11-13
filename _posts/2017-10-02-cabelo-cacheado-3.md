@@ -1,7 +1,7 @@
 ---
-id: 3809
+
 title: Como ter o cabelo cacheado que você curte?
-date: 2017-10-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/02/cabelo-cacheado-3/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  Para quem deseja assumir o <strong>cabelo cacheado</strong>, e natural, com definição e aspecto de bem cuidado, alguns cuidados precisam ser tomados. Confira neste post tudo o que você precisa saber para conquistar o cabelo do jeitinho que você deseja, com dicas e orientações de <strong>Rafaela Santos, Cabeleireira especialista em cachos</strong>. Confira!
+  Para quem deseja assumir o **cabelo cacheado**, e natural, com definição e aspecto de bem cuidado, alguns cuidados precisam ser tomados. Confira neste post tudo o que você precisa saber para conquistar o cabelo do jeitinho que você deseja, com dicas e orientações de **Rafaela Santos, Cabeleireira especialista em cachos**. Confira!
 </p>
 
 <p align="center">
@@ -38,11 +38,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/10/cabelos-arrepiados-frizz/" target="_blank"><strong>Cabelos arrepiados com frizz… o que fazer?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/10/cabelos-arrepiados-frizz/" target="_blank">**Cabelos arrepiados com frizz… o que fazer?**</a>
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/20/cabelo-cacheado-2/" target="_blank"><strong>Evite 6 erros e seu cabelo cacheado ficará lindo no dia a dia.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/04/20/cabelo-cacheado-2/" target="_blank">**Evite 6 erros e seu cabelo cacheado ficará lindo no dia a dia.**</a>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="justify">
-  Rafa é engajadíssima na internet, com muito conteúdo e informação relevante pra quem deseja cuidar bem de seus cachos desde já. Não deixe de conferir e acompanhar. <a href="http://caracoismeus.com.br/" target="_blank">Clique aqui para visitar e conhecer o seu blog</a>, o <strong>Caracóis Meus</strong>, <a href="https://www.facebook.com/caracoismeus" target="_blank">clicando aqui você pode curtir a fanpage</a> da moça, e <a href="https://www.instagram.com/caracoismeusblog/" target="_blank">aqui você consegue seguí-la no Instagram</a>. Aproveite!
+  Rafa é engajadíssima na internet, com muito conteúdo e informação relevante pra quem deseja cuidar bem de seus cachos desde já. Não deixe de conferir e acompanhar. <a href="http://caracoismeus.com.br/" target="_blank">Clique aqui para visitar e conhecer o seu blog</a>, o **Caracóis Meus**, <a href="https://www.facebook.com/caracoismeus" target="_blank">clicando aqui você pode curtir a fanpage</a> da moça, e <a href="https://www.instagram.com/caracoismeusblog/" target="_blank">aqui você consegue seguí-la no Instagram</a>. Aproveite!
 </p>
 
 <p align="center">

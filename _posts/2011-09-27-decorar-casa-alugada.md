@@ -1,7 +1,7 @@
 ---
-id: 3056
+
 title: Como decorar uma casa alugada gastando menos? Dicas, sugestões e pitacos…
-date: 2011-09-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/27/decorar-casa-alugada/
@@ -28,19 +28,19 @@ Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jov
 </p>
 
 <p align="justify">
-  * <strong>É melhor <em>usar cores claras</em>, suaves ou o popular <em>soft</em> nas nossas <em>paredes</em>.</strong>
+  * **É melhor <em>usar cores claras</em>, suaves ou o popular <em>soft</em> nas nossas <em>paredes</em>.**
 </p>
 
 <p align="justify">
-  <strong>* Sobre móveis, a exemplo de uma mesa de centro de sala, prefira uma que <strong><em>permita a visão do chão abaixo dela</em></strong>, para dar a sensação do óbvio: mais chão no ambiente.</strong>
+  *** Sobre móveis, a exemplo de uma mesa de centro de sala, prefira uma que **<em>permita a visão do chão abaixo dela</em>**, para dar a sensação do óbvio: mais chão no ambiente.**
 </p>
 
 <p align="justify">
-  * <strong>Com relação aos <em>móveis </em>que seriam mais adequados, a sugestão é a de escolhê-los com<em> linhas</em> mais<em> retas</em>, em detrimento dos que têm formatos mais pomposos, porque num ambiente pequeno o efeito dos móveis muito cheio de detalhes é de que ele (o ambiente) está cheio. </strong>
+  * **Com relação aos <em>móveis </em>que seriam mais adequados, a sugestão é a de escolhê-los com<em> linhas</em> mais<em> retas</em>, em detrimento dos que têm formatos mais pomposos, porque num ambiente pequeno o efeito dos móveis muito cheio de detalhes é de que ele (o ambiente) está cheio. **
 </p>
 
 <p align="justify">
-  <strong>* Use e abuse de <em>prateleiras</em>. Você poderá <em>colocá-las sob medida</em> e planejar como arrumá-las de acordo com suas necessidades.</strong>
+  *** Use e abuse de <em>prateleiras</em>. Você poderá <em>colocá-las sob medida</em> e planejar como arrumá-las de acordo com suas necessidades.**
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jov
 </p>
 
 <p align="center">
-  Imagem: <strong>stock.xchng</strong>
+  Imagem: **stock.xchng**
 </p>
 
 <p align="justify">
@@ -60,7 +60,7 @@ Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jov
 </p>
 
 <p align="justify">
-  Faça uma busca aqui mesmo no <strong>Bicha Fêmea</strong> e você vai encontrar ideias práticas, simples, rápidas e baratas para você deixar sua casa cheia de charme. Se joga na busca!
+  Faça uma busca aqui mesmo no **Bicha Fêmea** e você vai encontrar ideias práticas, simples, rápidas e baratas para você deixar sua casa cheia de charme. Se joga na busca!
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3300
+
 title: '3 “verdades” duvidosas que minam sua vida: fuja disso já!'
-date: 2014-06-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/04/felicidade-mitos/
@@ -22,7 +22,7 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;">Com a palavra, a especialista:</span></strong>
+  **<span style="font-size: small;">Com a palavra, a especialista:</span>**
 </p>
 
 &nbsp;
@@ -34,7 +34,7 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">“Só posso ser feliz se estiver casada.” & “Preciso ser mãe e, aí, minha vida será perfeita.”</span></strong>
+  **<span style="font-size: small;">“Só posso ser feliz se estiver casada.” & “Preciso ser mãe e, aí, minha vida será perfeita.”</span>**
 </p>
 
 &nbsp;
@@ -44,21 +44,21 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 > </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/11/04/sozinhez/" target="_blank"><strong>Sozinhez</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/11/04/sozinhez/" target="_blank">**Sozinhez**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/" target="_blank"><strong>Quando alguém te pergunta se você quer ter filhos…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/" target="_blank">**Quando alguém te pergunta se você quer ter filhos…**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">“Quanto mais dinheiro eu ganhar, menos problemas terei na vida.”</span></strong>
+  **<span style="font-size: small;">“Quanto mais dinheiro eu ganhar, menos problemas terei na vida.”</span>**
 </p>
 
 &nbsp;
@@ -68,19 +68,19 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 > </p>
 
 <p align="justify">
-  <strong>Tudo a ver:</strong>
+  **Tudo a ver:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank"><strong>Consumismo: você ficaria 365 dias sem compras?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank">**Consumismo: você ficaria 365 dias sem compras?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank"><strong>Suas finanças pessoais estão no azul ou no vermelho?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank">**Suas finanças pessoais estão no azul ou no vermelho?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank">**Dicas que seu bolso agradece, e muito!**</a>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Concluindo…</span></strong>
+  **<span style="font-size: small;">Concluindo…</span>**
 </p>
 
 &nbsp;

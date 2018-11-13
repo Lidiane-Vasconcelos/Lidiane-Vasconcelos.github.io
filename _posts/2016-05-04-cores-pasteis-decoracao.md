@@ -1,7 +1,7 @@
 ---
-id: 3603
+
 title: 'Cores pasteis na decoração: 3 maneiras simples de usá-las.'
-date: 2016-05-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/04/cores-pasteis-decoracao/

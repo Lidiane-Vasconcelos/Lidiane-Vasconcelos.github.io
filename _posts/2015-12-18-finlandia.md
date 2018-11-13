@@ -1,7 +1,7 @@
 ---
-id: 3522
+
 title: 'Dri Minhoto na Finlândia: pausa pra reflexão.'
-date: 2015-12-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/18/finlandia/
@@ -12,7 +12,7 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Essa época do ano é assim: a gente costuma parar, pensar, olhar pra trás, avaliar o que foi bom, o que merece uma revisão, olhar pra frente e, depois, seguir… Delícia é a sensação de recomeço, de sentir que dá pra começar da estaca zero e fazer tudo diferente… ou não. Neste mês a nossa querida Dri faz essa pausa na vida que tem levado na Finlândia. Neste momento ela já está em terras tupiniquins, recarregando as baterias do amor junto aos pais, amigos e familiares. É hora de se reabastecer de muito carinho, descansar, refletir… e ela já começou por aqui, no seu post mensal do <strong>Trololó de Mulher</strong>. Confira!
+  Essa época do ano é assim: a gente costuma parar, pensar, olhar pra trás, avaliar o que foi bom, o que merece uma revisão, olhar pra frente e, depois, seguir… Delícia é a sensação de recomeço, de sentir que dá pra começar da estaca zero e fazer tudo diferente… ou não. Neste mês a nossa querida Dri faz essa pausa na vida que tem levado na Finlândia. Neste momento ela já está em terras tupiniquins, recarregando as baterias do amor junto aos pais, amigos e familiares. É hora de se reabastecer de muito carinho, descansar, refletir… e ela já começou por aqui, no seu post mensal do **Trololó de Mulher**. Confira!
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">

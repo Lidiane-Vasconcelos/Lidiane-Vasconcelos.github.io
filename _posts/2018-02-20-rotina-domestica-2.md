@@ -1,7 +1,7 @@
 ---
-id: 3848
+
 title: Aprenda as melhores práticas na gestão da rotina doméstica!
-date: 2018-02-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/02/20/rotina-domestica-2/
@@ -13,7 +13,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Casa fora de controle, sentimento de sobrecarga, cansaço e estresse… conhece essa situação? Você deseja a casa em ordem e limpa, mas gostaria de aplicar menos esforço para dar conta das demandas? Isso é possível e te digo como: através do aprendizado das <strong>melhores práticas na gestão da rotina doméstica</strong>, em conjunto com outras mulheres, alinhadas e focadas no mesmo propósito.
+  Casa fora de controle, sentimento de sobrecarga, cansaço e estresse… conhece essa situação? Você deseja a casa em ordem e limpa, mas gostaria de aplicar menos esforço para dar conta das demandas? Isso é possível e te digo como: através do aprendizado das **melhores práticas na gestão da rotina doméstica**, em conjunto com outras mulheres, alinhadas e focadas no mesmo propósito.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>[CASA LIMPA E ORGANIZADA COM MENOS ESFORÇO]</strong> Quer fazer parte de uma turma de mulheres que desejam aprender as melhores práticas na gestão da rotina doméstica, e tornar o dia a dia mais leve?
+  **[CASA LIMPA E ORGANIZADA COM MENOS ESFORÇO]** Quer fazer parte de uma turma de mulheres que desejam aprender as melhores práticas na gestão da rotina doméstica, e tornar o dia a dia mais leve?
 </p>
 
 <p align="justify">

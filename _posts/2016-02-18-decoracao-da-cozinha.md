@@ -1,7 +1,7 @@
 ---
-id: 3544
+
 title: 'Renove a decoração da cozinha: 12 ideias muito simples.'
-date: 2016-02-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/18/decoracao-da-cozinha/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 &#8211; Colorido do <em>patchwork</em></strong>
+  **1 &#8211; Colorido do <em>patchwork</em>**
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 &#8211; Um novo toque de cor</strong>
+  **2 &#8211; Um novo toque de cor**
 </p>
 
 <p align="center">
@@ -38,11 +38,11 @@ categories:
 </p>
 
 <p align="justify">
-  Os armários precisam ser renovados? Ele pode ganhar uma nova cor, ou detalhes diferentes, com o uso do <a href="http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/" target="_blank">papel contact</a>, tudo assim: <em>vapt-vupt</em>. A blogueira <strong>Vivianne Pontes, do blog dcoração</strong>, mostrou <a href="http://www.dcoracao.com/2014/04/como-renovar-cozinha-com-papel-contact.html" target="_blank">neste post</a> que ela optou por esse recurso decorativo,  e mandou muito bem!
+  Os armários precisam ser renovados? Ele pode ganhar uma nova cor, ou detalhes diferentes, com o uso do <a href="http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/" target="_blank">papel contact</a>, tudo assim: <em>vapt-vupt</em>. A blogueira **Vivianne Pontes, do blog dcoração**, mostrou <a href="http://www.dcoracao.com/2014/04/como-renovar-cozinha-com-papel-contact.html" target="_blank">neste post</a> que ela optou por esse recurso decorativo,  e mandou muito bem!
 </p>
 
 <p align="justify">
-  <strong>3 – Reaproveitamento</strong>
+  **3 – Reaproveitamento**
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Olhe pra fora</strong>
+  **4 – Olhe pra fora**
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Coifa como ponto de atenção</strong>
+  **5 – Coifa como ponto de atenção**
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 – Instale prateleiras flutuantes</strong>
+  **6 – Instale prateleiras flutuantes**
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>7 – Vista a janela</strong>
+  **7 – Vista a janela**
 </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>8 – Coloque cor nos eletrodomésticos</strong>
+  **8 – Coloque cor nos eletrodomésticos**
 </p>
 
 <p align="center">
@@ -138,15 +138,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank"><strong>Decoração da cozinha: 7 profissionais dizem o que é top.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank">**Decoração da cozinha: 7 profissionais dizem o que é top.**</a>
 </p>
 
 <p align="justify">
-  <strong>9 – Mude com o papel de parede</strong>
+  **9 – Mude com o papel de parede**
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>10 – Decore a parede com personalidade</strong>
+  **10 – Decore a parede com personalidade**
 </p>
 
 <p align="center">
@@ -178,15 +178,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank"><strong>Download grátis: decore a parede da cozinha com quadro de frutas.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank">**Download grátis: decore a parede da cozinha com quadro de frutas.**</a>
 </p>
 
 <p align="justify">
-  <strong>11 – Aposte em bancos coloridos</strong>
+  **11 – Aposte em bancos coloridos**
 </p>
 
 <p align="center">
@@ -202,7 +202,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>12 – Exponha cores em tecidos</strong>
+  **12 – Exponha cores em tecidos**
 </p>
 
 <p align="center">

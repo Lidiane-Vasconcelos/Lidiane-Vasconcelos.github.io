@@ -1,7 +1,7 @@
 ---
-id: 3689
+
 title: Decoração do lavabo ou banheiro para receber visitas.
-date: 2016-10-20T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/20/decoracao-do-lavabo/
@@ -13,11 +13,11 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Lavabo, caso você não saiba, é um banheiro bem pequeno, apenas com vaso e pia, que fica na área social da casa, e em geral usado pelas visitas quando as recebemos em casa. A <strong>decoração do lavabo</strong> em dias festivos é algo que naturalmente está em nossos desejos, não é? E quem não tem lavabo? Ora! O anseio por tornar o banheiro um local acolhedor e bem arrumado é tão verdadeiro quanto, e esse post foi pensado para dar dicas de como tornar o lavabo, ou o seu banheiro, um espaço lindo de viver nos dias em que você for receber pessoas queridas, viu?
+  Lavabo, caso você não saiba, é um banheiro bem pequeno, apenas com vaso e pia, que fica na área social da casa, e em geral usado pelas visitas quando as recebemos em casa. A **decoração do lavabo** em dias festivos é algo que naturalmente está em nossos desejos, não é? E quem não tem lavabo? Ora! O anseio por tornar o banheiro um local acolhedor e bem arrumado é tão verdadeiro quanto, e esse post foi pensado para dar dicas de como tornar o lavabo, ou o seu banheiro, um espaço lindo de viver nos dias em que você for receber pessoas queridas, viu?
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Toques diferentes no décor</span></strong>
+  **<span style="font-size: large;">Toques diferentes no décor</span>**
 </p>
 
 <p align="justify">
@@ -61,11 +61,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank"><strong><span style="font-size: large;">Toalhas para lavabo</span></strong></a>
+  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank">**<span style="font-size: large;">Toalhas para lavabo</span>**</a>
 </p>
 
 <p align="justify">
-  As toalhas usadas nos dias em que vamos receber podem ser escolhidas a dedo, para serem as estrelas da decoração. Menores que as toalhas de rosto do dia a dia, porque se destinam a secar apenas as mãos, elas podem atender aos mais diferentes estilos, a depender do tipo de tecido e trabalho decorativo que as peças apresentam. Há formas diferentes de deixá-las no espaço: <strong>expostas nos ganchos ou cabideiros apropriados, enroladas como rolinhos e dispostas em bandejas ou cestos, ou ainda apenas dobradas e posicionadas sobre o balcão</strong>.
+  As toalhas usadas nos dias em que vamos receber podem ser escolhidas a dedo, para serem as estrelas da decoração. Menores que as toalhas de rosto do dia a dia, porque se destinam a secar apenas as mãos, elas podem atender aos mais diferentes estilos, a depender do tipo de tecido e trabalho decorativo que as peças apresentam. Há formas diferentes de deixá-las no espaço: **expostas nos ganchos ou cabideiros apropriados, enroladas como rolinhos e dispostas em bandejas ou cestos, ou ainda apenas dobradas e posicionadas sobre o balcão**.
 </p>
 
 <p align="justify">
@@ -101,7 +101,7 @@ categories:
 </p>
 
 <p align="justify">
-  A <strong>Xique Xique Brasil</strong> é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No <strong>Instagram</strong> todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
+  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No **Instagram** todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
 </p>
 
 <p align="center">

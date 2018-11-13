@@ -1,7 +1,7 @@
 ---
-id: 3015
+
 title: 'Saúde da pele: é exagero usar tantos tipos de sabonete?'
-date: 2011-06-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/29/saude-beleza-da-pele/
@@ -12,13 +12,13 @@ categories:
 Como eu, aposto que você usa **diferentes tipos de sabonete** para as **várias áreas do corpo**, correto? Será que você já ouviu alguém falar que isso é totalmente desnecessário? Se sim, essa é a hora de tirar a dúvida.
 
 <p style="text-align: justify;">
-  Quem responde essa questão com exclusividade para o <strong>Bicha Fêmea</strong> é a <strong>médica dermatologista</strong> do <strong>Rio de Janeiro</strong>, <strong>Dra. Livia Pino</strong>, que também é blogueira e edita o <strong><a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a></strong>.
+  Quem responde essa questão com exclusividade para o **Bicha Fêmea** é a **médica dermatologista** do **Rio de Janeiro**, **Dra. Livia Pino**, que também é blogueira e edita o **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>**.
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  A Dra. Livia, que edita o blog abastecendo o espaço com posts cheios de <strong>informações e dicas de produtos para a beleza e saúde da sua pele</strong>, explica que não há exagero algum quando usamos diversos sabonetes com finalidades distintas. E sabe o porquê? É ela quem esclarece: “<em>A pele do rosto é completamente diferente da pele do corpo. Em geral, é uma pele mais sensível e assim requer cuidados mais específicos. Usar o sabonete do corpo no rosto não vale a pena, em geral</em>”.
+  A Dra. Livia, que edita o blog abastecendo o espaço com posts cheios de **informações e dicas de produtos para a beleza e saúde da sua pele**, explica que não há exagero algum quando usamos diversos sabonetes com finalidades distintas. E sabe o porquê? É ela quem esclarece: “<em>A pele do rosto é completamente diferente da pele do corpo. Em geral, é uma pele mais sensível e assim requer cuidados mais específicos. Usar o sabonete do corpo no rosto não vale a pena, em geral</em>”.
 </p>
 
 <p style="text-align: justify;">
@@ -30,27 +30,27 @@ Como eu, aposto que você usa **diferentes tipos de sabonete** para as **várias
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele.jpg"><img class="alignnone size-full wp-image-6553" title="saúde e beleza da pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele.jpg" alt="" width="600" height="400" /></a><br /> Imagem: <a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele.jpg"><img class="alignnone size-full wp-image-6553" title="saúde e beleza da pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/saude-e-beleza-da-pele.jpg" alt="" width="600" height="400" /></a><br /> Imagem: <a href="http://www.sxc.hu/" target="_blank">**stock.xchng**</a>
 </p>
 
 <p style="text-align: justify;">
-  <strong>O que levar em consideração na hora de escolher um sabonete para:</strong>
+  **O que levar em consideração na hora de escolher um sabonete para:**
 </p>
 
 <p style="text-align: justify;">
-  <strong>Rosto – </strong>Se a <strong>pele é oleosa</strong>, usar sabonetes que tenham ativos para controle da oleosidade, como zinco pca. Se a <strong>pele é acneica</strong> ou oleosa com tendência a acne, usar  sabonete que contenha ácido salicílico e enxofre. Se a <strong>pele é sensível</strong>, como nos casos de rosácea, usar sabonetes que não causem mais irritação na pele e que possuam ativos calmantes.
+  **Rosto – **Se a **pele é oleosa**, usar sabonetes que tenham ativos para controle da oleosidade, como zinco pca. Se a **pele é acneica** ou oleosa com tendência a acne, usar  sabonete que contenha ácido salicílico e enxofre. Se a **pele é sensível**, como nos casos de rosácea, usar sabonetes que não causem mais irritação na pele e que possuam ativos calmantes.
 </p>
 
 <p style="text-align: justify;">
-  <strong>Corpo</strong> – Em geral nossa pele do <strong>corpo precisa de agentes hidratantes</strong>. Em geral recomendo uso de sabonetes mais neutros (para evitar alergias) e que contenham ativos hidratantes como <strong>óleo de amendoas doce, óleo de semete de uva, manteiga de karite</strong>, etc.
+  **Corpo** – Em geral nossa pele do **corpo precisa de agentes hidratantes**. Em geral recomendo uso de sabonetes mais neutros (para evitar alergias) e que contenham ativos hidratantes como **óleo de amendoas doce, óleo de semete de uva, manteiga de karite**, etc.
 </p>
 
 <p style="text-align: justify;">
-  <strong>Áreas íntimas</strong> – Sabonetes para esta área <strong>devem ser dermatologicamente e ginecologicamente testados</strong>. De preferência estes sabonetes <strong>não devem possuir muita cor, nem muita fragrância</strong>. Uma vez que isto pode gerar alergias (dermatite) nesta região delicada.
+  **Áreas íntimas** – Sabonetes para esta área **devem ser dermatologicamente e ginecologicamente testados**. De preferência estes sabonetes **não devem possuir muita cor, nem muita fragrância**. Uma vez que isto pode gerar alergias (dermatite) nesta região delicada.
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">Há algum tipo de sabonete que sirva para tudo?</span></strong>
+  **<span style="font-size: medium;">Há algum tipo de sabonete que sirva para tudo?</span>**
 </p>
 
 <p style="text-align: justify;">
@@ -74,23 +74,23 @@ Como eu, aposto que você usa **diferentes tipos de sabonete** para as **várias
 **[Colesterol alto? Invista na reeducação alimentar!](http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/)**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/corpo/"><strong><em>Corpo</em></strong></a>> <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em></strong>
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
+  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
+  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
+  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
 </p>
 
 ** **

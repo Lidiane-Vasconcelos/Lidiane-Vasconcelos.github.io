@@ -1,7 +1,7 @@
 ---
-id: 3367
+
 title: Educação, ordem e progresso… lá na Finlândia é assim!
-date: 2014-11-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/14/educacao-na-finlandia/
@@ -20,27 +20,27 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Quem não fica preocupada com a educação dos filhos? Eu ainda não tenho nenhum pimpolho, mas tenho várias amigas que têm, e a dúvida delas é sempre a mesma: quando colocar na escolinha e qual a melhor escolha?</strong>
+>   **Quem não fica preocupada com a educação dos filhos? Eu ainda não tenho nenhum pimpolho, mas tenho várias amigas que têm, e a dúvida delas é sempre a mesma: quando colocar na escolinha e qual a melhor escolha?**
 > </p>
 
 > <p align="justify">
->   <strong>Claro que, morando na Finlândia, o país com um dos melhores sistemas educacionais do mundo (você não sabia?) eu não poderia deixar de mostrar para vocês como as coisas funcionam e funcionam bem aqui. </strong>
+>   **Claro que, morando na Finlândia, o país com um dos melhores sistemas educacionais do mundo (você não sabia?) eu não poderia deixar de mostrar para vocês como as coisas funcionam e funcionam bem aqui. **
 > </p>
 
 > <p align="justify">
->   <strong>A informação mais importante para começar a falar de educação aqui na Finlândia, é que os professores se sentem valorizados. Aqui, ensinar é uma profissão mais concorrida do que medicina, engenharia e advocacia! Pasmem! Todos os professores, sim eu disse todos, para que possam dar aula, estudam no mínimo cinco anos (que é o tempo para se formar em pedagogia e ter uma especialização, que é obrigatória) .</strong>
+>   **A informação mais importante para começar a falar de educação aqui na Finlândia, é que os professores se sentem valorizados. Aqui, ensinar é uma profissão mais concorrida do que medicina, engenharia e advocacia! Pasmem! Todos os professores, sim eu disse todos, para que possam dar aula, estudam no mínimo cinco anos (que é o tempo para se formar em pedagogia e ter uma especialização, que é obrigatória) .**
 > </p>
 
 > <p align="justify">
->   <strong>Segundo dados do PISA*, a Finlândia é o país que valoriza mais os seus professores, sendo que mais da metade deles consideram a sua profissão estimada. Colocando em números: 90% dos professores estão satisfeitos. Já no Brasil, incrivelmente os números são o contrário: 90% dos nossos professores estão insatisfeitos. </strong>
+>   **Segundo dados do PISA*, a Finlândia é o país que valoriza mais os seus professores, sendo que mais da metade deles consideram a sua profissão estimada. Colocando em números: 90% dos professores estão satisfeitos. Já no Brasil, incrivelmente os números são o contrário: 90% dos nossos professores estão insatisfeitos. **
 > </p>
 
 > <p align="justify">
->   <strong>Conversei com uma amiga brasileira que mora aqui faz muito tempo e é consultora em educação, professora e pedagoga, a Evelyse Eerola, dona de um site voltado para educação, o </strong><a href="http://projetofinlandia.net/" target="_blank"><strong>Projeto Finlândia</strong></a><strong>. De acordo com ela, <em>“em meus quase dezoito anos de vivência na Finlândia, eu nunca vi uma greve de professores, uma reclamação, ou uma conversa de descontentamento neste sentido entre os meus colegas”.</em></strong>
+>   **Conversei com uma amiga brasileira que mora aqui faz muito tempo e é consultora em educação, professora e pedagoga, a Evelyse Eerola, dona de um site voltado para educação, o **<a href="http://projetofinlandia.net/" target="_blank">**Projeto Finlândia**</a>**. De acordo com ela, <em>“em meus quase dezoito anos de vivência na Finlândia, eu nunca vi uma greve de professores, uma reclamação, ou uma conversa de descontentamento neste sentido entre os meus colegas”.</em>**
 > </p>
 
 > <p align="justify">
->   <strong>Ainda segundo a pesquisa do PISA, os professores que mais se sentem valorizados, são aqueles que conseguem os melhores resultados em sala de aula, e isso tanto no Brasil quanto na Finlândia. O salário básico de um professor finlandês gira em torno de 3 mil euros. Evelyse afirma que a maioria dos professores até gostaria de ganhar mais, considerando o trabalho que têm,<em> “mas elas falam sempre sorrindo, e não em tom de reclamação. Neste sentido, deve-se levar em consideração que os Finlandeses têm um grande senso de justiça, e eles querem ser conhecidos por suas atitudes justas. Já que a sociedade reverte os nossos impostos em uma série de benefícios à população, seria injusto pleitear mais salário se você já tem o suficiente para viver com dignidade.”</em></strong>
+>   **Ainda segundo a pesquisa do PISA, os professores que mais se sentem valorizados, são aqueles que conseguem os melhores resultados em sala de aula, e isso tanto no Brasil quanto na Finlândia. O salário básico de um professor finlandês gira em torno de 3 mil euros. Evelyse afirma que a maioria dos professores até gostaria de ganhar mais, considerando o trabalho que têm,<em> “mas elas falam sempre sorrindo, e não em tom de reclamação. Neste sentido, deve-se levar em consideração que os Finlandeses têm um grande senso de justiça, e eles querem ser conhecidos por suas atitudes justas. Já que a sociedade reverte os nossos impostos em uma série de benefícios à população, seria injusto pleitear mais salário se você já tem o suficiente para viver com dignidade.”</em>**
 > </p>
 
 <p align="center">
@@ -52,15 +52,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong>Outro ponto importante é que a educação é gratuita e, além disso, todo o material e o transporte também são de graça!  E o governo procura colocar a criança em uma escola perto de sua residência. Eu moro ao lado de uma escola de educação infantil e vejo crianças pequenas, de cinco, seis anos de idade andando sozinhas nas ruas. Aqui na Finlândia o índice de violência é praticamente nulo. As cidades são seguras e assim os pais não têm problemas em deixar seus filhos irem ou voltarem sozinhos para a escola.</strong>
+>   **Outro ponto importante é que a educação é gratuita e, além disso, todo o material e o transporte também são de graça!  E o governo procura colocar a criança em uma escola perto de sua residência. Eu moro ao lado de uma escola de educação infantil e vejo crianças pequenas, de cinco, seis anos de idade andando sozinhas nas ruas. Aqui na Finlândia o índice de violência é praticamente nulo. As cidades são seguras e assim os pais não têm problemas em deixar seus filhos irem ou voltarem sozinhos para a escola.**
 > </p>
 
 > <p align="justify">
->   <strong>O sistema educacional finlandês cria uma rotina pedagógica de estudos e um ambiente agradável a todos, assim as crianças aprendem seus deveres e seus direitos. Inclusive os baixinhos têm uma vez por semana o “dia da floresta”, quando eles saem das escolas e andam pelas florestas para fazer pesquisas para as aulas. Essa integração de sociedade e meio ambiente é extremamente benéfica para a formação das crianças.</strong>
+>   **O sistema educacional finlandês cria uma rotina pedagógica de estudos e um ambiente agradável a todos, assim as crianças aprendem seus deveres e seus direitos. Inclusive os baixinhos têm uma vez por semana o “dia da floresta”, quando eles saem das escolas e andam pelas florestas para fazer pesquisas para as aulas. Essa integração de sociedade e meio ambiente é extremamente benéfica para a formação das crianças.**
 > </p>
 
 > <p align="justify">
->   <strong>Outro fato interessante é que no ensino fundamental geralmente o mesmo professor acompanha os alunos pelos seis anos, <em>“deste modo cria-se uma forte relação professor-aluno-pais que garante a este professor não só conhecer melhor todas as características dos seus alunos e pais, como adquirir os melhores resultados”</em>, completa Evelyse.”</strong>
+>   **Outro fato interessante é que no ensino fundamental geralmente o mesmo professor acompanha os alunos pelos seis anos, <em>“deste modo cria-se uma forte relação professor-aluno-pais que garante a este professor não só conhecer melhor todas as características dos seus alunos e pais, como adquirir os melhores resultados”</em>, completa Evelyse.”**
 > </p>
 
 <p align="justify">
@@ -75,7 +75,7 @@ categories:
 
 **Mais sobre a Finlândia:**
 
-<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank"><strong>Fazer compras é simples, a menos que seja na Finlândia!</strong></a>
+<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">**Fazer compras é simples, a menos que seja na Finlândia!**</a>
 
 &nbsp;
 
@@ -88,7 +88,7 @@ categories:
 Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
 
 <p align="justify">
-  <strong>*PISA</strong> (Programme for International Student Assessment) é um programa internacional de avaliação de estudantes, de avaliação comparada, aplicada em estudantes de 15 anos. O programa é desenvolvido e coordenado pela Organização para Cooperação e Desenvolvimento Econômico (OCDE).
+  ***PISA** (Programme for International Student Assessment) é um programa internacional de avaliação de estudantes, de avaliação comparada, aplicada em estudantes de 15 anos. O programa é desenvolvido e coordenado pela Organização para Cooperação e Desenvolvimento Econômico (OCDE).
 </p>
 
 <p align="center">

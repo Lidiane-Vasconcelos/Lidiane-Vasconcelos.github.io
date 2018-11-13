@@ -1,7 +1,7 @@
 ---
-id: 2679
+
 title: Prateleira do Bicha Fêmea – Artes da Luci
-date: 2009-07-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/07/prateleira-do-bicha-fmea-artes-da-luci/

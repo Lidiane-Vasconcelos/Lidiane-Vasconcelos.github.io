@@ -1,7 +1,7 @@
 ---
-id: 3452
+
 title: 'Sacolinha de festa infantil: faça você mesma!'
-date: 2015-08-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/07/sacolinha-de-festa-infantil/
@@ -15,11 +15,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/" target="_blank"><strong>Lembrancinhas de festas que saem da mesmice: dicas.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/" target="_blank">**Lembrancinhas de festas que saem da mesmice: dicas.**</a>
 </p>
 
 <p align="center">
@@ -31,19 +31,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/" target="_blank"><strong>Ideias criativas e simples para festas de aniversário infantil</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/" target="_blank">**Ideias criativas e simples para festas de aniversário infantil**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank"><strong>Decoração de festa infantil: ideias para a festa das meninas</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank">**Decoração de festa infantil: ideias para a festa das meninas**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para decoração de festa infantil: faça você mesma</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para decoração de festa infantil: faça você mesma**</a>
 </p>
 
 <p align="justify">

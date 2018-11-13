@@ -1,7 +1,7 @@
 ---
-id: 2849
+
 title: 'Organizando a bagunça em casa: dicas, truques e objetos úteis.'
-date: 2010-07-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/16/organizando-bagunca/
@@ -64,5 +64,5 @@ _Imagens:_ <a href="http://www.myhomeideas.com/" target="_blank"><em>My Home Ide
 **_[5 dicas de organização. E passe bem!](http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

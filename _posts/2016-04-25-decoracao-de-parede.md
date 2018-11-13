@@ -1,7 +1,7 @@
 ---
-id: 3594
+
 title: Faltando algo naquele cantinho de parede?
-date: 2016-04-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/25/decoracao-de-parede/
@@ -31,11 +31,11 @@ Vasos com plantas, livros, quadros encostados, velas, porta-retratos… o que fa
 
 **Veja também:**
 
-<a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank">**Decoração de parede com tampa de caixa de sapato… é criativo ou não é?**</a>
 
-<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank">**Já viu como imprimir charme na decoração da parede com fotos?**</a>
 
-<a href="http://www.decoracaodacasa.com/decoracao-da-parede/" target="_blank"><strong>5 ideias para a decoração da perede vazia em casa.</strong></a>
+<a href="http://www.decoracaodacasa.com/decoracao-da-parede/" target="_blank">**5 ideias para a decoração da perede vazia em casa.**</a>
 
 &nbsp;
 

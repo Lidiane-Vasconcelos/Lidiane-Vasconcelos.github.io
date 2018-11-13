@@ -1,7 +1,7 @@
 ---
-id: 3874
+
 title: Como evitar que o celular impacte sua produtividade?
-date: 2018-08-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/08/21/produtividade-3/
@@ -14,7 +14,7 @@ categories:
   - Produtividade
 ---
 <p align="justify">
-  Ter um celular moderno hoje em dia deveria ser sinônimo de poder usar uma ferramenta que turbine nossa <strong>produtividade</strong>, mas a verdade é que a situação pode ser exatamente outra. Muita gente passa tempo demais online, se deixa bombardear por um volume assustador de informação, acaba sentindo sobrecarga porque sobra menos tempo para fazer o que importa, e todo o volume que foi recebido de informação não é processado… e na verdade nem era informação com tanta qualidade.
+  Ter um celular moderno hoje em dia deveria ser sinônimo de poder usar uma ferramenta que turbine nossa **produtividade**, mas a verdade é que a situação pode ser exatamente outra. Muita gente passa tempo demais online, se deixa bombardear por um volume assustador de informação, acaba sentindo sobrecarga porque sobra menos tempo para fazer o que importa, e todo o volume que foi recebido de informação não é processado… e na verdade nem era informação com tanta qualidade.
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Avalie e faça ajustes:</strong>
+  **Avalie e faça ajustes:**
 </p>
 
 <p align="justify">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>[A PROPÓSITO]</strong> O desafio do uso mais equilibrado do celular no dia a dia é um dos passos consistentemente trabalhados no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>, que está com inscrições encerradas. Se quiser fazer parte da próxima turma, aguarde notícias!
+  **[A PROPÓSITO]** O desafio do uso mais equilibrado do celular no dia a dia é um dos passos consistentemente trabalhados no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>, que está com inscrições encerradas. Se quiser fazer parte da próxima turma, aguarde notícias!
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nosso contéudo:</strong>
+  **Nosso contéudo:**
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>E tem mais!</strong>
+  **E tem mais!**
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Nas Redes:</strong>
+  **Nas Redes:**
 </p>
 
 <p align="center">

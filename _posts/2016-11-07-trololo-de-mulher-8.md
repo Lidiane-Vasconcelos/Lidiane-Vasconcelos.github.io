@@ -1,7 +1,7 @@
 ---
-id: 3698
+
 title: O que tem na Prateleira do Trololó de Mulher de Novembro?
-date: 2016-11-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/07/trololo-de-mulher-8/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Este mês antecede o mês Natalino e os preparativos começam desde já: pensamos em organizar, embelezar e mimar a casa, ou queremos mimar a nós mesmas e a quem amamos com presentinhos. Veja abaixo itens que selecionei para te mostrar aqui no <strong>Trololó de Mulher</strong>, e que podem encaixar perfeitamente no seu propósito. Tem lindezas úteis e de muito bom gosto, para você ou para fazer feliz alguém que você quer bem… confira, e delicie-se!
+  Este mês antecede o mês Natalino e os preparativos começam desde já: pensamos em organizar, embelezar e mimar a casa, ou queremos mimar a nós mesmas e a quem amamos com presentinhos. Veja abaixo itens que selecionei para te mostrar aqui no **Trololó de Mulher**, e que podem encaixar perfeitamente no seu propósito. Tem lindezas úteis e de muito bom gosto, para você ou para fazer feliz alguém que você quer bem… confira, e delicie-se!
 </p>
 
 &nbsp;
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se queremos usar uma peça tão delicada, o ideal é se jogar e ser feliz! Se renda ao <strong>caminho de mesa</strong>, bonita! Todas essas peças lindas de viver são da <strong><a href="https://www.xiquexiquebrasil.com.br/?ref=trololodemulher" target="_blank">XiqueXique Brasil</a></strong>. <a href="http://www.trololodemulher.com.br/2016/10/13/caminho-de-mesa/" target="_blank">Clique aqui e eu te conto</a> por que vale à pena usar essas lindezas na sua decoração!
+  Se queremos usar uma peça tão delicada, o ideal é se jogar e ser feliz! Se renda ao **caminho de mesa**, bonita! Todas essas peças lindas de viver são da **<a href="https://www.xiquexiquebrasil.com.br/?ref=trololodemulher" target="_blank">XiqueXique Brasil</a>**. <a href="http://www.trololodemulher.com.br/2016/10/13/caminho-de-mesa/" target="_blank">Clique aqui e eu te conto</a> por que vale à pena usar essas lindezas na sua decoração!
 </p>
 
 &nbsp;

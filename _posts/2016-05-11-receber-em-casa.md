@@ -1,7 +1,7 @@
 ---
-id: 3587
+
 title: Veja como receber em casa, com 3 dicas simples.
-date: 2016-05-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/11/receber-em-casa/
@@ -11,11 +11,11 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Voltei a morar em Recife faz pouco tempo, há um ano. Quando sai daqui eu morava com meus pais, então você pode imaginar: não tinha minha casa, não era anfitriã, não recebia… No interior de São Paulo, onde morei por 10 anos, recebia pouquíssimo. <strong>Receber em casa</strong> os familiares e amigos, pra valer e com mais frequência, passou a fazer parte de minha vida agora. O que eu tenho a dizer, bonita, é que estou curtindo bastante!!! A casa fica bastante movimentada e Artur num clima de animação total, e no final das contas o coração sente-se aconchegado. Como não amar momentos como esse?
+  Voltei a morar em Recife faz pouco tempo, há um ano. Quando sai daqui eu morava com meus pais, então você pode imaginar: não tinha minha casa, não era anfitriã, não recebia… No interior de São Paulo, onde morei por 10 anos, recebia pouquíssimo. **Receber em casa** os familiares e amigos, pra valer e com mais frequência, passou a fazer parte de minha vida agora. O que eu tenho a dizer, bonita, é que estou curtindo bastante!!! A casa fica bastante movimentada e Artur num clima de animação total, e no final das contas o coração sente-se aconchegado. Como não amar momentos como esse?
 </p>
 
 <p align="justify">
-  O fato é que alguns cuidados são bem importantes para que a gente curta estar junto de pessoas queridas, e quero compartilhar contigo o que tenho aprendido desde que comecei a receber em meus domínios. Se você já é mais experiente nesse quesito, vou amar saber sobre como você se prepara para isso. Se não, aproveite as dicas e aproveite a vida junto aos seus. Desde já adianto que gosto de praticidade, sendo assim, nada de saídas para ir ao salão de beleza neste dia, muito menos servir comida cujo preparo seja complexo. Eu amo me envolver na arrumação da casa e da mesa, e pra isso quero compartilhar contigo lindezas que vi na loja virtual <strong><a href="http://bit.ly/xxbtrololo" target="_blank">Xique Xique Brasil</a></strong>, que é pra deixar o momento de reunião com quem você ama ainda mais cheio de charme.
+  O fato é que alguns cuidados são bem importantes para que a gente curta estar junto de pessoas queridas, e quero compartilhar contigo o que tenho aprendido desde que comecei a receber em meus domínios. Se você já é mais experiente nesse quesito, vou amar saber sobre como você se prepara para isso. Se não, aproveite as dicas e aproveite a vida junto aos seus. Desde já adianto que gosto de praticidade, sendo assim, nada de saídas para ir ao salão de beleza neste dia, muito menos servir comida cujo preparo seja complexo. Eu amo me envolver na arrumação da casa e da mesa, e pra isso quero compartilhar contigo lindezas que vi na loja virtual **<a href="http://bit.ly/xxbtrololo" target="_blank">Xique Xique Brasil</a>**, que é pra deixar o momento de reunião com quem você ama ainda mais cheio de charme.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – O que servir.</strong>
+  **1 – O que servir.**
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – Arrume a mesa.</strong>
+  **2 – Arrume a mesa.**
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Arrume a casa.</strong>
+  **3 – Arrume a casa.**
 </p>
 
 <p align="justify">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="justify">
-  Na Xique Xique Brasil você encontra vários outros itens bastante importantes para vestir a sua casa, a exemplo de <strong>caminhos de mesa, centros de mesa, cobre-pão, toalhas de bandeja, dentre outros</strong>. A variedade é enorme e você pode comprovar visitando a loja, <a href="http://bit.ly/xxbtrololo" target="_blank">clicando aqui</a>. A Xique Xique Brasil também está no Facebook, inspirando você que deseja arrumar a sua casa com peças lindas, de qualidade e bom gosto. <a href="https://www.facebook.com/XiqueXiqueBrasil" target="_blank">Clique aqui, curta</a> e acompanhe!
+  Na Xique Xique Brasil você encontra vários outros itens bastante importantes para vestir a sua casa, a exemplo de **caminhos de mesa, centros de mesa, cobre-pão, toalhas de bandeja, dentre outros**. A variedade é enorme e você pode comprovar visitando a loja, <a href="http://bit.ly/xxbtrololo" target="_blank">clicando aqui</a>. A Xique Xique Brasil também está no Facebook, inspirando você que deseja arrumar a sua casa com peças lindas, de qualidade e bom gosto. <a href="https://www.facebook.com/XiqueXiqueBrasil" target="_blank">Clique aqui, curta</a> e acompanhe!
 </p>
 
 <p align="center">

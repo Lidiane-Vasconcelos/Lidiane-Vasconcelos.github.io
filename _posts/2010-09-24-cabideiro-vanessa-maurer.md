@@ -1,7 +1,7 @@
 ---
-id: 2883
+
 title: Ganhei um cabideiro artesanal do Atelier Vanessa Maurer.
-date: 2010-09-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/24/cabideiro-vanessa-maurer/
@@ -22,13 +22,13 @@ E chegou! Olha só que _belezura_!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Quer as novidades do Bicha Fêmea? </em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><em>Receba gratuitamente em seu e-mail</em></a><em>!</em></strong>
+  **<em>Quer as novidades do Bicha Fêmea? </em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><em>Receba gratuitamente em seu e-mail</em></a><em>!</em>**
 </p>
 
 <p style="text-align: center;">
-  <strong>Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.</strong>
+  **Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em>**
 </p>

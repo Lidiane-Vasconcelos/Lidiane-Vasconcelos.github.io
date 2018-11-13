@@ -1,7 +1,7 @@
 ---
-id: 3555
+
 title: 'Decoração de cozinha pequena: dicas e imagens.'
-date: 2016-03-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/07/decoracao-de-cozinha-pequena/
@@ -15,11 +15,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja també:</strong>
+  **Veja també:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank"><strong>Cozinha pequena: o grande charme da decoração está nos detalhes.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank">**Cozinha pequena: o grande charme da decoração está nos detalhes.**</a>
 </p>
 
 <p align="justify">
@@ -27,11 +27,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank"><strong>Cozinha inteligente, prática  e funcional: dicas profissionais.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank">**Cozinha inteligente, prática  e funcional: dicas profissionais.**</a>
 </p>
 
 <p align="center">
@@ -63,11 +63,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/armario-de-cozinha/" target="_blank"><strong>Como escolher armário de cozinha?</strong></a>
+  <a href="http://www.decoracaodacasa.com/armario-de-cozinha/" target="_blank">**Como escolher armário de cozinha?**</a>
 </p>
 
 <p align="center">
@@ -103,11 +103,11 @@ categories:
 </p>
 
 <p align="left">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/cozinha-americana/" target="_blank"><strong>Cozinha americana pequena e simples: ideias, dicas e modelos.</strong></a>
+  <a href="http://www.decoracaodacasa.com/cozinha-americana/" target="_blank">**Cozinha americana pequena e simples: ideias, dicas e modelos.**</a>
 </p>
 
 <p align="justify">

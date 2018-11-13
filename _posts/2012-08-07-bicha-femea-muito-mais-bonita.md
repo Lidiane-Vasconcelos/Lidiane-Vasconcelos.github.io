@@ -1,7 +1,7 @@
 ---
-id: 3167
+
 title: 'Quem comenta no Bicha Fêmea fica muito mais bonita! [Atualizado]'
-date: 2012-08-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/07/bicha-femea-muito-mais-bonita/
@@ -15,7 +15,7 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="justify">
-  Dentre bichas fêmeas navegantes, e bichos machos também, houve uma pessoa que foi mais participativa. Essa pessoa vai ganhar um presente da loja virtual <strong><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a></strong> e, por isso, tenho certeza que ela vai ficar mais bonita. Espia quem ganhou e qual presente ela vai receber em casa… mas você também pode ganhar, <em>hein</em>?
+  Dentre bichas fêmeas navegantes, e bichos machos também, houve uma pessoa que foi mais participativa. Essa pessoa vai ganhar um presente da loja virtual **<a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a>** e, por isso, tenho certeza que ela vai ficar mais bonita. Espia quem ganhou e qual presente ela vai receber em casa… mas você também pode ganhar, <em>hein</em>?
 </p>
 
 <!--more-->
@@ -27,17 +27,17 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="justify">
-  O presente para <strong>quem comentou mais por aqui no mês de Julho</strong> é uma <strong>Loção Tônica Facial</strong>. E quem vai levar é a bicha fêmea navegante <strong><span style="font-size: large;">Andrea Brum Renault</span></strong>!!!
+  O presente para **quem comentou mais por aqui no mês de Julho** é uma **Loção Tônica Facial**. E quem vai levar é a bicha fêmea navegante **<span style="font-size: large;">Andrea Brum Renault</span>**!!!
 </p>
 
 <p align="justify">
-  Hoje mesmo enviei um e-mail para a Andrea, que terá <strong>até a Sexta, dia 10 de Agosto</strong>, para responder minha mensagem. Caso contrário, o presente irá para a próxima pessoa que mais comentou por aqui no mês passado. Vamos para as cenas dos próximos capítulos?
+  Hoje mesmo enviei um e-mail para a Andrea, que terá **até a Sexta, dia 10 de Agosto**, para responder minha mensagem. Caso contrário, o presente irá para a próxima pessoa que mais comentou por aqui no mês passado. Vamos para as cenas dos próximos capítulos?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">…e você se perguntando: posso ganhar presente também?</span></strong>
+  **<span style="font-size: large;">…e você se perguntando: posso ganhar presente também?</span>**
 </p>
 
 &nbsp;
@@ -55,7 +55,7 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="justify">
-  Viu? Se você for sortuda, pode ganhar um <strong>sabonete esfoliante</strong>… quer saber como?
+  Viu? Se você for sortuda, pode ganhar um **sabonete esfoliante**… quer saber como?
 </p>
 
 &nbsp;
@@ -67,33 +67,33 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="justify">
-  Todos esses mimos são da loja virtual <strong><a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a></strong>, que faz parte de um site completo que busca informar sobre <strong>cosméticos sustentáveis, orgânicos e naturais</strong>. É tudo o que a gente precisa num lugar só: <strong><a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank">informação através do blog</a></strong> e <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank"><strong>produtos legais através da loja virtual!</strong></a>
+  Todos esses mimos são da loja virtual **<a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a>**, que faz parte de um site completo que busca informar sobre **cosméticos sustentáveis, orgânicos e naturais**. É tudo o que a gente precisa num lugar só: **<a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank">informação através do blog</a>** e <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">**produtos legais através da loja virtual!**</a>
 </p>
 
 <p align="justify">
-  Quer ganhar o sabonete esfoliante? Visite a loja <strong>Cosmética Sustentável</strong> <strong><a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">clicando aqui</a></strong>, delicie-se com as novidades sustentáveis de <strong>beleza</strong> e pense:
+  Quer ganhar o sabonete esfoliante? Visite a loja **Cosmética Sustentável** **<a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">clicando aqui</a>**, delicie-se com as novidades sustentáveis de **beleza** e pense:
 </p>
 
 <p align="center">
-  <span style="font-size: large;">&#8220;<strong>Qual produto da loja Cosmética Sustentável te deixaria naturalmente ainda mais bonita? Por quê?</strong>&#8220;</span>
+  <span style="font-size: large;">&#8220;**Qual produto da loja Cosmética Sustentável te deixaria naturalmente ainda mais bonita? Por quê?**&#8220;</span>
 </p>
 
 <p align="justify">
-  <strong>Responda essa pergunta para mim nos comentários deste post</strong> e cruze os dedos: o mimo da <strong>Cosmética Sustentável</strong> poderá ser seu!
+  **Responda essa pergunta para mim nos comentários deste post** e cruze os dedos: o mimo da **Cosmética Sustentável** poderá ser seu!
 </p>
 
 <p align="justify">
-  As <strong>inscrições começam hoje e vão até a próxima Terça, dia 14 de Agosto</strong>. Na <strong>Quinta, dia 16, o resultado será divulgado</strong>. Quem for sorteado deverá ter seu <strong>endereço de entrega em território nacional</strong>, e terá <strong>até o Domingo, dia 19 de Agosto, para responder o e-mail que vou enviar na Quinta mesmo</strong>. Caso eu não receba a resposta, farei novo sorteio entre as pessoas inscritas. O sorteio será feito via Random.org.
+  As **inscrições começam hoje e vão até a próxima Terça, dia 14 de Agosto**. Na **Quinta, dia 16, o resultado será divulgado**. Quem for sorteado deverá ter seu **endereço de entrega em território nacional**, e terá **até o Domingo, dia 19 de Agosto, para responder o e-mail que vou enviar na Quinta mesmo**. Caso eu não receba a resposta, farei novo sorteio entre as pessoas inscritas. O sorteio será feito via Random.org.
 </p>
 
 **<span style="color: #ff0000;">Atualização…</span>**
 
 <p align="justify">
-  … e não é que a Andrea deixou de responder meu e-mail no prazo? Sendo assim, conforme combinado, um dos presentes vai para a próxima leitora que mais comentou por aqui no mês de Julho, ou seja, a <strong><span style="font-size: large;">Luciene Rosi</span></strong>.
+  … e não é que a Andrea deixou de responder meu e-mail no prazo? Sendo assim, conforme combinado, um dos presentes vai para a próxima leitora que mais comentou por aqui no mês de Julho, ou seja, a **<span style="font-size: large;">Luciene Rosi</span>**.
 </p>
 
 <p align="justify">
-  Os procedimentos, daqui para frente, serão os mesmos: hoje mesmo enviei um e-mail para a Luciene, que terá <strong>até a Quinta, dia 16 de Agosto</strong>, para responder minha mensagem. Caso contrário, o presente irá para a próxima pessoa que mais comentou por aqui no mês passado. Vamos para as cenas dos próximos capítulos?
+  Os procedimentos, daqui para frente, serão os mesmos: hoje mesmo enviei um e-mail para a Luciene, que terá **até a Quinta, dia 16 de Agosto**, para responder minha mensagem. Caso contrário, o presente irá para a próxima pessoa que mais comentou por aqui no mês passado. Vamos para as cenas dos próximos capítulos?
 </p>
 
 &nbsp;

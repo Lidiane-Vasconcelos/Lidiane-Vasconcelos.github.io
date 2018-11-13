@@ -1,7 +1,7 @@
 ---
-id: 3327
+
 title: 'Compre cosméticos online. Comodidade: quem não quer?'
-date: 2014-07-24T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/24/cosmeticos-online-loja-virtual/
@@ -22,7 +22,7 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 <!--more-->
 
 <p align="justify">
-  A <strong>Personal Buyers</strong> é uma loja de cosméticos onde você encontra muitas marcas do mercado, e há produtos para o cuidado do corpo inteiro, e para a toda a família. Lá você vai encontrar promoções e oportunidades incríveis, além de preços justos. Repara só:
+  A **Personal Buyers** é uma loja de cosméticos onde você encontra muitas marcas do mercado, e há produtos para o cuidado do corpo inteiro, e para a toda a família. Lá você vai encontrar promoções e oportunidades incríveis, além de preços justos. Repara só:
 </p>
 
 &nbsp;
@@ -46,11 +46,11 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 &nbsp;
 
 <p align="justify">
-  Viu quanta coisa bacana pra você conhecer com mais detalhes? Sabe o melhor? O atendimento <em>superultramega</em> bacana na <strong><a href="https://www.personalbuyers.com.br/" target="_blank">Personal Buyers</a></strong> é garantido pela <strong>Fatima Moral</strong>, a bonitona que está a frente da empresa e pronta para te surpreender. Não perca tempo e aproveite as promoões… se joga e <strong><a href="https://www.personalbuyers.com.br/" target="_blank">clica aqui</a></strong>.
+  Viu quanta coisa bacana pra você conhecer com mais detalhes? Sabe o melhor? O atendimento <em>superultramega</em> bacana na **<a href="https://www.personalbuyers.com.br/" target="_blank">Personal Buyers</a>** é garantido pela **Fatima Moral**, a bonitona que está a frente da empresa e pronta para te surpreender. Não perca tempo e aproveite as promoões… se joga e **<a href="https://www.personalbuyers.com.br/" target="_blank">clica aqui</a>**.
 </p>
 
 <p align="justify">
-  Ah! A <strong>Personal Buyers</strong> disponibilizou um mimo muito legal para presentear duas amigas sortudas via <strong><a href="https://www.facebook.com/bichafemea" target="_blank">Página do Bicha Fêmea no Facebook</a></strong>. Você viu a promoção?
+  Ah! A **Personal Buyers** disponibilizou um mimo muito legal para presentear duas amigas sortudas via **<a href="https://www.facebook.com/bichafemea" target="_blank">Página do Bicha Fêmea no Facebook</a>**. Você viu a promoção?
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Pois é… sabe quem ganhou?</span></strong>
+  **<span style="font-size: small;">Pois é… sabe quem ganhou?</span>**
 </p>
 
 &nbsp;
@@ -72,11 +72,11 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 </p>
 
 <p align="justify">
-  Olha aí, oh:<strong> Adriana Minhoto</strong> vai levar esse kit, e a amiga que ela marcou na brincadeira também. Já entrei em contato com a bonita para saber seu endereço de entrega, bem como o de sua amiga.
+  Olha aí, oh:** Adriana Minhoto** vai levar esse kit, e a amiga que ela marcou na brincadeira também. Já entrei em contato com a bonita para saber seu endereço de entrega, bem como o de sua amiga.
 </p>
 
 <p align="justify">
-  Você quer ficar por dentro de promoções no <strong>Facebook</strong>? <strong><a href="https://www.facebook.com/bichafemea" target="_blank">Curta a página do blog</a></strong>, fique por dentro das novidades e vem brincar também!
+  Você quer ficar por dentro de promoções no **Facebook**? **<a href="https://www.facebook.com/bichafemea" target="_blank">Curta a página do blog</a>**, fique por dentro das novidades e vem brincar também!
 </p>
 
 &nbsp;
@@ -88,7 +88,7 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3284
+
 title: 'Bicha Fêmea aqui e acolá: siga!'
-date: 2014-02-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/25/bicha-femea-siga/
@@ -42,7 +42,7 @@ Você se sente como um polvo quando pensa nas tantas coisas que faz durante o di
 &nbsp;
 
 <p style="text-align: justify;">
-  Você curte o conteúdo do Bicha Fêmea e quer acompanhar o que é publicado via Facebook… ótimo! Mas, oh: não basta curtir, é preciso <strong>clicar no ícone que parece uma engrenagem, no canto direito da página</strong>, e selecionar a opção que te permite receber o feed da página nas suas atualizações. Se você não fizer isso, só verá o que é publicado se, necessariamente, acessar a página. Facilite sua vida!! <a href="https://www.facebook.com/bichafemea" target="_blank"><strong>Curta o Bicha Fêmea</strong></a>!
+  Você curte o conteúdo do Bicha Fêmea e quer acompanhar o que é publicado via Facebook… ótimo! Mas, oh: não basta curtir, é preciso **clicar no ícone que parece uma engrenagem, no canto direito da página**, e selecionar a opção que te permite receber o feed da página nas suas atualizações. Se você não fizer isso, só verá o que é publicado se, necessariamente, acessar a página. Facilite sua vida!! <a href="https://www.facebook.com/bichafemea" target="_blank">**Curta o Bicha Fêmea**</a>!
 </p>
 
 <p style="text-align: justify;">

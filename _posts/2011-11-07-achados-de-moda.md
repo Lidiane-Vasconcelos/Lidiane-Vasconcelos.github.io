@@ -1,7 +1,7 @@
 ---
-id: 3075
+
 title: 'Achados de moda: boas compras até R$ 50,00! Sabe onde tem?'
-date: 2011-11-07T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/07/achados-de-moda/
@@ -20,7 +20,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">Nas lojas de departamento…</span></strong>
+  **<span style="font-size: large;">Nas lojas de departamento…</span>**
 </p>
 
 &nbsp;
@@ -32,19 +32,19 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Em outubro do ano passado, eu estava louca atrás de um vestido para o casamento de um dos meus melhores amigos. Mas, como boa &#8220;brima&#8221; que sou, não queria gastar horrores num pedacinho de pano, além de estar economizando até os centavos para me esbaldar na Saraiva e na Cultura [o casamento foi em Campinas]. Fui na <strong><a href="http://www.riachuelo.com.br/" target="_blank">Riachuelo</a></strong> pra comprar um <strong>pratinha básico</strong> que tinha visto na promoção. Esse não era a minha cara, mas, por <strong>20 reais</strong>, foi ele mesmo. Não que fosse feio, era de um cetim gostoso, um prata bonitão, bem chique, aliás. E tinha babados, muitos babados. Olha só um pedaço do bonitinho…”</em> <strong>Patricia Pirota</strong> | <strong><a href="http://patriciapirota.blogspot.com/" target="_blank">Ainda MininaMá</a></strong>
+>   “<em>Em outubro do ano passado, eu estava louca atrás de um vestido para o casamento de um dos meus melhores amigos. Mas, como boa &#8220;brima&#8221; que sou, não queria gastar horrores num pedacinho de pano, além de estar economizando até os centavos para me esbaldar na Saraiva e na Cultura [o casamento foi em Campinas]. Fui na **<a href="http://www.riachuelo.com.br/" target="_blank">Riachuelo</a>** pra comprar um **pratinha básico** que tinha visto na promoção. Esse não era a minha cara, mas, por **20 reais**, foi ele mesmo. Não que fosse feio, era de um cetim gostoso, um prata bonitão, bem chique, aliás. E tinha babados, muitos babados. Olha só um pedaço do bonitinho…”</em> **Patricia Pirota** | **<a href="http://patriciapirota.blogspot.com/" target="_blank">Ainda MininaMá</a>**
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Nas lojinhas de rua…</span></strong>
+  **<span style="font-size: large;">Nas lojinhas de rua…</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Menina, eu encontro muita coisa bacana por <strong>menos de 50 reais</strong>! eu fuço!&#8230;rs&#8230; quando tenho tempo vasculho lojinhas daquelas bem simples, de rua, aqui em <strong>Salvador tem várias</strong>, e não é que encontro roupas, acessórios, coisa bem bacanas! eu adoro fazer isso!”</em>
+>   “<em>Menina, eu encontro muita coisa bacana por **menos de 50 reais**! eu fuço!&#8230;rs&#8230; quando tenho tempo vasculho lojinhas daquelas bem simples, de rua, aqui em **Salvador tem várias**, e não é que encontro roupas, acessórios, coisa bem bacanas! eu adoro fazer isso!”</em>
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “&#8230; <em>estava com uma <strong>calça que paguei R$ 19,90</strong> e </em><em>um amigo, que é designer, ficou apaixonado por ela sem saber onde comprei!&#8230;kkkk… </em><em>foi numa <strong>lojinha da avenida Dorival Caymi em Itapuã</strong>, curto aquela rua </em><em>mas nos shoppings também encontramos coisas baratas e legais nas lojas de departamento…”</em>
+>   “&#8230; <em>estava com uma **calça que paguei R$ 19,90** e </em><em>um amigo, que é designer, ficou apaixonado por ela sem saber onde comprei!&#8230;kkkk… </em><em>foi numa **lojinha da avenida Dorival Caymi em Itapuã**, curto aquela rua </em><em>mas nos shoppings também encontramos coisas baratas e legais nas lojas de departamento…”</em>
 > </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “…<em>usei outro dia um <strong>vestidinho</strong> que comprei na <strong>Marisa</strong> (algo por volta de <strong>30 reais</strong>)…”</em>
+>   “…<em>usei outro dia um **vestidinho** que comprei na **Marisa** (algo por volta de **30 reais**)…”</em>
 > </p>
 
 &nbsp;
@@ -80,19 +80,19 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “ … <em>fui numa festa e usei pérolas fake, outra coisa que adoro e compro sempre, tem umas lojas no shopping aqui perto de casa que vende qualquer peça de <strong>bijoux por 7,90</strong>, sempre dou uma passadinha por lá. Só não economizo em sapatos e bolsas, ai não dá pra ser qualquer coisinha não!”</em> <strong>Jussara Gehrke</strong> | <strong><a href="http://www.omovel.com.br/" target="_blank">O Móvel</a></strong>
+>   “ … <em>fui numa festa e usei pérolas fake, outra coisa que adoro e compro sempre, tem umas lojas no shopping aqui perto de casa que vende qualquer peça de **bijoux por 7,90**, sempre dou uma passadinha por lá. Só não economizo em sapatos e bolsas, ai não dá pra ser qualquer coisinha não!”</em> **Jussara Gehrke** | **<a href="http://www.omovel.com.br/" target="_blank">O Móvel</a>**
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Nas liquidações das grifes…</span></strong>
+  **<span style="font-size: large;">Nas liquidações das grifes…</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Liquidação na <a href="http://www.linhapura.com.br/" target="_blank"><strong>Linha Pura</strong> </a>é assim: uma sala para cada tamanho e uma sala só pra preço fixo, assim ninguém se engana, e sabe que na sala que tem o 38-40, 42-44 ou 46-48 ( fuja desta sala pipol!!!) o que vale é o preço da etiqueta. Na sala de R$ 40,00 não tem o que perguntar né, pipol? É só correr pro abraço, pois as peças são imperdiveis.”</em>
+>   “<em>Liquidação na <a href="http://www.linhapura.com.br/" target="_blank">**Linha Pura** </a>é assim: uma sala para cada tamanho e uma sala só pra preço fixo, assim ninguém se engana, e sabe que na sala que tem o 38-40, 42-44 ou 46-48 ( fuja desta sala pipol!!!) o que vale é o preço da etiqueta. Na sala de R$ 40,00 não tem o que perguntar né, pipol? É só correr pro abraço, pois as peças são imperdiveis.”</em>
 > </p>
 
 &nbsp;
@@ -104,7 +104,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Esta <strong>blusa</strong> tinha em preta, cinza e esta cor coral, e a gente não dava nada pra ela, mas experimentei a última e vi que era uma fofa: de R$ 549,00 por <strong>R$ 28,00</strong>! Botão lindo em formato de rosa com svarowsky no meio.”</em>
+>   “<em>Esta **blusa** tinha em preta, cinza e esta cor coral, e a gente não dava nada pra ela, mas experimentei a última e vi que era uma fofa: de R$ 549,00 por **R$ 28,00**! Botão lindo em formato de rosa com svarowsky no meio.”</em>
 > </p>
 
 &nbsp;
@@ -116,7 +116,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Este <strong>vestidinho</strong> aí é cor de buraco de cerca, pois ninguém consegue dizer se é cinza, se é roxo, se é marron…whatever! de R$ 380,00 por <strong>R$ 28,00</strong> eu levava até se fosse verde limão de listrinha preta</em>!” <strong>Lilly</strong> |<strong> <a href="http://coisadelilly.wordpress.com/" target="_blank">Isso é coisa de Lilly</a></strong>
+>   “<em>Este **vestidinho** aí é cor de buraco de cerca, pois ninguém consegue dizer se é cinza, se é roxo, se é marron…whatever! de R$ 380,00 por **R$ 28,00** eu levava até se fosse verde limão de listrinha preta</em>!” **Lilly** |** <a href="http://coisadelilly.wordpress.com/" target="_blank">Isso é coisa de Lilly</a>**
 > </p>
 
 &nbsp;
@@ -126,24 +126,24 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 </p>
 
 <p style="text-align: center;" align="justify">
-  <strong>E você? Costuma ficar atenta quanto as boas oportunidades de compras também?</strong>
+  **E você? Costuma ficar atenta quanto as boas oportunidades de compras também?**
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
+  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=7042" rel="attachment wp-att-7042"><img class="alignnone size-full wp-image-7042" title="Look1200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Look1200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/20/bijuterias-e-acessorios/"><span style="font-size: small;">Bijuterias e acessórios: charme e glamour do look básico ao chique!</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/?attachment_id=7042" rel="attachment wp-att-7042"><img class="alignnone size-full wp-image-7042" title="Look1200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Look1200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/10/20/bijuterias-e-acessorios/"><span style="font-size: small;">Bijuterias e acessórios: charme e glamour do look básico ao chique!</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=6921" rel="attachment wp-att-6921"><img class="alignnone size-full wp-image-6921" title="moda - branco200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/moda-branco200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/19/moda-verao-2011/"><span style="font-size: small;">Deu branco na moda Verão 2011/2012… e, sim, você pode usar!</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/?attachment_id=6921" rel="attachment wp-att-6921"><img class="alignnone size-full wp-image-6921" title="moda - branco200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/moda-branco200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/19/moda-verao-2011/"><span style="font-size: small;">Deu branco na moda Verão 2011/2012… e, sim, você pode usar!</span></a>**
       </p>
     </td>
   </tr>
@@ -153,13 +153,13 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=6802" rel="attachment wp-att-6802"><img class="alignnone size-full wp-image-6802" title="moda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/moda200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/19/o-que-esta-na-moda/"><span style="font-size: small;">O que está na moda?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/?attachment_id=6802" rel="attachment wp-att-6802"><img class="alignnone size-full wp-image-6802" title="moda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/moda200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/08/19/o-que-esta-na-moda/"><span style="font-size: small;">O que está na moda?</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/?attachment_id=6533" rel="attachment wp-att-6533"><img class="alignnone size-full wp-image-6533" title="moda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/17/moda-ser-chique/"><span style="font-size: small;">Quando se fala de moda, o que é ser chique?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/?attachment_id=6533" rel="attachment wp-att-6533"><img class="alignnone size-full wp-image-6533" title="moda200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/06/moda200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/17/moda-ser-chique/"><span style="font-size: small;">Quando se fala de moda, o que é ser chique?</span></a>**
       </p>
     </td>
   </tr>
@@ -170,15 +170,15 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">
-  <strong>Redes Sociais</strong>
+  **Redes Sociais**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -201,5 +201,5 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 </table>
 
 <p align="center">
-  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
+  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
 </p>

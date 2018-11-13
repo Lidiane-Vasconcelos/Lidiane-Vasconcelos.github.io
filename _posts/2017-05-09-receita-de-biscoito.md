@@ -1,7 +1,7 @@
 ---
-id: 3761
+
 title: Receita de biscoito caseiro, de azeite e alecrim.
-date: 2017-05-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/09/receita-de-biscoito/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Adoro as dicas de Tânia, como essa, uma <strong>receita de biscoito</strong> caseiro, de azeite e alecrim, simples e que promete! Quem ama viajar sabe o quanto é gostoso, dentre tantas coisas, experimentar o que há na culinária local. Hoje Tânia compartilha conosco o achado em uma de suas aventuras gastronômicas. Fique só imaginando essa delicinha com café, oh: se joga!
+  Adoro as dicas de Tânia, como essa, uma **receita de biscoito** caseiro, de azeite e alecrim, simples e que promete! Quem ama viajar sabe o quanto é gostoso, dentre tantas coisas, experimentar o que há na culinária local. Hoje Tânia compartilha conosco o achado em uma de suas aventuras gastronômicas. Fique só imaginando essa delicinha com café, oh: se joga!
 </p>
 
 <p align="center">
@@ -108,16 +108,16 @@ _Eu usei sementes de gergelim pretas, porque era o que eu tinha em casa, mas a r
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/" target="_blank"><strong>Abacaxi assado: receita simples e surpreendente.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/" target="_blank">**Abacaxi assado: receita simples e surpreendente.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/04/25/couve-flor-assada/" target="_blank"><strong>Couve-flor assada com temperinhos… pra variar.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/04/25/couve-flor-assada/" target="_blank">**Couve-flor assada com temperinhos… pra variar.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank"><strong>Bolo de alecrim… e a delícia de experimentar o novo.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank">**Bolo de alecrim… e a delícia de experimentar o novo.**</a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">

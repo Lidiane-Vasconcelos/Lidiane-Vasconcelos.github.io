@@ -1,7 +1,7 @@
 ---
-id: 2891
+
 title: Casamento duradouro. Isto tem algum segredo?
-date: 2010-10-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/18/casamento-duradouro-segredo/
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para a <strong><em>psicanalista</em></strong> <strong><em>Geisa Machado</em></strong>, que edita o espaço virtual “<strong><em><a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a></em></strong>”, um casamento precisa de delicadezas e muito mais porque “<em>muitos casais até usam as palavras &#8220;perdão, por favor e obrigado&#8221;, mas na primeira oportunidade maltratam-se e humilham-se de diversas formas</em>”. A <strong><em>psicanalista</em></strong>, que <strong><em>também é terapeuta de casais</em></strong>, explica que vê situações em que, “<em>na realidade, os conjuges estão a favor de si (se defendendo e atacando o outro) e não a favor da relação. O amadurecimento emocional implica nas pessoas olharem as próprias falhas, buscar corrigi-las e parar de procurar culpados quando as coisas não vão bem.”</em>
+  Para a **<em>psicanalista</em>** **<em>Geisa Machado</em>**, que edita o espaço virtual “**<em><a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a></em>**”, um casamento precisa de delicadezas e muito mais porque “<em>muitos casais até usam as palavras &#8220;perdão, por favor e obrigado&#8221;, mas na primeira oportunidade maltratam-se e humilham-se de diversas formas</em>”. A **<em>psicanalista</em>**, que **<em>também é terapeuta de casais</em>**, explica que vê situações em que, “<em>na realidade, os conjuges estão a favor de si (se defendendo e atacando o outro) e não a favor da relação. O amadurecimento emocional implica nas pessoas olharem as próprias falhas, buscar corrigi-las e parar de procurar culpados quando as coisas não vão bem.”</em>
 </p>
 
 <p style="text-align: justify;">
@@ -51,27 +51,27 @@ categories:
 A Katia Bonfadini, **_designer_** que comanda o “**_<a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>_**”, aposta no respeito ás singularidades de cada um:
 
 > <p style="text-align: justify;">
->   &#8220;<strong><em>Acho que respeito em geral é muito importante, inclusive no que concerne às singularidades e à privacidade de cada um no casamento. Conviver com alguém pode se tornar algo bastante complicado e exige um bom jogo de cintura, seja com o parceiro, seja com familiares ou colegas de trabalho. Acredito que numa relação saudável e equilibrada deve haver respeito aos limites do outro.&#8221;</em></strong>
+>   &#8220;**<em>Acho que respeito em geral é muito importante, inclusive no que concerne às singularidades e à privacidade de cada um no casamento. Conviver com alguém pode se tornar algo bastante complicado e exige um bom jogo de cintura, seja com o parceiro, seja com familiares ou colegas de trabalho. Acredito que numa relação saudável e equilibrada deve haver respeito aos limites do outro.&#8221;</em>**
 > </p>
 
 <p style="text-align: justify;">
-  Já a Simone Scharamm, editora do blog “<strong><em><a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc…”</a></em></strong> e que vivenciou o fim de um casamento mas continuou acreditando no amor, aponta a necessidade de paixão e companheirismo na relação:
+  Já a Simone Scharamm, editora do blog “**<em><a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc…”</a></em>** e que vivenciou o fim de um casamento mas continuou acreditando no amor, aponta a necessidade de paixão e companheirismo na relação:
 </p>
 
 > <p style="text-align: justify;">
->   <strong>“<em>Pra mim, o casamento é duradouro quando há paixão e companheirismo. A paixão carece de conquista, de rega diária, de olho no olho&#8230;o companheirismo é estar sempre juntos, mesmo nos momentos em que a rotina da vida, faz abrandar a paixão! Palavra de quem já viveu um casamento desfeito, porque a falta de companheirismo &#8220;matou&#8221; a paixão e que deu a volta por cima e vive há 13 anos um amor muito apaixonado! Ah&#8230;(suspiros!!!)”</em></strong>
+>   **“<em>Pra mim, o casamento é duradouro quando há paixão e companheirismo. A paixão carece de conquista, de rega diária, de olho no olho&#8230;o companheirismo é estar sempre juntos, mesmo nos momentos em que a rotina da vida, faz abrandar a paixão! Palavra de quem já viveu um casamento desfeito, porque a falta de companheirismo &#8220;matou&#8221; a paixão e que deu a volta por cima e vive há 13 anos um amor muito apaixonado! Ah&#8230;(suspiros!!!)”</em>**
 > </p>
 
 <p style="text-align: justify;">
-  A Juliana, dona da “<a href="http://www.pitadinha.com/" target="_blank"><strong><em>Pitadinha</em></strong></a>”, acredita que a forma como o casamento é encarado e as expectativas em torno dele é que podem influenciar na durabilidade, ou não, de uma relação:
+  A Juliana, dona da “<a href="http://www.pitadinha.com/" target="_blank">**<em>Pitadinha</em>**</a>”, acredita que a forma como o casamento é encarado e as expectativas em torno dele é que podem influenciar na durabilidade, ou não, de uma relação:
 </p>
 
 > <p style="text-align: justify;">
->   <strong><em>“O amor das novelas, dos filmes, das paixonites, é tão egoísta quanto efêmero. Uma euforia que tem começo, mal dá tempo de ter meio, e já chega ao fim. Por isso as pessoas terminam relacionamentos e começam outros desesperadamente. Ficam correndo atrás de alguém que possa proporcionar-lhes um estado de permanente romantismo, no caso das mulheres, e de efervescência sexual, no caso dos homens. Então o que se ama é o êxtase que o relacionamento traz e não propriamente a pessoa a quem se diz amar. Amar alguém implica em saber que ela é uma pessoa cheia de defeitos e qualidades, enxergá-la por inteiro, e querer estar ao seu lado mesmo assim.”</em></strong>
+>   **<em>“O amor das novelas, dos filmes, das paixonites, é tão egoísta quanto efêmero. Uma euforia que tem começo, mal dá tempo de ter meio, e já chega ao fim. Por isso as pessoas terminam relacionamentos e começam outros desesperadamente. Ficam correndo atrás de alguém que possa proporcionar-lhes um estado de permanente romantismo, no caso das mulheres, e de efervescência sexual, no caso dos homens. Então o que se ama é o êxtase que o relacionamento traz e não propriamente a pessoa a quem se diz amar. Amar alguém implica em saber que ela é uma pessoa cheia de defeitos e qualidades, enxergá-la por inteiro, e querer estar ao seu lado mesmo assim.”</em>**
 > </p>
 
 <p style="text-align: justify;">
-  <strong><em>O que as leitoras apontam como pontos positivos numa relação que tende a ser duradoura?</em></strong>
+  **<em>O que as leitoras apontam como pontos positivos numa relação que tende a ser duradoura?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +95,7 @@ A Katia Bonfadini, **_designer_** que comanda o “**_<a href="http://www.casose
 </p>
 
 <p style="text-align: justify;">
-  <strong>Quer completar a lista, bonita? Fala aí nos comentários!</strong>
+  **Quer completar a lista, bonita? Fala aí nos comentários!**
 </p>
 
 <p style="text-align: justify;">
@@ -109,7 +109,7 @@ A Katia Bonfadini, **_designer_** que comanda o “**_<a href="http://www.casose
 **_As leitoras falam&#8230;_**
 
 <p style="text-align: justify;">
-  Depois de tudo o que foi dito nos comentários, o que comprova que o melhor do Trololó de Mulher está mesmo por lá, não poderia deixar de atualizar o post com um trecho importantíssimo da <strong><em>psicanalista Geisa Machado</em></strong> sobre o que foi dito no<em> trololó</em>: &#8220;&#8230;<em>Muito interessante as dicas que todas colocaram. E estão certíssimas, porém tenho algumas ressalvas a fazer. Tudo o que está sendo dito é o que todos nós (homens e mulheres) sabemos que deve ser feito. Agora, para ser feito é preciso levar em consideração alguns detalhes: é fundamental haver respeito, amor, confiança e individualidade na relação. A paixão existe para acontecer a atração e o envolvimento, mas com o tempo ela acaba. Aí começa a CONSTRUÇÃO  do respeito, amor, confiança e individualidade. E para isso o diálogo é essencial. Respeito: nós só podemos respeitar alguém quando nos respeitamos primeiro, senão isso fica confundido com &#8220;submissão&#8221;. Ex: eu acho que respeito meu marido, quando na realidade estou submissa a ele por medo que ele me deixe. Individualidade: a individualidade pode ser confundida com &#8220;individualismo&#8221;. Para fazer valer a individualidade a pessoa precisa descobrir primeiro quem ela é de fato e o que ela quer. É muito falado em &#8220;aceitar os defeitos do outro&#8221;, mas para isso é preciso descobrir os seus próprios defeitos e aceitá-los antes de tudo (o que é difícil, pois temos mecanismos de defesa que nos impedem de ver as nossas fraquezas). Para isso, muitas vezes, é necessário uma ajuda profissional</em>&#8230;&#8221;
+  Depois de tudo o que foi dito nos comentários, o que comprova que o melhor do Trololó de Mulher está mesmo por lá, não poderia deixar de atualizar o post com um trecho importantíssimo da **<em>psicanalista Geisa Machado</em>** sobre o que foi dito no<em> trololó</em>: &#8220;&#8230;<em>Muito interessante as dicas que todas colocaram. E estão certíssimas, porém tenho algumas ressalvas a fazer. Tudo o que está sendo dito é o que todos nós (homens e mulheres) sabemos que deve ser feito. Agora, para ser feito é preciso levar em consideração alguns detalhes: é fundamental haver respeito, amor, confiança e individualidade na relação. A paixão existe para acontecer a atração e o envolvimento, mas com o tempo ela acaba. Aí começa a CONSTRUÇÃO  do respeito, amor, confiança e individualidade. E para isso o diálogo é essencial. Respeito: nós só podemos respeitar alguém quando nos respeitamos primeiro, senão isso fica confundido com &#8220;submissão&#8221;. Ex: eu acho que respeito meu marido, quando na realidade estou submissa a ele por medo que ele me deixe. Individualidade: a individualidade pode ser confundida com &#8220;individualismo&#8221;. Para fazer valer a individualidade a pessoa precisa descobrir primeiro quem ela é de fato e o que ela quer. É muito falado em &#8220;aceitar os defeitos do outro&#8221;, mas para isso é preciso descobrir os seus próprios defeitos e aceitá-los antes de tudo (o que é difícil, pois temos mecanismos de defesa que nos impedem de ver as nossas fraquezas). Para isso, muitas vezes, é necessário uma ajuda profissional</em>&#8230;&#8221;
 </p>
 
 Viu? E o debate está bom mesmo é nos comentários&#8230; corre lá!

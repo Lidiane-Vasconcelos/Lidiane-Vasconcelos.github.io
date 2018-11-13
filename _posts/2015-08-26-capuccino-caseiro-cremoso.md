@@ -1,7 +1,7 @@
 ---
-id: 3468
+
 title: 'Video Receita: capuccino caseiro cremoso.'
-date: 2015-08-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/26/capuccino-caseiro-cremoso/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes:</strong>
+  **Ingredientes:**
 </p>
 
   * <p align="justify">
@@ -34,7 +34,7 @@ categories:
     </p>
 
 <p align="justify">
-  <strong>Pré-preparo:</strong>
+  **Pré-preparo:**
 </p>
 
   * <p align="justify">
@@ -46,23 +46,23 @@ categories:
     </p>
 
 <p align="justify">
-  <strong>Passo-a-passo:</strong>
+  **Passo-a-passo:**
 </p>
 
 <p align="justify">
-  <strong>1 – </strong>Coloque todos os ingredientes juntos na batedeira e bata por 8 minutos ou até atingir o ponto de merengue com pico duro
+  **1 – **Coloque todos os ingredientes juntos na batedeira e bata por 8 minutos ou até atingir o ponto de merengue com pico duro
 </p>
 
 <p align="justify">
-  <strong>2 – </strong>Após atingir o ponto certo, guarde em um recipiente bem charmoso no freezer ou congelador por até 3 meses
+  **2 – **Após atingir o ponto certo, guarde em um recipiente bem charmoso no freezer ou congelador por até 3 meses
 </p>
 
 <p align="justify">
-  <strong>3 – </strong>Na hora de servir, aqueça o leite e adicione 1 colher de sopa para uma xícara de leite e sirva para os seus convidados, vai impressionar com certeza!!!
+  **3 – **Na hora de servir, aqueça o leite e adicione 1 colher de sopa para uma xícara de leite e sirva para os seus convidados, vai impressionar com certeza!!!
 </p>
 
 > <p align="justify">
->   <strong><em>“Aos 2 minutos vai parecer que o café está pronto porém ele ainda não incorporou ar suficiente para se manter cremoso no congelador. Assista o vídeo para ver o ponto exato que você deve parar de bater. Você pode usar menos açúcar se desejar, já fiz testes com diversas medidas diferentes de açúcar e sim funciona, só não funciona se você eliminar completamente o açúcar da receita!”</em></strong>
+>   **<em>“Aos 2 minutos vai parecer que o café está pronto porém ele ainda não incorporou ar suficiente para se manter cremoso no congelador. Assista o vídeo para ver o ponto exato que você deve parar de bater. Você pode usar menos açúcar se desejar, já fiz testes com diversas medidas diferentes de açúcar e sim funciona, só não funciona se você eliminar completamente o açúcar da receita!”</em>**
 > </p>
 
 <p align="center">
@@ -73,11 +73,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receita da Drica:</strong>
+  **Mais receita da Drica:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/" target="_blank">Video receita: batata doce assada. Amor de vó!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/" target="_blank">Video receita: batata doce assada. Amor de vó!</a>**
 </p>
 
 <p align="justify">

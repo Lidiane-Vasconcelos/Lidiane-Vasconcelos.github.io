@@ -1,7 +1,7 @@
 ---
-id: 2677
+
 title: Uma revolução que não precisa de sutiã queimado.
-date: 2009-07-01T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/01/feminismo-sutia-queimado/
@@ -26,8 +26,8 @@ E qual o problema que há nisso? O problema é que muita gente ainda acredita qu
 
 Gente, acho isso o fim da picada, acho que estas pessoas ainda não conseguiram descobrir as coisas que dão prazeres verdadeiros, ainda não descobriram que o melhor da vida é não precisar provar nada a ninguém. Por isso, quando a Lidiane me convidou pra escrever aqui, fiquei imensamente feliz, já que uma das minhas maiores satisfações nos últimos tempos, é ver como tem crescido o movimento em defesa das casinhas bonitas e cheirosas, dos bolos fofinhos e das mulheres felizes sem ter que dar satisfação a ninguém. <span style="color: #000000;">É ou não é uma revolução?</span>
 
-<span style="color: #000000;"><strong>Mais no Bicha Fêmea&#8230;</strong></span>
+<span style="color: #000000;">**Mais no Bicha Fêmea&#8230;**</span>
 
-<span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self"><strong><em>Mulherzinha, eu?</em></strong></a></span>
+<span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">**<em>Mulherzinha, eu?</em>**</a></span>
 
-<span style="color: #000000;"><strong><em><a href="http://www.trololodemulher.com.br/2009/03/07/feminilidade/" target="_self">Feminilidade: a essência de uma bicha fêmea.</a></em></strong></span>
+<span style="color: #000000;">**<em><a href="http://www.trololodemulher.com.br/2009/03/07/feminilidade/" target="_self">Feminilidade: a essência de uma bicha fêmea.</a></em>**</span>

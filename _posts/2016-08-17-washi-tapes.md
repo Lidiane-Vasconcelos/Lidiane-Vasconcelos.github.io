@@ -1,7 +1,7 @@
 ---
-id: 3645
+
 title: 'Washi tapes: 3 ideias de decoração “faça você mesma”.'
-date: 2016-08-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/17/washi-tapes/
@@ -23,7 +23,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">1 – Moldura para gravuras, fotos ou ilustrações.</span></strong>
+  **<span style="font-size: large;">1 – Moldura para gravuras, fotos ou ilustrações.</span>**
 </p>
 
 &nbsp;
@@ -57,7 +57,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">2 – Capa divertida, e colorida, para espelhos de tomada.</span></strong>
+  **<span style="font-size: large;">2 – Capa divertida, e colorida, para espelhos de tomada.</span>**
 </p>
 
 &nbsp;
@@ -75,7 +75,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">3 – Detalhe inusitado na passagem de um cômodo a outro.</span></strong>
+  **<span style="font-size: large;">3 – Detalhe inusitado na passagem de um cômodo a outro.</span>**
 </p>
 
 &nbsp;
@@ -95,19 +95,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Mais ideias “faça você mesma” para você:</strong>
+  **Mais ideias “faça você mesma” para você:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma.**</a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank"><strong>Como fazer flores de papel colorido para dar bossa na decoração?</strong></a>
+  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank">**Como fazer flores de papel colorido para dar bossa na decoração?**</a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank">**Decoração de parede com tampa de caixa de sapato… é criativo ou não é?**</a>
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3134
+
 title: Para um jantar de dia dos namorados perfeito…
-date: 2012-06-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/08/jantar-dia-dos-namorados/
@@ -20,13 +20,13 @@ Leve romance para sua mesa! E nem precisa sair desesperada inventando mil coisas
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: medium;">Comida gostosa, luz de velas, flores… a combinação perfeita para a noite ser inesquecível!</span></strong>
+  **<span style="font-size: medium;">Comida gostosa, luz de velas, flores… a combinação perfeita para a noite ser inesquecível!</span>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/dia-dos-namorados-2/" rel="attachment wp-att-8713"><img class="alignnone size-full wp-image-8713" title="DIA DOS NAMORADOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/DIA-DOS-NAMORADOS.png" alt="" width="600" height="286" /></a><br /> Imagem: <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/dia-dos-namorados-2/" rel="attachment wp-att-8713"><img class="alignnone size-full wp-image-8713" title="DIA DOS NAMORADOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/DIA-DOS-NAMORADOS.png" alt="" width="600" height="286" /></a><br /> Imagem: **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**
 </p>
 
 <p align="center">
@@ -40,24 +40,24 @@ Leve romance para sua mesa! E nem precisa sair desesperada inventando mil coisas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Muito mais para você…</span></strong>
+  **<span style="font-size: large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/dia-dos-namorados-4200/" rel="attachment wp-att-8712"><img class="alignnone size-full wp-image-8712" title="DIA DOS NAMORADOS [4]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/DIA-DOS-NAMORADOS-4200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2009/05/28/decoracao-mesa-noite-namorados/"><strong><span style="font-size: small;"><br /> Dicas de decoração para sua mesa de jantar no dia dos namorados</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/dia-dos-namorados-4200/" rel="attachment wp-att-8712"><img class="alignnone size-full wp-image-8712" title="DIA DOS NAMORADOS [4]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/DIA-DOS-NAMORADOS-4200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2009/05/28/decoracao-mesa-noite-namorados/">**<span style="font-size: small;"><br /> Dicas de decoração para sua mesa de jantar no dia dos namorados</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/decoracao-de-quarto-romantico2200/" rel="attachment wp-att-6114"><img class="alignnone size-full wp-image-6114" title="decoração de quarto romântico[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico22001.jpg" alt="" width="200" height="200" /></a> <strong></strong>
+        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/decoracao-de-quarto-romantico2200/" rel="attachment wp-att-6114"><img class="alignnone size-full wp-image-6114" title="decoração de quarto romântico[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-de-quarto-romantico22001.jpg" alt="" width="200" height="200" /></a> ****
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/03/23/decoracao-do-quarto/"><strong><span style="font-size: small;">3 dicas para deixar a decoração do quarto mais romântica…</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2011/03/23/decoracao-do-quarto/">**<span style="font-size: small;">3 dicas para deixar a decoração do quarto mais romântica…</span>**</a>
       </p>
     </td>
   </tr>
@@ -65,13 +65,13 @@ Leve romance para sua mesa! E nem precisa sair desesperada inventando mil coisas
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/dia-dos-namorados200/" rel="attachment wp-att-6480"><img class="alignnone size-full wp-image-6480" title="dia dos namorados200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dia-dos-namorados200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/01/dia-dos-namorados-dicas/"><strong><span style="font-size: small;">O que fazer no dia dos namorados?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/dia-dos-namorados200/" rel="attachment wp-att-6480"><img class="alignnone size-full wp-image-6480" title="dia dos namorados200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/dia-dos-namorados200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/06/01/dia-dos-namorados-dicas/">**<span style="font-size: small;">O que fazer no dia dos namorados?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/coracao-rosa200/" rel="attachment wp-att-4733"><img class="alignnone size-full wp-image-4733" title="coração rosa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/coracao-rosa200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/"><strong><span style="font-size: small;"><br /> Dia dos namorados: dicas e sugestões</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/2012/06/08/jantar-dia-dos-namorados/coracao-rosa200/" rel="attachment wp-att-4733"><img class="alignnone size-full wp-image-4733" title="coração rosa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/coracao-rosa200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/">**<span style="font-size: small;"><br /> Dia dos namorados: dicas e sugestões</span>**</a>
       </p>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Leve romance para sua mesa! E nem precisa sair desesperada inventando mil coisas
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -112,9 +112,9 @@ Leve romance para sua mesa! E nem precisa sair desesperada inventando mil coisas
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

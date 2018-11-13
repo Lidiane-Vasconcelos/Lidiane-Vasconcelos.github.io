@@ -1,7 +1,7 @@
 ---
-id: 3732
+
 title: 'Preparando a festa de batizado: dicas, ideias e sugestões.'
-date: 2017-03-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/09/festa-de-batizado/
@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  <strong>Festa de batizado</strong> geralmente é um evento bastante intimista, oferecida para os padrinhos, avós e tios (irmãos dos pais), mas não é por isso que será negligenciada em alguns detalhes. Suas escolhas serão pautadas pelo horário de término da cerimônia na igreja, a partir daí é que você decide: será um café da manhã, <em>brunch</em> (café da manhã mais reforçado) ou um almoço? A seguir quero te mostrar alguns pontos para você pensar, e te ajudar no planejamento de um dos momentos mais importantes na vida de um bebê.
+  **Festa de batizado** geralmente é um evento bastante intimista, oferecida para os padrinhos, avós e tios (irmãos dos pais), mas não é por isso que será negligenciada em alguns detalhes. Suas escolhas serão pautadas pelo horário de término da cerimônia na igreja, a partir daí é que você decide: será um café da manhã, <em>brunch</em> (café da manhã mais reforçado) ou um almoço? A seguir quero te mostrar alguns pontos para você pensar, e te ajudar no planejamento de um dos momentos mais importantes na vida de um bebê.
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  Não há uma idade determinada para batizar o pequeno. Em geral, o batismo é feito com a criança ainda bebê, e considerando a minha experiência pessoal, concordo que é bem melhor. Adiei o batizado de Artur e, com mais de 1 ano, não foi das tarefas mais fáceis mantê-lo quietinho… <em>rsrsrsrs</em>… se ele fosse menor, tenho certeza de que teria sido muito mais fácil. Essa é minha dica <em>superultramegablaster</em>: <strong>batize a cria quando ainda for um bebê.</strong>
+  Não há uma idade determinada para batizar o pequeno. Em geral, o batismo é feito com a criança ainda bebê, e considerando a minha experiência pessoal, concordo que é bem melhor. Adiei o batizado de Artur e, com mais de 1 ano, não foi das tarefas mais fáceis mantê-lo quietinho… <em>rsrsrsrs</em>… se ele fosse menor, tenho certeza de que teria sido muito mais fácil. Essa é minha dica <em>superultramegablaster</em>: **batize a cria quando ainda for um bebê.**
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  Geralmente a criança usa uma roupa branca, que simboliza a pureza do bebê. Há uma roupa bastante tradicional, o <strong><em>mandrião</em></strong>, um vestido longo branco, que é usado por meninos e meninas. A peça costuma passar de geração em geração, e pode ser acompanhada com touca. Quer comerçar essa tadição na família? Veja essas sugestões:
+  Geralmente a criança usa uma roupa branca, que simboliza a pureza do bebê. Há uma roupa bastante tradicional, o **<em>mandrião</em>**, um vestido longo branco, que é usado por meninos e meninas. A peça costuma passar de geração em geração, e pode ser acompanhada com touca. Quer comerçar essa tadição na família? Veja essas sugestões:
 </p>
 
 <p align="center">

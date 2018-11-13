@@ -1,7 +1,7 @@
 ---
-id: 3570
+
 title: '2 quartos de bebê menino: neutros, calmos e serenos.'
-date: 2016-03-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/29/quartos-de-bebe-menino/
@@ -19,19 +19,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Sobre quarto de menino, veja também:</strong>
+  **Sobre quarto de menino, veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quarto-de-bebe-menino/" target="_blank"><strong>Antes e depois de quarto de bebê menino por uma especialista.</strong></a>
+  <a href="http://www.decoracaodacasa.com/quarto-de-bebe-menino/" target="_blank">**Antes e depois de quarto de bebê menino por uma especialista.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank"><strong>4 quartos de bebê menino para você se inspirar… e suspirar!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank">**4 quartos de bebê menino para você se inspirar… e suspirar!**</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Quarto 1…</span></strong>
+  **<span style="font-size: large;">Quarto 1…</span>**
 </p>
 
 <p align="center">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank"><strong>2 ideias de decoração para quartos de bebê.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank">**2 ideias de decoração para quartos de bebê.**</a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  Prateleiras recheadas de livros para o pequeno. Essas prateleiras fininhas, com encosto na frente e que evita que os livros caiam, são uma ótima opção. Veja mais ideias para organizar e expor os livros infantis, de modo que o acesso a eles seja facilitado para a criança, neste post publicado no <strong>Trololó de Mulher</strong>: <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a>
+  Prateleiras recheadas de livros para o pequeno. Essas prateleiras fininhas, com encosto na frente e que evita que os livros caiam, são uma ótima opção. Veja mais ideias para organizar e expor os livros infantis, de modo que o acesso a eles seja facilitado para a criança, neste post publicado no **Trololó de Mulher**: <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Quarto 2…</span></strong>
+  **<span style="font-size: large;">Quarto 2…</span>**
 </p>
 
 <p align="center">
@@ -103,11 +103,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank"><strong>Decoração de quarto de bebê bonita, segura e funcional: 8 dicas infalíveis!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank">**Decoração de quarto de bebê bonita, segura e funcional: 8 dicas infalíveis!**</a>
 </p>
 
 <p align="center">

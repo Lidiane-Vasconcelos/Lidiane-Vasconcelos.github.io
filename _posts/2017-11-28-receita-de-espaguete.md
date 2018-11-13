@@ -1,7 +1,7 @@
 ---
-id: 3837
+
 title: Receita de Espaguete alla Puttanesca
-date: 2017-11-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/28/receita-de-espaguete/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Esta <strong>receita de Espaguete</strong> que Tânia compartilha hoje no Trololó de Mulher é fruto de um projeto delicioso que ela desenvolve no seu blog: Cozinha Aberta. A Chef visita outras cozinhas e aprende novas receitas e jeitos de lidar com a arte de cozinhar. Ela registra tudo e mostra no blog. Quando vi que a receita seria de massa, meus olhinhos brilharam. Gosto de uma macarrãozinho… sou dessas. E nessa receita aprendi truquinhos para deixá-lo ainda mais saboroso… olha só:
+  Esta **receita de Espaguete** que Tânia compartilha hoje no Trololó de Mulher é fruto de um projeto delicioso que ela desenvolve no seu blog: Cozinha Aberta. A Chef visita outras cozinhas e aprende novas receitas e jeitos de lidar com a arte de cozinhar. Ela registra tudo e mostra no blog. Quando vi que a receita seria de massa, meus olhinhos brilharam. Gosto de uma macarrãozinho… sou dessas. E nessa receita aprendi truquinhos para deixá-lo ainda mais saboroso… olha só:
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><em>Ingredientes</em></strong>
+  **<em>Ingredientes</em>**
 </p>
 
 <p align="justify">
-  <strong><em>Serve de 4 a 6 pessoas</em></strong>
+  **<em>Serve de 4 a 6 pessoas</em>**
 </p>
 
 <p align="justify">
@@ -110,11 +110,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>Dica</strong> – Você pode polvilhar o seu prato de massa com um pouco de queijo parmesão fresco.</em>
+  <em>**Dica** – Você pode polvilhar o seu prato de massa com um pouco de queijo parmesão fresco.</em>
 </p>
 
 <p align="justify">
-  <em><strong>Observação</strong> – Alici é um peixe em conserva que pode encontrado em mercados, principalmente de importados, no Brasil</em>.”
+  <em>**Observação** – Alici é um peixe em conserva que pode encontrado em mercados, principalmente de importados, no Brasil</em>.”
 </p>
 
 <p align="center">
@@ -122,19 +122,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas de Tânia:</strong>
+  **Mais receitas de Tânia:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/11/21/muffin-de-limao/" target="_blank"><strong>Muffin de limão com sementes de papoula ou chia.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/11/21/muffin-de-limao/" target="_blank">**Muffin de limão com sementes de papoula ou chia.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/11/14/bolo-de-cenoura/" target="_blank"><strong>Bolo de cenoura e abacaxi inspirado nos natais em família.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/11/14/bolo-de-cenoura/" target="_blank">**Bolo de cenoura e abacaxi inspirado nos natais em família.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/24/sorvete-de-banana/" target="_blank"><strong>Sorvete de banana: receita vapt-vupt.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/24/sorvete-de-banana/" target="_blank">**Sorvete de banana: receita vapt-vupt.**</a>
 </p>
 
 <p align="justify">

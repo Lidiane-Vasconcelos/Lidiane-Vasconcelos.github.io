@@ -1,7 +1,7 @@
 ---
-id: 3739
+
 title: Criar um filho, e não um rei, é difícil mas compensa!
-date: 2017-03-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/15/criar-um-filho/
@@ -11,11 +11,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  <strong>Criar um filho</strong> de maneira responsável com o presente dele, e comprometida com seu futuro, implica em não tratá-lo como um rei. Alguns pais sentem-se culpados por trabalharem bastante e, como forma de compensação, fazem todas as vontades da criança. No curto prazo, educar dessa forma torna-se fácil, porque não haverá desgaste algum, mas pode ser bastante nocivo para o futuro da cria. Como vai se comportar um adulto diante da vida, dos problemas e frustrações, se na infância ele jamais ouvia um “não”? Essa é a dúvida de uma de nossas leitoras, a Tânia, que sugeriu esta pauta.
+  **Criar um filho** de maneira responsável com o presente dele, e comprometida com seu futuro, implica em não tratá-lo como um rei. Alguns pais sentem-se culpados por trabalharem bastante e, como forma de compensação, fazem todas as vontades da criança. No curto prazo, educar dessa forma torna-se fácil, porque não haverá desgaste algum, mas pode ser bastante nocivo para o futuro da cria. Como vai se comportar um adulto diante da vida, dos problemas e frustrações, se na infância ele jamais ouvia um “não”? Essa é a dúvida de uma de nossas leitoras, a Tânia, que sugeriu esta pauta.
 </p>
 
 <p align="justify">
-  Preciso lembrar que amo demais quando o conteúdo do blog é sugerido por quem acomapanha tudo por aqui, tornando esse espaço ainda mais vivo e rico! A dúvida de Tânia, que também é nossa, será respondida através da consultoria da <strong>Vivian Sanches, Psicóloga Clínica Infantil, de São Paulo – SP</strong>. A seguir Vivian esclarece de que maneira fazer todas as vontades de uma criança poderá impactar no bem estar mental desse futuro adulto… acompanhe!
+  Preciso lembrar que amo demais quando o conteúdo do blog é sugerido por quem acomapanha tudo por aqui, tornando esse espaço ainda mais vivo e rico! A dúvida de Tânia, que também é nossa, será respondida através da consultoria da **Vivian Sanches, Psicóloga Clínica Infantil, de São Paulo – SP**. A seguir Vivian esclarece de que maneira fazer todas as vontades de uma criança poderá impactar no bem estar mental desse futuro adulto… acompanhe!
 </p>
 
 <p align="center">

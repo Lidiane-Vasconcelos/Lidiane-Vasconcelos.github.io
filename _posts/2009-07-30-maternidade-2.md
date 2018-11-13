@@ -1,7 +1,7 @@
 ---
-id: 2693
+
 title: 'Maternidade &#8211; um aprendizado que requer inteligência'
-date: 2009-07-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/30/maternidade-2/

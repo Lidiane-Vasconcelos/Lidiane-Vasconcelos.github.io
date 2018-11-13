@@ -1,7 +1,7 @@
 ---
-id: 3360
+
 title: 'Decoração do quarto infantil: 2 ideias “faça você mesma”.'
-date: 2014-10-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/22/decoracao-quarto-infantil-4/
@@ -16,19 +16,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank"><strong>Quarto infantil decorado com afetividade</strong></a><strong>.</strong>
+  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank">**Quarto infantil decorado com afetividade**</a>**.**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank"><strong>Dica de decoração infantil que sua criança pode fazer.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank">**Dica de decoração infantil que sua criança pode fazer.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank"><strong>Decoração infantil: enfeite de tecido para o quarto ou festa.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank">**Decoração infantil: enfeite de tecido para o quarto ou festa.**</a>
 </p>
 
 <p align="justify">
@@ -48,19 +48,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E mais:</strong>
+  **E mais:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank"><strong>5 ideias de decoração para o teto do quarto infantil: é pura diversão!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank">**5 ideias de decoração para o teto do quarto infantil: é pura diversão!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank"><strong>Como brincar com as cores na decoração do quarto infantil?</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank">**Como brincar com as cores na decoração do quarto infantil?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank"><strong>Cortina de bolinhas em quarto infantil: faça você mesma!</strong></a>
+  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank">**Cortina de bolinhas em quarto infantil: faça você mesma!**</a>
 </p>
 
 <p align="center">
@@ -72,19 +72,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para te inspirar ainda mais:</strong>
+  **Para te inspirar ainda mais:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank"><strong>Papel de parede infantil: divertidos, didáticos e criativos.</strong></a>
+  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank">**Papel de parede infantil: divertidos, didáticos e criativos.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma.</strong></a>
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-2/" target="_blank"><strong>Decoração da cabeceira infantil: ideias práticas, simples e divertidas!</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-2/" target="_blank">**Decoração da cabeceira infantil: ideias práticas, simples e divertidas!**</a>
 </p>
 
 <p align="justify">

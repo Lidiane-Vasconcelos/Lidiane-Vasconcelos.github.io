@@ -1,7 +1,7 @@
 ---
-id: 3249
+
 title: Sofá neutro + almofadas coloridas = sucesso na decor da sala de estar
-date: 2013-08-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/02/sofa-almofada-sala-estar/
@@ -20,7 +20,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Sofá neutro + almofadas coloridas</span></strong>
+  **<span style="font-size: large;">Sofá neutro + almofadas coloridas</span>**
 </p>
 
 &nbsp;
@@ -44,21 +44,21 @@ Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Tudo a ver…</span></strong>
+  **<span style="font-size: x-large;">Tudo a ver…</span>**
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/"><strong><span style="font-size: medium;">Solução de decoração boa, bonita e barata: tapete de sisal listrado</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/">**<span style="font-size: medium;">Solução de decoração boa, bonita e barata: tapete de sisal listrado</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/10/decoracao-sala-estar-pequena/"><strong><span style="font-size: medium;">Truques de decoração para sala de estar pequena: aprenda todos!</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/10/decoracao-sala-estar-pequena/">**<span style="font-size: medium;">Truques de decoração para sala de estar pequena: aprenda todos!</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/03/ideias-decoracao-sala-estar/"><strong><span style="font-size: medium;">3 ideias simples de decoração e aconchego na sua sala de estar: aplique já!</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/03/ideias-decoracao-sala-estar/">**<span style="font-size: medium;">3 ideias simples de decoração e aconchego na sua sala de estar: aplique já!</span>**</a>
 </p>
 
 &nbsp;

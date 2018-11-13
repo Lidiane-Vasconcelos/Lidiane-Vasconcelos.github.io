@@ -1,7 +1,7 @@
 ---
-id: 3012
+
 title: Quando se fala de moda, o que é ser chique?
-date: 2011-06-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/17/moda-ser-chique/
@@ -16,7 +16,7 @@ Sou do time que acha que menos é mais, em qualquer sentido. Mas vejo que há mu
 <!--more-->
 
 <p style="text-align: justify;">
-  Para <strong>Tatianna Carvalho</strong>, <strong>editora de Moda</strong> do <strong><a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a></strong>, “<em>a moda é muito democrática e nos últimos cinquenta anos se ramificou em muitos segmentos, tornando o ‘ser chique’ em uma questão de atitude</em>”. Talvez esteja exatamente aí a razão por que muitas mulheres assumem o risco de usar produções ousadas, misturas inusitadas e, mesmo assim, arrasam no resultado final. Estar chique e na moda pode ter a ver com simplicidade, mas também ter tudo a ver com o saber “carregar” uma super produção. E que bom que é assim… porque a moda tem mesmo é que ser democrática, não é?
+  Para **Tatianna Carvalho**, **editora de Moda** do **<a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a>**, “<em>a moda é muito democrática e nos últimos cinquenta anos se ramificou em muitos segmentos, tornando o ‘ser chique’ em uma questão de atitude</em>”. Talvez esteja exatamente aí a razão por que muitas mulheres assumem o risco de usar produções ousadas, misturas inusitadas e, mesmo assim, arrasam no resultado final. Estar chique e na moda pode ter a ver com simplicidade, mas também ter tudo a ver com o saber “carregar” uma super produção. E que bom que é assim… porque a moda tem mesmo é que ser democrática, não é?
 </p>
 
 <p style="text-align: center;">
@@ -36,11 +36,11 @@ Sou do time que acha que menos é mais, em qualquer sentido. Mas vejo que há mu
 </p>
 
 <p style="text-align: center;">
-  <strong><span style="font-size: medium;">A dica das dicas…</span></strong>
+  **<span style="font-size: medium;">A dica das dicas…</span>**
 </p>
 
 <p style="text-align: center;">
-  <strong>Para mulheres nas faixas de 20, 30, 40 e 50 anos, o que é importante não perder de vista na hora de se vestir?</strong>
+  **Para mulheres nas faixas de 20, 30, 40 e 50 anos, o que é importante não perder de vista na hora de se vestir?**
 </p>
 
 > <p style="text-align: justify;">
@@ -58,9 +58,9 @@ Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
 **[Como escolher óculos de sol?](http://www.trololodemulher.com.br/2009/10/25/como-escolher-oculos-de-sol/)**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a>> <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a></em></strong>
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

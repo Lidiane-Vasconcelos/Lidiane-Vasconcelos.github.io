@@ -1,7 +1,7 @@
 ---
-id: 2620
+
 title: Alternativas para decorar uma mesa de jantar.
-date: 2009-02-11T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/11/decoracao-mesa-sala-jantar/
@@ -11,7 +11,7 @@ categories:
 ---
 Cá estou eu mais uma vez com o objetivo de ajudar a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Rose</a>, que pediu minha ajuda para garimpar imagens que a inspirassem e dessem idéias possíveis para ela arrumar sua **mesa da sala de jantar**. 
 
-Aliás, também dei _pitacos_ na decoração da sala de jantar de outra bicha fêmea navegante. Foi na casa da Flávia que algumas opiniões foram dadas para a** __**<a href="http://www.trololodemulher.com.br/2010/04/09/pitacos-de-bicha-femea-sala-de-estar-e-de-jantar/" target="_self"><strong><em>decoração da sala de jantar</em></strong></a> e estar dela&#8230;
+Aliás, também dei _pitacos_ na decoração da sala de jantar de outra bicha fêmea navegante. Foi na casa da Flávia que algumas opiniões foram dadas para a** __**<a href="http://www.trololodemulher.com.br/2010/04/09/pitacos-de-bicha-femea-sala-de-estar-e-de-jantar/" target="_self">**<em>decoração da sala de jantar</em>**</a> e estar dela&#8230;
 
 Além da Flávia e Rose, a Sandra também pediu dicas para este ambiente na casa dela. Quer conferir? As **_<a href="http://www.trololodemulher.com.br/2010/07/07/decoracao-sala-de-jantar/" target="_self">dicas para a sala de jantar</a>_** da Sandra podem servir para você de alguma forma, não é?
 
@@ -21,7 +21,7 @@ Quanto a este post, lógico que a gente vai pegar carona nessas inspirações…
 
 Imagem: <a href="http://www.thefurniture.com/store/" target="_blank">The Furniture</a>
 
-Se a gente se garantir que a madeira da mesa está “nos trinques”, não há necessidade de sempre cobrir a mesa, certo? Ou ainda, se você gostar, poderia usar um caminho de mesa. Que tal? Na verdade, essa é uma escolha bem pessoal. Há quem goste, como eu. Muitas bichas fêmeas navegantes deram sua opinião sobre o <a href="http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa-em-mesa-de-vidro-usar-ou-no/" target="_self"><strong><em>uso do caminho de mesa</em></strong> </a>e talvez você queira saber, _hã_? 
+Se a gente se garantir que a madeira da mesa está “nos trinques”, não há necessidade de sempre cobrir a mesa, certo? Ou ainda, se você gostar, poderia usar um caminho de mesa. Que tal? Na verdade, essa é uma escolha bem pessoal. Há quem goste, como eu. Muitas bichas fêmeas navegantes deram sua opinião sobre o <a href="http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa-em-mesa-de-vidro-usar-ou-no/" target="_self">**<em>uso do caminho de mesa</em>** </a>e talvez você queira saber, _hã_? 
 
 Quanto a mesa aí de cima, não é indiscutível o quanto ela ficou elegante com um vaso charmoso e belas flores?!
 
@@ -63,31 +63,31 @@ Esta é uma alternativa diferente, bonita e bastante interessante. É possível 
   </p>
   
   <p>
-    <strong><span style="color: #800080;">Diz aí, a quantas anda a “embonecação” do ninho?</span></strong>
+    **<span style="color: #800080;">Diz aí, a quantas anda a “embonecação” do ninho?</span>**
   </p>
   
   <p>
-    <strong><span style="color: #000000;">Mais no Bicha Fêmea sobre sala de jantar&#8230;</span></strong>
+    **<span style="color: #000000;">Mais no Bicha Fêmea sobre sala de jantar&#8230;</span>**
   </p>
   
   <p>
-    <strong><span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/07/07/decoracao-sala-de-jantar/" target="_self">Pitacos de bicha fêmea: sala de jantar com móveis escuros.</a></span></strong>
+    **<span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/07/07/decoracao-sala-de-jantar/" target="_self">Pitacos de bicha fêmea: sala de jantar com móveis escuros.</a></span>**
   </p>
   
   <p>
-    <strong><span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/04/09/sala-de-estar-e-de-jantar/" target="_self">Pitacos de bicha fêmea: sala de estar e de jantar.</a></span></strong>
+    **<span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/04/09/sala-de-estar-e-de-jantar/" target="_self">Pitacos de bicha fêmea: sala de estar e de jantar.</a></span>**
   </p>
   
   <p>
-    <a href="http://www.trololodemulher.com.br/2009/11/24/como-decorar-uma-mesa-em-fibra-natural-e-vidro/" target="_self"><strong><em>Como decorar uma mesa em fibra natural e vidro?</em></strong></a>
+    <a href="http://www.trololodemulher.com.br/2009/11/24/como-decorar-uma-mesa-em-fibra-natural-e-vidro/" target="_self">**<em>Como decorar uma mesa em fibra natural e vidro?</em>**</a>
   </p>
   
   <p>
-    <a href="http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa-em-mesa-de-vidro-usar-ou-no/" target="_self"><strong><em>Caminho de mesa em mesa de vidro: usar ou não?</em></strong></a>
+    <a href="http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa-em-mesa-de-vidro-usar-ou-no/" target="_self">**<em>Caminho de mesa em mesa de vidro: usar ou não?</em>**</a>
   </p>
   
   <p>
-    <a href="http://www.trololodemulher.com.br/2009/04/12/salas-de-estar-e-de-jantar-sofisticadas-para-inspirao/" target="_self"><strong><em>Salas de estar e de jantar sofisticadas para inspiração.</em></strong></a>
+    <a href="http://www.trololodemulher.com.br/2009/04/12/salas-de-estar-e-de-jantar-sofisticadas-para-inspirao/" target="_self">**<em>Salas de estar e de jantar sofisticadas para inspiração.</em>**</a>
   </p>
   
   <p style="text-align: center;">
@@ -95,5 +95,5 @@ Esta é uma alternativa diferente, bonita e bastante interessante. É possível 
   </p>
   
   <p style="text-align: center;">
-    <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
+    **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em>**
   </p>

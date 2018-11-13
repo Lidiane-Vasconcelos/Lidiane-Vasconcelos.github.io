@@ -1,7 +1,7 @@
 ---
-id: 3717
+
 title: 'A obesidade infantil não é fofinha: saiba como mudar isso.'
-date: 2016-12-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/14/obesidade-infantil-2/
@@ -11,7 +11,7 @@ categories:
   - Saúde Infantil
 ---
 <p align="justify">
-  Não é raro a gente encontrar crianças que, nitidamente, sofrem com a <strong>obesidade infantil</strong>, e esse quadro atinge os pequenos cada vez mais cedo. Onde estamos errando e como reverter essa situação? Neste post, rico em esclarecimentos e orientações dados pela <strong>Rachel Francischi, Nutricionista de São Paulo – SP</strong>, vamos descobrir quais as mudanças de hábitos necessárias para prevenir a obesidade na infância, ou contribuir para que isso não se desenvolva na vida adulta. A verdade é que de acordo com a especialista, já na gestação é preciso tomar alguns cuidados bastante importantes, mas isso também não quer dizer que não possamos realizar mudanças na rotina da família desde já, tudo pra que reverbere positivamente na vida da cria.
+  Não é raro a gente encontrar crianças que, nitidamente, sofrem com a **obesidade infantil**, e esse quadro atinge os pequenos cada vez mais cedo. Onde estamos errando e como reverter essa situação? Neste post, rico em esclarecimentos e orientações dados pela **Rachel Francischi, Nutricionista de São Paulo – SP**, vamos descobrir quais as mudanças de hábitos necessárias para prevenir a obesidade na infância, ou contribuir para que isso não se desenvolva na vida adulta. A verdade é que de acordo com a especialista, já na gestação é preciso tomar alguns cuidados bastante importantes, mas isso também não quer dizer que não possamos realizar mudanças na rotina da família desde já, tudo pra que reverbere positivamente na vida da cria.
 </p>
 
 <p align="justify">
@@ -35,19 +35,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/05/amamentacao/" target="_blank"><strong>Hora da amamentação!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/05/amamentacao/" target="_blank">**Hora da amamentação!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank"><strong>Alimentação na gravidez: saúde para mamãe e bebê.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank">**Alimentação na gravidez: saúde para mamãe e bebê.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/18/atividade-fisica-infantil/" target="_blank"><strong>Você sabe qual atividade física é boa pra sua cria?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/05/18/atividade-fisica-infantil/" target="_blank">**Você sabe qual atividade física é boa pra sua cria?**</a>
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Fazendo certo desde o início…</span></strong>
+  **<span style="font-size: x-large;">Fazendo certo desde o início…</span>**
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Quando é que perdemos o prumo?</span></strong>
+  **<span style="font-size: x-large;">Quando é que perdemos o prumo?</span>**
 </p>
 
 <p align="justify">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Como ensinar a criança a comer bem?</span></strong>
+  **<span style="font-size: x-large;">Como ensinar a criança a comer bem?</span>**
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Educação começa pelo exemplo.</span></strong>
+  **<span style="font-size: x-large;">Educação começa pelo exemplo.</span>**
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">No final das contas, o que influencia?</span></strong>
+  **<span style="font-size: x-large;">No final das contas, o que influencia?</span>**
 </p>
 
 <p align="justify">
@@ -127,7 +127,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 – Sobrepeso na gravidez:</strong>
+  **1 – Sobrepeso na gravidez:**
 </p>
 
 <p align="justify">
@@ -135,7 +135,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 – Desmamar do peito antes dos 6 meses:</strong>
+  **2 – Desmamar do peito antes dos 6 meses:**
 </p>
 
 <p align="justify">
@@ -143,7 +143,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 – Dar papinha antes dos 6 meses:</strong>
+  **3 – Dar papinha antes dos 6 meses:**
 </p>
 
 <p align="justify">
@@ -151,7 +151,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 – Dar comida para consolar choro:</strong>
+  **4 – Dar comida para consolar choro:**
 </p>
 
 <p align="justify">
@@ -159,7 +159,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 – Desistir dos alimentos saudáveis na primeira negativa do bebê:</strong>
+  **5 – Desistir dos alimentos saudáveis na primeira negativa do bebê:**
 </p>
 
 <p align="justify">
@@ -167,7 +167,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 – Adoçar o suco da criança:</strong>
+  **6 – Adoçar o suco da criança:**
 </p>
 
 <p align="justify">
@@ -175,7 +175,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: x-large;">Proibir certos alimentos é a saída?</span></strong>
+  **<span style="font-size: x-large;">Proibir certos alimentos é a saída?</span>**
 </p>
 
 <p align="justify">

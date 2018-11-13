@@ -1,7 +1,7 @@
 ---
-id: 2709
+
 title: Reutilização De Objetos Com Novos Usos.
-date: 2009-10-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/06/reutilizacao-de-objetos-2/
@@ -40,7 +40,7 @@ Agora é contigo. Que é que você sugere para a gente aumentar essa lista?
 **As bichas fêmeas falam&#8230;**
 
 <p style="text-align: center;">
-  <strong><img class="size-full wp-image-2569  aligncenter" title="httphome-boxer.blogspot.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/httphome-boxer-blogspot-com.jpg" alt="httphome-boxer.blogspot.com" width="320" height="250" /></strong>
+  **<img class="size-full wp-image-2569  aligncenter" title="httphome-boxer.blogspot.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/httphome-boxer-blogspot-com.jpg" alt="httphome-boxer.blogspot.com" width="320" height="250" />**
 </p>
 
 **A Fabi, editora criativa do espaço virtual <a href="http://favasdesign.blogspot.com/" target="_blank">Favas a Contar</a>, dividiu com a gente um achado. A bonita indicou o blog <a href="http://home-boxer.blogspot.com/" target="_blank">CASA & COISAS & TAL </a>para o nosso deleite. Já fui lá dar uma conferida, e trata-se de um espaço onde o Flavio Zaninelli, responsável pelo blog, garimpa ideias e inspirações para a gente aplicar em casa. E tudo, tudinho, é no melhor estilo de reaproveitamento e reutilização, como esses bastidores de bordado cobertos com tecidos alegres, mostrados <a href="http://home-boxer.blogspot.com/2009/10/recadosfotos-e-etc.html" target="_blank">neste post</a>, que cumprem o papel de mural. Não é uma ideia legal para usar no nosso _home office_?**

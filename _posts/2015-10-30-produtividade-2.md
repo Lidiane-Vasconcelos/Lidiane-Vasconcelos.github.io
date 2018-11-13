@@ -1,7 +1,7 @@
 ---
-id: 3507
+
 title: 'Produtividade: 5 mulheres empreendedoras dão dicas top.'
-date: 2015-10-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/30/produtividade-2/
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  Perguntei a mulheres que atuam em áreas diferentes como <em>blogosfera</em>, <em>design</em>, consultoria para <em>crafters</em> e organização: <strong>qual sua dica pra manter o foco e manter-se produtiva?</strong> As respostas incluem estratégias diferentes, desde mudança de comportamento em alguns aspectos até o uso de materiais específicos para produzir mais e melhor. Cada uma delas tem seus segredos pessoais e isso está alinhado com características bem próprias de cada uma, mas certamente você poderá aproveitar muitas destas dicas na sua rotina. Que ver o resultado disso tudo? Confira logo a seguir.
+  Perguntei a mulheres que atuam em áreas diferentes como <em>blogosfera</em>, <em>design</em>, consultoria para <em>crafters</em> e organização: **qual sua dica pra manter o foco e manter-se produtiva?** As respostas incluem estratégias diferentes, desde mudança de comportamento em alguns aspectos até o uso de materiais específicos para produzir mais e melhor. Cada uma delas tem seus segredos pessoais e isso está alinhado com características bem próprias de cada uma, mas certamente você poderá aproveitar muitas destas dicas na sua rotina. Que ver o resultado disso tudo? Confira logo a seguir.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>ROTINA COM FOCO EM UMA COISA POR VEZ: TRABALHO DOMÉSTICO X TRABALHO PROFISSIONAL.</strong>
+  **ROTINA COM FOCO EM UMA COISA POR VEZ: TRABALHO DOMÉSTICO X TRABALHO PROFISSIONAL.**
 </p>
 
 <p align="justify">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>SAIBA O QUE PRIORIZAR. PRESTE ATENÇÃO AO </strong><a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank"><strong>IMPACTO DAS REDES SOCIAIS NA PRODUTIVIDADE</strong></a><strong>.</strong>
+  **SAIBA O QUE PRIORIZAR. PRESTE ATENÇÃO AO **<a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">**IMPACTO DAS REDES SOCIAIS NA PRODUTIVIDADE**</a>**.**
 </p>
 
 <p align="justify">
@@ -48,11 +48,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Tati Romano</strong> é a moça bonita e futura mamãe que comanda o blog <a href="http://www.panelaterapia.com/" target="_blank">PANELATERAPIA</a>, um espaço virtual de receitas que virou referência na sua área, com mais de <a href="http://www.panelaterapia.com/" target="_blank">1Milhão de fãs somente no Facebook</a>.
+  **Tati Romano** é a moça bonita e futura mamãe que comanda o blog <a href="http://www.panelaterapia.com/" target="_blank">PANELATERAPIA</a>, um espaço virtual de receitas que virou referência na sua área, com mais de <a href="http://www.panelaterapia.com/" target="_blank">1Milhão de fãs somente no Facebook</a>.
 </p>
 
 <p align="justify">
-  <strong>MANTENHA UMA ROTINA MATINAL.</strong>
+  **MANTENHA UMA ROTINA MATINAL.**
 </p>
 
 <p align="justify">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>LISTE SUAS ATIVIDADES.</strong>
+  **LISTE SUAS ATIVIDADES.**
 </p>
 
 <p align="justify">
@@ -68,11 +68,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Thiara Ney</strong> é mãe de uma menina linda e uma empreendedora pra lá de criativa, envolvida em dois lindos projetos: o <a href="http://www.tuty.com.br/" target="_blank">Estúdio Tuty</a> – com papelaria personalizada para festas, realizando a entrega de kits digitais ou impressos, e muita felicidade; e ainda a <a href="http://profissionais.tuty.com.br/" target="_blank">Tuty Para Profissionais</a> – um espaço com conteúdo relevante e descomplicado (do qual sou leitora e seguidora) dedicado a quem tem um negócio do coração, e que oferece a criação de identidade visual para essas empresas.
+  **Thiara Ney** é mãe de uma menina linda e uma empreendedora pra lá de criativa, envolvida em dois lindos projetos: o <a href="http://www.tuty.com.br/" target="_blank">Estúdio Tuty</a> – com papelaria personalizada para festas, realizando a entrega de kits digitais ou impressos, e muita felicidade; e ainda a <a href="http://profissionais.tuty.com.br/" target="_blank">Tuty Para Profissionais</a> – um espaço com conteúdo relevante e descomplicado (do qual sou leitora e seguidora) dedicado a quem tem um negócio do coração, e que oferece a criação de identidade visual para essas empresas.
 </p>
 
 <p align="justify">
-  <strong>PARA SER MAIS PRODUTIVA, ASSUMA SEU TRABALHO.</strong>
+  **PARA SER MAIS PRODUTIVA, ASSUMA SEU TRABALHO.**
 </p>
 
 <p align="justify">
@@ -80,11 +80,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Jê souza Pereira</strong> ganhou larga popularidade atuando como professora virtual de costuras, indo além de ensinar a arte do uso da agulha e tecido. Essa nordestina <em>arretada</em> inspira e orienta as “<strong>ARTEIRAS DA JÊ”</strong> sobre <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">como fazer do hobby um negócio e ganhar dinheiro com isso</a>. Jê atua em seu projeto, a <a href="http://www.dreamsfactorybyjeane.com/" target="_blank">Dreams Factory</a>, com vídeos em seu <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank">canal no Youtube</a> e com vários posts diários na <a href="https://www.facebook.com/DreamsFactoryByJeane/?pnref=lhc" target="_blank">fanpage do Facebook</a>.
+  **Jê souza Pereira** ganhou larga popularidade atuando como professora virtual de costuras, indo além de ensinar a arte do uso da agulha e tecido. Essa nordestina <em>arretada</em> inspira e orienta as “**ARTEIRAS DA JÊ”** sobre <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">como fazer do hobby um negócio e ganhar dinheiro com isso</a>. Jê atua em seu projeto, a <a href="http://www.dreamsfactorybyjeane.com/" target="_blank">Dreams Factory</a>, com vídeos em seu <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank">canal no Youtube</a> e com vários posts diários na <a href="https://www.facebook.com/DreamsFactoryByJeane/?pnref=lhc" target="_blank">fanpage do Facebook</a>.
 </p>
 
 <p align="justify">
-  <strong>CONHEÇA A SI MESMO E ESQUEÇA REGRAS, QUANDO FOR PRECISO.</strong>
+  **CONHEÇA A SI MESMO E ESQUEÇA REGRAS, QUANDO FOR PRECISO.**
 </p>
 
 <p align="justify">
@@ -92,11 +92,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Rosana Silva</strong> é especialista em <em>Design</em> de Interiores e comanda o blog <a href="http://www.simplesdecoracao.com.br/" target="_blank">SIMPLES DECORAÇÃO</a>, de relevância incontestável na blogosfera de <em>casa&decor</em>. Com mais de <a href="https://www.facebook.com/SimplesDecoracao/timeline" target="_blank">50.000 seguidores no Facebook</a>, Rô (como eu a chamo) produz e divulga diariamente conteúdo imperdível para quem tem interesse no assunto.
+  **Rosana Silva** é especialista em <em>Design</em> de Interiores e comanda o blog <a href="http://www.simplesdecoracao.com.br/" target="_blank">SIMPLES DECORAÇÃO</a>, de relevância incontestável na blogosfera de <em>casa&decor</em>. Com mais de <a href="https://www.facebook.com/SimplesDecoracao/timeline" target="_blank">50.000 seguidores no Facebook</a>, Rô (como eu a chamo) produz e divulga diariamente conteúdo imperdível para quem tem interesse no assunto.
 </p>
 
 <p align="justify">
-  <strong>USE FERRAMENTAS DE ORGANIZAÇÃO A SEU FAVOR.</strong>
+  **USE FERRAMENTAS DE ORGANIZAÇÃO A SEU FAVOR.**
 </p>
 
 <p align="justify">
@@ -104,7 +104,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>TENHA FOCO EM SUAS AÇÕES E NA ORGANIZAÇÃO DO AMBIENTE: COLOQUE ENERGIA NO QUE IMPORTA.</strong>
+  **TENHA FOCO EM SUAS AÇÕES E NA ORGANIZAÇÃO DO AMBIENTE: COLOQUE ENERGIA NO QUE IMPORTA.**
 </p>
 
 <p align="justify">
@@ -112,15 +112,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Kalinka Carvalho</strong> é uma paulista bonita de viver e <em>expert</em> em <strong>organização pessoal e profissional</strong>. A moça, graduada em Publicidade e Propaganda, e especialista em Marketing, produz <a href="http://www.kalinkacarvalho.com.br/blog" target="_blank">conteúdo em seu site</a> pra quem quer se organizar, e assim viver melhor. Kalinka também presta consultorias na área de organização, além de marketing e eventos. Quem curte e acompanha <a href="https://www.facebook.com/kalinkascarvalho/timeline" target="_blank">sua fanpage no Facebook</a> fica por dentro de tudo!
+  **Kalinka Carvalho** é uma paulista bonita de viver e <em>expert</em> em **organização pessoal e profissional**. A moça, graduada em Publicidade e Propaganda, e especialista em Marketing, produz <a href="http://www.kalinkacarvalho.com.br/blog" target="_blank">conteúdo em seu site</a> pra quem quer se organizar, e assim viver melhor. Kalinka também presta consultorias na área de organização, além de marketing e eventos. Quem curte e acompanha <a href="https://www.facebook.com/kalinkascarvalho/timeline" target="_blank">sua fanpage no Facebook</a> fica por dentro de tudo!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.decoracaodacasa.com/home-office-simples/" target="_blank">Home office simples: menos coisas, mais produtividade.</a></strong>
+  **<a href="http://www.decoracaodacasa.com/home-office-simples/" target="_blank">Home office simples: menos coisas, mais produtividade.</a>**
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3343
+
 title: 'Bonitas e funcionais: 4 dicas de organização de bijus.'
-date: 2014-09-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/15/dicas-organizacao-bijus/
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Tudo a mostra… numa gaveta.</span></strong>
+  **<span style="font-size: large;">Tudo a mostra… numa gaveta.</span>**
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Vai usar todo dia? O acesso precisa ser simplificado!</span></strong>
+  **<span style="font-size: large;">Vai usar todo dia? O acesso precisa ser simplificado!</span>**
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Se não usa com frequência, proteja bem!</span></strong>
+  **<span style="font-size: large;">Se não usa com frequência, proteja bem!</span>**
 </p>
 
 <p align="center">
@@ -63,19 +63,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/" target="_blank"><strong>5 dicas para organizar seus produtos de beleza.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/" target="_blank">**5 dicas para organizar seus produtos de beleza.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/02/16/ideias-organizar-esmaltes/" target="_blank"><strong>5 ideias para organizar esmaltes.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/02/16/ideias-organizar-esmaltes/" target="_blank">**5 ideias para organizar esmaltes.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/" target="_blank"><strong>Dicas para organizar sua maquiagem.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/" target="_blank">**Dicas para organizar sua maquiagem.**</a>
 </p>
 
 <p align="justify">

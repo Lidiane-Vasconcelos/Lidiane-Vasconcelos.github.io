@@ -1,7 +1,7 @@
 ---
-id: 3777
+
 title: Aviso de férias de Julho do blog
-date: 2017-06-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/28/ferias-de-julho/
@@ -10,7 +10,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Depois de um semestre de produção intensa de conteúdo, é hora de dar uma paradinha para as <strong>férias de Julho</strong>. Não é segredo pra você o quanto eu amo estar por aqui compartilhando informação, não é? Isso é o que me move… mas há que se dar um tempo no trabalho, por mais delicioso que ele seja.
+  Depois de um semestre de produção intensa de conteúdo, é hora de dar uma paradinha para as **férias de Julho**. Não é segredo pra você o quanto eu amo estar por aqui compartilhando informação, não é? Isso é o que me move… mas há que se dar um tempo no trabalho, por mais delicioso que ele seja.
 </p>
 
 <p align="justify">

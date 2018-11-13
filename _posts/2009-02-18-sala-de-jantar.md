@@ -1,7 +1,7 @@
 ---
-id: 2624
+
 title: Inspirações para a decoração da sala de jantar.
-date: 2009-02-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/18/sala-de-jantar/
@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: center;">
-  Lembram que já nos inspiramos com<strong><em> </em></strong><a href="http://www.trololodemulher.com.br/2009/02/11/alternativas-para-decorar-uma-mesa-de-jantar/" target="_self"><strong><em>ideias para a decoração da da mesa de jantar</em></strong></a>, com foco no que colocar nelas para enfeitá-las?
+  Lembram que já nos inspiramos com**<em> </em>**<a href="http://www.trololodemulher.com.br/2009/02/11/alternativas-para-decorar-uma-mesa-de-jantar/" target="_self">**<em>ideias para a decoração da da mesa de jantar</em>**</a>, com foco no que colocar nelas para enfeitá-las?
 </p>
 
 Desta vez eu trouxe para a ciranda de inspirações algumas imagens para a decoração de salas de jantar, onde a gente possa olhar o ambiente como um todo, e apreender um detalhe ou outro que nos leve a pensar nas nossas próprias salas.

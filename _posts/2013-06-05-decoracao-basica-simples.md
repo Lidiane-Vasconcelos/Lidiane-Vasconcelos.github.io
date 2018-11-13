@@ -1,7 +1,7 @@
 ---
-id: 3222
+
 title: 'Decoração básica com graça e charme: aprenda os truques!'
-date: 2013-06-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/05/decoracao-basica-simples/
@@ -14,13 +14,13 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 &nbsp;
 
 <p align="justify">
-  Aqui no <strong>Bicha Fêmea</strong> há algumas dicas para você caprichar na sua casa, todas dadas pela <strong><em>designer</em> de interiores Adriana Magre</strong>. Fique atenta a tudo e deixe sua casa básica, simples e elegante. É isso que você quer? Então se joga!
+  Aqui no **Bicha Fêmea** há algumas dicas para você caprichar na sua casa, todas dadas pela **<em>designer</em> de interiores Adriana Magre**. Fique atenta a tudo e deixe sua casa básica, simples e elegante. É isso que você quer? Então se joga!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: medium;">Dá para ter uma decoração simples e elegante, do tipo básica, sem que o lar fique completamente branco?</span></strong>
+  **<span style="font-size: medium;">Dá para ter uma decoração simples e elegante, do tipo básica, sem que o lar fique completamente branco?</span>**
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Para quem mora em apartamento e quer fazer da varanda uma extensão da sala de jantar, quais elementos decorativos são indispensáveis?</span></strong>
+  **<span style="font-size: medium;">Para quem mora em apartamento e quer fazer da varanda uma extensão da sala de jantar, quais elementos decorativos são indispensáveis?</span>**
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Vale a pena apostar no truque do painel de espelho da sala de jantar?</span></strong>
+  **<span style="font-size: medium;">Vale a pena apostar no truque do painel de espelho da sala de jantar?</span>**
 </p>
 
 > <p align="justify">
@@ -52,7 +52,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Circulação livre é importante quando se quer imprimir simplicidade e elegância na decoração?</span></strong>
+  **<span style="font-size: medium;">Circulação livre é importante quando se quer imprimir simplicidade e elegância na decoração?</span>**
 </p>
 
 > <p align="justify">
@@ -60,7 +60,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Como usar cores mais marcantes numa decoração cuja neutralidade é o maior dos apelos?</span></strong>
+  **<span style="font-size: medium;">Como usar cores mais marcantes numa decoração cuja neutralidade é o maior dos apelos?</span>**
 </p>
 
 <p align="center">
@@ -68,11 +68,11 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 </p>
 
 > <p align="justify">
->   <em>”Quem gosta de ousar pode apostar em peças maiores, como um sofá ou uma mesa em uma cor mais vibrante, ex.: amarelo ou vermelho, em um ambiente em que predominam tons neutros. Um único móvel ou objeto em cor vibrante na decoração de cores neutras é uma tendência bem atual. <strong>Mas se há receio de enjoar ou cansar, o ideal é apostar em peças menores que possam ser substituídas com facilidade: almofadas, vasos, pequenos objetos decorativos, quadros, etc</strong>.”</em>
+>   <em>”Quem gosta de ousar pode apostar em peças maiores, como um sofá ou uma mesa em uma cor mais vibrante, ex.: amarelo ou vermelho, em um ambiente em que predominam tons neutros. Um único móvel ou objeto em cor vibrante na decoração de cores neutras é uma tendência bem atual. **Mas se há receio de enjoar ou cansar, o ideal é apostar em peças menores que possam ser substituídas com facilidade: almofadas, vasos, pequenos objetos decorativos, quadros, etc**.”</em>
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">Vale a pena investir na marcenaria sob medida?</span></strong>
+  **<span style="font-size: medium;">Vale a pena investir na marcenaria sob medida?</span>**
 </p>
 
 > <p align="justify">
@@ -80,7 +80,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 > </p>
 
 <p align="center">
-  <strong><span style="font-size: medium;">No mais…</span></strong>
+  **<span style="font-size: medium;">No mais…</span>**
 </p>
 
 > <p align="justify">
@@ -92,28 +92,28 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 </p>
 
 <p align="justify">
-  A <strong>Adriana</strong> edita seus blogs com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto em um – <a href="http://www.coresdacasa.com.br/" target="_blank"><strong>Cores da Casa</strong></a> – quanto no outro – <strong><a href="http://areaminima.blogspot.com.br/" target="_blank">Área Mínima</a></strong> – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
+  A **Adriana** edita seus blogs com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto em um – <a href="http://www.coresdacasa.com.br/" target="_blank">**Cores da Casa**</a> – quanto no outro – **<a href="http://areaminima.blogspot.com.br/" target="_blank">Área Mínima</a>** – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://pinterest.com/coresdacasa/" target="_blank"><strong><em>Pinterest </em>da Adriana Magre</strong></a>
+  Imagens: <a href="http://pinterest.com/coresdacasa/" target="_blank">**<em>Pinterest </em>da Adriana Magre**</a>
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-CORTINAS200.jpg"><img class="alignnone size-full wp-image-9311" alt="DECORACAO-CORTINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-CORTINAS200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/"><strong><span style="font-size: medium;"><br /> Repare: há duas formas diferentes de inserir a cortina na decoração</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-CORTINAS200.jpg"><img class="alignnone size-full wp-image-9311" alt="DECORACAO-CORTINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/DECORACAO-CORTINAS200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/">**<span style="font-size: medium;"><br /> Repare: há duas formas diferentes de inserir a cortina na decoração</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9182" alt="DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA VOCE MESMA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/28/enfeites-objetos-decoracao/"><strong><span style="font-size: medium;"><br /> Capriche você mesma nos enfeites ou objetos de decoração</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg"><img class="alignnone size-full wp-image-9182" alt="DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA VOCE MESMA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-ENFEITE-OBJETO-ABAJOUR-FACA-VOCE-MESMA200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/09/28/enfeites-objetos-decoracao/">**<span style="font-size: medium;"><br /> Capriche você mesma nos enfeites ou objetos de decoração</span>**</a>
       </p>
     </td>
   </tr>
@@ -121,13 +121,13 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg"><img class="alignnone size-full wp-image-9152" alt="DECORACAO-QUARTO-PUFF-BAU200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/"><strong><span style="font-size: medium;">Todo mundo quer uma casa bonita e funcional, certo?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg"><img class="alignnone size-full wp-image-9152" alt="DECORACAO-QUARTO-PUFF-BAU200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/DECORACAO-QUARTO-PUFF-BAU200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/09/20/loja-virtual-moveis-decoracao/">**<span style="font-size: medium;">Todo mundo quer uma casa bonita e funcional, certo?</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS2200.jpg"><img class="alignnone size-full wp-image-9063" alt="DECORACAO-FOTOS[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS2200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/"><strong><span style="font-size: medium;"><br /> Quer saber como decorar com fotos?</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS2200.jpg"><img class="alignnone size-full wp-image-9063" alt="DECORACAO-FOTOS[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FOTOS2200.jpg" width="200" height="200" /></a> <a href="http://www.trololodemulher.com.br/2012/08/29/como-decorar-com-fotos/">**<span style="font-size: medium;"><br /> Quer saber como decorar com fotos?</span>**</a>
       </p>
     </td>
   </tr>
@@ -135,13 +135,13 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg"><img class="alignnone size-full wp-image-9056" alt="OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg" width="200" height="200" /></a><br /> Sabe onde há objetos cheios de bossa para a decoração?</strong>
+        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg"><img class="alignnone size-full wp-image-9056" alt="OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/OBJETOS-ENFEITES-DECORACAO-ANTIGUIDADES200.jpg" width="200" height="200" /></a><br /> Sabe onde há objetos cheios de bossa para a decoração?**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg"><img class="alignnone size-full wp-image-9020" alt="DECORACAO FACA VOCE MESMA - QUARTO-CABECEIRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/"><strong><span style="font-size: medium;">Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg"><img class="alignnone size-full wp-image-9020" alt="DECORACAO FACA VOCE MESMA - QUARTO-CABECEIRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-FACA-VOCE-MESMA-QUARTO-CABECEIRA200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/">**<span style="font-size: medium;">Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</span>**</a>
       </p>
     </td>
   </tr>
@@ -154,7 +154,7 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -178,9 +178,9 @@ Sim, bonita! Porque uma **decoração básica** não precisa ficar apática e co
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

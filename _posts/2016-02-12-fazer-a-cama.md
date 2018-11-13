@@ -1,7 +1,7 @@
 ---
-id: 3541
+
 title: 'Fazer a cama é bom e faz bem: você e a casa agradecem.'
-date: 2016-02-12T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/12/fazer-a-cama/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Se sua mãe insistia tanto para você fazer a cama todos os dias, saiba: ela entendia das coisas! Essa tarefa, que é das mais simples e faria muito bem pra você e pra casa se fosse diária, surte efeitos muito positivos. <strong>Fazer a cama</strong> diariamente já te dá uma sensação de quarto mais limpo visualmente, e organizado. A sensação é tão boa que há uma motivação imediata para colocar toda a <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">casa em ordem</a> também. Se você é dessas pessoas que têm dificuldade de se organizar no dia a dia, começar por arrumar a cama diariamente é uma estratégia excelente. Esse é, na verdade, um dos <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">18 hábitos da pessoa organizada</a>. Experimente!
+  Se sua mãe insistia tanto para você fazer a cama todos os dias, saiba: ela entendia das coisas! Essa tarefa, que é das mais simples e faria muito bem pra você e pra casa se fosse diária, surte efeitos muito positivos. **Fazer a cama** diariamente já te dá uma sensação de quarto mais limpo visualmente, e organizado. A sensação é tão boa que há uma motivação imediata para colocar toda a <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">casa em ordem</a> também. Se você é dessas pessoas que têm dificuldade de se organizar no dia a dia, começar por arrumar a cama diariamente é uma estratégia excelente. Esse é, na verdade, um dos <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">18 hábitos da pessoa organizada</a>. Experimente!
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Dicas:</strong>
+  **Dicas:**
 </p>
 
 <p align="justify">

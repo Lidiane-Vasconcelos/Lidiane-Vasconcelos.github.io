@@ -1,7 +1,7 @@
 ---
-id: 2748
+
 title: Dica para a decoração da mesa da sala de jantar no Natal
-date: 2009-12-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/10/decoracao-da-mesa-de-natal/
@@ -59,5 +59,5 @@ Eu fico empolgadíssima quando vejo uma ideia que mostro para inspiração sendo
 Ficou belíssimo, Fernanda! Obrigada por mostrar um pouco do seu Natal, principalmente porque o Bicha Fêmea esteve um pouco nele.
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

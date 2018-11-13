@@ -1,7 +1,7 @@
 ---
-id: 3675
+
 title: 'Mentira na infância: como lidar com essa situação?'
-date: 2016-09-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/28/mentira-na-infancia/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Quando cai a ficha que nos tornaremos mães, começamos também a idealizar como serão nossas crias no futuro e, claro, a gente pinta o quadro da perfeição. Dentre tantas coisas, <strong>mentira na infância</strong> de nossos pequenos é algo que a gente pensa que não vai existir, mas vai. Mentir, no desenvolvimento infantil, é normal e faz parte da infância, é o que assegura <strong>Jenifer Longo, Psicóloga de São Paulo</strong> com foco em maternidade e desenvolvimento infantil. Então, mamãe, se sua criança ainda não mentiu, aguarde e confie: isso ainda deve acontecer. “<em>Na primeira infância, muitas vezes, a mentira tem uma relação com a fantasia e, conforme a criança vai se desenvolvendo, ela percebe que pode usar histórias fantasiosas para justificar alguns atos. Temos como exemplo: não guardei os brinquedos porque tinha uma bruxa dentro do quarto</em>”, explica nossa consultora.
+  Quando cai a ficha que nos tornaremos mães, começamos também a idealizar como serão nossas crias no futuro e, claro, a gente pinta o quadro da perfeição. Dentre tantas coisas, **mentira na infância** de nossos pequenos é algo que a gente pensa que não vai existir, mas vai. Mentir, no desenvolvimento infantil, é normal e faz parte da infância, é o que assegura **Jenifer Longo, Psicóloga de São Paulo** com foco em maternidade e desenvolvimento infantil. Então, mamãe, se sua criança ainda não mentiu, aguarde e confie: isso ainda deve acontecer. “<em>Na primeira infância, muitas vezes, a mentira tem uma relação com a fantasia e, conforme a criança vai se desenvolvendo, ela percebe que pode usar histórias fantasiosas para justificar alguns atos. Temos como exemplo: não guardei os brinquedos porque tinha uma bruxa dentro do quarto</em>”, explica nossa consultora.
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  Crianças contam umas mentirinhas bem comuns, mas é importante, de acordo com a orientação da Psicóloga, “<em>entender aquilo que está por trás da mentira contada. Fazer perguntas abertas para a criança e fugir das perguntas que se restringem a respostas curtas é uma boa alternativa para investigar e desenvolver um diálogo com seu filho</em>”. Saiba <strong>como lidar com esses mentiras mais comuns</strong> das crianças:
+  Crianças contam umas mentirinhas bem comuns, mas é importante, de acordo com a orientação da Psicóloga, “<em>entender aquilo que está por trás da mentira contada. Fazer perguntas abertas para a criança e fugir das perguntas que se restringem a respostas curtas é uma boa alternativa para investigar e desenvolver um diálogo com seu filho</em>”. Saiba **como lidar com esses mentiras mais comuns** das crianças:
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="justify">
-  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites <a href="http://www.psicologiasdobrasil.com.br/author/jenifer-longo/" target="_blank">Psicologias do Brasil</a> e <a href="http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/" target="_blank">Espaço Psicologia e Família</a>. Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de <strong>fanpage no Facebook</strong>. <a href="https://www.facebook.com/espacopsicologiaefamilia/" target="_blank">Clique aqui, curta e acompanhe</a>. Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone <strong><em>11 98824-7963</em></strong>.
+  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites <a href="http://www.psicologiasdobrasil.com.br/author/jenifer-longo/" target="_blank">Psicologias do Brasil</a> e <a href="http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/" target="_blank">Espaço Psicologia e Família</a>. Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de **fanpage no Facebook**. <a href="https://www.facebook.com/espacopsicologiaefamilia/" target="_blank">Clique aqui, curta e acompanhe</a>. Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone **<em>11 98824-7963</em>**.
 </p>
 
 <p align="center">

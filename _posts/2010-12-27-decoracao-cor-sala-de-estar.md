@@ -1,7 +1,7 @@
 ---
-id: 2926
+
 title: 'Decoração: cor da sala de estar. Qual escolher?'
-date: 2010-12-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/27/decoracao-cor-sala-de-estar/
@@ -32,19 +32,19 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>A propósito:</strong>
+  **A propósito:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para suas dúvidas.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para suas dúvidas.</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a></strong>
+  **<a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a>**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para sua sala de estar: quer ainda mais ideias de cores?</a></strong>
+  **<a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para sua sala de estar: quer ainda mais ideias de cores?</a>**
 </p>
 
 <p align="center">
@@ -56,15 +56,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>E por falar em decoração neutra:</strong>
+  **E por falar em decoração neutra:**
 </p>
 
 <p style="text-align: justify;">
-  <strong><a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/" target="_blank">Decoração básica com graça e charme: aprenda os truques!</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/" target="_blank">Decoração básica com graça e charme: aprenda os truques!</a>**
 </p>
 
 <p align="center">
-  <strong><em>Sugestão de objetos que poderiam estar numa sala de cores neutras…</em></strong>
+  **<em>Sugestão de objetos que poderiam estar numa sala de cores neutras…</em>**
 </p>
 
 <p align="center">

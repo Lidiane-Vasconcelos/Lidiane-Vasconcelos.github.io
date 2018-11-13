@@ -1,7 +1,7 @@
 ---
-id: 3695
+
 title: Brigadeiro de pistache pra adoçar a vida com bossa!
-date: 2016-10-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/25/brigadeiro-de-pistache/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  O docinho obrigatório das nossas festas pode ganhar algumas variações. Por que não? Eu amo experimentar coisas diferentes, e nessas aventuras gastronômicas a gente acaba descobrindo cada delícia, não é? A proposta de Tânia, pela qual vivi de amores, é um <strong>brigadeiro de pistache</strong> muitíssimo charmoso! A moça bonita nos dá a receita neste post, que tem poucos ingredientes, muita praticidade e um resultado lindo de viver. Quer ver só? Se joga!
+  O docinho obrigatório das nossas festas pode ganhar algumas variações. Por que não? Eu amo experimentar coisas diferentes, e nessas aventuras gastronômicas a gente acaba descobrindo cada delícia, não é? A proposta de Tânia, pela qual vivi de amores, é um **brigadeiro de pistache** muitíssimo charmoso! A moça bonita nos dá a receita neste post, que tem poucos ingredientes, muita praticidade e um resultado lindo de viver. Quer ver só? Se joga!
 </p>
 
 <p align="center">
@@ -54,16 +54,16 @@ _6 – Os brigadeiros se mantêm bem na geladeira por até 4 dias_.”
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank"><strong>Alho assado com alecrim, pra tornar tudo especial.</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank">**Alho assado com alecrim, pra tornar tudo especial.**</a>
 
-<a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank"><strong>Sorvete caseiro de melancia para dias de sol.</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank">**Sorvete caseiro de melancia para dias de sol.**</a>
 
-<a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank"><strong>Como fazer barra de cereal caseira?</strong></a>
+<a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank">**Como fazer barra de cereal caseira?**</a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <strong><em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em></strong>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se **<em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em>**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">

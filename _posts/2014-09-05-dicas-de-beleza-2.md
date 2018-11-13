@@ -1,7 +1,7 @@
 ---
-id: 3339
+
 title: 4 segredos de beleza para aprender já!
-date: 2014-09-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/05/dicas-de-beleza-2/
@@ -14,11 +14,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Heidi Lanzelloti, maquiadora e instrutora de automaquiagem</strong>, é a nossa consultora querida que nos dá dicas incríveis pra gente ficar toda bonitona, sem que isso seja uma tarefa cheia de pormenores pouco práticos. Foi ela quem respondeu minhas perguntas, e é o que te mostro já… vem!
+  **Heidi Lanzelloti, maquiadora e instrutora de automaquiagem**, é a nossa consultora querida que nos dá dicas incríveis pra gente ficar toda bonitona, sem que isso seja uma tarefa cheia de pormenores pouco práticos. Foi ela quem respondeu minhas perguntas, e é o que te mostro já… vem!
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">1 &#8211; Qual a estratégia certeira pra dar um up na hora, e sem demora, ao rosto?</span></strong>
+  **<span style="font-size: large;">1 &#8211; Qual a estratégia certeira pra dar um up na hora, e sem demora, ao rosto?</span>**
 </p>
 
 > <p align="justify">
@@ -26,15 +26,15 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>Quer ficar por dentro dos BB Creams?</strong>
+  **Quer ficar por dentro dos BB Creams?**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank"><strong>BB cream ´pra cá, BB cream ´pra lá…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank">**BB cream ´pra cá, BB cream ´pra lá…**</a>
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">2 &#8211; Os dias quentes estão vindo (oba!): quais cores vamos ver com frequência nas bocas por aí?</span></strong>
+  **<span style="font-size: large;">2 &#8211; Os dias quentes estão vindo (oba!): quais cores vamos ver com frequência nas bocas por aí?</span>**
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">3 &#8211; Qual sua dica infalível para o batom durar mais na boca?</span></strong>
+  **<span style="font-size: large;">3 &#8211; Qual sua dica infalível para o batom durar mais na boca?</span>**
 </p>
 
 <p align="center">
@@ -62,15 +62,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Falando nisso:</strong>
+  **Falando nisso:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank"><strong>Você sabe tudo que precisa sobre batom?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank">**Você sabe tudo que precisa sobre batom?**</a>
 </p>
 
 <p align="justify">
-  <strong><span style="font-size: large;">4 &#8211; Lábios ressecados resultam num efeito craquelado no batom: como contornar esse problema?</span></strong>
+  **<span style="font-size: large;">4 &#8211; Lábios ressecados resultam num efeito craquelado no batom: como contornar esse problema?</span>**
 </p>
 
 > <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  A <strong>Heidi</strong> é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via <a href="https://www.facebook.com/heidi.lanzellotti" target="_blank">perfil do Facebook</a><strong>.</strong> Vai lá!
+  A **Heidi** é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via <a href="https://www.facebook.com/heidi.lanzellotti" target="_blank">perfil do Facebook</a>**.** Vai lá!
 </p>
 
 <p align="center">

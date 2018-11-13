@@ -1,7 +1,7 @@
 ---
-id: 2610
+
 title: Ideia para reutilização de quadro na decoração da casa.
-date: 2009-01-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/28/reutilizando-decoracao/

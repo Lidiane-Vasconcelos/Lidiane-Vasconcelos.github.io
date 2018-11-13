@@ -1,7 +1,7 @@
 ---
-id: 3622
+
 title: O que tem na Prateleira do Trololó de Mulher de Junho?
-date: 2016-06-06T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/06/trololo-de-mulher-4/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Esse é um post que tenho tido bastante prazer em preparar no <strong>Trololó de Mulher</strong>, porque quero sempre mostrar para você as novidades dos parceiros comerciais do blog. Tem tanta coisa bonita, útil e funcional! Até aula de decoração bela, econômica e eficiente teremos por aqui. Além do mais, tem delicadezas para o bebê que vai nascer e lindezas artesanais. Confira… e viva no amor!
+  Esse é um post que tenho tido bastante prazer em preparar no **Trololó de Mulher**, porque quero sempre mostrar para você as novidades dos parceiros comerciais do blog. Tem tanta coisa bonita, útil e funcional! Até aula de decoração bela, econômica e eficiente teremos por aqui. Além do mais, tem delicadezas para o bebê que vai nascer e lindezas artesanais. Confira… e viva no amor!
 </p>
 
 &nbsp;

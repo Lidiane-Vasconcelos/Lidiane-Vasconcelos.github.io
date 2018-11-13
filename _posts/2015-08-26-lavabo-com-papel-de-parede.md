@@ -1,7 +1,7 @@
 ---
-id: 3475
+
 title: 'Lavabo com papel de parede: imagens, dicas e ideias.'
-date: 2015-08-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/26/lavabo-com-papel-de-parede/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/" target="_blank"><strong>Lavabo e banheiro charmosos com dicas de leitoras.</strong></a>
+  <a href="http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/" target="_blank">**Lavabo e banheiro charmosos com dicas de leitoras.**</a>
 </p>
 
 <p align="center">
@@ -102,11 +102,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/" target="_blank"><strong>Boa ideia: arte na decoração do lavabo.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/" target="_blank">**Boa ideia: arte na decoração do lavabo.**</a>
 </p>
 
 <p align="center">

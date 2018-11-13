@@ -1,7 +1,7 @@
 ---
-id: 3501
+
 title: 'Serviço doméstico na Finlândia: quem cuida disso?'
-date: 2015-10-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/16/servico-domestico-na-finlandia/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Se você trabalha fora e pensou que é a empregada doméstica, esqueça isso. Se você conta com diaristas e acha que as finlandesas têm um ritmo de vida parecido, também errou. Se é você, apenas você, quem tem essa responsabilidade em casa e o marido passa longe dessas atividades, adianto que lá é bem diferente, <em>viu</em>? Ou seja, <strong>serviço doméstico na Finlândia</strong> é encarado de uma forma bem diferente como acontece na realidade da classe média brasileira, porque pagar por essa mão de obra é para poucos. Colocar a mão na massa, e nos produtos de limpeza, é o que há de mais comum por lá, e sem <em>mimimi</em>. Vamos entender essa realidade? A Adriana Minhoto desvenda isso pra gente este mês. Confira!
+  Se você trabalha fora e pensou que é a empregada doméstica, esqueça isso. Se você conta com diaristas e acha que as finlandesas têm um ritmo de vida parecido, também errou. Se é você, apenas você, quem tem essa responsabilidade em casa e o marido passa longe dessas atividades, adianto que lá é bem diferente, <em>viu</em>? Ou seja, **serviço doméstico na Finlândia** é encarado de uma forma bem diferente como acontece na realidade da classe média brasileira, porque pagar por essa mão de obra é para poucos. Colocar a mão na massa, e nos produtos de limpeza, é o que há de mais comum por lá, e sem <em>mimimi</em>. Vamos entender essa realidade? A Adriana Minhoto desvenda isso pra gente este mês. Confira!
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em><strong>5 curiosidades sobre as casa finlandesas:</strong></em>
+  <em>**5 curiosidades sobre as casa finlandesas:**</em>
 </p>
 
 <p align="justify">

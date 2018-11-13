@@ -1,7 +1,7 @@
 ---
-id: 2640
+
 title: O que é ser escrava da beleza?
-date: 2009-04-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/03/ditadura-da-beleza/
@@ -28,21 +28,21 @@ Penso que beleza só seja alcançada através de um apanhado de atitudes que  e
 **Quer ler mais sobre reflexões acerca do universo feminino?**
 
 <div>
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">Você é confiante?<br /> </a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">Você é confiante?<br /> </a></em>**
 </div>
 
 <div>
-  <strong><em><strong><em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/"><span style="color: #b85b5a;">Mulherzinha? Eu?</span></a></em></strong></em></strong>
+  **<em>**<em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/"><span style="color: #b85b5a;">Mulherzinha? Eu?</span></a></em>**</em>**
 </div>
 
 **_ _** 
 
 <div>
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">Há competitividade entre as mulheres?</a> </em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">Há competitividade entre as mulheres?</a> </em>**
 </div>
 
 **_<a href="http://www.trololodemulher.com.br/2010/01/27/convidada-luciana-casado/" target="_self">A idade certa para ter filhos&#8230;</a> </p> 
 
 <a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/" target="_self">Por que será que queremos ser sempre heroínas?</a> 
 
-</em></strong>
+</em>**

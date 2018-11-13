@@ -1,7 +1,7 @@
 ---
-id: 3109
+
 title: 'Viagem: qual o seu refúgio para fugir do agito da cidade?'
-date: 2012-01-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/27/viagem-destinos-brasil/
@@ -26,7 +26,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <em><strong>“Olá! Pouco viajo mas um lugar que gosto de ir, mesmo no meio da agitação da cidade , é o Pão de Açúcar, no Rio de Janeiro… e ficar lá o dia inteiro admirando a paisagem … (sim, porque até você chegar lá em cima enfrenta uma fila quilométrica para pegar o bondinho, mas depois é festa para os olhos…” Lin Sousa</strong></em>
+>   <em>**“Olá! Pouco viajo mas um lugar que gosto de ir, mesmo no meio da agitação da cidade , é o Pão de Açúcar, no Rio de Janeiro… e ficar lá o dia inteiro admirando a paisagem … (sim, porque até você chegar lá em cima enfrenta uma fila quilométrica para pegar o bondinho, mas depois é festa para os olhos…” Lin Sousa**</em>
 > </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <em><strong>“Oi, Lidi! Nós aqui em casa quando temos esse objetivo viajamos para o interior da Bahia ou curtimos a fazenda. Ambos os locais são tranquilos, a fazenda é bem pitoresca. Meu interior é Itapetinga, lá tem uma lagoa que sempre visitamos e jogamos comida para os peixes. Os meninos adoram. Quando vamos para o interior de meu esposo, Riachão do Jacuípe, curtimos a fazenda e os animais. Achamos que esse contato com coisas simples nos dá paz e tranquilidade. Aqui na capital, por mais que nós procuremos fazer algo simples, o estresse do trânsito é um grande problema. Procuramos nos divertir, mas nunca alcançamos a paz e o sossego que precisamos para descansar. No interior isso é possível. Essa é uma foto minha em Itapetinga com meu filho menor.” Candida Nolasco</strong></em>
+>   <em>**“Oi, Lidi! Nós aqui em casa quando temos esse objetivo viajamos para o interior da Bahia ou curtimos a fazenda. Ambos os locais são tranquilos, a fazenda é bem pitoresca. Meu interior é Itapetinga, lá tem uma lagoa que sempre visitamos e jogamos comida para os peixes. Os meninos adoram. Quando vamos para o interior de meu esposo, Riachão do Jacuípe, curtimos a fazenda e os animais. Achamos que esse contato com coisas simples nos dá paz e tranquilidade. Aqui na capital, por mais que nós procuremos fazer algo simples, o estresse do trânsito é um grande problema. Procuramos nos divertir, mas nunca alcançamos a paz e o sossego que precisamos para descansar. No interior isso é possível. Essa é uma foto minha em Itapetinga com meu filho menor.” Candida Nolasco**</em>
 > </p>
 
 &nbsp;
@@ -50,13 +50,13 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <strong>“<em>Oi, Lidiane! Acabei de voltar da Ilha do Mel, Paraná. Lugar lindo e com acesso limitado de pessoas. São 500 moradores e 4500 pessoas permitidas na ilha!! Se você for em baixa temporada tem menos gente ainda!!! Vale a pena mesmo!!!”</em> Geisa</strong>
+>   **“<em>Oi, Lidiane! Acabei de voltar da Ilha do Mel, Paraná. Lugar lindo e com acesso limitado de pessoas. São 500 moradores e 4500 pessoas permitidas na ilha!! Se você for em baixa temporada tem menos gente ainda!!! Vale a pena mesmo!!!”</em> Geisa**
 > </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Sinceramente, vendo as fotos não te deu vontade de largar tudo e planejar as suas férias em uma <strong><a href="http://www.expedia.com.br/hoteis" target="_blank">pousada</a></strong> ou um hotel-fazenda com sua família longe de toda a agitação da cidade grande? Todos nós precisamos de um lugar para descansar e ficar em em paz de vez em quando. Certas experiências funcionam como um bálsamo para o nosso corpo e mente, tudo em prol do bem viver… há como não se inspirar?
+  Sinceramente, vendo as fotos não te deu vontade de largar tudo e planejar as suas férias em uma **<a href="http://www.expedia.com.br/hoteis" target="_blank">pousada</a>** ou um hotel-fazenda com sua família longe de toda a agitação da cidade grande? Todos nós precisamos de um lugar para descansar e ficar em em paz de vez em quando. Certas experiências funcionam como um bálsamo para o nosso corpo e mente, tudo em prol do bem viver… há como não se inspirar?
 </p>
 
 &nbsp;

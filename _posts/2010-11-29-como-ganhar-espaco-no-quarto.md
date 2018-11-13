@@ -1,7 +1,7 @@
 ---
-id: 2917
+
 title: Como ganhar (e não perder) espaço em quartos pequenos?
-date: 2010-11-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/29/como-ganhar-espaco-no-quarto/
@@ -19,11 +19,11 @@ categories:
 <!--more-->
 
 <p style="text-align: center;">
-  <span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espaco.jpg"><img class="alignnone size-full wp-image-5536" title="espaço" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espaco.jpg" alt="" width="286" height="430" /></a></span><strong><em></em></strong>
+  <span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espaco.jpg"><img class="alignnone size-full wp-image-5536" title="espaço" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/espaco.jpg" alt="" width="286" height="430" /></a></span>**<em></em>**
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Como guardar roupas fora de uso?</span></em></strong>
+  **<em><span style="font-size: medium;">Como guardar roupas fora de uso?</span></em>**
 </p>
 
 <p style="text-align: justify;">
@@ -65,11 +65,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Esses sacos são ideais para guardar roupas de estação, cobertores ou o que é menos utilizado. Só não vale guardar o que é inútil ou desnecessário valendo-se do poder de ampliação dos espaços que o saco dá, <em>hein</em>? Antes de mais nada é preciso fazer o exercício de desapego. Sempre! Para isso, aproveite as <strong><em><a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/">dicas para redução de bagunça</a></em></strong> que já foram dadas no Bicha Fêmea.
+  Esses sacos são ideais para guardar roupas de estação, cobertores ou o que é menos utilizado. Só não vale guardar o que é inútil ou desnecessário valendo-se do poder de ampliação dos espaços que o saco dá, <em>hein</em>? Antes de mais nada é preciso fazer o exercício de desapego. Sempre! Para isso, aproveite as **<em><a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/">dicas para redução de bagunça</a></em>** que já foram dadas no Bicha Fêmea.
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Dá para usar cama king size num quarto pequeno?</span></em></strong>
+  **<em><span style="font-size: medium;">Dá para usar cama king size num quarto pequeno?</span></em>**
 </p>
 
 <p style="text-align: justify;">
@@ -85,7 +85,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A verdade é que fui buscar mais informações nas palavras de quem entende, de quem é especialista no assunto. A Leticia Lodi, que já se tornou consultora do <strong><em>Bicha Fêmea</em></strong> para assuntos ligados a <em>design</em> de interiores, que tem um blog super bem frequentado e cheios de informação a respeito, o <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, explica da meneira mais didática impossível: através de imagem. Confira:
+  A verdade é que fui buscar mais informações nas palavras de quem entende, de quem é especialista no assunto. A Leticia Lodi, que já se tornou consultora do **<em>Bicha Fêmea</em>** para assuntos ligados a <em>design</em> de interiores, que tem um blog super bem frequentado e cheios de informação a respeito, o <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, explica da meneira mais didática impossível: através de imagem. Confira:
 </p>
 
 <p style="text-align: center;">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em>As bichas fêmeas falam&#8230;</em></strong>
+  **<em>As bichas fêmeas falam&#8230;</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -127,37 +127,37 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <strong>Mais no Bicha Fêmea…</strong>
+  **Mais no Bicha Fêmea…**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/11/05/quartos-pequeno-decoracao/">Quartos: soluções de decoração para pouco espaço.</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/11/05/quartos-pequeno-decoracao/">Quartos: soluções de decoração para pouco espaço.</a></em>**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/10/20/quarto-ideias-femininas/">Decoração do quarto: ideias elegantes, femininas e baratas!</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/10/20/quarto-ideias-femininas/">Decoração do quarto: ideias elegantes, femininas e baratas!</a></em>**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/">Pitacos de bicha fêmea: decoração do quarto de casal.</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/">Pitacos de bicha fêmea: decoração do quarto de casal.</a></em>**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2009/10/01/dicas-decoracao-quarto/">Dicas e detalhes na decoração do quarto.</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2009/10/01/dicas-decoracao-quarto/">Dicas e detalhes na decoração do quarto.</a></em>**
 </p>
 
 <p style="text-align: left;">
-  <strong><em><a href="http://www.trololodemulher.com.br/2009/08/11/decoracao-quartos-ideia/">Pitacos de bicha fêmea: decoração de quartos.</a></em></strong>
+  **<em><a href="http://www.trololodemulher.com.br/2009/08/11/decoracao-quartos-ideia/">Pitacos de bicha fêmea: decoração de quartos.</a></em>**
 </p>
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a>> Como ganhar (e não perder) espaço em quartos pequenos?
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>> Como ganhar (e não perder) espaço em quartos pequenos?
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 3829
+
 title: Sobre mudança de vida, alternativas e propósito.
-date: 2017-11-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/17/mudanca-de-vida/
@@ -11,7 +11,7 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Para muitas pessoas falar em <strong>mudança de vida</strong> pode causar medo, frio na barriga ou desconforto, afinal de contas redirecionar a rota quando está tudo indo aparentemente muito bem exige coragem, e é para poucos. <strong>Rivah, Bacharel em Turismo</strong>, é gente que inspira exatamente pela audácia de tirar a própria vida da caixinha, e viver um sonho que tem sido muito mais que viajar por vários países e conhecer tantas culturas. Como se só isso não bastasse, de bônus a moça está se conhecendo muito mais, e ganhando boas lições sobre simplicidade voluntária e bem viver. Confira!
+  Para muitas pessoas falar em **mudança de vida** pode causar medo, frio na barriga ou desconforto, afinal de contas redirecionar a rota quando está tudo indo aparentemente muito bem exige coragem, e é para poucos. **Rivah, Bacharel em Turismo**, é gente que inspira exatamente pela audácia de tirar a própria vida da caixinha, e viver um sonho que tem sido muito mais que viajar por vários países e conhecer tantas culturas. Como se só isso não bastasse, de bônus a moça está se conhecendo muito mais, e ganhando boas lições sobre simplicidade voluntária e bem viver. Confira!
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>MUDAR É PRECISO!</strong>
+  **MUDAR É PRECISO!**
 </p>
 
 <p align="justify">
@@ -117,7 +117,7 @@ categories:
 </p>
 
 <p align="justify">
-  Rivah nos dará o prazer de contar, em posts mensais, suas descobertas, experiências e reflexões, tudo deliciosamente pincelado por fotos incríveis, daquelas imagens inspiradoras, que dão um gostinho todo particular que só experimenta quem viaja. Para acompanhar mais o que essa moça anda fazendo por aí junto ao seu amado, <a href="https://www.facebook.com/deandadanomundo/" target="_blank">clique aqui e curta a fanpage De Andada no Mundo</a> no Facebook, <a href="https://www.instagram.com/deandada_nomundo/" target="_blank">clique aqui e siga o perfil De Andada no Mundo</a> no Instagram, <a href="https://www.instagram.com/rivahsilva/" target="_blank">clique aqui e acompanhe o perfil pessoal de Rivah</a> no Instagram. <strong>Quer falar com Rivah por e-mail?</strong> anota aí: <a href="mailto:deandadanomundo@gmail.com" target="_blank">deandadanomundo@gmail.com</a>
+  Rivah nos dará o prazer de contar, em posts mensais, suas descobertas, experiências e reflexões, tudo deliciosamente pincelado por fotos incríveis, daquelas imagens inspiradoras, que dão um gostinho todo particular que só experimenta quem viaja. Para acompanhar mais o que essa moça anda fazendo por aí junto ao seu amado, <a href="https://www.facebook.com/deandadanomundo/" target="_blank">clique aqui e curta a fanpage De Andada no Mundo</a> no Facebook, <a href="https://www.instagram.com/deandada_nomundo/" target="_blank">clique aqui e siga o perfil De Andada no Mundo</a> no Instagram, <a href="https://www.instagram.com/rivahsilva/" target="_blank">clique aqui e acompanhe o perfil pessoal de Rivah</a> no Instagram. **Quer falar com Rivah por e-mail?** anota aí: <a href="mailto:deandadanomundo@gmail.com" target="_blank">deandadanomundo@gmail.com</a>
 </p>
 
 <p align="center">

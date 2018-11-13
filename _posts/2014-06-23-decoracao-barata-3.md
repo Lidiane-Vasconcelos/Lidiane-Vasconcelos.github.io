@@ -1,7 +1,7 @@
 ---
-id: 3311
+
 title: Truques de decoração baratos, mas ricos em charme.
-date: 2014-06-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/23/decoracao-barata-3/
@@ -20,7 +20,7 @@ Porque, vamos combinar? Para que a nossa casa ganhe graça na decoração não �
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;">Na sua mesa do computador…</span></strong>
+  **<span style="font-size: small;">Na sua mesa do computador…</span>**
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ Porque, vamos combinar? Para que a nossa casa ganhe graça na decoração não �
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Na sua sala de estar…</span></strong>
+  **<span style="font-size: small;">Na sua sala de estar…</span>**
 </p>
 
 &nbsp;
@@ -76,7 +76,7 @@ Porque, vamos combinar? Para que a nossa casa ganhe graça na decoração não �
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Na sua varanda…</span></strong>
+  **<span style="font-size: small;">Na sua varanda…</span>**
 </p>
 
 &nbsp;
@@ -106,7 +106,7 @@ Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens<
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

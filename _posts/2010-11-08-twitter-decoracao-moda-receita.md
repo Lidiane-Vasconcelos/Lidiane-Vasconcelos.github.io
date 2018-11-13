@@ -1,7 +1,7 @@
 ---
-id: 2906
+
 title: 'Twitter de retalhos @bichafemea: de tudo um pouco e muito mais!'
-date: 2010-11-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/08/twitter-decoracao-moda-receita/
@@ -14,7 +14,7 @@ Você já usa o _Twitter_ a ponto de se ver como uma _twitteira_? Eu já… me r
 <!--more-->
 
 <p style="text-align: justify;">
-  Tudo o que costumo postar no <em>Twitter</em>, além das atualizações em primeira mão do que sai no <strong><em>Bicha Fêmea</em></strong>, tem sido fruto das visitas que faço aos blogs de tantas bichas fêmeas blogueiras. Quero trazer tudo isso para o Bicha Fêmea. Será uma oportunidade de ampliar ainda mais o leque de possibilidades para você que acompanha este blog . Sendo assim, está aberto mais um novo espaço por aqui: <strong><em>Twitter de Retalhos @bichafemea!!!</em></strong>
+  Tudo o que costumo postar no <em>Twitter</em>, além das atualizações em primeira mão do que sai no **<em>Bicha Fêmea</em>**, tem sido fruto das visitas que faço aos blogs de tantas bichas fêmeas blogueiras. Quero trazer tudo isso para o Bicha Fêmea. Será uma oportunidade de ampliar ainda mais o leque de possibilidades para você que acompanha este blog . Sendo assim, está aberto mais um novo espaço por aqui: **<em>Twitter de Retalhos @bichafemea!!!</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -83,27 +83,27 @@ Você já usa o _Twitter_ a ponto de se ver como uma _twitteira_? Eu já… me r
 
 <p style="text-align: center;">
   <p style="text-align: justify;">
-    Claro que não consegui mostrar tudo o que vi na última semana… nem poderia! Por isso, se você gostou e quiser acompanhar o que tenho divulgado no <em>Twitter</em>, <strong><em><a href="http://twitter.com/#!/bichafemea" target="_blank">me segue aí</a></em></strong>…
+    Claro que não consegui mostrar tudo o que vi na última semana… nem poderia! Por isso, se você gostou e quiser acompanhar o que tenho divulgado no <em>Twitter</em>, **<em><a href="http://twitter.com/#!/bichafemea" target="_blank">me segue aí</a></em>**…
   </p>
   
   <p style="text-align: justify;">
-    <strong>Mais no Bicha Fêmea&#8230;</strong>
+    **Mais no Bicha Fêmea&#8230;**
   </p>
   
   <p style="text-align: justify;">
-    <strong><em><a href="http://www.trololodemulher.com.br/2010/06/23/vantagens-twitter/" target="_self">Você ainda não se rendeu ao Twitter?</a></em></strong>
+    **<em><a href="http://www.trololodemulher.com.br/2010/06/23/vantagens-twitter/" target="_self">Você ainda não se rendeu ao Twitter?</a></em>**
   </p>
   
   <p style="text-align: justify;">
-    <strong><em><a href="http://www.trololodemulher.com.br/2010/02/12/destaques-da-semana-no-meu-twitter-me-segue-a/" target="_self">Destaques da semana no meu Twitter&#8230; Me segue aí&#8230;</a></em></strong>
+    **<em><a href="http://www.trololodemulher.com.br/2010/02/12/destaques-da-semana-no-meu-twitter-me-segue-a/" target="_self">Destaques da semana no meu Twitter&#8230; Me segue aí&#8230;</a></em>**
   </p>
   
   <p style="text-align: center;">
-    Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+    Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
   </p>
   
   <p style="text-align: center;">
-    <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+    **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
   </p>
   
   <p style="text-align: justify;">

@@ -1,7 +1,7 @@
 ---
-id: 2943
+
 title: Ideias econômicas para a decoração do quarto. Inspire-se!
-date: 2011-02-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/14/ideias-decoracao-quarto/
@@ -20,7 +20,7 @@ categories:
 &nbsp;
 
 <p style="text-align: center;">
-  <span style="font-size: medium;"><strong><em>Crie um foco de atenção e encantamento com usados!</em></strong></span>
+  <span style="font-size: medium;">**<em>Crie um foco de atenção e encantamento com usados!</em>**</span>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A cor que você vai usar na muldura pode ser determinada pela que você usa na parede. Que tal? Se você tem dúvidas sobre qual cor escolher para o seu quarto, confira as <strong><em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_blank">dicas sobre cores na parede</a></em></strong> já publicadas anteriormente e defina a sua. Em seguida, escolha alguns tons acima para a moldura do seu espelho, e <em>voilá</em>!
+  A cor que você vai usar na muldura pode ser determinada pela que você usa na parede. Que tal? Se você tem dúvidas sobre qual cor escolher para o seu quarto, confira as **<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_blank">dicas sobre cores na parede</a></em>** já publicadas anteriormente e defina a sua. Em seguida, escolha alguns tons acima para a moldura do seu espelho, e <em>voilá</em>!
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O <strong><em><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/" target="_blank">uso da sobra de papel de parede na decoração</a></em></strong> já foi tratado anteriormente no Trololó de Mulher.. Confira o conteúdo do post que trata desse assunto, e não deixe de espiar o desenrolar dos comentários que surgiram, a exemplo do que disse a <strong>Yvone</strong>, do blog <a href="http://www.casaspossiveis.blogspot.com/" target="_blank">Casas Possíveis</a>:
+  O **<em><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/" target="_blank">uso da sobra de papel de parede na decoração</a></em>** já foi tratado anteriormente no Trololó de Mulher.. Confira o conteúdo do post que trata desse assunto, e não deixe de espiar o desenrolar dos comentários que surgiram, a exemplo do que disse a **Yvone**, do blog <a href="http://www.casaspossiveis.blogspot.com/" target="_blank">Casas Possíveis</a>:
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    <strong>“<em>Lidi, já aproveitei sobras de papel de parede para forrar móveis, portas de armários, vasos, caixinhas de madeira e até para encapar agendas. Eles geralmente já vem com uma cola, são bonitos e duram muito. Abraço</em>”</strong>
+    **“<em>Lidi, já aproveitei sobras de papel de parede para forrar móveis, portas de armários, vasos, caixinhas de madeira e até para encapar agendas. Eles geralmente já vem com uma cola, são bonitos e duram muito. Abraço</em>”**
   </p>
 </blockquote>
 
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se não for com sobras de papel de parede, a reforma do seu móvel usado pode ser feita através de uma belíssima pintura cheia de estilo. A artista <strong>Veronica Kraemer</strong>, que já teve seu trabalho apresentado no <strong><em><a href="http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/" target="_blank">Trololó de Mulher</a></em></strong>, é um exemplo de profissional que pode te ajudar quanto a isso. Fica a dica!
+  Se não for com sobras de papel de parede, a reforma do seu móvel usado pode ser feita através de uma belíssima pintura cheia de estilo. A artista **Veronica Kraemer**, que já teve seu trabalho apresentado no **<em><a href="http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/" target="_blank">Trololó de Mulher</a></em>**, é um exemplo de profissional que pode te ajudar quanto a isso. Fica a dica!
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Reaproveite o que já tem com criatividade!</span></em></strong>
+  **<em><span style="font-size: medium;">Reaproveite o que já tem com criatividade!</span></em>**
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong><em><span style="font-size: medium;">Compre baratinho, transforme, e ganhe exclusividade!</span></em></strong>
+  **<em><span style="font-size: medium;">Compre baratinho, transforme, e ganhe exclusividade!</span></em>**
 </p>
 
 <p align="center">

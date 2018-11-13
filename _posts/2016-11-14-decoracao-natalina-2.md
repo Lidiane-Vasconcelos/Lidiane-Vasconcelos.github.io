@@ -1,7 +1,7 @@
 ---
-id: 3702
+
 title: 'Decoração natalina: inspiração das casas reais.'
-date: 2016-11-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/14/decoracao-natalina-2/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Dar uma voltinha virtual pela blogosfera mundo afora é algo que gosto bastante de fazer, porque a gente vê ideias diferentes e bacanas, daquelas que são bem simples de executar, e inspiram  pela beleza. Separei algumas imagens de <strong>decoração natalina</strong> que são pontos de partida para você espiar a casa alheia (e inteira!). Das várias fotos de cada casa, defini minha intervenção decorativa preferida, mas você pode ir direto na fonte conferir se há algo mais que te encanta e, claro, reproduzir a ideia. Vamos nos deliciar juntas? Vem!
+  Dar uma voltinha virtual pela blogosfera mundo afora é algo que gosto bastante de fazer, porque a gente vê ideias diferentes e bacanas, daquelas que são bem simples de executar, e inspiram  pela beleza. Separei algumas imagens de **decoração natalina** que são pontos de partida para você espiar a casa alheia (e inteira!). Das várias fotos de cada casa, defini minha intervenção decorativa preferida, mas você pode ir direto na fonte conferir se há algo mais que te encanta e, claro, reproduzir a ideia. Vamos nos deliciar juntas? Vem!
 </p>
 
 <p align="center">
@@ -39,19 +39,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/03/decoracao-natal-mesa/" target="_blank"><strong>Decoração de Natal: 4 centros de mesa simples, mas lindos!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/03/decoracao-natal-mesa/" target="_blank">**Decoração de Natal: 4 centros de mesa simples, mas lindos!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank"><strong>Decoração de Natal: 5 centros de mesa “faça você mesma”.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank">**Decoração de Natal: 5 centros de mesa “faça você mesma”.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank"><strong>Arranjo de mesa de Natal: faça você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">**Arranjo de mesa de Natal: faça você mesma.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/" target="_blank"><strong>Enfeites de Natal: você já sabe como decorar a mesa?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/" target="_blank">**Enfeites de Natal: você já sabe como decorar a mesa?**</a>
 </p>
 
 <p align="justify">

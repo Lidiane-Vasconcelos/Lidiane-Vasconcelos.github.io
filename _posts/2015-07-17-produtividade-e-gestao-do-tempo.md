@@ -1,7 +1,7 @@
 ---
-id: 3447
+
 title: 'Produtividade e gestão do tempo: chega de correria!'
-date: 2015-07-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/17/produtividade-e-gestao-do-tempo/
@@ -13,7 +13,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Essa é uma resolução pessoal: olhar para a <strong>produtividade e gestão do tempo</strong> na minha rotina pessoal e, assim, deixar de viver na “correria”. Na natureza tudo acontece num modo muito mais lento, e está tudo pronto! Por que temos que ter nosso tempo usado ao extremo de modo que fique tão escasso? Na minha vida, quero que seja diferente. A questão é: será possível a gente desacelerar e, ainda assim, fazer tudo o que temos que fazer? A verdade é que parece uma loucura querer conciliar tudo o que precisa ser feito, nas mesmas 24h que todos nós dispomos e, ainda assim, levar uma vida num ritmo mais lento, não é? Especialmente por que, sabemos bem: no mundo moderno, se não estamos “ocupados”, somos improdutivos ou preguiçosos.
+  Essa é uma resolução pessoal: olhar para a **produtividade e gestão do tempo** na minha rotina pessoal e, assim, deixar de viver na “correria”. Na natureza tudo acontece num modo muito mais lento, e está tudo pronto! Por que temos que ter nosso tempo usado ao extremo de modo que fique tão escasso? Na minha vida, quero que seja diferente. A questão é: será possível a gente desacelerar e, ainda assim, fazer tudo o que temos que fazer? A verdade é que parece uma loucura querer conciliar tudo o que precisa ser feito, nas mesmas 24h que todos nós dispomos e, ainda assim, levar uma vida num ritmo mais lento, não é? Especialmente por que, sabemos bem: no mundo moderno, se não estamos “ocupados”, somos improdutivos ou preguiçosos.
 </p>
 
 <p align="justify">
@@ -41,43 +41,43 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <strong>Fazer menos</strong>: eliminei de minha lista de tarefas coisas que, encaradas com sinceridade, não precisavam ser feitas. Passei a focar em qualidade, não em quantidade. Hoje em dia tenho apenas (eu disse apenas!) 3 tarefas importantes no meu dia a dia de trabalho. Também tenho outras de menos importância, dessas que se não fizer hoje, tudo bem ficar pra outro dia, ou outra hora. Ou seja: o que faz o meu trabalho render frutos se resume a três atividades. Eu trabalho nelas primeiro, e o dia rende muito mais. Sobra tempo para fazer todo o resto, sem correria. Bingo!
+  1 – **Fazer menos**: eliminei de minha lista de tarefas coisas que, encaradas com sinceridade, não precisavam ser feitas. Passei a focar em qualidade, não em quantidade. Hoje em dia tenho apenas (eu disse apenas!) 3 tarefas importantes no meu dia a dia de trabalho. Também tenho outras de menos importância, dessas que se não fizer hoje, tudo bem ficar pra outro dia, ou outra hora. Ou seja: o que faz o meu trabalho render frutos se resume a três atividades. Eu trabalho nelas primeiro, e o dia rende muito mais. Sobra tempo para fazer todo o resto, sem correria. Bingo!
 </p>
 
 <p align="justify">
-  2 – <strong>Desconectar</strong>: determinei pra mim mesma um limite para estar online. Antes eu tinha a ideia (que hoje considero errada para minha verdade de vida) de que, por trabalhar online e em casa, deveria ficar conectada o tempo todo, até bem perto de dormir. De vez em quando dava uma espiada para ver se havia chegado algum e-mail “importante”, ou algo assim. Aquilo não era uma vida, mas uma prisão! Hoje, no final da tarde fico off line e só ligo o computador no dia seguinte. Celular para a internet eu não uso, nunca usei e, agora mais do que nunca, não quero usar. E, olha: nem morri!
+  2 – **Desconectar**: determinei pra mim mesma um limite para estar online. Antes eu tinha a ideia (que hoje considero errada para minha verdade de vida) de que, por trabalhar online e em casa, deveria ficar conectada o tempo todo, até bem perto de dormir. De vez em quando dava uma espiada para ver se havia chegado algum e-mail “importante”, ou algo assim. Aquilo não era uma vida, mas uma prisão! Hoje, no final da tarde fico off line e só ligo o computador no dia seguinte. Celular para a internet eu não uso, nunca usei e, agora mais do que nunca, não quero usar. E, olha: nem morri!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank"><strong>Redes sociais e produtividade no dia a dia: qual o impacto?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">**Redes sociais e produtividade no dia a dia: qual o impacto?**</a>
 </p>
 
 <p align="justify">
-  3 – <strong>Planejar compromissos com tempo sobrando</strong>: se tenho que estar pronta em determinada hora pra sair de casa, eu me dou o tempo necessário (e com sobra!) para me arrumar, arrumar o menino, bolsa de Artur, etc. Fazer as coisas correndo é tudo o que procuro evitar!
+  3 – **Planejar compromissos com tempo sobrando**: se tenho que estar pronta em determinada hora pra sair de casa, eu me dou o tempo necessário (e com sobra!) para me arrumar, arrumar o menino, bolsa de Artur, etc. Fazer as coisas correndo é tudo o que procuro evitar!
 </p>
 
 <p align="justify">
-  4 – <strong>Aprender a ficar bem se não der conta de tudo</strong>: amanhã é um novo dia, e poderá ser mais tranquilo que hoje. Isso é o que sempre penso quando as coisas saem do controle, porque isso simplesmente pode acontecer, ué!? Nada de sofrer por isso. É frustrante ter planejado executar algo e não ter conseguido? É. Mas ter qualidade de vida é o que mais prezo. Então se não deu hoje, encerro minhas atividades no horário que devo fazê-lo, porque tenho vida real, casa, filho, marido, etc. , e não vou colocar o trabalho acima disso tudo. Não mesmo! Amanhã é um novo dia e posso recomeçar… sem sofrimento. E sabe de uma coisa? O mundo não acaba porque deixei sim, para amanhã, o que não consegui fazer hoje. Simples assim.
+  4 – **Aprender a ficar bem se não der conta de tudo**: amanhã é um novo dia, e poderá ser mais tranquilo que hoje. Isso é o que sempre penso quando as coisas saem do controle, porque isso simplesmente pode acontecer, ué!? Nada de sofrer por isso. É frustrante ter planejado executar algo e não ter conseguido? É. Mas ter qualidade de vida é o que mais prezo. Então se não deu hoje, encerro minhas atividades no horário que devo fazê-lo, porque tenho vida real, casa, filho, marido, etc. , e não vou colocar o trabalho acima disso tudo. Não mesmo! Amanhã é um novo dia e posso recomeçar… sem sofrimento. E sabe de uma coisa? O mundo não acaba porque deixei sim, para amanhã, o que não consegui fazer hoje. Simples assim.
 </p>
 
 <p align="justify">
-  5 – <strong>Eliminar o desnecessário</strong>: quando eu deteminei o que era essencial na minha jornada diária e optei por fazer isso primeiro, com foco e calma, algumas outras coisas passaram a ficar acumuladas. Elas não estavam sendo feitas e, ao invés de criar um acúmulo de coisas por fazer, olhei com sinceridade para aquilo tudo e pensei: isso é mesmo necessário? Como isso vai refletir no resultado final do que me proponho a fazer se eu simplesmente eliminá-las de minha lista de atividades? O resultado é que tirei um monte de coisinhas que, somadas, tomavam muito de meu tempo. E, sim… deixar de executar essas tarefas não fez diferença significativa no meu trabalho. Testar é o pulo do gato, e eu fui fundo nisso.
+  5 – **Eliminar o desnecessário**: quando eu deteminei o que era essencial na minha jornada diária e optei por fazer isso primeiro, com foco e calma, algumas outras coisas passaram a ficar acumuladas. Elas não estavam sendo feitas e, ao invés de criar um acúmulo de coisas por fazer, olhei com sinceridade para aquilo tudo e pensei: isso é mesmo necessário? Como isso vai refletir no resultado final do que me proponho a fazer se eu simplesmente eliminá-las de minha lista de atividades? O resultado é que tirei um monte de coisinhas que, somadas, tomavam muito de meu tempo. E, sim… deixar de executar essas tarefas não fez diferença significativa no meu trabalho. Testar é o pulo do gato, e eu fui fundo nisso.
 </p>
 
 <p align="justify">
-  6 – <strong>Me colocar no presente</strong>: esse tem sido um desafio diário pra mim, mas sigo persistindo nesse exercício porque sinto que é fundamental para viver uma vida mais leve, intensa e lenta. Trazer meus pensamentos para o presente, aqui e agora. Nada de ressentimentos pelo que passou, nada de sofrer pelo vir a ser. Simplesmente parar, respirar e trazer os pensamentos para perto, não deixar que eles fiquem divagando. Concentrar no que acontece ao meu redor, escutar os sons do ambiente, cada um deles, e respirar… com consciência. Isso desacelera a gente, e acalma.
+  6 – **Me colocar no presente**: esse tem sido um desafio diário pra mim, mas sigo persistindo nesse exercício porque sinto que é fundamental para viver uma vida mais leve, intensa e lenta. Trazer meus pensamentos para o presente, aqui e agora. Nada de ressentimentos pelo que passou, nada de sofrer pelo vir a ser. Simplesmente parar, respirar e trazer os pensamentos para perto, não deixar que eles fiquem divagando. Concentrar no que acontece ao meu redor, escutar os sons do ambiente, cada um deles, e respirar… com consciência. Isso desacelera a gente, e acalma.
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank"><strong>Vida simples: menos é mais e a gente vive melhor…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">**Vida simples: menos é mais e a gente vive melhor…**</a>
 </p>
 
 <p align="justify">

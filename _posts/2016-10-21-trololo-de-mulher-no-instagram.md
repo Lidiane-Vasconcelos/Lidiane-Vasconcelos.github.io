@@ -1,7 +1,7 @@
 ---
-id: 3691
+
 title: Você já segue o Trololó de Mulher no Instagram?
-date: 2016-10-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/21/trololo-de-mulher-no-instagram/
@@ -10,7 +10,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  <strong>Trololó de Mulher no Instagram</strong> é sinônimo de decoração, beleza, maternidade, comportamento e tantas outras feminices que amamos na rede social que dizem, anda sendo uma das mais queridinhas. Você ama espiar e suspirar com inspirações no Instagram?
+  **Trololó de Mulher no Instagram** é sinônimo de decoração, beleza, maternidade, comportamento e tantas outras feminices que amamos na rede social que dizem, anda sendo uma das mais queridinhas. Você ama espiar e suspirar com inspirações no Instagram?
 </p>
 
 &nbsp;
@@ -22,11 +22,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Oxe! Vem, bonita! <strong>Segue o Trololó de Mulher no Instagram</strong> que eu estou <em>a-man-do</em> postar por lá também, viu? <a href="https://www.instagram.com/trololodemulher/" target="_blank"><strong>Clica aqui, se joga que a gente se encontra por lá</strong></a>!
+  Oxe! Vem, bonita! **Segue o Trololó de Mulher no Instagram** que eu estou <em>a-man-do</em> postar por lá também, viu? <a href="https://www.instagram.com/trololodemulher/" target="_blank">**Clica aqui, se joga que a gente se encontra por lá**</a>!
 </p>
 
 <p align="justify">
-  E só para não esquecer, no <strong>Facebook você encontra o Trololó de Mulher também</strong>. <a href="https://www.facebook.com/TrololoMulher/" target="_blank"><strong>Clica aqui, curta e acompanhe</strong></a>!!!!
+  E só para não esquecer, no **Facebook você encontra o Trololó de Mulher também**. <a href="https://www.facebook.com/TrololoMulher/" target="_blank">**Clica aqui, curta e acompanhe**</a>!!!!
 </p>
 
 &nbsp;

@@ -1,7 +1,7 @@
 ---
-id: 3498
+
 title: Expert aponta erros frequentes em reforma e decoração.
-date: 2015-10-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/14/reforma-e-decoracao/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  A querida <strong>Maristela Leonel, Designer de Interiores, de Florianópolis e região</strong>, é desses profissionais que podemos contratar justamente para minimizar esses imprevistos, porque são eles que dão suporte na hora do planejamento e escolhas, além das compras. Pensando em fazer com que o momento da reforma ou decoração seja minimamente doce e não acabe com nossa sanidade mental, perguntei: <strong>quais são os ERROS mais recorrentes quando se realiza a reforma ou decoração de uma casa?</strong> A boa notícia é ela respondeu pra gente. Oh: confira!
+  A querida **Maristela Leonel, Designer de Interiores, de Florianópolis e região**, é desses profissionais que podemos contratar justamente para minimizar esses imprevistos, porque são eles que dão suporte na hora do planejamento e escolhas, além das compras. Pensando em fazer com que o momento da reforma ou decoração seja minimamente doce e não acabe com nossa sanidade mental, perguntei: **quais são os ERROS mais recorrentes quando se realiza a reforma ou decoração de uma casa?** A boa notícia é ela respondeu pra gente. Oh: confira!
 </p>
 
 <p align="center">
@@ -82,19 +82,19 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais consultorias da Maristela:</strong>
+  **Mais consultorias da Maristela:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-de-parede-no-quarto/" target="_blank"><strong>Papel de parede no quarto: como decorar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/papel-de-parede-no-quarto/" target="_blank">**Papel de parede no quarto: como decorar?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank"><strong>Como usar cores vibrantes na sala de estar?</strong></a>
+  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank">**Como usar cores vibrantes na sala de estar?**</a>
 </p>
 
 <p align="justify">
-  <strong>Maristela </strong>atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 ---
-id: 3334
+
 title: Hoje é aquele dia em que você está pra baixo?
-date: 2014-08-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/22/dia-triste-dicas/
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">A minha dica é:</span></strong>
+  **<span style="font-size: large;">A minha dica é:</span>**
 </p>
 
 &nbsp;
@@ -37,59 +37,59 @@ categories:
 > </p>
 
 <p align="justify">
-  <strong>Dica extra:</strong>
+  **Dica extra:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank"><strong>Aromatizador de ambientes: como fazer?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank">**Aromatizador de ambientes: como fazer?**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">A dica da Katia Bonfadini é:</span></strong>
+  **<span style="font-size: large;">A dica da Katia Bonfadini é:</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Tem dias em que a gente está meio pra baixo e nem sabe o motivo, né? Quando me sinto assim, gosto de relaxar assistindo a um bom filme. Antigamente eu adorava ir ao cinema, mas há algum tempo sinto mais prazer vendo filmes em casa, que é o espaço onde fico mais aconchegada e totalmente à vontade. Vou pra sala, deixo só a luz do abajur acesa, coloco um DVD, me sirvo de uma taça de vinho e estou pronta para esquecer dos problemas e passar duas horas acompanhando uma história interessante. O ideal para esses dias é escolher uma comédia ou um romance bem água com açúcar. <strong>Katia Bonfadini | <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a></strong>
+>   Tem dias em que a gente está meio pra baixo e nem sabe o motivo, né? Quando me sinto assim, gosto de relaxar assistindo a um bom filme. Antigamente eu adorava ir ao cinema, mas há algum tempo sinto mais prazer vendo filmes em casa, que é o espaço onde fico mais aconchegada e totalmente à vontade. Vou pra sala, deixo só a luz do abajur acesa, coloco um DVD, me sirvo de uma taça de vinho e estou pronta para esquecer dos problemas e passar duas horas acompanhando uma história interessante. O ideal para esses dias é escolher uma comédia ou um romance bem água com açúcar. **Katia Bonfadini | <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a>**
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Olha a estratégia da Dani Moreno:</span></strong>
+  **<span style="font-size: large;">Olha a estratégia da Dani Moreno:</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Vou dizer uma que uso comigo mesma&#8230; sorrir sempre!!! Eu acredito muito na força do sorriso. Acho que ele muda nosso astral, atrai energia positiva, contagia quem está em volta e passa aos outros uma boa sensação. Sorrio sempre, por mim e por quem está em volta. Afinal, quem está por perto também tem influência sobre minha vida, certo?! Se elas estão felizes, estou feliz também e vice-versa! <strong>Dani Moreno | </strong><a href="http://danimoreno.com.br/" target="_blank"><strong>Moça de Família</strong></a>
+>   Vou dizer uma que uso comigo mesma&#8230; sorrir sempre!!! Eu acredito muito na força do sorriso. Acho que ele muda nosso astral, atrai energia positiva, contagia quem está em volta e passa aos outros uma boa sensação. Sorrio sempre, por mim e por quem está em volta. Afinal, quem está por perto também tem influência sobre minha vida, certo?! Se elas estão felizes, estou feliz também e vice-versa! **Dani Moreno | **<a href="http://danimoreno.com.br/" target="_blank">**Moça de Família**</a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Sabe o que a Dani Garlet faz?</span></strong>
+  **<span style="font-size: large;">Sabe o que a Dani Garlet faz?</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Bastou eu sentir que estou ficando desanimada que trato logoooo de me maquiar, fazer penteado e usar batom coloridao! Isso me superanima e na rua é visível como os outros notam e elogiam. É fato, podem testar, mas tenha força de vontade e corra pro espelho. E lembre-se: batom vermelho tem poder!!! <strong><a href="http://www.danigarlet.com.br/" target="_blank">Dani Garlet</a></strong>
+>   Bastou eu sentir que estou ficando desanimada que trato logoooo de me maquiar, fazer penteado e usar batom coloridao! Isso me superanima e na rua é visível como os outros notam e elogiam. É fato, podem testar, mas tenha força de vontade e corra pro espelho. E lembre-se: batom vermelho tem poder!!! **<a href="http://www.danigarlet.com.br/" target="_blank">Dani Garlet</a>**
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">A Margaret resolve esse problema fazendo assim:</span></strong>
+  **<span style="font-size: large;">A Margaret resolve esse problema fazendo assim:</span>**
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Sempre que pensar alguma coisa ruim faça uma substituição do seu pensamento. Pense em coisas legais, lugares que você gostaria de conhecer, pessoas que você gostaria de abraçar. Não permita que pensamentos ruins comandem sua cabeça. E pense sorrindo, pense em qualquer coisa que te deixe feliz. No inicio parece dificil, mas depois fica quase que automático e assim nosso dia a dia começa a ser bem melhor. <strong>Margaret | <a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>
+>   Sempre que pensar alguma coisa ruim faça uma substituição do seu pensamento. Pense em coisas legais, lugares que você gostaria de conhecer, pessoas que você gostaria de abraçar. Não permita que pensamentos ruins comandem sua cabeça. E pense sorrindo, pense em qualquer coisa que te deixe feliz. No inicio parece dificil, mas depois fica quase que automático e assim nosso dia a dia começa a ser bem melhor. **Margaret | <a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**
 > </p>
 
 <p align="center">
@@ -103,11 +103,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Para te animar ainda mais:</strong>
+  **Para te animar ainda mais:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/15/sonhos/" target="_blank"><strong>O ano já já acaba… e seus sonhos, aonde foram parar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/08/15/sonhos/" target="_blank">**O ano já já acaba… e seus sonhos, aonde foram parar?**</a>
 </p>
 
 <p align="justify">

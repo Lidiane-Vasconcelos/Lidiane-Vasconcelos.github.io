@@ -1,7 +1,7 @@
 ---
-id: 2864
+
 title: 'Câncer de mama: o importante é nunca desistir.'
-date: 2010-08-23T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/23/cancer-de-mama/
@@ -54,19 +54,19 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      <strong><em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/ana-paula-tardido/" target="_self">Ana Paula Tardido</a></em></strong>
+      **<em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/ana-paula-tardido/" target="_self">Ana Paula Tardido</a></em>**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      <strong><em>Nutricionista</em></strong>
+      **<em>Nutricionista</em>**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      <strong><em>CRN3 15579</em></strong>
+      **<em>CRN3 15579</em>**
     </td>
   </tr>
 </table>
@@ -80,9 +80,9 @@ Quer fazer como Ana Paula, e publicar seu texto por aqui? Seja uma **_[bicha fê
 **_<a href="http://www.trololodemulher.com.br/2010/01/11/viva-melhor-grupo-de-apoio-e-auto-ajuda-s-mulheres-mastectomizadas/" target="_self">Viva Melhor &#8211; Grupo de Apoio e auto ajuda ás mulheres mastectomizadas</a>_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/" target="_self"><strong><em>Bem</em></strong><strong><em> Viver</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/" target="_self"><strong><em>Vida com Estilo</em></strong></a>> Câncer de mama: o importante é nunca desistir.
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/" target="_self">**<em>Bem</em>****<em> Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/" target="_self">**<em>Vida com Estilo</em>**</a>> Câncer de mama: o importante é nunca desistir.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

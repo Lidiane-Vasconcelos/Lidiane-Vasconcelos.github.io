@@ -1,7 +1,7 @@
 ---
-id: 3623
+
 title: 'Apartamento funcional: escolhas certas, inúmeras inspirações.'
-date: 2016-06-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/09/apartamento-funcional/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Esse é um dos apartamentos daqueles que a gente bate os olhos e tudo parece perfeitamente pensado, nos mínimos detalhes dos móveis, cores escolhidas, acessórios eleitos. Tudo em harmonia, perfeito exatamente onde está. Em outras palavras: <strong>bonito, prático e funcional</strong>. Eu viveria nesse apartamento feliz da vida, oh… de tão lindo de viver que achei.
+  Esse é um dos apartamentos daqueles que a gente bate os olhos e tudo parece perfeitamente pensado, nos mínimos detalhes dos móveis, cores escolhidas, acessórios eleitos. Tudo em harmonia, perfeito exatamente onde está. Em outras palavras: **bonito, prático e funcional**. Eu viveria nesse apartamento feliz da vida, oh… de tão lindo de viver que achei.
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Delicie-se mais…</span></strong>
+  **<span style="font-size: large;">Delicie-se mais…</span>**
 </p>
 
 &nbsp;

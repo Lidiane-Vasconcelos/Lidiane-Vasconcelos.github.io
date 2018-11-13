@@ -1,7 +1,7 @@
 ---
-id: 2841
+
 title: 'Resultado do sorteio Bicha Fêmea &#038; CATAVENTO ARTES'
-date: 2010-06-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/28/resultado-sorteio/

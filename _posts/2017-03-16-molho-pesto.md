@@ -1,7 +1,7 @@
 ---
-id: 3741
+
 title: 'Molho pesto de limão siciliano: mil e uma finalidades.'
-date: 2017-03-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/16/molho-pesto/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Sobre o<strong> molho pesto</strong> você já deve ter ouvido falar, e até apreciado, não é? O que talvez você não soubesse, ou pelo menos eu não sabia, é que dá para prepará-lo de várias formas, a depender dos ingredientes escolhidos para isso. Tânia compartilha hoje no <strong>Trololó de Mulher</strong> uma receita simples, e dá dicas incríveis de como saborear essa delícia, oh: confira!
+  Sobre o** molho pesto** você já deve ter ouvido falar, e até apreciado, não é? O que talvez você não soubesse, ou pelo menos eu não sabia, é que dá para prepará-lo de várias formas, a depender dos ingredientes escolhidos para isso. Tânia compartilha hoje no **Trololó de Mulher** uma receita simples, e dá dicas incríveis de como saborear essa delícia, oh: confira!
 </p>
 
 <p align="center">
@@ -63,16 +63,16 @@ _Dicas – Se você não encontrar facilmente o pinoli substitua o mesmo  por c
 
 **Mais receitas de Tania:**
 
-<a href="http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/" target="_blank"><strong>Sopa de lentilhas: comida boa e prosperidade o ano todo!</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/" target="_blank">**Sopa de lentilhas: comida boa e prosperidade o ano todo!**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank"><strong>Receita de pão caseiro de abobrinha: das mais fáceis!</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank">**Receita de pão caseiro de abobrinha: das mais fáceis!**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank"><strong>Abóbora assada com cebolas: bonito, saudável e gostoso.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank">**Abóbora assada com cebolas: bonito, saudável e gostoso.**</a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">

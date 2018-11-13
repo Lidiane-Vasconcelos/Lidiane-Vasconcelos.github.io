@@ -1,7 +1,7 @@
 ---
-id: 3529
+
 title: 'Detalhes em Foco: uma loja com cheirinho de bebê'
-date: 2016-01-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/19/detalhes-em-foco/
@@ -14,7 +14,7 @@ categories:
   - Quarto Bebê
 ---
 <p align="justify">
-  Aviso para as mamães de plantão, sobretudo para aquelas que estão com bebê ainda na barriga ou, as futuras mamães que estão planejando a cria: a loja <strong>Detalhes em Foco</strong> é daquelas que a gente passeia vendo os produtos, e vai sentindo um <em>siricotico</em> materno daqueles! É muita lindeza, gente!
+  Aviso para as mamães de plantão, sobretudo para aquelas que estão com bebê ainda na barriga ou, as futuras mamães que estão planejando a cria: a loja **Detalhes em Foco** é daquelas que a gente passeia vendo os produtos, e vai sentindo um <em>siricotico</em> materno daqueles! É muita lindeza, gente!
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="justify">
-  Eu avisei que era tudo lindo de viver, <em>né</em>? Sabe a boa notícia? Joyce, a arteira criativa que está por trás da <strong>Detalhes em Foco,</strong> é a gentileza em pessoa, e está super disponível para conversar com você e personalizar seu pedido, do jeitinho que você sonhou, viu? Pensou em algo que não viu na loja? Sua ideia “fora da caixa” pode se tornar realidade pelas mãos de fada da Joyce. Fale com ela, e tudo se resolve!
+  Eu avisei que era tudo lindo de viver, <em>né</em>? Sabe a boa notícia? Joyce, a arteira criativa que está por trás da **Detalhes em Foco,** é a gentileza em pessoa, e está super disponível para conversar com você e personalizar seu pedido, do jeitinho que você sonhou, viu? Pensou em algo que não viu na loja? Sua ideia “fora da caixa” pode se tornar realidade pelas mãos de fada da Joyce. Fale com ela, e tudo se resolve!
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  Algumas dessas novidades, bonita, já saíram do forno. Confira aqui, em <a href="http://www.elo7.com.br/enxoval-de-bebe/al/9F9EC" target="_blank">enxoval de bebê</a>, o que a <strong>Detalhes em Foco</strong> já tem para oferecer.
+  Algumas dessas novidades, bonita, já saíram do forno. Confira aqui, em <a href="http://www.elo7.com.br/enxoval-de-bebe/al/9F9EC" target="_blank">enxoval de bebê</a>, o que a **Detalhes em Foco** já tem para oferecer.
 </p>
 
 <p align="justify">

@@ -1,7 +1,7 @@
 ---
-id: 3793
+
 title: Para um home office cheio de bossa, inspire-se na Lia!
-date: 2017-09-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/05/home-office/
@@ -10,7 +10,7 @@ categories:
   - Escritório
 ---
 <p align="justify">
-  Porque, oh: eu já me sinto inspirada por ela faz um tempinho. Sabe de quem estou falando? Deixa eu te contar: é da <strong>Lia Griffith</strong>, do blog <strong>Handcraft Your Life</strong>. A moça edita um blog lindo de viver e re-ple-to de ideias do tipo “faça você mesma”. Ela é criatividade pura, minha gente! Lógico que o espaço de trabalho dessa moça bonita não poderia ser outra coisa diferente do que é: um ambiente pincelado por pequenos detalhes bonitos e inspiradores.
+  Porque, oh: eu já me sinto inspirada por ela faz um tempinho. Sabe de quem estou falando? Deixa eu te contar: é da **Lia Griffith**, do blog **Handcraft Your Life**. A moça edita um blog lindo de viver e re-ple-to de ideias do tipo “faça você mesma”. Ela é criatividade pura, minha gente! Lógico que o espaço de trabalho dessa moça bonita não poderia ser outra coisa diferente do que é: um ambiente pincelado por pequenos detalhes bonitos e inspiradores.
 </p>
 
 <p align="center">
@@ -34,15 +34,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>A propósito, veja mais ideias de reutilização de caixotes:</strong>
+  **A propósito, veja mais ideias de reutilização de caixotes:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/" target="_blank"><strong>Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/" target="_blank">**Decoração “faça você mesma” bem barata? É com a Keilla Colombo!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
+  <a href="http://www.bichafemea.com/2013/05/08/moveis-quarto/" target="_blank">**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**</a>
 </p>
 
 <p align="center">
@@ -54,11 +54,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de ler:</strong>
+  **Não deixe de ler:**
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/10/27/organizacao-escritorio/" target="_blank"><strong>Organização do escritório ou home office: dicas.</strong></a>
+  <a href="http://www.bichafemea.com/2009/10/27/organizacao-escritorio/" target="_blank">**Organização do escritório ou home office: dicas.**</a>
 </p>
 
 <p align="center">
@@ -94,11 +94,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ah, você viu?</strong>
+  **Ah, você viu?**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/17/washi-tapes/" target="_blank"><strong>Washi tapes: 3 ideias de decoração “faça você mesma”.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/08/17/washi-tapes/" target="_blank">**Washi tapes: 3 ideias de decoração “faça você mesma”.**</a>
 </p>
 
 <p align="justify">

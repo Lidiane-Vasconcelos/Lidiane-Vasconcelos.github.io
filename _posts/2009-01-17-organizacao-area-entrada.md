@@ -1,7 +1,7 @@
 ---
-id: 2603
+
 title: Ideia para organização de objetos na área de entrada (hall) da casa.
-date: 2009-01-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/17/organizacao-area-entrada/

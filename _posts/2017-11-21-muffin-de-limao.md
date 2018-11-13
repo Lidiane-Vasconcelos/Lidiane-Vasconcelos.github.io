@@ -1,7 +1,7 @@
 ---
-id: 3833
+
 title: Muffin de limão com sementes de papoula ou chia.
-date: 2017-11-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/21/muffin-de-limao/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  <strong>Muffin de limão</strong> é daquelas comidinhas que não podem faltar nos picnics de Tânia, feitos lá em Londres, onde a moça mora. Estamos na nossa estação ensolarada e agora somos nós quem vamos aprender e aproveitar essas delicinhas em dias festivos ao ar livre… não é uma excelente ideia? Então se joga na receita, e viva a vida!
+  **Muffin de limão** é daquelas comidinhas que não podem faltar nos picnics de Tânia, feitos lá em Londres, onde a moça mora. Estamos na nossa estação ensolarada e agora somos nós quem vamos aprender e aproveitar essas delicinhas em dias festivos ao ar livre… não é uma excelente ideia? Então se joga na receita, e viva a vida!
 </p>
 
 <p align="center">
@@ -67,11 +67,11 @@ _6 – Por último adicione uma pitada de sal e asse no forno pré-aquecido por 
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/11/14/bolo-de-cenoura/" target="_blank"><strong>Bolo de cenoura e abacaxi, inspirado nos natais em família.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/11/14/bolo-de-cenoura/" target="_blank">**Bolo de cenoura e abacaxi, inspirado nos natais em família.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/10/24/sorvete-de-banana/" target="_blank"><strong>Sorvete de banana: receita vapt-vupt.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/10/24/sorvete-de-banana/" target="_blank">**Sorvete de banana: receita vapt-vupt.**</a>
 
-<a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank"><strong>Bolo de lavanda com perfume e bossa vintage.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank">**Bolo de lavanda com perfume e bossa vintage.**</a>
 
 <p align="justify">
   O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!

@@ -1,7 +1,7 @@
 ---
-id: 3821
+
 title: 2 ideias de ornamentos natalinos para sua criança fazer.
-date: 2017-10-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/31/ornamentos-natalinos/
@@ -11,15 +11,15 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Decorar a casa para o Natal é uma festa para a criançada, não é? Depois que me tornei mãe e vejo o quanto Artur curte esse momento, nunca mais tive dúvidas disso. Ele aprecia demais! Pensando nisso, vivi de amores com a ideia deste post: <strong>por que não deixar que eles participem ativamente da confecção dos ornamentos natalinos?</strong>
+  Decorar a casa para o Natal é uma festa para a criançada, não é? Depois que me tornei mãe e vejo o quanto Artur curte esse momento, nunca mais tive dúvidas disso. Ele aprecia demais! Pensando nisso, vivi de amores com a ideia deste post: **por que não deixar que eles participem ativamente da confecção dos ornamentos natalinos?**
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/17/enfeites-natalinos-2/" target="_blank"><strong>3 cordões de enfeites natalinos: faça você mesma.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/17/enfeites-natalinos-2/" target="_blank">**3 cordões de enfeites natalinos: faça você mesma.**</a>
 </p>
 
 <p align="justify">
@@ -39,11 +39,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Não deixe de espiar:</strong>
+  **Não deixe de espiar:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/03/decoracao-natalina-3/" target="_blank"><strong>3 ideias de charme para sua decoração natalina.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/10/03/decoracao-natalina-3/" target="_blank">**3 ideias de charme para sua decoração natalina.**</a>
 </p>
 
 <p align="center">
@@ -59,11 +59,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>E mais:</strong>
+  **E mais:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/14/decoracao-natalina-2/" target="_blank"><strong>Decoração natalina: inspiração das casas reais.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/11/14/decoracao-natalina-2/" target="_blank">**Decoração natalina: inspiração das casas reais.**</a>
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
+  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank">**Clique aqui e confira**</a>!
 </p>
 
 <p align="center">

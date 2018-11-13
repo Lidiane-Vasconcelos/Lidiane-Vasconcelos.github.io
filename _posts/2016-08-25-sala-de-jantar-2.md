@@ -1,7 +1,7 @@
 ---
-id: 3650
+
 title: 'Sala de jantar: cadeiras vermelhas pra viver no amor!'
-date: 2016-08-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/25/sala-de-jantar-2/
@@ -12,7 +12,7 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Se você está lendo esse post, aposto que lá no fundo, no fundinho mesmo, você sempre cultivou o desejo de usar cadeiras vermelhas na sua mesa da <strong><a href="https://www.homify.pt/mesa-jantar" target="_blank">sala de jantar</a></strong>, mas… cadê a coragem? Pudera! A cor é linda de viver, mas tem presença marcante, e você tem receio de parecer demais, errar a mão, e <em>tals</em>. Não é isso?
+  Se você está lendo esse post, aposto que lá no fundo, no fundinho mesmo, você sempre cultivou o desejo de usar cadeiras vermelhas na sua mesa da **<a href="https://www.homify.pt/mesa-jantar" target="_blank">sala de jantar</a>**, mas… cadê a coragem? Pudera! A cor é linda de viver, mas tem presença marcante, e você tem receio de parecer demais, errar a mão, e <em>tals</em>. Não é isso?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -93,11 +93,11 @@ categories:
 
 **Mais sobre cores e ambiente de jantar:**
 
-<a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas.</strong></a>
+<a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas.**</a>
 
-<a href="http://www.bichafemea.com/2014/04/01/cadeiras-mesa-jantar/" target="_blank"><strong>Cadeiras diferentes na mesa de jantar: veja 3 ideias.</strong></a>
+<a href="http://www.bichafemea.com/2014/04/01/cadeiras-mesa-jantar/" target="_blank">**Cadeiras diferentes na mesa de jantar: veja 3 ideias.**</a>
 
-<a href="http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank"><strong>Quer misturar cadeiras diferentes na mesa da sala de jantar?</strong></a>
+<a href="http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank">**Quer misturar cadeiras diferentes na mesa da sala de jantar?**</a>
 
 Imagens: <a href="http://www.homedit.com/" target="_blank">homedit</a>
 

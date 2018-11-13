@@ -1,7 +1,7 @@
 ---
-id: 2705
+
 title: Como nasce uma blogueira?
-date: 2009-08-26T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/26/descobertas-blogueira/

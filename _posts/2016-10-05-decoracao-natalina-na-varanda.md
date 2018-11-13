@@ -1,7 +1,7 @@
 ---
-id: 3680
+
 title: 6 ideias de decoração natalina na varanda
-date: 2016-10-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/05/decoracao-natalina-na-varanda/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p style="text-align: justify;" align="justify">
-  Este é o meu primeiro post dedicado a <strong>decoração natalina na varanda</strong>, isso em anos que <em>blogo</em> sobre casa e decoração. Pensei: como assim ainda não mostrei nada sobre isso?! Talvez tenha sido um pouco de preconceito (será?!) de não sentir a varanda como um cômodo da casa… mas que besteira! Claro que é! É um cômodo como qualquer outro, e com a importância de nos conectar com o que há lá fora. É pela varanda (e também pelas janelas, claro!) que as luzes do sol e do céu entram em nosso lar, e isso é vital em casa, não é?
+  Este é o meu primeiro post dedicado a **decoração natalina na varanda**, isso em anos que <em>blogo</em> sobre casa e decoração. Pensei: como assim ainda não mostrei nada sobre isso?! Talvez tenha sido um pouco de preconceito (será?!) de não sentir a varanda como um cômodo da casa… mas que besteira! Claro que é! É um cômodo como qualquer outro, e com a importância de nos conectar com o que há lá fora. É pela varanda (e também pelas janelas, claro!) que as luzes do sol e do céu entram em nosso lar, e isso é vital em casa, não é?
 </p>
 
 <p align="center">

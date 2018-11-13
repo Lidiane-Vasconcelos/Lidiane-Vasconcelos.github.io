@@ -1,7 +1,7 @@
 ---
-id: 3240
+
 title: 'Tomar líquido durante a refeição faz a barriga crescer: verdade ou mentira?'
-date: 2013-07-15T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/15/saude-alimentacao/
@@ -14,7 +14,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 &nbsp;
 
 <p align="justify">
-  Essas e outras verdades (ou não) sobre alimentos serão esclarecidas pela <strong>nutricionista Ingrid Seiler Prior</strong>, que é a consultora do Bicha Fêmea quando o assunto é comer bem para viver melhor. Agora é a hora, <em>hein</em>? Eis a verdade dos fatos, por uma profissional:
+  Essas e outras verdades (ou não) sobre alimentos serão esclarecidas pela **nutricionista Ingrid Seiler Prior**, que é a consultora do Bicha Fêmea quando o assunto é comer bem para viver melhor. Agora é a hora, <em>hein</em>? Eis a verdade dos fatos, por uma profissional:
 </p>
 
 <!--more-->
@@ -24,7 +24,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Tomar líquido durante a refeição faz a barriga crescer?</span></strong>
+  **<span style="font-size: large;">Tomar líquido durante a refeição faz a barriga crescer?</span>**
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Refrigerante provoca celulite?</span></strong>
+  **<span style="font-size: large;">Refrigerante provoca celulite?</span>**
 </p>
 
 &nbsp;
@@ -58,17 +58,17 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Cenoura faz bem para a visão?</span></strong>
+  **<span style="font-size: large;">Cenoura faz bem para a visão?</span>**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  “<em>A cenoura é rica em betacaroteno, um precursor da vitamina A, ou seja, ele é convertido em vitamina A no organismo, que é um poderoso antioxidante, prevenindo o envelhecimento precoce, diminui o risco de doenças cardiovasculares, além de ser anticancerígeno. O betacaroteno contribui para a saúde dos olhos, pele e mucosas, e ainda previne a cegueira. A cenoura é o alimento que mais possui essa substância, mas ela também é encontrada em alimentos como a rúcula, abóbora, couve, acerola, brócolis,<strong> </strong>melão cantaloupe, alface lisa e manga.”</em>
+  “<em>A cenoura é rica em betacaroteno, um precursor da vitamina A, ou seja, ele é convertido em vitamina A no organismo, que é um poderoso antioxidante, prevenindo o envelhecimento precoce, diminui o risco de doenças cardiovasculares, além de ser anticancerígeno. O betacaroteno contribui para a saúde dos olhos, pele e mucosas, e ainda previne a cegueira. A cenoura é o alimento que mais possui essa substância, mas ela também é encontrada em alimentos como a rúcula, abóbora, couve, acerola, brócolis,** **melão cantaloupe, alface lisa e manga.”</em>
 </p>
 
 <p align="justify">
-  Imagens:<em> <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong></em>
+  Imagens:<em> **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**</em>
 </p>
 
 &nbsp;
@@ -78,11 +78,11 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 </p>
 
 <p align="justify">
-  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank"><strong>seu blog clicando bem aqui</strong></a>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong>pelo<strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em></strong>. Vai perder?
+  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank">**seu blog clicando bem aqui**</a>. Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid**pelo**Facebook**, através de sua **<em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em>**. Vai perder?
 </p>
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais sobre Saúde para você… </span></strong><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/"><strong><span style="font-size: x-large;">clique aqui</span></strong></a><strong><span style="font-size: x-large;">!</span></strong>
+  **<span style="font-size: x-large;">Muito mais sobre Saúde para você… </span>**<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">**<span style="font-size: x-large;">clique aqui</span>**</a>**<span style="font-size: x-large;">!</span>**
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -116,9 +116,9 @@ Essa dúvida, e mais tantas outras, permeiam a cabeça de muitos. O senso comum 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

@@ -1,7 +1,7 @@
 ---
-id: 2725
+
 title: Ei! Quer ser uma BICHA FÊMEA COLABORADORA?
-date: 2009-11-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/03/bicha-femea-colaboradora/

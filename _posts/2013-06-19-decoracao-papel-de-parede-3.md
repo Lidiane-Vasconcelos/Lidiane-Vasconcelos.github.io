@@ -1,7 +1,7 @@
 ---
-id: 3230
+
 title: Decoração com papel de parede, sem cobrir a parede?
-date: 2013-06-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/19/decoracao-papel-de-parede-3/
@@ -26,30 +26,30 @@ Sim! Imagine a situação: de repente você tem sobra e não dá para cobrir esp
 &nbsp;
 
 <p align="justify">
-  Esta é uma solução simples para enfeitar sua parede com aquele papel lindo de viver, sem a necessidade de cobrir tudo. Pode ser com sobras ou uma quantidade que você compre que seja pequena mesmo, pois seu objetivo será colocá-lo em <strong>molduras</strong>. Você pode montar <strong>paineis grandes</strong>, como na imagem, ou ainda <strong>quadrinhos menores</strong>, e montar sua composição. Fica a dica. Divirta-se!
+  Esta é uma solução simples para enfeitar sua parede com aquele papel lindo de viver, sem a necessidade de cobrir tudo. Pode ser com sobras ou uma quantidade que você compre que seja pequena mesmo, pois seu objetivo será colocá-lo em **molduras**. Você pode montar **paineis grandes**, como na imagem, ou ainda **quadrinhos menores**, e montar sua composição. Fica a dica. Divirta-se!
 </p>
 
 &nbsp;
 
-Imagem: <a href="http://www.homedit.com/" target="_blank"><strong><em>homedit</em></strong></a>
+Imagem: <a href="http://www.homedit.com/" target="_blank">**<em>homedit</em>**</a>
 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você!</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você!</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg"><img class="alignnone size-full wp-image-8674" alt="DECORACAO AMBIENTE PEQUENO PAPEL DE PAREDE[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank"><strong><span style="font-size: medium;">Decoração de pequenos espaços com papel de parede: inspirações e ideias</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg"><img class="alignnone size-full wp-image-8674" alt="DECORACAO AMBIENTE PEQUENO PAPEL DE PAREDE[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-AMBIENTE-PEQUENO-PAPEL-DE-PAREDE3200.jpg" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede-2/" target="_blank">**<span style="font-size: medium;">Decoração de pequenos espaços com papel de parede: inspirações e ideias</span>**</a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg"><img class="alignnone size-full wp-image-8673" alt="DECORACAO PAPEL DE PAREDE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/"><strong><span style="font-size: medium;">3 ideias criativas de uso do papel de parede… fora da parede!</span></strong></a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg"><img class="alignnone size-full wp-image-8673" alt="DECORACAO PAPEL DE PAREDE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/04/DECORACAO-PAPEL-DE-PAREDE200.jpg" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/04/11/decoracao-papel-de-parede-2/">**<span style="font-size: medium;">3 ideias criativas de uso do papel de parede… fora da parede!</span>**</a>
       </p>
     </td>
   </tr>
@@ -66,7 +66,7 @@ Imagem: <a href="http://www.homedit.com/" target="_blank"><strong><em>homedit</e
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -90,11 +90,11 @@ Imagem: <a href="http://www.homedit.com/" target="_blank"><strong><em>homedit</e
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>
 
 <p align="center">

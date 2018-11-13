@@ -1,7 +1,7 @@
 ---
-id: 2854
+
 title: Passar fome emagrece?
-date: 2010-08-02T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/02/passar-fome-nao-emagrece/
@@ -58,7 +58,7 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      <strong><em>Por Luciana Kotaka – Psicóloga Clínica</em></strong>
+      **<em>Por Luciana Kotaka – Psicóloga Clínica</em>**
     </td>
   </tr>
   
@@ -96,5 +96,5 @@ Quer ver seu texto publicado por aqui também? Seja uma **_[Bicha Fêmea Colabor
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

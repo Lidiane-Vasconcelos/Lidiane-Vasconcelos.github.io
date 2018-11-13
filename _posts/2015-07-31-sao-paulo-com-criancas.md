@@ -1,7 +1,7 @@
 ---
-id: 3458
+
 title: 'Novidade: agenda cultural–São Paulo com crianças!'
-date: 2015-07-31T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/31/sao-paulo-com-criancas/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Pois bem, para atender a essa necessidade bem específica de uma agenda cultural voltada a para a família, está nascendo hoje esse espaço, que será alimentado pela <strong>Adriana Minhoto</strong>, uma leitora há bastante tempo muito querida e assídua por aqui. Adriana é <strong>Jornalista</strong> e já escreve sobre a Finlândia pra gente, mostrando as curiosidades daquele país, pois é lá que ela mora atualmente. Agora a bonita também passará a ser uma colaboradora ainda mais atuante no blog, com posts recheados de dicas culturais para a família que está em São Paulo – capital. Por que Sampa? Esta é a cidade campeã de audiência por aqui. Isso não quer dizer que vamos ficar restritas somente a terra da garoa, ok? Com o tempo vamos avaliando se vocês curtiram a novidade, se gostaram do formato, se querem mais informações. Este espaço será construído junto com vocês, por isso, seus comentários serão sempre mais que desejados, mas muito importantes para sabermos se estamos no caminho certo.
+  Pois bem, para atender a essa necessidade bem específica de uma agenda cultural voltada a para a família, está nascendo hoje esse espaço, que será alimentado pela **Adriana Minhoto**, uma leitora há bastante tempo muito querida e assídua por aqui. Adriana é **Jornalista** e já escreve sobre a Finlândia pra gente, mostrando as curiosidades daquele país, pois é lá que ela mora atualmente. Agora a bonita também passará a ser uma colaboradora ainda mais atuante no blog, com posts recheados de dicas culturais para a família que está em São Paulo – capital. Por que Sampa? Esta é a cidade campeã de audiência por aqui. Isso não quer dizer que vamos ficar restritas somente a terra da garoa, ok? Com o tempo vamos avaliando se vocês curtiram a novidade, se gostaram do formato, se querem mais informações. Este espaço será construído junto com vocês, por isso, seus comentários serão sempre mais que desejados, mas muito importantes para sabermos se estamos no caminho certo.
 </p>
 
 <p align="justify">
@@ -33,11 +33,11 @@ categories:
   Via <a href="https://www.flickr.com/photos/hectorlo/10080524546/" target="_blank">hectorlo</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
 </p>
 
-> **_“1 &#8211; Até dia 16 de agosto, a Rede Cinemark está com a quarta temporada da série “O Maravilhoso Mundo da Disney”. Os finais de semana ficarão mais animados com filmes como “A Bela e a Fera 3D”, “Carros 2”, “Branca de Neve e os Sete Anões”, entre outros. Os ingressos custam até R$ 12,00 e geralmente as seções são exibidas às 11h. Mais informações:_** <a href="http://www.cinemark.com.br/" target="_blank"><strong><em>CineMark</em></strong></a>
+> **_“1 &#8211; Até dia 16 de agosto, a Rede Cinemark está com a quarta temporada da série “O Maravilhoso Mundo da Disney”. Os finais de semana ficarão mais animados com filmes como “A Bela e a Fera 3D”, “Carros 2”, “Branca de Neve e os Sete Anões”, entre outros. Os ingressos custam até R$ 12,00 e geralmente as seções são exibidas às 11h. Mais informações:_** <a href="http://www.cinemark.com.br/" target="_blank">**<em>CineMark</em>**</a>
 
 &nbsp;
 
-> **_2 &#8211; Com entrada gratuita, o Teatro Sergio Cardoso tem apresentações infantis todos os domingos do mês de Agosto, às 11h da manhã. Mais informações:_** <a href="http://teatrosergiocardoso.org.br/teatro-comvida/" target="_blank"><strong><em>Teatro Sérgio Cardoso</em></strong></a>
+> **_2 &#8211; Com entrada gratuita, o Teatro Sergio Cardoso tem apresentações infantis todos os domingos do mês de Agosto, às 11h da manhã. Mais informações:_** <a href="http://teatrosergiocardoso.org.br/teatro-comvida/" target="_blank">**<em>Teatro Sérgio Cardoso</em>**</a>
 
 > **_02 de agosto – “Arruaça” – Circo Vox_**
 
@@ -51,7 +51,7 @@ categories:
 
 &nbsp;
 
-> **_3 &#8211; Já no Parque Villa Lobos, contos e brincadeiras tomam conta do mês. São diversas atividades para as crianças se divertirem. Selecionamos algumas aqui, mais informações:_** <a href="http://www.bvl.org.br/confira-o-que-rola-em-agosto-na-bvl/" target="_blank"><strong><em>Biblioteca Parque Villa-Lobos</em></strong></a>
+> **_3 &#8211; Já no Parque Villa Lobos, contos e brincadeiras tomam conta do mês. São diversas atividades para as crianças se divertirem. Selecionamos algumas aqui, mais informações:_** <a href="http://www.bvl.org.br/confira-o-que-rola-em-agosto-na-bvl/" target="_blank">**<em>Biblioteca Parque Villa-Lobos</em>**</a>
 
 > **_Sextas-feiras, às 15h e sábados e domingos, às 16h – A hora do conto (contação de histórias da literatura infantojuvenil para as crianças)_** 
 
@@ -72,7 +72,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai! Ah! O<strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai! Ah! O**Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 &nbsp;

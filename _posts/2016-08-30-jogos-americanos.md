@@ -1,7 +1,7 @@
 ---
-id: 3652
+
 title: Confira 6 razões para usar jogos americanos à mesa.
-date: 2016-08-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/30/jogos-americanos/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Há muito tempo sou fã dos <strong><a href="http://bit.ly/jogoamericano-trololo" target="_blank">jogos americanos</a></strong>, e tenho meu pequeno tesouro com alguns deles. Uso e abuso dos mais simples e descontraídos no dia a dia, e outros mais caprichados guardo para dias festivos. E não entenda que esses dias ocorrem uma vez ao ano, de jeito nenhum! Basta receber pessoas queridas e, pronto! Pra mim já é dia de festa, e um dos sinais é o jogo americano mais arrumadinho que vem dar <em>bossa</em> a nossa mesa. Gosto deles com espaço suficiente para caber meus pratos rasos, razoavelmente grandes, talheres e copo. Amo esses queridinhos porque acredito que eles trazem, sim, bastante charme à mesa, além de poupar a toalha de sujeirinhas indesejáveis. Quero te convencer a aderir a essas pequenas toalhas de mesa pelas quais vivo de amores, então vem cá que quero te dar 6 razões para isso, e ainda mostrar alguns jogos americanos que, oh: são puro amor!
+  Há muito tempo sou fã dos **<a href="http://bit.ly/jogoamericano-trololo" target="_blank">jogos americanos</a>**, e tenho meu pequeno tesouro com alguns deles. Uso e abuso dos mais simples e descontraídos no dia a dia, e outros mais caprichados guardo para dias festivos. E não entenda que esses dias ocorrem uma vez ao ano, de jeito nenhum! Basta receber pessoas queridas e, pronto! Pra mim já é dia de festa, e um dos sinais é o jogo americano mais arrumadinho que vem dar <em>bossa</em> a nossa mesa. Gosto deles com espaço suficiente para caber meus pratos rasos, razoavelmente grandes, talheres e copo. Amo esses queridinhos porque acredito que eles trazem, sim, bastante charme à mesa, além de poupar a toalha de sujeirinhas indesejáveis. Quero te convencer a aderir a essas pequenas toalhas de mesa pelas quais vivo de amores, então vem cá que quero te dar 6 razões para isso, e ainda mostrar alguns jogos americanos que, oh: são puro amor!
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>1 &#8211; Jogos Americanos conferem beleza e praticidade na composição da mesa posta.</strong>
+  **1 &#8211; Jogos Americanos conferem beleza e praticidade na composição da mesa posta.**
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>2 &#8211; É uma peça que complementa a decoração, combinando com os mais diversos ambientes, estilos e ocasiões.</strong>
+  **2 &#8211; É uma peça que complementa a decoração, combinando com os mais diversos ambientes, estilos e ocasiões.**
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>3 &#8211; Realça a beleza da mesa.</strong>
+  **3 &#8211; Realça a beleza da mesa.**
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>4 &#8211; Variedade de estilo, cores, material de fabricação.</strong>
+  **4 &#8211; Variedade de estilo, cores, material de fabricação.**
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>5 &#8211; Dar um ar de descontração, utilização em ocasiões informais.</strong>
+  **5 &#8211; Dar um ar de descontração, utilização em ocasiões informais.**
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>6 &#8211; Dar um ar sofisticado e acolhedor, quando em peças com rendas e bordados.</strong>
+  **6 &#8211; Dar um ar sofisticado e acolhedor, quando em peças com rendas e bordados.**
 </p>
 
 <p align="justify">
@@ -87,11 +87,11 @@ categories:
 </p>
 
 <p align="justify">
-  Se você ficou empolgada para trazer mais beleza para a sua mesa no dia a dia, ou quer um modelo de jogo americano bastante especial para um jantar que está pensando em organizar, não deixe de conferir todas as opções da loja <strong>XiqueXique Brasil</strong>. Lá você encontra itens versáteis, práticos e que trazem encanto para sua mesa posta, em qualquer ocasião. <a href="https://www.xiquexiquebrasil.com.br/casa/jogo-americano-1" target="_blank">Clique aqui e fique á vontade</a>!
+  Se você ficou empolgada para trazer mais beleza para a sua mesa no dia a dia, ou quer um modelo de jogo americano bastante especial para um jantar que está pensando em organizar, não deixe de conferir todas as opções da loja **XiqueXique Brasil**. Lá você encontra itens versáteis, práticos e que trazem encanto para sua mesa posta, em qualquer ocasião. <a href="https://www.xiquexiquebrasil.com.br/casa/jogo-americano-1" target="_blank">Clique aqui e fique á vontade</a>!
 </p>
 
 <p align="justify">
-  A <strong>Xique Xique Brasil</strong> é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No <strong>Instagram</strong> todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
+  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No **Instagram** todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
 </p>
 
 <p align="center">

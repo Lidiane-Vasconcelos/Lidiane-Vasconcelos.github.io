@@ -1,7 +1,7 @@
 ---
-id: 3505
+
 title: 'Mesa arrumada para o Natal: veja 8 ideias.'
-date: 2015-10-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/28/mesa-arrumada-para-o-natal/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  É gostoso pensar, pesquisar e imaginar a <strong>mesa arrumada para o Natal</strong>, porque a noite do dia 24 de Dezembro é mesmo diferente. A gente quer encher o coração e encantar os olhos de quem vai dividir conosco esse momento em família, ou com amigos, não é verdade? Por isso me deliciei fazendo uma pesquisa por inspirações simples para todas nós, mas não menos bonitas.
+  É gostoso pensar, pesquisar e imaginar a **mesa arrumada para o Natal**, porque a noite do dia 24 de Dezembro é mesmo diferente. A gente quer encher o coração e encantar os olhos de quem vai dividir conosco esse momento em família, ou com amigos, não é verdade? Por isso me deliciei fazendo uma pesquisa por inspirações simples para todas nós, mas não menos bonitas.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  É óbvio que você não precisa gastar para comprar um jogo de louças especialmente para festas como o Natal, concorda? Se você quer e pode fazer isso, tudo bem. Mas a ideia é aqui é mostrar que <strong>você não precisa fazer isso</strong> e, na verdade, sua mesa pode tornar-se festiva com o acréscimo de alguns pequenos detalhes. Olha esse exemplo: uma pinha natalina (que pode ganhar bolinhas festivas coladas com cola quente) que repousa sobre um galhinho verde (que pode ser natural ou não), junto com um pedaço de fita ou papel onde você escreve o nome de seu convidado. Precisa mais?!?
+  É óbvio que você não precisa gastar para comprar um jogo de louças especialmente para festas como o Natal, concorda? Se você quer e pode fazer isso, tudo bem. Mas a ideia é aqui é mostrar que **você não precisa fazer isso** e, na verdade, sua mesa pode tornar-se festiva com o acréscimo de alguns pequenos detalhes. Olha esse exemplo: uma pinha natalina (que pode ganhar bolinhas festivas coladas com cola quente) que repousa sobre um galhinho verde (que pode ser natural ou não), junto com um pedaço de fita ou papel onde você escreve o nome de seu convidado. Precisa mais?!?
 </p>
 
 <p align="center">

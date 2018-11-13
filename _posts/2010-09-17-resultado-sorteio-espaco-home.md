@@ -1,7 +1,7 @@
 ---
-id: 2878
+
 title: 'Resultado do sorteio Bicha Fêmea &#038; Espaço Home + Vantagen$ para bichas fêmeas navegantes…'
-date: 2010-09-17T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/17/resultado-sorteio-espaco-home/
@@ -62,7 +62,7 @@ Pronto! Saiu o resultado do sorteio do porta toalhas LU-XO da **_Espaço Home_**
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Quer ter a peça para organizar e decorar seu banheiro ou lavabo com uma vantagem exclusiva?</em></strong>
+  **<em>Quer ter a peça para organizar e decorar seu banheiro ou lavabo com uma vantagem exclusiva?</em>**
 </p>
 
 <p style="text-align: justify;">
@@ -70,15 +70,15 @@ Pronto! Saiu o resultado do sorteio do porta toalhas LU-XO da **_Espaço Home_**
 </p>
 
 <p style="text-align: justify;">
-  <strong><em>…essa peça vem com o um refil de 16 toalhas de papel rendado</em></strong>. Luxo, <em>hein</em>? Pois bem, <strong><em><span style="color: #ff0000;">se você comprar um desses na</span> loja virtual</em></strong>, <strong><em>e <span style="color: #ff0000;">mandar um e-mail para o Andre (andre@espacohome.com.br) dizendo que comprou o porta toalhas porque viu no Bicha Fêmea</span></em></strong><span style="color: #ff0000;">, <strong><em>ganha mais um</em></strong> <strong><em>refil com 20 toalhas de papel rendado</em></strong></span> de brinde. Não é legal? Mas, oh! <strong><em>Essa promoção é válida somente se você comprar o porta toalhas e enviar o e-mail falando que viu a informação no Bicha Fêmea <span style="color: #ff0000;">até dia 30 de Setembro</span></em></strong>, certo? Então, aproveita!
+  **<em>…essa peça vem com o um refil de 16 toalhas de papel rendado</em>**. Luxo, <em>hein</em>? Pois bem, **<em><span style="color: #ff0000;">se você comprar um desses na</span> loja virtual</em>**, **<em>e <span style="color: #ff0000;">mandar um e-mail para o Andre (andre@espacohome.com.br) dizendo que comprou o porta toalhas porque viu no Bicha Fêmea</span></em>**<span style="color: #ff0000;">, **<em>ganha mais um</em>** **<em>refil com 20 toalhas de papel rendado</em>**</span> de brinde. Não é legal? Mas, oh! **<em>Essa promoção é válida somente se você comprar o porta toalhas e enviar o e-mail falando que viu a informação no Bicha Fêmea <span style="color: #ff0000;">até dia 30 de Setembro</span></em>**, certo? Então, aproveita!
 </p>
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/promocao/" target="_self">Promoção</a></em></strong>> Resultado do sorteio Bicha Fêmea & Espaço Home + Vantagen$ para bichas fêmeas navegantes…
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/promocao/" target="_self">Promoção</a></em>**> Resultado do sorteio Bicha Fêmea & Espaço Home + Vantagen$ para bichas fêmeas navegantes…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 _ _

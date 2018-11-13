@@ -1,7 +1,7 @@
 ---
-id: 2650
+
 title: Dicas para limpeza e organização da geladeira.
-date: 2009-04-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/21/limpeza-organizacao-geladeira/
@@ -42,14 +42,14 @@ Sobre o armazenamento dos alimentos, considere a ordem de baixo para cima:
 
 <span style="color: #800080;">Diz aí, você tem mais alguma dica para a árdua tarefa de manutenção da geladeira limpa e organizada?</span>
 
-<span style="color: #800080;"><strong>Mais no Bicha Fêmea&#8230;</strong></span>
+<span style="color: #800080;">**Mais no Bicha Fêmea&#8230;**</span>
 
-<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/" target="_self">Organizando a bagunça: dicas, truques e objetos úteis.</a></em></strong></span>
+<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/" target="_self">Organizando a bagunça: dicas, truques e objetos úteis.</a></em>**</span>
 
-<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/07/09/descartando-remedios-vencidos/" target="_self">Como jogar fora remédios vencidos?</a></em></strong></span>
+<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/07/09/descartando-remedios-vencidos/" target="_self">Como jogar fora remédios vencidos?</a></em>**</span>
 
-<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/02/04/dicas-tarefas-domesticas/" target="_self">Da minha porção diva do lar. Qual a sua?</a></em></strong></span>
+<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/02/04/dicas-tarefas-domesticas/" target="_self">Da minha porção diva do lar. Qual a sua?</a></em>**</span>
 
-<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/01/21/itens-organizacao-casa/" target="_self">Dicas de itens para organização em casa by bichas fêmeas.</a></em></strong></span>
+<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/01/21/itens-organizacao-casa/" target="_self">Dicas de itens para organização em casa by bichas fêmeas.</a></em>**</span>
 
-<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2009/12/15/dica-como-virar-colchao/" target="_self">Dica de como organizar a posição ao virar o colchão.</a></em></strong></span>
+<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/12/15/dica-como-virar-colchao/" target="_self">Dica de como organizar a posição ao virar o colchão.</a></em>**</span>

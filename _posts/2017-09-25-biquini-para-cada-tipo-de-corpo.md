@@ -1,7 +1,7 @@
 ---
-id: 3805
+
 title: 'Biquíni para cada tipo de corpo: saiba escolher.'
-date: 2017-09-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/25/biquini-para-cada-tipo-de-corpo/
@@ -10,19 +10,19 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Caso você não saiba, há um <strong>biquíni para cada tipo de corpo</strong>, no sentido de que sua escolha valoriza o que você tem de melhor, e disfarça o que você considera como um ponto fraco.
+  Caso você não saiba, há um **biquíni para cada tipo de corpo**, no sentido de que sua escolha valoriza o que você tem de melhor, e disfarça o que você considera como um ponto fraco.
 </p>
 
 <p align="justify">
-  Quer dicas para acertar em cheio na sua próxima ida às compras de moda praia? Confira orientações ricas e exclusivas dadas pela <strong>Sarah Tapias, Consultora de Imagem e Estilo, de Florianópolis – SC</strong>. Se joga!
+  Quer dicas para acertar em cheio na sua próxima ida às compras de moda praia? Confira orientações ricas e exclusivas dadas pela **Sarah Tapias, Consultora de Imagem e Estilo, de Florianópolis – SC**. Se joga!
 </p>
 
 <p align="justify">
-  <strong>Em tempo:</strong>
+  **Em tempo:**
 </p>
 
 <p align="justify">
-  <strong>Confira lista de <a href="https://www.gearweare.com/review/best-flip-flop-sandals/" target="_blank">sandálias</a>, com dicas para realizar melhores escolhas. </strong>
+  **Confira lista de <a href="https://www.gearweare.com/review/best-flip-flop-sandals/" target="_blank">sandálias</a>, com dicas para realizar melhores escolhas. **
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Evite:</strong> Calcinhas com tiras muito finas e peças de número menor que o seu. O biquíni apertado ajuda a criar ainda mais volume na parte abdominal.
+  **Evite:** Calcinhas com tiras muito finas e peças de número menor que o seu. O biquíni apertado ajuda a criar ainda mais volume na parte abdominal.
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Evite:</strong> modelo tomara que caia e cortininha, pois não tem muita sustentação.
+  **Evite:** modelo tomara que caia e cortininha, pois não tem muita sustentação.
 </p>
 
 <p align="justify">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Evite:</strong> Modelos de calcinhas pequenas, pois pela proporção do tamanho, elas vão dar a impressão de que o seu quadril é ainda maior.
+  **Evite:** Modelos de calcinhas pequenas, pois pela proporção do tamanho, elas vão dar a impressão de que o seu quadril é ainda maior.
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Evite:</strong> uso de cores escuras e estampas miúdas na calcinha, pois da mesma forma como acontece com as roupas, esses detalhes são ótimos para aquelas que desejam afinar, o que não é o caso.
+  **Evite:** uso de cores escuras e estampas miúdas na calcinha, pois da mesma forma como acontece com as roupas, esses detalhes são ótimos para aquelas que desejam afinar, o que não é o caso.
 </p>
 
 <p align="center">
@@ -150,11 +150,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais de Sarah no Trololó de Mulher:</strong>
+  **Mais de Sarah no Trololó de Mulher:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank"><strong>Calça flare: aprenda como combinar o modelo da vez!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank">**Calça flare: aprenda como combinar o modelo da vez!**</a>
 </p>
 
 <p align="justify">

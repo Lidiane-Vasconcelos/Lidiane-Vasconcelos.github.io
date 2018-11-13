@@ -1,7 +1,7 @@
 ---
-id: 3253
+
 title: 'Sopa de abóbora fácil, rápida e, oh: superultramega delícia!'
-date: 2013-08-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/19/sopa-de-abobora/
@@ -30,7 +30,7 @@ Não tem outro jeito de apresentar esse prato, é com exagero mesmo, para combin
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: medium;">Sopa de Abóbora com Queijo de Cabra</span></strong>
+  **<span style="font-size: medium;">Sopa de Abóbora com Queijo de Cabra</span>**
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Não tem outro jeito de apresentar esse prato, é com exagero mesmo, para combin
 &nbsp;
 
 > <p align="justify">
->   Para fazer essa receita basta refogar <strong>1/2 cebola</strong> e <strong>2 dentes de alho picados no azeite</strong>. Juntar <strong>500g de abóbora</strong> (pode ser de qualquer tipo), <strong>1 tablete de caldo de legumes, 1 colher (café) de sal e cobrir com água</strong>. Não precisa colocar muita água, a abóbora até pode ficar um pouco para fora dela. Tampe a panela e deixe ferver por 20 minutos. Agora junte <strong>1 colher (sopa) bem cheia de requeijão cremoso</strong> e bata no liquidificador (usei o mixer). Acerte o sal se necessário. Na hora de servir junte <strong>cubinhos de queijo de cabra e orégano</strong>.”
+>   Para fazer essa receita basta refogar **1/2 cebola** e **2 dentes de alho picados no azeite**. Juntar **500g de abóbora** (pode ser de qualquer tipo), **1 tablete de caldo de legumes, 1 colher (café) de sal e cobrir com água**. Não precisa colocar muita água, a abóbora até pode ficar um pouco para fora dela. Tampe a panela e deixe ferver por 20 minutos. Agora junte **1 colher (sopa) bem cheia de requeijão cremoso** e bata no liquidificador (usei o mixer). Acerte o sal se necessário. Na hora de servir junte **cubinhos de queijo de cabra e orégano**.”
 > </p>
 
 &nbsp;
@@ -66,7 +66,7 @@ Não tem outro jeito de apresentar esse prato, é com exagero mesmo, para combin
 &nbsp;
 
 <p align="justify">
-  A Tatiana tem um blog incrível de receitas, <em>superultramega</em> badalado e conhecidíssimo. Sua receita de sucesso só pode ser a simplicidade, porque ela é um encanto de pessoa, bem acessível, gentil e simpática. Outro segredo dela, acredito, é a forma como apresenta suas receitas: tudo de um jeito simples para que qualquer mortal possa reproduzir. Se até eu, que sou bem fraquinha na cozinha, consigo reproduzir, qualquer um pode. Então, oh: se joga no <strong><a href="http://www.panelaterapia.com/" target="_blank">Panelaterapia</a></strong> e seja feliz!
+  A Tatiana tem um blog incrível de receitas, <em>superultramega</em> badalado e conhecidíssimo. Sua receita de sucesso só pode ser a simplicidade, porque ela é um encanto de pessoa, bem acessível, gentil e simpática. Outro segredo dela, acredito, é a forma como apresenta suas receitas: tudo de um jeito simples para que qualquer mortal possa reproduzir. Se até eu, que sou bem fraquinha na cozinha, consigo reproduzir, qualquer um pode. Então, oh: se joga no **<a href="http://www.panelaterapia.com/" target="_blank">Panelaterapia</a>** e seja feliz!
 </p>
 
 &nbsp;
@@ -76,19 +76,19 @@ Imagens: **Tatiana,** do **<a href="http://www.panelaterapia.com/" target="_blan
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Tudo a ver:</span></strong>
+  **<span style="font-size: large;">Tudo a ver:</span>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/"><span style="font-size: large;">O Molho ao Sugo da Cláudia Ramalho eu já fiz e ficou, oh…</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/"><span style="font-size: large;">O Molho ao Sugo da Cláudia Ramalho eu já fiz e ficou, oh…</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/"><span style="font-size: large;">Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/"><span style="font-size: large;">Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span></a>**
 </p>
 
 <p align="center">
-  <strong><a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/"><span style="font-size: large;">Espetinho de frango saudável e saboroso… quer ver como faz?</span></a></strong>
+  **<a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/"><span style="font-size: large;">Espetinho de frango saudável e saboroso… quer ver como faz?</span></a>**
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Imagens: **Tatiana,** do **<a href="http://www.panelaterapia.com/" target="_blan
   </p>
   
   <p align="center">
-    <strong><span style="font-size: small;">Redes Sociais</span></strong>
+    **<span style="font-size: small;">Redes Sociais</span>**
   </p>
   
   <p>
@@ -133,9 +133,9 @@ Imagens: **Tatiana,** do **<a href="http://www.panelaterapia.com/" target="_blan
   </p>
   
   <p align="center">
-    <strong>Vamos manter contato?</strong>
+    **Vamos manter contato?**
   </p>
   
   <p align="center">
-    <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+    **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
   </p>

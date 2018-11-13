@@ -1,7 +1,7 @@
 ---
-id: 3804
+
 title: Qual é a roupa certa para mulheres de 50 anos?
-date: 2017-09-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/25/mulheres-de-50-anos/
@@ -10,11 +10,11 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Lá se foi o tempo em que <strong>mulheres de 50 anos</strong> vestiam-se iguais, com conjuntos de blusa e bermuda estampados… lembra? Respiro aliviada por saber que quando estiver nessa faixa etária será luxo, glória e poder me vestir de acordo com o que me fará bem, e não como esperam que se vista <em>uma senhora de 50 anos</em>.
+  Lá se foi o tempo em que **mulheres de 50 anos** vestiam-se iguais, com conjuntos de blusa e bermuda estampados… lembra? Respiro aliviada por saber que quando estiver nessa faixa etária será luxo, glória e poder me vestir de acordo com o que me fará bem, e não como esperam que se vista <em>uma senhora de 50 anos</em>.
 </p>
 
 <p align="justify">
-  O post de hoje é uma inspiração nesse sentido, recheado de dicas incríveis que, cá pra nós, são perfeitas para mulheres em qualquer fase da vida. <strong>Claudia Medeiros,</strong> <strong>Jornalista de Campinas – SP</strong>, colaboradora do <strong>Trololó de Mulher</strong> sobre moda e estilo de vida para mulheres maduras, conta o que levar em consideração na próxima ida às compras. Confira!
+  O post de hoje é uma inspiração nesse sentido, recheado de dicas incríveis que, cá pra nós, são perfeitas para mulheres em qualquer fase da vida. **Claudia Medeiros,** **Jornalista de Campinas – SP**, colaboradora do **Trololó de Mulher** sobre moda e estilo de vida para mulheres maduras, conta o que levar em consideração na próxima ida às compras. Confira!
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank"><strong>Calça flare: aprenda como combinar o modelo da vez.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank">**Calça flare: aprenda como combinar o modelo da vez.**</a>
 </p>
 
 <p align="justify">
@@ -110,11 +110,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank"><strong>Como usar saia, a peça mais feminina?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank">**Como usar saia, a peça mais feminina?**</a>
 </p>
 
 <p align="justify">
@@ -145,7 +145,7 @@ Fotos: Claudia Medeiros
 
 **Mais de Claudia no Trololó de Mulher:**
 
-<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank"><strong>Notícia luxo: conteúdo exclusivo para você, mulher de 50.</strong></a>
+<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank">**Notícia luxo: conteúdo exclusivo para você, mulher de 50.**</a>
 
 <p align="justify">
   Além do <a href="https://50edaiblog.wordpress.com/" target="_blank">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">facebook</a>. Se joga!

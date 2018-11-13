@@ -1,7 +1,7 @@
 ---
-id: 3250
+
 title: 3 ideias “faça você mesma” de decoração BBB – Boa, Bonita e Barata!
-date: 2013-08-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/05/faca-voce-mesma-decoracao/
@@ -19,7 +19,7 @@ Repara só, as ideias foram garimpadas no site **_<a href="http://www.bhg.com/" 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">Botãozinho e botãozão…</span></strong>
+  **<span style="font-size: large;">Botãozinho e botãozão…</span>**
 </p>
 
 &nbsp;
@@ -37,7 +37,7 @@ Repara só, as ideias foram garimpadas no site **_<a href="http://www.bhg.com/" 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Espelho, espelho meu!</span></strong>
+  **<span style="font-size: large;">Espelho, espelho meu!</span>**
 </p>
 
 &nbsp;
@@ -55,7 +55,7 @@ Repara só, as ideias foram garimpadas no site **_<a href="http://www.bhg.com/" 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Tem grama na almofada?</span></strong>
+  **<span style="font-size: large;">Tem grama na almofada?</span>**
 </p>
 
 &nbsp;
@@ -73,19 +73,19 @@ Repara só, as ideias foram garimpadas no site **_<a href="http://www.bhg.com/" 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: large;">Tudo a ver…</span></strong>
+  **<span style="font-size: large;">Tudo a ver…</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/07/17/decoracao-varanda/"><strong><span style="font-size: large;">Decoração de varanda: ideia fácil e barata para você copiar.</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/07/17/decoracao-varanda/">**<span style="font-size: large;">Decoração de varanda: ideia fácil e barata para você copiar.</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/06/19/decoracao-papel-de-parede-3/"><strong><span style="font-size: large;">Decoração com papel de parede, sem cobrir a parede?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/19/decoracao-papel-de-parede-3/">**<span style="font-size: large;">Decoração com papel de parede, sem cobrir a parede?</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/"><strong><span style="font-size: large;">Solução de decoração boa, bonita e barata: tapete de sisal listrado.</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/">**<span style="font-size: large;">Solução de decoração boa, bonita e barata: tapete de sisal listrado.</span>**</a>
 </p>
 
 &nbsp;
@@ -97,7 +97,7 @@ Repara só, as ideias foram garimpadas no site **_<a href="http://www.bhg.com/" 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -121,9 +121,9 @@ Repara só, as ideias foram garimpadas no site **_<a href="http://www.bhg.com/" 
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

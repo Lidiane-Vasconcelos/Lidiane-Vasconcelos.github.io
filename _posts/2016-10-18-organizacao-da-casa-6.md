@@ -1,7 +1,7 @@
 ---
-id: 3688
+
 title: '5º post da série para organização da casa: quarto infantil.'
-date: 2016-10-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/18/organizacao-da-casa-6/
@@ -10,11 +10,11 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">terceiro sobre penteadeira</a>, e <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">o quarto sobre o closet</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a **organização da casa**, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">terceiro sobre penteadeira</a>, e <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">o quarto sobre o closet</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
-  O <strong>Trololó de Mulher</strong> teve o privilégio de receber dicas preciosas de <strong><em>Personal Organizers</em></strong> queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o <strong>post Nº5</strong>, será sobre <strong>o <em>quarto infantil.  </em></strong>A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a <strong>Ana Avelar, do Rio de Janeiro – RJ. </strong>Confira!
+  O **Trololó de Mulher** teve o privilégio de receber dicas preciosas de **<em>Personal Organizers</em>** queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o **post Nº5**, será sobre **o <em>quarto infantil.  </em>**A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a **Ana Avelar, do Rio de Janeiro – RJ. **Confira!
 </p>
 
 Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">clique aqui e veja como deixar seu home office em ordem</a>!
@@ -102,11 +102,11 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <strong><a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a></strong>
+  **<a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a>**
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ O **quarto** está repleto de estratégias muito úteis: <a href="http://www.tro
 </p>
 
 <p align="center">
-  Imagem: arquivo pessoal de <strong>Ana Avelar</strong>
+  Imagem: arquivo pessoal de **Ana Avelar**
 </p>
 
 <p align="justify">

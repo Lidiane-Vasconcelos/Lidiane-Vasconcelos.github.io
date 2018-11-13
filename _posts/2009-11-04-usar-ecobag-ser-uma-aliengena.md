@@ -1,7 +1,7 @@
 ---
-id: 2727
+
 title: Usar Ecobag = Ser Uma Alienígena. Será?
-date: 2009-11-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/04/usar-ecobag-ser-uma-aliengena/

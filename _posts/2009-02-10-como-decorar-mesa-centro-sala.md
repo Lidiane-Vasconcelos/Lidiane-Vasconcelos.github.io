@@ -1,7 +1,7 @@
 ---
-id: 2619
+
 title: Como decorar a mesa de centro de sala.
-date: 2009-02-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/10/como-decorar-mesa-centro-sala/
@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: center;">
-  Já que a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Rose</a> me pediu para ajudá-la a encontrar referências para <strong><em>decorar a mesa de centro de sala</em></strong> dela, fui a procura das inspirações, o que me ajudou bastante também. Eu já comentei que não tenho mesa de centro de sala? Pois, não tenho. Mas quando tiver, já sei como decorar a dita cuja&#8230;<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00168.gif"><img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0016-thumb8.gif" alt="clip_image001[6]" width="18" height="18" /></a>
+  Já que a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Rose</a> me pediu para ajudá-la a encontrar referências para **<em>decorar a mesa de centro de sala</em>** dela, fui a procura das inspirações, o que me ajudou bastante também. Eu já comentei que não tenho mesa de centro de sala? Pois, não tenho. Mas quando tiver, já sei como decorar a dita cuja&#8230;<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00168.gif"><img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0016-thumb8.gif" alt="clip_image001[6]" width="18" height="18" /></a>
 </p>
 
 Vamos ás imagens?

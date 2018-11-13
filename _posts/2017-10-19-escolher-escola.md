@@ -1,7 +1,7 @@
 ---
-id: 3816
+
 title: Sabe como escolher a escola da cria? Leia antes este post.
-date: 2017-10-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/19/escolher-escola/
@@ -11,15 +11,15 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  <strong>Escolher a escola</strong> para a criança não é fácil. É preciso considerar alguns pontos importantes, que vão nortear você para a melhor decisão. Neste post, editado sob consultoria da <strong>Eliane Volpe, Psicopedagoga</strong> <strong>de Curitiba – PR</strong>, você verá exatamente esses itens a serem observados, e certamente será mais fácil decidir onde matricular seu filho para o próximo ano letivo. Confira!
+  **Escolher a escola** para a criança não é fácil. É preciso considerar alguns pontos importantes, que vão nortear você para a melhor decisão. Neste post, editado sob consultoria da **Eliane Volpe, Psicopedagoga** **de Curitiba – PR**, você verá exatamente esses itens a serem observados, e certamente será mais fácil decidir onde matricular seu filho para o próximo ano letivo. Confira!
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/30/crianca-escola-bilingue/" target="_blank"><strong>Vale a pena matricular sua criança numa escola bilingue?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/01/30/crianca-escola-bilingue/" target="_blank">**Vale a pena matricular sua criança numa escola bilingue?**</a>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Conheça mais sobre as linhas pedagógicas:</strong>
+  **Conheça mais sobre as linhas pedagógicas:**
 </p>
 
 **Montessori**
@@ -111,11 +111,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais de Eliane no Trololó de Mulher:</strong>
+  **Mais de Eliane no Trololó de Mulher:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/08/09/dificuldade-de-aprendizagem/" target="_blank"><strong>Saiba como contornar a dificuldade de aprendizagem de sua cria.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2017/08/09/dificuldade-de-aprendizagem/" target="_blank">**Saiba como contornar a dificuldade de aprendizagem de sua cria.**</a>
 </p>
 
 <p align="justify">

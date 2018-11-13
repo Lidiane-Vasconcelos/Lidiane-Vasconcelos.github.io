@@ -1,7 +1,7 @@
 ---
-id: 3212
+
 title: Mulher, alimentos e ansiedade… há algo familiar nisso?
-date: 2012-11-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/19/saude-bem-estar-ansiedade/
@@ -11,17 +11,17 @@ categories:
   - Saúde
 ---
 <p style="text-align: justify;">
-  Ser mulher hoje em dia não anda nada fácil, não é verdade? Infelizmente nossa condição nos coloca em contato direto com um mal super comum atualmente: a <strong>ansiedade</strong>. Pudera! A gente se vira em mil para dar conta de casa, trabalho, família, etc. E o resultado disso?
+  Ser mulher hoje em dia não anda nada fácil, não é verdade? Infelizmente nossa condição nos coloca em contato direto com um mal super comum atualmente: a **ansiedade**. Pudera! A gente se vira em mil para dar conta de casa, trabalho, família, etc. E o resultado disso?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Sabemos bem: <strong>desassossego, perturbação mental e falta de segurança</strong>. Quem aguenta isso? Será que dá para combater esse mal no dia a dia, através dos alimentos? Foi o que perguntei para a <strong>Dra. Ingrid Seiler Prior, Nutricionista de Santos – SP</strong>. Ela deu dicas e uma receita para que fiquemos bem calmas… confere!
+  Sabemos bem: **desassossego, perturbação mental e falta de segurança**. Quem aguenta isso? Será que dá para combater esse mal no dia a dia, através dos alimentos? Foi o que perguntei para a **Dra. Ingrid Seiler Prior, Nutricionista de Santos – SP**. Ela deu dicas e uma receita para que fiquemos bem calmas… confere!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade/" rel="attachment wp-att-9343"><img class="alignnone size-full wp-image-9343" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE.jpg" alt="" width="600" height="450" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade/" rel="attachment wp-att-9343"><img class="alignnone size-full wp-image-9343" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE.jpg" alt="" width="600" height="450" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 &nbsp;
@@ -31,7 +31,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “<strong>Existem alimentos que favorecem a produção de serotonina, proporcionando uma sensação de bem-estar. Porém somente o consumo desses alimentos não é suficiente, é preciso aliá-los à prática de atividade física regular e um estilo de vida equilibrado</strong>. Algumas pessoas, para aliviar conflitos ou situações de estresse, acabam descontando suas frustrações na comida. E <strong>durante uma crise de ansiedade normalmente não se belisca baby cenouras, e sim alimentos ricos em gordura e açúcar, como o chocolate por exemplo. </strong>Estes alimentos geram aconchego para a pessoa. E com o tempo o resultado não pode ser outro: comida demais, quilos a mais também, o que consequentemente gera mais ansiedade. O que torna-se um ciclo vicioso. “
+>   “**Existem alimentos que favorecem a produção de serotonina, proporcionando uma sensação de bem-estar. Porém somente o consumo desses alimentos não é suficiente, é preciso aliá-los à prática de atividade física regular e um estilo de vida equilibrado**. Algumas pessoas, para aliviar conflitos ou situações de estresse, acabam descontando suas frustrações na comida. E **durante uma crise de ansiedade normalmente não se belisca baby cenouras, e sim alimentos ricos em gordura e açúcar, como o chocolate por exemplo. **Estes alimentos geram aconchego para a pessoa. E com o tempo o resultado não pode ser outro: comida demais, quilos a mais também, o que consequentemente gera mais ansiedade. O que torna-se um ciclo vicioso. “
 > </p>
 
 <p align="justify">
@@ -43,19 +43,19 @@ categories:
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Para ter uma vida equilibrada…</span></strong>
+  **<span style="font-size: large;">Para ter uma vida equilibrada…</span>**
 </p>
 
 <p align="justify">
-  1 – Preste atenção ao seu consumo de <strong>açúcar, cafeína e álcool</strong>, pois <strong>promovem o estresse.</strong>
+  1 – Preste atenção ao seu consumo de **açúcar, cafeína e álcool**, pois **promovem o estresse.**
 </p>
 
 <p align="justify">
-  2 – Capriche na ingestão de <strong>água, verduras e frutas</strong>, pois <strong>promovem o humor</strong>.
+  2 – Capriche na ingestão de **água, verduras e frutas**, pois **promovem o humor**.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">E para ficar bem calminha…</span></strong>
+  **<span style="font-size: large;">E para ficar bem calminha…</span>**
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  Bonita, a <strong>Dra. Ingrid</strong> também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <strong><a href="http://www.nutricionistaingrid.com.br/" target="_blank">seu blog clicando bem aqui</a></strong>. Além do mais, dá para acompanhar ainda mais dicas da <strong>Dra. Ingrid</strong> pelo <strong>Facebook</strong>, através de sua <strong><em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em></strong>. Vai perder?
+  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em **<a href="http://www.nutricionistaingrid.com.br/" target="_blank">seu blog clicando bem aqui</a>**. Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid** pelo **Facebook**, através de sua **<em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em>**. Vai perder?
 </p>
 
 <p align="center">

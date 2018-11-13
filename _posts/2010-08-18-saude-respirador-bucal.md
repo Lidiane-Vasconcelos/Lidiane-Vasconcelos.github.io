@@ -1,7 +1,7 @@
 ---
-id: 2862
+
 title: 'Saúde no Bicha Fêmea: respirador bucal'
-date: 2010-08-18T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/18/saude-respirador-bucal/
@@ -48,19 +48,19 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="598" valign="top">
-      <strong><em>Por<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/marluce-tavares/" target="_self"> Marluce de Vasconcelos Tavares</a></em></strong>
+      **<em>Por<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/marluce-tavares/" target="_self"> Marluce de Vasconcelos Tavares</a></em>**
     </td>
   </tr>
   
   <tr>
     <td width="598" valign="top">
-      <strong><em>Dentista especialista em OFM.</em></strong>
+      **<em>Dentista especialista em OFM.</em>**
     </td>
   </tr>
   
   <tr>
     <td width="598" valign="top">
-      <strong><em>Trabalho com respiradores bucais em Clínica Particular e pelo SUS &#8211; no Centro Regional de Especialidades de Colatina-ES</em></strong>
+      **<em>Trabalho com respiradores bucais em Clínica Particular e pelo SUS &#8211; no Centro Regional de Especialidades de Colatina-ES</em>**
     </td>
   </tr>
 </table>
@@ -74,9 +74,9 @@ Quer fazer como a Marluce, e publicar seu texto aqui? Seja uma **_[bicha fêmea 
 **_[Excesso de lanches pode estar contribuindo para a obesidade infantil.](http://www.trololodemulher.com.br/2010/04/12/obesidade-infantil/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/corpo/"><strong><em>Corpo</em></strong></a> > <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em></strong> > Saúde no Bicha Fêmea: respirador bucal
+  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a> > **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>** > Saúde no Bicha Fêmea: respirador bucal
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>

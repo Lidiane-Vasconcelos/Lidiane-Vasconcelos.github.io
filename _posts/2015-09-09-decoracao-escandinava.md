@@ -1,7 +1,7 @@
 ---
-id: 3482
+
 title: 'Decoração escandinava: como aplicar esse estilo?'
-date: 2015-09-09T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/09/decoracao-escandinava/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Piso</strong>
+  **Piso**
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Cores</strong>
+  **Cores**
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Material</strong>
+  **Material**
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Formas</strong>
+  **Formas**
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Menos é mais!</strong>
+  **Menos é mais!**
 </p>
 
 <p align="center">

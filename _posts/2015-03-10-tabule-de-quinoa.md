@@ -1,7 +1,7 @@
 ---
-id: 3405
+
 title: 'Receita mais fácil não existe: tabule de quinoa'
-date: 2015-03-10T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/10/tabule-de-quinoa/
@@ -54,7 +54,7 @@ Sal e pimenta moída na hora a gosto.
 &nbsp;
 
 > <p align="justify">
->   <strong>Coloque a água em uma vasilha e deixe ferver. Assim que levantar a fervura abaixe o fogo e coloque a quinoa. Deixe ferver por uns 15 minutos mais ou menos ou até os grãos ficarem macios. Escorra a água e deixe esfriar. Assim que esfriar, solte os grãos com um garfo. Junte todos os outros ingredientes, mexa bem e sirva geladinho.”</strong>
+>   **Coloque a água em uma vasilha e deixe ferver. Assim que levantar a fervura abaixe o fogo e coloque a quinoa. Deixe ferver por uns 15 minutos mais ou menos ou até os grãos ficarem macios. Escorra a água e deixe esfriar. Assim que esfriar, solte os grãos com um garfo. Junte todos os outros ingredientes, mexa bem e sirva geladinho.”**
 > </p>
 
 <p align="center">
@@ -62,23 +62,23 @@ Sal e pimenta moída na hora a gosto.
 </p>
 
 <p align="justify">
-  <strong>Mais receitas saudáveis da Carol:</strong>
+  **Mais receitas saudáveis da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank">**Receita molezinha e gostosa: torta de abóbora + frango**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho assado de inhame com bacalhau… hummm…</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho assado de inhame com bacalhau… hummm…**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa</strong></a>
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

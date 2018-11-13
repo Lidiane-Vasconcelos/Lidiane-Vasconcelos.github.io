@@ -1,7 +1,7 @@
 ---
-id: 3366
+
 title: 'Decoração infantil: quarto de menino…ideias e inspirações.'
-date: 2014-11-21T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/21/decoracao-quarto-menino-2/
@@ -15,15 +15,15 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quarto-de-menino-branco/" target="_blank"><strong>Quarto de menino completamente branco?</strong></a>
+  <a href="http://www.decoracaodacasa.com/quarto-de-menino-branco/" target="_blank">**Quarto de menino completamente branco?**</a>
 </p>
 
 <p align="justify">
-  Vi esses quartinhos de menino e suspirei: amei a ideia de usar <strong>papel de parede</strong> no quarto do meu pequeno, usar mais alguns <strong>brinquedos na decoração</strong>, tenho vivido de amores pelas <strong>bandeirolas, guirlandas e afins</strong>. Enfim, sou só suspiros… quer ficar com um <em>siricotico</em> de ideias para o quarto do seu meninão também? Vem cá… vamos sonhar juntas!
+  Vi esses quartinhos de menino e suspirei: amei a ideia de usar **papel de parede** no quarto do meu pequeno, usar mais alguns **brinquedos na decoração**, tenho vivido de amores pelas **bandeirolas, guirlandas e afins**. Enfim, sou só suspiros… quer ficar com um <em>siricotico</em> de ideias para o quarto do seu meninão também? Vem cá… vamos sonhar juntas!
 </p>
 
 <p align="center">
@@ -39,11 +39,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>E mais:</strong>
+  **E mais:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/mesa-de-estudo/" target="_blank"><strong>Seu filho tem uma mesa de estudo linda de viver?</strong></a>
+  <a href="http://www.decoracaodacasa.com/mesa-de-estudo/" target="_blank">**Seu filho tem uma mesa de estudo linda de viver?**</a>
 </p>
 
 <p align="justify">

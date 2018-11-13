@@ -1,7 +1,7 @@
 ---
-id: 3443
+
 title: Bolo de banana sem glúten e light… e cheiroso!
-date: 2015-07-08T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/08/bolo-de-banana/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Ingredientes</strong>
+  **Ingredientes**
 </p>
 
 <p align="justify">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Modo de Preparo</strong>
+  **Modo de Preparo**
 </p>
 
 > <p align="justify">
->   “<strong><em>Eu fiz tudo batendo a mão mesmo, mas se quiser pode utilizar a batedeira. Bati a manteiga com o adoçante até ficar uma mistura mais branca. Depois junte os ovos e bata mais, acrescente o leite e bate mais um pouco. Acrescente as farinhas, misture bem e depois o fermento em pó. Coloque a massa em uma forma untada e enfarinhada (farinha de arroz ou a mix de farinhas sem glúten). Por cima você distribua as bananas e polvilhe a misturinha de canela com o adoçante. Leve ao forno em 180 graus até assar. A casa fica cheirosa e o bolo delicioso!!!”</em></strong>
+>   “**<em>Eu fiz tudo batendo a mão mesmo, mas se quiser pode utilizar a batedeira. Bati a manteiga com o adoçante até ficar uma mistura mais branca. Depois junte os ovos e bata mais, acrescente o leite e bate mais um pouco. Acrescente as farinhas, misture bem e depois o fermento em pó. Coloque a massa em uma forma untada e enfarinhada (farinha de arroz ou a mix de farinhas sem glúten). Por cima você distribua as bananas e polvilhe a misturinha de canela com o adoçante. Leve ao forno em 180 graus até assar. A casa fica cheirosa e o bolo delicioso!!!”</em>**
 > </p>
 
 <p align="center">
@@ -74,23 +74,23 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/" target="_blank"><strong>Tofu ao forno… com toques especiais!</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/" target="_blank">**Tofu ao forno… com toques especiais!**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/" target="_blank"><strong>Creme de aspargos: receita que conforta nos dias frios.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/" target="_blank">**Creme de aspargos: receita que conforta nos dias frios.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/" target="_blank"><strong>Bolo prestígio saudável.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/" target="_blank">**Bolo prestígio saudável.**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

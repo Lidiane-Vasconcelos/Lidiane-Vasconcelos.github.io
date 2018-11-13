@@ -1,7 +1,7 @@
 ---
-id: 3195
+
 title: 'Campinas + café + comidinha + crianças = Gato Mia [Café Divertido]'
-date: 2012-10-05T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/05/campinas-cafe/
@@ -14,7 +14,7 @@ Essa foi exatamente a combinação que fiz na minha última tarde de Domingo. É
 &nbsp;
 
 <p align="justify">
-  Foi graças a <strong><a href="http://www.omovel.com.br/2012/09/um-cafe-divertido.html" target="_blank"><em>indicação superultramega bacana da Jussara</em></a></strong>, editora do blog <strong><a href="http://www.omovel.com.br/" target="_blank">O Móvel</a></strong>, que conheci um cantinho bem diferente para o cafezinho e lanchinho da tarde. Trata-se do <strong><a href="http://www.facebook.com/GatoMiaCafeDivertido" target="_blank">Gato Mia – Café Divertido</a></strong>. Agora que fui lá e conferi, posso falar: a visita vale a pena!
+  Foi graças a **<a href="http://www.omovel.com.br/2012/09/um-cafe-divertido.html" target="_blank"><em>indicação superultramega bacana da Jussara</em></a>**, editora do blog **<a href="http://www.omovel.com.br/" target="_blank">O Móvel</a>**, que conheci um cantinho bem diferente para o cafezinho e lanchinho da tarde. Trata-se do **<a href="http://www.facebook.com/GatoMiaCafeDivertido" target="_blank">Gato Mia – Café Divertido</a>**. Agora que fui lá e conferi, posso falar: a visita vale a pena!
 </p>
 
 <!--more-->
@@ -62,7 +62,7 @@ Essa foi exatamente a combinação que fiz na minha última tarde de Domingo. É
 &nbsp;
 
 <p align="justify">
-  Tudo no <strong>Gato Mia </strong>dá uma sensação nítida de aconchego, com atendimento bacana, gentil e eficiente… deu até preguiça de sair de lá…
+  Tudo no **Gato Mia **dá uma sensação nítida de aconchego, com atendimento bacana, gentil e eficiente… deu até preguiça de sair de lá…
 </p>
 
 &nbsp;
@@ -90,7 +90,7 @@ Essa foi exatamente a combinação que fiz na minha última tarde de Domingo. É
 </p>
 
 <p align="justify">
-  Não duvide de que ir no <strong><a href="http://www.facebook.com/GatoMiaCafeDivertido" target="_blank">Gato Mia</a></strong> é certeza de diversão para toda a família, <em>viu</em>? Se você ficou bem curiosa para conhecer esse espaço de proposta bastante inusitada, dá um pulinho na <strong>Rua Vieira Bueno, 293, Cambuí, Campinas</strong>. Ah! Divirta-se!
+  Não duvide de que ir no **<a href="http://www.facebook.com/GatoMiaCafeDivertido" target="_blank">Gato Mia</a>** é certeza de diversão para toda a família, <em>viu</em>? Se você ficou bem curiosa para conhecer esse espaço de proposta bastante inusitada, dá um pulinho na **Rua Vieira Bueno, 293, Cambuí, Campinas**. Ah! Divirta-se!
 </p>
 
 &nbsp;
@@ -100,20 +100,20 @@ Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_b
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: x-large;">Muito mais para você…</span></strong>
+  **<span style="font-size: x-large;">Muito mais para você…</span>**
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/bem-viver/restaurante-noi-niteroi200/" rel="attachment wp-att-9105"><img class="alignnone size-full wp-image-9105" title="RESTAURANTE-NOI-NITEROI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RESTAURANTE-NOI-NITEROI200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/"><span style="font-size: medium;"><br /> Você está em terras cariocas e curte comer bem? Este post é para você!</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/bem-viver/restaurante-noi-niteroi200/" rel="attachment wp-att-9105"><img class="alignnone size-full wp-image-9105" title="RESTAURANTE-NOI-NITEROI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/RESTAURANTE-NOI-NITEROI200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/"><span style="font-size: medium;"><br /> Você está em terras cariocas e curte comer bem? Este post é para você!</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/bem-viver/padarias-sao-paulo-campinas200/" rel="attachment wp-att-8850"><img class="alignnone size-full wp-image-8850" title="PADARIAS-SAO PAULO-CAMPINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PADARIAS-SAO-PAULO-CAMPINAS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/"><span style="font-size: medium;"><br /> Só em São Paulo se toma café da manhã na padaria?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/bem-viver/padarias-sao-paulo-campinas200/" rel="attachment wp-att-8850"><img class="alignnone size-full wp-image-8850" title="PADARIAS-SAO PAULO-CAMPINAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PADARIAS-SAO-PAULO-CAMPINAS200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/"><span style="font-size: medium;"><br /> Só em São Paulo se toma café da manhã na padaria?</span></a>**
       </p>
     </td>
   </tr>
@@ -121,13 +121,13 @@ Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_b
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/culinaria-italiana200/" rel="attachment wp-att-8796"><img class="alignnone size-full wp-image-8796" title="CULINARIA ITALIANA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CULINARIA-ITALIANA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/"><span style="font-size: medium;"><br /> Você aprecia a culinária de outros países?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/culinaria-italiana200/" rel="attachment wp-att-8796"><img class="alignnone size-full wp-image-8796" title="CULINARIA ITALIANA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CULINARIA-ITALIANA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/"><span style="font-size: medium;"><br /> Você aprecia a culinária de outros países?</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/bem-viver/vanessa200/" rel="attachment wp-att-8610"><img class="alignnone size-full wp-image-8610" title="Vanessa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Vanessa200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/"><span style="font-size: medium;"><br /> Tem uma área verde na sua cidade para passear?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/bem-viver/vanessa200/" rel="attachment wp-att-8610"><img class="alignnone size-full wp-image-8610" title="Vanessa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Vanessa200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/"><span style="font-size: medium;"><br /> Tem uma área verde na sua cidade para passear?</span></a>**
       </p>
     </td>
   </tr>
@@ -135,13 +135,13 @@ Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_b
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/bem-viver/olympus-digital-camera-35/" rel="attachment wp-att-8490"><img class="alignnone size-full wp-image-8490" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ITAPETINGA-CANDIDA-NOLASCO-BAHIA-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/01/27/viagem-destinos-brasil/"><span style="font-size: medium;">Viagem: qual o seu refúgio para fugir do agito da cidade?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/bem-viver/olympus-digital-camera-35/" rel="attachment wp-att-8490"><img class="alignnone size-full wp-image-8490" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ITAPETINGA-CANDIDA-NOLASCO-BAHIA-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/01/27/viagem-destinos-brasil/"><span style="font-size: medium;">Viagem: qual o seu refúgio para fugir do agito da cidade?</span></a>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <strong><a href="http://www.trololodemulher.com.br/2011/12/16/vida-cheia-de-estilo/viagem-mapa200/" rel="attachment wp-att-8179"><img class="alignnone size-full wp-image-8179" title="VIAGEM MAPA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/11/11/para-onde-voce-gosta-de-viajar/"><span style="font-size: medium;"><br /> Para onde você gosta de viajar?</span></a></strong>
+        **<a href="http://www.trololodemulher.com.br/2011/12/16/vida-cheia-de-estilo/viagem-mapa200/" rel="attachment wp-att-8179"><img class="alignnone size-full wp-image-8179" title="VIAGEM MAPA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2011/11/11/para-onde-voce-gosta-de-viajar/"><span style="font-size: medium;"><br /> Para onde você gosta de viajar?</span></a>**
       </p>
     </td>
   </tr>
@@ -158,7 +158,7 @@ Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_b
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;
@@ -182,9 +182,9 @@ Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_b
 &nbsp;
 
 <p align="center">
-  <strong>Vamos manter contato?</strong>
+  **Vamos manter contato?**
 </p>
 
 <p align="center">
-  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
+  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
 </p>

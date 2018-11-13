@@ -1,7 +1,7 @@
 ---
-id: 2670
+
 title: Post-Confeito do Bicha Fêmea = Dica. Lembram?
-date: 2009-06-03T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/03/post-confeito-do-bicha-fmea-dica-lembram/

@@ -1,7 +1,7 @@
 ---
-id: 3251
+
 title: Qual é o mistério do sucesso da Margaret?
-date: 2013-08-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/16/margaret-empreendedorismo/
@@ -12,7 +12,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p style="text-align: justify;">
-  Tudo que ela posta no <strong><a href="https://www.facebook.com/margaretss50" target="_blank">Facebook</a></strong> ganha proporções admiráveis. O que publica em <strong><a href="http://www.margaretss.com.br/" target="_blank">seu blog</a></strong> tem uma visibilidade respeitável, e indiscutível. Até mesmo a <strong><a href="http://divitae.com.br/home" target="_blank">Divitae</a></strong>, empresa que abriu com a cara e a coragem, como ela mesma afirma, alcançou o sucesso visível, e em pouquíssimo tempo. Afinal, qual é o segredo da Margaret?
+  Tudo que ela posta no **<a href="https://www.facebook.com/margaretss50" target="_blank">Facebook</a>** ganha proporções admiráveis. O que publica em **<a href="http://www.margaretss.com.br/" target="_blank">seu blog</a>** tem uma visibilidade respeitável, e indiscutível. Até mesmo a **<a href="http://divitae.com.br/home" target="_blank">Divitae</a>**, empresa que abriu com a cara e a coragem, como ela mesma afirma, alcançou o sucesso visível, e em pouquíssimo tempo. Afinal, qual é o segredo da Margaret?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -20,15 +20,15 @@ categories:
 </p>
 
 > <p align="justify">
->   <strong><span style="font-size: large;">…um número imensurável de pessoas quer algo fácil para ganhar dinheiro rápido. Eu não acredito que a fórmula para isto exista, ou &#8211; caso exista &#8211; quem a inventou, guardou-a só para ele&#8230; “</span></strong>
+>   **<span style="font-size: large;">…um número imensurável de pessoas quer algo fácil para ganhar dinheiro rápido. Eu não acredito que a fórmula para isto exista, ou &#8211; caso exista &#8211; quem a inventou, guardou-a só para ele&#8230; “</span>**
 > </p>
 
 <p align="justify">
-  Sem dúvida, esse é o maior trunfo da Margaret e, certamente por isso, a <strong><a href="http://divitae.com.br/home" target="_blank">Divitae</a></strong> cresceu tanto em tão pouco tempo. É fascinante ver como com tão pouco investimento em meios de <em>marketing</em> tradicional, uma empresa amplia seus negócios de forma consistente. A resposta para esse enigma a gente percebe vendo a atuação da Margaret em seu blog e no Facebook: muita criatividade e a cooperação apaixonada de seus fãs.
+  Sem dúvida, esse é o maior trunfo da Margaret e, certamente por isso, a **<a href="http://divitae.com.br/home" target="_blank">Divitae</a>** cresceu tanto em tão pouco tempo. É fascinante ver como com tão pouco investimento em meios de <em>marketing</em> tradicional, uma empresa amplia seus negócios de forma consistente. A resposta para esse enigma a gente percebe vendo a atuação da Margaret em seu blog e no Facebook: muita criatividade e a cooperação apaixonada de seus fãs.
 </p>
 
 <p align="justify">
-  Fundada pela Margaret, a Divitae é um sistema de lojas virtuais, pensado para atender quem quer algo simples, rápido para colocar em prática, que possa ser personalizado ao gosto pessoal e de fácil gerenciamento<strong>.</strong>
+  Fundada pela Margaret, a Divitae é um sistema de lojas virtuais, pensado para atender quem quer algo simples, rápido para colocar em prática, que possa ser personalizado ao gosto pessoal e de fácil gerenciamento**.**
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong>TM &#8211; Cite uma loja que arrasou na Divitae, de cara, e a que você atribui o sucesso dela.</strong>
+  **TM &#8211; Cite uma loja que arrasou na Divitae, de cara, e a que você atribui o sucesso dela.**
 </p>
 
 <p align="justify">
@@ -92,7 +92,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  <strong>TM &#8211; No aniversário de 1 ano a Divitae ganhou uma revista virtual. Quais os próximos passos?</strong>
+  **TM &#8211; No aniversário de 1 ano a Divitae ganhou uma revista virtual. Quais os próximos passos?**
 </p>
 
 &nbsp;
@@ -106,13 +106,13 @@ categories:
 </p>
 
 <p align="center">
-  <em>Capa da <strong><a href="http://issuu.com/divitaemagazine/docs/edicao01-aniversario" target="_blank">edição n° 1 da Revista Divitae</a></strong></em>
+  <em>Capa da **<a href="http://issuu.com/divitaemagazine/docs/edicao01-aniversario" target="_blank">edição n° 1 da Revista Divitae</a>**</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  <strong>TM &#8211; Quais suas recomendações para quem quer ter um negócio virtual e abrir uma loja num shopping online como a Divitae?</strong>
+  **TM &#8211; Quais suas recomendações para quem quer ter um negócio virtual e abrir uma loja num shopping online como a Divitae?**
 </p>
 
 &nbsp;

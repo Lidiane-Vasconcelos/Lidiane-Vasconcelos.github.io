@@ -1,7 +1,7 @@
 ---
-id: 2771
+
 title: Do projeto do nosso escritório ou home office.
-date: 2010-01-25T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/25/projeto-escritorio-home-office/
@@ -159,10 +159,10 @@ O gostoso de passar tantas horas no escritório é sentir-se bem num ambiente qu
 
 **Mais no Bicha Fêmea…**
 
-<a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-de-escritorio-ou-home-office-dicas/" target="_self"><strong><em>Organização de escritório ou home office: dicas.</em></strong></a>
+<a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-de-escritorio-ou-home-office-dicas/" target="_self">**<em>Organização de escritório ou home office: dicas.</em>**</a>
 
 **_<a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/" target="_self">Inspirações para a decoração do home office.</a>_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
 </p>

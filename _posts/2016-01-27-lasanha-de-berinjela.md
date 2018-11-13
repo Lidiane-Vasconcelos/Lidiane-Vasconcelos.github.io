@@ -1,7 +1,7 @@
 ---
-id: 3532
+
 title: Lasanha de berinjela
-date: 2016-01-27T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/27/lasanha-de-berinjela/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Hoje é dia de curtir as dicas de receitas práticas, gostosas e saudáveis compartilhadas pela Carol, aqui no <strong>Trololó de Mulher</strong>. A dica de hoje é um prato clássico, mas numa versão bem mais leve:<strong> lasanha de berinjela</strong>. A cara do prato é ótima, as instruções para executá-lo são bem simples e você pode anotar já! Experimente em seus domínios… coma bem e seja feliz!
+  Hoje é dia de curtir as dicas de receitas práticas, gostosas e saudáveis compartilhadas pela Carol, aqui no **Trololó de Mulher**. A dica de hoje é um prato clássico, mas numa versão bem mais leve:** lasanha de berinjela**. A cara do prato é ótima, as instruções para executá-lo são bem simples e você pode anotar já! Experimente em seus domínios… coma bem e seja feliz!
 </p>
 
 &nbsp;
@@ -66,23 +66,23 @@ Pimenta moída na hora a gosto;
 </p>
 
 <p align="justify">
-  <strong>Mais receitas da Carol:</strong>
+  **Mais receitas da Carol:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/13/peixe-assado/" target="_blank"><strong>Peixe assado ao molho de abóbora.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2016/01/13/peixe-assado/" target="_blank">**Peixe assado ao molho de abóbora.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/" target="_blank"><strong>Bolo de Chocolate Funcional.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/" target="_blank">**Bolo de Chocolate Funcional.**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank"><strong>Beijinho sem leite condensado.</strong></a>
+  <a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank">**Beijinho sem leite condensado.**</a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">

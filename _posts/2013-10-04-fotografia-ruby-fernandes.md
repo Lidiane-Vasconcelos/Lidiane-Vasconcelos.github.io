@@ -1,7 +1,7 @@
 ---
-id: 3266
+
 title: Os vários olhares na fotografia de Ruby Fernandes
-date: 2013-10-04T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/04/fotografia-ruby-fernandes/
@@ -40,7 +40,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   <strong><span style="font-size: medium;">Gosto de fotografar com muita luz natural as coisas simples do dia a dia. Sorrisos, beijos e abraços são o pozinho mágico que dá vida aos cliques que faço.”</span></strong>
+>   **<span style="font-size: medium;">Gosto de fotografar com muita luz natural as coisas simples do dia a dia. Sorrisos, beijos e abraços são o pozinho mágico que dá vida aos cliques que faço.”</span>**
 > </p>
 
 &nbsp;
@@ -60,29 +60,29 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais <strong><a href="http://rubyfernandes.com.br/" target="_blank">clicando aqui</a></strong>, e conheça muito mais do trabalho dessa profissional<em> superultramega</em> talentosa.
+  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais **<a href="http://rubyfernandes.com.br/" target="_blank">clicando aqui</a>**, e conheça muito mais do trabalho dessa profissional<em> superultramega</em> talentosa.
 </p>
 
 <p align="center">
-  <strong><span style="font-size: large;">Viva… com mais estilo!</span></strong>
+  **<span style="font-size: large;">Viva… com mais estilo!</span>**
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/07/casa-lar-decoracao/"><strong><span style="font-size: large;">Casa é diferente de lar, certo?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/08/07/casa-lar-decoracao/">**<span style="font-size: large;">Casa é diferente de lar, certo?</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/19/loja-infantil-campinas/"><strong><span style="font-size: large;">Mãe de Campinas, só leia se você valoriza uma infância de verdade!</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/19/loja-infantil-campinas/">**<span style="font-size: large;">Mãe de Campinas, só leia se você valoriza uma infância de verdade!</span>**</a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/"><strong><span style="font-size: large;">Tem uma área verde na sua cidade para passear?</span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/">**<span style="font-size: large;">Tem uma área verde na sua cidade para passear?</span>**</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;"> </span></strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;"> </span>**</a>
 </p>
 
 <p align="center">

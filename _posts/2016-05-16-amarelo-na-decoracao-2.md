@@ -1,7 +1,7 @@
 ---
-id: 3609
+
 title: 'Amarelo na decoração: 8 imagens com detalhes solares…'
-date: 2016-05-16T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/16/amarelo-na-decoracao-2/
@@ -14,11 +14,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também: </strong>
+  **Veja também: **
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank"><strong>Amarelo na decoração: como usar?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank">**Amarelo na decoração: como usar?**</a>
 </p>
 
 <p align="justify">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="justify">
-  <strong>Veja também:</strong>
+  **Veja também:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/" target="_blank"><strong>Quarto com parede amarela: você quer inspirações?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/" target="_blank">**Quarto com parede amarela: você quer inspirações?**</a>
 </p>
 
 &nbsp;

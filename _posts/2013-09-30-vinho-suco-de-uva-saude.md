@@ -1,7 +1,7 @@
 ---
-id: 3265
+
 title: Vinho e suco de uva oferecem os mesmos benefícios para a saúde?
-date: 2013-09-30T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/30/vinho-suco-de-uva-saude/
@@ -14,13 +14,13 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 &nbsp;
 
 <p align="justify">
-  A boa notícia é que há um substituto a altura, sem álcool, e muito delicioso: o<strong> suco de uva</strong>. Você já provou? Eu já, e me apaixonei. E mais: procurei tirar todas as dúvidas com a <strong>Dra. Pâmela Miguel, que é Nutricionista, </strong>e hoje vai nos brindar com tudo que precisamos saber sobre a bebida… tim tim!
+  A boa notícia é que há um substituto a altura, sem álcool, e muito delicioso: o** suco de uva**. Você já provou? Eu já, e me apaixonei. E mais: procurei tirar todas as dúvidas com a **Dra. Pâmela Miguel, que é Nutricionista, **e hoje vai nos brindar com tudo que precisamos saber sobre a bebida… tim tim!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: large;">Com a palavra, a especialista:</span></strong>
+  **<span style="font-size: large;">Com a palavra, a especialista:</span>**
 </p>
 
 &nbsp;
@@ -57,7 +57,7 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >       </p>
 >       
 >       <p align="center">
->         Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+>         Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 >       </p>
 >       
 >       <p>
@@ -113,23 +113,23 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >           </p>
 >           
 >           <p align="justify">
->             A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <strong><a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a></strong>. Se joga, informe-se, coma melhor e sinta-se bem.
+>             A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o **<a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>**. Se joga, informe-se, coma melhor e sinta-se bem.
 >           </p>
 >           
 >           <p align="center">
->             <strong><span style="font-size: large;">Tudo a ver:</span></strong>
+>             **<span style="font-size: large;">Tudo a ver:</span>**
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/"><strong><span style="font-size: large;">Seu coração está protegidos das doenças cardiovasculares?</span></strong></a>
+>             <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/">**<span style="font-size: large;">Seu coração está protegidos das doenças cardiovasculares?</span>**</a>
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/2013/07/15/saude-alimentacao/"><strong><span style="font-size: large;">Tomar líquido durante as refeições faz a barriga crescer: verdade ou mentira?</span></strong></a>
+>             <a href="http://www.trololodemulher.com.br/2013/07/15/saude-alimentacao/">**<span style="font-size: large;">Tomar líquido durante as refeições faz a barriga crescer: verdade ou mentira?</span>**</a>
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;">Azeite: o óleo que é amigo do peito, e é uma delícia!</span></strong></a>
+>             <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;">Azeite: o óleo que é amigo do peito, e é uma delícia!</span>**</a>
 >           </p>
 >           
 >           <p align="center">
@@ -141,7 +141,7 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >           </p>
 >           
 >           <p align="center">
->             <strong><span style="font-size: small;">Redes Sociais</span></strong>
+>             **<span style="font-size: small;">Redes Sociais</span>**
 >           </p>
 >           
 >           <p>

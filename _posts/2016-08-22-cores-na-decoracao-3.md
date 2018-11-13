@@ -1,7 +1,7 @@
 ---
-id: 3646
+
 title: 'Cinza, lilás e turquesa: como usar cores na decoração?'
-date: 2016-08-22T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/22/cores-na-decoracao-3/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p style="text-align: justify;">
-  Se você é como eu, vez ou outra cisma, tem um siricotico e decide: quer mais <strong>cores na decoração</strong>. O problema é que muitas vezes bate uma ligeira insegurança, e ficamos assim, sem saber exatamente qual cor usar ou como aplicá-la. Acontece bem assim, não é verdade?
+  Se você é como eu, vez ou outra cisma, tem um siricotico e decide: quer mais **cores na decoração**. O problema é que muitas vezes bate uma ligeira insegurança, e ficamos assim, sem saber exatamente qual cor usar ou como aplicá-la. Acontece bem assim, não é verdade?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -20,11 +20,11 @@ categories:
 <!--more-->
 
 <p style="text-align: center;">
-  <strong>Cores na decoração: por que te quero?</strong>
+  **Cores na decoração: por que te quero?**
 </p>
 
 <p style="text-align: center;">
-  <strong>Turquesa</strong>
+  **Turquesa**
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="center">
-  <strong>Cinza<em> beeeem</em> escuro</strong>
+  **Cinza<em> beeeem</em> escuro**
 </p>
 
 <p align="center">
@@ -52,27 +52,27 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>A propósito, não deixe de ler:</strong>
+  **A propósito, não deixe de ler:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar paredes com quadros.</strong></a>
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar paredes com quadros.**</a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank"><strong>Moldura: coadjuvante ou protagonista na decoração? Você decide.</strong></a>
+  <a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank">**Moldura: coadjuvante ou protagonista na decoração? Você decide.**</a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Decoração e interiores: que cor usar na pintura da parede da sala de estar?</a></strong>
+  **<a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Decoração e interiores: que cor usar na pintura da parede da sala de estar?</a>**
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong><a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para a sala de estar: mais ideias de cores.</a></strong>
+  **<a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para a sala de estar: mais ideias de cores.</a>**
 </p>
 
 <p style="text-align: center;" align="center">
-  <strong>Lilás</strong>
+  **Lilás**
 </p>
 
 <p align="center">
@@ -86,15 +86,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <strong>Vale a pena a leitura:</strong>
+  **Vale a pena a leitura:**
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas.</strong></a>
+  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas.**</a>
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.bichafemea.com/2013/10/07/cores-decoracao/" target="_blank"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver.</strong></a>
+  <a href="http://www.bichafemea.com/2013/10/07/cores-decoracao/" target="_blank">**Cores salpicadas na decoração aqui e acolá: lindeza de ver.**</a>
 </p>
 
 &nbsp;

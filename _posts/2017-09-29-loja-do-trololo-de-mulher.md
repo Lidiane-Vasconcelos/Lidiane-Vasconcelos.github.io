@@ -1,7 +1,7 @@
 ---
-id: 3808
+
 title: 'Novidade: Loja do Trololó de Mulher'
-date: 2017-09-29T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/29/loja-do-trololo-de-mulher/
@@ -13,7 +13,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  É com o coração saltitando de alegria que venho te contar essa novidade: agora temos a <a href="http://loja.trololodemulher.com.br/" target="_blank"><strong>Loja do Trololó de Mulher</strong></a>! Ela está prontinha, e estou colocando os produtinhos lá bem aos poucos. Sabe como é, <em>né</em>? Empreendedora trabalhando de casa no tempo que dá, já que minha prioridade é a maternidade… some-se a isso os cuidados com a casa, já que não dispomos aqui de funcionária exclusiva para essa atividade: pronto! Tempinho bem <em>inho</em>! Mas sigo em frente, dividindo para conquistar!
+  É com o coração saltitando de alegria que venho te contar essa novidade: agora temos a <a href="http://loja.trololodemulher.com.br/" target="_blank">**Loja do Trololó de Mulher**</a>! Ela está prontinha, e estou colocando os produtinhos lá bem aos poucos. Sabe como é, <em>né</em>? Empreendedora trabalhando de casa no tempo que dá, já que minha prioridade é a maternidade… some-se a isso os cuidados com a casa, já que não dispomos aqui de funcionária exclusiva para essa atividade: pronto! Tempinho bem <em>inho</em>! Mas sigo em frente, dividindo para conquistar!
 </p>
 
 <p align="justify">

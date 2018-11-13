@@ -1,7 +1,7 @@
 ---
-id: 3320
+
 title: Arroz integral (fora do comum) + filé de frango (no molho delícia!).
-date: 2014-07-14T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/14/arroz-integral-file-frango/
@@ -21,7 +21,7 @@ Não resisti em acrescentar essas observações ao título da receita que você 
 <!--more-->
 
 <p align="center">
-  <strong><span style="font-size: small;">Arroz:</span></strong>
+  **<span style="font-size: small;">Arroz:</span>**
 </p>
 
 &nbsp;
@@ -37,7 +37,7 @@ Não resisti em acrescentar essas observações ao título da receita que você 
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Frango:</span></strong>
+  **<span style="font-size: small;">Frango:</span>**
 </p>
 
 &nbsp;
@@ -57,15 +57,15 @@ Não resisti em acrescentar essas observações ao título da receita que você 
 Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 
 <p align="justify">
-  <strong>E para continuar na onda do franguinho:</strong>
+  **E para continuar na onda do franguinho:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/" target="_blank"><strong>Espetinho de frango saudável e saboroso… quer ver como faz?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/" target="_blank">**Espetinho de frango saudável e saboroso… quer ver como faz?**</a>
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/09/19/receita-frango/" target="_blank"><strong>Como você saboreia o franguinho do dia a dia?</strong></a>
+  <a href="http://www.trololodemulher.com.br/2012/09/19/receita-frango/" target="_blank">**Como você saboreia o franguinho do dia a dia?**</a>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que apren
 &nbsp;
 
 <p align="center">
-  <strong><span style="font-size: small;">Redes Sociais</span></strong>
+  **<span style="font-size: small;">Redes Sociais</span>**
 </p>
 
 &nbsp;

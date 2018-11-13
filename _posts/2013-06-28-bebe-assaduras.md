@@ -1,7 +1,7 @@
 ---
-id: 3239
+
 title: 'Bebê sem assaduras: é possível sim, mamãe!'
-date: 2013-06-28T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/28/bebe-assaduras/
@@ -15,13 +15,13 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Pois é! No<strong> Trololó de Mulher</strong> a consultoria, dessa vez, é de uma <strong>pediatra</strong>. Trata-se da <strong>Dra. Paolla Limy Matsuura Alberton, de Campinas</strong>. É ela quem nos alerta para vários detalhes no cuidado da cria e que, no final das contas, fará muita diferença no combate ás assaduras. <em>Espia</em>!
+  Pois é! No** Trololó de Mulher** a consultoria, dessa vez, é de uma **pediatra**. Trata-se da **Dra. Paolla Limy Matsuura Alberton, de Campinas**. É ela quem nos alerta para vários detalhes no cuidado da cria e que, no final das contas, fará muita diferença no combate ás assaduras. <em>Espia</em>!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ASSADURA-BEBE-PREVENCAO.jpg"><img class="alignnone size-full wp-image-9569" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ASSADURA-BEBE-PREVENCAO.jpg" alt="ASSADURA-BEBE-PREVENCAO" width="600" height="419" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ASSADURA-BEBE-PREVENCAO.jpg"><img class="alignnone size-full wp-image-9569" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ASSADURA-BEBE-PREVENCAO.jpg" alt="ASSADURA-BEBE-PREVENCAO" width="600" height="419" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ categories:
 </p>
 
 <p align="justify">
-  A <strong>Dra. Paolla</strong> confirma a necessidade de:
+  A **Dra. Paolla** confirma a necessidade de:
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  2 – Usar <strong>lenços umedecidos somente fora de casa</strong>. Embora eles sejam bons e práticos, <strong>o melhor mesmo é fazer a higiene com algodão e água e, em seguida, passar uma camada fina na região genital, incluindo o bubum</strong>;
+  2 – Usar **lenços umedecidos somente fora de casa**. Embora eles sejam bons e práticos, **o melhor mesmo é fazer a higiene com algodão e água e, em seguida, passar uma camada fina na região genital, incluindo o bubum**;
 </p>
 
 &nbsp;
@@ -49,7 +49,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A frequência de trocas ajuda a prevenir assaduras, e “<em>isso é o ponto mais importante. <strong>De nada adianta encher da pomada mais cara se a fralda ficar cozinhando o bumbum do bebê por horas.</strong> Por isso, <strong>trocas freqüentes protegem o bebê das assaduras</strong>. E é sempre bom lembrar que as pomadas que contem <strong>NISTATINA</strong> só devem ser usadas após a avaliação de um pediatra e com prescrição médica, pois a <strong>NISTATINA</strong> é um antibiótico usado somente nos casos em que há a presença do fungo Candida Albicans (a popular moniliase), sem ação nas assaduras por irritação.</em>”
+  A frequência de trocas ajuda a prevenir assaduras, e “<em>isso é o ponto mais importante. **De nada adianta encher da pomada mais cara se a fralda ficar cozinhando o bumbum do bebê por horas.** Por isso, **trocas freqüentes protegem o bebê das assaduras**. E é sempre bom lembrar que as pomadas que contem **NISTATINA** só devem ser usadas após a avaliação de um pediatra e com prescrição médica, pois a **NISTATINA** é um antibiótico usado somente nos casos em que há a presença do fungo Candida Albicans (a popular moniliase), sem ação nas assaduras por irritação.</em>”
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A <strong>Dra. Paolla</strong> também é blogueira, e escreve <strong>textos informativos na linguagem de mãe</strong>, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <strong><a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a></strong>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <strong><a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a></strong> e aproveita!
+  A **Dra. Paolla** também é blogueira, e escreve **textos informativos na linguagem de mãe**, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o **<a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a>**, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no **<a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a>** e aproveita!
 </p>
 
 <p align="center">

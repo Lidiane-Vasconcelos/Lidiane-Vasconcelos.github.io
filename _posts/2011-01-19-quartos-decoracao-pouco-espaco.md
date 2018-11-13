@@ -1,7 +1,7 @@
 ---
-id: 2935
+
 title: 'Quartos: soluções de decoração para ganhar espaço.'
-date: 2011-01-19T00:00:00+00:00
+
 author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/19/quartos-decoracao-pouco-espaco/
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong>Sugestão de objetos com graça e bossa para sua prateleira/mesa de cabeceira…</strong>
+  **Sugestão de objetos com graça e bossa para sua prateleira/mesa de cabeceira…**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -46,7 +46,7 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank"><em><strong>Caixa Moa</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank"><em>**Caixa Moa** </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
   </tr>
@@ -56,7 +56,7 @@ categories:
       <em> </em><em>Espalhe mimos decorativos pela casa e deixe seu canto cheio de bossa! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?</em></p> 
       
       <p style="text-align: justify;">
-        <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank"><em><strong>Regador Provençal</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">basta clicar</a></strong>!</em>
+        <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank"><em>**Regador Provençal** </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
     
@@ -89,7 +89,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <strong>Sugestão de caixa decorativa para sua mesa de cabeceira…</strong>
+  **Sugestão de caixa decorativa para sua mesa de cabeceira…**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -102,7 +102,7 @@ categories:
       <em>Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Organize, decore ou presenteie de forma diferente com caixas assim!</em></p> 
       
       <p style="text-align: justify;">
-        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank"><em><strong>Caixa Redonda Vintage</strong>  </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">basta clicar</a></strong>!</em>
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank"><em>**Caixa Redonda Vintage**  </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">basta clicar</a>**!</em>
       </p>
     </td>
   </tr>
@@ -123,13 +123,13 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Dicas e detalhes na decoração do quarto.](http://www.trololodemulher.com.br/2009/10/01/dicas-decoracao-quarto/)_**
 
 <p style="text-align: center;">
-  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a>> Quartos: soluções de decoração para ganhar espaço.
+  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>> Quartos: soluções de decoração para ganhar espaço.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
+  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
 </p>
 
 <p style="text-align: center;">
-  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
+  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
 </p>
