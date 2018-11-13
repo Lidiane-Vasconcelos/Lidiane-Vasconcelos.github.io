@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Quando se pretende emagrecer ou levar uma vida mais saudável, logo se pensa na **<a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank">dieta</a>**. Uma troca bastante comum e recomendada é a do pão. É preciso trocar a versão que leva farinha branca pelo **pão integral**. Já se perguntou o porquê é tão importante comer produtos integrais? “<em>A farinha branca é pobre em nutrientes, e você sentirá fome mais rápido. Já a farinha integral contém fibras, que é responsável por nos proporcionar maior saciedade</em>”, explica a **Nutricionista Jéssica Xavier, de Campo dos Goytacazes – RJ**. “<em>Escolha algum produto que contém farinha integral na sua composição, lembrando que ter uma alimentação saudável vai muito além de consumir produtos integrais. Procure um nutricionista para tirar suas dúvidas e te orientar qual melhor tratamento a seguir</em>”, alerta nossa consultora.
+  Quando se pretende emagrecer ou levar uma vida mais saudável, logo se pensa na **[dieta](http://www.trololodemulher.com.br/2016/08/09/dieta-3/) **. Uma troca bastante comum e recomendada é a do pão. É preciso trocar a versão que leva farinha branca pelo **pão integral**. Já se perguntou o porquê é tão importante comer produtos integrais? “_A farinha branca é pobre em nutrientes, e você sentirá fome mais rápido. Já a farinha integral contém fibras, que é responsável por nos proporcionar maior saciedade_”, explica a **Nutricionista Jéssica Xavier, de Campo dos Goytacazes – RJ**. “_Escolha algum produto que contém farinha integral na sua composição, lembrando que ter uma alimentação saudável vai muito além de consumir produtos integrais. Procure um nutricionista para tirar suas dúvidas e te orientar qual melhor tratamento a seguir_”, alerta nossa consultora.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.flickr.com/photos/28145073@N08/" target="_blank">Moyan_Brenn</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: [Moyan_Brenn](http://www.flickr.com/photos/28145073@N08/)  via [Foter.com](http://foter.com/)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) 
 </p>
 
 <p align="justify">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Depende! Muitos produtos dizem ser integrais e na verdade não são. Por isso, sempre oriento meus pacientes a terem o hábito de lerem os rótulos dos alimentos.  O produto que se diz ser integral só tem que ter ingredientes integrais, certo?! A maioria deses produtos tem ingredientes que não são nada saudáveis. Quando vocês virem nesses itens a farinha enriquecida com ferro e ácido fólico (farinha branca), você já vai saber que não é 100% integral, por conter farinha branca. Então, a partir de agora, vamos ler os rótulos, combinado?!”</em>
+  **“**_Depende! Muitos produtos dizem ser integrais e na verdade não são. Por isso, sempre oriento meus pacientes a terem o hábito de lerem os rótulos dos alimentos.  O produto que se diz ser integral só tem que ter ingredientes integrais, certo?! A maioria deses produtos tem ingredientes que não são nada saudáveis. Quando vocês virem nesses itens a farinha enriquecida com ferro e ácido fólico (farinha branca), você já vai saber que não é 100% integral, por conter farinha branca. Então, a partir de agora, vamos ler os rótulos, combinado?!”_
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Se você tem a oportunidade de fazer o seu próprio pão integral, ótimo! Agora, se você compra ele já pronto, leia o rótulo para poder escolher o melhor possível. Para o pão ser 100% integral, ele só deve conter farinha integral. Prete atenção nos rótulos, e lembre-se: os itens que aparecem primeiro são os que estão presentes em maior quantidade</em>.”
+  **“**_Se você tem a oportunidade de fazer o seu próprio pão integral, ótimo! Agora, se você compra ele já pronto, leia o rótulo para poder escolher o melhor possível. Para o pão ser 100% integral, ele só deve conter farinha integral. Prete atenção nos rótulos, e lembre-se: os itens que aparecem primeiro são os que estão presentes em maior quantidade_.”
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Não! Isso é mais um mito. O pão integral tem a mesma caloria de um pão de farinha branca. Porém, o pão integral contém fibras que é essencial para o bom funcionamento do intestino</em>.”
+  **“**_Não! Isso é mais um mito. O pão integral tem a mesma caloria de um pão de farinha branca. Porém, o pão integral contém fibras que é essencial para o bom funcionamento do intestino_.”
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Pão integral! Por conter fibras, te dará maior saciedade. Já a tapioca, por ser de alto índice glicêmico, você sentirá fome mais rápido.  Na hora de consumir a tapioca, acrescenta uma fonte de fibra, como a chia, linhaça, entre outras.</em>”
+  **“**_Pão integral! Por conter fibras, te dará maior saciedade. Já a tapioca, por ser de alto índice glicêmico, você sentirá fome mais rápido.  Na hora de consumir a tapioca, acrescenta uma fonte de fibra, como a chia, linhaça, entre outras._”
 </p>
 
 <p align="center">
@@ -62,15 +62,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/09/dieta-3/" target="_blank">Alimentos para sua dieta: as aparências enganam!</a>
+  [Alimentos para sua dieta: as aparências enganam!](http://www.trololodemulher.com.br/2016/08/09/dieta-3/) 
 </p>
 
 <p align="justify">
-  Reforçando, Jéssica atende em consultório: Ed. Alexandre Fleming, sala: 403 – Campos dos Goytacazes. Marcação de consultas: 22 99724-2115. Além do mais, ela mantém uma página no Facebook repleta de informação de qualidade, para que possamos manter nossa saúde em dia. A dica é que você <a href="https://www.facebook.com/jessicaxaviernutricionista/home" target="_blank">clique aqui, curta e acompanhe</a>! Além do mais, Jéssica também está no Instagram, <a href="https://www.instagram.com/jessicaxaviernutri/" target="_blank">para seguí-la, clique aqui</a>. Para mais informações:<a href="mailto:jessicaxaviernutri@gmail.com">jessicaxaviernutri@gmail.com</a>.
+  Reforçando, Jéssica atende em consultório: Ed. Alexandre Fleming, sala: 403 – Campos dos Goytacazes. Marcação de consultas: 22 99724-2115. Além do mais, ela mantém uma página no Facebook repleta de informação de qualidade, para que possamos manter nossa saúde em dia. A dica é que você [clique aqui, curta e acompanhe](https://www.facebook.com/jessicaxaviernutricionista/home) ! Além do mais, Jéssica também está no Instagram, [para seguí-la, clique aqui](https://www.instagram.com/jessicaxaviernutri/) . Para mais informações:<a href="mailto:jessicaxaviernutri@gmail.com">jessicaxaviernutri@gmail.com</a>.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

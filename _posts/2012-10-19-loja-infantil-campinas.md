@@ -14,7 +14,7 @@ Seus olhinhos já pularam do título e estão deslizando por aqui? Nossa! Isso j
 &nbsp;
 
 <p align="justify">
-  Numa dessas idas e vindas em passeios que faço no fim de semana, dei de cara com a **NINHO**…se você valoriza uma infância com criatividade, produtos sustentáveis e com <em>design</em> diferecenciado, <em>espia</em> só:
+  Numa dessas idas e vindas em passeios que faço no fim de semana, dei de cara com a **NINHO**…se você valoriza uma infância com criatividade, produtos sustentáveis e com _design_ diferecenciado, _espia_ só:
 </p>
 
 <!--more-->
@@ -40,7 +40,7 @@ Você ainda não conhece essa loja? Garanto que é preciso ir até lá, bonita! 
 &nbsp;
 
 <p align="justify">
-  Eu vi de tudo por lá: **brinquedos, roupas, sapatos, móveis de papelão e acessórios**. Tudo produzido com muita criatividade e dose extra de <em>design </em>de bom gosto, daqueles que revelam produtos bonitos e funcionais.
+  Eu vi de tudo por lá: **brinquedos, roupas, sapatos, móveis de papelão e acessórios**. Tudo produzido com muita criatividade e dose extra de _design _de bom gosto, daqueles que revelam produtos bonitos e funcionais.
 </p>
 
 &nbsp;
@@ -64,7 +64,7 @@ Você ainda não conhece essa loja? Garanto que é preciso ir até lá, bonita! 
 </p>
 
 <p align="justify">
-  Seja porque você gosta de um visual inusitado nas escolhas que faz para seu filho, ou ainda porque quer usar produtos nacionais, o fato é que se você curte uma <em>bossa</em> infantil e divertida nas coisas de seu pequeno (e deveria ser assim, não?!), a **Loja Ninho** é a sua cara. A minha já sei que é, e a do pequeno Artur (que pula como um cabritinho na minha barriga) também.
+  Seja porque você gosta de um visual inusitado nas escolhas que faz para seu filho, ou ainda porque quer usar produtos nacionais, o fato é que se você curte uma _bossa_ infantil e divertida nas coisas de seu pequeno (e deveria ser assim, não?!), a **Loja Ninho** é a sua cara. A minha já sei que é, e a do pequeno Artur (que pula como um cabritinho na minha barriga) também.
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Você ainda não conhece essa loja? Garanto que é preciso ir até lá, bonita! 
 </p>
 
 <p align="justify">
-  Você é de **Campinas e região**? O endereço é esse, oh: **Rua José Martins, 603, Barão Geraldo – ao lado da Praça do Coco**. Você mora muito longe mas curtiu a ideia? Se joga no **<em><a href="http://lojaninho.blogspot.com.br/" target="_blank">blog</a></em>**, **<em><a href="http://www.lojaninho.com.br/home.htm" target="_blank">site</a> </em>**e **<em><a href="https://www.facebook.com/lojaninho" target="_blank">Facebook</a></em>** da loja… e inspire-se!
+  Você é de **Campinas e região**? O endereço é esse, oh: **Rua José Martins, 603, Barão Geraldo – ao lado da Praça do Coco**. Você mora muito longe mas curtiu a ideia? Se joga no **_[blog](http://lojaninho.blogspot.com.br/) _**, **_[site](http://www.lojaninho.com.br/home.htm)  _**e **_[Facebook](https://www.facebook.com/lojaninho) _** da loja… e inspire-se!
 </p>
 
 &nbsp;
@@ -130,7 +130,7 @@ Você ainda não conhece essa loja? Garanto que é preciso ir até lá, bonita! 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -145,13 +145,13 @@ Você ainda não conhece essa loja? Garanto que é preciso ir até lá, bonita! 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Vamos combinar que não precisa usar esse recurso em todos os jogos de cama que você tem? Mas pelo menos um deles pode ter esse toque especial. Por que não? Eu mesma aderi a essa ideia, e tenho um jogo de cama com a palavrinha **NEOQEAV** **bordada** no lençol que cobre a cama e nas fronhas. O que significa? Deixa eu te contar: **N**ão **E**squeça **O Q**uanto **A**mo **V**ocê. Esta palavrinha ganhou um sentido especial para mim pouco tempo depois de conhecer o marido, há quase 10 anos, quando li **<a href="http://www.pedroozorio.com.br/mensagens/neoqav.htm" target="_blank">esta mensagem</a>**…
+  Vamos combinar que não precisa usar esse recurso em todos os jogos de cama que você tem? Mas pelo menos um deles pode ter esse toque especial. Por que não? Eu mesma aderi a essa ideia, e tenho um jogo de cama com a palavrinha **NEOQEAV** **bordada** no lençol que cobre a cama e nas fronhas. O que significa? Deixa eu te contar: **N**ão **E**squeça **O Q**uanto **A**mo **V**ocê. Esta palavrinha ganhou um sentido especial para mim pouco tempo depois de conhecer o marido, há quase 10 anos, quando li **[esta mensagem](http://www.pedroozorio.com.br/mensagens/neoqav.htm) **…
 </p>
 
 <p style="text-align: justify;">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Inspire-se no **espelho de moldura bege encostado na parede**, sobre a cômoda. Você tem uma no seu quarto? Dê a ela um charme especial providenciando algo assim… Reparou na **base do <em>abajour</em> e na almofada** que está sobre poltrona? Olha para a imagem e dá uma conferida…
+  Inspire-se no **espelho de moldura bege encostado na parede**, sobre a cômoda. Você tem uma no seu quarto? Dê a ela um charme especial providenciando algo assim… Reparou na **base do _abajour_ e na almofada** que está sobre poltrona? Olha para a imagem e dá uma conferida…
 </p>
 
 <p style="text-align: justify;">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se você é ousada e tem diposição e gosto pela decoração do tipo “faça você mesma”, pode escolher tecidos fofos e compor uma **parede de <em>patchwork</em>**. Escolher a que fica **na cabeceira da cama** pode ser uma boa opção. A imagem é para sua referência…é só imaginar: como ficaria no seu quarto?
+  Se você é ousada e tem diposição e gosto pela decoração do tipo “faça você mesma”, pode escolher tecidos fofos e compor uma **parede de _patchwork_**. Escolher a que fica **na cabeceira da cama** pode ser uma boa opção. A imagem é para sua referência…é só imaginar: como ficaria no seu quarto?
 </p>
 
 <p style="text-align: justify;">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Está mesmo disposta a forrar a sua parede com tecido? A **Elisa**, que é leitora do blog **<a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**, forrou a parede do <em>home office</em> dela e mostrou como ficou **bem aqui**. Se você precisa de mais estímulos para isso, a leitura desse post bem que pode ajudá-la nesse sentido… vai lá!
+  Está mesmo disposta a forrar a sua parede com tecido? A **Elisa**, que é leitora do blog **[Margaretss](http://www.margaretss.com.br/) **, forrou a parede do _home office_ dela e mostrou como ficou **bem aqui**. Se você precisa de mais estímulos para isso, a leitura desse post bem que pode ajudá-la nesse sentido… vai lá!
 </p>
 
 <p style="text-align: center;">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Me fala…do que adianta um quarto lindamente decorado se ele não tiver **roupa de cama confortável**? Isso é básico, concorda? Eu não sabia disso, até reparar que faz muita diferença dormir sobre lençois decentes de algodão. Quando é assim, ele não faz “bolinhas” no tecido, o toque no corpo é bem melhor, e a durabilidade…<em>hum</em>, isso nem se comenta…
+  Me fala…do que adianta um quarto lindamente decorado se ele não tiver **roupa de cama confortável**? Isso é básico, concorda? Eu não sabia disso, até reparar que faz muita diferença dormir sobre lençois decentes de algodão. Quando é assim, ele não faz “bolinhas” no tecido, o toque no corpo é bem melhor, e a durabilidade…_hum_, isso nem se comenta…
 </p>
 
 <p style="text-align: justify;">
@@ -113,10 +113,10 @@ categories:
   Por que não? Pense comigo e você verá que essa ideia tem seu valor. Tudo depende da **cadeira que você escolhe para ser uma mesinha de cabeceira**. Basta que ela tenha charme…e você pode complementar o catinho com uma bela **composição de pôsters** a exemplo do que você vê na imagem para sua referência… repara novamente!
 </p>
 
-Imagens: **<a href="http://www.countryliving.com/" target="_blank">CountryLiving</a>**
+Imagens: **[CountryLiving](http://www.countryliving.com/) **
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

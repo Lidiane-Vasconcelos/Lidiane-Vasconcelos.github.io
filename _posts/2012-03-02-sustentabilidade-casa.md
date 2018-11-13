@@ -26,7 +26,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 </p>
 
 <p align="justify">
-  Sabendo que o consumo e a produção do que quer que seja causam, sim, impacto no meio ambiente, a mulherada aprendeu direitinho a conjugar os verbos** reduzir, reutilizar e reciclar.** Se você ainda não se deu conta, a sustentabilidade passa por esses três momentos de sua vida no dia a dia, <em>viu</em>? Então, oh: não perca de vista que é super importante:
+  Sabendo que o consumo e a produção do que quer que seja causam, sim, impacto no meio ambiente, a mulherada aprendeu direitinho a conjugar os verbos** reduzir, reutilizar e reciclar.** Se você ainda não se deu conta, a sustentabilidade passa por esses três momentos de sua vida no dia a dia, _viu_? Então, oh: não perca de vista que é super importante:
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA.jpg"><img class="alignnone size-full wp-image-8556" title="SUSTENTABILIDADE EM CASA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA.jpg" alt="" width="600" height="363" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA.jpg"><img class="alignnone size-full wp-image-8556" title="SUSTENTABILIDADE EM CASA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA.jpg" alt="" width="600" height="363" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;
@@ -66,13 +66,13 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 > <p align="justify">
->   “<em>No meu dia a dia e no dia a dia da minha família, acho que contribuímos bastante com a sustentabilidade. Eu e meu marido, por termos que fazer atividades físicas recomendadas pelo médico, optamos em fazer a pé alguns percursos que antes fazíamos de carro&#8230;ou seja, além de cuidar da saúde também contribuímos com a sustentabilidade.”</em> **Vânia Pinho** | **<a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**
+>   “_No meu dia a dia e no dia a dia da minha família, acho que contribuímos bastante com a sustentabilidade. Eu e meu marido, por termos que fazer atividades físicas recomendadas pelo médico, optamos em fazer a pé alguns percursos que antes fazíamos de carro&#8230;ou seja, além de cuidar da saúde também contribuímos com a sustentabilidade.”_ **Vânia Pinho** | **[Casa de Boneca](http://www.casadebonecadecor.blogspot.com/) **
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Da mesma forma que andar a pé contribui para diminuir a emissão de poluentes, **optar por transporte público** sempre que possível é uma forma de contribuir nesse sentido. Sabe quem já tem consciência disso? A **Carina**, do blog **<a href="http://zumzumverde.blogspot.com/" target="_blank">Zum Zum Verde</a>**, e a **Rosana Silva | <a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a>**. E quanto a você?
+  Da mesma forma que andar a pé contribui para diminuir a emissão de poluentes, **optar por transporte público** sempre que possível é uma forma de contribuir nesse sentido. Sabe quem já tem consciência disso? A **Carina**, do blog **[Zum Zum Verde](http://zumzumverde.blogspot.com/) **, e a **Rosana Silva | [Simples Decoração](http://www.simplesdecoracao.com.br/) **. E quanto a você?
 </p>
 
 &nbsp;
@@ -88,11 +88,11 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 </p>
 
 > <p align="justify">
->   “<em>Quero falar como representante da Maternagem na web, sobre um hábito muito bobo, mas que poderia ser adotado por todas, causando certamente algum impacto: **reutilizar a água do banho do bebê para dar descarga**!”</em> **Anne Rammi** | **<a href="http://www.mamatraca.com.br/" target="_blank">Mamatraca</a>**
+>   “_Quero falar como representante da Maternagem na web, sobre um hábito muito bobo, mas que poderia ser adotado por todas, causando certamente algum impacto: **reutilizar a água do banho do bebê para dar descarga**!”_ **Anne Rammi** | **[Mamatraca](http://www.mamatraca.com.br/) **
 > </p>
 
 <p align="justify">
-  Sabe quem mais reutiliza a água, e de que forma? **Carina | ****<a href="http://zumzumverde.blogspot.com/" target="_blank">Zum Zum Verde</a>**, reaproveita a água da máquina de lavar roupa para **limpar o chão da cozinha**. No caso da **Rogéria Thompson | <a href="http://umespaoprachamardemeu.blogspot.com/" target="_blank">Um espaço pra chamar de meu</a>**, o reaproveitamento serve para **lavar o quintal**. Já a **Vânia Pinho | ****<a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**, **lava a varanda do apartamento** usando novamente a água do enxágue da máquina e a **Mara**, por sua vez, economiza a água nesse sentido na hora de **lavar a área de serviço**. Fica a dica!
+  Sabe quem mais reutiliza a água, e de que forma? **Carina | ****[Zum Zum Verde](http://zumzumverde.blogspot.com/) **, reaproveita a água da máquina de lavar roupa para **limpar o chão da cozinha**. No caso da **Rogéria Thompson | [Um espaço pra chamar de meu](http://umespaoprachamardemeu.blogspot.com/) **, o reaproveitamento serve para **lavar o quintal**. Já a **Vânia Pinho | ****[Casa de Boneca](http://www.casadebonecadecor.blogspot.com/) **, **lava a varanda do apartamento** usando novamente a água do enxágue da máquina e a **Mara**, por sua vez, economiza a água nesse sentido na hora de **lavar a área de serviço**. Fica a dica!
 </p>
 
 <p align="justify">
@@ -100,7 +100,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 </p>
 
 > <p align="justify">
->   “<em>Escovar os dentes embaixo do chuveiro? JAMAIS! Não deixo ninguém escovar os dentes com a torneira aberta sem necessidade e quando abrir, abrir pouco e não ela inteira&#8230;por que não há necessidade</em>.”** Irani Patriota**
+>   “_Escovar os dentes embaixo do chuveiro? JAMAIS! Não deixo ninguém escovar os dentes com a torneira aberta sem necessidade e quando abrir, abrir pouco e não ela inteira&#8230;por que não há necessidade_.”** Irani Patriota**
 > </p>
 
 &nbsp;
@@ -112,7 +112,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="justify">
-  Isso já começa por uma atitude bem simples, bonita: **não jogar lixo na rua**. E, oh: não posso acreditar que você ainda faça isso… se fizer, nem me conta, <em>pelamor</em>!!!!
+  Isso já começa por uma atitude bem simples, bonita: **não jogar lixo na rua**. E, oh: não posso acreditar que você ainda faça isso… se fizer, nem me conta, _pelamor_!!!!
 </p>
 
 &nbsp;
@@ -128,7 +128,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="justify">
-  Além disso, a **Vânia Pinho | <a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**, **evita o chuveiro elétrico** sempre que possível. Inspire-se!
+  Além disso, a **Vânia Pinho | [Casa de Boneca](http://www.casadebonecadecor.blogspot.com/) **, **evita o chuveiro elétrico** sempre que possível. Inspire-se!
 </p>
 
 &nbsp;
@@ -146,13 +146,13 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 > <p align="justify">
->   “<em>Recentemente, comecei a **compostar **o meu **lixo orgânico** e, apesar de morar em apartamento,  a experiência tem dado muito certo! Já estou enviando menos lixo para os aterros sanitários e em breve terei um adubo orgânico de qualidade para as minhas plantinhas!”</em> **Carina |** **<a href="http://zumzumverde.blogspot.com/" target="_blank">Zum Zum Verde</a>**
+>   “_Recentemente, comecei a **compostar **o meu **lixo orgânico** e, apesar de morar em apartamento,  a experiência tem dado muito certo! Já estou enviando menos lixo para os aterros sanitários e em breve terei um adubo orgânico de qualidade para as minhas plantinhas!”_ **Carina |** **[Zum Zum Verde](http://zumzumverde.blogspot.com/) **
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Quem já experimentou **aproveitar coisas** descobre o quanto é surpreendente e gratificante o resultado imediato que se pode alcançar **dando cara nova às coisas velhas**, sem contar que está sim colaborando com as causas ambientais. </em><em>Gosto de guardar as caixas de presente, papel de seda, laços e fitas etc., há anos  que não preciso comprar esses itens de novo”</em> **Yvone | <a href="http://casaspossiveis.blogspot.com/" target="_blank">Casas Possíveis</a>**
+>   “_Quem já experimentou **aproveitar coisas** descobre o quanto é surpreendente e gratificante o resultado imediato que se pode alcançar **dando cara nova às coisas velhas**, sem contar que está sim colaborando com as causas ambientais. __Gosto de guardar as caixas de presente, papel de seda, laços e fitas etc., há anos  que não preciso comprar esses itens de novo”_ **Yvone | [Casas Possíveis](http://casaspossiveis.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -164,13 +164,13 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 > <p align="justify">
->   “<em>Em relação as práticas sustentáveis que fazem parte da minha rotina posso dizer que sempre carrego minhas ecobags, deixo as caixas das embalagens no supermercado</em>” **Geisa **
+>   “_Em relação as práticas sustentáveis que fazem parte da minha rotina posso dizer que sempre carrego minhas ecobags, deixo as caixas das embalagens no supermercado_” **Geisa **
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Também é super interessante, nesse sentido, evitar o consumo dos produtos industrializados. Quando não for possível evitá-los, a gente pode fazer como a** Adelaide | **<a href="http://euseivoucontar.blogspot.com/" target="_blank">**Eu sei… vou contar!**</a> , que dá a dica: “<em>evito o uso de produtos industrializados e procuro comprar de empresas que tenham preocupação com o meio ambiente</em>”.
+  Também é super interessante, nesse sentido, evitar o consumo dos produtos industrializados. Quando não for possível evitá-los, a gente pode fazer como a** Adelaide | **[**Eu sei… vou contar!**](http://euseivoucontar.blogspot.com/)  , que dá a dica: “_evito o uso de produtos industrializados e procuro comprar de empresas que tenham preocupação com o meio ambiente_”.
 </p>
 
 &nbsp;
@@ -182,7 +182,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="justify">
-  E não custa lembrar: separar o lixo hoje em dia é <em>superultramega</em> básico, bem como jogar pilhas e baterias em local apropriado para isso.
+  E não custa lembrar: separar o lixo hoje em dia é _superultramega_ básico, bem como jogar pilhas e baterias em local apropriado para isso.
 </p>
 
 <p align="justify">
@@ -216,7 +216,7 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -231,13 +231,13 @@ Você, assim como eu, sempre escuta falar em **sustentabilidade**, não é? Quem
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

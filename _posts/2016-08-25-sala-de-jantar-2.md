@@ -12,7 +12,7 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Se você está lendo esse post, aposto que lá no fundo, no fundinho mesmo, você sempre cultivou o desejo de usar cadeiras vermelhas na sua mesa da **<a href="https://www.homify.pt/mesa-jantar" target="_blank">sala de jantar</a>**, mas… cadê a coragem? Pudera! A cor é linda de viver, mas tem presença marcante, e você tem receio de parecer demais, errar a mão, e <em>tals</em>. Não é isso?
+  Se você está lendo esse post, aposto que lá no fundo, no fundinho mesmo, você sempre cultivou o desejo de usar cadeiras vermelhas na sua mesa da **[sala de jantar](https://www.homify.pt/mesa-jantar) **, mas… cadê a coragem? Pudera! A cor é linda de viver, mas tem presença marcante, e você tem receio de parecer demais, errar a mão, e _tals_. Não é isso?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -28,7 +28,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Cadeiras vermelhas numa sala <em>superultramega</em> neutra que explora o preto e branco.
+  Cadeiras vermelhas numa sala _superultramega_ neutra que explora o preto e branco.
 </p>
 
 &nbsp;
@@ -93,16 +93,16 @@ categories:
 
 **Mais sobre cores e ambiente de jantar:**
 
-<a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas.**</a>
+[**Cores na decoração: veja 6 respostas e acabe com suas dúvidas.**](http://www.bichafemea.com/2014/02/13/cores-na-decoracao/) 
 
-<a href="http://www.bichafemea.com/2014/04/01/cadeiras-mesa-jantar/" target="_blank">**Cadeiras diferentes na mesa de jantar: veja 3 ideias.**</a>
+[**Cadeiras diferentes na mesa de jantar: veja 3 ideias.**](http://www.bichafemea.com/2014/04/01/cadeiras-mesa-jantar/) 
 
-<a href="http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank">**Quer misturar cadeiras diferentes na mesa da sala de jantar?**</a>
+[**Quer misturar cadeiras diferentes na mesa da sala de jantar?**](http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/) 
 
-Imagens: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+Imagens: [homedit](http://www.homedit.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

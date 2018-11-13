@@ -14,7 +14,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Para falar a verdade, ela bem que gostaria dos seus <em>pitacos</em> também, tenho certeza disso. O fato é que a bonita mandou um <em>e-mail</em> para mim, relatando que em **Portugal** a crise econômica continua forte… mas as pessoas continuam tendo seus desejos, com a diferença da necessidade de adaptá-los a nova realidade financeira.
+  Para falar a verdade, ela bem que gostaria dos seus _pitacos_ também, tenho certeza disso. O fato é que a bonita mandou um _e-mail_ para mim, relatando que em **Portugal** a crise econômica continua forte… mas as pessoas continuam tendo seus desejos, com a diferença da necessidade de adaptá-los a nova realidade financeira.
 </p>
 
 <!--more-->
@@ -24,7 +24,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 > <p align="justify">
->   “<em>Olá, bom dia! Tenho seguido o seu blog com muito carinho. Nem sempre comento, mas estou atenta. Gostaria de lhe fazer um pedido. Estamos numa fase de grande recessão aqui em Portugal e, cortando na maioria das despesas banais que tinha, porém que davam um pouco de ânimo ao nosso ego, ando aqui com intenções de dar um ar mais confortável ao meu escritório, com espaço grande, mas sem saber como dar o meu jeito. </em><em>Ontem andei por aqui a ver decorações fantásticas e tirei algumas ideias. </em><em>Sem gastar dinheiro, a não ser em molduras para fotos, gostaria que me desse umas dicas…</em>
+>   “_Olá, bom dia! Tenho seguido o seu blog com muito carinho. Nem sempre comento, mas estou atenta. Gostaria de lhe fazer um pedido. Estamos numa fase de grande recessão aqui em Portugal e, cortando na maioria das despesas banais que tinha, porém que davam um pouco de ânimo ao nosso ego, ando aqui com intenções de dar um ar mais confortável ao meu escritório, com espaço grande, mas sem saber como dar o meu jeito. __Ontem andei por aqui a ver decorações fantásticas e tirei algumas ideias. __Sem gastar dinheiro, a não ser em molduras para fotos, gostaria que me desse umas dicas…_
 > </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 > <p align="justify">
->   <em>… A estante que está na foto, era de cor preta, poli-a, eu mesma, e pintei-a…</em>
+>   _… A estante que está na foto, era de cor preta, poli-a, eu mesma, e pintei-a…_
 > </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 > <p align="justify">
->   <em>… A sala é retangular, de um lado tenho a estante e a secretária…</em>
+>   _… A sala é retangular, de um lado tenho a estante e a secretária…_
 > </p>
 
 &nbsp;
@@ -60,7 +60,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 > <p align="justify">
->   <em>…Em frente tenho o sofá cama e ao lado mais uma estante pequena…</em>
+>   _…Em frente tenho o sofá cama e ao lado mais uma estante pequena…_
 > </p>
 
 &nbsp;
@@ -72,7 +72,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 > <p align="justify">
->   <em>…A mesa de vidro que aparece na foto, foi colocada aí porque não tenho onde a pôr e vou dá-la. Tenho muitas fotos de família que pensei colocar na parede onde se encontra a mesa de vidro. Junto à secretária, tenho umas fotos desenhadas a lápis, dos meus avós cujas molduras estão velhas e não sei o que fazer delas, nem tenho onde as guardar. Fico receptiva às suas sugestões, que são sempre econômicas e simples. Obrigada. Um beijinho”</em> **Maria Araújo | **<a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank">**Cantinho da Casa**</a>
+>   _…A mesa de vidro que aparece na foto, foi colocada aí porque não tenho onde a pôr e vou dá-la. Tenho muitas fotos de família que pensei colocar na parede onde se encontra a mesa de vidro. Junto à secretária, tenho umas fotos desenhadas a lápis, dos meus avós cujas molduras estão velhas e não sei o que fazer delas, nem tenho onde as guardar. Fico receptiva às suas sugestões, que são sempre econômicas e simples. Obrigada. Um beijinho”_ **Maria Araújo | **[**Cantinho da Casa**](http://cantinhodacasa.blogs.sapo.pt/) 
 > </p>
 
 &nbsp;
@@ -88,13 +88,13 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="justify">
-  **<em><span style="font-size: large;">1</span></em>** &#8211; Eu faria uma **seleção dos livros que, realmente, ficariam expostos na estante**. Os que não ficariam, eu gardaria em outro local para futura rotatividade, ou faria doações. Ao retirar os livros, o visual da estante ficaria mais leve, e eu **acrescentaria alguns pequenos objetos decorativos que estivessem em outros locais da casa.** **Alguns objetos eu colocaria ao lado de alguns livros empilhados em pé, outros eu colocaria sobre pilhas de dois ou três livros deitados**. A inspiração para minha dica vem dessa imagem:
+  **_<span style="font-size: large;">1</span>_** &#8211; Eu faria uma **seleção dos livros que, realmente, ficariam expostos na estante**. Os que não ficariam, eu gardaria em outro local para futura rotatividade, ou faria doações. Ao retirar os livros, o visual da estante ficaria mais leve, e eu **acrescentaria alguns pequenos objetos decorativos que estivessem em outros locais da casa.** **Alguns objetos eu colocaria ao lado de alguns livros empilhados em pé, outros eu colocaria sobre pilhas de dois ou três livros deitados**. A inspiração para minha dica vem dessa imagem:
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-de-parede3/" rel="attachment wp-att-6448"><img class="alignnone size-full wp-image-6448" title="decoração de parede[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede3.jpg" alt="" width="550" height="733" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank">**<em>Better Homes and Gardens</em>**</a>
+  [**_Better Homes and Gardens_**](http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-de-parede3/" rel="attachment wp-att-6448"><img class="alignnone size-full wp-image-6448" title="decoração de parede[3]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-parede3.jpg" alt="" width="550" height="733" /></a><br /> Fonte: <a href="http://www.bhg.com/) 
 </p>
 
 &nbsp;
@@ -124,13 +124,13 @@ O _e-mail_ que recebi dela foi assim:
 </p>
 
 <p align="justify">
-  No mural eu uso **alfinetinhos de cabeça colorida para prender <em>post-its</em> com recados, fotos, listas, etc**. Você pode prender fotos, ou o que mais quiser. É super útil e, dependendo do que você coloque no mural, pode se tornar um **cantinho de boas recordações**. Olha como o mural da imagem abaixo está colorido:
+  No mural eu uso **alfinetinhos de cabeça colorida para prender _post-its_ com recados, fotos, listas, etc**. Você pode prender fotos, ou o que mais quiser. É super útil e, dependendo do que você coloque no mural, pode se tornar um **cantinho de boas recordações**. Olha como o mural da imagem abaixo está colorido:
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-organizado-e-decorado/" rel="attachment wp-att-5438"><img class="alignnone size-full wp-image-5438" title="escritório organizado e decorado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-e-decorado1.jpg" alt="" width="300" height="400" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank">**<em>Better Homes and Gardens</em>**</a>
+  [**_Better Homes and Gardens_**](http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/escritorio-organizado-e-decorado/" rel="attachment wp-att-5438"><img class="alignnone size-full wp-image-5438" title="escritório organizado e decorado" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/escritorio-organizado-e-decorado1.jpg" alt="" width="300" height="400" /></a><br /> Fonte: <a href="http://www.bhg.com/) 
 </p>
 
 &nbsp;
@@ -146,7 +146,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-escritorio-home-office-6/" rel="attachment wp-att-9004"><img class="alignnone size-full wp-image-9004" title="DECORACAO-ESCRITORIO-HOME OFFICE [6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-ESCRITORIO-HOME-OFFICE-6.jpg" alt="" width="300" height="333" /></a><br /> Fonte: <a href="http://www.bhg.com/" target="_blank">**<em>Better Homes and Gardens</em>**</a>
+  [**_Better Homes and Gardens_**](http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-escritorio-home-office-6/" rel="attachment wp-att-9004"><img class="alignnone size-full wp-image-9004" title="DECORACAO-ESCRITORIO-HOME OFFICE [6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-ESCRITORIO-HOME-OFFICE-6.jpg" alt="" width="300" height="333" /></a><br /> Fonte: <a href="http://www.bhg.com/) 
 </p>
 
 &nbsp;
@@ -162,17 +162,17 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-do-quarto-espelho/" rel="attachment wp-att-5807"><img class="alignnone size-full wp-image-5807" title="decoração do quarto - espelho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-espelho1.jpg" alt="" width="400" height="420" /></a><br /> Fonte: <a href="http://www.myhomeideas.com/" target="_blank">**<em>myhomeideas</em>**</a>
+  [**_myhomeideas_**](http://www.trololodemulher.com.br/2012/08/10/decoracao-barata-escritorio/decoracao-do-quarto-espelho/" rel="attachment wp-att-5807"><img class="alignnone size-full wp-image-5807" title="decoração do quarto - espelho" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/decoracao-do-quarto-espelho1.jpg" alt="" width="400" height="420" /></a><br /> Fonte: <a href="http://www.myhomeideas.com/) 
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Isso pode servir de ispiração para você. Depois, quando for montar a composição de quadros com as fotos dos seus familiares na parede onde está a mesinha, você pode seguir as dicas sobre **<a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a>**.
+  Isso pode servir de ispiração para você. Depois, quando for montar a composição de quadros com as fotos dos seus familiares na parede onde está a mesinha, você pode seguir as dicas sobre **[como decorar a parede com quadros](http://www.decoracaodacasa.com/decoracao-parede-quadros/) **.
 </p>
 
 <p align="justify">
-  Então é isso… espero que as dicas tenham sido úteis em alguma medida para você, Maria. Melhor ainda se outras bichas fêmeas navegantes deixarem seus comentários com mais <em>pitacos</em>, <em>né </em>não? Quem sabe isso não acontece? Vamos aguardar as cenas dos próximos capítulos?
+  Então é isso… espero que as dicas tenham sido úteis em alguma medida para você, Maria. Melhor ainda se outras bichas fêmeas navegantes deixarem seus comentários com mais _pitacos_, _né _não? Quem sabe isso não acontece? Vamos aguardar as cenas dos próximos capítulos?
 </p>
 
 &nbsp;
@@ -218,7 +218,7 @@ O _e-mail_ que recebi dela foi assim:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -233,13 +233,13 @@ O _e-mail_ que recebi dela foi assim:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

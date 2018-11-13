@@ -47,18 +47,18 @@ Varanda, terraço ou área externa sem rede tem razão de existir?
 
 Se o balanço não for na rede, pode ser num móvel projetado para isso. Por que não? Almofadas para colorir o ambiente, um móvel de apoio para uma bebida ou petisco, e um belo cesto de palha para deixar as revistas ali, displicentemente…
 
-Imagens: <a href="http://www.countryliving.com/" target="_blank">Country Living</a>
+Imagens: [Country Living](http://www.countryliving.com/) 
 
 <span style="color: #800080;">Diz aí, você tem uma área externa nos seus domínios? O que você costuma fazer por lá?</span>
 
 <span style="color: #800080;">Área externa lembra flores, jardim, diversão ao ar livre. Quer dicas para continuar no clima?</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/" target="_self">Decoração de jardim com objetos reutilizados.</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/" target="_self">Decoração de jardim com objetos reutilizados.</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/08/24/horta-para-apartamento/" target="_self">Ideia para mini-horta em um &#8220;apertamento&#8221;.</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/08/24/horta-para-apartamento/" target="_self">Ideia para mini-horta em um &#8220;apertamento&#8221;.</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/04/06/refeicao-ao-ar-livre/" target="_self">O encanto do encontro ao ar livre&#8230;</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/04/06/refeicao-ao-ar-livre/" target="_self">O encanto do encontro ao ar livre&#8230;</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/02/23/reutilizacao-cadeira-jardim/" target="_self">Cadeira também é floreira&#8230; como assim?</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/02/23/reutilizacao-cadeira-jardim/" target="_self">Cadeira também é floreira&#8230; como assim?</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/02/15/vasos-diferentes-flores/" target="_self">Novos usos de objetos na decoração: vaso diferente para flores.</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/02/15/vasos-diferentes-flores/" target="_self">Novos usos de objetos na decoração: vaso diferente para flores.</a>_**</span>

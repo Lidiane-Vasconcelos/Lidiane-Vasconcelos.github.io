@@ -38,16 +38,16 @@ Parabéns para você, que se doou para fazer um filho feliz. Você é digna de t
 </table>
 
 <p style="text-align: center;">
-  **<em> </em>**
+  **_ _**
 </p>
 
 <p style="text-align: center;">
-  **<em>Feliz dia das mães!!!</em>**
+  **_Feliz dia das mães!!!_**
 </p>
 
 Bom final de semana!
 
-Imagem: <a href="http://www.sxc.hu/profile/nkzs" target="_blank">nkzs</a> via <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: [nkzs](http://www.sxc.hu/profile/nkzs)  via [stock.xchng](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea…**
 

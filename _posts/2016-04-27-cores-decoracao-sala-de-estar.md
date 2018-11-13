@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank">**Cadeiras vermelhas: 6 ambientes para te encorajar a usá-las.**</a>
+  [**Cadeiras vermelhas: 6 ambientes para te encorajar a usá-las.**](http://www.decoracaodacasa.com/cadeiras-sala-jantar/) 
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Imagem: ambiente acima – <a href="http://www.dibentomoveis.com.br/index/" target="_blank">DiBento Móveis e Decorações</a> | almofadas abaixo: <a href="https://www.leroymerlin.com.br/" target="_blank">Leroy Merlin</a></em>
+  _Imagem: ambiente acima – [DiBento Móveis e Decorações](http://www.dibentomoveis.com.br/index/)  | almofadas abaixo: [Leroy Merlin](https://www.leroymerlin.com.br/) _
 </p>
 
 > <p align="justify">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Imagem: ambientes <a href="http://www.dibentomoveis.com.br/index/" target="_blank">DiBento Móveis e Decorações</a></em>
+  _Imagem: ambientes [DiBento Móveis e Decorações](http://www.dibentomoveis.com.br/index/) _
 </p>
 
 > <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank">**Mesa de centro da sala de estar: compre sem erro!**</a>
+  [**Mesa de centro da sala de estar: compre sem erro!**](http://www.decoracaodacasa.com/mesa-centro-sala-estar/) 
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Imagem: cafeteira <a href="https://www.nespresso.com/br/pt/home" target="_blank">Nespresso</a> | mantimentos via <a href="http://www.comprafacil.com.br/" target="_blank">comprafacil</a> | eletrodomésticos <a href="http://loja.kitchenaid.com.br/" target="_blank">KitchenAid</a></em>
+  _Imagem: cafeteira [Nespresso](https://www.nespresso.com/br/pt/home)  | mantimentos via [comprafacil](http://www.comprafacil.com.br/)  | eletrodomésticos [KitchenAid](http://loja.kitchenaid.com.br/) _
 </p>
 
 > <p align="justify">
@@ -106,11 +106,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a _designer_ [clicando aqui](http://www.maristelaleonel.com.br/bem-vindo) . Maristela também dispõe de uma página no _Facebook_ onde apresenta seus projetos e compartilha informações. [Eu já curti… vem também](https://www.facebook.com/maristelaleoneldi/timeline) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

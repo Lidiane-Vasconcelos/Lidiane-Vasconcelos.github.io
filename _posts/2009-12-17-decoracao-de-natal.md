@@ -17,7 +17,7 @@ Quer ver alguns detalhes?
 
 [<img style="display: inline; margin-left: 0px; margin-right: 0px; border-width: 0px;" title="DSC01935" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/12/DSC01935_thumb.jpg" border="0" alt="DSC01935" width="277" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/12/DSC01935.jpg)
 
-Então _bora_ ver minhas imagens, que ontem eu me senti a própria <a href="http://www.betabernardo.com/" target="_blank">Beta Bernardo</a> fotografando tudo. Vamos começar pela janela?
+Então _bora_ ver minhas imagens, que ontem eu me senti a própria [Beta Bernardo](http://www.betabernardo.com/)  fotografando tudo. Vamos começar pela janela?
 
 Quis começar por ela, porque, talvez você se lembre, quando eu fiz o primeiro post deste ano mostrando algumas [dicas fáceis para decoração de Natal](http://www.trololodemulher.com.br/2009/12/01/dicas-faceis-para-decoracao-de-natal/), cismei que iria colocar sininhos na janela. Mas eu não encontrei (fácil) os sininhos no centro de Campinas.
 
@@ -61,7 +61,7 @@ A guirlanda da porta é a mesma do ano passado, porque não dá para inventar no
 
 Na mesa eu quis colocar algo diferente do que fiz ano passado. Me animei por colocar folhagens natalinas num vaso, como o que mostra o enfeite no [mesmo post dos sinos](http://www.trololodemulher.com.br/2009/12/01/dicas-faceis-para-decoracao-de-natal/).
 
-Nos desdobramentos dos comentários do mesmo post, a Cris, que edita o blog <a href="http://birdcrafts.blogspot.com/" target="_blank">Bird Crafts</a>, deu a ideia de usar uma vela grande no vaso. Gostei! E fui atrás da minha.
+Nos desdobramentos dos comentários do mesmo post, a Cris, que edita o blog [Bird Crafts](http://birdcrafts.blogspot.com/) , deu a ideia de usar uma vela grande no vaso. Gostei! E fui atrás da minha.
 
 Agora é assim que está a minha mesa: um vaso com vela grande dentro.
 

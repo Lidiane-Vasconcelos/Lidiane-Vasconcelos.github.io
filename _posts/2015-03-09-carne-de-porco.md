@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Você já se perguntou o porquê de tantas torcidas de nariz para a carne do porco? Muita gente jura que essa fonte de proteínas é muito gordurosa e transmissora de doenças. Essa certeza se fundamenta na história da criação dos bichos que, antigamente, pecava bastante em alguns aspectos. Entretanto, é preciso que se diga que isso ficou <em>lááááá</em> atrás, viu? De acordo com a Pamela, “<em>atualmente os cuidados com a alimentação e com a criação dos porcos são bem diferentes de antigamente. Antigamente os porcos recebiam como alimento restos de comida e viviam em local sem higiene adequada. Atualmente os porcos recebem ração balanceada, o que torna sua carne menos gordurosa. Os locais de criação também recebem todos os cuidados de higiene tornando a carne mais segura do ponto de vista higiênico sanitário. Dessa forma o fundamento de que a carne de porco é gordurosa e transmissora de doenças não e real, desde que seja comprada em um local de confiança e que siga todos os critérios de higiene, segundo a vigilância sanitária</em>”.
+  Você já se perguntou o porquê de tantas torcidas de nariz para a carne do porco? Muita gente jura que essa fonte de proteínas é muito gordurosa e transmissora de doenças. Essa certeza se fundamenta na história da criação dos bichos que, antigamente, pecava bastante em alguns aspectos. Entretanto, é preciso que se diga que isso ficou _lááááá_ atrás, viu? De acordo com a Pamela, “_atualmente os cuidados com a alimentação e com a criação dos porcos são bem diferentes de antigamente. Antigamente os porcos recebiam como alimento restos de comida e viviam em local sem higiene adequada. Atualmente os porcos recebem ração balanceada, o que torna sua carne menos gordurosa. Os locais de criação também recebem todos os cuidados de higiene tornando a carne mais segura do ponto de vista higiênico sanitário. Dessa forma o fundamento de que a carne de porco é gordurosa e transmissora de doenças não e real, desde que seja comprada em um local de confiança e que siga todos os critérios de higiene, segundo a vigilância sanitária_”.
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://andhereweare.net/2013/08/cure-and-smoke-your-own-ham.html/" target="_blank">And Here We Are…</a>
+  Imagem: [And Here We Are…](http://andhereweare.net/2013/08/cure-and-smoke-your-own-ham.html/) 
 </p>
 
 <p align="justify">
-  Pelo que a gente pode ver, muita coisa mudou no processo de criação desses animais, mas ao que tudo indica, muitos ainda não sabem disso. Azar o nosso! Já os gringos, veja bem, já sabem disso faz tempo, e não perderam tempo em se beneficiar desse item tão importante para nossa saúde. “<em>O consumo de carne de porco em outros países é muito maior quando comparado com o consumo do Brasil. Nos países europeus o consumo de carne de porco é seis vezes maior do que por aqui. O consumo de carne de porco é muito comum e tradicional em países da Europa e outros fora do nosso país. Por outro lado, em alguns países, como os árabes, o consumo da carne de porco é proibido por questões religiosas</em>”, explica a Nutricionista.
+  Pelo que a gente pode ver, muita coisa mudou no processo de criação desses animais, mas ao que tudo indica, muitos ainda não sabem disso. Azar o nosso! Já os gringos, veja bem, já sabem disso faz tempo, e não perderam tempo em se beneficiar desse item tão importante para nossa saúde. “_O consumo de carne de porco em outros países é muito maior quando comparado com o consumo do Brasil. Nos países europeus o consumo de carne de porco é seis vezes maior do que por aqui. O consumo de carne de porco é muito comum e tradicional em países da Europa e outros fora do nosso país. Por outro lado, em alguns países, como os árabes, o consumo da carne de porco é proibido por questões religiosas_”, explica a Nutricionista.
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno + batata doce roxa**</a>
+  [**Escondidinho de filé suíno + batata doce roxa**](http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/) 
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Não resta dúvidas do quanto essa carne passou a ser benéfica para o nosso corpo, certo? Isso não quer dizer, contudo, que vamos sair por aí arrasando no bacon e no torresmo, combinado? Não é bem por aí! Pamela explica que “<em>os cortes mais magros da carne de porco são lombo, bisteca, pernil e paleta sem gorduras aparentes. Elas são boas opções frente as carnes de frango com pele, e cortes mais gordos da carne bovina como picanha, acém, fraldinha, etc</em>.”
+  Não resta dúvidas do quanto essa carne passou a ser benéfica para o nosso corpo, certo? Isso não quer dizer, contudo, que vamos sair por aí arrasando no bacon e no torresmo, combinado? Não é bem por aí! Pamela explica que “_os cortes mais magros da carne de porco são lombo, bisteca, pernil e paleta sem gorduras aparentes. Elas são boas opções frente as carnes de frango com pele, e cortes mais gordos da carne bovina como picanha, acém, fraldinha, etc_.”
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://noblepig.com/2010/02/pork-chops-marsala/" target="_blank">Noble Pig</a>
+  Imagem: [Noble Pig](http://noblepig.com/2010/02/pork-chops-marsala/) 
 </p>
 
 <p align="center">
@@ -112,23 +112,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank">**Café x saúde: quando é que ele é mocinho ou vilão?**</a>
+  [**Café x saúde: quando é que ele é mocinho ou vilão?**](http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes, e te direi se és saudável ou não.**</a>
+  [**Me diz o que comes, e te direi se és saudável ou não.**](http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank">**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**</a>
+  [**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**](http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/) 
 </p>
 
 <p align="justify">
-  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera _viu_, bonita? Para acompanhar todas as novidades e informações _superultramega_ úteis para que possamos nos alimentar melhor, espie o [blog onde há suas atualizações](http://www.drafernandagranja.com/) . Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

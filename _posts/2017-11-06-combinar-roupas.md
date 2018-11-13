@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  O fato é que conforme vão passando os anos, ficamos com várias dúvidas sobre o que usar, algumas escolhas ao invés de nos deixarem mais jovem têm efeito contrário. Como eu já disse **<a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank">não acredito em roupas para cada faixa etária</a>**<b></b>, mas existem opções e formas de uso que rejuvenescem.
+  O fato é que conforme vão passando os anos, ficamos com várias dúvidas sobre o que usar, algumas escolhas ao invés de nos deixarem mais jovem têm efeito contrário. Como eu já disse **[não acredito em roupas para cada faixa etária](http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/) **<b></b>, mas existem opções e formas de uso que rejuvenescem.
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>A calça preta e a blusa cinza passariam despercebidas e ficariam absolutamente sem graça se não fossem os toques de cor.</em>
+  _A calça preta e a blusa cinza passariam despercebidas e ficariam absolutamente sem graça se não fossem os toques de cor._
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <b>Maquiagem pesada &#8211;</b> a ideia de que uma boa camada de base e cobertura extra de pó vai disfarçar as rugas é um erro grave! Geralmente acontece o contrário. O ideal é usar **<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">maquiagem leve</a>**, pouca quantidade e com cuidado especial na região dos olhos. Cuidado com as sobrancelhas marcadas demais, elas deixam o visual bem pesado e também com o olhão preto, ele geralmente deixa a aparência cansada e envelhecida em quem não tem 20 e poucos anos.
+  <b>Maquiagem pesada &#8211;</b> a ideia de que uma boa camada de base e cobertura extra de pó vai disfarçar as rugas é um erro grave! Geralmente acontece o contrário. O ideal é usar **[maquiagem leve](http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/) **, pouca quantidade e com cuidado especial na região dos olhos. Cuidado com as sobrancelhas marcadas demais, elas deixam o visual bem pesado e também com o olhão preto, ele geralmente deixa a aparência cansada e envelhecida em quem não tem 20 e poucos anos.
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">**Maquiagem leve e sofisticada: como conseguir esse efeito?**</a>
+  [**Maquiagem leve e sofisticada: como conseguir esse efeito?**](http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/) 
 </p>
 
 <p align="justify">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Tudo descombinado, mas ao mesmo tempo tudo em harmonia.</em>
+  _Tudo descombinado, mas ao mesmo tempo tudo em harmonia._
 </p>
 
 <p align="justify">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>O jeans destroyed ficou perfeito com a camisa branca e outras peças clássicas que a maioria tem em casa, porém muito mais jovem.</em>
+  _O jeans destroyed ficou perfeito com a camisa branca e outras peças clássicas que a maioria tem em casa, porém muito mais jovem._
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Básico, <em>pero no mucho</em> &#8211; **É preciso tomar cuidado com os básicos também, aquele jeans com camisetinha branca, fica lindo quando você tem 20 anos, mas depois de uma certa idade, pode parecer extremamente sem graça. Para isso, existem os acessórios, os sapatos estilosos, ou seja, escolhas mais interessantes, vamos ver:
+  **Básico, _pero no mucho_ &#8211; **É preciso tomar cuidado com os básicos também, aquele jeans com camisetinha branca, fica lindo quando você tem 20 anos, mas depois de uma certa idade, pode parecer extremamente sem graça. Para isso, existem os acessórios, os sapatos estilosos, ou seja, escolhas mais interessantes, vamos ver:
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Blusa branca, saia e scarpin pretos – combinação fácil, mas olha como fica muito melhor com o sapato e o colar coloridos.</em>
+  _Blusa branca, saia e scarpin pretos – combinação fácil, mas olha como fica muito melhor com o sapato e o colar coloridos._
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Bata branca, shortinho bege e mocassim, não tem como errar, mas a rasteira estilosa e o maxi-colar de madrepérola tornaram o look muito mais moderno e chique.</em>
+  _Bata branca, shortinho bege e mocassim, não tem como errar, mas a rasteira estilosa e o maxi-colar de madrepérola tornaram o look muito mais moderno e chique._
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Saia bege, regata branca, foi só trocar o sapato e acrescentar um colar Boho, e o look vai do trabalho para a festa</em>.
+  _Saia bege, regata branca, foi só trocar o sapato e acrescentar um colar Boho, e o look vai do trabalho para a festa_.
 </p>
 
 <p align="center">
@@ -151,23 +151,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank">**Notícia luxo: conteúdo exclusivo para você, mulher de 50.**</a>
+  [**Notícia luxo: conteúdo exclusivo para você, mulher de 50.**](http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/" target="_blank">**Qual é a roupa certa para mulheres de 50 anos?**</a>
+  [**Qual é a roupa certa para mulheres de 50 anos?**](http://www.trololodemulher.com.br/2017/09/25/mulheres-de-50-anos/) 
 </p>
 
 <p align="justify">
-  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">facebook</a>. Se joga!
+  Além do [Blog `50, e daí?´](https://50edaiblog.wordpress.com/) , você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: [instagram](https://www.instagram.com/50edai/)  e [facebook](https://www.facebook.com/50edai/) . Claudia também edita o blog [Se fosse na Minha Casa](https://sefossenaminhacasa.wordpress.com/) , com conteúdo voltado para casa e decoração. Confira [instagram](https://www.instagram.com/sefossenaminhacasa/)  e [facebook](https://www.facebook.com/SeFosseNaMinhaCasa/) . Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

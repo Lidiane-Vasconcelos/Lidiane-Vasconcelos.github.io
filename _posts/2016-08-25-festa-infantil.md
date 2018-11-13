@@ -29,7 +29,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Tudo que você vai precisar é de **forminhas de cupcakes** com colorido bem fofo, **linha de lã e agulha**. No mais, repare como é fácil reproduzir essa lindeza <a href="http://thechicsite.com/2013/10/05/cupcake-wrapper-garland/" target="_blank">clicando aqui, no post do blog The Chic Party</a>. Divirta-se!
+  Tudo que você vai precisar é de **forminhas de cupcakes** com colorido bem fofo, **linha de lã e agulha**. No mais, repare como é fácil reproduzir essa lindeza [clicando aqui, no post do blog The Chic Party](http://thechicsite.com/2013/10/05/cupcake-wrapper-garland/) . Divirta-se!
 </p>
 
 &nbsp;
@@ -41,7 +41,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **Papeis enfeitados, tesoura, fio de lã e cola**. Nada mais! Veja mais imagens de como fazer esse enfeite <em>superultramega</em> alegre <a href="http://www.jacksandkate.com/party-napkin-garland/" target="_blank">aqui, no post do blog Jacks & Kate</a>, e supreenda-se com a facilidade, viu?
+  **Papeis enfeitados, tesoura, fio de lã e cola**. Nada mais! Veja mais imagens de como fazer esse enfeite _superultramega_ alegre [aqui, no post do blog Jacks & Kate](http://www.jacksandkate.com/party-napkin-garland/) , e supreenda-se com a facilidade, viu?
 </p>
 
 <p align="justify">
@@ -49,9 +49,9 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.decoracaodacasa.com/festas-aniversario-infantil/" target="_blank">Ideias criativas e simples para festas de aniversário infantil.</a>**
+  **[Ideias criativas e simples para festas de aniversário infantil.](http://www.decoracaodacasa.com/festas-aniversario-infantil/) **
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

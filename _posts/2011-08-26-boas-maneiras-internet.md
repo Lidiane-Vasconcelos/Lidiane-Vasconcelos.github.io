@@ -16,7 +16,7 @@ Dizer que espera o comentário da blogueira cujo blog você comentou pode deixá
 &nbsp;
 
 <p align="justify">
-  Assim como na vida real, na blogosfera há atitudes que geram simpatia nas outras pessoas, ou o contrário. Para que possamos **discutir isso de forma saudável e melhorar nossas relações <em>bloguísticas</em>**, eu convidei algumas leitoras para esse debate e, claro, conto com sua opinião sobre etiqueta <em>bloguística</em>… ou <em>bloguetiqueta</em>!
+  Assim como na vida real, na blogosfera há atitudes que geram simpatia nas outras pessoas, ou o contrário. Para que possamos **discutir isso de forma saudável e melhorar nossas relações _bloguísticas_**, eu convidei algumas leitoras para esse debate e, claro, conto com sua opinião sobre etiqueta _bloguística_… ou _bloguetiqueta_!
 </p>
 
 <!--more-->
@@ -32,11 +32,11 @@ Dizer que espera o comentário da blogueira cujo blog você comentou pode deixá
 </p>
 
 <p align="justify">
-  Recentemente houve uma ampla, rica e útil discussão aqui no **Bicha Fêmea** sobre **<a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/">ansiedade bloguistica</a>**. Se você acompanhou todo o desenrolar do <em>trololó</em> percebeu que um dos fatores que acaba desencadeando esse sentimento nas blogueiras é o aumento do número de comentários. Na verdade, o problema não está no número deles, mas na dificuldade que algumas encontram para gerenciá-los. Agora, imagine uma blogueira que, além de “rebolar” para dar conta do recado na gestão do blog, ainda é “cobrada” por retorno de visita e comentário!?
+  Recentemente houve uma ampla, rica e útil discussão aqui no **Bicha Fêmea** sobre **<a href="http://www.trololodemulher.com.br/2011/07/29/ansiedade-bloguistica/">ansiedade bloguistica</a>**. Se você acompanhou todo o desenrolar do _trololó_ percebeu que um dos fatores que acaba desencadeando esse sentimento nas blogueiras é o aumento do número de comentários. Na verdade, o problema não está no número deles, mas na dificuldade que algumas encontram para gerenciá-los. Agora, imagine uma blogueira que, além de “rebolar” para dar conta do recado na gestão do blog, ainda é “cobrada” por retorno de visita e comentário!?
 </p>
 
 <p align="justify">
-  A blogueira cobrada é colocada numa situação de pressão, não é verdade? E **quem cobra visita e comentário, talvez sem perceber, se põe na condição de alguém que força uma retribuição de atenção**. Não é muito melhor quando um blog recebe comentários espontâneos e sinceros? É exatamente isso o que pensa a **Danieli Cascaes**, editora do blog **<a href="http://www.nossacozinhadani.blogspot.com/" target="_blank">Nossa Cozinha</a>**: “<em>não force as pessoas a colocarem um comentário no seu blog. Dizer que ´espera pelo comentário´ da pessoa é muito chato, pois aí o comentário não fica natural</em>”.
+  A blogueira cobrada é colocada numa situação de pressão, não é verdade? E **quem cobra visita e comentário, talvez sem perceber, se põe na condição de alguém que força uma retribuição de atenção**. Não é muito melhor quando um blog recebe comentários espontâneos e sinceros? É exatamente isso o que pensa a **Danieli Cascaes**, editora do blog **[Nossa Cozinha](http://www.nossacozinhadani.blogspot.com/) **: “_não force as pessoas a colocarem um comentário no seu blog. Dizer que ´espera pelo comentário´ da pessoa é muito chato, pois aí o comentário não fica natural_”.
 </p>
 
 &nbsp;
@@ -52,15 +52,15 @@ Dizer que espera o comentário da blogueira cujo blog você comentou pode deixá
 </p>
 
 <p align="justify">
-  Toda blogueira gosta de comentários, não é verdade? Claro que é! Você, aí do outro lado, não é diferente, certo? Sobre isso, a **Sandra Lima**, do blog **<a href="http://criandoasa.blogspot.com/" target="_blank">Criando Asas</a>**, explicou bem o sentimento: “<em>eu sempre procuro deixar um comentário por onde passo. Acho terrível ter todo o trabalho para fazer um post, ver que tive vários acessos e poucos deixaram um comentário. Nem que seja pra dizer que não gostou</em>”. Contudo, certamente não há nada pior do que receber comentários do tipo “nada a ver” com o post, o que mostra claramente que a intenção de quem comenta é qualquer coisa diferente de realmente interagir com a blogueira, acrescentar algo, comentar suas impressões, etc.
+  Toda blogueira gosta de comentários, não é verdade? Claro que é! Você, aí do outro lado, não é diferente, certo? Sobre isso, a **Sandra Lima**, do blog **[Criando Asas](http://criandoasa.blogspot.com/) **, explicou bem o sentimento: “_eu sempre procuro deixar um comentário por onde passo. Acho terrível ter todo o trabalho para fazer um post, ver que tive vários acessos e poucos deixaram um comentário. Nem que seja pra dizer que não gostou_”. Contudo, certamente não há nada pior do que receber comentários do tipo “nada a ver” com o post, o que mostra claramente que a intenção de quem comenta é qualquer coisa diferente de realmente interagir com a blogueira, acrescentar algo, comentar suas impressões, etc.
 </p>
 
 <p align="justify">
-  **Quem não lê os posts que comenta a fim de comentar no maior número de blogs no menor tempo possível, e pensa que a blogueira não percebe, se engana**. A **Ana**, do blog **<a href="http://www.blogfaniquito.blogspot.com/" target="_blank">Faniquito</a>**, esclarece bem a situação: “<em>a pessoa que entra no seu blog e comenta algo que não condiz com o teu post, deixa claro que nem sabe do que se trata. Ela não percebe que deixa a ideia de que visitou por visitar, ou que espera uma visita em troca. Sem contar o caso das que entram com o puro intuito de divulgar o blog delas. Atitudes assim não criam vínculos, não estabelecem amizades. Para isso é necessário uma troca espontânea e sem nenhuma espécie de interesse</em>”.
+  **Quem não lê os posts que comenta a fim de comentar no maior número de blogs no menor tempo possível, e pensa que a blogueira não percebe, se engana**. A **Ana**, do blog **[Faniquito](http://www.blogfaniquito.blogspot.com/) **, esclarece bem a situação: “_a pessoa que entra no seu blog e comenta algo que não condiz com o teu post, deixa claro que nem sabe do que se trata. Ela não percebe que deixa a ideia de que visitou por visitar, ou que espera uma visita em troca. Sem contar o caso das que entram com o puro intuito de divulgar o blog delas. Atitudes assim não criam vínculos, não estabelecem amizades. Para isso é necessário uma troca espontânea e sem nenhuma espécie de interesse_”.
 </p>
 
 <p align="justify">
-  No final das contas, o que parece complicado pode ser muito mais simples do que se imagina. Tudo se resolve se você for natural e sincera: “<em>**acho mais elegante a pessoa ler outros blogs que acha interessante realmente**, e comentar quando tiver algo de interessante a dizer</em>”, pondera a **Marina**, editora do blog **<a href="http://umanosemcompras.blogspot.com/" target="_blank">Um ano sem compras</a>**.
+  No final das contas, o que parece complicado pode ser muito mais simples do que se imagina. Tudo se resolve se você for natural e sincera: “_**acho mais elegante a pessoa ler outros blogs que acha interessante realmente**, e comentar quando tiver algo de interessante a dizer_”, pondera a **Marina**, editora do blog **[Um ano sem compras](http://umanosemcompras.blogspot.com/) **.
 </p>
 
 &nbsp;
@@ -76,11 +76,11 @@ Dizer que espera o comentário da blogueira cujo blog você comentou pode deixá
 </p>
 
 <p align="justify">
-  Os blogs têm tido um papel fundamental na troca de informações e experiências e, em geral, é isso o que muitas pessoas buscam nessas fontes.  Nesse caso, é válido **se perguntar sobre o conteúdo do seu blog: ele acrescenta algo para as outras pessoas?** Na opinião da **Fatima Moral**, editora do espaço virtual **<a href="http://personalbuyers.blogspot.com/" target="_blank">Personal Buyers – First Class</a>**, o que é legal e ela sugere é: “<em>atualizar com temas interessantes, abrir espaço para os seguidores participarem dando sugestões, falando das experiências, etc.,  e responder os e-mails”. </em>
+  Os blogs têm tido um papel fundamental na troca de informações e experiências e, em geral, é isso o que muitas pessoas buscam nessas fontes.  Nesse caso, é válido **se perguntar sobre o conteúdo do seu blog: ele acrescenta algo para as outras pessoas?** Na opinião da **Fatima Moral**, editora do espaço virtual **[Personal Buyers – First Class](http://personalbuyers.blogspot.com/) **, o que é legal e ela sugere é: “_atualizar com temas interessantes, abrir espaço para os seguidores participarem dando sugestões, falando das experiências, etc.,  e responder os e-mails”. _
 </p>
 
 <p align="justify">
-  Em contrapartida, **abrir um blog para expor sua intimidade, apenas por essa razão, pode causar algum desconforto nos leitores**. Afinal, pare e pense: você acha que as pessoas estão disponíveis para apreciarem apenas o que você tem ou comprou, sem que haja qualquer coisa a mais que acrescente algo na vida delas? Na opinião da **Danieli Cascaes**, da **<a href="http://www.nossacozinhadani.blogspot.com/" target="_blank">Nossa Cozinha</a>**,  “<em>postar gravuras daquilo que você tem dentro de casa ou do seu eletrodoméstico novo apenas pelo simples postar pode acabar fazendo as pessoas acharem  que você  está se mostrando</em>”.
+  Em contrapartida, **abrir um blog para expor sua intimidade, apenas por essa razão, pode causar algum desconforto nos leitores**. Afinal, pare e pense: você acha que as pessoas estão disponíveis para apreciarem apenas o que você tem ou comprou, sem que haja qualquer coisa a mais que acrescente algo na vida delas? Na opinião da **Danieli Cascaes**, da **[Nossa Cozinha](http://www.nossacozinhadani.blogspot.com/) **,  “_postar gravuras daquilo que você tem dentro de casa ou do seu eletrodoméstico novo apenas pelo simples postar pode acabar fazendo as pessoas acharem  que você  está se mostrando_”.
 </p>
 
 <p align="justify">
@@ -88,7 +88,7 @@ Dizer que espera o comentário da blogueira cujo blog você comentou pode deixá
 </p>
 
 <p align="justify">
-  Imagens:** <a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
+  Imagens:** [Stock.xchng](http://www.sxc.hu/) **
 </p>
 
 <p align="justify">
@@ -108,7 +108,7 @@ Dizer que espera o comentário da blogueira cujo blog você comentou pode deixá
 </p>
 
 <p align="center">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**<em>Comportamento</em>**</a>…
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a>…
 </p>
 
 <p align="center">

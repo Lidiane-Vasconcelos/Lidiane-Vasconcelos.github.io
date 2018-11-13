@@ -13,7 +13,7 @@ categories:
 
 Entretanto (todavia, contudo…), fico insegura sobre minha habilidade para escolher a melhor forma de dispor os quadros de modo que fique bonito e harmonioso. Acredito que não sou a única paranóica nesse sentido…fala sério, _aê!_ Vocês também têm alguma dúvida quanto a isso de vez em quando?
 
-Quando vi as orientações que seguem abaixo lá no site “_<a href="http://www.diyideas.com/" target="_blank">do it yourself</a>_”,  sobre as possíveis estratégias na hora de arrumar agrupamentos de quadros na parede, pensei: nossos problemas acabaram…[<img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image0016-thumb5.gif" alt="clip_image001[6]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00165.gif)…ehehehehe
+Quando vi as orientações que seguem abaixo lá no site “_[do it yourself](http://www.diyideas.com/) _”,  sobre as possíveis estratégias na hora de arrumar agrupamentos de quadros na parede, pensei: nossos problemas acabaram…[<img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image0016-thumb5.gif" alt="clip_image001[6]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00165.gif)…ehehehehe
 
 As imagens são bastante didáticas e trazem dicas e estratégias fáceis de como podemos decorar a parede com esses arranjos de quadros, ou ainda espelhos e pratos; ou mesmo o que mais a gente quiser pendurar em grupo como relógios, por exemplo. [<img style="display: inline;" title="clip_image001[10]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00110-thumb1.gif" alt="clip_image001[10]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001102.gif) 
 
@@ -71,12 +71,12 @@ Imaginaram quanto de efeito bacana podemos conseguir se enfeitarmos as paredes c
 
 <span>**Mais no Bicha Fêmea&#8230;**</span>
 
-<span>**<em><a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">Dicas de decoração para a parede do quarto, sala e banheiro.</a></em>**</span>
+<span>**_<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">Dicas de decoração para a parede do quarto, sala e banheiro.</a>_**</span>
 
-<span>**<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher as cores para a parede?</a></em>**</span>
+<span>**_<a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher as cores para a parede?</a>_**</span>
 
-<span>**<em><a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Como decorar a parede da escada?</a></em>**</span>
+<span>**_<a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Como decorar a parede da escada?</a>_**</span>
 
-<span>**<em><a href="http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/" target="_self">Reutilização de caixas de ovos na decoração</a></em>**</span>
+<span>**_<a href="http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/" target="_self">Reutilização de caixas de ovos na decoração</a>_**</span>
 
-<span>**<em><a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/" target="_self">Como decorar um mesa de fibra natural e vidro?</a></em>**</span>
+<span>**_<a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/" target="_self">Como decorar um mesa de fibra natural e vidro?</a>_**</span>

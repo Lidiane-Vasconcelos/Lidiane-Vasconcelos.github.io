@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**</a>
+  [**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**](http://www.bichafemea.com/2014/02/13/cores-na-decoracao/) 
 </p>
 
 <p style="text-align: center;" align="justify">
-  **Dica da Wilma Banegas, do blog <a href="http://carinhoecasa.blogspot.com.br/" target="_blank">Carinho e Casa</a>:**
+  **Dica da Wilma Banegas, do blog [Carinho e Casa](http://carinhoecasa.blogspot.com.br/) :**
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -50,15 +50,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/08/07/casa-lar-decoracao/" target="_blank">**Casa é diferente de lar, certo?**</a>
+  [**Casa é diferente de lar, certo?**](http://www.bichafemea.com/2013/08/07/casa-lar-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-casa/" target="_blank">**Casa de Tereza Ramos: detalhes pensados para fazer da casa um lar.**</a>
+  [**Casa de Tereza Ramos: detalhes pensados para fazer da casa um lar.**](http://www.decoracaodacasa.com/decoracao-da-casa/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/05/15/tua-casa-te-representa/" target="_blank">**Tua casa te representa?**</a>
+  [**Tua casa te representa?**](http://www.bichafemea.com/2014/05/15/tua-casa-te-representa/) 
 </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: [free images](http://www.freeimages.com/) 
 </p>
 
 <p align="center">
-  **Dica da Fabiana Tardochi, do blog <a href="http://www.reciclaredecorar.com/" target="_blank">Reciclar e Decorar</a>**:
+  **Dica da Fabiana Tardochi, do blog [Reciclar e Decorar](http://www.reciclaredecorar.com/) **:
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **Dica de Nena Lira, do blog <a href="http://lanacasademainha.blogspot.com.br/" target="_blank">Lá na casa de mainha</a>:**
+  **Dica de Nena Lira, do blog [Lá na casa de mainha](http://lanacasademainha.blogspot.com.br/) :**
 </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  **Dica da Cris Dellani, do blog <a href="http://meupalaciode64m.blogspot.com.br/" target="_blank">Meu palácio de 64m²</a>:**
+  **Dica da Cris Dellani, do blog [Meu palácio de 64m²](http://meupalaciode64m.blogspot.com.br/) :**
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -94,5 +94,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

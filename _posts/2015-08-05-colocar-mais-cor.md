@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Então você está decidida: quer colocar mais cor na decoração, certo? A questão é: como fazer isso? Ter medo de errar é bem comum, então esse post foi pensado para te dar dicas de como fazer isso em seus domínios. Pra começo de conversa, é uma boa ideia você dar uma olhada em <a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">6 dúvidas comuns sobre cores na decoração</a>, todas já respondidas no Trololó de Mulher. Isso já irá te deixar um pouco mais segura e confortável com a ideia, e certamente com um <em>siricotico daqueles</em>, tudo pela vontade de sair colorindo a casa. Quer começar já? Então espie como:
+  Então você está decidida: quer colocar mais cor na decoração, certo? A questão é: como fazer isso? Ter medo de errar é bem comum, então esse post foi pensado para te dar dicas de como fazer isso em seus domínios. Pra começo de conversa, é uma boa ideia você dar uma olhada em [6 dúvidas comuns sobre cores na decoração](http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/) , todas já respondidas no Trololó de Mulher. Isso já irá te deixar um pouco mais segura e confortável com a ideia, e certamente com um _siricotico daqueles_, tudo pela vontade de sair colorindo a casa. Quer começar já? Então espie como:
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Procure identificar cores que você goste, que chamem sua atenção, e você pode aplicar num cantinho de parede. Combine com essa cor enfeites que carreguem nuances que coordenem bem com ela. Veja nesse exemplo como azul e amarelo funcionaram bem. Você pode ver mais <a href="http://www.decoracaodacasa.com/decoracao-pintura-sala-estar/" target="_blank">ideias de cores para parede, para serem aplicadas na sala de estar, bem aqui</a>.
+  Procure identificar cores que você goste, que chamem sua atenção, e você pode aplicar num cantinho de parede. Combine com essa cor enfeites que carreguem nuances que coordenem bem com ela. Veja nesse exemplo como azul e amarelo funcionaram bem. Você pode ver mais [ideias de cores para parede, para serem aplicadas na sala de estar, bem aqui](http://www.decoracaodacasa.com/decoracao-pintura-sala-estar/) .
 </p>
 
 <p align="justify">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">**Vai pintar as paredes da sala de estar? Quer mais ideias de cores?**</a>
+  [**Vai pintar as paredes da sala de estar? Quer mais ideias de cores?**](http://www.decoracaodacasa.com/parede-sala-estar-cores/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-para-a-parede/" target="_blank">**Como escolher cores para a parede?**</a>
+  [**Como escolher cores para a parede?**](http://www.decoracaodacasa.com/cores-para-a-parede/) 
 </p>
 
 <p align="center">
@@ -46,15 +46,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/25/ideias-decoracao-quarto-2/" target="_blank">**6 ideias de decoração para mudar o seu quarto.**</a>
+  [**6 ideias de decoração para mudar o seu quarto.**](http://www.trololodemulher.com.br/2011/05/25/ideias-decoracao-quarto-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/" target="_blank">**Quarto com parede amarela: você quer inspirações?**</a>
+  [**Quarto com parede amarela: você quer inspirações?**](http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/02/14/ideias-decoracao-quarto/" target="_blank">**Ideias econômicas para a decoração do quarto. Inspire-se!**</a>
+  [**Ideias econômicas para a decoração do quarto. Inspire-se!**](http://www.trololodemulher.com.br/2011/02/14/ideias-decoracao-quarto/) 
 </p>
 
 <p align="center">
@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.marthastewart.com/" target="_blank">**Arrume sua mesa para receber e encantar os olhos.**</a>
+  [**Arrume sua mesa para receber e encantar os olhos.**](http://www.marthastewart.com/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/" target="_blank">**2 ideias superultramega simples de decoração pra mesa de jantar.**</a>
+  [**2 ideias superultramega simples de decoração pra mesa de jantar.**](http://www.decoracaodacasa.com/decoracao-na-mesa-de-jantar/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank">**Dicas para a decoração da mesa de jantar.**</a>
+  [**Dicas para a decoração da mesa de jantar.**](http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+  Imagens: [Martha Stewart](http://www.marthastewart.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

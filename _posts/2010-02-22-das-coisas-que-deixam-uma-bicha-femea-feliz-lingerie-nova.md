@@ -9,9 +9,9 @@ permalink: /2010/02/22/das-coisas-que-deixam-uma-bicha-femea-feliz-lingerie-nova
 categories:
   - Publieditorial
 ---
-Ei, bonita! Essa eu queria te contar. Fui convidada a experimentar o atendimento e conhecer os produtos de uma loja virtual _TO-TAL-MEN-TE_ feminina, onde a gente encontra verdadeiras _belezuras_ em _<a href="http://www.daira.com.br/" target="_blank">lingerie</a>_, por exemplo.
+Ei, bonita! Essa eu queria te contar. Fui convidada a experimentar o atendimento e conhecer os produtos de uma loja virtual _TO-TAL-MEN-TE_ feminina, onde a gente encontra verdadeiras _belezuras_ em _[lingerie](http://www.daira.com.br/) _, por exemplo.
 
-Já ouviu falar da <a href="http://www.daira.com.br/" target="_blank">Daira</a>? Pois foi nessa loja aí mesmo que eu andei navegando para escolhar coisinhas bonitinhas para mim. Precisa eu dizer que aprovei? Ah! Se aprovei!
+Já ouviu falar da [Daira](http://www.daira.com.br/) ? Pois foi nessa loja aí mesmo que eu andei navegando para escolhar coisinhas bonitinhas para mim. Precisa eu dizer que aprovei? Ah! Se aprovei!
 
 <!--more-->
 
@@ -29,7 +29,7 @@ Você costuma comprar coisas virtualmente? Eu costumo, sim. E sabe por quê? Há
 
  
 
-Pois foram essas as sensações que eu tive ao navegar pela <a href="http://www.daira.com.br/" target="_blank">Daira</a> nas várias segmentações que ela tem. E adivinha onde eu fiquei mais tempo? _Hum_… eu me deliciei na área de lingeries, bonita! E foi lá que eu escolhi um conjunto preto com _soutien_ no modelo nadador… é que eu estava _precisada_ de um modelo assim… _cof cof cof_… e o conjunto tem até umas _frescurinhas_ brilhantes. Quer ver?
+Pois foram essas as sensações que eu tive ao navegar pela [Daira](http://www.daira.com.br/)  nas várias segmentações que ela tem. E adivinha onde eu fiquei mais tempo? _Hum_… eu me deliciei na área de lingeries, bonita! E foi lá que eu escolhi um conjunto preto com _soutien_ no modelo nadador… é que eu estava _precisada_ de um modelo assim… _cof cof cof_… e o conjunto tem até umas _frescurinhas_ brilhantes. Quer ver?
 
 <table align="center">
   <tr>
@@ -69,4 +69,4 @@ Depois eu fiquei indecisa sobre o que escolher na área de prataria. Já falei q
 
  
 
-E agora estou assim, feliz que só “pinto no lixo” com o presente que ganhei da <a href="http://www.daira.com.br/" target="_blank">Daira</a>. Posso falar? Marido também gostou bastante de tudo que escolhi, mas a _lingerie_ foi mesmo o presentinho preferido… _cof cof cof_…
+E agora estou assim, feliz que só “pinto no lixo” com o presente que ganhei da [Daira](http://www.daira.com.br/) . Posso falar? Marido também gostou bastante de tudo que escolhi, mas a _lingerie_ foi mesmo o presentinho preferido… _cof cof cof_…

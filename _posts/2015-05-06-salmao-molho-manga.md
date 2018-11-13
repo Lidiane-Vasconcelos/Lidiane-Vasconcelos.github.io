@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank">**Mini abóbora recheada de cuscuz marroquino**</a>
+  [**Mini abóbora recheada de cuscuz marroquino**](http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank">**Mousse de abacate e cacau em pó**</a>
+  [**Mousse de abacate e cacau em pó**](http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/20/pupunha-salmao-aspargos/" target="_blank">**Espaguete de pupunha ao molho de salmão e aspargos**</a>
+  [**Espaguete de pupunha ao molho de salmão e aspargos**](http://www.trololodemulher.com.br/2015/03/20/pupunha-salmao-aspargos/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

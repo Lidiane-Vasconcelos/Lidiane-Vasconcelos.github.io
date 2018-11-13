@@ -36,7 +36,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>**Sombras: tons terrosos** (básico), eu uso da minha **paleta da ELF**, que é gringa e gigantesca… kkkkk… amo!”</em>
+>   “_**Sombras: tons terrosos** (básico), eu uso da minha **paleta da ELF**, que é gringa e gigantesca… kkkkk… amo!”_
 > </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>**Esmaltes: nude!** Combinam com qualquer look, se descascam é mais dificil de perceber e mais fácil de retocar. </em>**<em>Nude Classico da Impal</em>a**.” **Pauline** | **<a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a>**
+>   “_**Esmaltes: nude!** Combinam com qualquer look, se descascam é mais dificil de perceber e mais fácil de retocar. _**_Nude Classico da Impal_a**.” **Pauline** | **[Cheia de Charme](http://cheiadecharme.blog.br/) **
 > </p>
 
 &nbsp;
@@ -64,7 +64,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Eu sou consultora Avon, adoro a maior parte dos produtos de maquiagem desta marca. Gosto apenas dos produtos bons, porque alguns (os mais baratos) têm textura e fixação ruins. Amo os **quartetos de sombra Ouro 24 K e Glamour da Avon**. O primeiro tem **cores quentes,** que misturados dão um efeito incrível e o segundo quarteto que citei dá a possibilidade de fazer maquiagem de princesa, muito elegante e delicado. E para ajudar quem não tem prática com maquiagem, a caixinha ensina o passo a passo.”</em>
+>   “_Eu sou consultora Avon, adoro a maior parte dos produtos de maquiagem desta marca. Gosto apenas dos produtos bons, porque alguns (os mais baratos) têm textura e fixação ruins. Amo os **quartetos de sombra Ouro 24 K e Glamour da Avon**. O primeiro tem **cores quentes,** que misturados dão um efeito incrível e o segundo quarteto que citei dá a possibilidade de fazer maquiagem de princesa, muito elegante e delicado. E para ajudar quem não tem prática com maquiagem, a caixinha ensina o passo a passo.”_
 > </p>
 
 &nbsp;
@@ -76,7 +76,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Gosto muito de usar o **esmalte da Risque da coleção Isabeli Fontana, cor Isabeli**&#8230;.é um show, em mão clarinha fica lindo (falo clarinha porque eu sou claríssima, rs).”</em> **Fernanda Andrade**
+>   “_Gosto muito de usar o **esmalte da Risque da coleção Isabeli Fontana, cor Isabeli**&#8230;.é um show, em mão clarinha fica lindo (falo clarinha porque eu sou claríssima, rs).”_ **Fernanda Andrade**
 > </p>
 
 &nbsp;
@@ -88,7 +88,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Eu não faço o estilo &#8220;perua&#8221;, rs, sou bem básica mesmo! Então minha dica vai para as &#8220;bichas fêmeas basiconas&#8221;: **gloss cor 25 da SEPHORA**, que uso para o dia e para noite sem distinção &#8211; ele dá uma leve &#8220;cor de boca&#8221; e um brilho. Quando uso **sombra**, prefiro também as mais claras, mas de vez em quando para dar uma carregada no olho  uso uma cor mais fechada. Este estojo da **Sephora** também é ótimo pois tem as tonalidades que gosto desde a mais clara até um tom mais escuro para a noite</em>.”
+>   “_Eu não faço o estilo &#8220;perua&#8221;, rs, sou bem básica mesmo! Então minha dica vai para as &#8220;bichas fêmeas basiconas&#8221;: **gloss cor 25 da SEPHORA**, que uso para o dia e para noite sem distinção &#8211; ele dá uma leve &#8220;cor de boca&#8221; e um brilho. Quando uso **sombra**, prefiro também as mais claras, mas de vez em quando para dar uma carregada no olho  uso uma cor mais fechada. Este estojo da **Sephora** também é ótimo pois tem as tonalidades que gosto desde a mais clara até um tom mais escuro para a noite_.”
 > </p>
 
 &nbsp;
@@ -100,7 +100,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>No quesito **esmalte**&#8230;aí eu gosto de usar e ousar das cores. Aliás, hoje em dia você entrar numa loja que venda esmaltes é de enlouquecer, não? Adoro a escala de cores da Impala, os esmaltes da Colorama e da Risqué. Mas, para aumentar a durabilidade deles, indico esse **extra brilho da Ana Hickman**. É maravilhoso, o esmalte fica como novo e dura mais um pouco.”</em>**<em> </em>Flávia Mergulhão | <a href="http://ateliedacaie.blogspot.com/" target="_blank">Ateliê da Caiê</a>**
+>   “_No quesito **esmalte**&#8230;aí eu gosto de usar e ousar das cores. Aliás, hoje em dia você entrar numa loja que venda esmaltes é de enlouquecer, não? Adoro a escala de cores da Impala, os esmaltes da Colorama e da Risqué. Mas, para aumentar a durabilidade deles, indico esse **extra brilho da Ana Hickman**. É maravilhoso, o esmalte fica como novo e dura mais um pouco.”_**_ _Flávia Mergulhão | [Ateliê da Caiê](http://ateliedacaie.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -140,7 +140,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “Atualmente estou na fase dos **vermelhos tanto queimados como bem vivos, e também dos alaranjados.** Acho que combinam com o verão e estão sempre em alta. Gosto muito dos esmaltes da Colorama e da Risque que para mim tem boa durabilidade. E para citar algumas cores que uso com frequência são: **BEIJO ROUBADO – COLORAMA | COSMOPOLITAN – COLORAMA | LOVE – RISQUE**” **Fabiana Tardochi** | **<a href="http://www.reciclaredecorar.com/" target="_blank">Reciclar e Decorar</a>**
+>   “Atualmente estou na fase dos **vermelhos tanto queimados como bem vivos, e também dos alaranjados.** Acho que combinam com o verão e estão sempre em alta. Gosto muito dos esmaltes da Colorama e da Risque que para mim tem boa durabilidade. E para citar algumas cores que uso com frequência são: **BEIJO ROUBADO – COLORAMA | COSMOPOLITAN – COLORAMA | LOVE – RISQUE**” **Fabiana Tardochi** | **[Reciclar e Decorar](http://www.reciclaredecorar.com/) **
 > </p>
 
 &nbsp;
@@ -152,7 +152,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Esmalte: ´tô adorando o &#8220;**Psico**&#8220;. É um roxo lindo de viver da risqué”</em>
+>   “_Esmalte: ´tô adorando o &#8220;**Psico**&#8220;. É um roxo lindo de viver da risqué”_
 > </p>
 
 &nbsp;
@@ -163,7 +163,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 
 &nbsp;
 
-> “_**Batom**: só uso **Gloss cor 7 Aquarela Natura**._ “ **Josineide Sousa** | **<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank">Mãe de Meninas</a>**
+> “_**Batom**: só uso **Gloss cor 7 Aquarela Natura**._ “ **Josineide Sousa** | **[Mãe de Meninas](http://mulhernota10josisousa.blogspot.com/) **
 
 &nbsp;
 
@@ -174,7 +174,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Esmalte é difícil escolher um só, mas eu adoro o **Santa Gula da Risqué**</em>.”** Leticia Fernandes | <a href="http://puxadinhodalets.blogspot.com/" target="_blank">Puxadinho da Lets</a>**
+>   “_Esmalte é difícil escolher um só, mas eu adoro o **Santa Gula da Risqué**_.”** Leticia Fernandes | [Puxadinho da Lets](http://puxadinhodalets.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -186,7 +186,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Bem, eu não sou muito de gastar fortunas com maquiagens caras e esmaltes nem se falam!! :))) Sou adepta do &#8220;Bom & Barato&#8221;. Eu particularmente adoro as **paletas de sombras da Fenzza**</em>” **Mayara Mônica** | **<a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>**
+>   “_Bem, eu não sou muito de gastar fortunas com maquiagens caras e esmaltes nem se falam!! :))) Sou adepta do &#8220;Bom & Barato&#8221;. Eu particularmente adoro as **paletas de sombras da Fenzza**_” **Mayara Mônica** | **[My Diary](http://mayaramonica.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -198,7 +198,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Ô meu pai! Maquiagem é como joia (pra quem pode, é claro!) quanto mais a gente vê, mais quer&#8230;afe! Olha esses objetos do desejo: **Batom Rouge Volupté Yves Saint Laurent**! Tenho apenas um, mas queria todos</em>.”
+>   “_Ô meu pai! Maquiagem é como joia (pra quem pode, é claro!) quanto mais a gente vê, mais quer&#8230;afe! Olha esses objetos do desejo: **Batom Rouge Volupté Yves Saint Laurent**! Tenho apenas um, mas queria todos_.”
 > </p>
 
 &nbsp;
@@ -210,7 +210,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Pra quem tá com a grana mais curta o **Batom Ultra Color Rich Expresso, Avon** nunca me deixou na mão. Lindo!”</em>
+>   “_Pra quem tá com a grana mais curta o **Batom Ultra Color Rich Expresso, Avon** nunca me deixou na mão. Lindo!”_
 > </p>
 
 &nbsp;
@@ -222,13 +222,13 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>Olha, eu sei que os esmaltes Chanel são puro luxo, mas não troco pelo Colorama! Juro!!!!!! Qual esmalte fica 3 semanas na sua unha sem descascar? O colorama fica na minha!! Cor que mais uso atualmente? O **militar**.”</em>
+>   “_Olha, eu sei que os esmaltes Chanel são puro luxo, mas não troco pelo Colorama! Juro!!!!!! Qual esmalte fica 3 semanas na sua unha sem descascar? O colorama fica na minha!! Cor que mais uso atualmente? O **militar**.”_
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Agora sombra é um caso especial. Tem sombras incríveis e carérrimas! Tem sombras incríveis e super em conta. Mas minha dica é outra. Compre a sombra que quiser! Se você tiver um bom primer de sombra, seu laptop de creuza  (aquele estojo com 100 cores que custou 19,99) vira uma paleta MAC, sua sombra ching ling vira uma autentica Givenchy. Tem dois que eu gosto:</em>
+>   “_Agora sombra é um caso especial. Tem sombras incríveis e carérrimas! Tem sombras incríveis e super em conta. Mas minha dica é outra. Compre a sombra que quiser! Se você tiver um bom primer de sombra, seu laptop de creuza  (aquele estojo com 100 cores que custou 19,99) vira uma paleta MAC, sua sombra ching ling vira uma autentica Givenchy. Tem dois que eu gosto:_
 > </p>
 
 &nbsp;
@@ -240,7 +240,7 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>O famoso **Urban Decay Primer Potion**, muito competente</em>!”
+>   “_O famoso **Urban Decay Primer Potion**, muito competente_!”
 > </p>
 
 &nbsp;
@@ -252,13 +252,13 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 &nbsp;
 
 > <p align="justify">
->   “<em>**Primer para olhos Make B, do Boticário**, nacional que não desaponta!”</em> **Cely**
+>   “_**Primer para olhos Make B, do Boticário**, nacional que não desaponta!”_ **Cely**
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Olha, bonita… eu falei, eu avisei! Não dá um <em>siricotico</em> de vontade de ter algumas dessas <em>belezuras</em>? E se são recomendadas, melhor ainda, não é? Então é isso… anota na sua lisitinha de desejos quais serão suas próximas aquisições de beleza… e divirta-se!
+  Olha, bonita… eu falei, eu avisei! Não dá um _siricotico_ de vontade de ter algumas dessas _belezuras_? E se são recomendadas, melhor ainda, não é? Então é isso… anota na sua lisitinha de desejos quais serão suas próximas aquisições de beleza… e divirta-se!
 </p>
 
 &nbsp;
@@ -323,13 +323,13 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -339,5 +339,5 @@ Que os olhos de muitas de nós, bichas fêmeas navegantes, brilham ao ver as **c
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

@@ -34,11 +34,11 @@ categories:
 &nbsp;
 
 <p align="center">
-  <em>Para vê-las nas cadeiras que emolduram uma mesa branquinha.</em>
+  _Para vê-las nas cadeiras que emolduram uma mesa branquinha._
 </p>
 
 <p align="center">
-  **Cinza<em> beeeem</em> escuro**
+  **Cinza_ beeeem_ escuro**
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <em>Para dar destaque a uma parede na sala e usá-la como pano de fundo para composição de quadros escolhida a dedo.</em>
+  _Para dar destaque a uma parede na sala e usá-la como pano de fundo para composição de quadros escolhida a dedo._
 </p>
 
 <p style="text-align: left;" align="center">
@@ -56,19 +56,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar paredes com quadros.**</a>
+  [**Como decorar paredes com quadros.**](http://www.decoracaodacasa.com/decoracao-parede-quadros/) 
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank">**Moldura: coadjuvante ou protagonista na decoração? Você decide.**</a>
+  [**Moldura: coadjuvante ou protagonista na decoração? Você decide.**](http://www.decoracaodacasa.com/moldura-quadro-decoracao/) 
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Decoração e interiores: que cor usar na pintura da parede da sala de estar?</a>**
+  **[Decoração e interiores: que cor usar na pintura da parede da sala de estar?](http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/) **
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para a sala de estar: mais ideias de cores.</a>**
+  **[Para a sala de estar: mais ideias de cores.](http://www.decoracaodacasa.com/parede-sala-estar-cores/) **
 </p>
 
 <p style="text-align: center;" align="center">
@@ -82,7 +82,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <em>Para ser o ponto de destaque no tapete que repousa num quarto simples e neutro.</em>
+  _Para ser o ponto de destaque no tapete que repousa num quarto simples e neutro._
 </p>
 
 <p style="text-align: left;" align="center">
@@ -90,19 +90,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas.**</a>
+  [**Cores na decoração: veja 6 respostas e acabe com suas dúvidas.**](http://www.bichafemea.com/2014/02/13/cores-na-decoracao/) 
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.bichafemea.com/2013/10/07/cores-decoracao/" target="_blank">**Cores salpicadas na decoração aqui e acolá: lindeza de ver.**</a>
+  [**Cores salpicadas na decoração aqui e acolá: lindeza de ver.**](http://www.bichafemea.com/2013/10/07/cores-decoracao/) 
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+Imagens: [homedit](http://www.homedit.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

@@ -18,7 +18,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 <!--more-->
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Brancos e mais brancos!</span></em>**
+  **_<span style="font-size: medium;">Brancos e mais brancos!</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: small;">Sugestão de objetos que dão um toque de rusticidade e charme na sua cozinha…</span></em>**
+  **_<span style="font-size: small;">Sugestão de objetos que dão um toque de rusticidade e charme na sua cozinha…</span>_**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -45,15 +45,15 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Mais do que panelas, pratos e copos, alguns detalhes decorativos podem trazer muito mais graça para uma cozinha, não é? Que tal uma placa, com uma galinha, cheia de fru frus? Anime a canto de cozinhar, e deixe tudo mais divertido!</em>
+        _Mais do que panelas, pratos e copos, alguns detalhes decorativos podem trazer muito mais graça para uma cozinha, não é? Que tal uma placa, com uma galinha, cheia de fru frus? Anime a canto de cozinhar, e deixe tudo mais divertido!_
       </p>
       
       <p style="text-align: justify;">
-        <em>A **<a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">Placa Galinha Country</a>** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">basta clicar</a>**!</em>
+        _A **[Placa Galinha Country](http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/) ** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/) **!_
       </p>
     </td>
   </tr>
@@ -61,15 +61,15 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com uma galinha? A cozinha vai ganhar outro ar… muito mais divertido! Use a imaginação e encha a casa de mimos!</em>
+        _Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com uma galinha? A cozinha vai ganhar outro ar… muito mais divertido! Use a imaginação e encha a casa de mimos!_
       </p>
       
       <p style="text-align: justify;">
-        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">Móbile Galinha Country</a>**** ** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
+        _O **[Móbile Galinha Country](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/) **** ** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> _[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/) _!_
       </p>
     </td>
     
@@ -90,11 +90,11 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 </p>
 
 <p style="text-align: justify;">
-  Sugiro a leitura do post com **<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">dicas sobre a escolha de cores para as paredes</a></em>** antes publicado por aqui, porque certamente pode ser bastante útil na sua escolha da cor. Além disso, você também pode adicionar cor nos objetos que estejam decorando o seu espaço. Use sua imaginação, e capriche nos enfeites!
+  Sugiro a leitura do post com **_<a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">dicas sobre a escolha de cores para as paredes</a>_** antes publicado por aqui, porque certamente pode ser bastante útil na sua escolha da cor. Além disso, você também pode adicionar cor nos objetos que estejam decorando o seu espaço. Use sua imaginação, e capriche nos enfeites!
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: small;">Sugestão de objetos que podem deixar a decoração de sua cozinha ainda mais bonita…</span></em>**
+  **_<span style="font-size: small;">Sugestão de objetos que podem deixar a decoração de sua cozinha ainda mais bonita…</span>_**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -105,11 +105,11 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em>Este quadro cenário cozinha é mais uma novidade no Mercado de Artes. Veja nos detalhes: percebe o bom gosto? Os tons de preto, branco e cinza são quebrados pelo vermelho da geladeira, que prende a nossa atenção pelo charme dos detalhes no tom dela. Os móveis em miniatura no ambiente também têm um atrativo a parte, porque foram trabalhados com ilustrações em decoupage. Não é uma peça daquelas que chamam a nossa atenção?</em>
+        _Este quadro cenário cozinha é mais uma novidade no Mercado de Artes. Veja nos detalhes: percebe o bom gosto? Os tons de preto, branco e cinza são quebrados pelo vermelho da geladeira, que prende a nossa atenção pelo charme dos detalhes no tom dela. Os móveis em miniatura no ambiente também têm um atrativo a parte, porque foram trabalhados com ilustrações em decoupage. Não é uma peça daquelas que chamam a nossa atenção?_
       </p>
       
       <p style="text-align: justify;">
-        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">Quadro Cenário Cozinha</a>** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
+        _O **[Quadro Cenário Cozinha](http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/) ** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> _[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/) _!_
       </p>
     </td>
   </tr>
@@ -117,15 +117,15 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Espalhe mimos decorativos pela cozinha e deixe seu canto cheio de bossa! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?</em>
+        _Espalhe mimos decorativos pela cozinha e deixe seu canto cheio de bossa! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?_
       </p>
       
       <p style="text-align: justify;">
-        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a>** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
+        _O **[Regador Provençal](http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/) ** está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> _[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/) _!_
       </p>
     </td>
     
@@ -141,15 +141,15 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Quer decorar a cozinha com personalidade, estilo e exclusividade usando telas como essas? Diferentes, não?</em>
+        _Quer decorar a cozinha com personalidade, estilo e exclusividade usando telas como essas? Diferentes, não?_
       </p>
       
       <p style="text-align: justify;">
-        <em>As **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a>** estão a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
+        _As **[Telas Mediterrâneo](http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/) ** estão a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> _[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/) _!_
       </p>
     </td>
   </tr>
@@ -157,15 +157,15 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Leve charme para sua copa ou cozinha com esse par de quadrinhos totalmente inspirados no canto de cozinhar ou fazer refeições…</em>
+        _Leve charme para sua copa ou cozinha com esse par de quadrinhos totalmente inspirados no canto de cozinhar ou fazer refeições…_
       </p>
       
       <p style="text-align: justify;">
-        <em>Os **<a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">Quadros Cenário Copa & Café</a>** estão a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** **</em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
+        _Os **[Quadros Cenário Copa & Café](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) ** estão a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** **_[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) _!_
       </p>
     </td>
     
@@ -182,7 +182,7 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 </p>
 
 <p style="text-align: justify;">
-  Se seus armários estão bem usados e, embora você queira, trocá-los está fora de cogitação (e do orçamento) neste momento, há algo diferente que pode ser feito para dar uma cara nova a eles. Escolha algumas portas para remover, e coloque cestos nos nichos que vão se formar. Use esses cestos como gavetas para armazenar seus utensílios, mas esteja certa de que não irar abarrotar esses cestos de objetos, <em>hein</em>? A ideia é trazer charme, e não a visão de um ambiente bagunçado e entulhado de coisas.
+  Se seus armários estão bem usados e, embora você queira, trocá-los está fora de cogitação (e do orçamento) neste momento, há algo diferente que pode ser feito para dar uma cara nova a eles. Escolha algumas portas para remover, e coloque cestos nos nichos que vão se formar. Use esses cestos como gavetas para armazenar seus utensílios, mas esteja certa de que não irar abarrotar esses cestos de objetos, _hein_? A ideia é trazer charme, e não a visão de um ambiente bagunçado e entulhado de coisas.
 </p>
 
 <p style="text-align: center;">
@@ -190,11 +190,11 @@ Você escolheu a **cor branca ou creme**, ambas bem claras, para os **armários 
 </p>
 
 <p style="text-align: justify;">
-  Se o branco vai reinar de forma absoluta em sua cozinha tanto nos armários quanto no balcão, use o piso para quebrar isso tudo. Preto e branco te parecem uma boa sugestão? O que não se pode negar é que sua cozinha ficará com ar <em>vintage</em> se a decoração for dessa forma, e aí você arremata tudo brincando com a cor dos objetos que vão enfeitá-la. Que tal o azul que pincela o ambiente?
+  Se o branco vai reinar de forma absoluta em sua cozinha tanto nos armários quanto no balcão, use o piso para quebrar isso tudo. Preto e branco te parecem uma boa sugestão? O que não se pode negar é que sua cozinha ficará com ar _vintage_ se a decoração for dessa forma, e aí você arremata tudo brincando com a cor dos objetos que vão enfeitá-la. Que tal o azul que pincela o ambiente?
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Crème de la crème!</span></em>**
+  **_<span style="font-size: medium;">Crème de la crème!</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -211,7 +211,7 @@ Não foi um branco que você escolheu para seus armários, mas algo bem perto di
   Deixe sua cozinha de armários e paredes creme com um foco de atenção bonito cobrindo a área atrás do fogão e da pia com um revestimento que tenha tonalidade marrom, com pinceladas de creme e vermelho. Pouco charme é bobagem num ambiente assim! Aproveite para pincelar sua cozinha de vermelho com alguns objetos, e não duvide de que  esse ambiente vai arrasar!
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ [_Better Homes and Gardens_](http://www.bhg.com/) 
 
 **Mais no Bicha Fêmea…**
 
@@ -224,23 +224,23 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Tudo branco na decoração da cozinha.](http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/)_**
 
 <p style="text-align: center;">
-  Navegando no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa</em>****<em> & Decoração</em>** </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/">**<em>Cozinha</em>**</a>> Como incrementar a decoração de uma cozinha com armários claros?
+  Navegando no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa_****_ & Decoração_** </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/">**_Cozinha_**</a>> Como incrementar a decoração de uma cozinha com armários claros?
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 **_ _**

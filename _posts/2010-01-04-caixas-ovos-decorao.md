@@ -10,9 +10,9 @@ categories:
   - Decoração
   - Faça Você Mesma
 ---
-Estava por aí, passeando por essa _internetdemeuDeus,_ quando dei de cara com <a href="http://revistacasaejardim.globo.com/Revista/Common/0,,EMI78894-16940,00-RECICLE%20A%20CAIXA%20DE%20OVOS.html" target="_blank">este artigo, que mostra móveis e objetos de decoração feitos com embalagens de ovos,</a> publicado no site da revista <a href="http://revistacasaejardim.globo.com/" target="_blank">Casa e Jardim</a>.
+Estava por aí, passeando por essa _internetdemeuDeus,_ quando dei de cara com [este artigo, que mostra móveis e objetos de decoração feitos com embalagens de ovos,](http://revistacasaejardim.globo.com/Revista/Common/0,,EMI78894-16940,00-RECICLE%20A%20CAIXA%20DE%20OVOS.html)  publicado no site da revista [Casa e Jardim](http://revistacasaejardim.globo.com/) .
 
-Se você der uma olhada no artigo, vai ver produtos super inusitados como luminárias e vasos produzidos com essas embalagens. Há possibilidades de uso, dos objetos mostrados, na sala, cozinha, quarto ou escritório. Mas o que mais chamou a minha atenção foram as “telas” pintadas pelo artista holandês <a href="http://www.ennodekroon.nl/" target="_blank">Enno De Kroon</a>.
+Se você der uma olhada no artigo, vai ver produtos super inusitados como luminárias e vasos produzidos com essas embalagens. Há possibilidades de uso, dos objetos mostrados, na sala, cozinha, quarto ou escritório. Mas o que mais chamou a minha atenção foram as “telas” pintadas pelo artista holandês [Enno De Kroon](http://www.ennodekroon.nl/) .
 
 <!--more-->
 
@@ -26,7 +26,7 @@ Esse conjunto de obras, pintadas nas embalagens de ovos, é intitulado _Eggcubis
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/3926225445_e4d809978f1.jpg"><img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0px;" title="3926225445_e4d809978f[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/3926225445_e4d809978f1_thumb.jpg" border="0" alt="3926225445_e4d809978f[1]" width="240" height="240" /></a>
 </p>
 
-O <a href="http://revistacasaejardim.globo.com/Revista/Common/0,,EMI78894-16940,00-RECICLE%20A%20CAIXA%20DE%20OVOS.html" target="_blank">artigo</a> sugere que essa pode ser uma excelente inspiração para promover uma atividade divertida com as crianças nas férias. Eu acredito que faz todo sentido, e logo lembrei da Flávia, do blog <a href="http://www.acasadafla.blogspot.com/" target="_blank">Casa da Flá</a>, que está buscando formas criativas de entreter as crianças com atividades criativas durante o recesso escolar. Aqui já imaginei os pequenos “montados” com aventais divertidos, pincel e tintas em punho, e um bocado de imaginação…
+O [artigo](http://revistacasaejardim.globo.com/Revista/Common/0,,EMI78894-16940,00-RECICLE%20A%20CAIXA%20DE%20OVOS.html)  sugere que essa pode ser uma excelente inspiração para promover uma atividade divertida com as crianças nas férias. Eu acredito que faz todo sentido, e logo lembrei da Flávia, do blog [Casa da Flá](http://www.acasadafla.blogspot.com/) , que está buscando formas criativas de entreter as crianças com atividades criativas durante o recesso escolar. Aqui já imaginei os pequenos “montados” com aventais divertidos, pincel e tintas em punho, e um bocado de imaginação…
 
 Mas também é verdade que a técnica pode inspirar artistas que têm talento com os pincéis para experimentar algo novo, diferente. O que é certo é que o resultado é lindo, surpreendente. É ou não é?
 
@@ -42,7 +42,7 @@ Já que eu ando meio encantada pela onda _vintage_, logo imaginei como ficaria l
 
 Isso é o que eu chamaria de uma reutilização de materiais em prol de uma decoração com atitude e bom gosto. Isso é que é…
 
-Imagens: <a href="http://www.flickr.com/photos/ennodekroon/" target="_blank">Flickr</a> do artista.
+Imagens: [Flickr](http://www.flickr.com/photos/ennodekroon/)  do artista.
 
 **Mais sobre reutilização de objetos no Bicha Fêmea&#8230;**
 

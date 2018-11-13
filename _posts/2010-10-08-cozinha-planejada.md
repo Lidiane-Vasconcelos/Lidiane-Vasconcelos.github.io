@@ -18,7 +18,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 <!--more-->
 
 <p style="text-align: justify;">
-  Antes de mais nada, se você tem dúvidas sobre o revestimento de sua cozinha, isto é, se vai fazer em todas as paredes ou não, sugiro a leitura do post que trata especificamente sobre **<em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_self">revestimentos de cozinha</a></em>**, e confira as ideias, opiniões e <em>pitacos</em> de leitoras sobre o assunto.
+  Antes de mais nada, se você tem dúvidas sobre o revestimento de sua cozinha, isto é, se vai fazer em todas as paredes ou não, sugiro a leitura do post que trata especificamente sobre **_<a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_self">revestimentos de cozinha</a>_**, e confira as ideias, opiniões e _pitacos_ de leitoras sobre o assunto.
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +46,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: justify;">
-  Uma cozinha, para ser planejada, não precisa ter uma <em>pegada</em> contemporânea, certo? Você pode dar um ar <em>retrô</em> ao seu espaço, com <em>um pé na casa da vovó</em>, planejando móveis sob medida para seu ambiente de acordo com o seu estilo. Por que não? Converse com seu marceneiro e confeccione armários, mesas de apoio como a que está no canto direito da imagem, e uma mesa cheia de estilo como a deste ambiente. Capriche no <em>foutton</em> sobre o seu banco e desfrute de um espaço único, do jeito que sua imaginação quer.
+  Uma cozinha, para ser planejada, não precisa ter uma _pegada_ contemporânea, certo? Você pode dar um ar _retrô_ ao seu espaço, com _um pé na casa da vovó_, planejando móveis sob medida para seu ambiente de acordo com o seu estilo. Por que não? Converse com seu marceneiro e confeccione armários, mesas de apoio como a que está no canto direito da imagem, e uma mesa cheia de estilo como a deste ambiente. Capriche no _foutton_ sobre o seu banco e desfrute de um espaço único, do jeito que sua imaginação quer.
 </p>
 
 <p style="text-align: center;">
@@ -66,7 +66,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: justify;">
-  Vai colocar porta com vidro totalmente transparente? Certifique-se de que você é organizada o suficiente para manter tudo em ordem, <em>hein</em>?! Se você quer mais referências, veja <a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/" target="_self">**<em>mais cozinhas brancas</em>** </a>e inspire-se!
+  Vai colocar porta com vidro totalmente transparente? Certifique-se de que você é organizada o suficiente para manter tudo em ordem, _hein_?! Se você quer mais referências, veja <a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/" target="_self">**_mais cozinhas brancas_** </a>e inspire-se!
 </p>
 
 <p style="text-align: center;">
@@ -82,7 +82,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
 </p>
 
 <p style="text-align: justify;">
-  Você mora sozinha e quer uma cozinha feminina, ou ainda, quem mora com você não se importa que os detalhes na decoração sejam predominantemente femininos? Invista nos móveis com base de cor que remetam a madeira clara, escolha cores leves para a parede e revestimentos e arrase nos detalhes dos objetos de sua cozinha. Viu como rosa e azul deixaram o espaço assim, <em>beeem</em> bicha fêmea?!
+  Você mora sozinha e quer uma cozinha feminina, ou ainda, quem mora com você não se importa que os detalhes na decoração sejam predominantemente femininos? Invista nos móveis com base de cor que remetam a madeira clara, escolha cores leves para a parede e revestimentos e arrase nos detalhes dos objetos de sua cozinha. Viu como rosa e azul deixaram o espaço assim, _beeem_ bicha fêmea?!
 </p>
 
 **Sugestões para sua cozinha feminina…**
@@ -95,111 +95,111 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
       </p>
       
       <p style="text-align: justify;">
-        <em>Quer evitar aquelas batidas abruptas da porta por causa do vento, mas com muito estilo? Então é possível ter uma peça funcional e com beleza como esse aparador de porta… quanto a feminilidade, não há o que discutir não é?</em>
+        _Quer evitar aquelas batidas abruptas da porta por causa do vento, mas com muito estilo? Então é possível ter uma peça funcional e com beleza como esse aparador de porta… quanto a feminilidade, não há o que discutir não é?_
       </p>
       
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank">basta clicar</a>**!</em>
+        _Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) **!_
       </p>
     </td>
     
     <td width="339" valign="top">
-      <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a></p> 
+      [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) </p> 
       
       <div>
         <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Aparador-de-Porta-Minha-Gatinha-2.jpg"></a>
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <div>
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank"></a>
+        [](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) 
       </div>
       
       <p>
@@ -236,11 +236,11 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                      </p> 
                     
                     <p style="text-align: justify;">
-                      <em>Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com uma galinha? A cozinha vai ganhar outro ar… muito mais divertido! Use a imaginação e encha a casa de mimos!</em>
+                      _Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com uma galinha? A cozinha vai ganhar outro ar… muito mais divertido! Use a imaginação e encha a casa de mimos!_
                     </p>
                     
                     <p style="text-align: justify;">
-                      <em>O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a>**!</em>
+                      _O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/) **!_
                     </p>
                   </td></tr> </tbody> </table> 
                   
@@ -249,7 +249,7 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                   </p>
                   
                   <p style="text-align: justify;">
-                    Cozinha pequena não é novidade para muitas de nós, porque hoje em dia o que mais se vê são verdadeiros <em>apertamentos</em> e <em>casinhas de boneca</em>, não é? Se esse é o seu caso, inspire-se neste ambiente no sentido de aplicar detalhes como: cores claras para armários e balcão, armários com o máximo possível de espaço para armazenar mantimentos e objetos, prateleiras que ajudem a livrar a área de trabalho de alguns objetos, cadeiras e mesa que possam ser dobradas e/ou levadas para outros ambientes. Fica a dica!
+                    Cozinha pequena não é novidade para muitas de nós, porque hoje em dia o que mais se vê são verdadeiros _apertamentos_ e _casinhas de boneca_, não é? Se esse é o seu caso, inspire-se neste ambiente no sentido de aplicar detalhes como: cores claras para armários e balcão, armários com o máximo possível de espaço para armazenar mantimentos e objetos, prateleiras que ajudem a livrar a área de trabalho de alguns objetos, cadeiras e mesa que possam ser dobradas e/ou levadas para outros ambientes. Fica a dica!
                   </p>
                   
                   <p style="text-align: right;">
@@ -259,46 +259,46 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                   <table border="0" cellspacing="0" cellpadding="0" width="600">
                     <tr>
                       <td width="331" valign="top">
-                        <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a></p> 
+                        [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) </p> 
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <div>
-                          <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"></a>
+                          [](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) 
                         </div>
                         
                         <p>
@@ -319,16 +319,16 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                                 </p> 
                               
                               <p style="text-align: justify;">
-                                <em>Leve charme para sua copa ou cozinha com esse par de quadrinhos totalmente inspirados no canto de cozinhar ou fazer refeições…</em>
+                                _Leve charme para sua copa ou cozinha com esse par de quadrinhos totalmente inspirados no canto de cozinhar ou fazer refeições…_
                               </p>
                               
                               <p style="text-align: justify;">
-                                <em>Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">basta clicar</a>**!</em>
+                                _Ele está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Se quiser dar uma espiada, é por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) **!_
                               </p>
                             </td></tr> </tbody> </table> 
                             
                             <p>
-                              <em>Imagens: </em><a href="http://www.idealhomemagazine.co.uk/" target="_blank"><em>Ideal Home</em></a>
+                              _Imagens: _[_Ideal Home_](http://www.idealhomemagazine.co.uk/) 
                             </p>
                             
                             <p>
@@ -340,25 +340,25 @@ Está pensando em fazer sua **_cozinha planejada_**, ou reformar a que você já
                             </p>
                             
                             <p>
-                              **<em><a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/">Pitacos de bicha fêmea: revestimentos de cozinha.</a></em>**
+                              **_<a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/">Pitacos de bicha fêmea: revestimentos de cozinha.</a>_**
                             </p>
                             
                             <p>
-                              **<em><a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/">Tudo branco na decoração da cozinha.</a></em>**
+                              **_<a href="http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/">Tudo branco na decoração da cozinha.</a>_**
                             </p>
                             
                             <p style="text-align: center;">
-                              Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa</em>****<em> & Decoração</em>** </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/">**<em>Cozinha</em>**</a>> Cozinha planejada: 8 espaços + combinações. Seu estilo está por aqui?
+                              Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa_****_ & Decoração_** </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/">**_Cozinha_**</a>> Cozinha planejada: 8 espaços + combinações. Seu estilo está por aqui?
                             </p>
                             
                             <p style="text-align: center;">
-                              Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+                              Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
                             </p>
                             
                             <p style="text-align: center;">
-                              **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+                              **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
                             </p>
                             
                             <p>
-                              **<em> </em>**
+                              **_ _**
                             </p>

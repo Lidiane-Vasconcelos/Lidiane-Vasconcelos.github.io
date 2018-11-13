@@ -15,7 +15,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 &nbsp;
 
 <p align="justify">
-  O objetivo desse post é fazê-la enxergar os móveis e objetos de outra forma, assim como essas bichas fêmeas navegantes o fizeram e deram um toque pessoal na <em>decor </em>de suas casas. Não tenho dúvidas de que, sim, isso vai surtir efeito em você. Espia só:
+  O objetivo desse post é fazê-la enxergar os móveis e objetos de outra forma, assim como essas bichas fêmeas navegantes o fizeram e deram um toque pessoal na _decor _de suas casas. Não tenho dúvidas de que, sim, isso vai surtir efeito em você. Espia só:
 </p>
 
 <!--more-->
@@ -31,7 +31,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  **Caixote de frutas** agora é **criado mudo** na casa da **Vero Kraemer | <a href="http://alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>**
+  **Caixote de frutas** agora é **criado mudo** na casa da **Vero Kraemer | [Além da Rua Atelier](http://alemdaruaatelier.com.br/) **
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  **Penteadeira** (com espelho abaixado) agora é **mesa de apoio** na casa da **Rosângela Mira | <a href="http://www.amigadamoda1.com/" target="_blank">Amiga da Moda</a>**
+  **Penteadeira** (com espelho abaixado) agora é **mesa de apoio** na casa da **Rosângela Mira | [Amiga da Moda](http://www.amigadamoda1.com/) **
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  **Porta** virou **cabeceira **na casa da **Margaret | **<a href="http://www.margaretss.com.br/" target="_blank">**Margaretss**</a>
+  **Porta** virou **cabeceira **na casa da **Margaret | **[**Margaretss**](http://www.margaretss.com.br/) 
 </p>
 
 <p align="center">
@@ -65,11 +65,11 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-jardins/" target="_blank">**<span style="font-size: large;">Decoração de jardins com objetos reutilizados</span>**</a>
+  [**<span style="font-size: large;">Decoração de jardins com objetos reutilizados</span>**](http://www.decoracaodacasa.com/decoracao-de-jardins/) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/reutilizacao-de-objetos/" target="_blank">**<span style="font-size: large;">Reutilização de objetos com novos usos</span>**</a>
+  [**<span style="font-size: large;">Reutilização de objetos com novos usos</span>**](http://www.decoracaodacasa.com/reutilizacao-de-objetos/) 
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -94,13 +94,13 @@ E quando a reutilização vai além e o que está sendo reaproveitado ganha uma 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

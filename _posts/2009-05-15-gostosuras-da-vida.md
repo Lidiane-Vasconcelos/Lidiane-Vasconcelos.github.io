@@ -25,7 +25,7 @@ Com capuccino, com ou sem desenho de ursinho no café, o bom é viver a vida c
 
 <span style="color: #800080;">Aproveitem a vida!!!</span>
 
-Imagens: <a href="http://blog.insideout.com.au/" target="_blank">Inside Out</a>
+Imagens: [Inside Out](http://blog.insideout.com.au/) 
 
 Mais no Bicha Fêmea&#8230;
 

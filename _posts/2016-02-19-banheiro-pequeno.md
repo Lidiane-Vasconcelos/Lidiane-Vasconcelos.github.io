@@ -11,7 +11,7 @@ categories:
   - Pequenos Espaços
 ---
 <p align="justify">
-  Todo dia pela manhã, quando se prepara para começar o dia, seu **banheiro pequeno** faz você sentir uma sensação desagradável de aperto? Desconfio que você gostaria de reverter essa situação. Se as ideias para isso não passam por sua cabeça, você chegou ao post certo. Repare abaixo alguns truques que eu mesma procuro usar em meus domínios e, oh: funcionam! Alguns são <em>superultramega </em>simples de serem colocados em prática, outros exigem mais tempo e dinheiro para execução. Mas todos podem ajudar significativamente em te dar a impressão de que você ganhou alguns centímetros em espaço. Então veja o que é possível aplicar já, e seja mais feliz usando seu banheiro todo os dias pela manhã. Confere!
+  Todo dia pela manhã, quando se prepara para começar o dia, seu **banheiro pequeno** faz você sentir uma sensação desagradável de aperto? Desconfio que você gostaria de reverter essa situação. Se as ideias para isso não passam por sua cabeça, você chegou ao post certo. Repare abaixo alguns truques que eu mesma procuro usar em meus domínios e, oh: funcionam! Alguns são _superultramega _simples de serem colocados em prática, outros exigem mais tempo e dinheiro para execução. Mas todos podem ajudar significativamente em te dar a impressão de que você ganhou alguns centímetros em espaço. Então veja o que é possível aplicar já, e seja mais feliz usando seu banheiro todo os dias pela manhã. Confere!
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank">**Dicas e imagens: como maximizar o banheiro.**</a>
+  [**Dicas e imagens: como maximizar o banheiro.**](http://www.decoracaodacasa.com/decoracao-banheiro/) 
 </p>
 
 <p align="justify">
-  **1 – Você precisa ter tantos itens? **Considere o número de toalhas, produtos de beleza e higiene: é preciso tudo isso? Ter seu balcão repleto de coisas, os armários lotados de caixas organizadoras, as paredes cheias de ganchos e prateleiras, as portas suportando roupas e mais roupas, bolsas, cintos, etc. Quanta coisa! Veja bem: instalar prateleiras, ganchos e usar caixas organizadoras para colocar ordem no banheiro é uma boa estratégia, sim. Mas isso não significa que está tudo bem ter o máximo de coisas lá porque, afinal de contas, “tudo tem o seu lugar”. A melhor das estratégias é você aprender a aceitar que seu espaço é pequeno e, por isso, precisa desapegar de coisas que, pensando bem, não são tão necessárias assim. Faça bom uso do espaço que você tem de armazenamento, livrando-se de tanta tralha, e tenha um ambiente mais leve! Para isso, não deixe de espiar o post que te mostra <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">6 ideias para ganhar mais espaço em seu banheiro</a>.
+  **1 – Você precisa ter tantos itens? **Considere o número de toalhas, produtos de beleza e higiene: é preciso tudo isso? Ter seu balcão repleto de coisas, os armários lotados de caixas organizadoras, as paredes cheias de ganchos e prateleiras, as portas suportando roupas e mais roupas, bolsas, cintos, etc. Quanta coisa! Veja bem: instalar prateleiras, ganchos e usar caixas organizadoras para colocar ordem no banheiro é uma boa estratégia, sim. Mas isso não significa que está tudo bem ter o máximo de coisas lá porque, afinal de contas, “tudo tem o seu lugar”. A melhor das estratégias é você aprender a aceitar que seu espaço é pequeno e, por isso, precisa desapegar de coisas que, pensando bem, não são tão necessárias assim. Faça bom uso do espaço que você tem de armazenamento, livrando-se de tanta tralha, e tenha um ambiente mais leve! Para isso, não deixe de espiar o post que te mostra [6 ideias para ganhar mais espaço em seu banheiro](http://www.decoracaodacasa.com/banheiro-pequeno/) .
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank">**Decoração de banheiro para poupar/ganhar espaço: 4 dicas.**</a>
+  [**Decoração de banheiro para poupar/ganhar espaço: 4 dicas.**](http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/) 
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.macedoecovolo.com.br/" target="_blank">Giselle Macedo & Patricia Covolo</a>.
+  Via [Giselle Macedo & Patricia Covolo](http://www.macedoecovolo.com.br/) .
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">**4 ideias para decoração de banheiro pequeno.**</a>
+  [**4 ideias para decoração de banheiro pequeno.**](http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/) 
 </p>
 
 <p align="justify">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  4 – **Ilumine bem o seu espaço**. Já falei que no meu banheiro do apartamento em reforma não tem janela, não é? Mais do que nunca preciso iluminar bem o ambiente. Tome esse tipo de cuidado também. Imagine: o banheiro pequeno e a gente vendo cantinhos mal iluminados? É por isso que precisamos dar atenção a esse aspecto no banheiro <em>mini</em>, viu?
+  4 – **Ilumine bem o seu espaço**. Já falei que no meu banheiro do apartamento em reforma não tem janela, não é? Mais do que nunca preciso iluminar bem o ambiente. Tome esse tipo de cuidado também. Imagine: o banheiro pequeno e a gente vendo cantinhos mal iluminados? É por isso que precisamos dar atenção a esse aspecto no banheiro _mini_, viu?
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p align="center">
-  Iluminação sobre o balcão e geral, inclusive dentro do box. Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>.
+  Iluminação sobre o balcão e geral, inclusive dentro do box. Via [Casa Abril](http://casa.abril.com.br/) .
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://pro.casa.abril.com.br/" target="_blank">CasaPro</a>
+  Via [CasaPro](http://pro.casa.abril.com.br/) 
 </p>
 
 <p align="justify">
@@ -115,7 +115,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.leroymerlin.com.br/regions/create" target="_blank">Leroy Merlin</a>
+  Via [Leroy Merlin](http://www.leroymerlin.com.br/regions/create) 
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.magazineluiza.com.br/" target="_blank">Magazine Luiza</a>
+  Via [Magazine Luiza](http://www.magazineluiza.com.br/) 
 </p>
 
 <p align="justify">
@@ -131,11 +131,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/armario-de-banheiro/" target="_blank">**Armário de banheiro. Falta ideia? Veja 6 bonitos e simples.**</a>
+  [**Armário de banheiro. Falta ideia? Veja 6 bonitos e simples.**](http://www.decoracaodacasa.com/armario-de-banheiro/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

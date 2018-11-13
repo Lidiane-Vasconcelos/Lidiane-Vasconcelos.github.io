@@ -14,13 +14,13 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 <p align="justify">
-  Claro que, como sempre, busquei uma consultoria bacana para todas nós, <em>hã</em>? Quem tirou todas as minhas dúvidas para que eu pudesse dividir as respostas contigo foi a **Dra. Livia Pino**, que é **Dermatologista **e atende no **Rio de Janeiro**. Confira e informe-se!
+  Claro que, como sempre, busquei uma consultoria bacana para todas nós, _hã_? Quem tirou todas as minhas dúvidas para que eu pudesse dividir as respostas contigo foi a **Dra. Livia Pino**, que é **Dermatologista **e atende no **Rio de Janeiro**. Confira e informe-se!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9120" rel="attachment wp-att-9120"><img class="alignnone size-full wp-image-9120" title="MAQUIAGEM - SAUDE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MAQUIAGEM-SAUDE.png" alt="" width="338" height="226" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/?attachment_id=9120" rel="attachment wp-att-9120"><img class="alignnone size-full wp-image-9120" title="MAQUIAGEM - SAUDE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/09/MAQUIAGEM-SAUDE.png" alt="" width="338" height="226" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 > <p align="justify">
->   “<em>Quando passamos maquiagem, parte do produto penetra nos poros. Se não retirarmos, deixaremos este produto e a pele terá dificuldade de expelir sua secreção que é o sebo. </em><em>Por isso é super importante retirar a maquiagem antes de dormir e lavar bem a pele com produtos adequados para seu tipo de pele</em>.”
+>   “_Quando passamos maquiagem, parte do produto penetra nos poros. Se não retirarmos, deixaremos este produto e a pele terá dificuldade de expelir sua secreção que é o sebo. __Por isso é super importante retirar a maquiagem antes de dormir e lavar bem a pele com produtos adequados para seu tipo de pele_.”
 > </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 > <p align="justify">
->   “<em>Maquiagem pode causar problemas na pele, quando não usamos a maquiagem ideal para seu tipo de pele. Por exemplo: usar maquiagem oleosa (que não seja oil free) em uma pele com tendência a formação de acne, pode precipitar o aparecimento de lesões inflamatórias de acne. E peles sensíveis, se usarmos maquiagem que não seja hipoalergênica, ou usar maquiagens com muito pigmento, pode causar alergia. </em><em>Em geral, se bem indicada e retirada, a maquiagem não causa problemas a pele.”</em>
+>   “_Maquiagem pode causar problemas na pele, quando não usamos a maquiagem ideal para seu tipo de pele. Por exemplo: usar maquiagem oleosa (que não seja oil free) em uma pele com tendência a formação de acne, pode precipitar o aparecimento de lesões inflamatórias de acne. E peles sensíveis, se usarmos maquiagem que não seja hipoalergênica, ou usar maquiagens com muito pigmento, pode causar alergia. __Em geral, se bem indicada e retirada, a maquiagem não causa problemas a pele.”_
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 > <p align="justify">
->   “<em>Depende do tipo de pele. Para **peles oleosas** e com tendência á acne  gosto dos demaquilantes bem líquidos e sem óleo, como se fosse uma água. Exemplos deste demaquilantes:</em>
+>   “_Depende do tipo de pele. Para **peles oleosas** e com tendência á acne  gosto dos demaquilantes bem líquidos e sem óleo, como se fosse uma água. Exemplos deste demaquilantes:_
 > </p>
 
 &nbsp;
@@ -74,7 +74,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 > <p align="justify">
->   “<em>Devemos lembrar que nas peles oleosas é necessário usar o demaquilante e depois usar seu sabonete específico. </em><em>Para **peles ressecadas** podemos usar demaquilantes cremosos e com ativos hidratantes como por exemplo:</em>
+>   “_Devemos lembrar que nas peles oleosas é necessário usar o demaquilante e depois usar seu sabonete específico. __Para **peles ressecadas** podemos usar demaquilantes cremosos e com ativos hidratantes como por exemplo:_
 > </p>
 
 &nbsp;
@@ -92,7 +92,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 > <p align="justify">
->   “<em>Para **peles sensiveis** devemos usar demaquilantes específicos para este tipo de pele como:</em>
+>   “_Para **peles sensiveis** devemos usar demaquilantes específicos para este tipo de pele como:_
 > </p>
 
 &nbsp;
@@ -116,7 +116,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 > <p align="justify">
->   “<em>Conversar com seu dermatologista. Este profissional poderá indicar produtos específicos para seu tipo de pele. Atualmente existem maquiagens que já tratam e protegem a pele (filtro solar). </em><em>De uma forma geral, peles oleosas devem procurar maquiagem oil free, não comedogênica e mineral. </em><em>Peles secas podem usar maquiagens mais cremosas e sem muita preocupação se são oil free.”</em>
+>   “_Conversar com seu dermatologista. Este profissional poderá indicar produtos específicos para seu tipo de pele. Atualmente existem maquiagens que já tratam e protegem a pele (filtro solar). __De uma forma geral, peles oleosas devem procurar maquiagem oil free, não comedogênica e mineral. __Peles secas podem usar maquiagens mais cremosas e sem muita preocupação se são oil free.”_
 > </p>
 
 &nbsp;
@@ -132,7 +132,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 &nbsp;
 
 <p align="justify">
-  Bonita, você ainda precisa saber que a **Dra. Livia Pino** é blogueira! Pois é… é ela quem edita o blog **<a href="http://www.dermatologiaemfoco.blogspot.com.br/" target="_blank">Dermatologia em Foco</a>**, onde dá dicas de lançamentos de produtos, promove sorteios e promoções imperdíveis, e nos deixa sempre muito bem informadas sobre saúde e beleza da pele. Você não vai perder, <em>né</em>? Então se joga e **<a href="http://www.dermatologiaemfoco.blogspot.com.br/" target="_blank">clica bem aqui</a>**.
+  Bonita, você ainda precisa saber que a **Dra. Livia Pino** é blogueira! Pois é… é ela quem edita o blog **[Dermatologia em Foco](http://www.dermatologiaemfoco.blogspot.com.br/) **, onde dá dicas de lançamentos de produtos, promove sorteios e promoções imperdíveis, e nos deixa sempre muito bem informadas sobre saúde e beleza da pele. Você não vai perder, _né_? Então se joga e **[clica bem aqui](http://www.dermatologiaemfoco.blogspot.com.br/) **.
 </p>
 
 <p align="center">
@@ -204,7 +204,7 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -219,13 +219,13 @@ Claro que é, bonita! A **maquiagem** pode deixar a gente linda de viver, mas ta
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

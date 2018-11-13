@@ -26,7 +26,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Se você acha que a remoção dessa placa é daqueles procedimentos realizados num consultório dentário, errou. Na verdade, você faz isso apenas com a escovação dos dentes. A placa é removida em consultório somente quando ela “<em>mineraliza e vira tártaro, pois aí não é mais possível removê-la apenas com a escovação</em>”, avisa a dra. Ana Paula.
+  Se você acha que a remoção dessa placa é daqueles procedimentos realizados num consultório dentário, errou. Na verdade, você faz isso apenas com a escovação dos dentes. A placa é removida em consultório somente quando ela “_mineraliza e vira tártaro, pois aí não é mais possível removê-la apenas com a escovação_”, avisa a dra. Ana Paula.
 </p>
 
 <p align="center">
@@ -94,23 +94,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank">**Dentes bonitos e saudáveis: o que fazer e evitar?**</a>
+  [**Dentes bonitos e saudáveis: o que fazer e evitar?**](http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank">**Você sabe mesmo cuidar da higiene dos dentes?**</a>
+  [**Você sabe mesmo cuidar da higiene dos dentes?**](http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/27/saude-bucal/" target="_blank">**Creme ou enxaguantes bucais de ação clareadora: isso funciona?**</a>
+  [**Creme ou enxaguantes bucais de ação clareadora: isso funciona?**](http://www.trololodemulher.com.br/2011/07/27/saude-bucal/) 
 </p>
 
 <p align="justify">
-  A **Dra. Ana** é a autora do blog <a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank">Facebook. Clique aqui, curta</a> e fique por dentro!
+  A **Dra. Ana** é a autora do blog [Medo de Dentista](http://medodedentista.com.br/)  e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e [clica aqui](http://medodedentista.com.br/) , bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no [Facebook. Clique aqui, curta](https://www.facebook.com/medodedentista?fref=ts)  e fique por dentro!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

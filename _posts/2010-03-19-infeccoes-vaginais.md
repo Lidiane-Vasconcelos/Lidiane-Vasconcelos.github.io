@@ -15,7 +15,7 @@ Mas, oh! Não podemos dar moleza para os males que podem nos acometer causando i
 
 <!--more-->
 
-Já ouviu falar da candidíase não é, bonita? Pois é, essa é uma infecção muito comum entre as mulheres, e os sintomas mais comuns são a coceira e corrimento esbranquiçado. Eu estava lendo um artigo que fala sobre esse mal, no site <a href="http://www.atmosferafeminina.com.br/" target="_blank">Atmosfera Feminina</a>, e constatei que nunca tive esse problema. Pode acreditar!
+Já ouviu falar da candidíase não é, bonita? Pois é, essa é uma infecção muito comum entre as mulheres, e os sintomas mais comuns são a coceira e corrimento esbranquiçado. Eu estava lendo um artigo que fala sobre esse mal, no site [Atmosfera Feminina](http://www.atmosferafeminina.com.br/) , e constatei que nunca tive esse problema. Pode acreditar!
 
 Mas, oh! Nem pense que é por que eu sou alguma alma iluminada ou qualquer coisa assim. Só posso atribuir minha falta de experiência com essa infecção (ainda bem!!!) por alguns detalhes que fazem a diferença no meu dia a dia.
 
@@ -55,7 +55,7 @@ Sempre digo a marido que ser mulher não é fácil. São muitos os detalhes para
 
 Então, bonita, informe-se! Sempre!!
 
-Imagem: <a href="http://www.sxc.hu/profile/duchesssa" target="_blank">Duchesssa</a>
+Imagem: [Duchesssa](http://www.sxc.hu/profile/duchesssa) 
 
 **Leia mais sobre saúde&#8230;**
 

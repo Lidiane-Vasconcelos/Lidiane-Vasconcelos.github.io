@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">**Produtividade e gestão de tempo: chega de correria.**</a>
+  [**Produtividade e gestão de tempo: chega de correria.**](http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/18/desacelerar/" target="_blank">**Desacelerar e ter uma vida leve: veja quatro dicas práticas.**</a>
+  [**Desacelerar e ter uma vida leve: veja quatro dicas práticas.**](http://www.trololodemulher.com.br/2016/04/18/desacelerar/) 
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
@@ -63,13 +63,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">**Vida simples: menos é mais, e a gente vive melhor.**</a>
+  [**Vida simples: menos é mais, e a gente vive melhor.**](http://www.trololodemulher.com.br/2015/07/03/vida-simples/) 
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

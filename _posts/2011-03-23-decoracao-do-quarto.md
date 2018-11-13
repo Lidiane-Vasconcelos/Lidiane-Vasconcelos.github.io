@@ -22,7 +22,7 @@ Seu **quarto**, além de descanso, é também seu lugar preferido para namorar? 
 </p>
 
 <p style="text-align: justify;">
-  O quarto parece luxuoso demais para sua realidade? Eu não duvido que seja! Mas, <em>‘cá ‘pra</em> nós, você não quer reproduzí-lo na íntegra, certo? Você quer que ele te inspire! Sendo assim, providencie **almofadas para sua cama, de cores e tamanhos variados**. Isso fará com que sua cama ganhe um ar de conforto bastante reforçado e, a depender das cores que você escolha, o romantismo também vai aflorar no espaço. Sendo assim, **prefira cores suaves**, a exemplo do que você vê neste ambiente. Alguma dúvida de que a cama vai virar o centro das atenções no espaço?
+  O quarto parece luxuoso demais para sua realidade? Eu não duvido que seja! Mas, _‘cá ‘pra_ nós, você não quer reproduzí-lo na íntegra, certo? Você quer que ele te inspire! Sendo assim, providencie **almofadas para sua cama, de cores e tamanhos variados**. Isso fará com que sua cama ganhe um ar de conforto bastante reforçado e, a depender das cores que você escolha, o romantismo também vai aflorar no espaço. Sendo assim, **prefira cores suaves**, a exemplo do que você vê neste ambiente. Alguma dúvida de que a cama vai virar o centro das atenções no espaço?
 </p>
 
 <p style="text-align: center;">
@@ -41,7 +41,7 @@ Seu **quarto**, além de descanso, é também seu lugar preferido para namorar? 
   Você ainda tem dúvidas do quanto a **meia luz** pode favorecer a decoração do seu quarto para proporcionar a sensação de romantismo no ar? Se no curto prazo não dá para preparar o quarto com recursos como arandelas ou abajures, capriche nas **velas**! E vá além: escolha **velas aromáticas**. De dia elas enfeitam o espaço, e de noite elas reinam absolutas como suas aliadas para ir além do romantismo&#8230;inspire-se!
 </p>
 
-Imagens: <a href="http://www.housetohome.co.uk/" target="_blank">HouseToHome</a>
+Imagens: [HouseToHome](http://www.housetohome.co.uk/) 
 
 **Mais no Bicha Fêmea…**
 
@@ -56,21 +56,21 @@ Imagens: <a href="http://www.housetohome.co.uk/" target="_blank">HouseToHome</a>
 **_[Decoração do quarto: ideias elegantes, femininas e baratas!](http://www.trololodemulher.com.br/2010/10/20/quarto-ideias-femininas/)_**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>> 3 dicas para deixar a decoração do quarto mais romântica…
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa & Decoração_**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**_Quartos_**</a>> 3 dicas para deixar a decoração do quarto mais romântica…
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

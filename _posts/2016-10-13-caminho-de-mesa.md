@@ -11,7 +11,7 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Na semana passada, no formulário de comentário <a href="http://www.trololodemulher.com.br/2009/02/11/alternativas-para-decorar-uma-mesa-de-jantar/" target="_blank">deste post, onde a proposta é mostrar alternativas para a decoração de uma mesa de jantar</a>, uma leitora me fez a seguinte pergunta: “<em>Gostaria de saber se ainda usa caminho de mesa para mesa</em>”. Pergunta objetiva e direta, e minha posição é a de que esse tipo de peça é puro charme! A leitora disse que tem dúvidas quanto ao uso na mesa de vidro dela, eu uso na minha de madeira, e no final das contas eu acredito é numa decoração com identidade: a nossa! E por que não deixar a mesa à mostra? Se queremos usar uma peça tão delicada, o ideal é se jogar e ser feliz! Se renda ao caminho de mesa, bonita! Eu te conto por que vale à pena:
+  Na semana passada, no formulário de comentário [deste post, onde a proposta é mostrar alternativas para a decoração de uma mesa de jantar](http://www.trololodemulher.com.br/2009/02/11/alternativas-para-decorar-uma-mesa-de-jantar/) , uma leitora me fez a seguinte pergunta: “_Gostaria de saber se ainda usa caminho de mesa para mesa_”. Pergunta objetiva e direta, e minha posição é a de que esse tipo de peça é puro charme! A leitora disse que tem dúvidas quanto ao uso na mesa de vidro dela, eu uso na minha de madeira, e no final das contas eu acredito é numa decoração com identidade: a nossa! E por que não deixar a mesa à mostra? Se queremos usar uma peça tão delicada, o ideal é se jogar e ser feliz! Se renda ao caminho de mesa, bonita! Eu te conto por que vale à pena:
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank"><img class="alignnone size-full wp-image-13091" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CAMINHO-DE-MESA2.jpg" alt="casa-decoracao-roupa-de-mesa-caminho-de-mesa2" width="779" height="776" /></a>
+  [<img class="alignnone size-full wp-image-13091" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CAMINHO-DE-MESA2.jpg" alt="casa-decoracao-roupa-de-mesa-caminho-de-mesa2" width="779" height="776" />](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo) 
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank">Caminhos de mesa</a>: todos da loja virtual <a href="https://www.xiquexiquebrasil.com.br/?ref=trololo" target="_blank">XiqueXique Brasil</a>. <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank">Clique aqui</a> para conferir!
+  [Caminhos de mesa](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo) : todos da loja virtual [XiqueXique Brasil](https://www.xiquexiquebrasil.com.br/?ref=trololo) . [Clique aqui](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo)  para conferir!
 </p>
 
 <p align="center">
@@ -35,19 +35,19 @@ categories:
 </p>
 
 <p align="justify">
-  Na hora de servir, o caminho de mesa pode ser combinado com <a href="http://www.trololodemulher.com.br/2016/08/30/jogos-americanos/" target="_blank">jogos americanos</a>, já pensou nisso? Use o caminho de mesa no centro da mesa, no sentido do comprimento, para apoiar travessas ou pequenos arranjos de flores. Nas extremidades, para cada convidado, disponha o jogo americano que receberá o prato e talheres para refeição. Brinque com a variação de tons das peças e monte sua mesa bonita de viver. Para uma mesa clássica, aposte nas peças de renda. A propósito: renda a linho, casadinhas, ficam lindas!
+  Na hora de servir, o caminho de mesa pode ser combinado com [jogos americanos](http://www.trololodemulher.com.br/2016/08/30/jogos-americanos/) , já pensou nisso? Use o caminho de mesa no centro da mesa, no sentido do comprimento, para apoiar travessas ou pequenos arranjos de flores. Nas extremidades, para cada convidado, disponha o jogo americano que receberá o prato e talheres para refeição. Brinque com a variação de tons das peças e monte sua mesa bonita de viver. Para uma mesa clássica, aposte nas peças de renda. A propósito: renda a linho, casadinhas, ficam lindas!
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank"><img class="alignnone size-full wp-image-13090" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CAMINHO-DE-MESA.jpg" alt="casa-decoracao-roupa-de-mesa-caminho-de-mesa" width="511" height="338" /></a>
+  [<img class="alignnone size-full wp-image-13090" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CAMINHO-DE-MESA.jpg" alt="casa-decoracao-roupa-de-mesa-caminho-de-mesa" width="511" height="338" />](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo) 
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank"><img class="alignnone size-full wp-image-13095" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CAMINHO-DE-MESA3.jpg" alt="casa-decoracao-roupa-de-mesa-caminho-de-mesa3" width="779" height="634" /></a>
+  [<img class="alignnone size-full wp-image-13095" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CAMINHO-DE-MESA3.jpg" alt="casa-decoracao-roupa-de-mesa-caminho-de-mesa3" width="779" height="634" />](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo) 
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank">Caminhos de mesa</a> da <a href="https://www.xiquexiquebrasil.com.br/?ref=trololo" target="_blank">XiqueXique Brasil</a>. <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank">Clique aqui e confira</a> peças lindas de viver!
+  [Caminhos de mesa](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo)  da [XiqueXique Brasil](https://www.xiquexiquebrasil.com.br/?ref=trololo) . [Clique aqui e confira](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo)  peças lindas de viver!
 </p>
 
 <p align="center">
@@ -59,19 +59,19 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo" target="_blank"><img class="alignnone size-full wp-image-13099" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CENTRO-DE-MESA.jpg" alt="casa-decoracao-roupa-de-mesa-centro-de-mesa" width="779" height="286" /></a>
+  [<img class="alignnone size-full wp-image-13099" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-DECORACAO-ROUPA-DE-MESA-CENTRO-DE-MESA.jpg" alt="casa-decoracao-roupa-de-mesa-centro-de-mesa" width="779" height="286" />](https://www.xiquexiquebrasil.com.br/casa/mesa/?ref=trololo) 
 </p>
 
 <p align="center">
-  Centros de mesa da <a href="https://www.xiquexiquebrasil.com.br/?ref=trololo" target="_blank">Xique Xique Brasil. Clique, visite a loja</a> confira a variedade de itens para vestir a mesa por lá.
+  Centros de mesa da [Xique Xique Brasil. Clique, visite a loja](https://www.xiquexiquebrasil.com.br/?ref=trololo)  confira a variedade de itens para vestir a mesa por lá.
 </p>
 
 <p align="justify">
-  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No **Instagram** todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
+  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e [clique aqui](http://bit.ly/xxb-tololo) . Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. [Clique aqui, curta](https://www.facebook.com/XiqueXiqueBrasil/)  e acompanhe! No **Instagram** todas as novidades e lindezas também desfilam lindamente para você: [clique aqui e siga](https://www.instagram.com/xiquexiquebrasil/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

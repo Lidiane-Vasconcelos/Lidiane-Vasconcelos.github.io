@@ -10,11 +10,11 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Não há como não viver de amores pelas receitas da Carol, e não querer repetí-las em casa. Carol tem compartilhado com a gente receitas <em>superultramega</em> simples, de verdade, com um apelo visual incrível, daqueles que a gente têm certeza da gostosura que a receita é. E, no final das contas, a receita ainda é super saudável. Como não amar?
+  Não há como não viver de amores pelas receitas da Carol, e não querer repetí-las em casa. Carol tem compartilhado com a gente receitas _superultramega_ simples, de verdade, com um apelo visual incrível, daqueles que a gente têm certeza da gostosura que a receita é. E, no final das contas, a receita ainda é super saudável. Como não amar?
 </p>
 
 <p align="justify">
-  Veja mais esta sugestão da Carol: torta com massa de abóbora, que é uma delícia, com recheio de frango temperadinho com ingredientes que, na certa, deixam tudo muito saboroso. Aproveite mais esta dica desta lindona muito esperta, que sabe fazer boas escolhas quanto a alimentação, e reproduza essa delícia na sua cozina… <em>´bora</em> aprender?
+  Veja mais esta sugestão da Carol: torta com massa de abóbora, que é uma delícia, com recheio de frango temperadinho com ingredientes que, na certa, deixam tudo muito saboroso. Aproveite mais esta dica desta lindona muito esperta, que sabe fazer boas escolhas quanto a alimentação, e reproduza essa delícia na sua cozina… _´bora_ aprender?
 </p>
 
 <p align="center">
@@ -106,23 +106,23 @@ Sal a gosto
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**</a>
+  [**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**](http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">**Hamburguer de grão de bico facinho, facinho…**</a>
+  [**Hamburguer de grão de bico facinho, facinho…**](http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage (no molho caseiro)**</a>
+  [**Canelone de berinjela + queijo cottage (no molho caseiro)**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

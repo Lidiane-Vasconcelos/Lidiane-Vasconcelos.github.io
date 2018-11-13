@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para Patrícia, que dá aulas na Oficina de português para crianças, oferecida pelo Centro Cultural Brasil-Finlândia (subordinado à Embaixada do Brasil em Helsinque), ensinar a língua portuguesa para as crianças é muito importante por várias razões, mas principalmente para ajudar as crianças no processo de construção de sua identidade brasileira. “<em>Nós sabemos que a língua é como um veículo que carrega em si a cultura, os valores e a identidade de um povo*****. Contudo, vivendo fora do Brasil, a criança pode ter muita dificuldade de se reconhecer como brasileira e, consequentemente, falar português</em>.”
+  Para Patrícia, que dá aulas na Oficina de português para crianças, oferecida pelo Centro Cultural Brasil-Finlândia (subordinado à Embaixada do Brasil em Helsinque), ensinar a língua portuguesa para as crianças é muito importante por várias razões, mas principalmente para ajudar as crianças no processo de construção de sua identidade brasileira. “_Nós sabemos que a língua é como um veículo que carrega em si a cultura, os valores e a identidade de um povo*****. Contudo, vivendo fora do Brasil, a criança pode ter muita dificuldade de se reconhecer como brasileira e, consequentemente, falar português_.”
 </p>
 
 <p align="center">
@@ -56,19 +56,19 @@ categories:
 </p>
 
 <p align="justify">
-  Eduardo tem seus dois filhos no curso de português para crianças e sua opinião é semelhante à da professora. “<em>Acho que o ensino da língua portuguesa, a língua materna dos pais de qualquer criança, seja crucial, pois é a língua do afeto também, e afeto e afinidade são os maiores ingredientes pedagógicos possíveis na motivação aprendendo um idioma.</em>”
+  Eduardo tem seus dois filhos no curso de português para crianças e sua opinião é semelhante à da professora. “_Acho que o ensino da língua portuguesa, a língua materna dos pais de qualquer criança, seja crucial, pois é a língua do afeto também, e afeto e afinidade são os maiores ingredientes pedagógicos possíveis na motivação aprendendo um idioma._”
 </p>
 
 <p align="justify">
-  Virgínia e o marido também consideram importante que as filhas tenham contato com a língua nativa materna e paterna. “<em>As línguas são pontes para as culturas de onde viemos e são intrínsecas ao que somos como pessoas e pais. As línguas também fortificam a relação das meninas com nossas famílias no Brasil e na Grécia. As meninas aprendem o português e o grego através de programas formais de ensino, e também de materiais e oportunidades informais como desenhos, filmes, leitura em casa, amigos, viagens, etc</em>.”
+  Virgínia e o marido também consideram importante que as filhas tenham contato com a língua nativa materna e paterna. “_As línguas são pontes para as culturas de onde viemos e são intrínsecas ao que somos como pessoas e pais. As línguas também fortificam a relação das meninas com nossas famílias no Brasil e na Grécia. As meninas aprendem o português e o grego através de programas formais de ensino, e também de materiais e oportunidades informais como desenhos, filmes, leitura em casa, amigos, viagens, etc_.”
 </p>
 
 <p align="justify">
-  “<em>Temos quatro línguas em casa: português, grego, inglês e finlandês. Moramos na Escócia por seis anos quando Sofia estava em idade escolar infantil. Desde que Nina nasceu, aqui na Finlândia, usamos com ela cada um sua língua nativa: eu, português, e o pai, o Grego, ou quase nativa no caso da irmã, que é o inglês</em>.” Sofia foi alfabetizada na Escócia na época em que viveram lá e depois em escola internacional na Finlândia. “<em>A partir dos 13 anos ela passou a frequentar escolas somente em Finlandês. Nina frequentou creches em finlandês a partir dos 14 meses e iniciou a escola este ano (uma escola bilíngue finlandês-inglês)</em>”, completa.
+  “_Temos quatro línguas em casa: português, grego, inglês e finlandês. Moramos na Escócia por seis anos quando Sofia estava em idade escolar infantil. Desde que Nina nasceu, aqui na Finlândia, usamos com ela cada um sua língua nativa: eu, português, e o pai, o Grego, ou quase nativa no caso da irmã, que é o inglês_.” Sofia foi alfabetizada na Escócia na época em que viveram lá e depois em escola internacional na Finlândia. “_A partir dos 13 anos ela passou a frequentar escolas somente em Finlandês. Nina frequentou creches em finlandês a partir dos 14 meses e iniciou a escola este ano (uma escola bilíngue finlandês-inglês)_”, completa.
 </p>
 
 <p align="justify">
-  Com Eduardo acontece quase a mesma situação. “<em>Na nossa casa todo dia falamos em português, finlandês, inglês e frequentemente italiano. Desde quando [as crianças] nasceram optamos por cada um de nós falarmos exclusivamente a língua materna de cada um, ou seja, as crianças entendem tudo em ambas as línguas, mas é claro, como qualidade, o finlandês é praticado mais do que qualquer outra língua</em>”, completa Eduardo, que cita o italiano em sua casa, pois morou alguns anos por lá.
+  Com Eduardo acontece quase a mesma situação. “_Na nossa casa todo dia falamos em português, finlandês, inglês e frequentemente italiano. Desde quando [as crianças] nasceram optamos por cada um de nós falarmos exclusivamente a língua materna de cada um, ou seja, as crianças entendem tudo em ambas as línguas, mas é claro, como qualidade, o finlandês é praticado mais do que qualquer outra língua_”, completa Eduardo, que cita o italiano em sua casa, pois morou alguns anos por lá.
 </p>
 
 <p align="justify">
@@ -92,15 +92,15 @@ categories:
 </p>
 
 <p align="justify">
-  Para Patricia “<em>os benefícios cognitivos do bilinguismo, a ampliação das possibilidades de atuação profissional dessas crianças no futuro, o crescimento do nosso país e também o simples prazer em conhecer e saborear a diversidade cultural brasileira através da nossa música, literatura e artes em geral são pontos relevantes na hora pensar em ensinar a língua portuguesa para as crianças”</em>.
+  Para Patricia “_os benefícios cognitivos do bilinguismo, a ampliação das possibilidades de atuação profissional dessas crianças no futuro, o crescimento do nosso país e também o simples prazer em conhecer e saborear a diversidade cultural brasileira através da nossa música, literatura e artes em geral são pontos relevantes na hora pensar em ensinar a língua portuguesa para as crianças”_.
 </p>
 
 <p align="justify">
-  “<em>Por sorte, a Finlândia é um país que incentiva muito que as famílias estrangeiras continuem falando sua(s) língua(s) materna(s) em casa</em>”, afirma Patricia. Além de a Finlândia oferecer diversos cursos extras de línguas, nas escolas as crianças também são incentivadas a aprender outros idiomas como espanhol, francês, inglês, sueco.
+  “_Por sorte, a Finlândia é um país que incentiva muito que as famílias estrangeiras continuem falando sua(s) língua(s) materna(s) em casa_”, afirma Patricia. Além de a Finlândia oferecer diversos cursos extras de línguas, nas escolas as crianças também são incentivadas a aprender outros idiomas como espanhol, francês, inglês, sueco.
 </p>
 
 <p align="justify">
-  Eduardo afirma que ele e sua esposa sentem em casa o resultado desse incentivo na Finlândia. “<em>Somos pais de muita sorte, além de sentirmos em casa o resultado da excelente qualidade da educação nacional finlandesa em geral, temos professores universitários de máxima qualidade ensinado o português</em>.”
+  Eduardo afirma que ele e sua esposa sentem em casa o resultado desse incentivo na Finlândia. “_Somos pais de muita sorte, além de sentirmos em casa o resultado da excelente qualidade da educação nacional finlandesa em geral, temos professores universitários de máxima qualidade ensinado o português_.”
 </p>
 
 <p align="center">
@@ -112,11 +112,11 @@ categories:
 </p>
 
 <p align="justify">
-  Claro que, com todo esse aprendizado de línguas, a da alfabetização acaba sendo sempre a mais forte para a criança, a que ela tem mais intimidade. Mas o fato de conhecer outras línguas e poder se comunicar em diversos idiomas quebra barreiras na vida deles. “<em>Não temos a expectativa que Sofia e Nina desenvolvam ao mesmo tempo as quatro línguas no mesmo nível. Sabemos por experiência que a familiaridade com as línguas varia ao longo do tempo de acordo com as vivências que as crianças vão tendo</em>”, finaliza Virgínia.
+  Claro que, com todo esse aprendizado de línguas, a da alfabetização acaba sendo sempre a mais forte para a criança, a que ela tem mais intimidade. Mas o fato de conhecer outras línguas e poder se comunicar em diversos idiomas quebra barreiras na vida deles. “_Não temos a expectativa que Sofia e Nina desenvolvam ao mesmo tempo as quatro línguas no mesmo nível. Sabemos por experiência que a familiaridade com as línguas varia ao longo do tempo de acordo com as vivências que as crianças vão tendo_”, finaliza Virgínia.
 </p>
 
 <p align="justify">
-  Ainda segundo a professora Patricia, “<em>outro aspecto importante do ensino do português no exterior é reconhecer que cada criança é uma riqueza em potencial do nosso país e pode, no futuro, atuar utilizando a língua portuguesa, em paralelo com outras línguas, para conectar cada vez mais o Brasil com o resto do mundo, contribuindo para o desenvolvimento do nosso país e a construção da nossa sociedade. Assim, a importância de ensinar português para as crianças que estão vivendo em outros países e sendo alfabetizadas em outro idioma passa pela questão da identidade e vai até outras áreas, como a manutenção da comunicação dessas crianças com seus familiares no Brasil</em>.”
+  Ainda segundo a professora Patricia, “_outro aspecto importante do ensino do português no exterior é reconhecer que cada criança é uma riqueza em potencial do nosso país e pode, no futuro, atuar utilizando a língua portuguesa, em paralelo com outras línguas, para conectar cada vez mais o Brasil com o resto do mundo, contribuindo para o desenvolvimento do nosso país e a construção da nossa sociedade. Assim, a importância de ensinar português para as crianças que estão vivendo em outros países e sendo alfabetizadas em outro idioma passa pela questão da identidade e vai até outras áreas, como a manutenção da comunicação dessas crianças com seus familiares no Brasil_.”
 </p>
 
 <p align="justify">
@@ -136,27 +136,27 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/" target="_blank">Como é comemorado o aniversário infantil na Finlândia?</a>**
+  **[Como é comemorado o aniversário infantil na Finlândia?](http://www.trololodemulher.com.br/2017/09/29/aniversario-infantil-na-finlandia/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/" target="_blank">Caso de sucesso: o enfrentamento do bullying na Finlândia.</a>**
+  **[Caso de sucesso: o enfrentamento do bullying na Finlândia.](http://www.trololodemulher.com.br/2017/08/18/bullying-na-finlandia/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/" target="_blank">Verdades pouco conhecidas sobre a mulher finlandesa.</a>**
+  **[Verdades pouco conhecidas sobre a mulher finlandesa.](http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/) **
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca/timeline)  Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

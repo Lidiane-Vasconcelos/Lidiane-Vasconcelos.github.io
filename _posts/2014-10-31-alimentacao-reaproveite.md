@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Todas nós sabemos que o dia a dia para as mulheres, hoje em dia, é cheio de atividades. Tantas atribuições acaba nos empurrando para algumas escolhas que apelam para o “mais rápido”, e quase sempre isso se aplica a nossa alimentação. O resultado disso? O que comemos acaba sendo algo assim, <em>mais ou menos</em>, não é verdade? Além do mais, como tudo acaba sendo feito no piloto automático, essa falta de cuidado com a comida gera desperdício e gastos desnecessários. Se você não está satisfeita com esse quadro, esse post é para você, bonita!
+  Todas nós sabemos que o dia a dia para as mulheres, hoje em dia, é cheio de atividades. Tantas atribuições acaba nos empurrando para algumas escolhas que apelam para o “mais rápido”, e quase sempre isso se aplica a nossa alimentação. O resultado disso? O que comemos acaba sendo algo assim, _mais ou menos_, não é verdade? Além do mais, como tudo acaba sendo feito no piloto automático, essa falta de cuidado com a comida gera desperdício e gastos desnecessários. Se você não está satisfeita com esse quadro, esse post é para você, bonita!
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.sheknows.co.uk/" target="_blank">She Knows</a>
+  Imagem: [She Knows](http://www.sheknows.co.uk/) 
 </p>
 
 <p align="center">
@@ -30,31 +30,31 @@ categories:
 </p>
 
 <p align="justify">
-  Sabe a **Juliana Stelli**? Você já deve conhecer, aposto! Ela é a bonitona que comanda o blog <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>, um espaço virtual <em>superultramega</em> querido recheado de receitas do tipo “gente da gente”, o que me fez viver de amores e frequentá-lo, regularmente, há muito tempo. Essa moça tem uma série de dicas sobre mudanças de hábitos na alimentação que valem a pena a nossa atenção. A boa notícia é que ela compartilhou conosco… espia só, repense como e o que você anda comendo, e mude!
+  Sabe a **Juliana Stelli**? Você já deve conhecer, aposto! Ela é a bonitona que comanda o blog [Pitadinha](http://www.pitadinha.com/) , um espaço virtual _superultramega_ querido recheado de receitas do tipo “gente da gente”, o que me fez viver de amores e frequentá-lo, regularmente, há muito tempo. Essa moça tem uma série de dicas sobre mudanças de hábitos na alimentação que valem a pena a nossa atenção. A boa notícia é que ela compartilhou conosco… espia só, repense como e o que você anda comendo, e mude!
 </p>
 
 <p align="justify">
-  <em>**“Mudança nos hábitos alimentares começa primeiro na cabeça. Hoje em dia o termo &#8220;saudável&#8221; pode ter milhões de significados e temos tanta informação que é fácil ficar confuso. Mas há cinco dicas que facilitam para quem quer começar esta mudança:**</em>
+  _**“Mudança nos hábitos alimentares começa primeiro na cabeça. Hoje em dia o termo &#8220;saudável&#8221; pode ter milhões de significados e temos tanta informação que é fácil ficar confuso. Mas há cinco dicas que facilitam para quem quer começar esta mudança:**_
 </p>
 
 <p align="justify">
-  <em>**1. <span style="color: #ff0000;">Coma comida</span>. Tente diminuir ao máximo o consumo de industrializados que não agregam valor nutricional e dê preferência para alimentos minimamente processados. Fruta é o fast food da natureza 😉**</em>
+  _**1. <span style="color: #ff0000;">Coma comida</span>. Tente diminuir ao máximo o consumo de industrializados que não agregam valor nutricional e dê preferência para alimentos minimamente processados. Fruta é o fast food da natureza 😉**_
 </p>
 
 <p align="justify">
-  <em>**2. <span style="color: #ff0000;">Simplifique</span>. Deixe as invenções culinárias para o fim de semana e ocasiões especiais. Nos demais dias mantenha um cardápio leve e básico.**</em>
+  _**2. <span style="color: #ff0000;">Simplifique</span>. Deixe as invenções culinárias para o fim de semana e ocasiões especiais. Nos demais dias mantenha um cardápio leve e básico.**_
 </p>
 
 <p align="justify">
-  <em>**3. <span style="color: #ff0000;">Não compre o super-alimento da moda</span>. Na maioria das vezes é mais marketing que outra coisa. Valorize seu dinheirinho e compre o que a sua região tem de melhor para oferecer. Sempre tem.**</em>
+  _**3. <span style="color: #ff0000;">Não compre o super-alimento da moda</span>. Na maioria das vezes é mais marketing que outra coisa. Valorize seu dinheirinho e compre o que a sua região tem de melhor para oferecer. Sempre tem.**_
 </p>
 
 <p align="justify">
-  <em>**4. <span style="color: #ff0000;">Não fique paranóica</span>. Quando buscamos mudanças na área alimentar geralmente ficamos obcecadas com o assunto. Vá com calma e respeite quem pensa diferente de você. **</em>
+  _**4. <span style="color: #ff0000;">Não fique paranóica</span>. Quando buscamos mudanças na área alimentar geralmente ficamos obcecadas com o assunto. Vá com calma e respeite quem pensa diferente de você. **_
 </p>
 
 <p align="justify">
-  <em>**5. <span style="color: #ff0000;">Aproveite!</span> Comer é muito bom e comer comida que nos dá o que precisamos para viver bem é melhor ainda :)” Juliana Stelli | <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**</em>
+  _**5. <span style="color: #ff0000;">Aproveite!</span> Comer é muito bom e comer comida que nos dá o que precisamos para viver bem é melhor ainda :)” Juliana Stelli | [Pitadinha](http://www.pitadinha.com/) **_
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Outra forma de evitar o desperdício, eu acrescento, é** ficar atenta a datas de validade dos produtos**. Além do mais, é sempre bom saber como variar o cardápio com as sobras dos alimentos. Quem nos ensina como fazer isso é a **Carol**, que além de dividir o que sabe aqui conosco, também edita um blog recheado com muito mais de suas receitas, dicas de viagens e bem viver…o <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">Mundo da Carol</a>.
+  Outra forma de evitar o desperdício, eu acrescento, é** ficar atenta a datas de validade dos produtos**. Além do mais, é sempre bom saber como variar o cardápio com as sobras dos alimentos. Quem nos ensina como fazer isso é a **Carol**, que além de dividir o que sabe aqui conosco, também edita um blog recheado com muito mais de suas receitas, dicas de viagens e bem viver…o [Mundo da Carol](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
@@ -190,15 +190,15 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**</a>
+  [**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**](http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">**Hamburguer de grão de bico facinho, facinho…**</a>
+  [**Hamburguer de grão de bico facinho, facinho…**](http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage ) no molho caseiro.**</a>
+  [**Canelone de berinjela + queijo cottage ) no molho caseiro.**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
 </p>
 
 <p align="justify">
@@ -206,7 +206,7 @@ Eu amassei bem o feijão com o garfo e utilizei o caldinho também. Acrescentei 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

@@ -10,7 +10,7 @@ categories:
   - Moda
 ---
 <p style="text-align: justify;">
-  Quando o **Verão** se aproxima, e segue a todo vapor, logo as mulheres ficam em polvorosa: é hora de usar os **vestidos**. Os modelos são os mais diversos, desde que sejam confortáveis, afinal de contas, “o<em> vestido é a cara do verão porque é a vestimenta que mais permite a circulação do ar pelo corpo. Como nesta estação além do sol forte o tempo fica muito abafado, usar roupas confortáveis é de suma importância</em>”, afirma **Tatianna Carvalho**, colunista de moda do blog **<a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a>**.
+  Quando o **Verão** se aproxima, e segue a todo vapor, logo as mulheres ficam em polvorosa: é hora de usar os **vestidos**. Os modelos são os mais diversos, desde que sejam confortáveis, afinal de contas, “o_ vestido é a cara do verão porque é a vestimenta que mais permite a circulação do ar pelo corpo. Como nesta estação além do sol forte o tempo fica muito abafado, usar roupas confortáveis é de suma importância_”, afirma **Tatianna Carvalho**, colunista de moda do blog **[Mix Cultural](http://mixdeinformacao.blogspot.com/) **.
 </p>
 
 <p style="text-align: justify;">
@@ -20,7 +20,7 @@ categories:
 <!--more-->
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">De Verão em Verão, eles é que mandam!</span></em>**
+  **_<span style="font-size: medium;">De Verão em Verão, eles é que mandam!</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -29,7 +29,7 @@ categories:
 
 <blockquote style="text-align: justify;">
   <p>
-    <em>Vestidos de alça, tomara que caia e frente única nunca saem de moda. Neste verão o diferencial são os de manga e de um ombro só. Assim como o último verão, vestidos de comprimento médio e curto são a sensação, o que  não desqualifica o longo, que é um clássico.</em>
+    _Vestidos de alça, tomara que caia e frente única nunca saem de moda. Neste verão o diferencial são os de manga e de um ombro só. Assim como o último verão, vestidos de comprimento médio e curto são a sensação, o que  não desqualifica o longo, que é um clássico._
   </p>
 </blockquote>
 
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Vestido de manga, diferencial no Verão, usado pela **Daniela Garlet.** A moça**,** sempre muito bela, mostra fotos de seus looks no seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
+  Vestido de manga, diferencial no Verão, usado pela **Daniela Garlet.** A moça**,** sempre muito bela, mostra fotos de seus looks no seu [Blog Dani Garlet](http://www.danigarlet.com/) .
 </p>
 
  
@@ -56,11 +56,11 @@ categories:
 </table>
 
 <p style="text-align: center;">
-  Vestido longo, um clássico do Verão, usado pela **Daniela Garlet**, a bonita que edita e enfeita o <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a>.
+  Vestido longo, um clássico do Verão, usado pela **Daniela Garlet**, a bonita que edita e enfeita o [Blog Dani Garlet](http://www.danigarlet.com/) .
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Confortáveis, sim. Deselegantes? Jamais!</span></em>**
+  **_<span style="font-size: medium;">Confortáveis, sim. Deselegantes? Jamais!</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  E se é para ter elegância usando uma peça de roupa assim, há detalhes que não podem ser esquecidos, como ensina a **Tatianna**: “<em>elegante é saber escolher o vestido para a ocasião em que vai usar, por exemplo, o vestido para trabalhar deve ser em cores mais discretas, não ser decotado e nem curto demais</em>”.
+  E se é para ter elegância usando uma peça de roupa assim, há detalhes que não podem ser esquecidos, como ensina a **Tatianna**: “_elegante é saber escolher o vestido para a ocasião em que vai usar, por exemplo, o vestido para trabalhar deve ser em cores mais discretas, não ser decotado e nem curto demais_”.
 </p>
 
 <p style="text-align: center;">
@@ -76,7 +76,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Vestido curto e alegre para passear, usado lindamente pela **Daniela Garlet** e mostrado em seu <a href="http://www.danigarlet.com/" target="_blank">Blog Dani Garlet</a> .
+  Vestido curto e alegre para passear, usado lindamente pela **Daniela Garlet** e mostrado em seu [Blog Dani Garlet](http://www.danigarlet.com/)  .
 </p>
 
 <p style="text-align: justify;">
@@ -85,7 +85,7 @@ categories:
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>Não tem muito mistério, mas devemos lembrar que para usar vestidos, a mulher deve ter modos e tomar cuidado com situações básicas como sentar e ir ao banheiro. Não são poucos os casos de mulheres que sentam de qualquer jeito ou vão ao banheiro e não ajeitam o vestido de forma correta. Em ambos os casos o mico é inevitável</em>.”
+    “_Não tem muito mistério, mas devemos lembrar que para usar vestidos, a mulher deve ter modos e tomar cuidado com situações básicas como sentar e ir ao banheiro. Não são poucos os casos de mulheres que sentam de qualquer jeito ou vão ao banheiro e não ajeitam o vestido de forma correta. Em ambos os casos o mico é inevitável_.”
   </p>
 </blockquote>
 
@@ -102,13 +102,13 @@ categories:
 **_[Regata branca, básica, versátil… e esquecida?](http://www.trololodemulher.com.br/2009/02/27/regata-branca-basica/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a> </em>**> Vestidos de Verão: moda, dicas e elegância…
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> **_<a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a> _**> Vestidos de Verão: moda, dicas e elegância…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

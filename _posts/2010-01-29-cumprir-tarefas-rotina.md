@@ -25,13 +25,13 @@ Respirar é um prazer. Já se deu conta? Sentir o vento batendo na pele é um pr
 
 > “… É tão gostoso sentar numa cadeira confortável,  ou deitar em uma rede, e observar o pôr-do-sol, né não? É como se a gente fosse convidado pra testemunhar o passar do tempo, mas através de um filtro colorido. Eu sei que nessa nossa vida louca, a gente não tem lá muito tempo pra parar e ver as coisas simples e eternas da natureza.
 
-> Mas você não acha que _vezououtra_ é bom parar um pouquinho, e se encantar com o laranja, que vai ficando cor de rosa, e logo se veste de azul? Seja na companhia do amado, ou na companhia de si mesmo? (Patrícia Pirota em <a href="http://patriciapirota.blogspot.com/2009/10/samba-do-crioulo-doido-com-cafe.html" target="_blank">Samba do crioulo doido com café fresquinho</a>…, blog <a href="http://patriciapirota.blogspot.com/" target="_blank">AINDA MININAMÁ</a>)
+> Mas você não acha que _vezououtra_ é bom parar um pouquinho, e se encantar com o laranja, que vai ficando cor de rosa, e logo se veste de azul? Seja na companhia do amado, ou na companhia de si mesmo? (Patrícia Pirota em [Samba do crioulo doido com café fresquinho](http://patriciapirota.blogspot.com/2009/10/samba-do-crioulo-doido-com-cafe.html) …, blog [AINDA MININAMÁ](http://patriciapirota.blogspot.com/) )
 
 E _euzinha_ concordo com a “_mininamá_ do coração de gengibre”, e vou além. Até mesmo as tarefas de nossa rotina podem ser momentos interessantes na vida, sabia? Sejam elas quais forem, se não forem executadas no modo automático, podem ser saboreadas e esconder algum sentido a mais. Já parou para pensar sobre isso?
 
 O fato é que procuro não perder de vista o que faz sentido para mim e tento não me tornar inerte ao que me cerca, e paro para pensar sobre como estou experimentando a vida. Esse é um esforço pessoal do qual não abro mão vida afora, porque para mim só faz algum sentido se for desse jeito.
 
-Mais uma vez me peguei pensando nisso, e o que me motivou foi este vídeo da Fernanda Montenegro, que foi enviado para mim por _e-mail_ pela Dolly, lá do blog “<a href="http://www.maryamariah.blogspot.com/" target="_blank">MARYAMARIAH</a>”.
+Mais uma vez me peguei pensando nisso, e o que me motivou foi este vídeo da Fernanda Montenegro, que foi enviado para mim por _e-mail_ pela Dolly, lá do blog “[MARYAMARIAH](http://www.maryamariah.blogspot.com/) ”.
 
 <div id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:b084192b-5f26-40ff-aaba-449e65d56aa7" class="wlWriterEditableSmartContent" style="margin: 0px auto; width: 425px; display: block; float: none; padding: 0px;">
   <div>
@@ -42,7 +42,7 @@ Mais uma vez me peguei pensando nisso, e o que me motivou foi este vídeo da Fer
 
 Espero que ele, o vídeo, possa te provocar também. Aproveite-o!!!
 
-_Imagem:_<a href="http://www.sxc.hu/" target="_blank"><em> stock. xchng</em></a>
+_Imagem:_[_ stock. xchng_](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea sobre o sabor da vida?**
 

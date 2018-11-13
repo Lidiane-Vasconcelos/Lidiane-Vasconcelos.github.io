@@ -12,7 +12,7 @@ categories:
 Você gosta de ver novidades em **decoração**, bonita? E se a novidade significa trazer a sensação de relaxamento e aconchego? Pois é justamente isso o que eu quero te mostrar hoje: a melhor das sensações que um tipo de **pufe** bem diferente do que você deve está acostumada a ver por aí pode trazer para um ambiente de sua casa ou apartamento.
 
 <p style="text-align: justify;">
-  Vem cá e me diz: você já ouviu falar do **<a href="http://www.brasilazy.com.br/" target="_blank">Brasilazy</a>**? Pois é disso que estou falando. Trata-se de um produto 100% brasileiro que reúne características associadas ao que é luxuoso, moderno e super confortável. Dá só uma olhada que você vai entender bem o porquê…
+  Vem cá e me diz: você já ouviu falar do **[Brasilazy](http://www.brasilazy.com.br/) **? Pois é disso que estou falando. Trata-se de um produto 100% brasileiro que reúne características associadas ao que é luxuoso, moderno e super confortável. Dá só uma olhada que você vai entender bem o porquê…
 </p>
 
 <!--more-->
@@ -22,7 +22,7 @@ Você gosta de ver novidades em **decoração**, bonita? E se a novidade signifi
 </p>
 
 <p style="text-align: justify;">
-  Imaginar o uso de algo assim em casa não faz a gente sentir que pode relaxar, aliviar o estresse depois de um dia cansativo, além de deixar o ambiente onde ele estaria  super bonito e confortável? Pois é, esta é a intenção. É que o **Brasilazy** é um <em>lounge</em> pufe, ou seja, pensado para trazer a concepção de uma sala de estar para qualquer ambiente que você escolha deixá-lo: interno ou externo.
+  Imaginar o uso de algo assim em casa não faz a gente sentir que pode relaxar, aliviar o estresse depois de um dia cansativo, além de deixar o ambiente onde ele estaria  super bonito e confortável? Pois é, esta é a intenção. É que o **Brasilazy** é um _lounge_ pufe, ou seja, pensado para trazer a concepção de uma sala de estar para qualquer ambiente que você escolha deixá-lo: interno ou externo.
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +30,7 @@ Você gosta de ver novidades em **decoração**, bonita? E se a novidade signifi
 </p>
 
 <p style="text-align: justify;">
-  Ele é **resistente a água**, sabia? Além do mais, há **13 cores disponíveis**, o que permite muitas possibilidades de combinações de acordo com o seu estilo ou com o ambiente onde você quer colocá-lo. A boa notícia é que tudo isso pode ser consultado <em>online</em> mesmo, tudo ao alcance de um clique **<a href="http://www.brasilazy.com.br/" target="_blank">bem aqui, na loja virtual</a>**. Não é de comodidade que uma bicha fêmea inteligente gosta? Então aproveita e dá uma espiada, porque se você se apaixonar por um deles, a entrega é feita em todo o Brasil.
+  Ele é **resistente a água**, sabia? Além do mais, há **13 cores disponíveis**, o que permite muitas possibilidades de combinações de acordo com o seu estilo ou com o ambiente onde você quer colocá-lo. A boa notícia é que tudo isso pode ser consultado _online_ mesmo, tudo ao alcance de um clique **[bem aqui, na loja virtual](http://www.brasilazy.com.br/) **. Não é de comodidade que uma bicha fêmea inteligente gosta? Então aproveita e dá uma espiada, porque se você se apaixonar por um deles, a entrega é feita em todo o Brasil.
 </p>
 
 <p style="text-align: center;">

@@ -22,7 +22,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  **<em>1 – Quadros… no chão. Por que não?!?</em>**
+  **_1 – Quadros… no chão. Por que não?!?_**
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  **<em>2 – Composição despretensiosa de vasinhos: singelo.</em>**
+  **_2 – Composição despretensiosa de vasinhos: singelo._**
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  **<em>3 – Livros empilhados na mesa de centro: bonito e estiloso.</em>**
+  **_3 – Livros empilhados na mesa de centro: bonito e estiloso._**
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  **<em>4 – Vaso com folhagens… apenas elas. Precisa mais?</em>**
+  **_4 – Vaso com folhagens… apenas elas. Precisa mais?_**
 </p>
 
 <p align="center">
@@ -54,11 +54,11 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  **<em>5 – Almofadas largadas no chão: pincelada de aconchego.</em>**
+  **_5 – Almofadas largadas no chão: pincelada de aconchego._**
 </p>
 
 <p style="text-align: left;" align="center">
-  Imagens: **<em><a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></em>**
+  Imagens: **_[Apartment Therapy](http://www.apartmenttherapy.com/) _**
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -95,13 +95,13 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -110,7 +110,7 @@ Foi assim que fiquei encantada com pormenores que enxerguei nas 5 imagens que vo
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>
 
 &nbsp;

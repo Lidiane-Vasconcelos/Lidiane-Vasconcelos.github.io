@@ -52,13 +52,13 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagem</em>: <em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>
+  _Imagem_: _[stock.xchng](http://www.sxc.hu/) _
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **<em>Por Luciana Kotaka – Psicóloga Clínica</em>**
+      **_Por Luciana Kotaka – Psicóloga Clínica_**
     </td>
   </tr>
   
@@ -70,7 +70,7 @@ categories:
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://comportamentomagro.com.br/" target="_blank">Comportamento Magro</a>
+      [Comportamento Magro](http://comportamentomagro.com.br/) 
     </td>
   </tr>
 </table>
@@ -96,5 +96,5 @@ Quer ver seu texto publicado por aqui também? Seja uma **_[Bicha Fêmea Colabor
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

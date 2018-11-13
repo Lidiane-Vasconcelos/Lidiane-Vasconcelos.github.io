@@ -18,7 +18,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 <!--more-->
 
 <p style="text-align: justify;">
-  Desde já, preciso dizer o quanto estou grata a **Simone**, a querida da <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>, que tem sido presente por aqui como parceira firme, forte e fiel. Também quero agradecer a **Bia Silvestre**, responsável pela <a href="http://www.infinitaarte.com.br/" target="_blank">Infinita Arte for Baby</a> e por deixar as mulheres ensandecidas pelas <em>belezuras</em> da loja. O **Kleber** é a pessoa da <a href="http://www.oligoflora.com.br/" target="_blank">Oligoflora – Vila Mariana</a> a quem quero agradecer. Esta foi nossa primeira parceria , que veio num momento tão especial como esse. Também fico muito grata a **Cristiane**, da <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>, que já é parceira de longa data no **Bicha Fêmea** também. E, finalmente, agradeço a **Fernanda Postai**, a talentosa da <a href="http://fernandapostai.blogspot.com/" target="_blank">Catavento Artes</a>, que mais uma vez esteve conosco fazendo a festa das leitoras.
+  Desde já, preciso dizer o quanto estou grata a **Simone**, a querida da [Espaço Home](http://www.espacohome.com.br/) , que tem sido presente por aqui como parceira firme, forte e fiel. Também quero agradecer a **Bia Silvestre**, responsável pela [Infinita Arte for Baby](http://www.infinitaarte.com.br/)  e por deixar as mulheres ensandecidas pelas _belezuras_ da loja. O **Kleber** é a pessoa da [Oligoflora – Vila Mariana](http://www.oligoflora.com.br/)  a quem quero agradecer. Esta foi nossa primeira parceria , que veio num momento tão especial como esse. Também fico muito grata a **Cristiane**, da [Closonê Acessórios](http://closone.blogspot.com/) , que já é parceira de longa data no **Bicha Fêmea** também. E, finalmente, agradeço a **Fernanda Postai**, a talentosa da [Catavento Artes](http://fernandapostai.blogspot.com/) , que mais uma vez esteve conosco fazendo a festa das leitoras.
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;"><em>Espaço Home</em></span>**
+  **<span style="font-size: medium;">_Espaço Home_</span>**
 </p>
 
 <p style="text-align: justify;">
@@ -48,15 +48,15 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg"><img class="alignnone size-full wp-image-5521" title="Resultado Sorteio Espaço Homeleve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg" alt="" width="577" height="269" /></a></em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg"><img class="alignnone size-full wp-image-5521" title="Resultado Sorteio Espaço Homeleve" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Resultado-Sorteio-Espaco-Homeleve.jpg" alt="" width="577" height="269" /></a>_
 </p>
 
 <p style="text-align: justify;">
-  A **Isabela Morais**, que teve a **inscrição de número 63** sorteada. Parabéns, Isabela!! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, <em>hein</em>?!
+  A **Isabela Morais**, que teve a **inscrição de número 63** sorteada. Parabéns, Isabela!! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, _hein_?!
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Infinita Arte for Baby</span></em>**
+  **_<span style="font-size: medium;">Infinita Arte for Baby</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -68,11 +68,11 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: justify;">
-  A **Elaine Cunha**, que teve a **inscrição de número 148** sorteada. Parabéns, Elaine!! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, <em>hein</em>?!
+  A **Elaine Cunha**, que teve a **inscrição de número 148** sorteada. Parabéns, Elaine!! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, _hein_?!
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Oligoflora</span></em>**
+  **_<span style="font-size: medium;">Oligoflora</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -100,7 +100,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Closonê Acessórios</span></em>**
+  **_<span style="font-size: medium;">Closonê Acessórios</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -112,11 +112,11 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: justify;">
-  A **Neli Rodrigues**, que teve a **inscrição de número 54** sorteada. Parabéns, Neli!!! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, <em>hein</em>?!
+  A **Neli Rodrigues**, que teve a **inscrição de número 54** sorteada. Parabéns, Neli!!! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, _hein_?!
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Catavento Artes</span></em>**
+  **_<span style="font-size: medium;">Catavento Artes</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -128,7 +128,7 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: justify;">
-  A **Sandra**, que teve a **inscrição de número 50**. Parabéns, Sandra! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, <em>hein</em>?!
+  A **Sandra**, que teve a **inscrição de número 50**. Parabéns, Sandra! Hoje você receberá meu e-mail e terá uma semana para respondê-lo com seu endereço de entrega. Caso contrário, farei novo sorteio entre as inscritas, _hein_?!
 </p>
 
 <p style="text-align: justify;">
@@ -136,9 +136,9 @@ Nossa! **Hoje é 22 de Novembro de 2010**. **2 anos de Bicha Fêmea**, e eu esto
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

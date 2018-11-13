@@ -12,7 +12,7 @@ categories:
 Isso mesmo! Queria deixar um recadinho para você que está lendo este post agora, e que está aí navegando pelo Bicha Fêmea.
 
 <p style="text-align: justify;">
-  Antes de mais nada, muito obrigada por estar aqui neste momento, seja esse seu primeiro acesso ao blog ou mais uma de tantas outras visitas que você faz por aqui. Justamente por que eu sabia que você viria, escrevi um recadinho para você, <em>&#8216;tá</em>?!<!--more-->
+  Antes de mais nada, muito obrigada por estar aqui neste momento, seja esse seu primeiro acesso ao blog ou mais uma de tantas outras visitas que você faz por aqui. Justamente por que eu sabia que você viria, escrevi um recadinho para você, _&#8216;tá_?!<!--more-->
 </p>
 
  
@@ -22,13 +22,13 @@ Isso mesmo! Queria deixar um recadinho para você que está lendo este post agor
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  Imagem: [stock.xchng](http://www.sxc.hu/) 
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

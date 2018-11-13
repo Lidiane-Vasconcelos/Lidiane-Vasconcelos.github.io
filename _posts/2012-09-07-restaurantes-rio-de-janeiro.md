@@ -14,7 +14,7 @@ Não é gostoso fazer um programa diferente uma vez ou outra, aproveitando a boa
 &nbsp;
 
 <p align="justify">
-  O resultado? A moça caprichou nas imagens tiradas por ela em suas visitas aos locais, fez descrições incríveis de cada dica, e me deixou lamentando o fato de não estar no Rio agora… se você está, aproveita as sugestões e já começa a se programar, <em>hein?</em>
+  O resultado? A moça caprichou nas imagens tiradas por ela em suas visitas aos locais, fez descrições incríveis de cada dica, e me deixou lamentando o fato de não estar no Rio agora… se você está, aproveita as sugestões e já começa a se programar, _hein?_
 </p>
 
 <!--more-->
@@ -24,7 +24,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  **<a href="http://www.aconchegocarioca.com.br/" target="_blank"><span style="font-size: large;">ACONCHEGO CARIOCA</span></a>**<span style="font-size: large;">: deliciosa comida de boteco e variada carta de cervejas</span>
+  **[<span style="font-size: large;">ACONCHEGO CARIOCA</span>](http://www.aconchegocarioca.com.br/) **<span style="font-size: large;">: deliciosa comida de boteco e variada carta de cervejas</span>
 </p>
 
 &nbsp;
@@ -36,13 +36,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 > <p align="justify">
->   “<em>Além da decoração charmosa e aconchegante com referências nordestinas, o restaurante serve petiscos fartos e muito saborosos, com destaque para o famoso bolinho de feijoada, o bolinho de aipim com bobó de camarão e a picanha suína com banana da terra e cebola caramelada na cerveja. A Chef Kátia Barbosa usa ingredientes bem brasileiros, valorizando os produtos nacionais nas suas receitas criativas. Ainda não experimentei o pudim de cachaça, mas não vou deixar a oportunidade escapar na próxima visita ao restaurante! A carta de cervejas é bastante variada, oferecendo rótulos nacionais e importados por preços honestos.  Não foi à toa que a casa já recebeu prêmios de melhor cardápio de cervejas do Rio.”</em>
+>   “_Além da decoração charmosa e aconchegante com referências nordestinas, o restaurante serve petiscos fartos e muito saborosos, com destaque para o famoso bolinho de feijoada, o bolinho de aipim com bobó de camarão e a picanha suína com banana da terra e cebola caramelada na cerveja. A Chef Kátia Barbosa usa ingredientes bem brasileiros, valorizando os produtos nacionais nas suas receitas criativas. Ainda não experimentei o pudim de cachaça, mas não vou deixar a oportunidade escapar na próxima visita ao restaurante! A carta de cervejas é bastante variada, oferecendo rótulos nacionais e importados por preços honestos.  Não foi à toa que a casa já recebeu prêmios de melhor cardápio de cervejas do Rio.”_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<a href="http://www.restaurantenoi.com.br/home.php" target="_blank"><span style="font-size: large;">NOI</span></a>**<span style="font-size: large;">: frutos do mar bem preparados e boa cerveja artesanal em Niterói</span>
+  **[<span style="font-size: large;">NOI</span>](http://www.restaurantenoi.com.br/home.php) **<span style="font-size: large;">: frutos do mar bem preparados e boa cerveja artesanal em Niterói</span>
 </p>
 
 &nbsp;
@@ -54,13 +54,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 > <p align="justify">
->   <em>“Fui somente duas vezes ao NOI, mas voltaria muitas outras porque me apaixonei perdidamente pelo camarão no coco (camarão cozido na água de coco, guarnecido com arroz do próprio molho) e pela cerveja Nera, uma porter escura produzida na casa. Na minha segunda visita, aproveitei o buffet a peso do final de semana para experimentar outros frutos do mar como polvo, lula, salmão, mexilhão etc. Gostei muito de todos os pratos. A comida é saborosa, o atendimento é simpático e a casa integra o pólo gastronômico do simpático bairro de São Francisco em Niterói. Da cozinha, eu vi sair lagostas e centollas inteiras que enchiam os olhos e aguçavam o paladar! Para a sobremesa, destaco o sorvete de queijo com calda quente de goiabada, que experimentei na primeira visita e fiz questão de repetir na segunda.”</em>
+>   _“Fui somente duas vezes ao NOI, mas voltaria muitas outras porque me apaixonei perdidamente pelo camarão no coco (camarão cozido na água de coco, guarnecido com arroz do próprio molho) e pela cerveja Nera, uma porter escura produzida na casa. Na minha segunda visita, aproveitei o buffet a peso do final de semana para experimentar outros frutos do mar como polvo, lula, salmão, mexilhão etc. Gostei muito de todos os pratos. A comida é saborosa, o atendimento é simpático e a casa integra o pólo gastronômico do simpático bairro de São Francisco em Niterói. Da cozinha, eu vi sair lagostas e centollas inteiras que enchiam os olhos e aguçavam o paladar! Para a sobremesa, destaco o sorvete de queijo com calda quente de goiabada, que experimentei na primeira visita e fiz questão de repetir na segunda.”_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<a href="http://www.amirrestaurante.com.br/scripts/index.asp" target="_blank"><span style="font-size: large;">Amir</span></a>**<span style="font-size: large;">: a melhor comida árabe do Rio</span>
+  **[<span style="font-size: large;">Amir</span>](http://www.amirrestaurante.com.br/scripts/index.asp) **<span style="font-size: large;">: a melhor comida árabe do Rio</span>
 </p>
 
 <p align="center">
@@ -70,13 +70,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 > <p align="justify">
->   “<em>Estive no Amir pela primeira vez para comemorar o aniversário da minha melhor amiga e mesmo já conhecendo a ótima fama do restaurante que foi eleito o melhor árabe do Rio por vários anos consecutivos, me surpreendi com as delícias que experimentei. Meu destaque vai para os seguintes pratos: burreca de queijo, favas libanesas regadas com azeite de oliva, limão e óleo e tiras de carne de cordeiro e bovina com homus, salada fatouche, arroz marroquino e molho tarator</em>.”
+>   “_Estive no Amir pela primeira vez para comemorar o aniversário da minha melhor amiga e mesmo já conhecendo a ótima fama do restaurante que foi eleito o melhor árabe do Rio por vários anos consecutivos, me surpreendi com as delícias que experimentei. Meu destaque vai para os seguintes pratos: burreca de queijo, favas libanesas regadas com azeite de oliva, limão e óleo e tiras de carne de cordeiro e bovina com homus, salada fatouche, arroz marroquino e molho tarator_.”
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<a href="http://www.robertasudbrack.com.br/" target="_blank"><span style="font-size: large;">Roberta Sudbrack</span></a>**<span style="font-size: large;">: os prazeres da alta gastronomia</span>
+  **[<span style="font-size: large;">Roberta Sudbrack</span>](http://www.robertasudbrack.com.br/) **<span style="font-size: large;">: os prazeres da alta gastronomia</span>
 </p>
 
 <p align="center">
@@ -86,13 +86,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 > <p align="justify">
->   “<em>No restaurante da Chef Roberta Sudbrack nos entregamos aos prazeres da boa mesa em nossa primeira incursão na alta gastronomia. Foi uma amiga de Brasília que, de passagem pelo Rio, nos estimulou a sairmos da nossa zona de conforto (e gastos) para experimentarmos os sabores provenientes de uma das cozinhas mais elogiadas do Rio. Desde as entradinhas até os docinhos que acompanharam o café, tudo estava perfeito. Meus pratos preferidos foram o pargo em vinagrete de lentilhas, brotos e ervas e o capote assado em “alta e baixa temperatura” com angu cremoso. A minha impressão foi a de que o peixe estava super fresco, cozido à perfeição e de que a Chef soube explorar com maestria todo o potencial desse ingrediente. A galinha d´angola estava tão macia e suculenta que desgrudava do osso com a maior facilidade.”</em>
+>   “_No restaurante da Chef Roberta Sudbrack nos entregamos aos prazeres da boa mesa em nossa primeira incursão na alta gastronomia. Foi uma amiga de Brasília que, de passagem pelo Rio, nos estimulou a sairmos da nossa zona de conforto (e gastos) para experimentarmos os sabores provenientes de uma das cozinhas mais elogiadas do Rio. Desde as entradinhas até os docinhos que acompanharam o café, tudo estava perfeito. Meus pratos preferidos foram o pargo em vinagrete de lentilhas, brotos e ervas e o capote assado em “alta e baixa temperatura” com angu cremoso. A minha impressão foi a de que o peixe estava super fresco, cozido à perfeição e de que a Chef soube explorar com maestria todo o potencial desse ingrediente. A galinha d´angola estava tão macia e suculenta que desgrudava do osso com a maior facilidade.”_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<a href="http://ristorantefiorino.com.br/" target="_blank"><span style="font-size: large;">Fiorino</span></a>**<span style="font-size: large;">: italiano de qualidade com ótima relação custo x benefício</span>
+  **[<span style="font-size: large;">Fiorino</span>](http://ristorantefiorino.com.br/) **<span style="font-size: large;">: italiano de qualidade com ótima relação custo x benefício</span>
 </p>
 
 &nbsp;
@@ -104,7 +104,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 > <p align="justify">
->   “<em>Frequento o Fiorino há anos com a minha família. O tradicional restaurante tijucano foi instalado em uma linda residência construída no início do século passado. A especialidade da casa são massas frescas, assim como pães, sobremesas feitas artesanalmente e pizzas no forno à lenha. Meu prato preferido é o Gamberotti dei gamberi, uma massa recheada de camarões com molho de queijo. Sempre que vou conhecer um novo restaurante italiano no Rio, é inevitável comparar a qualidade da comida e os preços dos pratos com os do Fiorino, que até hoje considero o melhor em termos de custo x benefício.”</em>
+>   “_Frequento o Fiorino há anos com a minha família. O tradicional restaurante tijucano foi instalado em uma linda residência construída no início do século passado. A especialidade da casa são massas frescas, assim como pães, sobremesas feitas artesanalmente e pizzas no forno à lenha. Meu prato preferido é o Gamberotti dei gamberi, uma massa recheada de camarões com molho de queijo. Sempre que vou conhecer um novo restaurante italiano no Rio, é inevitável comparar a qualidade da comida e os preços dos pratos com os do Fiorino, que até hoje considero o melhor em termos de custo x benefício.”_
 > </p>
 
 &nbsp;
@@ -114,7 +114,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 </p>
 
 <p align="justify">
-  **Katia Bonfadini** é uma bicha fêmea blogueira das mais queridas, que edita seu **<a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a> **com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga **<a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">clicando aqui</a>**, bonita, e delicie-se!
+  **Katia Bonfadini** é uma bicha fêmea blogueira das mais queridas, que edita seu **[Casos e Coisas da Bonfa](http://casosecoisasdabonfa.blogspot.com.br/)  **com carinho e cuidado inquestionáveis. Essa moça bonita é formada em _Designer_ Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, _folders_, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga **[clicando aqui](http://casosecoisasdabonfa.blogspot.com.br/) **, bonita, e delicie-se!
 </p>
 
 &nbsp;
@@ -184,7 +184,7 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -199,13 +199,13 @@ Com a palavra, a querida e bonitona Katia Bonfadini…
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

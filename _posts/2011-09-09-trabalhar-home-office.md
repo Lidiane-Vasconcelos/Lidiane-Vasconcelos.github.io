@@ -15,19 +15,19 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Foi justamente para responder perguntas como essas que esse post foi editado, e a ideia dele é da **<a href="http://www.joanacampos.com/" target="_blank">Joana Campos</a>**. Foi ela quem deixou um comentário em um dos posts no **Trololó de Mulher** dizendo assim:
+  Foi justamente para responder perguntas como essas que esse post foi editado, e a ideia dele é da **[Joana Campos](http://www.joanacampos.com/) **. Foi ela quem deixou um comentário em um dos posts no **Trololó de Mulher** dizendo assim:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **“<em>Deixa eu te falar! lembra aquele post sobre home Office? Por que você não publica outro, mostrando o que as pessoas estão conseguindo fazer, exercendo o Home Office? Tipo, quais profissões, etc… beijos</em>”**
+>   **“_Deixa eu te falar! lembra aquele post sobre home Office? Por que você não publica outro, mostrando o que as pessoas estão conseguindo fazer, exercendo o Home Office? Tipo, quais profissões, etc… beijos_”**
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Não é a primeira vez que falamos em trabalho do tipo <em>home office</em> no **Trololó de Mulher**. Justamente por isso a **Joana** se refere a um outro post que foi publicado, cujo título é <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/">**“Home office: união do útil ao agradável… mas nem sempre!”**</a>**.** Neste post a discussão foi em torno das armadilhas que a possibilidade de trabalhar em casa pode oferecer.
+  Não é a primeira vez que falamos em trabalho do tipo _home office_ no **Trololó de Mulher**. Justamente por isso a **Joana** se refere a um outro post que foi publicado, cujo título é <a href="http://www.trololodemulher.com.br/2010/11/26/home-office-pros-contras/">**“Home office: união do útil ao agradável… mas nem sempre!”**</a>**.** Neste post a discussão foi em torno das armadilhas que a possibilidade de trabalhar em casa pode oferecer.
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você está pensando em mudar seu estilo de vida nesse sentido e quer dicas de como se dar bem trabalhando no esquema de <em>home office</em>, vale a pena a leitura do post citado, já que outras leitoras que possuem essa experiência deram suas dicas, conselhos e <em>pitacos</em>. Confere!
+  Se você está pensando em mudar seu estilo de vida nesse sentido e quer dicas de como se dar bem trabalhando no esquema de _home office_, vale a pena a leitura do post citado, já que outras leitoras que possuem essa experiência deram suas dicas, conselhos e _pitacos_. Confere!
 </p>
 
 &nbsp;
@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.sxc.hu/" target="_blank">**Stock.xchng**</a>
+  Imagem: [**Stock.xchng**](http://www.sxc.hu/) 
 </p>
 
 &nbsp;
@@ -69,13 +69,13 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **Da atividade…** ”<em>Eu escrevo um **blog de culinária **voltado para donas de casa que gostam da comida simples, boa e prática. Comecei de forma bem despretensiosa mas a coisa foi crescendo e se tornou minha principal atividade hoje em dia. Me dedico diariamente tentando dividir as receitas que rolam aqui em casa de uma forma gostosa, descomplicada, como se fosse uma conversa com minhas leitoras. Cozinho, fotografo, escrevo, e como tenho uma bebê pequena e não tenho empregada, faço tudo junto ao mesmo tempo, tentando sobreviver ao caos sem perder a sanidade =)”</em>
+  **Da atividade…** ”_Eu escrevo um **blog de culinária **voltado para donas de casa que gostam da comida simples, boa e prática. Comecei de forma bem despretensiosa mas a coisa foi crescendo e se tornou minha principal atividade hoje em dia. Me dedico diariamente tentando dividir as receitas que rolam aqui em casa de uma forma gostosa, descomplicada, como se fosse uma conversa com minhas leitoras. Cozinho, fotografo, escrevo, e como tenho uma bebê pequena e não tenho empregada, faço tudo junto ao mesmo tempo, tentando sobreviver ao caos sem perder a sanidade =)”_
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  **Do porquê…** “<em>Por que eu quis acompanhar o desenvolvimento da minha filha. Desde que ela nasceu essa tem sido minha &#8220;profissão&#8221; na verdade, e quis exercer uma atividade que me possibilitasse estar em casa, pelo menos nessa fase inicial. E não me arrependo nem um pouco, pois cada a dia vejo o quanto valeu a pena ter saído do mercado formal e ver que a vida é muito mais que cumprir expediente.” </em>**Juliana Stelli | <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**
+  **Do porquê…** “_Por que eu quis acompanhar o desenvolvimento da minha filha. Desde que ela nasceu essa tem sido minha &#8220;profissão&#8221; na verdade, e quis exercer uma atividade que me possibilitasse estar em casa, pelo menos nessa fase inicial. E não me arrependo nem um pouco, pois cada a dia vejo o quanto valeu a pena ter saído do mercado formal e ver que a vida é muito mais que cumprir expediente.” _**Juliana Stelli | [Pitadinha](http://www.pitadinha.com/) **
 </p>
 
 &nbsp;
@@ -93,13 +93,13 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **Da atividade… ”**<em>Eu desenvolvo sites, instalo, configuro e personalizo blogs e lojas virtuais, faço sistemas e tratamento de fotografias. Além disso fecho todos os trabalhos do meu marido que é fotógrafo. </em><em>Trabalho em parcerias com designers e programadores. </em><em>Então o que eu não sei, por exemplo, desenvolver sistemas, faço em parceria com meu programador. </em><em>Basicamente o que preciso pra isto é um bom computador e conexão com internet</em>.”
+  **Da atividade… ”**_Eu desenvolvo sites, instalo, configuro e personalizo blogs e lojas virtuais, faço sistemas e tratamento de fotografias. Além disso fecho todos os trabalhos do meu marido que é fotógrafo. __Trabalho em parcerias com designers e programadores. __Então o que eu não sei, por exemplo, desenvolver sistemas, faço em parceria com meu programador. __Basicamente o que preciso pra isto é um bom computador e conexão com internet_.”
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **Do porquê…** “<em>Até 2008 ou 2009 (me perdi nas datas) eu tinha escritório normal, onde você acorda, se arruma e vai pro trabalho. Na época era eu, meu marido e 3 funcionários. </em><em>Um dia, cansada de sair tão tarde do escritório e no outro dia morrer de preguiça pra acordar, resolvi fazer um teste e fiz a proposta pra todo mundo de cada um trabalhar em casa, MSN sempre conectado entre nós, e ver o resultado. E ai todo mundo gostou da comodidade. Mantive o escritório fechado neste período de teste e depois resolvemos adotar isto como padrão de vida. </em><em>Evidente que existem as vantagens e desvantagens de trabalhar em casa. Hoje eu tenho um ritmo que me agrada. Começo a trabalhar entre meio dia e 1 da tarde e meu expediente comercial vai ate as 19 horas. </em><em>Como também sou gerente financeira de uma empresa em São Paulo, durante o horário comercial eu atendo telefones, resolvo coisas de banco, respondo os emails da empresa e em paralelo vou adiantando o que posso da parte de web. </em><em>Depois das 19 horas é que começo a trabalhar de verdade. Amo trabalhar durante a noite e rendo muito mais. E quando estou muito cansada sei que só preciso dar alguns passos, tomar um banho, me jogar na cama ao invés de pegar o carro, pegar trânsito para ir pra casa. </em><em>A desvantagem é que tem cliente que quando sabe que você trabalha em casa liga nas horas mais impróprias, mas ai eu resolvi adotar um escritório fictício e quando ligam eu falo: não estou mais no escritório, só amanhã a partir de meio dia.  </em><em>A vantagem é de você poder fazer os horários de acordo com sua disponibilidade. Posso sair qualquer dia da semana, meu celular a tiracolo, anoto tudo que me pedem e quando chego em casa faço as coisas mais urgentes e sem atrapalhar minha vida. </em><em>Hoje nem pensar em ter escritório tradicional. Consigo dar conta super bem de tudo que me proponho a fazer e no conforto da minha casa. </em><em>(E durante o verão posso trabalhar de biquine e quando o calor aperta ainda dou um mergulho pra aliviar &#8230;rs) </em><em>Com relação aos clientes, com internet não existe mais aquela necessidade do cliente te visitar, você visitar o cliente. Tudo pode ser resolvido por um computador</em>.” **Margaret | <a href="http://www.margaretss.com.br/" target="_blank">Margretss</a>**
+  **Do porquê…** “_Até 2008 ou 2009 (me perdi nas datas) eu tinha escritório normal, onde você acorda, se arruma e vai pro trabalho. Na época era eu, meu marido e 3 funcionários. __Um dia, cansada de sair tão tarde do escritório e no outro dia morrer de preguiça pra acordar, resolvi fazer um teste e fiz a proposta pra todo mundo de cada um trabalhar em casa, MSN sempre conectado entre nós, e ver o resultado. E ai todo mundo gostou da comodidade. Mantive o escritório fechado neste período de teste e depois resolvemos adotar isto como padrão de vida. __Evidente que existem as vantagens e desvantagens de trabalhar em casa. Hoje eu tenho um ritmo que me agrada. Começo a trabalhar entre meio dia e 1 da tarde e meu expediente comercial vai ate as 19 horas. __Como também sou gerente financeira de uma empresa em São Paulo, durante o horário comercial eu atendo telefones, resolvo coisas de banco, respondo os emails da empresa e em paralelo vou adiantando o que posso da parte de web. __Depois das 19 horas é que começo a trabalhar de verdade. Amo trabalhar durante a noite e rendo muito mais. E quando estou muito cansada sei que só preciso dar alguns passos, tomar um banho, me jogar na cama ao invés de pegar o carro, pegar trânsito para ir pra casa. __A desvantagem é que tem cliente que quando sabe que você trabalha em casa liga nas horas mais impróprias, mas ai eu resolvi adotar um escritório fictício e quando ligam eu falo: não estou mais no escritório, só amanhã a partir de meio dia.  __A vantagem é de você poder fazer os horários de acordo com sua disponibilidade. Posso sair qualquer dia da semana, meu celular a tiracolo, anoto tudo que me pedem e quando chego em casa faço as coisas mais urgentes e sem atrapalhar minha vida. __Hoje nem pensar em ter escritório tradicional. Consigo dar conta super bem de tudo que me proponho a fazer e no conforto da minha casa. __(E durante o verão posso trabalhar de biquine e quando o calor aperta ainda dou um mergulho pra aliviar &#8230;rs) __Com relação aos clientes, com internet não existe mais aquela necessidade do cliente te visitar, você visitar o cliente. Tudo pode ser resolvido por um computador_.” **Margaret | [Margretss](http://www.margaretss.com.br/) **
 </p>
 
 &nbsp;
@@ -117,13 +117,13 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **Da atividade…** “<em>Além do blog, onde ganho um dinheiro mensalmente com ele, trabalho com a lojinha **<a href="http://estudiocereja.tanlup.com//" target="_blank">Estúdio Cereja</a>**, onde fico responsável por administrar, atender aos clientes e cuidar das embalagens para envio, ou seja, vivo ocupada, rs. Fico conectada das 08:00 as 00:00, mesmo não estando na frente do computador todas as horas.”</em>
+  **Da atividade…** “_Além do blog, onde ganho um dinheiro mensalmente com ele, trabalho com a lojinha **[Estúdio Cereja](http://estudiocereja.tanlup.com//) **, onde fico responsável por administrar, atender aos clientes e cuidar das embalagens para envio, ou seja, vivo ocupada, rs. Fico conectada das 08:00 as 00:00, mesmo não estando na frente do computador todas as horas.”_
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **Do porquê…** “<em>Primeiramente porque queria ser presente nos dois primeiros anos do meu filho, integralmente. Atualmente ele vai meio período pra creche ou não dou conta de tudo de uma vez. Aproveito os momentos que estou sozinha pra agilizar todo o trabalho da loja. </em><em>Agora estou com novos projetos de também fazer alguns cursos e acho que a flexibilidade de horários que o trabalho home office te proporciona, é uma vantagem muito grande, apesar da disciplina diária que temos que ter pra não deixar nada pendente</em>.” **Ana Medeiros | <a href="http://www.acasaqueaminhavoqueria.com/" target="_blank">A casa que a minha vó queria</a>**
+  **Do porquê…** “_Primeiramente porque queria ser presente nos dois primeiros anos do meu filho, integralmente. Atualmente ele vai meio período pra creche ou não dou conta de tudo de uma vez. Aproveito os momentos que estou sozinha pra agilizar todo o trabalho da loja. __Agora estou com novos projetos de também fazer alguns cursos e acho que a flexibilidade de horários que o trabalho home office te proporciona, é uma vantagem muito grande, apesar da disciplina diária que temos que ter pra não deixar nada pendente_.” **Ana Medeiros | [A casa que a minha vó queria](http://www.acasaqueaminhavoqueria.com/) **
 </p>
 
 &nbsp;
@@ -141,13 +141,13 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **Da atividade…”**<em>A internet é meu maior laboratório, me inspiro em muitas coisas fofas de costurinhas que vejo aqui ou ali. Também  compro livros especializados com moldes, o que facilita um bocado meu trabalho. Tenho um olho clínico para escolher tecidos, posso ficar horas dentro das lojas e armarinhos, na maioria das vezes compro sem ter um projeto específico e isso é um ótimo exercício para imaginação. Ter um pequeno estoque do material de trabalho é fundamental para aquele momento &#8221; inspiração&#8221; que pode ser a 1h da madrugada, hahahaha.”</em>
+  **Da atividade…”**_A internet é meu maior laboratório, me inspiro em muitas coisas fofas de costurinhas que vejo aqui ou ali. Também  compro livros especializados com moldes, o que facilita um bocado meu trabalho. Tenho um olho clínico para escolher tecidos, posso ficar horas dentro das lojas e armarinhos, na maioria das vezes compro sem ter um projeto específico e isso é um ótimo exercício para imaginação. Ter um pequeno estoque do material de trabalho é fundamental para aquele momento &#8221; inspiração&#8221; que pode ser a 1h da madrugada, hahahaha.”_
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **Do porquê…** “<em>O que eu escolhi mesmo é que não queria um trabalho convencional, com horários e chefes. Nem por isso posso ser indisciplinada. Faço assim: a parte da manhâ, depois da caminhada com Jolie (meu lhasa apso de 2 anos) me dedico a arrumação da casa. As tardes são dedicadas ao atelier, costuro, pesquiso, desenvolvo projetos, vou aos Correios postar as encomendas, compro tecidos e aviamentos. As noites são da família, jantamos juntos, assistimos um filminho&#8230; Poder gerenciar a casa, não enfrentar trânsito e ter horários flexíveis são as maiores vantagens de trabalhar em casa. Me sinto feliz e realizada assim</em>!” **Ruby Fernandes | <a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>**
+  **Do porquê…** “_O que eu escolhi mesmo é que não queria um trabalho convencional, com horários e chefes. Nem por isso posso ser indisciplinada. Faço assim: a parte da manhâ, depois da caminhada com Jolie (meu lhasa apso de 2 anos) me dedico a arrumação da casa. As tardes são dedicadas ao atelier, costuro, pesquiso, desenvolvo projetos, vou aos Correios postar as encomendas, compro tecidos e aviamentos. As noites são da família, jantamos juntos, assistimos um filminho&#8230; Poder gerenciar a casa, não enfrentar trânsito e ter horários flexíveis são as maiores vantagens de trabalhar em casa. Me sinto feliz e realizada assim_!” **Ruby Fernandes | [Meu Canto, Minha Prosa](http://meucantominhaprosa.blogspot.com/) **
 </p>
 
 &nbsp;
@@ -161,5 +161,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

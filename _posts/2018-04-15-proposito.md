@@ -16,7 +16,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Em Novembro de 2018 fará 10 anos que trabalho com produção de conteúdo digital com foco no público feminino, e este é um ano que está trazendo para mim a necessidade de redirecionar essa rota, realianhando-a com o meu **propósito**. A minha decisão por ser produtiva de maneira criativa, trabalhando de casa em esquema de <em>home office</em>, tem como pano de fundo o desejo de equilibrar melhor os meus papeis.
+  Em Novembro de 2018 fará 10 anos que trabalho com produção de conteúdo digital com foco no público feminino, e este é um ano que está trazendo para mim a necessidade de redirecionar essa rota, realianhando-a com o meu **propósito**. A minha decisão por ser produtiva de maneira criativa, trabalhando de casa em esquema de _home office_, tem como pano de fundo o desejo de equilibrar melhor os meus papeis.
 </p>
 
 <p align="justify">
@@ -80,23 +80,23 @@ categories:
 </p>
 
 <p align="justify">
-  1 – Se você sente que sua casa está fora de controle, se experimenta o sentimento de sobrecarga, cansaço e estresse, e gostaria que seu lar estivesse em ordem e limpo, mas com menos esforço para dar conta dessas demandas, te apresento o **Projeto Lar Bonito Lar**:  meu programa via WhatsApp que te orienta quanto às **melhores práticas na gestão da rotina doméstica**, numa caminhada de 7 semanas onde estaremos juntas numa consultoria em grupo, numa turma vip de no máximo 15 mulheres. As inscrições para a turma de Maio já estão abertas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">**Clique aqui para mais informações sobre o projeto**</a>, ou entre em contato comigo via **WhatsApp 81 9 9530-7307 – **pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
+  1 – Se você sente que sua casa está fora de controle, se experimenta o sentimento de sobrecarga, cansaço e estresse, e gostaria que seu lar estivesse em ordem e limpo, mas com menos esforço para dar conta dessas demandas, te apresento o **Projeto Lar Bonito Lar**:  meu programa via WhatsApp que te orienta quanto às **melhores práticas na gestão da rotina doméstica**, numa caminhada de 7 semanas onde estaremos juntas numa consultoria em grupo, numa turma vip de no máximo 15 mulheres. As inscrições para a turma de Maio já estão abertas. [**Clique aqui para mais informações sobre o projeto**](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) , ou entre em contato comigo via **WhatsApp 81 9 9530-7307 – **pois terei o maior prazer em falar com você, e tirar todas as dúvidas.
 </p>
 
 <p align="justify">
-  2 – Continuarei com **um post semanal aqui no Trololó de Mulher**, e se quiser ter certeza de que lerá todos, você poderá receber as notificações deles por email. <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank">**Assine aqui e receba**</a>. É grátis!
+  2 – Continuarei com **um post semanal aqui no Trololó de Mulher**, e se quiser ter certeza de que lerá todos, você poderá receber as notificações deles por email. [**Assine aqui e receba**](https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) . É grátis!
 </p>
 
 <p align="justify">
-  3 – Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">**Avise que quer, neste post**</a>. É grátis!
+  3 – Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. [**Avise que quer, neste post**](http://www.trololodemulher.com.br/2018/02/28/newsletter/) . É grátis!
 </p>
 
 <p align="justify">
-  4 – Alinhada com este meu novo momento, **desenvolvi um guia com práticas de bem viver**, para que você traga mais qualidade de vida, na prática, para o seu cotidiano. Você deseja recebê-lo? Esse conteúdo foi produzido com muito carinho, e é grátis! **<a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Diga que quer, neste post</a>**.
+  4 – Alinhada com este meu novo momento, **desenvolvi um guia com práticas de bem viver**, para que você traga mais qualidade de vida, na prática, para o seu cotidiano. Você deseja recebê-lo? Esse conteúdo foi produzido com muito carinho, e é grátis! **[Diga que quer, neste post](http://www.trololodemulher.com.br/2018/03/09/bem-viver/) **.
 </p>
 
 <p align="justify">
-  5 &#8211; Se não estamos conectadas ainda no <a href="https://www.facebook.com/TrololoMulher/" target="_blank">**Facebook, vem cá!**</a> Eu também estou no <a href="https://www.instagram.com/trololodemulher/" target="_blank">**Instagram. Vem, também!**</a>
+  5 &#8211; Se não estamos conectadas ainda no [**Facebook, vem cá!**](https://www.facebook.com/TrololoMulher/)  Eu também estou no [**Instagram. Vem, também!**](https://www.instagram.com/trololodemulher/) 
 </p>
 
 <p align="justify">
@@ -112,7 +112,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

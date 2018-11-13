@@ -15,7 +15,7 @@ Quem entra em lojas de **decoração** cujo ambiente é envolto por bom gosto, c
 &nbsp;
 
 <p align="justify">
-  Os decoradores devem saber o que fazem, a prova é que a gente vive de amores quando vê algo como essa cômoda verde, toda charmosa com esse conjunto de cúpulas sobre ela. A imagem é do **Steven Rendazzo**, via <a href="http://www.countryliving.com/" target="_blank">**Country Living**</a>**,** e desperta em qualquer uma de nós a vontade de ter algo parecido em um cômodo especial da casa, <em>né</em> não?
+  Os decoradores devem saber o que fazem, a prova é que a gente vive de amores quando vê algo como essa cômoda verde, toda charmosa com esse conjunto de cúpulas sobre ela. A imagem é do **Steven Rendazzo**, via [**Country Living**](http://www.countryliving.com/) **,** e desperta em qualquer uma de nós a vontade de ter algo parecido em um cômodo especial da casa, _né_ não?
 </p>
 
 <!--more-->
@@ -33,7 +33,7 @@ Quem entra em lojas de **decoração** cujo ambiente é envolto por bom gosto, c
 </p>
 
 <p align="justify">
-  Olha só como era a peça! Numa ida a um local de venda de móveis usados, esbarrar com algo assim não é nada difícil, <em>hein</em>? Imaginar que algo sujo e arranhado, sem puxador e de aspecto tão caído pode se tranformar em algo que chama a atenção positivamente resulta de um bom exercício de abstração… é verdade.
+  Olha só como era a peça! Numa ida a um local de venda de móveis usados, esbarrar com algo assim não é nada difícil, _hein_? Imaginar que algo sujo e arranhado, sem puxador e de aspecto tão caído pode se tranformar em algo que chama a atenção positivamente resulta de um bom exercício de abstração… é verdade.
 </p>
 
 <p align="justify">
@@ -45,15 +45,15 @@ Quem entra em lojas de **decoração** cujo ambiente é envolto por bom gosto, c
 </p>
 
 <p align="justify">
-  Sabe quem faz trabalhos de restauração de móveis com um talento inquestionável? É a artista **Veronica Kraemer**, do **<a href="http://alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>**. A boa notícia é que você pode aprender a fazer isso também, bonita!
+  Sabe quem faz trabalhos de restauração de móveis com um talento inquestionável? É a artista **Veronica Kraemer**, do **[Além da Rua Atelier](http://alemdaruaatelier.com.br/) **. A boa notícia é que você pode aprender a fazer isso também, bonita!
 </p>
 
 <p align="justify">
-  O atelier da moça fica na **cidade de São Paulo**, mas se você está muito longe e não consegue se deslocar até ela, mas quer colocar a mão na massa para dar vida nova a um móvel antigo, não se desespere! Generosa como poucos, a** Vero**, como é conhecida na <em>blogosfera</em>, disponibiliza vários <em>PAPs</em> em seu blog, ensinando várias técnicas para pessoas como você, que estão do outro lado da tela.
+  O atelier da moça fica na **cidade de São Paulo**, mas se você está muito longe e não consegue se deslocar até ela, mas quer colocar a mão na massa para dar vida nova a um móvel antigo, não se desespere! Generosa como poucos, a** Vero**, como é conhecida na _blogosfera_, disponibiliza vários _PAPs_ em seu blog, ensinando várias técnicas para pessoas como você, que estão do outro lado da tela.
 </p>
 
 <p align="justify">
-  Quer aprender técnicas de restauração de móveis, como fazer pátinas, pintar mobília de madeira e muito mais? Não perca tempo e se jogue na **<a href="http://alemdaruaatelier.com.br/passo-a-passo/" target="_blank">página de PASSO A PASSO</a>** da artista… e boas restaurações!
+  Quer aprender técnicas de restauração de móveis, como fazer pátinas, pintar mobília de madeira e muito mais? Não perca tempo e se jogue na **[página de PASSO A PASSO](http://alemdaruaatelier.com.br/passo-a-passo/) ** da artista… e boas restaurações!
 </p>
 
 <p align="center">
@@ -92,24 +92,24 @@ Quem entra em lojas de **decoração** cujo ambiente é envolto por bom gosto, c
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MOVEIS-USADOS-MESA-DE-CABECEIRA200.jpg"><img class="alignnone size-full wp-image-8538" title="MOVEIS USADOS MESA DE CABECEIRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MOVEIS-USADOS-MESA-DE-CABECEIRA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/" target="_blank">**<span style="font-size: small;"><br /> Antes & Depois de uma nova mesa de cabeceira… haja inspiração!</span>**</a>
+        [**<span style="font-size: small;"><br /> Antes & Depois de uma nova mesa de cabeceira… haja inspiração!</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MOVEIS-USADOS-MESA-DE-CABECEIRA200.jpg"><img class="alignnone size-full wp-image-8538" title="MOVEIS USADOS MESA DE CABECEIRA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/MOVEIS-USADOS-MESA-DE-CABECEIRA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200.jpg"><img class="alignnone size-full wp-image-6340" title="Canto da Caixa+gaiola200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200.jpg" alt="" width="200" height="200" /></a><a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-2/" target="_blank">**<span style="font-size: small;"><br /> Decoração “faça você mesma”: casa de Margaret</span>**</a>
+        [**<span style="font-size: small;"><br /> Decoração “faça você mesma”: casa de Margaret</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200.jpg"><img class="alignnone size-full wp-image-6340" title="Canto da Caixa+gaiola200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200.jpg" alt="" width="200" height="200" /></a><a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-2/) 
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  **<span style="font-size: small;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200.jpg"><img class="alignnone size-full wp-image-6465" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200.jpg" alt="" width="200" height="200" /></a><br /> </span>**<a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma/" target="_blank">**<span style="font-size: small;">História de um móvel: guarda-roupas virou sapateira…</span>**</a>
+  **<span style="font-size: small;">[**<span style="font-size: small;">História de um móvel: guarda-roupas virou sapateira…</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200.jpg"><img class="alignnone size-full wp-image-6465" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200.jpg" alt="" width="200" height="200" /></a><br /> </span>**<a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -124,13 +124,13 @@ Quem entra em lojas de **decoração** cujo ambiente é envolto por bom gosto, c
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

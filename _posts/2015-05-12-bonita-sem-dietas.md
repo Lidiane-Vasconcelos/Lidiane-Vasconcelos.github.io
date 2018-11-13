@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank">**Saúde e beleza no copo: sucos funcionais**</a>
+  [**Saúde e beleza no copo: sucos funcionais**](http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/) 
 </p>
 
 <p align="justify">
@@ -32,15 +32,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/" target="_blank">**Mulher, alimentos e ansiedade: há algo familiar nisso?**</a>
+  [**Mulher, alimentos e ansiedade: há algo familiar nisso?**](http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/) 
 </p>
 
 <p align="justify">
-  Para quem faz dietas mirabolantes o enredo é quase sempre o mesmo: no início a empolgação é muita, sobretudo quando o peso começa a sumir e aquela calça há muito <em>entocada</em> no armário começa a subir no corpo, mas com o tempo, o tal do “isso pode, aquilo não” desencadeia um <em>siricotico </em>difícil de sustentar. O resultado é que permite-se uma guloseima aqui, um <em>porcadito</em> ali, e esses deslizes vão ficando cada vez mais frequentes e nervosos, no sentido de que uns biscoitos viram um pacote inteiro, uma fatia de bolo vira um <em>superultramega</em> pedaço… e o estrago está feito! A balança logo denuncia: o peso volta, com força total. Você já se perguntou por que isso acontece?
+  Para quem faz dietas mirabolantes o enredo é quase sempre o mesmo: no início a empolgação é muita, sobretudo quando o peso começa a sumir e aquela calça há muito _entocada_ no armário começa a subir no corpo, mas com o tempo, o tal do “isso pode, aquilo não” desencadeia um _siricotico _difícil de sustentar. O resultado é que permite-se uma guloseima aqui, um _porcadito_ ali, e esses deslizes vão ficando cada vez mais frequentes e nervosos, no sentido de que uns biscoitos viram um pacote inteiro, uma fatia de bolo vira um _superultramega_ pedaço… e o estrago está feito! A balança logo denuncia: o peso volta, com força total. Você já se perguntou por que isso acontece?
 </p>
 
 <p align="justify">
-  De acordo com a Luciana, <em>“as dietas por si só são contraproducentes, isso é, não traz resultados efetivos e podem desencadear os transtornos alimentares. Nada substitui um processo de reeducação alimentar bem feito, somente seguindo as orientações que a nutricionista prescreve se segue no caminho da saúde com resultados permanentes. Dietas cortam grupos alimentares, dessa forma ninguém consegue seguir por muito tempo sem se cansar, afinal comida também proporciona prazer. Tente se imaginar daqui há 20 anos ainda fazendo dieta…impossível! O mais provavel é chutar o balde muitas vezes, e a cada recaída, tem o processo de reganho de peso</em>”.
+  De acordo com a Luciana, _“as dietas por si só são contraproducentes, isso é, não traz resultados efetivos e podem desencadear os transtornos alimentares. Nada substitui um processo de reeducação alimentar bem feito, somente seguindo as orientações que a nutricionista prescreve se segue no caminho da saúde com resultados permanentes. Dietas cortam grupos alimentares, dessa forma ninguém consegue seguir por muito tempo sem se cansar, afinal comida também proporciona prazer. Tente se imaginar daqui há 20 anos ainda fazendo dieta…impossível! O mais provavel é chutar o balde muitas vezes, e a cada recaída, tem o processo de reganho de peso_”.
 </p>
 
 <p align="justify">
@@ -48,11 +48,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/" target="_blank">**É possível emagrecer apenas com mudanças de hábitos?**</a>
+  [**É possível emagrecer apenas com mudanças de hábitos?**](http://www.trololodemulher.com.br/2011/10/10/emagrecer-mudancas-habitos/) 
 </p>
 
 <p align="justify">
-  Agora ficou bem mais fácil entender por que não é possível ficar bem apostando todas as fichas na dieta da moda, certo? Veja bem, elas vão sempre existir, e inclusive é o que ajuda a vender as revistas do gênero, com essas promessas milagrosas. Se você quer atingir um peso saudável, bonita, e manter-se nesse patamar, bem, bela e saudável, o caminho é outro: “<em>no meu ponto de vista, para conseguir manter o peso precisa de outros profissionais e mudanças que se solidificam criando o hábito saudável. Muitas pessoas não comem somente por ter fome, comem por situações emocionais como tristeza, raiva, solidão, ansiedade, compulsão, estresse, etc, em função desses fatos é necessário buscar ajuda não só da nutricionista, mas também de um psicólogo, para trabalhar o emocional e mudar a forma de se relacionar com o mundo e com a comida. Mesmo assim tem muitos casos em que as pessoas apresentam um grau de ansiedade muito alto, ou mesmo compulsão, mesmo com a reeducação alimentar, sendo necessário buscar um psiquiatra para avaliar o caso, pois não adianta tentar a RA se a ansiedade é muito alta, pois não conseguirá manter a RA. É preciso buscar meios efetivos de diminuir a ansiedade para conseguir comer menos”</em>, esclarece a Psicóloga.
+  Agora ficou bem mais fácil entender por que não é possível ficar bem apostando todas as fichas na dieta da moda, certo? Veja bem, elas vão sempre existir, e inclusive é o que ajuda a vender as revistas do gênero, com essas promessas milagrosas. Se você quer atingir um peso saudável, bonita, e manter-se nesse patamar, bem, bela e saudável, o caminho é outro: “_no meu ponto de vista, para conseguir manter o peso precisa de outros profissionais e mudanças que se solidificam criando o hábito saudável. Muitas pessoas não comem somente por ter fome, comem por situações emocionais como tristeza, raiva, solidão, ansiedade, compulsão, estresse, etc, em função desses fatos é necessário buscar ajuda não só da nutricionista, mas também de um psicólogo, para trabalhar o emocional e mudar a forma de se relacionar com o mundo e com a comida. Mesmo assim tem muitos casos em que as pessoas apresentam um grau de ansiedade muito alto, ou mesmo compulsão, mesmo com a reeducação alimentar, sendo necessário buscar um psiquiatra para avaliar o caso, pois não adianta tentar a RA se a ansiedade é muito alta, pois não conseguirá manter a RA. É preciso buscar meios efetivos de diminuir a ansiedade para conseguir comer menos”_, esclarece a Psicóloga.
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.health.com/health/gallery/0,,20306719,00.html?crlt.pid=camp.N6StJlATsn0M" target="_blank">Health</a>
+  Imagem: [Health](http://www.health.com/health/gallery/0,,20306719,00.html?crlt.pid=camp.N6StJlATsn0M) 
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://lucydaveyillustration.blogspot.co.uk/" target="_blank">Lucy Davey</a> via Pinterest
+  Imagem: [Lucy Davey](http://lucydaveyillustration.blogspot.co.uk/)  via Pinterest
 </p>
 
 <p align="center">
@@ -116,11 +116,11 @@ categories:
 </p>
 
 <p align="justify">
-  Luciana Kotaka desenvolve um trabalho incrível que pode ser conferido no seu site, **<a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a>**. Lá você pode tomar conhecimento das várias áreas de atuação da profissional, pode ainda ficar por dentro de suas atualizações em <a href="http://lucianakotaka.com.br/?page_id=17747" target="_blank">seu blog</a>, ou ainda conhecer seus livros publicados sobre assuntos ligados a alimentação e emagrecimento com saúde. Claro! No site há todos os dados de contatos com a Psicóloga. Não deixe de conferir, também, sua <a href="https://www.facebook.com/ComportamentoMagro/timeline" target="_blank">página no Facebook: curta</a> e informe-se pelo bem de sua saúde.
+  Luciana Kotaka desenvolve um trabalho incrível que pode ser conferido no seu site, **[Comportamento Magro](http://lucianakotaka.com.br/) **. Lá você pode tomar conhecimento das várias áreas de atuação da profissional, pode ainda ficar por dentro de suas atualizações em [seu blog](http://lucianakotaka.com.br/?page_id=17747) , ou ainda conhecer seus livros publicados sobre assuntos ligados a alimentação e emagrecimento com saúde. Claro! No site há todos os dados de contatos com a Psicóloga. Não deixe de conferir, também, sua [página no Facebook: curta](https://www.facebook.com/ComportamentoMagro/timeline)  e informe-se pelo bem de sua saúde.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

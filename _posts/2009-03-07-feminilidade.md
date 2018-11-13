@@ -36,13 +36,13 @@ Neste dia internacional da mulher, gostaria de fazer um convite a pensarmos que 
 
 <span style="color: #800080;">Diz aí, quais dicas você daria para a gente dar mais espaço a atitudes femininas e delicadas?</span>
 
-<span style="color: #800080;">**Quer ler mais sobre sensibilidade feminina e <em>feminices</em> nos Bicha Fêmea?**</span>
+<span style="color: #800080;">**Quer ler mais sobre sensibilidade feminina e _feminices_ nos Bicha Fêmea?**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">Mulherzinha? Eu?</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">Mulherzinha? Eu?</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">A descoberta e a sensibilidade</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">A descoberta e a sensibilidade</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/08/20/convidada-flavia-zocoler/" target="_self">Um dia a gente acorda e, susto! Somos mãe!</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/08/20/convidada-flavia-zocoler/" target="_self">Um dia a gente acorda e, susto! Somos mãe!</a>_**</span>
 
 <span style="color: #800080;"> </span>
 

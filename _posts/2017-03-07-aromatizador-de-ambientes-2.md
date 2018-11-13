@@ -24,9 +24,9 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank">Clique aqui e confira a receita</a>, <em>tim tim por tim tim</em>, pra fazer você mesma aromatizadores de ambientes.
+  [Clique aqui e confira a receita](http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/) , _tim tim por tim tim_, pra fazer você mesma aromatizadores de ambientes.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

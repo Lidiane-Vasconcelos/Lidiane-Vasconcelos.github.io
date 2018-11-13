@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  É por isso que estou aqui, para te mostrar que pincelar sua casa com branco, na verdade, prepara o espaço para inserir alguns detalhes decorativos que só poderiam ganhar vida com essa base <em>superultramega</em> limpa visualmente, além de neutra e relaxante. Quer ver só? Vem comigo!
+  É por isso que estou aqui, para te mostrar que pincelar sua casa com branco, na verdade, prepara o espaço para inserir alguns detalhes decorativos que só poderiam ganhar vida com essa base _superultramega_ limpa visualmente, além de neutra e relaxante. Quer ver só? Vem comigo!
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**</a>
+  [**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**](http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/) 
 </p>
 
 <p align="center">
@@ -46,21 +46,21 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank">**Cores salpicadas na decoração aqui e acolá: lindeza de ver.**</a>
+  [**Cores salpicadas na decoração aqui e acolá: lindeza de ver.**](http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/) 
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+Imagens: [Homedit](http://www.homedit.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
 </p>
 
 &nbsp;

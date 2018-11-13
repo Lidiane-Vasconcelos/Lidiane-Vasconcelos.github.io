@@ -12,7 +12,7 @@ categories:
 Você está decidida a imprimir mais **feminilidade na decoração do seu quarto**, mas não sabe exatamente quais detalhes poderiam reforçar esse aspecto no ambiente? Então, prepare-se! esse post está recheado de inspirações para você reproduzir por aí e deixar tudo uma _fofurice_ só…
 
 <p style="text-align: justify;">
-  Cortinas, almofadas, objetos decorativos, cores e sentidos… tudo por aqui foi selecionado para você estimular o que há de mais feminino na sua essência e que possa ser transferido para a <em>decor</em> de seu canto de dormir…
+  Cortinas, almofadas, objetos decorativos, cores e sentidos… tudo por aqui foi selecionado para você estimular o que há de mais feminino na sua essência e que possa ser transferido para a _decor_ de seu canto de dormir…
 </p>
 
 <!--more-->
@@ -34,7 +34,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  As minhas foram dessa forma, sob encomenda, e o resultado me deixou bastante satisfeita. Para quem está na **região de Campinas**, recomendo o pessoal da **<a href="http://www.jolyscortinas.com.br/" target="_blank">Joly’s Persianas e Cortinas</a>**, cujo atendimento me encantou bastante. Além do mais, eles têm uma variedade de tecidos enorme e o preço é justo. Tudo o que uma bicha fêmea inteligente gosta, busca e merece!
+  As minhas foram dessa forma, sob encomenda, e o resultado me deixou bastante satisfeita. Para quem está na **região de Campinas**, recomendo o pessoal da **[Joly’s Persianas e Cortinas](http://www.jolyscortinas.com.br/) **, cujo atendimento me encantou bastante. Além do mais, eles têm uma variedade de tecidos enorme e o preço é justo. Tudo o que uma bicha fêmea inteligente gosta, busca e merece!
 </p>
 
 <p style="text-align: justify;">
@@ -82,7 +82,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  Uma penteadeira como essa, ou similar, também pode ser garimpada nos locais de vendas de usados. Se ela será mantida com o visual original ou trabalhada por um artista de acordo com seu gosto pessoal, fica a sua escolha. Mas não dá para negar o quanto um móvel assim confere <em>bossa</em> ao quarto de uma mulher, <em>hã</em>? E se ela for **enfeitada** com **caixas, vasos ou bibelôs femininos**, melhor será impossível!
+  Uma penteadeira como essa, ou similar, também pode ser garimpada nos locais de vendas de usados. Se ela será mantida com o visual original ou trabalhada por um artista de acordo com seu gosto pessoal, fica a sua escolha. Mas não dá para negar o quanto um móvel assim confere _bossa_ ao quarto de uma mulher, _hã_? E se ela for **enfeitada** com **caixas, vasos ou bibelôs femininos**, melhor será impossível!
 </p>
 
 <p style="text-align: justify;">
@@ -94,15 +94,15 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="200" valign="top">
-      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">Caixa Moa</a>**
+      **[Caixa Moa](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/) **
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200.jpg"><img class="alignnone size-thumbnail wp-image-5305" title="Porta Absorvente ou Chá Cereja Florida 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/" target="_blank">Porta Absorvente Cereja</a>**
+      **[Porta Absorvente Cereja](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200.jpg"><img class="alignnone size-thumbnail wp-image-5305" title="Porta Absorvente ou Chá Cereja Florida 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/) **
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a>**
+      **[Caixa Redonda Vintage](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/) **
     </td>
   </tr>
 </table>
@@ -147,7 +147,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 
  
 
-Imagens: <a href="http://www.bhg.com/" target="_blank">**<em>Better Homes and Gardens</em>**</a>
+Imagens: [**_Better Homes and Gardens_**](http://www.bhg.com/) 
 
 **Mais no Bicha Fêmea…**
 
@@ -160,23 +160,23 @@ Imagens: <a href="http://www.bhg.com/" target="_blank">**<em>Better Homes and Ga
 **[Os 10 erros na decoração e bem-estar do seu quarto…](http://www.trololodemulher.com.br/2009/01/15/10-erros-decoracao-quarto/)**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>…
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa & Decoração_**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**_Quartos_**</a>…
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 **_ _**

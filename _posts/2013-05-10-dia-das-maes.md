@@ -17,7 +17,7 @@ Não há nada que possa garantir que tudo de bom que uma mãe deseje para o filh
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DIA-DAS-MAES.jpg"><img class="alignnone size-full wp-image-9398" alt="DIA DAS MAES" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DIA-DAS-MAES.jpg" width="396" height="497" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DIA-DAS-MAES.jpg"><img class="alignnone size-full wp-image-9398" alt="DIA DAS MAES" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DIA-DAS-MAES.jpg" width="396" height="497" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -33,7 +33,7 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
 &nbsp;
 
 > <p align="justify">
->   “<em>Meu maior desejo como mãe é ver essa moçada feliz e realizada, bem encaminhada na vida e principalmente sendo úteis a sociedade&#8230;pessoas do bem. Hoje em dia o mundo tá tão mudado que não basta mais querer que o filho não se envolva com coisas erradas, mas é preciso, e muito, ensinar a eles que a gente precisa seguir a risca um dos maiores mandamentos de Jesus: ame seu próximo&#8221;</em> **Glaucia – **<a href="http://www.supercriativobyglau.blogspot.com.br/" target="_blank">**Super Criativo by Glau**</a>
+>   “_Meu maior desejo como mãe é ver essa moçada feliz e realizada, bem encaminhada na vida e principalmente sendo úteis a sociedade&#8230;pessoas do bem. Hoje em dia o mundo tá tão mudado que não basta mais querer que o filho não se envolva com coisas erradas, mas é preciso, e muito, ensinar a eles que a gente precisa seguir a risca um dos maiores mandamentos de Jesus: ame seu próximo&#8221;_ **Glaucia – **[**Super Criativo by Glau**](http://www.supercriativobyglau.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -43,7 +43,7 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
 </p>
 
 > <p align="justify">
->   “<em>O que desejo à minha filha é simples pra mim, mas talvez muito difícil para outras pessoas&#8230;.um Mundo melhor, onde as pessoas se amem de graça, onde não haja tanto interesse. Um mundo menos egoísta, no qual as pessoas tenham mais Paz, Esperança e DEUS no coração. Um mundo com menos miséria, violência e mais consciência e voluntariado. Vou ensiná-la o quão é importante trabalhar com Amor e por Amor em prol do próximo&#8230;o quanto isso nos deixa felizes. Desejo à essa pessoinha todo o Amor que possa haver, tudo de lindo que exista no mundo! Que ela seja uma criança Feliz, de bom coração e boa alma e que certamente irá contagiar sua Alegria e seu Amor à todos que estiverem em sua companhia. Viu como é simples?!”</em> **Carol Carneiro – **<a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">**Blog Carol Carneiro**</a>
+>   “_O que desejo à minha filha é simples pra mim, mas talvez muito difícil para outras pessoas&#8230;.um Mundo melhor, onde as pessoas se amem de graça, onde não haja tanto interesse. Um mundo menos egoísta, no qual as pessoas tenham mais Paz, Esperança e DEUS no coração. Um mundo com menos miséria, violência e mais consciência e voluntariado. Vou ensiná-la o quão é importante trabalhar com Amor e por Amor em prol do próximo&#8230;o quanto isso nos deixa felizes. Desejo à essa pessoinha todo o Amor que possa haver, tudo de lindo que exista no mundo! Que ela seja uma criança Feliz, de bom coração e boa alma e que certamente irá contagiar sua Alegria e seu Amor à todos que estiverem em sua companhia. Viu como é simples?!”_ **Carol Carneiro – **[**Blog Carol Carneiro**](http://blogcarolcarneiro.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -55,7 +55,7 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
 &nbsp;
 
 > <p align="justify">
->   “<em>Quando engravidei dos meus filhos (Vitor, 16 e Júlia 11), meu grande desejo era que fossem perfeitos e saudáveis. Hoje, a cada vez que me separo deles, seja na hora de deixá-los na escola, seja quando vão a algum lugar, meu pensamento vai imediatamente para Deus, peço proteção, peço que Ele cuide do bem estar de cada um e evite que o mal aconteça. Toda vez que você liga a tv aparecem notícias sobre a violência instaurada na  sociedade. Mesmo dentro de casa você está sujeito a ser molestado e confesso, mesmo me precavendo como posso, mesmo morando numa cidade pacata e tranquila, ainda temo pelo bem estar da minha família. Nesse momento, tudo o que mais desejo nesse mundo, é que eles possam seguir o curso de suas vidas, em paz, com saúde e protegidos de todo o mal</em>.” **Rita de Cássia**
+>   “_Quando engravidei dos meus filhos (Vitor, 16 e Júlia 11), meu grande desejo era que fossem perfeitos e saudáveis. Hoje, a cada vez que me separo deles, seja na hora de deixá-los na escola, seja quando vão a algum lugar, meu pensamento vai imediatamente para Deus, peço proteção, peço que Ele cuide do bem estar de cada um e evite que o mal aconteça. Toda vez que você liga a tv aparecem notícias sobre a violência instaurada na  sociedade. Mesmo dentro de casa você está sujeito a ser molestado e confesso, mesmo me precavendo como posso, mesmo morando numa cidade pacata e tranquila, ainda temo pelo bem estar da minha família. Nesse momento, tudo o que mais desejo nesse mundo, é que eles possam seguir o curso de suas vidas, em paz, com saúde e protegidos de todo o mal_.” **Rita de Cássia**
 > </p>
 
 &nbsp;
@@ -67,7 +67,7 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
 &nbsp;
 
 > <p align="justify">
->   “<em>Meu maior desejo como mãe pode parecer um cliché, mas é do fundo do coração: desejo com todas as forças que eles sejam saudáveis acima de tudo, desejo conseguir dar-lhes as bases para serem adultos felizes! Tenho 3 filhos  e todos os dias tento ser um bom exemplo e ensinar-lhes valores que lhes fiquem para a vida, quero estar cá  para lhes  amparar as quedas que não puder evitar. Ser mãe foi o que de melhor me aconteceu na vida, sinto-me uma pessoa melhor por eles e para eles e,  apesar do cansaço e do trabalho que dá, basta um sorriso , um abraço, um carinho, e sei que tudo está como devia estar.”</em> **Sonia Sousa – **<a href="http://partilhandoo.blogspot.com.br/" target="_blank">**De tudo um pouco**</a>
+>   “_Meu maior desejo como mãe pode parecer um cliché, mas é do fundo do coração: desejo com todas as forças que eles sejam saudáveis acima de tudo, desejo conseguir dar-lhes as bases para serem adultos felizes! Tenho 3 filhos  e todos os dias tento ser um bom exemplo e ensinar-lhes valores que lhes fiquem para a vida, quero estar cá  para lhes  amparar as quedas que não puder evitar. Ser mãe foi o que de melhor me aconteceu na vida, sinto-me uma pessoa melhor por eles e para eles e,  apesar do cansaço e do trabalho que dá, basta um sorriso , um abraço, um carinho, e sei que tudo está como devia estar.”_ **Sonia Sousa – **[**De tudo um pouco**](http://partilhandoo.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -79,7 +79,7 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
 &nbsp;
 
 > <p align="justify">
->   “<em>Como não posso remover as decepções das suas vidas, dar meios para que elas vençam os obstáculos</em>. “ **Solange Paixão**
+>   “_Como não posso remover as decepções das suas vidas, dar meios para que elas vençam os obstáculos_. “ **Solange Paixão**
 > </p>
 
 &nbsp;
@@ -91,7 +91,7 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
 &nbsp;
 
 > <p align="justify">
->   “<em>Meu desejo é ver meu filho crescido com saúde, tendo ótimo caráter, realizado profissionalmente, respeitado por todos. Desejo que seja um homem de bem, sem preconceitos, honesto e trabalhador. Que encontre e viva um grande amor&#8230; que seja um pai exemplar e ótimo chefe de família. Que tenha muitos amigos e por onde passar, que deixe sua marca de amizade e solidariedade. Que construa um mundo melhor para os seus e que saiba mostrar o caminho certo, assim como eu tento com ele, para seus filhos e netos!”</em> **Adriana Lara – **<a href="http://tititidadri.blogspot.com.br/" target="_blank">**TiTiTi da Dri**</a>
+>   “_Meu desejo é ver meu filho crescido com saúde, tendo ótimo caráter, realizado profissionalmente, respeitado por todos. Desejo que seja um homem de bem, sem preconceitos, honesto e trabalhador. Que encontre e viva um grande amor&#8230; que seja um pai exemplar e ótimo chefe de família. Que tenha muitos amigos e por onde passar, que deixe sua marca de amizade e solidariedade. Que construa um mundo melhor para os seus e que saiba mostrar o caminho certo, assim como eu tento com ele, para seus filhos e netos!”_ **Adriana Lara – **[**TiTiTi da Dri**](http://tititidadri.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -151,7 +151,7 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -166,13 +166,13 @@ Sinta-se contagiada pelo amor incondicional materno que costura as palavras dess
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

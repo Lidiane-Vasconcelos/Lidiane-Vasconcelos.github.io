@@ -14,17 +14,17 @@ Mesmo quem não é _fashionista_ de plantão, sabe dizer se algum item ou não e
 &nbsp;
 
 <p align="justify">
-  Quando esta **pauta foi sugerida pela Luciana Ferreira**, via <em>e-mail</em>, pensei que mais interessante do que mostrar <em>looks</em> de passarela, seria dar voz ás bichas fêmeas navegantes mostrando suas peças e acessórios que estão na tendência de moda, e que são seus queridos. Será que o seu está por aqui?
+  Quando esta **pauta foi sugerida pela Luciana Ferreira**, via _e-mail_, pensei que mais interessante do que mostrar _looks_ de passarela, seria dar voz ás bichas fêmeas navegantes mostrando suas peças e acessórios que estão na tendência de moda, e que são seus queridos. Será que o seu está por aqui?
 </p>
 
 <!--more-->
 
 <p align="justify">
-  Sendo assim, vejamos qual o segredo <em>fashion</em> dessas mulheres lindas que aplicam a moda no dia a dia, do jeito que elas gostam e se sentem bem e, quem sabe, a gente não se inspira no estilo delas?! <em>Bora </em>ver?
+  Sendo assim, vejamos qual o segredo _fashion_ dessas mulheres lindas que aplicam a moda no dia a dia, do jeito que elas gostam e se sentem bem e, quem sabe, a gente não se inspira no estilo delas?! _Bora _ver?
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/moda.jpg"><img class="alignnone size-full wp-image-6800" title="moda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/moda.jpg" alt="" width="191" height="600" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/moda.jpg"><img class="alignnone size-full wp-image-6800" title="moda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/moda.jpg" alt="" width="191" height="600" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ Mesmo quem não é _fashionista_ de plantão, sabe dizer se algum item ou não e
 &nbsp;
 
 > <p align="justify">
->   “<em>**Bermuda jeans saruel**: adoro, é confortável, e jeans combina com tudo!</em>” **Cibele Leite** | **<a href="http://www.organizandoarrumando.com/" target="_blank">Organizando, Arrumando e Fuçando</a>**
+>   “_**Bermuda jeans saruel**: adoro, é confortável, e jeans combina com tudo!_” **Cibele Leite** | **[Organizando, Arrumando e Fuçando](http://www.organizandoarrumando.com/) **
 > </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Mesmo quem não é _fashionista_ de plantão, sabe dizer se algum item ou não e
 &nbsp;
 
 > <p align="justify">
->   “<em>O que eu  tenho usado e que está na moda são as **calças e bermudas saruel**. No começo eu não aprovei e ainda estou um pouco na dúvida&#8230;porém, são peças que me deixam tão à vontade, pois são soltinhas no corpo, que acabei aderindo, já que não gosto de nada que me aperte!!! Ah&#8230;também não estou tão em forma pra usar a saruel, mas eu me sinto bem e isso é o que importa, pois eu me visto pra mim e não para os outros rsrsrs.”</em>** Vânia Pinho | <a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**
+>   “_O que eu  tenho usado e que está na moda são as **calças e bermudas saruel**. No começo eu não aprovei e ainda estou um pouco na dúvida&#8230;porém, são peças que me deixam tão à vontade, pois são soltinhas no corpo, que acabei aderindo, já que não gosto de nada que me aperte!!! Ah&#8230;também não estou tão em forma pra usar a saruel, mas eu me sinto bem e isso é o que importa, pois eu me visto pra mim e não para os outros rsrsrs.”_** Vânia Pinho | [Casa de Boneca](http://www.casadebonecadecor.blogspot.com/) **
 > </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Mesmo quem não é _fashionista_ de plantão, sabe dizer se algum item ou não e
 </p>
 
 > <p align="justify">
->   “<em>Não gosto de seguir modinhas, em matéria de vestuário, uso aquilo que eu gosto, que me deixa bem e confortável. Ah! Posso dizer que AMO **sapatilhas**, e que são super tendência! Adoro descer do salto literalmente! E essa tendência eu aprovo totalmente!”</em> **Flávia Mergulhão** | **<a href="http://ateliedacaie.blogspot.com/" target="_blank">Ateliê da Caiê</a>**
+>   “_Não gosto de seguir modinhas, em matéria de vestuário, uso aquilo que eu gosto, que me deixa bem e confortável. Ah! Posso dizer que AMO **sapatilhas**, e que são super tendência! Adoro descer do salto literalmente! E essa tendência eu aprovo totalmente!”_ **Flávia Mergulhão** | **[Ateliê da Caiê](http://ateliedacaie.blogspot.com/) **
 > </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Mesmo quem não é _fashionista_ de plantão, sabe dizer se algum item ou não e
 </p>
 
 > <p align="justify">
->   “<em>No momento o que estou usando são as **calças com as pernas mais justas** que eu adoro, pois acho que valoriza mais o meu corpo, até me rejuvenesce…acabei me desfazendo de todas as que eu tinha com pernas largas e só tenho delas agora, e espero que as penas largas não voltem tão cedo</em>.”** Lenita Feffe**
+>   “_No momento o que estou usando são as **calças com as pernas mais justas** que eu adoro, pois acho que valoriza mais o meu corpo, até me rejuvenesce…acabei me desfazendo de todas as que eu tinha com pernas largas e só tenho delas agora, e espero que as penas largas não voltem tão cedo_.”** Lenita Feffe**
 > </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Mesmo quem não é _fashionista_ de plantão, sabe dizer se algum item ou não e
 </p>
 
 > <p align="justify">
->   “<em>Aqui no meu planeta é frio (sou de Teresópolis, região serrana do Rio), então usamos lenços praticamente o ano todo, mas agora no inverno, os cachecóis são &#8220;a febre&#8221;: utilíssimos (cada um mais lindo que o outro, com uma variedade de pontos incrível &#8211; temos muitos artesãos aqui neste planeta) e além de realmente aquecerem o nosso pescocinho e a nossa nuquinha, valorizam qualquer roupa, por mais básica que seja. Já percebi e posso afirmar que, pelo menos aqui, eles não saem do cenário nunca, podem até, a cada ano, surgir com uma &#8220;repaginada&#8221; (como os de flores, agora), mas estarão sempre em volta de nós, literalmente rsrsrsrs&#8230; E eu aaaaaaaaaaaaamo!!!!!!”</em> **Andréia Jacomelli** | **<a href="http://ajacomelli.blogspot.com/" target="_blank">Palavra Inquieta</a>**
+>   “_Aqui no meu planeta é frio (sou de Teresópolis, região serrana do Rio), então usamos lenços praticamente o ano todo, mas agora no inverno, os cachecóis são &#8220;a febre&#8221;: utilíssimos (cada um mais lindo que o outro, com uma variedade de pontos incrível &#8211; temos muitos artesãos aqui neste planeta) e além de realmente aquecerem o nosso pescocinho e a nossa nuquinha, valorizam qualquer roupa, por mais básica que seja. Já percebi e posso afirmar que, pelo menos aqui, eles não saem do cenário nunca, podem até, a cada ano, surgir com uma &#8220;repaginada&#8221; (como os de flores, agora), mas estarão sempre em volta de nós, literalmente rsrsrsrs&#8230; E eu aaaaaaaaaaaaamo!!!!!!”_ **Andréia Jacomelli** | **[Palavra Inquieta](http://ajacomelli.blogspot.com/) **
 > </p>
 
 <p align="justify">
@@ -92,9 +92,9 @@ Mesmo quem não é _fashionista_ de plantão, sabe dizer se algum item ou não e
 </p>
 
 <p align="center">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a></em>**
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> **_<a href="http://www.trololodemulher.com.br/category/do-corpo/moda/">Moda</a>_**
 </p>
 
 <p align="center">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>

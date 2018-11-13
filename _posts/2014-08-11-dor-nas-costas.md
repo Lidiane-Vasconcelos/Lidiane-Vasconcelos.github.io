@@ -25,7 +25,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: [free images](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
@@ -89,11 +89,11 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 </p>
 
 <p align="justify">
-  Denise Pripas também é blogueira, viu? Você pode acompanhar todas as suas atualizações em seu blog, que leva seu nome, e que está ao alcance de um <a href="http://www.fisioterapiadenisepripas.blogspot.com.br/" target="_blank">clique bem aqui</a>. Fique por dentro de tudo o que ela posta sobre a saúde do corpo, e se beneficie de seu jeito gostoso e didático de falar sobre o assunto. Além do blog, Denise também atualiza uma <a href="https://www.facebook.com/fisioterapia.denisepripas/timeline" target="_blank">página no Facebook, bem aqui</a>. Curta, compartilhe e informe-se!
+  Denise Pripas também é blogueira, viu? Você pode acompanhar todas as suas atualizações em seu blog, que leva seu nome, e que está ao alcance de um [clique bem aqui](http://www.fisioterapiadenisepripas.blogspot.com.br/) . Fique por dentro de tudo o que ela posta sobre a saúde do corpo, e se beneficie de seu jeito gostoso e didático de falar sobre o assunto. Além do blog, Denise também atualiza uma [página no Facebook, bem aqui](https://www.facebook.com/fisioterapia.denisepripas/timeline) . Curta, compartilhe e informe-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

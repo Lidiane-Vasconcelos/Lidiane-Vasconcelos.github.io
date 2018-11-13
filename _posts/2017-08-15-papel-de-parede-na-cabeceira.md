@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2016/03/10/papel-de-parede-no-quarto/" target="_blank">Papel de parede no quarto: como decorar?</a>**
+  **[Papel de parede no quarto: como decorar?](http://www.trololodemulher.com.br/2016/03/10/papel-de-parede-no-quarto/) **
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="left">
-  Imagens: <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Imagens: [Casa Abril](http://casa.abril.com.br/) 
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://dicasnainternet.com/" target="_blank">Dicas na Internet</a>
+  Via [Dicas na Internet](http://dicasnainternet.com/) 
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.decorsalteado.com/" target="_blank">Decor Salteado</a>
+  Via [Decor Salteado](http://www.decorsalteado.com/) 
 </p>
 
 <p align="center">
@@ -106,9 +106,9 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/23/decoracao-de-quarto-pequeno/" target="_blank">**O que fazer na decoração de quarto pequeno?**</a>
+  [**O que fazer na decoração de quarto pequeno?**](http://www.trololodemulher.com.br/2016/03/23/decoracao-de-quarto-pequeno/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

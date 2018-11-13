@@ -23,7 +23,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: justify;">
-  Tive esses problemas e com muita paciência é que conseguimos solucioná-los: liguei para a Pediatra (meu 2º anjo da guarda agora… <em>rsrsrs</em>), ela me indicou alguns planos “A,B,C &#8230;e até plano Y”…  recorri a todos eles e venho dividir com vocês, para quem sabe poder evitar esse corre-corre ‘pra vocês e que fiquem apenas com a melhor parte do pós parto!
+  Tive esses problemas e com muita paciência é que conseguimos solucioná-los: liguei para a Pediatra (meu 2º anjo da guarda agora… _rsrsrs_), ela me indicou alguns planos “A,B,C &#8230;e até plano Y”…  recorri a todos eles e venho dividir com vocês, para quem sabe poder evitar esse corre-corre ‘pra vocês e que fiquem apenas com a melhor parte do pós parto!
 </p>
 
 <p style="text-align: justify;">
@@ -43,7 +43,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: justify;">
-  O melhor a fazer é manter a calma e nos adaptarmos a nossa realidade, e ter consciência de que se fizemos o possível então somos mães de verdade, sem neuras nem culpa. Chorei muito até aprender isso tudo… <em>rsrs</em>&#8230;
+  O melhor a fazer é manter a calma e nos adaptarmos a nossa realidade, e ter consciência de que se fizemos o possível então somos mães de verdade, sem neuras nem culpa. Chorei muito até aprender isso tudo… _rsrs_&#8230;
 </p>
 
 <p style="text-align: center;">
@@ -59,7 +59,7 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 </p>
 
 <p style="text-align: justify;">
-  Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  Imagem: **[stock.xchng](http://www.sxc.hu/) **
 </p>
 
 ** **
@@ -73,13 +73,13 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
-       Analista Fiscal, mãe da Sophia (2 meses) e da Daniele (18 anos), **Josi Sousa** tem  o Blog “<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank">**Mulher, mãe, esposa, profissional**</a>”, onde divide suas descobertas e anseios de toda mulher que sabe o quanto é dificil e prazeroso ao mesmo tempo ser: mãe, mulher, esposa e profissional.
+       Analista Fiscal, mãe da Sophia (2 meses) e da Daniele (18 anos), **Josi Sousa** tem  o Blog “[**Mulher, mãe, esposa, profissional**](http://mulhernota10josisousa.blogspot.com/) ”, onde divide suas descobertas e anseios de toda mulher que sabe o quanto é dificil e prazeroso ao mesmo tempo ser: mãe, mulher, esposa e profissional.
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  Faça como a **Josi**, e envie **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em>** para o **Bicha Fêmea**!
+  Faça como a **Josi**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
 </p>
 
 <p style="text-align: left;">
@@ -99,23 +99,23 @@ Durante a **gestação**, nos preocupamos com tudo: chá de bebê, enxoval, o no
 **[A educação dos homens e mulheres de amanhã…](http://www.trololodemulher.com.br/2009/12/02/educacao-domestica/)**
 
 <p style="text-align: center;">
-  **<em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> </em>**
+  **_Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/">Início</a> > <a href="http://www.trololodemulher.com.br/bem-viver/">Bem Viver</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">Vida com Estilo</a> _**
 </p>
 
 <p style="text-align: center;">
-  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 ** **

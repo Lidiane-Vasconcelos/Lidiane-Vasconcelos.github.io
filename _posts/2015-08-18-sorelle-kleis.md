@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Lyvia, com formação em Desenho de Moda, e Alessandra, graduada em Artes Plásticas, são irmãs gêmeas. Ambas especializadas em <em>design</em> de jóias, elas têm a formação incrementada pelo fato de que as duas também formaram-se na área de moda. Alessandra fez o curso <em>Fashion Image & Styling</em> no Istituto Marangoni em Londres, e Lyvia fez o curso <em>Fashion Production</em> no Istituto Marangoni e o curso <em>Fashion Design</em> na <em>Parson New School for Design</em> em NY. As meninas resolveram juntar suas forças, conhecimento e o amor pelo mundo da moda, e o resultado é a **<a href="http://sorellekleis.com.br/sorellekleis.html" target="_blank">Sorelle Kleis</a>** &#8211; <em>Sorelle</em> é irmãs em italiano, e Kleis o sobrenome das irmãs – uma **loja multimarca e com confecção própria de roupas e acessórios femininos**.
+  Lyvia, com formação em Desenho de Moda, e Alessandra, graduada em Artes Plásticas, são irmãs gêmeas. Ambas especializadas em _design_ de jóias, elas têm a formação incrementada pelo fato de que as duas também formaram-se na área de moda. Alessandra fez o curso _Fashion Image & Styling_ no Istituto Marangoni em Londres, e Lyvia fez o curso _Fashion Production_ no Istituto Marangoni e o curso _Fashion Design_ na _Parson New School for Design_ em NY. As meninas resolveram juntar suas forças, conhecimento e o amor pelo mundo da moda, e o resultado é a **[Sorelle Kleis](http://sorellekleis.com.br/sorellekleis.html) ** &#8211; _Sorelle_ é irmãs em italiano, e Kleis o sobrenome das irmãs – uma **loja multimarca e com confecção própria de roupas e acessórios femininos**.
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@ categories:
 </p>
 
 <p align="justify">
-  A loja física fica em **Itapira, São Paulo, na rua XV de Novembro, 569, no centro. O telefone é (19) 3813 2752**. Se você está por perto ou passando na região, claro que pode pessoalmente ver todas as novidades das meninas, que inclusive disponibilizam tamanhos <em>plus size</em>.
+  A loja física fica em **Itapira, São Paulo, na rua XV de Novembro, 569, no centro. O telefone é (19) 3813 2752**. Se você está por perto ou passando na região, claro que pode pessoalmente ver todas as novidades das meninas, que inclusive disponibilizam tamanhos _plus size_.
 </p>
 
 <p align="justify">
-  A melhor das notícias é que essas moças talentosas estão com uma novidade linda de viver: a <a href="http://www.customizesk.com.br/" target="_blank">Customize SK</a>. É essa loja que quero te mostrar, em detalhes e com carinho, porque a ideia do projeto é só amor. Já pensou se você pudesse contar sua história pessoal ou refletir o seu estilo através de um acessório customizado, personalizado para você?
+  A melhor das notícias é que essas moças talentosas estão com uma novidade linda de viver: a [Customize SK](http://www.customizesk.com.br/) . É essa loja que quero te mostrar, em detalhes e com carinho, porque a ideia do projeto é só amor. Já pensou se você pudesse contar sua história pessoal ou refletir o seu estilo através de um acessório customizado, personalizado para você?
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  1 – <a href="http://www.customizesk.com.br/Relicario-Miss/prod-3367005/" target="_blank">Relicário Miss</a> | 2 – <a href="http://www.customizesk.com.br/Bola-Perola/prod-3331707/" target="_blank">Bola Pérola</a> | 3 – <a href="http://www.customizesk.com.br/Coracao-Vinho/prod-3308245/" target="_blank">Coração Vinho</a> | 4 – <a href="http://www.customizesk.com.br/Angel/prod-3297686/" target="_blank">Angel</a> | 5 – <a href="http://www.customizesk.com.br/Mom-Mae/prod-3323973/" target="_blank">Placa Mom – Mãe</a> | 6 – <a href="http://www.customizesk.com.br/Coruja-Branca/prod-3283280/" target="_blank">Coruja Branca</a> | 7 – <a href="http://www.customizesk.com.br/Coracao-etnico-verde/prod-3365831/" target="_blank">Coração Étnico Verde</a> | 8 – <a href="http://www.customizesk.com.br/Carta-Love/prod-3322795/" target="_blank">Carta Love</a> | 9 – <a href="http://www.customizesk.com.br/Arvore-VIDA/prod-3292628/" target="_blank">Árvore Vida</a>
+  1 – [Relicário Miss](http://www.customizesk.com.br/Relicario-Miss/prod-3367005/)  | 2 – [Bola Pérola](http://www.customizesk.com.br/Bola-Perola/prod-3331707/)  | 3 – [Coração Vinho](http://www.customizesk.com.br/Coracao-Vinho/prod-3308245/)  | 4 – [Angel](http://www.customizesk.com.br/Angel/prod-3297686/)  | 5 – [Placa Mom – Mãe](http://www.customizesk.com.br/Mom-Mae/prod-3323973/)  | 6 – [Coruja Branca](http://www.customizesk.com.br/Coruja-Branca/prod-3283280/)  | 7 – [Coração Étnico Verde](http://www.customizesk.com.br/Coracao-etnico-verde/prod-3365831/)  | 8 – [Carta Love](http://www.customizesk.com.br/Carta-Love/prod-3322795/)  | 9 – [Árvore Vida](http://www.customizesk.com.br/Arvore-VIDA/prod-3292628/) 
 </p>
 
 <p align="justify">
@@ -55,9 +55,9 @@ categories:
 </p>
 
 <p align="justify">
-  Para ver todas as opções, <a href="http://www.customizesk.com.br/" target="_blank">visite a loja virtual</a> e delicie-se com a variedade cheia de beleza e estilo oferecida pelas meninas. <a href="https://www.facebook.com/customizesk" target="_blank">Na página Customize SK, no Facebook</a>, Lyvia e Alessandra mostram novidades incríveis de itens para customizar seu acessório e contar sua história, inclusive com ideias de peças já montadas para você se inspirar. Vale a pena ficar de olho. É bom curtir e acompanhar. Agora é se jogar e conhecer tantas coisas bonitas que as irmãs têm pra te mostrar… delicie-se!
+  Para ver todas as opções, [visite a loja virtual](http://www.customizesk.com.br/)  e delicie-se com a variedade cheia de beleza e estilo oferecida pelas meninas. [Na página Customize SK, no Facebook](https://www.facebook.com/customizesk) , Lyvia e Alessandra mostram novidades incríveis de itens para customizar seu acessório e contar sua história, inclusive com ideias de peças já montadas para você se inspirar. Vale a pena ficar de olho. É bom curtir e acompanhar. Agora é se jogar e conhecer tantas coisas bonitas que as irmãs têm pra te mostrar… delicie-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

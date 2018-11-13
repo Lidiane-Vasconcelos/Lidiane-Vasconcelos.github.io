@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Espero que quando você receba minha mensagem, haja um sorriso no rosto e vontade de trocar figurinhas virtuais também. Para esse nosso encontro mais de pertinho acontecer, **<a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">deixe o seu “Eu quero!” neste post</a>**.
+  Espero que quando você receba minha mensagem, haja um sorriso no rosto e vontade de trocar figurinhas virtuais também. Para esse nosso encontro mais de pertinho acontecer, **[deixe o seu “Eu quero!” neste post](http://www.trololodemulher.com.br/2018/02/28/newsletter/) **.
 </p>
 
 <p align="justify">
@@ -26,23 +26,23 @@ categories:
 </p>
 
 <p align="justify">
-  Sabe os tão amados sucos funcionais? Você já se perguntou para que, afinal de contas, eles servem? Será que eles funcionam mesmo e fazem jus a fama? Kilza Koch, Nutricionista e consultora do Trololó de Mulher, revelou TU-DO pra gente. Confira no post “<a href="http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/" target="_blank">Saúde e beleza no copo: sucos funcionais</a>”.
+  Sabe os tão amados sucos funcionais? Você já se perguntou para que, afinal de contas, eles servem? Será que eles funcionam mesmo e fazem jus a fama? Kilza Koch, Nutricionista e consultora do Trololó de Mulher, revelou TU-DO pra gente. Confira no post “[Saúde e beleza no copo: sucos funcionais](http://www.trololodemulher.com.br/2015/03/19/saude-beleza-sucos-funcionais/) ”.
 </p>
 
 <p align="justify">
-  Ainda falando sobre saúde, a dica que quero compartilhar é a receita de <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">hamburguer de grão de bico, facinho… facinho</a>. A receita é dada pela querida Carol Vieira, nossa colaboradora já bastante conhecida no blog.
+  Ainda falando sobre saúde, a dica que quero compartilhar é a receita de [hamburguer de grão de bico, facinho… facinho](http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/) . A receita é dada pela querida Carol Vieira, nossa colaboradora já bastante conhecida no blog.
 </p>
 
 <p align="justify">
-  Quero dar destaque para a entrevista que fiz com a Jê Pereira, que mostra a força que tem como empreendedora digital, mas que também revela como lida com sua limitação física, e ainda da gravidez de sua filha através de uma barriga de aluguel. A entrevista é inspiração pura! Não perca, no post “<a href="http://www.trololodemulher.com.br/2016/01/15/je-souza-pereira/" target="_blank">Jê Souza Pereira, aquela que leva uma vida tranquila…</a>”.
+  Quero dar destaque para a entrevista que fiz com a Jê Pereira, que mostra a força que tem como empreendedora digital, mas que também revela como lida com sua limitação física, e ainda da gravidez de sua filha através de uma barriga de aluguel. A entrevista é inspiração pura! Não perca, no post “[Jê Souza Pereira, aquela que leva uma vida tranquila…](http://www.trololodemulher.com.br/2016/01/15/je-souza-pereira/) ”.
 </p>
 
 <p align="justify">
-  As aulas já estão de volta e o ano letivo começou a todo vapor. Sua criança está numa escola bilingue? Você está gostando da experiência? Pensa em colocar seu pequeno numa escola dessas ano que vem? Veja o ponto de vista da Bruna Alves, Psicopedagoga e consultora do Trololó de Mulher, a respeito dessas escolas… e faça sua escolha. No post &#8220;<a href="http://www.trololodemulher.com.br/2015/01/30/crianca-escola-bilingue/" target="_blank">Vale a pena matricular sua criança numa escola bilingue?</a>&#8220;.
+  As aulas já estão de volta e o ano letivo começou a todo vapor. Sua criança está numa escola bilingue? Você está gostando da experiência? Pensa em colocar seu pequeno numa escola dessas ano que vem? Veja o ponto de vista da Bruna Alves, Psicopedagoga e consultora do Trololó de Mulher, a respeito dessas escolas… e faça sua escolha. No post &#8220;[Vale a pena matricular sua criança numa escola bilingue?](http://www.trololodemulher.com.br/2015/01/30/crianca-escola-bilingue/) &#8220;.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

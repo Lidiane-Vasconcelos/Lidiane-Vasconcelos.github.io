@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Hoje acordei me sentindo muito romântica. Então pensei sobre um lugar encantador na Itália chamado “Borgo di Votigno”. Este é um lugar incrível e mágico, onde tive a oportunidade de viver um momento muito importante da minha vida.</em>
+  “_Hoje acordei me sentindo muito romântica. Então pensei sobre um lugar encantador na Itália chamado “Borgo di Votigno”. Este é um lugar incrível e mágico, onde tive a oportunidade de viver um momento muito importante da minha vida._
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Localizado no norte da Itália, este Burgo medieval também é conhecido por sediar um Centro Cultural chamado Casa do Tibete. O Centro foi inaugurado 1990 e foi visitado até pelo Dalai Lama, entre outros famosos. Situado no meio de uma paisagem cênica o Burgo é um oásis de paz, onde uma família tibetana de um flautista e músico vivem. Acredite em mim este é um lugar que vale muito a pena ir.</em>
+  _Localizado no norte da Itália, este Burgo medieval também é conhecido por sediar um Centro Cultural chamado Casa do Tibete. O Centro foi inaugurado 1990 e foi visitado até pelo Dalai Lama, entre outros famosos. Situado no meio de uma paisagem cênica o Burgo é um oásis de paz, onde uma família tibetana de um flautista e músico vivem. Acredite em mim este é um lugar que vale muito a pena ir._
 </p>
 
 <p align="center">
@@ -91,18 +91,18 @@ _2. Caso queira, é possível substituir o pinoli por castanha do Pará ou Pinh�
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank">**Canja de galinha para colocar um sorriso no rosto.**</a>
+[**Canja de galinha para colocar um sorriso no rosto.**](http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/) 
 
-<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank">**Picolé caseiro de tangerina assada, com gengibre e iogurte.**</a>
+[**Picolé caseiro de tangerina assada, com gengibre e iogurte.**](http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/) 
 
-<a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank">**Pão caseiro trançado com recheio de pesto.**</a>
+[**Pão caseiro trançado com recheio de pesto.**](http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/) 
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira [o blog de Tânia clicando aqui](https://iwanttobeacook.wordpress.com/)  (escrito em inglês e português), e [sua fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está [no Instagram… clique aqui e siga](https://www.instagram.com/iwanttobeacook/) ! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

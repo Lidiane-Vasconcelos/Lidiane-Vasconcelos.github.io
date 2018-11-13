@@ -11,11 +11,11 @@ categories:
   - Pequenos Espaços
 ---
 <p style="text-align: justify;">
-  Banheiro pequeno é o que há de mais comum hoje em dia, não é verdade? Os apartamentos novos, pensados para a imensa maioria das famílias modernas, são mínimos. Imagina o banheiro? O melhor, nesse caso, é aceitar que o espaço é <em>pequetito</em> e pensar em estratégias para maximizá-lo. Nesse post você verá 4 ideias para isso, viu?
+  Banheiro pequeno é o que há de mais comum hoje em dia, não é verdade? Os apartamentos novos, pensados para a imensa maioria das famílias modernas, são mínimos. Imagina o banheiro? O melhor, nesse caso, é aceitar que o espaço é _pequetito_ e pensar em estratégias para maximizá-lo. Nesse post você verá 4 ideias para isso, viu?
 </p>
 
 <p align="justify">
-  Na hora de reformar/decorar seu banheiro mini, há soluções que podem fazer toda a diferença no dia a dia. Repare nestes detalhes garimpados no site <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a> e providencie a aplicação deles nos seus domínios. Espie e inspire-se!
+  Na hora de reformar/decorar seu banheiro mini, há soluções que podem fazer toda a diferença no dia a dia. Repare nestes detalhes garimpados no site [Better Homes and Gardens](http://www.bhg.com/)  e providencie a aplicação deles nos seus domínios. Espie e inspire-se!
 </p>
 
 &nbsp;
@@ -25,15 +25,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank">Dicas e imagens: como maximizar o banheiro.</a>**
+  **[Dicas e imagens: como maximizar o banheiro.](http://www.decoracaodacasa.com/decoracao-banheiro/) **
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a>**
+  **[Banheiro pequeno? Veja 6 ideias e ganhe espaço já!](http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/) **
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a>**
+  **[Faça seu banheiro pequeno parecer maior com 5 truques.](http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/) **
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a>**
+  **[4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!](http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/) **
 </p>
 
 &nbsp;
@@ -75,7 +75,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  …pronto! A bagunça <em>superultramega</em> diminue. Não quer colocar na parede? Coloca na porta, bonita! Eu faço assim, e ganho espaço de organização no ambiente. Fica a dica!
+  …pronto! A bagunça _superultramega_ diminue. Não quer colocar na parede? Coloca na porta, bonita! Eu faço assim, e ganho espaço de organização no ambiente. Fica a dica!
 </p>
 
 &nbsp;
@@ -119,21 +119,21 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">4 ideias para decoração de banheiro pequeno.</a>**
+  **[4 ideias para decoração de banheiro pequeno.](http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/05/25/banheiro-bonito-dicas/" target="_blank">Como deixar o seu banheiro mais bonito em 4 dicas.</a>**
+  **[Como deixar o seu banheiro mais bonito em 4 dicas.](http://www.trololodemulher.com.br/2015/05/25/banheiro-bonito-dicas/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank">Banheiro e revestimento: 4 ideias de paginação.</a>**
+  **[Banheiro e revestimento: 4 ideias de paginação.](http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/) **
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>

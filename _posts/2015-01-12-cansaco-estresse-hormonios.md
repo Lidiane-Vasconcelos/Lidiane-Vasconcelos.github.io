@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  Feliz é a mulher que não sofre de TPM. Na verdade, vai ser bem difícil encontrar uma que não conheça essa condição, já que, de acordo com a Dra. Paula, a irritabilidade e o chororô repentino fazem parte da vida de mais de 75% das mulheres, e são sintomas comuns do quadro que conhecemos como tensão pré-menstrual. Aliás, os sintomas não são só comportamentais, mas físicos também, já que dores e desconfortos, que acontecem na segunda metade do ciclo menstrual, podem até interferir no trabalho ou na vida familiar. Isso tudo ocorre porque, de acordo com a médica, <em>“alterações hormonais levam à queda na transmissão cerebral de neurotransmissores chamados serotonina e beta endorfina (Sim! Os mesmos liberados pelo exercício e pela ingestão de chocolate, por isso ficamos loucas querendo devorar uma barra inteira de chocolate para aliviar toda a tensão e restaurar nossos níveis de neurotransmissores!)</em>”. O fato é que o diagnóstico só pode ser dado por um médico, que deverá <em>“excluir causas endocrinológicas que podem resultar em quadro semelhante, como doenças da tireoide ou excesso de cortisol</em>”, explica a Dra. Paula.
+  Feliz é a mulher que não sofre de TPM. Na verdade, vai ser bem difícil encontrar uma que não conheça essa condição, já que, de acordo com a Dra. Paula, a irritabilidade e o chororô repentino fazem parte da vida de mais de 75% das mulheres, e são sintomas comuns do quadro que conhecemos como tensão pré-menstrual. Aliás, os sintomas não são só comportamentais, mas físicos também, já que dores e desconfortos, que acontecem na segunda metade do ciclo menstrual, podem até interferir no trabalho ou na vida familiar. Isso tudo ocorre porque, de acordo com a médica, _“alterações hormonais levam à queda na transmissão cerebral de neurotransmissores chamados serotonina e beta endorfina (Sim! Os mesmos liberados pelo exercício e pela ingestão de chocolate, por isso ficamos loucas querendo devorar uma barra inteira de chocolate para aliviar toda a tensão e restaurar nossos níveis de neurotransmissores!)_”. O fato é que o diagnóstico só pode ser dado por um médico, que deverá _“excluir causas endocrinológicas que podem resultar em quadro semelhante, como doenças da tireoide ou excesso de cortisol_”, explica a Dra. Paula.
 </p>
 
 <p style="text-align: center;">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/" target="_blank">**O que a meditação pode fazer por seu bem-estar e saúde?**</a>
+  [**O que a meditação pode fazer por seu bem-estar e saúde?**](http://www.trololodemulher.com.br/2014/11/07/meditacao-bem-estar-saude/) 
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Com o ganho de peso repentino, muitas mulheres se preocupam, claro, e recorrem a dietas restritivas sem acompanhamento médico. Quando voltam a comer normalmente, há um efeito rebote no estímulo da retenção de líquidos, porque ocorre um pico de secreção de insulina, hormônio responsável pela retenção de sódio no organismo. Além dessa estratégia errada de fazer dietas restritivas sem a supervisão de um profissional da área de saúde, há ainda quem faça uso de diuréticos na tentativa de reverter o quadro, mas de acordo com a Dra. Paula, <em>“essa prática pode levar a uma retenção rebote de líquidos por alteração em um sistema hormonal que se chama renina-angiotensina-aldosterona. Sendo assim, quando se para o uso de diuréticos pode ocorrer uma piora do quadro por um tempo, o que leva a crer que a pessoa necessite do uso do diurético para reverter o edema e assim essa prática se perpetua piorando ainda mais todo o processo”</em>, alerta a profissional.
+  Com o ganho de peso repentino, muitas mulheres se preocupam, claro, e recorrem a dietas restritivas sem acompanhamento médico. Quando voltam a comer normalmente, há um efeito rebote no estímulo da retenção de líquidos, porque ocorre um pico de secreção de insulina, hormônio responsável pela retenção de sódio no organismo. Além dessa estratégia errada de fazer dietas restritivas sem a supervisão de um profissional da área de saúde, há ainda quem faça uso de diuréticos na tentativa de reverter o quadro, mas de acordo com a Dra. Paula, _“essa prática pode levar a uma retenção rebote de líquidos por alteração em um sistema hormonal que se chama renina-angiotensina-aldosterona. Sendo assim, quando se para o uso de diuréticos pode ocorrer uma piora do quadro por um tempo, o que leva a crer que a pessoa necessite do uso do diurético para reverter o edema e assim essa prática se perpetua piorando ainda mais todo o processo”_, alerta a profissional.
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.womansday.com/health-fitness/conditions-diseases/sleep-deprivation-effects#slide-1" target="_blank">Woman´s Day</a>
+  Imagem: [Woman´s Day](http://www.womansday.com/health-fitness/conditions-diseases/sleep-deprivation-effects#slide-1) 
 </p>
 
 <p align="justify">
@@ -111,7 +111,7 @@ categories:
 </p>
 
 <p align="justify">
-  Além do mais, as alterações podem vir em função da menopausa, ou seja, quando não menstruamos mais. Sabe aquela história que “se correr o bicho pega, se ficar o bicho come”? Parece ser bem por aí. Mas… não criemos pânico! Há jeito pra tudo. A Dra. Paula nos tranquiliza informando que <em>“quando bem indicada pelo endocrinologista, uma reposição hormonal pode reverter a insônia e melhorar muito a qualidade do sono e a qualidade de vida das mulheres menopausadas “</em>. E a médica vai além: <em>“de modo geral, o tratamento da insônia pode ser feito com antidepressivos, ansiolíticos ou indutores do sono. A chamada higiene do sono também é fundamental. São cuidados com o ambiente e com alguns hábitos que têm relação direta com o sono. Como por exemplo: o local para dormir deve ser escuro e silencioso, não se deve fazer refeições pesadas à noite, nem atividades físicas menos de três horas antes de dormir, embora elas ajudam quando são feitas pela manhã ou à tarde</em>”.
+  Além do mais, as alterações podem vir em função da menopausa, ou seja, quando não menstruamos mais. Sabe aquela história que “se correr o bicho pega, se ficar o bicho come”? Parece ser bem por aí. Mas… não criemos pânico! Há jeito pra tudo. A Dra. Paula nos tranquiliza informando que _“quando bem indicada pelo endocrinologista, uma reposição hormonal pode reverter a insônia e melhorar muito a qualidade do sono e a qualidade de vida das mulheres menopausadas “_. E a médica vai além: _“de modo geral, o tratamento da insônia pode ser feito com antidepressivos, ansiolíticos ou indutores do sono. A chamada higiene do sono também é fundamental. São cuidados com o ambiente e com alguns hábitos que têm relação direta com o sono. Como por exemplo: o local para dormir deve ser escuro e silencioso, não se deve fazer refeições pesadas à noite, nem atividades físicas menos de três horas antes de dormir, embora elas ajudam quando são feitas pela manhã ou à tarde_”.
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/20/o-que-voce-faz-para-dormir-bem/" target="_blank">**O que fazer para dormir bem?**</a>
+  [**O que fazer para dormir bem?**](http://www.trololodemulher.com.br/2014/05/20/o-que-voce-faz-para-dormir-bem/) 
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ categories:
 </p>
 
 <p align="justify">
-  Hora a menstruação não vem, hora em outros meses vem muito antes do previsto, isso quando não atrasa demais! Toda essa confusão no calendário menstrual pode ter a ver com o fato de você estar grávida, portanto é preciso excluir, de cara, essa hipótese. Além do mais, se você não estiver amamentando ou próxima ao período de menopausa, é preciso acender o sinal de alerta. Há algo com sua saúde que precisa ser investigado. Provavelmente há um problema endocrinológico, o que faz seus hormônios bagunçarem o bom funcionamento do seu organismo. Neste caso, há que se investigar e só um profissional poderá ajudá-la. De acordo com nossa endocrinologista e consultora do Trololó de Mulher, essas alterações podem <em>“indicar que algo errado está acontecendo com a sua saúde e precisa ser avaliada com uma consulta médica completa e atenciosa para identificar as reais causas e tratá-las. Dependendo do caso, apenas mudanças de hábitos de vida podem reverter o quadro. São elas: se alimentar melhor (não comer nem pouco demais e nem em grande quantidade), não exagerar nos exercícios físicos, dormir bem e reduzir os períodos estressantes. Porém, há quem precise de medicação especifica para regular o ciclo e isto, somente o seu médico de confiança poderá indicar corretamente</em>”.
+  Hora a menstruação não vem, hora em outros meses vem muito antes do previsto, isso quando não atrasa demais! Toda essa confusão no calendário menstrual pode ter a ver com o fato de você estar grávida, portanto é preciso excluir, de cara, essa hipótese. Além do mais, se você não estiver amamentando ou próxima ao período de menopausa, é preciso acender o sinal de alerta. Há algo com sua saúde que precisa ser investigado. Provavelmente há um problema endocrinológico, o que faz seus hormônios bagunçarem o bom funcionamento do seu organismo. Neste caso, há que se investigar e só um profissional poderá ajudá-la. De acordo com nossa endocrinologista e consultora do Trololó de Mulher, essas alterações podem _“indicar que algo errado está acontecendo com a sua saúde e precisa ser avaliada com uma consulta médica completa e atenciosa para identificar as reais causas e tratá-las. Dependendo do caso, apenas mudanças de hábitos de vida podem reverter o quadro. São elas: se alimentar melhor (não comer nem pouco demais e nem em grande quantidade), não exagerar nos exercícios físicos, dormir bem e reduzir os períodos estressantes. Porém, há quem precise de medicação especifica para regular o ciclo e isto, somente o seu médico de confiança poderá indicar corretamente_”.
 </p>
 
 <p align="center">
@@ -135,11 +135,11 @@ categories:
 </p>
 
 <p align="justify">
-  A **Dra. Paula Pires **pode ser encontrada pessoalmente em seu consultório, na cidade de São Paulo. Seu atendimento se dá mediante agendamento prévio, e você pode saber mais detalhes sobre como fazer isso **visitando o site da médica**. Além do mais, no site você encontra uma série de dicas importantes e que certamente farão diferença na sua qualidade de vida no dia a dia, dentre elas, inclusive, receitas saudáveis para serem incluídas em sua rotina alimentar. <a href="http://www.paulapiresendocrino.com.br/" target="_blank">Visite o site, clicando aqui</a>, e não perca a oportunidade de se manter informada pelo seu bem, e de sua família. Se joga!
+  A **Dra. Paula Pires **pode ser encontrada pessoalmente em seu consultório, na cidade de São Paulo. Seu atendimento se dá mediante agendamento prévio, e você pode saber mais detalhes sobre como fazer isso **visitando o site da médica**. Além do mais, no site você encontra uma série de dicas importantes e que certamente farão diferença na sua qualidade de vida no dia a dia, dentre elas, inclusive, receitas saudáveis para serem incluídas em sua rotina alimentar. [Visite o site, clicando aqui](http://www.paulapiresendocrino.com.br/) , e não perca a oportunidade de se manter informada pelo seu bem, e de sua família. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="center">

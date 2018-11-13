@@ -21,7 +21,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade/" rel="attachment wp-att-9343"><img class="alignnone size-full wp-image-9343" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE.jpg" alt="" width="600" height="450" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/2012/11/19/saude-bem-estar-ansiedade/bem-estar-saude-estresse-ansiedade/" rel="attachment wp-att-9343"><img class="alignnone size-full wp-image-9343" title="BEM ESTAR-SAUDE-ESTRESSE-ANSIEDADE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/BEM-ESTAR-SAUDE-ESTRESSE-ANSIEDADE.jpg" alt="" width="600" height="450" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -67,9 +67,9 @@ categories:
 </p>
 
 <p align="justify">
-  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em **<a href="http://www.nutricionistaingrid.com.br/" target="_blank">seu blog clicando bem aqui</a>**. Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid** pelo **Facebook**, através de sua **<em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em>**. Vai perder?
+  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em **[seu blog clicando bem aqui](http://www.nutricionistaingrid.com.br/) **. Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid** pelo **Facebook**, através de sua **_[fanpage](http://www.facebook.com/nutri.ingrid.prior) _**. Vai perder?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

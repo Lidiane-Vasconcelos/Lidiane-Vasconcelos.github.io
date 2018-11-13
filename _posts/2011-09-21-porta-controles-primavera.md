@@ -20,11 +20,11 @@ Você gosta dos **detalhes florais** na sua **decoração**? A **Carol** gosta, 
 &nbsp;
 
 > <p align="justify">
->   <em>“Oi, Lidi! Confesso que sempre fico meio constrangida de passar minhas impressões, mas, neste caso não há nenhum constrangimento, pois **é mais bonito e bem feito do que parece nas fotos do site**. Pena que o **<a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-controle-remoto/" target="_blank">&#8220;bolinha&#8221;</a>** não tinha, pois devia ser igualmente lindo. **Me surpreendeu positivamente.** Na foto do site não mostra o fundo do porta controle, nem detalhes do acabamento, tudo super bem feito e bem pensado. Beijos, Carol.”</em>
+>   _“Oi, Lidi! Confesso que sempre fico meio constrangida de passar minhas impressões, mas, neste caso não há nenhum constrangimento, pois **é mais bonito e bem feito do que parece nas fotos do site**. Pena que o **[&#8220;bolinha&#8221;](http://www.trololodemulher.com.br/loja/2010/09/09/porta-controle-remoto/) ** não tinha, pois devia ser igualmente lindo. **Me surpreendeu positivamente.** Na foto do site não mostra o fundo do porta controle, nem detalhes do acabamento, tudo super bem feito e bem pensado. Beijos, Carol.”_
 > </p>
 
 <p align="justify">
-  A Carol tocou num ponto importante: ela até gostaria de ter adquirido um outro produto no **<a href="http://www.trololodemulher.com.br/loja/" target="_blank">Mercado de Artes</a>**, mas não foi possível. Por quê? **É que o Mercado de Artes não está mais trabalhando no esquema de encomendas, e só o que está para pronta entregas é que é vendido.**
+  A Carol tocou num ponto importante: ela até gostaria de ter adquirido um outro produto no **[Mercado de Artes](http://www.trololodemulher.com.br/loja/) **, mas não foi possível. Por quê? **É que o Mercado de Artes não está mais trabalhando no esquema de encomendas, e só o que está para pronta entregas é que é vendido.**
 </p>
 
 <p align="justify">
@@ -32,7 +32,7 @@ Você gosta dos **detalhes florais** na sua **decoração**? A **Carol** gosta, 
 </p>
 
 <p align="justify">
-  Isto posto, vem cá que quero te mostrar mais <em>fofurices</em> com florais que podem deixar seu cantinho aí na sua casa todo cheio de charme…
+  Isto posto, vem cá que quero te mostrar mais _fofurices_ com florais que podem deixar seu cantinho aí na sua casa todo cheio de charme…
 </p>
 
 <p align="center">
@@ -44,23 +44,23 @@ Você gosta dos **detalhes florais** na sua **decoração**? A **Carol** gosta, 
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank">Quadro Divino Rosas Médias</a>**
+  **[Quadro Divino Rosas Médias](http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/) **
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Porta-Absorvente-ou-Cha-Cereja-Florida.jpg"><img class="alignnone size-full wp-image-6926" title="Porta Absorvente ou Chá Cereja Florida" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Porta-Absorvente-ou-Cha-Cereja-Florida.jpg" alt="" width="600" height="400" /><br /> </a>**<a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/" target="_blank">Porta Absorvente ou Chá Cereja Florida</a>**
+  [Porta Absorvente ou Chá Cereja Florida](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Porta-Absorvente-ou-Cha-Cereja-Florida.jpg"><img class="alignnone size-full wp-image-6926" title="Porta Absorvente ou Chá Cereja Florida" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Porta-Absorvente-ou-Cha-Cereja-Florida.jpg" alt="" width="600" height="400" /><br /> </a>**<a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/) **
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Mini-Comoda-Gatinha.jpg"><img class="alignnone size-full wp-image-6316" title="Mini Cômoda Gatinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Mini-Comoda-Gatinha.jpg" alt="" width="600" height="400" /><br /> </a>**<a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a>**
+  [Mini Cômoda Gatinha](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Mini-Comoda-Gatinha.jpg"><img class="alignnone size-full wp-image-6316" title="Mini Cômoda Gatinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Mini-Comoda-Gatinha.jpg" alt="" width="600" height="400" /><br /> </a>**<a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/) **
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Redonda-Vintage.jpg"><img class="alignnone size-full wp-image-6252" title="Caixa Redonda Vintage" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Redonda-Vintage.jpg" alt="" width="474" height="411" /><br /> </a>**<a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a>**
+  [Caixa Redonda Vintage](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Redonda-Vintage.jpg"><img class="alignnone size-full wp-image-6252" title="Caixa Redonda Vintage" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Caixa-Redonda-Vintage.jpg" alt="" width="474" height="411" /><br /> </a>**<a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/) **
 </p>
 
 <p align="justify">
-  Quer saber quais são **os produtos do Mercado de Artes que estão disponíveis para venda**? Então **<a href="http://www.trololodemulher.com.br/loja/2011/01/03/artes-encomendas-abril/" target="_blank">clica aqui</a>** e dá uma espiada…
+  Quer saber quais são **os produtos do Mercado de Artes que estão disponíveis para venda**? Então **[clica aqui](http://www.trololodemulher.com.br/loja/2011/01/03/artes-encomendas-abril/) ** e dá uma espiada…
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">

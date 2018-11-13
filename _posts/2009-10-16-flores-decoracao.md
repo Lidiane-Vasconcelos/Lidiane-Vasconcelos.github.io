@@ -45,7 +45,7 @@ Olhe para seus potes, vasos, bules, compoteiras, frascos de vidro e ornamentos c
 
 Tenha um ótimo fim de semana!!!
 
-Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+Imagens: [Martha Stewart](http://www.marthastewart.com/) 
 
 **Mais no Bicha:**
 

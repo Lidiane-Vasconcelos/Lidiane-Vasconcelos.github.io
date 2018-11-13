@@ -15,7 +15,7 @@ O que fazer? Eu, mãe de primeira viagem, fiquei me perguntando. Aposto que há 
 &nbsp;
 
 <p align="justify">
-  Essas perguntas vieram a minha cabeça quando recebi um recadinho da minha amiga **Flávia Valéria** via <em>Facebook</em>. Ela viu uma imagem e logo lembrou de mim e de Artur. Olha só a imagem e repara só se essa bicha fêmea não tava a fim de me colocar medo… <em>rsrsrs…</em>
+  Essas perguntas vieram a minha cabeça quando recebi um recadinho da minha amiga **Flávia Valéria** via _Facebook_. Ela viu uma imagem e logo lembrou de mim e de Artur. Olha só a imagem e repara só se essa bicha fêmea não tava a fim de me colocar medo… _rsrsrs…_
 </p>
 
 <!--more-->
@@ -25,7 +25,7 @@ O que fazer? Eu, mãe de primeira viagem, fiquei me perguntando. Aposto que há 
 </p>
 
 <p align="center">
-  Imagem: **<em><a href="https://www.facebook.com/photo.php?fbid=319196354883082&set=a.195047773964608.49503.195037980632254&type=1&ref=nf" target="_blank">Facebook</a></em>**
+  Imagem: **_[Facebook](https://www.facebook.com/photo.php?fbid=319196354883082&set=a.195047773964608.49503.195037980632254&type=1&ref=nf) _**
 </p>
 
 &nbsp;
@@ -61,13 +61,13 @@ Isso é lá coisa que se faça?!
 &nbsp;
 
 > <p align="justify">
->   Aqui em casa sempre deixamos material de pintura disponível conforme a idade. No início, deixamos giz de cera, os mais grossos, para ele segurar melhor, depois os lápis e hoje, já com 7 anos, tem acesso a todo material de arte!” **Tati | **<a href="http://www.tutitati.blogspot.com.br/" target="_blank">**Tutitati Design Infantil**</a>
+>   Aqui em casa sempre deixamos material de pintura disponível conforme a idade. No início, deixamos giz de cera, os mais grossos, para ele segurar melhor, depois os lápis e hoje, já com 7 anos, tem acesso a todo material de arte!” **Tati | **[**Tutitati Design Infantil**](http://www.tutitati.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Nós &#8220;relaxamos&#8221; porque eu entendi que essa é uma fase que eles passam, daqui a pouco eles crescem e isso vai parar.” **Elza Carrara | **<a href="http://www.casacantinhoecoisinhas.blogspot.com.br/" target="_blank">**Casa, Cantinho e Coisinhas**</a>
+>   Nós &#8220;relaxamos&#8221; porque eu entendi que essa é uma fase que eles passam, daqui a pouco eles crescem e isso vai parar.” **Elza Carrara | **[**Casa, Cantinho e Coisinhas**](http://www.casacantinhoecoisinhas.blogspot.com.br/) 
 > </p>
 
 <p align="center">
@@ -83,13 +83,13 @@ Isso é lá coisa que se faça?!
 &nbsp;
 
 > <p align="justify">
->   Sempre ensinamos que não pode escrever nas paredes, mas somente no papel. Ele sempre obedeceu.” **Thais Godinho | **<a href="http://vidaorganizada.com/" target="_blank">**Vida Organizada**</a>
+>   Sempre ensinamos que não pode escrever nas paredes, mas somente no papel. Ele sempre obedeceu.” **Thais Godinho | **[**Vida Organizada**](http://vidaorganizada.com/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Nosso pitoco nunca saiu riscando as paredes, mas acho que foi porque desde cedo apresentamos a ele um espaço adequado e o fato de desenharmos junto com ele. Ás vezes, a diversão se espalhava pelo chão e acontecia da cor extrapolar os limites do papel, então explicávamos que o chão não fazia parte da brincadeira&#8230; acho que é basicamente isso, sempre ir explicando com carinho, e dar possiblidades&#8230; ” **Tati | **<a href="http://www.tutitati.blogspot.com.br/" target="_blank">**Tutitati Design Infantil**</a>
+>   Nosso pitoco nunca saiu riscando as paredes, mas acho que foi porque desde cedo apresentamos a ele um espaço adequado e o fato de desenharmos junto com ele. Ás vezes, a diversão se espalhava pelo chão e acontecia da cor extrapolar os limites do papel, então explicávamos que o chão não fazia parte da brincadeira&#8230; acho que é basicamente isso, sempre ir explicando com carinho, e dar possiblidades&#8230; ” **Tati | **[**Tutitati Design Infantil**](http://www.tutitati.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -125,19 +125,19 @@ Isso é lá coisa que se faça?!
 &nbsp;
 
 > <p align="justify">
->   Facilita muito sempre ter papéis disponíveis e ficar de olho quando ele estiver desenhando. Chegamos a pintar uma parede da sala de preto para ele desenhar com giz de vez em quando, mas isso nós controlamos bem mais para não ficar feio.” **Thais Godinho | **<a href="http://vidaorganizada.com/" target="_blank">**Vida Organizada**</a>
+>   Facilita muito sempre ter papéis disponíveis e ficar de olho quando ele estiver desenhando. Chegamos a pintar uma parede da sala de preto para ele desenhar com giz de vez em quando, mas isso nós controlamos bem mais para não ficar feio.” **Thais Godinho | **[**Vida Organizada**](http://vidaorganizada.com/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Sempre fiz questão de dar a eles cartolinas e muito papel, pra incentivá-los a deixar as paredes de lado. E deu certo!” **Dani Moreno | **<a href="http://www.danimoreno.com.br/" target="_blank">**Moça de Família**</a>
+>   Sempre fiz questão de dar a eles cartolinas e muito papel, pra incentivá-los a deixar as paredes de lado. E deu certo!” **Dani Moreno | **[**Moça de Família**](http://www.danimoreno.com.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Ter sempre papeis de várias texturas e cores disponível para ele exercitar o lado artístico! acho que outra coisa que ajudou foi que sempre colávamos os desenhos dele na parede, como quadros&#8230; algumas vezes também forramos a parede do corredor com papel Kraft e fizemos vários desenhos mas sempre explicando que era só no papel! Talvez isso tenha contribuído para deixar nossas paredes livres dos ataques criativos.” **Tati | **<a href="http://www.tutitati.blogspot.com.br/" target="_blank">**Tutitati Design Infantil**</a>
+>   Ter sempre papeis de várias texturas e cores disponível para ele exercitar o lado artístico! acho que outra coisa que ajudou foi que sempre colávamos os desenhos dele na parede, como quadros&#8230; algumas vezes também forramos a parede do corredor com papel Kraft e fizemos vários desenhos mas sempre explicando que era só no papel! Talvez isso tenha contribuído para deixar nossas paredes livres dos ataques criativos.” **Tati | **[**Tutitati Design Infantil**](http://www.tutitati.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -155,7 +155,7 @@ Isso é lá coisa que se faça?!
 &nbsp;
 
 > <p align="justify">
->   Um big caderno de desenho, vai fazer sucesso.” **Gláucia | **<a href="http://www.repletodevida.blogspot.com.br/" target="_blank">**Repleto de Vida**</a>
+>   Um big caderno de desenho, vai fazer sucesso.” **Gláucia | **[**Repleto de Vida**](http://www.repletodevida.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -167,7 +167,7 @@ Isso é lá coisa que se faça?!
 &nbsp;
 
 > <p align="justify">
->   Fiz pranchetas personalizadas para cada um deles (gêmeos)” **Caroline Willrich Flesch | **<a href="http://arquitetando-projetoseobjetos.blogspot.com.br/" target="_blank">**Arquitetando – Projetos e Objetos**</a>
+>   Fiz pranchetas personalizadas para cada um deles (gêmeos)” **Caroline Willrich Flesch | **[**Arquitetando – Projetos e Objetos**](http://arquitetando-projetoseobjetos.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -177,7 +177,7 @@ Isso é lá coisa que se faça?!
 </p>
 
 > <p align="justify">
->   Vez ou outra, &#8220;sem querer&#8221;, tinha um rabisco ou outro nas paredes&#8230; mas, aprenderam a não riscar mais, exatamente no momento em que aprenderam a limpar!! 😉 #ficaadica” **Dani Moreno | **<a href="http://www.danimoreno.com.br/" target="_blank">**Moça de Família**</a>
+>   Vez ou outra, &#8220;sem querer&#8221;, tinha um rabisco ou outro nas paredes&#8230; mas, aprenderam a não riscar mais, exatamente no momento em que aprenderam a limpar!! 😉 #ficaadica” **Dani Moreno | **[**Moça de Família**](http://www.danimoreno.com.br/) 
 > </p>
 
 &nbsp;
@@ -191,7 +191,7 @@ Isso é lá coisa que se faça?!
 &nbsp;
 
 > <p align="justify">
->   Claro que criança adora testar possibilidades e existe umas bem simples e deliciosas de fazer. Existe canetinhas próprias para riscar azulejos que saem facinho com água e também lápis aquarela, quando molhada a pontinha pode pintar a pele&#8230; é uma gostosura de brincadeira, pintá lo e depois deixar ele pintar você. Vai além da arte&#8230; é puro carinho!” **Tati | **<a href="http://www.tutitati.blogspot.com.br/" target="_blank">**Tutitati Design Infantil**</a>
+>   Claro que criança adora testar possibilidades e existe umas bem simples e deliciosas de fazer. Existe canetinhas próprias para riscar azulejos que saem facinho com água e também lápis aquarela, quando molhada a pontinha pode pintar a pele&#8230; é uma gostosura de brincadeira, pintá lo e depois deixar ele pintar você. Vai além da arte&#8230; é puro carinho!” **Tati | **[**Tutitati Design Infantil**](http://www.tutitati.blogspot.com.br/) 
 > </p>
 
 <p align="center">
@@ -207,12 +207,12 @@ Isso é lá coisa que se faça?!
 &nbsp;
 
 > <p align="justify">
->   A verdade é que coloco terror mesmo, não risca ou vai ficar de castigo! Mas não tem muito jeito, não. A Victória sempre risca e quando pergunto o porquê, ela diz: ACABOU O PAPEL! KKKKKKKKK” **Daiane Cascini | **<a href="http://casadadani.blogspot.com.br/" target="_blank">**Casa da Dani**</a>
+>   A verdade é que coloco terror mesmo, não risca ou vai ficar de castigo! Mas não tem muito jeito, não. A Victória sempre risca e quando pergunto o porquê, ela diz: ACABOU O PAPEL! KKKKKKKKK” **Daiane Cascini | **[**Casa da Dani**](http://casadadani.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
-Imagens: **_<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_**
+Imagens: **_[stock.xchng](http://www.sxc.hu/) _**
 
 &nbsp;
 
@@ -226,7 +226,7 @@ Imagens: **_<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_**
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+    [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
   </p>
   
   <p>
@@ -245,13 +245,13 @@ Imagens: **_<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_**
     <tr>
       <td valign="top" width="300">
         <p align="center">
-          <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+          [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
         </p>
       </td>
       
       <td valign="top" width="300">
         <p align="center">
-          <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+          [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
         </p>
       </td>
     </tr>

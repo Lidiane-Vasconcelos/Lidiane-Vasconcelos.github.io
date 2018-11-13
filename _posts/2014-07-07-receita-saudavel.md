@@ -15,7 +15,7 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p style="text-align: justify;">
-  Tudo isso será possível graças a parceria com uma blogueira, linda de viver, que topou dividir conosco tudo o que ela aprendeu ao longo de 7 anos sobre o que é bonito aos olhos, delicioso de comer e ótimo para nosso corpo. Eu estou falando da Carol Vieira, do blog <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">Mundo da Carol</a>. É ela mesma quem nos conta, de maneira inspiradora, como começou sua escolha por uma alimentação saudável. Olha só:
+  Tudo isso será possível graças a parceria com uma blogueira, linda de viver, que topou dividir conosco tudo o que ela aprendeu ao longo de 7 anos sobre o que é bonito aos olhos, delicioso de comer e ótimo para nosso corpo. Eu estou falando da Carol Vieira, do blog [Mundo da Carol](http://mundocarolvieira.blogspot.com.br/) . É ela mesma quem nos conta, de maneira inspiradora, como começou sua escolha por uma alimentação saudável. Olha só:
 </p>
 
 <!--more-->
@@ -61,19 +61,19 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 </p>
 
 <p align="center">
-  <em>Carol, toda bonitona, disposta a dividir conosco tudo que ela aprendeu sobre alimentação saudável. Eu não sou boba de perder!</em>
+  _Carol, toda bonitona, disposta a dividir conosco tudo que ela aprendeu sobre alimentação saudável. Eu não sou boba de perder!_
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Não sei você, mas eu já estou ansiosa para conhecer todas as receitas que a Carol vai dividir conosco. Aguarde as cenas dos próximos capítulos por aqui, e reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o blog da Carol e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Não sei você, mas eu já estou ansiosa para conhecer todas as receitas que a Carol vai dividir conosco. Aguarde as cenas dos próximos capítulos por aqui, e reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o blog da Carol e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -90,13 +90,13 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -105,5 +105,5 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

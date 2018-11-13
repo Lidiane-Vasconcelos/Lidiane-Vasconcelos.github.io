@@ -19,27 +19,27 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://liagriffith.com/" target="_blank">Lia Griffith</a>
+  Via [Lia Griffith](https://liagriffith.com/) 
 </p>
 
 <p align="justify">
-  Com os gravetinhos em mãos, e todos cortados em tamanhos similares, cole as extremidades usando cola quente, de modo que dê vida ao formato de estrela. Para finalizar, amarre as pontas com cordão para dar essa <em>bossa</em> rústica. Para pendurar, você pode usar o mesmo cordão que usou nas pontas da estrela. Se preferir, apenas acomode o enfeite nos galhos da árvore. Não é um projetinho simples, simpático e daqueles bons de envolver as crianças? Inspire-se!
+  Com os gravetinhos em mãos, e todos cortados em tamanhos similares, cole as extremidades usando cola quente, de modo que dê vida ao formato de estrela. Para finalizar, amarre as pontas com cordão para dar essa _bossa_ rústica. Para pendurar, você pode usar o mesmo cordão que usou nas pontas da estrela. Se preferir, apenas acomode o enfeite nos galhos da árvore. Não é um projetinho simples, simpático e daqueles bons de envolver as crianças? Inspire-se!
 </p>
 
 <p align="justify">
-  E se você quer continuar nessa pegada rústica na sua decoração de Natal, sugiro dar uma olhada na <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank">reutilização de janela velha no <em>décor</em> natalino</a>. E não perca:
+  E se você quer continuar nessa pegada rústica na sua decoração de Natal, sugiro dar uma olhada na [reutilização de janela velha no _décor_ natalino](http://www.decoracaodacasa.com/decoracao-natal-2014/) . E não perca:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank">Decoração natalina: inspiração das casas reais</a>;
+  1 – [Decoração natalina: inspiração das casas reais](http://www.decoracaodacasa.com/decoracao-natalina/) ;
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.decoracaodacasa.com/enfeites-natalinos/" target="_blank">3 cordões de enfeites natalinos: faça você mesma</a>.
+  2 – [3 cordões de enfeites natalinos: faça você mesma](http://www.decoracaodacasa.com/enfeites-natalinos/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

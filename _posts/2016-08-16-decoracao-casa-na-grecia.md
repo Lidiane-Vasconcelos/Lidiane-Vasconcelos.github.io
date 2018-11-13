@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Simplicidade e minimalismo não têm a ver com carência financeira, mas com um estilo de morar que preza por possuir o necessário para viver, nada mais que isso. Por que ter mais?</em>
+  _Simplicidade e minimalismo não têm a ver com carência financeira, mas com um estilo de morar que preza por possuir o necessário para viver, nada mais que isso. Por que ter mais?_
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  **<a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank">Wabi Sabi na decoração e o resgate do simples.</a>**
+  **[Wabi Sabi na decoração e o resgate do simples.](http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/) **
 </p>
 
 <p style="text-align: justify;" align="center">
-  **<a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank">Decoração escandinava: como aplicar esse estilo?</a>**
+  **[Decoração escandinava: como aplicar esse estilo?](http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/) **
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>A casa da gente fica com nossa identidade se, quem somos, é traduzido nos detalhes decorativos que escolhemos.</em>
+  _A casa da gente fica com nossa identidade se, quem somos, é traduzido nos detalhes decorativos que escolhemos._
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>A casa da gente fica mais aconchegante se a gente espalha toques de ternura.</em>
+  _A casa da gente fica mais aconchegante se a gente espalha toques de ternura._
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Casa perfeitamente arrumada só em foto de revista. Casa viva tem um objeto largado aqui e acolá, sinais de que a vida pulsa nos espaços.</em>
+  _Casa perfeitamente arrumada só em foto de revista. Casa viva tem um objeto largado aqui e acolá, sinais de que a vida pulsa nos espaços._
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Decoração clarinha e neutra acalma, mas com toques de cor fica bem melhor, porque aí está a festa para os olhos.</em>
+  _Decoração clarinha e neutra acalma, mas com toques de cor fica bem melhor, porque aí está a festa para os olhos._
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  **<a href="http://www.trololodemulher.com.br/2016/05/04/cores-pasteis-decoracao/" target="_blank">Cores pasteis na decoração: 3 maneiras simples de usá-las.</a>**
+  **[Cores pasteis na decoração: 3 maneiras simples de usá-las.](http://www.trololodemulher.com.br/2016/05/04/cores-pasteis-decoracao/) **
 </p>
 
 <p style="text-align: justify;" align="center">
-  **<a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank">Amarelo na decoração: 8 imagens com detalhes solares.</a>**
+  **[Amarelo na decoração: 8 imagens com detalhes solares.](http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/) **
 </p>
 
 <p align="center">
@@ -87,13 +87,13 @@ categories:
 </p>
 
 <p align="center">
-  <em>Janelas abertas! Deixemos a luz do sol, e do céu, entrar. Sempre!</em>
+  _Janelas abertas! Deixemos a luz do sol, e do céu, entrar. Sempre!_
 </p>
 
 <p align="justify">
-  O sentimento que brota das fotos é percebido de maneira muito particular por cada um. É claro que você deve ter tido suas impressões bem pessoais, não é? Se você quer continuar se deliciando com fotos tão lindas, o post completo e recheado de mais imagens <a href="http://carlacoulson.com/a-greek-island-dream-house/" target="_blank">está bem aqui, no blog da fotógrafa, Carla Loves Photografy</a>. Suspire e inspire-se!
+  O sentimento que brota das fotos é percebido de maneira muito particular por cada um. É claro que você deve ter tido suas impressões bem pessoais, não é? Se você quer continuar se deliciando com fotos tão lindas, o post completo e recheado de mais imagens [está bem aqui, no blog da fotógrafa, Carla Loves Photografy](http://carlacoulson.com/a-greek-island-dream-house/) . Suspire e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

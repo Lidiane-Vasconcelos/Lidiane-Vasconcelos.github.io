@@ -15,7 +15,7 @@ categories:
 
 Pode ser assim para alguns, se a gente não partir logo para a prática, digo, atuar de modo a promover essa sensação, essa situação. E se a gente pensar bem, a tal sonhada qualidade de vida está refletida em pequenas atitudes do dia a dia, cujos efeitos somados é que proporcionam tudo o que a gente precisa para ter uma vida melhor. Quer ver só?
 
-Eu estava lendo uma <a href="http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=0" target="_blank">matéria interessantíssima</a> publicada no portal <a href="http://mdemulher.abril.com.br/" target="_blank">M de Mulher</a> exatamente sobre isso. A matéria agrupa 19 dicas de atitudes super simples, que qualquer uma de nós pode colocar em prática e reverter os resultados na promoção do bem estar. Pessoalmente, quando eu vejo listas como essa, eu destaco algumas para colocar em prática já, sem qualquer demora, e depois eu avalio as outras de acordo com meu estilo de vida e necessidades, a fim de elegê-las ou não como as próximas a serem executadas. Sugiro o mesmo para você _viu_, bonita?
+Eu estava lendo uma [matéria interessantíssima](http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=0)  publicada no portal [M de Mulher](http://mdemulher.abril.com.br/)  exatamente sobre isso. A matéria agrupa 19 dicas de atitudes super simples, que qualquer uma de nós pode colocar em prática e reverter os resultados na promoção do bem estar. Pessoalmente, quando eu vejo listas como essa, eu destaco algumas para colocar em prática já, sem qualquer demora, e depois eu avalio as outras de acordo com meu estilo de vida e necessidades, a fim de elegê-las ou não como as próximas a serem executadas. Sugiro o mesmo para você _viu_, bonita?
 
 <table align="center">
   <tr>
@@ -29,19 +29,19 @@ Eu estava lendo uma <a href="http://mdemulher.abril.com.br/bem-estar/reportagem/
 
 Ah! O que eu elegi para ontem? _Hummm_… vejamos:
 
-1 – **_<a href="http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=3" target="_blank">Desperte sua Deusa interior…</a>_**
+1 – **_[Desperte sua Deusa interior…](http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=3) _**
 
 A proposta é que a gente se dê um tempo num quarto escuro, com velas acesas e escutando alguma música. Eu até já sei que música serve para mim num momento desses. O que a gente deve fazer é se deixar levar pela situação, relaxar e mentalizar um lugar exótico, como uma praia a noite, por exemplo. Sabe que eu nunca fiz isso? Eu tomo banho á luz de velas e, ás vezes, ponho uma música para embalar o meu banho. Também já fiquei num quarto a meia luz ouvindo música, mas eu me concentrava na música e não me atentava a necessidade de transportar meus pensamentos para um outro lugar. Estou ansiosa para sentir o resultado dessa experiência, e quem mais vai fazer isso sou eu. _Rá_!
 
-2 – **_<a href="http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=8" target="_blank">Anote seu ciclo menstrual…</a>_**
+2 – **_[Anote seu ciclo menstrual…](http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=8) _**
 
 Saber que o ciclo menstrual precisa estar certinho e qualquer alteração revela desequilíbrio, além da necessidade de acompanhamento, eu já sabia. Mas quem disse que eu estava concentrando essas informações em algum lugar para visualizar isso bem? Que feio!!! Pois bem, eu marcava na agenda quando o meu fluxo vinha, mas o melhor mesmo é concentrar num único lugar esses dados, como numa folha de caderno, por exemplo. Eu já tratei de organizar isto. Felizmente, está tudo equilibrado. Corre e faz isso também, mulher!
 
-3 – **_<a href="http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=9" target="_blank">Evite a dor com um top de ginástica…</a>_**
+3 – **_[Evite a dor com um top de ginástica…](http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=9) _**
 
 É impressionante como coisas simples, muitas vezes, parecem a descoberta da roda para mim. _Aff_!! Acredita que nunca me ocorreu trocar o _soutien_ por um top de ginástica naqueles dias em que os seios estão doloridos por causa da TPM e da própria menstruação? Acredite! Mas agora eu sou uma nova mulher de posse dessa dica. Ah, se sou! Dores? Até terei… mas amenizá-las? Isto o farei!
 
-4 – **_<a href="http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=11" target="_blank">Não fure sua dieta…</a>_**
+4 – **_[Não fure sua dieta…](http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=11) _**
 
 Imagina a situação: você está num churrasco ou numa festa, sabe o seu limite para parar de comer, ou sabe exatamente o que deve ou não comer, e tem sempre alguém que insiste para que você coma o que você não quer ou o quanto você não deseja. Isso é familiar para você? Sabe o que é mortal numa hora dessas? É você responder: “_não, obrigada, estou de dieta_”, porque é bem provável que não te deixem sossegada. Nessas horas, bonita, responda assim: “_daqui a pouco_”. Gostou? Eu achei essa dica _ó-te-ma_, e acredito que dessa forma a _pegação_ de pé vai diminuir bastante. Vamos tentar?
 
@@ -55,9 +55,9 @@ Imagina a situação: você está num churrasco ou numa festa, sabe o seu limite
 
  
 
-Menina, gostou das dicas? Essas foram as que eu escolhi para colocar em prática o mais rápido possível e tornar a minha vida um pouco melhor, mas tem muito mais porque de 19 ainda restaram mais 15 para você dar uma olhada, avaliar e fazer sua lista pessoal. Está tudo <a href="http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=0" target="_blank">aqui</a>, e espero que você se anime a mudar detalhes no seu dia a dia a fim de promover seu bem estar porque, sim, nós merecemos!!!!
+Menina, gostou das dicas? Essas foram as que eu escolhi para colocar em prática o mais rápido possível e tornar a minha vida um pouco melhor, mas tem muito mais porque de 19 ainda restaram mais 15 para você dar uma olhada, avaliar e fazer sua lista pessoal. Está tudo [aqui](http://mdemulher.abril.com.br/bem-estar/reportagem/viver-bem/qualidade-vida-19-dicas-voce-ser-mais-feliz-saudavel-492522.shtml?slide_count=0) , e espero que você se anime a mudar detalhes no seu dia a dia a fim de promover seu bem estar porque, sim, nós merecemos!!!!
 
-Imagens: <a href="http://www.sxc.hu/" target="_blank">stock. xchng</a>
+Imagens: [stock. xchng](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea…**
 

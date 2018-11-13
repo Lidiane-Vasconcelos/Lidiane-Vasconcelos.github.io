@@ -11,7 +11,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  A empresa da Juliana Amorim é pura inspiração. No ramo da moda infantil desde a sua segunda gravidez, seus produtos têm uma carinha bastante diferenciada, caracterizados por cortes e estampas que, definitivamente, fogem da mesmice. O sucesso tem explicação e não gera surpresa, já que Ju ama o que faz. Parece <em>clichê</em>? Saiba que isso faz, sim, muita diferença. Isso acontece porque tem muito dela mesma nesse negócio, a começar pelo nome: **Boduchinhos**. Juliana é um exemplo de que ser bem sucedida no **empreendedorismo feminino** tem muito a ver com realizar um trabalho com propósito e significado, e que começar dessa forma é dar um passo com o pé direito rumo a realização de um sonho: ganhar dinheiro fazendo o que ama. Quer entender melhor isso tudo? Confira o que Juliana tem a dizer.
+  A empresa da Juliana Amorim é pura inspiração. No ramo da moda infantil desde a sua segunda gravidez, seus produtos têm uma carinha bastante diferenciada, caracterizados por cortes e estampas que, definitivamente, fogem da mesmice. O sucesso tem explicação e não gera surpresa, já que Ju ama o que faz. Parece _clichê_? Saiba que isso faz, sim, muita diferença. Isso acontece porque tem muito dela mesma nesse negócio, a começar pelo nome: **Boduchinhos**. Juliana é um exemplo de que ser bem sucedida no **empreendedorismo feminino** tem muito a ver com realizar um trabalho com propósito e significado, e que começar dessa forma é dar um passo com o pé direito rumo a realização de um sonho: ganhar dinheiro fazendo o que ama. Quer entender melhor isso tudo? Confira o que Juliana tem a dizer.
 </p>
 
 &nbsp;
@@ -33,7 +33,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  “<em>Sempre tive o sonho de ter o meu próprio negócio, e amadureci a ideia de criar minha própria marca. A **<a href="http://www.boduchinhos.com.br/" target="_blank">Boduchinhos</a>** foi concebida durante minha segunda gravidez. Comecei com a escolha do nome, que veio como um &#8220;click&#8221;: por que não usar o apelido do meu primeiro filho, Boducho? Resolvi arriscar no mercado da moda, dando vida às minhas ideias, usando toda a criatividade e minha a experiência como designer gráfica. Observava que o mercado não oferecia produtos que eu gostaria de ter para meus filhos, foi um processo muito natural, e vejo que tudo fez parte do conceito da marca. Faço com muita dedicação, tento me organizar para dar conta de todo o trabalho, no qual hoje ainda faço sozinha, e não deixo que os obstáculos e problemas me deixem abater. O amor envolvido no meu trabalho é muito grande, e muito maior pelos Boduchos que me inspiraram</em>.”
+  “_Sempre tive o sonho de ter o meu próprio negócio, e amadureci a ideia de criar minha própria marca. A **[Boduchinhos](http://www.boduchinhos.com.br/) ** foi concebida durante minha segunda gravidez. Comecei com a escolha do nome, que veio como um &#8220;click&#8221;: por que não usar o apelido do meu primeiro filho, Boducho? Resolvi arriscar no mercado da moda, dando vida às minhas ideias, usando toda a criatividade e minha a experiência como designer gráfica. Observava que o mercado não oferecia produtos que eu gostaria de ter para meus filhos, foi um processo muito natural, e vejo que tudo fez parte do conceito da marca. Faço com muita dedicação, tento me organizar para dar conta de todo o trabalho, no qual hoje ainda faço sozinha, e não deixo que os obstáculos e problemas me deixem abater. O amor envolvido no meu trabalho é muito grande, e muito maior pelos Boduchos que me inspiraram_.”
 </p>
 
 <p align="justify">
@@ -41,11 +41,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">**O que faz uma mãe decidir pelo trabalho autônomo?**</a>
+  [**O que faz uma mãe decidir pelo trabalho autônomo?**](http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/14/trabalho-em-casa/" target="_blank">**Trabalho em casa e rotina doméstica: como conciliá-los?**</a>
+  [**Trabalho em casa e rotina doméstica: como conciliá-los?**](http://www.trololodemulher.com.br/2016/10/14/trabalho-em-casa/) 
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Acredito que a dedicação e a cobrança com o que posso oferecer, vem de uma forma prazerosa. O prazer de realizar minhas ideias quando uma roupa fica pronta, e melhor ainda, quando as clientes falam comigo que não só seus filhos, como elas adoraram o estilo dos produtos que ofereço, não tem preço</em>.”
+  “_Acredito que a dedicação e a cobrança com o que posso oferecer, vem de uma forma prazerosa. O prazer de realizar minhas ideias quando uma roupa fica pronta, e melhor ainda, quando as clientes falam comigo que não só seus filhos, como elas adoraram o estilo dos produtos que ofereço, não tem preço_.”
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank">**Empreendedorismo feminino: o que é mais importante?**</a>
+  [**Empreendedorismo feminino: o que é mais importante?**](http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/) 
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Deixar de oferecer novidades com um diferencial, porque os clientes já buscam por isso. Então sempre faço uma pesquisa de mercado, e escuto o que meus clientes pedem, para ver o que posso desenvolver de diferente, e junto com minhas ideias. É um processo criativo e de observação que não para, a inspiração vem de qualquer lugar e estou sempre atenta a isso</em>.”
+  “_Deixar de oferecer novidades com um diferencial, porque os clientes já buscam por isso. Então sempre faço uma pesquisa de mercado, e escuto o que meus clientes pedem, para ver o que posso desenvolver de diferente, e junto com minhas ideias. É um processo criativo e de observação que não para, a inspiração vem de qualquer lugar e estou sempre atenta a isso_.”
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Para mim, todas as parcerias foram fundamentais pro crescimento da marca. Acho que a troca de experiências só tem a somar, e ter um parceiro que acredita no seu negócio, que é um empreendedor como eu, é uma oportunidade de aproveitar aspectos únicos. Fazer mais com menos, com as pessoas certas, e que compartilham dos nossos princípios são o diferencial de parcerias de sucesso</em>.”
+  “_Para mim, todas as parcerias foram fundamentais pro crescimento da marca. Acho que a troca de experiências só tem a somar, e ter um parceiro que acredita no seu negócio, que é um empreendedor como eu, é uma oportunidade de aproveitar aspectos únicos. Fazer mais com menos, com as pessoas certas, e que compartilham dos nossos princípios são o diferencial de parcerias de sucesso_.”
 </p>
 
 <p align="center">
@@ -97,11 +97,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Tem que pensar no conforto e funcionalidade da roupa. Além da qualidade, porque a brincadeira nunca para, tem que ser lúdica, divertida, tem que oferecer um quê a mais. Sempre pensar na praticidade para vestir, para lavar e usar. Num mercado com muita concorrência, como da moda infantil, é importante você ser fiel ao seu estilo sem deixar de oferecer o fundamental</em>.”
+  “_Tem que pensar no conforto e funcionalidade da roupa. Além da qualidade, porque a brincadeira nunca para, tem que ser lúdica, divertida, tem que oferecer um quê a mais. Sempre pensar na praticidade para vestir, para lavar e usar. Num mercado com muita concorrência, como da moda infantil, é importante você ser fiel ao seu estilo sem deixar de oferecer o fundamental_.”
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

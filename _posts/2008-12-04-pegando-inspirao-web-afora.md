@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: left;">
-  Interessante como algo tão simples, como essa taça cheinha de bolinhas prateadas de tamanhos diversos, pode sugerir muitas coisas para a gente. Algo tão simples te suscita alguma coisa para o Natal da sua casa?! <em>Hein</em>?!
+  Interessante como algo tão simples, como essa taça cheinha de bolinhas prateadas de tamanhos diversos, pode sugerir muitas coisas para a gente. Algo tão simples te suscita alguma coisa para o Natal da sua casa?! _Hein_?!
 </p>
 
 <p style="text-align: left;">
@@ -23,15 +23,15 @@ categories:
 </p>
 
 <p style="text-align: left;">
-  **<em><a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/" target="_self">Decoração de Natal da bicha fêmea mor: eu!</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/" target="_self">Decoração de Natal da bicha fêmea mor: eu!</a>_**
 </p>
 
 <p style="text-align: left;">
-  **<em><a href="http://www.trololodemulher.com.br/2009/12/10/decoracao-da-mesa-de-natal/" target="_self">Dica para a decoração da mesa da sala de jantar no Natal.</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2009/12/10/decoracao-da-mesa-de-natal/" target="_self">Dica para a decoração da mesa da sala de jantar no Natal.</a>_**
 </p>
 
 <p style="text-align: left;">
-  **<em><a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_self">Dicas para a decoração das salas no Natal.</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_self">Dicas para a decoração das salas no Natal.</a>_**
 </p>
 
 <p style="text-align: center;">

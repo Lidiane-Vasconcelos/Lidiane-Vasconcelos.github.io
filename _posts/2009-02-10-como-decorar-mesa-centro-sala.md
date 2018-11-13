@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: center;">
-  Já que a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Rose</a> me pediu para ajudá-la a encontrar referências para **<em>decorar a mesa de centro de sala</em>** dela, fui a procura das inspirações, o que me ajudou bastante também. Eu já comentei que não tenho mesa de centro de sala? Pois, não tenho. Mas quando tiver, já sei como decorar a dita cuja&#8230;<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00168.gif"><img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0016-thumb8.gif" alt="clip_image001[6]" width="18" height="18" /></a>
+  Já que a [Rose](http://receitinhasefrescurinhas.blogspot.com/)  me pediu para ajudá-la a encontrar referências para **_decorar a mesa de centro de sala_** dela, fui a procura das inspirações, o que me ajudou bastante também. Eu já comentei que não tenho mesa de centro de sala? Pois, não tenho. Mas quando tiver, já sei como decorar a dita cuja&#8230;<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00168.gif"><img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0016-thumb8.gif" alt="clip_image001[6]" width="18" height="18" /></a>
 </p>
 
 Vamos ás imagens?
@@ -49,7 +49,7 @@ Bom, eu curto bastante mudar os objetos de lugar, tudo depende do meu humor e di
 
 Rose, querida! Espero que tenha gostado das imagens que separei para nossa inspiração, especialmente a sua.
 
-Imagens:  <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
+Imagens:  [HGTV.com](http://www.hgtv.com/) 
 
 Está inspirada para decorar sua sala de estar? Quer mais dicas, sugestões e imagens?
 

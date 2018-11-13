@@ -28,7 +28,7 @@ Por mais que o tempo passe e as coisas mudem, mulher continua sendo mulher e, co
 </p>
 
 <p style="text-align: justify;">
-  Então não deu mais para adiar. A pia repleta de louças X eu. Olhei ‘<em>praquilo</em> com um desânimo de dar nos nervos, mas disse a mim mesma: “Vou encarar!”. Comecei. Separa talheres, copos, canecas, pratos, fôrmas, panelas. A coluna já nem doía mais, urrava. Dei uma espreguiçada, estalei os dedos, arregacei as mangas e lá fui eu para a esponjinha e o detergente.
+  Então não deu mais para adiar. A pia repleta de louças X eu. Olhei ‘_praquilo_ com um desânimo de dar nos nervos, mas disse a mim mesma: “Vou encarar!”. Comecei. Separa talheres, copos, canecas, pratos, fôrmas, panelas. A coluna já nem doía mais, urrava. Dei uma espreguiçada, estalei os dedos, arregacei as mangas e lá fui eu para a esponjinha e o detergente.
 </p>
 
 <p style="text-align: justify;">
@@ -55,24 +55,24 @@ Por mais que o tempo passe e as coisas mudem, mulher continua sendo mulher e, co
   E é nesse ritmo que procuro dar significado a tudo o que eu faço. Caso contrário teria jogado toda aquela louça fora e só compraria pratos, talheres e copos descartáveis. Totalmente antiecológico.
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por **<em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/mila-viegas/" target="_self">Mila Viegas</a></em>**
+      Por **_<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/mila-viegas/" target="_self">Mila Viegas</a>_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      **<em><a href="http://milasville.blogspot.com/" target="_blank">Milla’s Ville – Open House!</a></em>**
+      **_[Milla’s Ville – Open House!](http://milasville.blogspot.com/) _**
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  Faça como a Mila e seja uma <a href="http://www.trololodemulher.com.br/colabore/">**<em>bicha fêmea colaboradora</em>**</a>!
+  Faça como a Mila e seja uma <a href="http://www.trololodemulher.com.br/colabore/">**_bicha fêmea colaboradora_**</a>!
 </p>
 
 ** **
@@ -90,17 +90,17 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 **_[Bichas fêmeas em debate: enteado a vista no casamento. E agora?](http://www.trololodemulher.com.br/2010/05/12/enteado-casamento/)_**
 
 <p style="text-align: center;">
-  Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>**<em> </em>**>**<em> </em>**<a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**<em>Comportamento</em>**</a> > Tarefas do lar
+  Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>**_ _**>**_ _**<a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a> > Tarefas do lar
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">**<em>Receba gratuitamente em seu e-mail</em>**</a>!
+  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">**_Receba gratuitamente em seu e-mail_**</a>!
 </p>
 
 <p style="text-align: center;">
-  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">**<em>@bichafemea</em>**</a>.
+  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">**_@bichafemea_**</a>.
 </p>
 
 <p style="text-align: center;">
-  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>!
+  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>!
 </p>

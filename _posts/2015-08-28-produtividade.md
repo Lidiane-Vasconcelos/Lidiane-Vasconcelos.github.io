@@ -13,7 +13,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Se você for como eu, tem uma lista enorme de coisas para fazer durante o dia. Eu, que trabalho por conta própria e de casa, tenho atividades diferentes e que caminham lado a lado no dia a dia: cuidar dos blogs **Trololó de Mulher** e <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>, da casa, cozinhar, cuidar de Artur – que ainda não vai para escola, e por aí vai. Cada área de responsabilidade dessa exige de mim atenção para outras listas de tarefas, que vão crescendo, se misturando e, facilmente, poderiam me levar ao estresse. É fácil se atrapalhar com tantas atribuições, e eu sei muito bem que você sabe do que estou falando, porque deve ter uma rotina de afazeres que também toma todo o seu tempo, certo? Cansada de viver no limite, tendo o meu tempo completamente ocupado, o que me levava a viver na eterna e comum “correria”, resolvi virar o jogo. Passei a me informar sobre produtividade, e experimentar maneiras de usar o meu tempo de maneira mais inteligente. Eu queria fazer mais, em menos tempo. E eu consegui! Esse post é para conversar contigo sobre isso, compartilhar como cheguei lá e, já te adianto: tudo passa por simplificar a vida. Simples assim.
+  Se você for como eu, tem uma lista enorme de coisas para fazer durante o dia. Eu, que trabalho por conta própria e de casa, tenho atividades diferentes e que caminham lado a lado no dia a dia: cuidar dos blogs **Trololó de Mulher** e [Decoração da Casa](http://www.decoracaodacasa.com/) , da casa, cozinhar, cuidar de Artur – que ainda não vai para escola, e por aí vai. Cada área de responsabilidade dessa exige de mim atenção para outras listas de tarefas, que vão crescendo, se misturando e, facilmente, poderiam me levar ao estresse. É fácil se atrapalhar com tantas atribuições, e eu sei muito bem que você sabe do que estou falando, porque deve ter uma rotina de afazeres que também toma todo o seu tempo, certo? Cansada de viver no limite, tendo o meu tempo completamente ocupado, o que me levava a viver na eterna e comum “correria”, resolvi virar o jogo. Passei a me informar sobre produtividade, e experimentar maneiras de usar o meu tempo de maneira mais inteligente. Eu queria fazer mais, em menos tempo. E eu consegui! Esse post é para conversar contigo sobre isso, compartilhar como cheguei lá e, já te adianto: tudo passa por simplificar a vida. Simples assim.
 </p>
 
 <p align="justify">
@@ -21,7 +21,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">**Produtividade e gestão do tempo: chega de correria!**</a>
+  [**Produtividade e gestão do tempo: chega de correria!**](http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/) 
 </p>
 
 <p align="justify">
@@ -33,7 +33,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/" target="_blank">**Como desacelerar a vida e viver sem estresse?**</a>
+  [**Como desacelerar a vida e viver sem estresse?**](http://www.trololodemulher.com.br/2015/08/21/viver-sem-estresse/) 
 </p>
 
 <p align="justify">
@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">**Vida simples: menos é mais e a gente vive melhor…**</a>
+  [**Vida simples: menos é mais e a gente vive melhor…**](http://www.trololodemulher.com.br/2015/07/03/vida-simples/) 
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.flickr.com/photos/86530412@N02/" target="_blank">StockMonkeys.com</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Via [StockMonkeys.com](http://www.flickr.com/photos/86530412@N02/)  / [Foter](http://foter.com/)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) 
 </p>
 
 <p align="justify">
@@ -73,7 +73,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Simplifique o tanto de informação que você absorve**. Redes sociais consomem demais o nosso tempo. Por isso tenho estado muito atenta ao tempo que passo no Facebook, por exemplo. Procuro fazer o essencial, e já aceitei muito bem que não preciso saber de tudo sobre a vida das pessoas, o tempo todo. Querer ficar por dentro de “todas as novidades” por lá é uma <em>superultramega</em> armadilha para a produtividade. Quando a gente se dá conta… o tempo foi-se! Criei uma pasta com os conteúdos essenciais para mim, e me atenho a isso. Tudo o mais está fora da minha <em>timeline, </em>que é para eu não me distrair<em>. </em>A leitura e processamento dos meus <em>e-mails</em> faço somente uma vez por dia. Há mais de 2 anos não assisto a nenhuma novela, e pouco vejo TV. Simplifique o que você absorve de informação, isso acalma a mente e abre espaço para outras coisas mais importantes em sua vida.
+  **Simplifique o tanto de informação que você absorve**. Redes sociais consomem demais o nosso tempo. Por isso tenho estado muito atenta ao tempo que passo no Facebook, por exemplo. Procuro fazer o essencial, e já aceitei muito bem que não preciso saber de tudo sobre a vida das pessoas, o tempo todo. Querer ficar por dentro de “todas as novidades” por lá é uma _superultramega_ armadilha para a produtividade. Quando a gente se dá conta… o tempo foi-se! Criei uma pasta com os conteúdos essenciais para mim, e me atenho a isso. Tudo o mais está fora da minha _timeline, _que é para eu não me distrair_. _A leitura e processamento dos meus _e-mails_ faço somente uma vez por dia. Há mais de 2 anos não assisto a nenhuma novela, e pouco vejo TV. Simplifique o que você absorve de informação, isso acalma a mente e abre espaço para outras coisas mais importantes em sua vida.
 </p>
 
 <p align="justify">
@@ -81,15 +81,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">**Redes sociais e produtividade no dia a dia: qual o impacto?**</a>
+  [**Redes sociais e produtividade no dia a dia: qual o impacto?**](http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/) 
 </p>
 
 <p align="justify">
-  **Foco, foco, foco**. Sabe aquelas 3 atividades cruciais na minha lista de atividades? Pois é no que me debruço primeiro quando começo o meu dia. Dentre elas, há a atividade nº 1, aquela que se deixar de ser feita todos os dias o meu trabalho fica estagnado. Pois é nela que trabalho todas as manhãs, cedinho. Se esta atividade chave está feita, ganho o dia. A sensação de dever cumprido é gostosa e estimulante. Faço as outras duas de maneira muito tranquila, uma de cada vez, e sobra tempo para as outras menores: <em>e-mails</em>, leituras <em>online</em>, redes sociais. Se algo sai do programado, são essas atividades menores que são postergadas, não as principais. Portanto, eliminei toda e qualquer fonte de estresse por não ter produzido como deveria. Esse é o pulo do gato! Fica a dica.
+  **Foco, foco, foco**. Sabe aquelas 3 atividades cruciais na minha lista de atividades? Pois é no que me debruço primeiro quando começo o meu dia. Dentre elas, há a atividade nº 1, aquela que se deixar de ser feita todos os dias o meu trabalho fica estagnado. Pois é nela que trabalho todas as manhãs, cedinho. Se esta atividade chave está feita, ganho o dia. A sensação de dever cumprido é gostosa e estimulante. Faço as outras duas de maneira muito tranquila, uma de cada vez, e sobra tempo para as outras menores: _e-mails_, leituras _online_, redes sociais. Se algo sai do programado, são essas atividades menores que são postergadas, não as principais. Portanto, eliminei toda e qualquer fonte de estresse por não ter produzido como deveria. Esse é o pulo do gato! Fica a dica.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

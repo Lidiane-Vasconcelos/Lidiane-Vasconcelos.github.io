@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  Essa é a melhor das notícias: esses produtos estão a um clique de você. A <a href="http://www.euromabe.com.br/" target="_blank">loja virtual Euromabe</a> é especializada em iluminação LED, e oferece produtos de qualidade. Com entrega para todo o Brasil, você pode facilitar a sua compra e garantir a economia que seu orçamento precisa, além de proporcionar o melhor para sua família. Além das lâmpadas que iluminam os espaços, você consegue aplicar esses produtos de modo a personalizar sua decoração. A <b>Fita LED, por exemplo, </b>é super flexível e conta com autoadesivos, tornando perfeita a aplicação em diversas situações, provocando uma iluminação charmosa e indireta no ambiente desejado, tais como:
+  Essa é a melhor das notícias: esses produtos estão a um clique de você. A [loja virtual Euromabe](http://www.euromabe.com.br/)  é especializada em iluminação LED, e oferece produtos de qualidade. Com entrega para todo o Brasil, você pode facilitar a sua compra e garantir a economia que seu orçamento precisa, além de proporcionar o melhor para sua família. Além das lâmpadas que iluminam os espaços, você consegue aplicar esses produtos de modo a personalizar sua decoração. A <b>Fita LED, por exemplo, </b>é super flexível e conta com autoadesivos, tornando perfeita a aplicação em diversas situações, provocando uma iluminação charmosa e indireta no ambiente desejado, tais como:
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ categories:
 </p>
 
 <p align="center">
-  O quarto pode ganhar <em>bossa</em> se você aplicar a fita de LED na cabeceira da cama, como na imagem acima, mas também em gavetas do closet e nichos.
+  O quarto pode ganhar _bossa_ se você aplicar a fita de LED na cabeceira da cama, como na imagem acima, mas também em gavetas do closet e nichos.
 </p>
 
 <p align="center">
@@ -130,11 +130,11 @@ categories:
 </p>
 
 <p align="justify">
-  Na <a href="http://www.euromabe.com.br/" target="_blank">Euromabe</a> há tudo o que você precisa para começar essa revolução na sua casa: paineis LED, refletores LED, <a href="http://www.euromabe.com.br/fitas-led.html" target="_blank">essas queridinhas que são as fitas LED</a>, pendentes, arandelas e lâmpadas LED de todos os tipos. <a href="http://www.euromabe.com.br/" target="_blank">Clique aqui e conheça a loja</a>! Fique por dentro de todas as novidades sobre iluminação, descontos e dicas de decoração através da <a href="https://www.facebook.com/euromabe/" target="_blank">fanpage da loja no Facebook</a>. Se jogue e curta!
+  Na [Euromabe](http://www.euromabe.com.br/)  há tudo o que você precisa para começar essa revolução na sua casa: paineis LED, refletores LED, [essas queridinhas que são as fitas LED](http://www.euromabe.com.br/fitas-led.html) , pendentes, arandelas e lâmpadas LED de todos os tipos. [Clique aqui e conheça a loja](http://www.euromabe.com.br/) ! Fique por dentro de todas as novidades sobre iluminação, descontos e dicas de decoração através da [fanpage da loja no Facebook](https://www.facebook.com/euromabe/) . Se jogue e curta!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

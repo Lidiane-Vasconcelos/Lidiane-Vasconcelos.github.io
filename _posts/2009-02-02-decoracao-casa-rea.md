@@ -11,7 +11,7 @@ categories:
 ---
 Eu fico super empolgada com** _fotos de ambientes charmosos_** que vejo web afora, porque a partir dessas imagens podemos pensar em possibilidades na **_decoração de uma casa real_**, como a minha e a sua.
 
-Quando vi <a href="http://www.apartmenttherapy.com/la/house-tour-sams-sydney-simplicity-sydney-074699" target="_blank">este post</a> publicado no blog “<a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>” tive a impressão de estar vendo as imagens do apartamento de alguém conhecido, porque é bem “gente da gente”, sabe como é? O fato é que embora eu tenha achado os espaços comuns, no sentido de que qualquer um de nós possa ter, eu não deixei de me inspirar. Absolutamente!
+Quando vi [este post](http://www.apartmenttherapy.com/la/house-tour-sams-sydney-simplicity-sydney-074699)  publicado no blog “[Apartment Therapy](http://www.apartmenttherapy.com/) ” tive a impressão de estar vendo as imagens do apartamento de alguém conhecido, porque é bem “gente da gente”, sabe como é? O fato é que embora eu tenha achado os espaços comuns, no sentido de que qualquer um de nós possa ter, eu não deixei de me inspirar. Absolutamente!
 
 Por isso decidi trazer algumas dessas imagens e espero que gostem, que também enxerguem suas casas nessas imagens e possam tirar delas ideias para seus cantinhos&#8230; [<img style="display: inline;" title="clip_image001[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0014-thumb2.gif" alt="clip_image001[4]" width="23" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00142.gif)
 

@@ -21,7 +21,7 @@ Muito se fala sobre o que é ser feliz, não é verdade? A impressão que tenho 
 <!--more-->
 
 <p align="justify">
-  **Será que é possível ser feliz quando se abre mão de certas coisas?** É sim, bonita! Mas **isso depende do que você entende por felicidade**. **Uma coisa é estar feliz**, **outra bem diferente é ser feliz**. “<em>Estar feliz é conseqüência de adquirir algo que se deseja (um novo namorado, um emprego, uma casa, etc.) Ser feliz é um estado interno. É estar em paz consigo mesmo, e também com os outros. É ter os estados físico, emocional e psíquico sadios. Para isso o auto conhecimento é fundamental. Saber do que eu sou capaz, quais os meus limites, os meus potenciais e as minhas fraquezas, me ajudará a ser mais segura e autoconfiante, deixando de ser marionete do meio onde vivo</em>”, explica a **Psicanalista Clínica Geisa Machado**, editora do blog **<a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a>**.
+  **Será que é possível ser feliz quando se abre mão de certas coisas?** É sim, bonita! Mas **isso depende do que você entende por felicidade**. **Uma coisa é estar feliz**, **outra bem diferente é ser feliz**. “_Estar feliz é conseqüência de adquirir algo que se deseja (um novo namorado, um emprego, uma casa, etc.) Ser feliz é um estado interno. É estar em paz consigo mesmo, e também com os outros. É ter os estados físico, emocional e psíquico sadios. Para isso o auto conhecimento é fundamental. Saber do que eu sou capaz, quais os meus limites, os meus potenciais e as minhas fraquezas, me ajudará a ser mais segura e autoconfiante, deixando de ser marionete do meio onde vivo_”, explica a **Psicanalista Clínica Geisa Machado**, editora do blog **[A Força e a Beleza de Ser Mulher](http://geisamachado.blogspot.com/) **.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ Muito se fala sobre o que é ser feliz, não é verdade? A impressão que tenho 
 &nbsp;
 
 <p align="justify">
-  Existem pessoas que nascem com certos traços de personalidade que acabam favorecendo o estado de felicidade, porque elas aprendem ao longo da vida a** lidar melhor com as situações que se apresentam. Sim! Os problemas existem também para quem é feliz… por que não existiriam?** **Um dos problemas atuais é que se vende muito a imagem de que se está tudo bem, e nem sempre é assim.** A diferença é que quem sabe driblar as dificuldades desenvolveu um tipo de comportamento chamado de **resiliência**, o que favorece, sim, a sensação de felicidade. “<em>Resilientes são pessoas que sofrem grandes pressões, e/ou adversidades, as enfrentam e voltam ao seu estado normal, sem conseqüências físicas ou mentais. Algumas nascem com este traço, outras são favorecidas pelo ambiente em que vivem”,</em> explica **Geisa**. Quem não aprende ou desenvolve esse comportamento, acaba tendo o conceito de felicidade alterado. É o que acontece, por exemplo, com as **mulheres perfeccionistas**: “ <em>a mulher perfeccionista é feliz enquanto está no controle da situação. É claro, que com o passar do tempo ela vai se tornando cada vez mais tensa e, com isso, prejudicando o seu bem estar físico e emocional</em>”, esclarece a **Psicanalista**.
+  Existem pessoas que nascem com certos traços de personalidade que acabam favorecendo o estado de felicidade, porque elas aprendem ao longo da vida a** lidar melhor com as situações que se apresentam. Sim! Os problemas existem também para quem é feliz… por que não existiriam?** **Um dos problemas atuais é que se vende muito a imagem de que se está tudo bem, e nem sempre é assim.** A diferença é que quem sabe driblar as dificuldades desenvolveu um tipo de comportamento chamado de **resiliência**, o que favorece, sim, a sensação de felicidade. “_Resilientes são pessoas que sofrem grandes pressões, e/ou adversidades, as enfrentam e voltam ao seu estado normal, sem conseqüências físicas ou mentais. Algumas nascem com este traço, outras são favorecidas pelo ambiente em que vivem”,_ explica **Geisa**. Quem não aprende ou desenvolve esse comportamento, acaba tendo o conceito de felicidade alterado. É o que acontece, por exemplo, com as **mulheres perfeccionistas**: “ _a mulher perfeccionista é feliz enquanto está no controle da situação. É claro, que com o passar do tempo ela vai se tornando cada vez mais tensa e, com isso, prejudicando o seu bem estar físico e emocional_”, esclarece a **Psicanalista**.
 </p>
 
 &nbsp;
@@ -43,7 +43,7 @@ Muito se fala sobre o que é ser feliz, não é verdade? A impressão que tenho 
 &nbsp;
 
 > <p align="justify">
->   <em>“Não existe uma fórmula para a felicidade, mas a autoestima é a base de tudo. Quem a possui se sente confiante para realizar qualquer tarefa que a vida lhe apresente.  No caso das mulheres, pelas humilhações que sofreram no decorrer de milhares de anos, eu penso que elas vêm buscando adquirir esta autoestima. Serem capazes de tomar decisões e fazer as próprias escolhas é um grande passo para esta conquista, mas isso não quer dizer que já estão totalmente resolvidas.”</em>
+>   _“Não existe uma fórmula para a felicidade, mas a autoestima é a base de tudo. Quem a possui se sente confiante para realizar qualquer tarefa que a vida lhe apresente.  No caso das mulheres, pelas humilhações que sofreram no decorrer de milhares de anos, eu penso que elas vêm buscando adquirir esta autoestima. Serem capazes de tomar decisões e fazer as próprias escolhas é um grande passo para esta conquista, mas isso não quer dizer que já estão totalmente resolvidas.”_
 > </p>
 
 &nbsp;
@@ -65,18 +65,18 @@ Sendo assim,  veja os exemplos de duas bichas fêmeas navegantes que são feliz
 &nbsp;
 
 > <p align="justify">
->   “<em>Eu escolhi ser professora meio por acaso, minha mãe me &#8221; obrigou&#8221; a fazer o magistério com o argumento muito convincente de que dando aula eu teria dinheiro para fazer a  faculdade dos meus sonhos que era Propaganda e Marketing. Durante o curso eu tive uma professora M A R A V I L H O S A e graças a ela eu me apaixonei pela educação e as possibilidades de fazer a diferença no mundo que temos nessa profissão. </em><em>Sou feliz com a área que escolhi, adoro o contato com as crianças e com elas me renovo todo dia. Tenho verdadeira paixão pelas trocas que tenho com as crianças e enorme satisfação de ver a evolução de todos e o brilho nos olhinhos quando descobrem que aprender é bom! Mesmo na Coordenação  procuro estar presente na vidinha deles e de minhas professoras.”</em> **Gláucia de Oliveira** | **<a href="http://supercriativobyglau.blogspot.com/" target="_blank">Super Criativo</a>**
+>   “_Eu escolhi ser professora meio por acaso, minha mãe me &#8221; obrigou&#8221; a fazer o magistério com o argumento muito convincente de que dando aula eu teria dinheiro para fazer a  faculdade dos meus sonhos que era Propaganda e Marketing. Durante o curso eu tive uma professora M A R A V I L H O S A e graças a ela eu me apaixonei pela educação e as possibilidades de fazer a diferença no mundo que temos nessa profissão. __Sou feliz com a área que escolhi, adoro o contato com as crianças e com elas me renovo todo dia. Tenho verdadeira paixão pelas trocas que tenho com as crianças e enorme satisfação de ver a evolução de todos e o brilho nos olhinhos quando descobrem que aprender é bom! Mesmo na Coordenação  procuro estar presente na vidinha deles e de minhas professoras.”_ **Gláucia de Oliveira** | **[Super Criativo](http://supercriativobyglau.blogspot.com/) **
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Meu desejo de ser contadora de histórias nasceu ainda quando morava em Recife. Mas foi efetivamente quando eu me mudei para São Paulo que dei continuidade ao meu sonho. Conheci o trabalho da associação que faço parte mais de perto e meu desejo só aumentou. Foi uma forma que eu encontrei de tirar o foco de mim. Eu precisava mudar! Eu estava inquieta com tudo que estava ao meu redor.  Precisava tirar o foco de minha doença. Eu precisava renascer! E assim foi. Descobri em mim uma Contadora de Histórias. Hoje, quando conto histórias, nem lembro da minha coluna! É um momento único. E o mais importante, eu me divirto. É puro prazer! A cada visita ao hospital, abrigos, creches, onde for&#8230; A cada criança, adulto, a cada história&#8230; É mágico! É um momento único que vivo. É permitir que todos (as crianças e eu) viajem nas emoções, nos personagens. Torcermos pelos personagens. Para que a princesa encontre seu príncipe, sabe? É permitir que a história se integre nas mais diversas emoções e sentimentos de todos. Nesta troca, todos aprendem. Não apenas a criança que aprende a lutar com suas inseguranças, medos. Mas todos nós ganhamos. Afinal, quem não gosta de ouvir uma história bem narrada? Tem uma frase do Lewis Carrol (autor de Alice no país das maravilhas) que resume muito bem meu sentimento da minha escolha: &#8220;Contar uma História é dar um presente de Amor&#8221;</em> “** Elaine Cunha** | **<a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a>**
+>   “_Meu desejo de ser contadora de histórias nasceu ainda quando morava em Recife. Mas foi efetivamente quando eu me mudei para São Paulo que dei continuidade ao meu sonho. Conheci o trabalho da associação que faço parte mais de perto e meu desejo só aumentou. Foi uma forma que eu encontrei de tirar o foco de mim. Eu precisava mudar! Eu estava inquieta com tudo que estava ao meu redor.  Precisava tirar o foco de minha doença. Eu precisava renascer! E assim foi. Descobri em mim uma Contadora de Histórias. Hoje, quando conto histórias, nem lembro da minha coluna! É um momento único. E o mais importante, eu me divirto. É puro prazer! A cada visita ao hospital, abrigos, creches, onde for&#8230; A cada criança, adulto, a cada história&#8230; É mágico! É um momento único que vivo. É permitir que todos (as crianças e eu) viajem nas emoções, nos personagens. Torcermos pelos personagens. Para que a princesa encontre seu príncipe, sabe? É permitir que a história se integre nas mais diversas emoções e sentimentos de todos. Nesta troca, todos aprendem. Não apenas a criança que aprende a lutar com suas inseguranças, medos. Mas todos nós ganhamos. Afinal, quem não gosta de ouvir uma história bem narrada? Tem uma frase do Lewis Carrol (autor de Alice no país das maravilhas) que resume muito bem meu sentimento da minha escolha: &#8220;Contar uma História é dar um presente de Amor&#8221;_ “** Elaine Cunha** | **[Caminhando e Contando](http://www.caminhandocontando.com/) **
 > </p>
 
 &nbsp;
 
-Imagens: ****<a href="http://www.sxc.hu/" target="_blank">**stock.xchng**</a>
+Imagens: ****[**stock.xchng**](http://www.sxc.hu/) 
 
 &nbsp;
 
@@ -97,9 +97,9 @@ Imagens: ****<a href="http://www.sxc.hu/" target="_blank">**stock.xchng**</a>
 &nbsp;
 
 <p align="center">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**<em>Comportamento</em>**</a>…
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a>…
 </p>
 
 <p align="center">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>

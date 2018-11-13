@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagens: <a href="http://www.designsponge.com/" target="_blank">Design Sponge</a>
+  Imagens: [Design Sponge](http://www.designsponge.com/) 
 </p>
 
 &nbsp;
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para que você planeje bem como irá dispor suas imagens, sugiro a leitura deste post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a>. Use a mesma estratégia para pensar como será sua composição, e mãos a obra!
+  Para que você planeje bem como irá dispor suas imagens, sugiro a leitura deste post sobre [como decorar a parede com quadros](http://www.decoracaodacasa.com/decoracao-parede-quadros/) . Use a mesma estratégia para pensar como será sua composição, e mãos a obra!
 </p>
 
 &nbsp;
@@ -69,7 +69,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Com a facilidade de manuseio da washi tape e sua criatividade, as variações de revestimentos para seus espelhos de tomadas são muitas. Já imaginou? Somente para começar, veja 3 delas bem <a href="http://www.observationdiary.com/?p=2348" target="_blank">aqui, no blog Observation Diary</a>. O post é em inglês, mas isso não fará a menor diferença para você. Espie!
+  Com a facilidade de manuseio da washi tape e sua criatividade, as variações de revestimentos para seus espelhos de tomadas são muitas. Já imaginou? Somente para começar, veja 3 delas bem [aqui, no blog Observation Diary](http://www.observationdiary.com/?p=2348) . O post é em inglês, mas isso não fará a menor diferença para você. Espie!
 </p>
 
 &nbsp;
@@ -85,7 +85,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A Beautiful Mess</a>
+  Imagem: [A Beautiful Mess](http://www.abeautifulmess.com/) 
 </p>
 
 &nbsp;
@@ -99,21 +99,21 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma.**</a>
+  [**2 ideias para festa ou decoração infantil: faça você mesma.**](http://www.decoracaodacasa.com/festa-decoracao-infantil/) 
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank">**Como fazer flores de papel colorido para dar bossa na decoração?**</a>
+  [**Como fazer flores de papel colorido para dar bossa na decoração?**](http://www.decoracaodacasa.com/flores-de-papel-decoracao/) 
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank">**Decoração de parede com tampa de caixa de sapato… é criativo ou não é?**</a>
+  [**Decoração de parede com tampa de caixa de sapato… é criativo ou não é?**](http://www.decoracaodacasa.com/decoracao-de-parede/) 
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

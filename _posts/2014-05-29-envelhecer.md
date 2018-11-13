@@ -43,7 +43,7 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
 &nbsp;
 
 > <p align="justify">
->   O que deixa a vida mais leve é a forma como encaramos a vida. E pra isto acontecer acho que independe da idade. Pra mim veio na maturidade porque só aos 40 anos eu decidi que queria mais leveza, mais felicidade, menos stress com os problemas do dia a dia. Não é facil fazer esta mudança porque a vida está ai pra te testar. Mas com determinação e praticando um pouquinho todo dia é fácil de conseguir. Eu tenho problemas como todo mundo, eu me estresso, eu fico com raiva. O que acontece comigo é que não permito que isto determine o meu dia e a minha vida. Quando algo grave acontece eu dou meus xiliques básicos mas que só duram no máximo meia hora. Ai respiro e digo: pronto…cabô…vamos viver… Então eu sou bem humorada 90% do meu tempo. Me divirto falando besteira, me divirto aprendendo a pensar positivo (porque pra isso precisa de criatividade) e me mantenho ocupada. Mente desocupada não funciona…E além de tudo eu tento espalhar otimismo, alegria, bom humor. E fazendo isto eu me mantenho otimista, alegre e de bom humor.” **Margaret | **<a href="http://www.margaretss.com.br/" target="_blank">**Margaretss**</a>
+>   O que deixa a vida mais leve é a forma como encaramos a vida. E pra isto acontecer acho que independe da idade. Pra mim veio na maturidade porque só aos 40 anos eu decidi que queria mais leveza, mais felicidade, menos stress com os problemas do dia a dia. Não é facil fazer esta mudança porque a vida está ai pra te testar. Mas com determinação e praticando um pouquinho todo dia é fácil de conseguir. Eu tenho problemas como todo mundo, eu me estresso, eu fico com raiva. O que acontece comigo é que não permito que isto determine o meu dia e a minha vida. Quando algo grave acontece eu dou meus xiliques básicos mas que só duram no máximo meia hora. Ai respiro e digo: pronto…cabô…vamos viver… Então eu sou bem humorada 90% do meu tempo. Me divirto falando besteira, me divirto aprendendo a pensar positivo (porque pra isso precisa de criatividade) e me mantenho ocupada. Mente desocupada não funciona…E além de tudo eu tento espalhar otimismo, alegria, bom humor. E fazendo isto eu me mantenho otimista, alegre e de bom humor.” **Margaret | **[**Margaretss**](http://www.margaretss.com.br/) 
 > </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank">**Qual é o mistério do sucesso de Margaret?**</a>
+  [**Qual é o mistério do sucesso de Margaret?**](http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/) 
 </p>
 
 &nbsp;
@@ -69,7 +69,7 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
 &nbsp;
 
 > <p align="justify">
->   Sou uma mulher madura, solteira, sem companhia, mas uma mulher feliz, dentro daquilo que se pode desejar. Tenho muito amor à minha família, sou uma pessoa muito sensível, por tudo e nada, gosto da vida, gosto das coisas mais simples, como um passeio pelo campo ou pela praia, de conviver, de ser amiga. Nesta minha participação, decidi falar um pouco de mim, antes da idade madura, para que entenda o conceito que tenho de beleza. Na verdade, gosto de ver uma mulher jovem bonita, sedutora, mas mais admiro uma** **mulher madura elegantemente vestida, com atitude, com segurança, com conhecimento, e minha admiração por estas mulheres, já vem da minha juventude.” **Maria Araújo | **<a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank">**Cantinho da Casa**</a>
+>   Sou uma mulher madura, solteira, sem companhia, mas uma mulher feliz, dentro daquilo que se pode desejar. Tenho muito amor à minha família, sou uma pessoa muito sensível, por tudo e nada, gosto da vida, gosto das coisas mais simples, como um passeio pelo campo ou pela praia, de conviver, de ser amiga. Nesta minha participação, decidi falar um pouco de mim, antes da idade madura, para que entenda o conceito que tenho de beleza. Na verdade, gosto de ver uma mulher jovem bonita, sedutora, mas mais admiro uma** **mulher madura elegantemente vestida, com atitude, com segurança, com conhecimento, e minha admiração por estas mulheres, já vem da minha juventude.” **Maria Araújo | **[**Cantinho da Casa**](http://cantinhodacasa.blogs.sapo.pt/) 
 > </p>
 
 <p align="justify">
@@ -77,15 +77,15 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/24/beleza-da-pele-2/" target="_blank">**Beleza da pele e cuidados anti-idade… para todas as idades!**</a>
+  [**Beleza da pele e cuidados anti-idade… para todas as idades!**](http://www.trololodemulher.com.br/2013/06/24/beleza-da-pele-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/" target="_blank">**Você usa creme para a área dos olhos?**</a>
+  [**Você usa creme para a área dos olhos?**](http://www.trololodemulher.com.br/2012/08/13/creme-para-a-area-dos-olhos/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/11/cabelos-dicas-e-cuidados/" target="_blank">**Cabelos: dicas e cuidados aos 20,30, 40, 50 anos e mais…**</a>
+  [**Cabelos: dicas e cuidados aos 20,30, 40, 50 anos e mais…**](http://www.trololodemulher.com.br/2011/07/11/cabelos-dicas-e-cuidados/) 
 </p>
 
 **<span style="font-size: small;">Bicha Fêmea > Você vivenciou o conflito de ter carreira, criar filhos e cuidar da família?</span>**
@@ -99,7 +99,7 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
 &nbsp;
 
 > <p align="justify">
->   Minha escolha pessoal foi vivenciar o momento sem permitir o conflito. Assim, mesmo estando em um período da carreira profissional – eu sou jornalista – onde investir em crescimento profissional significava dedicar a maior parte do tempo à profissão, optei por retardar a evolução da minha carreira, dedicando metade do meu dia para cuidar das crianças, da educação delas, levar à escola, dar almoço, todos esses pequenos detalhes. Se me arrependo? De forma alguma. Da mesma forma, não condeno nem critico quem optou por um caminho diferente. Eu tive a oportunidade de optar por ser uma profissional free durante mais de 10 anos. Talvez tivesse alcançado a minha senioridade profissional antes, mas no fundo não perdi nada. Me dediquei à carreira, aos filhos, ao marido, à casa e hoje, com todos adultos, e ainda atuando profissionalmente, acho que fiz o caminho que era o melhor para mim. Sem pesos, sem perdas, sem dores. Acho que a relação que tenho hoje com meus filhos também é fruto desses momentos em que pudemos estar juntos. “ **Veronica Cobas | **<a href="http://www.criativesse.com.br/blog/" target="_blank">**Criative-se**</a>
+>   Minha escolha pessoal foi vivenciar o momento sem permitir o conflito. Assim, mesmo estando em um período da carreira profissional – eu sou jornalista – onde investir em crescimento profissional significava dedicar a maior parte do tempo à profissão, optei por retardar a evolução da minha carreira, dedicando metade do meu dia para cuidar das crianças, da educação delas, levar à escola, dar almoço, todos esses pequenos detalhes. Se me arrependo? De forma alguma. Da mesma forma, não condeno nem critico quem optou por um caminho diferente. Eu tive a oportunidade de optar por ser uma profissional free durante mais de 10 anos. Talvez tivesse alcançado a minha senioridade profissional antes, mas no fundo não perdi nada. Me dediquei à carreira, aos filhos, ao marido, à casa e hoje, com todos adultos, e ainda atuando profissionalmente, acho que fiz o caminho que era o melhor para mim. Sem pesos, sem perdas, sem dores. Acho que a relação que tenho hoje com meus filhos também é fruto desses momentos em que pudemos estar juntos. “ **Veronica Cobas | **[**Criative-se**](http://www.criativesse.com.br/blog/) 
 > </p>
 
 <p align="justify">
@@ -107,21 +107,21 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">**O que faz uma mãe decidir pelo trabalho autônomo?**</a>
+  [**O que faz uma mãe decidir pelo trabalho autônomo?**](http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/04/culpa-materna/" target="_blank">**Culpa materna na consciência da outra é refresco. Liberte-se!**</a>
+  [**Culpa materna na consciência da outra é refresco. Liberte-se!**](http://www.trololodemulher.com.br/2014/02/04/culpa-materna/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/" target="_blank">**Mães trabalham muito e ficam menos com os filhos: e daí?**</a>
+  [**Mães trabalham muito e ficam menos com os filhos: e daí?**](http://www.trololodemulher.com.br/2012/08/17/maes-trabalham-filhos/) 
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -138,13 +138,13 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -153,5 +153,5 @@ Há quem ache, e sofra com o amadurecimento ao longo da vida. Para nós, mulhere
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

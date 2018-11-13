@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Em tempos de festas <em>superultramega</em> elaboradas em espaços especializados (e caros!), meu coração vive de amores pelo que é simples. Já falei por aqui do meu amor pelo apelo <em>vintage </em>das festas caseiras, como se fazia antigamente. Outra alternativa que acho puro charme é a **festa infantil de picnic**, feita ao ar livre. Se você anda pensando em fazer uma para sua criança, aqui há algumas ideias reunidas para aplicar no seu evento. Tudo simples, de fácil execução… a gente não quer estresse em festa, não é? A gente quer é ser feliz! Se joga!
+  Em tempos de festas _superultramega_ elaboradas em espaços especializados (e caros!), meu coração vive de amores pelo que é simples. Já falei por aqui do meu amor pelo apelo _vintage _das festas caseiras, como se fazia antigamente. Outra alternativa que acho puro charme é a **festa infantil de picnic**, feita ao ar livre. Se você anda pensando em fazer uma para sua criança, aqui há algumas ideias reunidas para aplicar no seu evento. Tudo simples, de fácil execução… a gente não quer estresse em festa, não é? A gente quer é ser feliz! Se joga!
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://catchmyparty.com/parties/spotty-dotty-ladybug-picnic" target="_blank">Catch My Party</a>
+  Via [Catch My Party](http://catchmyparty.com/parties/spotty-dotty-ladybug-picnic) 
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.thelittleumbrella.com/2013/06/festive-1st-birthday-party-with-a-spring-picnic-theme/" target="_blank">The Little Umbrella</a>
+  Via [The Little Umbrella](http://www.thelittleumbrella.com/2013/06/festive-1st-birthday-party-with-a-spring-picnic-theme/) 
 </p>
 
 <p align="justify">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank">**Bandeirolas de aniversário: imprima grátis.**</a>
+  [**Bandeirolas de aniversário: imprima grátis.**](http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/) 
 </p>
 
 <p align="justify">
-  Todas as cores podem dar vida a bandeirolas na festinha pic-nic de sua criança. Elas podem compor a mesa do bolo ou enfeitarem as árvores ao redor. Elas têm tudo a ver com o evento e trazem uma <em>bossa</em> lúdica, de encanto. Como não viver de amores?
+  Todas as cores podem dar vida a bandeirolas na festinha pic-nic de sua criança. Elas podem compor a mesa do bolo ou enfeitarem as árvores ao redor. Elas têm tudo a ver com o evento e trazem uma _bossa_ lúdica, de encanto. Como não viver de amores?
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://coloradosartells.blogspot.com.br/2010/10/chautauqua-park-picnic-birthday.html" target="_blank">Colorado Sartells</a>
+  Via [Colorado Sartells](http://coloradosartells.blogspot.com.br/2010/10/chautauqua-park-picnic-birthday.html) 
 </p>
 
 <p align="justify">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hwtm.com/index.cfm?page=albums/view_album&albumid=1067&photoid=16550" target="_blank">Hostess with the Mostess</a>
+  Via [Hostess with the Mostess](http://www.hwtm.com/index.cfm?page=albums/view_album&albumid=1067&photoid=16550) 
 </p>
 
 <p align="justify">
@@ -99,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.karaspartyideas.com/2012/08/strawberry-picnic-shortcake-5th-birthday-party.html" target="_blank">Kara´s Party Ideas</a>
+  Via [Kara´s Party Ideas](http://www.karaspartyideas.com/2012/08/strawberry-picnic-shortcake-5th-birthday-party.html) 
 </p>
 
 <p align="justify">
@@ -123,7 +123,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

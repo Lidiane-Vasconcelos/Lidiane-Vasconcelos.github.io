@@ -36,7 +36,7 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
 &nbsp;
 
 > <p align="justify">
->   **2** &#8211; “<em>Olá! Estou usando o **bbcream super plus da skin 79** e esse vale a pena experimentar&#8230;  minha pele está super boa com ele&#8230;” </em>**<a href="http://heidilanzellotti.wordpress.com/" target="_blank">Heidi Lanzellotti</a>**
+>   **2** &#8211; “_Olá! Estou usando o **bbcream super plus da skin 79** e esse vale a pena experimentar&#8230;  minha pele está super boa com ele&#8230;” _**[Heidi Lanzellotti](http://heidilanzellotti.wordpress.com/) **
 > </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -121,13 +121,13 @@ Todas nós gostamos de experimentar produtos de beleza, certo? Quando esse produ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

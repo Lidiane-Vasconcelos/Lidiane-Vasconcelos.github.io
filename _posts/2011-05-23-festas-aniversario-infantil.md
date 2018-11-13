@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O que esta imagem me inspiraria a fazer? Uma **base triangular maior com bordas cortadas com a ajuda de uma tesoura de corte especial + um triangulo menor e liso, sobreposto ao maior + colagens sobrepostas e coloridas com bordas feitas pela tesoura especial**. Depois? <em>Hum</em>… basta** colocar esses triângulos num barbante e, entre cada um deles, um lacinho de fita** (no caso da festa de uma menina) e teríamos bandeirolas divertidas para enfeitar o espaço da festa. Inspire-se, bonita!
+  O que esta imagem me inspiraria a fazer? Uma **base triangular maior com bordas cortadas com a ajuda de uma tesoura de corte especial + um triangulo menor e liso, sobreposto ao maior + colagens sobrepostas e coloridas com bordas feitas pela tesoura especial**. Depois? _Hum_… basta** colocar esses triângulos num barbante e, entre cada um deles, um lacinho de fita** (no caso da festa de uma menina) e teríamos bandeirolas divertidas para enfeitar o espaço da festa. Inspire-se, bonita!
 </p>
 
 <p style="text-align: center;">
@@ -65,7 +65,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Esse chapeuzinho super simples e divertido foi mostrado pela **Roberta Dalsenter**, no seu delicioso e inspirador “**<a href="http://www.docesabobrinhas.com/" target="_blank">Doces Abobrinhas</a>**”. Tem até um <em>PAP</em> com imagens que ensinam a reproduzir algo assim. Quer ver como? Só clicar **<a href="http://docesabobrinhas.com/2011/05/fazendo-chapeuzinho/" target="_blank">bem aqui</a>**…
+  Esse chapeuzinho super simples e divertido foi mostrado pela **Roberta Dalsenter**, no seu delicioso e inspirador “**[Doces Abobrinhas](http://www.docesabobrinhas.com/) **”. Tem até um _PAP_ com imagens que ensinam a reproduzir algo assim. Quer ver como? Só clicar **[bem aqui](http://docesabobrinhas.com/2011/05/fazendo-chapeuzinho/) **…
 </p>
 
 <p style="text-align: center;">
@@ -80,10 +80,10 @@ categories:
   Tudo de colorido, bonito, simples e barato num lugar só! E precisa mais? Achei fan-tás-ti-ca a ideia de usar sacolinhas básicas de papel pardo enfeitadas com colagens coloridas. As que a minha mãe usava não eram de papel, mas eram bem coloridas também. Dentro não podia faltar guloseimas e pequenos presentinhos bem baratos, mas que faziam a alegria das crianças…
 </p>
 
-Imagens: **<a href="http://www.scrapbooksetc.com/" target="_blank">scrapbooks etc.</a>**
+Imagens: **[scrapbooks etc.](http://www.scrapbooksetc.com/) **
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

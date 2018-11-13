@@ -15,9 +15,9 @@ Pronto. Falei!
 
 A boa notícia é que sempre há uma estratégia, para a gente colocar em prática, no sentido de criar um ambiente (uma situação?) que nos motive a fazer exercícios físicos. Claro! Isso serve para você que pensa como eu, e não gosta de fazê-los. Quer descobrir qual o “pulo do gato”?<!--more-->
 
-Aprendi o que fazer para criar em mim o desejo pelo exercício físico quando estava no Twitter. Hã?!? Isso, bonita, no Twitter. Há alguma vantagem de estar por lá, afinal… aproveita e me segue aí, vai <a href="http://twitter.com/bichafemea" target="_blank">(@bichafemea)!!</a>
+Aprendi o que fazer para criar em mim o desejo pelo exercício físico quando estava no Twitter. Hã?!? Isso, bonita, no Twitter. Há alguma vantagem de estar por lá, afinal… aproveita e me segue aí, vai [(@bichafemea)!!](http://twitter.com/bichafemea) 
 
-Continuando… foi a Ana Medeiros <a href="http://twitter.com/AninhaMedeiros" target="_blank">(@AninhaMedeiros)</a> quem _tuitou_ <a href="http://vidasimples.abril.com.br/edicoes/087/simples_assim/conteudo_519032.shtml" target="_blank">o texto que ensina como “programar” a mente para que possamos gostar de exercícios físicos</a>, e que foi publicado no site da revista <a href="http://vidasimples.abril.com.br/" target="_blank">Vida Simples</a>.
+Continuando… foi a Ana Medeiros [(@AninhaMedeiros)](http://twitter.com/AninhaMedeiros)  quem _tuitou_ [o texto que ensina como “programar” a mente para que possamos gostar de exercícios físicos](http://vidasimples.abril.com.br/edicoes/087/simples_assim/conteudo_519032.shtml) , e que foi publicado no site da revista [Vida Simples](http://vidasimples.abril.com.br/) .
 
 Sabe que as estratégias não são tão difíceis, nem algo do outro mundo? Dá para a gente fazer de forma tranquila, e avaliar os resultados. Se você concorda comigo que há coisas que, se não fazem bem, mal também não fazem, confere comigo as ideias…
 
@@ -41,8 +41,8 @@ Diz aí, você vai se mexer depois de tantas dicas para facilitar a saída do se
 
 **Mais no Bicha Fêmea sobre &#8220;mexer&#8221; o corpo…**
 
-<a href="http://www.trololodemulher.com.br/2010/03/05/alongamento-caminhada/" target="_self">**<em>Alongamento</em>****<em> para caminhada: você faz?</em>**</a>
+<a href="http://www.trololodemulher.com.br/2010/03/05/alongamento-caminhada/" target="_self">**_Alongamento_****_ para caminhada: você faz?_**</a>
 
-**<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self"><em>Queime calorias e ganhe saúde cuidando da casa!</em></a>**
+**<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self">_Queime calorias e ganhe saúde cuidando da casa!_</a>**
 
-Imagem: <a href="http://www.sxc.hu/profile/ClaudioArg" target="_blank">Claudio Arg</a>
+Imagem: [Claudio Arg](http://www.sxc.hu/profile/ClaudioArg) 

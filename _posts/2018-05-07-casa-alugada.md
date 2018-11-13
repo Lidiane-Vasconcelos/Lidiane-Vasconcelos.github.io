@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Primeiro, quem disse que você precisa gastar muito? Além do mais, saiba que há ideias simples e práticas, que podem ser aplicadas sem alteração do imóvel, e trazem consigo a <em>bossa</em> de renovação que você tanto gostaria. E mais…
+  Primeiro, quem disse que você precisa gastar muito? Além do mais, saiba que há ideias simples e práticas, que podem ser aplicadas sem alteração do imóvel, e trazem consigo a _bossa_ de renovação que você tanto gostaria. E mais…
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  >>> <a href="http://www.trololodemulher.com.br/2015/10/21/decoracao-da-casa-alugada/" target="_blank">Decoração da casa alugada: ideias temporárias.</a>
+  >>> [Decoração da casa alugada: ideias temporárias.](http://www.trololodemulher.com.br/2015/10/21/decoracao-da-casa-alugada/) 
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  Começamos nesta segunda-feira, 07 de Maio, a vivência do <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>. Nova turma apenas no segundo semestre. Se você quiser saber em primeira mão as informações sobre o próximo ciclo, entre em contato comigo pelo WhatsApp 81.9.9530-7307 e peça para entrar na lista de interessadas na próxima turma que, a propósito, já está em formação.
+  Começamos nesta segunda-feira, 07 de Maio, a vivência do [Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) . Nova turma apenas no segundo semestre. Se você quiser saber em primeira mão as informações sobre o próximo ciclo, entre em contato comigo pelo WhatsApp 81.9.9530-7307 e peça para entrar na lista de interessadas na próxima turma que, a propósito, já está em formação.
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
+  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. [Avise que quer, neste post](http://www.trololodemulher.com.br/2018/02/28/newsletter/) . É grátis!
 </p>
 
 <p align="justify">

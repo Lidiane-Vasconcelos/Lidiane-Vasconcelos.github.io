@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Felizmente, encontrei uma parceira das boas para a produção desses posts que tanto nos ajudam. A **Lilian Jordão, Consultora de Estilo, da cidade de Ribeirão Preto**, é a nossa querida consultora que nos orienta novamente. Desta vez o papo é sobre **como sentir-se elegante, mesmo usando calçados sem salto** e, ainda, **como disfarçar a barriguinha na hora de se produzir**. <em>´Bora</em> ver como faz?
+  Felizmente, encontrei uma parceira das boas para a produção desses posts que tanto nos ajudam. A **Lilian Jordão, Consultora de Estilo, da cidade de Ribeirão Preto**, é a nossa querida consultora que nos orienta novamente. Desta vez o papo é sobre **como sentir-se elegante, mesmo usando calçados sem salto** e, ainda, **como disfarçar a barriguinha na hora de se produzir**. _´Bora_ ver como faz?
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Tem gente que acredita que quando a produção não tem salto fica menos glamourosa, mas hoje em dia existem opções que não deixam nada a desejar para os <em>high heels</em> (salto alto). Estamos em uma época que podemos ser ousados a ponto de dizer que um vestido de festa fica ainda mais elegante com sandálias baixas e sapatilhas. Temos vários exemplos por ai de mulheres com<em> looks</em> sem salto e super estilosas. Separei vários exemplos onde a produção com sapatilhas tem algo que podemos e devemos copiar. Vamos lá?”**
+>   **Tem gente que acredita que quando a produção não tem salto fica menos glamourosa, mas hoje em dia existem opções que não deixam nada a desejar para os _high heels_ (salto alto). Estamos em uma época que podemos ser ousados a ponto de dizer que um vestido de festa fica ainda mais elegante com sandálias baixas e sapatilhas. Temos vários exemplos por ai de mulheres com_ looks_ sem salto e super estilosas. Separei vários exemplos onde a produção com sapatilhas tem algo que podemos e devemos copiar. Vamos lá?”**
 > </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  A barriguinha saliente está lá, ora a gente nem se importa com ela, ora há sim um incômodo que a gente sente lá no fundinho do coração. A verdade é que não dá para se livrar dela de uma hora pra outra, vamos combinar? Mas deve haver uma técnica para usar (Já!) e lidar melhor com esse calinho no nosso visual, <em>néam</em>? Corri na lilian e perguntei: tem jeito? A boa notícia, bonita, é que, sim: tem jeito!!!! Acompanhe:
+  A barriguinha saliente está lá, ora a gente nem se importa com ela, ora há sim um incômodo que a gente sente lá no fundinho do coração. A verdade é que não dá para se livrar dela de uma hora pra outra, vamos combinar? Mas deve haver uma técnica para usar (Já!) e lidar melhor com esse calinho no nosso visual, _néam_? Corri na lilian e perguntei: tem jeito? A boa notícia, bonita, é que, sim: tem jeito!!!! Acompanhe:
 </p>
 
 > <p align="justify">
@@ -102,15 +102,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank">**Trololó do dia: moda para a vida real. Aprenda tudo!**</a>
+  [**Trololó do dia: moda para a vida real. Aprenda tudo!**](http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/" target="_blank">**O bom e velho short: peça certeira nos dias di sol.**</a>
+  [**O bom e velho short: peça certeira nos dias di sol.**](http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/) 
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? [Clica aqui e se joga](https://www.facebook.com/lilianjordao82/timeline) !
 </p>
 
 <p align="justify">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

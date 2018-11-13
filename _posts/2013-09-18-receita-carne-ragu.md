@@ -14,7 +14,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Escrevi esse comentário no blog da Ju, o <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>, em 24/10/2012. De lá para cá, perdi a conta de quantas vezes reproduzi essa gostosura aqui em casa. A razão por que repeti tanto? Espia no post a receita da Ju. Repara como ela ensina e faz tudo ficar fácil. Sou fã dessa bonita, e não é de hoje… desconfio que você ficará também, oh:
+  Escrevi esse comentário no blog da Ju, o [Pitadinha](http://www.pitadinha.com/) , em 24/10/2012. De lá para cá, perdi a conta de quantas vezes reproduzi essa gostosura aqui em casa. A razão por que repeti tanto? Espia no post a receita da Ju. Repara como ela ensina e faz tudo ficar fácil. Sou fã dessa bonita, e não é de hoje… desconfio que você ficará também, oh:
 </p>
 
 <!--more-->
@@ -36,7 +36,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg"><img class="alignnone size-full wp-image-9779" alt="RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA STELLI-PITADINHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg" width="600" height="450" /></a><br /> Imagem: Juliana Stelli, do** <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**.
+  [Pitadinha](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg"><img class="alignnone size-full wp-image-9779" alt="RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA STELLI-PITADINHA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/09/RECEITA-CARNE-RAGU-APRESSADINHO-JULIANA-STELLI-PITADINHA.jpg" width="600" height="450" /></a><br /> Imagem: Juliana Stelli, do** <a href="http://www.pitadinha.com/) **.
 </p>
 
 <p align="justify">
@@ -73,7 +73,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 &nbsp;
 
 <p align="justify">
-  Olha só, posso falar? Eu acho, <em>comtodaforçadomeuser,</em> que você realmente deveria conhecer o <a href="http://www.pitadinha.com/" target="_blank">**Pitadinha**</a> da**Juliana**, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, **<a href="http://www.pitadinha.com/" target="_blank">clica aqui</a>** e se joga!
+  Olha só, posso falar? Eu acho, _comtodaforçadomeuser,_ que você realmente deveria conhecer o [**Pitadinha**](http://www.pitadinha.com/)  da**Juliana**, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, **[clica aqui](http://www.pitadinha.com/) ** e se joga!
 </p>
 
 &nbsp;
@@ -101,7 +101,7 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -118,13 +118,13 @@ Agora pense na situação, eu também estava grávida quando dei de cara com ess
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

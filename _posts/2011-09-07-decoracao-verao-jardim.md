@@ -32,7 +32,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
 &nbsp;
 
 > <p align="justify">
->   “<em>O meu canto de Verão, que este ano está muito fraco nestas terras de Portugal, é a marquise, onde tenho duas grandes janelas viradas para o sol que logo de manhã aquece a casa, entra a luz por aqui dentro, onde tenho os meus vasos há anos e que nunca deixaram de dar as suas folhas flores…”</em>
+>   “_O meu canto de Verão, que este ano está muito fraco nestas terras de Portugal, é a marquise, onde tenho duas grandes janelas viradas para o sol que logo de manhã aquece a casa, entra a luz por aqui dentro, onde tenho os meus vasos há anos e que nunca deixaram de dar as suas folhas flores…”_
 > </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
 &nbsp;
 
 > <p align="justify">
->   “…<em>Não é o espaço de lazer, mas é o da minha Kat, a gata que gosta de se espreguiçar e dormir uma soneca dentro do cesto, que já foi da roupa, e agora é dela…”</em>
+>   “…_Não é o espaço de lazer, mas é o da minha Kat, a gata que gosta de se espreguiçar e dormir uma soneca dentro do cesto, que já foi da roupa, e agora é dela…”_
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
 &nbsp;
 
 > <p align="justify">
->   “…<em>E, à noite, quando a lua quer encher-me de romantismo, lá vou eu para a janela, olhá-la e às estrelas, e delirar que apesar de muita maldade por esse nundo fora, a natureza é bela e o homem não conseguira jamais destruir o sol que nos dá a energia , vida, luz, e a lua que nos torna românticos e convida ao &#8220;chamego&#8221;, como dizem vocês. </em><em>É este o meu canto de Verão</em>.” **Maria Araújo | **<a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank">**Cantinho da Casa**</a>
+>   “…_E, à noite, quando a lua quer encher-me de romantismo, lá vou eu para a janela, olhá-la e às estrelas, e delirar que apesar de muita maldade por esse nundo fora, a natureza é bela e o homem não conseguira jamais destruir o sol que nos dá a energia , vida, luz, e a lua que nos torna românticos e convida ao &#8220;chamego&#8221;, como dizem vocês. __É este o meu canto de Verão_.” **Maria Araújo | **[**Cantinho da Casa**](http://cantinhodacasa.blogs.sapo.pt/) 
 > </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
 &nbsp;
 
 > <p align="justify">
->   “<em>Bom, acho que minha casa toda é a cara do verão. As cores que usei para decorá-la deixam ela ao mesmo tempo acolhedora, mas com a sensação de frescor o ano inteiro…”</em>
+>   “_Bom, acho que minha casa toda é a cara do verão. As cores que usei para decorá-la deixam ela ao mesmo tempo acolhedora, mas com a sensação de frescor o ano inteiro…”_
 > </p>
 
 &nbsp;
@@ -80,7 +80,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      <em>“O canto mais gostoso e que todos gostam de ficar por aqui é a varanda e a área externa, porque é na varanda e na área externa que reunimos os amigos e a família, é nela onde tudo acontece no verão. Além de ser meu lugar de trabalho para reciclagem e customização de peças maiores, a área externa da minha casa me dá inspiração para criar…”</em>
+      _“O canto mais gostoso e que todos gostam de ficar por aqui é a varanda e a área externa, porque é na varanda e na área externa que reunimos os amigos e a família, é nela onde tudo acontece no verão. Além de ser meu lugar de trabalho para reciclagem e customização de peças maiores, a área externa da minha casa me dá inspiração para criar…”_
     </p>
   </blockquote>
   
@@ -98,7 +98,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      “…<em>lá também acontecem as reuniões, as festas, bate papos descontraídos, ou simplesmente é o lugar que uso para recarregar as energias depois de uma semana cheia. Amo tomar sol, ler, olhar o céu e os passarinhos que fazem festa nos telhados. </em><em>Brincar com meu amigão Max. Enfim, é na varanda e na área externa que passamos muito tempo no verão…”</em> **Fabiana Tardochi |** **<a href="http://www.reciclaredecorar.blogspot.com/" target="_blank">Reciclar e Decorar</a>**
+      “…_lá também acontecem as reuniões, as festas, bate papos descontraídos, ou simplesmente é o lugar que uso para recarregar as energias depois de uma semana cheia. Amo tomar sol, ler, olhar o céu e os passarinhos que fazem festa nos telhados. __Brincar com meu amigão Max. Enfim, é na varanda e na área externa que passamos muito tempo no verão…”_ **Fabiana Tardochi |** **[Reciclar e Decorar](http://www.reciclaredecorar.blogspot.com/) **
     </p>
   </blockquote>
   
@@ -124,7 +124,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      “<em>Adoro o verão. Quando os dias frios chegam e o sol desaparece sinto muito a falta dele&#8230; e quando ele surge novamente ele traz para mim uma sensação muito boa de felicidade, enche a minha alma de energia. Eu tenho uma varanda no andar de cima de minha casa que sai do meu quarto para a rua onde tenho o privilégio de ver o sol se pôr e que adoro ficar olhando todas as tardes até ele se esconder no horizonte…”</em>
+      “_Adoro o verão. Quando os dias frios chegam e o sol desaparece sinto muito a falta dele&#8230; e quando ele surge novamente ele traz para mim uma sensação muito boa de felicidade, enche a minha alma de energia. Eu tenho uma varanda no andar de cima de minha casa que sai do meu quarto para a rua onde tenho o privilégio de ver o sol se pôr e que adoro ficar olhando todas as tardes até ele se esconder no horizonte…”_
     </p>
   </blockquote>
   
@@ -142,7 +142,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      “…<em>esse momento é sagrado para mim… é tão gostoso olhar para ele  porque cada dia o céu está diferente mas está sempre bonito, e me traz  sempre o mesmo sentimento de paz interior. Esse é o cantinho da minha casa que é a cara do Verão</em>.” **Lenita Feffe**
+      “…_esse momento é sagrado para mim… é tão gostoso olhar para ele  porque cada dia o céu está diferente mas está sempre bonito, e me traz  sempre o mesmo sentimento de paz interior. Esse é o cantinho da minha casa que é a cara do Verão_.” **Lenita Feffe**
     </p>
   </blockquote>
   
@@ -168,7 +168,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      “…<em>a casa dos meus pais (onde estou morando com maridão por uns tempos&#8230;)… é o jardim, menina, precisa ver que lindo!”</em>
+      “…_a casa dos meus pais (onde estou morando com maridão por uns tempos&#8230;)… é o jardim, menina, precisa ver que lindo!”_
     </p>
   </blockquote>
   
@@ -204,7 +204,7 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   
   <blockquote>
     <p align="justify">
-      “…<em>às vezes vamos pra lá e ficamos conversando&#8230;tudo de bom!” </em>**<a href="http://www.blogcarolcarneiro.blogspot.com/" target="_blank">Carol Carneiro</a>**
+      “…_às vezes vamos pra lá e ficamos conversando&#8230;tudo de bom!” _**[Carol Carneiro](http://www.blogcarolcarneiro.blogspot.com/) **
     </p>
   </blockquote>
   
@@ -249,15 +249,15 @@ O Verão está quase chegando… que delícia! Essa a época do ano em que a gen
   </p>
   
   <p align="justify">
-    **<a href="http://www.decoracaodacasa.com/decoracao-flores/" target="_blank">Decore sua casa com flores!</a>**
+    **[Decore sua casa com flores!](http://www.decoracaodacasa.com/decoracao-flores/) **
   </p>
   
   <p align="justify">
-    **<a href="http://www.decoracaodacasa.com/novos-usos-objetos-decoracao/" target="_blank">Novos usos de objetos na decoração: vasos diferentes para flores.</a>**
+    **[Novos usos de objetos na decoração: vasos diferentes para flores.](http://www.decoracaodacasa.com/novos-usos-objetos-decoracao/) **
   </p>
   
   <p align="center">
-    Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**>** <a href="http://www.trololodemulher.com.br/category/decoracao/varanda-jardim/">Varanda & Jardim</a>**
+    Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**>** <a href="http://www.trololodemulher.com.br/category/decoracao/varanda-jardim/">Varanda & Jardim</a>**
   </p>
   
   <p align="center">

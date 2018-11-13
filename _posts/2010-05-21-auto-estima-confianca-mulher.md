@@ -12,7 +12,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **<em>Você é confiante?</em>**
+  **_Você é confiante?_**
 </p>
 
 Como vemos é um tema corriqueiro em nossas vidas: ter confiança. Porém entre saber e o sentir, se abre um imenso abismo. Sensação de impotência, de fracasso, de inutilidade… Podemos citar várias situações que englobariam comportamentos, que deixam claro essa sensação de falta de confiança.
@@ -31,7 +31,7 @@ Escolham a forma que for mais conveniente, mais acessível, mas vá, busque a mu
 
 Um bom recomeço para você!
 
-**<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka – Psicóloga Clínica</a>**
+**[Luciana Kotaka – Psicóloga Clínica](http://blog.comportamentomagro.com.br/) **
 
 Especialista em Obesidade  e Transtornos Alimentares
 

@@ -13,7 +13,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Desde o início do meu trabalho compartilhando as melhores práticas de gestão da **rotina doméstica**, em Outubro de 2017, através do **<a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>**, tenho ouvido mulheres que relatam sempre o mesmo problema: não conseguem se organizar para estabelecer uma rotina, devido a tantas atribuições no cotidiano.
+  Desde o início do meu trabalho compartilhando as melhores práticas de gestão da **rotina doméstica**, em Outubro de 2017, através do **[Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) **, tenho ouvido mulheres que relatam sempre o mesmo problema: não conseguem se organizar para estabelecer uma rotina, devido a tantas atribuições no cotidiano.
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p align="justify">
-  Caso você queira aprender, passo a passo, a gerenciar sua casa com as melhores práticas na rotina doméstica, estou com inscrições abertas para o **Projeto Lar Bonito Lar**. A vivência começará dia 09 de Abril, e acontecerá num grupo vip de WhatsApp, com no máximo 15 mulheres. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">**Saiba mais sobre o projeto clicando aqui**</a>, ou entre em contato comigo pelo **WhatsApp 81 9 9530-7307**. As **inscrições vão até a Sexta, dia 06, ou até que acabem as vagas**, que são limitadas!
+  Caso você queira aprender, passo a passo, a gerenciar sua casa com as melhores práticas na rotina doméstica, estou com inscrições abertas para o **Projeto Lar Bonito Lar**. A vivência começará dia 09 de Abril, e acontecerá num grupo vip de WhatsApp, com no máximo 15 mulheres. [**Saiba mais sobre o projeto clicando aqui**](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) , ou entre em contato comigo pelo **WhatsApp 81 9 9530-7307**. As **inscrições vão até a Sexta, dia 06, ou até que acabem as vagas**, que são limitadas!
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

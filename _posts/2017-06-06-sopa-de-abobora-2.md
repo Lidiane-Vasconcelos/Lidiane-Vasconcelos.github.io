@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Se você é como eu, uma pessoa que adora alho, esta sopa é para você. Acredite em mim, essa sopa é uma coisa de outro mundo. Fácil de preparar e muito saudável, a textura desta sopa é suave, a cor é vibrante, o sabor delicado da abóbora combina muito bem com o alho, e faz uma combinação fantástica. Basta prestar atenção quando colocar a pimenta caiena, pois a mesma tem um sabor picante distintivo, e você só precisa de uma pitadinha, caso contrário ela vai dominar o sabor do seu prato. Nada melhor do que uma boa sopa para aquecer estes dias de Outono, não é mesmo? Vamos prepará-la?</em>
+  “_Se você é como eu, uma pessoa que adora alho, esta sopa é para você. Acredite em mim, essa sopa é uma coisa de outro mundo. Fácil de preparar e muito saudável, a textura desta sopa é suave, a cor é vibrante, o sabor delicado da abóbora combina muito bem com o alho, e faz uma combinação fantástica. Basta prestar atenção quando colocar a pimenta caiena, pois a mesma tem um sabor picante distintivo, e você só precisa de uma pitadinha, caso contrário ela vai dominar o sabor do seu prato. Nada melhor do que uma boa sopa para aquecer estes dias de Outono, não é mesmo? Vamos prepará-la?_
 </p>
 
 <p align="center">
@@ -55,20 +55,20 @@ _4 – Decore com sementes de abóbora, e iogurte, e sirva_.”
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank">**Receita de brownie de chocolate marmorizado.**</a>
+[**Receita de brownie de chocolate marmorizado.**](http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/) 
 
-<a href="http://www.trololodemulher.com.br/2017/05/09/receita-de-biscoito/" target="_blank">**Receita de biscoito caseiro, de azeite e alecrim.**</a>
+[**Receita de biscoito caseiro, de azeite e alecrim.**](http://www.trololodemulher.com.br/2017/05/09/receita-de-biscoito/) 
 
-<a href="http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/" target="_blank">**Abacaxi assado: receita simples e supreendente.**</a>
+[**Abacaxi assado: receita simples e supreendente.**](http://www.trololodemulher.com.br/2017/05/02/abacaxi-assado/) 
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… [clique aqui e siga!](https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

@@ -139,11 +139,11 @@ Quanto ao jardim particular que o quarto terá? Ui! Isso é muito chique! Conhe�
 
 Aguarde e confie!! Dicas virão para as plantas e o quarto como um todo. Quer ver?
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+Imagens: [HGTV](http://www.hgtv.com/) 
 
 **As bichas fêmeas falam&#8230;**
 
-&#8220;_Lidi, conforme prometi no post&#8230; segue a foto de um quarto espaçoso que eu gosto. Beijos&#8221;_ Letícia &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
+&#8220;_Lidi, conforme prometi no post&#8230; segue a foto de um quarto espaçoso que eu gosto. Beijos&#8221;_ Letícia &#8211; [Casa de Catarina](http://blog.casadecatarina.com.br/) 
 
 <table align="center">
   <tr>
@@ -168,5 +168,5 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 [Dicas e detalhes na decoração do quarto](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/).
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
 </p>

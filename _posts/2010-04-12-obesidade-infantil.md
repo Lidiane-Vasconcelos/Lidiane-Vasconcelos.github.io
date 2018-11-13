@@ -29,15 +29,15 @@ As últimas estatísticas mostram que 30% das crianças, entre 6-19 anos de idad
 
 Os fatores emocionais também contribuem na prevalência da obesidade. Muitas crianças sofrem desde pequenas com comentários e rótulos que lhe são conferidos em função do sobrepeso e obesidade, sendo importante o acompanhamento do psicólogo nesse processo, como forma de resgate da auto estima, e canalização das emoções de forma a não interferirem na sua relação com a alimentação.
 
-**<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka</a>**
+**[Luciana Kotaka](http://blog.comportamentomagro.com.br/) **
   
 Especialista em Obesidade e Transtornos Alimentares
   
 Curitiba-PR
 
-**Quer ser uma bicha fêmea colaboradora também? Fácil! <a href="http://www.trololodemulher.com.br/colabore/" target="_self"><em>Clica aqui</em> </a>e saiba como.**
+**Quer ser uma bicha fêmea colaboradora também? Fácil! <a href="http://www.trololodemulher.com.br/colabore/" target="_self">_Clica aqui_ </a>e saiba como.**
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea&#8230;**
 

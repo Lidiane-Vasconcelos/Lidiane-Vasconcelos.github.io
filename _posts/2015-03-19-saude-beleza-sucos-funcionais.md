@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  Neste post você poderá tirar várias dúvidas que cercam o universo dos sucos funcionais, todas tiradas pela **Dra. Kilza Koch, Nutricionista de Ipatinga – MG**. Com ela nós vamos entender por que esses queridos viraram item de alimentação básica no mundo <em>fitness</em>, e ainda aprender como tirar melhor proveito no seu consumo. <em>´Bora</em>?
+  Neste post você poderá tirar várias dúvidas que cercam o universo dos sucos funcionais, todas tiradas pela **Dra. Kilza Koch, Nutricionista de Ipatinga – MG**. Com ela nós vamos entender por que esses queridos viraram item de alimentação básica no mundo _fitness_, e ainda aprender como tirar melhor proveito no seu consumo. _´Bora_?
 </p>
 
 <p align="justify">
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://ow.ly/I6ulN" target="_blank">**Comilanças x suco detox**</a>
+  [**Comilanças x suco detox**](http://ow.ly/I6ulN) 
 </p>
 
 <p align="justify">
-  Quer saber, no final das contas, por que os sucos funcionais se tornaram tão queridos entre os que desejam ter uma alimentação saudável? De acordo com a Dra. Kilza, “<em>os sucos funcionais geralmente são feitos com frutas, legumes e verduras, rico em nutrientes, vitaminas e minerais, e também em fibras. Esses sucos nos dão muita disposição, desintoxica o organismo e nos fornece nutrientes, sendo uma opção excelente para o dia a dia, e para quem prioriza uma alimentação mais natural e saudável</em>”, explica nossa consultora. Assim fica fácil entender a razão do <em>frisson</em> em torno desse líquido tão precioso, não é? Mas, veja bem, não podemos nos empolgar ao ponto de achar que ele é completíssimo e pode substituir uma refeição, <em>hein</em>? A gente agora sabe de sua riqueza em nutrientes, mas… cuidado!
+  Quer saber, no final das contas, por que os sucos funcionais se tornaram tão queridos entre os que desejam ter uma alimentação saudável? De acordo com a Dra. Kilza, “_os sucos funcionais geralmente são feitos com frutas, legumes e verduras, rico em nutrientes, vitaminas e minerais, e também em fibras. Esses sucos nos dão muita disposição, desintoxica o organismo e nos fornece nutrientes, sendo uma opção excelente para o dia a dia, e para quem prioriza uma alimentação mais natural e saudável_”, explica nossa consultora. Assim fica fácil entender a razão do _frisson_ em torno desse líquido tão precioso, não é? Mas, veja bem, não podemos nos empolgar ao ponto de achar que ele é completíssimo e pode substituir uma refeição, _hein_? A gente agora sabe de sua riqueza em nutrientes, mas… cuidado!
 </p>
 
 > <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://blog.jchongstudio.com/2014/08/morning-sunrise-orange-peach-and.html#_a5y_p=2383278" target="_blank">See and Savour</a>
+  Imagem: [See and Savour](http://blog.jchongstudio.com/2014/08/morning-sunrise-orange-peach-and.html#_a5y_p=2383278) 
 </p>
 
 <p align="justify">
@@ -75,19 +75,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/" target="_blank">**Colesterol alto? Invista na reeducação alimentar!**</a>
+  [**Colesterol alto? Invista na reeducação alimentar!**](http://www.trololodemulher.com.br/2010/12/03/reeducacao-alimentar/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/02/02/dieta/" target="_blank">**Erros comuns que podem estragar a sua dieta.**</a>
+  [**Erros comuns que podem estragar a sua dieta.**](http://www.trololodemulher.com.br/2010/02/02/dieta/) 
 </p>
 
 <p align="justify">
-  A **Dra. Kilza Koch**, como você percebeu, atende pessoalmente em seu consultório na cidade de **Ipatinga &#8211; MG**. Você pode ficar por dentro dos serviços oferecidos por ela, saber mais detalhes sobre uma consulta e até depoimentos visitantdo o seu site. <a href="http://kilzakoch.com.br/" target="_blank">Clique aqui</a> e fique por dentro de tudo: endereço, telefone e tudo mais que você precisar para ir até a Dra. Kilza. Além do mais, ela ainda dispõe de uma **página no Facebook: Dicas da Nutricionista Kilza Koch.** <a href="https://www.facebook.com/dicasdanutricionistakilzakoch/timeline" target="_blank">Clique aqui</a>, curta (pois eu já curti!) e acompanhe suas dicas valiosíssimas pra quem quer manter o corpo bonito e saudável através da alimentação. Se joga!
+  A **Dra. Kilza Koch**, como você percebeu, atende pessoalmente em seu consultório na cidade de **Ipatinga &#8211; MG**. Você pode ficar por dentro dos serviços oferecidos por ela, saber mais detalhes sobre uma consulta e até depoimentos visitantdo o seu site. [Clique aqui](http://kilzakoch.com.br/)  e fique por dentro de tudo: endereço, telefone e tudo mais que você precisar para ir até a Dra. Kilza. Além do mais, ela ainda dispõe de uma **página no Facebook: Dicas da Nutricionista Kilza Koch.** [Clique aqui](https://www.facebook.com/dicasdanutricionistakilzakoch/timeline) , curta (pois eu já curti!) e acompanhe suas dicas valiosíssimas pra quem quer manter o corpo bonito e saudável através da alimentação. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

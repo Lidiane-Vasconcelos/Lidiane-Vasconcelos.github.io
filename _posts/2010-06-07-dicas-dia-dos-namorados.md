@@ -15,7 +15,7 @@ Prepare-se! Este post tem algumas **sugestões** de **como você pode organizar 
 
 <!--more-->
 
-Pensando como você pensa, eu fui perguntar a Daniela Garlet, por exemplo, **dicas** para a gente ficar muito mais **bonita** e **segura** numa noite dessas. A Dani é uma blogueira _antenada_ com a moda, vaidosa sem exageros, e sabe se produzir para uma vida real, como a minha e a sua, onde nada tem a ver com a _teatralização_ das passarelas. A bonita edita o &#8220;<a href="http://edredonsfotoselistras.blogspot.com/" target="_blank">Edredons, Fotos e Listras</a>”, e dá o recado para a gente: “_não importa se você acabou de se casar, se você namora ou se você está a milhas e milhas casada, dia dos namorados não pode passar em branco e você, querida bicha fêmea, precisa estar bem bonita. Mas isso não quer dizer produção de salão ou compras de roupas novas, e sim, se arrumar com o que você tem…_
+Pensando como você pensa, eu fui perguntar a Daniela Garlet, por exemplo, **dicas** para a gente ficar muito mais **bonita** e **segura** numa noite dessas. A Dani é uma blogueira _antenada_ com a moda, vaidosa sem exageros, e sabe se produzir para uma vida real, como a minha e a sua, onde nada tem a ver com a _teatralização_ das passarelas. A bonita edita o &#8220;[Edredons, Fotos e Listras](http://edredonsfotoselistras.blogspot.com/) ”, e dá o recado para a gente: “_não importa se você acabou de se casar, se você namora ou se você está a milhas e milhas casada, dia dos namorados não pode passar em branco e você, querida bicha fêmea, precisa estar bem bonita. Mas isso não quer dizer produção de salão ou compras de roupas novas, e sim, se arrumar com o que você tem…_
 
 <table align="center">
   <tr>
@@ -101,11 +101,11 @@ _ _
 
 _…Com as pernocas de fora, porque não há homem que resista a um **vestido**! Uma boa aposta são os vestidos (nas cores que mais a valorizem) dessa modelagem no colo, combinam com a proposta do dia =ROMANCE!”_
 
-_Imagens montadas por Daniela Garlet no <a href="http://www.polyvore.com/" target="_blank">Polyvore</a>._
+_Imagens montadas por Daniela Garlet no [Polyvore](http://www.polyvore.com/) ._
 
 Pronto! Começou a pensar em como você vai se montar bonita e garbosa no dia dos namorados? Agora você precisa decidir se vai jantar fora ou em casa, _hein_? Supondo que você curta ficar em casa, a fim de criar um ambiente mais intimista, sugiro a leitura de **_[dicas para a decoração da mesa na noite dos namorados](http://www.trololodemulher.com.br/2009/05/28/decoracao-mesa-noite-namorados/)_**. Há algumas sugestões de como você pode compor o cenário ideal…
 
-Você decidiu que vai mesmo ficar em casa? Já sabe qual será o cardápio? Quer sugestões? A Fla, bicha fêmea navegante que cuida do “<a href="http://artenacozinha.blogspot.com/" target="_blank">Arte na Cozinha</a>”, separou algumas receitas fáceis, rápidas e práticas. Sim, é tudo que bichas fêmeas espertas como nós precisamos. Confira as dicas da bonitona: “_Bom, minha parte neste post da Lidi, é falar pra você, bicha fêmea que não vai pensar na possibilidade de enfrentar filas e filas no dia dos namorados, e que vai, sim, para o fogão sem medo de ser feliz, preparar algo fácil para um jantarzinho romântico. Porque, colega, vamos combinar, tem duas coisas que ficam lotadas nesse dia: motel e restaurante&#8230;[<img class="alignnone size-full wp-image-1997" title="EmoticonLaugh_thumb.gif" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonlaugh_thumb2.gif" alt="" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonlaugh_thumb2.gif). Então, curta o quentinho da sua casa e prepare um jantar rápido e gostoso para você e seu bem querer…_
+Você decidiu que vai mesmo ficar em casa? Já sabe qual será o cardápio? Quer sugestões? A Fla, bicha fêmea navegante que cuida do “[Arte na Cozinha](http://artenacozinha.blogspot.com/) ”, separou algumas receitas fáceis, rápidas e práticas. Sim, é tudo que bichas fêmeas espertas como nós precisamos. Confira as dicas da bonitona: “_Bom, minha parte neste post da Lidi, é falar pra você, bicha fêmea que não vai pensar na possibilidade de enfrentar filas e filas no dia dos namorados, e que vai, sim, para o fogão sem medo de ser feliz, preparar algo fácil para um jantarzinho romântico. Porque, colega, vamos combinar, tem duas coisas que ficam lotadas nesse dia: motel e restaurante&#8230;[<img class="alignnone size-full wp-image-1997" title="EmoticonLaugh_thumb.gif" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonlaugh_thumb2.gif" alt="" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonlaugh_thumb2.gif). Então, curta o quentinho da sua casa e prepare um jantar rápido e gostoso para você e seu bem querer…_
 
 <table align="center">
   <tr>
@@ -121,7 +121,7 @@ Você decidiu que vai mesmo ficar em casa? Já sabe qual será o cardápio? Quer
 
 _ _
 
-_…Primeiro lugar, nada de fazer coisas muito elaboradas, melhor gastar tempo de outra forma, né não?!!!! Um <a href="http://artenacozinha.blogspot.com/2009/07/noite-do-fondue.html" target="_blank">Fondue</a> é ótima pedida, até porque o friozinho já está aí, não é mesmo? E comprar o aparelho será um crime perdoável para este dia. Mas a grana está curta?…_
+_…Primeiro lugar, nada de fazer coisas muito elaboradas, melhor gastar tempo de outra forma, né não?!!!! Um [Fondue](http://artenacozinha.blogspot.com/2009/07/noite-do-fondue.html)  é ótima pedida, até porque o friozinho já está aí, não é mesmo? E comprar o aparelho será um crime perdoável para este dia. Mas a grana está curta?…_
 
 <table align="center">
   <tr>
@@ -137,7 +137,7 @@ _…Primeiro lugar, nada de fazer coisas muito elaboradas, melhor gastar tempo d
 
 _ _
 
-_…Que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/05/salmao-em-papilote.html" target="_blank"><em>Peixe ao Papilote</em></a>_? E o peixe pode ser uma tilápia, uma pescada ou até uma merluza, o importante é caprichar no sabor…_
+_…Que tal preparar um_ [_Peixe ao Papilote_](http://artenacozinha.blogspot.com/2010/05/salmao-em-papilote.html) _? E o peixe pode ser uma tilápia, uma pescada ou até uma merluza, o importante é caprichar no sabor…_
 
 <table align="center">
   <tr>
@@ -153,7 +153,7 @@ _…Que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/05/salm
 
 _ _
 
-_…Ah, mas seu amado gosta mesmo de carne? Bem, eu acho que carne é algo pesado para se comer á noite pensando naquilo que vem depois (hohoho), masss, se mesmo assim ele precisar de uma carninha, que tal preparar um_ <a href="http://artenacozinha.blogspot.com/2010/04/filet-mignon-ao-molho-de-chimi-churri.html" target="_blank"><em>Filé Mignon ao Molho de Chimi-Churri</em></a> ?
+_…Ah, mas seu amado gosta mesmo de carne? Bem, eu acho que carne é algo pesado para se comer á noite pensando naquilo que vem depois (hohoho), masss, se mesmo assim ele precisar de uma carninha, que tal preparar um_ [_Filé Mignon ao Molho de Chimi-Churri_](http://artenacozinha.blogspot.com/2010/04/filet-mignon-ao-molho-de-chimi-churri.html)  ?
 
 <table align="center">
   <tr>
@@ -169,10 +169,10 @@ _…Ah, mas seu amado gosta mesmo de carne? Bem, eu acho que carne é algo pesad
 
 _ _
 
-_…Ahhh sim, seu bem querer é vegetariano?_ <a href="http://artenacozinha.blogspot.com/2009/09/leques-de-berinjela.html" target="_blank"><em>Leques de Berinjela</em></a>_! Ele vai amar …_
+_…Ahhh sim, seu bem querer é vegetariano?_ [_Leques de Berinjela_](http://artenacozinha.blogspot.com/2009/09/leques-de-berinjela.html) _! Ele vai amar …_
 
 <div>
-  <em> </em>
+  _ _
 </div>
 
 <table align="center">
@@ -189,13 +189,13 @@ _…Ahhh sim, seu bem querer é vegetariano?_ <a href="http://artenacozinha.blog
 
  
 
-…_Se ele for da turma das massas, faça um belo_ <a href="http://artenacozinha.blogspot.com/2010/04/macarrao-com-funghi-secchi.html" target="_blank"><em>Macarrão ao Funghi</em></a> _e você não vai se arrepender…_
+…_Se ele for da turma das massas, faça um belo_ [_Macarrão ao Funghi_](http://artenacozinha.blogspot.com/2010/04/macarrao-com-funghi-secchi.html)  _e você não vai se arrepender…_
 
 …_e a sobremesa? Ahhhh, eu se fosse você, derreteria chocolate meio amargo, misturaria com um pouco de creme de leite, colocaria em dois potinhos, compraria dois pincéis e, bom&#8230; aí é só usar a imaginação… Bon apéttit!”_
 
 Alguma das receitas te apetece? Basta clicar no título de cada prato e você será levada ao jeito super didático e “gente da gente” de a Fla ensinar as receitas.
 
-Mulher! Inspiração é o que não falta por aqui, hoje. É ou não é? Mas como eu queria ter certeza de que você sairia da leitura do post do Bicha Fêmea s_uperultramegablaster_ tentada a fazer algo diferente no seu dia dos namorados, convidei a Cláudia Ramalho, editora do blog “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito á Mão</a>”, e que tem a mente borbulhante de ideias, para contar como ela comemorou um de seu dia dos namorados mais especiais. Leia e inspire-se! E se ainda quiser mais sugestões de possibilidades para esse dia, confira mais <a href="http://claudinha-feitoamo.blogspot.com/2010/05/dia-dos-namorados-sugestoes-para.html" target="_blank">dicas para resgatar o romance</a> que a Cláudia deu em seu blog…
+Mulher! Inspiração é o que não falta por aqui, hoje. É ou não é? Mas como eu queria ter certeza de que você sairia da leitura do post do Bicha Fêmea s_uperultramegablaster_ tentada a fazer algo diferente no seu dia dos namorados, convidei a Cláudia Ramalho, editora do blog “[Feito á Mão](http://claudinha-feitoamo.blogspot.com/) ”, e que tem a mente borbulhante de ideias, para contar como ela comemorou um de seu dia dos namorados mais especiais. Leia e inspire-se! E se ainda quiser mais sugestões de possibilidades para esse dia, confira mais [dicas para resgatar o romance](http://claudinha-feitoamo.blogspot.com/2010/05/dia-dos-namorados-sugestoes-para.html)  que a Cláudia deu em seu blog…
 
 “_Eu e meu marido começamos a namorar três dias antes do dia dos namorados. Eu queria fazer algo especial, para o dia dos namorados do ano passado, para comemorar as duas datas, pois depois de dez anos de casamento, o nascimento de duas filhas, nossas comemorações estavam ficando meio sem graça. Queria restaurar o romance perdido, sabe como é? Conversando com um amigo, ele me deu a ideia de reservar um quarto de um hotel. O hotel promoveria um jantar dançante, depois do jantar subiríamos para o quarto para terminar a noite em grande estilo._ 
 
@@ -264,7 +264,7 @@ _Por isso, este ano, nossa comemoração será muito mais simples. Um jantarzinh
 </table>
 
 <p style="text-align: center;">
-  <em>Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>
+  _Imagem: [stock.xchng](http://www.sxc.hu/) _
 </p>
 
 Conta aí, bonita! **Você tem ideias ou dicas** para a **noite dos namorados**? Fala aí nos comentários, divide comigo que estou ansiosíssima para saber…

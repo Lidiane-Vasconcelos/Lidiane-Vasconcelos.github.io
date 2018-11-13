@@ -18,7 +18,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **“<em>Começou o Food Park infantil, no </em>**<a href="http://www.ibirapuera.com.br/" target="_blank"><em>**Shopping Ibirapuera**</em></a><em>**. O Food Park é um evento exclusivo de cupcakes e faz com que as crianças participem de ações educativas relacionadas ao poder do dinheiro e como comprar. Com uma moeda fictícia, elas terão que decidir quais cupcakes querem e quais ingredientes comprar para poder cozinhar seu próprio doce.**</em>
+>   **“_Começou o Food Park infantil, no _**[_**Shopping Ibirapuera**_](http://www.ibirapuera.com.br/) _**. O Food Park é um evento exclusivo de cupcakes e faz com que as crianças participem de ações educativas relacionadas ao poder do dinheiro e como comprar. Com uma moeda fictícia, elas terão que decidir quais cupcakes querem e quais ingredientes comprar para poder cozinhar seu próprio doce.**_
 > </p>
 
 <p align="center">
@@ -26,15 +26,15 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>A recomendação é de 4 a 12 anos. A entrada é gratuita e cada rodada dura em média 25 minutos. </em>**
+>   **_A recomendação é de 4 a 12 anos. A entrada é gratuita e cada rodada dura em média 25 minutos. _**
 > </p>
 
 > <p align="justify">
->   **<em>De quinta a domingo (até dia 27 de setembro), das 13h00 às 18h30 </em>**
+>   **_De quinta a domingo (até dia 27 de setembro), das 13h00 às 18h30 _**
 > </p>
 
 > <p align="justify">
->   **<em>Quem não curte os Beatles? Pensando nisso, o projeto Beatles para Crianças chega para dar uma experiência única para pais e filhos: um repertório incrível, histórias encenadas, contadas e cantadas; participação das crianças tocando instrumentos, diversos efeitos&#8230;</em>**
+>   **_Quem não curte os Beatles? Pensando nisso, o projeto Beatles para Crianças chega para dar uma experiência única para pais e filhos: um repertório incrível, histórias encenadas, contadas e cantadas; participação das crianças tocando instrumentos, diversos efeitos&#8230;_**
 > </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <a href="http://teatroumc.com.br/" target="_blank">**Teatro UMC**</a>
+>   [**Teatro UMC**](http://teatroumc.com.br/) 
 > </p>
 > 
 > **Av. Imperatriz Leopoldina, 550 (Vila Leopoldina)**
@@ -70,7 +70,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   <a href="http://teatroruthescobar.com.br/" target="_blank">**Teatro Ruth Escobar**</a>** &#8211; Sala Gil Vicente**
+>   [**Teatro Ruth Escobar**](http://teatroruthescobar.com.br/) ** &#8211; Sala Gil Vicente**
 > </p>
 > 
 > **Rua dos Ingleses, 209 (Bela Vista)**
@@ -86,11 +86,11 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>Shaun é um carneiro que resolve tirar um dia de folga com os outros animais, para sair da rotina da fazenda. Só que, acidentalmente, ele acaba mandando o carinhoso fazendeiro para a cidade grande, onde o homem perde a memória. Os animais, então, comandados por Shaun, vão aprontar altas confusões no caos urbano para trazer o dono de volta para casa.</em>**
+>   **_Shaun é um carneiro que resolve tirar um dia de folga com os outros animais, para sair da rotina da fazenda. Só que, acidentalmente, ele acaba mandando o carinhoso fazendeiro para a cidade grande, onde o homem perde a memória. Os animais, então, comandados por Shaun, vão aprontar altas confusões no caos urbano para trazer o dono de volta para casa._**
 > </p>
 
 > <p align="justify">
->   **<em>Mais informações: </em>**<a href="http://www.adorocinema.com/filmes/filme-221093/" target="_blank">**<em>Adoro Cinema</em>**</a>”
+>   **_Mais informações: _**[**_Adoro Cinema_**](http://www.adorocinema.com/filmes/filme-221093/) ”
 > </p>
 
 <p align="center">
@@ -98,11 +98,11 @@ categories:
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts)  Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

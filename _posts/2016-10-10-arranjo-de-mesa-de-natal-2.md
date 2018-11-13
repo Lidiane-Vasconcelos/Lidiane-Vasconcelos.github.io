@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natalina-2/" target="_blank">**4 dicas para decoração natalina nos catinhos da casa**</a>
+  [**4 dicas para decoração natalina nos catinhos da casa**](http://www.decoracaodacasa.com/decoracao-natalina-2/) 
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Via [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/" target="_blank">**Natal em apartamento pequeno: 5 dicas para decoração.**</a>
+  [**Natal em apartamento pequeno: 5 dicas para decoração.**](http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/) 
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Via [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeite-natalino-rustico/" target="_blank">**Enfeite natalino rústico: faça você mesma.**</a>
+  [**Enfeite natalino rústico: faça você mesma.**](http://www.decoracaodacasa.com/enfeite-natalino-rustico/) 
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Via [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank">**Decoração natalina: inspiração das casas reais.**</a>
+  [**Decoração natalina: inspiração das casas reais.**](http://www.decoracaodacasa.com/decoracao-natalina/) 
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://dreamywhites.blogspot.com.br/" target="_blank">Dreamy Whites</a>
+  Via [Dreamy Whites](http://dreamywhites.blogspot.com.br/) 
 </p>
 
 <p align="justify">
@@ -111,7 +111,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://lafifole.blogspot.com.br/" target="_blank">Les Fifoles</a>
+  Via [Les Fifoles](http://lafifole.blogspot.com.br/) 
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

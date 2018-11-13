@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Se você curte navegar por blogs de decoração vai perceber uma estratégia de <em>design</em> de ambientes que os profissionais amam: decoração com composições de objetos do mesmo tipo. O resultado visual é mesmo muito bonito, porque não se trata de um amontoado de coisas largados num espaço qualquer. Fosse isto, seria um pequeno foco de bagunça. Absolutamente! Não é disso que estou falando, mas de um conjunto harmonioso de objetos, propositalmente arrumado num cantinho, cujo charme está na forma como esse arranjo é apresentado. Se a gente observar com mais carinho, perceberá que podemos tirar proveito dessa ideia e usá-la em diferentes partes da nossa casa. É só usar a imaginação e o bom senso… o resto é só alegria e festa para os olhos.
+  Se você curte navegar por blogs de decoração vai perceber uma estratégia de _design_ de ambientes que os profissionais amam: decoração com composições de objetos do mesmo tipo. O resultado visual é mesmo muito bonito, porque não se trata de um amontoado de coisas largados num espaço qualquer. Fosse isto, seria um pequeno foco de bagunça. Absolutamente! Não é disso que estou falando, mas de um conjunto harmonioso de objetos, propositalmente arrumado num cantinho, cujo charme está na forma como esse arranjo é apresentado. Se a gente observar com mais carinho, perceberá que podemos tirar proveito dessa ideia e usá-la em diferentes partes da nossa casa. É só usar a imaginação e o bom senso… o resto é só alegria e festa para os olhos.
 </p>
 
 <p align="justify">
@@ -22,11 +22,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
-  Tem um corte de tecido que você ama e acha tudo de lindo? Encomende a um marceneiro armações de madeira com tamanhos diferentes, faça o recorte do tecido para cobrir cada uma dessas armações com sobra para grampear na moldura de madeira. Depois disso, você precisará de um grampeador apropriado para fixar o tecido na moldura, e talvez seja o caso de levar para um tapeceiro. Estude como fará sua composição na parede e, para isso, veja nesse post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a> tudo o que você precisa saber para isso, e capriche na sua decoração. A simplicidade da ideia não resulta em algo bonito de viver?
+  Tem um corte de tecido que você ama e acha tudo de lindo? Encomende a um marceneiro armações de madeira com tamanhos diferentes, faça o recorte do tecido para cobrir cada uma dessas armações com sobra para grampear na moldura de madeira. Depois disso, você precisará de um grampeador apropriado para fixar o tecido na moldura, e talvez seja o caso de levar para um tapeceiro. Estude como fará sua composição na parede e, para isso, veja nesse post sobre [como decorar a parede com quadros](http://www.decoracaodacasa.com/decoracao-parede-quadros/)  tudo o que você precisa saber para isso, e capriche na sua decoração. A simplicidade da ideia não resulta em algo bonito de viver?
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank">**Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!**</a>
+  [**Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!**](http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/) 
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A Beautiful Mess</a>
+  Imagem: [A Beautiful Mess](http://www.abeautifulmess.com/) 
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bellemaison23.com/" target="_blank">Belle Maison</a>
+  Imagem: [Belle Maison](http://www.bellemaison23.com/) 
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
-  Saia por aí com sua máquina e tire fotos de flores bem bonitas. Depois disso, providencie molduras e monte uma composição sobre um banco cheio de almofadas. Você pode colocar um banco simples de madeira e providenciar um <em>futton</em> para ele… fica a dica e inspiração.
+  Saia por aí com sua máquina e tire fotos de flores bem bonitas. Depois disso, providencie molduras e monte uma composição sobre um banco cheio de almofadas. Você pode colocar um banco simples de madeira e providenciar um _futton_ para ele… fica a dica e inspiração.
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -114,7 +114,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -126,7 +126,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -138,7 +138,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -150,11 +150,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Imagem: [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
-  Essas fotos foram dispostas em uma sala, reparou? Mas elas poderiam estar no quarto ou ainda no <em>home office</em>. A escolha é sua. Veja como a solução é simples: 1 – Providencie prateleiras planejadas para a áera escolhida. É importante que elas tenham a base fininha, somente para dar apoio ás molduras, e a área de encosto alta. | 2 – Escolha as fotos que serão expostas e cuide para que as molduras sejam todas da mesma cor, ainda que as formas das fotos sejam diferentes. Viu? Não é simples reproduzir, com resultado bonito e elegante? Eu <em>superultramega </em>amei a ideia e não podia deixar de dividi-la com você. Inspire-se!
+  Essas fotos foram dispostas em uma sala, reparou? Mas elas poderiam estar no quarto ou ainda no _home office_. A escolha é sua. Veja como a solução é simples: 1 – Providencie prateleiras planejadas para a áera escolhida. É importante que elas tenham a base fininha, somente para dar apoio ás molduras, e a área de encosto alta. | 2 – Escolha as fotos que serão expostas e cuide para que as molduras sejam todas da mesma cor, ainda que as formas das fotos sejam diferentes. Viu? Não é simples reproduzir, com resultado bonito e elegante? Eu _superultramega _amei a ideia e não podia deixar de dividi-la com você. Inspire-se!
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.shelterness.com/" target="_blank">Shelterness</a>
+  Imagem: [Shelterness](http://www.shelterness.com/) 
 </p>
 
 <p align="justify">
@@ -174,7 +174,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -182,7 +182,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

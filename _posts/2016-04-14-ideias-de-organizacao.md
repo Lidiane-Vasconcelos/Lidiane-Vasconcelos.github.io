@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Revistas, jornal ou livros podem ser deixados em sua cabeceira dentro de um lata antiga, ou balde. Veja que um banco, também garimpado numa dessas feiras, serve perfeitamente como uma mesa de cabeceira inusitada e estilosa. A propósito, <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank">se você não tem uma mesinha de cabeceira, espie este post e improvise uma</a>!
+  Revistas, jornal ou livros podem ser deixados em sua cabeceira dentro de um lata antiga, ou balde. Veja que um banco, também garimpado numa dessas feiras, serve perfeitamente como uma mesa de cabeceira inusitada e estilosa. A propósito, [se você não tem uma mesinha de cabeceira, espie este post e improvise uma](http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/) !
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você for numa feira dessas e vir alguns vasos por lá, veja que não é só de acomodar flores que eles vivem. Leve-os para a cozinha e coloque-os ao seu alcance, organizando os itens mais usados na hora de cozinhar. Fica a dica. Ah! Não deixe de conferir <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank">novos usos de objetos e enfeites garimpados em feiras de antiguidades, tudo neste post</a>.
+  Se você for numa feira dessas e vir alguns vasos por lá, veja que não é só de acomodar flores que eles vivem. Leve-os para a cozinha e coloque-os ao seu alcance, organizando os itens mais usados na hora de cozinhar. Fica a dica. Ah! Não deixe de conferir [novos usos de objetos e enfeites garimpados em feiras de antiguidades, tudo neste post](http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/) .
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  Prato de bolo e doces, com vários andares, ou pratinhos de porcelana antigos, podem ir para o seu quarto, e te ajudarem a organizar seus acessórios e demais apetrechos no seu cantinho da beleza. Inspire-se! E por falar em <a href="http://www.decoracaodacasa.com/objetos-decoracao-organizacao/" target="_blank">reutilização de objetos na decoração e organização da casa, espie aqui mais 4 dicas de como fazer exatamente isso</a>.
+  Prato de bolo e doces, com vários andares, ou pratinhos de porcelana antigos, podem ir para o seu quarto, e te ajudarem a organizar seus acessórios e demais apetrechos no seu cantinho da beleza. Inspire-se! E por falar em [reutilização de objetos na decoração e organização da casa, espie aqui mais 4 dicas de como fazer exatamente isso](http://www.decoracaodacasa.com/objetos-decoracao-organizacao/) .
 </p>
 
 <p align="center">
@@ -42,15 +42,15 @@ categories:
 </p>
 
 <p align="justify">
-  Uma maleta antiga pode servir como caixa de armazenamento de material de trabalho para as arteiras. Fica tudo organizado e guardado, mas com muito estilo! A propósito, <a href="http://www.trololodemulher.com.br/2011/07/18/ideias-vintage-organizacao/" target="_blank">veja neste post como você pode organizar seu atelier com muito mais charme, aplicando 3 ideias vintage</a>.
+  Uma maleta antiga pode servir como caixa de armazenamento de material de trabalho para as arteiras. Fica tudo organizado e guardado, mas com muito estilo! A propósito, [veja neste post como você pode organizar seu atelier com muito mais charme, aplicando 3 ideias vintage](http://www.trololodemulher.com.br/2011/07/18/ideias-vintage-organizacao/) .
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

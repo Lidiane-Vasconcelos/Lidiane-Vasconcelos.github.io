@@ -10,11 +10,11 @@ categories:
   - Rotina da Casa
 ---
 <p style="text-align: justify;">
-  Por aqui ando <em>superultramega</em> atarefada e preciso mais do que nunca de organização pessoal, sobretudo agora que virei mãe. Nunca trabalhei tanto! <em>Ufa</em>! Imagino que para você o dia a dia também não tenha sido fácil, não é? Pensando nisso, resolvi editar um post recheado de dicas que possam nos ajudar a lidar melhor com o tempo que precisamos administrar a fim de dar conta de tantas coisas.
+  Por aqui ando _superultramega_ atarefada e preciso mais do que nunca de organização pessoal, sobretudo agora que virei mãe. Nunca trabalhei tanto! _Ufa_! Imagino que para você o dia a dia também não tenha sido fácil, não é? Pensando nisso, resolvi editar um post recheado de dicas que possam nos ajudar a lidar melhor com o tempo que precisamos administrar a fim de dar conta de tantas coisas.
 </p>
 
 <p style="text-align: justify;" align="justify">
-  <em>´Pra</em> começar, vou contar para você minhas dicas, e espero saber das suas, sim? Vou logo avisando que o post é <em>re-ple-to</em> de dicas de outras leitoras também. Se joga e aprenda com essa troca de experiências!
+  _´Pra_ começar, vou contar para você minhas dicas, e espero saber das suas, sim? Vou logo avisando que o post é _re-ple-to_ de dicas de outras leitoras também. Se joga e aprenda com essa troca de experiências!
 </p>
 
 <!--more-->
@@ -26,15 +26,15 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: large;">1</span>** &#8211; Eu participo de **grupos no <em>Facebook</em>** onde posso tirar dúvidas, pedir indicações, saber das experiências de outras mulheres e dividir dilemas. Isso é uma mão na roda porque a mulherada divide as** informações** e posso **resolver problemas rapidamente**.
+  **<span style="font-size: large;">1</span>** &#8211; Eu participo de **grupos no _Facebook_** onde posso tirar dúvidas, pedir indicações, saber das experiências de outras mulheres e dividir dilemas. Isso é uma mão na roda porque a mulherada divide as** informações** e posso **resolver problemas rapidamente**.
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">2</span>** &#8211; Ao mesmo tempo que o <em>Facebook</em> me ajuda tanto, ele também é um baita ladrão de tempo. Sendo assim, eu estabeleço qual o **momento adequado para navegar por lá** e, ainda assim, procuro **focar no que realmente importa**.
+  **<span style="font-size: large;">2</span>** &#8211; Ao mesmo tempo que o _Facebook_ me ajuda tanto, ele também é um baita ladrão de tempo. Sendo assim, eu estabeleço qual o **momento adequado para navegar por lá** e, ainda assim, procuro **focar no que realmente importa**.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RELÓGIO.jpg"><img class="alignnone size-full wp-image-9521" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RELÓGIO.jpg" alt="RELÓGIO" width="600" height="636" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RELÓGIO.jpg"><img class="alignnone size-full wp-image-9521" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RELÓGIO.jpg" alt="RELÓGIO" width="600" height="636" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 <p align="justify">
@@ -46,13 +46,13 @@ categories:
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">5</span>** &#8211; Hoje em dia, qualquer mulher moderna conta com a **parceria do marido** no dia a dia, certo? Você acha que sou diferente? Sem esse apoio, dificilmente eu conseguiria dar conta de tantos afazeres diários&#8230; então, está na hora de escalar o maridão, <em>hein?</em>
+  **<span style="font-size: large;">5</span>** &#8211; Hoje em dia, qualquer mulher moderna conta com a **parceria do marido** no dia a dia, certo? Você acha que sou diferente? Sem esse apoio, dificilmente eu conseguiria dar conta de tantos afazeres diários&#8230; então, está na hora de escalar o maridão, _hein?_
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Dicas da Violeta Nascimento… </span>**<a href="http://ateliervioletanascimento.blogspot.com.br/" target="_blank">**<span style="font-size: large;">Violeta Atelier</span>**</a>
+  **<span style="font-size: large;">Dicas da Violeta Nascimento… </span>**[**<span style="font-size: large;">Violeta Atelier</span>**](http://ateliervioletanascimento.blogspot.com.br/) 
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">7 </span>**&#8211; Faço parte de um **grupo de organização domestica na <em>net</em>** como leitora.
+  **<span style="font-size: large;">7 </span>**&#8211; Faço parte de um **grupo de organização domestica na _net_** como leitora.
 </p>
 
 <p align="justify">
@@ -76,7 +76,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Dicas de Rita Vieira…</span>**<a href="http://www.pintomasnaobordo.com.br/" target="_blank">**<span style="font-size: large;">Pinto mas não bordo</span>**</a>
+  **<span style="font-size: large;">Dicas de Rita Vieira…</span>**[**<span style="font-size: large;">Pinto mas não bordo</span>**](http://www.pintomasnaobordo.com.br/) 
 </p>
 
 &nbsp;
@@ -96,7 +96,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Dicas de Elaine Cunha… </span>**<a href="http://www.caminhandocontando.com/" target="_blank">**<span style="font-size: large;">Caminhando e Contando</span>**</a>
+  **<span style="font-size: large;">Dicas de Elaine Cunha… </span>**[**<span style="font-size: large;">Caminhando e Contando</span>**](http://www.caminhandocontando.com/) 
 </p>
 
 &nbsp;
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">14 </span>**– **Diariamente**, organizo algumas coisas essenciais: **tirar lixo da cozinha, separar atividades para outro dia, arrumar mala do bebe (em caso de saída pela manhã), arrumar cadeiras, brinquedos do filho em caixas,  afofar almofadas…**deixar arrumado. Pelo menos as coisas no lugar. Pois ao acordar, terei o conforto de que casa tá arrumada. É o famoso <em>Declutter</em> por 15 Minutos. **15 minutos em cada cômodo da casa e terá tudo em ordem.**
+  **<span style="font-size: large;">14 </span>**– **Diariamente**, organizo algumas coisas essenciais: **tirar lixo da cozinha, separar atividades para outro dia, arrumar mala do bebe (em caso de saída pela manhã), arrumar cadeiras, brinquedos do filho em caixas,  afofar almofadas…**deixar arrumado. Pelo menos as coisas no lugar. Pois ao acordar, terei o conforto de que casa tá arrumada. É o famoso _Declutter_ por 15 Minutos. **15 minutos em cada cômodo da casa e terá tudo em ordem.**
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/COMPUTADOR.jpg"><img class="alignnone size-full wp-image-9520" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/COMPUTADOR.jpg" alt="COMPUTADOR" width="600" height="395" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/COMPUTADOR.jpg"><img class="alignnone size-full wp-image-9520" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/COMPUTADOR.jpg" alt="COMPUTADOR" width="600" height="395" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 <p align="justify">
@@ -146,5 +146,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

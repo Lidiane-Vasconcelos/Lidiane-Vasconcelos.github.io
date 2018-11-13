@@ -22,7 +22,7 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 </p>
 
 <p style="text-align: justify;">
-  Agora que o Carnaval passou e, dizem os brasileiros, o ano vai começar de verdade, não será nada mal se uma agenda passar a ser sua fiel escudeira, hein? Eu que o diga! As agendas são as minhas melhores amigas no dia a dia, e isso há anos. Para quem quer manter-se organizada quanto aos compromissos e listas de afazeres importantes, seja na vida pessoal ou profissional, eu recomendo o uso delas <em>comtodasasforças</em> do meu ser…
+  Agora que o Carnaval passou e, dizem os brasileiros, o ano vai começar de verdade, não será nada mal se uma agenda passar a ser sua fiel escudeira, hein? Eu que o diga! As agendas são as minhas melhores amigas no dia a dia, e isso há anos. Para quem quer manter-se organizada quanto aos compromissos e listas de afazeres importantes, seja na vida pessoal ou profissional, eu recomendo o uso delas _comtodasasforças_ do meu ser…
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 </p>
 
 <p style="text-align: justify;">
-  Na hora de montar uma mesa para um lanche ou refeição do dia a dia, não é gostoso colorir esse momento com detalhes decorativos? <em>Tooooda</em> bicha fêmea navegante, e que também é diva do lar, há de concordar comigo…
+  Na hora de montar uma mesa para um lanche ou refeição do dia a dia, não é gostoso colorir esse momento com detalhes decorativos? _Tooooda_ bicha fêmea navegante, e que também é diva do lar, há de concordar comigo…
 </p>
 
 <p style="text-align: justify;">
@@ -46,7 +46,7 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 </p>
 
 <p style="text-align: justify;">
-  Quem curte a casa, a decoração e o prazer de enfeitá-la sabe que o encantamento fica nos pequenos detalhes. A linha de frutas, verduras e legumes artesanais, produzidas em tecido pela **Joana Campos**, a artesã por trás dessas peças e que também edita o blog <a href="http://www.joanacampos.com/" target="_blank">Joana Campos – de mim pra você…e de você pra mim</a>, tem revelado um charme rústico que traz muita graça a qualquer cozinha. Olha só:
+  Quem curte a casa, a decoração e o prazer de enfeitá-la sabe que o encantamento fica nos pequenos detalhes. A linha de frutas, verduras e legumes artesanais, produzidas em tecido pela **Joana Campos**, a artesã por trás dessas peças e que também edita o blog [Joana Campos – de mim pra você…e de você pra mim](http://www.joanacampos.com/) , tem revelado um charme rústico que traz muita graça a qualquer cozinha. Olha só:
 </p>
 
 <p style="text-align: center;">
@@ -74,19 +74,19 @@ Em tempos de pressa em todos os aspectos da vida, tudo o que é produzido de man
 **_[Prateleira do Bicha Fêmea: Bird Crafts](http://www.trololodemulher.com.br/2010/08/25/kit-festas-bird-crafts/)_**
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 **_ _**

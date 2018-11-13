@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Na verdade, acredito que tudo dá. Elke Maravilha mostrava isso como ninguém 🙂 &#8211; O que não dá é sair se sentindo DESconfortável com sua maquiagem, não é? O que vale lembrar é: como a iluminação da noite é diferente, para aparecer que tem uma maquiagem ali, é bom reforçar os tons. Então, se estiver com aquela maquiagem leve do dia, pode dar uma reforçada em tudo, além daqueles bem-vindos toques de pretinho pra realçar cílios , tanto com rímel como com lápis. E mais sombra e uns brilhos, se você for mais animada na produção</em>.”
+  **“**_Na verdade, acredito que tudo dá. Elke Maravilha mostrava isso como ninguém 🙂 &#8211; O que não dá é sair se sentindo DESconfortável com sua maquiagem, não é? O que vale lembrar é: como a iluminação da noite é diferente, para aparecer que tem uma maquiagem ali, é bom reforçar os tons. Então, se estiver com aquela maquiagem leve do dia, pode dar uma reforçada em tudo, além daqueles bem-vindos toques de pretinho pra realçar cílios , tanto com rímel como com lápis. E mais sombra e uns brilhos, se você for mais animada na produção_.”
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Ir aos poucos. Aplicar a sombra no pincel e dar uma batidinha no dorso da mão pra tirar o excesso. E esfumar bem, com movimentos circulares, todos movimentos muito de leve, hein! Pra facilitar o entendimento dessa etapa, recomendo meus 3 vídeos sobre &#8216;Como passar dois tons de sombra&#8217; 🙂</em>”
+  **“**_Ir aos poucos. Aplicar a sombra no pincel e dar uma batidinha no dorso da mão pra tirar o excesso. E esfumar bem, com movimentos circulares, todos movimentos muito de leve, hein! Pra facilitar o entendimento dessa etapa, recomendo meus 3 vídeos sobre &#8216;Como passar dois tons de sombra&#8217; 🙂_”
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Pois é&#8230; Pra não virar caracterização da Penélope :P, uma misturinha bonita é aplicar um pouco de sombra preta no canto externo e/ou na raiz dos cílios. No caso de deixar a sombra mais rosada, fica legal um batom mais tom de boca e um blush menos rosado</em>.”
+  **“**_Pois é&#8230; Pra não virar caracterização da Penélope :P, uma misturinha bonita é aplicar um pouco de sombra preta no canto externo e/ou na raiz dos cílios. No caso de deixar a sombra mais rosada, fica legal um batom mais tom de boca e um blush menos rosado_.”
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Pessoalmente não gosto muito dos tons de blush que &#8216;puxam&#8217; pro pink, mas um rosa suave ou rosa mais queimado acho bonito sim, principalmente para peles clarinhas. As peles negras ficam lindas com um rosa puxando pro vinho</em>.”
+  **“**_Pessoalmente não gosto muito dos tons de blush que &#8216;puxam&#8217; pro pink, mas um rosa suave ou rosa mais queimado acho bonito sim, principalmente para peles clarinhas. As peles negras ficam lindas com um rosa puxando pro vinho_.”
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="justify">
-  **“**<em>Soprar ou balançar o pincel antes de aplicar, para retirar o excesso de produto das cerdas. Começar a aplicar das laterais externas para o centro, em movimentos suaves. Caso fique excesso mesmo assim, é só retirar um pouco com a esponjinha ou com a mão e aplicar um pouco de pó onde foi retirado o blush. Tenho um vídeo também.</em>”
+  **“**_Soprar ou balançar o pincel antes de aplicar, para retirar o excesso de produto das cerdas. Começar a aplicar das laterais externas para o centro, em movimentos suaves. Caso fique excesso mesmo assim, é só retirar um pouco com a esponjinha ou com a mão e aplicar um pouco de pó onde foi retirado o blush. Tenho um vídeo também._”
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -113,18 +113,18 @@ categories:
 
 **Mais consultorias da Márcia:**
 
-<a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">**Medidas práticas para restaurar sua aut-estima… já!**</a>
+[**Medidas práticas para restaurar sua aut-estima… já!**](http://www.trololodemulher.com.br/2016/05/30/autoestima/) 
 
-<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">**Maquiagem leve e sofisticada: como conseguir esse efeito?**</a>
+[**Maquiagem leve e sofisticada: como conseguir esse efeito?**](http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/) 
 
 &nbsp;
 
 <p align="justify">
-  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank">seu blog</a> e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/" target="_blank">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
+  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “_Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?_”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um _expert_ em _makes_ propor uma abordagem nessa área que fosse além da estética. Que achado! Você _pre-ci-sa_ conhecer o [site da Márcia](http://www.marciadamasceno.com.br/) , sua [fanpage](https://www.facebook.com/maquiagemnaoetudo/timeline) , [seu blog](http://www.marciadamasceno.com.br/#blog)  e [sua loja](http://www.marciadamasceno.com.br/produtos-marcia-damasceno/) … prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

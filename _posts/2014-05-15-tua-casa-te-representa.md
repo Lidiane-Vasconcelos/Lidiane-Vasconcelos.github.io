@@ -27,11 +27,11 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 
 **Tudo a ver:**
 
-<a href="http://www.trololodemulher.com.br/2013/08/07/casa-lar-decoracao/" target="_blank">Casa é diferente de lar, certo?</a>
+[Casa é diferente de lar, certo?](http://www.trololodemulher.com.br/2013/08/07/casa-lar-decoracao/) 
 
-<a href="http://www.trololodemulher.com.br/2011/08/22/decoracao-da-casa-2/" target="_blank">Do que você mais gosta na sua casa?</a>
+[Do que você mais gosta na sua casa?](http://www.trololodemulher.com.br/2011/08/22/decoracao-da-casa-2/) 
 
-<a href="http://www.decoracaodacasa.com/casa-decoracao-2/" target="_blank">Sua casa é perfeita para você?</a>
+[Sua casa é perfeita para você?](http://www.decoracaodacasa.com/casa-decoracao-2/) 
 
 &nbsp;
 
@@ -48,7 +48,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Gosto de vários lugares em minha casa, mas o lugar onde a família passa a maior parte do tempo é no meu quintal que transformei em sala de almoço. Apesar de possuir um outro lugar em casa destinado ao lazer (piscina/churrasqueira) é esse lugar que nos sentimos melhor aconchegados. A minha cozinha ficou mais alegre e espaçosa. Vale a pena transformar o seu quintal!” **Luma Rosa | **<a href="http://luzdeluma.blogspot.com.br/" target="_blank">**Luz de Luma, yes party**</a>
+>   Gosto de vários lugares em minha casa, mas o lugar onde a família passa a maior parte do tempo é no meu quintal que transformei em sala de almoço. Apesar de possuir um outro lugar em casa destinado ao lazer (piscina/churrasqueira) é esse lugar que nos sentimos melhor aconchegados. A minha cozinha ficou mais alegre e espaçosa. Vale a pena transformar o seu quintal!” **Luma Rosa | **[**Luz de Luma, yes party**](http://luzdeluma.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -60,16 +60,16 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Aqui está a foto do meu cantinho favorito no apê. Foi difícil escolher, porque a casinha toda foi decorada com muito carinho. A foto é de um pedaço da sala, onde fiz meu home office. É aqui que faço o tratamento de imagens, respondo e-mails e ainda asssito a um filminho na TV. Desenhei os móveis e pedi para o marceneiro fazer sob medida, e assim ganhei centímetros valiosos.” **Ruby Fernandes | **<a href="http://rubyfernandes.com.br/" target="_blank">**Ruby Fernandes Fotografia**</a>
+>   Aqui está a foto do meu cantinho favorito no apê. Foi difícil escolher, porque a casinha toda foi decorada com muito carinho. A foto é de um pedaço da sala, onde fiz meu home office. É aqui que faço o tratamento de imagens, respondo e-mails e ainda asssito a um filminho na TV. Desenhei os móveis e pedi para o marceneiro fazer sob medida, e assim ganhei centímetros valiosos.” **Ruby Fernandes | **[**Ruby Fernandes Fotografia**](http://rubyfernandes.com.br/) 
 > </p>
 
 &nbsp;
 
 **Tudo a ver:**
 
-<a href="http://www.trololodemulher.com.br/2011/07/05/decoracao-romantica-ruby/" target="_blank">Decoração romântica: casa de Ruby</a>
+[Decoração romântica: casa de Ruby](http://www.trololodemulher.com.br/2011/07/05/decoracao-romantica-ruby/) 
 
-<a href="http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/" target="_blank">Os vários olhares na fotografia de Ruby Fernandes</a>
+[Os vários olhares na fotografia de Ruby Fernandes](http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/) 
 
 &nbsp;
 
@@ -80,7 +80,7 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Esse cantinho da casa tem um significado muito especial para nós três. Foi a primeira mudança que fizemos na casa depois de passarmos por um momento muito difícil em nossas vidas. Foi algo tipo: ano novo, vida nova, decoração nova, bola pra frente, a vida segue, não podemos deixar espaço pra tristeza entrar nesse lar que sempre foi de alegrias. Assim mesmo: cheio de vírgulas e sem pontos. Sem parar pra respirar. Sem parar pra pensar&#8230; Tive a ideia, procurei o tecido, comprei. Filhote (na época com 9 anos) e marido ajudaram a colocar. Foi algo feito para nós três e por nós três. Uma bagunça deliciosamente bonita! O resultado ficou incrível!” **Raquel Teixeira (Keka) | **<a href="http://www.tresemcasa.com.br/" target="_blank">**3 em casa**</a>
+>   Esse cantinho da casa tem um significado muito especial para nós três. Foi a primeira mudança que fizemos na casa depois de passarmos por um momento muito difícil em nossas vidas. Foi algo tipo: ano novo, vida nova, decoração nova, bola pra frente, a vida segue, não podemos deixar espaço pra tristeza entrar nesse lar que sempre foi de alegrias. Assim mesmo: cheio de vírgulas e sem pontos. Sem parar pra respirar. Sem parar pra pensar&#8230; Tive a ideia, procurei o tecido, comprei. Filhote (na época com 9 anos) e marido ajudaram a colocar. Foi algo feito para nós três e por nós três. Uma bagunça deliciosamente bonita! O resultado ficou incrível!” **Raquel Teixeira (Keka) | **[**3 em casa**](http://www.tresemcasa.com.br/) 
 > </p>
 
 &nbsp;
@@ -92,21 +92,21 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 > <p align="justify">
->   Minha casa tem muitas referências dos lugares por onde passei e tanto a estante, quanto a parede adjacente, e o móvel da TV, concentram lembranças de viagens que me marcaram. Bom, na verdade, posso dizer que toda viagem que fiz na vida me marcou de alguma maneira. Outro dia escrevi o seguinte: “Sinto que volto pra casa diferente depois de uma viagem, principalmente as que faço pra lugares distantes com culturas muito diferentes da nossa. É tanto aprendizado num período de tempo tão curto! Não tem como voltar igualzinha&#8230; mais do que um novo carimbo no passaporte, sinto que ganho um carimbo na alma”. Por isso gosto de me cercar de objetos que possuem histórias e que foram adquiridos em momentos especiais. Não os vejo como simples peças de decoração porque toda vez que olho pra eles lembro dos lugares que visitei e sinto uma nostalgia gostosa.” **Katia Bonfadini | **<a href="http://www.casosecoisasdabonfa.blogspot.com.br/" target="_blank">**Casos e Coisas da Bonfa**</a>
+>   Minha casa tem muitas referências dos lugares por onde passei e tanto a estante, quanto a parede adjacente, e o móvel da TV, concentram lembranças de viagens que me marcaram. Bom, na verdade, posso dizer que toda viagem que fiz na vida me marcou de alguma maneira. Outro dia escrevi o seguinte: “Sinto que volto pra casa diferente depois de uma viagem, principalmente as que faço pra lugares distantes com culturas muito diferentes da nossa. É tanto aprendizado num período de tempo tão curto! Não tem como voltar igualzinha&#8230; mais do que um novo carimbo no passaporte, sinto que ganho um carimbo na alma”. Por isso gosto de me cercar de objetos que possuem histórias e que foram adquiridos em momentos especiais. Não os vejo como simples peças de decoração porque toda vez que olho pra eles lembro dos lugares que visitei e sinto uma nostalgia gostosa.” **Katia Bonfadini | **[**Casos e Coisas da Bonfa**](http://www.casosecoisasdabonfa.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
 **Tudo a ver:**
 
-<a href="http://www.trololodemulher.com.br/2010/09/22/entrevista-katia-bonfadini/" target="_blank">Uma bicha fêmea por outra: Katia Bonfadini</a>
+[Uma bicha fêmea por outra: Katia Bonfadini](http://www.trololodemulher.com.br/2010/09/22/entrevista-katia-bonfadini/) 
 
-<a href="http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/" target="_blank">Viagem: 5 lugares para conhecer e se surpreender</a>
+[Viagem: 5 lugares para conhecer e se surpreender](http://www.trololodemulher.com.br/2011/08/05/viagem-5-lugares-para-conhecer/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -123,13 +123,13 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -138,5 +138,5 @@ Que graça teria morar numa casa que não tem nossa identidade, num cantinho mí
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

@@ -53,7 +53,7 @@ A medida que vou descobrindo o que vejo, me vêm a cabeça ideias e algumas conc
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.midwestliving.com/mwl/" src="http://images.meredith.com/mwl/images/2008/12/ss_101132010.jpg" alt="http://www.midwestliving.com/mwl/" />
 </p>
 
-Imagens: <a href="http://www.midwestliving.com/mwl/" target="_blank">Midwest Living</a>
+Imagens: [Midwest Living](http://www.midwestliving.com/mwl/) 
 
 **Quer mais dicas sobre dicas par aproveitar a vida?**
 

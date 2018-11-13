@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  E aí? Será que dá para garantir beleza a um revestimento que será usado e higienizado tão constantemente? A boa notícia é que, sim, dá para aliar praticidade e beleza. Segundo Leticia, “<em>cada vez mais a indústria de cerâmica nos dá opções bonitas, duráveis e adequadas para a cozinha. É importante sempre ter atenção as especificações técnicas do produto, para não comprar gato por lebre</em>”.
+  E aí? Será que dá para garantir beleza a um revestimento que será usado e higienizado tão constantemente? A boa notícia é que, sim, dá para aliar praticidade e beleza. Segundo Leticia, “_cada vez mais a indústria de cerâmica nos dá opções bonitas, duráveis e adequadas para a cozinha. É importante sempre ter atenção as especificações técnicas do produto, para não comprar gato por lebre_”.
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p align="center">
-  **<em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg"><img class="alignnone size-full wp-image-5932" title="piso de cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg" alt="" width="592" height="395" /></a></span></em>**
+  **_<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg"><img class="alignnone size-full wp-image-5932" title="piso de cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/piso-de-cozinha.jpg" alt="" width="592" height="395" /></a></span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  De acordo com Letícia, precisamos ficar atentos aos seguintes aspectos: resistência alta a circulação de pessoas e ao uso de materiais abrasivos, já que as famílias brasileiras têm o hábito de usar muitos materiais de limpeza nessa área. O que a arquiteta e blogueira recomenda é a escolha de pisos classificados como PEI 4 ou PEI 5. Pergunte ao vendedor se o piso que você escolheu está dentro desse padrão, assim você garante que a <em>belezura</em> de revestimento que você escolheu também será resistente.
+  De acordo com Letícia, precisamos ficar atentos aos seguintes aspectos: resistência alta a circulação de pessoas e ao uso de materiais abrasivos, já que as famílias brasileiras têm o hábito de usar muitos materiais de limpeza nessa área. O que a arquiteta e blogueira recomenda é a escolha de pisos classificados como PEI 4 ou PEI 5. Pergunte ao vendedor se o piso que você escolheu está dentro desse padrão, assim você garante que a _belezura_ de revestimento que você escolheu também será resistente.
 </p>
 
 <p style="text-align: justify;">
@@ -49,7 +49,7 @@ categories:
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    **“<em>Outra característica importante a ser observada é a resistência ao escorregamento, mas isso é algo muito pessoal. Particularmente não gosto de recomendar pisos muito lisos para cozinha, porque a combinação piso liso + óleos de cozinha pode ser desastrosa. Em caso de pessoas com idosos e crianças em casa, devem observar muito isso, por questões de segurança. Em caso de uso de pedras (granitos, mármores) tome a precaução de perguntar sobre a porosidade. Quanto mais poroso o revestimento, mais irá absorver água e outros produtos, o que não é recomendável para cozinhas, não? Alguns pisos são mais porosos que os outros, portanto, se puder observar é legal para não ter problemas futuros. Algo muito comum em pisos porosos é a corrosão pelos produtos de limpeza (tais como cloro).”</em>**
+    **“_Outra característica importante a ser observada é a resistência ao escorregamento, mas isso é algo muito pessoal. Particularmente não gosto de recomendar pisos muito lisos para cozinha, porque a combinação piso liso + óleos de cozinha pode ser desastrosa. Em caso de pessoas com idosos e crianças em casa, devem observar muito isso, por questões de segurança. Em caso de uso de pedras (granitos, mármores) tome a precaução de perguntar sobre a porosidade. Quanto mais poroso o revestimento, mais irá absorver água e outros produtos, o que não é recomendável para cozinhas, não? Alguns pisos são mais porosos que os outros, portanto, se puder observar é legal para não ter problemas futuros. Algo muito comum em pisos porosos é a corrosão pelos produtos de limpeza (tais como cloro).”_**
   </p>
 </blockquote>
 
@@ -58,11 +58,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Há pisos com preços bem acessíveis, como é o caso da ardósia, cujas características para uso de revestimento de pisos de cozinha não são as mais aconselháveis. “<em>Ela é pouco resistente nas espessuras padrões do mercado (muitas vezes um peso cai sobre ela e ela racha) e muito escorregadia. Pode gerar alguns acidentes</em>”, é o que alerta a Letícia Lodi. Será que vale a pena economizar tanto e amargar certos prejuízos depois?
+  Há pisos com preços bem acessíveis, como é o caso da ardósia, cujas características para uso de revestimento de pisos de cozinha não são as mais aconselháveis. “_Ela é pouco resistente nas espessuras padrões do mercado (muitas vezes um peso cai sobre ela e ela racha) e muito escorregadia. Pode gerar alguns acidentes_”, é o que alerta a Letícia Lodi. Será que vale a pena economizar tanto e amargar certos prejuízos depois?
 </p>
 
 <p align="center">
-  **<em><span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg"><img class="alignnone size-full wp-image-5931" title="Exif JPEG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg" alt="" width="530" height="409" /></a></span></em>**
+  **_<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg"><img class="alignnone size-full wp-image-5931" title="Exif JPEG" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/cor-revestimento-piso-cozinha.jpg" alt="" width="530" height="409" /></a></span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  De acordo com Leticia, “<em>muitas pessoas preferem os pisos claros para ‘poderem ver a sujeira’, outras têm um pensamento oposto, ‘o escuro ajuda a mascarar um pouco quando temos pouco tempo para arrumar’. Mas no geral, a escolha de cor é muito pessoal e o que melhor combina com a decoração</em>”. Sendo assim, pense no seu estilo e gosto pessoal, e em como pretende decorar sua cozinha depois.
+  De acordo com Leticia, “_muitas pessoas preferem os pisos claros para ‘poderem ver a sujeira’, outras têm um pensamento oposto, ‘o escuro ajuda a mascarar um pouco quando temos pouco tempo para arrumar’. Mas no geral, a escolha de cor é muito pessoal e o que melhor combina com a decoração_”. Sendo assim, pense no seu estilo e gosto pessoal, e em como pretende decorar sua cozinha depois.
 </p>
 
 <p style="text-align: justify;">
@@ -78,9 +78,9 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+  _Imagens: _[_stock.xchng_](http://www.sxc.hu/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

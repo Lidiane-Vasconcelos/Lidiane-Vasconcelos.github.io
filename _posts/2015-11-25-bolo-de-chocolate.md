@@ -70,7 +70,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  “<em>Bata as claras em neve e reserve. Bata as gemas, manteiga ghee e açúcar demerara até que fique esbranquiçado. Acrescente o cacau em pó, o bicarbonato de sódio e bata mais. Depois acrescente o leite quente e bate mais um pouco. Acrescente aos poucos o farelo de aveia, linhaça, trigo integral e branco. Não pare de bater. Acrescente o fermento, as claras em neve e mexa com delicadeza. Unte uma forma com manteiga ghee e cacau em pó. Só untar o fundo da forma, não untar as laterais. Leve ao forno em 180 graus até assar. Quando o bolo ficar morno, desenformar , faça furos com o garfo e regue com a calda.”</em>
+  “_Bata as claras em neve e reserve. Bata as gemas, manteiga ghee e açúcar demerara até que fique esbranquiçado. Acrescente o cacau em pó, o bicarbonato de sódio e bata mais. Depois acrescente o leite quente e bate mais um pouco. Acrescente aos poucos o farelo de aveia, linhaça, trigo integral e branco. Não pare de bater. Acrescente o fermento, as claras em neve e mexa com delicadeza. Unte uma forma com manteiga ghee e cacau em pó. Só untar o fundo da forma, não untar as laterais. Leve ao forno em 180 graus até assar. Quando o bolo ficar morno, desenformar , faça furos com o garfo e regue com a calda.”_
 </p>
 
 &nbsp;
@@ -83,22 +83,22 @@ categories:
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank">**Beijinho sem leite condensado**</a>
+[**Beijinho sem leite condensado**](http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/) 
 
-<a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank">**Receita saudável: suflê de couve-flor e cenoura**</a>
+[**Receita saudável: suflê de couve-flor e cenoura**](http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/) 
 
-<a href="http://www.belezacorpoecia.com/bolo-simples-integral/" target="_blank">**Bolo simples integral com gotas de chocolate**</a>
+[**Bolo simples integral com gotas de chocolate**](http://www.belezacorpoecia.com/bolo-simples-integral/) 
 
-<a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">**Mousse de abacate e cacau em pó**</a>
+[**Mousse de abacate e cacau em pó**](http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/) 
 
 &nbsp;
 
-Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

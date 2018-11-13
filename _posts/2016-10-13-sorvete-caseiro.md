@@ -18,45 +18,45 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>E aqui estou eu, tentando manter a minha dieta com uma sobremesa saudável. Eu realmente preciso confessar que as sobremesas são o meu calcanhar de Aquiles, mas estou determinada a evitar a sensação de culpa após comer doces todos os dias.</em>
+  “_E aqui estou eu, tentando manter a minha dieta com uma sobremesa saudável. Eu realmente preciso confessar que as sobremesas são o meu calcanhar de Aquiles, mas estou determinada a evitar a sensação de culpa após comer doces todos os dias._
 </p>
 
 <p align="justify">
-  <em>Você está pronto para uma nova receita? Sorvete de Melancia caseiro. Vamos prepará-lo !!</em>
+  _Você está pronto para uma nova receita? Sorvete de Melancia caseiro. Vamos prepará-lo !!_
 </p>
 
 <p align="justify">
-  **<em>Ingredientes:</em>**
+  **_Ingredientes:_**
 </p>
 
   * <div align="justify">
-      <em>4 xícaras de melancia </em>
+      _4 xícaras de melancia _
     </div>
 
   * <div align="justify">
-      <em>4 colheres de sopa de mel </em>
+      _4 colheres de sopa de mel _
     </div>
 
   * <div align="justify">
-      <em>1/2 xícara de iogurte </em>
+      _1/2 xícara de iogurte _
     </div>
 
   * <div align="justify">
-      <em>2 colheres de sopa de suco de limão, fresco </em>
+      _2 colheres de sopa de suco de limão, fresco _
     </div>
 
   * <div align="justify">
-      <em>1 colher de sopa de vodka (opcional)</em>
+      _1 colher de sopa de vodka (opcional)_
     </div>
 
 <p align="justify">
-  <em>1 – Congelar a melancia por pelo menos 4 horas. É importante que esteja realmente congelada.</em>
+  _1 – Congelar a melancia por pelo menos 4 horas. É importante que esteja realmente congelada._
 </p>
 
 2 – Em um processador de alimentos processe todos os ingredientes acima, apenas o tempo suficiente para fazer um bom sorvete cremoso (4 minutos no máximo).
 
 <p align="justify">
-  <em>Sugiro comê-lo imediatamente. Você também pode congelá-lo por até 1 mês, mas a textura não será tão suave e fresca como quando preparado</em>.”
+  _Sugiro comê-lo imediatamente. Você também pode congelá-lo por até 1 mês, mas a textura não será tão suave e fresca como quando preparado_.”
 </p>
 
 &nbsp;
@@ -69,16 +69,16 @@ categories:
 
 **Mais receita de Tania:**
 
-<a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank">**Como fazer barra de cereal caseira?**</a>
+[**Como fazer barra de cereal caseira?**](http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/) 
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se **<em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em>**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se **_[I Want to be a cook](https://iwanttobeacook.wordpress.com/) _**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

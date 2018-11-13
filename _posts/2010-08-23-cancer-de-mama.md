@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <em>Clique na imagem para ampliar</em>
+  _Clique na imagem para ampliar_
 </p>
 
 <p style="text-align: justify;">
@@ -54,19 +54,19 @@ categories:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **<em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/ana-paula-tardido/" target="_self">Ana Paula Tardido</a></em>**
+      **_Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/ana-paula-tardido/" target="_self">Ana Paula Tardido</a>_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      **<em>Nutricionista</em>**
+      **_Nutricionista_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      **<em>CRN3 15579</em>**
+      **_CRN3 15579_**
     </td>
   </tr>
 </table>
@@ -80,9 +80,9 @@ Quer fazer como Ana Paula, e publicar seu texto por aqui? Seja uma **_[bicha fê
 **_<a href="http://www.trololodemulher.com.br/2010/01/11/viva-melhor-grupo-de-apoio-e-auto-ajuda-s-mulheres-mastectomizadas/" target="_self">Viva Melhor &#8211; Grupo de Apoio e auto ajuda ás mulheres mastectomizadas</a>_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/" target="_self">**<em>Bem</em>****<em> Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/" target="_self">**<em>Vida com Estilo</em>**</a>> Câncer de mama: o importante é nunca desistir.
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/" target="_self">**_Bem_****_ Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/" target="_self">**_Vida com Estilo_**</a>> Câncer de mama: o importante é nunca desistir.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

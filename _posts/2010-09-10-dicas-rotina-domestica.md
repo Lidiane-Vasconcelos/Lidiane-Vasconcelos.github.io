@@ -18,7 +18,7 @@ Desde sempre estamos envolvidos no dia a dia com as **_tarefas da casa_**, e nem
 <!--more-->
 
 <p style="text-align: justify;">
-  Parece que é exatamente isso o que vem acontecendo com uma bicha fêmea navegante, a Cristina, que pediu ajuda no post onde discutimos a questão sobre organização pessoal: **<em><a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/">fazer as coisas ou deixá-las acontecer?</a></em>**
+  Parece que é exatamente isso o que vem acontecendo com uma bicha fêmea navegante, a Cristina, que pediu ajuda no post onde discutimos a questão sobre organização pessoal: **_<a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/">fazer as coisas ou deixá-las acontecer?</a>_**
 </p>
 
 Cristina escreveu assim:_ ****_
@@ -26,7 +26,7 @@ Cristina escreveu assim:_ ****_
 > _“… PRECISO ORGANIZAR MEU DIA A DIA PORQUE, COMO LI ALI EM CIMA, SOU DAQUELAS QUE APAGA INCÊNDIOS DIÁRIOS. ME AJUDE POR FAVOR! BJS CRIS_”
 
 <p style="text-align: justify;">
-  Cristina não é a única a tentar se encontrar no meio de tantos afazeres diários, não é verdade? Todas nós, que somos de carne e osso e bem reais, vivemos essa realidade. A Katia Bonfadini, que edita o <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>, por exemplo, admite:
+  Cristina não é a única a tentar se encontrar no meio de tantos afazeres diários, não é verdade? Todas nós, que somos de carne e osso e bem reais, vivemos essa realidade. A Katia Bonfadini, que edita o [Casos e Coisas da Bonfa](http://www.casosecoisasdabonfa.blogspot.com/) , por exemplo, admite:
 </p>
 
 > “_Confesso que não sou uma pessoa super organizada no dia a dia, minhas gavetas tem roupas emboladas e amarrotadas e os sapatos ficam uns sobre os outros dentro dos armários, é uma confusão só!”_
@@ -40,7 +40,7 @@ Mas como é esperado, todas nós temos limites quanto a tolerar a bagunça, e co
 </p>
 
 <p style="text-align: justify;">
-  Quem dá as sugestões no Bicha Fêmea quanto a rotina de cuidados e organização doméstica é a Simone, mãe e blogueira que cuida do espaço virtual <a href="http://newsespacohome.blogspot.com/" target="_blank">ORGANIZAÇÃO COM ESTILO</a>, onde dá dicas de organização úteis a qualquer bicha fêmea navegante.
+  Quem dá as sugestões no Bicha Fêmea quanto a rotina de cuidados e organização doméstica é a Simone, mãe e blogueira que cuida do espaço virtual [ORGANIZAÇÃO COM ESTILO](http://newsespacohome.blogspot.com/) , onde dá dicas de organização úteis a qualquer bicha fêmea navegante.
 </p>
 
 > “…_uma casa com crianças não pode ser uma casa “engessada”, temos que dar espaço para elas desenvolverem suas teorias e brincadeiras. Sendo assim, é necessário criar sistemas funcionais que ajudem a manter a Ordem e o Progresso!!! Uma das coisas que funciona para mim é: **acordar mais cedo que a turminha e, enquanto elas sonham com a bagunça, eu já dei uma geral no resto da casa**_**.”**
@@ -83,7 +83,7 @@ Facilite a vida! Controle a bagunça!
       </p>
       
       <p>
-        6 – Aprenda **<em><a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/">+ 5 dicas de organização para eliminar o excesso de bagunça em casa</a></em>** que foram publicadas anteriormente no Bicha Fêmea.
+        6 – Aprenda **_<a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/">+ 5 dicas de organização para eliminar o excesso de bagunça em casa</a>_** que foram publicadas anteriormente no Bicha Fêmea.
       </p>
       
       <p>
@@ -94,7 +94,7 @@ Facilite a vida! Controle a bagunça!
         </td></tr> </tbody> </table> 
         
         <p>
-          <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+          _Imagens: _[_stock.xchng_](http://www.sxc.hu/) 
         </p>
         
         <p>
@@ -102,29 +102,29 @@ Facilite a vida! Controle a bagunça!
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/">Dicas para organizar sua maquiagem.</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/">Dicas para organizar sua maquiagem.</a>_**
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/">Organizando a bagunça em casa: dicas, truques e objetos úteis.</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/">Organizando a bagunça em casa: dicas, truques e objetos úteis.</a>_**
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/07/02/organizacao-guarda-roupa/">Pitacos de bicha fêmea: organização do closet ou guarda roupas.</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/07/02/organizacao-guarda-roupa/">Pitacos de bicha fêmea: organização do closet ou guarda roupas.</a>_**
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/06/18/tabua-passar-roupa-retratil/">Organização na lavanderia: ganhe espaço com uma tábua de passar roupas retrátil.</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/06/18/tabua-passar-roupa-retratil/">Organização na lavanderia: ganhe espaço com uma tábua de passar roupas retrátil.</a>_**
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/">Lavanderia: que tipo de máquina facilita a organização?</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/">Lavanderia: que tipo de máquina facilita a organização?</a>_**
         </p>
         
         <p style="text-align: center;">
-          Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & decoração</em>**</a> > <a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/">**<em>Casa</em>**</a> > Dicas para facilitar a rotina doméstica
+          Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa & decoração_**</a> > <a href="http://www.trololodemulher.com.br/category/casa-cuidados-limpeza/">**_Casa_**</a> > Dicas para facilitar a rotina doméstica
         </p>
         
         <p style="text-align: center;">
-          Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+          Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
         </p>

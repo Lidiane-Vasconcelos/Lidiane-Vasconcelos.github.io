@@ -15,7 +15,7 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
 &nbsp;
 
 <p align="justify">
-  Você se enxerga em alguma das situações, bonita? Pois é, você não é a única. Muitas outras bichas fêmeas navegantes como você dividiram suas experiências por aqui, desabafaram e deram apoio para uma e outra. Quer conferir e entrar no <em>trololó</em>? Se joga!
+  Você se enxerga em alguma das situações, bonita? Pois é, você não é a única. Muitas outras bichas fêmeas navegantes como você dividiram suas experiências por aqui, desabafaram e deram apoio para uma e outra. Quer conferir e entrar no _trololó_? Se joga!
 </p>
 
 <!--more-->
@@ -94,24 +94,24 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://www.orkut.com.br/Community?cmm=92609046" target="_blank"><img class="alignnone size-full wp-image-6856" title="Orkut" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Orkut.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6856" title="Orkut" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Orkut.png" alt="" width="49" height="49" />](http://www.orkut.com.br/Community?cmm=92609046) 
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

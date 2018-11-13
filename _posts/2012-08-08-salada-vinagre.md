@@ -14,19 +14,19 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
 &nbsp;
 
 <p align="justify">
-  Vai por mim e confere as dicas, <em>tá</em>? Eu mesma achei tudo uma delícia e fiquei com vontade de experimentar os truques das meninas. Se você, como elas e eu, tem mais que uma quedinha por um temperinho gostoso regado com vinagre, se joga!
+  Vai por mim e confere as dicas, _tá_? Eu mesma achei tudo uma delícia e fiquei com vontade de experimentar os truques das meninas. Se você, como elas e eu, tem mais que uma quedinha por um temperinho gostoso regado com vinagre, se joga!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/vinagre-branco-balsamico-maca/" rel="attachment wp-att-8985"><img class="alignnone size-full wp-image-8985" title="VINAGRE-BRANCO-BALSAMICO-MACA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA.png" alt="" width="234" height="317" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/2012/08/08/salada-vinagre/vinagre-branco-balsamico-maca/" rel="attachment wp-att-8985"><img class="alignnone size-full wp-image-8985" title="VINAGRE-BRANCO-BALSAMICO-MACA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/VINAGRE-BRANCO-BALSAMICO-MACA.png" alt="" width="234" height="317" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Se tem um produtinho que não dispenso na cozinha é o vinagre. Faz um certo tempo que eu me rendi ao uso do **vinagre balsâmico** para temperar salada e, oh: <em>huummm</em>&#8230; eu super recomendo essa delícia!
+  Se tem um produtinho que não dispenso na cozinha é o vinagre. Faz um certo tempo que eu me rendi ao uso do **vinagre balsâmico** para temperar salada e, oh: _huummm_&#8230; eu super recomendo essa delícia!
 </p>
 
 <p align="justify">
@@ -44,19 +44,19 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
 &nbsp;
 
 > <p align="justify">
->   <em>Eu gosto muito do vinagre simples, Lidi, mas o **branco**. Faço uma misturinha de **vinagre, azeite, sal e cebola ralada**. </em><em>Fica **perfeito com beterraba e cenoura cozidas**</em>.” **Flavinha Gomes | <a href="http://casinhabonitinha.blogspot.com.br/" target="_blank">Casinha Bonitinha</a>**
+>   _Eu gosto muito do vinagre simples, Lidi, mas o **branco**. Faço uma misturinha de **vinagre, azeite, sal e cebola ralada**. __Fica **perfeito com beterraba e cenoura cozidas**_.” **Flavinha Gomes | [Casinha Bonitinha](http://casinhabonitinha.blogspot.com.br/) **
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>Olá, Lidi! </em><em>Eu, assim como você, adoro vinagre, mas confesso que não uso o balsâmico! O que costumo fazer, às vezes, para dar um gostinho especial no vinagre, é colocar **folhinhas de tomilho, louro, uma pimenta vermelha com uns furinhos e alguns dentinhos e alho**!! E pode ser **qualquer vinagre**! Para ser sincera tem muito tempo que não faço isso e essa sua pergunta me deixou com vontade!! …rss</em>” **Alê Coelho | <a href="http://paparicopop.blogspot.com.br/" target="_blank">Paprico Pop</a>**
+>   _Olá, Lidi! __Eu, assim como você, adoro vinagre, mas confesso que não uso o balsâmico! O que costumo fazer, às vezes, para dar um gostinho especial no vinagre, é colocar **folhinhas de tomilho, louro, uma pimenta vermelha com uns furinhos e alguns dentinhos e alho**!! E pode ser **qualquer vinagre**! Para ser sincera tem muito tempo que não faço isso e essa sua pergunta me deixou com vontade!! …rss_” **Alê Coelho | [Paprico Pop](http://paparicopop.blogspot.com.br/) **
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Adoro! Uso o vinagre balsâmico ás vezes. Explico: aqui em casa a filha não gosta dele, então quando estamos os três, eu tempero a salada com **sal, azeite** e **vinagre de maçã**. E gostamos de salada temperada, nada daquela coisa de cada um temperar em seu prato, parece que não fica tão saboroso.” **Adelaide Araçai | <a href="http://euseivoucontar.blogspot.com.br/" target="_blank">Eu sei… vou contar!</a>**
+>   Adoro! Uso o vinagre balsâmico ás vezes. Explico: aqui em casa a filha não gosta dele, então quando estamos os três, eu tempero a salada com **sal, azeite** e **vinagre de maçã**. E gostamos de salada temperada, nada daquela coisa de cada um temperar em seu prato, parece que não fica tão saboroso.” **Adelaide Araçai | [Eu sei… vou contar!](http://euseivoucontar.blogspot.com.br/) **
 > </p>
 
 &nbsp;
@@ -126,7 +126,7 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -141,13 +141,13 @@ E pode ser de diversos tipos, de jeitnhos diferentes e com truques exclusivos. P
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

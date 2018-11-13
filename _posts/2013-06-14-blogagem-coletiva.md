@@ -16,7 +16,7 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
 &nbsp;
 
 <p align="justify">
-  E na blogosfera? Quem te inspira? Você já parou para pensar sobre isso? Ao chegar a conclusão sobre quem é tua inspiração <em>bloguística</em>, pergunto: já pensou em contar para essa pessoa? Eu tenho uma inspiração, e puxei essa corrente de declarações. <em>Espia</em>:
+  E na blogosfera? Quem te inspira? Você já parou para pensar sobre isso? Ao chegar a conclusão sobre quem é tua inspiração _bloguística_, pergunto: já pensou em contar para essa pessoa? Eu tenho uma inspiração, e puxei essa corrente de declarações. _Espia_:
 </p>
 
 <!--more-->
@@ -46,13 +46,13 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/BLOGAGEM-COLETIVA-QUEM-TE-INSPIRA.png"><img class="alignnone size-full wp-image-9472" alt="BLOGAGEM COLETIVA QUEM TE INSPIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/BLOGAGEM-COLETIVA-QUEM-TE-INSPIRA.png" width="600" height="483" /></a><br /> **<em>o/o/o/</em>**
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/BLOGAGEM-COLETIVA-QUEM-TE-INSPIRA.png"><img class="alignnone size-full wp-image-9472" alt="BLOGAGEM COLETIVA QUEM TE INSPIRA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/05/BLOGAGEM-COLETIVA-QUEM-TE-INSPIRA.png" width="600" height="483" /></a><br /> **_o/o/o/_**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A **<a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>** é uma empresa focada na organização da casa, mas tudo com muito estilo, viu? Olha essa **colmeia para organizar gavetas** e o **suporte para botas**? Não é tudo <em>superultramega</em> charmoso? Não tenha dúvidas de que há muito mais **produtos úteis, de qualidade e lindos de viver**, viu? Quer dar uma espiadinha? **<a href="http://www.espacohome.com.br/" target="_blank">Clica aqui</a>** e se joga!
+  A **[Espaço Home](http://www.espacohome.com.br/) ** é uma empresa focada na organização da casa, mas tudo com muito estilo, viu? Olha essa **colmeia para organizar gavetas** e o **suporte para botas**? Não é tudo _superultramega_ charmoso? Não tenha dúvidas de que há muito mais **produtos úteis, de qualidade e lindos de viver**, viu? Quer dar uma espiadinha? **[Clica aqui](http://www.espacohome.com.br/) ** e se joga!
 </p>
 
 <p align="justify">
@@ -60,7 +60,7 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
 </p>
 
 <p align="justify">
-  **Seu post poderá ser publicado entre hoje e 21 de Junho.** Basta que você deixe nos comentários o <em>link</em> do seu post, sim? A divulgação da ganhadora será no dia 25 de Junho, aqui no blog. Anote a data na agenda para vir aqui conferir o resultado. O sorteio será feito via Random.org.
+  **Seu post poderá ser publicado entre hoje e 21 de Junho.** Basta que você deixe nos comentários o _link_ do seu post, sim? A divulgação da ganhadora será no dia 25 de Junho, aqui no blog. Anote a data na agenda para vir aqui conferir o resultado. O sorteio será feito via Random.org.
 </p>
 
 <p align="justify">
@@ -77,13 +77,13 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Dani-Moreno2.png"><img class="alignnone size-full wp-image-9536" alt="Dani Moreno[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Dani-Moreno2.png" width="231" height="273" /></a><br /> Dani Moreno </span>****<span style="font-size: medium;">[</span>**<a href="http://www.danimoreno.com.br/2013/06/quem-me-inspira-mari-hart-dore.html" target="_blank">**<span style="font-size: medium;">Moça de Família</span>**</a>**<span style="font-size: medium;">]</span>**
+        **<span style="font-size: medium;">[**<span style="font-size: medium;">Moça de Família</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Dani-Moreno2.png"><img class="alignnone size-full wp-image-9536" alt="Dani Moreno[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Dani-Moreno2.png" width="231" height="273" /></a><br /> Dani Moreno </span>****<span style="font-size: medium;">[</span>**<a href="http://www.danimoreno.com.br/2013/06/quem-me-inspira-mari-hart-dore.html) **<span style="font-size: medium;">]</span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Karin.png"><img class="alignnone size-full wp-image-9537" alt="Karin" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Karin.png" width="230" height="270" /></a><br /> Karin Filgueira [</span>**<a href="http://meudocelarbykarinfilgueira.blogspot.com.br/2013/06/blogagem-coletiva-quem-te-inspira-na.html" target="_blank">**<span style="font-size: medium;">Meu Doce Lar</span>**</a>**<span style="font-size: medium;">]</span>**
+        **<span style="font-size: medium;">[**<span style="font-size: medium;">Meu Doce Lar</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Karin.png"><img class="alignnone size-full wp-image-9537" alt="Karin" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Karin.png" width="230" height="270" /></a><br /> Karin Filgueira [</span>**<a href="http://meudocelarbykarinfilgueira.blogspot.com.br/2013/06/blogagem-coletiva-quem-te-inspira-na.html) **<span style="font-size: medium;">]</span>**
       </p>
     </td>
   </tr>
@@ -91,13 +91,13 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Ly-Mello.png"><img class="alignnone size-full wp-image-9538" alt="Ly Mello" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Ly-Mello.png" width="228" height="270" /></a> **<span style="font-size: medium;"><br /> Ly Mello [</span>**<a href="http://lymello.blogspot.com.br/2013/06/quem-me-inspira.html" target="_blank">**<span style="font-size: medium;">Design My Life</span>**</a>**<span style="font-size: medium;">]</span>**
+        [**<span style="font-size: medium;">Design My Life</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Ly-Mello.png"><img class="alignnone size-full wp-image-9538" alt="Ly Mello" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Ly-Mello.png" width="228" height="270" /></a> **<span style="font-size: medium;"><br /> Ly Mello [</span>**<a href="http://lymello.blogspot.com.br/2013/06/quem-me-inspira.html) **<span style="font-size: medium;">]</span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SHEILA-MENDES.png"><img class="alignnone size-full wp-image-9540" alt="SHEILA MENDES" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SHEILA-MENDES.png" width="224" height="266" /></a><br /> <span style="font-size: medium;">Sheila Mendes [</span><a href="http://www.acasadasheila.com/2013/06/blogagem-coletiva-quem-te-inspira-na.html" target="_blank"><span style="font-size: medium;">A Casa da Sheila</span></a><span style="font-size: medium;">]</span>**
+        **[<span style="font-size: medium;">A Casa da Sheila</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SHEILA-MENDES.png"><img class="alignnone size-full wp-image-9540" alt="SHEILA MENDES" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SHEILA-MENDES.png" width="224" height="266" /></a><br /> <span style="font-size: medium;">Sheila Mendes [</span><a href="http://www.acasadasheila.com/2013/06/blogagem-coletiva-quem-te-inspira-na.html) <span style="font-size: medium;">]</span>**
       </p>
     </td>
   </tr>
@@ -109,13 +109,13 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/REGIANE-YUKI-SABANAI.png"><img class="alignnone size-full wp-image-9541" alt="REGIANE YUKI SABANAI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/REGIANE-YUKI-SABANAI.png" width="222" height="268" /></a><br /> **<span style="font-size: medium;">Regiane Yuki Sabanai [<a href="http://coolective.blogspot.com.br/2013/06/blogagem-coletiva-quem-me-inspira-na.html" target="_blank">Studio Rys</a>]</span>**
+        [Studio Rys](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/REGIANE-YUKI-SABANAI.png"><img class="alignnone size-full wp-image-9541" alt="REGIANE YUKI SABANAI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/REGIANE-YUKI-SABANAI.png" width="222" height="268" /></a><br /> **<span style="font-size: medium;">Regiane Yuki Sabanai [<a href="http://coolective.blogspot.com.br/2013/06/blogagem-coletiva-quem-me-inspira-na.html) ]</span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Mirys.png"><img class="alignnone size-full wp-image-9542" alt="Mirys" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Mirys.png" width="221" height="267" /></a><br /> Mirys [</span>**<a href="http://diariodos3mosqueteiros.blogspot.com.br/2013/06/bc-quem-te-inspira-na-blogsfera-diario.html" target="_blank">**<span style="font-size: medium;">Diário dos (3+3) 6 Mosqueteiros</span>**</a>**<span style="font-size: medium;">]</span>**
+        **<span style="font-size: medium;">[**<span style="font-size: medium;">Diário dos (3+3) 6 Mosqueteiros</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Mirys.png"><img class="alignnone size-full wp-image-9542" alt="Mirys" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/Mirys.png" width="221" height="267" /></a><br /> Mirys [</span>**<a href="http://diariodos3mosqueteiros.blogspot.com.br/2013/06/bc-quem-te-inspira-na-blogsfera-diario.html) **<span style="font-size: medium;">]</span>**
       </p>
     </td>
   </tr>
@@ -125,13 +125,13 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SILVANA-HADDAD.png"><img class="alignnone size-full wp-image-9543" alt="SILVANA HADDAD" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SILVANA-HADDAD.png" width="221" height="264" /></a><br /> **<span style="font-size: medium;">Silvana Haddad [</span>**<a href="http://meusdevaneiosescritos.blogspot.com.br/2013/06/inspiracoes-confira-se-seu-blog-esta.html" target="_blank">**<span style="font-size: medium;">Meus Devaneios Escritos</span>**</a>**<span style="font-size: medium;">]</span>**
+        [**<span style="font-size: medium;">Meus Devaneios Escritos</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SILVANA-HADDAD.png"><img class="alignnone size-full wp-image-9543" alt="SILVANA HADDAD" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/SILVANA-HADDAD.png" width="221" height="264" /></a><br /> **<span style="font-size: medium;">Silvana Haddad [</span>**<a href="http://meusdevaneiosescritos.blogspot.com.br/2013/06/inspiracoes-confira-se-seu-blog-esta.html) **<span style="font-size: medium;">]</span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/FER-FRITOLI.png"><img class="alignnone size-full wp-image-9544" alt="FER FRITOLI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/FER-FRITOLI.png" width="221" height="265" /></a><br /> **<span style="font-size: medium;">Fe Fritoli [</span>**<a href="http://firulissesetc.blogspot.com.br/2013/06/bc-quem-te-inspira-no-blogsfera.html" target="_blank">**<span style="font-size: medium;">Firulisses & Etc</span>**</a>**<span style="font-size: medium;">]</span>**
+        [**<span style="font-size: medium;">Firulisses & Etc</span>**](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/FER-FRITOLI.png"><img class="alignnone size-full wp-image-9544" alt="FER FRITOLI" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/FER-FRITOLI.png" width="221" height="265" /></a><br /> **<span style="font-size: medium;">Fe Fritoli [</span>**<a href="http://firulissesetc.blogspot.com.br/2013/06/bc-quem-te-inspira-no-blogsfera.html) **<span style="font-size: medium;">]</span>**
       </p>
     </td>
   </tr>
@@ -141,13 +141,13 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RAQUEL-RAMOS-DOS-ANJOS.png"><img class="alignnone size-full wp-image-9545" alt="RAQUEL RAMOS DOS ANJOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RAQUEL-RAMOS-DOS-ANJOS.png" width="221" height="264" /></a><br /> **<span style="font-size: medium;">Raquel Ramos dos Anjos [<a href="http://www.superlinda.com/2013/06/b-coletiva-quem-me-inspira-na.html" target="_blank">Super Linda</a>]</span>**
+        [Super Linda](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RAQUEL-RAMOS-DOS-ANJOS.png"><img class="alignnone size-full wp-image-9545" alt="RAQUEL RAMOS DOS ANJOS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/RAQUEL-RAMOS-DOS-ANJOS.png" width="221" height="264" /></a><br /> **<span style="font-size: medium;">Raquel Ramos dos Anjos [<a href="http://www.superlinda.com/2013/06/b-coletiva-quem-me-inspira-na.html) ]</span>**
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ROSELIA-BEZERRA-2.jpg"><img class="alignnone size-full wp-image-9564" alt="ROSELIA-BEZERRA-2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ROSELIA-BEZERRA-2.jpg" width="218" height="270" /></a><br /> <span style="font-size: medium;">Roselia Bezerra[</span><span style="font-size: medium;"> <a href="http://www.idade-espiritual.com.br/2013/06/uma-blogueira-que-me-inspira.html" target="_blank">Espiritual-Idade</a></span><span style="font-size: medium;">]</span>**
+        **[Espiritual-Idade](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ROSELIA-BEZERRA-2.jpg"><img class="alignnone size-full wp-image-9564" alt="ROSELIA-BEZERRA-2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/06/ROSELIA-BEZERRA-2.jpg" width="218" height="270" /></a><br /> <span style="font-size: medium;">Roselia Bezerra[</span><span style="font-size: medium;"> <a href="http://www.idade-espiritual.com.br/2013/06/uma-blogueira-que-me-inspira.html) </span><span style="font-size: medium;">]</span>**
       </p>
     </td>
   </tr>
@@ -164,7 +164,7 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -179,13 +179,13 @@ Quem tem alguém da família, entre os amigos da vida real ou no trabalho, e que
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

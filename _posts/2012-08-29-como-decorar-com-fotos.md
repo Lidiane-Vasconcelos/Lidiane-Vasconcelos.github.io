@@ -9,12 +9,12 @@ permalink: /2012/08/29/como-decorar-com-fotos/
 categories:
   - Dicas de Decoração
 ---
-Imagino que você esteja buscando ideias e inspirações diferentes para enfeitar a casa com imagens de pessoas queridas, viajens inesquecíveis, ou o que mais você imaginar.  Acertei? Então repare nas **3 ideias** garimpadas no site **_<a href="http://www.scrapbooksetc.com/" target="_blank">scrapbooks etc</a>_**., separe suas fotos prediletas e aplique uma dessas ideias por aí… ou todas elas!
+Imagino que você esteja buscando ideias e inspirações diferentes para enfeitar a casa com imagens de pessoas queridas, viajens inesquecíveis, ou o que mais você imaginar.  Acertei? Então repare nas **3 ideias** garimpadas no site **_[scrapbooks etc](http://www.scrapbooksetc.com/) _**., separe suas fotos prediletas e aplique uma dessas ideias por aí… ou todas elas!
 
 &nbsp;
 
 <p align="justify">
-  Repare que as referências são simples de serem reproduzidas, pode apostar! Afinal de contas, é das ideias simples que todas nós gostamos, certo? Então, <em>oh</em>: se joga, inspire-se, divirta-se decorando sua casa e arranque elogios por aí afora…
+  Repare que as referências são simples de serem reproduzidas, pode apostar! Afinal de contas, é das ideias simples que todas nós gostamos, certo? Então, _oh_: se joga, inspire-se, divirta-se decorando sua casa e arranque elogios por aí afora…
 </p>
 
 <!--more-->
@@ -128,7 +128,7 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -143,13 +143,13 @@ Imagino que você esteja buscando ideias e inspirações diferentes para enfeita
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

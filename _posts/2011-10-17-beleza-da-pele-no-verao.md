@@ -14,7 +14,7 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
 &nbsp;
 
 <p align="justify">
-  Se você passou a mão nessas partes ou olhou no espelho, e não gostou do que sentiu ou viu, calma! A **Dra. Fernanda Aguirre, dermatologista de Cuiabá**, deu **dicas** fantásticas e com exclusividade para todas nós, bichas fêmeas navegantes. Agora é hora de cuidar do corpo… <em>bora</em> ver como fazer isso?
+  Se você passou a mão nessas partes ou olhou no espelho, e não gostou do que sentiu ou viu, calma! A **Dra. Fernanda Aguirre, dermatologista de Cuiabá**, deu **dicas** fantásticas e com exclusividade para todas nós, bichas fêmeas navegantes. Agora é hora de cuidar do corpo… _bora_ ver como fazer isso?
 </p>
 
 <!--more-->
@@ -32,13 +32,13 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
 &nbsp;
 
 > <p align="justify">
->   “<em>A delicada área do pescoço merece, também, cuidados ultra-delicados. </em><em>Portanto, evite grandes agreções com esfoliantes e  use e abuse de filtro solar e  produtos hidratantes /tensores para evitar as famosas &#8220;rugas em colar&#8221;, característica desta área.”</em>
+>   “_A delicada área do pescoço merece, também, cuidados ultra-delicados. __Portanto, evite grandes agreções com esfoliantes e  use e abuse de filtro solar e  produtos hidratantes /tensores para evitar as famosas &#8220;rugas em colar&#8221;, característica desta área.”_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele.jpg"><img class="alignnone size-full wp-image-7017" title="beleza da pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele.jpg" alt="" width="600" height="425" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele.jpg"><img class="alignnone size-full wp-image-7017" title="beleza da pele" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/beleza-da-pele.jpg" alt="" width="600" height="425" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;
@@ -56,23 +56,23 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
 &nbsp;
 
 > <p align="justify">
->   “ <em>Para conquistar cotovelos lisinhos e hidratados, a dupla  esfoliação + hidrataçao intensiva é imbatível. </em><em>Uma boa dica de &#8220;spa-home&#8221; para cotovelos  é : </em>
+>   “ _Para conquistar cotovelos lisinhos e hidratados, a dupla  esfoliação + hidrataçao intensiva é imbatível. __Uma boa dica de &#8220;spa-home&#8221; para cotovelos  é : _
 > </p>
 
 > <p align="justify">
->   <em>-Esfoliar com açúcar cristal ( 1 colher de sopa ) + 1 colher de óleo mineral ( aquele de criança, tipo &#8220;Johnson&#8221;) em movimentos circulares;</em>
+>   _-Esfoliar com açúcar cristal ( 1 colher de sopa ) + 1 colher de óleo mineral ( aquele de criança, tipo &#8220;Johnson&#8221;) em movimentos circulares;_
 > </p>
 
 > <p align="justify">
->   <em>&#8211; Enxaguar  com água e secar bem;</em>
+>   _&#8211; Enxaguar  com água e secar bem;_
 > </p>
 
 > <p align="justify">
->   <em>-Hidratar com  1 amendoa de creme nívea concentrado ( aquele da latinha azul) +  1 gota de óleo de rosa mosqueta. </em>
+>   _-Hidratar com  1 amendoa de creme nívea concentrado ( aquele da latinha azul) +  1 gota de óleo de rosa mosqueta. _
 > </p>
 
 > <p align="justify">
->   <em>Repetir 1 x por semana.”</em>
+>   _Repetir 1 x por semana.”_
 > </p>
 
 &nbsp;
@@ -90,7 +90,7 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
 &nbsp;
 
 > <p align="justify">
->   <em>“O grande vilão da acne de dorso é a retirada incompleta de resíduos de condicionadores capilares durante o banho. </em><em>Portanto, aquela oleosidade residual deve ser retirada COMPLETAMENTE com o uso de bons higienizadores, sabonetes com excelente potencial limpante a base de acido salicilico e outros derivados. </em><em>Ainda, usar loções para controle de oleosidade no local e manter os cabelos, quando úmidos, sem contato direto com a pele das costas até  a secagem completa é um ótimo truque para arrasar com as costas de fora no verão.”</em>
+>   _“O grande vilão da acne de dorso é a retirada incompleta de resíduos de condicionadores capilares durante o banho. __Portanto, aquela oleosidade residual deve ser retirada COMPLETAMENTE com o uso de bons higienizadores, sabonetes com excelente potencial limpante a base de acido salicilico e outros derivados. __Ainda, usar loções para controle de oleosidade no local e manter os cabelos, quando úmidos, sem contato direto com a pele das costas até  a secagem completa é um ótimo truque para arrasar com as costas de fora no verão.”_
 > </p>
 
 &nbsp;
@@ -100,7 +100,7 @@ Antes de você sair toda faceira, serelepe e saltitante, vestida com roupas leve
 </p>
 
 <p align="justify">
-  Para ficar toda <em>bonitona</em> e com a pele “nos trinques” a gente precisa, antes de mais nada, estar bem informada sobre como fazer isso da maneira certa e com segurança, não é? Então, bonita, uma forma inteligente de fazer isso é acompanhar as atualizações da **Dra. Fernanda** em seu blog, o **<a href="http://dicasdepele.blogspot.com/" target="_blank">Dicas de Pele</a>**. Ela criou o espaço para seus pacientes e quem mais tiver interesse em cuidar bem da pele, com dicas de produtos e tratamentos dermatológicos específicos. Se joga!
+  Para ficar toda _bonitona_ e com a pele “nos trinques” a gente precisa, antes de mais nada, estar bem informada sobre como fazer isso da maneira certa e com segurança, não é? Então, bonita, uma forma inteligente de fazer isso é acompanhar as atualizações da **Dra. Fernanda** em seu blog, o **[Dicas de Pele](http://dicasdepele.blogspot.com/) **. Ela criou o espaço para seus pacientes e quem mais tiver interesse em cuidar bem da pele, com dicas de produtos e tratamentos dermatológicos específicos. Se joga!
 </p>
 
 &nbsp;

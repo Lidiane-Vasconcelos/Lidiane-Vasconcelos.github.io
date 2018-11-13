@@ -24,39 +24,39 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
-  “<em>Eu sou Master Success Mentor, fundadora do Success Club International &#8211; uma empresa de consultoria, com a missão de guiar empreendedores a criar sistemas, desenvolver negócios fortes, lucrativos e que façam uma contribuição positiva no mundo. Sou autora, palestrante internacional, Especialista em Marketing Digital, Mestre Praticante em Neurolinguística (PNL), Mestre em Hipnose, a primeira Brasileira no mundo com Certificação em Neuro Pathway Reconstruction (NPR), Human Design Specialist. </em>
+  “_Eu sou Master Success Mentor, fundadora do Success Club International &#8211; uma empresa de consultoria, com a missão de guiar empreendedores a criar sistemas, desenvolver negócios fortes, lucrativos e que façam uma contribuição positiva no mundo. Sou autora, palestrante internacional, Especialista em Marketing Digital, Mestre Praticante em Neurolinguística (PNL), Mestre em Hipnose, a primeira Brasileira no mundo com Certificação em Neuro Pathway Reconstruction (NPR), Human Design Specialist. _
 </p>
 
 <p align="justify">
-  <em>Em relação a dinheiro, no início, eu não era muito controlada. **<span style="font-size: large;">Eu gastava sempre esperando que mais dinheiro iria entrar. Hoje eu não faço mais isso</span>**. Hoje em dia, eu só gasto depois que o dinheiro está na conta!</em>
+  _Em relação a dinheiro, no início, eu não era muito controlada. **<span style="font-size: large;">Eu gastava sempre esperando que mais dinheiro iria entrar. Hoje eu não faço mais isso</span>**. Hoje em dia, eu só gasto depois que o dinheiro está na conta!_
 </p>
 
 <p align="justify">
-  <em>**Veja também:**</em>
+  _**Veja também:**_
 </p>
 
 <p align="justify">
-  <em><a href="http://www.trololodemulher.com.br/2014/07/18/dinheiro-educacao-financeira/" target="_blank">**Dinheiro: guardar x gastar x investir: o que é melhor?**</a></em>
+  _[**Dinheiro: guardar x gastar x investir: o que é melhor?**](http://www.trololodemulher.com.br/2014/07/18/dinheiro-educacao-financeira/) _
 </p>
 
 <p align="justify">
-  <em>Eu criei meu trabalho, porque eu simplesmente não me encaixava em emprego nenhum. Não me dava com as regras, com as políticas e com o que acontecia nos bastidores das empresas, realmente não era pra mim. Então eu criei o meu trabalho, para poder trabalhar de casa, curtindo minha filha, minha casa, meu refúgio e sair quando quiser. **<span style="font-size: large;">Na primeira fase do negócio, eu reinvestia tudo o que entrava</span>**. Não pegava nada para mim. Mas eu não recomendo isso. O que eu recomendo é que você se pague primeiro. Seja em uma poupança, seja com um presente, o importante é que você sinta que está recebendo o retorno da energia, e do tempo investido no seu negócio. Claro que o meu perfil de consumo foi mudando conforme meu negócio foi crescendo. </em>
+  _Eu criei meu trabalho, porque eu simplesmente não me encaixava em emprego nenhum. Não me dava com as regras, com as políticas e com o que acontecia nos bastidores das empresas, realmente não era pra mim. Então eu criei o meu trabalho, para poder trabalhar de casa, curtindo minha filha, minha casa, meu refúgio e sair quando quiser. **<span style="font-size: large;">Na primeira fase do negócio, eu reinvestia tudo o que entrava</span>**. Não pegava nada para mim. Mas eu não recomendo isso. O que eu recomendo é que você se pague primeiro. Seja em uma poupança, seja com um presente, o importante é que você sinta que está recebendo o retorno da energia, e do tempo investido no seu negócio. Claro que o meu perfil de consumo foi mudando conforme meu negócio foi crescendo. _
 </p>
 
 <p align="justify">
-  <em>**<span style="font-size: large;">Uma coisa que eu gosto de fazer é focar na meta como experiência, não na meta como número</span>.** Por exemplo, uma vez, tínhamos uma viagem programada, toda paga como gostamos de fazer. Dias antes eu me dei conta que eu não tinha dinheiro de mão para usar durante a viagem. Eu pensei, humm, como seria bom ter um dinheiro para gastar comigo e com a Mel (minha filha), para irmos em tal restaurante, em tal loja, em tal parque&#8230;. Gente! Em menos de 24 horas uma cliente entrou no meu site, eu fiz uma conexão com ela, e ela comprou um dos meus programas, que dava e sobrava para fazer tudo o que eu tinha imaginado fazer!</em>
+  _**<span style="font-size: large;">Uma coisa que eu gosto de fazer é focar na meta como experiência, não na meta como número</span>.** Por exemplo, uma vez, tínhamos uma viagem programada, toda paga como gostamos de fazer. Dias antes eu me dei conta que eu não tinha dinheiro de mão para usar durante a viagem. Eu pensei, humm, como seria bom ter um dinheiro para gastar comigo e com a Mel (minha filha), para irmos em tal restaurante, em tal loja, em tal parque&#8230;. Gente! Em menos de 24 horas uma cliente entrou no meu site, eu fiz uma conexão com ela, e ela comprou um dos meus programas, que dava e sobrava para fazer tudo o que eu tinha imaginado fazer!_
 </p>
 
 <p align="justify">
-  <em>Atualmente eu sou bem organizada com meu dinheiro. Eu tenho dois budgets (orçamentos). Um budget do negócio &#8211; o que é necessário para fazer ele girar,  e um bugdet da minha vida pessoal &#8211; de acordo com o estilo de vida que eu quero. Eu coloco em uma planilha de excel, as despesas fixas e variáveis. Tenho estipulado o que será necessário para os próximos 12, 24 e 36 meses. Depois 5, 10 e 20 anos &#8211; os principais acontecimentos, celebrações (16 anos da minha filha, faculdade, etc) e planejo com antecedência o que precisa ser feito a curto, médio e longo prazo para isso ser atingido.</em>
+  _Atualmente eu sou bem organizada com meu dinheiro. Eu tenho dois budgets (orçamentos). Um budget do negócio &#8211; o que é necessário para fazer ele girar,  e um bugdet da minha vida pessoal &#8211; de acordo com o estilo de vida que eu quero. Eu coloco em uma planilha de excel, as despesas fixas e variáveis. Tenho estipulado o que será necessário para os próximos 12, 24 e 36 meses. Depois 5, 10 e 20 anos &#8211; os principais acontecimentos, celebrações (16 anos da minha filha, faculdade, etc) e planejo com antecedência o que precisa ser feito a curto, médio e longo prazo para isso ser atingido._
 </p>
 
 <p align="justify">
-  <em><span style="font-size: large;"><b>Além disso, eu gosto de colocar mais 50% ou 100% em </b><b>cima de cada orçamento para pagar impostos e para criar </b><b>um fundo de conforto. Isso mesmo, fundo de con-for-to.</b></span></em>
+  _<span style="font-size: large;"><b>Além disso, eu gosto de colocar mais 50% ou 100% em </b><b>cima de cada orçamento para pagar impostos e para criar </b><b>um fundo de conforto. Isso mesmo, fundo de con-for-to.</b></span>_
 </p>
 
 <p align="justify">
@@ -64,11 +64,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/06/aposentadoria/" target="_blank">**O que toda mulher precisa saber sobre aposentadoria?**</a>
+  [**O que toda mulher precisa saber sobre aposentadoria?**](http://www.trololodemulher.com.br/2015/02/06/aposentadoria/) 
 </p>
 
 <p align="justify">
-  <em>Eu não foco em imprevistos. Eu foco em expansão, paz de espírito e conforto. Por último, 10% de toda renda que entra eu canalizo para causas que alimentam minha alma &#8211; como o orfanato que ajudamos em Minas Gerais, com crianças de 5 a 19 anos em vulnerabilidade social</em>.”
+  _Eu não foco em imprevistos. Eu foco em expansão, paz de espírito e conforto. Por último, 10% de toda renda que entra eu canalizo para causas que alimentam minha alma &#8211; como o orfanato que ajudamos em Minas Gerais, com crianças de 5 a 19 anos em vulnerabilidade social_.”
 </p>
 
 <p align="center">
@@ -80,17 +80,17 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/29/empreendedorismo-2/" target="_blank">**Empreendedorismo: 6 maneiras de agir, e nunca desistir.**</a>
+  [**Empreendedorismo: 6 maneiras de agir, e nunca desistir.**](http://www.trololodemulher.com.br/2016/01/29/empreendedorismo-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank">**Empreendedorismo: quais os 7 medos mais comuns?**</a>
+  [**Empreendedorismo: quais os 7 medos mais comuns?**](http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/) 
 </p>
 
 <p align="justify">
-  Como uma mulher empreendedora, ou fortemente orientada a tornar-se uma, você sente que precisa alinhar algumas questões para seguir em frente com sua paixão? Uma mentora de sucesso pode mesmo ser um divisor de águas nessa sua trajetória, de maneira que você se sinta bem orientada e mantenha a sua motivação viva. Se você deseja uma companhia nesse sentido na sua jornada, assim como um atleta precisa de um treinador em quem possa confiar, pode contar com a Simone Mitjans como o suporte que você precisa. É para as mulheres de sucesso que a Simone direciona toda a sua energia e conhecimentos, e você pode entender como esse trabalho é realizado <a href="http://www.simonemitjans.com.br/" target="_blank">visitando o seu site</a>. Além do mais, <a href="https://www.facebook.com/simonemitjans/?fref=ts" target="_blank">curta a fanpage da Simone no Facebook</a> e fique por dentro de tudo o que pode facilitar para a energia do sucesso chegar até você. Se joga!
+  Como uma mulher empreendedora, ou fortemente orientada a tornar-se uma, você sente que precisa alinhar algumas questões para seguir em frente com sua paixão? Uma mentora de sucesso pode mesmo ser um divisor de águas nessa sua trajetória, de maneira que você se sinta bem orientada e mantenha a sua motivação viva. Se você deseja uma companhia nesse sentido na sua jornada, assim como um atleta precisa de um treinador em quem possa confiar, pode contar com a Simone Mitjans como o suporte que você precisa. É para as mulheres de sucesso que a Simone direciona toda a sua energia e conhecimentos, e você pode entender como esse trabalho é realizado [visitando o seu site](http://www.simonemitjans.com.br/) . Além do mais, [curta a fanpage da Simone no Facebook](https://www.facebook.com/simonemitjans/?fref=ts)  e fique por dentro de tudo o que pode facilitar para a energia do sucesso chegar até você. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

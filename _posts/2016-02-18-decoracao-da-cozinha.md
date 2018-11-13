@@ -10,11 +10,11 @@ categories:
   - Cozinha
 ---
 <p align="justify">
-  A cozinha é um lugar <em>superultramega</em> importante na casa, e quase todo mundo concorda com isso, certo? Por isso é fundamental que a gente esteja lá e se sinta bem, e isso inclui a forma como ela é decorada. Para atingir essa sensação de pertencimento a esse cômodo, é necessário olhar com carinho para seus hábitos e estilo: sua cozinha te representa? Se há algo que te incomoda, e você gostaria de mudar isso já, repare em ideias simples reunidas neste post, todas para te inspirar a promover as mudanças que você julga necessárias. No final das contas, se essa renovação tirar de você um sorriso cada vez que entrar nesse ambiente, o objetivo deste post estará cumprido. Então… vamos ás sugestões? Acompanhe:
+  A cozinha é um lugar _superultramega_ importante na casa, e quase todo mundo concorda com isso, certo? Por isso é fundamental que a gente esteja lá e se sinta bem, e isso inclui a forma como ela é decorada. Para atingir essa sensação de pertencimento a esse cômodo, é necessário olhar com carinho para seus hábitos e estilo: sua cozinha te representa? Se há algo que te incomoda, e você gostaria de mudar isso já, repare em ideias simples reunidas neste post, todas para te inspirar a promover as mudanças que você julga necessárias. No final das contas, se essa renovação tirar de você um sorriso cada vez que entrar nesse ambiente, o objetivo deste post estará cumprido. Então… vamos ás sugestões? Acompanhe:
 </p>
 
 <p align="justify">
-  **1 &#8211; Colorido do <em>patchwork</em>**
+  **1 &#8211; Colorido do _patchwork_**
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  Você pode escolher um cantinho da sua cozinha e aplicar nele adesivos coloridos com estampas em <em>patchwork</em>, o resultado é um toque de cor com personalidade, e ares de renovação no ambiente.
+  Você pode escolher um cantinho da sua cozinha e aplicar nele adesivos coloridos com estampas em _patchwork_, o resultado é um toque de cor com personalidade, e ares de renovação no ambiente.
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  Os armários precisam ser renovados? Ele pode ganhar uma nova cor, ou detalhes diferentes, com o uso do <a href="http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/" target="_blank">papel contact</a>, tudo assim: <em>vapt-vupt</em>. A blogueira **Vivianne Pontes, do blog dcoração**, mostrou <a href="http://www.dcoracao.com/2014/04/como-renovar-cozinha-com-papel-contact.html" target="_blank">neste post</a> que ela optou por esse recurso decorativo,  e mandou muito bem!
+  Os armários precisam ser renovados? Ele pode ganhar uma nova cor, ou detalhes diferentes, com o uso do [papel contact](http://www.decoracaodacasa.com/faca-voce-mesma-papel-contact/) , tudo assim: _vapt-vupt_. A blogueira **Vivianne Pontes, do blog dcoração**, mostrou [neste post](http://www.dcoracao.com/2014/04/como-renovar-cozinha-com-papel-contact.html)  que ela optou por esse recurso decorativo,  e mandou muito bem!
 </p>
 
 <p align="justify">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://idealhome.com.br/site/" target="_blank">Ideal Home</a>
+  Imagem: [Ideal Home](http://idealhome.com.br/site/) 
 </p>
 
 <p align="justify">
-  Se você tem <a href="http://www.decoracaodacasa.com/papel-de-parede/" target="_blank">sobras de papel de parede</a> ou <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank">restos de tecido</a>, pode reaproveitá-los para revestir a parte interna de armários ou nichos, e dar uma<em> bossa</em> inusitada na decoração do móvel. Fica a dica.
+  Se você tem [sobras de papel de parede](http://www.decoracaodacasa.com/papel-de-parede/)  ou [restos de tecido](http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/) , pode reaproveitá-los para revestir a parte interna de armários ou nichos, e dar uma_ bossa_ inusitada na decoração do móvel. Fica a dica.
 </p>
 
 <p align="justify">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.housetohome.co.uk/livingetc" target="_blank">HousetoHome</a>
+  Via [HousetoHome](http://www.housetohome.co.uk/livingetc) 
 </p>
 
 <p align="justify">
-  Se você tem <a href="http://www.decoracaodacasa.com/cozinha-americana/" target="_blank">cozinha americana</a>, talvez o que esteja precisando de uma renovada seja o espaço fora dela, o que, na verdade, é uma extensão do ambiente. A sugestão, aqui, é colocar um tapete lindo de viver sob a mesa, e um <a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank">lustre pendente</a> de arrasar sobre o móvel.
+  Se você tem [cozinha americana](http://www.decoracaodacasa.com/cozinha-americana/) , talvez o que esteja precisando de uma renovada seja o espaço fora dela, o que, na verdade, é uma extensão do ambiente. A sugestão, aqui, é colocar um tapete lindo de viver sob a mesa, e um [lustre pendente](http://www.decoracaodacasa.com/lustre-pendente/)  de arrasar sobre o móvel.
 </p>
 
 <p align="justify">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="justify">
-  Que tal escolher um catinho de parede para instalar algumas <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank">prateleiras flutuantes</a>. Há quem goste de expor tudo o quanto for possível nelas porque, de fato, facilita o acesso. Pessoalmente, admito que tenho implicância com a poeira, então não usaria esse recurso dessa forma. Penso em poucas prateleiras para colocar alguns poucos objetos, livros de receitas mais usados, etc. Fica a dica.
+  Que tal escolher um catinho de parede para instalar algumas [prateleiras flutuantes](http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/) . Há quem goste de expor tudo o quanto for possível nelas porque, de fato, facilita o acesso. Pessoalmente, admito que tenho implicância com a poeira, então não usaria esse recurso dessa forma. Penso em poucas prateleiras para colocar alguns poucos objetos, livros de receitas mais usados, etc. Fica a dica.
 </p>
 
 <p align="justify">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="justify">
-  A janela da cozinha é que pode ganhar o ar de mudança que você tanto quer no ambiente. A ideia é recorrer ao uso de <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank">cortinas</a>, e aqui a sugestão é usar um tecido estampado num modelo romano. Vivi de amores!
+  A janela da cozinha é que pode ganhar o ar de mudança que você tanto quer no ambiente. A ideia é recorrer ao uso de [cortinas](http://www.decoracaodacasa.com/cortinas-como-escolher/) , e aqui a sugestão é usar um tecido estampado num modelo romano. Vivi de amores!
 </p>
 
 <p align="justify">
@@ -134,7 +134,7 @@ categories:
 </p>
 
 <p align="justify">
-  Uma geladeira amarela promove a reviravolta decorativa que você busca? Essa é apenas uma sugestão, porque na verdade as possibilidades de cores são muitas: você pode comprar uma nova, mandar pintar ou apenas adesivá-la. Além do mais, o eletrodoméstico de cor nem precisa ser, necessariamente, a geladeira. Pode ser o liquidificador, a batedeira, a torradeira. O importante, nesse caso, é que a peça fique exposta propositalmente, dando <em>bossa</em> na decoração da cozinha, <em>néam</em>?
+  Uma geladeira amarela promove a reviravolta decorativa que você busca? Essa é apenas uma sugestão, porque na verdade as possibilidades de cores são muitas: você pode comprar uma nova, mandar pintar ou apenas adesivá-la. Além do mais, o eletrodoméstico de cor nem precisa ser, necessariamente, a geladeira. Pode ser o liquidificador, a batedeira, a torradeira. O importante, nesse caso, é que a peça fique exposta propositalmente, dando _bossa_ na decoração da cozinha, _néam_?
 </p>
 
 <p align="justify">
@@ -142,7 +142,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank">**Decoração da cozinha: 7 profissionais dizem o que é top.**</a>
+  [**Decoração da cozinha: 7 profissionais dizem o que é top.**](http://www.decoracaodacasa.com/decoracao-da-cozinha-2/) 
 </p>
 
 <p align="justify">
@@ -182,7 +182,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank">**Download grátis: decore a parede da cozinha com quadro de frutas.**</a>
+  [**Download grátis: decore a parede da cozinha com quadro de frutas.**](http://www.decoracaodacasa.com/decoracao-parede-cozinha/) 
 </p>
 
 <p align="justify">
@@ -194,7 +194,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -210,15 +210,15 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
-  Talvez os seus panos de prato ou aventais estejam um pouco sem graça… será? Confira e, na dúvida, escolha e pendure novas peças de tecido em padronagens bem coloridas. Você duvida da <em>levantada </em>que essa estratégia provocará nesse cantinho?
+  Talvez os seus panos de prato ou aventais estejam um pouco sem graça… será? Confira e, na dúvida, escolha e pendure novas peças de tecido em padronagens bem coloridas. Você duvida da _levantada _que essa estratégia provocará nesse cantinho?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

@@ -14,7 +14,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 &nbsp;
 
 <p align="justify">
-  Confesso que, para mim, isso é novidade. Nunca ralei tomate nem vi receita alguma onde isso era recomendado. É por isso que sempre digo: é <em>blogando</em> que se aprende! Então, bonita, está pronta para arrasar num jeitinho diferente e prático de preparar o seu molho? Repara só na falta de complexidade, <em>oh</em>:
+  Confesso que, para mim, isso é novidade. Nunca ralei tomate nem vi receita alguma onde isso era recomendado. É por isso que sempre digo: é _blogando_ que se aprende! Então, bonita, está pronta para arrasar num jeitinho diferente e prático de preparar o seu molho? Repara só na falta de complexidade, _oh_:
 </p>
 
 <!--more-->
@@ -32,7 +32,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 &nbsp;
 
 > <p align="justify">
->   “<em>Lidi, aí está a receita super fácil e super gostosa: Molho SSS [Simplérrimo, Saborosíssimo, Super]…</em>
+>   “_Lidi, aí está a receita super fácil e super gostosa: Molho SSS [Simplérrimo, Saborosíssimo, Super]…_
 > </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 &nbsp;
 
 > <p align="justify">
->   <em>…ralar o tomate, temperar e misturar na massa, simples assim!…</em>
+>   _…ralar o tomate, temperar e misturar na massa, simples assim!…_
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 &nbsp;
 
 > <p align="justify">
->   … <em>para temperar o tomate ralado uso apenas **sal, manjericão, salsinha e pimenta do reino, se quiser pode usar molho de soja no lugar do sal. **Escorrer a massa cozida e rapidamente agregar o molho. Use queijo ralado, se gostar. A quantidade para calcular é **1 tomate para cada porção**…</em>
+>   … _para temperar o tomate ralado uso apenas **sal, manjericão, salsinha e pimenta do reino, se quiser pode usar molho de soja no lugar do sal. **Escorrer a massa cozida e rapidamente agregar o molho. Use queijo ralado, se gostar. A quantidade para calcular é **1 tomate para cada porção**…_
 > </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 &nbsp;
 
 > <p align="justify">
->   <em>…bom apetite!”</em>
+>   _…bom apetite!”_
 > </p>
 > 
 > **<span style="color: #ff0000;">[ATUALIZADO]</span>**
@@ -76,7 +76,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 > &nbsp;
 > 
 > > <p align="justify">
-> >   <span style="color: #ff0000;">“<em>Lidi, acho que esqueci de dizer do **azeite** aí no texto que mandei&#8230;rs&#8230; mas tem na foto, **muito azeite e se quiser, fica uma delicia, um pouco de alho cru, para quem gosta**, eu adoro, mas nessa receita que fotografei não coloquei porque não tinha alho fresco em casa no dia</em>.”</span>
+> >   <span style="color: #ff0000;">“_Lidi, acho que esqueci de dizer do **azeite** aí no texto que mandei&#8230;rs&#8230; mas tem na foto, **muito azeite e se quiser, fica uma delicia, um pouco de alho cru, para quem gosta**, eu adoro, mas nessa receita que fotografei não coloquei porque não tinha alho fresco em casa no dia_.”</span>
 > > </p>
 
 &nbsp;
@@ -90,7 +90,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 &nbsp;
 
 <p align="justify">
-  A Jussara tem muito mais que dotes e truques culinários para dividir com a gente, pode apostar. Eu frequento o seu blog, **<a href="http://www.omovel.com.br/" target="_blank">O Móvel</a>**, há bastante tempo, e é lá onde vejo dicas de decoração daquelas de muito bom gosto e aplicáveis na casa de cada uma de nós. Se eu fosse você, dava uma <em>espiada</em> e aí comprovaria o que estou falando. Depois disso, não duvido que você passe a querer ver suas novidades também, e sem pestanejar! Se joga **<a href="http://www.omovel.com.br/" target="_blank">clicando aqui</a>**, bonitona!
+  A Jussara tem muito mais que dotes e truques culinários para dividir com a gente, pode apostar. Eu frequento o seu blog, **[O Móvel](http://www.omovel.com.br/) **, há bastante tempo, e é lá onde vejo dicas de decoração daquelas de muito bom gosto e aplicáveis na casa de cada uma de nós. Se eu fosse você, dava uma _espiada_ e aí comprovaria o que estou falando. Depois disso, não duvido que você passe a querer ver suas novidades também, e sem pestanejar! Se joga **[clicando aqui](http://www.omovel.com.br/) **, bonitona!
 </p>
 
 <p align="center">
@@ -142,7 +142,7 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -157,13 +157,13 @@ A saber: **_S_**implérrimo, **_S_**aborosíssimo, **S**uper! E eu diria _superu
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

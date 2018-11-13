@@ -9,12 +9,12 @@ permalink: /2011/11/16/sorteio-casa-da-claudia/
 categories:
   - Publieditorial
 ---
-A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está ficando cada vez melhor. Desta vez é sua casa que poderá ser mimada. Aliás, sua casa e a da sua melhor amiga! Tudo isso via **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">Casa da Claudia</a>**. Repare quantas _fofurices_…repare mesmo!
+A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está ficando cada vez melhor. Desta vez é sua casa que poderá ser mimada. Aliás, sua casa e a da sua melhor amiga! Tudo isso via **[Casa da Claudia](http://www.casadaclaudia.com.br/index.php/) **. Repare quantas _fofurices_…repare mesmo!
 
 &nbsp;
 
 <p align="justify">
-  Antes de te deixar viver de amores pelo que você vai ver, permita-me apresentar a moça por trás dessa loja virtual: **Claudia Medeiros**, do blog **<a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa</a>**. Sim! Ela também é blogueira de corpo e alma, e teve a ideia de nos facilitar a aquisição de <em>belezuras</em> decorativas e de utilidade para casa. Confere!
+  Antes de te deixar viver de amores pelo que você vai ver, permita-me apresentar a moça por trás dessa loja virtual: **Claudia Medeiros**, do blog **[Se fosse na minha casa](http://sefossenaminhacasa.blogspot.com/) **. Sim! Ela também é blogueira de corpo e alma, e teve a ideia de nos facilitar a aquisição de _belezuras_ decorativas e de utilidade para casa. Confere!
 </p>
 
 <!--more-->
@@ -26,15 +26,15 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 &nbsp;
 
 <p align="justify">
-  A moça é Jornalista, Decoradora e estudante de D<em>esign</em> de Interiores. Depois que virou blogueira, sua paixão pela casa e pela decoração foi potencializada. O resultado foi a intimidade cada vez mais latente com o universo das coisas ligadas ao lar.
+  A moça é Jornalista, Decoradora e estudante de D_esign_ de Interiores. Depois que virou blogueira, sua paixão pela casa e pela decoração foi potencializada. O resultado foi a intimidade cada vez mais latente com o universo das coisas ligadas ao lar.
 </p>
 
 <p align="justify">
-  Essa trajetória desencadeou a ideia de criação da marca **Casa da Claudia**, e graças a iniciativa da **Claudia**, hoje temos acesso a peças criativas e charmosas, daquelas que deixam a casa de qualquer uma de nós cheia de <em>bossa</em>.
+  Essa trajetória desencadeou a ideia de criação da marca **Casa da Claudia**, e graças a iniciativa da **Claudia**, hoje temos acesso a peças criativas e charmosas, daquelas que deixam a casa de qualquer uma de nós cheia de _bossa_.
 </p>
 
 <p align="justify">
-  Quer ter uma ideia? Confere o mimo que a **Casa da Claudia** está oferecendo para ser sorteado por aqui e que pode ser seu… ah! Sua melhor amiga também pode ganhar um, <em>viu</em>?
+  Quer ter uma ideia? Confere o mimo que a **Casa da Claudia** está oferecendo para ser sorteado por aqui e que pode ser seu… ah! Sua melhor amiga também pode ganhar um, _viu_?
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 &nbsp;
 
 <p align="justify">
-  Essa fofura cheia de bolinhas, isto é, o amado poá, acabou virando uma espcialidade da **Casa da Claudia**. Você nem imagina a variedade de produtos cheios de bolinhas que há por lá: **kits para pia, canecas, queijeiras, xícaras, jarras, etc**. E não é só de bolinhas que é feita a loja virtual, <em>hein</em>? Há muitos outros objetos com outros estilos. É só conferir!
+  Essa fofura cheia de bolinhas, isto é, o amado poá, acabou virando uma espcialidade da **Casa da Claudia**. Você nem imagina a variedade de produtos cheios de bolinhas que há por lá: **kits para pia, canecas, queijeiras, xícaras, jarras, etc**. E não é só de bolinhas que é feita a loja virtual, _hein_? Há muitos outros objetos com outros estilos. É só conferir!
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ A **comemoração dos 3 anos do Bicha Fêmea neste mês de Novembro** está fica
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o **<a href="http://www.casadaclaudia.com.br/index.php/" target="_blank">site da Casa da Claudia</a>**, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o **[site da Casa da Claudia](http://www.casadaclaudia.com.br/index.php/) **, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p style="text-align: center;" align="justify">

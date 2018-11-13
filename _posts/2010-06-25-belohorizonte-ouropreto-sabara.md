@@ -9,7 +9,7 @@ permalink: /2010/06/25/belohorizonte-ouropreto-sabara/
 categories:
   - Trololó
 ---
-Mulheres são criaturas muito observadoras, não é? Me ausentei por apenas alguns poucos dias do Twitter e logo a <a href="http://twitter.com/fernandareali" target="_blank">@fernandareali</a>, <a href="http://twitter.com/casadecatarina" target="_blank">@casadecatarina</a> (Lelê) e a <a href="http://twitter.com/EspacoHome" target="_blank">@EspacoHome</a> (Simone) perceberam. Eita, _lelê_! Danadas, _hein_? E como ficaram muito curiosas sobre o porquê eu estava tão quietinha, digo a razão: fui passear em MG com marido. Conheci um pouco de Belo Horizonte, Ouro Preto e Sabará.
+Mulheres são criaturas muito observadoras, não é? Me ausentei por apenas alguns poucos dias do Twitter e logo a [@fernandareali](http://twitter.com/fernandareali) , [@casadecatarina](http://twitter.com/casadecatarina)  (Lelê) e a [@EspacoHome](http://twitter.com/EspacoHome)  (Simone) perceberam. Eita, _lelê_! Danadas, _hein_? E como ficaram muito curiosas sobre o porquê eu estava tão quietinha, digo a razão: fui passear em MG com marido. Conheci um pouco de Belo Horizonte, Ouro Preto e Sabará.
 
 Querem ver fotos, meninas? Pois, lá vai… um pouco de mim e de minhas notícias…
 
@@ -33,7 +33,7 @@ Vamos ás imagens?
   </tr>
 </table>
 
-Esse é o <a href="http://pt.wikipedia.org/wiki/Museu_da_inconfid%C3%AAncia" target="_blank">Museu da Inconfidência</a>, ele fica em Ouro Preto. Eu acredito que quem vai na cidade tem a obrigação de visitar esse ponto. O acervo é excelente, conta muito do que foi o movimento da Inconfidência Mineira, e sobre como aconteceu.
+Esse é o [Museu da Inconfidência](http://pt.wikipedia.org/wiki/Museu_da_inconfid%C3%AAncia) , ele fica em Ouro Preto. Eu acredito que quem vai na cidade tem a obrigação de visitar esse ponto. O acervo é excelente, conta muito do que foi o movimento da Inconfidência Mineira, e sobre como aconteceu.
 
 <table align="center">
   <tr>
@@ -47,7 +47,7 @@ Esse é o <a href="http://pt.wikipedia.org/wiki/Museu_da_inconfid%C3%AAncia" tar
   </tr>
 </table>
 
-Essa é a <a href="http://www.itaucultural.org.br/aplicexternas/enciclopedia_ic/index.cfm?fuseaction=marcos_texto&cd_verbete=4093" target="_blank">igreja de São Francisco de Assis</a>, também em Ouro Preto. A igreja foi projetada por Aleijadinho, que também esculpiu muito do que se vê nela, a exemplo do que está sobre a porta da igreja. Ela é belíssima lá dentro, acredite!! Vale a pena a visita.
+Essa é a [igreja de São Francisco de Assis](http://www.itaucultural.org.br/aplicexternas/enciclopedia_ic/index.cfm?fuseaction=marcos_texto&cd_verbete=4093) , também em Ouro Preto. A igreja foi projetada por Aleijadinho, que também esculpiu muito do que se vê nela, a exemplo do que está sobre a porta da igreja. Ela é belíssima lá dentro, acredite!! Vale a pena a visita.
 
 <table align="center">
   <tr>
@@ -61,7 +61,7 @@ Essa é a <a href="http://www.itaucultural.org.br/aplicexternas/enciclopedia_ic/
   </tr>
 </table>
 
-Esse caminho de palmeiras imperiais, tão lindo, fica na <a href="http://pt.wikipedia.org/wiki/Pra%C3%A7a_da_Liberdade_(Belo_Horizonte)" target="_blank">Praça da Liberdade</a>, em Belo Horizonte. A praça foi construída no século XIX, e foi recebendo novos elementos arquitetônicos com o passar dos anos. Por isso, ela representa uma síntese de estilos, e conta com belos jardins e prédios no seu entorno.
+Esse caminho de palmeiras imperiais, tão lindo, fica na [Praça da Liberdade](http://pt.wikipedia.org/wiki/Pra%C3%A7a_da_Liberdade_(Belo_Horizonte)) , em Belo Horizonte. A praça foi construída no século XIX, e foi recebendo novos elementos arquitetônicos com o passar dos anos. Por isso, ela representa uma síntese de estilos, e conta com belos jardins e prédios no seu entorno.
 
 <table align="center">
   <tr>
@@ -117,7 +117,7 @@ Essa é minha foto preferida. Acho que marido caprichou…
   </tr>
 </table>
 
-Essa é a <a href="http://pt.wikipedia.org/wiki/Igreja_S%C3%A3o_Francisco_de_Assis_(Belo_Horizonte)" target="_blank">Igreja de São Francisco de Assis</a>. A igreja faz parte do <a href="http://pt.wikipedia.org/wiki/Conjunto_Arquitet%C3%B4nico_da_Pampulha" target="_blank">complexo arquitetônico da Pampulha</a>, onde há outros prédios, todos projetados por Oscar Niemeyer.
+Essa é a [Igreja de São Francisco de Assis](http://pt.wikipedia.org/wiki/Igreja_S%C3%A3o_Francisco_de_Assis_(Belo_Horizonte)) . A igreja faz parte do [complexo arquitetônico da Pampulha](http://pt.wikipedia.org/wiki/Conjunto_Arquitet%C3%B4nico_da_Pampulha) , onde há outros prédios, todos projetados por Oscar Niemeyer.
 
 <table align="center">
   <tr>
@@ -145,7 +145,7 @@ Esta é a parte de trás da mesma igreja.
   </tr>
 </table>
 
-Esta é a <a href="http://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_do_%C3%93_(Sabar%C3%A1)" target="_blank">Igreja de Nossa Senhora do Ó</a>, em Sabará. A igreja é bem pequena e simples vista por fora, mas por dentro é rica em detalhes e com forte influência chinesa em painéis. Na ocasião de sua construção, no século XVIII, acredita-se que muito do que foi feito saiu das mãos de artesãos vindos da colônia portuguesa no Oriente (Macau), e por isso a influência tão acentuada.
+Esta é a [Igreja de Nossa Senhora do Ó](http://pt.wikipedia.org/wiki/Igreja_de_Nossa_Senhora_do_%C3%93_(Sabar%C3%A1)) , em Sabará. A igreja é bem pequena e simples vista por fora, mas por dentro é rica em detalhes e com forte influência chinesa em painéis. Na ocasião de sua construção, no século XVIII, acredita-se que muito do que foi feito saiu das mãos de artesãos vindos da colônia portuguesa no Oriente (Macau), e por isso a influência tão acentuada.
 
 <table align="center">
   <tr>

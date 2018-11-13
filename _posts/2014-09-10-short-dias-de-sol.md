@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“O verão é a época de mostrar as pernas, e os shorts se transformam nos melhores amigos das mulheres neste período do ano. Para fugir do tradicional jeans, os modelos de alfaiataria são uma ótima opção já que, além de serem confortáveis, são muito elegantes.”</em>
+  _“O verão é a época de mostrar as pernas, e os shorts se transformam nos melhores amigos das mulheres neste período do ano. Para fugir do tradicional jeans, os modelos de alfaiataria são uma ótima opção já que, além de serem confortáveis, são muito elegantes.”_
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.pinterest.com/" target="_blank">Pinterest</a>
+  Imagem: [Pinterest](http://www.pinterest.com/) 
 </p>
 
 > <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://br.pinterest.com/" target="_blank">Pinterest</a>
+  Imagem: [Pinterest](http://br.pinterest.com/) 
 </p>
 
 > <p align="justify">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? [Clica aqui e se joga](https://www.facebook.com/lilianjordao82/timeline) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

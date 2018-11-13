@@ -22,7 +22,7 @@ Isso agrada a você também? Então repare no que eu parei, olhei, vivi de amore
 </p>
 
 <p align="center">
-  **BOWL CERAMICA OSIRIS**, da <a href="http://www.bluegardenia.com.br/default.asp" target="_blank">**Blue Gardenia**</a>.
+  **BOWL CERAMICA OSIRIS**, da [**Blue Gardenia**](http://www.bluegardenia.com.br/default.asp) .
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Isso agrada a você também? Então repare no que eu parei, olhei, vivi de amore
 </p>
 
 <p align="center">
-  **Pano de Copa – Caroline**. Disponível em 4 cores diferentes. Material 100% algodão. Tamanho 50x70cm. **<a href="http://www.casadivertida.com/index.php" target="_blank">Casa Divertida</a>.**
+  **Pano de Copa – Caroline**. Disponível em 4 cores diferentes. Material 100% algodão. Tamanho 50x70cm. **[Casa Divertida](http://www.casadivertida.com/index.php) .**
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Isso agrada a você também? Então repare no que eu parei, olhei, vivi de amore
 </p>
 
 <p align="center">
-  Talheres para salada**, da <a href="http://www.tramontina.com.br/pt" target="_blank">TRAMONTINA</a>.**
+  Talheres para salada**, da [TRAMONTINA](http://www.tramontina.com.br/pt) .**
 </p>
 
 &nbsp;
@@ -52,7 +52,7 @@ Isso agrada a você também? Então repare no que eu parei, olhei, vivi de amore
 </p>
 
 <p align="center">
-  **Travessa oval 37&#215;22 de porcelana branca, da <a href="https://www.cleusapresentes.com.br/default.asp" target="_blank">Cleusa Presentes.</a>**
+  **Travessa oval 37&#215;22 de porcelana branca, da [Cleusa Presentes.](https://www.cleusapresentes.com.br/default.asp) **
 </p>
 
 &nbsp;
@@ -71,20 +71,20 @@ Isso agrada a você também? Então repare no que eu parei, olhei, vivi de amore
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/GARRAFA-MORINGA-VERMELHA200.jpg"><img class="alignnone size-full wp-image-8600" title="GARRAFA MORINGA VERMELHA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/GARRAFA-MORINGA-VERMELHA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.decoracaodacasa.com/casa-decoracao/" target="_blank"><span style="font-size: small;"><br /> Casa com estilo nos detalhes…</span></a>**
+        **[<span style="font-size: small;"><br /> Casa com estilo nos detalhes…</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/GARRAFA-MORINGA-VERMELHA200.jpg"><img class="alignnone size-full wp-image-8600" title="GARRAFA MORINGA VERMELHA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/GARRAFA-MORINGA-VERMELHA200.jpg" alt="" width="200" height="200" /></a><a href="http://www.decoracaodacasa.com/casa-decoracao/) **
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BOLA-DECORATIVA-ROSAS200.jpg"><img class="alignnone size-full wp-image-8601" title="BOLA DECORATIVA ROSAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BOLA-DECORATIVA-ROSAS200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/achados-de-decoracao/" target="_blank"><span style="font-size: small;">Achados de decoração: o que é bonito a gente quer ver!</span></a>**
+  **[<span style="font-size: small;">Achados de decoração: o que é bonito a gente quer ver!</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BOLA-DECORATIVA-ROSAS200.jpg"><img class="alignnone size-full wp-image-8601" title="BOLA DECORATIVA ROSAS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BOLA-DECORATIVA-ROSAS200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/achados-de-decoracao/) **
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -99,13 +99,13 @@ Isso agrada a você também? Então repare no que eu parei, olhei, vivi de amore
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

@@ -14,11 +14,11 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  É impossível absorver todo o montante de informação que as redes sociais nos oferecem. Que tal assumirmos isso? É como enxugar gelo, gente! É uma tarefa infindável que só nos faz perder tempo, o que é <em>uó</em> pra nossa produtividade, porque nos desvia das tarefas realmente importantes. Sabe o que me salvou? Ser seletiva.
+  É impossível absorver todo o montante de informação que as redes sociais nos oferecem. Que tal assumirmos isso? É como enxugar gelo, gente! É uma tarefa infindável que só nos faz perder tempo, o que é _uó_ pra nossa produtividade, porque nos desvia das tarefas realmente importantes. Sabe o que me salvou? Ser seletiva.
 </p>
 
 <p align="justify">
-  Seja seletiva você também! Selecione, das <em>taaaaantas</em> páginas que você já curtiu e do tanto de gente que você segue: o que de fato te retorna algum valor? Leia apenas as atualizações do que selecionou, ao invés de ficar como uma louca tentando devorar tudo o que aparece na sua <em>timeline</em>. Vai por mim. Isso é qualidade de vida! Fique atenta ao que dizem as pessoas, blogs ou sites que realmente têm alguma relevância pra você. Desista de querer acompanhar tudo e todo mundo… evite um <em>siricotico</em> com tanta informação!
+  Seja seletiva você também! Selecione, das _taaaaantas_ páginas que você já curtiu e do tanto de gente que você segue: o que de fato te retorna algum valor? Leia apenas as atualizações do que selecionou, ao invés de ficar como uma louca tentando devorar tudo o que aparece na sua _timeline_. Vai por mim. Isso é qualidade de vida! Fique atenta ao que dizem as pessoas, blogs ou sites que realmente têm alguma relevância pra você. Desista de querer acompanhar tudo e todo mundo… evite um _siricotico_ com tanta informação!
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/joebehr/4878042391/" target="_blank">Flickr</a> via <a href="http://foter.com/" target="_blank">Foter</a>
+  Imagem: [Flickr](https://www.flickr.com/photos/joebehr/4878042391/)  via [Foter](http://foter.com/) 
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  Melhor coisa da minha vida foi ter feito essas perguntas para mim mesma. E faço constantemente, de modo a acrescentar pessoas/blogs/sites – ou retirar – dessa lista. Minha relação com o <em>Facebook</em>, por exemplo, mudou bastante, pois tem sido mais produtiva e enriquecedora.
+  Melhor coisa da minha vida foi ter feito essas perguntas para mim mesma. E faço constantemente, de modo a acrescentar pessoas/blogs/sites – ou retirar – dessa lista. Minha relação com o _Facebook_, por exemplo, mudou bastante, pois tem sido mais produtiva e enriquecedora.
 </p>
 
 <p align="justify">
@@ -46,15 +46,15 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/" target="_blank">Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?</a>**
+  **[Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?](http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank">Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!</a>**
+  **[Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!](http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/) **
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

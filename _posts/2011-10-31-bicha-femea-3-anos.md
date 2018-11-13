@@ -20,13 +20,13 @@ Pois é, bonita! Dia 22 de Novembro o Bicha Fêmea fará 3 anos, e dia após di
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg"><img class="alignnone size-full wp-image-7084" title="Tacas - Brinde" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg" alt="" width="600" height="600" /></a><br /> Imagem: **<a href="http://www.12frames.eu/" target="_blank">Kriss Szkurlatowski</a>** via **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [Kriss Szkurlatowski](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg"><img class="alignnone size-full wp-image-7084" title="Tacas - Brinde" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg" alt="" width="600" height="600" /></a><br /> Imagem: **<a href="http://www.12frames.eu/) ** via **[stock.xchng](http://www.sxc.hu/) **
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Sempre que recebo um recado teu pelos comentários, por <em>e-mail</em>, via **<a href="http://twitter.com/bichafemea" target="_blank"><em>Twitter</em></a>**, **<a href="http://twitter.com/bichafemea" target="_blank"><em>Orkut</em></a>** ou **<em><a href="http://www.facebook.com/people/Lidiane-Vasconcelos/100002007076157" target="_blank">Facebook</a></em>**, fico toda radiante. Sabe como é… gosto de interagir e acho que a graça disso tudo está nisso: na troca.
+  Sempre que recebo um recado teu pelos comentários, por _e-mail_, via **[_Twitter_](http://twitter.com/bichafemea) **, **[_Orkut_](http://twitter.com/bichafemea) ** ou **_[Facebook](http://www.facebook.com/people/Lidiane-Vasconcelos/100002007076157) _**, fico toda radiante. Sabe como é… gosto de interagir e acho que a graça disso tudo está nisso: na troca.
 </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@ Pois é, bonita! Dia 22 de Novembro o Bicha Fêmea fará 3 anos, e dia após di
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg"><img class="alignnone size-full wp-image-7083" title="Amigas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg" alt="" width="600" height="409" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg"><img class="alignnone size-full wp-image-7083" title="Amigas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg" alt="" width="600" height="409" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;

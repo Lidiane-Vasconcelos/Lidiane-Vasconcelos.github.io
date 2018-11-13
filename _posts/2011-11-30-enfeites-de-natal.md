@@ -65,13 +65,13 @@ Dezembro está batendo na nossa porta, as luzinhas já tomaram conta de muitos c
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.decoracaodacasa.com/decoracao-de-natal-2/" target="_blank"><img class="alignnone size-full wp-image-8255" title="DECORACAO DE NATAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/DECORACAO-DE-NATAL200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/decoracao-de-natal-2/" target="_blank"><span style="font-size: small;">5 ideias (fáceis) de decoração de Natal (simples) para você copiar…</span></a>**
+        **[<img class="alignnone size-full wp-image-8255" title="DECORACAO DE NATAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/DECORACAO-DE-NATAL200.jpg" alt="" width="200" height="200" />](http://www.decoracaodacasa.com/decoracao-de-natal-2/) <br /> [<span style="font-size: small;">5 ideias (fáceis) de decoração de Natal (simples) para você copiar…</span>](http://www.decoracaodacasa.com/decoracao-de-natal-2/) **
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><img class="alignnone size-full wp-image-8256" title="DECORACAO DE NATAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/DECORACAO-DE-NATAL200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><span style="font-size: small;">2 elegantes (e simples) enfeites para decoração de Natal… feitos por você!</span></a>**
+        **[<img class="alignnone size-full wp-image-8256" title="DECORACAO DE NATAL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/DECORACAO-DE-NATAL200.png" alt="" width="200" height="200" />](http://www.decoracaodacasa.com/enfeites-decoracao-natal/) <br /> [<span style="font-size: small;">2 elegantes (e simples) enfeites para decoração de Natal… feitos por você!</span>](http://www.decoracaodacasa.com/enfeites-decoracao-natal/) **
       </p>
     </td>
   </tr>
@@ -81,11 +81,11 @@ Dezembro está batendo na nossa porta, as luzinhas já tomaram conta de muitos c
   <tr>
     <td valign="top" width="600">
       <p align="center">
-        **<a href="http://www.decoracaodacasa.com/decoracao-natal-2/" target="_blank"><img class="alignnone size-full wp-image-8257" title="Decoração Natal [4]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Decoração-Natal-4200.jpg" alt="" width="200" height="200" /></a>**
+        **[<img class="alignnone size-full wp-image-8257" title="Decoração Natal [4]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/Decoração-Natal-4200.jpg" alt="" width="200" height="200" />](http://www.decoracaodacasa.com/decoracao-natal-2/) **
       </p>
       
       <p align="center">
-        **<a href="http://www.decoracaodacasa.com/decoracao-natal-2/" target="_blank"><span style="font-size: small;">Decoração de Natal: como reutilizar cartões natalinos…</span></a>**
+        **[<span style="font-size: small;">Decoração de Natal: como reutilizar cartões natalinos…</span>](http://www.decoracaodacasa.com/decoracao-natal-2/) **
       </p>
     </td>
   </tr>
@@ -111,13 +111,13 @@ Dezembro está batendo na nossa porta, as luzinhas já tomaram conta de muitos c
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -127,5 +127,5 @@ Dezembro está batendo na nossa porta, as luzinhas já tomaram conta de muitos c
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

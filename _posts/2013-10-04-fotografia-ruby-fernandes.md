@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  “<em>O amor pela fotografia não aconteceu de forma avassaladora na minha vida. Com o passar dos dias &#8211; e dos cursos &#8211; me dei conta que estava completamente envolvida com o mundo da fotografia. Luz e sombra passaram a me encantar mais do que nunca e o amor aconteceu, calmo, sereno, maduro</em>!”
+  “_O amor pela fotografia não aconteceu de forma avassaladora na minha vida. Com o passar dos dias &#8211; e dos cursos &#8211; me dei conta que estava completamente envolvida com o mundo da fotografia. Luz e sombra passaram a me encantar mais do que nunca e o amor aconteceu, calmo, sereno, maduro_!”
 </p>
 
 &nbsp;
@@ -60,7 +60,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais **<a href="http://rubyfernandes.com.br/" target="_blank">clicando aqui</a>**, e conheça muito mais do trabalho dessa profissional<em> superultramega</em> talentosa.
+  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais **[clicando aqui](http://rubyfernandes.com.br/) **, e conheça muito mais do trabalho dessa profissional_ superultramega_ talentosa.
 </p>
 
 <p align="center">
@@ -86,5 +86,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

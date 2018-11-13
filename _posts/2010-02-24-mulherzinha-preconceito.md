@@ -16,16 +16,16 @@ Já falei o quanto gosto desse espaço aqui no Bicha Fêmea, o **_Bicha Fêmea C
 
 A convidada de hoje não me deixa mentir. Você deve conhecer, ou ao menos já ouviu falar da Laély, não é? Pudera, essa blogueira é das mais conhecidas nesse mundo _bloguístico_, e tem um talento inquestionável para nos inspirar com imagens, ideias e sentidos.
 
-O seu blog _**<a href="http://saladala.blogspot.com/" target="_blank">Sala da La</a>**_ é uma salada colorida e gostosa, de muito bom gosto, e inspiradora. Quando a gente passa por lá lê textos que revelam uma mente borbulhante de criatividade. Não é a toa que seu blog é tão visitado, não é mesmo…
+O seu blog _**[Sala da La](http://saladala.blogspot.com/) **_ é uma salada colorida e gostosa, de muito bom gosto, e inspiradora. Quando a gente passa por lá lê textos que revelam uma mente borbulhante de criatividade. Não é a toa que seu blog é tão visitado, não é mesmo…
 
 Além de mostrar o quanto é sensível para as sensações que se pode experimentar numa casa e tudo o que diga respeito ao lar, Laély também nos brinda com suas ideias muito bem colocadas sobre tudo o que vai por sua cabeça. É assim no seu blog, foi assim no texto que escolheu para publicar e se mostrar para você, que é uma bicha fêmea navegante.
 
 Lucidez e argumentação inteligente é o que mais se lê em seus textos. Quer apostar o contrário??
 
-**_Por Laély – <a href="http://saladala.blogspot.com/" target="_blank">Sala da La</a>_**
+**_Por Laély – [Sala da La](http://saladala.blogspot.com/) _**
 
 <p style="text-align: center;">
-  **<em>&#8220;Mulherzinha&#8221;, eeeu?!&#8230;</em>**
+  **_&#8220;Mulherzinha&#8221;, eeeu?!&#8230;_**
 </p>
 
 <table align="center">
@@ -48,7 +48,7 @@ Ele me disse que &#8220;mulherzinha&#8221;, usado costumeira e inocentemente em 
 
 Montei todo o meu arsenal de contra-argumentos, para defender a palavrinha em questão da tal calúnia! Acho que, 99,9% das mulheres entendem bem o sentido da coisa. Mas, deixemos de lado a análise semântica e morfológica da palavra e, tratemos de assuntos afins&#8230;
 
-&#8220;_A long, long time ago_&#8220;, quando George Lucas nem &#8220;era criança pequena, lá em Barbacena&#8221; e Bill Gates, nem sonhava ganhar seus primeiros &#8220;trocados&#8221;, o mundo era <a href="http://letras.terra.com.br/chico-buarque/45124/" target="_blank">construído</a> assim:
+&#8220;_A long, long time ago_&#8220;, quando George Lucas nem &#8220;era criança pequena, lá em Barbacena&#8221; e Bill Gates, nem sonhava ganhar seus primeiros &#8220;trocados&#8221;, o mundo era [construído](http://letras.terra.com.br/chico-buarque/45124/)  assim:
 
 > &#8220;Amou daquela vez como se fosse a última
 > 
@@ -58,9 +58,9 @@ Montei todo o meu arsenal de contra-argumentos, para defender a palavrinha em qu
 > 
 > E atravessou a rua com seu passo tímido&#8230;&#8221;
 
-&#8230; E o <a href="http://pt.wikipedia.org/wiki/Homem-de-neandertal" target="_blank">homem de Neandertal</a> deixava a mulher em casa, cuidando da prole, enquanto ia atrás do &#8220;petisco&#8221; para a janta: algum dinossauro que desse mole e, às custas de toscas ferramentas, fosse capaz de subjugar. Enquanto isso, mamãe ficava em casa, sem saber se papai voltaria: imaginem a aflição dessa espera!&#8230;
+&#8230; E o [homem de Neandertal](http://pt.wikipedia.org/wiki/Homem-de-neandertal)  deixava a mulher em casa, cuidando da prole, enquanto ia atrás do &#8220;petisco&#8221; para a janta: algum dinossauro que desse mole e, às custas de toscas ferramentas, fosse capaz de subjugar. Enquanto isso, mamãe ficava em casa, sem saber se papai voltaria: imaginem a aflição dessa espera!&#8230;
 
-Nada de divagações românticas! Estamos falando de encher a barriga dos curumins, certo? Caso papai não voltasse, a conclusão mais óbvia: &#8220;foi comprar um cigarro?&#8221; Não: o caçador, virou caça. E só. Era a mulher sozinha, dando conta da cria, numa terra inóspita. E olha, que não era uma &#8220;mulherzona&#8221; de 3m de altura, como as <a href="http://www.omelete.com.br/cine/100024033/Critica__Avatar.aspx" target="_blank">Na&#8217;vi de Avatar</a>, não!
+Nada de divagações românticas! Estamos falando de encher a barriga dos curumins, certo? Caso papai não voltasse, a conclusão mais óbvia: &#8220;foi comprar um cigarro?&#8221; Não: o caçador, virou caça. E só. Era a mulher sozinha, dando conta da cria, numa terra inóspita. E olha, que não era uma &#8220;mulherzona&#8221; de 3m de altura, como as [Na&#8217;vi de Avatar](http://www.omelete.com.br/cine/100024033/Critica__Avatar.aspx) , não!
 
 Falando em povo Na&#8217;vi, demos um salto bem grande na História e imaginemos a mulher de Colombo, ao receber a notícia da sua partida em busca do caminho para o Oriente, pelo Ocidente:
 
@@ -70,13 +70,13 @@ Falando em povo Na&#8217;vi, demos um salto bem grande na História e imaginemos
 
 -Sabe o que é?&#8230;consegui um patrocínio da coroa espanhola&#8230;mas, não sei quando volto nem, se volto&#8230;
 
-A situação não seria tão hipotética, assim: foi retratada no excelente épico de Ridley Scott, &#8220;<a href="http://www.historianet.com.br/conteudo/default.aspx?codigo=298" target="_blank">1492-A Conquista do Paraíso</a>&#8221; 
+A situação não seria tão hipotética, assim: foi retratada no excelente épico de Ridley Scott, &#8220;[1492-A Conquista do Paraíso](http://www.historianet.com.br/conteudo/default.aspx?codigo=298) &#8221; 
 
 Mas ninguém se lembra de dar os créditos à mulher do Colombo, _né_?!
 
 _Tá_ bom, esqueçamos o revanchismo e continuemos nossa viagem na história&#8230;
 
-A avó materna do meu marido tem 94 anos, cabeça branquinha, corpo miúdo, mais miúdo ainda pela curvatura dos anos. Mal fala e entende o Português. É uma legítima representante do povo brasileiro porém, proveniente de uma comunidade de <a href="http://pt.wikipedia.org/wiki/Pomeranos" target="_blank">pomeranos</a> que colonizou algumas cidades, no interior do Espírito Santo. Ela teve 10 filhos e criou mais uns 6, numa roça auto-sustentável, onde todos trabalhavam; todos, estudaram até o nível superior. Ela, não. Era do tempo em que mulher ficava em casa e o homem é que saía para resolver &#8220;os causo&#8221; na cidade. Isso tem mudado bastante, mas ainda é comum, entre as mulheres pomeranas mais velhas, não saber se comunicar em português.
+A avó materna do meu marido tem 94 anos, cabeça branquinha, corpo miúdo, mais miúdo ainda pela curvatura dos anos. Mal fala e entende o Português. É uma legítima representante do povo brasileiro porém, proveniente de uma comunidade de [pomeranos](http://pt.wikipedia.org/wiki/Pomeranos)  que colonizou algumas cidades, no interior do Espírito Santo. Ela teve 10 filhos e criou mais uns 6, numa roça auto-sustentável, onde todos trabalhavam; todos, estudaram até o nível superior. Ela, não. Era do tempo em que mulher ficava em casa e o homem é que saía para resolver &#8220;os causo&#8221; na cidade. Isso tem mudado bastante, mas ainda é comum, entre as mulheres pomeranas mais velhas, não saber se comunicar em português.
 
 <table align="center">
   <tr>
@@ -87,7 +87,7 @@ A avó materna do meu marido tem 94 anos, cabeça branquinha, corpo miúdo, mais
 </table>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://ffffound.com/image/d109bd7ab8d44074e32cee5c2142e15d111d1767" target="_blank">FFFFOUND!</a>
+  Imagem: [FFFFOUND!](http://ffffound.com/image/d109bd7ab8d44074e32cee5c2142e15d111d1767) 
 </p>
 
  
@@ -100,7 +100,7 @@ Aí, eu lhe pergunto: quem é a &#8220;mulherzinha&#8221; aqui?&#8230;
 
 Pulo, para os nossos tempos:
 
-No subtítulo do <a href="http://saladala.blogspot.com/" target="_blank">meu blog</a>, descrevi sucintamente: &#8220;casa, decoração, comidinhas e ideias&#8230;&#8221; Assuntos, portanto, de: &#8220;mulherzinha&#8221;&#8230; Mas será, que os papéis ainda são assim, tão demarcados?!
+No subtítulo do [meu blog](http://saladala.blogspot.com/) , descrevi sucintamente: &#8220;casa, decoração, comidinhas e ideias&#8230;&#8221; Assuntos, portanto, de: &#8220;mulherzinha&#8221;&#8230; Mas será, que os papéis ainda são assim, tão demarcados?!
 
 Hoje em dia, é cada vez mais frequente encontrar homens que, de forma consensual, trocaram de lugar com as mulheres no cuidado do lar e dos filhos. Sei que tenho uma plateia masculina, pequena e discreta; quero crer que estão por aí, acompanhando meus posts, caladinhos, mas atentos&#8230;
 

@@ -26,7 +26,7 @@ Está pensando que fiquei louca porque te fiz uma pergunta dessa, não é? Parec
 </p>
 
 <p style="text-align: justify;">
-  Se você acompanha o Bicha Fêmea há um certo tempo, deve ter percebido que eu gosto de um <em>trololozinho</em>, não é? É da minha natureza querer trocar figurinhas com quem passa por aqui. Basta que alguém me pergunte alguma coisa, e lá estou eu, respondendo… e nem precisa ser pergunta, porque até mesmo uma consideração que seja feita nos comentários me instiga a considerar outra coisa por cima e aí… os comentários do post viram um verdadeiro bate-papo.
+  Se você acompanha o Bicha Fêmea há um certo tempo, deve ter percebido que eu gosto de um _trololozinho_, não é? É da minha natureza querer trocar figurinhas com quem passa por aqui. Basta que alguém me pergunte alguma coisa, e lá estou eu, respondendo… e nem precisa ser pergunta, porque até mesmo uma consideração que seja feita nos comentários me instiga a considerar outra coisa por cima e aí… os comentários do post viram um verdadeiro bate-papo.
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ Está pensando que fiquei louca porque te fiz uma pergunta dessa, não é? Parec
 </p>
 
 <p style="text-align: justify;">
-  No “frigir dos ovos”, e sem mais <em>blá blá blá</em>, eu te pergunto: afinal de contas, você nunca comentou no Bicha Fêmea por ter medo? Ai, meus sais… olha lá, <em>hein</em>? Medo de quê, bonita?
+  No “frigir dos ovos”, e sem mais _blá blá blá_, eu te pergunto: afinal de contas, você nunca comentou no Bicha Fêmea por ter medo? Ai, meus sais… olha lá, _hein_? Medo de quê, bonita?
 </p>
 
 <p style="text-align: center;">
@@ -42,27 +42,27 @@ Está pensando que fiquei louca porque te fiz uma pergunta dessa, não é? Parec
 </p>
 
 <p style="text-align: justify;">
-  Por favor, não tenha o receio de ser ignorada, porque você não será. Se ainda persiste esse tipo de insegurança, pode tirar essa ideia da cabeça porque a gente pode estreitar nosso relacionamento <em>bloguístico</em> a partir de agora e ficar de <em>trololó,</em> sim. Você ainda duvida?
+  Por favor, não tenha o receio de ser ignorada, porque você não será. Se ainda persiste esse tipo de insegurança, pode tirar essa ideia da cabeça porque a gente pode estreitar nosso relacionamento _bloguístico_ a partir de agora e ficar de _trololó,_ sim. Você ainda duvida?
 </p>
 
 <p style="text-align: justify;">
-  Agora, veja bem… sem estresse e pressão. Eu fico feliz da vida se você comentar, mas a felicidade é em dobro quando eu sinto que é um comentário espontâneo, sem forçar a barra para isso. Ou você pensa que eu não sinto…ô, se sinto! Até por que, comentar por comentar como quem assina um livro de presença, é <em>tãããão</em> chatinho, não é? Eu não faço isso no blog de ninguém, e não espero isso de você. Eu quero mesmo é que o seu recado seja dado porque você quis, de verdade, deixá-lo por aqui. Combinado?
+  Agora, veja bem… sem estresse e pressão. Eu fico feliz da vida se você comentar, mas a felicidade é em dobro quando eu sinto que é um comentário espontâneo, sem forçar a barra para isso. Ou você pensa que eu não sinto…ô, se sinto! Até por que, comentar por comentar como quem assina um livro de presença, é _tãããão_ chatinho, não é? Eu não faço isso no blog de ninguém, e não espero isso de você. Eu quero mesmo é que o seu recado seja dado porque você quis, de verdade, deixá-lo por aqui. Combinado?
 </p>
 
-Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+Imagem: **[stock.xchng](http://www.sxc.hu/) **
 
 <p style="text-align: center;">
-  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
-</p>
-
-<p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+</p>
+
+<p style="text-align: center;">
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

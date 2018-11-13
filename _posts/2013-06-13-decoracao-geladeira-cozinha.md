@@ -10,7 +10,7 @@ categories:
   - Cozinha
   - Publieditorial
 ---
-Já sei… ficou curiosa para saber como fazer isso, não é? Então prepare-se: este post foi editado para te mostrar uma solução de **decoração para sua cozinha** que é prática, barata e _superultramega_ cheia de _bossa_: **<a href="http://livemagnets.com.br/index.php" target="_blank">livemagnets</a>**!
+Já sei… ficou curiosa para saber como fazer isso, não é? Então prepare-se: este post foi editado para te mostrar uma solução de **decoração para sua cozinha** que é prática, barata e _superultramega_ cheia de _bossa_: **[livemagnets](http://livemagnets.com.br/index.php) **!
 
 &nbsp;
 
@@ -26,7 +26,7 @@ Já sei… ficou curiosa para saber como fazer isso, não é? Então prepare-se:
 
 &nbsp;
 
-A ideia te surpreendeu? Pois é, bonita, também fiquei surpresa com essa possibilidade, ainda mais com as opções de imãs da **livemagnets**. Quer conferir? Se joga na **<a href="http://livemagnets.com.br/index.php" target="_blank">loja virtual</a>**, dê uma espiadinha e viva de amores!
+A ideia te surpreendeu? Pois é, bonita, também fiquei surpresa com essa possibilidade, ainda mais com as opções de imãs da **livemagnets**. Quer conferir? Se joga na **[loja virtual](http://livemagnets.com.br/index.php) **, dê uma espiadinha e viva de amores!
 
 &nbsp;
 

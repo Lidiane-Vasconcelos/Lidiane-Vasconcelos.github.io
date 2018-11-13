@@ -9,7 +9,7 @@ permalink: /2011/12/21/cozinha-utensilios-design/
 categories:
   - Receitas
 ---
-Você já deve ter ouvido falar que uma comida deve começar encantando pelos olhos, não é? Pois bem… imagine se, além de bonita, a comida é servida num utensílio cheio de _bossa_? O encantamento é duplo! Deve ser por isso que **Katia Bonfadini**, a blogueira cheia de criatividade que edita o **<a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>**, capricha no visual dos apetrechos de cozinha.
+Você já deve ter ouvido falar que uma comida deve começar encantando pelos olhos, não é? Pois bem… imagine se, além de bonita, a comida é servida num utensílio cheio de _bossa_? O encantamento é duplo! Deve ser por isso que **Katia Bonfadini**, a blogueira cheia de criatividade que edita o **[Casos e Coisas da Bonfa](http://casosecoisasdabonfa.blogspot.com/) **, capricha no visual dos apetrechos de cozinha.
 
 &nbsp;
 
@@ -80,7 +80,7 @@ Pois é…a moça bonita, e cuidadosa como poucas na arte de servir, esclarece q
 </p>
 
 <p align="center">
-  O porquinho pra abrir vinho é da loja **<a href="http://www.lojapylonesbrasil.com.br/" target="_blank">Pylones</a>.**
+  O porquinho pra abrir vinho é da loja **[Pylones](http://www.lojapylonesbrasil.com.br/) .**
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Pois é…a moça bonita, e cuidadosa como poucas na arte de servir, esclarece q
 </p>
 
 <p align="center">
-  O jogo americano é da **<a href="http://anasinhana.tanlup.com/" target="_blank">Ana Sinhana</a>.**
+  O jogo americano é da **[Ana Sinhana](http://anasinhana.tanlup.com/) .**
 </p>
 
 <p align="center">
@@ -100,11 +100,11 @@ Pois é…a moça bonita, e cuidadosa como poucas na arte de servir, esclarece q
 </p>
 
 <p align="center">
-  O porta-velas que virou petisqueira é do **<a href="http://comprenasaara.com.br/palaciodasvelas/" target="_blank">PALÁCIO DAS VELAS</a>.**
+  O porta-velas que virou petisqueira é do **[PALÁCIO DAS VELAS](http://comprenasaara.com.br/palaciodasvelas/) .**
 </p>
 
 <p align="justify">
-  Alguém ainda pode duvidar das inúmeras ideias que a Katia pode ter para colorir com bom gosto sua cozinha, e de lá levar a mesa os mais defierentes utensílios para servir com charme? Não, <em>né</em>? Por isso mesmo, não perdi tempo e perguntei a ela…
+  Alguém ainda pode duvidar das inúmeras ideias que a Katia pode ter para colorir com bom gosto sua cozinha, e de lá levar a mesa os mais defierentes utensílios para servir com charme? Não, _né_? Por isso mesmo, não perdi tempo e perguntei a ela…
 </p>
 
 <p align="center">
@@ -114,11 +114,11 @@ Pois é…a moça bonita, e cuidadosa como poucas na arte de servir, esclarece q
 &nbsp;
 
 > <p align="justify">
->   “<em>Penso que, com criatividade, podemos preparar diferentes arrumações para uma mesa, utilizando a mesma toalha, os mesmos pratos e os mesmos copos. Basta acrescentar acessórios charmosos como saleiros e moedores de pimenta, arranjos de flores frescas, velas coloridas, sousplats, jogos americanos, guardanapos estampados, talheres incrementados, bowls contendo algum tipo de aperitivo como frutas secas etc. O céu é o limite no que diz respeito à arrumação da mesa. Um bom exemplo disso foi um concurso que promovi no blog há mais de um ano, no qual os participantes deveriam criar e fotografar “um lugar à mesa”, contendo pelo menos, uma peça feita por eles de modo artesanal. O resultado foram **<a href="http://casosecoisasdabonfa.blogspot.com/2010/09/as-criacoes-dos-leitores-da-bonfa-para.html" target="_blank">41 produções, todas diferentes e muito criativas</a>**!!!!!”</em>
+>   “_Penso que, com criatividade, podemos preparar diferentes arrumações para uma mesa, utilizando a mesma toalha, os mesmos pratos e os mesmos copos. Basta acrescentar acessórios charmosos como saleiros e moedores de pimenta, arranjos de flores frescas, velas coloridas, sousplats, jogos americanos, guardanapos estampados, talheres incrementados, bowls contendo algum tipo de aperitivo como frutas secas etc. O céu é o limite no que diz respeito à arrumação da mesa. Um bom exemplo disso foi um concurso que promovi no blog há mais de um ano, no qual os participantes deveriam criar e fotografar “um lugar à mesa”, contendo pelo menos, uma peça feita por eles de modo artesanal. O resultado foram **[41 produções, todas diferentes e muito criativas](http://casosecoisasdabonfa.blogspot.com/2010/09/as-criacoes-dos-leitores-da-bonfa-para.html) **!!!!!”_
 > </p>
 
 <p align="justify">
-  O resultado do concurso a que Katia se referiu está **<a href="http://casosecoisasdabonfa.blogspot.com/2010/10/extra-extra-as-ganhadoras-do-concurso.html" target="_blank">exatamente aqui</a>**, e isso é só um pouco do que pode ser visto no blog dessa <em>designer</em> tão criativa. A moça é amante de viagens e gastronomia, além de colocar em prática a arte de receber com frequência, e sabe do que mais? Ela divide em seu espaço virtual suas aventuras pelo Brasil e pelo mundo, suas receitas de <em>belisquetes</em> lindos de viver, e mostra toda a produção envolvida nos eventos que promove em sua casa para confraternizar com amigos… ideias é o que não faltam por lá. O **<a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfá</a>** é daqueles blogs obrigatórios em qualquer <em>blogroll</em>… confere!
+  O resultado do concurso a que Katia se referiu está **[exatamente aqui](http://casosecoisasdabonfa.blogspot.com/2010/10/extra-extra-as-ganhadoras-do-concurso.html) **, e isso é só um pouco do que pode ser visto no blog dessa _designer_ tão criativa. A moça é amante de viagens e gastronomia, além de colocar em prática a arte de receber com frequência, e sabe do que mais? Ela divide em seu espaço virtual suas aventuras pelo Brasil e pelo mundo, suas receitas de _belisquetes_ lindos de viver, e mostra toda a produção envolvida nos eventos que promove em sua casa para confraternizar com amigos… ideias é o que não faltam por lá. O **[Casos e Coisas da Bonfá](http://casosecoisasdabonfa.blogspot.com/) ** é daqueles blogs obrigatórios em qualquer _blogroll_… confere!
 </p>
 
 <p align="center">
@@ -171,13 +171,13 @@ Pois é…a moça bonita, e cuidadosa como poucas na arte de servir, esclarece q
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -187,5 +187,5 @@ Pois é…a moça bonita, e cuidadosa como poucas na arte de servir, esclarece q
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

@@ -22,23 +22,23 @@ categories:
 </p>
 
 <p align="center">
-  Imagem <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">GRATISOGRAPHY</a>
+  Imagem [Ryan McGuire](http://www.laughandpee.com/)  via [GRATISOGRAPHY](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
-  “<em>Eu diariamente recebo e-mails de meninas cheias de dúvidas sobre a consultoria de imagem e estilo. Como cobrar, como fazer projetos, que área seguir, qual curso fazer, como se destacar, como mostrar seu trabalho, como viver somente da carreira de consultora. Eu sei como é porque vivi exatamente estes mesmos problemas quando comecei e sei que não é fácil. Para quem está começando, a carreira de consultora apresenta uma série de obstáculos específicos, e na grande maioria das vezes não há ninguém para ajudar, segurar na mão, dizer o que fazer e como vai ser lá na frente, qual vai ser o próximo passo. E como eu acredito que conhecimento tem que ser compartilhado, e com o objetivo de ajudar ao maior número de mulheres com as mesmas dúvidas, fiz algo que não me recomendaram fazer: liberei uma série de aulas do meu curso de formação, o “**Viver Consulting – Curso de Formação de Imagem e Estilo de Sucesso**&#8220;, para você! </em>
+  “_Eu diariamente recebo e-mails de meninas cheias de dúvidas sobre a consultoria de imagem e estilo. Como cobrar, como fazer projetos, que área seguir, qual curso fazer, como se destacar, como mostrar seu trabalho, como viver somente da carreira de consultora. Eu sei como é porque vivi exatamente estes mesmos problemas quando comecei e sei que não é fácil. Para quem está começando, a carreira de consultora apresenta uma série de obstáculos específicos, e na grande maioria das vezes não há ninguém para ajudar, segurar na mão, dizer o que fazer e como vai ser lá na frente, qual vai ser o próximo passo. E como eu acredito que conhecimento tem que ser compartilhado, e com o objetivo de ajudar ao maior número de mulheres com as mesmas dúvidas, fiz algo que não me recomendaram fazer: liberei uma série de aulas do meu curso de formação, o “**Viver Consulting – Curso de Formação de Imagem e Estilo de Sucesso**&#8220;, para você! _
 </p>
 
 <p align="justify">
-  <em>A primeira aula está disponível desde hoje! Nela eu conto Como Transformar sua Paixão em Sucesso Profissional em 6 Passos! </em><a href="http://lilianjordao.com.br/cursos/aula1/" target="_blank">**<em>Eu quero assistir a aula e transformar minha paixão em sucesso!</em>**</a><em> </em>
+  _A primeira aula está disponível desde hoje! Nela eu conto Como Transformar sua Paixão em Sucesso Profissional em 6 Passos! _[**_Eu quero assistir a aula e transformar minha paixão em sucesso!_**](http://lilianjordao.com.br/cursos/aula1/) _ _
 </p>
 
 <p align="justify">
-  <em>Isso mesmo, é muito conteúdo, onde eu conto todo o passo a passo para alcançar o sucesso como Consultora de Imagem e Estilo. E para quem quer virar esse jogo e assistir a minha aula até o final, vou deixar mais um presente. Qual é? Isso eu só conto para quem ver a aula! Mas garanto que é algo valioso e que eu gostaria muito de ter recebido este presente quando comecei. Ah, é uma aula bem especial, então se você não tiver um tempo para ver agora, separe o quanto antes, porque assim que as matrículas para o meu curso se iniciarem, vou tirar a aula do ar. Vai ficar só para as alunas mesmo.</em>
+  _Isso mesmo, é muito conteúdo, onde eu conto todo o passo a passo para alcançar o sucesso como Consultora de Imagem e Estilo. E para quem quer virar esse jogo e assistir a minha aula até o final, vou deixar mais um presente. Qual é? Isso eu só conto para quem ver a aula! Mas garanto que é algo valioso e que eu gostaria muito de ter recebido este presente quando comecei. Ah, é uma aula bem especial, então se você não tiver um tempo para ver agora, separe o quanto antes, porque assim que as matrículas para o meu curso se iniciarem, vou tirar a aula do ar. Vai ficar só para as alunas mesmo._
 </p>
 
 <p align="justify">
-  <em>Beijos Lilian Jordão</em>”
+  _Beijos Lilian Jordão_”
 </p>
 
 <p align="center">
@@ -46,11 +46,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? [Clica aqui e se joga](https://www.facebook.com/lilianjordao82/timeline) ! A novidade, bonita, é que a Lilian também tem um site lindo de viver! [Visite seu site, clique aqui](http://www.lilianjordao.com.br/) , e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

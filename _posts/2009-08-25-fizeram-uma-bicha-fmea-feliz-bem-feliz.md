@@ -11,7 +11,7 @@ categories:
 ---
 Mas é lógico que eu tinha que dividir aqui contigo a _belezura_ de mimo que recebi nos últimos dias, _néam_? Como não? Lógico que sim!
 
-Será que você se lembra que comentei [por aqui](http://www.trololodemulher.com.br/2009/05/29/se-eu-contar-ningum-acredita-mas-verdade/) que havia ganhado uma caixa numa brincadeira lá no blog <a href="http://www.criativesse.blogspot.com/" target="_blank">Criative-se</a>? 
+Será que você se lembra que comentei [por aqui](http://www.trololodemulher.com.br/2009/05/29/se-eu-contar-ningum-acredita-mas-verdade/) que havia ganhado uma caixa numa brincadeira lá no blog [Criative-se](http://www.criativesse.blogspot.com/) ? 
 
 No blog das criativas foi feito um post onde a Beta Bernardo convidava as leitoras a dizerem quem eram, de onde vinham e como haviam chegado no blog delas. Todas as comentaristas do post iriam concorrer a uma caixa confeccionada pela bonita. Oh, que luxo?! E eu comentei, _néam_? E não é que ganhei?!
 
@@ -25,7 +25,7 @@ Agora ganhei a caixa e, fala a verdade, tenho ou não tenho motivo para ter fica
 
 &#160;
 
-O pacote, delicadamente embrulhado num papel branco com fita rosa, veio com uma _tag_ cuja identidade visual é a do blog <a href="http://www.criativesse.blogspot.com/" target="_blank">Criative-se</a>. A organização e cuidado me impressionaram!
+O pacote, delicadamente embrulhado num papel branco com fita rosa, veio com uma _tag_ cuja identidade visual é a do blog [Criative-se](http://www.criativesse.blogspot.com/) . A organização e cuidado me impressionaram!
 
 &#160;
 

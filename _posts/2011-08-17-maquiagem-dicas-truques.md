@@ -14,17 +14,17 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Por mais que haja tendências em cores, texturas e afins, a verdade é que cada uma de nós tem seus truques atemporais, e é aplicando cada um deles que a gente se sente ainda mais bonita. Preparada para entrar no <em>trololó </em>sobre maquiagem no **Bicha Fêmea**?
+  Por mais que haja tendências em cores, texturas e afins, a verdade é que cada uma de nós tem seus truques atemporais, e é aplicando cada um deles que a gente se sente ainda mais bonita. Preparada para entrar no _trololó _sobre maquiagem no **Bicha Fêmea**?
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom.jpg"><img class="alignnone size-full wp-image-6783" title="batom" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom.jpg" alt="" width="600" height="365" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom.jpg"><img class="alignnone size-full wp-image-6783" title="batom" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/batom.jpg" alt="" width="600" height="365" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 <p align="justify">
-  Tem coisa melhor do que saber quais são as **dicas das outras bichas fêmeas reais** como a gente? Não, <em>né</em>? Foi por isso que **convidei algumas leitoras** para que você e eu fiquemos sabendo quais são os segredos delas, assim eles passarão a ser nossos também. <em>Bora</em> ver?
+  Tem coisa melhor do que saber quais são as **dicas das outras bichas fêmeas reais** como a gente? Não, _né_? Foi por isso que **convidei algumas leitoras** para que você e eu fiquemos sabendo quais são os segredos delas, assim eles passarão a ser nossos também. _Bora_ ver?
 </p>
 
 &nbsp;
@@ -34,7 +34,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**Antes de aplicar um gloss com cor**, **delineie o lábio com um lápis da mesma cor do batom ou na cor do seu lábio**. **Ele vai fixar melhor e dificilmente vai borrar** ;)” **Pauline Costa** | **<a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a>**
+>   “**Antes de aplicar um gloss com cor**, **delineie o lábio com um lápis da mesma cor do batom ou na cor do seu lábio**. **Ele vai fixar melhor e dificilmente vai borrar** ;)” **Pauline Costa** | **[Cheia de Charme](http://cheiadecharme.blog.br/) **
 > </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “Um **truque** que uso sempre, **para o dia a dia: **quando você não está a fim de ficar se maquiando mas quer um olhar intenso sem parecer que está maquiada, **passe lápis preto na pálpebra superior do canto externo até o meio**, e lápis **marrom do canto interno até o meio**, e **finalize com uma camadinha de rímel**. **Seu olhar vai abrir, lindo, sem parecer que está maquiada!!!** Super ajuda para levantar o astral!!!”** Carol Santos | <a href="http://www.thenails.com.br/" target="_blank">The Nails</a>**
+>   “Um **truque** que uso sempre, **para o dia a dia: **quando você não está a fim de ficar se maquiando mas quer um olhar intenso sem parecer que está maquiada, **passe lápis preto na pálpebra superior do canto externo até o meio**, e lápis **marrom do canto interno até o meio**, e **finalize com uma camadinha de rímel**. **Seu olhar vai abrir, lindo, sem parecer que está maquiada!!!** Super ajuda para levantar o astral!!!”** Carol Santos | [The Nails](http://www.thenails.com.br/) **
 > </p>
 
 &nbsp;
@@ -54,7 +54,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>**Para aqueles dias em que acordamos com olheiras**, a melhor opção é **fazer aquele olhão preto pra disfarçar e ficar linda**! Modo de fazer: **aplique o lápis preto ou delineador em gel rente aos cílios, faça um traço bem forte e com um pincel de esponja na ponta vá esfumando até preencher todo côncavo do olho (a palpebra móvel). Para finalizar use rimel preto ( p/ noite) ou rímel transparente (p/ dia) use também o lápis preto nos cílios inferiores, mas não preencha até o canto interno ( isso &#8220;diminui&#8221; o olho ). **Use um **batom cintilante bem clarinho, blush cor malva** e A R R A S E !!! bjzzz</em>” **Josineide Souza** | **<a href="http://mulhernota10josisousa.blogspot.com/" target="_blank">Mulher, mãe, esposa, profissional</a>**
+>   “_**Para aqueles dias em que acordamos com olheiras**, a melhor opção é **fazer aquele olhão preto pra disfarçar e ficar linda**! Modo de fazer: **aplique o lápis preto ou delineador em gel rente aos cílios, faça um traço bem forte e com um pincel de esponja na ponta vá esfumando até preencher todo côncavo do olho (a palpebra móvel). Para finalizar use rimel preto ( p/ noite) ou rímel transparente (p/ dia) use também o lápis preto nos cílios inferiores, mas não preencha até o canto interno ( isso &#8220;diminui&#8221; o olho ). **Use um **batom cintilante bem clarinho, blush cor malva** e A R R A S E !!! bjzzz_” **Josineide Souza** | **[Mulher, mãe, esposa, profissional](http://mulhernota10josisousa.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -64,7 +64,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>Gosto de usar a máscara para cílios BROWNETTE da M.A.C.ou Browm da L&#8217;oreal. Não são à prova d&#8217;água!! Como** tenho olhos esverdeados**, acho que a **máscara marrom dá uma diferença, e ela ainda é aquela que &#8220;enche&#8221; os cílios, e NÃO alonga**. Acho que fica **bem mais bonito e aproveita para destacar os olhos**. Tenho a máscara preta alongadora de cílios também, mas quase NUNCA uso. Na verdade, não gosto!! rsrsrs </em>**<em>A máscara incolor uso para &#8220;pentear&#8221; as sobrancelhas</em>.**” **Camilla Nesti** | **<a href="http://www.casaberinjela.blogspot.com/" target="_blank">Casa Berinjela</a>**
+>   “_Gosto de usar a máscara para cílios BROWNETTE da M.A.C.ou Browm da L&#8217;oreal. Não são à prova d&#8217;água!! Como** tenho olhos esverdeados**, acho que a **máscara marrom dá uma diferença, e ela ainda é aquela que &#8220;enche&#8221; os cílios, e NÃO alonga**. Acho que fica **bem mais bonito e aproveita para destacar os olhos**. Tenho a máscara preta alongadora de cílios também, mas quase NUNCA uso. Na verdade, não gosto!! rsrsrs _**_A máscara incolor uso para &#8220;pentear&#8221; as sobrancelhas_.**” **Camilla Nesti** | **[Casa Berinjela](http://www.casaberinjela.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -74,7 +74,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>**Sou básica para maquiagem** e **no dia-a-dia passo apenas máscara para olhos cor marrom, lápis de olho (em cima do olho, próximo aos cílios superiores).** **Lápis de boca contornando e pegando um pouquinho pra dentro dos lábios, porque ao passar o batom eu escolho cor clara que se mistura com lápis boca, dando um tom uniforme e tipo cor da boca.** Não gosto muito de demarcar a boca nitidamente, apenas contornar de maneira discreta os lábios. Quando eu era revendedora da Mary kay eu aprendi alguns truques e dentre eles, **passar um gloss ou brilho no meio dos lábios para dar impressão de serem mais &#8220;carnudos&#8221;**&#8230;rsrs&#8230;parece verdade, mas de todo jeito fica bonito, por isso passo às vezes (quando vou a um casamento, por exemplo). E em caso de uma saída mais bacana, mais arrumada, **à noite, passo blush mais discreto**. Base, por enquanto, quase super raramente, em caso mega extremo. Não gosto, apesar de saber que faz grande diferença</em>.” **Carol Carneiro** | **<a href="http://www.blogcarolcarneiro.blogspot.com/" target="_blank">Carol Carneiro</a>**
+>   “_**Sou básica para maquiagem** e **no dia-a-dia passo apenas máscara para olhos cor marrom, lápis de olho (em cima do olho, próximo aos cílios superiores).** **Lápis de boca contornando e pegando um pouquinho pra dentro dos lábios, porque ao passar o batom eu escolho cor clara que se mistura com lápis boca, dando um tom uniforme e tipo cor da boca.** Não gosto muito de demarcar a boca nitidamente, apenas contornar de maneira discreta os lábios. Quando eu era revendedora da Mary kay eu aprendi alguns truques e dentre eles, **passar um gloss ou brilho no meio dos lábios para dar impressão de serem mais &#8220;carnudos&#8221;**&#8230;rsrs&#8230;parece verdade, mas de todo jeito fica bonito, por isso passo às vezes (quando vou a um casamento, por exemplo). E em caso de uma saída mais bacana, mais arrumada, **à noite, passo blush mais discreto**. Base, por enquanto, quase super raramente, em caso mega extremo. Não gosto, apesar de saber que faz grande diferença_.” **Carol Carneiro** | **[Carol Carneiro](http://www.blogcarolcarneiro.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -84,7 +84,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>**Eu uso filtro solar com corante e passo iluminador escuro no lugar do blush , o claro na pálpebra e o pérola rente as sombrancelhas , nelas uso sombra marrom com pincel fininho **(tenho quase 60  e estão claras , não quero fazer pigmentação definitiva e não gosto do efeito de Henna). Estou pronta para o dia</em> !”** Marluce Tavares**
+>   “_**Eu uso filtro solar com corante e passo iluminador escuro no lugar do blush , o claro na pálpebra e o pérola rente as sombrancelhas , nelas uso sombra marrom com pincel fininho **(tenho quase 60  e estão claras , não quero fazer pigmentação definitiva e não gosto do efeito de Henna). Estou pronta para o dia_ !”** Marluce Tavares**
 > </p>
 
 <p align="justify">
@@ -112,23 +112,23 @@ categories:
 </p>
 
 <p align="center">
-  **<em>Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/corpo/">Corpo</a> > <a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">Beleza</a> </em>**
+  **_Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/corpo/">Corpo</a> > <a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">Beleza</a> _**
 </p>
 
 <p align="center">
-  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p align="center">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p align="center">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 &nbsp;

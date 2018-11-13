@@ -23,31 +23,31 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.elo7.com.br/pulseira-anzol-1/dp/4A2781" target="_blank">Pulseira Anzol – 1</a>
+  1 – [Pulseira Anzol – 1](http://www.elo7.com.br/pulseira-anzol-1/dp/4A2781) 
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.elo7.com.br/pulseira-anzol-1/dp/4A5E00" target="_blank">Pulseria Anzol – 1</a>
+  2 – [Pulseria Anzol – 1](http://www.elo7.com.br/pulseira-anzol-1/dp/4A5E00) 
 </p>
 
 <p align="justify">
-  3 – <a href="http://www.elo7.com.br/pulseira-ancora-dourada-/dp/4A5E25" target="_blank">Pulseira Âncora Dourada – 6</a>
+  3 – [Pulseira Âncora Dourada – 6](http://www.elo7.com.br/pulseira-ancora-dourada-/dp/4A5E25) 
 </p>
 
 <p align="justify">
-  4 – <a href="http://www.elo7.com.br/pulseira-3-ouros/dp/4B0734" target="_blank">Pulseira 3 Ouros</a>
+  4 – [Pulseira 3 Ouros](http://www.elo7.com.br/pulseira-3-ouros/dp/4B0734) 
 </p>
 
 <p align="justify">
-  5 – <a href="http://www.elo7.com.br/pulseira-bianco-perla/dp/539312" target="_blank">Pulseira Bianco Perla</a>
+  5 – [Pulseira Bianco Perla](http://www.elo7.com.br/pulseira-bianco-perla/dp/539312) 
 </p>
 
 <p align="justify">
-  6 – <a href="http://www.elo7.com.br/pulseira-perla-nera/dp/539339" target="_blank">Pulseira Perla Nera</a>
+  6 – [Pulseira Perla Nera](http://www.elo7.com.br/pulseira-perla-nera/dp/539339) 
 </p>
 
 <p align="justify">
-  Para ver todas as pulseiras, <a href="http://www.elo7.com.br/pulseiras/al/7FB48?pageNum=1" target="_blank">clique aqui</a>.
+  Para ver todas as pulseiras, [clique aqui](http://www.elo7.com.br/pulseiras/al/7FB48?pageNum=1) .
 </p>
 
 <p align="center">
@@ -59,15 +59,15 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.elo7.com.br/colar-realeza/dp/5391C2" target="_blank">Colar Realeza</a>
+  1 – [Colar Realeza](http://www.elo7.com.br/colar-realeza/dp/5391C2) 
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.elo7.com.br/pulseira-colar-noir/dp/4B0795" target="_blank">Colar/Pulseira Noir</a>
+  2 – [Colar/Pulseira Noir](http://www.elo7.com.br/pulseira-colar-noir/dp/4B0795) 
 </p>
 
 <p align="justify">
-  Para ver todos os colares, <a href="http://www.elo7.com.br/colares-e-gargantilhas/al/23844" target="_blank">clique aqui</a>.
+  Para ver todos os colares, [clique aqui](http://www.elo7.com.br/colares-e-gargantilhas/al/23844) .
 </p>
 
 <p align="center">
@@ -79,23 +79,23 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.elo7.com.br/cinto-ouro-1/dp/539C33" target="_blank">Cinto Ouro 1</a>
+  1 – [Cinto Ouro 1](http://www.elo7.com.br/cinto-ouro-1/dp/539C33) 
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.elo7.com.br/cinto-bege-1/dp/539C49" target="_blank">Cinto Bege 1</a>
+  2 – [Cinto Bege 1](http://www.elo7.com.br/cinto-bege-1/dp/539C49) 
 </p>
 
 <p align="justify">
-  Para ver todos os cintos, <a href="http://www.elo7.com.br/cintos/al/8EFC1" target="_blank">clique aqui</a>.
+  Para ver todos os cintos, [clique aqui](http://www.elo7.com.br/cintos/al/8EFC1) .
 </p>
 
 <p align="justify">
-  Na **Mirart Acessórios** você ainda encontra pingentes, broches, pulseiras masculinas e tornozeleiras. As peças são trabalhadas em metal, resina, cristal, pedras naturais, couro, tecidos, rendas e fitas. Quer dar uma espiadinha em toda a variedade de produtos da loja? Fique á vontade e <a href="http://www.elo7.com.br/mirart" target="_blank">clique aqui</a>. Depois, não esqueça de que as novidades são expostas pra você no <a href="https://www.facebook.com/mirartacessorios/timeline" target="_blank">Facebook</a> também, e você pode ficar a par de tudo curtindo a <a href="https://www.facebook.com/mirartacessorios/timeline" target="_blank">fanpage da loja bem aqui</a>. Se joga e fique ainda mais bonita!
+  Na **Mirart Acessórios** você ainda encontra pingentes, broches, pulseiras masculinas e tornozeleiras. As peças são trabalhadas em metal, resina, cristal, pedras naturais, couro, tecidos, rendas e fitas. Quer dar uma espiadinha em toda a variedade de produtos da loja? Fique á vontade e [clique aqui](http://www.elo7.com.br/mirart) . Depois, não esqueça de que as novidades são expostas pra você no [Facebook](https://www.facebook.com/mirartacessorios/timeline)  também, e você pode ficar a par de tudo curtindo a [fanpage da loja bem aqui](https://www.facebook.com/mirartacessorios/timeline) . Se joga e fique ainda mais bonita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

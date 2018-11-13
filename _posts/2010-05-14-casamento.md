@@ -11,7 +11,7 @@ categories:
   - Relacionamento
 ---
 <p style="text-align: center;">
-  **<em>Quando a gente resolve se casar&#8230;</em>**
+  **_Quando a gente resolve se casar&#8230;_**
 </p>
 
 &#8220;Quero a luz dos olhos meus
@@ -78,7 +78,7 @@ _Imagens:_ [_www.loveandlavender.com_](http://www.loveandlavender.com)
 
 **_Letícia Lodi (Lelê)_**
 
-Blog <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
+Blog [Casa de Catarina](http://blog.casadecatarina.com.br/) 
 
 _ _
 

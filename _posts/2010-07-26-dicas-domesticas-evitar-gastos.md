@@ -39,7 +39,7 @@ Gente, isso tem poupado a minha grana, meu humor, a natureza, enfim, melhorou mu
 
 **_Por Adriana Vieira_**
 
-<a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank">COISAS QUE EU AMO E SÃO TUDO PRA MIM…</a>
+[COISAS QUE EU AMO E SÃO TUDO PRA MIM…](http://coisasqueeuamoetc.blogspot.com/) 
 
 Quer fazer como Adriana e publicar um texto por aqui? Seja uma **_[bicha fêmea colaboradora](http://www.trololodemulher.com.br/colabore/)_**!
 
@@ -56,5 +56,5 @@ Quer fazer como Adriana e publicar um texto por aqui? Seja uma **_[bicha fêmea 
 **_[Reutilização de caixas de ovos para decoração.](http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
 </p>

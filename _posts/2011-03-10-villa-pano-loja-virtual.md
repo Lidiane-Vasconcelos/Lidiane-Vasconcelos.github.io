@@ -12,53 +12,53 @@ categories:
 Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada para vestir sua casa com  **itens de decoração bonitos e práticos**, e você também, com **vestuário confortável?** E se eu te disser que há uma história do tipo “gente da gente” por trás dessa loja, ou seja, que há alma?
 
 <p style="text-align: justify;">
-  A <a href="http://www.villapano.com.br/" target="_blank">Villa Pano</a> é uma loja assim, que encanta pelas <em>belezuras</em> que vende, e pela forma como tudo é encarado pela **Renata Paraíso**, a bonita por trás da loja e que tem o objetivo de  ajudar você e sua família a viver bem a vida, e tornar seu lar um lugar delicioso para se viver.
+  A [Villa Pano](http://www.villapano.com.br/)  é uma loja assim, que encanta pelas _belezuras_ que vende, e pela forma como tudo é encarado pela **Renata Paraíso**, a bonita por trás da loja e que tem o objetivo de  ajudar você e sua família a viver bem a vida, e tornar seu lar um lugar delicioso para se viver.
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  É impossível ter uma casa com detalhes decorativos como os que estão disponíveis nesse espaço virtual tão inspirador, e não senti-la como um aconchego. Os **artigos de <em>design</em>**, **decoração** e **roupas** produzidos e comercializados pela **Villa Pano** são pensados para proporcionar exatamente esse tipo de sensação. A Renata é quem te convida a pensar sobre sua casa desse jeito…experimenta!
+  É impossível ter uma casa com detalhes decorativos como os que estão disponíveis nesse espaço virtual tão inspirador, e não senti-la como um aconchego. Os **artigos de _design_**, **decoração** e **roupas** produzidos e comercializados pela **Villa Pano** são pensados para proporcionar exatamente esse tipo de sensação. A Renata é quem te convida a pensar sobre sua casa desse jeito…experimenta!
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>E se no fim do seu dia, lhe viesse à mente: ‘&#8230; já está quase chegando a hora de chegar no lugar que eu posso ser só EU MESMA. Minha CASA. Um lugar decorado por mim, com os aromas e perfumes que eu gosto e recheado com as minhas lembranças, e que tem pessoas que amo à minha espera. E lá eu vou me sentir bem&#8230; sempre</em>”.
+    “_E se no fim do seu dia, lhe viesse à mente: ‘&#8230; já está quase chegando a hora de chegar no lugar que eu posso ser só EU MESMA. Minha CASA. Um lugar decorado por mim, com os aromas e perfumes que eu gosto e recheado com as minhas lembranças, e que tem pessoas que amo à minha espera. E lá eu vou me sentir bem&#8230; sempre_”.
   </p>
 </blockquote>
 
 <p style="text-align: justify;">
-  Agora repare bem: com <em>fofurices</em> assim fica <em>fácil fácil</em> de pensar na casa como o melhor lugar do mundo. Duvida?
+  Agora repare bem: com _fofurices_ assim fica _fácil fácil_ de pensar na casa como o melhor lugar do mundo. Duvida?
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/almofadatilda.jpg"><img class="alignnone size-full wp-image-6100" title="almofadatilda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/almofadatilda.jpg" alt="" width="600" height="400" /></a></em><em>Almofada Tilda</em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/almofadatilda.jpg"><img class="alignnone size-full wp-image-6100" title="almofadatilda" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/almofadatilda.jpg" alt="" width="600" height="400" /></a>__Almofada Tilda_
 </p>
 
  
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/jogorostolaise.jpg"><img class="alignnone size-full wp-image-6101" title="jogorostolaise" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/jogorostolaise.jpg" alt="" width="600" height="400" /></a><br /> </em><em>Jogo Rosto Laise</em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/jogorostolaise.jpg"><img class="alignnone size-full wp-image-6101" title="jogorostolaise" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/jogorostolaise.jpg" alt="" width="600" height="400" /></a><br /> __Jogo Rosto Laise_
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/kit-aroma.jpg"><img class="alignnone size-full wp-image-6102" title="kit aroma" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/kit-aroma.jpg" alt="" width="600" height="400" /></a><br /> </em><em>Kit Aroma</em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/kit-aroma.jpg"><img class="alignnone size-full wp-image-6102" title="kit aroma" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/kit-aroma.jpg" alt="" width="600" height="400" /></a><br /> __Kit Aroma_
 </p>
 
 <p style="text-align: justify;">
-  É na infância, na época em que passava os dias na casa de seus avós, que Renata busca as reminiscências mais gostosas. Essas lembranças de infância é que nortearam o olhar da Renata mulher para o universo doméstico como sendo tão importante na vida e harmonia de uma família. Renata tem certeza de que uma casa vai além das paredes e janelas, mas é muito mais as “<em>emoções de quem mora lá dentro</em>”. Eu também penso assim. E você?
+  É na infância, na época em que passava os dias na casa de seus avós, que Renata busca as reminiscências mais gostosas. Essas lembranças de infância é que nortearam o olhar da Renata mulher para o universo doméstico como sendo tão importante na vida e harmonia de uma família. Renata tem certeza de que uma casa vai além das paredes e janelas, mas é muito mais as “_emoções de quem mora lá dentro_”. Eu também penso assim. E você?
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/lucila9.jpg"><img class="alignnone size-full wp-image-6105" title="lucila9" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/lucila9.jpg" alt="" width="600" height="450" /></a><br /> Jogo Americano</em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/lucila9.jpg"><img class="alignnone size-full wp-image-6105" title="lucila9" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/lucila9.jpg" alt="" width="600" height="450" /></a><br /> Jogo Americano_
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/piscavoalbranco.jpg"><img class="alignnone size-full wp-image-6106" title="piscavoalbranco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/piscavoalbranco.jpg" alt="" width="600" height="400" /></a><br /> Pisca Voal Branco</em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/piscavoalbranco.jpg"><img class="alignnone size-full wp-image-6106" title="piscavoalbranco" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/piscavoalbranco.jpg" alt="" width="600" height="400" /></a><br /> Pisca Voal Branco_
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/trilhofloralbege.jpg"><img class="alignnone size-full wp-image-6107" title="trilhofloralbege" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/trilhofloralbege.jpg" alt="" width="600" height="399" /></a><br /> Trilho de Mesa Floral Bege</em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/trilhofloralbege.jpg"><img class="alignnone size-full wp-image-6107" title="trilhofloralbege" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/trilhofloralbege.jpg" alt="" width="600" height="399" /></a><br /> Trilho de Mesa Floral Bege_
 </p>
 
 <p style="text-align: justify;">
@@ -67,7 +67,7 @@ Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada pa
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>Na minha opinião, nossa casa tem que refletir os nossos sentimentos e assim, devem ser VIVAS … e essa vida é vista, sentida e tocada através de nossos móveis, pelas roupas que os vestem, pela maneira de organizar os armários, pela disposição dos objetos decorativos e roupas confortáveis de verdade. Todos esses objetos acabam se tornando  parte de sua vida.</em> “
+    “_Na minha opinião, nossa casa tem que refletir os nossos sentimentos e assim, devem ser VIVAS … e essa vida é vista, sentida e tocada através de nossos móveis, pelas roupas que os vestem, pela maneira de organizar os armários, pela disposição dos objetos decorativos e roupas confortáveis de verdade. Todos esses objetos acabam se tornando  parte de sua vida._ “
   </p>
 </blockquote>
 
@@ -77,7 +77,7 @@ Vem cá, _bonitona_! Você já pensou em conhecer uma **loja virtual** criada pa
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    “<em>Você está convidada a fazer parte da vida de nossa empresa e conhecer nossos produtos! <a href="http://www.villapano.com.br/" target="_blank">Visite a nossa loja virtual</a> e faça parte de nosso blog! Esperamos vocês!”</em>
+    “_Você está convidada a fazer parte da vida de nossa empresa e conhecer nossos produtos! [Visite a nossa loja virtual](http://www.villapano.com.br/)  e faça parte de nosso blog! Esperamos vocês!”_
   </p>
 </blockquote>
 

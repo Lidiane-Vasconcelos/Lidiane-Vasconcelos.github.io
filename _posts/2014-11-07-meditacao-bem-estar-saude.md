@@ -11,11 +11,11 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Esta é somente uma das tantas dúvidas que sempre tive a respeito dessa prática porque, lá no fundo, sempre vivi de vontade de trazê-la para o meu dia a dia. Quem me conhece, sabe que em geral sou uma pessoa bem tranquila, mas isso não quer dizer que eu não tenha meus momentos onde ansiedade e inquietação imperam. E aí sempre vinha a minha mente a lembrança de que havia lido aqui ou ali de que meditar nos salva nessas horas, ou melhor, que tê-la na rotina previne esses momentos <em>descontrol </em>total.
+  Esta é somente uma das tantas dúvidas que sempre tive a respeito dessa prática porque, lá no fundo, sempre vivi de vontade de trazê-la para o meu dia a dia. Quem me conhece, sabe que em geral sou uma pessoa bem tranquila, mas isso não quer dizer que eu não tenha meus momentos onde ansiedade e inquietação imperam. E aí sempre vinha a minha mente a lembrança de que havia lido aqui ou ali de que meditar nos salva nessas horas, ou melhor, que tê-la na rotina previne esses momentos _descontrol _total.
 </p>
 
 <p align="justify">
-  Você também já ouviu falar da meditação nesse sentido, do quanto ela aquieta a mente e interfere positivamente na saúde e bem-estar? Também tem lá os seus desejos guardados e, dentre eles, está o de incorporá-la ao seu dia a dia? Pois então, bonita, tenho algo a te contar: este post vai te deixar vivendo de vontade de começar já! A querida **Paula Elisa**, que é **professora de Yoga**, tirou TODAS as minhas dúvidas em torno da meditação. Fiquei ainda mais encantada com os benefícios que nós podemos trazer para nossas vidas e, oh: eu não me aguentava no <em>siricotico </em>de vontade de compartilhar tudo que aprendi com você, aí do outro lado. Vem cá, vamos aprender juntas e usar a informação a nosso favor? Vem!
+  Você também já ouviu falar da meditação nesse sentido, do quanto ela aquieta a mente e interfere positivamente na saúde e bem-estar? Também tem lá os seus desejos guardados e, dentre eles, está o de incorporá-la ao seu dia a dia? Pois então, bonita, tenho algo a te contar: este post vai te deixar vivendo de vontade de começar já! A querida **Paula Elisa**, que é **professora de Yoga**, tirou TODAS as minhas dúvidas em torno da meditação. Fiquei ainda mais encantada com os benefícios que nós podemos trazer para nossas vidas e, oh: eu não me aguentava no _siricotico _de vontade de compartilhar tudo que aprendi com você, aí do outro lado. Vem cá, vamos aprender juntas e usar a informação a nosso favor? Vem!
 </p>
 
 <p align="justify">
@@ -99,15 +99,15 @@ categories:
 </p>
 
 <p align="justify">
-  Paula também é blogueira, para nossa alegria. Ela edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo **Namastê Yoga Blog**, <a href="http://www.namasteyoga.com.br/" target="_blank">clicando aqui</a>. Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. <a href="https://www.facebook.com/namasteyoga2" target="_blank">Sua página está bem aqui, clique</a>, confira e curta!
+  Paula também é blogueira, para nossa alegria. Ela edita um blog repleto de informações sobre a prática da Yoga e tudo o mais que está ligado a esse universo. Sua linguagem é simples, didática e incrivelmente gostosa de ser lida. Aproveite! Acompanhe suas atualizações pelo **Namastê Yoga Blog**, [clicando aqui](http://www.namasteyoga.com.br/) . Não deixe de conferir suas postagens que fazem tanto bem em outro canal, no Facebook. [Sua página está bem aqui, clique](https://www.facebook.com/namasteyoga2) , confira e curta!
 </p>
 
 <p align="justify">
-  Imagem: <a href="http://www.mindbodygreen.com/0-14788/a-one-minute-meditation-to-silence-your-mind-calm-your-energy.html" target="_blank">MindBodyGreen</a>
+  Imagem: [MindBodyGreen](http://www.mindbodygreen.com/0-14788/a-one-minute-meditation-to-silence-your-mind-calm-your-energy.html) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

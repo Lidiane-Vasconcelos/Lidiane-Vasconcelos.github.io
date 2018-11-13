@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  Gosto da ideia de enfeitar a janela para avisar a quem passa lá fora: <em>o Natal chegou aqui</em>!!! Acho bacana cuidar para que o clima natalino chegue ao coração de todos, porque ele é tão bom! Por isso, vivi de amores pela ideia de pendurar guirlandas na janela. Não é lindo de viver? A gente está tão acostumada a associar o uso das guirlandas nas portas, não é? Como se vê, não precisa ser assim. Se desejar, <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">faça você mesma guirlandas natalinas diferentes</a> para enfeitar a casa. Veja mais imagens da decoração desta casa real no blog <a href="http://www.fourgenerationsoneroof.com/2012/12/christmas-home-tour.html" target="_blank">Four Generations One Roof</a>.
+  Gosto da ideia de enfeitar a janela para avisar a quem passa lá fora: _o Natal chegou aqui_!!! Acho bacana cuidar para que o clima natalino chegue ao coração de todos, porque ele é tão bom! Por isso, vivi de amores pela ideia de pendurar guirlandas na janela. Não é lindo de viver? A gente está tão acostumada a associar o uso das guirlandas nas portas, não é? Como se vê, não precisa ser assim. Se desejar, [faça você mesma guirlandas natalinas diferentes](http://www.decoracaodacasa.com/guirlandas-de-natal-2/)  para enfeitar a casa. Veja mais imagens da decoração desta casa real no blog [Four Generations One Roof](http://www.fourgenerationsoneroof.com/2012/12/christmas-home-tour.html) .
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  E por que não espalhar mais detalhes natalinos por toda a casa? Acho muito simpática essa ideia de montar uma composição de natal no banheiro. Repare: trata-se de uma jarra branca de porcelana recheada de folhagens típicas dessa época + velas verde e vermelha, que são as cores bem características da decoração natalina. Inspire-se e veja mais fotos dessa casa no blog <a href="http://www.fourgenerationsoneroof.com/2012/12/christmas-home-tour.html" target="_blank">Four Generations One Roof</a>.
+  E por que não espalhar mais detalhes natalinos por toda a casa? Acho muito simpática essa ideia de montar uma composição de natal no banheiro. Repare: trata-se de uma jarra branca de porcelana recheada de folhagens típicas dessa época + velas verde e vermelha, que são as cores bem características da decoração natalina. Inspire-se e veja mais fotos dessa casa no blog [Four Generations One Roof](http://www.fourgenerationsoneroof.com/2012/12/christmas-home-tour.html) .
 </p>
 
 <p align="center">
@@ -35,27 +35,27 @@ categories:
 </p>
 
 <p align="justify">
-  Quer decorar sua mesa de centro e quer fugir do óbvio? Gostei bastante dessa ideia e quis trazer aqui para te mostrar: caixa <em>vintage</em> cheia de enfeites natalinos. Penso que essa ideia pode ser levada para a mesa mesmo, e o contrário também pode acontecer, ou seja: você adaptar ideias que originalmente foram concebidas para a mesa de natal, de modo que enfeitem sua mesa de centro. Para facilitar esse vai e vem de ideias, e que ele fervilhe deliciosamente em sua cabeça, veja também:
+  Quer decorar sua mesa de centro e quer fugir do óbvio? Gostei bastante dessa ideia e quis trazer aqui para te mostrar: caixa _vintage_ cheia de enfeites natalinos. Penso que essa ideia pode ser levada para a mesa mesmo, e o contrário também pode acontecer, ou seja: você adaptar ideias que originalmente foram concebidas para a mesa de natal, de modo que enfeitem sua mesa de centro. Para facilitar esse vai e vem de ideias, e que ele fervilhe deliciosamente em sua cabeça, veja também:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/03/decoracao-natal-mesa/" target="_blank">**Decoração de Natal: 4 centros de mesa simples, mas lindos!**</a>
+  [**Decoração de Natal: 4 centros de mesa simples, mas lindos!**](http://www.trololodemulher.com.br/2014/11/03/decoracao-natal-mesa/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank">**Decoração de Natal: 5 centros de mesa “faça você mesma”.**</a>
+  [**Decoração de Natal: 5 centros de mesa “faça você mesma”.**](http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">**Arranjo de mesa de Natal: faça você mesma.**</a>
+  [**Arranjo de mesa de Natal: faça você mesma.**](http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/" target="_blank">**Enfeites de Natal: você já sabe como decorar a mesa?**</a>
+  [**Enfeites de Natal: você já sabe como decorar a mesa?**](http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/) 
 </p>
 
 <p align="justify">
-  E se a ideia da caixa <em>vintage</em> fez seu coração derreter de amores, espie mais imagens da decoração dessa casa real no blog <a href="http://www.ferncreekcottage.com/2012/12/my-christmas-home-tour-2012.html" target="_blank">Fern Creek Cottage</a>.
+  E se a ideia da caixa _vintage_ fez seu coração derreter de amores, espie mais imagens da decoração dessa casa real no blog [Fern Creek Cottage](http://www.ferncreekcottage.com/2012/12/my-christmas-home-tour-2012.html) .
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  Já morei em casa com escada e sempre pensei: a escada também faz parte da casa, <em>néam</em>? Então, por que não decorá-la? Se você também tem uma em casa, está aqui uma inspiração para você viver de amores… e reproduzir em seus domínios! Curiosa pra ver mais imagens dessa casa real? Visite o blog <a href="http://www.prettyhandygirl.com/pretty-handy-girls-christmas-home-tour-2013/" target="_blank">Pretty Handy Girl</a>.
+  Já morei em casa com escada e sempre pensei: a escada também faz parte da casa, _néam_? Então, por que não decorá-la? Se você também tem uma em casa, está aqui uma inspiração para você viver de amores… e reproduzir em seus domínios! Curiosa pra ver mais imagens dessa casa real? Visite o blog [Pretty Handy Girl](http://www.prettyhandygirl.com/pretty-handy-girls-christmas-home-tour-2013/) .
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  Seja no alto de uma porta, no alto da janela, ou enfeitando uma <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank">prateleira flutuante</a>, a ideia de usar um cordão com penduricalhos natalinos me encanta muito. Aqui a blogueira usou aqueles enfeites típicos da árvore, que você também pode fazer usando a sobra dos seus. <a href="http://www.decoracaodacasa.com/enfeites-natalinos/" target="_blank">Faça você mesma cordões de enfeites natalinos de papel</a>, e saia enfeitando a casa com cores e <em>bossa</em>. Aproveite e veja mais detalhes dessa casa no blog <a href="http://www.prettyhandygirl.com/pretty-handy-girls-christmas-home-tour-2013/" target="_blank">Pretty Handy Girl</a>.
+  Seja no alto de uma porta, no alto da janela, ou enfeitando uma [prateleira flutuante](http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/) , a ideia de usar um cordão com penduricalhos natalinos me encanta muito. Aqui a blogueira usou aqueles enfeites típicos da árvore, que você também pode fazer usando a sobra dos seus. [Faça você mesma cordões de enfeites natalinos de papel](http://www.decoracaodacasa.com/enfeites-natalinos/) , e saia enfeitando a casa com cores e _bossa_. Aproveite e veja mais detalhes dessa casa no blog [Pretty Handy Girl](http://www.prettyhandygirl.com/pretty-handy-girls-christmas-home-tour-2013/) .
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ categories:
 </p>
 
 <p align="justify">
-  A ideia da reutilização de um escorredor para compor esse arranjo de mesa de centro conquistou meu coração. Não é original? Certas ideias são mesmo supreendentes, assim como a criatividade aplicada na <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank">reutilização de uma janela velha na decoração de natal</a>… se você não viu, confira! E para ver mais detalhes da decoração desta casa bem real, confira no <a href="http://www.yellowblissroad.com/christmas-home-tour-2014/" target="_blank">blog Yellow Bliss Road</a>.
+  A ideia da reutilização de um escorredor para compor esse arranjo de mesa de centro conquistou meu coração. Não é original? Certas ideias são mesmo supreendentes, assim como a criatividade aplicada na [reutilização de uma janela velha na decoração de natal](http://www.decoracaodacasa.com/decoracao-natal-2014/) … se você não viu, confira! E para ver mais detalhes da decoração desta casa bem real, confira no [blog Yellow Bliss Road](http://www.yellowblissroad.com/christmas-home-tour-2014/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

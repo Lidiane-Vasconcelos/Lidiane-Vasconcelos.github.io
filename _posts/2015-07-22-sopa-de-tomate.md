@@ -66,7 +66,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>Desinfetar os tomates, depois corte-os a meio. Espalhe na asssadeira, regue com o azeite e polvilhe pimenta moída na hora. Cubra com papel alumínio e leve ao forno até assarem. Assim que os tomates estiverem assados, refoge a cebola e alho (eu não uso óleo, apenas gotinhas de água, mas se você quiser usar mais óleo fique à vontade), depois acrescente os tomates assados e cubra com a água. Pode desligar o fogo e bata com o mixer/liquidificador. Volte para a panela (se utilizou o liquidificador, caso contrário mantenha na panela). Ligue o fogo, acrescente o manjericão e sal. Deixe engrossar. Se já estiver um caldo grosso demais acrescente mais água, caso contrário deixe apurar. Sopa pronta. A couve, eu simplesmente aqueço uma panela antiaderente, acrescento a couve e deixo dar uma leve murchada. Acertei o sal e pimenta. Servi a sopa com a couve. Fica bom demais para este inverno!!!!”</em>**
+>   “**_Desinfetar os tomates, depois corte-os a meio. Espalhe na asssadeira, regue com o azeite e polvilhe pimenta moída na hora. Cubra com papel alumínio e leve ao forno até assarem. Assim que os tomates estiverem assados, refoge a cebola e alho (eu não uso óleo, apenas gotinhas de água, mas se você quiser usar mais óleo fique à vontade), depois acrescente os tomates assados e cubra com a água. Pode desligar o fogo e bata com o mixer/liquidificador. Volte para a panela (se utilizou o liquidificador, caso contrário mantenha na panela). Ligue o fogo, acrescente o manjericão e sal. Deixe engrossar. Se já estiver um caldo grosso demais acrescente mais água, caso contrário deixe apurar. Sopa pronta. A couve, eu simplesmente aqueço uma panela antiaderente, acrescento a couve e deixo dar uma leve murchada. Acertei o sal e pimenta. Servi a sopa com a couve. Fica bom demais para este inverno!!!!”_**
 > </p>
 
 <p align="center">
@@ -78,23 +78,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank">**Bolo de banan sem glúten e light… e cheiroso!**</a>
+  [**Bolo de banan sem glúten e light… e cheiroso!**](http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/" target="_blank">**Tofu ao forno… com toques especiais.**</a>
+  [**Tofu ao forno… com toques especiais.**](http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/" target="_blank">**Creme de aspargos: receita que conforta nos dias frios.**</a>
+  [**Creme de aspargos: receita que conforta nos dias frios.**](http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

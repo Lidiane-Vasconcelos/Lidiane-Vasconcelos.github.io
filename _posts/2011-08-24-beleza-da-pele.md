@@ -13,7 +13,7 @@ Se você costuma ter pressa no ritual de **beleza da pele** e, em geral, acaba e
 
 &nbsp;
 
-Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu consultei a **Dra. Dermatologista Livia Pino**, do **Rio de Janeiro**, que também é blogueira e edita o **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>**. Quer ver o que ela falou a respeito?
+Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu consultei a **Dra. Dermatologista Livia Pino**, do **Rio de Janeiro**, que também é blogueira e edita o **[Dermatologia em Foco](http://www.dermatologiaemfoco.blogspot.com/) **. Quer ver o que ela falou a respeito?
 
 <!--more-->
 
@@ -22,13 +22,13 @@ Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu c
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza.jpg"><img class="alignnone size-full wp-image-6821" title="beleza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza.jpg" alt="" width="600" height="399" /><br /> </a>Imagem: **<a href="http://www.sxc.hu/browse.phtml?f=profile&l=ddrccl" target="_blank">ddrccl</a> via <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [ddrccl](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza.jpg"><img class="alignnone size-full wp-image-6821" title="beleza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/beleza.jpg" alt="" width="600" height="399" /><br /> </a>Imagem: **<a href="http://www.sxc.hu/browse.phtml?f=profile&l=ddrccl)  via [stock.xchng](http://www.sxc.hu/) **
 </p>
 
 &nbsp;
 
 <p align="justify">
-  De acordo com a **Dra. Livia**, “<em>podemos citar ainda outros benefícios como: tonificar, desobstruir poros, melhora a textura da pele, etc. A **frequência e a indicação do uso de tônicos faciais devem ser avaliadas pelo dermatologista a cada caso**. Mas em **regra geral podem ser usados 1  a 2 vezes ao dia, logo após a limpeza da pele e antes de usar o hidratante, anti rugas ou filtro solar**. **Atenção para peles ressecadas e sensíveis** que **devem evitar o uso diário**, pois pode agravar o ressecamento da pele. **Em geral, a região dos olhos, boca e canto do nariz devem ser evitados**, pois são áreas mais sensíveis e podem ser facilmente irritadas com cosméticos em geral, que não sejam específicos para estas áreas”</em>, explica.
+  De acordo com a **Dra. Livia**, “_podemos citar ainda outros benefícios como: tonificar, desobstruir poros, melhora a textura da pele, etc. A **frequência e a indicação do uso de tônicos faciais devem ser avaliadas pelo dermatologista a cada caso**. Mas em **regra geral podem ser usados 1  a 2 vezes ao dia, logo após a limpeza da pele e antes de usar o hidratante, anti rugas ou filtro solar**. **Atenção para peles ressecadas e sensíveis** que **devem evitar o uso diário**, pois pode agravar o ressecamento da pele. **Em geral, a região dos olhos, boca e canto do nariz devem ser evitados**, pois são áreas mais sensíveis e podem ser facilmente irritadas com cosméticos em geral, que não sejam específicos para estas áreas”_, explica.
 </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu c
 &nbsp;
 
 > <p align="justify">
->   “<em>Nestas peles podem ser usados tônicos que possuam substâncias como ácido salicílico, ácido glicólico, que sejam oil free (livre de óleo). Tônicos com alantoína ou melissa podem ajudar na recuperação da pele e cicatrização de espinhas, já que são calmantes e descongestionantes.”</em>
+>   “_Nestas peles podem ser usados tônicos que possuam substâncias como ácido salicílico, ácido glicólico, que sejam oil free (livre de óleo). Tônicos com alantoína ou melissa podem ajudar na recuperação da pele e cicatrização de espinhas, já que são calmantes e descongestionantes.”_
 > </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu c
 &nbsp;
 
 > <p align="justify">
->   <em>“Tônicos que contenham vitamina e, vitamina c, que são antioxidantes. Café verde, algas, pantenol, também são ativos que podem ser usados em tônicos para ajudar no rejuvenescimento.”</em>
+>   _“Tônicos que contenham vitamina e, vitamina c, que são antioxidantes. Café verde, algas, pantenol, também são ativos que podem ser usados em tônicos para ajudar no rejuvenescimento.”_
 > </p>
 
 &nbsp;
@@ -82,7 +82,7 @@ Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu c
 </p>
 
 <p align="justify">
-  Todas as informações e dicas que essa profissional tem para te dar são acessíveis no blog que ela edita, o **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>**. Aproveita!
+  Todas as informações e dicas que essa profissional tem para te dar são acessíveis no blog que ela edita, o **[Dermatologia em Foco](http://www.dermatologiaemfoco.blogspot.com/) **. Aproveita!
 </p>
 
 &nbsp;
@@ -104,7 +104,7 @@ Para tirar todas as dúvidas que nós podemos ter quanto a esse produtinho, eu c
 &nbsp;
 
 <p align="center">
-  **<em>Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/corpo/">Corpo</a> > <a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">Beleza</a></em>**
+  **_Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/corpo/">Corpo</a> > <a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">Beleza</a>_**
 </p>
 
 <p align="center">

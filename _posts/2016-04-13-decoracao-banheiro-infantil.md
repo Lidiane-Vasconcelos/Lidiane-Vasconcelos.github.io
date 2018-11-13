@@ -10,11 +10,11 @@ categories:
   - Banheiro
 ---
 <p style="text-align: justify;">
-  Se na sua casa há mais de um **banheiro** e virou um consenso que um deles é usado exclusivamente pelas **crianças, **que tal dar uma <em>bossa</em> na **decoração** do espaço com ideias simples?
+  Se na sua casa há mais de um **banheiro** e virou um consenso que um deles é usado exclusivamente pelas **crianças, **que tal dar uma _bossa_ na **decoração** do espaço com ideias simples?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Pode acreditar que as sugestões são rápidas de serem executadas e bem práticas, tudo para que os momentos de banho dos pequenos sejam ainda mais prazerosos. Todas as ideias são do site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**, e elas são para você copiar mesmo, <em>viu</em>? Portanto… inspire-se!
+  Pode acreditar que as sugestões são rápidas de serem executadas e bem práticas, tudo para que os momentos de banho dos pequenos sejam ainda mais prazerosos. Todas as ideias são do site **_[Better Homes and Gardens](http://www.bhg.com/) _**, e elas são para você copiar mesmo, _viu_? Portanto… inspire-se!
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  Adesivos decorativos e bem mimosos podem deixar o banheiro <em>superultramega</em> divertido se forem colocados em pontos estratégicos…
+  Adesivos decorativos e bem mimosos podem deixar o banheiro _superultramega_ divertido se forem colocados em pontos estratégicos…
 </p>
 
 &nbsp;
@@ -84,11 +84,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Dá para deixar as toalhas<em>´prá</em> lá de exclusivas com simples apliques de quadradinhos de tecido + botão… <em>tãããão</em> fofo!
+  Dá para deixar as toalhas_´prá_ lá de exclusivas com simples apliques de quadradinhos de tecido + botão… _tãããão_ fofo!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

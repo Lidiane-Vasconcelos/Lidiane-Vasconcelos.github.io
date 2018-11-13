@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 &nbsp;
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  Toda riqueza do bordado Labirinto em peças para deixar a casa ainda mais charmosa. Caminho de Mesa Labirinto Rosa 202x46cm, código 070064. Essa riqueza linda de viver você encontra na <a href="http://www.xiquexiquebrasil.com.br/" target="_blank">Xique Xique Brasil</a>, e essa é apenas uma amostra das peças incríveis da linha CASA da loja. Confira!
+  Toda riqueza do bordado Labirinto em peças para deixar a casa ainda mais charmosa. Caminho de Mesa Labirinto Rosa 202x46cm, código 070064. Essa riqueza linda de viver você encontra na [Xique Xique Brasil](http://www.xiquexiquebrasil.com.br/) , e essa é apenas uma amostra das peças incríveis da linha CASA da loja. Confira!
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  Conjunto de lençol para berço Royale, bordado nobre com a maciez do Percal 200 fios. Disponível com bordado nas cores bege e branco. Delicadezas da <a href="http://www.xiquexiquebrasil.com.br/" target="_blank">Xique Xique Brasil</a> para enxovais de bebê.
+  Conjunto de lençol para berço Royale, bordado nobre com a maciez do Percal 200 fios. Disponível com bordado nas cores bege e branco. Delicadezas da [Xique Xique Brasil](http://www.xiquexiquebrasil.com.br/)  para enxovais de bebê.
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Mais uma cliente de <a href="http://vitrine.elo7.com.br/carlloscriacoes" target="_blank">Carllos Criações</a> adquiriu essa floreira vertical <em>liiiinda</em> de viver. Não é a toa que ela é a queridinha da loja. É ou não é pra viver no amor?
+  Mais uma cliente de [Carllos Criações](http://vitrine.elo7.com.br/carlloscriacoes)  adquiriu essa floreira vertical _liiiinda_ de viver. Não é a toa que ela é a queridinha da loja. É ou não é pra viver no amor?
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  A necessaire porta fralda da <a href="http://www.elo7.com.br/detalhesemfoco" target="_blank">Detalhes em Foco</a> facilita a vida na troca do bebê: fralda + lenço umedecido + pomada sempre à mão. Ela tem uma prática alça para facilitar a vida da mamãe, e fechamento em botão de pressão transparente. A necessaire acomoda 4 fraldas tamanho G + pomada OU 2 fraldas tamanho G + pomada + embalagem de lencinho umedecido. Importante: você pode personalizar como quiser. Fica a dica!
+  A necessaire porta fralda da [Detalhes em Foco](http://www.elo7.com.br/detalhesemfoco)  facilita a vida na troca do bebê: fralda + lenço umedecido + pomada sempre à mão. Ela tem uma prática alça para facilitar a vida da mamãe, e fechamento em botão de pressão transparente. A necessaire acomoda 4 fraldas tamanho G + pomada OU 2 fraldas tamanho G + pomada + embalagem de lencinho umedecido. Importante: você pode personalizar como quiser. Fica a dica!
 </p>
 
 <p align="center">
@@ -62,18 +62,18 @@ categories:
 </p>
 
 <p align="justify">
-  Porta-(o que você imaginar) em MDF com aplicação de tecido. A peça decora e também é útil até a alma! Encomende o seu personalizado na <a href="http://www.elo7.com.br/boutiqueateline" target="_blank">Boutique Ateline</a> e organize melhor seu espaço de trabalho, com um pitadinha de bossa.
+  Porta-(o que você imaginar) em MDF com aplicação de tecido. A peça decora e também é útil até a alma! Encomende o seu personalizado na [Boutique Ateline](http://www.elo7.com.br/boutiqueateline)  e organize melhor seu espaço de trabalho, com um pitadinha de bossa.
 </p>
 
 <p align="center">
 </p>
 
 <p align="justify">
-  Decoração bonita, econômica e funcional: plafons LED da <a href="http://www.euromabe.com.br/" target="_blank">Euromabe Iluminação LED</a>. Assista ao vídeo e confira: assim fica bem mais fácil escolher o que é ideal pra sua necessidade.
+  Decoração bonita, econômica e funcional: plafons LED da [Euromabe Iluminação LED](http://www.euromabe.com.br/) . Assista ao vídeo e confira: assim fica bem mais fácil escolher o que é ideal pra sua necessidade.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

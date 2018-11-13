@@ -30,14 +30,14 @@ Olha as dicas aqui, ó! Veja se você gosta também…
 
 **2** &#8211; Para quem tem uma janela relativamente grande como eu tenho, na sala, uma boa alternativa é encantar os olhos de quem está dentro e fora de casa com sininhos pendurados por fitas. _Soooo cute_! E _superultramega_ fácil de fazer, não? Quem mais vai tentar encontrar os sininhos sou eu&#8230;
 
-**3** &#8211; Se não encontrar os sininhos, também tem outro jeito de dar graça a janela neste Natal. Já estou de olho na dica da Rafaela, do <a href="http://casamontada.blogspot.com/" target="_blank">Casa Montada</a>, que mostrou os <a href="http://casamontada.blogspot.com/2009/11/i-wish-you-merry-christmas.html" target="_blank">pinheirinhos que fez </a>para alegrar a decoração natalina na casa dela. Parece super fácil de fazer, até para uma criatura como eu, limitadíssima no trabalho com as mãos&#8230;
+**3** &#8211; Se não encontrar os sininhos, também tem outro jeito de dar graça a janela neste Natal. Já estou de olho na dica da Rafaela, do [Casa Montada](http://casamontada.blogspot.com/) , que mostrou os [pinheirinhos que fez ](http://casamontada.blogspot.com/2009/11/i-wish-you-merry-christmas.html) para alegrar a decoração natalina na casa dela. Parece super fácil de fazer, até para uma criatura como eu, limitadíssima no trabalho com as mãos&#8230;
 
 A propósito, a quantas anda a decoração de Natal de tua casa? O espírito natalino, ao menos para o _embonecamento_ do lar, já chegou por aí?
 
-Imagens: <a href="http://www.realsimple.com/" target="_blank">Real Simple</a>
+Imagens: [Real Simple](http://www.realsimple.com/) 
 
 **Mais no Bicha Fêmea sobre decoração natalina&#8230;**
 
-<a href="http://www.trololodemulher.com.br/2008/12/04/pegando-inspirao-web-afora/" target="_self">**<em>Pegando inspiração web afora…</em>**</a>
+<a href="http://www.trololodemulher.com.br/2008/12/04/pegando-inspirao-web-afora/" target="_self">**_Pegando inspiração web afora…_**</a>
 
 &nbsp;

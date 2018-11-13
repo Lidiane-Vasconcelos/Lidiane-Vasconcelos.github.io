@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">FreeImages</a>
+  Imagem: [FreeImages](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank">**Bebê sem assaduras: é possível sim, mamãe!**</a>
+  [**Bebê sem assaduras: é possível sim, mamãe!**](http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/) 
 </p>
 
 <p align="center">
@@ -95,11 +95,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma leitora interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">clica bem aqui</a> e aproveita, bonita!
+  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog [Dermatologia em Foco](http://www.dermatologiaemfoco.blogspot.com/) , onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma leitora interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, _oh_: [clica bem aqui](http://www.dermatologiaemfoco.blogspot.com/)  e aproveita, bonita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

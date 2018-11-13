@@ -10,11 +10,11 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  A proposta deste blog, você sabe, é que a gente se sinta bonita, saudável e de bem com a vida. Agora, me diz: um bolo saudável deixa a gente sentindo que a saúde está sendo bem cuidada, não é verdade? E como não ser mais feliz comendo bolo, minha gente? Junte tudo isso e acrescente os festejos natalinos… é pura alegria, <em>né </em>não?
+  A proposta deste blog, você sabe, é que a gente se sinta bonita, saudável e de bem com a vida. Agora, me diz: um bolo saudável deixa a gente sentindo que a saúde está sendo bem cuidada, não é verdade? E como não ser mais feliz comendo bolo, minha gente? Junte tudo isso e acrescente os festejos natalinos… é pura alegria, _né _não?
 </p>
 
 <p align="justify">
-  Carolzinha acertou em cheio quando nos presenteou com essa receita <em>superultramega</em> simples, bonita de viver e, o melhor: com proposta saudável. Nós, que somos espertas, já vamos tomar nota e reproduzir essa delícia em nossos domínios… combinado? Então, vem cá: vou te mostrar como é fácil:
+  Carolzinha acertou em cheio quando nos presenteou com essa receita _superultramega_ simples, bonita de viver e, o melhor: com proposta saudável. Nós, que somos espertas, já vamos tomar nota e reproduzir essa delícia em nossos domínios… combinado? Então, vem cá: vou te mostrar como é fácil:
 </p>
 
 <p align="center">
@@ -98,23 +98,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/12/03/receita-natal-biscoito-caseiro/" target="_blank">**Receita natalina: biscoitinho de gengibre e cardamomo**</a>
+  [**Receita natalina: biscoitinho de gengibre e cardamomo**](http://www.trololodemulher.com.br/2014/12/03/receita-natal-biscoito-caseiro/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank">**Receita molezinha e gostosa: torta de abóbora + frango**</a>
+  [**Receita molezinha e gostosa: torta de abóbora + frango**](http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho de inhame assado com bacalhau… huummm**</a>
+  [**Bolinho de inhame assado com bacalhau… huummm**](http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/) 
 </p>
 
 <p style="text-align: justify;" align="center">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

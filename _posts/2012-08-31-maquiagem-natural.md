@@ -14,13 +14,13 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
 &nbsp;
 
 <p align="justify">
-  Assim como você, tenho dúvidas sobre o assunto. Nessas horas, há algo melhor do que buscar respostas junto a um<em> expert</em> no assunto? Foi exatamento o que eu fiz, e a nossa consultora nesse sentido foi a **Joice Fogassi**, que **Esteticista Facial e Maquiadora**.
+  Assim como você, tenho dúvidas sobre o assunto. Nessas horas, há algo melhor do que buscar respostas junto a um_ expert_ no assunto? Foi exatamento o que eu fiz, e a nossa consultora nesse sentido foi a **Joice Fogassi**, que **Esteticista Facial e Maquiadora**.
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9068" rel="attachment wp-att-9068"><img class="alignnone size-full wp-image-9068" title="BELEZA-MAQUIAGEM-NATURAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL.png" alt="" width="249" height="238" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/?attachment_id=9068" rel="attachment wp-att-9068"><img class="alignnone size-full wp-image-9068" title="BELEZA-MAQUIAGEM-NATURAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/BELEZA-MAQUIAGEM-NATURAL.png" alt="" width="249" height="238" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -30,15 +30,15 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
 </p>
 
 > <p align="justify">
->   “<em>Acredito que **tudo depende das condições da pele**. Se uma **pele é jovem e lisinha**, ou **até mesmo uma pele madura, porém bem tratada e sem manchas**, é possível sim utilizar somente o primer jogando com **pó matte e/ou iluminador ****e blush**</em> .”
+>   “_Acredito que **tudo depende das condições da pele**. Se uma **pele é jovem e lisinha**, ou **até mesmo uma pele madura, porém bem tratada e sem manchas**, é possível sim utilizar somente o primer jogando com **pó matte e/ou iluminador ****e blush**_ .”
 > </p>
 
 <p align="justify">
-  **BF > Os famosos <em>BB Creams</em> (hidratante, protetor solar, primer e base) têm mesmo bom resultado quando o objetivo é parecer natural?**
+  **BF > Os famosos _BB Creams_ (hidratante, protetor solar, primer e base) têm mesmo bom resultado quando o objetivo é parecer natural?**
 </p>
 
 > <p align="justify">
->   “<em>**Depende do propósito. **Existem marcas maravilhosas  para o uso diário como **La Roche** e **Ada Tina** por exemplo, que oferecem **proteção solar e cor**, ás vezes com **acabamento de primer** para **minimizar os poros dilatados e disfarçar rugas. **Claro, cada uma das opções deve casar com o tipo de pele. Se a intenção é um happy hour, esta ou até mesmo fotos, acredite, o make &#8220;nasci&#8221; assim requer boas técnicas e recursos, por isso  **ainda acredito que um corretivo e base bem combinado com a pele é imbatível, pois assim é possivel iluminar e até modelar o rosto com tonalidades diferentes.**”</em>
+>   “_**Depende do propósito. **Existem marcas maravilhosas  para o uso diário como **La Roche** e **Ada Tina** por exemplo, que oferecem **proteção solar e cor**, ás vezes com **acabamento de primer** para **minimizar os poros dilatados e disfarçar rugas. **Claro, cada uma das opções deve casar com o tipo de pele. Se a intenção é um happy hour, esta ou até mesmo fotos, acredite, o make &#8220;nasci&#8221; assim requer boas técnicas e recursos, por isso  **ainda acredito que um corretivo e base bem combinado com a pele é imbatível, pois assim é possivel iluminar e até modelar o rosto com tonalidades diferentes.**”_
 > </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
 </p>
 
 <p align="justify">
-  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog **<a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">Joice Fogassi</a>** é o seu lugar. Se joga e **<a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">clica aqui</a>**…
+  Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog **[Joice Fogassi](http://joicemicropigmentacaomaquiagem.blogspot.com.br/) ** é o seu lugar. Se joga e **[clica aqui](http://joicemicropigmentacaomaquiagem.blogspot.com.br/) **…
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -141,13 +141,13 @@ Para quem é adepta de um visual _superultramega_ natural, isso seria o máximo!
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

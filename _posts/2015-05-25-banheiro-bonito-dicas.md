@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">**Banheiro pequeno? Veja 6 ideias e ganhe espaço já!**</a>
+  [**Banheiro pequeno? Veja 6 ideias e ganhe espaço já!**](http://www.decoracaodacasa.com/banheiro-pequeno/) 
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank">**Banheiro: dicas simples de decoração que custam quase nada!**</a>
+  [**Banheiro: dicas simples de decoração que custam quase nada!**](http://www.decoracaodacasa.com/banheiro-de-decoracao/) 
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  Bagunça é <em>uó</em>! Começa um tantinho aqui, e uma baguncinha atrai outra, e outra… e quando você vê, tem tralha em tudo quanto é lugar. Destralhe o seu balcão, porque ali é o lugar que mais atrai desordem: já reparou? Sabão, toalha, cosméticos, etc. Vai tudo sendo largado e esquecido ali. Organize tudo e escolha uma bandeja para agrupar o pouco que sobrou, assim ela funciona como uma “represa”, evitando que os itens se espalhem novamente. Nada deve sair dali, nada mais deve entrar nela. De quebra, você ganha uma composição no seu balcão que dará charme ao espaço. Use e abuse da ideia no banheiro… no quarto, na sala, na cozinha, etc.
+  Bagunça é _uó_! Começa um tantinho aqui, e uma baguncinha atrai outra, e outra… e quando você vê, tem tralha em tudo quanto é lugar. Destralhe o seu balcão, porque ali é o lugar que mais atrai desordem: já reparou? Sabão, toalha, cosméticos, etc. Vai tudo sendo largado e esquecido ali. Organize tudo e escolha uma bandeja para agrupar o pouco que sobrou, assim ela funciona como uma “represa”, evitando que os itens se espalhem novamente. Nada deve sair dali, nada mais deve entrar nela. De quebra, você ganha uma composição no seu balcão que dará charme ao espaço. Use e abuse da ideia no banheiro… no quarto, na sala, na cozinha, etc.
 </p>
 
 <p align="justify">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank">**Truques de decoração: bandejas… por que te quero?**</a>
+  [**Truques de decoração: bandejas… por que te quero?**](http://www.decoracaodacasa.com/decoracao-bandejas/) 
 </p>
 
 <p align="center">
@@ -94,15 +94,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">**5 ideias de organização do banheiro que favorecem a decoração.**</a>
+  [**5 ideias de organização do banheiro que favorecem a decoração.**](http://www.decoracaodacasa.com/organizacao-do-banheiro/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

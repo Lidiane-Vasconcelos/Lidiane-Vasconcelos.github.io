@@ -30,14 +30,14 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/hectorlo/10080524546/" target="_blank">hectorlo</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Via [hectorlo](https://www.flickr.com/photos/hectorlo/10080524546/) <b> / </b>[Foter](http://foter.com/) <b> / </b>[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
 </p>
 
-> **_“1 &#8211; Até dia 16 de agosto, a Rede Cinemark está com a quarta temporada da série “O Maravilhoso Mundo da Disney”. Os finais de semana ficarão mais animados com filmes como “A Bela e a Fera 3D”, “Carros 2”, “Branca de Neve e os Sete Anões”, entre outros. Os ingressos custam até R$ 12,00 e geralmente as seções são exibidas às 11h. Mais informações:_** <a href="http://www.cinemark.com.br/" target="_blank">**<em>CineMark</em>**</a>
+> **_“1 &#8211; Até dia 16 de agosto, a Rede Cinemark está com a quarta temporada da série “O Maravilhoso Mundo da Disney”. Os finais de semana ficarão mais animados com filmes como “A Bela e a Fera 3D”, “Carros 2”, “Branca de Neve e os Sete Anões”, entre outros. Os ingressos custam até R$ 12,00 e geralmente as seções são exibidas às 11h. Mais informações:_** [**_CineMark_**](http://www.cinemark.com.br/) 
 
 &nbsp;
 
-> **_2 &#8211; Com entrada gratuita, o Teatro Sergio Cardoso tem apresentações infantis todos os domingos do mês de Agosto, às 11h da manhã. Mais informações:_** <a href="http://teatrosergiocardoso.org.br/teatro-comvida/" target="_blank">**<em>Teatro Sérgio Cardoso</em>**</a>
+> **_2 &#8211; Com entrada gratuita, o Teatro Sergio Cardoso tem apresentações infantis todos os domingos do mês de Agosto, às 11h da manhã. Mais informações:_** [**_Teatro Sérgio Cardoso_**](http://teatrosergiocardoso.org.br/teatro-comvida/) 
 
 > **_02 de agosto – “Arruaça” – Circo Vox_**
 
@@ -51,7 +51,7 @@ categories:
 
 &nbsp;
 
-> **_3 &#8211; Já no Parque Villa Lobos, contos e brincadeiras tomam conta do mês. São diversas atividades para as crianças se divertirem. Selecionamos algumas aqui, mais informações:_** <a href="http://www.bvl.org.br/confira-o-que-rola-em-agosto-na-bvl/" target="_blank">**<em>Biblioteca Parque Villa-Lobos</em>**</a>
+> **_3 &#8211; Já no Parque Villa Lobos, contos e brincadeiras tomam conta do mês. São diversas atividades para as crianças se divertirem. Selecionamos algumas aqui, mais informações:_** [**_Biblioteca Parque Villa-Lobos_**](http://www.bvl.org.br/confira-o-que-rola-em-agosto-na-bvl/) 
 
 > **_Sextas-feiras, às 15h e sábados e domingos, às 16h – A hora do conto (contação de histórias da literatura infantojuvenil para as crianças)_** 
 
@@ -72,13 +72,13 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai! Ah! O**Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Vai! Ah! O**Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts)  Eu já!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

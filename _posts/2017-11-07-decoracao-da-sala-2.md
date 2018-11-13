@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Sabe quando a **decoração da sala** está sem vida? Esse tem sido o sentimento da **leitora Rose**, que logo teve a ideia de mandar um **<em>e-mail</em> pro Trololó de Mulher**. A boa notícia é que veremos a seguir **9 sugestões** dadas pela **Adryana Moutinho, Designer de Interiores, de Cotia – SP e região**.
+  Sabe quando a **decoração da sala** está sem vida? Esse tem sido o sentimento da **leitora Rose**, que logo teve a ideia de mandar um **_e-mail_ pro Trololó de Mulher**. A boa notícia é que veremos a seguir **9 sugestões** dadas pela **Adryana Moutinho, Designer de Interiores, de Cotia – SP e região**.
 </p>
 
 <p align="justify">
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Não deixe de conferir <a href="https://mundomio.com.br/paris-o-que-fazer-dicas-roteiros-e-gastos/" target="_blank">dicas para uma viagem a Paris</a> se isso está nos seus planos&#8230;**
+  **Não deixe de conferir [dicas para uma viagem a Paris](https://mundomio.com.br/paris-o-que-fazer-dicas-roteiros-e-gastos/)  se isso está nos seus planos&#8230;**
 </p>
 
 <p align="justify">
-  Sim, por aqui as pequenas dúvidas das leitoras são respondidas com muito carinho, porque a gente sabe que isso pode ajudar outras pessoas também. Se você deseja uma sugestão de decoração para um ambiente em sua casa, e ver as respostas no **Trololó de Mulher**, manda <em>e-mail</em>! Escreva para <a href="mailto:trololomulher@gmail.com.br">**<em>trololomulher@gmail.com.br</em>**</a> e, quem sabe, seu dilema não vira um post?! Confira…
+  Sim, por aqui as pequenas dúvidas das leitoras são respondidas com muito carinho, porque a gente sabe que isso pode ajudar outras pessoas também. Se você deseja uma sugestão de decoração para um ambiente em sua casa, e ver as respostas no **Trololó de Mulher**, manda _e-mail_! Escreva para <a href="mailto:trololomulher@gmail.com.br">**_trololomulher@gmail.com.br_**</a> e, quem sabe, seu dilema não vira um post?! Confira…
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Gostaria de ajuda pra dar um toque legal em minha sala de jantar, que é integrada à sala de estar. Minha sala tem sofá marrom de 2 e 3 lugares, um tapete de sizal bege, meu rack cor marrom escura e com painel. As  duas salas têm cortinas iguais na cor palha. A sala de jantar tinha aparador, e mesa de vidro com 6 cadeiras, mas precisei tirá-los, pois tenho criança, e o espaço ficou muito pequeno. Agora comprei uma mesa de vidro com 4 cadeiras, de almofadas na cor caramelo, e tenho um quadro na parede com flor copa de leite, mas achei que está sem vida.  O que você pode me orientar?  Tinha pensado em colocar um espelho nessa parede que tem o quadro</em>.” **Rose**
+  “_Gostaria de ajuda pra dar um toque legal em minha sala de jantar, que é integrada à sala de estar. Minha sala tem sofá marrom de 2 e 3 lugares, um tapete de sizal bege, meu rack cor marrom escura e com painel. As  duas salas têm cortinas iguais na cor palha. A sala de jantar tinha aparador, e mesa de vidro com 6 cadeiras, mas precisei tirá-los, pois tenho criança, e o espaço ficou muito pequeno. Agora comprei uma mesa de vidro com 4 cadeiras, de almofadas na cor caramelo, e tenho um quadro na parede com flor copa de leite, mas achei que está sem vida.  O que você pode me orientar?  Tinha pensado em colocar um espelho nessa parede que tem o quadro_.” **Rose**
 </p>
 
 <p style="text-align: justify;">
@@ -86,15 +86,15 @@ categories:
 </p>
 
 <p align="justify">
-  Para entrar em contato com Adryana, é possível pelo **telefone, (11) 99559-1218**, ou ainda no **e-mail **<a href="mailto:contato@adryanamoutinho.com.br">**contato@adryanamoutinho.com.br**</a> – nas redes socias a designer está presente no **Facebook**, <a href="https://www.facebook.com/AdryanaMoutinho/" target="_blank">clique aqui e curta sua página</a>, ou ainda no **Instagram**, <a href="https://www.instagram.com/adryana_moutinho/" target="_blank">clique aqui e siga</a>!
+  Para entrar em contato com Adryana, é possível pelo **telefone, (11) 99559-1218**, ou ainda no **e-mail **[clique aqui e curta sua página](mailto:contato@adryanamoutinho.com.br">**contato@adryanamoutinho.com.br**</a> – nas redes socias a designer está presente no **Facebook**, <a href="https://www.facebook.com/AdryanaMoutinho/) , ou ainda no **Instagram**, [clique aqui e siga](https://www.instagram.com/adryana_moutinho/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

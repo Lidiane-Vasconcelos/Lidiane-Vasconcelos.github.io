@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">Freeimages</a>
+  Imagem: [Freeimages](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **A escolha do berço é muito pessoal, varia de acordo com o gosto. Qualquer que seja o modelo, o essencial é a segurança: escolher um modelo que siga as regras do <a href="http://www.inmetro.gov.br/" target="_blank">INMETRO</a> e as indicações da <a href="http://criancasegura.org.br/" target="_blank">ONG Criança Segura</a>. Modelos que viram minicamas, acompanham a criança nos primeiros anos de vida. Já os berços do tipo Moisés (cestos) podem ser usados apenas nos primeiros meses.”**
+>   **A escolha do berço é muito pessoal, varia de acordo com o gosto. Qualquer que seja o modelo, o essencial é a segurança: escolher um modelo que siga as regras do [INMETRO](http://www.inmetro.gov.br/)  e as indicações da [ONG Criança Segura](http://criancasegura.org.br/) . Modelos que viram minicamas, acompanham a criança nos primeiros anos de vida. Já os berços do tipo Moisés (cestos) podem ser usados apenas nos primeiros meses.”**
 > </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem via <a href="http://zontaarquitetura.blogspot.com.br/" target="_blank">Zonta | Arquitetura</a>
+  Imagem via [Zonta | Arquitetura](http://zontaarquitetura.blogspot.com.br/) 
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem do ursinho via <a href="http://www.freeimages.com/" target="_blank">Freeimages</a>
+  Imagem do ursinho via [Freeimages](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem via <a href="http://www.loveinspirations.com.br/" target="_blank">Love Inspirations</a>
+  Imagem via [Love Inspirations](http://www.loveinspirations.com.br/) 
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://carseatexperts.com/best-wall-arts-reviewed/" target="_blank">Adesivos de parede infantis</a>: lista com algumas opções avaliadas.**
+  **[Adesivos de parede infantis](http://carseatexperts.com/best-wall-arts-reviewed/) : lista com algumas opções avaliadas.**
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank">**4 quartos de bebê menino para você suspirar… e se inspirar.**</a>
+  [**4 quartos de bebê menino para você suspirar… e se inspirar.**](http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/) 
 </p>
 
 <p align="justify">
@@ -135,11 +135,11 @@ categories:
 </p>
 
 <p align="justify">
-  A **Adriana** edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – **<a href="http://www.coresdacasa.com.br/" target="_blank">Cores da Casa</a>** – quanto na fanpage do Facebook – **<a href="https://www.facebook.com/coresdacasa" target="_blank">curta e acompanhe</a>** – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
+  A **Adriana** edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – **[Cores da Casa](http://www.coresdacasa.com.br/) ** – quanto na fanpage do Facebook – **[curta e acompanhe](https://www.facebook.com/coresdacasa) ** – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

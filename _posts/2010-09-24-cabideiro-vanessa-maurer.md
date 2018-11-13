@@ -18,17 +18,17 @@ E chegou! Olha só que _belezura_!
 </p>
 
 <p style="text-align: justify;">
-  Trata-se de um cabideiro artesanal, lindo de viver, do <a href="http://vanessamaurer.com.br/" target="_blank">Atelier Vanessa Maurer</a>. A peça vai enfeitar o meu quarto de hóspedes, que vai ficar com muito mais <em>bossa</em> tendo uma peça assim não é, minha gente? É do jeito que eu gosto: decora e tem utilidade! Que mais uma bicha fêmea esperta pode querer, hein?
+  Trata-se de um cabideiro artesanal, lindo de viver, do [Atelier Vanessa Maurer](http://vanessamaurer.com.br/) . A peça vai enfeitar o meu quarto de hóspedes, que vai ficar com muito mais _bossa_ tendo uma peça assim não é, minha gente? É do jeito que eu gosto: decora e tem utilidade! Que mais uma bicha fêmea esperta pode querer, hein?
 </p>
 
 <p style="text-align: center;">
-  **<em>Quer as novidades do Bicha Fêmea? </em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><em>Receba gratuitamente em seu e-mail</em></a><em>!</em>**
+  **_Quer as novidades do Bicha Fêmea? _<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">_Receba gratuitamente em seu e-mail_</a>_!_**
 </p>
 
 <p style="text-align: center;">
-  **Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.**
+  **Siga o Bicha Fêmea no Twitter – [@bichafemea](http://twitter.com/bichafemea) .**
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _[_basta clicar_](http://www.trololodemulher.com.br/loja/) _!_**
 </p>

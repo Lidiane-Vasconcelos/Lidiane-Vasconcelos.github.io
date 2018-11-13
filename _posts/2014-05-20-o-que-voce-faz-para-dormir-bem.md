@@ -26,19 +26,19 @@ Fiz essa pergunta para leitoras queridas do blog, porque gostaria de rechear ess
 &nbsp;
 
 > <p align="justify">
->   Oi, Lidi! Eu acho que fazer exercícios regularmente ajuda muito para um sono tranquilo! E fazer yoga também, viu! Yoga eu faço só uma vez por semana, porque não tenho tempo de fazer mais, mas eu adoro!Sinto que nos dias que faço exercícios durmo bem melhor! No dia da yoga então! E com isso aprendi muito sobre respiração, sobre me acalmar antes de deitar, sabe&#8230;. “ **Adriana Minhoto | **<a href="http://www.visivae.com.br/" target="_blank">**Visivae**</a>
+>   Oi, Lidi! Eu acho que fazer exercícios regularmente ajuda muito para um sono tranquilo! E fazer yoga também, viu! Yoga eu faço só uma vez por semana, porque não tenho tempo de fazer mais, mas eu adoro!Sinto que nos dias que faço exercícios durmo bem melhor! No dia da yoga então! E com isso aprendi muito sobre respiração, sobre me acalmar antes de deitar, sabe&#8230;. “ **Adriana Minhoto | **[**Visivae**](http://www.visivae.com.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Bom&#8230; se eu tive um dia muito agitado, eu tomo um copo de leite com bolacha. É como se isso me carregasse no colo com uma canção de ninar. Eu tenho um sono muito bom, mas se eu estou preocupada demais, ás vezes é difícil dormir. Fazer uma boa caminhada a qualquer hora do dia ajuda e muuuuito, e assistir um seriadinho também. Ah&#8230; e banho. Não deito sem tomar um banho quentinho.” **Fatima Moral | **<a href="https://www.personalbuyers.com.br/" target="_blank">**Personal Buyers**</a>
+>   Bom&#8230; se eu tive um dia muito agitado, eu tomo um copo de leite com bolacha. É como se isso me carregasse no colo com uma canção de ninar. Eu tenho um sono muito bom, mas se eu estou preocupada demais, ás vezes é difícil dormir. Fazer uma boa caminhada a qualquer hora do dia ajuda e muuuuito, e assistir um seriadinho também. Ah&#8230; e banho. Não deito sem tomar um banho quentinho.” **Fatima Moral | **[**Personal Buyers**](https://www.personalbuyers.com.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   Oi, Lidiane! Antes de dormir eu adoro ler&#8230;a leitura me leva para outros mundos que me fazem relaxar da minha rotina diária&#8230;” **Caroline Willrich Flesch | **<a href="http://arquitetando-projetoseobjetos.blogspot.com.br/" target="_blank">**Arquitetando – Projetos e Objetos**</a>
+>   Oi, Lidiane! Antes de dormir eu adoro ler&#8230;a leitura me leva para outros mundos que me fazem relaxar da minha rotina diária&#8230;” **Caroline Willrich Flesch | **[**Arquitetando – Projetos e Objetos**](http://arquitetando-projetoseobjetos.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Fiz essa pergunta para leitoras queridas do blog, porque gostaria de rechear ess
 &nbsp;
 
 > <p align="justify">
->   Oi, Lidi! Procuro seguir algumas dicas, como: dormir e acordar no mesmo horário (ter uma rotina); Tentar respeitar a quantidade de horas  de sono que meu corpo precisa (cada pessoa tem a sua). Se o sono não vier, tento o seguinte: ouvir uma música tranquilinha; respirar profundamente várias vezes &#8211; esse não costuma falhar; ler um livro chatinho, daqueles que exigem mais concentração e raciocínio. Mas também vale lembrar que o quarto deve estar bem escurinho e sem tv, de preferência. Acredito no poder das cores também: cores fortes, como vermelho, laranja, são carregadas de muita energia, e devem ficar longe dos quartos. Esses ficam melhor com cores em tons pastéis, que estimulem o relaxamento.” **Carol Maia | **<a href="http://bloguitodacarolzita.blogspot.com.br/" target="_blank">**Bloguito da Carolzita**</a>
+>   Oi, Lidi! Procuro seguir algumas dicas, como: dormir e acordar no mesmo horário (ter uma rotina); Tentar respeitar a quantidade de horas  de sono que meu corpo precisa (cada pessoa tem a sua). Se o sono não vier, tento o seguinte: ouvir uma música tranquilinha; respirar profundamente várias vezes &#8211; esse não costuma falhar; ler um livro chatinho, daqueles que exigem mais concentração e raciocínio. Mas também vale lembrar que o quarto deve estar bem escurinho e sem tv, de preferência. Acredito no poder das cores também: cores fortes, como vermelho, laranja, são carregadas de muita energia, e devem ficar longe dos quartos. Esses ficam melhor com cores em tons pastéis, que estimulem o relaxamento.” **Carol Maia | **[**Bloguito da Carolzita**](http://bloguitodacarolzita.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -67,12 +67,12 @@ Fiz essa pergunta para leitoras queridas do blog, porque gostaria de rechear ess
 
 &nbsp;
 
-Imagens: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+Imagens: [free images](http://www.freeimages.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -89,13 +89,13 @@ Imagens: <a href="http://www.freeimages.com/" target="_blank">free images</a>
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -104,5 +104,5 @@ Imagens: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

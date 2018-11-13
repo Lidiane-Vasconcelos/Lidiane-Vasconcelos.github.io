@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  A mãe festeira teve a feliz ideia de sugerir, no convite, que as crianças levassem suas bicicletas, patins, patinetes, skates, etc. O desejo de Raphaele é que a manhã fosse ainda mais divertida. E ela acertou em cheio! “<em>O clima foi de muita leveza e espontaneidade</em>”, garante Raphaele. Esse grande encontro pra festejar a vida de Rhuan aconteceu entre 9h e 12h, numa manhã de Domingo, na UNIFOR – CE. O espaço é bastante verde com muitas árvores, já conta com mesas, bem organizado, com segurança local, e o uso gratuito. Bastou que ela fizesse uma solicitação antes de realizar o evento.
+  A mãe festeira teve a feliz ideia de sugerir, no convite, que as crianças levassem suas bicicletas, patins, patinetes, skates, etc. O desejo de Raphaele é que a manhã fosse ainda mais divertida. E ela acertou em cheio! “_O clima foi de muita leveza e espontaneidade_”, garante Raphaele. Esse grande encontro pra festejar a vida de Rhuan aconteceu entre 9h e 12h, numa manhã de Domingo, na UNIFOR – CE. O espaço é bastante verde com muitas árvores, já conta com mesas, bem organizado, com segurança local, e o uso gratuito. Bastou que ela fizesse uma solicitação antes de realizar o evento.
 </p>
 
 <p align="center">
@@ -107,15 +107,15 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>As crianças adoraram! Lancharam bem e se divertiram pra caramba. Levei pipas, massinhas&#8230;. e dei para a criançada. Foi muito bom. Recebi bastante elogio por ser uma coisa diferente, agradável e marcante para as crianças, e adultos também. Ficamos bem satisfeitos e aliviados, por tudo ter dado certo, afinal, nunca tínhamos feito um picnic. Atendeu o que queríamos, que era  um ambiente bem verde, curtir a natureza, espaço para as crianças brincarem, cantar os parabéns, e não ter custos mirabolantes</em>”, finaliza a mãe.
+  “_As crianças adoraram! Lancharam bem e se divertiram pra caramba. Levei pipas, massinhas&#8230;. e dei para a criançada. Foi muito bom. Recebi bastante elogio por ser uma coisa diferente, agradável e marcante para as crianças, e adultos também. Ficamos bem satisfeitos e aliviados, por tudo ter dado certo, afinal, nunca tínhamos feito um picnic. Atendeu o que queríamos, que era  um ambiente bem verde, curtir a natureza, espaço para as crianças brincarem, cantar os parabéns, e não ter custos mirabolantes_”, finaliza a mãe.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 &nbsp;

@@ -19,4 +19,4 @@ Que possamos sempre manter na mente a lembrança do que estamos comemorando, o n
 
 Feliz Natal para você e toda a sua família, bonita!!!!!
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: [stock.xchng](http://www.sxc.hu/) 

@@ -14,7 +14,7 @@ Essa foi exatamente a combinação que fiz na minha última tarde de Domingo. É
 &nbsp;
 
 <p align="justify">
-  Foi graças a **<a href="http://www.omovel.com.br/2012/09/um-cafe-divertido.html" target="_blank"><em>indicação superultramega bacana da Jussara</em></a>**, editora do blog **<a href="http://www.omovel.com.br/" target="_blank">O Móvel</a>**, que conheci um cantinho bem diferente para o cafezinho e lanchinho da tarde. Trata-se do **<a href="http://www.facebook.com/GatoMiaCafeDivertido" target="_blank">Gato Mia – Café Divertido</a>**. Agora que fui lá e conferi, posso falar: a visita vale a pena!
+  Foi graças a **[_indicação superultramega bacana da Jussara_](http://www.omovel.com.br/2012/09/um-cafe-divertido.html) **, editora do blog **[O Móvel](http://www.omovel.com.br/) **, que conheci um cantinho bem diferente para o cafezinho e lanchinho da tarde. Trata-se do **[Gato Mia – Café Divertido](http://www.facebook.com/GatoMiaCafeDivertido) **. Agora que fui lá e conferi, posso falar: a visita vale a pena!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ Essa foi exatamente a combinação que fiz na minha última tarde de Domingo. É
 &nbsp;
 
 <p align="justify">
-  Chegando lá, já percebi de cara que achei o <em>point</em> da família Vasconcelos para tardes gostosas de fins de semana. O espaço é ideal para aqueles momentos valiosos de conversa com quem a gente ama, saboreando um café quentinho, comendo algo bem gostoso, tudo enquanto os pequenos brincam. Se você está em Campinas e curte esse tipo de programa, lá é o lugar.
+  Chegando lá, já percebi de cara que achei o _point_ da família Vasconcelos para tardes gostosas de fins de semana. O espaço é ideal para aqueles momentos valiosos de conversa com quem a gente ama, saboreando um café quentinho, comendo algo bem gostoso, tudo enquanto os pequenos brincam. Se você está em Campinas e curte esse tipo de programa, lá é o lugar.
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ Essa foi exatamente a combinação que fiz na minha última tarde de Domingo. É
 &nbsp;
 
 <p align="justify">
-  Em todo o ambiente há roupinhas usadas, mas em perfeito estado, para você escolher uma novidade para o guarda-roupas da criança. Tudo <em>beeeeem</em> bonitinho, <em>viu</em>? E o bolso agradece!
+  Em todo o ambiente há roupinhas usadas, mas em perfeito estado, para você escolher uma novidade para o guarda-roupas da criança. Tudo _beeeeem_ bonitinho, _viu_? E o bolso agradece!
 </p>
 
 &nbsp;
@@ -90,12 +90,12 @@ Essa foi exatamente a combinação que fiz na minha última tarde de Domingo. É
 </p>
 
 <p align="justify">
-  Não duvide de que ir no **<a href="http://www.facebook.com/GatoMiaCafeDivertido" target="_blank">Gato Mia</a>** é certeza de diversão para toda a família, <em>viu</em>? Se você ficou bem curiosa para conhecer esse espaço de proposta bastante inusitada, dá um pulinho na **Rua Vieira Bueno, 293, Cambuí, Campinas**. Ah! Divirta-se!
+  Não duvide de que ir no **[Gato Mia](http://www.facebook.com/GatoMiaCafeDivertido) ** é certeza de diversão para toda a família, _viu_? Se você ficou bem curiosa para conhecer esse espaço de proposta bastante inusitada, dá um pulinho na **Rua Vieira Bueno, 293, Cambuí, Campinas**. Ah! Divirta-se!
 </p>
 
 &nbsp;
 
-Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_blank">O Móvel</a>**
+Imagens: **Jussara Gehrke** – **[O Móvel](http://www.omovel.com.br/) **
 
 &nbsp;
 
@@ -152,7 +152,7 @@ Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_b
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -167,13 +167,13 @@ Imagens: **Jussara Gehrke** – **<a href="http://www.omovel.com.br/" target="_b
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Dei uma espiada em imagens de um apartamento que fica em Londres, na Inglaterra, e vivi de amores. Ele todo é um emaranhado de referências de decoração <em>vintage</em>, mescladas com toques de modernidade. Não há dúvidas que a dona desse apartamento ama essa pegada <em>retrô</em> no grau mil, e eu amei demais alguns detalhes pelos quais meu coração palpitou, e pensei que gostaria de reproduzí-los em meus domínios. Trouxe para compartilhar contigo o que selecionei de tudo o que vi, e espero que você curta e identifique: destas dicas (em imagens) para dar uma pegada do tempo da vovó na sua decoração, o que te inspira mais? Se joga!
+  Dei uma espiada em imagens de um apartamento que fica em Londres, na Inglaterra, e vivi de amores. Ele todo é um emaranhado de referências de decoração _vintage_, mescladas com toques de modernidade. Não há dúvidas que a dona desse apartamento ama essa pegada _retrô_ no grau mil, e eu amei demais alguns detalhes pelos quais meu coração palpitou, e pensei que gostaria de reproduzí-los em meus domínios. Trouxe para compartilhar contigo o que selecionei de tudo o que vi, e espero que você curta e identifique: destas dicas (em imagens) para dar uma pegada do tempo da vovó na sua decoração, o que te inspira mais? Se joga!
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  Amei a garrafa antiguinha, dessas encontradas em <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank">feirinhas de antiguidades</a>. Aliás, nesses lugares a gente acha cada preciosidade! Felei sobre isso em post anterior, <a href="http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/" target="_blank">bem aqui</a>. Você viu?
+  Amei a garrafa antiguinha, dessas encontradas em [feirinhas de antiguidades](http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/) . Aliás, nesses lugares a gente acha cada preciosidade! Felei sobre isso em post anterior, [bem aqui](http://www.trololodemulher.com.br/2012/08/27/objeto-enfeite-decoracao/) . Você viu?
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  Como não viver de amores pelo piso que imita uma colcha de retalhos, do tipo <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">ladrilho hidráulico – assunto num post sobre revestimentos</a> &#8211; , e a geladeira com um pezinho no passado? É tudo do tempo da vovó!
+  Como não viver de amores pelo piso que imita uma colcha de retalhos, do tipo [ladrilho hidráulico – assunto num post sobre revestimentos](http://www.decoracaodacasa.com/revestimentos-piso-parede/)  &#8211; , e a geladeira com um pezinho no passado? É tudo do tempo da vovó!
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Preparar a refeição da família rodeada de pitadas de charme como um bule de ágata reutilizado (a propósito, espie mais <a href="http://www.decoracaodacasa.com/objetos-decoracao-organizacao/" target="_blank">ideias de reutilização para decoração e organização da casa</a>) como vaso de flores, ou uma chaleira com cheirinho de passado, como essa, é outra coisa, <em>né</em> não? E esse jogo de mantimentos, gente? Suspirei…
+  Preparar a refeição da família rodeada de pitadas de charme como um bule de ágata reutilizado (a propósito, espie mais [ideias de reutilização para decoração e organização da casa](http://www.decoracaodacasa.com/objetos-decoracao-organizacao/) ) como vaso de flores, ou uma chaleira com cheirinho de passado, como essa, é outra coisa, _né_ não? E esse jogo de mantimentos, gente? Suspirei…
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="justify">
-  Essa é a dona desse apartamento que está nos inspirando tanto. Ela se chama Caroline Rowland, e tem um blog inteiro pra você explorar, o <a href="http://www.patchworkharmony.co.uk/blog" target="_blank">Patchwork Harmony</a>. Fica a dica!
+  Essa é a dona desse apartamento que está nos inspirando tanto. Ela se chama Caroline Rowland, e tem um blog inteiro pra você explorar, o [Patchwork Harmony](http://www.patchworkharmony.co.uk/blog) . Fica a dica!
 </p>
 
 <p align="justify">
@@ -110,11 +110,11 @@ categories:
 </p>
 
 <p align="justify">
-  Ficou com vontade de explorar ainda mais a casa da Caroline? Se joga <a href="http://www.apartmenttherapy.com/caroline-simons-modern-vintage-maisonette-in-london-house-tour-219847?utm_campaign=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do&utm_content=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do+CID_4022aac23b67cecbc7d1c48bb27f500a&utm_medium=email&utm_source=email_newsletter&utm_term=House+Tour+Caroline++Simons+Modern+Vintage+Maisonette+in+London" target="_blank">bem aqui, no Apartment Therapy</a>, porque há muito mais fotos pra você espiar, viu?
+  Ficou com vontade de explorar ainda mais a casa da Caroline? Se joga [bem aqui, no Apartment Therapy](http://www.apartmenttherapy.com/caroline-simons-modern-vintage-maisonette-in-london-house-tour-219847?utm_campaign=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do&utm_content=Apartment+Therapy+61615-+The+Biggest+Reason+Youre+Still+Drowning+in+Clutter+And+What+to+Do+CID_4022aac23b67cecbc7d1c48bb27f500a&utm_medium=email&utm_source=email_newsletter&utm_term=House+Tour+Caroline++Simons+Modern+Vintage+Maisonette+in+London) , porque há muito mais fotos pra você espiar, viu?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

@@ -10,7 +10,7 @@ categories:
   - Quarto
 ---
 <p style="text-align: justify;">
-  Com tantos blogs, sites e revistas de decoração ao alcance das mãos e olhos, é natural que nós, bonitas do trololó, fiquemos ávidas por produzir uma decoração para o quarto toda cheia de <em>bossa</em>, não é verdade? Mas o orçamento nem sempre acompanha esse desejo…
+  Com tantos blogs, sites e revistas de decoração ao alcance das mãos e olhos, é natural que nós, bonitas do trololó, fiquemos ávidas por produzir uma decoração para o quarto toda cheia de _bossa_, não é verdade? Mas o orçamento nem sempre acompanha esse desejo…
 </p>
 
 <p style="text-align: justify;">
@@ -20,7 +20,7 @@ categories:
 &nbsp;
 
 <p style="text-align: center;">
-  <span style="font-size: medium;">**<em>Crie um foco de atenção e encantamento com usados!</em>**</span>
+  <span style="font-size: medium;">**_Crie um foco de atenção e encantamento com usados!_**</span>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A cor que você vai usar na muldura pode ser determinada pela que você usa na parede. Que tal? Se você tem dúvidas sobre qual cor escolher para o seu quarto, confira as **<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_blank">dicas sobre cores na parede</a></em>** já publicadas anteriormente e defina a sua. Em seguida, escolha alguns tons acima para a moldura do seu espelho, e <em>voilá</em>!
+  A cor que você vai usar na muldura pode ser determinada pela que você usa na parede. Que tal? Se você tem dúvidas sobre qual cor escolher para o seu quarto, confira as **_[dicas sobre cores na parede](http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/) _** já publicadas anteriormente e defina a sua. Em seguida, escolha alguns tons acima para a moldura do seu espelho, e _voilá_!
 </p>
 
 <p align="center">
@@ -52,12 +52,12 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O **<em><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/" target="_blank">uso da sobra de papel de parede na decoração</a></em>** já foi tratado anteriormente no Trololó de Mulher.. Confira o conteúdo do post que trata desse assunto, e não deixe de espiar o desenrolar dos comentários que surgiram, a exemplo do que disse a **Yvone**, do blog <a href="http://www.casaspossiveis.blogspot.com/" target="_blank">Casas Possíveis</a>:
+  O **_[uso da sobra de papel de parede na decoração](http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/) _** já foi tratado anteriormente no Trololó de Mulher.. Confira o conteúdo do post que trata desse assunto, e não deixe de espiar o desenrolar dos comentários que surgiram, a exemplo do que disse a **Yvone**, do blog [Casas Possíveis](http://www.casaspossiveis.blogspot.com/) :
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    **“<em>Lidi, já aproveitei sobras de papel de parede para forrar móveis, portas de armários, vasos, caixinhas de madeira e até para encapar agendas. Eles geralmente já vem com uma cola, são bonitos e duram muito. Abraço</em>”**
+    **“_Lidi, já aproveitei sobras de papel de parede para forrar móveis, portas de armários, vasos, caixinhas de madeira e até para encapar agendas. Eles geralmente já vem com uma cola, são bonitos e duram muito. Abraço_”**
   </p>
 </blockquote>
 
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se não for com sobras de papel de parede, a reforma do seu móvel usado pode ser feita através de uma belíssima pintura cheia de estilo. A artista **Veronica Kraemer**, que já teve seu trabalho apresentado no **<em><a href="http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/" target="_blank">Trololó de Mulher</a></em>**, é um exemplo de profissional que pode te ajudar quanto a isso. Fica a dica!
+  Se não for com sobras de papel de parede, a reforma do seu móvel usado pode ser feita através de uma belíssima pintura cheia de estilo. A artista **Veronica Kraemer**, que já teve seu trabalho apresentado no **_[Trololó de Mulher](http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/) _**, é um exemplo de profissional que pode te ajudar quanto a isso. Fica a dica!
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Reaproveite o que já tem com criatividade!</span></em>**
+  **_<span style="font-size: medium;">Reaproveite o que já tem com criatividade!</span>_**
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Compre baratinho, transforme, e ganhe exclusividade!</span></em>**
+  **_<span style="font-size: medium;">Compre baratinho, transforme, e ganhe exclusividade!</span>_**
 </p>
 
 <p align="center">
@@ -101,10 +101,10 @@ categories:
   E para seu quarto ficar completo, as mesinhas de cabeceira dão um toque final, certo? Novamente, elas podem sair baratinhas com a aplicação da seguinte ideia: compre bancos retráteis de madeira, desses bem baratinhos, e transforme-os! Depois de ganharem uma nova cor, você pode mandar fazer tampos de vidro para eles também. Se você tiver restos de papel de parede ou até algum tecido que você goste muito, pode cortar nas dimensões do assento do banco e colocar sob o vidro, formando um tampo diferente para ele. Inspire-se!
 </p>
 
-Imagens: <a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>
+Imagens: [myhomeideas](http://www.myhomeideas.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

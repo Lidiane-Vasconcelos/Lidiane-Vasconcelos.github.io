@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Eu coloco na forma os ingredientes e vou derretendo na chama do fogão, mas você pode fazer a calda em uma vasilha e transferir. Deixe bem moreninha, mas sem queimar. Deixe a calda no fundo da forma ou, se fez na panela, distribua a calda na forma</em>.”
+  “_Eu coloco na forma os ingredientes e vou derretendo na chama do fogão, mas você pode fazer a calda em uma vasilha e transferir. Deixe bem moreninha, mas sem queimar. Deixe a calda no fundo da forma ou, se fez na panela, distribua a calda na forma_.”
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Bata todos os ingredientes no liquidificador ou mixer. Despeje com cuidado na forma. Tampe a forma com papel alumínio e leve ao forno em banho-maria até que o palitinho saia limpo. Espere esfriar para desenformar</em>.”
+  “_Bata todos os ingredientes no liquidificador ou mixer. Despeje com cuidado na forma. Tampe a forma com papel alumínio e leve ao forno em banho-maria até que o palitinho saia limpo. Espere esfriar para desenformar_.”
 </p>
 
 <p align="center">
@@ -78,23 +78,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/30/bolo-de-maca-sem-gluten/" target="_blank">**Bolo de maçã sem glúten**</a>
+  [**Bolo de maçã sem glúten**](http://www.trololodemulher.com.br/2015/09/30/bolo-de-maca-sem-gluten/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/" target="_blank">**Purê de ervilha: bonito, saudável e nutritivo**</a>
+  [**Purê de ervilha: bonito, saudável e nutritivo**](http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank">**Saint peter ao forno ao molho de abóbora**</a>
+  [**Saint peter ao forno ao molho de abóbora**](http://www.trololodemulher.com.br/2015/09/02/saint-peter/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

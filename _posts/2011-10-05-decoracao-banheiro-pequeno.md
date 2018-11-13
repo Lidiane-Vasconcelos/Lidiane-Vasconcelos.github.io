@@ -16,12 +16,12 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 
 **Veja também:**
 
-**<a href="http://www.decoracaodacasa.com/banheiro-pequeno-2/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a>**
+**[Faça seu banheiro pequeno parecer maior com 5 truques.](http://www.decoracaodacasa.com/banheiro-pequeno-2/) **
 
 &nbsp;
 
 <p align="justify">
-  Imagino que ideias de como fazer esse espaço parecer um pouquinho maior sempre te agradam, não é? Então este post serve exatamente para você, <em>viu</em>? Confira a seguir **4 dicas **de** decoração** para deixar o seu banheiro um pouquinho maior. Confira!
+  Imagino que ideias de como fazer esse espaço parecer um pouquinho maior sempre te agradam, não é? Então este post serve exatamente para você, _viu_? Confira a seguir **4 dicas **de** decoração** para deixar o seu banheiro um pouquinho maior. Confira!
 </p>
 
 <!--more-->
@@ -47,7 +47,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank">Dicas e imagens: como maximizar o banheiro.</a>**
+  **[Dicas e imagens: como maximizar o banheiro.](http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/) **
 </p>
 
 &nbsp;
@@ -77,11 +77,11 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  **<a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">5 ideias de organização do banheiro que favorecem a decoração.</a>**
+  **[5 ideias de organização do banheiro que favorecem a decoração.](http://www.decoracaodacasa.com/organizacao-do-banheiro/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a>**
+  **[Banheiro pequeno? Veja 6 ideias e ganhe espaço já!](http://www.decoracaodacasa.com/banheiro-pequeno/) **
 </p>
 
 &nbsp;
@@ -99,7 +99,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 &nbsp;
 
 <p align="justify">
-  Você já sabe que um **ambiente pequeno precisa estar bem iluminado** **para que ele não pareça assim… <em>tãããão</em> pequeno**, certo? Então, a ideia é que, se possível, **deixe a janela do seu banheiro sem qualquer cortina e, além do mais, coloque vidros transparentes nela.** Fazendo assim, toda a iluminação possível vai invadir o espaço.
+  Você já sabe que um **ambiente pequeno precisa estar bem iluminado** **para que ele não pareça assim… _tãããão_ pequeno**, certo? Então, a ideia é que, se possível, **deixe a janela do seu banheiro sem qualquer cortina e, além do mais, coloque vidros transparentes nela.** Fazendo assim, toda a iluminação possível vai invadir o espaço.
 </p>
 
 <p align="justify">
@@ -111,7 +111,7 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/" target="_blank">Decoração com cortina sem costura&#8230; e bem barata!</a>**
+  **[Decoração com cortina sem costura&#8230; e bem barata!](http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/) **
 </p>
 
 &nbsp;
@@ -141,15 +141,15 @@ A maioria de nós hoje em dia precisa lidar com espaços cada vez menores, e o *
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/" target="_blank">4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!</a>**
+  **[4 passos e sua &#8220;gaveta da bagunça&#8221; ficará impecável!](http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/) **
 </p>
 
 &nbsp;
 
-Imagens: **<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>**
+Imagens: **[Better Homes and Gardens](http://www.bhg.com/) **
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

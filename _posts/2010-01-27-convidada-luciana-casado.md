@@ -25,7 +25,7 @@ Para quem nem imagina o que passa pela cabeça de uma mulher numa posição assi
 **_Por Luciana Casado – Estudio de Ideias Decorativas_**
 
 <p style="text-align: center;">
-  **<em>&#8220;A idade certa para ter filhos&#8230; </em>**
+  **_&#8220;A idade certa para ter filhos&#8230; _**
 </p>
 
 Será que existe?! Será que eu já deveria ter ouvido o chamado do tempo me informando sobre isso?!
@@ -50,7 +50,7 @@ Eu sei que a cobrança faz parte da vida mas eu não me sinto confortável com e
 
 Ainda não tenho certeza se quero, mas quando quiser, que seja uma vontade vinda de dentro de mim, compartilhada com o _maridex_, um bebê muito desejado e no momento certo!&#8221;
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stck.xchng</a>
+Imagem: [stck.xchng](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea sobre dilemas femininos…**
 

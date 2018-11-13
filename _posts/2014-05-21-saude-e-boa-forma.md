@@ -21,7 +21,7 @@ Xiii… e agora? Essa parece ser uma equação bem difícil de ser resolvida, n�
 <!--more-->
 
 <p align="justify">
-  A **Central Fitness** tem uma proposta diferente, e inovação é o que mais explica a forma como pretendem prestar serviços para te proporcionar saúde e boa forma: oferecer um **local reservado, horário agendado e acompanhamento profissional**. Sabe a boa notícia? Tudo isso está **incluso em uma mensalidade**. É o máximo, <em>né</em> não?
+  A **Central Fitness** tem uma proposta diferente, e inovação é o que mais explica a forma como pretendem prestar serviços para te proporcionar saúde e boa forma: oferecer um **local reservado, horário agendado e acompanhamento profissional**. Sabe a boa notícia? Tudo isso está **incluso em uma mensalidade**. É o máximo, _né_ não?
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -37,7 +37,7 @@ Xiii… e agora? Essa parece ser uma equação bem difícil de ser resolvida, n�
 </p>
 
 <p align="justify">
-  Então, oh: bichas fêmeas paulistanas, essa é a hora de ficar bonitona e saudável de um jeito bem difernte de tudo que você imaginou. Curtiu? Conheça mais sobre a **Central Fitness** visitando o **<a href="http://www.dennyfitnesscenter.com.br/" target="_blank">site aqui</a>**, a **<a href="https://www.facebook.com/centralfitnesstudio?fref=ts" target="_blank">página do Facebook aqui</a>**, no endereço deles – **Rua Santa Terezinha, 362, Largo do Socorro, São Paulo** – , ou ainda pelo telefone **(11) 5523-9309**.
+  Então, oh: bichas fêmeas paulistanas, essa é a hora de ficar bonitona e saudável de um jeito bem difernte de tudo que você imaginou. Curtiu? Conheça mais sobre a **Central Fitness** visitando o **[site aqui](http://www.dennyfitnesscenter.com.br/) **, a **[página do Facebook aqui](https://www.facebook.com/centralfitnesstudio?fref=ts) **, no endereço deles – **Rua Santa Terezinha, 362, Largo do Socorro, São Paulo** – , ou ainda pelo telefone **(11) 5523-9309**.
 </p>
 
 <p align="justify">

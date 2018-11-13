@@ -10,15 +10,15 @@ categories:
   - Comportamento
   - Comportamento Feminino
 ---
-Se você me perguntar quem chegou no blog de quem, se eu no <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, editado pela Letícia ou simplesmente Lelê, ou se ela no Bicha Fêmea, nem sei mais informar…
+Se você me perguntar quem chegou no blog de quem, se eu no [Casa de Catarina](http://blog.casadecatarina.com.br/) , editado pela Letícia ou simplesmente Lelê, ou se ela no Bicha Fêmea, nem sei mais informar…
 
 Parece que foi ontem que começamos nosso _trololó bloguístico_, um vai e vem com trocas diárias, post a post, o que me rendeu o prazer de vê-la forjando aos poucos sua identidade como blogueira.
 
 Já falei para a Lelê, em conversa por _e-mail_, que ela faz parte de uma turma de blogueiras que considero da melhor qualidade. Ela é o tipo de pessoa que me ensina muito com sua sensibilidade, humanidade, simpatia, honestidade e coerência. E, de quebra, me inspira e faz brilhar meus olhos com as fofurices que andam saindo de suas mãos, e belos textos com emoção escancarada que saem de sua mente, e passam por seus dedos…
 
-Desconfio que depois da leitura desse texto você vai, sim, querer conhecer a <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>, e muito mais porque você vai se enxergar nele do que qualquer outra coisa. Qualquer semelhança com seus sentimentos, não será mera coincidência…
+Desconfio que depois da leitura desse texto você vai, sim, querer conhecer a [Casa de Catarina](http://blog.casadecatarina.com.br/) , e muito mais porque você vai se enxergar nele do que qualquer outra coisa. Qualquer semelhança com seus sentimentos, não será mera coincidência…
 
-**_Por Letícia – <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>_** 
+**_Por Letícia – [Casa de Catarina](http://blog.casadecatarina.com.br/) _** 
 
 Como todas as “Bichas Fêmeas” que por aqui passaram, me sinto lisonjeada de contribuir um pouco com este blog que adoro! A Lidiane, com a sua natureza agregadora, criou um pequeno lar delicioso para todas nós convivermos, com um _trololó_ pra lá de bom.
 

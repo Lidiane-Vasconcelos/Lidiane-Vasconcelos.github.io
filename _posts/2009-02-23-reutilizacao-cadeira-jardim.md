@@ -10,7 +10,7 @@ categories:
   - Faça Você Mesma
   - 'Varanda &amp; Jardim'
 ---
-Na casa de <a href="http://margaretss.blogspot.com/" target="_blank">Margaret</a> é assim: **cadeira também é floreira**. Não duvido de mais nada quanto a capacidade de transformação e reutilização que possa haver no senso de criatividade de uma pessoa. Fiquei encantada (e acho difícil que qualquer um não fique) com o novo uso que a Margaret deu a uma cadeira velha, que agora é uma linda e original floreira. Lembram que vimos aqui possiblidades inusitadas de **_<a href="http://www.trololodemulher.com.br/2009/02/15/objetos-novos-usos/" target="_self">objetos que poderíamos usar para cultivar lindas flores</a>_**? Pois a Margaret se superou nesse sentido. Duvidam? Ah… olhem as imagens da linda floreira, ex-cadeira…
+Na casa de [Margaret](http://margaretss.blogspot.com/)  é assim: **cadeira também é floreira**. Não duvido de mais nada quanto a capacidade de transformação e reutilização que possa haver no senso de criatividade de uma pessoa. Fiquei encantada (e acho difícil que qualquer um não fique) com o novo uso que a Margaret deu a uma cadeira velha, que agora é uma linda e original floreira. Lembram que vimos aqui possiblidades inusitadas de **_<a href="http://www.trololodemulher.com.br/2009/02/15/objetos-novos-usos/" target="_self">objetos que poderíamos usar para cultivar lindas flores</a>_**? Pois a Margaret se superou nesse sentido. Duvidam? Ah… olhem as imagens da linda floreira, ex-cadeira…
 
 Antes:
 
@@ -34,7 +34,7 @@ Agora uma nova floreira, serelepe e saltitante dividindo espaço e atenção ent
 
 A floreira mais de perto. Quem pode duvidar que o resultado não poderia ter sido melhor? Pessoalmente não me canso de achar que essa idéia foi fantástica.[<img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0016-thumb15.gif" alt="clip_image001[6]" width="23" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image001615.gif)
 
-Tão bom quanto apreciar as imagens, é a gente conferir no <a href="http://margaretss.blogspot.com/2009/02/floreira.html" target="_blank">post original</a> a historinha que a Margaret criou para explicar o processo de transformação da cadeira em floreira. Como sempre, essa blogueira querida  é muito criativa e bem humorada para contar as experiências diárias dela, então vale a pena conferir mais esse feito …
+Tão bom quanto apreciar as imagens, é a gente conferir no [post original](http://margaretss.blogspot.com/2009/02/floreira.html)  a historinha que a Margaret criou para explicar o processo de transformação da cadeira em floreira. Como sempre, essa blogueira querida  é muito criativa e bem humorada para contar as experiências diárias dela, então vale a pena conferir mais esse feito …
 
 <span style="color: #800080;">Diz aí, você já teve uma idéia inusitada de reutilização para algum objeto?</span>[<img style="display: inline;" title="clip_image001[8]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0018-thumb10.gif" alt="clip_image001[8]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image001810.gif)
 

@@ -66,12 +66,12 @@ Não tem outro jeito de apresentar esse prato, é com exagero mesmo, para combin
 &nbsp;
 
 <p align="justify">
-  A Tatiana tem um blog incrível de receitas, <em>superultramega</em> badalado e conhecidíssimo. Sua receita de sucesso só pode ser a simplicidade, porque ela é um encanto de pessoa, bem acessível, gentil e simpática. Outro segredo dela, acredito, é a forma como apresenta suas receitas: tudo de um jeito simples para que qualquer mortal possa reproduzir. Se até eu, que sou bem fraquinha na cozinha, consigo reproduzir, qualquer um pode. Então, oh: se joga no **<a href="http://www.panelaterapia.com/" target="_blank">Panelaterapia</a>** e seja feliz!
+  A Tatiana tem um blog incrível de receitas, _superultramega_ badalado e conhecidíssimo. Sua receita de sucesso só pode ser a simplicidade, porque ela é um encanto de pessoa, bem acessível, gentil e simpática. Outro segredo dela, acredito, é a forma como apresenta suas receitas: tudo de um jeito simples para que qualquer mortal possa reproduzir. Se até eu, que sou bem fraquinha na cozinha, consigo reproduzir, qualquer um pode. Então, oh: se joga no **[Panelaterapia](http://www.panelaterapia.com/) ** e seja feliz!
 </p>
 
 &nbsp;
 
-Imagens: **Tatiana,** do **<a href="http://www.panelaterapia.com/" target="_blank">Panelaterapia</a>**
+Imagens: **Tatiana,** do **[Panelaterapia](http://www.panelaterapia.com/) **
 
 &nbsp;
 
@@ -97,7 +97,7 @@ Imagens: **Tatiana,** do **<a href="http://www.panelaterapia.com/" target="_blan
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+    [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
   </p>
   
   <p>
@@ -116,13 +116,13 @@ Imagens: **Tatiana,** do **<a href="http://www.panelaterapia.com/" target="_blan
     <tr>
       <td valign="top" width="300">
         <p align="center">
-          <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+          [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
         </p>
       </td>
       
       <td valign="top" width="300">
         <p align="center">
-          <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+          [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
         </p>
       </td>
     </tr>

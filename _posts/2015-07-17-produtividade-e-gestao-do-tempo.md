@@ -17,7 +17,7 @@ categories:
 </p>
 
 <p align="justify">
-  O fato é que estamos todos competindo pra ver quem é mais ocupado. É admirável, socialmente, quando dizemos que estamos envolvidos em x projetos. Mas sempre há quem esteja dando conta de x + Y projetos e, nossa! Como ficam todos estupefatos! Aí, sim: essa pessoa é uma vencedora aos olhos de todos, porque como um ninja, ela dá conta de uma coisa aqui, e já mergulha em outra <em>acolá</em>, e seguimos todas aplaudindo esse malabarismo. Óbvio! Esse é o modelo de vida ideal de quem é bem sucedido e importante. Será?
+  O fato é que estamos todos competindo pra ver quem é mais ocupado. É admirável, socialmente, quando dizemos que estamos envolvidos em x projetos. Mas sempre há quem esteja dando conta de x + Y projetos e, nossa! Como ficam todos estupefatos! Aí, sim: essa pessoa é uma vencedora aos olhos de todos, porque como um ninja, ela dá conta de uma coisa aqui, e já mergulha em outra _acolá_, e seguimos todas aplaudindo esse malabarismo. Óbvio! Esse é o modelo de vida ideal de quem é bem sucedido e importante. Será?
 </p>
 
 <p align="justify">
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/winterrecluse/9715138616/" target="_blank">Winter Recluse Imagery</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: [Winter Recluse Imagery](https://www.flickr.com/photos/winterrecluse/9715138616/) <b> / </b>[Foter](http://foter.com/) <b> / </b>[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
 </p>
 
 <p align="justify">
@@ -53,7 +53,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">**Redes sociais e produtividade no dia a dia: qual o impacto?**</a>
+  [**Redes sociais e produtividade no dia a dia: qual o impacto?**](http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/) 
 </p>
 
 <p align="justify">
@@ -77,7 +77,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">**Vida simples: menos é mais e a gente vive melhor…**</a>
+  [**Vida simples: menos é mais e a gente vive melhor…**](http://www.trololodemulher.com.br/2015/07/03/vida-simples/) 
 </p>
 
 <p align="justify">
@@ -85,7 +85,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

@@ -14,7 +14,7 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 &nbsp;
 
 <p align="justify">
-  Tem bicha fêmea navegante que sabe, sim… e contou <em>pra</em> gente. Lendo sobre seus planos para os dias ensolarados que estão por vir, eu me senti realmente inspirada para fazer dos meus dias quentes **momentos gostosos de cuidados comigo mesma e com a vida**. Quer se inspirar também? Vai em frente!
+  Tem bicha fêmea navegante que sabe, sim… e contou _pra_ gente. Lendo sobre seus planos para os dias ensolarados que estão por vir, eu me senti realmente inspirada para fazer dos meus dias quentes **momentos gostosos de cuidados comigo mesma e com a vida**. Quer se inspirar também? Vai em frente!
 </p>
 
 <!--more-->
@@ -26,17 +26,17 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 &nbsp;
 
 <p align="justify">
-  A **Fátima Moral**, editora do blog **<a href="http://personalbuyers.blogspot.com/" target="_blank">Personal Buyers – First Class</a>**, está pensando em mudar algumas atitudes em prol do próprio corpo para desfilar serelepe, saltitante, linda e absoluta quando o sol vier com tudo. Mas essas pequenas mudanças que, com certeza, serão de grande efeito, serão colocadas em prática antes do Verão chegar. Planos para ficar mais bonita é que não faltam para essa bonita… olha só:
+  A **Fátima Moral**, editora do blog **[Personal Buyers – First Class](http://personalbuyers.blogspot.com/) **, está pensando em mudar algumas atitudes em prol do próprio corpo para desfilar serelepe, saltitante, linda e absoluta quando o sol vier com tudo. Mas essas pequenas mudanças que, com certeza, serão de grande efeito, serão colocadas em prática antes do Verão chegar. Planos para ficar mais bonita é que não faltam para essa bonita… olha só:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>1. Tomar chá verde&#8230; vou retomar minha rotina de chá verde todos os dias no meio da manhã e no meio da tarde; </em>
+>   _1. Tomar chá verde&#8230; vou retomar minha rotina de chá verde todos os dias no meio da manhã e no meio da tarde; _
 > </p>
 
 > <p align="justify">
->   <em>2. Usar um bom creme redutor&#8230; o bye bye celulite da nívea é ótimo, mas tenho dois tubos fechados da natura (bio-redutor) e vou acabar com ele;</em>
+>   _2. Usar um bom creme redutor&#8230; o bye bye celulite da nívea é ótimo, mas tenho dois tubos fechados da natura (bio-redutor) e vou acabar com ele;_
 > </p>
 
 &nbsp;
@@ -46,27 +46,27 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 </p>
 
 <p align="center">
-  <em>“…o bye bye celulite da nívea é ótimo…”</em>
+  _“…o bye bye celulite da nívea é ótimo…”_
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Natura-Chronos-Bio-Redutor.jpg"><img class="alignnone size-full wp-image-6972" title="Natura Chronos Bio Redutor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Natura-Chronos-Bio-Redutor.jpg" alt="" width="326" height="326" /></a><br /> <em>”…mas tenho dois tubos fechados da natura (bio-redutor) e vou acabar com ele.”</em>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Natura-Chronos-Bio-Redutor.jpg"><img class="alignnone size-full wp-image-6972" title="Natura Chronos Bio Redutor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Natura-Chronos-Bio-Redutor.jpg" alt="" width="326" height="326" /></a><br /> _”…mas tenho dois tubos fechados da natura (bio-redutor) e vou acabar com ele.”_
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>3. Comprar um tênis (não muito caro) para poder ir na academia do prédio. Tenho que pensar que são só 20 minutos e ir&#8230; daí quando estou na esteira&#8230; me empolgo e faço uns 50 minutos&#8230;. </em>
+>   _3. Comprar um tênis (não muito caro) para poder ir na academia do prédio. Tenho que pensar que são só 20 minutos e ir&#8230; daí quando estou na esteira&#8230; me empolgo e faço uns 50 minutos&#8230;. _
 > </p>
 
 > <p align="justify">
->   <em>4. Fazer um **<a href="http://personalbuyers.blogspot.com/2011/08/nova-parceria-clinica-de-estetica.html" target="_blank">pacote de drenagem linfática + manthus + ortomolecular</a>** com nossa terapeuta **Cynthia Fracarola;** </em>
+>   _4. Fazer um **[pacote de drenagem linfática + manthus + ortomolecular](http://personalbuyers.blogspot.com/2011/08/nova-parceria-clinica-de-estetica.html) ** com nossa terapeuta **Cynthia Fracarola;** _
 > </p>
 
 > <p align="justify">
->   <em>5. Comer muitas frutas e saladas (o difícil não é comer verduras&#8230; é parar de comer chocolates!).</em>
+>   _5. Comer muitas frutas e saladas (o difícil não é comer verduras&#8230; é parar de comer chocolates!)._
 > </p>
 
 &nbsp;
@@ -76,37 +76,37 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 </p>
 
 > <p align="justify">
->   <em>1. Usar muito protetor solar no rosto&#8230;. estou numa luta com minha pele;</em>
+>   _1. Usar muito protetor solar no rosto&#8230;. estou numa luta com minha pele;_
 > </p>
 
 > <p align="justify">
->   <em>2. Comer muito açaí com granola;</em>
+>   _2. Comer muito açaí com granola;_
 > </p>
 
 > <p align="justify">
->   <em>3. Ir muito para praia. </em>
+>   _3. Ir muito para praia. _
 > </p>
 
 > <p align="justify">
->   <em>4. Fazer uma viagem bem bacana com a família&#8230; ainda não sei para onde. Foz do Iguaçú, Beto Carrero, Itamambuca&#8230;</em>
+>   _4. Fazer uma viagem bem bacana com a família&#8230; ainda não sei para onde. Foz do Iguaçú, Beto Carrero, Itamambuca&#8230;_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Verao.jpg"><img class="alignnone size-full wp-image-6973" title="Verão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Verao.jpg" alt="" width="600" height="338" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
+  [Stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Verao.jpg"><img class="alignnone size-full wp-image-6973" title="Verão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Verao.jpg" alt="" width="600" height="338" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Pensa que é só a Fátima que está atenta aos cuidados do corpo para dar boas vindas ao Verão sentindo-se bem e mais bonita? Não mesmo! A **Vânia Pinho**, do blog **<a href="http://casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**, também está neste clima, e conta o que vai fazer quando os dias ensolarados chegarem:
+  Pensa que é só a Fátima que está atenta aos cuidados do corpo para dar boas vindas ao Verão sentindo-se bem e mais bonita? Não mesmo! A **Vânia Pinho**, do blog **[Casa de Boneca](http://casadebonecadecor.blogspot.com/) **, também está neste clima, e conta o que vai fazer quando os dias ensolarados chegarem:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>No verão eu pretendo estar mais em forma, e para isso já estou me exercitando e fechando a boca. Já estou no Vigilantes do Peso, não só pela estética mas também por uma saúde melhor.”</em>
+>   “_No verão eu pretendo estar mais em forma, e para isso já estou me exercitando e fechando a boca. Já estou no Vigilantes do Peso, não só pela estética mas também por uma saúde melhor.”_
 > </p>
 
 &nbsp;
@@ -124,7 +124,7 @@ Finalmente os **dias quentes** estão mesmo dando o ar da graça… oba! A Prima
 &nbsp;
 
 > <p align="justify">
->   “<em>Não gosto muito de tomar sol, porém as prais aqui do Recife são um convite aos olhos, por isso nesse verão vou a praia nos finais de semana apenas para apreciar o mar. Também pretendo visitar minha família no Rio de Janeiro e também no interior do Rio, pois lá recarrego minhas energias tomando muitos banhos de cachoeiras, que é a minha paixão.  Irei para a zona rural&#8230;muito verde&#8230;natureza&#8230;e belas cachoeiras!!!!”</em>
+>   “_Não gosto muito de tomar sol, porém as prais aqui do Recife são um convite aos olhos, por isso nesse verão vou a praia nos finais de semana apenas para apreciar o mar. Também pretendo visitar minha família no Rio de Janeiro e também no interior do Rio, pois lá recarrego minhas energias tomando muitos banhos de cachoeiras, que é a minha paixão.  Irei para a zona rural&#8230;muito verde&#8230;natureza&#8230;e belas cachoeiras!!!!”_
 > </p>
 
 &nbsp;

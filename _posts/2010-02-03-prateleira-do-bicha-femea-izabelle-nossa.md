@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Outra característica que parece mesmo estar arrebatando os corações da mulherada que se perde <em>blogosfera</em> afora é o estilo <em>vintage</em>, não é? Basta olhar qualquer coisa com esse traço e a gente logo pensa (ou fala mesmo…) um “<em>ownnnnnn”</em> impactante.
+  Outra característica que parece mesmo estar arrebatando os corações da mulherada que se perde _blogosfera_ afora é o estilo _vintage_, não é? Basta olhar qualquer coisa com esse traço e a gente logo pensa (ou fala mesmo…) um “_ownnnnnn”_ impactante.
 </p>
 
 <p style="text-align: justify;">
@@ -26,15 +26,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Agora, imagina comigo se a gente pudesse ter uma série de produtos que nos remetesse a um estilo carregado dessas três identidades: feminina, romântica e <em>vintage</em>? Imaginou? E se eu te disser que é possível ter acesso fácil a tudo isso, bonita? Pois, creia! A <a href="http://www.izabellenossa.com.br/blog/" target="_blank">Izabelle Nossa</a> tem tudo isso num cantinho só.
+  Agora, imagina comigo se a gente pudesse ter uma série de produtos que nos remetesse a um estilo carregado dessas três identidades: feminina, romântica e _vintage_? Imaginou? E se eu te disser que é possível ter acesso fácil a tudo isso, bonita? Pois, creia! A [Izabelle Nossa](http://www.izabellenossa.com.br/blog/)  tem tudo isso num cantinho só.
 </p>
 
 <p style="text-align: justify;">
-  Eu conheci o cantinho da Izabelle Nossa, um <a href="http://www.izabellenossa.com.br/blog/" target="_blank">blog <em>pra</em> lá de apaixonante</a>, num belo dia desses. Posso falar? É um delícia para nossos olhos, uma tentação gostosa e uma fonte de inspiração riquíssima. Foi navegando pelo blog que eu descobri que a Izabelle é uma artesã de mão cheia.
+  Eu conheci o cantinho da Izabelle Nossa, um [blog _pra_ lá de apaixonante](http://www.izabellenossa.com.br/blog/) , num belo dia desses. Posso falar? É um delícia para nossos olhos, uma tentação gostosa e uma fonte de inspiração riquíssima. Foi navegando pelo blog que eu descobri que a Izabelle é uma artesã de mão cheia.
 </p>
 
 <p style="text-align: justify;">
-  A bonita começou sua carreira como <em>inventadeira</em> de <em>fofurices</em> confeccionando bolsas, depois enveredou pelas almofadas e <em>nécessaires</em>, e por aí foi sem parar mais. Em suas lojas <a href="http://www.izabellenossa.com.br/lojavirtual/aloja.php" target="_blank">virtual</a> e real, essa baiana tão formosa também tem mimos que ela garimpa por essa vida afora, e tudo tendo alguma conexão com Paris, rosas inglesas, lavanda e tons pastéis. Dá para imaginar agora o que te espera se você fuçar o  (blog) <a href="http://www.izabellenossa.com.br/blog/" target="_blank">Izabelle Nossa</a>?
+  A bonita começou sua carreira como _inventadeira_ de _fofurices_ confeccionando bolsas, depois enveredou pelas almofadas e _nécessaires_, e por aí foi sem parar mais. Em suas lojas [virtual](http://www.izabellenossa.com.br/lojavirtual/aloja.php)  e real, essa baiana tão formosa também tem mimos que ela garimpa por essa vida afora, e tudo tendo alguma conexão com Paris, rosas inglesas, lavanda e tons pastéis. Dá para imaginar agora o que te espera se você fuçar o  (blog) [Izabelle Nossa](http://www.izabellenossa.com.br/blog/) ?
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +78,7 @@ categories:
 </table>
 
 <p style="text-align: justify;">
-  Quer mais mimos para a casa? Eu fiquei encantada com essas almofadas tão femininas. Fiquei imaginando o quanto elas tornariam a decoração do quarto, por exemplo, <em>pra</em> lá de romântica. Não são lindas?
+  Quer mais mimos para a casa? Eu fiquei encantada com essas almofadas tão femininas. Fiquei imaginando o quanto elas tornariam a decoração do quarto, por exemplo, _pra_ lá de romântica. Não são lindas?
 </p>
 
 <table align="center">
@@ -102,9 +102,9 @@ categories:
 </table>
 
 <p style="text-align: justify;">
-  Nem sei o que dizer de algo tão mimoso quanto essa <em>nécessaire</em>. Que bicha fêmea, autêntica e declarada, não gostaria de ter uma assim? <em>Pelamor</em>!!
+  Nem sei o que dizer de algo tão mimoso quanto essa _nécessaire_. Que bicha fêmea, autêntica e declarada, não gostaria de ter uma assim? _Pelamor_!!
 </p>
 
 <p style="text-align: justify;">
-  Bonita, tem tanta coisa fofa nos domínios da <a href="http://www.izabellenossa.com.br/blog/" target="_blank">Izabelle Nossa</a> que nem te conto. Fiquei meio perdida e indecisa sobre o que trazer para te mostrar, mas se você der uma olhadinha por lá vai entender bem a razão. Ô, se vai!
+  Bonita, tem tanta coisa fofa nos domínios da [Izabelle Nossa](http://www.izabellenossa.com.br/blog/)  que nem te conto. Fiquei meio perdida e indecisa sobre o que trazer para te mostrar, mas se você der uma olhadinha por lá vai entender bem a razão. Ô, se vai!
 </p>

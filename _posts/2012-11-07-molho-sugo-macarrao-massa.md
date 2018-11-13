@@ -14,7 +14,7 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 &nbsp;
 
 <p align="justify">
-  Fiz essa receita linda de viver dia desses para o almoço daqui de casa e, posso garantir, ela é <em>tudodebomedeliciosa</em>, <em>viu</em>? O marido super aprovou também. A receita já está anotadíssima no meu caderno de receitas para repetí-la outras vezes. Se eu fosse você dava uma espiadinha… duvido que você resista. Quer apostar? Confere!
+  Fiz essa receita linda de viver dia desses para o almoço daqui de casa e, posso garantir, ela é _tudodebomedeliciosa_, _viu_? O marido super aprovou também. A receita já está anotadíssima no meu caderno de receitas para repetí-la outras vezes. Se eu fosse você dava uma espiadinha… duvido que você resista. Quer apostar? Confere!
 </p>
 
 <!--more-->
@@ -36,29 +36,29 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.blogfeitoamao.com/" target="_blank">Feito a Mão</a>
+  Imagem: [Feito a Mão](http://www.blogfeitoamao.com/) 
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>“Esse molho ao sugo nasceu sem planos. Eu tinha chegado do trabalho com uma vontadezinha de jantar algo diferente, não muito calórico e que fosse rápido e simples de fazer. Dieta nos deixa enjoados, não é?</em>
+>   _“Esse molho ao sugo nasceu sem planos. Eu tinha chegado do trabalho com uma vontadezinha de jantar algo diferente, não muito calórico e que fosse rápido e simples de fazer. Dieta nos deixa enjoados, não é?_
 > </p>
 
 > <p align="justify">
->   <em>A parte mais demorada foi esperar que os 2 litros de água necessários para cozinhar a massa fervessem. Enquanto isso, fui fazendo o molho. </em>
+>   _A parte mais demorada foi esperar que os 2 litros de água necessários para cozinhar a massa fervessem. Enquanto isso, fui fazendo o molho. _
 > </p>
 
 > <p align="justify">
->   <em>Refoguei no azeite: 1 cebola roxa picada, 1 alho-poró fatiado (só a parte branca) e 3 dentes de alho pisados. Eu gosto assim, tudo junto e misturado! </em><em>Quando estavam amolecidos, juntei 10 tomates italianos pelados picados, sem sementes, deixei apurar uns 10 minutos e juntei 1 colher (sobremesa) rasa de açúcar pra quebrar a acidez, e 1/2 pimentão picado. Coloquei sal, pimenta, 1 taça de vinho tinto, 1 colher (sopa) de vinagre balsâmico e 1 colher (sopa) de extrato de tomate, pra dar esse brilho que vocês viram na foto. Deixei apurar mais uns 10 a 15 minutinhos, mexendo de vez em quando, até o molho reduzir e escurecer. Passei tudo no mixer. </em>
+>   _Refoguei no azeite: 1 cebola roxa picada, 1 alho-poró fatiado (só a parte branca) e 3 dentes de alho pisados. Eu gosto assim, tudo junto e misturado! __Quando estavam amolecidos, juntei 10 tomates italianos pelados picados, sem sementes, deixei apurar uns 10 minutos e juntei 1 colher (sobremesa) rasa de açúcar pra quebrar a acidez, e 1/2 pimentão picado. Coloquei sal, pimenta, 1 taça de vinho tinto, 1 colher (sopa) de vinagre balsâmico e 1 colher (sopa) de extrato de tomate, pra dar esse brilho que vocês viram na foto. Deixei apurar mais uns 10 a 15 minutinhos, mexendo de vez em quando, até o molho reduzir e escurecer. Passei tudo no mixer. _
 > </p>
 
 > <p align="justify">
->   <em>Teria colocado umas folhinhas de manjericão e teria sido perfeito, se não tivesse usado meu maço inteiro num molho pesto que fiz dois dias antes. </em>
+>   _Teria colocado umas folhinhas de manjericão e teria sido perfeito, se não tivesse usado meu maço inteiro num molho pesto que fiz dois dias antes. _
 > </p>
 
 > <p align="justify">
->   <em>Servi sobre uma massa fresca de cenoura, beterraba e espinafre e polvilhei queijo parmesão ralado na hora. Chamei no maçarico pra fazer um charminho e estava pronto o nosso jantar vegetariano.”</em>
+>   _Servi sobre uma massa fresca de cenoura, beterraba e espinafre e polvilhei queijo parmesão ralado na hora. Chamei no maçarico pra fazer um charminho e estava pronto o nosso jantar vegetariano.”_
 > </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 </p>
 
 <p align="justify">
-  Acompanho o blog da **Cláudia Ramalho** – **<a href="http://www.blogfeitoamao.com/" target="_blank">Feito a Mão</a>** – há um bom tempo, <em>viu</em>? Seu blog tem alma feminina, cheio de assuntos bem diversificados, do jeito que todas nós somos: meio caleidoscópicas. É lá que me inspiro sobre a vida, vejo coisas bonitas em artesanato e festas infantis, aprendo receitas novas (diferentes e práticas!) e ainda me inspiro para o mundo da maternidade que se abre a minha frente. Penso cá com meus botões que você vai curtir (demais) acompanhar essa bonitona daqui <em>pra </em>frente, hein? Quer ver só? **<a href="http://www.blogfeitoamao.com/" target="_blank">Se joga</a>**!
+  Acompanho o blog da **Cláudia Ramalho** – **[Feito a Mão](http://www.blogfeitoamao.com/) ** – há um bom tempo, _viu_? Seu blog tem alma feminina, cheio de assuntos bem diversificados, do jeito que todas nós somos: meio caleidoscópicas. É lá que me inspiro sobre a vida, vejo coisas bonitas em artesanato e festas infantis, aprendo receitas novas (diferentes e práticas!) e ainda me inspiro para o mundo da maternidade que se abre a minha frente. Penso cá com meus botões que você vai curtir (demais) acompanhar essa bonitona daqui _pra _frente, hein? Quer ver só? **[Se joga](http://www.blogfeitoamao.com/) **!
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -133,13 +133,13 @@ Uma delícia!!! Ando por aí passeando nos blogs das bichas fêmeas navegantes _
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

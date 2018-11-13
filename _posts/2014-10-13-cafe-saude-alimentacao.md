@@ -10,11 +10,11 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Não há como negar: o café é o nosso queridinho de cada dia, <em>né</em>? Na minha primeira refeição do dia, por exemplo, não sou ninguém sem uma xícara de café. Você é das minhas, bonita? A questão é: está tudo bem se ele fizer parte da nossa dieta? Dá <em>pra</em> ser saudável consumindo essa bebida? Eu tinha essas e várias outras dúvidas, então procurei ajuda para preparar um post bem informativo para todas nós.
+  Não há como negar: o café é o nosso queridinho de cada dia, _né_? Na minha primeira refeição do dia, por exemplo, não sou ninguém sem uma xícara de café. Você é das minhas, bonita? A questão é: está tudo bem se ele fizer parte da nossa dieta? Dá _pra_ ser saudável consumindo essa bebida? Eu tinha essas e várias outras dúvidas, então procurei ajuda para preparar um post bem informativo para todas nós.
 </p>
 
 <p align="justify">
-  A boa notícia é que você verá muitas informações por aqui, além de sugestões de como consumir seu café de maneira saudável, e até esclarecimentos sobre alguns mitos. Nossa **consultora em nutrição, a Pamela Miguel**, explicou <em>tim tim por tim tim</em> tudo sobre o café, de modo que com o suporte de uma especialista, fica bem melhor fazer nossas escolhas no dia a dia, não é? Essa é a ideia… aproveite!
+  A boa notícia é que você verá muitas informações por aqui, além de sugestões de como consumir seu café de maneira saudável, e até esclarecimentos sobre alguns mitos. Nossa **consultora em nutrição, a Pamela Miguel**, explicou _tim tim por tim tim_ tudo sobre o café, de modo que com o suporte de uma especialista, fica bem melhor fazer nossas escolhas no dia a dia, não é? Essa é a ideia… aproveite!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://br.pinterest.com/pin/193091902746536929/" target="_blank">Pinterest</a>
+  Imagem: [Pinterest](http://br.pinterest.com/pin/193091902746536929/) 
 </p>
 
 **Trololó de Mulher >>> Qual o problema de consumir café em excesso?**
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.lacase.mu/fr/maison-pratique/marc-de-cafe-la-solution-des-menageres-ecolos-908" target="_blank">Lacase</a>
+  Imagem: [Lacase](http://www.lacase.mu/fr/maison-pratique/marc-de-cafe-la-solution-des-menageres-ecolos-908) 
 </p>
 
 <p align="center">
@@ -100,19 +100,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes… e te direi se és saudável, ou não.**</a>
+  [**Me diz o que comes… e te direi se és saudável, ou não.**](http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank">**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**</a>
+  [**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**](http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/) 
 </p>
 
 <p align="justify">
-  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera _viu_, bonita? Para acompanhar todas as novidades e informações _superultramega_ úteis para que possamos nos alimentar melhor, espie o [blog onde há suas atualizações](http://www.drafernandagranja.com/) . Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

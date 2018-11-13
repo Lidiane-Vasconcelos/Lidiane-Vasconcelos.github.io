@@ -10,7 +10,7 @@ categories:
   - Promoção
   - Publieditorial
 ---
-Você já ouviu falar do <a href="http://chefdeboracordeiro.blogspot.com/" target="_blank"><em>MIREPOIX</em></a>? Interessante e diferente o nome, não é? Sabe o que há por trás dele? Olha só: aulas de culinária; encomendas de doces, salgados, pratos prontos, etc.; aulas-presente de culinária; apostilas gastronômicas.
+Você já ouviu falar do [_MIREPOIX_](http://chefdeboracordeiro.blogspot.com/) ? Interessante e diferente o nome, não é? Sabe o que há por trás dele? Olha só: aulas de culinária; encomendas de doces, salgados, pratos prontos, etc.; aulas-presente de culinária; apostilas gastronômicas.
 
 Ufa! E sabe quem dá conta de prestar tantos serviços personalizados e que descomplicam a vida de qualquer bicha fêmea moderna? A _Chef_ Debora Cordeiro!
 
@@ -26,9 +26,9 @@ E sabe o que é melhor? Através da parceria entre o **_Bicha Fêmea_** e o **_M
 
 Sabe do que se trata o kit? Vamos lá: **_24 forminhas para usar em cupcakes, muffins ou minibolos + 24 enfeites de papel (balãozinho e chapéu – 12 de cada) para os bolinhos que você preparar_**. Tudo isso você pode receber em casa!
 
-E você pensa que acabou por aí? Não mesmo! Além do kit, a sortuda ainda receberá, **_por e-mail, duas apostilas:_** <a href="http://apostilasgastronomicasmirepoix.blogspot.com/2010/03/apostila-de-cupcakes.html" target="_blank">**<em>apostila de cupcakes</em>**</a>** _e_** <a href="http://apostilasgastronomicasmirepoix.blogspot.com/2008/10/apostila-de-confeitaria.html" target="_blank">**<em>apostila de confeitaria</em>**</a>**_._** 
+E você pensa que acabou por aí? Não mesmo! Além do kit, a sortuda ainda receberá, **_por e-mail, duas apostilas:_** [**_apostila de cupcakes_**](http://apostilasgastronomicasmirepoix.blogspot.com/2010/03/apostila-de-cupcakes.html) ** _e_** [**_apostila de confeitaria_**](http://apostilasgastronomicasmirepoix.blogspot.com/2008/10/apostila-de-confeitaria.html) **_._** 
 
-Há uma série de apostilas, com uma infinidade de títulos, que são disponibilizadas pela Debora Cordeiro na <a href="http://apostilasgastronomicasmirepoix.blogspot.com/" target="_blank">loja virtual</a>. Se você quiser adquirir algumas delas para facilitar ainda mais a sua vida, você conta com **_10% de desconto_** nas **_compras a partir de R$ 30,00_**, com **_pagamento através de depósito em conta, até 30/Agosto_**. O desconto aumenta para **_15% se a compra for a partir de R$ 100,00_**. Basta informar o código **MIRBIC082010** na hora de fazer sua solicitação. Olha a oportunidade aí, bonita!!!
+Há uma série de apostilas, com uma infinidade de títulos, que são disponibilizadas pela Debora Cordeiro na [loja virtual](http://apostilasgastronomicasmirepoix.blogspot.com/) . Se você quiser adquirir algumas delas para facilitar ainda mais a sua vida, você conta com **_10% de desconto_** nas **_compras a partir de R$ 30,00_**, com **_pagamento através de depósito em conta, até 30/Agosto_**. O desconto aumenta para **_15% se a compra for a partir de R$ 100,00_**. Basta informar o código **MIRBIC082010** na hora de fazer sua solicitação. Olha a oportunidade aí, bonita!!!
 
 <p style="text-align: center;">
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/banner125mirepoix300.png"><img class="size-full wp-image-5037 aligncenter" title="banner125mirepoix300" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/08/banner125mirepoix300.png" alt="" width="300" height="300" /></a>
@@ -43,25 +43,25 @@ Quer aumentar as chances de ganhar? Vamos lá:
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **<em>Comentário</em>**: **<em>1 inscrição</em>**
+      **_Comentário_**: **_1 inscrição_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      Divulgação pelo **<em>blog</em>**: **<em>2 inscrições</em>**
+      Divulgação pelo **_blog_**: **_2 inscrições_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      Divulgação pelo **<em>Twitter</em>**: **<em>2 inscrições</em>**
+      Divulgação pelo **_Twitter_**: **_2 inscrições_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      Divulgação **<em>blog + Twitter: 4 inscrições</em>**, porque divulgar nos dois canais significa que você quer ganhar, <em>comtodasasforças</em> do seu ser…é ou não é?
+      Divulgação **_blog + Twitter: 4 inscrições_**, porque divulgar nos dois canais significa que você quer ganhar, _comtodasasforças_ do seu ser…é ou não é?
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ Agora, sim! Valendo!
 <table style="text-align: center;" border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/publieditorial/" target="_self">Publieditorial</a></em>** > Parceria Bicha Fêmea & Mirepoix = presente para as apaixonadas por cupcakes!
+      Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/category/publieditorial/" target="_self">Publieditorial</a>_** > Parceria Bicha Fêmea & Mirepoix = presente para as apaixonadas por cupcakes!
     </td>
   </tr>
 </table>
@@ -89,5 +89,5 @@ Agora, sim! Valendo!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

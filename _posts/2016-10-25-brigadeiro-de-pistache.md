@@ -20,7 +20,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  “<em>Não há festa de aniversário tradicional, no Brasil, sem brigadeiros, especialmente festas infantis; uma festa de aniversário brasileira sem brigadeiros é como uma festa de casamento sem um bolo: é possível, mas muito raro. Este doce é fácil de preparar, e tem uma textura macia que derrete na boca deixando um sabor delicado e doce. O brigadeiro tradicional é feito com chocolate, mas nos últimos anos têm sido desenvolvidas muitas variações deste doce, os chamados brigadeiros gourmet. Eles não têm  necessariamente o chocolate como um ingrediente, como no caso de brigadeiro de pistache, ilustrado neste post. Vamos à receita:</em>
+  “_Não há festa de aniversário tradicional, no Brasil, sem brigadeiros, especialmente festas infantis; uma festa de aniversário brasileira sem brigadeiros é como uma festa de casamento sem um bolo: é possível, mas muito raro. Este doce é fácil de preparar, e tem uma textura macia que derrete na boca deixando um sabor delicado e doce. O brigadeiro tradicional é feito com chocolate, mas nos últimos anos têm sido desenvolvidas muitas variações deste doce, os chamados brigadeiros gourmet. Eles não têm  necessariamente o chocolate como um ingrediente, como no caso de brigadeiro de pistache, ilustrado neste post. Vamos à receita:_
 </p>
 
 &nbsp;
@@ -54,20 +54,20 @@ _6 – Os brigadeiros se mantêm bem na geladeira por até 4 dias_.”
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank">**Alho assado com alecrim, pra tornar tudo especial.**</a>
+[**Alho assado com alecrim, pra tornar tudo especial.**](http://www.trololodemulher.com.br/2016/10/21/alho-assado/) 
 
-<a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank">**Sorvete caseiro de melancia para dias de sol.**</a>
+[**Sorvete caseiro de melancia para dias de sol.**](http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/) 
 
-<a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank">**Como fazer barra de cereal caseira?**</a>
+[**Como fazer barra de cereal caseira?**](http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/) 
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se **<em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em>**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se **_[I Want to be a cook](https://iwanttobeacook.wordpress.com/) _**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

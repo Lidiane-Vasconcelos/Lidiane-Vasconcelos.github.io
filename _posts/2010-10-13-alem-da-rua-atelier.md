@@ -22,7 +22,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: center;">
-  <em>Vasos de Cerâmica com Mosaico</em>
+  _Vasos de Cerâmica com Mosaico_
 </p>
 
 <p style="text-align: center;">
@@ -30,15 +30,15 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: center;">
-  <em>Tela Flores Retrô</em>
+  _Tela Flores Retrô_
 </p>
 
 <p style="text-align: justify;">
-  O Atelier da Veronica é um ponto de encontro em dois sentidos. Primeiro, porque por lá suas peças ficam expostas e arranjadas em cantinhos inspiradores. Assim, é onde se encontra tudo que de mais bonito ela produz. Tudo isso eu tenho visto diariamente em **<em><a href="http://alemdaruaatelier.blogspot.com/" target="_blank">seu blog, que leva o nome de seu atelier</a></em>**, e é onde a Vero mostra não apenas o que produz, mas divulga eventos e as peças de seus alunos. Aí é que entra o segundo sentido de seu atelier ser um ponto de encontro&#8230;
+  O Atelier da Veronica é um ponto de encontro em dois sentidos. Primeiro, porque por lá suas peças ficam expostas e arranjadas em cantinhos inspiradores. Assim, é onde se encontra tudo que de mais bonito ela produz. Tudo isso eu tenho visto diariamente em **_[seu blog, que leva o nome de seu atelier](http://alemdaruaatelier.blogspot.com/) _**, e é onde a Vero mostra não apenas o que produz, mas divulga eventos e as peças de seus alunos. Aí é que entra o segundo sentido de seu atelier ser um ponto de encontro&#8230;
 </p>
 
 <p style="text-align: justify;">
-  Sim! Para lá vão pessoas interessadas em aprender a arte da Verônica, que dá aulas de Mosaico, Pátina, Pintura Abstrata em Tela, Pintura Fria em Vasos de Cerâmica e <em>Decoupáge</em>.
+  Sim! Para lá vão pessoas interessadas em aprender a arte da Verônica, que dá aulas de Mosaico, Pátina, Pintura Abstrata em Tela, Pintura Fria em Vasos de Cerâmica e _Decoupáge_.
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: center;">
-  <em>Molduras de Espelho em Mosaico</em>
+  _Molduras de Espelho em Mosaico_
 </p>
 
 <p style="text-align: center;">
@@ -54,7 +54,7 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 </p>
 
 <p style="text-align: center;">
-  <em>Mesa Mosaico</em>
+  _Mesa Mosaico_
 </p>
 
 <p style="text-align: justify;">
@@ -74,13 +74,13 @@ Você conhece a Vila Madalena, em São Paulo? Eu ainda não conheço, mas qualqu
 **_[Prateleira do Bicha Fêmea: Coisas de Livs](http://www.trololodemulher.com.br/2010/04/07/prateleira-do-bicha-femea-coisas-de-livs/)_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">**<em>Receba gratuitamente em seu e-mail</em>**</a>!
+  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">**_Receba gratuitamente em seu e-mail_**</a>!
 </p>
 
 <p style="text-align: center;">
-  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">**<em>@bichafemea</em>**</a>.
+  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">**_@bichafemea_**</a>.
 </p>
 
 <p style="text-align: center;">
-  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>!
+  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>!
 </p>

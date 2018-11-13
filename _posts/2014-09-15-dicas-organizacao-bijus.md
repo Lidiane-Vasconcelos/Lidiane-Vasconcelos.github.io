@@ -11,11 +11,11 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Na hora de sair de casa, lá vai você tentar achar o par de brincos que imaginou que usaria, ou o colar que pensou ser perfeito para a ocasião. Mas aí, bonita, mergulhar naquele emaranhado de acessórios parece tão desesperador, ainda mais porque você não está com tempo sobrando, que logo vem a desistência. Aquele dia pedia algo diferente, mas você acabou optando pelo de sempre… <em>tsc tsc tsc</em>… a cena é familiar?
+  Na hora de sair de casa, lá vai você tentar achar o par de brincos que imaginou que usaria, ou o colar que pensou ser perfeito para a ocasião. Mas aí, bonita, mergulhar naquele emaranhado de acessórios parece tão desesperador, ainda mais porque você não está com tempo sobrando, que logo vem a desistência. Aquele dia pedia algo diferente, mas você acabou optando pelo de sempre… _tsc tsc tsc_… a cena é familiar?
 </p>
 
 <p align="justify">
-  Não criemos pânico! A ideia desse post é oferecer alternativas simples, práticas, bonitas e funcionais para você colocar suas lindinhas em ordem e, de quebra, acessá-las de maneira eficiente na próxima vez em que for se embonecar. Ninguém merece bijus misturadas num <em>vuco-vuco</em> sem fim, <em>né</em>? <em>Bóra</em> mudar esse quadro, já?! Então, vem!
+  Não criemos pânico! A ideia desse post é oferecer alternativas simples, práticas, bonitas e funcionais para você colocar suas lindinhas em ordem e, de quebra, acessá-las de maneira eficiente na próxima vez em que for se embonecar. Ninguém merece bijus misturadas num _vuco-vuco_ sem fim, _né_? _Bóra_ mudar esse quadro, já?! Então, vem!
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  Aqui você vê um porta-jóias muito bem acabado e todo fechadinho, <em>né</em>? Use esse tipo de peça para guardar seus acessórios que são usados com menos frequência. Uma caixa assim organiza e até decora, não é verdade? Eu não tenho algo assim, e devo confessar, fiquei vivendo de vontade de ter uma. Quem disse que os posts que edito não me inspiram também?!
+  Aqui você vê um porta-jóias muito bem acabado e todo fechadinho, _né_? Use esse tipo de peça para guardar seus acessórios que são usados com menos frequência. Uma caixa assim organiza e até decora, não é verdade? Eu não tenho algo assim, e devo confessar, fiquei vivendo de vontade de ter uma. Quem disse que os posts que edito não me inspiram também?!
 </p>
 
 <p align="justify">
@@ -67,27 +67,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/" target="_blank">**5 dicas para organizar seus produtos de beleza.**</a>
+  [**5 dicas para organizar seus produtos de beleza.**](http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/02/16/ideias-organizar-esmaltes/" target="_blank">**5 ideias para organizar esmaltes.**</a>
+  [**5 ideias para organizar esmaltes.**](http://www.trololodemulher.com.br/2011/02/16/ideias-organizar-esmaltes/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/" target="_blank">**Dicas para organizar sua maquiagem.**</a>
+  [**Dicas para organizar sua maquiagem.**](http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
 </p>
 
 &nbsp;

@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  É por essas e outras que amo passear por blogs, sejam eles nacionais ou não. O que a gente vê de ideia bacana de **decoração de natal** não é brincadeira, <em>viu</em>? Foi justamente isso o que pensei quando esbarrei nessa sugestão: reutilizar uma janela velha para compor um cantinho de Natal com tanto bom gosto. Vivi de amores pela ideia, e desconfio que você vai curtir também. Vem comigo e inspire-se!
+  É por essas e outras que amo passear por blogs, sejam eles nacionais ou não. O que a gente vê de ideia bacana de **decoração de natal** não é brincadeira, _viu_? Foi justamente isso o que pensei quando esbarrei nessa sugestão: reutilizar uma janela velha para compor um cantinho de Natal com tanto bom gosto. Vivi de amores pela ideia, e desconfio que você vai curtir também. Vem comigo e inspire-se!
 </p>
 
 <p align="center">
@@ -39,17 +39,17 @@ categories:
 </p>
 
 <p align="justify">
-  Para ver mais fotos desse espaço tão bem ornamentado, visite o post original no blog OH EVERYTHING HANDMADE, <a href="http://www.oheverythinghandmade.com/reveal-fireplace-mantel-christmas-decor/" target="_blank">aqui</a>.
+  Para ver mais fotos desse espaço tão bem ornamentado, visite o post original no blog OH EVERYTHING HANDMADE, [aqui](http://www.oheverythinghandmade.com/reveal-fireplace-mantel-christmas-decor/) .
 </p>
 
 <p align="justify">
-  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank">**Clique aqui e confira**</a>!
+  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. [**Clique aqui e confira**](http://www.trololodemulher.com.br/category/natal/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>

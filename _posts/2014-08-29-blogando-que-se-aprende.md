@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagem: [freeimages](http://www.freeimages.com/) 
 </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **“Ideias simples para uma casa mais leve”** é um post editado pela **Camile Carvalho**, do blog **Vida Minimalista**, daqueles que prendem minha atenção de cara. Adotei como resolução de vida tornar meus dias menos acelerados e leves. Quero cultivar uma existência sem excessos em vários aspectos, e dentre eles está o de ter uma casa destralhada, sem acúmulos. Se você compartilha dessa ideia comigo, tenho certeza que vai achar o post da Camile bem interessante. Para ver o post da moça é só <a href="http://vidaminimalista.com/ideias-simples-para-uma-casa-mais-leve/comment-page-1/#comment-32494" target="_blank">clicar aqui e se jogar</a>. Vai!
+  **“Ideias simples para uma casa mais leve”** é um post editado pela **Camile Carvalho**, do blog **Vida Minimalista**, daqueles que prendem minha atenção de cara. Adotei como resolução de vida tornar meus dias menos acelerados e leves. Quero cultivar uma existência sem excessos em vários aspectos, e dentre eles está o de ter uma casa destralhada, sem acúmulos. Se você compartilha dessa ideia comigo, tenho certeza que vai achar o post da Camile bem interessante. Para ver o post da moça é só [clicar aqui e se jogar](http://vidaminimalista.com/ideias-simples-para-uma-casa-mais-leve/comment-page-1/#comment-32494) . Vai!
 </p>
 
 &nbsp;
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">**Se sua casa estiver em ordem, não duvide: você ficará bem.**</a>
+  [**Se sua casa estiver em ordem, não duvide: você ficará bem.**](http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/) 
 </p>
 
 &nbsp;
@@ -66,16 +66,16 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **“Farofa do amor”** é uma delícia preparada pela **Juliana Stelli**, a cozinheira que comanda as panelas do blog **Pitadinha**. Bati os olhos e cismei de reproduzí-la em casa porque o marido ama farofa mas, veja bem, esta versão tem cenoura. Este item deixa a farofa linda de viver… mas o marido não curte vegetais. Arrisquei… e deu certo! Não é que ele curtiu com cenoura e tudo? Mas é que, oh: fica muito bom! Experimenta! <a href="http://www.pitadinha.com/2014/07/farofa-do-amor.html" target="_blank">Veja a receita da Ju bem aqui, oh</a>.
+  **“Farofa do amor”** é uma delícia preparada pela **Juliana Stelli**, a cozinheira que comanda as panelas do blog **Pitadinha**. Bati os olhos e cismei de reproduzí-la em casa porque o marido ama farofa mas, veja bem, esta versão tem cenoura. Este item deixa a farofa linda de viver… mas o marido não curte vegetais. Arrisquei… e deu certo! Não é que ele curtiu com cenoura e tudo? Mas é que, oh: fica muito bom! Experimenta! [Veja a receita da Ju bem aqui, oh](http://www.pitadinha.com/2014/07/farofa-do-amor.html) .
 </p>
 
 &nbsp;
 
 **Mais dicas para você:**
 
-<a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage (no molho caseiro)**</a>
+[**Canelone de berinjela + queijo cottage (no molho caseiro)**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
 
-<a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank">**Arroz integral (fora do comum) + filé de frango (no molho delícia)**</a>
+[**Arroz integral (fora do comum) + filé de frango (no molho delícia)**](http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/) 
 
 &nbsp;
 
@@ -88,23 +88,23 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **“Como organizar o seu tempo: no ateliê e na vida”** é um post <em>superultramega</em> útil para quem trabalha por conta própria, como é o meu caso, ou não, o que talvez possa ser o seu. Ou seja: seu conteúdo é muito importante pra sua vida, e merece, sim, o seu clique. Ele foi escrito pela **Joana Ludwig**, uma moça muito bonita e inteligente que presta consultorias para quem quer ser dona do próprio negócio <em>craft.</em> Ela publicou este post no **blog do Elo7** e, <a href="http://blog.elo7.com.br/2014/08/como-organizar-seu-tempo-no-atelie-e-na-vida.html#comment-36317" target="_blank">se você quiser espiar, basta clicar aqui</a>.
+  **“Como organizar o seu tempo: no ateliê e na vida”** é um post _superultramega_ útil para quem trabalha por conta própria, como é o meu caso, ou não, o que talvez possa ser o seu. Ou seja: seu conteúdo é muito importante pra sua vida, e merece, sim, o seu clique. Ele foi escrito pela **Joana Ludwig**, uma moça muito bonita e inteligente que presta consultorias para quem quer ser dona do próprio negócio _craft._ Ela publicou este post no **blog do Elo7** e, [se você quiser espiar, basta clicar aqui](http://blog.elo7.com.br/2014/08/como-organizar-seu-tempo-no-atelie-e-na-vida.html#comment-36317) .
 </p>
 
 &nbsp;
 
 **Quer ler mais sobre empreendedorismo?**
 
-<a href="http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/" target="_blank">**Trabalho: o que é mais importante na hora de empreender?**</a>
+[**Trabalho: o que é mais importante na hora de empreender?**](http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/) 
 
-<a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">**O que faz uma mãe decidir pelo trabalho autônomo?**</a>
+[**O que faz uma mãe decidir pelo trabalho autônomo?**](http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/) 
 
-<a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank">**Qual é o mistério do sucesso de Margaret?**</a>
+[**Qual é o mistério do sucesso de Margaret?**](http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

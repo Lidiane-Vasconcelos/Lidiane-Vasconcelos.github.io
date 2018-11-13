@@ -22,11 +22,11 @@ Depois de ler as dicas e orientações da Nutricionista, você vai descobrir o q
 &nbsp;
 
 <p align="justify">
-  De acordo com a Dra. Ingrid, “<em>o azeite de oliva é o óleo extraído a partir das azeitonas, fruto das oliveiras. Ele é rico em gorduras monoinsaturadas, como o ácido graxo oléico, e pobre em saturadas, razão pela qual é considerado um alimento “amigo do peito”. Isso porque o ácido graxo oléico diminui o risco de oxidação do LDL (o “mau colesterol”) e aumenta os níveis de HDL (o “bom colesterol”)</em>”.
+  De acordo com a Dra. Ingrid, “_o azeite de oliva é o óleo extraído a partir das azeitonas, fruto das oliveiras. Ele é rico em gorduras monoinsaturadas, como o ácido graxo oléico, e pobre em saturadas, razão pela qual é considerado um alimento “amigo do peito”. Isso porque o ácido graxo oléico diminui o risco de oxidação do LDL (o “mau colesterol”) e aumenta os níveis de HDL (o “bom colesterol”)_”.
 </p>
 
 <p align="justify">
-  Essas propriedades, ainda de acordo com nossa consultora, ajuda a prevenir a “<em>aterosclerose, que é o depósito de gordura na parede das artérias e que pode provocar angina, infarto, AVC isquêmico ou hemorrágico e derrame</em>.” Vale ainda acrescentar que “<em>ele possui uma substância chamada oleuropeína, que aumenta a quantidade de osteoblastos, células formadoras ósseas, o que previne a osteoporose</em>”.
+  Essas propriedades, ainda de acordo com nossa consultora, ajuda a prevenir a “_aterosclerose, que é o depósito de gordura na parede das artérias e que pode provocar angina, infarto, AVC isquêmico ou hemorrágico e derrame_.” Vale ainda acrescentar que “_ele possui uma substância chamada oleuropeína, que aumenta a quantidade de osteoblastos, células formadoras ósseas, o que previne a osteoporose_”.
 </p>
 
 <p align="justify">
@@ -34,13 +34,13 @@ Depois de ler as dicas e orientações da Nutricionista, você vai descobrir o q
 </p>
 
 > <p align="justify">
->   “<em>O que diferencia os tipos de azeite de oliva é o seu grau de acidez. Quanto menor o grau de acidez, maior a quantidade de compostos fenólicos, as substâncias antioxidantes e antiinflamatórias.”</em>
+>   “_O que diferencia os tipos de azeite de oliva é o seu grau de acidez. Quanto menor o grau de acidez, maior a quantidade de compostos fenólicos, as substâncias antioxidantes e antiinflamatórias.”_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/AZEITE-SAUDE.jpg"><img class="alignnone size-full wp-image-9407" alt="AZEITE-SAUDE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/AZEITE-SAUDE.jpg" width="600" height="600" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/AZEITE-SAUDE.jpg"><img class="alignnone size-full wp-image-9407" alt="AZEITE-SAUDE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/AZEITE-SAUDE.jpg" width="600" height="600" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -72,7 +72,7 @@ Depois de ler as dicas e orientações da Nutricionista, você vai descobrir o q
 &nbsp;
 
 > <p align="justify">
->   “<em>Para desfrutar de todos esses benefícios, bastam duas colheres de sopa por dia. De preferência, utilize-o para temperar saladas e finalizar pratos quentes, e evite utilizá-lo nas preparações, pois em contato com o calor ele perde grande parte de suas qualidades nutricionais.”</em>
+>   “_Para desfrutar de todos esses benefícios, bastam duas colheres de sopa por dia. De preferência, utilize-o para temperar saladas e finalizar pratos quentes, e evite utilizá-lo nas preparações, pois em contato com o calor ele perde grande parte de suas qualidades nutricionais.”_
 > </p>
 
 &nbsp;
@@ -84,7 +84,7 @@ Depois de ler as dicas e orientações da Nutricionista, você vai descobrir o q
 &nbsp;
 
 <p align="justify">
-  Olha aí a armadilha, bonita! É fácil a gente achar que pode usar e abusar no cosumo, mas não é bem assim. Segundo a Dra. Ingrid, “<em>para quem quer perder peso, é importante se atentar à quantidade consumida, pois apesar de saudável, o azeite é bastante calórico: cada grama oferece 9 calorias. Uma colher de chá já é suficiente para tornar seu organismo menos resistente à perda de peso, além de ajudar a diminuir a circunferência abdominal, já que ele evita que a gordura se deposite na linha da cintura. E a preocupação não é somente com a estética, já que uma barriga avantajada dificulta a ação da insulina, podendo levar ao diabetes tipo 2.”.</em>
+  Olha aí a armadilha, bonita! É fácil a gente achar que pode usar e abusar no cosumo, mas não é bem assim. Segundo a Dra. Ingrid, “_para quem quer perder peso, é importante se atentar à quantidade consumida, pois apesar de saudável, o azeite é bastante calórico: cada grama oferece 9 calorias. Uma colher de chá já é suficiente para tornar seu organismo menos resistente à perda de peso, além de ajudar a diminuir a circunferência abdominal, já que ele evita que a gordura se deposite na linha da cintura. E a preocupação não é somente com a estética, já que uma barriga avantajada dificulta a ação da insulina, podendo levar ao diabetes tipo 2.”._
 </p>
 
 &nbsp;
@@ -96,7 +96,7 @@ Depois de ler as dicas e orientações da Nutricionista, você vai descobrir o q
 &nbsp;
 
 <p align="justify">
-  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank">**seu blog clicando bem aqui**</a>. Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid** pelo**Facebook**, através de sua **<em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em>**. Vai perder?
+  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em [**seu blog clicando bem aqui**](http://www.nutricionistaingrid.com.br/) . Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid** pelo**Facebook**, através de sua **_[fanpage](http://www.facebook.com/nutri.ingrid.prior) _**. Vai perder?
 </p>
 
 &nbsp;
@@ -158,7 +158,7 @@ Depois de ler as dicas e orientações da Nutricionista, você vai descobrir o q
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -173,13 +173,13 @@ Depois de ler as dicas e orientações da Nutricionista, você vai descobrir o q
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

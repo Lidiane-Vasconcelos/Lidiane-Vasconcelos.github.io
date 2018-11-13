@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank">**Por menos festa infantil espetáculo, e mais festa afetiva.**</a>
+  [**Por menos festa infantil espetáculo, e mais festa afetiva.**](http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/) 
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  **1 &#8211; Corujas**, via <a href="http://www.minhasdikas.com/2013/11/cha-de-bebe-corujas.html" target="_blank">Minhas Dikas</a>
+  **1 &#8211; Corujas**, via [Minhas Dikas](http://www.minhasdikas.com/2013/11/cha-de-bebe-corujas.html) 
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  **2 &#8211; Arco-íris**, via <a href="http://karaspartyideas.com/2012/05/rainbow-april-showers-birthday-party.html" target="_blank">Karas Party Ideas</a>
+  **2 &#8211; Arco-íris**, via [Karas Party Ideas](http://karaspartyideas.com/2012/05/rainbow-april-showers-birthday-party.html) 
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  **3 &#8211; Fadas**, via <a href="http://www.popsugar.com/moms/Fairy-Themed-Birthday-Party-30775635#photo-30775662" target="_blank">Popsugar</a>
+  **3 &#8211; Fadas**, via [Popsugar](http://www.popsugar.com/moms/Fairy-Themed-Birthday-Party-30775635#photo-30775662) 
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/23/festa-para-meninas/" target="_blank">**{ dance } Festa para meninas crescidinhas: dicas e ideias.**</a>
+  [**{ dance } Festa para meninas crescidinhas: dicas e ideias.**](http://www.trololodemulher.com.br/2016/08/23/festa-para-meninas/) 
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  **4 &#8211; Jardim**, via <a href="http://catchmyparty.com/photos/1977705" target="_blank">Catch My Party</a>
+  **4 &#8211; Jardim**, via [Catch My Party](http://catchmyparty.com/photos/1977705) 
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  **5 &#8211; Borboletas**, via <a href="http://www.lilblueboo.com/2010/10/butterfly-birthday-party-made-easy.html" target="_blank">Ashley Hackshaw</a>
+  **5 &#8211; Borboletas**, via [Ashley Hackshaw](http://www.lilblueboo.com/2010/10/butterfly-birthday-party-made-easy.html) 
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  **6 &#8211; Joaninhas**, via <a href="http://catchmyparty.com/parties/little-ladybugs-in-the-woods" target="_blank">Catch My Party</a>
+  **6 &#8211; Joaninhas**, via [Catch My Party](http://catchmyparty.com/parties/little-ladybugs-in-the-woods) 
 </p>
 
 <p align="justify">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/17/festa-infantil-do-balao/" target="_blank">**Festa infantil do balão: ideias lindas de viver.**</a>
+  [**Festa infantil do balão: ideias lindas de viver.**](http://www.trololodemulher.com.br/2016/02/17/festa-infantil-do-balao/) 
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p align="center">
-  **7 &#8211; Abelhinhas**, via <a href="http://babies.constancezahn.com/festa-da-abelhinha/" target="_blank">Constance Zahn</a>
+  **7 &#8211; Abelhinhas**, via [Constance Zahn](http://babies.constancezahn.com/festa-da-abelhinha/) 
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  **8 &#8211; Bailarina**, via <a href="http://blog.hwtm.com/2014/04/tiny-dancer-ballerina-birthday-party/" target="_blank">Hostess with the Mostess</a>
+  **8 &#8211; Bailarina**, via [Hostess with the Mostess](http://blog.hwtm.com/2014/04/tiny-dancer-ballerina-birthday-party/) 
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="center">
-  **9 &#8211; Matrioska**, via <a href="http://babies.constancezahn.com/aniversario-de-matrioska/" target="_blank">Constance Zahn</a>
+  **9 &#8211; Matrioska**, via [Constance Zahn](http://babies.constancezahn.com/aniversario-de-matrioska/) 
 </p>
 
 <p align="justify">
@@ -115,11 +115,11 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/12/04/festa-infantil-de-picnic/" target="_blank">Ideias simples para uma festa infantil de pic-nic.</a>**
+  **[Ideias simples para uma festa infantil de pic-nic.](http://www.trololodemulher.com.br/2015/12/04/festa-infantil-de-picnic/) **
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

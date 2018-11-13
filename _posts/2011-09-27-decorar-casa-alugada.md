@@ -9,7 +9,7 @@ permalink: /2011/09/27/decorar-casa-alugada/
 categories:
   - Publieditorial
 ---
-Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jovem sem imóvel próprio… conhece essa situação? Uma das primeiras providências é realizar uma busca por **<a href="http://www.olx.com.br/casa-apartamento-para-aluguel-cat-363" target="_blank">casas para alugar</a>**, não é verdade?
+Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jovem sem imóvel próprio… conhece essa situação? Uma das primeiras providências é realizar uma busca por **[casas para alugar](http://www.olx.com.br/casa-apartamento-para-aluguel-cat-363) **, não é verdade?
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jov
 <!--more-->
 
 <p align="justify">
-  O <em>apertamento</em> onde morei por 3 anos até vir para a casa onde estou hoje era bem pequenininho… <em>inho</em> mesmo! A ideia é de que era algo transitório, mas até que a gente materializasse o sonho da casa própria, tínhamos que ter um espaço gostoso e habitável, ainda que pequeno.
+  O _apertamento_ onde morei por 3 anos até vir para a casa onde estou hoje era bem pequenininho… _inho_ mesmo! A ideia é de que era algo transitório, mas até que a gente materializasse o sonho da casa própria, tínhamos que ter um espaço gostoso e habitável, ainda que pequeno.
 </p>
 
 <p align="justify">
@@ -28,19 +28,19 @@ Não faz tanto tempo assim, eu comecei uma vida em comum com o marido. Casal jov
 </p>
 
 <p align="justify">
-  * **É melhor <em>usar cores claras</em>, suaves ou o popular <em>soft</em> nas nossas <em>paredes</em>.**
+  * **É melhor _usar cores claras_, suaves ou o popular _soft_ nas nossas _paredes_.**
 </p>
 
 <p align="justify">
-  *** Sobre móveis, a exemplo de uma mesa de centro de sala, prefira uma que **<em>permita a visão do chão abaixo dela</em>**, para dar a sensação do óbvio: mais chão no ambiente.**
+  *** Sobre móveis, a exemplo de uma mesa de centro de sala, prefira uma que **_permita a visão do chão abaixo dela_**, para dar a sensação do óbvio: mais chão no ambiente.**
 </p>
 
 <p align="justify">
-  * **Com relação aos <em>móveis </em>que seriam mais adequados, a sugestão é a de escolhê-los com<em> linhas</em> mais<em> retas</em>, em detrimento dos que têm formatos mais pomposos, porque num ambiente pequeno o efeito dos móveis muito cheio de detalhes é de que ele (o ambiente) está cheio. **
+  * **Com relação aos _móveis _que seriam mais adequados, a sugestão é a de escolhê-los com_ linhas_ mais_ retas_, em detrimento dos que têm formatos mais pomposos, porque num ambiente pequeno o efeito dos móveis muito cheio de detalhes é de que ele (o ambiente) está cheio. **
 </p>
 
 <p align="justify">
-  *** Use e abuse de <em>prateleiras</em>. Você poderá <em>colocá-las sob medida</em> e planejar como arrumá-las de acordo com suas necessidades.**
+  *** Use e abuse de _prateleiras_. Você poderá _colocá-las sob medida_ e planejar como arrumá-las de acordo com suas necessidades.**
 </p>
 
 <p align="center">

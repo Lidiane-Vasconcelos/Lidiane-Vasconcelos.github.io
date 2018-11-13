@@ -11,7 +11,7 @@ categories:
   - Bem-estar
 ---
 <p align="justify">
-  Agora quem conhece direitinho essa diferença, sentida na pele, é a Adriana Minhoto. Você sabe, <em>né</em>? É ela quem nos conta tudinho sobre como é a vida por lá, em terras da <em>friolândia</em>, <em>ops</em>, da Finlândia. E o que a Dri constatou é que, embora as temperaturas tenham ficado mais amenas, não chega nem perto, nem em sonho, do calorzinho que vivenciamos aqui no Brasil. Há outras diferenças também, e ela revela <em>tim tim por tim tim pra</em> gente. Acompanha:
+  Agora quem conhece direitinho essa diferença, sentida na pele, é a Adriana Minhoto. Você sabe, _né_? É ela quem nos conta tudinho sobre como é a vida por lá, em terras da _friolândia_, _ops_, da Finlândia. E o que a Dri constatou é que, embora as temperaturas tenham ficado mais amenas, não chega nem perto, nem em sonho, do calorzinho que vivenciamos aqui no Brasil. Há outras diferenças também, e ela revela _tim tim por tim tim pra_ gente. Acompanha:
 </p>
 
 > <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>**Tulipas**</em>
+  _**Tulipas**_
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>**Mais flores**</em>
+  _**Mais flores**_
 </p>
 
 > <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>**Ás 22h**</em>
+  _**Ás 22h**_
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>**Ás 23h**</em>
+  _**Ás 23h**_
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>**Ás 24h**</em>
+  _**Ás 24h**_
 </p>
 
 > <p align="justify">
@@ -92,20 +92,20 @@ categories:
 
 **Mais sobre a Finlândia, por Adriana Minhoto:**
 
-<a href="http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/" target="_blank">**Dri… de volta pra Finlândia.**</a>
+[**Dri… de volta pra Finlândia.**](http://www.trololodemulher.com.br/2015/05/15/dri-de-volta-pra-finlandia/) 
 
-<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank">**Tanto tempo longe da família e amigos… quem aguenta?**</a>
+[**Tanto tempo longe da família e amigos… quem aguenta?**](http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/) 
 
-<a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank">**Se você fosse mãe lá na Finlândia…**</a>
+[**Se você fosse mãe lá na Finlândia…**](http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/) 
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/">clicar aqui e se jogar</a>! Vai! Ah! O**Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [página no Facebook, viu? Já curtiu?](http://entrevodkaecachaca.blogspot.fi/">clicar aqui e se jogar</a>! Vai! Ah! O**Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts)  Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p style="text-align: justify;">

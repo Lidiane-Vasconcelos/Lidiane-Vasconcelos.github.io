@@ -37,11 +37,11 @@ Queremos ficar com a beleza em dia e nem por isso gastar com o que é desceness�
 
 **Tudo a ver:**
 
-<a href="http://www.trololodemulher.com.br/2013/07/08/dicas-beleza/" target="_blank">Pele, boca e olhos bonitos: dicas e truques de especialista</a>
+[Pele, boca e olhos bonitos: dicas e truques de especialista](http://www.trololodemulher.com.br/2013/07/08/dicas-beleza/) 
 
-<a href="http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/" target="_blank">Sabe aquela amiga que sabe dar dicas de maquiagem?</a>
+[Sabe aquela amiga que sabe dar dicas de maquiagem?](http://www.trololodemulher.com.br/2012/09/24/dicas-de-maquiagem-2/) 
 
-<a href="http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/" target="_blank">Beleza…só no trololó: segredos das blogueiras</a>
+[Beleza…só no trololó: segredos das blogueiras](http://www.trololodemulher.com.br/2011/12/19/beleza-dicas-blogueiras/) 
 
 &nbsp;
 
@@ -61,11 +61,11 @@ Queremos ficar com a beleza em dia e nem por isso gastar com o que é desceness�
 
 **Tudo a ver:**
 
-<a href="http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/" target="_blank">Esmalte, batom e sombra: uma explosão de cores no Bicha Fêmea</a>
+[Esmalte, batom e sombra: uma explosão de cores no Bicha Fêmea](http://www.trololodemulher.com.br/2011/11/21/esmalte-batom-sombra-cores/) 
 
-<a href="http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/" target="_blank">Dicas de maquiagem para um visual “melhor impossível!”</a>
+[Dicas de maquiagem para um visual “melhor impossível!”](http://www.trololodemulher.com.br/2011/10/03/dicas-de-maquiagem/) 
 
-<a href="http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/" target="_blank">Maquiagem: dicas, truques e pitacos by bichas fêmeas navegantes</a>
+[Maquiagem: dicas, truques e pitacos by bichas fêmeas navegantes](http://www.trololodemulher.com.br/2011/08/17/maquiagem-dicas-truques/) 
 
 &nbsp;
 
@@ -91,16 +91,16 @@ Queremos ficar com a beleza em dia e nem por isso gastar com o que é desceness�
 
 &nbsp;
 
-Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">Joice Fogassi</a>**** é o seu lugar. Se joga e <a href="http://joicemicropigmentacaomaquiagem.blogspot.com.br/" target="_blank">clica aqui</a>****…
+Preciso dizer que acompanhar o blog da Joice é certeza de conteúdo informativo, de qualidade, e escrito para todas nós, mulheres com necessidades bem reais. O que a gente quer é se ver no conteúdo de um blog, certo? Então o blog [Joice Fogassi](http://joicemicropigmentacaomaquiagem.blogspot.com.br/) **** é o seu lugar. Se joga e [clica aqui](http://joicemicropigmentacaomaquiagem.blogspot.com.br/) ****…
 
 &nbsp;
 
-Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+Imagem: [free images](http://www.freeimages.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -117,13 +117,13 @@ Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -132,5 +132,5 @@ Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p style="text-align: justify;" align="justify">
-  Para a casa, para os pequenos ou para você: quero te mostrar esta Prateleira do** Trololó de Mulher** re-che-a-da de lindezas que derretem corações femininos e maternos. Os parceiros comerciais do blog arrasam, sim, e quero te mostrar <em>tim por tim tim</em> o porquê… confira!
+  Para a casa, para os pequenos ou para você: quero te mostrar esta Prateleira do** Trololó de Mulher** re-che-a-da de lindezas que derretem corações femininos e maternos. Os parceiros comerciais do blog arrasam, sim, e quero te mostrar _tim por tim tim_ o porquê… confira!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 &nbsp;
@@ -34,7 +34,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Quem não viveria de amores pelas cadernetas do <a href="http://www.elo7.com.br/vicapracasa" target="_blank">Studio Vica</a> {<a href="https://www.facebook.com/studiovica/timeline" target="_blank">Fanpage no Facebook</a>}, gente? Um mimo artesanal que é lindo, estiloso e útil. Dá pra não viver de amores por eles?
+  Quem não viveria de amores pelas cadernetas do [Studio Vica](http://www.elo7.com.br/vicapracasa)  {[Fanpage no Facebook](https://www.facebook.com/studiovica/timeline) }, gente? Um mimo artesanal que é lindo, estiloso e útil. Dá pra não viver de amores por eles?
 </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Vermelho suavizado pelo branco vira uma nova cor, o rosa, mais docinho e terno. Conjuntinho lindo de viver pra sair da maternidade, mas também para passear, tirar fotos e encher os olhos da mãe de amor quando a bebê crescer. Essa gostosura é da <a href="https://www.facebook.com/Beb%C3%AA-Cotton-763563123754005/" target="_blank">Bebê Cotton</a> {<a href="https://www.facebook.com/Beb%C3%AA-Cotton-763563123754005/timeline" target="_blank">Fanpage no Facebook</a>}.
+  Vermelho suavizado pelo branco vira uma nova cor, o rosa, mais docinho e terno. Conjuntinho lindo de viver pra sair da maternidade, mas também para passear, tirar fotos e encher os olhos da mãe de amor quando a bebê crescer. Essa gostosura é da [Bebê Cotton](https://www.facebook.com/Beb%C3%AA-Cotton-763563123754005/)  {[Fanpage no Facebook](https://www.facebook.com/Beb%C3%AA-Cotton-763563123754005/timeline) }.
 </p>
 
 &nbsp;
@@ -66,7 +66,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Móveis de pallet para área de lazer que foram usados em um dos episódios do programa <em>**Mais Cor, Por Favor! &#8211; GNT**</em>, com pegada de sustentabilidade: amamos &#8230; e eles são da <a href="https://www.facebook.com/artesanatoscarlos/" target="_blank">Carllos Criações</a> {<a href="https://www.facebook.com/artesanatoscarlos/timeline" target="_blank">Fanpage no Facebook</a>}, viu?
+  Móveis de pallet para área de lazer que foram usados em um dos episódios do programa _**Mais Cor, Por Favor! &#8211; GNT**_, com pegada de sustentabilidade: amamos &#8230; e eles são da [Carllos Criações](https://www.facebook.com/artesanatoscarlos/)  {[Fanpage no Facebook](https://www.facebook.com/artesanatoscarlos/timeline) }, viu?
 </p>
 
 &nbsp;
@@ -81,7 +81,7 @@ categories:
 
 &nbsp;
 
-_OMG_! Quanta fofura junta numa foto só, gente! Essas lindezinhas da fazenda são da <a href="https://www.facebook.com/detalhesemfoco/" target="_blank">Detalhes em Foco</a> {<a href="https://www.facebook.com/detalhesemfoco/timeline" target="_blank">Fanpage no Facebook</a>}.
+_OMG_! Quanta fofura junta numa foto só, gente! Essas lindezinhas da fazenda são da [Detalhes em Foco](https://www.facebook.com/detalhesemfoco/)  {[Fanpage no Facebook](https://www.facebook.com/detalhesemfoco/timeline) }.
 
 &nbsp;
 
@@ -95,10 +95,10 @@ _OMG_! Quanta fofura junta numa foto só, gente! Essas lindezinhas da fazenda s�
 
 &nbsp;
 
-Que tal essa ideia? Caixas personalizáveis para você rechear de doçuras e presentear de um jeito diferente nesta Páscoa. Essas belezinhas farão a alegria das professoras de Artur por aqui. Quer elas por aí também? Elas são da <a href="http://dalulojinha.divitae.com.br/home" target="_blank">DaLu Lojinha</a> {<a href="https://www.facebook.com/DaLuLojinha/timeline" target="_blank">Fanpage no Facebook</a>}, viu?
+Que tal essa ideia? Caixas personalizáveis para você rechear de doçuras e presentear de um jeito diferente nesta Páscoa. Essas belezinhas farão a alegria das professoras de Artur por aqui. Quer elas por aí também? Elas são da [DaLu Lojinha](http://dalulojinha.divitae.com.br/home)  {[Fanpage no Facebook](https://www.facebook.com/DaLuLojinha/timeline) }, viu?
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

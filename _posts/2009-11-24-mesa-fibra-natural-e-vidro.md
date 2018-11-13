@@ -38,5 +38,5 @@ Agora, vem cá! Você tem alguma dúvida de que eu gostaria de ler tua opinião 
 [**_Decoração em salas de estar e de jantar para inspiração._**](http://www.trololodemulher.com.br/2009/04/12/salas-de-estar-e-de-jantar-sofisticadas-para-inspirao/)
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
 </p>

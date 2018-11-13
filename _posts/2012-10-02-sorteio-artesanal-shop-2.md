@@ -52,7 +52,7 @@ Pois é… chegou o dia de a gente saber quem foi a sortuda que levará uma **[t
 &nbsp;
 
 <p align="justify">
-  Pois é… aguardei as cenas seguintes dos capítulos e a protagonista, <em>ops</em>, ganhadora do sorteio não apareceu…<em>fuén</em>!!!
+  Pois é… aguardei as cenas seguintes dos capítulos e a protagonista, _ops_, ganhadora do sorteio não apareceu…_fuén_!!!
 </p>
 
 <p align="justify">

@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  Cobogós são blocos de louça vazados, e funcionam muito bem como uma opção leve de separação de ambientes, já que permitem a passagem de luminosidade e ar. A estrutura, por si só, é linda de viver e cria uma <em>bossa</em> incrível no ambiente. Inspire-se!
+  Cobogós são blocos de louça vazados, e funcionam muito bem como uma opção leve de separação de ambientes, já que permitem a passagem de luminosidade e ar. A estrutura, por si só, é linda de viver e cria uma _bossa_ incrível no ambiente. Inspire-se!
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Por <a href="https://www.vivadecora.com.br/foto/42478/biombo-para-separar-ambientes-integrados" target="_blank">Isabela Bethonico, via VivaDecora</a>
+  Por [Isabela Bethonico, via VivaDecora](https://www.vivadecora.com.br/foto/42478/biombo-para-separar-ambientes-integrados) 
 </p>
 
 <p align="justify">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="justify">
-  A opção pela <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank">cortina</a> é uma saída bastante simples para a separação de espaços, porque a sua instalação não interfere na estrutura da casa ou apartamento. A escolha do tecido fica de acordo com o estilo dos moradores, que vai desde o delicado ou refinado, até o ousado, passando pela possibilidade de imprimir rusticidade também. Fica a dica!
+  A opção pela [cortina](http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/)  é uma saída bastante simples para a separação de espaços, porque a sua instalação não interfere na estrutura da casa ou apartamento. A escolha do tecido fica de acordo com o estilo dos moradores, que vai desde o delicado ou refinado, até o ousado, passando pela possibilidade de imprimir rusticidade também. Fica a dica!
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank">Cortinas: como escolher?</a>
+  [Cortinas: como escolher?](http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/) 
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.staciedwardsblog.ca/2010/12/sarah-tommy.html" target="_blank">Staci Etwards</a>
+  Via [Staci Etwards](http://www.staciedwardsblog.ca/2010/12/sarah-tommy.html) 
 </p>
 
 <p align="justify">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

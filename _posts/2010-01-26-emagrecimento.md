@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **<em>EMAGRECIMENTO E ORGANIZAÇÃO</em>**
+  **_EMAGRECIMENTO E ORGANIZAÇÃO_**
 </p>
 
 Esse é um aspecto muito importante para quem está em busca de um peso magro. Emagrecer e se manter magro, depende de um conjunto de ações que só você que é o principal interessado, pode alcançar. E a organização faz parte deste contexto, bem como a perda de peso.<!--more-->
@@ -86,7 +86,7 @@ Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a 
 </p>
 
 <p style="text-align: justify;">
-  Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  Imagem: **[stock.xchng](http://www.sxc.hu/) **
 </p>
 
 <p style="text-align: justify;">
@@ -95,7 +95,7 @@ Uma dica para quem realmente quer vencer esse processo, é buscar medidas que a 
 
 Psicóloga &#8211; Curitiba
 
-<a href="http://www.comportamentomagro.com.br" target="_blank">WWW.comportamentomagro.com.br</a>
+[WWW.comportamentomagro.com.br](http://www.comportamentomagro.com.br) 
 
 <p style="text-align: center;">
   **Quer ver seu texto publicado como o de uma bicha fêmea colaboradora? Clique <a href="http://www.trololodemulher.com.br/colabore/">aqui</a> e saiba como!**
@@ -105,11 +105,11 @@ Psicóloga &#8211; Curitiba
   **Mais no Bicha Fêmea&#8230;**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2010/01/13/bicha-fmea-colaboradora-luciana-kotaka/" target="_self">**<em>Comer bem para viver melhor.</em>**</a>
+<a href="http://www.trololodemulher.com.br/2010/01/13/bicha-fmea-colaboradora-luciana-kotaka/" target="_self">**_Comer bem para viver melhor._**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-para-automotivacao-na-pratica-de-exercicios-fisicos/" target="_self">**<em>Dicas para automotivação na prática de exercícios físicos.</em>**</a>
+<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-para-automotivacao-na-pratica-de-exercicios-fisicos/" target="_self">**_Dicas para automotivação na prática de exercícios físicos._**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/02/07/4-razes-para-voc-tomar-caf-da-manh-mas-um-caf-completo-hein/" target="_self">**<em>4 razões para você tomar café da manhã. Mas um café completo, hein?</em>**</a>
+<a href="http://www.trololodemulher.com.br/2009/02/07/4-razes-para-voc-tomar-caf-da-manh-mas-um-caf-completo-hein/" target="_self">**_4 razões para você tomar café da manhã. Mas um café completo, hein?_**</a>
 
 **_<a href="http://www.trololodemulher.com.br/2010/06/28/emagrecimento-expectativas/" target="_self">Expectativas reais: você tem?</a>_**
 
@@ -117,7 +117,7 @@ Psicóloga &#8211; Curitiba
 
 **As bichas fêmeas falam&#8230;**
 
-Dicas por parte das bichas fêmeas navegantes não faltam por aqui. Ainda bem! A Luma &#8211; <a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party!</a> &#8211; deixou alguns _pitacos_ infalíveis, que funcionam com ela, e podem funcionar conosco também, sabia? Olha só:
+Dicas por parte das bichas fêmeas navegantes não faltam por aqui. Ainda bem! A Luma &#8211; [Luz de Luma, yes party!](http://luzdeluma.blogspot.com/)  &#8211; deixou alguns _pitacos_ infalíveis, que funcionam com ela, e podem funcionar conosco também, sabia? Olha só:
 
 &#8220;_Evitar bebidas que contém cafeína para não aumentar a ansiedade e não ir ao supermercado com fome. São duas dicas que garanto, dão resultado!&#8230;&#8221;_
 
@@ -167,6 +167,6 @@ Gorduras: 5,2 g_
 
 _Receita extraída do livro: Anonymus Gourmet &#8211; Receitas da Família de José Antonio Pinheiros Machado. Editora: L&PM Pocket_
   
-_PS:_ <a href="http://www.minhavida.com.br/conteudo/1684-Barrinha-de-cereais.htm?utm_source=news_mv_rec&amp;utm_medium=10_01_27&amp;utm_term=dest&amp;utm_content=tem1&amp;utm_campaign=barrinha_cereal" target="_blank"><em>Receita</em></a> _extraida do site_ <a href="http://www.minhavida.com.br/" target="_blank"><em>MINHA VIDA</em></a>_.&#8221;_
+_PS:_ [_Receita_](http://www.minhavida.com.br/conteudo/1684-Barrinha-de-cereais.htm?utm_source=news_mv_rec&amp;utm_medium=10_01_27&amp;utm_term=dest&amp;utm_content=tem1&amp;utm_campaign=barrinha_cereal)  _extraida do site_ [_MINHA VIDA_](http://www.minhavida.com.br/) _.&#8221;_
 
 Depois dessa, é ou não é para eu amar esse canto virtual aqui??

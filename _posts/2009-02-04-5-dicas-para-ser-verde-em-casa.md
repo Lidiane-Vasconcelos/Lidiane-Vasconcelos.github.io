@@ -16,7 +16,7 @@ categories:
 
 E se a postura ecologicamente correta também significa economia nas contas domésticas? Tanto melhor!
 
-Foi no blog “<a href="http://www.conceitoecologico.blogspot.com/" target="_blank">Conceito Ecológico</a>”, através <a href="http://conceitoecologico.blogspot.com/2009/01/10-dicas-eco.html" target="_blank">deste post</a>, que vi algumas dicas de como adotar um comportamento amigável com a natureza no dia-a-dia. Isto, sem virar um “bicho grilo ecochato”, e de quebra, ajudando a sobrar mais um dinheirinho na conta&#8230; _cof cof cof_ &#8230;[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0019.gif)
+Foi no blog “[Conceito Ecológico](http://www.conceitoecologico.blogspot.com/) ”, através [deste post](http://conceitoecologico.blogspot.com/2009/01/10-dicas-eco.html) , que vi algumas dicas de como adotar um comportamento amigável com a natureza no dia-a-dia. Isto, sem virar um “bicho grilo ecochato”, e de quebra, ajudando a sobrar mais um dinheirinho na conta&#8230; _cof cof cof_ &#8230;[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0019.gif)
 
 Trouxe algumas dessas dicas para a gente dar uma olhada e ver se podemos aplicá-las a nossa rotina. Olha só:
 

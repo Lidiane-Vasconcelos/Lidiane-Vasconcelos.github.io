@@ -14,7 +14,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="justify">
-  Por essa razão é que nasceu esse post, cuja edição ficou <em>TO-TAL-MEN-TE</em> recheada de dicas de profissional… sabe quem? A **Heidi Lanzellotti**, que é **Maquiadora e Instrutora de Automaquiagem**. Ela dá dicas exclusivas por aqui, daquelas IM-PER-DÍ-VEIS! Confere!
+  Por essa razão é que nasceu esse post, cuja edição ficou _TO-TAL-MEN-TE_ recheada de dicas de profissional… sabe quem? A **Heidi Lanzellotti**, que é **Maquiadora e Instrutora de Automaquiagem**. Ela dá dicas exclusivas por aqui, daquelas IM-PER-DÍ-VEIS! Confere!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>Sim, faz muita diferença. A diferença se dá pelo fato da aplicação ser mais homogênea, e com os diferentes tipos de pinceis, você consegue diferentes efeitos</em>.”
+>   “_Sim, faz muita diferença. A diferença se dá pelo fato da aplicação ser mais homogênea, e com os diferentes tipos de pinceis, você consegue diferentes efeitos_.”
 > </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>**Pincel de base** – Eu conheço dois tipos: o **língua de gato [1]**, aquele com **cerdas compridinhas e firmes**, e o **duo fiber [2]**, que pra mim **é o melhor pra aplicar a base**. </em><em>A diferença entre os dois: o pincel **duo fiber** teoricamente é confeccionado com fibras naturais e sintéticas, em diferentes tamanhos, o que proporciona aplicação do produto na medida certa. Enquanto o **língua de gato** você aplica a base em **movimento de baixo pra cima e de dentro pra fora**, o **duo fiber** você aplica a base em **movimentos circulares**, e **é isso que faz a aplicação ser mais homogênea**. Tem muita maquiadora que usa os dois, um para efetivamente aplicar e o outro pra polir (espalhar melhor).”</em>
+>   “_**Pincel de base** – Eu conheço dois tipos: o **língua de gato [1]**, aquele com **cerdas compridinhas e firmes**, e o **duo fiber [2]**, que pra mim **é o melhor pra aplicar a base**. __A diferença entre os dois: o pincel **duo fiber** teoricamente é confeccionado com fibras naturais e sintéticas, em diferentes tamanhos, o que proporciona aplicação do produto na medida certa. Enquanto o **língua de gato** você aplica a base em **movimento de baixo pra cima e de dentro pra fora**, o **duo fiber** você aplica a base em **movimentos circulares**, e **é isso que faz a aplicação ser mais homogênea**. Tem muita maquiadora que usa os dois, um para efetivamente aplicar e o outro pra polir (espalhar melhor).”_
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>**Pincel de corretivo** – **M**</em><em>**enor do que o de base,** **parecido com o língua de gato**. **O tamanho dele fica entre o de base e o de sombra.** Ele é menor pois na hora de aplicar o corretivo tem que ser pontual</em>.”
+>   “_**Pincel de corretivo** – **M**__**enor do que o de base,** **parecido com o língua de gato**. **O tamanho dele fica entre o de base e o de sombra.** Ele é menor pois na hora de aplicar o corretivo tem que ser pontual_.”
 > </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>**Pincel de sombra** – Tem de tudo quanto é tipo e tamanho, tem **aplicador de sombra, para o côncavo e esfumador**. O **aplicador pode ser o tradicional espuminha [1]**, a maioria não gosta, talvez porque o utilizam de forma errada. Enfim, **o segredo é aplicar e não espalhar a sombra com ele**. Os de **cerdas [2]** é que realmente são melhores. **Tem os mais firmes e os mais soltos**, costumo dizer que são fofinhos (…rsrsrs…). **Na hora de escolher** tem que ter em mente que **os mais firmes aplicam mais produto, enquanto os mais fofinhos aplicam menos produtos, por esse motivo os mais fofinhos são usados para esfumar (espalhar a sombra).** Os de **côncavo** são aqueles que tem um formato que lembra um lápis, por isso também é conhecido como** ponta de lápis [3]**. **Devido ao formato ele consegue marcar o côncavo, que é aquela dobrinha que temos na pálpebra**. Em relação ao tamanho, aí vai depender da área em que você vai usar, os menores para áreas pequenas, os maiores para as áreas maiores (lógico). O **pincel chanfrado [4]**  também é um pincel de sombra, e **é usado pra delinear os olhos com a própria sombra, por isso tem que ser um um pincel com cerdas firmes**</em>.”
+>   “_**Pincel de sombra** – Tem de tudo quanto é tipo e tamanho, tem **aplicador de sombra, para o côncavo e esfumador**. O **aplicador pode ser o tradicional espuminha [1]**, a maioria não gosta, talvez porque o utilizam de forma errada. Enfim, **o segredo é aplicar e não espalhar a sombra com ele**. Os de **cerdas [2]** é que realmente são melhores. **Tem os mais firmes e os mais soltos**, costumo dizer que são fofinhos (…rsrsrs…). **Na hora de escolher** tem que ter em mente que **os mais firmes aplicam mais produto, enquanto os mais fofinhos aplicam menos produtos, por esse motivo os mais fofinhos são usados para esfumar (espalhar a sombra).** Os de **côncavo** são aqueles que tem um formato que lembra um lápis, por isso também é conhecido como** ponta de lápis [3]**. **Devido ao formato ele consegue marcar o côncavo, que é aquela dobrinha que temos na pálpebra**. Em relação ao tamanho, aí vai depender da área em que você vai usar, os menores para áreas pequenas, os maiores para as áreas maiores (lógico). O **pincel chanfrado [4]**  também é um pincel de sombra, e **é usado pra delinear os olhos com a própria sombra, por isso tem que ser um um pincel com cerdas firmes**_.”
 > </p>
 
 &nbsp;
@@ -78,7 +78,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>**Pincel de pó e pincel de blush** – A única diferença é o tamanho, uma vez que o de **pó[1]**  você aplica numa área maior e o de **blush [2]** mais pontualmente. Tem **pincel chanfrado [3] **também para blush, e esse **dá um efeito mais natural**</em>**.**”
+>   “_**Pincel de pó e pincel de blush** – A única diferença é o tamanho, uma vez que o de **pó[1]**  você aplica numa área maior e o de **blush [2]** mais pontualmente. Tem **pincel chanfrado [3] **também para blush, e esse **dá um efeito mais natural**_**.**”
 > </p>
 
 &nbsp;
@@ -92,7 +92,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>Tem também o **leque ou fan**, é muito **usado para retirar o excesso de sombra que cai enquanto você está aplicando a sombra**. Se você passar a mão pra tirar acaba borrando tudo. Esse pincel pode ser **usado também pra aplicar o iluminador em pó**, pois como é um pincel com poucas cerdas acaba pegando pouco produto e,  no caso do iluminador, o excesso pode deixar um aspecto de pele oleosa</em>.”
+>   “_Tem também o **leque ou fan**, é muito **usado para retirar o excesso de sombra que cai enquanto você está aplicando a sombra**. Se você passar a mão pra tirar acaba borrando tudo. Esse pincel pode ser **usado também pra aplicar o iluminador em pó**, pois como é um pincel com poucas cerdas acaba pegando pouco produto e,  no caso do iluminador, o excesso pode deixar um aspecto de pele oleosa_.”
 > </p>
 
 &nbsp;
@@ -104,7 +104,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>Esses são os que não podem faltar pra quem faz a própria maquiagem. Mas tem também pincel para **lábios [1]**, pincel **delineador (esse está ganhando espaço com os delineadores em gel) [2]**, pincel para **cílios [3]**, pincel para **sobrancelhas[4]**.”</em>
+>   “_Esses são os que não podem faltar pra quem faz a própria maquiagem. Mas tem também pincel para **lábios [1]**, pincel **delineador (esse está ganhando espaço com os delineadores em gel) [2]**, pincel para **cílios [3]**, pincel para **sobrancelhas[4]**.”_
 > </p>
 
 &nbsp;
@@ -116,7 +116,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>Na hora de comprar deve ser observado a **maciez das cerdas**, **quanto mais macio melhor**, pois não agridem a pele, e tentar** observar também se as** **cerdas não soltam**</em>.”
+>   “_Na hora de comprar deve ser observado a **maciez das cerdas**, **quanto mais macio melhor**, pois não agridem a pele, e tentar** observar também se as** **cerdas não soltam**_.”
 > </p>
 
 &nbsp;
@@ -128,7 +128,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 > <p align="justify">
->   “<em>Indicar uma marca, na minha opinião, é injusto, pois nem todo mundo tem grana pra investir, acho que a pessoa tem que ir até a loja e experimentar os pincéis. Uma **opção bem baratinha** é a marca **Macrilan**, mas alguns kits ainda têm aquelas cerdas duras, normalmente os mais antigos e baratinhos. Para quem tem dinheiro pra investir, tem os pinceis da **Contém 1g, Boticário, Mary Kay, Mac, Sigma, Klass Vough, Real Techiniques**. Tem também as marcas que são encontradas em qalquer perfumaria: **Prada, Marco Boni e Belliz. Esta última é a que eu mais gosto**. Mas dessas marcas só vejo pinceis avulsos, não sei se comercializam kits.”</em>
+>   “_Indicar uma marca, na minha opinião, é injusto, pois nem todo mundo tem grana pra investir, acho que a pessoa tem que ir até a loja e experimentar os pincéis. Uma **opção bem baratinha** é a marca **Macrilan**, mas alguns kits ainda têm aquelas cerdas duras, normalmente os mais antigos e baratinhos. Para quem tem dinheiro pra investir, tem os pinceis da **Contém 1g, Boticário, Mary Kay, Mac, Sigma, Klass Vough, Real Techiniques**. Tem também as marcas que são encontradas em qalquer perfumaria: **Prada, Marco Boni e Belliz. Esta última é a que eu mais gosto**. Mas dessas marcas só vejo pinceis avulsos, não sei se comercializam kits.”_
 > </p>
 
 &nbsp;
@@ -142,7 +142,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 &nbsp;
 
 <p align="justify">
-  A **Heidi** é uma querida que edita um **<a href="http://heidilanzellotti.wordpress.com/" target="_blank">blog</a>** cheio de informações, novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta **<a href="http://heidilanzellotti.wordpress.com/" target="_blank">clicar aqui</a>** e se jogar no blog dessa moça bonita, talentosa e que escreve de um jeito bem didático, para qualquer uma de nós entender tudo diretinho…vai lá!
+  A **Heidi** é uma querida que edita um **[blog](http://heidilanzellotti.wordpress.com/) ** cheio de informações, novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio _cá_ com meus botões que esse assunto te interessa bastante, basta **[clicar aqui](http://heidilanzellotti.wordpress.com/) ** e se jogar no blog dessa moça bonita, talentosa e que escreve de um jeito bem didático, para qualquer uma de nós entender tudo diretinho…vai lá!
 </p>
 
 <p align="center">
@@ -194,7 +194,7 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -209,13 +209,13 @@ Depois do **_[trololó todo que o assunto rendeu](http://www.trololodemulher.com
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

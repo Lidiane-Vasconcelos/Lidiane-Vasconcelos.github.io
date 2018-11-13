@@ -10,7 +10,7 @@ categories:
   - Escritório
 ---
 <p style="text-align: justify;">
-  Navegando por aí encontrei o espaço Habitué. Textos simples e concisos ao analisar as imagens postadas. Ótimo! Por lá vi muitas coisas legais e separei alguma ideias pensando em um <em>home office</em>:
+  Navegando por aí encontrei o espaço Habitué. Textos simples e concisos ao analisar as imagens postadas. Ótimo! Por lá vi muitas coisas legais e separei alguma ideias pensando em um _home office_:
 </p>
 
 <p style="text-align: center;">
@@ -30,5 +30,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

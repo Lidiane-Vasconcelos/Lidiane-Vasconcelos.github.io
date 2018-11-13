@@ -18,11 +18,11 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
 <!--more-->
 
 <p style="text-align: center;">
-  **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/flor.jpg"><img class="alignnone size-full wp-image-5322" title="flor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/flor.jpg" alt="" width="625" height="417" /></a></em>**
+  **_<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/flor.jpg"><img class="alignnone size-full wp-image-5322" title="flor" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/flor.jpg" alt="" width="625" height="417" /></a>_**
 </p>
 
 <p style="text-align: center;">
-  **<em>Crie um ambiente romântico e feminino com velas aromáticas.</em>**
+  **_Crie um ambiente romântico e feminino com velas aromáticas._**
 </p>
 
 <p style="text-align: justify;">
@@ -30,11 +30,11 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
 </p>
 
 <p style="text-align: justify;">
-  Numa loja de R$ 1,99 você certamente encontrará recipientes de vidro onde as velas aromáticas possam ser acomodadas e <em>voilá</em>! Você vai notar algo diferente no seu quarto… vai, sim!
+  Numa loja de R$ 1,99 você certamente encontrará recipientes de vidro onde as velas aromáticas possam ser acomodadas e _voilá_! Você vai notar algo diferente no seu quarto… vai, sim!
 </p>
 
 <p style="text-align: center;">
-  **<em>Exponha mimos decorativos.</em>**
+  **_Exponha mimos decorativos._**
 </p>
 
 <p style="text-align: justify;">
@@ -51,27 +51,27 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank">Quadro Cenário Bolsinha</a></em>**
+        **_[Quadro Cenário Bolsinha](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/) _**
       </p>
       
       <div style="text-align: justify;">
-        <em>Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu ambiente, hã?! </em><em> </em>
+        _Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu ambiente, hã?! __ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em><em>O quadro está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
+        _ __O quadro está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> _[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/) _!_
       </div>
     </td>
   </tr>
@@ -79,27 +79,27 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank">Aparador de Porta Scarpin</a></em>**
+        **_[Aparador de Porta Scarpin](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/) _**
       </p>
       
       <div style="text-align: justify;">
-        <em>Porta batendo a toa no quarto, por causa do vento, e dando susto? Por favor! Alguém merece? Agora imagina se isso pudesse ser evitado com muito estilo? Hein?! </em><em> </em>
+        _Porta batendo a toa no quarto, por causa do vento, e dando susto? Por favor! Alguém merece? Agora imagina se isso pudesse ser evitado com muito estilo? Hein?! __ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em><em>O aparador está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank">**basta clicar**</a></em><em>!</em>
+        _ __O aparador está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> [**basta clicar**](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/) __!_
       </div>
     </td>
     
@@ -110,7 +110,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
 </table>
 
 <p style="text-align: center;">
-  **<em>Coloque um ponto de cor na decoração do ambiente.</em>**
+  **_Coloque um ponto de cor na decoração do ambiente._**
 </p>
 
 <p style="text-align: justify;">
@@ -118,15 +118,15 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
 </p>
 
 <p style="text-align: center;">
-  **<em>Traga aconchego ao quarto, além de feminilidade, com cortinas na janela.</em>**
+  **_Traga aconchego ao quarto, além de feminilidade, com cortinas na janela._**
 </p>
 
 <p style="text-align: justify;">
-  Já imaginou o efeito de uma cortina de tecido fino, como o <em>voil</em>? Sim, qualquer pessoa reconhece que um quarto fica muito mais convidativo ao descanso ou namoro com esse recurso, não é? E por que você não resolveu essa pendência decorativa ainda, hein?
+  Já imaginou o efeito de uma cortina de tecido fino, como o _voil_? Sim, qualquer pessoa reconhece que um quarto fica muito mais convidativo ao descanso ou namoro com esse recurso, não é? E por que você não resolveu essa pendência decorativa ainda, hein?
 </p>
 
 <p style="text-align: right;">
-  **<em>Sugestão para arrematar sua cortina com charme, estilo e romantismo…</em>**
+  **_Sugestão para arrematar sua cortina com charme, estilo e romantismo…_**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -137,27 +137,27 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">**<em>Móbile Primavera</em>** </a>
+        [**_Móbile Primavera_** ](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/) 
       </p>
       
       <div style="text-align: justify;">
-        <em>Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com um toque floral e muito… muito romântico? Fofurice pouca é bobagem! Use a imaginação e encha a casa de mimos! </em>
+        _Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com um toque floral e muito… muito romântico? Fofurice pouca é bobagem! Use a imaginação e encha a casa de mimos! _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em><em>O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">**<em>basta clicar</em>**</a><em>!</em>
+        _ __O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> _[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/) _!_
       </div>
     </td>
   </tr>
@@ -166,7 +166,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
  
 
 <p style="text-align: center;">
-  **<em>Use espelhos para decorar o quarto.</em>**
+  **_Use espelhos para decorar o quarto._**
 </p>
 
 <p style="text-align: justify;">
@@ -177,7 +177,7 @@ Sim! O quarto é um dos espaços mais queridos quando a gente pensa em decoraç�
   Agora é sua vez de deixar sua sugestão. Que tal? Você tem uma ideia barata, bonita e feminina para o quarto? Então conta nos comentários…
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 **_Mais no Bicha Fêmea…_**
 
@@ -192,13 +192,13 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 **_[Ideias para a decoração de quartos.](http://www.trololodemulher.com.br/2009/03/05/decoracao-quarto/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> **<em><a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">Quartos</a></em>**> Decoração do quarto: ideias elegantes, femininas e baratas!
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> **_<a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">Quartos</a>_**> Decoração do quarto: ideias elegantes, femininas e baratas!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

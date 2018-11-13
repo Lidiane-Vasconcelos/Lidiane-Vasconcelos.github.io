@@ -28,16 +28,16 @@ categories:
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>É preciso **ser muito disciplinada e organizada**, pois home office tem muitas armadilhas como a **perda de foco  e o excesso de trabalho**, podendo muitas vezes ultrapassar o horário oficial de trabalho</em>.”
+    “_É preciso **ser muito disciplinada e organizada**, pois home office tem muitas armadilhas como a **perda de foco  e o excesso de trabalho**, podendo muitas vezes ultrapassar o horário oficial de trabalho_.”
   </p>
 </blockquote>
 
 <p style="text-align: justify;">
-  Isso é verdade! Simone que o diga! A editora do blog <a href="http://newsespacohome.blogspot.com/" target="_blank">ORGANIZAÇÃO COM ESTILO BY ESPAÇO HOME</a> não faz <em>home office</em> hoje em dia, mas já fez por muito tempo. Ela, que é mãe, considera que **estar perto dos filhos** é um dos privilégios de quem trabalha assim.
+  Isso é verdade! Simone que o diga! A editora do blog [ORGANIZAÇÃO COM ESTILO BY ESPAÇO HOME](http://newsespacohome.blogspot.com/)  não faz _home office_ hoje em dia, mas já fez por muito tempo. Ela, que é mãe, considera que **estar perto dos filhos** é um dos privilégios de quem trabalha assim.
 </p>
 
 <p style="text-align: justify;">
-  Qual é a mãe que não gostaria de equacionar trabalho e cuidado da família dessa forma? Atender a necessidade de fazer algo mais além do cuidado exclusivo com casa e família,  ao passo que acompanha as coisas de perto sem ter que delegar tudo a terceiros, através do <em>home office</em>, parece ser a solução perfeita, não é?
+  Qual é a mãe que não gostaria de equacionar trabalho e cuidado da família dessa forma? Atender a necessidade de fazer algo mais além do cuidado exclusivo com casa e família,  ao passo que acompanha as coisas de perto sem ter que delegar tudo a terceiros, através do _home office_, parece ser a solução perfeita, não é?
 </p>
 
 <p style="text-align: justify;">
@@ -45,15 +45,15 @@ categories:
 </p>
 
 > <p style="text-align: justify;">
->   “<em>Realmente a **disciplina é um fator importante** para se ter um bom desempenho. **Estipular horário para trabalhar** também é importante, pois muitas vezes, por estar em casa, você trabalha mais do que deve (ou menos). Tenha **hora para começar, almoçar e terminar**. Logicamente, isso é flexível, pois tem dias que há mais ou menos serviço do que outros. Outro artifício que usava é me **“desapegar” das coisas da casa**, ou seja, muitas vezes as crianças faziam aquele lanchinho da tarde e consequentemente a cozinha ficava bagunçada, então eu “fazia de conta que não era comigo”, fechava os olhos e ia trabalhar para, depois, no “final” do expediente, ir arrumar a cozinha. Na minha opinião há muito mais vantagens do que desvantagens trabalhar em casa. É **econômico, ecológico** (pois não precisa usar o carro para ir trabalhar), **menos desgastante e se tem o privilégio de ficar perto da família**. Porém, viver o **dia-a-dia da empresa traz milhares de informações que você não obtém ao trabalhar em casa**, acredito que o **ideal seria um meio termo**, ou seja, que o trabalhador ocupasse alguns dias do mês para visitar a empresa que trabalha para sentir as dificuldades e habilidades que a empresa possui. Uma outra desvantagem é o “**confinamento**”, você não tem “colegas de trabalho”, almoça sozinho etc, sair para trabalhar e se desligar da rotina da casa é algo “relaxante” as vezes não é mesmo?”</em>
+>   “_Realmente a **disciplina é um fator importante** para se ter um bom desempenho. **Estipular horário para trabalhar** também é importante, pois muitas vezes, por estar em casa, você trabalha mais do que deve (ou menos). Tenha **hora para começar, almoçar e terminar**. Logicamente, isso é flexível, pois tem dias que há mais ou menos serviço do que outros. Outro artifício que usava é me **“desapegar” das coisas da casa**, ou seja, muitas vezes as crianças faziam aquele lanchinho da tarde e consequentemente a cozinha ficava bagunçada, então eu “fazia de conta que não era comigo”, fechava os olhos e ia trabalhar para, depois, no “final” do expediente, ir arrumar a cozinha. Na minha opinião há muito mais vantagens do que desvantagens trabalhar em casa. É **econômico, ecológico** (pois não precisa usar o carro para ir trabalhar), **menos desgastante e se tem o privilégio de ficar perto da família**. Porém, viver o **dia-a-dia da empresa traz milhares de informações que você não obtém ao trabalhar em casa**, acredito que o **ideal seria um meio termo**, ou seja, que o trabalhador ocupasse alguns dias do mês para visitar a empresa que trabalha para sentir as dificuldades e habilidades que a empresa possui. Uma outra desvantagem é o “**confinamento**”, você não tem “colegas de trabalho”, almoça sozinho etc, sair para trabalhar e se desligar da rotina da casa é algo “relaxante” as vezes não é mesmo?”_
 > </p>
 
 <p style="text-align: justify;">
-  A Joana, que edita o blog <a href="http://joanacampos1.blogspot.com/" target="_blank">De mim pra você e… De você pra mim</a> , também faz o seu trabalho a partir de casa. Decidiu fazê-lo por conta própria e tocar o seu negócio de casa mesmo. É ela quem explica a razão da decisão, além de falar das delícias e dissabores dessa escolha, assim como qualquer escolha que se faça na vida…
+  A Joana, que edita o blog [De mim pra você e… De você pra mim](http://joanacampos1.blogspot.com/)  , também faz o seu trabalho a partir de casa. Decidiu fazê-lo por conta própria e tocar o seu negócio de casa mesmo. É ela quem explica a razão da decisão, além de falar das delícias e dissabores dessa escolha, assim como qualquer escolha que se faça na vida…
 </p>
 
 > <p style="text-align: justify;">
->   “…<em>a principal vantagem de estar trabalhando em casa para mim, é poder **estar com meus filhos o dia todo**&#8230; curtir a evolução deles, ensinar a tarefa da escola, saber quem são os amiguinhos deles&#8230;. se eles aparecem com uma palavrinha nova no vocabulário eu sei de onde eles aprenderam etc&#8230; O meu filhote mais velho eu entreguei nas mãos da babá (que até hoje ele chama de mãe) com um mês e 20 dias de idade&#8230;. e hoje vemos  atos na personalidade dele, que não veio de nós e sim da babá&#8230; que é uma graça de pessoa&#8230;.mas que não é a mesma coisa que mãe. Mas tem outras vantagens tipo: se precisar, **posso trabalhar até mais tarde**, sem a preocupação de ter que ir embora, para dispensar a empregada, ou para fugir do horário de trânsito pesado,  ou porque quero pegar meus filhos acordados etc&#8230;. e ‘pra mim que trabalho com vendas, ofereço a comodidade ao cliente de poder me ligar a noite ou domingo, ou feriado&#8230;.&#8221;**O QUE SE TORNA UMA DESVANTAGEM TAMBÉM**&#8221; pois tem vezes que eles ligam para nada, às 10 da noite&#8230;.mas c&#8217;est la vie. A terceira vantagem ‘pra mim, foi **economizar **nos R$ 1200,00 de aluguel de sala,  no combustivel de todo dia, no restaurante de todo dia, no salário de secretária e boy&#8230;.desvantagem&#8230;.No meu caso, **acordar cedo (até hoje acordo por volta de 6:30hs), tomar banho e não ter pra onde ir me pirou a cabeça um tempo**&#8230;.**a auto estima sofre um pouco**&#8230;.mas tudo é questão de priorizar</em>.”
+>   “…_a principal vantagem de estar trabalhando em casa para mim, é poder **estar com meus filhos o dia todo**&#8230; curtir a evolução deles, ensinar a tarefa da escola, saber quem são os amiguinhos deles&#8230;. se eles aparecem com uma palavrinha nova no vocabulário eu sei de onde eles aprenderam etc&#8230; O meu filhote mais velho eu entreguei nas mãos da babá (que até hoje ele chama de mãe) com um mês e 20 dias de idade&#8230;. e hoje vemos  atos na personalidade dele, que não veio de nós e sim da babá&#8230; que é uma graça de pessoa&#8230;.mas que não é a mesma coisa que mãe. Mas tem outras vantagens tipo: se precisar, **posso trabalhar até mais tarde**, sem a preocupação de ter que ir embora, para dispensar a empregada, ou para fugir do horário de trânsito pesado,  ou porque quero pegar meus filhos acordados etc&#8230;. e ‘pra mim que trabalho com vendas, ofereço a comodidade ao cliente de poder me ligar a noite ou domingo, ou feriado&#8230;.&#8221;**O QUE SE TORNA UMA DESVANTAGEM TAMBÉM**&#8221; pois tem vezes que eles ligam para nada, às 10 da noite&#8230;.mas c&#8217;est la vie. A terceira vantagem ‘pra mim, foi **economizar **nos R$ 1200,00 de aluguel de sala,  no combustivel de todo dia, no restaurante de todo dia, no salário de secretária e boy&#8230;.desvantagem&#8230;.No meu caso, **acordar cedo (até hoje acordo por volta de 6:30hs), tomar banho e não ter pra onde ir me pirou a cabeça um tempo**&#8230;.**a auto estima sofre um pouco**&#8230;.mas tudo é questão de priorizar_.”
 > </p>
 
  
@@ -179,12 +179,12 @@ categories:
         </p>
         
         <p style="text-align: justify;">
-          Questionei a **Psicanalista Geisa Machado**, que edita o blog <a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a>, a respeito dessa dúvida, e ela explicou o que pode estar envolvido numa decisão dessas:
+          Questionei a **Psicanalista Geisa Machado**, que edita o blog [A Força e a Beleza de Ser Mulher](http://geisamachado.blogspot.com/) , a respeito dessa dúvida, e ela explicou o que pode estar envolvido numa decisão dessas:
         </p>
         
         <blockquote style="text-align: justify;">
           <p>
-            “<em>Quando uma pessoa muda de rotina, e consequentemente de hábitos, ela precisa de um tempo para se adaptar a nova realidade. Algumas pessoas se adaptam mais rápido do que outras. Porém, **se não houver adaptação no período de 1 ano, vira uma patologia (doença) que precisa de tratamento.** Isso independe se a mudança foi radical ou não e serve pra qualquer mudança de rotina</em>.”
+            “_Quando uma pessoa muda de rotina, e consequentemente de hábitos, ela precisa de um tempo para se adaptar a nova realidade. Algumas pessoas se adaptam mais rápido do que outras. Porém, **se não houver adaptação no período de 1 ano, vira uma patologia (doença) que precisa de tratamento.** Isso independe se a mudança foi radical ou não e serve pra qualquer mudança de rotina_.”
           </p>
         </blockquote>
         
@@ -194,17 +194,17 @@ categories:
         
         <blockquote style="text-align: justify;">
           <p>
-            “<em>A mulher ficou  sendo dona de casa por milênios e agora com a sua emancipação ela vai para o mercado de trabalho. Ser dona de casa acabou sendo uma marca feminina e isso não se desfaz psiquicamente só por causa da emancipação. Ao resolver mudar esta situação ela precisa descobrir se não está fazendo isso por culpa (sentiu-se culpada por trabalhar fora de casa e volta pra casa). Se for por culpa, ela corre o risco de não se adaptar em casa e aí sim a sua auto estima fica comprometida e acaba tendo um stress por total insatisfação</em>.”
+            “_A mulher ficou  sendo dona de casa por milênios e agora com a sua emancipação ela vai para o mercado de trabalho. Ser dona de casa acabou sendo uma marca feminina e isso não se desfaz psiquicamente só por causa da emancipação. Ao resolver mudar esta situação ela precisa descobrir se não está fazendo isso por culpa (sentiu-se culpada por trabalhar fora de casa e volta pra casa). Se for por culpa, ela corre o risco de não se adaptar em casa e aí sim a sua auto estima fica comprometida e acaba tendo um stress por total insatisfação_.”
           </p>
         </blockquote>
         
         <p style="text-align: justify;">
-          **Geisa** conclui, arrematando a explicação do que uma experiência com o <em>home office</em> mal sucedida ou gerenciada pode causar:
+          **Geisa** conclui, arrematando a explicação do que uma experiência com o _home office_ mal sucedida ou gerenciada pode causar:
         </p>
         
         <blockquote>
           <p style="text-align: justify;">
-            “<em>Não é por causa dessa mudança na rotina da mulher que ocorre a baixo autoestima e o estresse. Isso ocorre se o fato de voltar a trabalhar em casa trouxer insatisfação e isso é percebido se, depois de 1 ano, não houver adaptação. Neste caso ela precisa equacionar, por exemplo, arrumando um emprego de meio período. Se isso não resolver, procurar uma ajuda profissional.”</em>
+            “_Não é por causa dessa mudança na rotina da mulher que ocorre a baixo autoestima e o estresse. Isso ocorre se o fato de voltar a trabalhar em casa trouxer insatisfação e isso é percebido se, depois de 1 ano, não houver adaptação. Neste caso ela precisa equacionar, por exemplo, arrumando um emprego de meio período. Se isso não resolver, procurar uma ajuda profissional.”_
           </p>
         </blockquote>
         
@@ -213,7 +213,7 @@ categories:
         </p>
         
         <p>
-          Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+          Imagens: [stock.xchng](http://www.sxc.hu/) 
         </p>
         
         <p>
@@ -221,29 +221,29 @@ categories:
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/09/29/tarefas-do-lar/">Tarefas do lar…</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/09/29/tarefas-do-lar/">Tarefas do lar…</a>_**
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/08/13/peripecias-de-uma-mae/">Peripécias de uma mãe desesperada…</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/08/13/peripecias-de-uma-mae/">Peripécias de uma mãe desesperada…</a>_**
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/">Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2010/04/30/organizacao-pessoal/">Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?</a>_**
         </p>
         
         <p>
-          **<em><a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/">Por que será que queremos ser sempre heroínas?</a></em>**
+          **_<a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/">Por que será que queremos ser sempre heroínas?</a>_**
         </p>
         
         <p style="text-align: center;">
-          Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">**<em>Vida com Estilo</em>**</a>> Home Office: união do útil ao agradável… mas nem sempre!
+          Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">**_Vida com Estilo_**</a>> Home Office: união do útil ao agradável… mas nem sempre!
         </p>
         
         <p style="text-align: center;">
-          Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+          Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
         </p>
         
         <p style="text-align: center;">
-          **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+          **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
         </p>

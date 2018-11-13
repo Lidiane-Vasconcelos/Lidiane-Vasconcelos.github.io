@@ -65,7 +65,7 @@ O tapete, a forma como os [quadros](http://www.trololodemulher.com.br/2009/04/07
 
 Olha que elegante que é esta sala de jantar! Simples, também é verdade, mas sem perder absolutamente nada em elegância. Gosto da luminária que vem do teto, embora eu jamais pudesse colocar aqui porque meu pé direito é baixo, do estilo da mesa de jantar e cadeiras, da forma como a parede ao fundo foi ornada. Inspirador…alguém duvida?
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+Imagens: [HGTV](http://www.hgtv.com/) 
 
 **Mais posts sobre decoração de salas no Bicha Fêmea&#8230;**
 

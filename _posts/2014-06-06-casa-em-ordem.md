@@ -24,7 +24,7 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: [free images](http://www.freeimages.com/) 
 </p>
 
 &nbsp;
@@ -49,7 +49,7 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
 
 **A propósito:**
 
-<a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank">**Quer 5 razões para ter um suporte de organização na parede da cozinha?**</a>
+[**Quer 5 razões para ter um suporte de organização na parede da cozinha?**](http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/) 
 
 &nbsp;
 
@@ -69,7 +69,7 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
 
 **Falando nisso:**
 
-<a href="http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/" target="_blank">**5 dicas para organizar seus produtos de beleza.**</a>
+[**5 dicas para organizar seus produtos de beleza.**](http://www.trololodemulher.com.br/2011/04/29/organizar-produtos-beleza/) 
 
 &nbsp;
 
@@ -114,7 +114,7 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
 </p>
 
 <p align="justify">
-  13 – Tudo que for possível eu penduro no cabide. **Quando lavo as camisetas do meu marido, já boto elas no cabide para secar e dali vai direto para o armário, penduradas mesmo.** Ah, sem passar! Ficam retinhas e não amassam por não estarem dobradas nas prateleiras. **Renata Becker | **<a href="http://www.vidaloucadecasada.blogspot.com/" target="_blank">**Vida Louca de Casada**</a>
+  13 – Tudo que for possível eu penduro no cabide. **Quando lavo as camisetas do meu marido, já boto elas no cabide para secar e dali vai direto para o armário, penduradas mesmo.** Ah, sem passar! Ficam retinhas e não amassam por não estarem dobradas nas prateleiras. **Renata Becker | **[**Vida Louca de Casada**](http://www.vidaloucadecasada.blogspot.com/) 
 </p>
 
 &nbsp;
@@ -138,14 +138,14 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
 </p>
 
 <p align="justify">
-  17 – Os **brinquedos sem uso faço doações e jogo fora os quebrados**. Guardo os brinquedos restantes em **caixas com etiquetas para meu filho poder encontrar facilmente. Como ele não sabe ler ainda, desenhei o brinquedo. Regiane Leite | **<a href="http://femmedigital.blogspot.com.br/" target="_blank">**Femme Digital**</a>
+  17 – Os **brinquedos sem uso faço doações e jogo fora os quebrados**. Guardo os brinquedos restantes em **caixas com etiquetas para meu filho poder encontrar facilmente. Como ele não sabe ler ainda, desenhei o brinquedo. Regiane Leite | **[**Femme Digital**](http://femmedigital.blogspot.com.br/) 
 </p>
 
 &nbsp;
 
 **Falando em doações:**
 
-<a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank">**Como doar móveis e objetos usados?**</a>
+[**Como doar móveis e objetos usados?**](http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/) 
 
 &nbsp;
 
@@ -162,13 +162,13 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
 &nbsp;
 
 <p align="justify">
-  19 – Os **brinquedos do João: organizo da seguinte forma** &#8211;  1. No baú ficam os brinquedos que ele mais gosta, assim facilita ele brincar e guardá-los quando quiser. 2. Já os carrinhos pequenos comprei um caminhão nicho e coloquei a coleção na parede. Ele ama os carrinhos mas não brinca com tanta frequência. 3. Os ursos de pelúcia ficam na prateleira, apenas um fica na cama por ser o preferido e companheiro de soninho. **Rosa Trindade | **<a href="http://pensecrie.wordpress.com/" target="_blank">**Pense Crie**</a>
+  19 – Os **brinquedos do João: organizo da seguinte forma** &#8211;  1. No baú ficam os brinquedos que ele mais gosta, assim facilita ele brincar e guardá-los quando quiser. 2. Já os carrinhos pequenos comprei um caminhão nicho e coloquei a coleção na parede. Ele ama os carrinhos mas não brinca com tanta frequência. 3. Os ursos de pelúcia ficam na prateleira, apenas um fica na cama por ser o preferido e companheiro de soninho. **Rosa Trindade | **[**Pense Crie**](http://pensecrie.wordpress.com/) 
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -185,13 +185,13 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -200,5 +200,5 @@ Já me disseram que quando a casa não está lá essas coisas de limpa, mas est�
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

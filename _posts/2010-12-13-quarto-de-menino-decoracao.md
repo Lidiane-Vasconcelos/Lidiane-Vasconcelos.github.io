@@ -59,7 +59,7 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
 </p>
 
 <p style="text-align: center;">
-  **<em>Sugestões de mimos decorativos para o quarto do pequeno…</em>**
+  **_Sugestões de mimos decorativos para o quarto do pequeno…_**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -70,11 +70,11 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em>Decore o quarto de seu garotão com detalhes que fazem diferença. Que tal um móbile divertido de bicicleta? Você ainda duvida que ele pode curtir muito algo assim? Você pode usar na cortina ou no batente da porta. Ou ainda, onde sua imaginação decorativa permitir…</em>
+        _Decore o quarto de seu garotão com detalhes que fazem diferença. Que tal um móbile divertido de bicicleta? Você ainda duvida que ele pode curtir muito algo assim? Você pode usar na cortina ou no batente da porta. Ou ainda, onde sua imaginação decorativa permitir…_
       </p>
       
       <p style="text-align: justify;">
-        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">Móbile Bike</a>** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">basta clicar</a>**!</em>
+        _O **[Móbile Bike](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/) ** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** [basta clicar](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/) **!_
       </p>
     </td>
   </tr>
@@ -82,11 +82,11 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em>O quarto do pequeno merece detalhes exclusivos na decoração, não é verdade? Este belo quadro com um carrinho de madeira, todo cheio de bossa e graça, pode dar um toque todo especial nesse sentido. Duvida?</em>
+        _O quarto do pequeno merece detalhes exclusivos na decoração, não é verdade? Este belo quadro com um carrinho de madeira, todo cheio de bossa e graça, pode dar um toque todo especial nesse sentido. Duvida?_
       </p>
       
       <p style="text-align: justify;">
-        <em>O **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a>** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">basta clicar</a>**!</em>
+        _O **[Quadro Meu Primeiro Carrinho](http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/) ** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** [basta clicar](http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/) **!_
       </p>
     </td>
     
@@ -98,35 +98,35 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
   <tr>
     <td style="text-align: center;" width="300" valign="top">
       <div>
-        <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a>    </em>
+        _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg"><img class="alignnone size-full wp-image-5548" title="Porta Fotografia Lembranças da Praia200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Porta-Fotografia-Lembrancas-da-Praia200.jpg" alt="" width="200" height="200" /></a>    _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <div>
-        <em> </em>
+        _ _
       </div>
       
       <p>
-        <em> </p> 
+        _ </p> 
         
         <p>
-          </em></td> 
+          _</td> 
           
           <td width="300" valign="top">
             <p style="text-align: justify;">
-              <em>Quer organizar as fotos de modo prático e ainda decorar um canto do quarto? Está aí um modelo de caixa personalizada que pode fazer bonito na decoração também, hã?!</em>
+              _Quer organizar as fotos de modo prático e ainda decorar um canto do quarto? Está aí um modelo de caixa personalizada que pode fazer bonito na decoração também, hã?!_
             </p>
             
             <p style="text-align: justify;">
-              <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">**<em>Porta Fotografia Lembranças da Praia</em>**</a><em> está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/" target="_blank">basta clicar</a>**!</em>
+              _O _[**_Porta Fotografia Lembranças da Praia_**](http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/) _ está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>>** [basta clicar](http://www.trololodemulher.com.br/loja/2010/09/09/porta-fotografia/) **!_
             </p>
           </td></tr> </tbody> </table> 
           
           <p>
-            <em>Imagem: </em><a href="http://www.myhomeideas.com/" target="_blank"><em>My Home Ideas</em></a>
+            _Imagem: _[_My Home Ideas_](http://www.myhomeideas.com/) 
           </p>
           
           <p>
@@ -134,25 +134,25 @@ Seu garotinho não é mais um bebê e você quer ideias para a **decoração do 
           </p>
           
           <p>
-            **<em><a href="http://www.trololodemulher.com.br/2010/08/16/decoracao-quarto-infantil/">Pitacos de bicha fêmea: decoração para quarto infantil.</a></em>**
+            **_<a href="http://www.trololodemulher.com.br/2010/08/16/decoracao-quarto-infantil/">Pitacos de bicha fêmea: decoração para quarto infantil.</a>_**
           </p>
           
           <p>
-            **<em><a href="http://www.trololodemulher.com.br/2010/06/16/decoracao-quarto-menino/">Pitacos de bicha fêmea: quarto de menino.</a></em>**
+            **_<a href="http://www.trololodemulher.com.br/2010/06/16/decoracao-quarto-menino/">Pitacos de bicha fêmea: quarto de menino.</a>_**
           </p>
           
           <p>
-            **<em><a href="http://www.trololodemulher.com.br/2010/04/22/decoracao-quarto-mae-e-filho/">Pitacos de bicha fêmea: decoração para quarto de mãe e filho.</a></em>**
+            **_<a href="http://www.trololodemulher.com.br/2010/04/22/decoracao-quarto-mae-e-filho/">Pitacos de bicha fêmea: decoração para quarto de mãe e filho.</a>_**
           </p>
           
           <p style="text-align: center;">
-            Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>> Quarto de menino: decoração que acompanha o crescimento dele…
+            Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa & Decoração_**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**_Quartos_**</a>> Quarto de menino: decoração que acompanha o crescimento dele…
           </p>
           
           <p style="text-align: center;">
-            Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+            Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
           </p>
           
           <p style="text-align: center;">
-            **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+            **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
           </p>

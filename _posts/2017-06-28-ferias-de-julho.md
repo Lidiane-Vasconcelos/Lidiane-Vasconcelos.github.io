@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Então, bonita, esse post é para te avisar: não estranhe a falta de conteúdo. <em>Logo logo</em> voltamos com tudo, firmes e fortes!
+  Então, bonita, esse post é para te avisar: não estranhe a falta de conteúdo. _Logo logo_ voltamos com tudo, firmes e fortes!
 </p>
 
 <p align="center">
@@ -38,5 +38,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

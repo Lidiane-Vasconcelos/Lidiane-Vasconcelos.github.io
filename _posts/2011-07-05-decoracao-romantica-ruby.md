@@ -9,7 +9,7 @@ permalink: /2011/07/05/decoracao-romantica-ruby/
 categories:
   - Dicas de Decoração
 ---
-Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos, vai se encantar ao ver quanta coisa meiga e fofa há na casa da **Ruby**. Quem a conhece e acompanha o “**<a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>**”, sabe bem desse estilo que ela busca empregar nos detalhes da decoração de seu apartamento.
+Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos, vai se encantar ao ver quanta coisa meiga e fofa há na casa da **Ruby**. Quem a conhece e acompanha o “**[Meu Canto, Minha Prosa](http://meucantominhaprosa.blogspot.com/) **”, sabe bem desse estilo que ela busca empregar nos detalhes da decoração de seu apartamento.
 
 <p style="text-align: justify;">
   Recentemente Ruby mudou e se readequou ao novo espaço que ela tem, agora bem menor. Tem sido encantador ver seu capricho para decorar cada cantinho, e isso certamente pode te inspirar também. Confere…
@@ -26,7 +26,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  A Ruby tem paixão pelo que é <em>vintage</em>, por isso ela não deixou passar essas **almofadas que garimpou numa ida despretensiosa ao shopping**. Não são um charme? Isso mostra seu olho “clínico” para a decoração mesmo quando não está “a caça” de peças para isso.
+  A Ruby tem paixão pelo que é _vintage_, por isso ela não deixou passar essas **almofadas que garimpou numa ida despretensiosa ao shopping**. Não são um charme? Isso mostra seu olho “clínico” para a decoração mesmo quando não está “a caça” de peças para isso.
 </p>
 
 <p style="text-align: justify;">
@@ -74,7 +74,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  A mesinha de cabeceira <em>superultramega</em> romântica, com decoração que não deixa nada a desejar quanto a esse estilo, é pura inspiração. **Cores claras, estampas delicadas e a harmonia na composição de objetos** garantem um ambiente de puro aconhego no quarto da Ruby… e tem como ser diferente com as escolhas que ela faz?
+  A mesinha de cabeceira _superultramega_ romântica, com decoração que não deixa nada a desejar quanto a esse estilo, é pura inspiração. **Cores claras, estampas delicadas e a harmonia na composição de objetos** garantem um ambiente de puro aconhego no quarto da Ruby… e tem como ser diferente com as escolhas que ela faz?
 </p>
 
 <p style="text-align: center;">
@@ -104,17 +104,17 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 **[Adesivos de parede](http://www.trololodemulher.com.br/2011/01/05/adesivos-de-parede-2/)**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>

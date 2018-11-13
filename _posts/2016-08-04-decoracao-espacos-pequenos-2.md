@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank">**Caixas: 5 soluções de organização da casa.**</a>
+  [**Caixas: 5 soluções de organização da casa.**](http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/) 
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">FreeImages</a>
+  Imagem: [FreeImages](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
@@ -51,15 +51,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank">**Móvel funcional na sua sala de estar pequena é a melhor escolha.**</a>
+  [**Móvel funcional na sua sala de estar pequena é a melhor escolha.**](http://www.decoracaodacasa.com/movel-funcional-sala-pequena/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/" target="_blank">**Truques de decoração para sala de estar pequena: aprenda todos!**</a>
+  [**Truques de decoração para sala de estar pequena: aprenda todos!**](http://www.bichafemea.com/2012/10/10/decoracao-sala-estar-pequena/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/07/16/sala-jantar-pequena-cottage/" target="_blank">**Sala de jantar pequena no estilo cottage: dá para ter uma?**</a>
+  [**Sala de jantar pequena no estilo cottage: dá para ter uma?**](http://www.bichafemea.com/2012/07/16/sala-jantar-pequena-cottage/) 
 </p>
 
 <p align="justify">
@@ -67,15 +67,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ganhar-espaco-quarto-pequeno/" target="_blank">**Como ganhar (e não perder) espaços em quartos pequenos?**</a>
+  [**Como ganhar (e não perder) espaços em quartos pequenos?**](http://www.decoracaodacasa.com/ganhar-espaco-quarto-pequeno/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno/" target="_blank">**Decoração de quarto pequeno: 2 dicas para ampliá-lo visualmente.**</a>
+  [**Decoração de quarto pequeno: 2 dicas para ampliá-lo visualmente.**](http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/05/11/quarto-pequeno-decoracao/" target="_blank">**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**</a>
+  [**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**](http://www.bichafemea.com/2011/05/11/quarto-pequeno-decoracao/) 
 </p>
 
 <p align="justify">
@@ -83,19 +83,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">**Banheiro pequeno? Veja 6 ideias e ganhe espaço já!**</a>
+  [**Banheiro pequeno? Veja 6 ideias e ganhe espaço já!**](http://www.decoracaodacasa.com/banheiro-pequeno/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-banheiro/" target="_blank">**Dicas e imagens: como maximizar o banheiro.**</a>
+  [**Dicas e imagens: como maximizar o banheiro.**](http://www.decoracaodacasa.com/decoracao-banheiro/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank">**Decoração de banheiro pequeno para poupar e ganhar espaço: veja 4 dicas.**</a>
+  [**Decoração de banheiro pequeno para poupar e ganhar espaço: veja 4 dicas.**](http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">**4 ideias para decoração de banheiro pequeno.**</a>
+  [**4 ideias para decoração de banheiro pequeno.**](http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/) 
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2012/03/28/cozinha-apartamento-pequeno/" target="_blank">**Cozinha moderna em apartamento pequeno: tem jeito?**</a>
+  [**Cozinha moderna em apartamento pequeno: tem jeito?**](http://www.bichafemea.com/2012/03/28/cozinha-apartamento-pequeno/) 
 </p>
 
 <p align="justify">
@@ -115,11 +115,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/04/01/bagunca-organizacao/" target="_blank">**Siga 10 passos e o canto da bagunça deixará de existir!**</a>
+  [**Siga 10 passos e o canto da bagunça deixará de existir!**](http://www.bichafemea.com/2011/04/01/bagunca-organizacao/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

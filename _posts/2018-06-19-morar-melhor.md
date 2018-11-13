@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  Em se tratando do jeito de morar, quando a gente pensa em ambientes minimalistas já imaginamos espaços com <em>bossa</em> contemporânea, com cores claras e poucos móveis. Quem vive assim preza por uma morar mais simples e leve, retirando do dia a dia o que é desnecessário. Assim, móveis ganham linha reta, há poucos objetos pela casa, as cores são neutras e a casa bastante funcional. Eu, que há algum tempo tenho tentado aplicar essas escolhas em casa e na vida, asseguro que o dia a dia promove o bem viver, porque fica descomplicado manter a casa e a rotina. Afinal de contas, conforto e aconchego têm pouco a ver com ambiente tumultudado visualmente, certo?
+  Em se tratando do jeito de morar, quando a gente pensa em ambientes minimalistas já imaginamos espaços com _bossa_ contemporânea, com cores claras e poucos móveis. Quem vive assim preza por uma morar mais simples e leve, retirando do dia a dia o que é desnecessário. Assim, móveis ganham linha reta, há poucos objetos pela casa, as cores são neutras e a casa bastante funcional. Eu, que há algum tempo tenho tentado aplicar essas escolhas em casa e na vida, asseguro que o dia a dia promove o bem viver, porque fica descomplicado manter a casa e a rotina. Afinal de contas, conforto e aconchego têm pouco a ver com ambiente tumultudado visualmente, certo?
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="center">
-  Foto: <a href="https://foter.com/" target="_blank">foter.com</a>
+  Foto: [foter.com](https://foter.com/) 
 </p>
 
 <p align="justify">
@@ -36,15 +36,15 @@ categories:
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/" target="_blank">Wabi Sabi na decoração e o resgate do simples</a> – pra comprovar que há muito da influência japonesa neste movimento;
+  1 – [Wabi Sabi na decoração e o resgate do simples](http://www.trololodemulher.com.br/2016/08/11/wabi-sabi-na-decoracao/)  – pra comprovar que há muito da influência japonesa neste movimento;
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/" target="_blank">Decoração escandinava: como aplicar esse estilo?</a> – pra confirmar que o estilo de decoração escandinava tem tudo a ver com minimalismo, priorizando a simplicidade, mas nem por isso perdendo em elegância, beleza e bom gosto;
+  2 – [Decoração escandinava: como aplicar esse estilo?](http://www.trololodemulher.com.br/2015/09/09/decoracao-escandinava/)  – pra confirmar que o estilo de decoração escandinava tem tudo a ver com minimalismo, priorizando a simplicidade, mas nem por isso perdendo em elegância, beleza e bom gosto;
 </p>
 
 <p align="justify">
-  3 – <a href="http://www.trololodemulher.com.br/2016/08/16/decoracao-casa-na-grecia/" target="_blank">6 lições de decoração (e de vida!) em uma casa na Grécia</a> – pra mostrar que a casa pode mostrar muito mais de nossa essência do que imaginamos, e que simplicidade deixa nossa vida muito mais leve.
+  3 – [6 lições de decoração (e de vida!) em uma casa na Grécia](http://www.trololodemulher.com.br/2016/08/16/decoracao-casa-na-grecia/)  – pra mostrar que a casa pode mostrar muito mais de nossa essência do que imaginamos, e que simplicidade deixa nossa vida muito mais leve.
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="center">
-  Foto: <a href="https://foter.com/" target="_blank">foter.com</a>
+  Foto: [foter.com](https://foter.com/) 
 </p>
 
 <p align="justify">
@@ -80,7 +80,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Clique aqui e mande mensagem para mim no WhatsApp</a>, ou me chame no **81.9.9530-7307**, e peça para entrar na lista de espera. Estou a disposição para tirar dúvidas.
+  [Clique aqui e mande mensagem para mim no WhatsApp](https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307) , ou me chame no **81.9.9530-7307**, e peça para entrar na lista de espera. Estou a disposição para tirar dúvidas.
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a> | <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Newsletter Trololó de Mulher – Grátis</a> | <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a>
+  [Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/)  | [Newsletter Trololó de Mulher – Grátis](http://www.trololodemulher.com.br/2018/02/28/newsletter/)  | [Assine e receba o post semanal do blog no seu e-mail – Grátis.](https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Guia Bem Viver – Grátis</a> | <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a>
+  [Guia Bem Viver – Grátis](http://www.trololodemulher.com.br/2018/03/09/bem-viver/)  | [Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.](https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307) 
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Perfil pessoal no Facebook</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank">Fanpage no Facebook</a> | <a href="https://www.instagram.com/trololodemulher/" target="_blank">Instagram</a>
+  [Perfil pessoal no Facebook](https://www.facebook.com/lidiane.vasconcelos.94)  | [Fanpage no Facebook](https://www.facebook.com/TrololoMulher/)  | [Instagram](https://www.instagram.com/trololodemulher/) 
 </p>
 
 <p align="justify">

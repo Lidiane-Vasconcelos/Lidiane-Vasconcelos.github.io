@@ -47,18 +47,18 @@ Qualquer processo de emagrecimento exige mudanças, principalmente na alimentaç
   Devemos nos comprometer com o processo de perda de peso, pois é a solução mais efetiva para colher bons resultados.
 </p>
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: [stock.xchng](http://www.sxc.hu/) 
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Pela Psicóloga **<em><a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a></em>** via **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a></em>**
+      Pela Psicóloga **_<a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a>_** via **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a>_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a>
+      [Comportamento Magro](http://lucianakotaka.com.br/) 
     </td>
   </tr>
 </table>
@@ -78,13 +78,13 @@ Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 **_[O peso ideal é aquele que se sente bem…](http://www.trololodemulher.com.br/2010/03/01/emagrecimento-saudavel/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**<em>Comportamento</em>**</a>> Perca peso com bom senso
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a>> Perca peso com bom senso
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

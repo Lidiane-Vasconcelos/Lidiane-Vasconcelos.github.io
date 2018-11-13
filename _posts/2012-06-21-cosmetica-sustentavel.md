@@ -15,7 +15,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 &nbsp;
 
 <p align="justify">
-  Justamente por que eu sei bem que você, aí do outro lado, se importa em trazer um pouco mais de consciência ecológica para a sua vida, imaginei que você iria gostar de conhecer o novo projeto da **Ilália**, uma blogueira que conheço das antigas e que teve uma ideia <em>superultramega</em> bacana: **<a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">Cosmética Sustentável</a>**.
+  Justamente por que eu sei bem que você, aí do outro lado, se importa em trazer um pouco mais de consciência ecológica para a sua vida, imaginei que você iria gostar de conhecer o novo projeto da **Ilália**, uma blogueira que conheço das antigas e que teve uma ideia _superultramega_ bacana: **[Cosmética Sustentável](http://www.cosmeticasustentavel.com.br/loja/) **.
 </p>
 
 <!--more-->
@@ -35,7 +35,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 </p>
 
 <p align="justify">
-  Além disso, no site esses produtos serão comercializados, ou seja, é tudo o que a gente precisa num lugar só: **<a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank">informação através do blog</a>** e **<a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">produtos legais através da loja virtual</a>**! A natureza agradece, mas a nossa beleza e bem-estar muito mais!
+  Além disso, no site esses produtos serão comercializados, ou seja, é tudo o que a gente precisa num lugar só: **[informação através do blog](http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/) ** e **[produtos legais através da loja virtual](http://www.cosmeticasustentavel.com.br/loja/) **! A natureza agradece, mas a nossa beleza e bem-estar muito mais!
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 </p>
 
 <p align="justify">
-  Como se não bastasse a gente se informar para viver melhor, dá para ficar mais bonita de um jeito saudável e em harmonia com a natureza. Some-se a isso o fato de poder aprender receitinhas e dicas de beleza (qual mulher não curte isso, <em>pelamor</em>?!).
+  Como se não bastasse a gente se informar para viver melhor, dá para ficar mais bonita de um jeito saudável e em harmonia com a natureza. Some-se a isso o fato de poder aprender receitinhas e dicas de beleza (qual mulher não curte isso, _pelamor_?!).
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 </p>
 
 <p align="justify">
-  Sabe de uma coisa? A melhor das notícias é que os preços são bem convidativos, daqueles bem justos… e você ainda pode ganhar descontos!!! Quer saber como, <em>né</em>? **Basta ser uma bicha fêmea navegante, bonita!**
+  Sabe de uma coisa? A melhor das notícias é que os preços são bem convidativos, daqueles bem justos… e você ainda pode ganhar descontos!!! Quer saber como, _né_? **Basta ser uma bicha fêmea navegante, bonita!**
 </p>
 
 <p align="center">
@@ -59,5 +59,5 @@ Cada vez mais a temática da sustentabilidade está presente no nosso dia a dia,
 </p>
 
 <p align="justify">
-  **Neste mês de lançamento**, ou seja, até o final de Junho, as **leitoras do Bicha Fêmea** terão **10% de desconto nas compras**. Quer aproveitar? Então use o <span style="font-size: medium;">cupom de desconto sob o código: **18CA35726X**.</span> Quer dar uma olhadinha e ver** <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">o que tem por lá</a>**? Navegue á vontade, informe-se bastante e aproveite!
+  **Neste mês de lançamento**, ou seja, até o final de Junho, as **leitoras do Bicha Fêmea** terão **10% de desconto nas compras**. Quer aproveitar? Então use o <span style="font-size: medium;">cupom de desconto sob o código: **18CA35726X**.</span> Quer dar uma olhadinha e ver** [o que tem por lá](http://www.cosmeticasustentavel.com.br/loja/) **? Navegue á vontade, informe-se bastante e aproveite!
 </p>

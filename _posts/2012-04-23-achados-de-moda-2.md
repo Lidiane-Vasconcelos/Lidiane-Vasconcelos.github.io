@@ -24,7 +24,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  Brinco prata, entremeio com strass e argola em mini cristais (acrílico). Via <a href="http://www.donnalitaaccessorios.com/" target="_blank">**Donna Lita Acessórios**</a>.
+  Brinco prata, entremeio com strass e argola em mini cristais (acrílico). Via [**Donna Lita Acessórios**](http://www.donnalitaaccessorios.com/) .
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  CINTO EM COURO TAMANHO ÚNICO. Via <a href="http://www.anibiju.com.br/" target="_blank">**AniBiju**</a>.
+  CINTO EM COURO TAMANHO ÚNICO. Via [**AniBiju**](http://www.anibiju.com.br/) .
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  MAXICOLAR com chatons de vidro. Via **<a href="https://www.facebook.com/Alexsandradoya" target="_blank">Alexsandra Arruda Doya Salles</a>**.
+  MAXICOLAR com chatons de vidro. Via **[Alexsandra Arruda Doya Salles](https://www.facebook.com/Alexsandradoya) **.
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  Pingentes em dourado e closonê, e pingentes em metal dourado também. Via **<a href="http://closone.blogspot.com.br/" target="_blank">Closonê Acessórios</a>**.
+  Pingentes em dourado e closonê, e pingentes em metal dourado também. Via **[Closonê Acessórios](http://closone.blogspot.com.br/) **.
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 </p>
 
 <p align="center">
-  Coordenado Tshirt + Pantalona cinza chumbo. T-shirt e pantalona que formam um coordenado lindo e perfeito para você. 94% viscose 6% elastano. Via **<a href="http://villapano.com.br/" target="_blank">Villa Pano</a>**.
+  Coordenado Tshirt + Pantalona cinza chumbo. T-shirt e pantalona que formam um coordenado lindo e perfeito para você. 94% viscose 6% elastano. Via **[Villa Pano](http://villapano.com.br/) **.
 </p>
 
 &nbsp;
@@ -94,7 +94,7 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -109,13 +109,13 @@ Pois é… qualquer bicha fêmea navegante ama de paixão, _né_? Funciona mais 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

@@ -9,24 +9,24 @@ permalink: /2012/08/22/creme-de-milho-com-queijo/
 categories:
   - Receitas
 ---
-Já te falei do blog da Juliana, o **<a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**, _né_? Não é de hoje que a moça bonita (e agora, grávida) dá o ar da graça por aqui. Pudera! Ela é uma bicha fêmea talentosa com as panelas, faz receitas deliciosas e, de quebra, faz tudo parecer _facinho_ de reproduzir.
+Já te falei do blog da Juliana, o **[Pitadinha](http://www.pitadinha.com/) **, _né_? Não é de hoje que a moça bonita (e agora, grávida) dá o ar da graça por aqui. Pudera! Ela é uma bicha fêmea talentosa com as panelas, faz receitas deliciosas e, de quebra, faz tudo parecer _facinho_ de reproduzir.
 
 &nbsp;
 
 <p align="justify">
-  É por isso, bonita, que estou sempre no blog dela <em>curiando</em> suas novidades e anotando suas receitinhas. A última delas foi uma grata surpresa. Testei um **Creme de Milho com Queijo** que, <em>oh:</em> delícia! A receita já está anotada no meu caderno de receitas, e desconfio que vai parar no seu também… duvida? Resista… se puder!
+  É por isso, bonita, que estou sempre no blog dela _curiando_ suas novidades e anotando suas receitinhas. A última delas foi uma grata surpresa. Testei um **Creme de Milho com Queijo** que, _oh:_ delícia! A receita já está anotada no meu caderno de receitas, e desconfio que vai parar no seu também… duvida? Resista… se puder!
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/?attachment_id=9045" rel="attachment wp-att-9045"><img class="alignnone size-full wp-image-9045" title="CREME DE MILHO COM QUEIJO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/CREME-DE-MILHO-COM-QUEIJO.jpg" alt="" width="600" height="452" /></a><br /> Imagem: **<a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**
+  [Pitadinha](http://www.trololodemulher.com.br/?attachment_id=9045" rel="attachment wp-att-9045"><img class="alignnone size-full wp-image-9045" title="CREME DE MILHO COM QUEIJO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/CREME-DE-MILHO-COM-QUEIJO.jpg" alt="" width="600" height="452" /></a><br /> Imagem: **<a href="http://www.pitadinha.com/) **
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Repara como ela ensina de forma tão didática, que qualquer diva do lar <em>malemá</em> com as panelas como eu consegue fazer:
+  Repara como ela ensina de forma tão didática, que qualquer diva do lar _malemá_ com as panelas como eu consegue fazer:
 </p>
 
 &nbsp;
@@ -66,7 +66,7 @@ Viu? É fácil ou não é?
 </p>
 
 <p align="justify">
-  Olha só, posso falar? Eu acho, <em>comtodaforçadomeuser,</em> que você realmente deveria conhecer o **<a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>** da **Juliana**, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, **<a href="http://www.pitadinha.com/" target="_blank">clica aqui</a>** e se joga!
+  Olha só, posso falar? Eu acho, _comtodaforçadomeuser,_ que você realmente deveria conhecer o **[Pitadinha](http://www.pitadinha.com/) ** da **Juliana**, viu? Garanto que a surpresa vai ser das melhores, e logo você vai querer voltar lá sempre que a moça fizer as atualizações. Vai por mim, bonita, **[clica aqui](http://www.pitadinha.com/) ** e se joga!
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ Viu? É fácil ou não é?
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -149,13 +149,13 @@ Viu? É fácil ou não é?
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

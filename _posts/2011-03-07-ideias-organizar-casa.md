@@ -18,7 +18,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 <!--more-->
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">No escritório…</span></em>**
+  **_<span style="font-size: medium;">No escritório…</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -26,15 +26,15 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: justify;">
-  Você deve estar cansada de saber que tem **clipes ou grampos** (de grampeador) perdidos em algum lugar da sua gaveta no escritório, mas tem muita coisa por lá, umas sobre as outras, que te impedem de achar o que você precisa num piscar de olhos? <em>Hum… tsc tsc tsc</em>…
+  Você deve estar cansada de saber que tem **clipes ou grampos** (de grampeador) perdidos em algum lugar da sua gaveta no escritório, mas tem muita coisa por lá, umas sobre as outras, que te impedem de achar o que você precisa num piscar de olhos? _Hum… tsc tsc tsc_…
 </p>
 
 <p style="text-align: justify;">
-  Relaxe! Depois que você der um jeito nesta gaveta com as dicas dos **<em><a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/">4 passos para colocar sua “gaveta da bagunça” em ordem</a></em>**, **junte clipes e grampos numa petisqueira** e deixe ao alcance de suas mãos e olhos. Sua falta de humor gerada na busca por esses ítens será coisa do passado…
+  Relaxe! Depois que você der um jeito nesta gaveta com as dicas dos **_<a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/">4 passos para colocar sua “gaveta da bagunça” em ordem</a>_**, **junte clipes e grampos numa petisqueira** e deixe ao alcance de suas mãos e olhos. Sua falta de humor gerada na busca por esses ítens será coisa do passado…
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Do mercado para casa…</span></em>**
+  **_<span style="font-size: medium;">Do mercado para casa…</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">E para as crafters nada? Tudo!</span></em>**
+  **_<span style="font-size: medium;">E para as crafters nada? Tudo!</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -58,7 +58,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Para o marido prendado…</span></em>**
+  **_<span style="font-size: medium;">Para o marido prendado…</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -70,7 +70,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Para o marido prendado II…</span></em>**
+  **_<span style="font-size: medium;">Para o marido prendado II…</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -82,7 +82,7 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: small;">Sugestão de produtos artesanais onde pequenos objetos podem ser organizados com charme e bossa…</span></em>**
+  **_<span style="font-size: small;">Sugestão de produtos artesanais onde pequenos objetos podem ser organizados com charme e bossa…</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -93,19 +93,19 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">Caixa Moa</a></em>**
+        **_[Caixa Moa](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200.jpg"><img class="alignnone size-thumbnail wp-image-5624" title="Porta Controle Remoto Primavera200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-controle-remoto-primavera/" target="_blank">Porta Controle Remoto Primavera</a></em>**
+        **_[Porta Controle Remoto Primavera](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200.jpg"><img class="alignnone size-thumbnail wp-image-5624" title="Porta Controle Remoto Primavera200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Primavera200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-controle-remoto-primavera/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Bolinha200.jpg"><img class="alignnone size-thumbnail wp-image-5625" title="Porta Controle Remoto Bolinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Bolinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-controle-remoto/" target="_blank">Porta Controle Remoto Bolinha</a></em>**
+        **_[Porta Controle Remoto Bolinha](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Bolinha200.jpg"><img class="alignnone size-thumbnail wp-image-5625" title="Porta Controle Remoto Bolinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Porta-Controle-Remoto-Bolinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-controle-remoto/) _**
       </p>
     </td>
   </tr>
@@ -113,25 +113,25 @@ Qual é a casa que não tem uma infinidade de **pequenos objetos**, a exemplo de
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-thumbnail wp-image-5349" title="Mini Cômoda Gatinha 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em>**
+        **_[Mini Cômoda Gatinha](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200.jpg"><img class="alignnone size-thumbnail wp-image-5349" title="Mini Cômoda Gatinha 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Mini-Comoda-Gatinha-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200.jpg"><img class="alignnone size-thumbnail wp-image-5348" title="Caixa patchwork 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/" target="_blank">Caixa Patchwork</a></em>**
+        **_[Caixa Patchwork](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200.jpg"><img class="alignnone size-thumbnail wp-image-5348" title="Caixa patchwork 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Caixa-patchwork-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-patchwork/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a></em>**
+        **_[Caixa Redonda Vintage](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/) _**
       </p>
     </td>
   </tr>
 </table>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ [_Better Homes and Gardens_](http://www.bhg.com/) 
 
 **Mais no Bicha Fêmea…**
 
@@ -146,23 +146,23 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Organizando a bagunça em casa: dicas, truques e objetos úteis.](http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> **<em><a href="http://www.trololodemulher.com.br/category/casa-organizacao/">Organização</a></em>**> 5 ideias para organizar pequenos objetos em casa…
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> **_<a href="http://www.trololodemulher.com.br/category/casa-organizacao/">Organização</a>_**> 5 ideias para organizar pequenos objetos em casa…
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 **_ _**

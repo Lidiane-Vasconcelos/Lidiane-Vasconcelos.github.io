@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  **Pintar o cabelo** pode significar muito mais que deixar as madeixas bonitas e diferentes. A verdade é que para muitas de nós, variar na aparência pode impactar diretamente a <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">autoestima</a>, e de forma bastante positiva. Quem nunca correu até um salão para promover alguma mudança quando se viu em um momento divisor de águas na vida? Pra te ajudar a fazer boas escolhas quando for colorir seus fios, preparamos algumas dicas certeiras sob a consultoria da bela **Erika Grisi, Cabeleireira especialista em mechas e colorimetria, de Recife – PE**.
+  **Pintar o cabelo** pode significar muito mais que deixar as madeixas bonitas e diferentes. A verdade é que para muitas de nós, variar na aparência pode impactar diretamente a [autoestima](http://www.trololodemulher.com.br/2016/05/30/autoestima/) , e de forma bastante positiva. Quem nunca correu até um salão para promover alguma mudança quando se viu em um momento divisor de águas na vida? Pra te ajudar a fazer boas escolhas quando for colorir seus fios, preparamos algumas dicas certeiras sob a consultoria da bela **Erika Grisi, Cabeleireira especialista em mechas e colorimetria, de Recife – PE**.
 </p>
 
 <p align="justify">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/30/autoestima/" target="_blank">**Medidas práticas para restarurar sua autoestima… já!**</a>
+  [**Medidas práticas para restarurar sua autoestima… já!**](http://www.trololodemulher.com.br/2016/05/30/autoestima/) 
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/coriehowell/3467880606/" target="_blank">Corie Howell</a> via <a href="http://foter.com/re/da0f67" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: [Corie Howell](https://www.flickr.com/photos/coriehowell/3467880606/)  via [Foter.com](http://foter.com/re/da0f67)  / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Para as loiras que desejam voltar ao tom natural, a dica é “<em>escolher uma boa coloração e bom profissional pra executar o trabalho. Após a cobertura total, é importantíssimo fazer uma hidratação para repor nutrientes ao fio. Após as lavagens a coloração vai caindo e vai ressaltar umas iluminações no fio, processo super normal. Uma vez que o fio foi descolorido e por cima colorido, ele não terá a cor natural, claro</em>”, explica nossa consultora.
+  Para as loiras que desejam voltar ao tom natural, a dica é “_escolher uma boa coloração e bom profissional pra executar o trabalho. Após a cobertura total, é importantíssimo fazer uma hidratação para repor nutrientes ao fio. Após as lavagens a coloração vai caindo e vai ressaltar umas iluminações no fio, processo super normal. Uma vez que o fio foi descolorido e por cima colorido, ele não terá a cor natural, claro_”, explica nossa consultora.
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Não basta escolher uma cor, é importante conversar com o profissional de sua confiança para avaliar se aquele tom harmoniza com sua pele. Erika adianta que “<em>o desejo do momento é ser morena iluminada. As morenas querem mudar o visual sem ficar muito loira, apenas dar uma iluminada no visual. Elas gostam tanto que a tendência é querer ficar mais loira</em>”.
+  Não basta escolher uma cor, é importante conversar com o profissional de sua confiança para avaliar se aquele tom harmoniza com sua pele. Erika adianta que “_o desejo do momento é ser morena iluminada. As morenas querem mudar o visual sem ficar muito loira, apenas dar uma iluminada no visual. Elas gostam tanto que a tendência é querer ficar mais loira_”.
 </p>
 
 <p align="center">
@@ -106,15 +106,15 @@ categories:
 </p>
 
 <p align="justify">
-  … **<em>Iluminar</em>**: castanho claro.
+  … **_Iluminar_**: castanho claro.
 </p>
 
 <p align="justify">
-  … **<em>Rejuvenescer</em>**: loiro perolado.
+  … **_Rejuvenescer_**: loiro perolado.
 </p>
 
 <p align="justify">
-  … **<em>Disfaçar brancos</em>**: loiro platinado.
+  … **_Disfaçar brancos_**: loiro platinado.
 </p>
 
 <p align="justify">
@@ -126,11 +126,11 @@ categories:
 </p>
 
 <p align="justify">
-  Erika atende em seu Salão, o Studio Grisi, que fica na Rua Ribeiro de Brito , 1133, Recife – PE. Para mais informações, o telefone é (81) 3019-9338. Pra ficar por dentro das novidades, promoções, fotos inspiradoras de antes & depois, curta a <a href="https://www.facebook.com/grisistudio/" target="_blank">página de salão no Facebook clicando aqui</a>. No Instagram você também pode acompanhar tudo de perto, <a href="https://www.instagram.com/grisistudio/" target="_blank">clique aqui e siga</a>!
+  Erika atende em seu Salão, o Studio Grisi, que fica na Rua Ribeiro de Brito , 1133, Recife – PE. Para mais informações, o telefone é (81) 3019-9338. Pra ficar por dentro das novidades, promoções, fotos inspiradoras de antes & depois, curta a [página de salão no Facebook clicando aqui](https://www.facebook.com/grisistudio/) . No Instagram você também pode acompanhar tudo de perto, [clique aqui e siga](https://www.instagram.com/grisistudio/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

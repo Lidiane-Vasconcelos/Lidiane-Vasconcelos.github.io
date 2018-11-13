@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  A questão é: até que ponto isso é bom de verdade para sua criança? Será que não estamos apenas indo com a “onda das escolas bilíngues&#8221;, sem questionar se vale a pena apresentar uma segunda língua tão cedo para essas crianças? Na dúvida, já que sou mãe e quero pensar essas questões com você, consultei uma profissional no assunto. Eu conversei com a **Bruna Alves, que é Psicopedagoga Clínica e Pedagoga, e atua profissionalmente nas cidades de Limeira e Campinas (SP)**, que me esclareceu diversas dúvidas e que podem, felizmente, nortear nossas decisões quanto á educação dos pequenos. <em>´Bora</em> ver?
+  A questão é: até que ponto isso é bom de verdade para sua criança? Será que não estamos apenas indo com a “onda das escolas bilíngues&#8221;, sem questionar se vale a pena apresentar uma segunda língua tão cedo para essas crianças? Na dúvida, já que sou mãe e quero pensar essas questões com você, consultei uma profissional no assunto. Eu conversei com a **Bruna Alves, que é Psicopedagoga Clínica e Pedagoga, e atua profissionalmente nas cidades de Limeira e Campinas (SP)**, que me esclareceu diversas dúvidas e que podem, felizmente, nortear nossas decisões quanto á educação dos pequenos. _´Bora_ ver?
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.nytimes.com/2011/10/11/health/views/11klass.html?src=tp&smid=fb-share&_r=2&" target="_blank">The New York Times</a>
+  Imagem: [The New York Times](http://www.nytimes.com/2011/10/11/health/views/11klass.html?src=tp&smid=fb-share&_r=2&) 
 </p>
 
 <p align="justify">
@@ -87,11 +87,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Bruna também é blogueira, e edita o excelente **“Como eu Aprendo”, um blog** criado para apresentar e discutir questões ligadas a aprendizagem. Atualmente, Bruna tem prestado atendimento psicopedagógico para crianças, adolescentes e adultos, em ambiente clínico, e atuado como coach para educadores, nas cidades de Limeira e Campinas. Para todas as informações sobre como encontrar seu consultório, telefones, e-mails, etc., <a href="http://comoeuaprendo.blogspot.com.br/" target="_blank">visite seu blog, clicando aqui</a>, acompanhe suas atualizações e saiba tudo. Ah! Nossa consultora também tem **página no Facebook**, por onde você também pode se manter muito bem informada sobre tudo o que essa moça tem a nos dizer. <a href="https://www.facebook.com/comoeuaprendo?ref=br_rs" target="_blank">Conheça, curta e informe-se</a>!
+  A Bruna também é blogueira, e edita o excelente **“Como eu Aprendo”, um blog** criado para apresentar e discutir questões ligadas a aprendizagem. Atualmente, Bruna tem prestado atendimento psicopedagógico para crianças, adolescentes e adultos, em ambiente clínico, e atuado como coach para educadores, nas cidades de Limeira e Campinas. Para todas as informações sobre como encontrar seu consultório, telefones, e-mails, etc., [visite seu blog, clicando aqui](http://comoeuaprendo.blogspot.com.br/) , acompanhe suas atualizações e saiba tudo. Ah! Nossa consultora também tem **página no Facebook**, por onde você também pode se manter muito bem informada sobre tudo o que essa moça tem a nos dizer. [Conheça, curta e informe-se](https://www.facebook.com/comoeuaprendo?ref=br_rs) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

@@ -26,8 +26,8 @@ Explico. É que eu quero que ele venha junto com a divulgação de como você po
 
 [<img class="aligncenter size-full wp-image-4043" title="banner closonê" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/banner-closone.jpg" alt="" width="878" height="105" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/01/banner-closone.jpg)
 
-O sorteio será uma parceria entre o Bicha Fêmea e a <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>, blog onde estão expostas as peças produzidas pela Cristiane Inokuma, todas muito variadas e bem femininas. Isso é que é o melhor, hã? … _cof cof cof_…
+O sorteio será uma parceria entre o Bicha Fêmea e a [Closonê Acessórios](http://closone.blogspot.com/) , blog onde estão expostas as peças produzidas pela Cristiane Inokuma, todas muito variadas e bem femininas. Isso é que é o melhor, hã? … _cof cof cof_…
 
-Então é assim, e ficaremos combinadas: na próxima semana você conhecerá os novos detalhes no _layout_ do Bicha Fêmea, e as informações necessárias para participar do nosso primeiro sorteio em parceria com a <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>, hã? E, claro! A _belezura_ que será sorteada.
+Então é assim, e ficaremos combinadas: na próxima semana você conhecerá os novos detalhes no _layout_ do Bicha Fêmea, e as informações necessárias para participar do nosso primeiro sorteio em parceria com a [Closonê Acessórios](http://closone.blogspot.com/) , hã? E, claro! A _belezura_ que será sorteada.
 
 Agora é aguardar as cenas dos próximos capítulos…

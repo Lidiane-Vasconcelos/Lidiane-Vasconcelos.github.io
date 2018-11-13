@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: [free images](http://www.freeimages.com/) 
 </p>
 
 &nbsp;
@@ -71,9 +71,9 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A **Dra. Paolla** também é blogueira, e escreve **textos informativos na linguagem de mãe**, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="https://mamiped.wordpress.com/" target="_blank">Mamiped</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga também na <a href="https://www.facebook.com/mamaepediatra/" target="_blank">Fanpage da médica</a>, e no <a href="https://www.instagram.com/mamiped/" target="_blank">Instagram</a>. Aproveita!
+  A **Dra. Paolla** também é blogueira, e escreve **textos informativos na linguagem de mãe**, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma _espiada_ no blog da Dra Paolla, o [Mamiped](https://mamiped.wordpress.com/) , e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga também na [Fanpage da médica](https://www.facebook.com/mamaepediatra/) , e no [Instagram](https://www.instagram.com/mamiped/) . Aproveita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

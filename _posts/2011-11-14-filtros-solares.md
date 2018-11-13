@@ -34,7 +34,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="center">
-  Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  Imagem: **[stock.xchng](http://www.sxc.hu/) **
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 &nbsp;
 
 > <p align="justify">
->   “<em>O **filtro solar em spray** **é indicado para áreas extensas e pilosas (com pelos, como corpo de homem)**, facilitando o uso do filtro solar e a boa espalhabilidade. Porém deve-se ter atenção na forma correta de uso, observando se toda área foi coberta, para não ficar com queimaduras solares com aquele aspecto escorrido, sabe?”</em>
+>   “_O **filtro solar em spray** **é indicado para áreas extensas e pilosas (com pelos, como corpo de homem)**, facilitando o uso do filtro solar e a boa espalhabilidade. Porém deve-se ter atenção na forma correta de uso, observando se toda área foi coberta, para não ficar com queimaduras solares com aquele aspecto escorrido, sabe?”_
 > </p>
 
 &nbsp;
@@ -58,7 +58,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 &nbsp;
 
 > <p align="justify">
->   “<em>Existe uma enorme diferença entre filtros e bronzeadores. O primeiro protege sua pele e o outro acelera o bronzeamento, o que na minha opinião é contra indicado. **As pessoas devem retirar da cabeça a ideia errada de que com filtro solar não se consegue o bronzedao. Consegue, sim! **o Filtro solar impede ou tenta impedir a queimadura solar e não o bronzeado. **Se você quer se bronzear, deve usar filtro solar, se expor nos horários adequados e de forma lenta e gradual e aumentar a ingesta de substâncias que contenha beta caroteno(como cenoura, abóbora)** ou até nutraceuticos como o ineeov solar.”</em>
+>   “_Existe uma enorme diferença entre filtros e bronzeadores. O primeiro protege sua pele e o outro acelera o bronzeamento, o que na minha opinião é contra indicado. **As pessoas devem retirar da cabeça a ideia errada de que com filtro solar não se consegue o bronzedao. Consegue, sim! **o Filtro solar impede ou tenta impedir a queimadura solar e não o bronzeado. **Se você quer se bronzear, deve usar filtro solar, se expor nos horários adequados e de forma lenta e gradual e aumentar a ingesta de substâncias que contenha beta caroteno(como cenoura, abóbora)** ou até nutraceuticos como o ineeov solar.”_
 > </p>
 
 &nbsp;
@@ -70,7 +70,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 &nbsp;
 
 > <p align="justify">
->   “<em>**Alguns filtros solares atualmente já possuem hidratantes em sua composição, o que facilita a vida dos pacientes**. O ideal é que os pacientes procurem orientação do dermatologista para seu caso específico. Em geral, no rosto podemos utilizar filtro que já possua hidratante, como por exemplo o **Anthelios da da La Roche Posay** que possui ácido hialurônico em sua formulação. Mas no corpo, não indico dispensar a carga extra de hidratante corporal.”</em>
+>   “_**Alguns filtros solares atualmente já possuem hidratantes em sua composição, o que facilita a vida dos pacientes**. O ideal é que os pacientes procurem orientação do dermatologista para seu caso específico. Em geral, no rosto podemos utilizar filtro que já possua hidratante, como por exemplo o **Anthelios da da La Roche Posay** que possui ácido hialurônico em sua formulação. Mas no corpo, não indico dispensar a carga extra de hidratante corporal.”_
 > </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="center">
-  “… <em>no rosto podemos utilizar filtro que já possua hidratante, como por exemplo o <a href="http://www.anthelios.com.br/" target="_blank">**Anthelios da da La Roche Posay** </a>que possui ácido hialurônico em sua formulação</em>…”
+  “… _no rosto podemos utilizar filtro que já possua hidratante, como por exemplo o [**Anthelios da da La Roche Posay** ](http://www.anthelios.com.br/) que possui ácido hialurônico em sua formulação_…”
 </p>
 
 &nbsp;
@@ -90,7 +90,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 &nbsp;
 
 > <p align="justify">
->   “<em>Sim, atualmente **possuimos diversos filtros solares com tonalizantes que são excelentes e conferem proteção adequada.** Mas não confundir filtro com cor de base com maquiagem que possua filtro solar. As maquiagens com filtro não possuem da mesma forma que os filtros. Costumo dizer para minhas pacientes que são uma proteção a mais, mas não a única.”</em>
+>   “_Sim, atualmente **possuimos diversos filtros solares com tonalizantes que são excelentes e conferem proteção adequada.** Mas não confundir filtro com cor de base com maquiagem que possua filtro solar. As maquiagens com filtro não possuem da mesma forma que os filtros. Costumo dizer para minhas pacientes que são uma proteção a mais, mas não a única.”_
 > </p>
 
 &nbsp;
@@ -102,7 +102,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 &nbsp;
 
 > <p align="justify">
->   “<em>Costumo orientar minhas pacientes que a busca do protetor ideal para sua pele requer um tempo. Cada pele reage de forma diferente aos cosméticos e com o filtro não seria diferente. Mas de regra geral, **filtros solares em gel, serum, oil free e com ativos que controlem a oleosidade são mais leves.’**</em>
+>   “_Costumo orientar minhas pacientes que a busca do protetor ideal para sua pele requer um tempo. Cada pele reage de forma diferente aos cosméticos e com o filtro não seria diferente. Mas de regra geral, **filtros solares em gel, serum, oil free e com ativos que controlem a oleosidade são mais leves.’**_
 > </p>
 
 &nbsp;
@@ -114,7 +114,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 &nbsp;
 
 > <p align="justify">
->   <em>“A indústria cosmética está cada vez mais antenada quanto a necessidade de investir em pesquisas e lançar no mercado novos protetores que se adequem a pele da brasileira, que em geral tende a ser oleosa. Afinal, vivemos em um pais tropical onde nossas glândulas que produzem o suor são estimuladas diariamente. </em><em>A **La Roche Posay acabou de lançar um veículo novo de filtro solar em mousse que quando em contato com a pele vira uma espécie de pó que matifica a pele**. </em><em>A **Vichy lançou o Capital Soleil**, que possui ativos que controlam a oleosidade. </em><em>Assim como outros lançamentos. </em><em>O verão está chegando e o cuidado com o sol deve ser redobrado. Como falei no **<a href="http://dermatologiaemfoco.blogspot.com/2011/10/o-verao-ainda-nao-chegou-mas-o-sol.html" target="_blank">post do dia 24/10 no meu blog</a>**, o indice de radiação uv esta altíssimo já na Primavera, imagina no Verão!”</em>
+>   _“A indústria cosmética está cada vez mais antenada quanto a necessidade de investir em pesquisas e lançar no mercado novos protetores que se adequem a pele da brasileira, que em geral tende a ser oleosa. Afinal, vivemos em um pais tropical onde nossas glândulas que produzem o suor são estimuladas diariamente. __A **La Roche Posay acabou de lançar um veículo novo de filtro solar em mousse que quando em contato com a pele vira uma espécie de pó que matifica a pele**. __A **Vichy lançou o Capital Soleil**, que possui ativos que controlam a oleosidade. __Assim como outros lançamentos. __O verão está chegando e o cuidado com o sol deve ser redobrado. Como falei no **[post do dia 24/10 no meu blog](http://dermatologiaemfoco.blogspot.com/2011/10/o-verao-ainda-nao-chegou-mas-o-sol.html) **, o indice de radiação uv esta altíssimo já na Primavera, imagina no Verão!”_
 > </p>
 
 <p align="center">
@@ -122,7 +122,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="center">
-  “<em>A **<a href="http://www.vichy.com.br/flash/index.html" target="_blank">Vichy lançou o Capital Soleil</a>**, que possui ativos que controlam a oleosidade.”</em>
+  “_A **[Vichy lançou o Capital Soleil](http://www.vichy.com.br/flash/index.html) **, que possui ativos que controlam a oleosidade.”_
 </p>
 
 &nbsp;
@@ -156,7 +156,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="justify">
-  Na dúvida, perguntei para as meninas que fazem parte da **<a href="http://www.orkut.com.br/Community?cmm=92609046" target="_blank">comunidade do blog no Orkut (se você não faz parte, por que não entra?)</a>**, e a **Luisa** dividiu sua recomendação pessoal com a gente. Sabe o que ela disse? Confere!
+  Na dúvida, perguntei para as meninas que fazem parte da **[comunidade do blog no Orkut (se você não faz parte, por que não entra?)](http://www.orkut.com.br/Community?cmm=92609046) **, e a **Luisa** dividiu sua recomendação pessoal com a gente. Sabe o que ela disse? Confere!
 </p>
 
 <p align="center">
@@ -164,7 +164,7 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 > <p align="justify">
->   “E<em>u uso o da **<a href="http://www.minesol.com.br/produto-actif-unify.html#actifunify" target="_blank">RóC Minesol (actif unify) fator 60</a>**. Eu gosto dele porque não deixa a minha pele tão oleosa, isto é, depende do clima. Moro em Brasília, no período da seca minha pele fica com muito brilho (só neste período) porque ela é mista (minha pele), mas eu noto que ele protege bem a pele do rosto. Gosto muito dele! O preço dele é na faixa de R$ 60,00. Ele é um creme -gel!!”</em>
+>   “E_u uso o da **[RóC Minesol (actif unify) fator 60](http://www.minesol.com.br/produto-actif-unify.html#actifunify) **. Eu gosto dele porque não deixa a minha pele tão oleosa, isto é, depende do clima. Moro em Brasília, no período da seca minha pele fica com muito brilho (só neste período) porque ela é mista (minha pele), mas eu noto que ele protege bem a pele do rosto. Gosto muito dele! O preço dele é na faixa de R$ 60,00. Ele é um creme -gel!!”_
 > </p>
 
 <p align="justify">
@@ -172,15 +172,15 @@ Parece que a indústria de cosméticos ouviu nossos apelos, e com boa informaç�
 </p>
 
 <p align="justify">
-  Quer se manter ainda mais informada sobre os assuntos de beleza totalmente atrelados a sua sáude, então não deixe de acompanhar as atualizações da **Dra. Livia Pino** em seu blog, o <a href="http://dermatologiaemfoco.blogspot.com/" target="_blank">**Dermatologia em Foco**</a>**.** O blog é cheio de dicas sobre beleza, saúde, produtos, lançamentos e tudo o mais que um bicha fêmea precisa para ficar cada vez mais bonita e de pele saudável. Confere!
+  Quer se manter ainda mais informada sobre os assuntos de beleza totalmente atrelados a sua sáude, então não deixe de acompanhar as atualizações da **Dra. Livia Pino** em seu blog, o [**Dermatologia em Foco**](http://dermatologiaemfoco.blogspot.com/) **.** O blog é cheio de dicas sobre beleza, saúde, produtos, lançamentos e tudo o mais que um bicha fêmea precisa para ficar cada vez mais bonita e de pele saudável. Confere!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>

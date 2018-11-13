@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank">**Quer reformar uma cômoda e criar um hall de entrada na sua casa?**</a>
+  [**Quer reformar uma cômoda e criar um hall de entrada na sua casa?**](http://www.decoracaodacasa.com/comoda-hall-de-entrada/) 
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  Não ficou incrível? Repare nas boas escolhas: **cor preferida + gancho estiloso bem ao lado da porta + prateleira bem fininha para apoiar detalhes decorativos como um quadro, foto de família e uma palavra do coração + suporte de madeira com ganchos abaixo dessa prateleira fininha**. Quer ver mais fotos e detalhes desse cantinho lindo de viver, simples e bem eficiente ao que se propõe? Espie aqui, no blog <a href="http://thediydreamer.com/diy/small-entryway-shelf-with-hooks/" target="_blank">The DIY Dreamer</a>. Inspire-se na ideia e providencie algo similar em seus domínios também!
+  Não ficou incrível? Repare nas boas escolhas: **cor preferida + gancho estiloso bem ao lado da porta + prateleira bem fininha para apoiar detalhes decorativos como um quadro, foto de família e uma palavra do coração + suporte de madeira com ganchos abaixo dessa prateleira fininha**. Quer ver mais fotos e detalhes desse cantinho lindo de viver, simples e bem eficiente ao que se propõe? Espie aqui, no blog [The DIY Dreamer](http://thediydreamer.com/diy/small-entryway-shelf-with-hooks/) . Inspire-se na ideia e providencie algo similar em seus domínios também!
 </p>
 
 <p align="justify">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank">**Dicas de decoração para a área de entrada da sua casa.**</a>
+  [**Dicas de decoração para a área de entrada da sua casa.**](http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

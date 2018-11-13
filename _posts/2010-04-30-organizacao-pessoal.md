@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Recebi essa pergunta por <em>e-mail</em>, vinda da Simone Cotrufo, moça organizada que cuida do blog <a href="http://newsespacohome.blogspot.com/" target="_blank">Organização Com Estilo</a>, e que tinha por objetivo ser uma sugestão de pauta para o Trololó de Mulher. Achei a proposta interessantíssima, e acredito que vale a pena a gente pensar sobre ela…
+  Recebi essa pergunta por _e-mail_, vinda da Simone Cotrufo, moça organizada que cuida do blog [Organização Com Estilo](http://newsespacohome.blogspot.com/) , e que tinha por objetivo ser uma sugestão de pauta para o Trololó de Mulher. Achei a proposta interessantíssima, e acredito que vale a pena a gente pensar sobre ela…
 </p>
 
 <!--more-->
@@ -37,11 +37,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Recomendo a leitura do post onde falei sobre como é o meu <a href="http://www.trololodemulher.com.br/2010/02/04/da-minha-porcao-diva-do-lar-como-e-a-sua/">**dia a dia de tarefas domésticas**</a>, como diva do lar, e outras leitorias navegantes “soltaram o verbo” também. Ainda sobre organização doméstica, já escrevi antes **<a href="http://www.trololodemulher.com.br/2009/11/10/5-dicas-de-oganizao-e-passe-bem-seja-feliz/">5 dicas para manter tudo em ordem</a>**, e isso certamente favorece o nosso controle sobre nossas vidas. Duvida? Até mesmo as **tarefas do lar são controladas**, sabia? Sim, porque se alguém disser que as coisas que são feitas em casa são uma moleza e que não tomam o tempo da criatura… <em>ahhhhh</em>!!! Sei não, <em>hein</em>?! Não me responsabilizo pelos meus atos… <em>cof cof cof</em>…
+  Recomendo a leitura do post onde falei sobre como é o meu <a href="http://www.trololodemulher.com.br/2010/02/04/da-minha-porcao-diva-do-lar-como-e-a-sua/">**dia a dia de tarefas domésticas**</a>, como diva do lar, e outras leitorias navegantes “soltaram o verbo” também. Ainda sobre organização doméstica, já escrevi antes **<a href="http://www.trololodemulher.com.br/2009/11/10/5-dicas-de-oganizao-e-passe-bem-seja-feliz/">5 dicas para manter tudo em ordem</a>**, e isso certamente favorece o nosso controle sobre nossas vidas. Duvida? Até mesmo as **tarefas do lar são controladas**, sabia? Sim, porque se alguém disser que as coisas que são feitas em casa são uma moleza e que não tomam o tempo da criatura… _ahhhhh_!!! Sei não, _hein_?! Não me responsabilizo pelos meus atos… _cof cof cof_…
 </p>
 
 <p style="text-align: justify;">
-  **E você, hein? Pensou sobre sua condição diária? Está tudo “dominado” ou você se perde em meio aos <em>zilhões</em> de coisas para fazer? Qual tua dica? Divide aí, bonita! Conta tudo…**
+  **E você, hein? Pensou sobre sua condição diária? Está tudo “dominado” ou você se perde em meio aos _zilhões_ de coisas para fazer? Qual tua dica? Divide aí, bonita! Conta tudo…**
 </p>
 
 <p style="text-align: justify;">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>&#8220;&#8230;minha filha de 13 anos é um horror, por mais que eu organize, ela sempre desorganiza e ai eu só me estresso. Ai tenho duas opções, organizo novamente ou fecho a porta do quarto e deixo lá… o que vc me sugere? rs&#8230;&#8221;</em> Regiana
+  _&#8220;&#8230;minha filha de 13 anos é um horror, por mais que eu organize, ela sempre desorganiza e ai eu só me estresso. Ai tenho duas opções, organizo novamente ou fecho a porta do quarto e deixo lá… o que vc me sugere? rs&#8230;&#8221;_ Regiana
 </p>
 
 <p style="text-align: justify;">
@@ -73,11 +73,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>&#8220;&#8230; quanto à organização dos filhos adolescentes (o meu tem 11 anos) aqui em casa resolvi assim: A cada vez que eu entrar no quarto e encontrar coisas fora do lugar (mesmo dentro do armário) é um dia que fica sem ir ao futebol. Pronto! duas faltas resolveram o problema. Tudo em ordem!<br /> Sei que alguns dizem que é conversando que se resolve e que na base da troca as coisas não funcionam. Mas, no meu caso, conversa só entrou por um ouvido e saiu pelo outro. Foi na hora do castigo mesmo, de perder algo que gosta e que é importante que o bichinho se virou. Pelo menos durante a &#8220;aborrecência&#8221; acho que vai ser assim&#8230;rs&#8230;&#8221;</em> Kelly Reis &#8211; <a href="http://porque-nao-pensei-nisso-antes.blogspot.com/" target="_blank">Por que não pensei nisso antes</a>?
+  _&#8220;&#8230; quanto à organização dos filhos adolescentes (o meu tem 11 anos) aqui em casa resolvi assim: A cada vez que eu entrar no quarto e encontrar coisas fora do lugar (mesmo dentro do armário) é um dia que fica sem ir ao futebol. Pronto! duas faltas resolveram o problema. Tudo em ordem!<br /> Sei que alguns dizem que é conversando que se resolve e que na base da troca as coisas não funcionam. Mas, no meu caso, conversa só entrou por um ouvido e saiu pelo outro. Foi na hora do castigo mesmo, de perder algo que gosta e que é importante que o bichinho se virou. Pelo menos durante a &#8220;aborrecência&#8221; acho que vai ser assim&#8230;rs&#8230;&#8221;_ Kelly Reis &#8211; [Por que não pensei nisso antes](http://porque-nao-pensei-nisso-antes.blogspot.com/) ?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Se tem uma coisa que acho uma <em>fofurice</em> são aquelas **bandeirolas de aniversário**, sabe? Tenho visto delas penduradas na parede que fica atrás do bolo, ou ainda na mesa mesmo, enfeitando a frente do móvel. Quanto mais coloridas, melhor. E elas têm uma <em>bossa</em> de festa feita em casa, com os detalhes pensados e preparados pela mamãe, bem do jeito que acontecia antigamente e que agora estão super em alta (ainda bem!): festa simples, caseira e com gostinho <em>retrô</em>. Quando bati os olhos nessas bandeirinhos logo abaixo pensei: é disso aí que eu gosto! Você também? Desconfiei… por isso trouxe a ideia para compartilhar contigo. Olha só:
+  Se tem uma coisa que acho uma _fofurice_ são aquelas **bandeirolas de aniversário**, sabe? Tenho visto delas penduradas na parede que fica atrás do bolo, ou ainda na mesa mesmo, enfeitando a frente do móvel. Quanto mais coloridas, melhor. E elas têm uma _bossa_ de festa feita em casa, com os detalhes pensados e preparados pela mamãe, bem do jeito que acontecia antigamente e que agora estão super em alta (ainda bem!): festa simples, caseira e com gostinho _retrô_. Quando bati os olhos nessas bandeirinhos logo abaixo pensei: é disso aí que eu gosto! Você também? Desconfiei… por isso trouxe a ideia para compartilhar contigo. Olha só:
 </p>
 
 <p align="justify">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">**Sacolinha de festa infantil: faça você mesma!**</a>
+  [**Sacolinha de festa infantil: faça você mesma!**](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para decoração de festa infantil: faça você mesma!**</a>
+  [**2 ideias para decoração de festa infantil: faça você mesma!**](http://www.decoracaodacasa.com/festa-decoracao-infantil/) 
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  Misture e encante-se. Esse é um presente do <a href="http://ruffledblog.com/printable-alphabet-bunting/" target="_blank">blog Rufled e você pode fazer o download das artes das letras bem aqui</a>. Cada letrinha está no final do post. Eu mesma salvei todas no meu computador. Ah! Ainda tem uma arte para o coração, assim você pode separar palavras de uma frase. Aproveite!
+  Misture e encante-se. Esse é um presente do [blog Rufled e você pode fazer o download das artes das letras bem aqui](http://ruffledblog.com/printable-alphabet-bunting/) . Cada letrinha está no final do post. Eu mesma salvei todas no meu computador. Ah! Ainda tem uma arte para o coração, assim você pode separar palavras de uma frase. Aproveite!
 </p>
 
 <p align="justify">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank">**Decoração de festa infantil: ideias para a festa das meninas.**</a>
+  [**Decoração de festa infantil: ideias para a festa das meninas.**](http://www.decoracaodacasa.com/decoracao-festa-infantil/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

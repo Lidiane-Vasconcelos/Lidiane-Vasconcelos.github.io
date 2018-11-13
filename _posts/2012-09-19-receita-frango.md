@@ -64,7 +64,7 @@ Comer frango é _superultramega_ saudável, _né_? Mas&#8230; nem sempre só ele
 &nbsp;
 
 <p align="justify">
-  Isso mesmo que você leu: a Fátima tem uma loja virtual de produtinhos para deixar a gente muito bonita, a **<em><a href="http://www.personalbuyers.com.br/" target="_blank">Personal Buyers</a></em>**. É ela quem edita o blog **<em><a href="http://personalbuyers.blogspot.com.br/" target="_blank">Personal Buyers First Class</a></em>**, e nos brinda por lá com posts bem interessantes para todas nós, bichas fêmeas navegantes, já convidadas a conhecer o espaço. Agora é contigo, bonita. Se joga e **<a href="http://personalbuyers.blogspot.com.br/" target="_blank">clica aqui</a>**!
+  Isso mesmo que você leu: a Fátima tem uma loja virtual de produtinhos para deixar a gente muito bonita, a **_[Personal Buyers](http://www.personalbuyers.com.br/) _**. É ela quem edita o blog **_[Personal Buyers First Class](http://personalbuyers.blogspot.com.br/) _**, e nos brinda por lá com posts bem interessantes para todas nós, bichas fêmeas navegantes, já convidadas a conhecer o espaço. Agora é contigo, bonita. Se joga e **[clica aqui](http://personalbuyers.blogspot.com.br/) **!
 </p>
 
 &nbsp;
@@ -138,7 +138,7 @@ Comer frango é _superultramega_ saudável, _né_? Mas&#8230; nem sempre só ele
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -153,13 +153,13 @@ Comer frango é _superultramega_ saudável, _né_? Mas&#8230; nem sempre só ele
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

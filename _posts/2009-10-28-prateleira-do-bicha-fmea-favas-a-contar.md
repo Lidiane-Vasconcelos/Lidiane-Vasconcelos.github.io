@@ -9,11 +9,11 @@ permalink: /2009/10/28/prateleira-do-bicha-fmea-favas-a-contar/
 categories:
   - Sem categoria
 ---
-Criatividade pouca é bobagem quando se fala da Fabi, blogueira _superultramegablaster_ inventiva, que comanda o <a href="http://favasdesign.blogspot.com/" target="_blank">Favas a Contar</a>. É isso aí, bonita! Hoje no Prateleira do Bicha Fêmea estarão arrumadinhas para a gente apreciar, sabe o quê mesmo? As artes da Fabi.
+Criatividade pouca é bobagem quando se fala da Fabi, blogueira _superultramegablaster_ inventiva, que comanda o [Favas a Contar](http://favasdesign.blogspot.com/) . É isso aí, bonita! Hoje no Prateleira do Bicha Fêmea estarão arrumadinhas para a gente apreciar, sabe o quê mesmo? As artes da Fabi.
 
 Mas sabe por que digo que essa artista é especial? É que a _bonitona_ esbanja competência para criar em várias vertentes. Explico: como se não bastasse as peças exclusivas que ela cria com os papéis usando a técnica do _scrapbooking_ e complementos artesanais, ou qualquer um desses itens de forma exclusiva, ela também “pinta o sete” com suas criações virtuais. É que ela é capaz de dar personalidade a qualquer um de nossos blogs, e tudo isso com muita sensibilidade para captar os desejos e sonhos do blogueiro que desfruta de seus serviços. 
 
-Duvida? Olha só o que disse a Rosi, que escreve no <a href="http://mundinhodarosi.blogspot.com/" target="_blank">Mundinho Particular</a>, quando manifestou sua satisfação com os serviços da Fabi:
+Duvida? Olha só o que disse a Rosi, que escreve no [Mundinho Particular](http://mundinhodarosi.blogspot.com/) , quando manifestou sua satisfação com os serviços da Fabi:
 
 > “…ela me deu essa forma e essas cores de presente. Ouviu pacientemente cada ideia que tive, palpitou, deixou seu toque em cada cantinho e me deixou muito feliz…”
 
@@ -61,4 +61,4 @@ Há como não admirar o capricho e talento com os quais esses convites foram con
 
 O caderno de anotações customizado e a garrafa de vinho com rótulo personalizado fazem parte de uma série de produtos e serviços oferecidos pela Fabi, mas ainda é possível ter o toque artístico dessa carioca em cartões de visita, álbuns de fotos, agendas, calendários, etc. 
 
-Disposta a continuar se encantando com o que sai das mãos e mente dessa artista? É fácil, fácil… só clicar <a href="http://favasdesign.blogspot.com/" target="_blank">aqui, oh</a>!
+Disposta a continuar se encantando com o que sai das mãos e mente dessa artista? É fácil, fácil… só clicar [aqui, oh](http://favasdesign.blogspot.com/) !

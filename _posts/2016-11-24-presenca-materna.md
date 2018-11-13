@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/paras212/406949500/" target="_blank">párás</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: [párás](https://www.flickr.com/photos/paras212/406949500/)  via [Foter.com](http://foter.com/)  / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
 </p>
 
 <p align="center">
@@ -35,47 +35,47 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Antigamente, a mulher era vista apenas como alguém do lar que vivia exclusivamente para cuidar da casa, do marido e dos filhos. Mas, com o passar dos tempos, a mulher começou a ganhar mais espaço dentro da sociedade e com isso está assumindo novos papéis. Porém, ela acaba se dividindo entre a casa, o trabalho e os filhos. </em>
+  “_Antigamente, a mulher era vista apenas como alguém do lar que vivia exclusivamente para cuidar da casa, do marido e dos filhos. Mas, com o passar dos tempos, a mulher começou a ganhar mais espaço dentro da sociedade e com isso está assumindo novos papéis. Porém, ela acaba se dividindo entre a casa, o trabalho e os filhos. _
 </p>
 
 <p align="justify">
-  <em>Esta transição é uma grande conquista da mulher contemporânea, mas muitas mães que ficam várias horas trabalhando acabam ficando com a consciência pesada por passarem tanto tempo longe dos filhos. Com isso, tentam compensar esta ausência dando muitos presentes para a criança. </em>
+  _Esta transição é uma grande conquista da mulher contemporânea, mas muitas mães que ficam várias horas trabalhando acabam ficando com a consciência pesada por passarem tanto tempo longe dos filhos. Com isso, tentam compensar esta ausência dando muitos presentes para a criança. _
 </p>
 
 <p align="justify">
-  <em>Mas será que esta forma de compensação pode ser um mal para a cria? Sim! Encher a criança de presentes para compensar a ausência acaba não funcionando muito bem. Os presentes podem inclusive acarretar a uma sensação insaciável, deixando as crianças cada vez mais materialistas em que os sentimentos são substituídos por objetos, podendo deixar um grande vazio, além das crianças se tornarem consumistas, pois os brinquedos logo são abandonados e as crianças pedem outros. </em>
+  _Mas será que esta forma de compensação pode ser um mal para a cria? Sim! Encher a criança de presentes para compensar a ausência acaba não funcionando muito bem. Os presentes podem inclusive acarretar a uma sensação insaciável, deixando as crianças cada vez mais materialistas em que os sentimentos são substituídos por objetos, podendo deixar um grande vazio, além das crianças se tornarem consumistas, pois os brinquedos logo são abandonados e as crianças pedem outros. _
 </p>
 
 <p align="justify">
-  <em>Tal situação é mais motivadora para os pais suprirem uma culpa pessoal do que uma real necessidade dos filhos. Ao invés de presentes, é importante reservar um tempo de folga e aproveitar os finais de semana para curtir um momento em família com o seu filho, dialogar, dar atenção, partilhar carinhos (abraços, beijos), realizar brincadeiras juntos e até desfrutar de um piquenique no parque. </em>
+  _Tal situação é mais motivadora para os pais suprirem uma culpa pessoal do que uma real necessidade dos filhos. Ao invés de presentes, é importante reservar um tempo de folga e aproveitar os finais de semana para curtir um momento em família com o seu filho, dialogar, dar atenção, partilhar carinhos (abraços, beijos), realizar brincadeiras juntos e até desfrutar de um piquenique no parque. _
 </p>
 
 <p align="justify">
-  <em>Hoje em dia, com o avanço da tecnologia e com as redes sociais fica até mais fácil participar da rotina dos filhos mesmo à distância. É interessante usá-las para interagir e manter a comunicação. Mas, vale ressaltar que nada substitui o afeto do contato físico.</em>
+  _Hoje em dia, com o avanço da tecnologia e com as redes sociais fica até mais fácil participar da rotina dos filhos mesmo à distância. É interessante usá-las para interagir e manter a comunicação. Mas, vale ressaltar que nada substitui o afeto do contato físico._
 </p>
 
 <p align="justify">
-  <em>Segue algumas dicas para conseguir estarem ainda mais presentes, mesmo trabalhando a maior parte do dia:</em>
+  _Segue algumas dicas para conseguir estarem ainda mais presentes, mesmo trabalhando a maior parte do dia:_
 </p>
 
 <p align="justify">
-  <em>· <b>Mande mensagens:</b> Utilizar as redes sociais é uma ótima maneira para se manter conectada com seu filho.</em>
+  _· <b>Mande mensagens:</b> Utilizar as redes sociais é uma ótima maneira para se manter conectada com seu filho._
 </p>
 
 <p align="justify">
-  <em>· <b>Pergunte como foi o dia do seu filho:</b> Ao final do dia é importante conversar com a criança sobre as atividades que ela realizou, como foi o dia na escola, isso os deixam mais próximos do cotidiano deles.</em>
+  _· <b>Pergunte como foi o dia do seu filho:</b> Ao final do dia é importante conversar com a criança sobre as atividades que ela realizou, como foi o dia na escola, isso os deixam mais próximos do cotidiano deles._
 </p>
 
 <p align="justify">
-  <em>· <b>Refeições em família: </b>Quando possível, vale reunir toda a família em volta da mesa para comer juntos, é um ótimo momento para interagir e conversar com os filhos.</em>
+  _· <b>Refeições em família: </b>Quando possível, vale reunir toda a família em volta da mesa para comer juntos, é um ótimo momento para interagir e conversar com os filhos._
 </p>
 
 <p align="justify">
-  <em>· <b>Hora de dormir:</b> Colocar as crianças para dormir também é um ótimo momento para ter um diálogo, ter um momento de carinho e de ler histórias.</em>
+  _· <b>Hora de dormir:</b> Colocar as crianças para dormir também é um ótimo momento para ter um diálogo, ter um momento de carinho e de ler histórias._
 </p>
 
 <p align="justify">
-  <em>· <b>Finais de semana em família: </b>Este é um período para aproveitar os filhos. Façam atividades juntos, brinquem, seja em casa ou até mesmo no parque, o importante é se divertirem juntos</em>.”
+  _· <b>Finais de semana em família: </b>Este é um período para aproveitar os filhos. Façam atividades juntos, brinquem, seja em casa ou até mesmo no parque, o importante é se divertirem juntos_.”
 </p>
 
 <p align="center">
@@ -87,15 +87,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/28/mentira-na-infancia/" target="_blank">**Mentira na infância: como lidar com essa situação?**</a>
+  [**Mentira na infância: como lidar com essa situação?**](http://www.trololodemulher.com.br/2016/09/28/mentira-na-infancia/) 
 </p>
 
 <p align="justify">
-  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites <a href="http://www.psicologiasdobrasil.com.br/author/jenifer-longo/" target="_blank">Psicologias do Brasil</a> e <a href="http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/" target="_blank">Espaço Psicologia e Família</a>. Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de **fanpage no Facebook**. <a href="https://www.facebook.com/espacopsicologiaefamilia/" target="_blank">Clique aqui, curta e acompanhe</a>. Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone **<em>11 98824-7963</em>**.
+  Jenifer costuma escrever artigos com o objetivo de promover o bem-estar psicológico no contexto familiar, abordando temas como maternidade, desenvolvimento infantil e crianças com necessidades especiais. Esses artigos são publicados nos sites [Psicologias do Brasil](http://www.psicologiasdobrasil.com.br/author/jenifer-longo/)  e [Espaço Psicologia e Família](http://espacopsicologiaefamilia.com.br/blog/author/jeniferlongo/) . Clique e confira os artigos da Psicóloga nessas duas páginas! O espaço Psicologia e Família, inclusive, dispõe de **fanpage no Facebook**. [Clique aqui, curta e acompanhe](https://www.facebook.com/espacopsicologiaefamilia/) . Jenifer realiza seus atendimentos em São Paulo, para mais informações você pode entrar em contato pelo e-mail <a href="mailto:jeniferclongo@gmail.com">jeniferclongo@gmail.com</a> ou pelo telefone **_11 98824-7963_**.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

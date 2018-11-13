@@ -13,7 +13,7 @@ categories:
 
 Vamos ás dicas? Puxa a cadeira e pega um chá, porque tem um bocado delas para a gente&#8230;
 
- <img style="display: inline; margin-left: 0; margin-right: 0;" title="bandbmall.com" src="http://bandbmall.com/Merchant2/graphics/00000007/BRY102_F.jpg" alt="bandbmall.com" align="right" />1 – A <a href="http://molasepregadeiras.blogspot.com/" target="_blank">Sonia</a> deixou nos comentários a dica de flores e velas nos banheiros. Deve mesmo ficar muito charmoso.
+ <img style="display: inline; margin-left: 0; margin-right: 0;" title="bandbmall.com" src="http://bandbmall.com/Merchant2/graphics/00000007/BRY102_F.jpg" alt="bandbmall.com" align="right" />1 – A [Sonia](http://molasepregadeiras.blogspot.com/)  deixou nos comentários a dica de flores e velas nos banheiros. Deve mesmo ficar muito charmoso.
 
 2 – A Lenita, embora tenha os revestimentos apenas com uma cor, trabalha os detalhes das cores das toalhas de banho, rosto e piso, que são iguais e em conjunto. Detalhes importantes hein, bonitas?! Ah! Lenita também chamou a atenção para a troca de objetos que enfeitam os banheiros todas as semanas. Já tratei de pedir detalhes por e-mail, e a mulher deu um _show_ de _prendices_ e criatividade. Quer saber quais? O que a Lenita sugere é fazer um rodízio de objetos mimosinhos que cumpram o papel de enfeitar e dar charme ao banheiro, sem que haja necessidade de gastar para isso como, por exemplo:
 
@@ -51,13 +51,13 @@ E o creminho é um mimo para quem usa o lavabo, para garantir mãos cheirosas e 
 
 <span style="color: #ff0000;">Mulher é uma criatura muito cheia de ideias mesmo, não é? Pensam que não tem mais sugestões&#8230; ah! Difícil, hein? Olha só:</span>
 
-<span style="color: #ff0000;">A</span> <a href="http://falecomanna.blogspot.com/" target="_blank">Anna</a> <span style="color: #ff0000;">sugere o uso de quadros no banheiro. Vê? Tem até quadros com motivos <em>banheirísticos</em> </span><span style="color: #ff0000;">como privada, banheira, etc.</span>
+<span style="color: #ff0000;">A</span> [Anna](http://falecomanna.blogspot.com/)  <span style="color: #ff0000;">sugere o uso de quadros no banheiro. Vê? Tem até quadros com motivos _banheirísticos_ </span><span style="color: #ff0000;">como privada, banheira, etc.</span>
 
-<span style="color: #ff0000;">E a</span> <a href="http://www.lubrasil.net/blog/" target="_blank">Lu</a> <span style="color: #ff0000;">sugere usar cestos de vime para colocar roupa suja (eu também sugiro e uso – é muito massa e bonito!) e combinar um outro menor para colocar revistas. E não pára por aí as sugestões porque a Lu também usa capas que cobrem a tampa da privada e não está nem aí se dizem se é brega&#8230;  Tem até foto, oh!</span>
+<span style="color: #ff0000;">E a</span> [Lu](http://www.lubrasil.net/blog/)  <span style="color: #ff0000;">sugere usar cestos de vime para colocar roupa suja (eu também sugiro e uso – é muito massa e bonito!) e combinar um outro menor para colocar revistas. E não pára por aí as sugestões porque a Lu também usa capas que cobrem a tampa da privada e não está nem aí se dizem se é brega&#8230;  Tem até foto, oh!</span>
 
  ![http://www.lubrasil.net/blog/](http://www.lubrasil.net/blog/wp-content/uploads/2008/11/coisinhas022-thumb.jpg "http://www.lubrasil.net/blog/")<img style="display: inline; margin-left: 0; margin-right: 0;" title="http://www.lubrasil.net/blog/" src="http://www.lubrasil.net/blog/wp-content/uploads/2008/11/coisinhas024-thumb.jpg" alt="http://www.lubrasil.net/blog/" align="right" />
 
-<span style="color: #ff0000;">O post original está</span> <a href="http://www.lubrasil.net/blog/?p=3217" target="_blank">aqui</a>.
+<span style="color: #ff0000;">O post original está</span> [aqui](http://www.lubrasil.net/blog/?p=3217) .
 
 <span style="color: #ff0000;">Obrigada, meninas!!!</span>
 
@@ -67,18 +67,18 @@ E o creminho é um mimo para quem usa o lavabo, para garantir mãos cheirosas e 
 
 <span style="color: #ff0000;"> </span>
 
-<span style="color: #ff0000;"> </span><span style="color: #000080;">Quanto mais dicas melhor, <em>né</em> não? Ora pois! Eu acho o máximo! Olha só a dica da Michelle:</span>
+<span style="color: #ff0000;"> </span><span style="color: #000080;">Quanto mais dicas melhor, _né_ não? Ora pois! Eu acho o máximo! Olha só a dica da Michelle:</span>
 
-<span style="color: #000080;">“&#8230;<em>Acho lindo um vasinho de violeta no banheiro, e elas vão super bem no inverno, não precisa nem regar, só o vapor do chuveiro já é suficiente pra ela ficar linda, claro que ela irá melhor se o banheiro tiver iluminação natural!!!</em></span>
+<span style="color: #000080;">“&#8230;_Acho lindo um vasinho de violeta no banheiro, e elas vão super bem no inverno, não precisa nem regar, só o vapor do chuveiro já é suficiente pra ela ficar linda, claro que ela irá melhor se o banheiro tiver iluminação natural!!!_</span>
 
-<span style="color: #000080;"><em>Dica 2 &#8211; Minha mãe diz que é ótimo ter quadro de peixe no banheiro, traz prosperidade, acho que é isso, e tmb não devemos deixar a tampa do vaso e ralos abertos, pra felicidade não ir embora&#8230;por via das dúvidas, lá em casa é tudo fechadinho</em>&#8230;”</span>
+<span style="color: #000080;">_Dica 2 &#8211; Minha mãe diz que é ótimo ter quadro de peixe no banheiro, traz prosperidade, acho que é isso, e tmb não devemos deixar a tampa do vaso e ralos abertos, pra felicidade não ir embora&#8230;por via das dúvidas, lá em casa é tudo fechadinho_&#8230;”</span>
 
 <span style="color: #000080;">Valeu, Michelle!!</span>
 
 <span style="color: #000080;">**Quer ler mais sobre decoração no banheiro?**</span>
 
-<span style="color: #000080;">**<em><a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">Pitacos de bicha fêmea: armários para banheiro.</a></em>**</span>
+<span style="color: #000080;">**_<a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">Pitacos de bicha fêmea: armários para banheiro.</a>_**</span>
 
-<span style="color: #000080;">**<em><a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_self">Dicas e imagens de como maximizar o banheiro.</a></em>**</span>
+<span style="color: #000080;">**_<a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_self">Dicas e imagens de como maximizar o banheiro.</a>_**</span>
 
-<span style="color: #000080;">**<em><a href="http://www.trololodemulher.com.br/2009/03/02/banheiros/" target="_self">Banheiros, banheiros e mais banheiros.</a></em>**</span>
+<span style="color: #000080;">**_<a href="http://www.trololodemulher.com.br/2009/03/02/banheiros/" target="_self">Banheiros, banheiros e mais banheiros.</a>_**</span>

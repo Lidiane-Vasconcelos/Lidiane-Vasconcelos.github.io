@@ -18,7 +18,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-   **<em>Usar protetor solar diariamente</em>**, independentemente de como está o dia: ensolarado ou nublado.
+   **_Usar protetor solar diariamente_**, independentemente de como está o dia: ensolarado ou nublado.
 </p>
 
 <p style="text-align: center;">
@@ -26,7 +26,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  Vestir as **<em>roupas (que já temos)</em>** com atitude.
+  Vestir as **_roupas (que já temos)_** com atitude.
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  **<em>Cuidar (nós mesmas, por que não?) das unhas</em>** em casa. Aliás, há <a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-para-uma-bicha-beeeem-fmea/" target="_self">**<em>dicas sobre cuidados com as unhas</em>** </a>antes publicadas no Bicha Fêmea que você seria interessante você saber. Confira! 
+  **_Cuidar (nós mesmas, por que não?) das unhas_** em casa. Aliás, há <a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-para-uma-bicha-beeeem-fmea/" target="_self">**_dicas sobre cuidados com as unhas_** </a>antes publicadas no Bicha Fêmea que você seria interessante você saber. Confira! 
 </p>
 
 <p style="text-align: center;">
@@ -42,7 +42,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  **<em>Beber mais água. </em>**
+  **_Beber mais água. _**
 </p>
 
 <p style="text-align: center;">
@@ -50,7 +50,7 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  **<em>Usar menos maquiagem</em>**, quando isso for possível. Ter uma aparência mais leve contribui para a pele estar mais limpa. Já pensou nisso? 
+  **_Usar menos maquiagem_**, quando isso for possível. Ter uma aparência mais leve contribui para a pele estar mais limpa. Já pensou nisso? 
 </p>
 
 <p style="text-align: center;">
@@ -58,11 +58,11 @@ Que tal fazermos juntas um _check list_ de algumas dessas pequenas ações dire
 </p>
 
 <p style="text-align: center;">
-  **<em>Passar longe de fast food</em>** sempre que possível, tentando manter uma dieta saudável.
+  **_Passar longe de fast food_** sempre que possível, tentando manter uma dieta saudável.
 </p>
 
 <p style="text-align: left;">
-  <em>Imagens: </em><a href="http://www.ivillage.com/beauty-style" target="_blank"><em>beauty.ivillage</em></a>
+  _Imagens: _[_beauty.ivillage_](http://www.ivillage.com/beauty-style) 
 </p>
 
 **Quer ver mais coisas simples que você pode fazer por sua beleza e saúde?**

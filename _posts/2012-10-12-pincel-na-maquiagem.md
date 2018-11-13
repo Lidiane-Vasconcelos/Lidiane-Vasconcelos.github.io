@@ -14,7 +14,7 @@ No meu caso, o pincel que faz diferença é o de _blush_ e pó. A sombra eu cost
 &nbsp;
 
 <p align="justify">
-  Lá nos bastidores do Bicha Fêmea o <em>trololó</em> sobre o assunto não foi pouco, e várias bichas fêmeas navegantes deram sua opinião. Depois de tudo que li e aprendi, creio que preciso rever meus conceitos, e sair por ai maquiada (com pincel!), serelepe, saltitante e mais bonita. <em>Espia</em> só:
+  Lá nos bastidores do Bicha Fêmea o _trololó_ sobre o assunto não foi pouco, e várias bichas fêmeas navegantes deram sua opinião. Depois de tudo que li e aprendi, creio que preciso rever meus conceitos, e sair por ai maquiada (com pincel!), serelepe, saltitante e mais bonita. _Espia_ só:
 </p>
 
 <!--more-->
@@ -26,13 +26,13 @@ No meu caso, o pincel que faz diferença é o de _blush_ e pó. A sombra eu cost
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidi! Eu tenho um conjunto completo de pinceis da **Contém 1 grama**. Não conheço muito das outras marcas, mas gosto bastante dos pinceis que utilizo atualmente. Ainda estou me adaptando com eles, sinto dificuldade em usar o pincel para base, neste caso acho que ainda prefiro espalhar com as mãos mesmo. Já **os pinceis de blush e sombra eu gosto bastante e adoro o resultado da maquiagem**. Acho que os pinceis são essenciais em partes. Pra mim, **o blush fica muito melhor se aplicado com pincel,** já as outras áreas acho que dá pra improvisar. Beijos</em>” **Leticia Fernandes | **<a href="http://puxadinhodalets.blogspot.com.br/" target="_blank">**Puxadinho da Lets**</a>
+>   “_Oi, Lidi! Eu tenho um conjunto completo de pinceis da **Contém 1 grama**. Não conheço muito das outras marcas, mas gosto bastante dos pinceis que utilizo atualmente. Ainda estou me adaptando com eles, sinto dificuldade em usar o pincel para base, neste caso acho que ainda prefiro espalhar com as mãos mesmo. Já **os pinceis de blush e sombra eu gosto bastante e adoro o resultado da maquiagem**. Acho que os pinceis são essenciais em partes. Pra mim, **o blush fica muito melhor se aplicado com pincel,** já as outras áreas acho que dá pra improvisar. Beijos_” **Leticia Fernandes | **[**Puxadinho da Lets**](http://puxadinhodalets.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Olha, Lidi, tem gente que faz maquiagens maravilhosas só com os dedos, tem gente que não dispensa pincel. **Eu particularmente gosto de pincel por um motivo simples: a suavidade.** **Maquiagem feita com pincel espalha o produto de forma uniforme e não deixa ficar quelas &#8220;potocas&#8221; de produtos concentrados na cara, entende? Para os olhos é que não dispenso mesmo. **Não sou muito habilidosa com os dedos e tenho olhos pequenos, **preciso da ajuda do pincel para dar aquela esfumadinha na sombra, deixando a fronteira sombra-pele bem suave, em degradê. Um bom pincel, macio, e que não fica soltando os pelinhos é uma boa escolha.** Sei que os da MAC são os queridinhos, mas existem ótimas opções no mercado onde você não precisa vender um rim (rsss) para possuir. Beijão!!!!!!!!!!!”</em> **Cely Bezerra**
+>   “_Olha, Lidi, tem gente que faz maquiagens maravilhosas só com os dedos, tem gente que não dispensa pincel. **Eu particularmente gosto de pincel por um motivo simples: a suavidade.** **Maquiagem feita com pincel espalha o produto de forma uniforme e não deixa ficar quelas &#8220;potocas&#8221; de produtos concentrados na cara, entende? Para os olhos é que não dispenso mesmo. **Não sou muito habilidosa com os dedos e tenho olhos pequenos, **preciso da ajuda do pincel para dar aquela esfumadinha na sombra, deixando a fronteira sombra-pele bem suave, em degradê. Um bom pincel, macio, e que não fica soltando os pelinhos é uma boa escolha.** Sei que os da MAC são os queridinhos, mas existem ótimas opções no mercado onde você não precisa vender um rim (rsss) para possuir. Beijão!!!!!!!!!!!”_ **Cely Bezerra**
 > </p>
 
 &nbsp;
@@ -44,13 +44,13 @@ No meu caso, o pincel que faz diferença é o de _blush_ e pó. A sombra eu cost
 &nbsp;
 
 > <p align="justify">
->   “<em>**Uso, sim, principalmente para aplicação de base, pó, blush e sombra. Deixa a maquiagem com um acabamento melhor.** O contato do dedo com a pele tira mais produto do que deixa. Para uma maquiagem perfeita, tão importante quanto escolher bons produtos é saber usar os pincéis de maquiagem adequados. **A escolha do pincel certo ajuda a dar um melhor acabamento e acredite, o resultado final fica diferente.** </em><em>Indico pincéis das marcas **MAC, MAKE B e CONTÉM 1G**. Cada marca têm uma faixa de preço, mas todas são de ótima qualidade.”</em> **Vivian Melo**
+>   “_**Uso, sim, principalmente para aplicação de base, pó, blush e sombra. Deixa a maquiagem com um acabamento melhor.** O contato do dedo com a pele tira mais produto do que deixa. Para uma maquiagem perfeita, tão importante quanto escolher bons produtos é saber usar os pincéis de maquiagem adequados. **A escolha do pincel certo ajuda a dar um melhor acabamento e acredite, o resultado final fica diferente.** __Indico pincéis das marcas **MAC, MAKE B e CONTÉM 1G**. Cada marca têm uma faixa de preço, mas todas são de ótima qualidade.”_ **Vivian Melo**
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidi! Bem&#8230; eu sou daquelas que não sai na rua sem maguiagem no rosto. Não gosto de maguiagem exagerada ou muito colorida, mas adoro sombras bege e marrom para dar mais vida aos olhos com toque natural, um lápis cinza no contorno dos olhos, blush e é claro um batom discreto para o dia e um mais forte para a noite. E **eu aplico tudo com pinceis: um bem pequeno para a sombra, um grande e arredondado mas bem macio para o pó, e um pequeno mas também macio para o blush. Eu costumava usar a esponja para o pó e aquele pincelzinho que acompanha a sombra mas no momento que comecei a usar o pincel não abandonei mais ele&#8230;adorei &#8230;achei que distribui melhor, fica mais homogêneo, acho que tem diferença, sim” **</em>**Lenita Feffe**
+>   “_Oi, Lidi! Bem&#8230; eu sou daquelas que não sai na rua sem maguiagem no rosto. Não gosto de maguiagem exagerada ou muito colorida, mas adoro sombras bege e marrom para dar mais vida aos olhos com toque natural, um lápis cinza no contorno dos olhos, blush e é claro um batom discreto para o dia e um mais forte para a noite. E **eu aplico tudo com pinceis: um bem pequeno para a sombra, um grande e arredondado mas bem macio para o pó, e um pequeno mas também macio para o blush. Eu costumava usar a esponja para o pó e aquele pincelzinho que acompanha a sombra mas no momento que comecei a usar o pincel não abandonei mais ele&#8230;adorei &#8230;achei que distribui melhor, fica mais homogêneo, acho que tem diferença, sim” **_**Lenita Feffe**
 > </p>
 
 &nbsp;
@@ -62,31 +62,31 @@ No meu caso, o pincel que faz diferença é o de _blush_ e pó. A sombra eu cost
 &nbsp;
 
 > <p align="justify">
->   “<em>Sim, uso, mas não sempre. Se é para trabalhar, na correria do dia-a-dia, ás vezes eu uso o dedo. **O pincel é mais preciso que o dedo. Por exemplo, se você quer marcar o côncavo, fica bem mais fácil fazer com o pincel**. </em><em>Não tenho preferência por marcas. **Para blush, pó, corretivo, etc, eu uso pincéis da ELF **(acabei de me dar conta que ainda não mostrei eles no blog, vou mostrar em breve). </em><em>Para os olhos eu costumo usar um <a href="http://cheiadecharme.blog.br/make-pincel-duo-mary-kay/" target="_blank">**duo da Mary Kay que é maravilhoso**</a>. </em><em>Quando eu fiz esse post (há 1 ano e meio) havia recém comprado ele e não dominava bem ainda o uso dos pincéis, mas com a prática a gente melhora muito , é só olhar as makes que eu fazia tempos atrás e as makes que faço hoje, **<a href="http://cheiadecharme.blog.br/maquiagem-para-festa-formatura-a-noite/" target="_blank">como essa</a>**. </em><em>Tem bastante diferença, né? hahahaha…”</em> **Pauline | **<a href="http://cheiadecharme.blog.br/" target="_blank">**Cheia de Charme**</a>
+>   “_Sim, uso, mas não sempre. Se é para trabalhar, na correria do dia-a-dia, ás vezes eu uso o dedo. **O pincel é mais preciso que o dedo. Por exemplo, se você quer marcar o côncavo, fica bem mais fácil fazer com o pincel**. __Não tenho preferência por marcas. **Para blush, pó, corretivo, etc, eu uso pincéis da ELF **(acabei de me dar conta que ainda não mostrei eles no blog, vou mostrar em breve). __Para os olhos eu costumo usar um [**duo da Mary Kay que é maravilhoso**](http://cheiadecharme.blog.br/make-pincel-duo-mary-kay/) . __Quando eu fiz esse post (há 1 ano e meio) havia recém comprado ele e não dominava bem ainda o uso dos pincéis, mas com a prática a gente melhora muito , é só olhar as makes que eu fazia tempos atrás e as makes que faço hoje, **[como essa](http://cheiadecharme.blog.br/maquiagem-para-festa-formatura-a-noite/) **. __Tem bastante diferença, né? hahahaha…”_ **Pauline | **[**Cheia de Charme**](http://cheiadecharme.blog.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, amada. **Uso pincel para pó, blush e sombra &#8211; e para sombra é pincel, não os com espuminha. Também gosto de passar base com pincel, mas ultimamente a falta de tempo me faz usar os dedos mesmo&#8230;** bom, marca não faz muito a minha cabeça&#8230; **tenho várias marcas, inclusive a famosa Sigma, Beliz, entre outras**&#8230; mas não ligo muito&#8230; **gosto de ter vários modelos e tamanhos, pois quando estou inspirada para fazer a make caprichada, tenho todos à mão.** </em><em>bjs”</em> **Adriana Lara | **<a href="http://tititidadri.blogspot.com.br/" target="_blank">**Ti Ti Ti da Dri**</a>
+>   “_Oi, amada. **Uso pincel para pó, blush e sombra &#8211; e para sombra é pincel, não os com espuminha. Também gosto de passar base com pincel, mas ultimamente a falta de tempo me faz usar os dedos mesmo&#8230;** bom, marca não faz muito a minha cabeça&#8230; **tenho várias marcas, inclusive a famosa Sigma, Beliz, entre outras**&#8230; mas não ligo muito&#8230; **gosto de ter vários modelos e tamanhos, pois quando estou inspirada para fazer a make caprichada, tenho todos à mão.** __bjs”_ **Adriana Lara | **[**Ti Ti Ti da Dri**](http://tititidadri.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Você está vendo como deu o que falar o assunto? E nesse<em> trololó</em> todo, ainda ouvi (li) a opinião de uma bicha fêmea navegante que acabou desencadeando a necessidade de um novo post. Tenho certeza que você vai gostar da ideia, porque vai aprender um bocado. Entenda a seguir:
+  Você está vendo como deu o que falar o assunto? E nesse_ trololó_ todo, ainda ouvi (li) a opinião de uma bicha fêmea navegante que acabou desencadeando a necessidade de um novo post. Tenho certeza que você vai gostar da ideia, porque vai aprender um bocado. Entenda a seguir:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Olá, Lidi! **Depois que eu fiz o curso de maquiagem com a Heidi Lanzellotti descobri o valor dos pincéis**. **Antes nem ligava para sombras, mas ao aprender a usar os pincéis, passei a colecionar sombras! rsrsrs Uso também para blush, pó, base e corretivo. **Não tenho marca de preferência, comprei os primeiros por indicação da Heidi e depois acabei aprendendo a escolher sozinha.”</em> **Silvana Mello | **<a href="http://in-vestidajoiasebijoux.blogspot.com.br/" target="_blank">**In-Vestida**</a>
+>   “_Olá, Lidi! **Depois que eu fiz o curso de maquiagem com a Heidi Lanzellotti descobri o valor dos pincéis**. **Antes nem ligava para sombras, mas ao aprender a usar os pincéis, passei a colecionar sombras! rsrsrs Uso também para blush, pó, base e corretivo. **Não tenho marca de preferência, comprei os primeiros por indicação da Heidi e depois acabei aprendendo a escolher sozinha.”_ **Silvana Mello | **[**In-Vestida**](http://in-vestidajoiasebijoux.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Já que ela falou que** fez um curso com a Heidi Lanzellotti** que a fez mudar o ponto de vista sobre esses instrumentos de beleza que, pelo visto, faz mesmo diferença, você imagina o que fiz? Isso mesmo! **Consultei a Heidi e perguntei se ela poderia dar dicas sobre os acessórios com exclusividade para as bichas fêmeas navegantes**. A boa notícia é que, sim, ela deu! Por isso, aguarde as cenas dos próximos capítulos e aprenda tudo que precisa para fazer boas escolhas, <em>viu?</em> Vem um novo post por aí…
+  Já que ela falou que** fez um curso com a Heidi Lanzellotti** que a fez mudar o ponto de vista sobre esses instrumentos de beleza que, pelo visto, faz mesmo diferença, você imagina o que fiz? Isso mesmo! **Consultei a Heidi e perguntei se ela poderia dar dicas sobre os acessórios com exclusividade para as bichas fêmeas navegantes**. A boa notícia é que, sim, ela deu! Por isso, aguarde as cenas dos próximos capítulos e aprenda tudo que precisa para fazer boas escolhas, _viu?_ Vem um novo post por aí…
 </p>
 
 &nbsp;
@@ -164,7 +164,7 @@ No meu caso, o pincel que faz diferença é o de _blush_ e pó. A sombra eu cost
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -179,13 +179,13 @@ No meu caso, o pincel que faz diferença é o de _blush_ e pó. A sombra eu cost
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

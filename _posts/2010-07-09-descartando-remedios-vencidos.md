@@ -29,11 +29,11 @@ No fim das contas, é preciso que se diga, o balconista me orientou a levar a me
 
 Então será assim que vou resolver o meu problema, e sugiro a você, bonita, que tente fazer algo para evitar lançar os remédios vencidos no lixo doméstico ou no vaso sanitário. É que a natureza agradece, e pessoas desavisadas (como os catadores, por exemplo) também, sim?!
 
-Texto orginalmente publicado no <a href="http://sollartes.blogspot.com/2010/03/falando-no-coisas-lidiane-vasconcelos_25.html" target="_blank">Soll Artes e Outras Coisas…</a>
+Texto orginalmente publicado no [Soll Artes e Outras Coisas…](http://sollartes.blogspot.com/2010/03/falando-no-coisas-lidiane-vasconcelos_25.html) 
 
 **As bichas fêmeas falam&#8230;**
 
-A Beta, que edita o blog <a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a>, avisou que fez um post que complementa este aqui, do Bicha Fêmea. Fui conferir, e o post da Beta, que é do Rio de Janeiro, informa que quem tem remédios em casa e que ainda estão na validade, pode doá-los na <a href="http://www.asaprev-rj.org.br/" target="_blank">ASAPREV-RJ</a>, que fica na Av. Rio Branco 156 &#8211; 20 andar sala 2021 à 2024 &#8211; (Edifício Av. Central ) &#8211; e orienta que os remédios podem ser deixados na portaria do prédio. Além disso, a Beta informa que você pode fazer a doação também no Shopping Tijuca no SAC &#8211; SERVIÇO DE ATENDIMENTO AO CLIENTE &#8211; 3° PISO.
+A Beta, que edita o blog [Mix Cultural](http://mixdeinformacao.blogspot.com/) , avisou que fez um post que complementa este aqui, do Bicha Fêmea. Fui conferir, e o post da Beta, que é do Rio de Janeiro, informa que quem tem remédios em casa e que ainda estão na validade, pode doá-los na [ASAPREV-RJ](http://www.asaprev-rj.org.br/) , que fica na Av. Rio Branco 156 &#8211; 20 andar sala 2021 à 2024 &#8211; (Edifício Av. Central ) &#8211; e orienta que os remédios podem ser deixados na portaria do prédio. Além disso, a Beta informa que você pode fazer a doação também no Shopping Tijuca no SAC &#8211; SERVIÇO DE ATENDIMENTO AO CLIENTE &#8211; 3° PISO.
 
 Excelente aviso, _hein_?! Obrigada, Beta!
 
@@ -52,5 +52,5 @@ Excelente aviso, _hein_?! Obrigada, Beta!
 ** **
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
 </p>

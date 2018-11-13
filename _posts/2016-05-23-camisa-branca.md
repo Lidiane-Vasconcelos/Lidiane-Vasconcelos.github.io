@@ -10,7 +10,7 @@ categories:
   - Moda
 ---
 <p style="text-align: justify;">
-  A **camisa branca** vai e vem na moda feminina, em modelos diferentes a atendendo a diversos estilos, mas sempre mostrando-se como um clássico no guarda-roupas das mulheres. No Inverno que vem por aí, use e abuse da peça, e saia linda de acordo com seu estilo. Para que não haja dúvidas quanto às possibilidades de uso dessa queridinha, pedi a ajuda a nossa já querida <em>expert</em> **Lilian Jordão**, **Consultora de Estilo, da Cidade de Ribeirão Preto**. Veja logo abaixo várias versões da peça… escolha a sua, a arrase!
+  A **camisa branca** vai e vem na moda feminina, em modelos diferentes a atendendo a diversos estilos, mas sempre mostrando-se como um clássico no guarda-roupas das mulheres. No Inverno que vem por aí, use e abuse da peça, e saia linda de acordo com seu estilo. Para que não haja dúvidas quanto às possibilidades de uso dessa queridinha, pedi a ajuda a nossa já querida _expert_ **Lilian Jordão**, **Consultora de Estilo, da Cidade de Ribeirão Preto**. Veja logo abaixo várias versões da peça… escolha a sua, a arrase!
 </p>
 
 <p style="text-align: justify;">
@@ -27,7 +27,7 @@ categories:
   </p>
   
   <p>
-    “<em>É uma peça indispensável em qualquer guarda-roupa. É uma peça clássica, elegante, versátil e atemporal, ou seja, nunca sai de moda e pode ser usada em qualquer estação</em>.”
+    “_É uma peça indispensável em qualquer guarda-roupa. É uma peça clássica, elegante, versátil e atemporal, ou seja, nunca sai de moda e pode ser usada em qualquer estação_.”
   </p>
   
   <p>
@@ -35,7 +35,7 @@ categories:
   </p>
   
   <p align="justify">
-    “<em>Como citei acima a camisa branca é uma peça extremamente versátil, ela vai desde o trabalho até um encontro informal com as amigas. Para montar um look para encontrar as amigas, tudo vai depender do estilo de cada uma. Porém, você pode combiná-la com saia, calça jeans ou de alfaiataria, short e até com vestido. Use e abuse dos acessórios, pois como a cor é neutra, pode colocar um colar colorido ou até mesmo uma terceira peça, como o blazer, cardigã, colete&#8230;”</em>
+    “_Como citei acima a camisa branca é uma peça extremamente versátil, ela vai desde o trabalho até um encontro informal com as amigas. Para montar um look para encontrar as amigas, tudo vai depender do estilo de cada uma. Porém, você pode combiná-la com saia, calça jeans ou de alfaiataria, short e até com vestido. Use e abuse dos acessórios, pois como a cor é neutra, pode colocar um colar colorido ou até mesmo uma terceira peça, como o blazer, cardigã, colete&#8230;”_
   </p>
   
   <p align="center">
@@ -47,7 +47,7 @@ categories:
   </p>
   
   <p>
-    **“**<em>É super bem-vinda no dia-a-dia. Pode combiná-la com uma peça para o trabalho ou para um passeio informal no shopping, buscar o filho na escola e fazer compras no supermercado.”</em>
+    **“**_É super bem-vinda no dia-a-dia. Pode combiná-la com uma peça para o trabalho ou para um passeio informal no shopping, buscar o filho na escola e fazer compras no supermercado.”_
   </p>
   
   <p align="center">
@@ -103,7 +103,7 @@ categories:
   </p>
   
   <p>
-    **<a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank">Como usar saia, a peça mais feminina?</a>**
+    **[Como usar saia, a peça mais feminina?](http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/) **
   </p>
   
   <p>
@@ -119,11 +119,11 @@ categories:
   </p>
   
   <p align="justify">
-    A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>! A novidade, bonita, é que a Lilian também tem um site lindo de viver! <a href="http://www.lilianjordao.com.br/" target="_blank">Visite seu site, clique aqui</a>, e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
+    A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? [Clica aqui e se joga](https://www.facebook.com/lilianjordao82/timeline) ! A novidade, bonita, é que a Lilian também tem um site lindo de viver! [Visite seu site, clique aqui](http://www.lilianjordao.com.br/) , e descubra um apanhado de informações para entender moda de um jeito bem descomplicado. Se joga!
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
   </p>
   
   <p align="justify">

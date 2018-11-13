@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://blog.amyatlas.com/2013/02/22/up-up-and-away-guest-dessert-feature-2/" target="_blank">Sweet Designs</a>
+  Via [Sweet Designs](http://blog.amyatlas.com/2013/02/22/up-up-and-away-guest-dessert-feature-2/) 
 </p>
 
 <p align="justify">
@@ -41,12 +41,12 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://peaceofcakedesign.blogspot.gr/2014/04/hot-air-balloon-baby-shower.html" target="_blank">Peace of Cake</a>
+  Via [Peace of Cake](http://peaceofcakedesign.blogspot.gr/2014/04/hot-air-balloon-baby-shower.html) 
 </p>
 
 &nbsp;
 
-**A caixa/<a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">sacola de festa infantil</a>**
+**A caixa/[sacola de festa infantil](http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/) **
 
 &nbsp;
 
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://blog.tinyprints.com/birthday-party-ideas/hot-air-balloon-themed-girls-first-birthday-party/" target="_blank">TinyPrints</a>
+  Via [TinyPrints](https://blog.tinyprints.com/birthday-party-ideas/hot-air-balloon-themed-girls-first-birthday-party/) 
 </p>
 
 <p align="justify">
@@ -63,16 +63,16 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">**Sacolinha de festa infantil: faça você mesma**</a>
+  [**Sacolinha de festa infantil: faça você mesma**](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/" target="_blank">**Lembrancinhas de festas que saem da mesmice: dicas.**</a>
+  [**Lembrancinhas de festas que saem da mesmice: dicas.**](http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/) 
 </p>
 
 &nbsp;
 
-**<a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank">Detalhes de decoração “faça você mesma”</a>**
+**[Detalhes de decoração “faça você mesma”](http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/) **
 
 &nbsp;
 
@@ -81,7 +81,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://br.pinterest.com/pin/228417012325044496/" target="_blank">Pinterest</a>
+  Via [Pinterest](https://br.pinterest.com/pin/228417012325044496/) 
 </p>
 
 &nbsp;
@@ -95,12 +95,12 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/missbiscuit/14593724622/" target="_blank">Flickr</a>
+  Via [Flickr](https://www.flickr.com/photos/missbiscuit/14593724622/) 
 </p>
 
 &nbsp;
 
-**<a href="http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/" target="_blank">Topper de Cupcakes</a>**
+**[Topper de Cupcakes](http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/) **
 
 &nbsp;
 
@@ -109,7 +109,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://br.pinterest.com/pin/446349013039973624/" target="_blank">Pinterest</a>
+  Via [Pinterest](https://br.pinterest.com/pin/446349013039973624/) 
 </p>
 
 &nbsp;
@@ -123,13 +123,13 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.fabricpaperglue.com/2013/03/try-this-hot-air-balloon-baby-shower.html" target="_blank">Fabric Paper Glue</a>
+  Via [Fabric Paper Glue](http://www.fabricpaperglue.com/2013/03/try-this-hot-air-balloon-baby-shower.html) 
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

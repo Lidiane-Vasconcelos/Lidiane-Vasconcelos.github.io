@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Margaret, 55 anos & Bi, 55 anos. Ela, proprietária da empresa <a href="http://divitae.com.br/" target="_blank">Divitae</a>. Ele, sócio da sua amada. Juntos desde 2001, formam um dos casais mais divertidos que talvez você ainda não tenha conhecido. Só acompanhando pra entender do que estou falando&#8230;</em>
+  _Margaret, 55 anos & Bi, 55 anos. Ela, proprietária da empresa [Divitae](http://divitae.com.br/) . Ele, sócio da sua amada. Juntos desde 2001, formam um dos casais mais divertidos que talvez você ainda não tenha conhecido. Só acompanhando pra entender do que estou falando&#8230;_
 </p>
 
 <p align="justify">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Um papel muito saudável e cheio de confiança. Enquanto para alguns casais a internet é motivo de desavença, para nós é motivo de união, afinal nos conhecemos através dela. Eu sou a que fica mais tempo, mas ele participa de tudo. Torce, palpita, conserta meus erros de português. E além de tudo, dividimos o conhecimento e as coisas engraçadas.”</em>**
+>   **_“Um papel muito saudável e cheio de confiança. Enquanto para alguns casais a internet é motivo de desavença, para nós é motivo de união, afinal nos conhecemos através dela. Eu sou a que fica mais tempo, mas ele participa de tudo. Torce, palpita, conserta meus erros de português. E além de tudo, dividimos o conhecimento e as coisas engraçadas.”_**
 > </p>
 
 <p align="justify">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Tendo companheirismo e confiança.”</em>**
+>   **_“Tendo companheirismo e confiança.”_**
 > </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **“<em>No primeiro dia. E eu nem queria acreditar que eu tinha encontrado o homem da minha vida. Achei que era muito bom pra ser verdade. A parte boa é que foi verdade.”</em>**
+>   **“_No primeiro dia. E eu nem queria acreditar que eu tinha encontrado o homem da minha vida. Achei que era muito bom pra ser verdade. A parte boa é que foi verdade.”_**
 > </p>
 
 <p align="center">
@@ -56,11 +56,11 @@ categories:
 </p>
 
 <p align="center">
-  Foto de <a href="http://betabernardo.com/" target="_blank">Beta Bernardo</a>
+  Foto de [Beta Bernardo](http://betabernardo.com/) 
 </p>
 
 <p align="center">
-  <em>Evinha, 32 anos & Eder, 52 anos. Ela, proprietária da empresa <a href="http://www.lojalapomme.com.br/" target="_blank">La Pomme</a>. Ele, sócio da Eva. Juntos há 15 anos, os dois formam um casal cheio de sensibilidade e, juntos, imprimem delicadezas de um jeito só deles. É bom acompanhá-los!</em>
+  _Evinha, 32 anos & Eder, 52 anos. Ela, proprietária da empresa [La Pomme](http://www.lojalapomme.com.br/) . Ele, sócio da Eva. Juntos há 15 anos, os dois formam um casal cheio de sensibilidade e, juntos, imprimem delicadezas de um jeito só deles. É bom acompanhá-los!_
 </p>
 
 <p align="justify">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Nos conhecemos através da internet (Eder era amigo virtual da minha mãe&#8230; (hihihi)”</em>**
+>   **_“Nos conhecemos através da internet (Eder era amigo virtual da minha mãe&#8230; (hihihi)”_**
 > </p>
 
 <p align="justify">
@@ -76,7 +76,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **“<em>Eu não tenho outro parâmetro de relacionamento, apesar do casamento dos meus pais não ter dado certo, cresci vendo os dois sempre trabalhando juntos&#8230; pra mim, esse é o padrão. Casei com alguém que também enxerga a vida assim, que um casal tá lado a lado em todos os aspectos pro que der e vier. Às vezes é bem complicado estar 24 horas por dia juntos, separar chateações de trabalho com chateações pessoais, ou não ter aquela ansiedade de esperar por um encontro, ou quando falta assunto pra conversar porque a gente olha no olho do outro e sabe o que o outro tá sentindo.”</em>**
+>   **“_Eu não tenho outro parâmetro de relacionamento, apesar do casamento dos meus pais não ter dado certo, cresci vendo os dois sempre trabalhando juntos&#8230; pra mim, esse é o padrão. Casei com alguém que também enxerga a vida assim, que um casal tá lado a lado em todos os aspectos pro que der e vier. Às vezes é bem complicado estar 24 horas por dia juntos, separar chateações de trabalho com chateações pessoais, ou não ter aquela ansiedade de esperar por um encontro, ou quando falta assunto pra conversar porque a gente olha no olho do outro e sabe o que o outro tá sentindo.”_**
 > </p>
 
 <p align="justify">
@@ -84,7 +84,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Não tem um artifício específico que usamos pra manter a relação acesa e colorida. Nossa relação tem uma cumplicidade muito grande que vai muito além da relação marido e mulher, e a gente vai se ajustando quando vemos que algo não tá indo bem&#8230; Ver um filme juntos, em casa, com uma bacia de pipoca, ir numa praia calma e tranquila&#8230; Essas pequenas coisas que valorizamos, esse olhar que tá sempre na mesma direção é o que nos ajuda a seguir lado a lado.”</em>**
+>   **_“Não tem um artifício específico que usamos pra manter a relação acesa e colorida. Nossa relação tem uma cumplicidade muito grande que vai muito além da relação marido e mulher, e a gente vai se ajustando quando vemos que algo não tá indo bem&#8230; Ver um filme juntos, em casa, com uma bacia de pipoca, ir numa praia calma e tranquila&#8230; Essas pequenas coisas que valorizamos, esse olhar que tá sempre na mesma direção é o que nos ajuda a seguir lado a lado.”_**
 > </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Jê, jura que tem 34 anos & Sérgio, de acordo com a certeza (quase incerta) de Jê, 40 anos. Ela, costureira e designer na </em><a href="http://www.dreamsfactorybyjeane.com/" target="_blank"><em>Dreams Factory</em></a><em>. Ele, gerente de projeto na área de programação. Juntos desde 1999, quando se conheceram pela internet, casaram em 2002 e, desde então, formam um casal nordestino (ela de RN e ele de PE) superultramega bem humorado. Quem acompanha os diálogos do marido e da marida, comandados pela Jê lá no </em><a href="https://www.facebook.com/DreamsFactoryByJeane/timeline" target="_blank"><em>Facebook</em></a><em>, não se aguenta em si de tanto que ri. Confere!</em>
+  _Jê, jura que tem 34 anos & Sérgio, de acordo com a certeza (quase incerta) de Jê, 40 anos. Ela, costureira e designer na _[_Dreams Factory_](http://www.dreamsfactorybyjeane.com/) _. Ele, gerente de projeto na área de programação. Juntos desde 1999, quando se conheceram pela internet, casaram em 2002 e, desde então, formam um casal nordestino (ela de RN e ele de PE) superultramega bem humorado. Quem acompanha os diálogos do marido e da marida, comandados pela Jê lá no _[_Facebook_](https://www.facebook.com/DreamsFactoryByJeane/timeline) _, não se aguenta em si de tanto que ri. Confere!_
 </p>
 
 &nbsp;
@@ -126,17 +126,17 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/" target="_blank">**Casamento: os conselhos mais inteligentes. Já leu?**</a>
+  [**Casamento: os conselhos mais inteligentes. Já leu?**](http://www.trololodemulher.com.br/2015/05/22/casamento-conselhos/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/" target="_blank">**Casamento duradouro: isto tem algum segredo?**</a>
+  [**Casamento duradouro: isto tem algum segredo?**](http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/" target="_blank">**Há vida após o casamento?**</a>
+  [**Há vida após o casamento?**](http://www.trololodemulher.com.br/2010/06/30/casamento-2/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

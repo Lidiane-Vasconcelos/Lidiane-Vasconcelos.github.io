@@ -13,7 +13,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Já faz um bom tempo tomei conhecimento de um movimento que iniciou na Europa e chamou bastante minha atenção: <em>slow food</em>. Uma característica de quem é adepta deste movimento, ou filosofia de vida como gosto de chamar, é a de comer comida que sai das panelas, com bons ingredientes, à mesa e sem pressa, dando-se o tempo necessário para mastigar e saborear a comida, rodeada pela família ou amigos. Enfim, comer bons alimentos, e com calma. Essa forma de encarar a hora da refeição faz oposição a ideia do <em>fast food</em> e tudo o mais que signifique esse estilo de vida moderno: corrido, padronizado, materialista e destituído de afetos.
+  Já faz um bom tempo tomei conhecimento de um movimento que iniciou na Europa e chamou bastante minha atenção: _slow food_. Uma característica de quem é adepta deste movimento, ou filosofia de vida como gosto de chamar, é a de comer comida que sai das panelas, com bons ingredientes, à mesa e sem pressa, dando-se o tempo necessário para mastigar e saborear a comida, rodeada pela família ou amigos. Enfim, comer bons alimentos, e com calma. Essa forma de encarar a hora da refeição faz oposição a ideia do _fast food_ e tudo o mais que signifique esse estilo de vida moderno: corrido, padronizado, materialista e destituído de afetos.
 </p>
 
 <p align="justify">
@@ -25,11 +25,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">**Vida simples: menos é mais e a gente vive melhor…**</a>
+  [**Vida simples: menos é mais e a gente vive melhor…**](http://www.trololodemulher.com.br/2015/07/03/vida-simples/) 
 </p>
 
 <p align="justify">
-  Como pode-se notar, essa postura diante da vida pretende questionar e não sucumbir a tentação de viver “na correria”, como uma louca tentando resolver mil coisas ao mesmo tempo e agora. Essa correria insana se justifica pelo desejo de “ter” tanto mais possível, para manter o <em>status</em> social, em detrimento de possuir apenas o necessário e, com isso, precisar de menos dinheiro e menos tempo empregado para obtê-lo. Desacelerar nesse sentido é o que permite que tenhamos mais qualidade de vida, porque há mais espaço na rotina para outros aspectos: família, amigos, cozinhar nossa própria comida, lazer, cultura, descanso, etc.
+  Como pode-se notar, essa postura diante da vida pretende questionar e não sucumbir a tentação de viver “na correria”, como uma louca tentando resolver mil coisas ao mesmo tempo e agora. Essa correria insana se justifica pelo desejo de “ter” tanto mais possível, para manter o _status_ social, em detrimento de possuir apenas o necessário e, com isso, precisar de menos dinheiro e menos tempo empregado para obtê-lo. Desacelerar nesse sentido é o que permite que tenhamos mais qualidade de vida, porque há mais espaço na rotina para outros aspectos: família, amigos, cozinhar nossa própria comida, lazer, cultura, descanso, etc.
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/elyarch/15478671849/" target="_blank">Elitsa@Elyarch</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Via [Elitsa@Elyarch](https://www.flickr.com/photos/elyarch/15478671849/) <b> / </b>[Foter](http://foter.com/) <b> / </b>[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">**Produtividade e gestão do tempo: chega de correria!**</a>
+  [**Produtividade e gestão do tempo: chega de correria!**](http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/) 
 </p>
 
 <p align="justify">
@@ -57,9 +57,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">** **</a>
+  [** **](http://www.trololodemulher.com.br/2015/07/03/vida-simples/) 
 </p>

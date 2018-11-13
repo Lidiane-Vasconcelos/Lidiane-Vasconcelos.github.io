@@ -63,7 +63,7 @@ Logo abaixo dos armários superiores há um nicho em toda a extensão que ele cr
   </tr>
 </table>
 
-Cada um de nós procura dar um pouco de si nos detalhes em cada um dos cantos que nós ficamos. Acho importante que seja assim, que cada um mantenha coisas com suas características pessoais. A Nana &#8211; <a href="http://www.mangacompimenta.blogspot.com/" target="_blank">Manga com Pimenta </a>&#8211; está pensando em fazer o seu cantinho de onde pretende blogar e usar seu computador, e <a href="http://mangacompimenta.blogspot.com/2010/01/faca-um-cantinho-para-chamar-de-seu.html" target="_blank">já busca inspirações</a>.  Ela vem usando um cantinho que, na verdade, parece ter mais a cara do marido:
+Cada um de nós procura dar um pouco de si nos detalhes em cada um dos cantos que nós ficamos. Acho importante que seja assim, que cada um mantenha coisas com suas características pessoais. A Nana &#8211; [Manga com Pimenta ](http://www.mangacompimenta.blogspot.com/) &#8211; está pensando em fazer o seu cantinho de onde pretende blogar e usar seu computador, e [já busca inspirações](http://mangacompimenta.blogspot.com/2010/01/faca-um-cantinho-para-chamar-de-seu.html) .  Ela vem usando um cantinho que, na verdade, parece ter mais a cara do marido:
 
 &#8220;&#8230;_eu aprendi depois de seis anos que todo mundo precisa de um cantinho para chamar de seu, aprendi tarde, o meu marido sempre teve o dele que é dentro do quarto, um mini escritório podemos dizer, tem até rotas e quadros de avião, fotos tiradas por ele. Eu sempre usei o seu cantinho, mas agora decidi ter o meu e tento arquitetar o que eu posso fazer na sala_&#8230;&#8221;
 
@@ -77,7 +77,7 @@ Acho que a Nana está certa. Como aqui em casa o escritório é um só, é nos d
   </tr>
 </table>
 
-Entre o nicho dos bonecos e a mesa está o painel com tecido, onde fixamos com alfinetes a nossa papelada de lembretes e afins. É nesse painel que faço a festa com meus _post-its_, e foi onde coloquei meu calendário de 2010 feito pela Luci – <a href="http://artesdaluci.blogspot.com/" target="_blank">Artes da Luci </a>& <a href="http://reencontrandoaspalavras.blogspot.com/" target="_blank">Vida</a> – um mimo enviado por ela para o meu e-mail. Onde e como ela fez eu não sei, só sei que isso é coisa de bicha fêmea _high tech_, sabe?
+Entre o nicho dos bonecos e a mesa está o painel com tecido, onde fixamos com alfinetes a nossa papelada de lembretes e afins. É nesse painel que faço a festa com meus _post-its_, e foi onde coloquei meu calendário de 2010 feito pela Luci – [Artes da Luci ](http://artesdaluci.blogspot.com/) & [Vida](http://reencontrandoaspalavras.blogspot.com/)  – um mimo enviado por ela para o meu e-mail. Onde e como ela fez eu não sei, só sei que isso é coisa de bicha fêmea _high tech_, sabe?
 
 <table align="center">
   <tr>
@@ -159,10 +159,10 @@ O gostoso de passar tantas horas no escritório é sentir-se bem num ambiente qu
 
 **Mais no Bicha Fêmea…**
 
-<a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-de-escritorio-ou-home-office-dicas/" target="_self">**<em>Organização de escritório ou home office: dicas.</em>**</a>
+<a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-de-escritorio-ou-home-office-dicas/" target="_self">**_Organização de escritório ou home office: dicas._**</a>
 
 **_<a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/" target="_self">Inspirações para a decoração do home office.</a>_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
 </p>

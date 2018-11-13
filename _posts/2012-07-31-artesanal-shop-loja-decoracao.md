@@ -27,7 +27,7 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 &nbsp;
 
 <p align="justify">
-  Eu te digo: é na **<a href="http://www.artesanalshop.com.br/" target="_blank">Artesanal Shop</a>**! E quando eu falei que na loja você pode “vestir” sua casa, é justamente porque os produtos que você vai encontrar por lá dão o arremate em qualquer decoração. Lá você encontra **almofadas, capas para almofadas, cortinas, colchas, caminhos de mesa, trilhos e passadeiras, toalhas de mesa, mantas para sofá**…
+  Eu te digo: é na **[Artesanal Shop](http://www.artesanalshop.com.br/) **! E quando eu falei que na loja você pode “vestir” sua casa, é justamente porque os produtos que você vai encontrar por lá dão o arremate em qualquer decoração. Lá você encontra **almofadas, capas para almofadas, cortinas, colchas, caminhos de mesa, trilhos e passadeiras, toalhas de mesa, mantas para sofá**…
 </p>
 
 <p align="center">
@@ -55,5 +55,5 @@ Já imaginou uma loja virtual onde você pudesse encontrar tudo que precisa para
 </p>
 
 <p align="justify">
-  E aí? Não ficou com vontade de dar uma olhadinha, bonita? Prepare-se para uma variedade imensa de produtos, <em>viu</em>? Se sua casa anda meio “peladinha”, sem detalhes como cortinas, almofadas bonitas ou tapetes, tudo o que deixa a casa muito mais bonita e confortável, na **Artesanal Shop** você deve encontrar algo com seu estilo… **<a href="http://www.artesanalshop.com.br/" target="_blank">clica aqui</a>** e confere!
+  E aí? Não ficou com vontade de dar uma olhadinha, bonita? Prepare-se para uma variedade imensa de produtos, _viu_? Se sua casa anda meio “peladinha”, sem detalhes como cortinas, almofadas bonitas ou tapetes, tudo o que deixa a casa muito mais bonita e confortável, na **Artesanal Shop** você deve encontrar algo com seu estilo… **[clica aqui](http://www.artesanalshop.com.br/) ** e confere!
 </p>

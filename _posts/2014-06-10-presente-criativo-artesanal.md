@@ -26,7 +26,7 @@ E se é algo assim, nesse estilo, que você está procurando para presentear aqu
 &nbsp;
 
 <p align="justify">
-  Macacão em brim leve, bordado a mão. Medidas Aproximadas: 62cm (altura total) x 31cm (cintura). Mais informações <a href="http://scolastikasloja.tanlup.com/product/801582/macacao-infantil-ursinho" target="_blank">aqui</a>.
+  Macacão em brim leve, bordado a mão. Medidas Aproximadas: 62cm (altura total) x 31cm (cintura). Mais informações [aqui](http://scolastikasloja.tanlup.com/product/801582/macacao-infantil-ursinho) .
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ E se é algo assim, nesse estilo, que você está procurando para presentear aqu
 &nbsp;
 
 <p align="justify">
-  Sapatinho para bebês, crochetado a mão, em lã. Medida aproximada da sola: 9cm. Mais informações <a href="http://scolastikasloja.tanlup.com/product/850944/sa-patinho" target="_blank">aqui</a>.
+  Sapatinho para bebês, crochetado a mão, em lã. Medida aproximada da sola: 9cm. Mais informações [aqui](http://scolastikasloja.tanlup.com/product/850944/sa-patinho) .
 </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ E se é algo assim, nesse estilo, que você está procurando para presentear aqu
 &nbsp;
 
 <p align="justify">
-  Capa de almofada em algodão, com aplique em feltro bordado a mão. Acabamento em zíper. 40cm x 40cm. Mais informações <a href="http://scolastikasloja.tanlup.com/product/692015/capa-de-almofada-coelho-so" target="_blank">aqui</a>.
+  Capa de almofada em algodão, com aplique em feltro bordado a mão. Acabamento em zíper. 40cm x 40cm. Mais informações [aqui](http://scolastikasloja.tanlup.com/product/692015/capa-de-almofada-coelho-so) .
 </p>
 
 &nbsp;
@@ -62,11 +62,11 @@ E se é algo assim, nesse estilo, que você está procurando para presentear aqu
 &nbsp;
 
 <p align="justify">
-  Para decorar sua parte preferida da casa! Na cabeceira da cama, no suporte da cortina, em volta do espelho, naquela parede vazia que você não sabia o que colocar&#8230; Bichos: em crochet, feitos em linha de algodão. Aproximadamente 8cm de diâmetro. Este produto é personalizável! Os bichinhos podem ser produzidos de acordo com sua preferência. Podem ser diferentes, como nas imagens (são 8 no total) ou os de sua escolha (ex: apenas ursos, ou apenas gatos). Mais informações <a href="http://scolastikasloja.tanlup.com/product/887476/varal-decorativo-luminoso-bichos" target="_blank">aqui</a>.
+  Para decorar sua parte preferida da casa! Na cabeceira da cama, no suporte da cortina, em volta do espelho, naquela parede vazia que você não sabia o que colocar&#8230; Bichos: em crochet, feitos em linha de algodão. Aproximadamente 8cm de diâmetro. Este produto é personalizável! Os bichinhos podem ser produzidos de acordo com sua preferência. Podem ser diferentes, como nas imagens (são 8 no total) ou os de sua escolha (ex: apenas ursos, ou apenas gatos). Mais informações [aqui](http://scolastikasloja.tanlup.com/product/887476/varal-decorativo-luminoso-bichos) .
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Quer conhecer um pouco mais sobre a **ScolAstika´S**? Fique á vontade, bonita! **Para conhecer a loja**, <a href="http://scolastikasloja.tanlup.com/" target="_blank">clique aqui</a>. Para acompanhar as novidades na **página do Facebook**, <a href="https://www.facebook.com/ScolAstikaSLoja" target="_blank">clique aqui</a>… e encante-se!
+  Quer conhecer um pouco mais sobre a **ScolAstika´S**? Fique á vontade, bonita! **Para conhecer a loja**, [clique aqui](http://scolastikasloja.tanlup.com/) . Para acompanhar as novidades na **página do Facebook**, [clique aqui](https://www.facebook.com/ScolAstikaSLoja) … e encante-se!
 </p>

@@ -13,11 +13,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  … teria reforçado em você um princípio social básico: todos são iguais. Ao menos ao nascer, lá na Finlândia, é assim. Ao longo da vida muita gente esquece isso, <em>né…tsc tsc tsc</em>… mas, enfim: seja de família pobre ou rica, ao nascer em terras finlandesas os bebês são tratados em pé de igualdade pelo Estado, o que é simbolizado por uma caixa que as famílias recebem, igual para todos, que comporta todos os itens necessários para os cuidados com a criança em seu início de vida. Posso falar? Achei a ideia linda de viver e com muito sentido.
+  … teria reforçado em você um princípio social básico: todos são iguais. Ao menos ao nascer, lá na Finlândia, é assim. Ao longo da vida muita gente esquece isso, _né…tsc tsc tsc_… mas, enfim: seja de família pobre ou rica, ao nascer em terras finlandesas os bebês são tratados em pé de igualdade pelo Estado, o que é simbolizado por uma caixa que as famílias recebem, igual para todos, que comporta todos os itens necessários para os cuidados com a criança em seu início de vida. Posso falar? Achei a ideia linda de viver e com muito sentido.
 </p>
 
 <p align="justify">
-  Há outras particularidades ligadas a maternidade – e paternidade! – lá naquele país bem frio, de onde a **Adriana Minhoto** tem nos contado tudo o que desvenda e aprende, que vale a pena a gente conhecer e, depois, ficar bem admirada sobre como certas coisas funcionam bem diferentes de como são aqui no Brasil. Um olhar atencioso sobre a Finlândia nos dá lição sobre muitas coisas, é o que temos visto aqui no **Trololó de Mulher**… <em>`bora</em> aprender mais juntas? Vem!
+  Há outras particularidades ligadas a maternidade – e paternidade! – lá naquele país bem frio, de onde a **Adriana Minhoto** tem nos contado tudo o que desvenda e aprende, que vale a pena a gente conhecer e, depois, ficar bem admirada sobre como certas coisas funcionam bem diferentes de como são aqui no Brasil. Um olhar atencioso sobre a Finlândia nos dá lição sobre muitas coisas, é o que temos visto aqui no **Trololó de Mulher**… _`bora_ aprender mais juntas? Vem!
 </p>
 
 > <p align="justify">
@@ -48,7 +48,7 @@ categories:
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469" target="_blank">Popsugar</a>
+>     Imagem: [Popsugar](http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469) 
 >   </p>
 >   
 >   <blockquote>
@@ -62,12 +62,12 @@ categories:
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.bbc.com/news/magazine-22751415" target="_blank">BBC</a>
+>     Imagem: [BBC](http://www.bbc.com/news/magazine-22751415) 
 >   </p>
 >   
 >   <blockquote>
 >     <p align="justify">
->       **Para Sanna, o kit tem seu lado positivo e o negativo. <em>“Primeiro positivo: eu acho que é ótimo que temos este serviço. É uma espécie de garantia que, mesmo nas famílias mais pobres as crianças terão alguma roupa básica. Em seguida, os negativos. Como tem que ser unissex, algumas das cores não são tão bonitas, mas é claro que é uma questão de gosto. Outro problema é que o governo dá o mesmo kit para os bebês nascidos no verão e inverno. Assim, por exemplo, as roupas de inverno não foram boas para as minhas meninas, pois elas nasceram na primavera. Já para meu filho que nasceu no Inverno, o conjunto era muito grande logo que ele precisou usar, e já não servia mais nele no segundo Inverno. Acho que eles deveriam mudar os tamanhos com base no tempo em que o bebê é estimado para nascer.”</em>**
+>       **Para Sanna, o kit tem seu lado positivo e o negativo. _“Primeiro positivo: eu acho que é ótimo que temos este serviço. É uma espécie de garantia que, mesmo nas famílias mais pobres as crianças terão alguma roupa básica. Em seguida, os negativos. Como tem que ser unissex, algumas das cores não são tão bonitas, mas é claro que é uma questão de gosto. Outro problema é que o governo dá o mesmo kit para os bebês nascidos no verão e inverno. Assim, por exemplo, as roupas de inverno não foram boas para as minhas meninas, pois elas nasceram na primavera. Já para meu filho que nasceu no Inverno, o conjunto era muito grande logo que ele precisou usar, e já não servia mais nele no segundo Inverno. Acho que eles deveriam mudar os tamanhos com base no tempo em que o bebê é estimado para nascer.”_**
 >     </p>
 >   </blockquote>
 >   
@@ -76,7 +76,7 @@ categories:
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469" target="_blank">Popsugar</a>
+>     Imagem: [Popsugar](http://www.popsugar.com/moms/Cardboard-Boxes-Finnish-Babies-30710469) 
 >   </p>
 >   
 >   <blockquote>
@@ -168,7 +168,7 @@ categories:
 >   </p>
 >   
 >   <p align="center">
->     Imagem: <a href="http://www.kellimurray.com/2013/11/14/cousins/" target="_blank">Kelli Murray</a>
+>     Imagem: [Kelli Murray](http://www.kellimurray.com/2013/11/14/cousins/) 
 >   </p>
 >   
 >   <blockquote>
@@ -192,7 +192,7 @@ categories:
 >   </p>
 >   
 >   <p>
->     **<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+>     **[As voltas que a vida dá nos leva a lugares inimagináveis!](http://www.trololodemulher.com.br/2014/09/08/vida-lugares/) **
 >   </p>
 >   
 >   <p>
@@ -204,15 +204,15 @@ categories:
 >   </p>
 >   
 >   <p>
->     **<a href="http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/" target="_blank">Dias e dias sem sol: o temido Novembro na Finlândia</a>**
+>     **[Dias e dias sem sol: o temido Novembro na Finlândia](http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/) **
 >   </p>
 >   
 >   <p>
->     **<a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso: lá na Finlândia é assim!</a>**
+>     **[Educação, ordem e progresso: lá na Finlândia é assim!](http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/) **
 >   </p>
 >   
 >   <p>
->     **<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">Fazer compras é simples, a menos que seja na Finlândia!</a>**
+>     **[Fazer compras é simples, a menos que seja na Finlândia!](http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/) **
 >   </p>
 >   
 >   <p>
@@ -220,7 +220,7 @@ categories:
 >   </p>
 >   
 >   <p style="text-align: justify;">
->     Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+>     Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts)  Eu já!
 >   </p>
 >   
 >   <p>
@@ -228,5 +228,5 @@ categories:
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+>     [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 >   </p>

@@ -9,7 +9,7 @@ permalink: /2009/04/22/convidada-isabel/
 categories:
   - Sem categoria
 ---
-**_Por Isabela Kastrup – <a href="http://arrumadissimoecia.blogspot.com/" target="_blank">ARRUMADÍSSIMO</a>_**
+**_Por Isabela Kastrup – [ARRUMADÍSSIMO](http://arrumadissimoecia.blogspot.com/) _**
 
 Sim, eu sou uma Bicha fêmea!!
 
@@ -67,7 +67,7 @@ Você é aquilo que reinvidica, o que consegue gerar através da sua verdade e d
 
 *Me inspiro com as idéias alheias e crio as minhas próprias versões.
 
-*Adoro ver e ter tudo <a href="http://arrumadissimoecia.blogspot.com/" target="_blank">ARRUMADÍSSIMO</a>.
+*Adoro ver e ter tudo [ARRUMADÍSSIMO](http://arrumadissimoecia.blogspot.com/) .
 
 E por fim, amo ser uma bicha fêmea e estar aqui compartilhando com vocês um pouco de mim.
 
@@ -75,4 +75,4 @@ Obrigada Lidi por essa oportunidade!!
 
 Super beijo,
 
-<a href="http://arrumadissimoecia.blogspot.com/" target="_blank">Isabela Kastrup</a>
+[Isabela Kastrup](http://arrumadissimoecia.blogspot.com/) 

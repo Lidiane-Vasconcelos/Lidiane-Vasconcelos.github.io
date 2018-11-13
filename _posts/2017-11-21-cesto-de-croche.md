@@ -12,7 +12,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Não há dúvidas de que o **cesto de crochê** pode valorizar a decoração da casa, e facilitar a organização também. **Aproveite que ele está com um super desconto na Semana Pré Black Friday na <a href="http://loja.trololodemulher.com.br/" target="_blank">Loja do Trololó de Mulher</a>**, e use esses cestinhos na organização da casa inteira!
+  Não há dúvidas de que o **cesto de crochê** pode valorizar a decoração da casa, e facilitar a organização também. **Aproveite que ele está com um super desconto na Semana Pré Black Friday na [Loja do Trololó de Mulher](http://loja.trololodemulher.com.br/) **, e use esses cestinhos na organização da casa inteira!
 </p>
 
 <p align="justify">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  **Cachepô (cesto) em crochê**, de **<u>R$ 40,00</u>** por **<span style="background-color: #ffffff;"><u>R$ 27,00</u></span>**. **Apenas 3 unidades!** Veja <a href="http://loja.trololodemulher.com.br/2017/10/10/cachepo-em-croche/" target="_blank">mais detalhes sobre a peça clicando aqui</a>.
+  **Cachepô (cesto) em crochê**, de **<u>R$ 40,00</u>** por **<span style="background-color: #ffffff;"><u>R$ 27,00</u></span>**. **Apenas 3 unidades!** Veja [mais detalhes sobre a peça clicando aqui](http://loja.trololodemulher.com.br/2017/10/10/cachepo-em-croche/) .
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  O **Cestinho que você viu acima é o Frida Kahlo**, de **<u>R$ 55,00</u>** por **<span style="background-color: #ffffff; color: #000000;"><u>R$ 39,00</u></span>**. **Apenas 3 unidades!** Veja <a href="http://loja.trololodemulher.com.br/2017/10/10/cesto-de-croche/" target="_blank">mais detalhes sobre a peça clicando aqui</a>.
+  O **Cestinho que você viu acima é o Frida Kahlo**, de **<u>R$ 55,00</u>** por **<span style="background-color: #ffffff; color: #000000;"><u>R$ 39,00</u></span>**. **Apenas 3 unidades!** Veja [mais detalhes sobre a peça clicando aqui](http://loja.trololodemulher.com.br/2017/10/10/cesto-de-croche/) .
 </p>
 
 <p align="center">
@@ -76,11 +76,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

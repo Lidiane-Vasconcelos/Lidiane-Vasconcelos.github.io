@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Ouvi falar que morar perto do mar traz muitos benefícios à saúde. Parece que passar um tempo junto ao mar torna as pessoas mais felizes, ajuda a relaxar e melhora a saúde mental. Além disso, os banhos de sol, com moderação, melhoram o nível de vitamina D e têm um efeito anti-inflamatório em muitas doenças de pele.</em>
+  “_Ouvi falar que morar perto do mar traz muitos benefícios à saúde. Parece que passar um tempo junto ao mar torna as pessoas mais felizes, ajuda a relaxar e melhora a saúde mental. Além disso, os banhos de sol, com moderação, melhoram o nível de vitamina D e têm um efeito anti-inflamatório em muitas doenças de pele._
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Você pode perguntar por que eu estou falando sobre isso. A resposta é simples: eu cresci perto do mar, e agora que eu estou morando em uma cidade longe do litoral, eu sempre tento encontrar uma boa desculpa para ir a algum lugar perto do mar. E quando eu não posso viajar, eu olho para as fotos antigas da região de onde venho, e lembro dos bons tempos que eu passei lá.</em>
+  _Você pode perguntar por que eu estou falando sobre isso. A resposta é simples: eu cresci perto do mar, e agora que eu estou morando em uma cidade longe do litoral, eu sempre tento encontrar uma boa desculpa para ir a algum lugar perto do mar. E quando eu não posso viajar, eu olho para as fotos antigas da região de onde venho, e lembro dos bons tempos que eu passei lá._
 </p>
 
 <p align="center">
@@ -46,39 +46,39 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Falando sobre boas lembranças, a receita de hoje vem da minha infância: Sorvete de Banana. Fácil de preparar, essa saudável e deliciosa receita é feita com apenas um ingrediente. Dá pra acreditar? Sim! Banhos de sol e sorvete de banana são duas coisas que me fazem feliz.</em>
+  _Falando sobre boas lembranças, a receita de hoje vem da minha infância: Sorvete de Banana. Fácil de preparar, essa saudável e deliciosa receita é feita com apenas um ingrediente. Dá pra acreditar? Sim! Banhos de sol e sorvete de banana são duas coisas que me fazem feliz._
 </p>
 
 <p align="justify">
-  **<em>Ingredientes</em>**
+  **_Ingredientes_**
 </p>
 
 <p align="justify">
-  <em>Bananas maduras congeladas</em>
+  _Bananas maduras congeladas_
 </p>
 
 <p align="justify">
-  <em>1 – Congele as bananas maduras por pelo menos 4 horas. É importante que elas estejam realmente congeladas;</em>
+  _1 – Congele as bananas maduras por pelo menos 4 horas. É importante que elas estejam realmente congeladas;_
 </p>
 
 <p align="justify">
-  <em>2 – Em um processador de alimentos processe as bananas, apenas o tempo suficiente para fazer um bom sorvete cremoso (4 minutos no máximo).</em>
+  _2 – Em um processador de alimentos processe as bananas, apenas o tempo suficiente para fazer um bom sorvete cremoso (4 minutos no máximo)._
 </p>
 
 <p align="justify">
-  <em>Sugiro comê-lo imediatamente. Você também pode congelá-lo por até 1 mês, mas a textura não será tão suave e fresca como quando preparado e consumido logo.</em>
+  _Sugiro comê-lo imediatamente. Você também pode congelá-lo por até 1 mês, mas a textura não será tão suave e fresca como quando preparado e consumido logo._
 </p>
 
 <p align="justify">
-  <em>Dicas: </em>
+  _Dicas: _
 </p>
 
 <p align="justify">
-  <em>1) As bananas precisam estar realmente maduras, de outra forma não estarão doces o suficiente para fazer um bom sorvete. </em>
+  _1) As bananas precisam estar realmente maduras, de outra forma não estarão doces o suficiente para fazer um bom sorvete. _
 </p>
 
 <p align="justify">
-  <em>2) Antes de servir, caso queira, você pode  adicionar um pouco de mel ou chocolate derretido como calda, e polvilhar com pedacinhos de amêndoas.”</em>
+  _2) Antes de servir, caso queira, você pode  adicionar um pouco de mel ou chocolate derretido como calda, e polvilhar com pedacinhos de amêndoas.”_
 </p>
 
 <p align="center">
@@ -90,27 +90,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/" target="_blank">**Bolo de lavanda com perfume e bossa vintage.**</a>
+  [**Bolo de lavanda com perfume e bossa vintage.**](http://www.trololodemulher.com.br/2017/10/10/bolo-de-lavanda/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/" target="_blank">**Receita de salada de figo: com história e afeto.**</a>
+  [**Receita de salada de figo: com história e afeto.**](http://www.trololodemulher.com.br/2017/09/26/receita-de-salada/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/" target="_blank">**Canja de galinha… para colocar um sorriso no rosto.**</a>
+  [**Canja de galinha… para colocar um sorriso no rosto.**](http://www.trololodemulher.com.br/2017/09/12/canja-de-galinha/) 
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a> (escrito em inglês e português), e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira [o blog de Tânia clicando aqui](https://iwanttobeacook.wordpress.com/)  (escrito em inglês e português), e [sua fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está [no Instagram… clique aqui e siga](https://www.instagram.com/iwanttobeacook/) ! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
+  [<img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

@@ -26,13 +26,13 @@ Há mulheres que definitivamente não acreditam que apenas com **mudanças de h�
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Rejane-antes-e-depois.jpg"><img class="alignnone size-full wp-image-7007" title="Rejane antes e depois" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Rejane-antes-e-depois.jpg" alt="" width="400" height="400" /></a><br /> <em>Antes… e depois!</em>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Rejane-antes-e-depois.jpg"><img class="alignnone size-full wp-image-7007" title="Rejane antes e depois" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Rejane-antes-e-depois.jpg" alt="" width="400" height="400" /></a><br /> _Antes… e depois!_
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Queria encontrar um motivo para ter engordado e dizia quando me perguntavam: – **Não sei por que engordei assim! **</em><em>**Mas eu sabia… sabia, sim!** Foi toda a **pizza, hamburguer, coca-cola, trakinas (o biscoito recheado mais gostoso que existe e eu comia um pacote todo dia); resumindo: uma alimentação errada e uma vida sedentária.** **RESULTADO: cansaço, falta de ânimo, ansiedade, colesterol alto, dor nos joelhos, inchaço, retenção de líquidos**… chegou a um ponto que eu tinha que tomar uma atitude. Nunca pensei (e acho erradíssimo) fazer dietas mirabolantes e tomar medicamentos; precisava mais do que isso: **Queria mudar a minha vida**. Procurei uma **nutricionista** para me orientar e **entrei na academia.** Foram **conquistas, sacrifícios e renúncias dia após dia, meses**… **emagreci 10 quilos em sete meses**. Hoje tenho disposição para tudo e me sinto sempre vigorada. A minha resistência física está ótima</em>.” **Rejane** | **<a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>**
+>   “_Queria encontrar um motivo para ter engordado e dizia quando me perguntavam: – **Não sei por que engordei assim! **__**Mas eu sabia… sabia, sim!** Foi toda a **pizza, hamburguer, coca-cola, trakinas (o biscoito recheado mais gostoso que existe e eu comia um pacote todo dia); resumindo: uma alimentação errada e uma vida sedentária.** **RESULTADO: cansaço, falta de ânimo, ansiedade, colesterol alto, dor nos joelhos, inchaço, retenção de líquidos**… chegou a um ponto que eu tinha que tomar uma atitude. Nunca pensei (e acho erradíssimo) fazer dietas mirabolantes e tomar medicamentos; precisava mais do que isso: **Queria mudar a minha vida**. Procurei uma **nutricionista** para me orientar e **entrei na academia.** Foram **conquistas, sacrifícios e renúncias dia após dia, meses**… **emagreci 10 quilos em sete meses**. Hoje tenho disposição para tudo e me sinto sempre vigorada. A minha resistência física está ótima_.” **Rejane** | **[Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -88,15 +88,15 @@ Há mulheres que definitivamente não acreditam que apenas com **mudanças de h�
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Vania-antes.jpg"><img class="alignnone size-full wp-image-7008" title="SAMSUNG DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Vania-antes.jpg" alt="" width="600" height="450" /></a><br /> <em>Antes…</em>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Vania-antes.jpg"><img class="alignnone size-full wp-image-7008" title="SAMSUNG DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Vania-antes.jpg" alt="" width="600" height="450" /></a><br /> _Antes…_
 </p>
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Bermuda-Saruel-Vania-Pinho.jpg"><img class="alignnone size-full wp-image-6797" title="SAMSUNG DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Bermuda-Saruel-Vania-Pinho.jpg" alt="" width="600" height="450" /></a><br /> Depois!</em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Bermuda-Saruel-Vania-Pinho.jpg"><img class="alignnone size-full wp-image-6797" title="SAMSUNG DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Bermuda-Saruel-Vania-Pinho.jpg" alt="" width="600" height="450" /></a><br /> Depois!_
 </p>
 
 > <p align="justify">
->   “<em>Eu achava que era impossível emagrecer, ou melhor&#8230; ficar magra, pois fazia todos os tipos de dieta, sem médico, na base do &#8220;fecha a boca&#8221;&#8230;.com médicos na base de remédios, ou essas famosas fórmulas&#8230; emagrecia e, tempos depois, recuperava tudo e mais um pouco. Isso sem falar no sedentarismo. Mais há 2 meses resolvi dar um basta e me movimentar, **entrei em uma academia e resolvi frequentar uma reunião do Vigilantes do Peso**, gostei e continuo frequentando. **Aprendi a me alimentar, faço uma dieta onde eu como de tudo e não &#8220;passo fome&#8221;, e o mais importante, estou perdendo peso aos poucos, pois aprendi que de nada adianta perder peso rápido e recuperá-lo mais rápido ainda. **</em><em>O mais importante é acreditar que é possível emagrecer e tomar consciência que isso depende apenas da gente. </em><em>Querer é poder!!!!”</em> **Vânia Pinho** | **<a href="http://casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**
+>   “_Eu achava que era impossível emagrecer, ou melhor&#8230; ficar magra, pois fazia todos os tipos de dieta, sem médico, na base do &#8220;fecha a boca&#8221;&#8230;.com médicos na base de remédios, ou essas famosas fórmulas&#8230; emagrecia e, tempos depois, recuperava tudo e mais um pouco. Isso sem falar no sedentarismo. Mais há 2 meses resolvi dar um basta e me movimentar, **entrei em uma academia e resolvi frequentar uma reunião do Vigilantes do Peso**, gostei e continuo frequentando. **Aprendi a me alimentar, faço uma dieta onde eu como de tudo e não &#8220;passo fome&#8221;, e o mais importante, estou perdendo peso aos poucos, pois aprendi que de nada adianta perder peso rápido e recuperá-lo mais rápido ainda. **__O mais importante é acreditar que é possível emagrecer e tomar consciência que isso depende apenas da gente. __Querer é poder!!!!”_ **Vânia Pinho** | **[Casa de Boneca](http://casadebonecadecor.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -130,13 +130,13 @@ Há mulheres que definitivamente não acreditam que apenas com **mudanças de h�
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Nadja-depois.jpg"><img class="alignnone size-full wp-image-7006" title="Nadja - depois" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Nadja-depois.jpg" alt="" width="480" height="600" /></a><br /> <em>Depois!</em>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Nadja-depois.jpg"><img class="alignnone size-full wp-image-7006" title="Nadja - depois" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Nadja-depois.jpg" alt="" width="480" height="600" /></a><br /> _Depois!_
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Perdi 8 kilos só com mudança de hábito e estou feliz da vida. Mudança mesmo… sem ser radical. **Passei a fazer caminhadas depois que cheguei aqui em São Paulo, antes ficava no apartamento do Rio só comendo e blogando… rsrsr … comia dois pãezinhos pela manhã, agora só como um; não comia salada, agora me habituei a ter uma entrada no almoço com salada; como menos menos doce; faço uso de adoçante no café, mas não deixei de comer um docinho,  senão é pior; tomo muita água e chá, o que adoro**. Não mudei muita coisa, o que mudou mesmo foi o sedentarismo, pois agora caminho bastante. Não foi difícil, só me conscientizei que tinha que emagrecer um pouco, então reduzi tudo o que comia. Estou me sentindo bem melhor e mais bonita… rsrsr…. Com cinquenta anos tenho que me cuidar, não acha?”</em> **Nadja** | **<a href="http://acasaquesonhei.blogspot.com/" target="_blank">A Casa Que Sonhei</a>**
+>   “_Perdi 8 kilos só com mudança de hábito e estou feliz da vida. Mudança mesmo… sem ser radical. **Passei a fazer caminhadas depois que cheguei aqui em São Paulo, antes ficava no apartamento do Rio só comendo e blogando… rsrsr … comia dois pãezinhos pela manhã, agora só como um; não comia salada, agora me habituei a ter uma entrada no almoço com salada; como menos menos doce; faço uso de adoçante no café, mas não deixei de comer um docinho,  senão é pior; tomo muita água e chá, o que adoro**. Não mudei muita coisa, o que mudou mesmo foi o sedentarismo, pois agora caminho bastante. Não foi difícil, só me conscientizei que tinha que emagrecer um pouco, então reduzi tudo o que comia. Estou me sentindo bem melhor e mais bonita… rsrsr…. Com cinquenta anos tenho que me cuidar, não acha?”_ **Nadja** | **[A Casa Que Sonhei](http://acasaquesonhei.blogspot.com/) **
 > </p>
 
 &nbsp;

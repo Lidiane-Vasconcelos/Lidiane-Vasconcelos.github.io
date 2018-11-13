@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p style="text-align: justify;">
-  Eu não sabia e, cheia de dúvidas, tratei de tirá-las com uma <em>expert</em>. A **<em>Designer</em> de Interiores Adriana Magre**, sempre muito presente por aqui com suas dicas <em>superultramega</em> didáticas, esclareceu tudo que perguntei. Sabe a boa notícia?
+  Eu não sabia e, cheia de dúvidas, tratei de tirá-las com uma _expert_. A **_Designer_ de Interiores Adriana Magre**, sempre muito presente por aqui com suas dicas _superultramega_ didáticas, esclareceu tudo que perguntei. Sabe a boa notícia?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Já te conto… eu trouxe suas respostas para compartilhar contigo, assim, quando você pensar em inserir esse recurso decorativo na decoração da sua casa, saberá <em>tim tim por tim tim</em> como fazê-lo, garantindo um ambiente bonito e harmonioso. Quer conferir tudo? Se joga no post e aproveite, <em>viu</em>?
+  Já te conto… eu trouxe suas respostas para compartilhar contigo, assim, quando você pensar em inserir esse recurso decorativo na decoração da sua casa, saberá _tim tim por tim tim_ como fazê-lo, garantindo um ambiente bonito e harmonioso. Quer conferir tudo? Se joga no post e aproveite, _viu_?
 </p>
 
 <!--more-->
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank">Ventilador de teto + luminária pendente: pode?</a>**
+  **[Ventilador de teto + luminária pendente: pode?](http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank">Como decorar a sala de jantar com lustre pendente?</a>**
+  **[Como decorar a sala de jantar com lustre pendente?](http://www.decoracaodacasa.com/lustre-pendente/) **
 </p>
 
 &nbsp;
@@ -62,21 +62,21 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.decoracaodacasa.com/como-decorar-a-sala-de-jantar/" target="_blank">Carol Carneiro responde: como decorar a sala de jantar?</a>**
+>   **[Carol Carneiro responde: como decorar a sala de jantar?](http://www.decoracaodacasa.com/como-decorar-a-sala-de-jantar/) **
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank">Quer misturar cadeiras diferentes na mesa da sala de jantar?</a>**
+>   **[Quer misturar cadeiras diferentes na mesa da sala de jantar?](http://www.bichafemea.com/2012/08/01/cadeiras-sala-mesa-jantar/) **
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank">Dicas para decoração da mesa de jantar.</a>**
+>   **[Dicas para decoração da mesa de jantar.](http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/) **
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/luminaria-pendente-decoracao/decoracao-luminaria-pendente2/" rel="attachment wp-att-1828"><img class="alignnone size-full wp-image-1828" title="DECORACAO-LUMINARIA-PENDENTE[2]" src="http://www.decoracaodacasa.com/blog/wp-content/uploads/2012/11/DECORACAO-LUMINARIA-PENDENTE2.jpg" alt="" width="600" height="400" /></a><br /> Imagem: **<a href="http://www.essenciamoveis.com.br/blog/" target="_blank">Essência</a>**
+  [Essência](http://www.decoracaodacasa.com/luminaria-pendente-decoracao/decoracao-luminaria-pendente2/" rel="attachment wp-att-1828"><img class="alignnone size-full wp-image-1828" title="DECORACAO-LUMINARIA-PENDENTE[2]" src="http://www.decoracaodacasa.com/blog/wp-content/uploads/2012/11/DECORACAO-LUMINARIA-PENDENTE2.jpg" alt="" width="600" height="400" /></a><br /> Imagem: **<a href="http://www.essenciamoveis.com.br/blog/) **
 </p>
 
 &nbsp;
@@ -96,7 +96,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.decoracaodacasa.com/mesa-de-cabeceira/" target="_blank">Como decorar sua mesa de cabeceira?</a>**
+  **[Como decorar sua mesa de cabeceira?](http://www.decoracaodacasa.com/mesa-de-cabeceira/) **
 </p>
 
 &nbsp;
@@ -122,7 +122,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   **2 – A luminária pendente sempre se destaca no ambiente. Por isso, vale a pena investir em um <em>design</em> diferenciado ou uma peça em materiais como cristal, vidro, pergaminho e seda.**
+>   **2 – A luminária pendente sempre se destaca no ambiente. Por isso, vale a pena investir em um _design_ diferenciado ou uma peça em materiais como cristal, vidro, pergaminho e seda.**
 > </p>
 
 > <p align="justify">
@@ -138,9 +138,9 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A **Adriana** edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – **<a href="http://www.coresdacasa.com.br/" target="_blank">Cores da Casa</a>** – quanto na fanpage do Facebook – **<a href="https://www.facebook.com/coresdacasa" target="_blank">curta e acompanhe</a>** – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
+  A **Adriana** edita seu blog com tanta informação útil e de qualidade que eu acredito ser leitura obrigatória para quem curte decoração e todo o universo que envolve a casa. Tanto no blog – **[Cores da Casa](http://www.coresdacasa.com.br/) ** – quanto na fanpage do Facebook – **[curta e acompanhe](https://www.facebook.com/coresdacasa) ** – as fontes são de informação da melhor qualidade, pode apostar! Quer tirar a prova? Se joga, conheça e confira!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

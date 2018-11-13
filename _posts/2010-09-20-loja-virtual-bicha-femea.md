@@ -9,7 +9,7 @@ permalink: /2010/09/20/loja-virtual-bicha-femea/
 categories:
   - Sem categoria
 ---
-Quem <a href="http://twitter.com/bichafemea" target="_blank">**<em>me acompanha pelo Twitter</em>** </a>está sabendo que hoje eu falaria de uma novidade no Bicha Fêmea, mas não sabe exatamente o que é. Hoje é o dia de eu explicar do que se trata, e espero que a novidade seja apreciada por você também.
+Quem [**_me acompanha pelo Twitter_** ](http://twitter.com/bichafemea) está sabendo que hoje eu falaria de uma novidade no Bicha Fêmea, mas não sabe exatamente o que é. Hoje é o dia de eu explicar do que se trata, e espero que a novidade seja apreciada por você também.
 
 <p style="text-align: justify;">
   Sem muitos rodeios mas cheia de muita alegria, digo que agora o Bicha Fêmea também tem uma loja virtual!
@@ -18,15 +18,15 @@ Quem <a href="http://twitter.com/bichafemea" target="_blank">**<em>me acompanha 
 <!--more-->
 
 <p style="text-align: justify;">
-  Como num processo natural, nasceu em mim a vontade de criar esse espaço em parceria com artesãs que acreditassem no projeto comigo, que confiassem no potencial que o Bicha Fêmea tem de ser uma vitrine de produtos bonitos e úteis para mulheres que gostam de mimos personalizados, assim como VOCÊ. Nesse primeiro momento todas as peças expostas são da <a href="http://atelieartedamonicanovilla.blogspot.com/" target="_blank">Mônica Biazon</a>, que empresta seu talento para enfeitar a **<em>vitrine de artes do Mercado, </em>**mas muito ainda está por vir&#8230;
+  Como num processo natural, nasceu em mim a vontade de criar esse espaço em parceria com artesãs que acreditassem no projeto comigo, que confiassem no potencial que o Bicha Fêmea tem de ser uma vitrine de produtos bonitos e úteis para mulheres que gostam de mimos personalizados, assim como VOCÊ. Nesse primeiro momento todas as peças expostas são da [Mônica Biazon](http://atelieartedamonicanovilla.blogspot.com/) , que empresta seu talento para enfeitar a **_vitrine de artes do Mercado, _**mas muito ainda está por vir&#8230;
 </p>
 
 <p style="text-align: justify;">
-  Eu quis que os produtos fossem artesanais porque sempre achei que tudo que é personalizado, é único, e nada melhor para traduzir essa ideia do que tudo que é feito com as mãos. Por isso mesmo, o espaço de vendas no Bicha Fêmea se chama **<em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">Mercado de Artes</a></em>**, onde eu pretendo reunir peças bonitas que decorem, mas também organizem e harmonizem a casa das bichas fêmeas navegantes.
+  Eu quis que os produtos fossem artesanais porque sempre achei que tudo que é personalizado, é único, e nada melhor para traduzir essa ideia do que tudo que é feito com as mãos. Por isso mesmo, o espaço de vendas no Bicha Fêmea se chama **_[Mercado de Artes](http://www.trololodemulher.com.br/loja/) _**, onde eu pretendo reunir peças bonitas que decorem, mas também organizem e harmonizem a casa das bichas fêmeas navegantes.
 </p>
 
 <p style="text-align: justify;">
-  Quer ter uma ideia do que há na vitrine do **<em>Mercado de Artes</em>** do Bicha Fêmea? Olha só…
+  Quer ter uma ideia do que há na vitrine do **_Mercado de Artes_** do Bicha Fêmea? Olha só…
 </p>
 
 <p style="text-align: center;">
@@ -34,11 +34,11 @@ Quem <a href="http://twitter.com/bichafemea" target="_blank">**<em>me acompanha 
 </p>
 
 <p style="text-align: center;">
-  <em>Clique na imagem para ampliar…</em>
+  _Clique na imagem para ampliar…_
 </p>
 
 <p style="text-align: center;">
-  **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/" target="_blank">Aparador de Porta Minha Gatinha</a></em>**
+  **_[Aparador de Porta Minha Gatinha](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-porta-gatinha/) _**
 </p>
 
 <p style="text-align: center;">
@@ -46,11 +46,11 @@ Quem <a href="http://twitter.com/bichafemea" target="_blank">**<em>me acompanha 
 </p>
 
 <p style="text-align: center;">
-  <em>Clique na imagem para ampliar…</em>
+  _Clique na imagem para ampliar…_
 </p>
 
 <p style="text-align: center;">
-  **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">Quadro Cenário Copa & Café</a></em>**
+  **_[Quadro Cenário Copa & Café](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) _**
 </p>
 
 <p style="text-align: center;">
@@ -58,11 +58,11 @@ Quem <a href="http://twitter.com/bichafemea" target="_blank">**<em>me acompanha 
 </p>
 
 <p style="text-align: center;">
-  <em>Clique na imagem para ampliar…</em>
+  _Clique na imagem para ampliar…_
 </p>
 
 <p style="text-align: center;">
-  **<a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-amor-a-joaninhas/" target="_self"><em>Caixa Amor a Joaninhas</em></a>**
+  **<a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-amor-a-joaninhas/" target="_self">_Caixa Amor a Joaninhas_</a>**
 </p>
 
 <p style="text-align: center;">
@@ -70,21 +70,21 @@ Quem <a href="http://twitter.com/bichafemea" target="_blank">**<em>me acompanha 
 </p>
 
 <p style="text-align: center;">
-  <em>Clique na imagem para ampliar</em>
+  _Clique na imagem para ampliar_
 </p>
 
 <p style="text-align: center;">
-  **<em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a></em>**
+  **_[Caixa Redonda Vintage](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/) _**
 </p>
 
 <p style="text-align: justify;">
-  Isso tudo foi, na verdade, uma pequena amostra do que é possível encontrar no **<em>Mercado de Artes</em>** do Bicha Fêmea. Há mais quadros, caixas decorativas e organizadoras, caixas para guardar jóias, absorventes e chás, e muito mais. Tudo para deixar sua casa bonita, organizada e cheia de charme!
+  Isso tudo foi, na verdade, uma pequena amostra do que é possível encontrar no **_Mercado de Artes_** do Bicha Fêmea. Há mais quadros, caixas decorativas e organizadoras, caixas para guardar jóias, absorventes e chás, e muito mais. Tudo para deixar sua casa bonita, organizada e cheia de charme!
 </p>
 
 <p style="text-align: justify;">
-  O que eu mais desejo agora é te fazer um convite: conheça o **<em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">Mercado de Artes</a></em>**, fique a vontade para navegar por lá, e conheça os espaços da loja e seus produtos. Sobre os preços… hum… tenho certeza que você vai achá-los bastante atrativos. Confira e tire suas conclusões, bonita!
+  O que eu mais desejo agora é te fazer um convite: conheça o **_[Mercado de Artes](http://www.trololodemulher.com.br/loja/) _**, fique a vontade para navegar por lá, e conheça os espaços da loja e seus produtos. Sobre os preços… hum… tenho certeza que você vai achá-los bastante atrativos. Confira e tire suas conclusões, bonita!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Confira lista de <a href="https://www.gearweare.com/review/best-flip-flop-sandals/" target="_blank">sandálias</a>, com dicas para realizar melhores escolhas. **
+  **Confira lista de [sandálias](https://www.gearweare.com/review/best-flip-flop-sandals/) , com dicas para realizar melhores escolhas. **
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/anap/3177177124/" target="_blank">Ana Patrícia Almeida</a> via <a href="http://foter.com/re/5fbcb1" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: [Ana Patrícia Almeida](https://www.flickr.com/photos/anap/3177177124/)  via [Foter.com](http://foter.com/re/5fbcb1)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) 
 </p>
 
 <p align="justify">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  O modelo chamado coração, ou <em>ripple</em>, ajuda a aumentar e empinar o bumbum visualmente graças ao franzidinho que possui na parte de trás da calcinha. Invista também em calcinhas com babados, estampas grandes e coloridas, detalhes como laços, zíperes e bordados. As listras horizontais também são ótimas aliadas. Para aquelas que estão com tudo em cima, podem apostar nos lacinhos laterais, que dão ainda mais volume ao quadril.
+  O modelo chamado coração, ou _ripple_, ajuda a aumentar e empinar o bumbum visualmente graças ao franzidinho que possui na parte de trás da calcinha. Invista também em calcinhas com babados, estampas grandes e coloridas, detalhes como laços, zíperes e bordados. As listras horizontais também são ótimas aliadas. Para aquelas que estão com tudo em cima, podem apostar nos lacinhos laterais, que dão ainda mais volume ao quadril.
 </p>
 
 <p align="center">
@@ -154,15 +154,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank">**Calça flare: aprenda como combinar o modelo da vez!**</a>
+  [**Calça flare: aprenda como combinar o modelo da vez!**](http://www.trololodemulher.com.br/2016/03/28/calca-flare/) 
 </p>
 
 <p align="justify">
-  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no <a href="https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/" target="_blank">Facebook</a> e em seu perfil do <a href="https://www.instagram.com/sarah_tapias/?hl=pt-br" target="_blank">Instagram</a>. Acompanhe e aproveite!
+  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no [Facebook](https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/)  e em seu perfil do [Instagram](https://www.instagram.com/sarah_tapias/?hl=pt-br) . Acompanhe e aproveite!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

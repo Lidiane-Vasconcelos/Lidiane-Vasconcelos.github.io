@@ -27,7 +27,7 @@ Isso nem é novidade! E se a busca pelos produtos ideais pudesse ser feita de ca
 &nbsp;
 
 <p align="justify">
-  No mercado desde 1959, a empresa conta com **357 lojas a nossa disposição**. Você já deve ter visto uma perto de você, <em>né</em>? Mas, <em>oh</em>: está com vontade mesmo é de **dar uma olhada nos produtos, pesquisar preços e condições sem sair da casa?** A **<a href="http://www.colombo.com.br/" target="_blank" rel="nofollow">loja virtual</a>** existe **toda bonita e com fácil navegabilidade** justamente para isso, bonita! Se joga!
+  No mercado desde 1959, a empresa conta com **357 lojas a nossa disposição**. Você já deve ter visto uma perto de você, _né_? Mas, _oh_: está com vontade mesmo é de **dar uma olhada nos produtos, pesquisar preços e condições sem sair da casa?** A **<a href="http://www.colombo.com.br/" target="_blank" rel="nofollow">loja virtual</a>** existe **toda bonita e com fácil navegabilidade** justamente para isso, bonita! Se joga!
 </p>
 
 <p align="justify">

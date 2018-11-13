@@ -9,7 +9,7 @@ permalink: /2011/06/20/decoracao-da-casa/
 categories:
   - Trololó
 ---
-Pois é… o **Bicha Fêmea** está ganhando um irmão mais novo: **<a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>**. Se eu te disser que fiquei bem ansiosa para essa apresentação você acredita? Creia! Estou ansiosa para mais esse passo nessa minha vida deliciosa de blogueira…
+Pois é… o **Bicha Fêmea** está ganhando um irmão mais novo: **[Decoração da Casa](http://www.decoracaodacasa.com/) **. Se eu te disser que fiquei bem ansiosa para essa apresentação você acredita? Creia! Estou ansiosa para mais esse passo nessa minha vida deliciosa de blogueira…
 
 <p style="text-align: justify;">
   Sei que há quem tenha mais de um blog para dar conta, e eu sempre achei que isso seria bem desafiador, porque abastecer apenas um blog com conteúdo não é fácil… imagine dois?! Decidi topar o desafio…
@@ -54,15 +54,15 @@ Pois é… o **Bicha Fêmea** está ganhando um irmão mais novo: **<a href="htt
 </p>
 
 <p style="text-align: center;">
-  1 – **<a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank">Cortinas</a>**;
+  1 – **[Cortinas](http://www.decoracaodacasa.com/cortinas-ideias-decoracao/) **;
 </p>
 
 <p style="text-align: center;">
-  2 – **<a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank">Organização da área de entrada</a>**;
+  2 – **[Organização da área de entrada](http://www.decoracaodacasa.com/cortinas-ideias-decoracao/) **;
 </p>
 
 <p style="text-align: center;">
-  3 – **<a href="http://www.decoracaodacasa.com/quarto-preto-branco/" target="_blank">Quarto preto&branco</a>**.
+  3 – **[Quarto preto&branco](http://www.decoracaodacasa.com/quarto-preto-branco/) **.
 </p>
 
 Daqui para frente, é assim, só conteúdo inédito!
@@ -72,33 +72,33 @@ Daqui para frente, é assim, só conteúdo inédito!
 </p>
 
 <p style="text-align: center;">
-  1 – Recebendo o conteúdo de **posts no seu e-mail **<a href="http://feedburner.google.com/fb/a/mailverify?uri=DecoracaoDaCasa&loc=en_US" target="_blank">**clicando aqui**</a>;
+  1 – Recebendo o conteúdo de **posts no seu e-mail **[**clicando aqui**](http://feedburner.google.com/fb/a/mailverify?uri=DecoracaoDaCasa&loc=en_US) ;
 </p>
 
 <p style="text-align: center;">
-  2 – Pelo **Twitter**, seguindo por **<a href="http://twitter.com/#!/DecoracaoDaCasa" target="_blank">este link aqui</a>**;
+  2 – Pelo **Twitter**, seguindo por **[este link aqui](http://twitter.com/#!/DecoracaoDaCasa) **;
 </p>
 
 <p style="text-align: center;">
-  3 – Pelo **Facebook**, **<a href="http://www.facebook.com/profile.php?id=100002529584839" target="_blank">clicando aqui</a>**.
+  3 – Pelo **Facebook**, **[clicando aqui](http://www.facebook.com/profile.php?id=100002529584839) **.
 </p>
 
 <p style="text-align: justify;">
-  Então é isso, bonita! De hoje em diante a gente se encontra em mais um ponto da blogosfera… se quiser conhecer o Decoração da Casa >>> **<a href="http://www.decoracaodacasa.com/" target="_blank">basta clicar</a>** >>> e seja bem vinda!
+  Então é isso, bonita! De hoje em diante a gente se encontra em mais um ponto da blogosfera… se quiser conhecer o Decoração da Casa >>> **[basta clicar](http://www.decoracaodacasa.com/) ** >>> e seja bem vinda!
 </p>
 
 <p style="text-align: center;">
-  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

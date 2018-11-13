@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Essas são dúvidas que a Vania Santos tem, e por isso pediu nossa opinião. Como somos mulheres que gostam de dar <em>pitacos</em> em tudo… <em>cof cof cof</em>… sobretudo em **decoração**, não vamos deixá-la sem nossas ideias, não é?
+  Essas são dúvidas que a Vania Santos tem, e por isso pediu nossa opinião. Como somos mulheres que gostam de dar _pitacos_ em tudo… _cof cof cof_… sobretudo em **decoração**, não vamos deixá-la sem nossas ideias, não é?
 </p>
 
 <!--more-->
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.diyideas.com/" target="_blank">do it yourself</a>
+  Imagem: [do it yourself](http://www.diyideas.com/) 
 </p>
 
 <p style="text-align: justify;">
@@ -40,11 +40,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Para facilitar minha vida, não tenho dúvidas que recorreria ás dicas antes publicadas no blog **Decoração da Casa** sobre **<a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><em>como dispor quadros na parede</em></a>**. Você já leu? Recomendo, <em>viu</em>?!
+  Para facilitar minha vida, não tenho dúvidas que recorreria ás dicas antes publicadas no blog **Decoração da Casa** sobre **[_como dispor quadros na parede_](http://www.decoracaodacasa.com/decoracao-parede-quadros/) **. Você já leu? Recomendo, _viu_?!
 </p>
 
 <p style="text-align: justify;">
-  Mas se você imagina que as possibilidades para a decoração da parede da escada terminam aí, você está muito enganada, bonita. A Larissa, que é Arquiteta e comanda o blog <a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">“Fui morar numa casinha&#8230;” </a>diz que “<em>tem muitas opções para se decorar a parede da escada: pintura, papel de parede, adesivo, porta retratos (de várias maneiras), usá-la como expositor de uma coleção, por exemplo, se a escada for mais larguinha e os objetos da coleção pequenos</em>.”
+  Mas se você imagina que as possibilidades para a decoração da parede da escada terminam aí, você está muito enganada, bonita. A Larissa, que é Arquiteta e comanda o blog [“Fui morar numa casinha&#8230;” ](http://fuimorarnumacasinha.blogspot.com/) diz que “_tem muitas opções para se decorar a parede da escada: pintura, papel de parede, adesivo, porta retratos (de várias maneiras), usá-la como expositor de uma coleção, por exemplo, se a escada for mais larguinha e os objetos da coleção pequenos_.”
 </p>
 
 <p style="text-align: justify;">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2013/09/25/decoracao-escada/" target="_blank">Dilema de decoração: o que fazer sob a escada? Veja duas soluções.</a>**
+  **[Dilema de decoração: o que fazer sob a escada? Veja duas soluções.](http://www.trololodemulher.com.br/2013/09/25/decoracao-escada/) **
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  “<em>Revestidas com papel de parede. </em>
+  “_Revestidas com papel de parede. _
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <em>Pedras filetadas assentadas tipo canjiquinha garantem um visual mais sóbrio</em>.” Larissa
+  _Pedras filetadas assentadas tipo canjiquinha garantem um visual mais sóbrio_.” Larissa
 </p>
 
 &nbsp;
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “<em>A decoração fica por conta dos vasos ao invés do guarda-corpo. Também pode ser feita com velas e ambas servem para casa sem crianças, animais e/ou idosos! Também aconselho para escadas largas e que tenham um corrimão do outro lado</em>.” Larissa**<br /> **
+  “_A decoração fica por conta dos vasos ao invés do guarda-corpo. Também pode ser feita com velas e ambas servem para casa sem crianças, animais e/ou idosos! Também aconselho para escadas largas e que tenham um corrimão do outro lado_.” Larissa**<br /> **
 </p>
 
 &nbsp;
@@ -91,16 +91,16 @@ categories:
 
 &nbsp;
 
-Imagens usadas e comentadas pela Larissa:<a href="http://www.google.com/" target="_blank">Google</a>, <a href="http://casa.abril.com.br/" target="_blank">Casa.com.br</a> e <a href="http://revistacasaejardim.globo.com/" target="_blank">Casa e Jardim</a>.
+Imagens usadas e comentadas pela Larissa:[Google](http://www.google.com/) , [Casa.com.br](http://casa.abril.com.br/)  e [Casa e Jardim](http://revistacasaejardim.globo.com/) .
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
 </p>
 
 <p align="justify">

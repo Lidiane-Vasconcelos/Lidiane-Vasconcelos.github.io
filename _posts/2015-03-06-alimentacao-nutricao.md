@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://theeverygirl.com/quick-simple-valentines-night-at-home-two-ways" target="_blank">The Everygirl</a>
+  Imagem: [The Everygirl](http://theeverygirl.com/quick-simple-valentines-night-at-home-two-ways) 
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.dailygourmet.co.uk/berry-parfait/" target="_blank">daily gourmet</a>
+  Imagem: [daily gourmet](http://www.dailygourmet.co.uk/berry-parfait/) 
 </p>
 
 <p align="justify">
@@ -98,23 +98,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank">**Café x saúde: quando é que ele é mocinho ou vilão?**</a>
+  [**Café x saúde: quando é que ele é mocinho ou vilão?**](http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes… e te direi se és saudável ou não.**</a>
+  [**Me diz o que comes… e te direi se és saudável ou não.**](http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/" target="_blank">**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**</a>
+  [**Vinho e suco de uva oferecem os mesmos benefícios para a saúde?**](http://www.trololodemulher.com.br/2013/09/30/vinho-suco-de-uva-saude/) 
 </p>
 
 <p align="justify">
-  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera _viu_, bonita? Para acompanhar todas as novidades e informações _superultramega_ úteis para que possamos nos alimentar melhor, espie o [blog onde há suas atualizações](http://www.drafernandagranja.com/) . Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

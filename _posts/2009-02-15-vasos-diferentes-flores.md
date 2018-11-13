@@ -22,7 +22,7 @@ Trata-se de idéias bastante criativas e originais de objetos que podemos usar e
 </p>
 
 <p style="text-align: center;">
-  O regador jogado e esquecido ganha vida e ar <em>vintage </em>num arranjo como esse, não? Aliás, objetos diversos pode ganhar novos usos em sua casa, sabia? Já pensou nisso? Então confira o **<em><a href="http://www.trololodemulher.com.br/2009/01/28/reutilizando-decoracao/" target="_self">novo uso para um quadro com moldura antiga</a></em>**, ou ainda, uma **<em><a href="http://www.trololodemulher.com.br/2009/02/23/reutilizacao-cadeira-jardim/" target="_self">cadeira que pode virar floreira</a></em>**.
+  O regador jogado e esquecido ganha vida e ar _vintage _num arranjo como esse, não? Aliás, objetos diversos pode ganhar novos usos em sua casa, sabia? Já pensou nisso? Então confira o **_<a href="http://www.trololodemulher.com.br/2009/01/28/reutilizando-decoracao/" target="_self">novo uso para um quadro com moldura antiga</a>_**, ou ainda, uma **_<a href="http://www.trololodemulher.com.br/2009/02/23/reutilizacao-cadeira-jardim/" target="_self">cadeira que pode virar floreira</a>_**.
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +30,7 @@ Trata-se de idéias bastante criativas e originais de objetos que podemos usar e
 </p>
 
 <p style="text-align: center;">
-  O caixote de madeira que não tinha uso também pode servir muito bem para este fim. Talvez você não imagine ou precise de inspirações para reutilização de objetos em casa, sim? Pois veja dicas de **<em><a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-2/" target="_self">novos usos para as coisas em casa</a></em>**, e a ainda o desdobramento das**<em><a href="http://www.trololodemulher.com.br/2009/10/07/reutilizacao-de-objetos/" target="_self"> ideias das leitoras desse blog quanto aos objetos reutilizados nas casas delas</a></em>**. Inspire-se!
+  O caixote de madeira que não tinha uso também pode servir muito bem para este fim. Talvez você não imagine ou precise de inspirações para reutilização de objetos em casa, sim? Pois veja dicas de **_<a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-2/" target="_self">novos usos para as coisas em casa</a>_**, e a ainda o desdobramento das**_<a href="http://www.trololodemulher.com.br/2009/10/07/reutilizacao-de-objetos/" target="_self"> ideias das leitoras desse blog quanto aos objetos reutilizados nas casas delas</a>_**. Inspire-se!
 </p>
 
 <p style="text-align: center;">
@@ -54,7 +54,7 @@ Trata-se de idéias bastante criativas e originais de objetos que podemos usar e
 </p>
 
 <p style="text-align: center;">
-  Latinhas ou baldezinhos são uma boa pedida para a hortinha de temperos, que desse jeito pode até ficar na janela da cozinha. Mais casinha de boneca do que isso, impossível! E por falar em hortinha na janela, seu problema é falta de espaço para o cultivo de ervas ou plantas no seu apartamento? Veja uma **<em><a href="http://www.trololodemulher.com.br/2009/08/24/horta-para-apartamento/" target="_self">ideia para o cultivo em um espaço bem pequeno</a></em>**. Aplique aí também!
+  Latinhas ou baldezinhos são uma boa pedida para a hortinha de temperos, que desse jeito pode até ficar na janela da cozinha. Mais casinha de boneca do que isso, impossível! E por falar em hortinha na janela, seu problema é falta de espaço para o cultivo de ervas ou plantas no seu apartamento? Veja uma **_<a href="http://www.trololodemulher.com.br/2009/08/24/horta-para-apartamento/" target="_self">ideia para o cultivo em um espaço bem pequeno</a>_**. Aplique aí também!
 </p>
 
 <p style="text-align: center;">
@@ -63,7 +63,7 @@ Trata-se de idéias bastante criativas e originais de objetos que podemos usar e
 
 Até o bule serve, gente! Chaleira também… [<img style="display: inline;" title="clip_image001" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image001-thumb14.gif" alt="clip_image001" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image00122.gif)
 
-_Imagens: “_<a href="http://www.diyideas.com/" target="_blank"><em>do it yourself</em></a>_”._
+_Imagens: “_[_do it yourself_](http://www.diyideas.com/) _”._
 
 <span style="color: #800080;">**Diz aí, tem como alguém dizer que um jardim com elementos assim não é criativo?**</span>
 

@@ -12,7 +12,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **<em>Expectativas reais, você tem?</em>**
+  **_Expectativas reais, você tem?_**
 </p>
 
 Sempre que  estamos envolvidos em um novo relacionamento, trabalho, ou mesmo um novo método de emagrecimento, temos expectativas  quanto ao desenrolar da situação em questão.
@@ -39,13 +39,13 @@ A reeducação emocional e alimentar é o caminho do sucesso para qualquer proce
 
 ( Rhandy di Stefano )
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 **_Luciana Kotaka – Psicóloga Clínica_**
 
 Especialista em Obesidade e Transtornos Alimentares
 
-<a href="http://blog.comportamentomagro.com.br/" target="_blank">WWW.comportamentomagro.com.br</a>
+[WWW.comportamentomagro.com.br](http://blog.comportamentomagro.com.br/) 
 
 Curitiba – PR
 

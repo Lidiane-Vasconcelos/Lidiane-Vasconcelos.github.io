@@ -20,15 +20,15 @@ Pois é, bonita… hoje o **Bicha Fêmea faz 4 anos de vida**, e o que passa pel
 <!--more-->
 
 <p align="justify">
-  **O Bicha Fêmea é nosso, pois não faço ele sozinha nem somente para mim**. Ele existe <em>pra</em> todas nós, <em>pra</em> gente aprender juntas, para as trocas de experiências, <em>pitacos</em> e tudo o mais. Eu só posso agradecer por tudo, por todo esse tempo. **Muito obrigada por estar aí, do outro lado da tela, interagindo comigo das mais diversas formas…**
+  **O Bicha Fêmea é nosso, pois não faço ele sozinha nem somente para mim**. Ele existe _pra_ todas nós, _pra_ gente aprender juntas, para as trocas de experiências, _pitacos_ e tudo o mais. Eu só posso agradecer por tudo, por todo esse tempo. **Muito obrigada por estar aí, do outro lado da tela, interagindo comigo das mais diversas formas…**
 </p>
 
 <p align="justify">
-  Via de regra, quando um blog faz aniversário, tem sorteio de presentes e tudo o mais, <em>né</em>? Você que me acompanha há um bom tempo sabe que foi assim nos anos anterioes também, mas este ano é especial demais da conta… demais da conta mesmo! Por isso, **não haverá presentes para serem sorteados… mas uma despedida**.
+  Via de regra, quando um blog faz aniversário, tem sorteio de presentes e tudo o mais, _né_? Você que me acompanha há um bom tempo sabe que foi assim nos anos anterioes também, mas este ano é especial demais da conta… demais da conta mesmo! Por isso, **não haverá presentes para serem sorteados… mas uma despedida**.
 </p>
 
 <p align="justify">
-  **Hoje eu saio da cena <em>bloguística</em>, e o Bicha Fêmea não contará mais com minhas atualizações de posts por meses**. Eu já explico o porquê…
+  **Hoje eu saio da cena _bloguística_, e o Bicha Fêmea não contará mais com minhas atualizações de posts por meses**. Eu já explico o porquê…
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Pois é, bonita… hoje o **Bicha Fêmea faz 4 anos de vida**, e o que passa pel
 </p>
 
 <p align="justify">
-  O Bicha Fêmea começou despretensiosamente, cresceu e apareceu. Em seguida surgiu o **<a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>**, e a coisa toda foi ficando mais trabalhosa, com atividades <em>bloguísticas</em> que exigem todo o meu empenho. Hoje eles tomam todo o tempo que tenho disponível, e eu os levo a sério demais para tentar conciliá-los com a maternidade nesses primeiros meses, porque não quero fazer de qualquer jeito.
+  O Bicha Fêmea começou despretensiosamente, cresceu e apareceu. Em seguida surgiu o **[Decoração da Casa](http://www.decoracaodacasa.com/) **, e a coisa toda foi ficando mais trabalhosa, com atividades _bloguísticas_ que exigem todo o meu empenho. Hoje eles tomam todo o tempo que tenho disponível, e eu os levo a sério demais para tentar conciliá-los com a maternidade nesses primeiros meses, porque não quero fazer de qualquer jeito.
 </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@ Pois é, bonita… hoje o **Bicha Fêmea faz 4 anos de vida**, e o que passa pel
 </p>
 
 <p align="justify">
-  Espero que você tenha um **Natal abençoado, repleto de sentimentos bons, e um Ano Novo cheio de alegrias e realizações, **<em>viu</em>? Eu não me contenho em mim de tanta alegria que ando sentindo nessa minha nova fase, e como quando a gente está muito feliz quer que todo mundo esteja, espero que você fique assim também,** feliz da vida**…
+  Espero que você tenha um **Natal abençoado, repleto de sentimentos bons, e um Ano Novo cheio de alegrias e realizações, **_viu_? Eu não me contenho em mim de tanta alegria que ando sentindo nessa minha nova fase, e como quando a gente está muito feliz quer que todo mundo esteja, espero que você fique assim também,** feliz da vida**…
 </p>
 
 <p align="justify">

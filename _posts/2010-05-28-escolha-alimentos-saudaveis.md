@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **Alimentos Gordurosos <em>Versus</em> Escolhas Saudáveis**
+  **Alimentos Gordurosos _Versus_ Escolhas Saudáveis**
 </p>
 
 Quem já não sentiu na pele as tentações das comidas gordas, recheadas de gordura e sabor?
@@ -35,13 +35,13 @@ O quanto pensar e se comportar de forma gorda também deixa engordurado seu corp
 
 Fica aí uma questão!
 
-**_<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka</a>_**
+**_[Luciana Kotaka](http://blog.comportamentomagro.com.br/) _**
 
 Psicóloga Clínica – Curitiba
 
 Especialista em Obesidade e Transtornos Alimentares
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 **Quer ler mais textos no Bicha Fêmea com dicas e estímulos para uma vida mais saudável?**
 

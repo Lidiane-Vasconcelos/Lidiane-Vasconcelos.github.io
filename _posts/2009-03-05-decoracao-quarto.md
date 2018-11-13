@@ -13,7 +13,7 @@ Sabe aquele pequeno **detalhe** na **decoração do quarto** que faz toda a dif
 
 Pois! O propósito desse post é oferecer ideias as quais possamos por em prática para deixar o quarto ainda mais bonito.
 
-Se for para equilibrar a decoração com detalhes femininos para você, mas também contemplar a masculinidade de seu companheiro, sugiro a leitura das <a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_self">**<em>dicas para o quarto de casal</em>** </a>da Roberta Feijó que demos por aqui.
+Se for para equilibrar a decoração com detalhes femininos para você, mas também contemplar a masculinidade de seu companheiro, sugiro a leitura das <a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_self">**_dicas para o quarto de casal_** </a>da Roberta Feijó que demos por aqui.
 
 A seleção de imagens para nos inspirar é muito bela, e as ideias são dignas de qualquer uma de nossas casas… é colocar os olhos, deixar a imaginação correr solta e, quem sabe, não está aí por baixo entre um detalhe e outro aquela que será sua porção mais querida na **decoração de seu quarto**, hein?[<img style="display: inline;" title="clip_image001[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image0014-thumb3.gif" alt="clip_image001[4]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00143.gif)
 
@@ -47,11 +47,11 @@ A imagem traz o tema oriental como inspiração e fiquei daqui pensando, enquant
 
 Pois o que eu faria seria correr numa loja dessas que vende artigos chineses, e que tem em quase todo grande centro urbano, para comprar leques como os sugeridos na imagem para ornar um cantinho de parede no quarto. Traria também algumas capas de almofadas totalmente inpiradas nas que vejo na imagem, e duas bonequinhas (orientais) para colocar na mesinha de cabeceira. E certamente isso não custaria muito porque a gente sabe que essas lojas geralmente têm precinhos módicos, não é?[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image001142.gif)
 
-_Imagens:_ <a href="http://www.idealhomemagazine.co.uk/" target="_blank"><em>Idealhome</em></a>
+_Imagens:_ [_Idealhome_](http://www.idealhomemagazine.co.uk/) 
 
 **<span style="color: #000000;">Mais no Bicha Fêmea…</span>**
 
-**<span style="color: #000000;"><em><a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_self">Pitacos de bicha fêmea: decoração do quarto de casal</a></em></span>**
+**<span style="color: #000000;">_<a href="http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/" target="_self">Pitacos de bicha fêmea: decoração do quarto de casal</a>_</span>**
 
 [**_Dicas e Detalhes na Decoração do Quarto_**](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/)
 
@@ -61,4 +61,4 @@ _Imagens:_ <a href="http://www.idealhomemagazine.co.uk/" target="_blank"><em>Ide
 
 **_<a href="http://www.trololodemulher.com.br/2010/04/22/pitacos-de-bicha-femea-decoracao-de-quarto-para-mae-e-filho/" target="_self">Pitacos de Bicha Fêmea: decoração de quarto para mãe e filho</a>_**
 
-Gostou? Receba as atualizações do Bicha Fêmea por <a>feed </a>ou <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">e-mail</a>. Você tem Twitter? <a href="http://twitter.com/bichafemea" target="_blank">Me segue aí</a>!!!
+Gostou? Receba as atualizações do Bicha Fêmea por <a>feed </a>ou [e-mail](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) . Você tem Twitter? [Me segue aí](http://twitter.com/bichafemea) !!!

@@ -14,7 +14,7 @@ Desde que comecei a _blogar_ sobre **decoração** aqui no **[Bicha Fêmea](http
 &nbsp;
 
 <p align="justify">
-  Por esse motivo, muitas vezes eu não pude ajudar, pois minha opinião fica limitada quando é necessário conhecimento técnico. Mas isso agora tem solução! Não… não me tornei uma profissional na área, mas firmei parceria com uma querida que, a partir de hoje, vai tirar dúvidas de decoração lá no **<a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>**… confere!
+  Por esse motivo, muitas vezes eu não pude ajudar, pois minha opinião fica limitada quando é necessário conhecimento técnico. Mas isso agora tem solução! Não… não me tornei uma profissional na área, mas firmei parceria com uma querida que, a partir de hoje, vai tirar dúvidas de decoração lá no **[Decoração da Casa](http://www.decoracaodacasa.com/) **… confere!
 </p>
 
 <!--more-->
@@ -26,21 +26,21 @@ Desde que comecei a _blogar_ sobre **decoração** aqui no **[Bicha Fêmea](http
 &nbsp;
 
 <p align="justify">
-  **Carol Carneiro** é uma <em>Designer de Ambientes</em> apaixonada pela reutilização de materiais. Seu talento para a decoração de ambientes já foi mostrado em detalhes de **<a href="http://www.decoracaodacasa.com/decoracao/" target="_blank">um de seus projetos no Decoração da Casa</a>**. No **<a href="http://www.blogcarolcarneiro.blogspot.com.br/">blog que a bonita edita</a>** dá para ver muito mais do que ela tem produzido, além de suas ideias transformadas em posts. Além disso, tem muito mais na **<a href="https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448">página da designer no Facebook</a>**<em>****,</em> cujo talento pode estar na casa de qualquer um através dos **projetos e serviços de consultoria de decoração**.
+  **Carol Carneiro** é uma _Designer de Ambientes_ apaixonada pela reutilização de materiais. Seu talento para a decoração de ambientes já foi mostrado em detalhes de **[um de seus projetos no Decoração da Casa](http://www.decoracaodacasa.com/decoracao/) **. No **<a href="http://www.blogcarolcarneiro.blogspot.com.br/">blog que a bonita edita</a>** dá para ver muito mais do que ela tem produzido, além de suas ideias transformadas em posts. Além disso, tem muito mais na **<a href="https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448">página da designer no Facebook</a>**_****,_ cujo talento pode estar na casa de qualquer um através dos **projetos e serviços de consultoria de decoração**.
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A dúvida da vez, respondida pela profissional, foi enviada pela **Valéria Gregores** e foi respondida pela **Carol **<a href="http://www.decoracaodacasa.com/duvidas-decoracao/" target="_blank">**lá no Decoração da Casa**</a>…
+  A dúvida da vez, respondida pela profissional, foi enviada pela **Valéria Gregores** e foi respondida pela **Carol **[**lá no Decoração da Casa**](http://www.decoracaodacasa.com/duvidas-decoracao/) …
 </p>
 
 <p align="justify">
-  Você está pensando na **decoração/reforma de sua cozinha**? Então é bem possível que a dúvida dela possa ser útil para você, <em>hein</em>?! Aproveita!
+  Você está pensando na **decoração/reforma de sua cozinha**? Então é bem possível que a dúvida dela possa ser útil para você, _hein_?! Aproveita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -55,13 +55,13 @@ Desde que comecei a _blogar_ sobre **decoração** aqui no **[Bicha Fêmea](http
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

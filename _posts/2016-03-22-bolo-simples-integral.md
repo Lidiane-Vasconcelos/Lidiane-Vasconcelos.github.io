@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  “<em>Primeiro bata as claras em neve. Reserve. Depois, na batedeira coloque as gemas, açúcar e manteiga. Bata bastante até ficar esbranquiçada. Acrescente o leite, mexa com a espátula, depois acrescente as farinhas. Incorpore as claras delicadamente e o fermento. Depois que estiver tudo bem incorporado, coloque as gotas de chocolate, mexa bem. Coloque em uma assadeira untada e enfarinhada. Leve ao forno em 180 graus até assar. Faça o teste do palitinho.</em>”
+  “_Primeiro bata as claras em neve. Reserve. Depois, na batedeira coloque as gemas, açúcar e manteiga. Bata bastante até ficar esbranquiçada. Acrescente o leite, mexa com a espátula, depois acrescente as farinhas. Incorpore as claras delicadamente e o fermento. Depois que estiver tudo bem incorporado, coloque as gotas de chocolate, mexa bem. Coloque em uma assadeira untada e enfarinhada. Leve ao forno em 180 graus até assar. Faça o teste do palitinho._”
 </p>
 
 <p align="center">
@@ -74,23 +74,23 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">Mousse de abacate e cacau em pó.</a>**
+  **[Mousse de abacate e cacau em pó.](http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.belezacorpoecia.com/receita-tabule-quinoa-saudavel/" target="_blank">Tabule de Quinoa</a>**
+  **[Tabule de Quinoa](http://www.belezacorpoecia.com/receita-tabule-quinoa-saudavel/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.belezacorpoecia.com/torta-de-abobora-frango/" target="_blank">Torta de abóbora com frango</a>**
+  **[Torta de abóbora com frango](http://www.belezacorpoecia.com/torta-de-abobora-frango/) **
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

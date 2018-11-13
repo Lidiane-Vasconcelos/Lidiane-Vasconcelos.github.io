@@ -14,7 +14,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Estou com um problema no meu quarto, no qual três das paredes estão brancas e a quarta é preenchida pelo meu armário. Escolhi um composê de papel de parede (um florido e um listrado), mas estou com dúvida em quais paredes coloco e o que faço na parede que restar. Em relação ao papel de parede, fiquei em dúvida se fazia o composê com um estampado e um liso, ou com os dois estampados. Mandei foto das duas ideias, mas estou aberta para novas opiniões. Uma das paredes fica atrás da cama, a segunda, que é bem menor, tem uma janela no meio, e a terceira, em frente a cama, tem um móvel comprido pregado na parede, com gavetas e uma televisão logo acima. Gostaria de saber em quais paredes você me sugere colocar os papéis, e o que faço com a parede que restar.”</em>**
+>   **_“Estou com um problema no meu quarto, no qual três das paredes estão brancas e a quarta é preenchida pelo meu armário. Escolhi um composê de papel de parede (um florido e um listrado), mas estou com dúvida em quais paredes coloco e o que faço na parede que restar. Em relação ao papel de parede, fiquei em dúvida se fazia o composê com um estampado e um liso, ou com os dois estampados. Mandei foto das duas ideias, mas estou aberta para novas opiniões. Uma das paredes fica atrás da cama, a segunda, que é bem menor, tem uma janela no meio, e a terceira, em frente a cama, tem um móvel comprido pregado na parede, com gavetas e uma televisão logo acima. Gostaria de saber em quais paredes você me sugere colocar os papéis, e o que faço com a parede que restar.”_**
 > </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Composê I – liso + estampado</em>
+  _Composê I – liso + estampado_
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Composê II – estampado + estampado</em>
+  _Composê II – estampado + estampado_
 </p>
 
 <p align="justify">
@@ -70,11 +70,11 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Olá!</em>**
+>   **_“Olá!_**
 > </p>
 
 > <p align="justify">
->   **<em>Adorei sua escolha de papeis! Que achas de utilizar todos?</em>**
+>   **_Adorei sua escolha de papeis! Que achas de utilizar todos?_**
 > </p>
 
 <p align="center">
@@ -82,11 +82,11 @@ categories:
 </p>
 
 <p align="center">
-  **<em>Composê III – floral + listrado + liso</em>**
+  **_Composê III – floral + listrado + liso_**
 </p>
 
 > <p align="justify">
->   **<em>Na parede da cabeceira podemos pôr o papel de parede florido, e nas outras paredes restantes instalar o papel listrado (na vertical) até a altura da vista da porta (que é a mesma do topo da janela).</em>**
+>   **_Na parede da cabeceira podemos pôr o papel de parede florido, e nas outras paredes restantes instalar o papel listrado (na vertical) até a altura da vista da porta (que é a mesma do topo da janela)._**
 > </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via [Casa Abril](http://casa.abril.com.br/) 
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://radardecoracao.com.br/" target="_blank">Radar Decoração</a>
+  Via [Radar Decoração](http://radardecoracao.com.br/) 
 </p>
 
 <p align="center">
@@ -110,11 +110,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.viaparis.com.br/" target="_blank">Via Paris</a>
+  Via [Via Paris](http://www.viaparis.com.br/) 
 </p>
 
 > <p align="justify">
->   **<em>O papel azul liso ficará acima do roda-teto, que pode ser de poliestireno ou isopor (não se preocupe, o isopor não vai ficar amassado a dois metros do chão, rsrsrs). </em>**
+>   **_O papel azul liso ficará acima do roda-teto, que pode ser de poliestireno ou isopor (não se preocupe, o isopor não vai ficar amassado a dois metros do chão, rsrsrs). _**
 > </p>
 
 <p align="center">
@@ -122,15 +122,15 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.santaluziamolduras.com.br/" target="_blank">Santa Luzia Molduras</a>
+  Via [Santa Luzia Molduras](http://www.santaluziamolduras.com.br/) 
 </p>
 
 > <p align="justify">
->   **<em>Espero que goste da sugestão!</em>**
+>   **_Espero que goste da sugestão!_**
 > </p>
 
 > <p align="justify">
->   **<em>Grande beijo!!!”</em>**
+>   **_Grande beijo!!!”_**
 > </p>
 
 <p align="center">
@@ -142,15 +142,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank">**Demonstração: como usar cores vibrantes na sala de estar?**</a>
+  [**Demonstração: como usar cores vibrantes na sala de estar?**](http://www.decoracaodacasa.com/cores-decoracao-sala-estar/) 
 </p>
 
 <p align="justify">
-  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a _designer_ [clicando aqui](http://www.maristelaleonel.com.br/bem-vindo) . Maristela também dispõe de uma página no _Facebook_ onde apresenta seus projetos e compartilha informações. [Eu já curti… vem também](https://www.facebook.com/maristelaleoneldi/timeline) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

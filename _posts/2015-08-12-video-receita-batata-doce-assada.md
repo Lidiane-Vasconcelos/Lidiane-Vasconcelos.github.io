@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Se tem uma coisa que me emociona é lembrar da minha vó Maria, das comidinhas simples e gostosas preparadas na sua cozinha, de vê-la cozinhando e sentir o cheirinho bom que saía das panelas. Ô coisa boa! Essas reminiscências infantis são cheias de significado, porque há muito amor nisso tudo. Quando a avó vai pra cozinha e prepara aquela comidinha com temperinho só dela, é amor o que ela nos dá. Sinto muitas saudades da minha vó e fico feliz de ver Arturzinho experimentando isso tudo quando vai pra casa da minha mãe e come a comidinha caseira que ela prepara. É confortante saber que ele também terá esse tipo de lembrança, e essas coisas são fundamentais para nos forjar como pessoa. Todo esse universo <em>caseiro-voterno-de amor</em> me emociona tanto que vivi de amores pelo vídeo da Drica que você verá logo a seguir. A bonita nos ensina a fazer a batata doce assada no forno, daquelas receitinhas de vó. O prato fica uma lindeza, e não duvido da delícia que é… quer aprender também? Vem!
+  Se tem uma coisa que me emociona é lembrar da minha vó Maria, das comidinhas simples e gostosas preparadas na sua cozinha, de vê-la cozinhando e sentir o cheirinho bom que saía das panelas. Ô coisa boa! Essas reminiscências infantis são cheias de significado, porque há muito amor nisso tudo. Quando a avó vai pra cozinha e prepara aquela comidinha com temperinho só dela, é amor o que ela nos dá. Sinto muitas saudades da minha vó e fico feliz de ver Arturzinho experimentando isso tudo quando vai pra casa da minha mãe e come a comidinha caseira que ela prepara. É confortante saber que ele também terá esse tipo de lembrança, e essas coisas são fundamentais para nos forjar como pessoa. Todo esse universo _caseiro-voterno-de amor_ me emociona tanto que vivi de amores pelo vídeo da Drica que você verá logo a seguir. A bonita nos ensina a fazer a batata doce assada no forno, daquelas receitinhas de vó. O prato fica uma lindeza, e não duvido da delícia que é… quer aprender também? Vem!
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“A batata doce solta uma gosminha, para que ela não grude na sua faca, passe um pouco de óleo na faca antes de começar a cortar! Faça o passo 3 somente se for servir na hora, pois elas murcham facilmente. A dica é levar ao forno por 30 minutos, pincelar a manteiga e depois conservar na geladeira, na hora de servir, aqueça bem o forno e finalize as batatas!!! Use essa batata doce como acompanhamento para tudo! A criançada adora!!!”</em>**
+>   **_“A batata doce solta uma gosminha, para que ela não grude na sua faca, passe um pouco de óleo na faca antes de começar a cortar! Faça o passo 3 somente se for servir na hora, pois elas murcham facilmente. A dica é levar ao forno por 30 minutos, pincelar a manteiga e depois conservar na geladeira, na hora de servir, aqueça bem o forno e finalize as batatas!!! Use essa batata doce como acompanhamento para tudo! A criançada adora!!!”_**
 > </p>
 
 <p align="center">
@@ -85,11 +85,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Drinks e petiscos para receber amigos, almoço pra sogra, um café da manhã especial para seu amor ou para a comidinha de todo dia mesmo, conte comigo!</em>”, essa é a promessa da Drica lá no seu blog. Um tantinho disso você acompanhará aqui no Trololó de Mulher mesmo, mas se eu fosse você, bonita, tratava de acompanhar essa blogueira que entende dos <em>parangolés</em> da cozinha agora, e já! Faz como eu, oh: <a href="http://www.dricanacozinha.com.br/" target="_blank">entre no blog</a> e espie o que tem de bom por lá, inclusive <a href="http://www.dricanacozinha.com.br/dicas/" target="_blank">dicas especiais e espertas bem aqui</a>. O <a href="https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A" target="_blank">canal da Drica no Youtube fica bem aqui</a>, basta fazer sua inscrição. E a <a href="https://www.facebook.com/dricanacozinha/timeline" target="_blank">página do blog no Facebook você encontra aqui</a>, é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
+  “_Drinks e petiscos para receber amigos, almoço pra sogra, um café da manhã especial para seu amor ou para a comidinha de todo dia mesmo, conte comigo!_”, essa é a promessa da Drica lá no seu blog. Um tantinho disso você acompanhará aqui no Trololó de Mulher mesmo, mas se eu fosse você, bonita, tratava de acompanhar essa blogueira que entende dos _parangolés_ da cozinha agora, e já! Faz como eu, oh: [entre no blog](http://www.dricanacozinha.com.br/)  e espie o que tem de bom por lá, inclusive [dicas especiais e espertas bem aqui](http://www.dricanacozinha.com.br/dicas/) . O [canal da Drica no Youtube fica bem aqui](https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A) , basta fazer sua inscrição. E a [página do blog no Facebook você encontra aqui](https://www.facebook.com/dricanacozinha/timeline) , é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

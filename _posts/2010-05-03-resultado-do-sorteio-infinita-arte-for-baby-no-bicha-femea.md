@@ -10,7 +10,7 @@ categories:
   - Promoção
   - Publieditorial
 ---
-Pois é! Saiu o resultado de mais um sorteio por aqui, no Bicha Fêmea. A sortuda da vez vai receber em casa uma manta linda e fofa da **_<a href="http://infinitaarteforbaby.blogspot.com/" target="_blank">Infinita Arte for Baby</a>_**, nossa parceira nessa promoção. E de quebra, ainda vai uma ovelhinha linda. Quer saber quem levou o prêmio?
+Pois é! Saiu o resultado de mais um sorteio por aqui, no Bicha Fêmea. A sortuda da vez vai receber em casa uma manta linda e fofa da **_[Infinita Arte for Baby](http://infinitaarteforbaby.blogspot.com/) _**, nossa parceira nessa promoção. E de quebra, ainda vai uma ovelhinha linda. Quer saber quem levou o prêmio?
 
 <!--more-->
 

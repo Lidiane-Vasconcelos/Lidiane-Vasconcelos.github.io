@@ -15,7 +15,7 @@ De uma forma ou outra, o que se vê aos montes são pessoas reclamando que não 
 
  <img style="display: inline; margin-left: 0; margin-right: 0;" title="entrepreneurthearts.files.wordpress.com" src="http://entrepreneurthearts.files.wordpress.com/2009/02/happy.jpg" alt="entrepreneurthearts.files.wordpress.com" width="230" height="289" align="left" />Não tem jeito, cabe a cada uma de nós assumir o compromisso pessoal de adotar pequenas atitudes que podem trazer um pouco mais de qualidade a nossa vida já conhecidamente atribulada. Eu procuro me policiar nesse sentido. E você? Olha lá, hein?[<img style="display: inline;" title="EmoticonConfused" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused_thumb1.gif" alt="EmoticonConfused" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused1.gif)
 
-Justamente porque me interesso por dicas que possam me ajudar a tornar a vida melhor, achei bastante interessante <a href="http://claudia.abril.com.br/materias/3688/?sh=33&cnl=40" target="_blank">esta matéria</a> publicada no <a href="http://claudia.abril.com.br/" target="_blank">site da revista CLAUDIA</a>. No texto há 53 dicas para rechear nossa rotina de ações simples, mas eficazes, no sentido de combater o estresse diário. Reuni aqui seis delas para a gente pensar a respeito, e são algumas que já ponho em prática e acredito serem valiosas. Certamente você vai identificar alguma que já faça parte de sua vida, ou outra que você perceba que já está na hora de agregar a sua rotina. _Bora_ ver?[<img style="display: inline;" title="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb3.gif" alt="EmoticonWink" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink3.gif)
+Justamente porque me interesso por dicas que possam me ajudar a tornar a vida melhor, achei bastante interessante [esta matéria](http://claudia.abril.com.br/materias/3688/?sh=33&cnl=40)  publicada no [site da revista CLAUDIA](http://claudia.abril.com.br/) . No texto há 53 dicas para rechear nossa rotina de ações simples, mas eficazes, no sentido de combater o estresse diário. Reuni aqui seis delas para a gente pensar a respeito, e são algumas que já ponho em prática e acredito serem valiosas. Certamente você vai identificar alguma que já faça parte de sua vida, ou outra que você perceba que já está na hora de agregar a sua rotina. _Bora_ ver?[<img style="display: inline;" title="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb3.gif" alt="EmoticonWink" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink3.gif)
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="2.bp.blogspot.com1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/2-bp-blogspot-com1_thumb.png" border="0" alt="2.bp.blogspot.com1" width="240" height="183" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/2-bp-blogspot-com1.png) 1 – **Se permitir a diversão**. Pára tudo. Somente ter obrigações na vida, bonita? Não, _né_?! Eu mesma já me vi pensando em recusar convites do marido ou de pessoas queridas por causa do sentimento de obrigação que eu tinha, sendo que eu sabia que poderia dar conta de resolver o problema em outro momento. Felizmente caí na real e vi que essa era uma atitude de boicote a mim mesma. E fui me divertir, serelepe e saltitante. E é assim que faço hoje em dia. Uma coisa é ser responsável, outra é ser fissurada nas ditas obrigações. Precisamos achar o equilíbrio, não é?[<img style="display: inline;" title="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb4.gif" alt="EmoticonWink" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink4.gif)
 
@@ -33,7 +33,7 @@ Justamente porque me interesso por dicas que possam me ajudar a tornar a vida me
 
 Menina, isso é só um pouquinho, pouquinho mesmo, do _bocado_ de dicas legais na matéria completa. Só lembrando, são 53 sugestões para você colocar em prática. Mas não dá para fazer tudo num só dia, não é? _Tudoaomesmotempoagora_ não dá, lembra? Escolhe algumas bem legais e fáceis para você adaptar sem mudanças radicais, e vai experimentando aos poucos. Já escolhi as minhas, hein?[<img style="display: inline;" title="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb5.gif" alt="EmoticonWink" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink5.gif)
 
-Ah! Está tudo, tudinho <a href="http://claudia.abril.com.br/materias/3688/?pagina1&sh=33&cnl=40&sc=" target="_blank">aqui ó</a>. Desfrute!
+Ah! Está tudo, tudinho [aqui ó](http://claudia.abril.com.br/materias/3688/?pagina1&sh=33&cnl=40&sc=) . Desfrute!
 
 **Mais no Bicha**
 
@@ -45,23 +45,23 @@ Ah! Está tudo, tudinho <a href="http://claudia.abril.com.br/materias/3688/?pagi
 
 <span style="color: #000080;">Atualização I</span>
 
-<span style="color: #000080;"><em>Eita, lelê</em>! Esse Bicha dá certo é por causa das fêmeas que passam por aqui. Pois, já temos até mais algumas dicas para complementar o post. Olha só:</span>
+<span style="color: #000080;">_Eita, lelê_! Esse Bicha dá certo é por causa das fêmeas que passam por aqui. Pois, já temos até mais algumas dicas para complementar o post. Olha só:</span>
 
-<span style="color: #000080;">A Laély, do blog</span> <a href="http://saladala.blogspot.com/" target="_blank">“Sala da La”</a> <span style="color: #000080;">disse o seguinte: </span>
+<span style="color: #000080;">A Laély, do blog</span> [“Sala da La”](http://saladala.blogspot.com/)  <span style="color: #000080;">disse o seguinte: </span>
 
 <span style="color: #000080;">“&#8230;aprender a estabelecer prioridades e dizer &#8220;NÃO&#8221; para algumas coisas e dizer &#8220;SIM&#8221; para a simplicidade! Caminhar em meio à natureza, parar pra ouvir os passarinhos na sua janela, colher flores, cultivar uma horta&#8230; assistir um bom filme, ajudar alguém..são coisas simples que alavancam nossa qualidade de vida!”</span>
 
-<span style="color: #000080;">A Ana Carla, do blog </span><a href="http://anabenetartes.blogspot.com/" target="_blank">“Ana Benet Artes”</a> <span style="color: #000080;">sugeriu isso aqui, ó: </span>
+<span style="color: #000080;">A Ana Carla, do blog </span>[“Ana Benet Artes”](http://anabenetartes.blogspot.com/)  <span style="color: #000080;">sugeriu isso aqui, ó: </span>
 
 <span style="color: #000080;">“&#8230;Não pegue compromissos que vão te deixar atolada. Se não dá pra fazer, aprenda a dizer &#8220;não&#8221; quando se pode. Agradar ou querer agradar a todos tb é muito estressante. Devemos fazer o possível para ajudar aos outos, mas desde de que não nos prejudiquemos com isso.”</span>
 
-<span style="color: #000080;">A Luma, do blog</span> <a href="http://luzdeluma.blogspot.com/" target="_blank">“Luz de Luma, yes party”</a> <span style="color: #000080;">também deixou seu recado aqui:</span>
+<span style="color: #000080;">A Luma, do blog</span> [“Luz de Luma, yes party”](http://luzdeluma.blogspot.com/)  <span style="color: #000080;">também deixou seu recado aqui:</span>
 
 <span style="color: #000080;">“&#8230;mais importante, afaste de sua vida pessoas que agem, como se você fosse um devedor. Mesmo assim, se essas pessoas insistirem, adote o lema do &#8216;bom pagador&#8217;</span>
 
 <span style="color: #000080;">Devo, não nego, pago assim que puder.”</span>
 
-<span style="color: #000080;">E também temos um alerta da Claudia, do blog</span> <a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">“Feito a Mão”,</a> <span style="color: #000080;">e é bom a gente ficar atenta. Lê isso:</span>
+<span style="color: #000080;">E também temos um alerta da Claudia, do blog</span> [“Feito a Mão”,](http://claudinha-feitoamo.blogspot.com/)  <span style="color: #000080;">e é bom a gente ficar atenta. Lê isso:</span>
 
 <span style="color: #000080;">“&#8230;depois do nascimento da minha primeira filha eu me deparei com uma baita depressão. Eu me recusei a admitir os sintomas pois isso para mim era frescura de quem não tinha o que fazer &#8211; de acordo com meu preconceito de &#8220;bicha fêmea perfeita e autosuficiente&#8221;.</span>
 
@@ -77,15 +77,15 @@ Ah! Está tudo, tudinho <a href="http://claudia.abril.com.br/materias/3688/?pagi
 
 <span style="color: #000080;">Resultado: Até pareço que sou muito mais nova. rsrsrs”</span>
 
-<span style="color: #000080;"><em> </em></span>
+<span style="color: #000080;">_ _</span>
 
-<span style="color: #000080;"><em> </em></span>
+<span style="color: #000080;">_ _</span>
 
-<span style="color: #000080;"><em>Tá</em>, sou suspeita para falar. Mas é por isso, por essa interatividade, que adoro o Bicha. <em>Brigadinha</em>, bonitas!</span>
+<span style="color: #000080;">_Tá_, sou suspeita para falar. Mas é por isso, por essa interatividade, que adoro o Bicha. _Brigadinha_, bonitas!</span>
 
 <span style="color: #800080;">Atualização II</span>
 
-<span style="color: #800080;">Se escutar música é uma das dicas para a gente aliviar o estresse, que seja música de qualidade e com algo interessante a dizer, certo? Tudo a ver com tudo o comentário da Fla, lá do blog</span> <a href="http://artenacozinha.blogspot.com/" target="_blank">“Arte na Cozinha”.</a> <span style="color: #800080;">Olha só:</span>
+<span style="color: #800080;">Se escutar música é uma das dicas para a gente aliviar o estresse, que seja música de qualidade e com algo interessante a dizer, certo? Tudo a ver com tudo o comentário da Fla, lá do blog</span> [“Arte na Cozinha”.](http://artenacozinha.blogspot.com/)  <span style="color: #800080;">Olha só:</span>
 
 <span style="color: #800080;">“Flor, sabe o que eu procuro fazer para evitar stress entre outras cositas? Afastar gente negativa e de mau humor de perto de mim&#8230; E muita gente aí em cima disse sobre aprender a falar Não. E eu lembrei de uma música super velha do Kid Abelha que diz assim: &#8220;&#8230;dizer não é dizer sim, saber o que é bom pra mim, não é só dar um palpite. Dizer não é dizer sim, dar um não ao que é ruim, é mostrar o meu limite&#8230;&#8221; hehehe, tirei do fundo do baú essa hein?!”</span>
 

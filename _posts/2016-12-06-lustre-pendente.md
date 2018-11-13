@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/" target="_blank">**Ventilador de teto + luminária pendente… pode?**</a>
+  [**Ventilador de teto + luminária pendente… pode?**](http://www.decoracaodacasa.com/luminaria-pendente-sala-jantar/) 
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via [Lumens](http://www.lumens.com/) 
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via [Lumens](http://www.lumens.com/) 
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank">**5 salas de jantar modernas para viver de amores.**</a>
+  [**5 salas de jantar modernas para viver de amores.**](http://www.decoracaodacasa.com/salas-de-jantar-modernas/) 
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lightology.com/" target="_blank">Lightology</a>
+  Via [Lightology](http://www.lightology.com/) 
 </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.goinglighting.com/" target="_blank">Going Lighting</a>
+  Via [Going Lighting](http://www.goinglighting.com/) 
 </p>
 
 <p align="justify">
-  As luminárias no formato que lembram um tambor também têm uma <em>bossa</em> moderna, e seu uso é bastante frequente. Com formato bem delimitado e simples, há que se ater aos detalhes para descobrir do que gostamos mais. Acabamento em tecido, vidro, metal, grande, pequena, média? As possibilidades são muitas. Use o bom senso e respeite seu estilo: o resultado só pode ser algo bonito de viver. Assim como na ideia de simetria e proporção anterior, gosto da ideia de usar apenas uma sobre uma mesa quadrada ou redonda, e duas ou mais – a depender do tamanho da mesa –, de maneira linear, sobre uma mesa retangular ou oval. Veja imagens a seguir e inspire-se!
+  As luminárias no formato que lembram um tambor também têm uma _bossa_ moderna, e seu uso é bastante frequente. Com formato bem delimitado e simples, há que se ater aos detalhes para descobrir do que gostamos mais. Acabamento em tecido, vidro, metal, grande, pequena, média? As possibilidades são muitas. Use o bom senso e respeite seu estilo: o resultado só pode ser algo bonito de viver. Assim como na ideia de simetria e proporção anterior, gosto da ideia de usar apenas uma sobre uma mesa quadrada ou redonda, e duas ou mais – a depender do tamanho da mesa –, de maneira linear, sobre uma mesa retangular ou oval. Veja imagens a seguir e inspire-se!
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via [Lumens](http://www.lumens.com/) 
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via [Lumens](http://www.lumens.com/) 
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://deepkod.com/" target="_blank">Deekpod</a>
+  Via [Deekpod](http://deepkod.com/) 
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.wrexhamonline.net/" target="_blank">Pendant Light</a>
+  Via [Pendant Light](http://www.wrexhamonline.net/) 
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://olpos.com/" target="_blank">Olpos Design</a>
+  Via [Olpos Design](http://olpos.com/) 
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Via [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="center">
@@ -126,11 +126,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.athomeinlove.com/" target="_blank">At Home in Love</a>
+  Via [At Home in Love](http://www.athomeinlove.com/) 
 </p>
 
 <p align="justify">
-  Existem aqueles lustres pendentes que são verdadeiras esculturas sobre a mesa de jantar, não é? Sonha com um desses? As possibilidades são muitas. Dá para partir de algo mais simples, como um formato que lembra um sino, até opções mais <em>pomposas</em>, digamos assim. Repara em mais inspirações:
+  Existem aqueles lustres pendentes que são verdadeiras esculturas sobre a mesa de jantar, não é? Sonha com um desses? As possibilidades são muitas. Dá para partir de algo mais simples, como um formato que lembra um sino, até opções mais _pomposas_, digamos assim. Repara em mais inspirações:
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via [Lumens](http://www.lumens.com/) 
 </p>
 
 <p align="center">
@@ -146,7 +146,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via [Lumens](http://www.lumens.com/) 
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lumens.com/" target="_blank">Lumens</a>
+  Via [Lumens](http://www.lumens.com/) 
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.lucente.eu/index.php" target="_blank">Lucente</a>
+  Via [Lucente](http://www.lucente.eu/index.php) 
 </p>
 
 <p align="center">
@@ -170,15 +170,15 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.gubi.dk/" target="_blank">Gubi</a>
+  Via [Gubi](http://www.gubi.dk/) 
 </p>
 
 <p align="justify">
-  E para ter certeza sobre a altura ideal da peça, não deixe de conferir o post “<a href="http://www.decoracaodacasa.com/luminaria-pendente-decoracao/" target="_blank">Você sabe mesmo inserir a luminária pendente na decoração da casa?</a>”. Altamente recomendado!
+  E para ter certeza sobre a altura ideal da peça, não deixe de conferir o post “[Você sabe mesmo inserir a luminária pendente na decoração da casa?](http://www.decoracaodacasa.com/luminaria-pendente-decoracao/) ”. Altamente recomendado!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

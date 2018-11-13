@@ -9,10 +9,10 @@ permalink: /2011/05/18/estudio-cereja/
 categories:
   - Sem categoria
 ---
-Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só para te inspirar, não é? Prepare-se porque a deste mês é de ficar babando, bonita! Se eu desconfio bem, você fica dodinha quando vê _fofurices_ para enfeitar a casa, não é verdade? Pois as coisas do **<a href="http://estudiocereja.tanlup.com/" target="_blank">Estúdio Cereja</a>** são imperdíveis de serem apreciadas…difícil é resistir a tanta coisa linda!
+Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só para te inspirar, não é? Prepare-se porque a deste mês é de ficar babando, bonita! Se eu desconfio bem, você fica dodinha quando vê _fofurices_ para enfeitar a casa, não é verdade? Pois as coisas do **[Estúdio Cereja](http://estudiocereja.tanlup.com/) ** são imperdíveis de serem apreciadas…difícil é resistir a tanta coisa linda!
 
 <p style="text-align: justify;">
-  Vem cá! Você sabe do que estou falando? Já ouviu falar do blog **<a href="http://www.acasaqueaminhavoqueria.com/" target="_blank">A casa que a minha vó queria</a>**, da **Ana Medeiros**? <em>Hum</em>… pois essa loja virtual de pôsteres e pinturas que embelezam a casa é uma <em>invencionice</em> dela, sabia? <em>Espia</em> só e veja se não foi uma ideia das boas…
+  Vem cá! Você sabe do que estou falando? Já ouviu falar do blog **[A casa que a minha vó queria](http://www.acasaqueaminhavoqueria.com/) **, da **Ana Medeiros**? _Hum_… pois essa loja virtual de pôsteres e pinturas que embelezam a casa é uma _invencionice_ dela, sabia? _Espia_ só e veja se não foi uma ideia das boas…
 </p>
 
 <!--more-->
@@ -22,7 +22,7 @@ Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só 
 </p>
 
 <p style="text-align: justify;">
-  “**<em>O Estúdio Cereja é um atelier de pintura e criação, onde produzimos arte de forma doce, única e personalizada. Cada pincelada e desenho são feitos pensando em deixar a decoração do seu lar ainda mais especial, seja através de um ar mais romântico, divertido ou eternizando lembranças e pessoas queridas</em>.**”
+  “**_O Estúdio Cereja é um atelier de pintura e criação, onde produzimos arte de forma doce, única e personalizada. Cada pincelada e desenho são feitos pensando em deixar a decoração do seu lar ainda mais especial, seja através de um ar mais romântico, divertido ou eternizando lembranças e pessoas queridas_.**”
 </p>
 
 <p style="text-align: justify;">
@@ -58,7 +58,7 @@ Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só 
 </p>
 
 <p style="text-align: justify;">
-  Então, olha só: dá para acompanhar todas as novidades através do **<a href="http://estudiocereja.com.br/" target="_blank">blog da loja</a>**, e se quiser ir direto ao ponto, saindo da prateleira do Bicha Fêmea para as prateleiras da loja virtual, **<a href="http://estudiocereja.tanlup.com/" target="_blank">clique aqui</a>** e delicie-se!
+  Então, olha só: dá para acompanhar todas as novidades através do **[blog da loja](http://estudiocereja.com.br/) **, e se quiser ir direto ao ponto, saindo da prateleira do Bicha Fêmea para as prateleiras da loja virtual, **[clique aqui](http://estudiocereja.tanlup.com/) ** e delicie-se!
 </p>
 
 <p style="text-align: justify;">
@@ -76,19 +76,19 @@ Você bem sabe que mensalmente tem uma **Prateleira do Bicha Fêmea** feita só 
 **[Prateleira do Bicha Fêmea: Eu sei disso…](http://www.trololodemulher.com.br/2010/11/10/prateleira-eu-sei-disso%e2%80%a6/)**
 
 <p style="text-align: center;">
-  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 <p style="text-align: center;">

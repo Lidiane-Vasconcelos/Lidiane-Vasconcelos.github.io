@@ -15,17 +15,17 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="justify">
-  Este post tem dois deles para você, e um deles eu diria que é bem radical, porque até uma peça de roupa pode passar a ser um item decorativo em casa, sabia? Duvida?! <em>Bora</em> ver juntas?
+  Este post tem dois deles para você, e um deles eu diria que é bem radical, porque até uma peça de roupa pode passar a ser um item decorativo em casa, sabia? Duvida?! _Bora_ ver juntas?
 </p>
 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg"><img class="alignnone size-full wp-image-6838" title="surpresa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg" alt="" width="559" height="600" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
+  [Stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg"><img class="alignnone size-full wp-image-6838" title="surpresa" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa.jpg" alt="" width="559" height="600" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 <p align="justify">
-  Basta um pouco de jeito com as atividades manuais, e menos dinheiro ainda, para que você pegue um móvel condenado ao lixo por muitos e transforme ele em algo novo, totalmente renovado. Foi exatamente o que fez a **Lilly**, editora do **<a href="http://blogdareforma.wordpress.com/" target="_blank">Blog da Reforma</a>**, quando resolveu dar um <em>up</em> nessa mesinha, bem acabadinha, logo a seguir…
+  Basta um pouco de jeito com as atividades manuais, e menos dinheiro ainda, para que você pegue um móvel condenado ao lixo por muitos e transforme ele em algo novo, totalmente renovado. Foi exatamente o que fez a **Lilly**, editora do **[Blog da Reforma](http://blogdareforma.wordpress.com/) **, quando resolveu dar um _up_ nessa mesinha, bem acabadinha, logo a seguir…
 </p>
 
 &nbsp;
@@ -49,7 +49,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 > <p align="justify">
->   “<em>Eu desmanchei a parte de baixo, enrolei barbante (duas camadas), reforcei com barbante cada voltinha, pintei de branco e coloquei em cima dois discos de táboa que encomendei de um artesão local, por 20 pilas. Não ficou linda?”</em>
+>   “_Eu desmanchei a parte de baixo, enrolei barbante (duas camadas), reforcei com barbante cada voltinha, pintei de branco e coloquei em cima dois discos de táboa que encomendei de um artesão local, por 20 pilas. Não ficou linda?”_
 > </p>
 
 &nbsp;
@@ -59,7 +59,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 </p>
 
 <p align="justify">
-  Mais do que te inspirar para renovar um móvel de sua casa, esse post de **Antes&Depois** quer mostrar que algumas coisas podem mesmo se transformar, ganhar nova função. Sabe o que a **Renata Becker**, que comanda o blog **<a href="http://vidaloucadecasada.blogspot.com/" target="_blank">Vida Louca de Casada</a>**, fez na casa dela? Ela usou uma camiseta para confeccionar uma almofada… pois, é! Se você tiver uma camiseta abandonada no fundo do armário, corre e veja se ela tem potencial. A inspiração para isso? Veja a seguir…
+  Mais do que te inspirar para renovar um móvel de sua casa, esse post de **Antes&Depois** quer mostrar que algumas coisas podem mesmo se transformar, ganhar nova função. Sabe o que a **Renata Becker**, que comanda o blog **[Vida Louca de Casada](http://vidaloucadecasada.blogspot.com/) **, fez na casa dela? Ela usou uma camiseta para confeccionar uma almofada… pois, é! Se você tiver uma camiseta abandonada no fundo do armário, corre e veja se ela tem potencial. A inspiração para isso? Veja a seguir…
 </p>
 
 &nbsp;
@@ -71,7 +71,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="justify">
-  Foi numa dessas arrumações do armário que a **Renata** encontrou a camiseta esquecida. Empolgada com o achado, como conta em detalhes** <a href="http://vidaloucadecasada.blogspot.com/2011/07/faca-vc-mesmo-almofada-de-camiseta.html" target="_blank">neste post publicado em seu blog</a>**, ela resolveu investir na transformação…
+  Foi numa dessas arrumações do armário que a **Renata** encontrou a camiseta esquecida. Empolgada com o achado, como conta em detalhes** [neste post publicado em seu blog](http://vidaloucadecasada.blogspot.com/2011/07/faca-vc-mesmo-almofada-de-camiseta.html) **, ela resolveu investir na transformação…
 </p>
 
 &nbsp;
@@ -83,7 +83,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 > <p align="justify">
->   “<em>Fiz uma costurinha à mão, cortei a parte de cima, coloquei enchimento e virou uma gostosinha almofada para nossa cama! Ela é de uma malha geladinha muito gostosa de pegar, uiuiui adorei!”</em>
+>   “_Fiz uma costurinha à mão, cortei a parte de cima, coloquei enchimento e virou uma gostosinha almofada para nossa cama! Ela é de uma malha geladinha muito gostosa de pegar, uiuiui adorei!”_
 > </p>
 
 &nbsp;
@@ -111,7 +111,7 @@ Uma das delícias de quem curte navegar por blogs que falam de decoração é se
 &nbsp;
 
 <p align="center">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
 </p>
 
 <p align="center">

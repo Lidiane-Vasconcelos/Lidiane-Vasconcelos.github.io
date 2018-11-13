@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  As imagens, via **<em><a href="http://www.shelterness.com/" target="_blank">Shelterness</a></em>**, mostram soluções que você pode adaptar perfeitamente em seus domínios, todas para atender necessidades na cozinha de qualquer mulher bem real e, o melhor, fáceis de serem encontradas em qualquer loja do tipo <em>home center</em>… confere!
+  As imagens, via **_[Shelterness](http://www.shelterness.com/) _**, mostram soluções que você pode adaptar perfeitamente em seus domínios, todas para atender necessidades na cozinha de qualquer mulher bem real e, o melhor, fáceis de serem encontradas em qualquer loja do tipo _home center_… confere!
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: x-large;"><em>1</em></span>** – Na hora do <em>vuco-vuco</em> da cozinha, quando você precisa de **papel toalha ou utensílios de primeira necessidade sempre á mão**, nada melhor que um suporte como esse para deixar tudo organizado, bonito de se ver e <em>superultramega</em> prático.
+  **<span style="font-size: x-large;">_1_</span>** – Na hora do _vuco-vuco_ da cozinha, quando você precisa de **papel toalha ou utensílios de primeira necessidade sempre á mão**, nada melhor que um suporte como esse para deixar tudo organizado, bonito de se ver e _superultramega_ prático.
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: x-large;"><em>2 </em></span>**– Você tem uma **espaço de parede vazio, sem utilidade alguma + a sua necessidade pessoal de organizar algumas coisas na cozinha**. Então, monte uma verdadeira central de suportes organizadores nesse espaço! Enumere suas necessidades, faça a medição do espaço que tem e corra para um <em>home center</em> a fim de identificar as partes que vão compor sua central de suportes organizadores.
+  **<span style="font-size: x-large;">_2 _</span>**– Você tem uma **espaço de parede vazio, sem utilidade alguma + a sua necessidade pessoal de organizar algumas coisas na cozinha**. Então, monte uma verdadeira central de suportes organizadores nesse espaço! Enumere suas necessidades, faça a medição do espaço que tem e corra para um _home center_ a fim de identificar as partes que vão compor sua central de suportes organizadores.
 </p>
 
 &nbsp;
@@ -51,7 +51,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: x-large;"><em>3</em></span>** – Você é amante dos **temperos** e tem muitos e muitos deles? Você tem a opção de **deixá-los todos expostos assim: bonitos, de cores, tipos e texturas diferentes**. Vai ficar tudo organizado, prático de acessar e deixar a cozinha linda de viver como deve ser: com cara de cozinha.
+  **<span style="font-size: x-large;">_3_</span>** – Você é amante dos **temperos** e tem muitos e muitos deles? Você tem a opção de **deixá-los todos expostos assim: bonitos, de cores, tipos e texturas diferentes**. Vai ficar tudo organizado, prático de acessar e deixar a cozinha linda de viver como deve ser: com cara de cozinha.
 </p>
 
 &nbsp;
@@ -63,7 +63,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: x-large;"><em>4</em> </span>**– Sabe aquelas **panelas mais queridas que você usa praticamente todo santo dia**? Por que não facilitar sua vida pendurando algumas delas na parede? Repare se elas têm furinhos no cabo…em caso positivo, copie a ideia!
+  **<span style="font-size: x-large;">_4_ </span>**– Sabe aquelas **panelas mais queridas que você usa praticamente todo santo dia**? Por que não facilitar sua vida pendurando algumas delas na parede? Repare se elas têm furinhos no cabo…em caso positivo, copie a ideia!
 </p>
 
 &nbsp;
@@ -75,11 +75,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **<em><span style="font-size: x-large;">5 </span></em>**– E suas **canecas lindas de viver**, <em>hein</em>? Por que essa coleção está escondida no armário? Isso não é justo com elas, concorda? Faça justiça e exponha algumas delas, bonitas e faceiras, penduradas nos ganchinhos. A ideia é bem charmosa, concorda?
+  **_<span style="font-size: x-large;">5 </span>_**– E suas **canecas lindas de viver**, _hein_? Por que essa coleção está escondida no armário? Isso não é justo com elas, concorda? Faça justiça e exponha algumas delas, bonitas e faceiras, penduradas nos ganchinhos. A ideia é bem charmosa, concorda?
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

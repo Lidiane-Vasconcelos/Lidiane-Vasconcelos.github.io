@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p style="text-align: justify;">
-  Se a resposta for sim, você bem que vai gostar de ver duas sugestões para usar, amar e se sentir toda poderosa nos dias (não tão) frios que ainda restam. A verdade é que essas cores mais fechadas sempre reinam absolutas nesse período do ano, <em>né</em>? E, vamos combinar, eles deixam nossas mãos com <em>bossa</em> de mulherão!
+  Se a resposta for sim, você bem que vai gostar de ver duas sugestões para usar, amar e se sentir toda poderosa nos dias (não tão) frios que ainda restam. A verdade é que essas cores mais fechadas sempre reinam absolutas nesse período do ano, _né_? E, vamos combinar, eles deixam nossas mãos com _bossa_ de mulherão!
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -26,15 +26,15 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **<em>1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque</em>.” Cláudia Ramalho | **<a href="http://www.blogfeitoamao.com/" target="_blank">**Feito a Mão**</a>
+>   **_1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque_.” Cláudia Ramalho | **[**Feito a Mão**](http://www.blogfeitoamao.com/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   **2 –<em> “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon.</em>” Mayara Santana | **<a href="http://mayaramonica.blogspot.com.br/" target="_blank">**My Diary**</a>
+>   **2 –_ “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon._” Mayara Santana | **[**My Diary**](http://mayaramonica.blogspot.com.br/) 
 > </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

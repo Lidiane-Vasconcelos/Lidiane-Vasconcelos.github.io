@@ -39,7 +39,7 @@ Todos temos uma fortaleza dentro de si, mas precisas procurar e se permitir a ex
 
 Um abraço
   
-**<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka<br /> </a>**Especialista em Obesidade e Transtornos Alimentares
+**[Luciana Kotaka<br /> ](http://blog.comportamentomagro.com.br/) **Especialista em Obesidade e Transtornos Alimentares
   
 Curitiba-PR
 

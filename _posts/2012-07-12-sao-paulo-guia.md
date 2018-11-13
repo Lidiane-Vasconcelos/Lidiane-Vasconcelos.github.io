@@ -24,7 +24,7 @@ Já te contei que sou uma pernambucana desgarrada em terras paulistas desde 2005
 </p>
 
 <p align="justify">
-  Já ouviu falar do **serviço da Vivo** que te informa o que há **Perto de Você**, literalmente? Pois é: o <a href="http://www.pertodevoce.com.br/" target="_blank">**Perto de Você **</a>é um site de busca inteligente criado para facilitar sua vida na hora de encontrar **<a href="http://www.pertodevoce.com.br/sao-paulo/cabeleireiro-e-instituto-de-beleza" target="_blank">salões de beleza</a>, **manicure**, <a href="http://www.pertodevoce.com.br/sao-paulo/clinica-estetica" target="_blank">clínicas de estética</a>, **academias**, <a href="http://www.pertodevoce.com.br/sao-paulo/spa" target="_blank">SPA´s</a>, **etc. Enfim, tudo que uma bicha fêmea que gosta de praticidade precisa para localizar empresas bem pertinho dela.
+  Já ouviu falar do **serviço da Vivo** que te informa o que há **Perto de Você**, literalmente? Pois é: o [**Perto de Você **](http://www.pertodevoce.com.br/) é um site de busca inteligente criado para facilitar sua vida na hora de encontrar **[salões de beleza](http://www.pertodevoce.com.br/sao-paulo/cabeleireiro-e-instituto-de-beleza) , **manicure**, [clínicas de estética](http://www.pertodevoce.com.br/sao-paulo/clinica-estetica) , **academias**, [SPA´s](http://www.pertodevoce.com.br/sao-paulo/spa) , **etc. Enfim, tudo que uma bicha fêmea que gosta de praticidade precisa para localizar empresas bem pertinho dela.
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@ Já te contei que sou uma pernambucana desgarrada em terras paulistas desde 2005
 </p>
 
 <p align="justify">
-  Já imaginou quanto isso pode ser útil para você que mora numa cidade como a capital de **São Paulo**? Isso sim seria uma “mão na roda”, <em>hein</em>? **Restaurantes, padarias, pizzarias, lavanderias** e tudo o que você imaginar pode ser localizado de forma rápida e prática: **digite o tipo de estabelecimento que está buscando ou o nome do estabelecimento, depois o local onde deseja encontrar** e… pronto! Uma nova página será apresentada para você com os resultados de sua busca.
+  Já imaginou quanto isso pode ser útil para você que mora numa cidade como a capital de **São Paulo**? Isso sim seria uma “mão na roda”, _hein_? **Restaurantes, padarias, pizzarias, lavanderias** e tudo o que você imaginar pode ser localizado de forma rápida e prática: **digite o tipo de estabelecimento que está buscando ou o nome do estabelecimento, depois o local onde deseja encontrar** e… pronto! Uma nova página será apresentada para você com os resultados de sua busca.
 </p>
 
 <p align="justify">
-  O serviço é oferecido para **todas as cidades do estado de São Paulo**, e é <em>TO-TAL-MEN-TE</em> **grátis**! Além do mais, aos poucos você pode ir criando sua **lista personalizada** á medida que você **salva os seus lugares favoritos** e acessa posteriormente quando quiser.
+  O serviço é oferecido para **todas as cidades do estado de São Paulo**, e é _TO-TAL-MEN-TE_ **grátis**! Além do mais, aos poucos você pode ir criando sua **lista personalizada** á medida que você **salva os seus lugares favoritos** e acessa posteriormente quando quiser.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce1/" rel="attachment wp-att-8870"><img class="alignnone size-full wp-image-8870" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE1.jpg" alt="" width="453" height="597" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
+  [Stock.xchng](http://www.trololodemulher.com.br/2012/07/12/sao-paulo-guia/vivo-guia-sao-paulo-perto-de-voce1/" rel="attachment wp-att-8870"><img class="alignnone size-full wp-image-8870" title="VIVO - GUIA - SAO PAULO - PERTO DE VOCE[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/VIVO-GUIA-SAO-PAULO-PERTO-DE-VOCE1.jpg" alt="" width="453" height="597" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 <p align="justify">

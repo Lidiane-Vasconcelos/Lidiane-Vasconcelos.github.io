@@ -9,7 +9,7 @@ permalink: /2011/12/05/produtos-de-beleza/
 categories:
   - Beleza
 ---
-A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a>**. O blog existe há 1 ano, mas a moça está presente na blogosfera desde 2003. A bonita, que é jornalista por formação, decidiu criar o espaço para dividir suas experiências e refletir sobre o universo feminino.
+A blogueira **Pauline Costa** está a frente do delicioso e necessário **[Cheia de Charme](http://cheiadecharme.blog.br/) **. O blog existe há 1 ano, mas a moça está presente na blogosfera desde 2003. A bonita, que é jornalista por formação, decidiu criar o espaço para dividir suas experiências e refletir sobre o universo feminino.
 
 &nbsp;
 
@@ -26,15 +26,15 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 &nbsp;
 
 <p align="justify">
-  Pauline é uma blogueira muito bem informada sobre tudo quanto é novidade em  maquiagem, mãos e unhas, saúde do corpo e da mente. &#8220;<em>Pesquiso bastante na internet, inclusive em sites internacionais. Além disso, recebo vários releases de imprensa que envia novidades e esclarecem dúvidas, caso surjam. Vou a eventos, o que também acaba trazendo conhecimento sobre procedimentos, tratamentos e produtos que o mercado disponibiliza. Leio e estou sempre antenada, não só porque repasso tudo no blog, mas também porque sou curiosa e gosto do que faço”</em>, revela.
+  Pauline é uma blogueira muito bem informada sobre tudo quanto é novidade em  maquiagem, mãos e unhas, saúde do corpo e da mente. &#8220;_Pesquiso bastante na internet, inclusive em sites internacionais. Além disso, recebo vários releases de imprensa que envia novidades e esclarecem dúvidas, caso surjam. Vou a eventos, o que também acaba trazendo conhecimento sobre procedimentos, tratamentos e produtos que o mercado disponibiliza. Leio e estou sempre antenada, não só porque repasso tudo no blog, mas também porque sou curiosa e gosto do que faço”_, revela.
 </p>
 
 <p align="justify">
-  Com tanto conhecimento ligado a essa área, e por estar tão <em>antenada</em> com as novidades, eu quis saber dela, e contar para você (lógico!), como e onde adquirir os melhores produtos para que a gente fique mais bonita do que nunca. Não é o que nos interessa (também)?
+  Com tanto conhecimento ligado a essa área, e por estar tão _antenada_ com as novidades, eu quis saber dela, e contar para você (lógico!), como e onde adquirir os melhores produtos para que a gente fique mais bonita do que nunca. Não é o que nos interessa (também)?
 </p>
 
 <p align="justify">
-  As boas compras, segundo a blogueira, passam pelo conhecimento sobre os produtos. Toda bicha fêmea esperta preza por informação para determinar suas escolhas, certo? Então, Pauline é das nossas: “<em>Eu compro quase tudo pela internet, mas eu pesquiso muito antes de comprar e geralmente busco a opinião de quem usa em outros blogs. Busco por resenhas, swatches, iinformações. Leio além dos posts dos blogs, os comentários, porque muitas das meninas que comentam já usaram e têm opinião formada sobre determinados produtos”,</em> ensina.
+  As boas compras, segundo a blogueira, passam pelo conhecimento sobre os produtos. Toda bicha fêmea esperta preza por informação para determinar suas escolhas, certo? Então, Pauline é das nossas: “_Eu compro quase tudo pela internet, mas eu pesquiso muito antes de comprar e geralmente busco a opinião de quem usa em outros blogs. Busco por resenhas, swatches, iinformações. Leio além dos posts dos blogs, os comentários, porque muitas das meninas que comentam já usaram e têm opinião formada sobre determinados produtos”,_ ensina.
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 &nbsp;
 
 > <p align="justify">
->   “<em>Para a pele adoro os produtos da Anna Pegova, porque tudo o que usei até hoje superou as minhas expectativas. Alguns produtos que usei e adorei</em>…”
+>   “_Para a pele adoro os produtos da Anna Pegova, porque tudo o que usei até hoje superou as minhas expectativas. Alguns produtos que usei e adorei_…”
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/mascara-clareadora-anna-pegova/" target="_blank">Máscara Clareadora – Anna Pegova</a>, **usada e aprovada pela blogueira, que até mostrou imagens das diferenças em sua pele já na primeira aplicação. É só conferir!
+  **[Máscara Clareadora – Anna Pegova](http://cheiadecharme.blog.br/mascara-clareadora-anna-pegova/) , **usada e aprovada pela blogueira, que até mostrou imagens das diferenças em sua pele já na primeira aplicação. É só conferir!
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/mascara-purificante-para-peles-oleosas-anna-pegova/" target="_blank">Máscara Purificante Para Peles Oleosas – Anna Pegova</a>, **super indicado pela bonita para quem sofre com oleosidade e tem acne leve.
+  **[Máscara Purificante Para Peles Oleosas – Anna Pegova](http://cheiadecharme.blog.br/mascara-purificante-para-peles-oleosas-anna-pegova/) , **super indicado pela bonita para quem sofre com oleosidade e tem acne leve.
 </p>
 
 <p align="center">
@@ -72,13 +72,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/hidratante-oil-free-anna-pegova/" target="_blank">Hidratante Oil Free Anna Pegova</a>, **especial para peles oleosas e mistas-oleosas.
+  **[Hidratante Oil Free Anna Pegova](http://cheiadecharme.blog.br/hidratante-oil-free-anna-pegova/) , **especial para peles oleosas e mistas-oleosas.
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Se tratando de maquiagem, sou fã da Revlon, especialmente pelos batons! Os preços acessíveis e a qualidade das makes é muito boa.”</em>
+>   “_Se tratando de maquiagem, sou fã da Revlon, especialmente pelos batons! Os preços acessíveis e a qualidade das makes é muito boa.”_
 > </p>
 
 &nbsp;
@@ -88,7 +88,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/batom-revlon-matte-in-the-red/" target="_blank">Batom Revlon Matte – In The Red</a>**
+  **[Batom Revlon Matte – In The Red](http://cheiadecharme.blog.br/batom-revlon-matte-in-the-red/) **
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/batom-revlon-wild-orchid/" target="_blank">Batom Revlon – Wild Orchid</a>**
+  **[Batom Revlon – Wild Orchid](http://cheiadecharme.blog.br/batom-revlon-wild-orchid/) **
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/batom-revlon-creme-berry-haute/" target="_blank">Batom Revlon Creme – Berry Haute 660</a>**
+  **[Batom Revlon Creme – Berry Haute 660](http://cheiadecharme.blog.br/batom-revlon-creme-berry-haute/) **
 </p>
 
 <p align="center">
@@ -112,13 +112,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/batom-revlon-mate-pink-about-it/" target="_blank">Batom Revlon Mate – Pink About It</a>**
+  **[Batom Revlon Mate – Pink About It](http://cheiadecharme.blog.br/batom-revlon-mate-pink-about-it/) **
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   <em>“Quando o assunto é esmalte, a Impala e a Revlon são as minhas preferidas.”</em>
+>   _“Quando o assunto é esmalte, a Impala e a Revlon são as minhas preferidas.”_
 > </p>
 
 &nbsp;
@@ -128,13 +128,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/fazendo-as-unhas-na-homederm/" target="_blank">Plum Seduction, da Revlon</a>**
+  **[Plum Seduction, da Revlon](http://cheiadecharme.blog.br/fazendo-as-unhas-na-homederm/) **
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Para os cabelos, adoro De Sirius e QOD. Duas marcas profissionais gaúchas que têm produtos fantásticos. A TRESémme, que acabou de chegar no Brasil, também tem seu lugarzinho no meu coração.”</em>
+>   “_Para os cabelos, adoro De Sirius e QOD. Duas marcas profissionais gaúchas que têm produtos fantásticos. A TRESémme, que acabou de chegar no Brasil, também tem seu lugarzinho no meu coração.”_
 > </p>
 
 &nbsp;
@@ -144,7 +144,7 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/leave-in-milagroso-da-de_sirius-esse-e-top/" target="_blank">Leave-in da De Sirius</a>**
+  **[Leave-in da De Sirius](http://cheiadecharme.blog.br/leave-in-milagroso-da-de_sirius-esse-e-top/) **
 </p>
 
 <p align="center">
@@ -152,13 +152,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </p>
 
 <p align="center">
-  **<a href="http://cheiadecharme.blog.br/usei-e-adorei-oleo-de-argan-qod/" target="_blank">Óleo de Argan – QOD</a>**
+  **[Óleo de Argan – QOD](http://cheiadecharme.blog.br/usei-e-adorei-oleo-de-argan-qod/) **
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Depois de tantas dicas bacanas, precisa dizer que acompanhar de perto as atualizações de conteúdo da **Pauline** no **<a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a>** vale muito a pena? Se joga!
+  Depois de tantas dicas bacanas, precisa dizer que acompanhar de perto as atualizações de conteúdo da **Pauline** no **[Cheia de Charme](http://cheiadecharme.blog.br/) ** vale muito a pena? Se joga!
 </p>
 
 <p align="center">
@@ -211,13 +211,13 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -227,5 +227,5 @@ A blogueira **Pauline Costa** está a frente do delicioso e necessário **<a hre
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  Você acha exagero passar cremes nas mãos sempre depois de lavá-las? É bom repensar suas ideias e fazer  como eu faço:  eu deixo um creme no banheiro, ao alcance imediato das mãos, e outro na <em>necessaire</em>, tudo para não correr o risco de esquecer de usá-los. Esse é um cuidado básico e fundamental já que, de acordo com a Dra. Rafaela, <em>**“a limpeza das mãos retira parte da proteção natural e a hidratação ajuda a repor”.**</em> Fica, portanto, a dica.
+  Você acha exagero passar cremes nas mãos sempre depois de lavá-las? É bom repensar suas ideias e fazer  como eu faço:  eu deixo um creme no banheiro, ao alcance imediato das mãos, e outro na _necessaire_, tudo para não correr o risco de esquecer de usá-los. Esse é um cuidado básico e fundamental já que, de acordo com a Dra. Rafaela, _**“a limpeza das mãos retira parte da proteção natural e a hidratação ajuda a repor”.**_ Fica, portanto, a dica.
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://simple-cruelties.tumblr.com/post/65900946796" target="_blank">Daqui.</a>
+  Imagem: [Daqui.](http://simple-cruelties.tumblr.com/post/65900946796) 
 </p>
 
 <p align="justify">
@@ -114,11 +114,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode <a href="http://www.blografaelasalvato.med.br/" target="_blank">acessar clicando aqui</a>. Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho <a href="http://rafaelasalvato.com.br/" target="_blank">acessando seu site aqui</a>, ou curtir sua <a href="https://www.facebook.com/rafaelasalvatodermatologia" target="_blank">página no Facebook bem aqui</a>. Se joga!
+  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode [acessar clicando aqui](http://www.blografaelasalvato.med.br/) . Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho [acessando seu site aqui](http://rafaelasalvato.com.br/) , ou curtir sua [página no Facebook bem aqui](https://www.facebook.com/rafaelasalvatodermatologia) . Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

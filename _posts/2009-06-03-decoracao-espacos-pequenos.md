@@ -11,12 +11,12 @@ categories:
   - Pequenos Espaços
 ---
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/www-polyvore-com2.jpg"><img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="www.polyvore.com (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/www-polyvore-com2_thumb.jpg" border="0" alt="www.polyvore.com (2)" width="240" height="240" /></a> Sinceramente? A ideia do título do post logo chama a minha atenção. Creio que chama a atenção de muitas de nós que vive num **<em>apartamento</em>** ou**<em> </em>****<em>casa</em>**, tudo pequeno e **<em>com pouco espaço</em>**.
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/www-polyvore-com2.jpg"><img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="www.polyvore.com (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/www-polyvore-com2_thumb.jpg" border="0" alt="www.polyvore.com (2)" width="240" height="240" /></a> Sinceramente? A ideia do título do post logo chama a minha atenção. Creio que chama a atenção de muitas de nós que vive num **_apartamento_** ou**_ _****_casa_**, tudo pequeno e **_com pouco espaço_**.
 </p>
 
 A verdade é que os imóveis estão ficando cada vez menores, e saber algumas dicas na hora de decorá-los pode fazer toda a diferença para que nossos espaços não pareçam menores ainda, _néam_?[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonwink3.gif)
 
-Como somos bichas fêmeas espertas, já vamos prestar muita atenção nas dicas seguintes dadas <a href="http://www.idealhomemagazine.co.uk/inspiredecor/decorating/livingdining/5_rules_for_small_space_living_article_277994.html" target="_blank">neste artigo</a> do site <a href="http://www.idealhomemagazine.co.uk/" target="_blank">Ideal Home</a> só para ter certeza de que estamos no caminho certo… [](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonhappy2.gif)
+Como somos bichas fêmeas espertas, já vamos prestar muita atenção nas dicas seguintes dadas [neste artigo](http://www.idealhomemagazine.co.uk/inspiredecor/decorating/livingdining/5_rules_for_small_space_living_article_277994.html)  do site [Ideal Home](http://www.idealhomemagazine.co.uk/)  só para ter certeza de que estamos no caminho certo… [](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonhappy2.gif)
 
 A **primeira** dica dada para a gente no artigo é a que é melhor **_usar cores claras_**, suaves ou o popular _soft_ nas nossas **_paredes_**. Foi o que fiz aqui em casa. Foi o que você fez por aí também?
 
@@ -26,7 +26,7 @@ A **segunda** dica é com relação aos **_móveis_** que seriam mais adequados.
 
 Outra dica sobre móveis é com relação a escolha de uma mesa, por exemplo, a **_mesa de centro_**. Prefira uma que **_permita a visão do chão abaixo dela_**, para dar a sensação do óbvio: mais chão no ambiente. Essa dica acabo de aprender com vocês, e como ainda não adquiri minha _mesinha_ de centro de sala, já estou escolada na hora de escolhê-la, hã?[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonhappy3.gif)
 
-A propósito, você já tem a sua? Sugiro a leitura de<a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_self">**<em> dicas sobre como decorar uma mesa de centro</em>** </a>com charme. Que tal?
+A propósito, você já tem a sua? Sugiro a leitura de<a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_self">**_ dicas sobre como decorar uma mesa de centro_** </a>com charme. Que tal?
 
 A **terceira** dica diz respeito a acessórios que você possa agrupar como bem entender no seu ambiente, por exemplo as **_prateleiras_**. Você poderá **_colocá-las sob medida_** e planejar como arrumá-las de acordo com suas necessidades.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonwink4.gif)
 
@@ -34,7 +34,7 @@ A **quarta** dica diz respeito a móveis coadjuvantes, digamos assim. Tenha **pu
 
 A **quinta** dica é uma estratégia para desviar a atenção quanto ao tamanho do ambiente. O “pulo do gato” é **_escolher um item de sua decoração para chamar a atenção_**, como por exemplo uma _abajour,_ que pode até ser um pouco maior para o padrão do espaço. A intenção é que esse item seja o centro das atenções e deixe seu espaço bonito, moderno (se for essa a intenção) desviando o foco do espaço (em si) que você tem. Na minha sala de estar, penso que o que vai ser **O** item será um quadro bem bonito (e grande) que pretendo pendurar na parede.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonbigsmile2.gif)
 
-Ei! O artigo completo está <a href="http://www.idealhomemagazine.co.uk/inspiredecor/decorating/livingdining/5_rules_for_small_space_living_article_277994.html" target="_blank">aqui, ó</a>!
+Ei! O artigo completo está [aqui, ó](http://www.idealhomemagazine.co.uk/inspiredecor/decorating/livingdining/5_rules_for_small_space_living_article_277994.html) !
 
 **Para quem tem espaço pequeno além da decoração funcional, organização é algo essencial, não é? Quer ler mais no Bicha Fêmea sobre isso?**
 

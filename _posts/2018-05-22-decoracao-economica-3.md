@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="justify">
-  Veja aqui <a href="http://www.trololodemulher.com.br/2016/02/01/decoracao-economica-2/" target="_blank">9 dicas para melhorar a sua casa já</a>… e o melhor: poupando suas finanças. Se joga!
+  Veja aqui [9 dicas para melhorar a sua casa já](http://www.trololodemulher.com.br/2016/02/01/decoracao-economica-2/) … e o melhor: poupando suas finanças. Se joga!
 </p>
 
 <p align="justify">
@@ -31,22 +31,22 @@ categories:
 </p>
 
 <p align="justify">
-  {antes e depois} <a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/" target="_blank">Veja a repaginada num quarto de casal com a ajuda de uma expert</a>. Copie as ideias!
+  {antes e depois} [Veja a repaginada num quarto de casal com a ajuda de uma expert](http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/) . Copie as ideias!
 </p>
 
 <p align="justify">
-  {repaginando} <a href="http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a>
+  {repaginando} [Banheiro pequeno? Veja 6 ideias e ganhe espaço já!](http://www.trololodemulher.com.br/2016/04/05/banheiro-pequeno-2/) 
 </p>
 
 <p align="justify">
-  {pequenos espaços} <a href="http://www.trololodemulher.com.br/2015/08/12/apartamento-pequeno/" target="_blank">Apartamento pequeno e lições de como viver com menos.</a>
+  {pequenos espaços} [Apartamento pequeno e lições de como viver com menos.](http://www.trololodemulher.com.br/2015/08/12/apartamento-pequeno/) 
 </p>
 
 <p align="center">
   **[Vive de amores pelo seu lar, e gostaria de cuidar melhor dele?]**
 </p>
 
-Conheça o <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>, o programa via whatsapp que vai te orientar, passo a passo, na organização da gestão doméstica, para que você ganhe tranquilidade e mais tempo no dia a dia!
+Conheça o [Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) , o programa via whatsapp que vai te orientar, passo a passo, na organização da gestão doméstica, para que você ganhe tranquilidade e mais tempo no dia a dia!
 
 Nova turma apenas no segundo semestre. Se você quiser saber em primeira mão as informações sobre o próximo ciclo, entre em contato comigo pelo WhatsApp 81.9.9530-7307 e peça para entrar na lista de interessadas na próxima turma que, a propósito, já está em formação.
 
@@ -55,7 +55,7 @@ Nova turma apenas no segundo semestre. Se você quiser saber em primeira mão as
 </p>
 
 <p align="justify">
-  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
+  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. [Avise que quer, neste post](http://www.trololodemulher.com.br/2018/02/28/newsletter/) . É grátis!
 </p>
 
 <p align="justify">

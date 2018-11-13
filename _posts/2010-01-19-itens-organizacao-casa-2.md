@@ -43,7 +43,7 @@ Agora, bem que eu queria saber sobre teus objetos queridos, e avaliar possíveis
 
 Quem acha que sabe tudo é outro, eu que não sou boba não sei um bocado de coisas, e quero aprender contigo…
 
-Imagem: <a href="vhttp://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: [stock.xchng](vhttp://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea…**
 

@@ -36,11 +36,11 @@ categories:
 > </p>
 
 > <p align="justify">
->   **Conversei com uma amiga brasileira que mora aqui faz muito tempo e é consultora em educação, professora e pedagoga, a Evelyse Eerola, dona de um site voltado para educação, o **<a href="http://projetofinlandia.net/" target="_blank">**Projeto Finlândia**</a>**. De acordo com ela, <em>“em meus quase dezoito anos de vivência na Finlândia, eu nunca vi uma greve de professores, uma reclamação, ou uma conversa de descontentamento neste sentido entre os meus colegas”.</em>**
+>   **Conversei com uma amiga brasileira que mora aqui faz muito tempo e é consultora em educação, professora e pedagoga, a Evelyse Eerola, dona de um site voltado para educação, o **[**Projeto Finlândia**](http://projetofinlandia.net/) **. De acordo com ela, _“em meus quase dezoito anos de vivência na Finlândia, eu nunca vi uma greve de professores, uma reclamação, ou uma conversa de descontentamento neste sentido entre os meus colegas”._**
 > </p>
 
 > <p align="justify">
->   **Ainda segundo a pesquisa do PISA, os professores que mais se sentem valorizados, são aqueles que conseguem os melhores resultados em sala de aula, e isso tanto no Brasil quanto na Finlândia. O salário básico de um professor finlandês gira em torno de 3 mil euros. Evelyse afirma que a maioria dos professores até gostaria de ganhar mais, considerando o trabalho que têm,<em> “mas elas falam sempre sorrindo, e não em tom de reclamação. Neste sentido, deve-se levar em consideração que os Finlandeses têm um grande senso de justiça, e eles querem ser conhecidos por suas atitudes justas. Já que a sociedade reverte os nossos impostos em uma série de benefícios à população, seria injusto pleitear mais salário se você já tem o suficiente para viver com dignidade.”</em>**
+>   **Ainda segundo a pesquisa do PISA, os professores que mais se sentem valorizados, são aqueles que conseguem os melhores resultados em sala de aula, e isso tanto no Brasil quanto na Finlândia. O salário básico de um professor finlandês gira em torno de 3 mil euros. Evelyse afirma que a maioria dos professores até gostaria de ganhar mais, considerando o trabalho que têm,_ “mas elas falam sempre sorrindo, e não em tom de reclamação. Neste sentido, deve-se levar em consideração que os Finlandeses têm um grande senso de justiça, e eles querem ser conhecidos por suas atitudes justas. Já que a sociedade reverte os nossos impostos em uma série de benefícios à população, seria injusto pleitear mais salário se você já tem o suficiente para viver com dignidade.”_**
 > </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.businessinsider.com/finland-education-school-2011-12?op=1" target="_blank">Business Insider</a>
+  Imagem: [Business Insider](http://www.businessinsider.com/finland-education-school-2011-12?op=1) 
 </p>
 
 > <p align="justify">
@@ -60,11 +60,11 @@ categories:
 > </p>
 
 > <p align="justify">
->   **Outro fato interessante é que no ensino fundamental geralmente o mesmo professor acompanha os alunos pelos seis anos, <em>“deste modo cria-se uma forte relação professor-aluno-pais que garante a este professor não só conhecer melhor todas as características dos seus alunos e pais, como adquirir os melhores resultados”</em>, completa Evelyse.”**
+>   **Outro fato interessante é que no ensino fundamental geralmente o mesmo professor acompanha os alunos pelos seis anos, _“deste modo cria-se uma forte relação professor-aluno-pais que garante a este professor não só conhecer melhor todas as características dos seus alunos e pais, como adquirir os melhores resultados”_, completa Evelyse.”**
 > </p>
 
 <p align="justify">
-  Você já sabe: vamos continuar conhecendo essa terra tão distante, seus costumes e coisas práticas do dia a dia, tudo pelos olhos de outra mulher que tem o mesmo ponto de vista do nosso. Vamos aprender muito com a Dri, tenho certeza. Viajar para outro país é bom demais, mas ter a oportunidade de conviver com nativos como ela tem tido, e que certamente vai fazê-la enxergar muitos aspectos da vida com outros olhos, é outro nível! Sorte nossa que vamos fazer parte desse aprendizado, <em>né</em>? Estou feliz da vida por isso, por esse presente que o blog está ganhando… e que venham os próximos posts!
+  Você já sabe: vamos continuar conhecendo essa terra tão distante, seus costumes e coisas práticas do dia a dia, tudo pelos olhos de outra mulher que tem o mesmo ponto de vista do nosso. Vamos aprender muito com a Dri, tenho certeza. Viajar para outro país é bom demais, mas ter a oportunidade de conviver com nativos como ela tem tido, e que certamente vai fazê-la enxergar muitos aspectos da vida com outros olhos, é outro nível! Sorte nossa que vamos fazer parte desse aprendizado, _né_? Estou feliz da vida por isso, por esse presente que o blog está ganhando… e que venham os próximos posts!
 </p>
 
 **Entenda o início de tudo:**
@@ -75,7 +75,7 @@ categories:
 
 **Mais sobre a Finlândia:**
 
-<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">**Fazer compras é simples, a menos que seja na Finlândia!**</a>
+[**Fazer compras é simples, a menos que seja na Finlândia!**](http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/) 
 
 &nbsp;
 
@@ -85,14 +85,14 @@ categories:
 
 &nbsp;
 
-Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Vai!
 
 <p align="justify">
   ***PISA** (Programme for International Student Assessment) é um programa internacional de avaliação de estudantes, de avaliação comparada, aplicada em estudantes de 15 anos. O programa é desenvolvido e coordenado pela Organização para Cooperação e Desenvolvimento Econômico (OCDE).
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

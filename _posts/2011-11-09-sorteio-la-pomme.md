@@ -9,12 +9,12 @@ permalink: /2011/11/09/sorteio-la-pomme/
 categories:
   - Publieditorial
 ---
-E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea** de um jeito diferente… aliás, de um jeito personalizado! Quem não gosta de se sentir única? Eu gosto! E a **<a href="https://www.lojalapomme.com.br/" target="_blank">La Pomme</a>** sabe muito bem disso, por isso ela direciona o seu trabalho para que seus clientes sintam-se assim: exclusivos!
+E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea** de um jeito diferente… aliás, de um jeito personalizado! Quem não gosta de se sentir única? Eu gosto! E a **[La Pomme](https://www.lojalapomme.com.br/) ** sabe muito bem disso, por isso ela direciona o seu trabalho para que seus clientes sintam-se assim: exclusivos!
 
 &nbsp;
 
 <p align="justify">
-  Se você ainda não conhece essa <em>belezura</em> de loja e prestação de serviço da **La Pomme**, perdeu a oportunidade de apreciar ideias incríveis de personalização de objetos e presentes, daqueles de viver de amores. Mas, oh: vamos remediar isso? <em>Espia</em> só:
+  Se você ainda não conhece essa _belezura_ de loja e prestação de serviço da **La Pomme**, perdeu a oportunidade de apreciar ideias incríveis de personalização de objetos e presentes, daqueles de viver de amores. Mas, oh: vamos remediar isso? _Espia_ só:
 </p>
 
 <!--more-->
@@ -54,7 +54,7 @@ E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea*
 &nbsp;
 
 <p align="justify">
-  E essa caderneta mini? Viu que fofura? Ela tem capa dura com revestimento de tecido… já sabe, <em>né</em>? A capa dessa <em>belezura</em> pode ser totalmente diferente, de acordo com sua cara, seu estilo.
+  E essa caderneta mini? Viu que fofura? Ela tem capa dura com revestimento de tecido… já sabe, _né_? A capa dessa _belezura_ pode ser totalmente diferente, de acordo com sua cara, seu estilo.
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea*
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o **<a href="https://www.lojalapomme.com.br/" target="_blank">site da La Pomme</a>**, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o **[site da La Pomme](https://www.lojalapomme.com.br/) **, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p align="justify">
@@ -80,7 +80,7 @@ E a gente continua a comemoração de **aniversário dos 3 anos do Bicha Fêmea*
 </p>
 
 <p align="justify">
-  É fácil! Fala para sua amiga se inscrever aqui também, bonita! **Se você ganhar, ela ganha. Se ela ganhar, você ganha também!** Na verdade, vocês duas passam a ter chance dupla. Está esperando o quê, <em>hein?</em> Corre!
+  É fácil! Fala para sua amiga se inscrever aqui também, bonita! **Se você ganhar, ela ganha. Se ela ganhar, você ganha também!** Na verdade, vocês duas passam a ter chance dupla. Está esperando o quê, _hein?_ Corre!
 </p>
 
 <p align="justify">

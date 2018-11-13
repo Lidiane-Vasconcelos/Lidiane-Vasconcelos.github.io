@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Tudo que remete à natureza, na decoração da casa, traz uma sensação de aconchego incrível. Claro que não seria diferente quando se pensa no chão onde pisamos. Ocorre que por razões diversas, nem sempre é possível ter um piso de madeira natural, e aí você toma a decisão: quer um revestimento de **piso que imita madeira**. Qual a melhor opção? Essa é mesmo uma boa ideia e solução para seu <em>décor</em>? Como tirar o melhor proveito do que há disponível no mercado?
+  Tudo que remete à natureza, na decoração da casa, traz uma sensação de aconchego incrível. Claro que não seria diferente quando se pensa no chão onde pisamos. Ocorre que por razões diversas, nem sempre é possível ter um piso de madeira natural, e aí você toma a decisão: quer um revestimento de **piso que imita madeira**. Qual a melhor opção? Essa é mesmo uma boa ideia e solução para seu _décor_? Como tirar o melhor proveito do que há disponível no mercado?
 </p>
 
 <p align="justify">
-  Sim, eu sei: as dúvidas são muitas. Por isso mesmo, consultei uma profissional na área. **Claudia Medeiros** é <em>Designer </em>de Interiores, de **Campinas **e região. Ela tirou todas as minhas dúvidas sobre o assunto, e hoje estou aqui para compartilhar contigo todas as informações a respeito. Ao final do post você terá muito mais segurança sobre suas escolhas. Confira!
+  Sim, eu sei: as dúvidas são muitas. Por isso mesmo, consultei uma profissional na área. **Claudia Medeiros** é _Designer _de Interiores, de **Campinas **e região. Ela tirou todas as minhas dúvidas sobre o assunto, e hoje estou aqui para compartilhar contigo todas as informações a respeito. Ao final do post você terá muito mais segurança sobre suas escolhas. Confira!
 </p>
 
 <p align="justify">
@@ -22,11 +22,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">**Revestimentos: piso e parede… quais as opções?**</a>
+  [**Revestimentos: piso e parede… quais as opções?**](http://www.decoracaodacasa.com/revestimentos-piso-parede/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">**Pitacos de decoração: revestimentos de cozinha.**</a>
+  [**Pitacos de decoração: revestimentos de cozinha.**](http://www.decoracaodacasa.com/revestimentos-piso-parede/) 
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>O revestimento que imita madeira está em alta já há alguns anos, principalmente por sua praticidade. Pisos de madeira natural são lindos, mas também exigem muita manutenção. O piso que imita madeira pode ser usado em cozinhas, banheiros e em outros ambientes onde o contato com a água é mais constante. Ambientes que exigem limpeza frequente com uso de água e produtos de limpeza também são beneficiados com este tipo de piso, que já está se tornando comum também em áreas de lazer, varandas, bordas de piscinas e etc, tudo por conta da fácil manutenção</em>.”
+  “_O revestimento que imita madeira está em alta já há alguns anos, principalmente por sua praticidade. Pisos de madeira natural são lindos, mas também exigem muita manutenção. O piso que imita madeira pode ser usado em cozinhas, banheiros e em outros ambientes onde o contato com a água é mais constante. Ambientes que exigem limpeza frequente com uso de água e produtos de limpeza também são beneficiados com este tipo de piso, que já está se tornando comum também em áreas de lazer, varandas, bordas de piscinas e etc, tudo por conta da fácil manutenção_.”
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Eu acho que o que torna o piso cimentício ou o porcelanato mais parecido com o piso de madeira natural não é necessariamente a sua cor, mas sim a sua qualidade. O ideal é que este piso seja mais fosco, como é de fato a madeira, e que tenha acabamento retificado, nada de bordas arredondadas, e se tiver o formato de réguas de madeira, com medidas como 20cm de largura x 1m de comprimento, por exemplo, o resultado será ainda melhor</em>.”
+  “_Eu acho que o que torna o piso cimentício ou o porcelanato mais parecido com o piso de madeira natural não é necessariamente a sua cor, mas sim a sua qualidade. O ideal é que este piso seja mais fosco, como é de fato a madeira, e que tenha acabamento retificado, nada de bordas arredondadas, e se tiver o formato de réguas de madeira, com medidas como 20cm de largura x 1m de comprimento, por exemplo, o resultado será ainda melhor_.”
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.decorpad.com/" target="_blank">decor pad</a>
+  Via [decor pad](http://www.decorpad.com/) 
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Eu reforço que o ideal é que o piso tenha o formato de réguas de madeira, mais finos e compridos, que ao serem instalados no sentido longitudinal, além de dar a sensação que o ambiente é maior, ainda reforça a ideia de assoalho, a forma mais tradicional de se instalar pisos de madeira</em>.”
+  “_Eu reforço que o ideal é que o piso tenha o formato de réguas de madeira, mais finos e compridos, que ao serem instalados no sentido longitudinal, além de dar a sensação que o ambiente é maior, ainda reforça a ideia de assoalho, a forma mais tradicional de se instalar pisos de madeira_.”
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>No geral, as peças retificadas garantem um melhor acabamento, exigem menos rejunte e permitem um mínimo de acúmulo de sujeira entre elas. No caso do piso que imita madeira, a borda retificada aumenta a sensação de tábuas de madeira natural. Eu só vejo vantagens.”</em>
+  “_No geral, as peças retificadas garantem um melhor acabamento, exigem menos rejunte e permitem um mínimo de acúmulo de sujeira entre elas. No caso do piso que imita madeira, a borda retificada aumenta a sensação de tábuas de madeira natural. Eu só vejo vantagens.”_
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.greigedesign.com/" target="_blank">greige design</a>
+  Via [greige design](http://www.greigedesign.com/) 
 </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>O porcelanato está na moda e todo mundo acaba optando por ele, mas é preciso entender que o porcelanato tem uma manutenção bem difícil. Ele mancha com facilidade, inclusive com produtos de limpeza e também lasca e trinca frequentemente se uma peça cair sobre ele. Já a cerâmica quase caiu em desuso após a chegada do porcelanato ao mercado, porém ela tem suas qualidades. Começando pelo preço que, geralmente é mais baixo, mas também pela durabilidade e fácil manutenção. Uma cerâmica de boa qualidade tem uma durabilidade muito maior que o porcelanato. Por outro lado, o porcelanato tem um visual mais bonito, que acaba fazendo mais sucesso entre os consumidores</em>.”
+  “_O porcelanato está na moda e todo mundo acaba optando por ele, mas é preciso entender que o porcelanato tem uma manutenção bem difícil. Ele mancha com facilidade, inclusive com produtos de limpeza e também lasca e trinca frequentemente se uma peça cair sobre ele. Já a cerâmica quase caiu em desuso após a chegada do porcelanato ao mercado, porém ela tem suas qualidades. Começando pelo preço que, geralmente é mais baixo, mas também pela durabilidade e fácil manutenção. Uma cerâmica de boa qualidade tem uma durabilidade muito maior que o porcelanato. Por outro lado, o porcelanato tem um visual mais bonito, que acaba fazendo mais sucesso entre os consumidores_.”
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>As peças grandes, muitas com mais de 1m de largura, hoje fazem muito sucesso e são realmente muito bonitas, porém antes de optar por estas é preciso levar em consideração a metragem do ambiente onde serão instaladas. Um corredor de 1m de largura, por exemplo, fica bacana com peças de 1m de largura, mas se houver a necessidade de muitos recortes para a sua instalação, o ideal é escolher uma outra medida. O ideal é ter a assessoria de um profissional, assim você não corre o risco de desvalorizar um piso bonito</em>.”
+  “_As peças grandes, muitas com mais de 1m de largura, hoje fazem muito sucesso e são realmente muito bonitas, porém antes de optar por estas é preciso levar em consideração a metragem do ambiente onde serão instaladas. Um corredor de 1m de largura, por exemplo, fica bacana com peças de 1m de largura, mas se houver a necessidade de muitos recortes para a sua instalação, o ideal é escolher uma outra medida. O ideal é ter a assessoria de um profissional, assim você não corre o risco de desvalorizar um piso bonito_.”
 </p>
 
 <p align="justify">
@@ -102,11 +102,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-cozinha-revestimento/" target="_blank">**Decoração de cozinha: 4 dúvidas sobre revestimentos respondidas.**</a>
+  [**Decoração de cozinha: 4 dúvidas sobre revestimentos respondidas.**](http://www.decoracaodacasa.com/decoracao-cozinha-revestimento/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank">**Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.**</a>
+  [**Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.**](http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/) 
 </p>
 
 <p align="center">
@@ -114,11 +114,11 @@ categories:
 </p>
 
 <p align="justify">
-  A **Claudia Medeiros** também tem um blog, o **<a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank">Se fosse na minha casa</a>. **Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="http://www.claudiamedeiros.com.br/" target="_blank">site profissional</a>, bem como visitar sua loja virtual de móveis de produtos de decoração, a <a href="http://inspiratta.com.br/" target="_blank">Inspiratta</a>. Se joga!
+  A **Claudia Medeiros** também tem um blog, o **[Se fosse na minha casa](http://sefossenaminhacasa.blogspot.com.br/) . **Como Personal Organizer a moça atualiza uma [página no Facebook bem aqui](https://www.facebook.com/claudiamedeirosdesigner/timeline) . Você ainda pode ver mais informações em seu [site profissional](http://www.claudiamedeiros.com.br/) , bem como visitar sua loja virtual de móveis de produtos de decoração, a [Inspiratta](http://inspiratta.com.br/) . Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

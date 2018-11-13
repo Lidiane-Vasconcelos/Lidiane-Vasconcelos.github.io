@@ -22,11 +22,11 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank">Pitacos de decoração: revestimentos de cozinha.</a>**
+  **[Pitacos de decoração: revestimentos de cozinha.](http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank">Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.</a>**
+  **[Decoração de cozinha: +2 dúvidas sobre revestimentos respondidas.](http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/) **
 </p>
 
 <p align="justify">
@@ -38,11 +38,11 @@ categories:
 </p>
 
 <p align="center">
-  [1] <a href="http://home-boxer.blogspot.com.br/2009/08/colando-tecido.html" target="_blank">Casa Coisas e Tal</a> | [2] <a href="http://casa.abril.com.br/materia/ares-rusticos-no-campo?utm_source=redesabril_casas&utm_medium=facebook&utm_campaign=redesabril_casacombr" target="_blank">Casa Abril</a> | [3] <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/07/patchwork.html#F8" target="_blank">Casa e Jardim</a> | [4] <a href="http://www.decoracaoeideias.com/2013/05/paredes-e-chao-com-ceramica-efeito.html" target="_blank">Decoração e ideias</a>
+  [1] [Casa Coisas e Tal](http://home-boxer.blogspot.com.br/2009/08/colando-tecido.html)  | [2] [Casa Abril](http://casa.abril.com.br/materia/ares-rusticos-no-campo?utm_source=redesabril_casas&utm_medium=facebook&utm_campaign=redesabril_casacombr)  | [3] [Casa e Jardim](http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/07/patchwork.html#F8)  | [4] [Decoração e ideias](http://www.decoracaoeideias.com/2013/05/paredes-e-chao-com-ceramica-efeito.html) 
 </p>
 
 <p align="justify">
-  O lindo e adorado efeito <em>patchwork.</em> Você concorda comigo que ele é o queridinho da vez? Seja para revestir toda uma parede, ou parte dela, ou ainda o piso, se você deseja esse efeito na decoração da sua casa, qual a melhor opção? De acordo com nossa consultoria, **para o piso a boa pedida é usar ladrilho hidráulico[2]**. Dá **para usar na parede**  também e, nesse caso, uma boa escolha é a **cerâmica decorativa[4]**. Além do mais, na parede, você também pode usar outros recursos de revestimento com esse efeito: **tecido[1] e papeis de parede[3]**.
+  O lindo e adorado efeito _patchwork._ Você concorda comigo que ele é o queridinho da vez? Seja para revestir toda uma parede, ou parte dela, ou ainda o piso, se você deseja esse efeito na decoração da sua casa, qual a melhor opção? De acordo com nossa consultoria, **para o piso a boa pedida é usar ladrilho hidráulico[2]**. Dá **para usar na parede**  também e, nesse caso, uma boa escolha é a **cerâmica decorativa[4]**. Além do mais, na parede, você também pode usar outros recursos de revestimento com esse efeito: **tecido[1] e papeis de parede[3]**.
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  [1] no piso – <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/09/ladrilho-hidraulico.html#F26" target="_blank">Casa e Jardim</a> | [2] na parede – <a href="http://casa.abril.com.br/materia/ladrilho-hidraulico-6-modelos-ambientados-e-7-pecas-individuais" target="_blank">Casa.com.br</a>
+  [1] no piso – [Casa e Jardim](http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2013/09/ladrilho-hidraulico.html#F26)  | [2] na parede – [Casa.com.br](http://casa.abril.com.br/materia/ladrilho-hidraulico-6-modelos-ambientados-e-7-pecas-individuais) 
 </p>
 
 <p align="justify">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="center">
-  [1] piso em cimento queimado – <a href="http://casa.abril.com.br/materia/estrutura-envidracada-conecta-o-refugio-na-praia-a-paisagem-ao-redor?utm_source=redesabril_casas&utm_medium=plus&utm_campaign=redesabril_casacombr#3" target="_blank">Casa.com.br</a> | [2] piso em cimento queimado – <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/Ambientes/Varanda-e-terraco/Varanda-gourmet/noticia/2013/05/varandas-gourmets.html" target="_blank">Casa e Jardim</a> | [3] porcelanato com acabamento cimentício – <a href="http://casa.abril.com.br/materia/porcelanatos-33-opcoes-a-partir-de-r-29-o-m2" target="_blank">Casa.com.br</a>
+  [1] piso em cimento queimado – [Casa.com.br](http://casa.abril.com.br/materia/estrutura-envidracada-conecta-o-refugio-na-praia-a-paisagem-ao-redor?utm_source=redesabril_casas&utm_medium=plus&utm_campaign=redesabril_casacombr#3)  | [2] piso em cimento queimado – [Casa e Jardim](http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/Ambientes/Varanda-e-terraco/Varanda-gourmet/noticia/2013/05/varandas-gourmets.html)  | [3] porcelanato com acabamento cimentício – [Casa.com.br](http://casa.abril.com.br/materia/porcelanatos-33-opcoes-a-partir-de-r-29-o-m2) 
 </p>
 
 <p align="justify">
@@ -134,11 +134,11 @@ categories:
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank">Decoração de cozinha: 4 dúvidas sobre revestimento de pisos respondidas.</a>**
+>   **[Decoração de cozinha: 4 dúvidas sobre revestimento de pisos respondidas.](http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/) **
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/" target="_blank">Banheiro: 4 ideias de paginação para o revestimento.</a>**
+>   **[Banheiro: 4 ideias de paginação para o revestimento.](http://www.trololodemulher.com.br/2014/06/25/banheiro-revestimento/) **
 > </p>
 
 <p align="center">
@@ -150,15 +150,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank">**Cozinha inteligente, prática e funcional: dicas profissionais**</a>
+  [**Cozinha inteligente, prática e funcional: dicas profissionais**](http://www.decoracaodacasa.com/cozinha-decoracao-dicas/) 
 </p>
 
 <p align="justify">
-  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em <a href="http://www.maarquitetura.net/" target="_blank">seu site, clicando bem aqui</a>. Além do mais, no <a href="https://www.facebook.com/maarquitetura/timeline" target="_blank">Facebook você pode curtir a fanpage</a> desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo.
+  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em [seu site, clicando bem aqui](http://www.maarquitetura.net/) . Além do mais, no [Facebook você pode curtir a fanpage](https://www.facebook.com/maarquitetura/timeline)  desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

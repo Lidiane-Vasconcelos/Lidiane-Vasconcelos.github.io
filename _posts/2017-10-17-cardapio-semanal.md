@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/re/7968b0" target="_blank">Foter.com</a>
+  Imagem: [Foter.com](http://foter.com/re/7968b0) 
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  No Google você vai encontrar vários modelos de cardápio, vá testando até encontrar o que melhor funciona pra você&#8230; ou crie o seu! O meu saiu da minha cabeça mesmo&#8230; <em>rsrsrsrs</em>&#8230; está funcionando. Então está tudo certo!
+  No Google você vai encontrar vários modelos de cardápio, vá testando até encontrar o que melhor funciona pra você&#8230; ou crie o seu! O meu saiu da minha cabeça mesmo&#8230; _rsrsrsrs_&#8230; está funcionando. Então está tudo certo!
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/category/casa/receitas/" target="_blank">**Receitas publicadas no Trololó de Mulher.**</a>
+  [**Receitas publicadas no Trololó de Mulher.**](http://www.trololodemulher.com.br/category/casa/receitas/) 
 </p>
 
 <p align="justify">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  Comece assim, devagar, se antecipando em poucos dias, e depois você vai ampliando o alcance do cardápio. Adiante, comece a se divertir acrescentando receitas novas. Sem desperdício e com menos refeições fora, ou de <em>delivery</em>, o orçamento familiar agradece. Sem estresse, porque você se antecipou, há mais leveza e alegria de viver. Com um olhar mais cuidadoso para o que a família está comendo, há mais saúde e bem-estar.
+  Comece assim, devagar, se antecipando em poucos dias, e depois você vai ampliando o alcance do cardápio. Adiante, comece a se divertir acrescentando receitas novas. Sem desperdício e com menos refeições fora, ou de _delivery_, o orçamento familiar agradece. Sem estresse, porque você se antecipou, há mais leveza e alegria de viver. Com um olhar mais cuidadoso para o que a família está comendo, há mais saúde e bem-estar.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

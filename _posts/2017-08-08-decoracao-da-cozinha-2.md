@@ -10,11 +10,11 @@ categories:
   - Cozinha
 ---
 <p style="text-align: justify;">
-  Você anda pensando na **decoração da cozinha**, ou em reformá-la? Já pensou se antes de iniciar seu projeto você pudesse ouvir de profissionais da área as recomendações que eles têm para esse ambiente? Eu imaginei que você acharia o máximo, útil e providencial. Por isso, bonita, a boa notícia é que corri atrás deles para você e, oh: aprecie o post porque ele está <em>re-che-a-do</em> de dicas de quem entende.
+  Você anda pensando na **decoração da cozinha**, ou em reformá-la? Já pensou se antes de iniciar seu projeto você pudesse ouvir de profissionais da área as recomendações que eles têm para esse ambiente? Eu imaginei que você acharia o máximo, útil e providencial. Por isso, bonita, a boa notícia é que corri atrás deles para você e, oh: aprecie o post porque ele está _re-che-a-do_ de dicas de quem entende.
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Fique bem atenta ao que essas Arquitetas, <em>Designers</em> e especialistas têm para te contar. Suas dicas, sugestões e orientações podem dar um norte para suas escolhas, e depois de fazê-las, viver feliz da vida com elas. Vem!
+  Fique bem atenta ao que essas Arquitetas, _Designers_ e especialistas têm para te contar. Suas dicas, sugestões e orientações podem dar um norte para suas escolhas, e depois de fazê-las, viver feliz da vida com elas. Vem!
 </p>
 
 <!--more-->
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://casaclaudia.abril.com.br/ambientes/quatro-cozinhas-pequenas-e-lindas/" target="_blank">Casa Claudia</a>
+  Via [Casa Claudia](http://casaclaudia.abril.com.br/ambientes/quatro-cozinhas-pequenas-e-lindas/) 
 </p>
 
 <p align="center">
@@ -38,11 +38,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://decorsalteado.com/2016/04/eletrodomesticos-geladeira-e-lava.html?utm_source=twitterfeed&utm_medium=facebook" target="_blank">DecorSalteado</a>
+  Via [DecorSalteado](http://decorsalteado.com/2016/04/eletrodomesticos-geladeira-e-lava.html?utm_source=twitterfeed&utm_medium=facebook) 
 </p>
 
 <p align="center">
-  <img class="alignnone size-full wp-image-13935" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-DA-COZINHA-ELETRODOMESTICOS-DA-COZINHA-ELETRODOMESTICOS-COLORIDOS2.jpg" alt="DECORACAO DA COZINHA-ELETRODOMESTICOS DA COZINHA-ELETRODOMESTICOS COLORIDOS[2]" width="800" height="800" />**Ana Carolina Ventura é Arquiteta** e presta serviços na área de decoração, reformas e avaliações de imóveis em Campinas (SP) e região. Telefone (19) 98131-4485 | e-mail: <a href="mailto:acarol161@gmail.com" target="_blank">acarol161@gmail.com</a>.
+  <img class="alignnone size-full wp-image-13935" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/DECORACAO-DA-COZINHA-ELETRODOMESTICOS-DA-COZINHA-ELETRODOMESTICOS-COLORIDOS2.jpg" alt="DECORACAO DA COZINHA-ELETRODOMESTICOS DA COZINHA-ELETRODOMESTICOS COLORIDOS[2]" width="800" height="800" />**Ana Carolina Ventura é Arquiteta** e presta serviços na área de decoração, reformas e avaliações de imóveis em Campinas (SP) e região. Telefone (19) 98131-4485 | e-mail: [acarol161@gmail.com](mailto:acarol161@gmail.com) .
 </p>
 
 > <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  **Regiane Yuki Sabanai é Arquiteta**, atua no Brasil e em Portugal com decoração de interiores e serviços imobiliários. Você pode saber um pouco mais de seu trabalho através de seu site, o <a href="https://www.facebook.com/arquitetaregianeyukisabanai/" target="_blank">Studio Rys</a>, bem como via <a href="http://arquitetosdobem.webs.com/" target="_blank">Arquitetos do Bem</a>, projeto solidário onde ela atua buscando parcerias para ajudar o próximo.
+  **Regiane Yuki Sabanai é Arquiteta**, atua no Brasil e em Portugal com decoração de interiores e serviços imobiliários. Você pode saber um pouco mais de seu trabalho através de seu site, o [Studio Rys](https://www.facebook.com/arquitetaregianeyukisabanai/) , bem como via [Arquitetos do Bem](http://arquitetosdobem.webs.com/) , projeto solidário onde ela atua buscando parcerias para ajudar o próximo.
 </p>
 
 &nbsp;
@@ -76,7 +76,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  **Claudia Medeiros é Designer de Interiores** e atua em Campinas (SP) e região com projetos de decoração, acompanhamentos de obras e assessoria. Se você mora em outro estado ou região, mas precisa do apoio de um profissional para reforma ou decoração, ela executa projetos online para atender suas necessidades. Para saber mais detalhes de seu trabalho, entre em contato: claudia@<span class="skimlinks-unlinked">claudiamedeiros.com.br</span> – (19) 98189-7955. Acesse seu blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se Fosse na Minha Casa </a>e conheça seus projetos de design.
+  **Claudia Medeiros é Designer de Interiores** e atua em Campinas (SP) e região com projetos de decoração, acompanhamentos de obras e assessoria. Se você mora em outro estado ou região, mas precisa do apoio de um profissional para reforma ou decoração, ela executa projetos online para atender suas necessidades. Para saber mais detalhes de seu trabalho, entre em contato: claudia@<span class="skimlinks-unlinked">claudiamedeiros.com.br</span> – (19) 98189-7955. Acesse seu blog, o [Se Fosse na Minha Casa ](https://sefossenaminhacasa.wordpress.com/) e conheça seus projetos de design.
 </p>
 
 &nbsp;
@@ -90,13 +90,13 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  **Carol Carneiro é Designer de Ambientes** e atua em Belo Horizonte (MG) com consultorias em projetos residenciais, comerciais, empresariais e institucionais. Para mais detalhes sobre seu trabalho, e contato, <a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank">acesse seu blog aqui</a>, e sua <a href="https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448" target="_blank">página no Facebook, aqui</a>.
+  **Carol Carneiro é Designer de Ambientes** e atua em Belo Horizonte (MG) com consultorias em projetos residenciais, comerciais, empresariais e institucionais. Para mais detalhes sobre seu trabalho, e contato, [acesse seu blog aqui](http://www.blogcarolcarneiro.blogspot.com.br/) , e sua [página no Facebook, aqui](https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448) .
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **Em termos de arquitetura, a tendência de <a href="http://www.trololodemulher.com.br/2017/05/02/cozinha-americana/" target="_blank">cozinhas abertas</a> e &#8220;cozinhas-corredor&#8221; já é fato. Por conta disso, no design e decoração há a necessidade de revestimentos mais vistosos e iluminação mais trabalhada, já que a cozinha é vista do estar, e de uma maior preocupação com o uso dos espaços verticais (as paredes). Como a  cozinha aberta se torna, muitas vezes, uma área de encontro, isso se reflete na tendência das cozinhas gourmet, com acessórios e eletrodomésticos com design mais refinado. 2 tendências gerais que impactam as cozinhas também são o uso da tecnologia e a &#8220;volta ao passado&#8221;. Nas cozinhas, como reflexo destas tendências gerais, temos a tendência industrial, de um lado, e a &#8220;cozinha da fazenda&#8221; de outro: uso de aço inox, coifas e outros eletrodomésticos cheios de tecnologia, uso de mais cores nos móveis, azulejo hidráulico e madeira, seja de verdade ou em revestimentos que os imitam.”**
+>   **Em termos de arquitetura, a tendência de [cozinhas abertas](http://www.trololodemulher.com.br/2017/05/02/cozinha-americana/)  e &#8220;cozinhas-corredor&#8221; já é fato. Por conta disso, no design e decoração há a necessidade de revestimentos mais vistosos e iluminação mais trabalhada, já que a cozinha é vista do estar, e de uma maior preocupação com o uso dos espaços verticais (as paredes). Como a  cozinha aberta se torna, muitas vezes, uma área de encontro, isso se reflete na tendência das cozinhas gourmet, com acessórios e eletrodomésticos com design mais refinado. 2 tendências gerais que impactam as cozinhas também são o uso da tecnologia e a &#8220;volta ao passado&#8221;. Nas cozinhas, como reflexo destas tendências gerais, temos a tendência industrial, de um lado, e a &#8220;cozinha da fazenda&#8221; de outro: uso de aço inox, coifas e outros eletrodomésticos cheios de tecnologia, uso de mais cores nos móveis, azulejo hidráulico e madeira, seja de verdade ou em revestimentos que os imitam.”**
 > </p>
 
 <p align="center">
@@ -104,15 +104,15 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  **Rosana Silva é pós-graduada em Design de Interiores** e se dedica a pesquisa e estudo sobre o tema, reunindo o fruto de seu trabalho no blog **Simples Decoração**. Acesse todo o seu conteúdo requíssimo em <a href="http://www.simplesdecoracao.com.br/" target="_blank">seu blog, aqui</a>, ou ainda em sua <a href="https://www.facebook.com/SimplesDecoracao" target="_blank">página no Facebook, aqui</a>.
+  **Rosana Silva é pós-graduada em Design de Interiores** e se dedica a pesquisa e estudo sobre o tema, reunindo o fruto de seu trabalho no blog **Simples Decoração**. Acesse todo o seu conteúdo requíssimo em [seu blog, aqui](http://www.simplesdecoracao.com.br/) , ou ainda em sua [página no Facebook, aqui](https://www.facebook.com/SimplesDecoracao) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

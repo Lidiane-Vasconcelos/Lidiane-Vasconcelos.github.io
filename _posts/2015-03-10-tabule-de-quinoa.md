@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Pois é, foi bater o olho nessa sugestão de receita saudável da Carol e pensar exatamente isso: que fácil! Essa moça não está pra brincadeira quando decidiu se aprimorar em receitas fáceis e práticas, <em>viu</em>? E, além do mais, saudáveis! E pensar o quanto que são gostosas, então?! A carinha do prato diz tudo, e a gente fica mesmo com muita vontade de experimentar também, oh: confere e confirma…
+  Pois é, foi bater o olho nessa sugestão de receita saudável da Carol e pensar exatamente isso: que fácil! Essa moça não está pra brincadeira quando decidiu se aprimorar em receitas fáceis e práticas, _viu_? E, além do mais, saudáveis! E pensar o quanto que são gostosas, então?! A carinha do prato diz tudo, e a gente fica mesmo com muita vontade de experimentar também, oh: confere e confirma…
 </p>
 
 &nbsp;
@@ -66,23 +66,23 @@ Sal e pimenta moída na hora a gosto.
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank">**Receita molezinha e gostosa: torta de abóbora + frango**</a>
+  [**Receita molezinha e gostosa: torta de abóbora + frango**](http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho assado de inhame com bacalhau… hummm…**</a>
+  [**Bolinho assado de inhame com bacalhau… hummm…**](http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa**</a>
+  [**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa**](http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

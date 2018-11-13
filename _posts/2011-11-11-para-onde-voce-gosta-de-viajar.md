@@ -20,7 +20,7 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA.jpg"><img class="alignnone size-full wp-image-8177" title="VIAGEM MAPA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA.jpg" alt="" width="600" height="399" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA.jpg"><img class="alignnone size-full wp-image-8177" title="VIAGEM MAPA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/11/VIAGEM-MAPA.jpg" alt="" width="600" height="399" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 &nbsp;
 
 > <p align="justify">
->   “<em>Aqui em casa nosso melhor roteiro é aquela fugidinha para Parati &#8211; RJ. É rapidinho de carro e o lugar é belíssimo. Chegamos cedinho no sábado para aproveitar o passeio de barco pelas ilhas. De quebra, cair no alto-mar, nadar entre os peixinhos&#8230; Uma delícia! Á noite, passear pelas ruas históricas, cheinha de artesanato e cultura. Depois do jantar, um docinho das barracas tradicionais. E para quem ama, como eu, se jogar nas cachoeiras no caminho para Cunha. Vale também a esticadinha para Trindade.”</em> **Elaine Cunha | **<a href="http://www.caminhandocontando.com/" target="_blank">**Caminhando e Contando**</a>
+>   “_Aqui em casa nosso melhor roteiro é aquela fugidinha para Parati &#8211; RJ. É rapidinho de carro e o lugar é belíssimo. Chegamos cedinho no sábado para aproveitar o passeio de barco pelas ilhas. De quebra, cair no alto-mar, nadar entre os peixinhos&#8230; Uma delícia! Á noite, passear pelas ruas históricas, cheinha de artesanato e cultura. Depois do jantar, um docinho das barracas tradicionais. E para quem ama, como eu, se jogar nas cachoeiras no caminho para Cunha. Vale também a esticadinha para Trindade.”_ **Elaine Cunha | **[**Caminhando e Contando**](http://www.caminhandocontando.com/) 
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 &nbsp;
 
 > <p align="justify">
->   “<em>Aqui no Rio para mim não há lugar mais lindo e aconchegante que Ilha Grande, que fica em Angra dos Reis, na Costa Verde do Rio. Lá é super cuidado, existem várias reservas florestais. O número de visitantes é limitado. São proibidos carros, os únicos carros que existem lá são dos serviços públicos. O Acesso é feito por barca vindo de Mangaratiba. Lá tem praias paradisíacas, passeios lindos, vistas maravilhosas e pousadas acessíveis! </em><em>Vale muito passear por lá.”</em> **Roberta Souza** | **<a href="http://mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a>**
+>   “_Aqui no Rio para mim não há lugar mais lindo e aconchegante que Ilha Grande, que fica em Angra dos Reis, na Costa Verde do Rio. Lá é super cuidado, existem várias reservas florestais. O número de visitantes é limitado. São proibidos carros, os únicos carros que existem lá são dos serviços públicos. O Acesso é feito por barca vindo de Mangaratiba. Lá tem praias paradisíacas, passeios lindos, vistas maravilhosas e pousadas acessíveis! __Vale muito passear por lá.”_ **Roberta Souza** | **[Mix Cultural](http://mixdeinformacao.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 &nbsp;
 
 > <p align="justify">
->   “<em>Um destino que indico e que todos que vem me agradecem, é a Paraíba, esse estado que escolhi para viver. Em especial o litoral sul porque tem praias ainda desertas e de natureza exuberante, perfeitas pra quem curte estar perto do verde e do mar. Confira um **<a href="http://www.viladoartesao.com.br/blog/2011/09/passeando-de-buggy-pelo-litoral-sul-da-paraiba/" target="_blank">post meu mais recente sobre o tema</a>**…”</em> **Cris Turek** | **<a href="http://www.viladoartesao.com.br/blog/" target="_blank">Vila do Artesão</a>**
+>   “_Um destino que indico e que todos que vem me agradecem, é a Paraíba, esse estado que escolhi para viver. Em especial o litoral sul porque tem praias ainda desertas e de natureza exuberante, perfeitas pra quem curte estar perto do verde e do mar. Confira um **[post meu mais recente sobre o tema](http://www.viladoartesao.com.br/blog/2011/09/passeando-de-buggy-pelo-litoral-sul-da-paraiba/) **…”_ **Cris Turek** | **[Vila do Artesão](http://www.viladoartesao.com.br/blog/) **
 > </p>
 
 &nbsp;
@@ -80,7 +80,7 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 &nbsp;
 
 > <p align="justify">
->   “<em>Ultimamente tenho gostado demais de ir para Minas, eu adoro roça, sabe&#8230; Adoro mato, cachoeiras, caminhadas&#8230; Para mim, que moro em Niterói, uma excelente viagem de fim de semana é para Ibitipoca. Fica pertinho, tem um parque estadual belíssimo e muita coisa bonita para se ver &#8211; e coisas gostosas para comer! O &#8220;pão de canela&#8221; que fazem lá é imperdível!”</em>** Dora Quevedo | <a href="http://doraquevedo.blogspot.com/" target="_blank">Passatempos da Dorinha</a>**
+>   “_Ultimamente tenho gostado demais de ir para Minas, eu adoro roça, sabe&#8230; Adoro mato, cachoeiras, caminhadas&#8230; Para mim, que moro em Niterói, uma excelente viagem de fim de semana é para Ibitipoca. Fica pertinho, tem um parque estadual belíssimo e muita coisa bonita para se ver &#8211; e coisas gostosas para comer! O &#8220;pão de canela&#8221; que fazem lá é imperdível!”_** Dora Quevedo | [Passatempos da Dorinha](http://doraquevedo.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -92,7 +92,7 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 &nbsp;
 
 > <p align="justify">
->   “<em>Para as férias nada melhor que viajar de avião pra bemmmm longeeeee que é pra aproveitar mesmo e esquecer até o número do telefone da empresa que você trabalha!! A Europa é simplesmente esplêndida, cada lugar que você vê tem um monumento histórico, é como caminhar nas páginas dos livros de história e viver na época dos grandes impérios, o único porém é que demanda esforço físico. Para ver todas as obras, museus, igrejas é preciso caminhar. Então, é preciso estar preparado para isso.”</em>** Simone | <a href="http://newsespacohome.blogspot.com/" target="_blank">Organização com Estilo</a>**
+>   “_Para as férias nada melhor que viajar de avião pra bemmmm longeeeee que é pra aproveitar mesmo e esquecer até o número do telefone da empresa que você trabalha!! A Europa é simplesmente esplêndida, cada lugar que você vê tem um monumento histórico, é como caminhar nas páginas dos livros de história e viver na época dos grandes impérios, o único porém é que demanda esforço físico. Para ver todas as obras, museus, igrejas é preciso caminhar. Então, é preciso estar preparado para isso.”_** Simone | [Organização com Estilo](http://newsespacohome.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -104,13 +104,13 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 &nbsp;
 
 > <p align="justify">
->   “<em>Uma ótima opção de viagem de férias é conhecer as Cataratas de Foz do Iguaçu. Eu ainda não visitei o lugar, mas a minha mãe em Janeiro deste ano teve o prazer de conhecer. Ela (minha mãe) disse que pagou cerca de R$ 30,00 para entrar no parque e conhecer as cataratas, falou também que tudo é muito bem organizado e vale MUITO A PENA!!!!! :)))))) Acredito eu que esta viagem seja ótima quando se esta de um grupo de amigos(as) ou da familia. Como eu disse eu não fui a viagem mas, a minha mãe tirou várias fotos e eu **<a href="http://mayaramonica.blogspot.com/2011/03/visita-as-cataratas.html" target="_blank">publiquei neste post no meu blog</a>**</em>.” Mayara Mônica | **<a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>**
+>   “_Uma ótima opção de viagem de férias é conhecer as Cataratas de Foz do Iguaçu. Eu ainda não visitei o lugar, mas a minha mãe em Janeiro deste ano teve o prazer de conhecer. Ela (minha mãe) disse que pagou cerca de R$ 30,00 para entrar no parque e conhecer as cataratas, falou também que tudo é muito bem organizado e vale MUITO A PENA!!!!! :)))))) Acredito eu que esta viagem seja ótima quando se esta de um grupo de amigos(as) ou da familia. Como eu disse eu não fui a viagem mas, a minha mãe tirou várias fotos e eu **[publiquei neste post no meu blog](http://mayaramonica.blogspot.com/2011/03/visita-as-cataratas.html) **_.” Mayara Mônica | **[My Diary](http://mayaramonica.blogspot.com/) **
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Ai… ai… tem como não ficar suspirando e sonhando com as próximas férias depois de um post desse? Pois é… eu fiquei. E, oh: confesso que dessa lista de destinos já há alguns em meus planos. O que me resta agora? Sonhar um pouquinho mais… ah! E te perguntar: **<span style="font-size: medium;">qual o teu destino querido, aquele que você recomenda <em>comtodaforça</em> do seu ser?</span>**
+  Ai… ai… tem como não ficar suspirando e sonhando com as próximas férias depois de um post desse? Pois é… eu fiquei. E, oh: confesso que dessa lista de destinos já há alguns em meus planos. O que me resta agora? Sonhar um pouquinho mais… ah! E te perguntar: **<span style="font-size: medium;">qual o teu destino querido, aquele que você recomenda _comtodaforça_ do seu ser?</span>**
 </p>
 
 &nbsp;
@@ -155,13 +155,13 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -171,5 +171,5 @@ Se tem uma coisa que precisamos nessa vida é descansar, não é verdade? E tem 
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

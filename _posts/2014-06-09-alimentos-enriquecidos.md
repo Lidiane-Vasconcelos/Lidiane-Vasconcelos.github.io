@@ -100,15 +100,15 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p align="justify">
-  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em <a href="http://www.nutricionistaingrid.com.br/" target="_blank">seu blog clicando bem aqui</a>. Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid**pelo**Facebook**, através de sua <em><a href="http://www.facebook.com/nutri.ingrid.prior" target="_blank">fanpage</a></em>. Vai perder?
+  Bonita, a **Dra. Ingrid** também é blogueira, sabia? Pois é… se você é daquelas bichas fêmeas navegantes que amam estar bem informadas sobre saúde e bem-estar, pode passar a acompanhar suas atualizações em [seu blog clicando bem aqui](http://www.nutricionistaingrid.com.br/) . Além do mais, dá para acompanhar ainda mais dicas da **Dra. Ingrid**pelo**Facebook**, através de sua _[fanpage](http://www.facebook.com/nutri.ingrid.prior) _. Vai perder?
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagens: [free images](http://www.freeimages.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -125,13 +125,13 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -140,5 +140,5 @@ Basta dar uma volta nas gôndolas dos mercados e a gente perceber uma profusão 
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

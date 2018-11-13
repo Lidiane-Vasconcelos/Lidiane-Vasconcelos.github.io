@@ -12,11 +12,11 @@ categories:
 ---
 Saiu, saiu, saiu!!!!
 
-Fiz um novo sorteio e a corujinha produzida pela Cristiane Inokuma, da **_<a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>_**, que foi oferecida como prenda na <a href="http://www.trololodemulher.com.br/2010/01/18/sorteio-no-bicha-femea-em-parceria-com-a-closone-acessorios%e2%80%a6/" target="_self">primeira promoção do Bicha Fêmea</a>, terá um novo endereço em potencial onde ela poderá pousar. Sabe onde é?
+Fiz um novo sorteio e a corujinha produzida pela Cristiane Inokuma, da **_[Closonê Acessórios](http://closone.blogspot.com/) _**, que foi oferecida como prenda na <a href="http://www.trololodemulher.com.br/2010/01/18/sorteio-no-bicha-femea-em-parceria-com-a-closone-acessorios%e2%80%a6/" target="_self">primeira promoção do Bicha Fêmea</a>, terá um novo endereço em potencial onde ela poderá pousar. Sabe onde é?
 
 <!--more-->
 
-…_hum_… já que a <a href="http://www.trololodemulher.com.br/2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/" target="_self">Raine não apareceu, não deu qualquer sinal de fumaça</a>, a corujinha agora poderá bater asas em direção a casa da Luma. Isso mesmo, a Luma do blog <a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party</a>!
+…_hum_… já que a [Luz de Luma, yes party](http://www.trololodemulher.com.br/2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/" target="_self">Raine não apareceu, não deu qualquer sinal de fumaça</a>, a corujinha agora poderá bater asas em direção a casa da Luma. Isso mesmo, a Luma do blog <a href="http://luzdeluma.blogspot.com/) !
 
 <table align="center">
   <tr>

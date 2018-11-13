@@ -12,18 +12,18 @@ categories:
   - Entrevistas
   - 'Trabalho &amp; Dinheiro'
 ---
-Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobretudo nos blogs de decoração, houve um que chamou minha atenção. Mesmo com a crescente popularização desses espaços virtuais, o **<a href="http://www.decoracasas.com.br/" target="_blank">DECORACASAS</a>**, blog que atraiu os meus olhos e interesse, sempre se manteve como um indiscutível destaque.
+Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobretudo nos blogs de decoração, houve um que chamou minha atenção. Mesmo com a crescente popularização desses espaços virtuais, o **[DECORACASAS](http://www.decoracasas.com.br/) **, blog que atraiu os meus olhos e interesse, sempre se manteve como um indiscutível destaque.
 
 &nbsp;
 
 <p align="justify">
-  A dona do espaço, a **Flávia Ferrari**, se tornou bastante conhecida no meio e acabou envolvida em projetos bacanas, tudo a partir do blog. Um deles, a **sua própria revista de decoração**, é <em>superultramega</em> interessante. Por que tanto sucesso? Entenda lendo esse post…
+  A dona do espaço, a **Flávia Ferrari**, se tornou bastante conhecida no meio e acabou envolvida em projetos bacanas, tudo a partir do blog. Um deles, a **sua própria revista de decoração**, é _superultramega_ interessante. Por que tanto sucesso? Entenda lendo esse post…
 </p>
 
 <!--more-->
 
 <p align="center">
-  <em><a href="http://www.decoracasas.com.br/" target="_blank"><img class="alignnone size-full wp-image-8776" title="DECORACASAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/DECORACASAS.png" alt="" width="600" height="278" /></a><br /> Clique na imagem e delicie-se no blog da bonita e talentosa Flávia Ferrari!</em>
+  _[<img class="alignnone size-full wp-image-8776" title="DECORACASAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/DECORACASAS.png" alt="" width="600" height="278" />](http://www.decoracasas.com.br/) <br /> Clique na imagem e delicie-se no blog da bonita e talentosa Flávia Ferrari!_
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 > <p align="justify">
->   “O<em> DECORACASAS foi criado em Março de 2008, mais precisamente dia 3 de março de 2008. Minha primeira necessidade para criar o blog foi compartilhar um trabalho em estêncil que fiz nas portas dos armários do quarto da minha filha – seria uma única postagem. Mas com ela eu comecei a reparar na coletânea de pequenas coisas que eu havia feito para dar graça à minha vida. E partindo desta constatação eu queria documentar todas, pois elas eram um importante resgate da minha vida, das coisas que eu gostava no período pós maternidade. E assim se desenvolveu o DECORACASAS até hoje, antes documentando a decoração e a vida na minha casa, agora contando também a história e os segredos de algumas outras casas também</em>.”
+>   “O_ DECORACASAS foi criado em Março de 2008, mais precisamente dia 3 de março de 2008. Minha primeira necessidade para criar o blog foi compartilhar um trabalho em estêncil que fiz nas portas dos armários do quarto da minha filha – seria uma única postagem. Mas com ela eu comecei a reparar na coletânea de pequenas coisas que eu havia feito para dar graça à minha vida. E partindo desta constatação eu queria documentar todas, pois elas eram um importante resgate da minha vida, das coisas que eu gostava no período pós maternidade. E assim se desenvolveu o DECORACASAS até hoje, antes documentando a decoração e a vida na minha casa, agora contando também a história e os segredos de algumas outras casas também_.”
 > </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 > <p align="justify">
->   “<em>A minha revista é uma revista de bem viver em casa, é uma revista que mostra várias coisas que podem ser feitas com as suas mãos para transformar o espírito da casa – e isto não implica em gastar rios de dinheiro. </em><em>Quem comprá-la vai encontrar artesanato diferenciado, culinária, sugestões de presentes, histórias de pessoas que fazem e criam, dicas domésticas, horóscopo e feng shui. São sugestões atemporais, que você pode usar em várias situações e épocas da sua vida</em>.”
+>   “_A minha revista é uma revista de bem viver em casa, é uma revista que mostra várias coisas que podem ser feitas com as suas mãos para transformar o espírito da casa – e isto não implica em gastar rios de dinheiro. __Quem comprá-la vai encontrar artesanato diferenciado, culinária, sugestões de presentes, histórias de pessoas que fazem e criam, dicas domésticas, horóscopo e feng shui. São sugestões atemporais, que você pode usar em várias situações e épocas da sua vida_.”
 > </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 > <p align="justify">
->   “<em>O segredo para transformar a casa em um lar é gostar da casa, com seus defeitos e qualidades, e procurar enxergar beleza em pequenos detalhes. O lar não é feito de coisas grandiosas, mas de pequenos carinhos que nos permitimos diariamente</em>.”
+>   “_O segredo para transformar a casa em um lar é gostar da casa, com seus defeitos e qualidades, e procurar enxergar beleza em pequenos detalhes. O lar não é feito de coisas grandiosas, mas de pequenos carinhos que nos permitimos diariamente_.”
 > </p>
 
 <p align="justify">
@@ -67,7 +67,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 > <p align="justify">
->   “<em>Para a pessoa definir o que quer é importante que ela olhe muito – aproveite ao máximo esta grande quantidade de informação que está à disposição – e que comece, aos poucos, guardar as coisas que lhe agradam. Seja em uma pasta em seu computador, seja em uma pasta física com recortes de revistas e jornais, é importante que comece a ser criado este “repertório visual”. No final, você começa a se entender, ver o que agrada e o que não agrada e começa a encontrar soluções que se encaixam ao seu estilo de vida e gosto.”</em>
+>   “_Para a pessoa definir o que quer é importante que ela olhe muito – aproveite ao máximo esta grande quantidade de informação que está à disposição – e que comece, aos poucos, guardar as coisas que lhe agradam. Seja em uma pasta em seu computador, seja em uma pasta física com recortes de revistas e jornais, é importante que comece a ser criado este “repertório visual”. No final, você começa a se entender, ver o que agrada e o que não agrada e começa a encontrar soluções que se encaixam ao seu estilo de vida e gosto.”_
 > </p>
 
 <p align="justify">
@@ -75,7 +75,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 > <p align="justify">
->   “<em>Eu acredito que decorar é sim para qualquer pessoa. Não acredito que seja um processo que acontece da noite para o dia, porque o decorar, para mim, é uma forma de expressão, de materializar o que sentimos. E como todo processo de auto conhecimento, exige atenção e tempo para que saibamos dizer com convicção o que gostamos e o que não gostamos</em>. “
+>   “_Eu acredito que decorar é sim para qualquer pessoa. Não acredito que seja um processo que acontece da noite para o dia, porque o decorar, para mim, é uma forma de expressão, de materializar o que sentimos. E como todo processo de auto conhecimento, exige atenção e tempo para que saibamos dizer com convicção o que gostamos e o que não gostamos_. “
 > </p>
 
 <p align="justify">
@@ -83,7 +83,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 > <p align="justify">
->   “<em>Eu sempre gostei de decoração, desde pequena. Sempre gostava dos móveis, dos objetos, sonhava com as “casas de revista”. Queria ter feito arquitetura, mas por um motivo muito especial do destino, acabei não cursando esta faculdade. E passei por um período mais distante desta paixão – mas nunca me desliguei dela, tanto que quando tive tempo para pensar e me reinventar foi para a decoração que eu voltei</em>!”
+>   “_Eu sempre gostei de decoração, desde pequena. Sempre gostava dos móveis, dos objetos, sonhava com as “casas de revista”. Queria ter feito arquitetura, mas por um motivo muito especial do destino, acabei não cursando esta faculdade. E passei por um período mais distante desta paixão – mas nunca me desliguei dela, tanto que quando tive tempo para pensar e me reinventar foi para a decoração que eu voltei_!”
 > </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 </p>
 
 > <p align="justify">
->   <em>“Posso dizer que eu tenho muitas ”vontades” para o futuro mas aprendi que as vontades que acontecem são as que tem que acontecer. Tenho minhas vontades em mente, trabalho duro e deixo que o destino ligue os pontos que tem que ligar ;-)”</em>
+>   _“Posso dizer que eu tenho muitas ”vontades” para o futuro mas aprendi que as vontades que acontecem são as que tem que acontecer. Tenho minhas vontades em mente, trabalho duro e deixo que o destino ligue os pontos que tem que ligar ;-)”_
 > </p>
 
 &nbsp;
@@ -153,7 +153,7 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -168,13 +168,13 @@ Logo que comecei a _blogar_ no **Bicha Fêmea** e passear pela blogosfera, sobre
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

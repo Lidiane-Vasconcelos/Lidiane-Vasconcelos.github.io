@@ -10,13 +10,13 @@ categories:
   - Comportamento
   - Comportamento Feminino
 ---
-_[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.wickedsunshine.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-wickedsunshine-com_thumb.png" alt="www.wickedsunshine.com" width="240" height="240" align="left" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-wickedsunshine-com.png) A long long time ago_, quando comecei a ler a Karol, logo pensei: que mulher sensível! Pois é, acredito que essa é a melhor definição para a Karol, do blog “<a href="http://adonadomundo.blogspot.com/" target="_blank">A DONA DO MUNDO</a>”.
+_[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.wickedsunshine.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-wickedsunshine-com_thumb.png" alt="www.wickedsunshine.com" width="240" height="240" align="left" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-wickedsunshine-com.png) A long long time ago_, quando comecei a ler a Karol, logo pensei: que mulher sensível! Pois é, acredito que essa é a melhor definição para a Karol, do blog “[A DONA DO MUNDO](http://adonadomundo.blogspot.com/) ”.
 
 Essa moça me confunde muitas vezes, porque ela é um misto de delicadeza de sentimentos com solidez inabalável de ideias. E entre seus devaneios literários é que me deixo embalar, e vou junto com ela…
 
-Para ler a Karol há que se permitir sentir o que vai por entre as palavras, nas entrelinhas. O espaço <a href="http://adonadomundo.blogspot.com/" target="_blank">d’A DONA DO MUNDO</a> é lugar para se ter coração aberto, alma solta ao vento e palavras combinadas ao sabor das emoções…
+Para ler a Karol há que se permitir sentir o que vai por entre as palavras, nas entrelinhas. O espaço [d’A DONA DO MUNDO](http://adonadomundo.blogspot.com/)  é lugar para se ter coração aberto, alma solta ao vento e palavras combinadas ao sabor das emoções…
 
-**_Por Karol – <a href="http://adonadomundo.blogspot.com/" target="_blank">A DONA DO MUNDO</a>_**
+**_Por Karol – [A DONA DO MUNDO](http://adonadomundo.blogspot.com/) _**
 
 Acho que todas nós, convidadas da Lidiane, enfrentamos um dilema: a escolha do tema, a qualidade do texto. Queremos estar à altura dessa pernanbucana _arretada_, que escreve tão bem.
 

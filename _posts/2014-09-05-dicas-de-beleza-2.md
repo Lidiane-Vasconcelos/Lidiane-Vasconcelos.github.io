@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  A gente quer ficar bonita no dia a dia sem complicações, não é verdade? O que a gente não se toca, muitas vezes, é que nem precisa de grandes feitos para conseguir isso. Com informação, se a gente for bem esperta, dá pra aprender truques e <em>trucões</em>, básicos e simples, que podem nos favorecer bastante. Pensando nisso, e nos dias quentes que virão, tirei minhas dúvidas com uma especialista.
+  A gente quer ficar bonita no dia a dia sem complicações, não é verdade? O que a gente não se toca, muitas vezes, é que nem precisa de grandes feitos para conseguir isso. Com informação, se a gente for bem esperta, dá pra aprender truques e _trucões_, básicos e simples, que podem nos favorecer bastante. Pensando nisso, e nos dias quentes que virão, tirei minhas dúvidas com uma especialista.
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank">**BB cream ´pra cá, BB cream ´pra lá…**</a>
+  [**BB cream ´pra cá, BB cream ´pra lá…**](http://www.trololodemulher.com.br/2013/07/22/bb-cream/) 
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagem: [freeimages](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank">**Você sabe tudo que precisa sobre batom?**</a>
+  [**Você sabe tudo que precisa sobre batom?**](http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/) 
 </p>
 
 <p align="justify">
@@ -82,11 +82,11 @@ categories:
 </p>
 
 <p align="justify">
-  A **Heidi** é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via <a href="https://www.facebook.com/heidi.lanzellotti" target="_blank">perfil do Facebook</a>**.** Vai lá!
+  A **Heidi** é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio _cá_ com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via [perfil do Facebook](https://www.facebook.com/heidi.lanzellotti) **.** Vai lá!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

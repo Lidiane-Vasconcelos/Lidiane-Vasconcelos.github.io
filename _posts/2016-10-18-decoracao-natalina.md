@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Árvore de Natal, <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">guirlanda natalina</a>, <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">arranjo de mesa</a>, pisca-pisca na janela: esses itens são clássicos na **decoração natalina**. Mas, oh: se você quer mais,  veja neste post 4 dicas para satisfazer sua vontade de espalhar o espírito natalino pelo lar. Dê a cada pequeno espaço de seu ninho um toque de <em>bossa</em> natalina com essas ideias criativas, e de simples execução. Preparada? Então vem!
+  Árvore de Natal, [guirlanda natalina](http://www.decoracaodacasa.com/guirlandas-de-natal-2/) , [arranjo de mesa](http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/) , pisca-pisca na janela: esses itens são clássicos na **decoração natalina**. Mas, oh: se você quer mais,  veja neste post 4 dicas para satisfazer sua vontade de espalhar o espírito natalino pelo lar. Dê a cada pequeno espaço de seu ninho um toque de _bossa_ natalina com essas ideias criativas, e de simples execução. Preparada? Então vem!
 </p>
 
 <p align="justify">
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://martysmusings.net/" target="_blank">Marty´s Musings</a>
+  Via [Marty´s Musings](http://martysmusings.net/) 
 </p>
 
 <p align="justify">
-  Aqui a ideia foi aplicada com o uso de porta-velas rústicos, mas você pode agrupar algumas velas maiores de <em>pegada</em> rústica mesmo. Agrupe-as numa <a href="http://www.decoracaodacasa.com/decoracao-bandejas/" target="_blank">bandeja</a> de madeira e coloque folhagens natalinas em torno delas. Pronto! Você tem uma composição para decorar o seu lavabo, sua <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank">mesa de centro de sala</a>, uma <a href="http://www.decoracaodacasa.com/mesas-de-canto/" target="_blank">mesinha de canto</a>, seu aparador, ou onde mais sua imaginação mandar. Inspire-se!
+  Aqui a ideia foi aplicada com o uso de porta-velas rústicos, mas você pode agrupar algumas velas maiores de _pegada_ rústica mesmo. Agrupe-as numa [bandeja](http://www.decoracaodacasa.com/decoracao-bandejas/)  de madeira e coloque folhagens natalinas em torno delas. Pronto! Você tem uma composição para decorar o seu lavabo, sua [mesa de centro de sala](http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/) , uma [mesinha de canto](http://www.decoracaodacasa.com/mesas-de-canto/) , seu aparador, ou onde mais sua imaginação mandar. Inspire-se!
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://julieblanner.com/" target="_blank">Julie Blanner</a>
+  Via [Julie Blanner](http://julieblanner.com/) 
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://dans-le-townhouse.blogspot.ca/" target="_blank">Dans Le Lakehouse</a>
+  Via [Dans Le Lakehouse](http://dans-le-townhouse.blogspot.ca/) 
 </p>
 
 <p align="justify">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  Vasos transparentes em formatos diversos + bolas natalinas coloridas. Juntos ou espalhados pela casa, levam a <em>bossa</em> natalina dessa época do ano para o cantinho que você imaginar. Simples e básico: se joga!
+  Vasos transparentes em formatos diversos + bolas natalinas coloridas. Juntos ou espalhados pela casa, levam a _bossa_ natalina dessa época do ano para o cantinho que você imaginar. Simples e básico: se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

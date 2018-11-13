@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>**1 &#8211; Diferente do comum:**</em>
+  _**1 &#8211; Diferente do comum:**_
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
-  Com <em>design</em> assimétrico, você pode ter um armário que foge do lugar comum. Veja esse móvel, por exemplo: são três gavetões, organizados em dois níveis, sendo os dois com pedra no topo. Puxadores modernos deixam o móvel mais contemporâneo, e o resultado pode ser algo supreendente visualmente, não é?
+  Com _design_ assimétrico, você pode ter um armário que foge do lugar comum. Veja esse móvel, por exemplo: são três gavetões, organizados em dois níveis, sendo os dois com pedra no topo. Puxadores modernos deixam o móvel mais contemporâneo, e o resultado pode ser algo supreendente visualmente, não é?
 </p>
 
 <p align="justify">
-  <em>**2 &#8211; Armário flutuante:**</em>
+  _**2 &#8211; Armário flutuante:**_
 </p>
 
 <p align="center">
@@ -38,15 +38,15 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
-  Mesmo em banheiros bem pequenos, dá pra ter um armário bonito e funcional. Optar por um que seja aéreo, ou seja, que deixa a visão do chão livre, dá a impressão de que o espaço no ambiente é maior. O <em>design</em> desse móvel permitiu colocar gavetas de cada lado para armazenar o que é necessário nesse cantinho da casa. Fica a dica.
+  Mesmo em banheiros bem pequenos, dá pra ter um armário bonito e funcional. Optar por um que seja aéreo, ou seja, que deixa a visão do chão livre, dá a impressão de que o espaço no ambiente é maior. O _design_ desse móvel permitiu colocar gavetas de cada lado para armazenar o que é necessário nesse cantinho da casa. Fica a dica.
 </p>
 
 <p align="justify">
-  <em>**3 &#8211; Bem pequeno, mas moderno:**</em>
+  _**3 &#8211; Bem pequeno, mas moderno:**_
 </p>
 
 <p align="center">
@@ -54,15 +54,15 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
-  Esse armário também é aéreo, seguindo aquela ideia de deixar a visão do chão livre. Com medidas menores, a opção aqui foi pelo <em>design</em> bem limpo limitado a 3 gavetas mais largas, que podem ser muito bem usadas através do recurso de divisórias internas, o que facilita a organização. Inspire-se!
+  Esse armário também é aéreo, seguindo aquela ideia de deixar a visão do chão livre. Com medidas menores, a opção aqui foi pelo _design_ bem limpo limitado a 3 gavetas mais largas, que podem ser muito bem usadas através do recurso de divisórias internas, o que facilita a organização. Inspire-se!
 </p>
 
 <p align="justify">
-  <em>**4 – Armário contemporâneo:**</em>
+  _**4 – Armário contemporâneo:**_
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>**5 – Linhas simples:**</em>
+  _**5 – Linhas simples:**_
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>**6 – Armário encorpado e com estilo:**</em>
+  _**6 – Armário encorpado e com estilo:**_
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
@@ -110,5 +110,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

@@ -30,11 +30,11 @@ categories:
 
 <p align="justify">
   <p align="justify">
-    A melhor das notícias é que qualquer mulher pode desfrutar desse encontro com a Márcia, porque a consultoria é dada online. Mulheres do Brasil e fora dele podem passar a ter esse contato tão rico com ela. <a href="http://www.marciadamasceno.com.br/produto/consultoria-online-de-automaquiagem-para-olhos/" target="_blank">Clique aqui e você já pode pedir a sua também</a>. O site da Márcia é cheio de informação das melhores pra você se sentir mais bonita e empoderada, <a href="http://www.marciadamasceno.com.br/" target="_blank">clique aqui e confirme</a>! No Facebook a Márcia divulga todas as novidades que você precisa saber sobre beleza e bem-estar. <a href="https://www.facebook.com/maquiagemnaoetudo/" target="_blank">Clique aqui, curta e acompanhe</a>. No Instagram essa moça linda de viver nos inspira muito a cuidar da beleza de dentro pra fora. <a href="https://www.instagram.com/maquiagemnaoetudo/" target="_blank">Clique aqui, siga e viva de amores</a>.
+    A melhor das notícias é que qualquer mulher pode desfrutar desse encontro com a Márcia, porque a consultoria é dada online. Mulheres do Brasil e fora dele podem passar a ter esse contato tão rico com ela. [Clique aqui e você já pode pedir a sua também](http://www.marciadamasceno.com.br/produto/consultoria-online-de-automaquiagem-para-olhos/) . O site da Márcia é cheio de informação das melhores pra você se sentir mais bonita e empoderada, [clique aqui e confirme](http://www.marciadamasceno.com.br/) ! No Facebook a Márcia divulga todas as novidades que você precisa saber sobre beleza e bem-estar. [Clique aqui, curta e acompanhe](https://www.facebook.com/maquiagemnaoetudo/) . No Instagram essa moça linda de viver nos inspira muito a cuidar da beleza de dentro pra fora. [Clique aqui, siga e viva de amores](https://www.instagram.com/maquiagemnaoetudo/) .
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
   </p>
   
   <p align="justify">

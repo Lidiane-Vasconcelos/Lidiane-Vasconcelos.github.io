@@ -9,24 +9,24 @@ permalink: /2012/01/13/entrevista-claudia-medeiros/
 categories:
   - Entrevistas
 ---
-&#8220;_Acredito que aprender nunca é demais! Qualquer coisa que aprendemos vai ter alguma utilidade em algum momento da vida. Voltar a estudar me tornou mais jovem, isso eu posso afirmar e, com toda certeza, melhorou minha auto-estima_”.  Quem diz isso é a blogueira **Claudia Medeiros**,  editora do **<a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa</a>**, que formou-se em Jornalismo mas decidiu virar o jogo e correr atrás do sonho: ser _designer de interiores_.
+&#8220;_Acredito que aprender nunca é demais! Qualquer coisa que aprendemos vai ter alguma utilidade em algum momento da vida. Voltar a estudar me tornou mais jovem, isso eu posso afirmar e, com toda certeza, melhorou minha auto-estima_”.  Quem diz isso é a blogueira **Claudia Medeiros**,  editora do **[Se fosse na minha casa](http://sefossenaminhacasa.blogspot.com/) **, que formou-se em Jornalismo mas decidiu virar o jogo e correr atrás do sonho: ser _designer de interiores_.
 
 &nbsp;
 
-Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado excelentes resultados: a loja virtual **<a href="http://www.casadaclaudia.com.br/" target="_blank">Casa da Claudia</a>**. Quer saber mais? Acompanhe suas revelações com exclusividade para o **Bicha Fêmea**!
+Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado excelentes resultados: a loja virtual **[Casa da Claudia](http://www.casadaclaudia.com.br/) **. Quer saber mais? Acompanhe suas revelações com exclusividade para o **Bicha Fêmea**!
 
 <!--more-->
 
 <p align="justify">
-  Aos 22 anos essa moça concluiu sua faculdade de Jornalismo, e 19 anos depois resolveu que daria outro rumo a sua vida e faria o que realmente sempre quis: fez sua inscrição no curso de <em>Design de Interiores</em>. Sua determinação, de fato, serve de exemplo para muitas mulheres que sonham há muito tempo em fazer algo por suas vidas que realmente as deixariam mais felizes, mas por um motivo ou outro, deixam seus planos num cantinho de suas vidas, esperando…
+  Aos 22 anos essa moça concluiu sua faculdade de Jornalismo, e 19 anos depois resolveu que daria outro rumo a sua vida e faria o que realmente sempre quis: fez sua inscrição no curso de _Design de Interiores_. Sua determinação, de fato, serve de exemplo para muitas mulheres que sonham há muito tempo em fazer algo por suas vidas que realmente as deixariam mais felizes, mas por um motivo ou outro, deixam seus planos num cantinho de suas vidas, esperando…
 </p>
 
 <p align="justify">
-  Claudia, ao contrário de muitos, fez diferente. Depois de 20 anos trabalhando na área de formação, mas mantendo seu interesse por decoração e arquitetura, seguiu em frente: “<em>incentivada pelo Pedro, meu marido, resolvi voltar a estudar, mas como hoje meu foco é mais a decoração, reformas etc, achei que não valeria a pena fazer um curso de 5 ou 6 anos, como é Arquitetura, e parti pro Design de Interiores. Falta só um semestre pra me formar e estou adorando, aprendi muito</em>!”, conta, entusiasmada.
+  Claudia, ao contrário de muitos, fez diferente. Depois de 20 anos trabalhando na área de formação, mas mantendo seu interesse por decoração e arquitetura, seguiu em frente: “_incentivada pelo Pedro, meu marido, resolvi voltar a estudar, mas como hoje meu foco é mais a decoração, reformas etc, achei que não valeria a pena fazer um curso de 5 ou 6 anos, como é Arquitetura, e parti pro Design de Interiores. Falta só um semestre pra me formar e estou adorando, aprendi muito_!”, conta, entusiasmada.
 </p>
 
 <p align="justify">
-  Movida pela paixão que tem pelo universo da casa e decoração, Claudia aproveitou a reviravolta que deu em sua própria vida, arregaçou as mangas e criou a **Casa da Claudia**, uma loja virtual de produtos que são uma <em>belezura</em>: “<em>Eu já tinha muita vontade de ter uma loja de objetos de decoração e, principalmente, de utilitários decorativos, que é o que eu mais gosto, mas não tinha capital para abrir um negócio. Com o curso, comecei a ter contato com lojas, com revistas estrangeiras e comecei a formar uma opinião sobre o que deveria vender e a ideia foi crescendo na minha cabeça. Daí, mais uma vez, o Pedro me incentivou a abrir uma loja virtual, pelo baixo custo, porque eu já conhecia muita gente e era conhecida na web por causa do blog, e porque este é um negócio que está crescendo no Brasil, as pessoas estão perdendo o medo de comprar pela internet</em>”.
+  Movida pela paixão que tem pelo universo da casa e decoração, Claudia aproveitou a reviravolta que deu em sua própria vida, arregaçou as mangas e criou a **Casa da Claudia**, uma loja virtual de produtos que são uma _belezura_: “_Eu já tinha muita vontade de ter uma loja de objetos de decoração e, principalmente, de utilitários decorativos, que é o que eu mais gosto, mas não tinha capital para abrir um negócio. Com o curso, comecei a ter contato com lojas, com revistas estrangeiras e comecei a formar uma opinião sobre o que deveria vender e a ideia foi crescendo na minha cabeça. Daí, mais uma vez, o Pedro me incentivou a abrir uma loja virtual, pelo baixo custo, porque eu já conhecia muita gente e era conhecida na web por causa do blog, e porque este é um negócio que está crescendo no Brasil, as pessoas estão perdendo o medo de comprar pela internet_”.
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 > <p align="justify">
->   “<em>Tenho planos de abrir uma loja física junto com minha filha, Luíza. Ela também tem interesse pela área, está prestando vestibular de arquitetura e, com certeza, será minha parceira no futuro. Penso em, junto com a loja, prestar assessoria em decoração e em reformas (adoro reformar!) aos meus clientes.”</em>
+>   “_Tenho planos de abrir uma loja física junto com minha filha, Luíza. Ela também tem interesse pela área, está prestando vestibular de arquitetura e, com certeza, será minha parceira no futuro. Penso em, junto com a loja, prestar assessoria em decoração e em reformas (adoro reformar!) aos meus clientes.”_
 > </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 > <p align="justify">
->   “<em>Sempre há. Adoro encontrar novidades para oferecer na loja e penso em futuramente, ter uma linha aromática, de velas, aromatizadores, água de lençóis e coisas do tipo, mas provavelmente seriam produtos a serem oferecidos na loja física, pois acho que cheirinho a gente tem de sentir ao vivo…rsss…”</em>
+>   “_Sempre há. Adoro encontrar novidades para oferecer na loja e penso em futuramente, ter uma linha aromática, de velas, aromatizadores, água de lençóis e coisas do tipo, mas provavelmente seriam produtos a serem oferecidos na loja física, pois acho que cheirinho a gente tem de sentir ao vivo…rsss…”_
 > </p>
 
 <p align="justify">
@@ -60,7 +60,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 > <p align="justify">
->   “<em>Eles seguem uma linha de casa mais romântica, provençal, vintage. Como este é meu estilo e acho que é também o de muitas pessoas, acabou se tornando uma característica da loja e, não tem jeito, acabo sempre procurando peças que me agradem, em primeiro lugar. Vendo o que gosto e o que teria na minha casa!”</em>
+>   “_Eles seguem uma linha de casa mais romântica, provençal, vintage. Como este é meu estilo e acho que é também o de muitas pessoas, acabou se tornando uma característica da loja e, não tem jeito, acabo sempre procurando peças que me agradem, em primeiro lugar. Vendo o que gosto e o que teria na minha casa!”_
 > </p>
 
 <p align="justify">
@@ -68,7 +68,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 > <p align="justify">
->   <em>“Através de material das aulas, de mostras, de sites e de blogs de decoração. Além das revistas nacionais , também gosto muito das revistas espanholas e francesas. E, como trabalho em uma revista, acompanho de perto o trabalho de arquitetos, designers e decoradores.”</em>
+>   _“Através de material das aulas, de mostras, de sites e de blogs de decoração. Além das revistas nacionais , também gosto muito das revistas espanholas e francesas. E, como trabalho em uma revista, acompanho de perto o trabalho de arquitetos, designers e decoradores.”_
 > </p>
 
 <p align="justify">
@@ -76,7 +76,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 > <p align="justify">
->   “<em>A loja física é o principal, como termino o curso em julho, venho pensando cada vez mais nisso</em>.”
+>   “_A loja física é o principal, como termino o curso em julho, venho pensando cada vez mais nisso_.”
 > </p>
 
 <p align="justify">
@@ -84,7 +84,7 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </p>
 
 > <p align="justify">
->   <em>“Em primeiro lugar, perder o medo! Eu sou muito medrosa e se não fosse pelo marido, talvez não tivesse dado o pontapé inicial. Acho que, como em tudo na vida, é preciso pensar muito antes de dar uma guinada na carreira e na vida, mas acredito que tudo o que fazemos com prazer, tem uma grande chance de dar certo. Eu me considero uma pessoa bem mais feliz hoje. Deixei pra trás um emprego onde ganhava relativamente bem, mas estava insatisfeita, fui aprender uma nova profissão e isso me abriu os olhos para algo que tinha muita vontade de fazer. Mas, se posso dar um conselho, aqui vai: se profissionalize! Aprender mais sobre o que gostamos, nos torna mais competentes e o mercado nos vê com outros olhos. Vale a pena!”</em>
+>   _“Em primeiro lugar, perder o medo! Eu sou muito medrosa e se não fosse pelo marido, talvez não tivesse dado o pontapé inicial. Acho que, como em tudo na vida, é preciso pensar muito antes de dar uma guinada na carreira e na vida, mas acredito que tudo o que fazemos com prazer, tem uma grande chance de dar certo. Eu me considero uma pessoa bem mais feliz hoje. Deixei pra trás um emprego onde ganhava relativamente bem, mas estava insatisfeita, fui aprender uma nova profissão e isso me abriu os olhos para algo que tinha muita vontade de fazer. Mas, se posso dar um conselho, aqui vai: se profissionalize! Aprender mais sobre o que gostamos, nos torna mais competentes e o mercado nos vê com outros olhos. Vale a pena!”_
 > </p>
 
 &nbsp;
@@ -143,13 +143,13 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -159,5 +159,5 @@ Além do mais, resolveu empreender e iniciou um negócio virtual que tem dado ex
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

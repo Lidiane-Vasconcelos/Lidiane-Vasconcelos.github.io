@@ -14,17 +14,17 @@ Você tem uma opinião sobre isso? Pessoalmente, sempre achei que a sobriedade s
 &nbsp;
 
 <p align="justify">
-  Curiosa que sou, perguntei para as bichas fêmeas navegantes nos bastidores do blog o que elas achavam disso tudo e, vou te contar, isso deu <em>trololó</em>… quer conhecer a opinião dessas mulheres e dar <em>pitacos</em> sobre isso também? Se joga e confere, bonita!
+  Curiosa que sou, perguntei para as bichas fêmeas navegantes nos bastidores do blog o que elas achavam disso tudo e, vou te contar, isso deu _trololó_… quer conhecer a opinião dessas mulheres e dar _pitacos_ sobre isso também? Se joga e confere, bonita!
 </p>
 
 <!--more-->
 
 > <p align="justify">
->   “<em>Respondendo à sua perguntinha, eu não gosto, acho exagero. Se o acessório é bom, bonito e de boa qualidade, não tem necessidade de fazer propaganda da marca. </em><em>As grandes grifes nem precisam dessa propaganda, né não? … rssss</em>” **Marlene Bortolin**
+>   “_Respondendo à sua perguntinha, eu não gosto, acho exagero. Se o acessório é bom, bonito e de boa qualidade, não tem necessidade de fazer propaganda da marca. __As grandes grifes nem precisam dessa propaganda, né não? … rssss_” **Marlene Bortolin**
 > </p>
 
 > <p align="justify">
->   “<em>Bem, não sou fã de ostentar marca, mas não julgo quem faz. Quer usar, usa. Mas isso não tira o mérito da qualidade de certas marcas tradicionais que ligam o símbolo a qualidade como os relógios Cartier, por exemplo. Nem tampouco ligaria em carregar uma Chanel clássica nas mãos com o símbolo, rs!”</em> **Milena Orlando**
+>   “_Bem, não sou fã de ostentar marca, mas não julgo quem faz. Quer usar, usa. Mas isso não tira o mérito da qualidade de certas marcas tradicionais que ligam o símbolo a qualidade como os relógios Cartier, por exemplo. Nem tampouco ligaria em carregar uma Chanel clássica nas mãos com o símbolo, rs!”_ **Milena Orlando**
 > </p>
 
 <p align="center">
@@ -32,19 +32,19 @@ Você tem uma opinião sobre isso? Pessoalmente, sempre achei que a sobriedade s
 </p>
 
 <p align="center">
-  Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  Imagem: **_[stock.xchng](http://www.sxc.hu/) _**
 </p>
 
 > <p align="justify">
->   “<em>Lidi, acredito piamente que etiquetas e logomarcas à vista oferecem uma sensação de segurança em termos de moda. Muitas mulheres sentem-se confiantes ao vestir algo que afirma claramente ao mundo o “bom gosto”, o que para mim é falta de maturidade. Essas coisas a gente demora a aprender. Leva tempo até confiarmos nos próprios instintos. </em><em>Hoje só compro uma roupa ou acessório “de marca” se essa peça refletir algo autêntico a meu respeito; ocasião, adequação, ou seja, independente de quão bem cotada é a marca x ou y, se não me caírem bem, não haverá espaço para essas peças no meu armário. </em><em>Acho que cheguei a um bom termo nesta questão; procuro pensar com honestidade sobre meu estilo, e vou tentando descobrir qual a forma de vestir (independente de marca). </em><em>Marcas de grifes famosas e impróprias para meu visual e estilo de vida em particular, fariam que eu parecesse “fora de sintonia” comigo mesma</em>.” **Yvone | **<a href="http://www.casaspossiveis.blogspot.com.br/" target="_blank">**Casas Possíveis**</a>
+>   “_Lidi, acredito piamente que etiquetas e logomarcas à vista oferecem uma sensação de segurança em termos de moda. Muitas mulheres sentem-se confiantes ao vestir algo que afirma claramente ao mundo o “bom gosto”, o que para mim é falta de maturidade. Essas coisas a gente demora a aprender. Leva tempo até confiarmos nos próprios instintos. __Hoje só compro uma roupa ou acessório “de marca” se essa peça refletir algo autêntico a meu respeito; ocasião, adequação, ou seja, independente de quão bem cotada é a marca x ou y, se não me caírem bem, não haverá espaço para essas peças no meu armário. __Acho que cheguei a um bom termo nesta questão; procuro pensar com honestidade sobre meu estilo, e vou tentando descobrir qual a forma de vestir (independente de marca). __Marcas de grifes famosas e impróprias para meu visual e estilo de vida em particular, fariam que eu parecesse “fora de sintonia” comigo mesma_.” **Yvone | **[**Casas Possíveis**](http://www.casaspossiveis.blogspot.com.br/) 
 > </p>
 
 > <p align="justify">
->   “<em>Lidi&#8230; algumas marcas são tão safadas que a grife aparece no produto todo, tipo as bolsas do Michael Kors. Tem gente achando que usar uma camiseta com a águia da Hollister, ou o felino da Puma, ou o jacaré da Lacoste, está ostentando status. E</em><em>u já acho mais bacana usar uma roupa/sapato que embora não tenha o carimbo da grife, tenha um caimento perfeito e um corte que qualquer pessoa reconheça ali naquela  peça o nome da grife. N</em><em>o caso de óculos, bolsas ou acessórios, uma marca pequena ainda passa, mas o que deve se destacar no produto é o design</em>.” **Lilly | **<a href="http://coisadelilly.wordpress.com/" target="_blank">**Isso é Coisa de Lilly**</a>** & **<a href="http://blogdareforma.wordpress.com/" target="_blank">**Blog da Reforma**</a>
+>   “_Lidi&#8230; algumas marcas são tão safadas que a grife aparece no produto todo, tipo as bolsas do Michael Kors. Tem gente achando que usar uma camiseta com a águia da Hollister, ou o felino da Puma, ou o jacaré da Lacoste, está ostentando status. E__u já acho mais bacana usar uma roupa/sapato que embora não tenha o carimbo da grife, tenha um caimento perfeito e um corte que qualquer pessoa reconheça ali naquela  peça o nome da grife. N__o caso de óculos, bolsas ou acessórios, uma marca pequena ainda passa, mas o que deve se destacar no produto é o design_.” **Lilly | **[**Isso é Coisa de Lilly**](http://coisadelilly.wordpress.com/) ** & **[**Blog da Reforma**](http://blogdareforma.wordpress.com/) 
 > </p>
 
 <p align="justify">
-  Eu não falei que isso deu <em>trololó</em>? Bicha fêmea navegante é assim, gosta de falar o que pensa e manifestar sua opinião sobre tudo. **<span style="font-size: medium;">Que é que anda passando por tua cabeça sobre o assunto? Passa os dedos no teclado e conta nos comentários o que você acha…</span>**
+  Eu não falei que isso deu _trololó_? Bicha fêmea navegante é assim, gosta de falar o que pensa e manifestar sua opinião sobre tudo. **<span style="font-size: medium;">Que é que anda passando por tua cabeça sobre o assunto? Passa os dedos no teclado e conta nos comentários o que você acha…</span>**
 </p>
 
 &nbsp;
@@ -122,7 +122,7 @@ Você tem uma opinião sobre isso? Pessoalmente, sempre achei que a sobriedade s
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -137,13 +137,13 @@ Você tem uma opinião sobre isso? Pessoalmente, sempre achei que a sobriedade s
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

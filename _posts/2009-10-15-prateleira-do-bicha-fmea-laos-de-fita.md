@@ -15,7 +15,7 @@ Sabe como é, _né_? Mulher gosta de olhar as tentações e, de quebra, atentar 
 
 Bolsa, a gente sabe, não dá para ficar com apenas uma. As de festa nem entram nessas contas. Estou falando da velha companheira diária, mas que não precisa (nem deve) deixar de ter algum charme, estilo, personalidade, _frescurinha_, _fofurice_, essas coisas que só a gente entende, _néam_?
 
-Então é assim, queria te mostrar algumas das criações da Rose Sena, arteira que confecciona bolsas muito fofas, bem femininas, e que expõe tudo para a gente ficar babando lá no blog <a href="http://lacosdefitabolsaseacessorios.blogspot.com/" target="_blank">Laços de Fita</a> , e ainda no <a href="http://www.flickr.com/photos/rosebolsas/" target="_blank"><em>Flickr</em></a>.
+Então é assim, queria te mostrar algumas das criações da Rose Sena, arteira que confecciona bolsas muito fofas, bem femininas, e que expõe tudo para a gente ficar babando lá no blog [Laços de Fita](http://lacosdefitabolsaseacessorios.blogspot.com/)  , e ainda no [_Flickr_](http://www.flickr.com/photos/rosebolsas/) .
 
 Quer dar uma espiadinha no que tem na [Prateleira do Bicha Fêmea](http://www.trololodemulher.com.br/category/prateleira-bicha-femea/)? Olha só!
 
@@ -29,4 +29,4 @@ Enfim, para organizar o que for preciso dentro da bolsa querida e amada de cada 
 
 [<img title="3576219048_dd38a138b9_m[1]" style="display:block;float:none;margin-left:auto;margin-right:auto;border-width:0;" height="331" alt="3576219048_dd38a138b9_m[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/3576219048_dd38a138b9_m1_thumb.jpg" width="277" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/3576219048_dd38a138b9_m1.jpg) </p> </p> 
 
-Para conferir preços, disponibilidade, e tudo o mais, sugiro entrar em contato com a moça pelo <a href="http://lacosdefitabolsaseacessorios.blogspot.com/" target="_blank">blog</a> e, se quiser suspirar ainda mais, há uma infinidade de outros produtos no _<a href="http://www.flickr.com/photos/rosebolsas/" target="_blank">Flickr</a>_ da Rose. Desfrute e se encante!
+Para conferir preços, disponibilidade, e tudo o mais, sugiro entrar em contato com a moça pelo [blog](http://lacosdefitabolsaseacessorios.blogspot.com/)  e, se quiser suspirar ainda mais, há uma infinidade de outros produtos no _[Flickr](http://www.flickr.com/photos/rosebolsas/) _ da Rose. Desfrute e se encante!

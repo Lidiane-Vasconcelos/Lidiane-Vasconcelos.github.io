@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  Imagem de fundo: <a href="http://foter.com/author/3dbe05" target="_blank">www.tOrange.biz</a> on <a href="http://foter.com/re/09e56a" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem de fundo: [www.tOrange.biz](http://foter.com/author/3dbe05)  on [Foter.com](http://foter.com/re/09e56a)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) 
 </p>
 
 <p align="justify">
-  A minha principal ferramenta de comunicação com quem curte o Trololó de Mulher, sobretudo com quem participou do **<a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>**, é o e-mail. Com essa rede de mulheres mais que bonitas eu compartilho informação sobre como melhorar a vida em vários aspectos, em especial no que diz respeito a produtividade, organização e gestão do tempo, e bem viver. Continuo firme e forte na crença de que informação salva! Quer fazer parte dessa rede de compartilhamento de aprendizados?
+  A minha principal ferramenta de comunicação com quem curte o Trololó de Mulher, sobretudo com quem participou do **[Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) **, é o e-mail. Com essa rede de mulheres mais que bonitas eu compartilho informação sobre como melhorar a vida em vários aspectos, em especial no que diz respeito a produtividade, organização e gestão do tempo, e bem viver. Continuo firme e forte na crença de que informação salva! Quer fazer parte dessa rede de compartilhamento de aprendizados?
 </p>
 
 <p align="center">

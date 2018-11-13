@@ -19,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Apesar de serem chiques, as bermudas de alfaiataria são extremamente fáceis de serem combinadas e <b>podem ser usadas tanto em ambientes formais quanto informais</b>. O mais importante é a forma como será combinada.</em>
+  “_Apesar de serem chiques, as bermudas de alfaiataria são extremamente fáceis de serem combinadas e <b>podem ser usadas tanto em ambientes formais quanto informais</b>. O mais importante é a forma como será combinada._
 </p>
 
 <p align="justify">
-  <em>Em ambientes formais, é preciso ter cuidado com o comprimento da peça, evitar camisas com transparências, bolsas e sapatos muito chamativos ou coloridos. <b>O uso de calçados e bolsas de cores neutras é o ideal</b>. </em>
+  _Em ambientes formais, é preciso ter cuidado com o comprimento da peça, evitar camisas com transparências, bolsas e sapatos muito chamativos ou coloridos. <b>O uso de calçados e bolsas de cores neutras é o ideal</b>. _
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Via Pinterest</em>
+  _Via Pinterest_
 </p>
 
 <p align="justify">
-  <em>Para dar um toque a mais de feminilidade, invista no salto alto, em acessórios pequenos, discretos e delicados. Um colar de pérola, por exemplo, é uma ótima opção para compor uma produção mais feminina.</em>
+  _Para dar um toque a mais de feminilidade, invista no salto alto, em acessórios pequenos, discretos e delicados. Um colar de pérola, por exemplo, é uma ótima opção para compor uma produção mais feminina._
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Via Pinterest</em>
+  _Via Pinterest_
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Via </em><a href="http://www.glam4you.com/look-do-dia-bordado-e-short-cintura-alta/"><em>Glam for You</em></a>
+  _Via _<a href="http://www.glam4you.com/look-do-dia-bordado-e-short-cintura-alta/">_Glam for You_</a>
 </p>
 
 <p align="justify">
-  <em>Caso você queira manter a elegância e a simplicidade ao mesmo tempo, invista na composição com camisas fechadas e rasteirinhas de pedras brilhantes. </em>
+  _Caso você queira manter a elegância e a simplicidade ao mesmo tempo, invista na composição com camisas fechadas e rasteirinhas de pedras brilhantes. _
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Via </em><a href="http://www.mackenziehoran.com/2016/06/13/outfit-striped-off-the-shoulder-top-and-gold-pineapple-sandals/"><em>Design Darling</em></a>
+  _Via _<a href="http://www.mackenziehoran.com/2016/06/13/outfit-striped-off-the-shoulder-top-and-gold-pineapple-sandals/">_Design Darling_</a>
 </p>
 
 <p align="center">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Via Google Imagens</em>
+  _Via Google Imagens_
 </p>
 
 <p align="justify">
-  <em>Para quebrar o excesso de seriedade vale a dica: invista na regata soltinha, com um cinto fino, rasteirinha ou sapatilha.</em>
+  _Para quebrar o excesso de seriedade vale a dica: invista na regata soltinha, com um cinto fino, rasteirinha ou sapatilha._
 </p>
 
 <p align="center">
@@ -87,19 +87,19 @@ categories:
 </p>
 
 <p align="center">
-  <em>Via </em><a href="http://www.glam4you.com/dica-de-look-com-tons-neutros-para-o-dia-a-dia/"><em>Glam for You</em></a>
+  _Via _<a href="http://www.glam4you.com/dica-de-look-com-tons-neutros-para-o-dia-a-dia/">_Glam for You_</a>
 </p>
 
 <p align="justify">
-  <em>Se você gosta de usar suas peças de uma forma mais criativa, saiba que é possível fazer isso com as bermudas de alfaiataria. Você pode ousar nas cores. Pode ser uma blusa, um colar, um blazer ou camisa por cima. Ou pode investir no hi – lo. A bermuda com regata e um blazer poderoso de paetês ou uma blusa brilhosa, ou um sapato de glitter, dentre outras opções. O importante é usar a criatividade com bom senso e a favor do seu estilo.</em>
+  _Se você gosta de usar suas peças de uma forma mais criativa, saiba que é possível fazer isso com as bermudas de alfaiataria. Você pode ousar nas cores. Pode ser uma blusa, um colar, um blazer ou camisa por cima. Ou pode investir no hi – lo. A bermuda com regata e um blazer poderoso de paetês ou uma blusa brilhosa, ou um sapato de glitter, dentre outras opções. O importante é usar a criatividade com bom senso e a favor do seu estilo._
 </p>
 
 <p align="justify">
-  <em>No visual mais relax, como um passeio descontraído no domingo à tarde, por exemplo, use com camisetinha e acessórios mais descontraídos como uma rasteirinha e uma bolsa saco.</em>
+  _No visual mais relax, como um passeio descontraído no domingo à tarde, por exemplo, use com camisetinha e acessórios mais descontraídos como uma rasteirinha e uma bolsa saco._
 </p>
 
 <p align="justify">
-  <em>Enfim, é uma peça que vale a pena ter no armário. É atemporal e combina conforto com versatilidade. É um ótimo investimento</em>!”
+  _Enfim, é uma peça que vale a pena ter no armário. É atemporal e combina conforto com versatilidade. É um ótimo investimento_!”
 </p>
 
 <p align="center">
@@ -107,15 +107,15 @@ categories:
 </p>
 
 <p align="justify">
-  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail <a href="mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal" target="_blank">Clique aqui, curta e acompanhe</a>!
+  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail [Clique aqui, curta e acompanhe](mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
+  [<img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

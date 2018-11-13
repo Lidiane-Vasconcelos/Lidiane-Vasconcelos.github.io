@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagem: [freeimages](http://www.freeimages.com/) 
 </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes, e te direi se és saudável… ou não.**</a>
+  [**Me diz o que comes, e te direi se és saudável… ou não.**](http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/) 
 </p>
 
 <p align="left">
@@ -64,11 +64,11 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage (no molho caseiro)**</a>
+  [**Canelone de berinjela + queijo cottage (no molho caseiro)**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank">**Arroz integral (fora do comum) + filé de frango (no molho delícia)**</a>
+  [**Arroz integral (fora do comum) + filé de frango (no molho delícia)**](http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/) 
 </p>
 
 <p align="left">
@@ -76,7 +76,7 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank">**Quanto você já bebeu de água hoje?**</a>
+  [**Quanto você já bebeu de água hoje?**](http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/) 
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 > <p align="justify">
->   Uma maquiagem leve e um look de inverno me fazem sentir muito bem, mas ultimamente também reparo que quando minha alimentação está melhor, ingerindo mais fibras, minha pele fica melhor (tenho um histórico de pele acneica) e me sinto mais bonita. (aí penso: preciso comer melhor sempre rs).” **Cynthia Le Bourlegat, blogueira | <a href="http://www.falamae.com/" target="_blank">Fala, mãe!</a>, 34 anos.**
+>   Uma maquiagem leve e um look de inverno me fazem sentir muito bem, mas ultimamente também reparo que quando minha alimentação está melhor, ingerindo mais fibras, minha pele fica melhor (tenho um histórico de pele acneica) e me sinto mais bonita. (aí penso: preciso comer melhor sempre rs).” **Cynthia Le Bourlegat, blogueira | [Fala, mãe!](http://www.falamae.com/) , 34 anos.**
 > </p>
 
 <p align="justify">
@@ -100,7 +100,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

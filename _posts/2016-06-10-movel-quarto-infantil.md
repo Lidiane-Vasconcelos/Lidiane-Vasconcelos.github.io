@@ -19,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/" target="_blank">**Decoração do quarto infantil: 4 soluções de marcenaria para você.**</a>
+  [**Decoração do quarto infantil: 4 soluções de marcenaria para você.**](http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank">**Quarto infantil decorado com afetividade.**</a>
+  [**Quarto infantil decorado com afetividade.**](http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/) 
 </p>
 
 <p align="justify">
-  Esses móveis, na minha opinião, são incríveis porque, ao passo que são peças simples, básicas e limpas visualmente, compondo com caixas organizadoras de cores variadas, ou texturas diferentes, você consegue um resultado bonito, eficiente e funcional. E olhe que as caixas nem precisam ser caras, <em>viu</em>? Aposto que você quer ver ideias que possam te inspirar a decorar e organizar melhor o quarto da cria, certo? Vem comigo pois tenho 4 sugestões para compartilhar com você.
+  Esses móveis, na minha opinião, são incríveis porque, ao passo que são peças simples, básicas e limpas visualmente, compondo com caixas organizadoras de cores variadas, ou texturas diferentes, você consegue um resultado bonito, eficiente e funcional. E olhe que as caixas nem precisam ser caras, _viu_? Aposto que você quer ver ideias que possam te inspirar a decorar e organizar melhor o quarto da cria, certo? Vem comigo pois tenho 4 sugestões para compartilhar com você.
 </p>
 
 <p align="justify">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização no quarto infantil: você não vai copiar?**</a>
+  [**4 soluções de organização no quarto infantil: você não vai copiar?**](http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizar-quarto-infantil/" target="_blank">**3 ideias estratégicas para organizar o quarto infantil: copie!**</a>
+  [**3 ideias estratégicas para organizar o quarto infantil: copie!**](http://www.decoracaodacasa.com/organizar-quarto-infantil/) 
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank">**Como brincar com as cores na decoração do quarto infantil.**</a>
+  [**Como brincar com as cores na decoração do quarto infantil.**](http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/) 
 </p>
 
 <p align="center">
@@ -99,11 +99,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.homedit.com/" target="_blank">homedit</a>
+  Imagens: [homedit](http://www.homedit.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

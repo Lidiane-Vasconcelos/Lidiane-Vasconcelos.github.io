@@ -11,11 +11,11 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p style="text-align: justify;">
-  Você é apaixonada pela cozinha e tem talento evidente para produzir algum tipo de delícia especial? Já imaginou colocar essa <em>gostosura</em> numa linda embalagem e vendê-la para quem quiser se deliciar com ela? Isso tudo parece um sonho?
+  Você é apaixonada pela cozinha e tem talento evidente para produzir algum tipo de delícia especial? Já imaginou colocar essa _gostosura_ numa linda embalagem e vendê-la para quem quiser se deliciar com ela? Isso tudo parece um sonho?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Há quem já tenha feito disso uma realidade… conheça a linda e talentosa **Roberta Dalsenter**, editora do blog **<a href="http://docesabobrinhas.com/" target="_blank">Doces Abobrinhas</a>**, e uma das tantas mulheres por aí afora que fizeram do amor pelo forno e fogão uma fonte de renda. Ah…claro, inspire-se!
+  Há quem já tenha feito disso uma realidade… conheça a linda e talentosa **Roberta Dalsenter**, editora do blog **[Doces Abobrinhas](http://docesabobrinhas.com/) **, e uma das tantas mulheres por aí afora que fizeram do amor pelo forno e fogão uma fonte de renda. Ah…claro, inspire-se!
 </p>
 
 &nbsp;
@@ -27,21 +27,21 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A história da Roberta com as delícias culinárias teve um início que deve ser bem comum entre tantas outras mulheres que gostam das panelas: primeiro as pessoas mais próximas é que notam esse talento. A moça dos <em>cupcakes</em> percebeu que seus bolinhos poderiam se tornar uma fonte de renda exatamente assim, ou seja, “<em>quando todas as amigas começaram a pedir muito e de novo e de novo, para a mãe, para a tia, para a outra amiga &#8230; “</em>, explica.
+  A história da Roberta com as delícias culinárias teve um início que deve ser bem comum entre tantas outras mulheres que gostam das panelas: primeiro as pessoas mais próximas é que notam esse talento. A moça dos _cupcakes_ percebeu que seus bolinhos poderiam se tornar uma fonte de renda exatamente assim, ou seja, “_quando todas as amigas começaram a pedir muito e de novo e de novo, para a mãe, para a tia, para a outra amiga &#8230; “_, explica.
 </p>
 
 <p align="justify">
-  Daí para dar o primeiro passo rumo a concretização do seu sonho foi só querer e agir. Nesse momento, ela já começava a perceber, também, a força da blogosfera na divulgação do seu trabalho: “<em>criei o blog para compartilhar os cupcakes que eu produzia, há 3 anos atrás não se falavam muito deles e sempre gostei de compartilhar novidades, então conforme fazia um post novo, recebia um email de uma nova encomenda</em>”.
+  Daí para dar o primeiro passo rumo a concretização do seu sonho foi só querer e agir. Nesse momento, ela já começava a perceber, também, a força da blogosfera na divulgação do seu trabalho: “_criei o blog para compartilhar os cupcakes que eu produzia, há 3 anos atrás não se falavam muito deles e sempre gostei de compartilhar novidades, então conforme fazia um post novo, recebia um email de uma nova encomenda_”.
 </p>
 
 <p align="justify">
-  O blog tem tido um papel tão importante na publicidade de seus bolinhos que as vendas são feitas exclusivamente por ele e, segundo a Roberta, a taxa de conversão de vendas é de 99%. Isso prova, mais do que nunca, o quanto é importante estar bem perto do público alvo quando se quer vender um produto ou serviço. A propaganda do tipo “boca a boca”  tem sido mesmo a alma do negócio para ela: “ <em>as pessoas me procuram via email ou por indicação quando provou um deles em alguma festa”.</em>
+  O blog tem tido um papel tão importante na publicidade de seus bolinhos que as vendas são feitas exclusivamente por ele e, segundo a Roberta, a taxa de conversão de vendas é de 99%. Isso prova, mais do que nunca, o quanto é importante estar bem perto do público alvo quando se quer vender um produto ou serviço. A propaganda do tipo “boca a boca”  tem sido mesmo a alma do negócio para ela: “ _as pessoas me procuram via email ou por indicação quando provou um deles em alguma festa”._
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas.jpg"><img class="alignnone size-full wp-image-7000" title="cupcakes - doces abobrinhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas.jpg" alt="" width="600" height="401" /></a><br /> <em>Cupcakes Doces Abobrinhas para evento Le Lis Blanc em Blumenau.</em>
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas.jpg"><img class="alignnone size-full wp-image-7000" title="cupcakes - doces abobrinhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/cupcakes-doces-abobrinhas.jpg" alt="" width="600" height="401" /></a><br /> _Cupcakes Doces Abobrinhas para evento Le Lis Blanc em Blumenau._
 </p>
 
 &nbsp;
@@ -63,7 +63,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“<em>São várias, a primeira delas é que trabalhar com algo perecível como alimentos é algo que requer muito cuidado na higienização e conservação. A segunda e mais importante de todas elas é que mudo muito de idéia e preciso me firmar de que quero isso por mais tempo e então passar credibilidade para meu marido me financiar e abrir uma padaria conceito, com um clima único, cheia de rococó e bossa. Décor, estilo, ambientação e um menu de confeitaria e patisserie incríveis. Já tive uma delicatessen em Blumenau e minha dificuldade está em administrar tudo isso: empresa, familia, educação dos filhos, amigos e encontrar as pessoas certas para estarem ao meu lado. Sozinha não fazemos nada</em>!”**
+>   **“_São várias, a primeira delas é que trabalhar com algo perecível como alimentos é algo que requer muito cuidado na higienização e conservação. A segunda e mais importante de todas elas é que mudo muito de idéia e preciso me firmar de que quero isso por mais tempo e então passar credibilidade para meu marido me financiar e abrir uma padaria conceito, com um clima único, cheia de rococó e bossa. Décor, estilo, ambientação e um menu de confeitaria e patisserie incríveis. Já tive uma delicatessen em Blumenau e minha dificuldade está em administrar tudo isso: empresa, familia, educação dos filhos, amigos e encontrar as pessoas certas para estarem ao meu lado. Sozinha não fazemos nada_!”**
 > </p>
 
 &nbsp;
@@ -75,7 +75,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “**<em>Sim, sonho que eles cheguem fresquinhos e fofinhos em todos momentos doces que alguém deseje ter. Quero que eles virem marca e referência em minha região</em>.”**
+>   “**_Sim, sonho que eles cheguem fresquinhos e fofinhos em todos momentos doces que alguém deseje ter. Quero que eles virem marca e referência em minha região_.”**
 > </p>
 
 &nbsp;
@@ -91,5 +91,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

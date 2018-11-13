@@ -15,7 +15,7 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="justify">
-  Dentre bichas fêmeas navegantes, e bichos machos também, houve uma pessoa que foi mais participativa. Essa pessoa vai ganhar um presente da loja virtual **<a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a>** e, por isso, tenho certeza que ela vai ficar mais bonita. Espia quem ganhou e qual presente ela vai receber em casa… mas você também pode ganhar, <em>hein</em>?
+  Dentre bichas fêmeas navegantes, e bichos machos também, houve uma pessoa que foi mais participativa. Essa pessoa vai ganhar um presente da loja virtual **<a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a>** e, por isso, tenho certeza que ela vai ficar mais bonita. Espia quem ganhou e qual presente ela vai receber em casa… mas você também pode ganhar, _hein_?
 </p>
 
 <!--more-->
@@ -67,11 +67,11 @@ Quem **mais comenta**, ganha presentinho de cara! Explico: durante o mês de **J
 &nbsp;
 
 <p align="justify">
-  Todos esses mimos são da loja virtual **<a href="http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a>**, que faz parte de um site completo que busca informar sobre **cosméticos sustentáveis, orgânicos e naturais**. É tudo o que a gente precisa num lugar só: **<a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/" target="_blank">informação através do blog</a>** e <a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">**produtos legais através da loja virtual!**</a>
+  Todos esses mimos são da loja virtual **[informação através do blog](http://www.trololodemulher.com.br/2012/06/21/cosmetica-sustentavel/">Cosmética Sustentável</a>**, que faz parte de um site completo que busca informar sobre **cosméticos sustentáveis, orgânicos e naturais**. É tudo o que a gente precisa num lugar só: **<a href="http://www.cosmeticasustentavel.com.br/loja/index.php?route=extras/blog/) ** e [**produtos legais através da loja virtual!**](http://www.cosmeticasustentavel.com.br/loja/) 
 </p>
 
 <p align="justify">
-  Quer ganhar o sabonete esfoliante? Visite a loja **Cosmética Sustentável** **<a href="http://www.cosmeticasustentavel.com.br/loja/" target="_blank">clicando aqui</a>**, delicie-se com as novidades sustentáveis de **beleza** e pense:
+  Quer ganhar o sabonete esfoliante? Visite a loja **Cosmética Sustentável** **[clicando aqui](http://www.cosmeticasustentavel.com.br/loja/) **, delicie-se com as novidades sustentáveis de **beleza** e pense:
 </p>
 
 <p align="center">

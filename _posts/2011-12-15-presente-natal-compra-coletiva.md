@@ -26,7 +26,7 @@ Ei, bonita! Tenho uma dica das boas pra você resolver essa dúvida que paira so
 &nbsp;
 
 <p align="justify">
-  Você conhece o **<a href="http://www.groupon.com.br/" target="_blank">Groupon</a>**? Acho bem provável que você tenha ouvido falar nessa empresa, porque a presença dela nesse segmento tem sido bastante notada, não é? Eles trabalham oferecendo **cupons de descontos em grandes cidades do Brasil através do site.  Para isso, eles usam o sistema de compras coletivas, o que deixa os valores de produtos, serviços e tickets com um ótimo desconto.**
+  Você conhece o **[Groupon](http://www.groupon.com.br/) **? Acho bem provável que você tenha ouvido falar nessa empresa, porque a presença dela nesse segmento tem sido bastante notada, não é? Eles trabalham oferecendo **cupons de descontos em grandes cidades do Brasil através do site.  Para isso, eles usam o sistema de compras coletivas, o que deixa os valores de produtos, serviços e tickets com um ótimo desconto.**
 </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ Ei, bonita! Tenho uma dica das boas pra você resolver essa dúvida que paira so
 </p>
 
 <p align="center">
-  Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  Imagem: **[stock.xchng](http://www.sxc.hu/) **
 </p>
 
 &nbsp;
@@ -72,5 +72,5 @@ Ei, bonita! Tenho uma dica das boas pra você resolver essa dúvida que paira so
 </p>
 
 <p align="justify">
-  Gostou da dica? Então aproveita e dá uma **<a href="http://www.groupon.com.br/" target="_blank">clicada bem aqui</a>**, assim você dá uma passeada pelo site, vê o que há de ofertas e se algo te agrada, e constata que, além de tudo, o **site oferece uma navegabilidade bem simples**. Nada de complicações… como a vida deve ser!
+  Gostou da dica? Então aproveita e dá uma **[clicada bem aqui](http://www.groupon.com.br/) **, assim você dá uma passeada pelo site, vê o que há de ofertas e se algo te agrada, e constata que, além de tudo, o **site oferece uma navegabilidade bem simples**. Nada de complicações… como a vida deve ser!
 </p>

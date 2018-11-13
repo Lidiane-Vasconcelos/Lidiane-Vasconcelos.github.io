@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p style="text-align: justify;">
-  Estamos no comecinho de Abril e quero te mostrar uma seleção de produtos de nossos parceiros comerciais. Tem fofuras para os pequenos, tem lindezas para a casa e tem mimo pra você, pra pincelar de <em>bossa</em> o seu dia a dia. É tudo lindo, é tudo útil e tem pitadas de inspiração. Confere comigo!
+  Estamos no comecinho de Abril e quero te mostrar uma seleção de produtos de nossos parceiros comerciais. Tem fofuras para os pequenos, tem lindezas para a casa e tem mimo pra você, pra pincelar de _bossa_ o seu dia a dia. É tudo lindo, é tudo útil e tem pitadas de inspiração. Confere comigo!
 </p>
 
 &nbsp;
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 &nbsp;
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Delicadeza de lembrança de batizado produzida com carinho pela <a href="http://dalulojinha.divitae.com.br/home" target="_blank">DaLu Lojinha</a>, que também prepara forminhas, tags, caixas personalizadas e vários outros mimos para a festa da criançada.
+  Delicadeza de lembrança de batizado produzida com carinho pela [DaLu Lojinha](http://dalulojinha.divitae.com.br/home) , que também prepara forminhas, tags, caixas personalizadas e vários outros mimos para a festa da criançada.
 </p>
 
 <p align="CENTER">
@@ -40,7 +40,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  ´Pra mesa de trabalho ficar cheia de bossa, olha a ideia da <a href="http://vitrine.elo7.com.br/carlloscriacoes" target="_blank">Carllos Criações</a>: Mini Pallet com bloco personalizado. Este, com os ARCOS DA LAPA, está à venda no site. Não é uma graça?!
+  ´Pra mesa de trabalho ficar cheia de bossa, olha a ideia da [Carllos Criações](http://vitrine.elo7.com.br/carlloscriacoes) : Mini Pallet com bloco personalizado. Este, com os ARCOS DA LAPA, está à venda no site. Não é uma graça?!
 </p>
 
 <p align="CENTER">
@@ -50,7 +50,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Há lindos pendentes em promoção na <a href="http://www.euromabe.com.br/" target="_blank">Euromabe</a>, como o que você vê na imagem. A bossa que sua casa precisa, pelo preço que seu bolso agradece. Fica a dica!
+  Há lindos pendentes em promoção na [Euromabe](http://www.euromabe.com.br/) , como o que você vê na imagem. A bossa que sua casa precisa, pelo preço que seu bolso agradece. Fica a dica!
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  <a href="http://www.elo7.com.br/detalhesemfoco" target="_blank">Detalhes em Foco</a> sempre arrasando nos detalhes cheios de fofurice, oh: zebrinhas pra encantar os pequenos.
+  [Detalhes em Foco](http://www.elo7.com.br/detalhesemfoco)  sempre arrasando nos detalhes cheios de fofurice, oh: zebrinhas pra encantar os pequenos.
 </p>
 
 <p align="CENTER">
@@ -72,7 +72,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  <em>Ownnnn</em>&#8230; que lindeza, gente! A sunguinha de tubarão que este pequeno lindinho está usado é da <a href="http://www.bebecotton.com/" target="_blank">Bebê Cotton</a>. Mamães de meninos: fica a dica.
+  _Ownnnn_&#8230; que lindeza, gente! A sunguinha de tubarão que este pequeno lindinho está usado é da [Bebê Cotton](http://www.bebecotton.com/) . Mamães de meninos: fica a dica.
 </p>
 
 &nbsp;
@@ -84,7 +84,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Daquelas peças que decoram um cantinho da casa, e tiram um sorriso de contentamento. Deixe pertinho dos olhos, que a inspiração chega mais rápido ao coração. Pôster do amor via <a href="http://www.elo7.com.br/vicapracasa" target="_blank">Studio Vica</a>.
+  Daquelas peças que decoram um cantinho da casa, e tiram um sorriso de contentamento. Deixe pertinho dos olhos, que a inspiração chega mais rápido ao coração. Pôster do amor via [Studio Vica](http://www.elo7.com.br/vicapracasa) .
 </p>
 
 <p align="CENTER">
@@ -94,9 +94,9 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  ´Pra decorar a parede, juntos em composição (acho lindinho!) ou aquele cantinho especial (assim, encostadinho junto de um vasinho com flor): bastidores cheios de bossa da <a href="http://www.elo7.com.br/caixotedosmilagres" target="_blank">Caixote dos Milagres</a>. Pra viver no amor.
+  ´Pra decorar a parede, juntos em composição (acho lindinho!) ou aquele cantinho especial (assim, encostadinho junto de um vasinho com flor): bastidores cheios de bossa da [Caixote dos Milagres](http://www.elo7.com.br/caixotedosmilagres) . Pra viver no amor.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

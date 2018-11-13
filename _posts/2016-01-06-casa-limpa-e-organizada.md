@@ -10,11 +10,11 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Eu não tenho nada contra o uso de mão de obra contratada para limpar a casa. Longe de mim! Já usei bastante, sobretudo quando estava com um barrigão de Artur, e em seguida, quando ele era bem pequeno. Antes disso, não havia usado. Agora, com ele mais crescido, também optei por abrir mão desses serviços. Gostei bastante da experiência, mas devo confessar que gosto de cuidar da minha casa, eu mesma. Isso não significa, contudo, que passar o dia inteiro envolvida com esse tipo de atividade faça a minha cabeça. Não! Tenho vários outros interesses na vida (por exemplo, cuidar deste blog e dos outros que tenho – <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a> e <a href="http://www.belezacorpoecia.com/" target="_blank">BelezaCorpo&Cia</a>), além de cuidar de mim, do meu filho e do casamento.
+  Eu não tenho nada contra o uso de mão de obra contratada para limpar a casa. Longe de mim! Já usei bastante, sobretudo quando estava com um barrigão de Artur, e em seguida, quando ele era bem pequeno. Antes disso, não havia usado. Agora, com ele mais crescido, também optei por abrir mão desses serviços. Gostei bastante da experiência, mas devo confessar que gosto de cuidar da minha casa, eu mesma. Isso não significa, contudo, que passar o dia inteiro envolvida com esse tipo de atividade faça a minha cabeça. Não! Tenho vários outros interesses na vida (por exemplo, cuidar deste blog e dos outros que tenho – [Decoração da Casa](http://www.decoracaodacasa.com/)  e [BelezaCorpo&Cia](http://www.belezacorpoecia.com/) ), além de cuidar de mim, do meu filho e do casamento.
 </p>
 
 <p align="justify">
-  Ninguém merece passar a vida cuidando da casa, <em>néam</em>? Justamente por isso, tenho bastante interesse em aplicar dicas e ideias que facilitem esse trabalho de deixar a **casa limpa e organizada** no dia a dia &#8211; sem neuras! &#8211; em menos tempo, e com o mínimo de esforço. Você é das minhas e está a fim de conhecer novas ideias e estratégias nesse sentido também? Vem comigo!
+  Ninguém merece passar a vida cuidando da casa, _néam_? Justamente por isso, tenho bastante interesse em aplicar dicas e ideias que facilitem esse trabalho de deixar a **casa limpa e organizada** no dia a dia &#8211; sem neuras! &#8211; em menos tempo, e com o mínimo de esforço. Você é das minhas e está a fim de conhecer novas ideias e estratégias nesse sentido também? Vem comigo!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  **<em>Trocar roupa de cama/mesa/banho, lavar roupas, limpar fogão, limpar vaso + pia do banheiro, passar roupas, limpar objetos + superfícies e  lavar o banheiro (limpeza completa)</em>** são atividades que não precisam ser feitas, necessariamente, todos os dias. Então, fiz a distribuição delas pelos dias da semana.
+  **_Trocar roupa de cama/mesa/banho, lavar roupas, limpar fogão, limpar vaso + pia do banheiro, passar roupas, limpar objetos + superfícies e  lavar o banheiro (limpeza completa)_** são atividades que não precisam ser feitas, necessariamente, todos os dias. Então, fiz a distribuição delas pelos dias da semana.
 </p>
 
 <p align="justify">
-  **<em>Aspirar sob os móveis e os estofados, trocar capas de almofadas, trocar colcha de cama, limpar os vidros e limpar geladeira + micro</em>** são atividades que podem ter um espaçamento de tempo um pouco maior, então fiz a distribuição dessas necessidades ao longo do mês.
+  **_Aspirar sob os móveis e os estofados, trocar capas de almofadas, trocar colcha de cama, limpar os vidros e limpar geladeira + micro_** são atividades que podem ter um espaçamento de tempo um pouco maior, então fiz a distribuição dessas necessidades ao longo do mês.
 </p>
 
 <p align="justify">
@@ -46,15 +46,15 @@ categories:
 </p>
 
 <p align="justify">
-  Ações como **<em>fazer a cama, manter cada coisa em seu lugar, lavar louça, jogar o lixo e limpar o chão</em>**, **<span style="color: #c0504d;"><em>na minha casa</em></span>**, precisam ser feitas todos os dias. Chamei a sua atenção para o “na minha casa” para que você faça esse exercício de listar as atividades diárias, semanais, quinzenais, mensais ou semestrais de acordo com sua realidade e de sua família. E lembre-se: o que é adequado pra mim, pode não ser pra você, e tudo bem!
+  Ações como **_fazer a cama, manter cada coisa em seu lugar, lavar louça, jogar o lixo e limpar o chão_**, **<span style="color: #c0504d;">_na minha casa_</span>**, precisam ser feitas todos os dias. Chamei a sua atenção para o “na minha casa” para que você faça esse exercício de listar as atividades diárias, semanais, quinzenais, mensais ou semestrais de acordo com sua realidade e de sua família. E lembre-se: o que é adequado pra mim, pode não ser pra você, e tudo bem!
 </p>
 
 <p align="justify">
-  3 – No dia a dia, procure focar um cômodo por vez. Se você faz um pouquinho no quarto, depois vai para o banheiro, desvia a atenção para a cozinha, e atende um pouquinho a sala… a casa continuará com o aspecto de caos, porque nada foi feito direito. Calma! Trabalhe com foco e ordem. Escolha um cômodo para começar a organizar e vá para outro quando terminá-lo. Eu começo pelo quarto e, sempre, sempre, <a href="http://www.decoracaodacasa.com/fazer-a-cama/" target="_blank">fazer a cama</a> antes de qualquer coisa para mim é primordial. A sensação de caos cessa no momento em que a cama é feita, e eu me sinto muito motivada para seguir com a organização do resto do cômodo, e em seguida da casa, a partir daí.
+  3 – No dia a dia, procure focar um cômodo por vez. Se você faz um pouquinho no quarto, depois vai para o banheiro, desvia a atenção para a cozinha, e atende um pouquinho a sala… a casa continuará com o aspecto de caos, porque nada foi feito direito. Calma! Trabalhe com foco e ordem. Escolha um cômodo para começar a organizar e vá para outro quando terminá-lo. Eu começo pelo quarto e, sempre, sempre, [fazer a cama](http://www.decoracaodacasa.com/fazer-a-cama/)  antes de qualquer coisa para mim é primordial. A sensação de caos cessa no momento em que a cama é feita, e eu me sinto muito motivada para seguir com a organização do resto do cômodo, e em seguida da casa, a partir daí.
 </p>
 
 <p align="justify">
-  4 – Com a casa devidamente organizada, isto é, com cada coisa em seu lugar, a sensação de limpeza é quase completa, isso sem nem ter dado início a esse trabalho propriamente dito. Portanto, organize e, somente depois, limpe. Aqui vale um alerta: se colocar ordem na casa é algo que toma tempo demais, então é preciso avaliar se sua casa não está cheia de tralhas e bagunça generalizada. <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">Como evitar o acúmulo e organizar o lar? Veja dicas práticas</a> e facilite sua vida e de sua família.
+  4 – Com a casa devidamente organizada, isto é, com cada coisa em seu lugar, a sensação de limpeza é quase completa, isso sem nem ter dado início a esse trabalho propriamente dito. Portanto, organize e, somente depois, limpe. Aqui vale um alerta: se colocar ordem na casa é algo que toma tempo demais, então é preciso avaliar se sua casa não está cheia de tralhas e bagunça generalizada. [Como evitar o acúmulo e organizar o lar? Veja dicas práticas](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/)  e facilite sua vida e de sua família.
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  6 – Conforme for passando pelos cômodos durante o dia, e detectar algo por ali que pertence a outro espaço da casa, já leve com você e devolva ao lugar correto. Adquira esse hábito. Ok, essa não é a hora do dia dedicada a organização, mas se você já está passando por ali, por que não levar o objeto junto? Veja também: <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">18 hábitos da pessoa organizada na arrumação da casa</a>.
+  6 – Conforme for passando pelos cômodos durante o dia, e detectar algo por ali que pertence a outro espaço da casa, já leve com você e devolva ao lugar correto. Adquira esse hábito. Ok, essa não é a hora do dia dedicada a organização, mas se você já está passando por ali, por que não levar o objeto junto? Veja também: [18 hábitos da pessoa organizada na arrumação da casa](http://www.decoracaodacasa.com/organizacao-da-casa/) .
 </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

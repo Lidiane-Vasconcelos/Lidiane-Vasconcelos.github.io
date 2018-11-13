@@ -11,17 +11,17 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Que mulher não gosta de alguma **<em>maquiagem</em>**, <em>hã</em>? Há quem goste de usar pouca, para realçar alguns pontos, e este é o meu caso. Mas há as que capricham na<em> make</em>, e ficam ainda mais lindas. Sendo uma coisa ou outra, todas precisamos manter a **<em>organização para facilitar o dia a dia</em>**, não é?
+  Que mulher não gosta de alguma **_maquiagem_**, _hã_? Há quem goste de usar pouca, para realçar alguns pontos, e este é o meu caso. Mas há as que capricham na_ make_, e ficam ainda mais lindas. Sendo uma coisa ou outra, todas precisamos manter a **_organização para facilitar o dia a dia_**, não é?
 </p>
 
 <p style="text-align: justify;">
-  Colocar tudo numa grande <em>nécessaire</em> remete a um único jeito de encontrar os itens: jogando tudo sobre a cama. <em>Pelamor</em>! Que desespero! A sensação não é a de caos?!
+  Colocar tudo numa grande _nécessaire_ remete a um único jeito de encontrar os itens: jogando tudo sobre a cama. _Pelamor_! Que desespero! A sensação não é a de caos?!
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  E se você fizesse tudo de forma diferente? Será que não existe um jeito melhor? As dicas a seguir sugerem uma maneira de organizar sua maquiagem de modo que seja fácil localizá-la na hora da produção. Isso pode fazer uma diferença enorme poupando seu tempo antes de sair de casa, e a paciência de quem está te esperando na sala… <em>cof cof cof</em>…
+  E se você fizesse tudo de forma diferente? Será que não existe um jeito melhor? As dicas a seguir sugerem uma maneira de organizar sua maquiagem de modo que seja fácil localizá-la na hora da produção. Isso pode fazer uma diferença enorme poupando seu tempo antes de sair de casa, e a paciência de quem está te esperando na sala… _cof cof cof_…
 </p>
 
 <p style="text-align: justify;">
@@ -33,35 +33,35 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  1 – **<em>Jogue tudo sobre a cama</em>** e esvazie essa <em>superultramegagrande</em> <em>nécessaire</em> que você tem;
+  1 – **_Jogue tudo sobre a cama_** e esvazie essa _superultramegagrande_ _nécessaire_ que você tem;
 </p>
 
 <p style="text-align: justify;">
-  2 – **<em>Retire</em>** do seu montante de maquiagens o que **<em>está vencido ou algum item quebrado</em>**. Lembre-se de sempre **<em>anotar o vencimento de cada item</em>**, hein? Se eles constam apenas na embalagem, **<em>a dica é você anotar em algum lugar</em>**. Eu, que **<em>sou adepta de agendas, costumo anotar esse tipo de informação nelas</em>**. Certamente você encontrará sua melhor forma. Em **<em>média, o prazo de validade dos produtos são os seguintes,</em>** de acordo com o <a href="http://www.organizesuavida.com.br/si/site/1013" target="_blank">artigo publicado sobre organização de maquiagem</a>, pela <a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank">OZ</a>!:
+  2 – **_Retire_** do seu montante de maquiagens o que **_está vencido ou algum item quebrado_**. Lembre-se de sempre **_anotar o vencimento de cada item_**, hein? Se eles constam apenas na embalagem, **_a dica é você anotar em algum lugar_**. Eu, que **_sou adepta de agendas, costumo anotar esse tipo de informação nelas_**. Certamente você encontrará sua melhor forma. Em **_média, o prazo de validade dos produtos são os seguintes,_** de acordo com o [artigo publicado sobre organização de maquiagem](http://www.organizesuavida.com.br/si/site/1013) , pela [OZ](http://www.organizesuavida.com.br/si/site/0000) !:
 </p>
 
 <p style="text-align: justify;">
-  **<em>Rímel</em>**: 3 a 6 meses, em média
+  **_Rímel_**: 3 a 6 meses, em média
 </p>
 
 <p style="text-align: justify;">
-  **<em>Bases, cremes hidratantes e demaquilantes</em>**: 6 a 8 meses
+  **_Bases, cremes hidratantes e demaquilantes_**: 6 a 8 meses
 </p>
 
 <p style="text-align: justify;">
-  **<em>Pós, pancake, sombras, blush, gloss e batons</em>**: 1 ano
+  **_Pós, pancake, sombras, blush, gloss e batons_**: 1 ano
 </p>
 
 <p style="text-align: justify;">
-  **<em>Lápis para contorno de olhos, boca e delineadores</em>**: 1 ano e 6 meses
+  **_Lápis para contorno de olhos, boca e delineadores_**: 1 ano e 6 meses
 </p>
 
 <p style="text-align: justify;">
-  3 – Você certamente tem na <em>nécessaire</em> de bolsa algum batom ou gloss para retoques emergenciais, mas todo o resto fica em casa, certo? Ah! E **<em>bem longe do banheiro</em>**, porque por **<em>lá tudo pode se estragar</em>**, correto? Ok! Onde e como organizar? Aí é que está!
+  3 – Você certamente tem na _nécessaire_ de bolsa algum batom ou gloss para retoques emergenciais, mas todo o resto fica em casa, certo? Ah! E **_bem longe do banheiro_**, porque por **_lá tudo pode se estragar_**, correto? Ok! Onde e como organizar? Aí é que está!
 </p>
 
 <p style="text-align: justify;">
-  Eu guardo as minhas na **<em>gaveta, em uma caixa com divisórias que lembra um porta-talheres</em>**, e que fica **<em>sem tampa para que ao abrir a gaveta eu consiga localizar de forma fácil e rápida</em>**. A verdade é que uso pouca maquiagem, e esse recurso me satisfaz. Se você, por outro lado, usa bastante, e tem um infinidade de itens, **<em>a dica é usar organizadores de maquiagem</em>**. Com um organizador você pode **<em>agrupar sua maquiagem por itens</em>**, o que poupa seu tempo e paciência na hora de achar cada um deles na hora de se maquiar. Pense nisso!
+  Eu guardo as minhas na **_gaveta, em uma caixa com divisórias que lembra um porta-talheres_**, e que fica **_sem tampa para que ao abrir a gaveta eu consiga localizar de forma fácil e rápida_**. A verdade é que uso pouca maquiagem, e esse recurso me satisfaz. Se você, por outro lado, usa bastante, e tem um infinidade de itens, **_a dica é usar organizadores de maquiagem_**. Com um organizador você pode **_agrupar sua maquiagem por itens_**, o que poupa seu tempo e paciência na hora de achar cada um deles na hora de se maquiar. Pense nisso!
 </p>
 
 <p style="text-align: center;">
@@ -73,7 +73,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em><span style="font-size: x-small;">Imagens: </span><a href="http://www.sxc.hu/ " target="_blank"><span style="font-size: x-small;">stock.xchng</span></a></em>
+  _<span style="font-size: x-small;">Imagens: </span>[<span style="font-size: x-small;">stock.xchng</span>](http://www.sxc.hu/ ) _
 </p>
 
 <p style="text-align: justify;">
@@ -81,25 +81,25 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<em><a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/">Organizando a bagunça em casa: dicas, truques e objetos úteis.</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/">Organizando a bagunça em casa: dicas, truques e objetos úteis.</a>_**
 </p>
 
 <p style="text-align: justify;">
-  **<em><a href="http://www.trololodemulher.com.br/2010/07/02/organizacao-guarda-roupa/">Pitacos de bicha fêmea: organização do closet ou guardaroupas.</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/07/02/organizacao-guarda-roupa/">Pitacos de bicha fêmea: organização do closet ou guardaroupas.</a>_**
 </p>
 
 <p style="text-align: justify;">
-  **<em><a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/">Lavanderia: que tipo de máquina facilita a organização?</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/04/14/organizacao-lavanderia-maquina/">Lavanderia: que tipo de máquina facilita a organização?</a>_**
 </p>
 
 <p style="text-align: justify;">
-  **<em><a href="http://www.trololodemulher.com.br/2010/01/21/itens-organizacao-casa/">Dicas de itens para organização em casa by bichas fêmeas.</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/01/21/itens-organizacao-casa/">Dicas de itens para organização em casa by bichas fêmeas.</a>_**
 </p>
 
 <p style="text-align: justify;">
-  **<em><a href="http://www.trololodemulher.com.br/2010/01/19/itens-organizacao-casa-2/">Dos meus itens que favorecem minha organização.</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/01/19/itens-organizacao-casa-2/">Dos meus itens que favorecem minha organização.</a>_**
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: x-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
+  <span style="font-size: x-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
 </p>

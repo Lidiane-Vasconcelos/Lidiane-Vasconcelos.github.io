@@ -12,7 +12,7 @@ categories:
   - Quarto Infantil
 ---
 <p align="justify">
-  Sabe aquele cantinho de parede no quarto da cria? Você já olhou para ele várias vezes e tem certeza de que cabe algo ali, para deixar o quarto do pequeno, ou da pequena, cheio de graça… mas o que é, mesmo? <em>Humpf</em>! Você não sabe! Calma, mamãe! Não criemos pânico. A ideia deste post é te ajudar, seja você mãe de uma bonequinha, ou de um menininho lindo de viver. Tenho aqui duas ideias para compartilhar, e tenho certeza que você vai curtir,<em> viu</em>?
+  Sabe aquele cantinho de parede no quarto da cria? Você já olhou para ele várias vezes e tem certeza de que cabe algo ali, para deixar o quarto do pequeno, ou da pequena, cheio de graça… mas o que é, mesmo? _Humpf_! Você não sabe! Calma, mamãe! Não criemos pânico. A ideia deste post é te ajudar, seja você mãe de uma bonequinha, ou de um menininho lindo de viver. Tenho aqui duas ideias para compartilhar, e tenho certeza que você vai curtir,_ viu_?
 </p>
 
 <p align="justify">
@@ -20,15 +20,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank">**Quarto infantil decorado com afetividade**</a>**.**
+  [**Quarto infantil decorado com afetividade**](http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/) **.**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank">**Dica de decoração infantil que sua criança pode fazer.**</a>
+  [**Dica de decoração infantil que sua criança pode fazer.**](http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank">**Decoração infantil: enfeite de tecido para o quarto ou festa.**</a>
+  [**Decoração infantil: enfeite de tecido para o quarto ou festa.**](http://www.decoracaodacasa.com/decoracao-infantil/) 
 </p>
 
 <p align="justify">
@@ -40,11 +40,11 @@ categories:
 </p>
 
 <p align="justify">
-  Olha que graça essa ideia, gente! Com três telas em tecido para pintura, fita crepe, tinta spray para tecido e um aviãozinho de papel (você sabe fazer um, não sabe?!), você executa essa ideia assim: <em>pá-pum</em>!
+  Olha que graça essa ideia, gente! Com três telas em tecido para pintura, fita crepe, tinta spray para tecido e um aviãozinho de papel (você sabe fazer um, não sabe?!), você executa essa ideia assim: _pá-pum_!
 </p>
 
 <p align="justify">
-  Alinhe suas telas uma ao lado da outra e, colando pequenos recortes retangulares de fita crepe, simule a rota do avião. Pinte com tinta spray e deixe secar. Descole os pedaços de fita e cole o avião no final da rota. Pronto! Agora é colocar na parede. Fácil, <em>né</em>?
+  Alinhe suas telas uma ao lado da outra e, colando pequenos recortes retangulares de fita crepe, simule a rota do avião. Pinte com tinta spray e deixe secar. Descole os pedaços de fita e cole o avião no final da rota. Pronto! Agora é colocar na parede. Fácil, _né_?
 </p>
 
 <p align="justify">
@@ -52,15 +52,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank">**5 ideias de decoração para o teto do quarto infantil: é pura diversão!**</a>
+  [**5 ideias de decoração para o teto do quarto infantil: é pura diversão!**](http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank">**Como brincar com as cores na decoração do quarto infantil?**</a>
+  [**Como brincar com as cores na decoração do quarto infantil?**](http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank">**Cortina de bolinhas em quarto infantil: faça você mesma!**</a>
+  [**Cortina de bolinhas em quarto infantil: faça você mesma!**](http://www.decoracaodacasa.com/cortina-quarto-infantil/) 
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p align="justify">
-  A única dificuldade para dar <em>bossa</em> no quarto da sua filha, uma vez que você decidiu que vai reproduzir essa ideia, é escolher quais recortes de tecido cheios de fofurice você vai usar. Isso mesmo! Escolha os recortes de tecido mais lindos de viver, e coloque-os em molduras branquinhas. Simples, fácil e rápido. Inspire-se!
+  A única dificuldade para dar _bossa_ no quarto da sua filha, uma vez que você decidiu que vai reproduzir essa ideia, é escolher quais recortes de tecido cheios de fofurice você vai usar. Isso mesmo! Escolha os recortes de tecido mais lindos de viver, e coloque-os em molduras branquinhas. Simples, fácil e rápido. Inspire-se!
 </p>
 
 <p align="justify">
@@ -76,23 +76,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank">**Papel de parede infantil: divertidos, didáticos e criativos.**</a>
+  [**Papel de parede infantil: divertidos, didáticos e criativos.**](http://www.decoracaodacasa.com/papel-parede-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma.**</a>
+  [**2 ideias para festa ou decoração infantil: faça você mesma.**](http://www.decoracaodacasa.com/festa-decoracao-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-2/" target="_blank">**Decoração da cabeceira infantil: ideias práticas, simples e divertidas!**</a>
+  [**Decoração da cabeceira infantil: ideias práticas, simples e divertidas!**](http://www.decoracaodacasa.com/decoracao-quarto-infantil-2/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.ivillage.com/" target="_blank">ivillage</a>
+  Imagens: [ivillage](http://www.ivillage.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

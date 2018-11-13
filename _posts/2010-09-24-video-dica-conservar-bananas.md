@@ -18,19 +18,19 @@ Olá, gente! Hoje trago uma dica sobre como conservar bananas. Todo mundo que co
 <!--more-->
 
 <p style="text-align: center;">
-  <a href="http://vimeo.com/14781950" target="_blank"><img class="alignnone size-full wp-image-5227" title="vídeo-dica sobre conservação de bananas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas.jpg" alt="" width="638" height="477" /></a>
+  [<img class="alignnone size-full wp-image-5227" title="vídeo-dica sobre conservação de bananas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas.jpg" alt="" width="638" height="477" />](http://vimeo.com/14781950) 
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por **<em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/juliana/" target="_self">Juliana</a></em>**
+      Por **_<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/juliana/" target="_self">Juliana</a>_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      **<em><a href="http://www.cozinhamagali.blogspot.com/" target="_blank">Cozinha da Magali</a></em>**
+      **_[Cozinha da Magali](http://www.cozinhamagali.blogspot.com/) _**
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@ Olá, gente! Hoje trago uma dica sobre como conservar bananas. Todo mundo que co
 </p>
 
 <p style="text-align: justify;">
-  Quer fazer como a Juliana, e publicar seu texto ou vídeo aqui? Seja uma **<em><a href="http://www.trololodemulher.com.br/colabore/" target="_self">bicha fêmea colaboradora</a></em>**!
+  Quer fazer como a Juliana, e publicar seu texto ou vídeo aqui? Seja uma **_<a href="http://www.trololodemulher.com.br/colabore/" target="_self">bicha fêmea colaboradora</a>_**!
 </p>
 
 **Mais no Bicha Fêmea…**
@@ -48,15 +48,15 @@ Olá, gente! Hoje trago uma dica sobre como conservar bananas. Todo mundo que co
 **<a href="http://www.trololodemulher.com.br/2010/09/15/video-receita-macarrao/" target="_self">Vídeo-receita do macarrão da preguiça&#8230;</a>**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/" target="_self">**<em>Casa</em>****<em> & Decoração</em>** </a>> <a href="http://www.trololodemulher.com.br/category/casa-cozinha/" target="_self">**<em>Casa – Cozinha</em>** </a>> Vídeo-dica: como conservar bananas por mais tempo…
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/" target="_self">**_Casa_****_ & Decoração_** </a>> <a href="http://www.trololodemulher.com.br/category/casa-cozinha/" target="_self">**_Casa – Cozinha_** </a>> Vídeo-dica: como conservar bananas por mais tempo…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _[_basta clicar_](http://www.trololodemulher.com.br/loja/) _!_**
 </p>
 
 ** **

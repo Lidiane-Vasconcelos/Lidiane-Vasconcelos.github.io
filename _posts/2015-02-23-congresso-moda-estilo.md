@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quer participar disso tudo? Não perca essa oportunidade porque, pra quem curte moda, imagem e estilo, esta será uma chance incrível de aprender com vários nomes e referências de moda. Algumas confirmações de presença já foram divulgadas, a exemplo de Alberto Solon, criador do blog de moda masculina Clube Style e do curso Homem Vista-se Bem, Débora Gatti, Consultora de Estilo formada pela Escola Francesa École Supérieure de Relooking e Coach, Marina Espindola, formarda em Jornalismo pela Faculdade Cásper Líbero, estagiária da revista L’Officiel e é autora do blog Costanza Who?, com matérias aprofundadas sobre o universo da moda como ele é de verdade. Esses são alguns dos palestrantes já confirmados. Fique de olho no <a href="http://www.conastyle.com.br" target="_blank">site</a> e na <a href="https://www.facebook.com/conastyle" target="_blank">fanpage</a> do ConaStyle para saber mais sobre os palestrantes!
+  Quer participar disso tudo? Não perca essa oportunidade porque, pra quem curte moda, imagem e estilo, esta será uma chance incrível de aprender com vários nomes e referências de moda. Algumas confirmações de presença já foram divulgadas, a exemplo de Alberto Solon, criador do blog de moda masculina Clube Style e do curso Homem Vista-se Bem, Débora Gatti, Consultora de Estilo formada pela Escola Francesa École Supérieure de Relooking e Coach, Marina Espindola, formarda em Jornalismo pela Faculdade Cásper Líbero, estagiária da revista L’Officiel e é autora do blog Costanza Who?, com matérias aprofundadas sobre o universo da moda como ele é de verdade. Esses são alguns dos palestrantes já confirmados. Fique de olho no [site](http://www.conastyle.com.br)  e na [fanpage](https://www.facebook.com/conastyle)  do ConaStyle para saber mais sobre os palestrantes!
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  A Lilian avisa que “<em>exatamente para alcançar um maior número de pessoas interessadas nos temas do Congresso, o formato online e gratuito permitirá que pessoas de qualquer parte do país possam assistir ao evento e aprender um pouco mais com as dicas e experiências dos palestrantes do evento</em>.”
+  A Lilian avisa que “_exatamente para alcançar um maior número de pessoas interessadas nos temas do Congresso, o formato online e gratuito permitirá que pessoas de qualquer parte do país possam assistir ao evento e aprender um pouco mais com as dicas e experiências dos palestrantes do evento_.”
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  A programação do 2º ConaStyle prevê duas palestras diárias durante a semana do evento (manhã e noite), sendo que as inscrições serão gratuitas e poderão ser feitas diretamente no site (<a href="http://www.conastyle.com.br/" target="_blank">www.conastyle.com.br</a>). Aqueles que não puderam assistir alguma palestra ou que preferem rever alguma apresentação, poderão comprar um pacote de acesso ao evento, que disponibilizará todas as palestras do 2º ConaStyle e mais alguns bônus como entrevistas exclusivas, e-books, vídeos e algumas surpresas.
+  A programação do 2º ConaStyle prevê duas palestras diárias durante a semana do evento (manhã e noite), sendo que as inscrições serão gratuitas e poderão ser feitas diretamente no site ([www.conastyle.com.br](http://www.conastyle.com.br/) ). Aqueles que não puderam assistir alguma palestra ou que preferem rever alguma apresentação, poderão comprar um pacote de acesso ao evento, que disponibilizará todas as palestras do 2º ConaStyle e mais alguns bônus como entrevistas exclusivas, e-books, vídeos e algumas surpresas.
 </p>
 
 &nbsp;
@@ -49,13 +49,13 @@ categories:
 
 **Data: 09 a 12 de março de 2015**
 
-**Inscrições limitadas e gratuitas:** <a href="http://www.conastyle.com.br/" target="_blank">www.conastyle.com.br</a>****
+**Inscrições limitadas e gratuitas:** [www.conastyle.com.br](http://www.conastyle.com.br/) ****
 
-<a href="https://www.facebook.com/conastyle" target="_blank">https://www.facebook.com/conastyle</a>**** ****
+[https://www.facebook.com/conastyle](https://www.facebook.com/conastyle) **** ****
 
 **Contato: (16) 99151-2222**
 
-**E-mail: <a href="mailto:contato.conastyle@gmail.com" target="_blank">contato.conastyle@gmail.com</a>**
+**E-mail: [contato.conastyle@gmail.com](mailto:contato.conastyle@gmail.com) **
 
 &nbsp;
 
@@ -67,20 +67,20 @@ categories:
 
 **Quer ver as consultorias da Lilian Jordão por aqui?**
 
-**<a href="http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/" target="_blank">Moda sem mistérios: duas dicas para colocar em prática já!</a>**
+**[Moda sem mistérios: duas dicas para colocar em prática já!](http://www.trololodemulher.com.br/2015/01/26/moda-dica-pratica/) **
 
-**<a href="http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/" target="_blank">Trololó do dia: moda para a vida real. Aprenda tudo!</a>**
+**[Trololó do dia: moda para a vida real. Aprenda tudo!](http://www.trololodemulher.com.br/2014/10/06/moda-vida-real/) **
 
-**<a href="http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/" target="_blank">O bom e velho short: peça certeira nos dias de sol.</a>**
+**[O bom e velho short: peça certeira nos dias de sol.](http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/) **
 
 &nbsp;
 
-A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>!
+A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? [Clica aqui e se joga](https://www.facebook.com/lilianjordao82/timeline) !
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

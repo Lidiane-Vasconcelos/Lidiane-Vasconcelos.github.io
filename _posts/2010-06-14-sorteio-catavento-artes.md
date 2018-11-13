@@ -12,11 +12,11 @@ categories:
 ---
 Quem gosta de **sorteio** levanta o dedo _aêêê_!!! Eu gosto demais, e quando é de coisas fofas, mimosas, bonitas e úteis? Nossa! Aí é o pacote completo! E quando eles acontecem aqui no Bicha Fêmea, para que você tenha a chance de ganhar o prêmio? Nem se fala!
 
-E eu falei que teria um por aqui muito em breve, não falei? Claro que sim! Quem me segue no Twitter já estava sabendo por antecipação (aliás, **_<a href="http://twitter.com/bichafemea" target="_blank">me segue aí</a>_**!), e só estava aguardando as cenas dos próximos capítulos…
+E eu falei que teria um por aqui muito em breve, não falei? Claro que sim! Quem me segue no Twitter já estava sabendo por antecipação (aliás, **_[me segue aí](http://twitter.com/bichafemea) _**!), e só estava aguardando as cenas dos próximos capítulos…
 
 <!--more-->
 
-E as cenas são essas, oh: você conhece o <a href="http://fernandapostai.blogspot.com/" target="_blank">CATAVENTO ARTES</a>?  Esse é um lindo projeto da **Fernanda Postai**, uma artesã super sensível e talentosa que transforma papel em **cartões, convites, lembrancinhas e presentes artesanais**.
+E as cenas são essas, oh: você conhece o [CATAVENTO ARTES](http://fernandapostai.blogspot.com/) ?  Esse é um lindo projeto da **Fernanda Postai**, uma artesã super sensível e talentosa que transforma papel em **cartões, convites, lembrancinhas e presentes artesanais**.
 
 <table align="center">
   <tr>
@@ -59,7 +59,7 @@ E por falar em _fofurice_, olha o kit lindão do CATAVENTO ARTES que será sorte
 </table>
 
 <p style="text-align: center;">
-  <em>Clique na imagem para ampliar.</em> 
+  _Clique na imagem para ampliar._ 
 </p>
 
 Viu? Trata-se de um **caderno + uma caderneta + um marcador de página**. Não é lindo? E pode ser seu fácil, fácil. Tudo que você precisa fazer é **deixar um comentário neste post com e-mail válido no formulário**. A única **restrição** é que seu **endereço de entrega seja no Brasil**. Mais fácil, impossível!!!

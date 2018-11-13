@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  A saúde bucal é complexa e responsável pelo que acontece com todo o seu corpo, isso tudo mais do que pode supor nossa condição de leigas no assunto. Perguntei para a Dra. Ana Paula até que ponto o que ocorre na boca tem a ver com todo o resto, e ela sentenciou que “<em>algumas doenças, geralmente em estágio mais avançado, têm manifestações bucais específicas, como a AIDS, a tuberculose e a sífilis. Também, problemas de origem bucal &#8211; como infecções – quando não tratados adequadamente, podem levar a consequências sérias em outras partes do organismo. Exemplo disso é a endocardite bacteriana, que ocorre quando certas bactérias migram de uma infecção bucal, através do sangue, e se instalam no coração. Mesmo os micro-organismos comuns na nossa flora bucal podem causar problemas em caso de uma baixa de imunidade, que é o que ocorre na candidíse, a Candida Albicans geralmente não incomoda, mas se aproveita de uma fragilidade do nosso sistema imune pra causar infecção</em>”.
+  A saúde bucal é complexa e responsável pelo que acontece com todo o seu corpo, isso tudo mais do que pode supor nossa condição de leigas no assunto. Perguntei para a Dra. Ana Paula até que ponto o que ocorre na boca tem a ver com todo o resto, e ela sentenciou que “_algumas doenças, geralmente em estágio mais avançado, têm manifestações bucais específicas, como a AIDS, a tuberculose e a sífilis. Também, problemas de origem bucal &#8211; como infecções – quando não tratados adequadamente, podem levar a consequências sérias em outras partes do organismo. Exemplo disso é a endocardite bacteriana, que ocorre quando certas bactérias migram de uma infecção bucal, através do sangue, e se instalam no coração. Mesmo os micro-organismos comuns na nossa flora bucal podem causar problemas em caso de uma baixa de imunidade, que é o que ocorre na candidíse, a Candida Albicans geralmente não incomoda, mas se aproveita de uma fragilidade do nosso sistema imune pra causar infecção_”.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  Bebidas quentes ou frias podem desencadear um “ai” aqui, outro <em>acolá</em>, mas se isso anda ficando mais frequente ou tem características mais específicas, é bom ficar de olho. “<em>Uma sensibilidade leve e generalizada, ou localizada em dentes com recessão gengival, por exemplo, costuma não passar disso. Nesses casos as pastas de dentes específicas para sensibilidade dentinária podem ajudar bastante. Porém, quando a sensibilidade é em um dente só ou em uma região específica, e a dor não ocorre apenas ao contato com água fria, por exemplo, mas é espontânea, é sinal de pulpite, que é a inflamação da polpa, o &#8220;nervo&#8221; do dente. Aí é essencial a avaliação de um dentista pra um diagnóstico preciso, pois pode até haver necessidade de tratamento de canal</em>”, explica a dentista.
+  Bebidas quentes ou frias podem desencadear um “ai” aqui, outro _acolá_, mas se isso anda ficando mais frequente ou tem características mais específicas, é bom ficar de olho. “_Uma sensibilidade leve e generalizada, ou localizada em dentes com recessão gengival, por exemplo, costuma não passar disso. Nesses casos as pastas de dentes específicas para sensibilidade dentinária podem ajudar bastante. Porém, quando a sensibilidade é em um dente só ou em uma região específica, e a dor não ocorre apenas ao contato com água fria, por exemplo, mas é espontânea, é sinal de pulpite, que é a inflamação da polpa, o &#8220;nervo&#8221; do dente. Aí é essencial a avaliação de um dentista pra um diagnóstico preciso, pois pode até haver necessidade de tratamento de canal_”, explica a dentista.
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/drenka2/142760858/" target="_blank">Flickr</a> via <a href="http://foter.com/" target="_blank">Foter</a>
+  Imagem: [Flickr](https://www.flickr.com/photos/drenka2/142760858/)  via [Foter](http://foter.com/) 
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <em>**“O sangramento espontâneo ou à escovação é um sinal clássico de gengivite, a inflamação da gengiva. A causa da gengivite é, também, a má higienização, já que a placa bacteriana se acumula na margem da gengiva. Pra vocês verem como a maioria dos problemas bucais têm uma origem só: higiene bucal deficiente. Escovem bem os dentes, por favor!”**</em>
+>   _**“O sangramento espontâneo ou à escovação é um sinal clássico de gengivite, a inflamação da gengiva. A causa da gengivite é, também, a má higienização, já que a placa bacteriana se acumula na margem da gengiva. Pra vocês verem como a maioria dos problemas bucais têm uma origem só: higiene bucal deficiente. Escovem bem os dentes, por favor!”**_
 > </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“A gengiva saudável é rosada e tem aspecto de casca de laranja, ou seja, com aqueles &#8220;furinhos&#8221;. Se a gengiva estiver avermelhada, inchada e/ou sangrante, procure um dentista.”</em>**
+>   **_“A gengiva saudável é rosada e tem aspecto de casca de laranja, ou seja, com aqueles &#8220;furinhos&#8221;. Se a gengiva estiver avermelhada, inchada e/ou sangrante, procure um dentista.”_**
 > </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Existem 2 tipos de aftas, as menores e as maiores. A mais comum dentre as menores é a afta vulgar, geralmente pequena e única. Ela aparece de vez em quando, dura de 7 a 10 dias e não deixa cicatrizes. O que causa mais preocupação são as aftas maiores (múltiplas e maiores que as menores :), cujo tratamento costuma ser não apenas tópico, mas sistêmico, geralmente na forma de bochechos. Principalmente no caso de aftas grandes, que durem mais de 1 mês para melhorar e que deixem cicatrizes, consulte um dentista pra ver o que está acontecendo.”</em>**
+>   **_“Existem 2 tipos de aftas, as menores e as maiores. A mais comum dentre as menores é a afta vulgar, geralmente pequena e única. Ela aparece de vez em quando, dura de 7 a 10 dias e não deixa cicatrizes. O que causa mais preocupação são as aftas maiores (múltiplas e maiores que as menores :), cujo tratamento costuma ser não apenas tópico, mas sistêmico, geralmente na forma de bochechos. Principalmente no caso de aftas grandes, que durem mais de 1 mês para melhorar e que deixem cicatrizes, consulte um dentista pra ver o que está acontecendo.”_**
 > </p>
 
 <p align="center">
@@ -90,23 +90,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/16/placa-bacteriana/" target="_blank">**Placa bacteriana: como removê-la?**</a>
+  [**Placa bacteriana: como removê-la?**](http://www.trololodemulher.com.br/2015/03/16/placa-bacteriana/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/" target="_blank">**Dentes bonitos e saudáveis: o que fazer e evitar?**</a>
+  [**Dentes bonitos e saudáveis: o que fazer e evitar?**](http://www.trololodemulher.com.br/2013/05/27/dentes-bonitos/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/" target="_blank">**Você sabe mesmo cuidar da higiene dos dentes?**</a>
+  [**Você sabe mesmo cuidar da higiene dos dentes?**](http://www.trololodemulher.com.br/2012/04/02/higiene-dos-dentes/) 
 </p>
 
 <p align="justify">
-  A **Dra. Ana** é a autora do blog <a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e <a href="http://medodedentista.com.br/" target="_blank">clica aqui</a>, bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no <a href="https://www.facebook.com/medodedentista?fref=ts" target="_blank">Facebook. Clique aqui, curta</a> e fique por dentro!
+  A **Dra. Ana** é a autora do blog [Medo de Dentista](http://medodedentista.com.br/)  e, como o nome sugere, esse medo é o que move o blog, no sentido de desconstruí-lo. O blog é repleto de informação útil e necessária, mas tudo feito de forma simples e direta, para leigas como nós que querem vencer o medo através da informação. Quer ver só que interessante o conteúdo desse blog? Se joga e [clica aqui](http://medodedentista.com.br/) , bonita! Além do mais, não deixe de acompanhar a Dra. e todo o seu conteúdo relevante no [Facebook. Clique aqui, curta](https://www.facebook.com/medodedentista?fref=ts)  e fique por dentro!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

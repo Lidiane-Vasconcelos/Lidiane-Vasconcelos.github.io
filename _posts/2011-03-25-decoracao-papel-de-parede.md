@@ -38,7 +38,7 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  Essa alternativa foi usada pela **Ruby**, do blog <a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>. Veja logo abaixo a <em>belezura</em> que ficou a sala dela com uma das paredes que ganhou esse detalhe decorativo:
+  Essa alternativa foi usada pela **Ruby**, do blog [Meu Canto, Minha Prosa](http://meucantominhaprosa.blogspot.com/) . Veja logo abaixo a _belezura_ que ficou a sala dela com uma das paredes que ganhou esse detalhe decorativo:
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  Além da sala, Ruby também usou papel de parede em uma parte do quarto, e mostrou mais detalhes<a href="http://meucantominhaprosa.blogspot.com/2011/02/nada-facil.html" target="_blank"> aqui, oh</a>&#8230; Foi ela mesma quem fez a instalação (corajosa!) com o marido. Quer arriscar? Ela avisa que aprendeu vendo <a href="http://www.youtube.com/watch?v=tl_APZtQHDE" target="_blank">este vídeo</a>.
+  Além da sala, Ruby também usou papel de parede em uma parte do quarto, e mostrou mais detalhes[ aqui, oh](http://meucantominhaprosa.blogspot.com/2011/02/nada-facil.html) &#8230; Foi ela mesma quem fez a instalação (corajosa!) com o marido. Quer arriscar? Ela avisa que aprendeu vendo [este vídeo](http://www.youtube.com/watch?v=tl_APZtQHDE) .
 </p>
 
 <p style="text-align: center;">
@@ -54,10 +54,10 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  A **área atrás do seu sofá** pode ser a eleita para ganhar um detalhe cheio de charme e <em>bossa</em>. Inpire-se na imagem e pense que usar um papel de parede neste local vai ajudar a **separar o** pouco **espaço** que você possa ter, delimitando bem o ambiente. Que tal?
+  A **área atrás do seu sofá** pode ser a eleita para ganhar um detalhe cheio de charme e _bossa_. Inpire-se na imagem e pense que usar um papel de parede neste local vai ajudar a **separar o** pouco **espaço** que você possa ter, delimitando bem o ambiente. Que tal?
 </p>
 
-_Imagens:_ <a href="http://www.livingetc.com/" target="_blank"><em>Livingetc</em></a>
+_Imagens:_ [_Livingetc_](http://www.livingetc.com/) 
 
 **_Mais no Bicha Fêmea…_**
 
@@ -70,21 +70,21 @@ _Imagens:_ <a href="http://www.livingetc.com/" target="_blank"><em>Livingetc</em
 **_[Como decorar paredes com quadros.](http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/)_**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>> Decoração com papel de parede: arrisque e encante-se!
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>> Decoração com papel de parede: arrisque e encante-se!
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

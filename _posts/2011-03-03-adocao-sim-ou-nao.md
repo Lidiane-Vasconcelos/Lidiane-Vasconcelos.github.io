@@ -67,7 +67,7 @@ Já ouvi muitas pessoas falarem que: criança adotiva dá muito trabalho quando 
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/adocao20001.pdf">adoção20001</a>
 </p>
 
-_Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagens:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -78,7 +78,7 @@ _Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
-      <em>**<br /> Simone Cotrufo França**, Engenheira de Produção Química, atuou vários anos na indústria química e petroquímica e em empresa de consultoria para o ramo automotivo. Hoje, juntamente com outros sócios, é proprietária das marcas Espaço Home e Pura Tendência,  com as quais busca alcançar o ideal de Organizar sua vida com Estilo proporcionando qualidade de vida e beleza. Simone é uma das editoras do blog </em><a href="http://newsespacohome.blogspot.com/" target="_blank"><em>Organização com Estilo</em></a><em>.</em> 
+      _**<br /> Simone Cotrufo França**, Engenheira de Produção Química, atuou vários anos na indústria química e petroquímica e em empresa de consultoria para o ramo automotivo. Hoje, juntamente com outros sócios, é proprietária das marcas Espaço Home e Pura Tendência,  com as quais busca alcançar o ideal de Organizar sua vida com Estilo proporcionando qualidade de vida e beleza. Simone é uma das editoras do blog _[_Organização com Estilo_](http://newsespacohome.blogspot.com/) _._ 
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ _Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
  
 
 <p style="text-align: center;">
-  Faça como a **Simone**, e envie **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em>** para o **Bicha Fêmea**!
+  Faça como a **Simone**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
 </p>
 
 <p style="text-align: center;">
@@ -94,17 +94,17 @@ _Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

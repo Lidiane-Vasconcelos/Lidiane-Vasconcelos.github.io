@@ -48,7 +48,7 @@ A única certeza que você tem é que quer inserir essa cor na sua decoração, 
 </p>
 
 <p align="center">
-  Na prateleira e nas almofadas. Se animou para colorir uma prateleira? A **Eva**, do **Peripécias de Eva**, ensina **<a href="http://asperipeciasdeeva.com.br/2013/08/prateleiras-coloridas-como-fazer-e-como-instalar/" target="_blank">como fazer prateleiras coloridas e instalar. Basta clicar aqui</a>**.
+  Na prateleira e nas almofadas. Se animou para colorir uma prateleira? A **Eva**, do **Peripécias de Eva**, ensina **[como fazer prateleiras coloridas e instalar. Basta clicar aqui](http://asperipeciasdeeva.com.br/2013/08/prateleiras-coloridas-como-fazer-e-como-instalar/) **.
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ A única certeza que você tem é que quer inserir essa cor na sua decoração, 
 
 &nbsp;
 
-Imagens: **_<a href="http://www.ivillage.com/" target="_blank">ivillage</a>_**
+Imagens: **_[ivillage](http://www.ivillage.com/) _**
 
 &nbsp;
 
@@ -74,11 +74,11 @@ Imagens: **_<a href="http://www.ivillage.com/" target="_blank">ivillage</a>_**
 </p>
 
 <p align="center">
-  **<a href="http://www.decoracaodacasa.com/sala-de-estar-com-amarelo/" target="_blank"><span style="font-size: large;">Decorando a sala de estar com amerelo.</span></a>**
+  **[<span style="font-size: large;">Decorando a sala de estar com amerelo.</span>](http://www.decoracaodacasa.com/sala-de-estar-com-amarelo/) **
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank"><span style="font-size: large;">Decoração e interiores: que cor usar na parede da sala de estar?</span></a>**
+  **[<span style="font-size: large;">Decoração e interiores: que cor usar na parede da sala de estar?</span>](http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/) **
 </p>
 
 &nbsp;
@@ -88,7 +88,7 @@ Imagens: **_<a href="http://www.ivillage.com/" target="_blank">ivillage</a>_**
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -105,13 +105,13 @@ Imagens: **_<a href="http://www.ivillage.com/" target="_blank">ivillage</a>_**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

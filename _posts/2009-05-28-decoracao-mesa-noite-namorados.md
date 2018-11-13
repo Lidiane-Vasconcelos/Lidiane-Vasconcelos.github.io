@@ -12,7 +12,7 @@ categories:
 Você está planejando ficar em casa e fazer um jantar especial para a pessoa amada? Eu gostaria de dar algumas dicas de decoração para o dia dos namorados** **para a mesa de jantar e fazer com que essa refeição se torne inesquecível para o casal. Te garanto que vocês vão curtir mais a noite do que enfrentar a  fila  de espera nos restaurantes.
 
 <p style="text-align: justify;">
-  As imagens abaixo são inspirações que selecionei para servir como ponto de partida para o que eu poderia fazer na minha mesa. Trouxe para dividí-las com você, e quem sabe não sai desse post um esboço de uma mesa romântica ideal, e vai direto para o seu “<em>cantinho</em>”, hein?
+  As imagens abaixo são inspirações que selecionei para servir como ponto de partida para o que eu poderia fazer na minha mesa. Trouxe para dividí-las com você, e quem sabe não sai desse post um esboço de uma mesa romântica ideal, e vai direto para o seu “_cantinho_”, hein?
 </p>
 
 <p style="text-align: justify;">
@@ -43,10 +43,10 @@ Vários pequenos vasinhos com flores, arranjados de modo a desenhar um coração
 
 Haverá uma mesa mais romântica se a escolha for por rosas e um belo vaso?
 
-Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+Imagens: [Martha Stewart](http://www.marthastewart.com/) 
 
 <span style="color: #800080;">Diz aí, você tem planos para a noite do dia dos namorados? E dicas?</span>
 
 <span style="color: #800080;">**Veja mais dicas e inspirações para o dia dos namorados no Bicha Fêmea&#8230;**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/" target="_self">Dia dos namorados: dicas e sugestões. </a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/" target="_self">Dia dos namorados: dicas e sugestões. </a>_**</span>

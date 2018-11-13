@@ -25,7 +25,7 @@ Cada uma é o que opta, e vive as delícias (ou não) de suas decisões. O melho
 </p>
 
 <p style="text-align: justify;">
-  “<em>Ser mulher hoje, é ser uma guerreira. Quando penso nas mulheres de hoje em dia logo me vem a mente aquelas figuras de deuses hindus que possuem vários braços. Pode parecer engraçada a comparação, mas para ser mulher hoje é preciso muitas vezes nos desdobrar nas funções de mãe, dona de casa, esposa, profissional, etc. E nesta imensa jornada muitas vezes o nosso desejo é ter mais braços do que temos ou que o dia tivesse mais horas para que possamos dar conta. Ser mulher hoje pra mim é ser uma super heroína, porque além de dar conta de tanto, muitas vezes ainda não somos reconhecidas</em>.” **Gleici Schiavo**  
+  “_Ser mulher hoje, é ser uma guerreira. Quando penso nas mulheres de hoje em dia logo me vem a mente aquelas figuras de deuses hindus que possuem vários braços. Pode parecer engraçada a comparação, mas para ser mulher hoje é preciso muitas vezes nos desdobrar nas funções de mãe, dona de casa, esposa, profissional, etc. E nesta imensa jornada muitas vezes o nosso desejo é ter mais braços do que temos ou que o dia tivesse mais horas para que possamos dar conta. Ser mulher hoje pra mim é ser uma super heroína, porque além de dar conta de tanto, muitas vezes ainda não somos reconhecidas_.” **Gleici Schiavo**  
 </p>
 
 <p style="text-align: center;">
@@ -33,7 +33,7 @@ Cada uma é o que opta, e vive as delícias (ou não) de suas decisões. O melho
 </p>
 
 <p style="text-align: justify;">
-  “<em>Ser mulher hoje é romper barreiras, transpor fronteiras, desmistificar tabus e escalar sonhos e possibilidades jamais imaginadas. Tudo isso porém, com classe, beleza, delicadeza e amor.”</em> **Simone Cotrufo** | **<a href="http://newsespacohome.blogspot.com/" target="_blank">ORGANIZAÇÃO COM ESTILO</a>**
+  “_Ser mulher hoje é romper barreiras, transpor fronteiras, desmistificar tabus e escalar sonhos e possibilidades jamais imaginadas. Tudo isso porém, com classe, beleza, delicadeza e amor.”_ **Simone Cotrufo** | **[ORGANIZAÇÃO COM ESTILO](http://newsespacohome.blogspot.com/) **
 </p>
 
 <p style="text-align: center;">
@@ -41,7 +41,7 @@ Cada uma é o que opta, e vive as delícias (ou não) de suas decisões. O melho
 </p>
 
 <p style="text-align: justify;">
-   “<em>Ser mulher hoje é viver um dilema entre ser moderna e querer voltar no passado. É querer trabalhar fora mas ter tempo para ficar curtindo a sua casa. É querer ter um marido que ajuda nas tarefas de casa mas também é protetor e &#8220;provedor&#8221;. É não querer ter um marido e querer ter um amor pra toda vida. É querer ser bonita e andar &#8220;na moda&#8221; e não querer ser magérrima nem usar &#8220;bandage stripes&#8221;&#8230;Para mim ser mulher hoje é essa contradição eterna entre ser o que você quer e é e o que acham que deve ser a mulher hoje.”</em> **Darlana Godoi** | **<a href="http://www.semtemplate.blogspot.com/" target="_blank">Sem Template</a>**
+   “_Ser mulher hoje é viver um dilema entre ser moderna e querer voltar no passado. É querer trabalhar fora mas ter tempo para ficar curtindo a sua casa. É querer ter um marido que ajuda nas tarefas de casa mas também é protetor e &#8220;provedor&#8221;. É não querer ter um marido e querer ter um amor pra toda vida. É querer ser bonita e andar &#8220;na moda&#8221; e não querer ser magérrima nem usar &#8220;bandage stripes&#8221;&#8230;Para mim ser mulher hoje é essa contradição eterna entre ser o que você quer e é e o que acham que deve ser a mulher hoje.”_ **Darlana Godoi** | **[Sem Template](http://www.semtemplate.blogspot.com/) **
 </p>
 
 <p style="text-align: center;">
@@ -49,23 +49,23 @@ Cada uma é o que opta, e vive as delícias (ou não) de suas decisões. O melho
 </p>
 
 <p style="text-align: justify;">
-   “<em>Ser mulher hoje, é ser versátil, criativa, profissional que luta por seus direitos, sempre bonita, culta, politizada, cada vez mais entendida tanto da maternidade como dos prazeres sexuais. É ser dona de casa sem perder o charme.”</em> **Nadja** | <a href="http://nemacharmosa.blogspot.com/" target="_blank">**Nema Charmosa**</a><em> </em>
+   “_Ser mulher hoje, é ser versátil, criativa, profissional que luta por seus direitos, sempre bonita, culta, politizada, cada vez mais entendida tanto da maternidade como dos prazeres sexuais. É ser dona de casa sem perder o charme.”_ **Nadja** | [**Nema Charmosa**](http://nemacharmosa.blogspot.com/) _ _
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Sandra.jpg"><img class="alignnone size-full wp-image-6151" title="Sandra" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Sandra.jpg" alt="" width="200" height="200" /></a></em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Sandra.jpg"><img class="alignnone size-full wp-image-6151" title="Sandra" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Sandra.jpg" alt="" width="200" height="200" /></a>_
 </p>
 
 <p style="text-align: justify;">
-  <em>“Ser Mulher  hoje para mim é&#8230; Ser independente e lutar pelos seus ideais, e  acima de tudo se amar em primeiro lugar. Conquistar seu espaço e Ser Feliz</em>.” **Sandra Antrade** | **<a href="http://sandraandrade8.blogspot.com/" target="_blank">Curiosa</a>**<em> </em>
+  _“Ser Mulher  hoje para mim é&#8230; Ser independente e lutar pelos seus ideais, e  acima de tudo se amar em primeiro lugar. Conquistar seu espaço e Ser Feliz_.” **Sandra Antrade** | **[Curiosa](http://sandraandrade8.blogspot.com/) **_ _
 </p>
 
 <p style="text-align: center;">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg"><img class="alignnone size-full wp-image-6148" title="Glaucia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg" alt="" width="200" height="200" /></a></em>
+  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg"><img class="alignnone size-full wp-image-6148" title="Glaucia" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Glaucia.jpg" alt="" width="200" height="200" /></a>_
 </p>
 
 <p style="text-align: justify;">
-  <em>“Ser mulher hoje em dia é ser guerreira, pelejar com um dragão por dia sem deixar de ser princesa. Ser mulher é batalhar por filhos felizes, por um trabalho bem feito, por uma casa com a carinha da gente, acolhedora e gostosa. Ser mulher é tudo isso e mais um pouco, mas acho que o principal de ser mulher é a possibilidade de reconhecer muitas nuances de cores enquanto os homens só reconhecem uma meia duzia, ou seja, nosso mundo é muito mais colorido</em>.” **Glaucia** | **<a href="http://www.supercriativobyglau.blogspot.com/" target="_blank">Super Criativo</a>**
+  _“Ser mulher hoje em dia é ser guerreira, pelejar com um dragão por dia sem deixar de ser princesa. Ser mulher é batalhar por filhos felizes, por um trabalho bem feito, por uma casa com a carinha da gente, acolhedora e gostosa. Ser mulher é tudo isso e mais um pouco, mas acho que o principal de ser mulher é a possibilidade de reconhecer muitas nuances de cores enquanto os homens só reconhecem uma meia duzia, ou seja, nosso mundo é muito mais colorido_.” **Glaucia** | **[Super Criativo](http://www.supercriativobyglau.blogspot.com/) **
 </p>
 
 <p style="text-align: center;">
@@ -73,25 +73,25 @@ Cada uma é o que opta, e vive as delícias (ou não) de suas decisões. O melho
 </p>
 
 <p style="text-align: justify;">
-  “<em>Acho que ser mulher hoje é bem mais difícil que antigamente. Acabamos escravas de nossas próprias conquistas&#8230; como assim? Tento explicar, com um pouco de bom humor:</em>
+  “_Acho que ser mulher hoje é bem mais difícil que antigamente. Acabamos escravas de nossas próprias conquistas&#8230; como assim? Tento explicar, com um pouco de bom humor:_
 </p>
 
 _ Batalhamos para derrubar a ditadura do soutien. Mas a &#8220;lei da gravidade&#8221; não perdoa, rs&#8230; então nunca nos livraremos da peça, que sendo de boa qualidade e bonita, ainda custa os olhos da cara!
 
 <p style="text-align: justify;">
-  <em>_ Cursamos universidade, pós, mestrado, línguas&#8230; ficou mais complicado de encontrar um parceiro que acompanhe esse ritmo! </em>
+  __ Cursamos universidade, pós, mestrado, línguas&#8230; ficou mais complicado de encontrar um parceiro que acompanhe esse ritmo! _
 </p>
 
 <p style="text-align: justify;">
-  <em>_ Sentimos culpa por deixar nossos filhos em creches ou com babás&#8230; mas não ficamos felizes em sermos só &#8220;mães&#8221;! </em>
+  __ Sentimos culpa por deixar nossos filhos em creches ou com babás&#8230; mas não ficamos felizes em sermos só &#8220;mães&#8221;! _
 </p>
 
 <p style="text-align: justify;">
-  <em>_ Abolimos há tempos os espartilhos, as anáguas, as cintas e modeladores&#8230; mas ai de nós, se dispensarmos a academia! </em>
+  __ Abolimos há tempos os espartilhos, as anáguas, as cintas e modeladores&#8230; mas ai de nós, se dispensarmos a academia! _
 </p>
 
 <p style="text-align: justify;">
-  <em>_ Estamos em todas as áreas e nos destacamos: na política, na religião, nas artes, na literatura&#8230; mas  a pior área ( a de serviço) ainda espera por nós&#8230; afinal, a roupa não sai da máquina direto para o varal&#8230; que pena!!!rs!” **Simone Scharamm** | **<a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc…</a>**</em>
+  __ Estamos em todas as áreas e nos destacamos: na política, na religião, nas artes, na literatura&#8230; mas  a pior área ( a de serviço) ainda espera por nós&#8230; afinal, a roupa não sai da máquina direto para o varal&#8230; que pena!!!rs!” **Simone Scharamm** | **[Festas e etc…](http://simonescharamm.blogspot.com/) **_
 </p>
 
 <p style="text-align: justify;">
@@ -99,11 +99,11 @@ _ Batalhamos para derrubar a ditadura do soutien. Mas a &#8220;lei da gravidade&
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Comportamento-feminino.jpg"><img class="alignnone size-full wp-image-6154" title="Comportamento feminino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Comportamento-feminino.jpg" alt="" width="600" height="375" /></a><br /> <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+  [_stock.xchng_](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Comportamento-feminino.jpg"><img class="alignnone size-full wp-image-6154" title="Comportamento feminino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/Comportamento-feminino.jpg" alt="" width="600" height="375" /></a><br /> <a href="http://www.sxc.hu/) 
 </p>
 
 <p style="text-align: center;">
-  Fiquei curiosa para saber o que passa por tua cabeça. Fala aí, bonita:**<em> o que é ser mulher hoje?</em>**
+  Fiquei curiosa para saber o que passa por tua cabeça. Fala aí, bonita:**_ o que é ser mulher hoje?_**
 </p>
 
 **_Mais no Bicha Fêmea…_**
@@ -119,23 +119,23 @@ _ Batalhamos para derrubar a ditadura do soutien. Mas a &#8220;lei da gravidade&
 **_[De repente você acorda e toma um susto: você é mãe!](http://www.trololodemulher.com.br/2009/08/20/maternidade/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**<em>Comportamento</em>**</a>&#8230;
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a>&#8230;
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 **_ _**

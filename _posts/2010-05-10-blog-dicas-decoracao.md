@@ -32,7 +32,7 @@ Sendo assim, não me interesso por referências de decoração excessivamente c�
 </table>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+  Imagem: [stock.xchng](http://www.sxc.hu/) 
 </p>
 
 Por que estou escrevendo tudo isso? _Hum_… na verdade, no fundo, esse post é um aviso a alguma bicha fêmea navegante desavisada.
@@ -54,7 +54,7 @@ Vai por mim, e você não vai se arrepender!  É que eu não faço o Bicha Fêm
 </table>
 
 <p style="text-align: center;">
-  Imagem: <a href="http://www.sxc.hu/profile/biewoef" target="_blank">Hilde Vanstraelen</a> via <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a> 
+  Imagem: [Hilde Vanstraelen](http://www.sxc.hu/profile/biewoef)  via [stock.xchng](http://www.sxc.hu/)  
 </p>
 
 **Ver imagens por si só num blog, sem ler nada, sem trocar informações, experiências e impressões é absorver dados, não é produzir/construir informação, o que é bem diferente! Isso é o que acredito. E você?**

@@ -10,7 +10,7 @@ categories:
   - Bem-estar
 ---
 <p style="text-align: justify;">
-  E por que você ainda não inseriu esse espaço como possibilidade de passeio nos finais de semana, <em>hein</em>? Não há tempo? Já ouviu falar que quando a gente quer algo, o espaço na agenda aparece? Nem vou discorrer por aqui sobre o quanto é bacana passear ao ar livre, desfrutando os finais de semana com mais leveza…
+  E por que você ainda não inseriu esse espaço como possibilidade de passeio nos finais de semana, _hein_? Não há tempo? Já ouviu falar que quando a gente quer algo, o espaço na agenda aparece? Nem vou discorrer por aqui sobre o quanto é bacana passear ao ar livre, desfrutando os finais de semana com mais leveza…
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -26,7 +26,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“<em>Meu nome é Ana Paula, sou pedagoga, e nos momentos de lazer adoro passear, fazer piquinique e brincar com minha filha no jardim Paracoara, aqui na minha cidade &#8211; Muniz Ferreira,  recôncavo da Bahia.”</em> Ana Paula**
+>   **“_Meu nome é Ana Paula, sou pedagoga, e nos momentos de lazer adoro passear, fazer piquinique e brincar com minha filha no jardim Paracoara, aqui na minha cidade &#8211; Muniz Ferreira,  recôncavo da Bahia.”_ Ana Paula**
 > </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“<em>Aqui no Rio temos o Bosque da Barra. É um local maravilhoso tanto para passeios românticos como para passeios com família. Costumo ir com meu filho, tem espaço pra ele correr e, enquanto eu observo, e ainda desfruto de um cantinho diferente de todo o cinza da cidade</em>. A foto foi tirada por <a href="http://www.betabernardo.com/blog/" target="_blank">Beta Bernardo</a> num ensaio que resolvemos fazer por lá (aliás, desde o meu book gestante, o lugar é tão lindo que quase sempre vira palco de ensaio fotográfico). ” Vanessa Ardisson**
+>   **“_Aqui no Rio temos o Bosque da Barra. É um local maravilhoso tanto para passeios românticos como para passeios com família. Costumo ir com meu filho, tem espaço pra ele correr e, enquanto eu observo, e ainda desfruto de um cantinho diferente de todo o cinza da cidade_. A foto foi tirada por [Beta Bernardo](http://www.betabernardo.com/blog/)  num ensaio que resolvemos fazer por lá (aliás, desde o meu book gestante, o lugar é tão lindo que quase sempre vira palco de ensaio fotográfico). ” Vanessa Ardisson**
 > </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“<em>Sempre que posso passeio com meu neto na orla do mangue &#8211; São Vicente, SP. O bairro é Esplanada dos Barreiros, mas o povo chama de Náutica III. O cenário é um esplendor, o ar fresco e a sombra deliciosa. Dias de frio o sol é delicioso também. </em><em>Renovo minhas energias naquele local e o meu netinho adora ver as crianças brincando no parquinho local. </em><em>Logo ele estará junto com elas</em>.” Yara**
+>   **“_Sempre que posso passeio com meu neto na orla do mangue &#8211; São Vicente, SP. O bairro é Esplanada dos Barreiros, mas o povo chama de Náutica III. O cenário é um esplendor, o ar fresco e a sombra deliciosa. Dias de frio o sol é delicioso também. __Renovo minhas energias naquele local e o meu netinho adora ver as crianças brincando no parquinho local. __Logo ele estará junto com elas_.” Yara**
 > </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“<em>Quando morava em Brasília eu caminhava no Parque de Águas Claras, e agora no Rio de Janeiro eu caminho na praia.Tudo para manter a forma&#8230;saúde e não engordar. Foto: na cadeira de rodas a minha avó Antonia, de boné eu, e de chapéu a minha irmã Gladis (praia de Ipanema)”</em> Gleise | <a href="http://passatempoartesanal.blogspot.com/" target="_blank">Passatempo Artesanal</a>**
+>   **“_Quando morava em Brasília eu caminhava no Parque de Águas Claras, e agora no Rio de Janeiro eu caminho na praia.Tudo para manter a forma&#8230;saúde e não engordar. Foto: na cadeira de rodas a minha avó Antonia, de boné eu, e de chapéu a minha irmã Gladis (praia de Ipanema)”_ Gleise | [Passatempo Artesanal](http://passatempoartesanal.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -74,7 +74,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“Aqui em Jundiaí costumo passear no Parque da cidade e no Parque botânico Eloy Chaves” Maria Suzete | <a href="http://www.meularartecia.com/" target="_blank">Meu Lar Art e Cia.</a>**
+>   **“Aqui em Jundiaí costumo passear no Parque da cidade e no Parque botânico Eloy Chaves” Maria Suzete | [Meu Lar Art e Cia.](http://www.meularartecia.com/) **
 > </p>
 
 &nbsp;
@@ -86,17 +86,17 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“<em>Adoro passear em parques, inclusive tem um aqui perto de casa. Fico perto da natureza, vejo pessoas e tudo isso faz um bem danado</em>.” Andréa | <a href="http://andreaarteva.blogspot.com/" target="_blank">Andréa Artes</a>**
+>   **“_Adoro passear em parques, inclusive tem um aqui perto de casa. Fico perto da natureza, vejo pessoas e tudo isso faz um bem danado_.” Andréa | [Andréa Artes](http://andreaarteva.blogspot.com/) **
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Agora me fala uma coisa: depois de tantas inspirações, não bateu uma vontade de passear ao ar livre neste final de semana? A ideia é plantar esse desejo no seu coração… estímulo é o que menos falta por aqui, <em>hein</em>? Desfrute a vida!
+  Agora me fala uma coisa: depois de tantas inspirações, não bateu uma vontade de passear ao ar livre neste final de semana? A ideia é plantar esse desejo no seu coração… estímulo é o que menos falta por aqui, _hein_? Desfrute a vida!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

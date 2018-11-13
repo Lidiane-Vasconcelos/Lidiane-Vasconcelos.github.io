@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Os benefícios de comer abóboras são incríveis. Elas são ricas em vitaminas A, B e C, são uma fonte de fibra e são ricas em potássio, manganês e magnésio. Parece que ainda vamos falar sobre este vegetal algumas vezes, mas por agora a sugestão de hoje é Abóbora e Cebolas Assadas.</em>
+  “_Os benefícios de comer abóboras são incríveis. Elas são ricas em vitaminas A, B e C, são uma fonte de fibra e são ricas em potássio, manganês e magnésio. Parece que ainda vamos falar sobre este vegetal algumas vezes, mas por agora a sugestão de hoje é Abóbora e Cebolas Assadas._
 </p>
 
 **_Ingredientes:_**
@@ -67,18 +67,18 @@ _2) Eu usei uma abóbora orgânica que tinha uma casca bem fininha, logo, cozinh
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank">**Biscoitos Amaretti, com gostinho de família.**</a>
+[**Biscoitos Amaretti, com gostinho de família.**](http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/) 
 
-<a href="http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/" target="_blank">**Receita de frango com azeitonas, pra tornar festiva a comida caseira.**</a>
+[**Receita de frango com azeitonas, pra tornar festiva a comida caseira.**](http://www.trololodemulher.com.br/2016/11/18/receita-de-frango/) 
 
-<a href="http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/" target="_blank">**Pão de queijo pra ser feliz no café da tarde.**</a>
+[**Pão de queijo pra ser feliz no café da tarde.**](http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/) 
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

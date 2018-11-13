@@ -25,28 +25,28 @@ categories:
 
 &nbsp;
 
-1 – <a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank">Verão + sol + mar + piscina = você descabelada. Xiii… e agora?</a>
+1 – [Verão + sol + mar + piscina = você descabelada. Xiii… e agora?](http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/) 
 
 &nbsp;
 
-2 – <a href="http://www.belezacorpoecia.com/dicas-maquiagem-iluminada/" target="_blank">Quer dicas para uma maquiagem do tipo… iluminada pelo sol?</a>
+2 – [Quer dicas para uma maquiagem do tipo… iluminada pelo sol?](http://www.belezacorpoecia.com/dicas-maquiagem-iluminada/) 
 
 &nbsp;
 
-3 – <a href="http://www.trololodemulher.com.br/2011/09/12/acne-beleza-pele/" target="_blank">Verão á vista: como evitar a acne e garantir a beleza da pele?</a>
+3 – [Verão á vista: como evitar a acne e garantir a beleza da pele?](http://www.trololodemulher.com.br/2011/09/12/acne-beleza-pele/) 
 
 &nbsp;
 
-4 – <a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/" target="_blank">Pescoço, costas e cotovelo: beleza da pele no Verão.</a>
+4 – [Pescoço, costas e cotovelo: beleza da pele no Verão.](http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/) 
 
 &nbsp;
 
-5 – <a href="http://www.trololodemulher.com.br/2014/01/16/beleza-de-verao/" target="_blank">Beleza de Verão: simples, fácil e rápido.</a>
+5 – [Beleza de Verão: simples, fácil e rápido.](http://www.trololodemulher.com.br/2014/01/16/beleza-de-verao/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="center">

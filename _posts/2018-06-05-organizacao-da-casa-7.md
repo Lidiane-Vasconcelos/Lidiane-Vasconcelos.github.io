@@ -24,14 +24,14 @@ categories:
 </p>
 
 <p align="center">
-  Foto via <a href="https://foter.com/" target="_blank">foter.com</a>
+  Foto via [foter.com](https://foter.com/) 
 </p>
 
-1 &#8211; <a href="http://www.trololodemulher.com.br/2016/05/17/organizacao-da-casa/" target="_blank">Organize a casa em 5 minutos: 9 dicas pra aplicar já!</a>
+1 &#8211; [Organize a casa em 5 minutos: 9 dicas pra aplicar já!](http://www.trololodemulher.com.br/2016/05/17/organizacao-da-casa/) 
 
-2 &#8211; <a href="http://www.trololodemulher.com.br/2016/03/08/casa-organizada/" target="_blank">Casa organizada: hábitos simples pra aplicar… ontem!</a>
+2 &#8211; [Casa organizada: hábitos simples pra aplicar… ontem!](http://www.trololodemulher.com.br/2016/03/08/casa-organizada/) 
 
-3 &#8211; <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">Como evitar o acúmulo e organizar o lar? Dicas práticas.</a>
+3 &#8211; [Como evitar o acúmulo e organizar o lar? Dicas práticas.](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/) 
 
 &nbsp;
 
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a> | <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Newsletter Trololó de Mulher – Grátis</a> | <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a>
+  [Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/)  | [Newsletter Trololó de Mulher – Grátis](http://www.trololodemulher.com.br/2018/02/28/newsletter/)  | [Assine e receba o post semanal do blog no seu e-mail – Grátis.](https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Guia Bem Viver – Grátis</a> | <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a>
+  [Guia Bem Viver – Grátis](http://www.trololodemulher.com.br/2018/03/09/bem-viver/)  | [Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.](https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307) 
 </p>
 
 <p align="center">
@@ -56,5 +56,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Perfil pessoal no Facebook</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank">Fanpage no Facebook</a> | <a href="https://www.instagram.com/trololodemulher/" target="_blank">Instagram</a>
+  [Perfil pessoal no Facebook](https://www.facebook.com/lidiane.vasconcelos.94)  | [Fanpage no Facebook](https://www.facebook.com/TrololoMulher/)  | [Instagram](https://www.instagram.com/trololodemulher/) 
 </p>

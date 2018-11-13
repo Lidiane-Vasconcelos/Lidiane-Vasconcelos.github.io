@@ -16,11 +16,11 @@ categories:
 </p>
 
 <p align="justify">
-  O que também é verdade é que muitas dúvidas passavam pela minha cabeça, e imagino que não é diferente com outras gestantes também. Justamente por isso pensei em editar este post com dicas valiosas para uma alimentação saudável durante a gestação, tudo sob a consultoria da **Fabiana Carvalho, Nutricionista do Rio de Janeiro.** Se você está grávida, vem comigo que o <em>trololó</em> é contigo. Se há uma futura mamãe em seus círculos, chama ela pra cá que tenho certeza que a gravidinha vai curtir, <em>viu</em>?
+  O que também é verdade é que muitas dúvidas passavam pela minha cabeça, e imagino que não é diferente com outras gestantes também. Justamente por isso pensei em editar este post com dicas valiosas para uma alimentação saudável durante a gestação, tudo sob a consultoria da **Fabiana Carvalho, Nutricionista do Rio de Janeiro.** Se você está grávida, vem comigo que o _trololó_ é contigo. Se há uma futura mamãe em seus círculos, chama ela pra cá que tenho certeza que a gravidinha vai curtir, _viu_?
 </p>
 
 <p align="justify">
-  <a href="https://thefitbay.com/best-prenatal-multivitamins-reviewed/" target="_blank">Veja mais aqui</a>!
+  [Veja mais aqui](https://thefitbay.com/best-prenatal-multivitamins-reviewed/) !
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  Sabe aquela máxima de que a grávida come por dois? Sim, come por dois mas não pode haver exagero, <em>hein</em>? Fabiana afirma que aumenta-se um pouco a quantidade de alimento, mas a qualidade do que se come é fundamental nesse processo. Ainda de acordo com nossa consultora, “<em>na gravidez as necessidades energéticas se alteram em virtude do crescimento e manutenção do feto e placenta, formação de novos tecidos maternos, maior carga de trabalho metabólico e de metabolismo basal. Mas isto não justifica excessos. Para tanto, a recomendação é que se calcule um ganho de peso adequado considerando-se o IMC pré-gestacional. Assim, mulheres com baixo peso (IMC<18,5) devem ter um ganho total de 12,5kg a 18kg; com peso normal (IMC entre 18,5 a 25) deverão ganhar entre 11,5kg e 16kg; mulheres com sobrepeso (IMC entre 25 e 30) deverão ganhar de 7kg a 11,5kg; e obesas (IMC>30) não deverão ganhar mais que 7kg. Este ganho total é distribuído ao longo da gestação</em>”.
+  Sabe aquela máxima de que a grávida come por dois? Sim, come por dois mas não pode haver exagero, _hein_? Fabiana afirma que aumenta-se um pouco a quantidade de alimento, mas a qualidade do que se come é fundamental nesse processo. Ainda de acordo com nossa consultora, “_na gravidez as necessidades energéticas se alteram em virtude do crescimento e manutenção do feto e placenta, formação de novos tecidos maternos, maior carga de trabalho metabólico e de metabolismo basal. Mas isto não justifica excessos. Para tanto, a recomendação é que se calcule um ganho de peso adequado considerando-se o IMC pré-gestacional. Assim, mulheres com baixo peso (IMC<18,5) devem ter um ganho total de 12,5kg a 18kg; com peso normal (IMC entre 18,5 a 25) deverão ganhar entre 11,5kg e 16kg; mulheres com sobrepeso (IMC entre 25 e 30) deverão ganhar de 7kg a 11,5kg; e obesas (IMC>30) não deverão ganhar mais que 7kg. Este ganho total é distribuído ao longo da gestação_”.
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://matheaw.hubpages.com/hub/Gestation-Diabetes-Meal-Plans" target="_blank">Hubpages</a>
+  Imagem: [Hubpages](http://matheaw.hubpages.com/hub/Gestation-Diabetes-Meal-Plans) 
 </p>
 
 <p align="justify">
@@ -100,7 +100,7 @@ categories:
 > </p>
 
 <p align="justify">
-  Na falta de uma alimentação balanceada e rica em nutrientes, o desenvolvimento do bebê será diretamente afetado. “<em>Uma mãe com sobrepeso ou obesa, por exemplo, terá maior risco de aborto e ainda poderá gerar recém-nascidos macrossômicos, ou seja, bebês com mais de 4kg e com maior risco de desenvolverem doenças crônicas não transmissíveis quando adultos. Isto porque, já na barriga, principalmente no primeiro trimestre da gestação, inicia-se a programação genética que determinará como será a saúde na vida adulta deste bebê, se ele apresentará ou não, por exemplo, predisposição par doenças como diabetes, hipertensão, câncer, alergias e tantas outras</em>”, explica a Fabiana.
+  Na falta de uma alimentação balanceada e rica em nutrientes, o desenvolvimento do bebê será diretamente afetado. “_Uma mãe com sobrepeso ou obesa, por exemplo, terá maior risco de aborto e ainda poderá gerar recém-nascidos macrossômicos, ou seja, bebês com mais de 4kg e com maior risco de desenvolverem doenças crônicas não transmissíveis quando adultos. Isto porque, já na barriga, principalmente no primeiro trimestre da gestação, inicia-se a programação genética que determinará como será a saúde na vida adulta deste bebê, se ele apresentará ou não, por exemplo, predisposição par doenças como diabetes, hipertensão, câncer, alergias e tantas outras_”, explica a Fabiana.
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://kimberlysnyder.com/blog/2012/02/07/what-foods-you-should-eat-and-not-eat-when-pregnant/" target="_blank">Kimberly Snyder</a>
+  Imagem: [Kimberly Snyder](http://kimberlysnyder.com/blog/2012/02/07/what-foods-you-should-eat-and-not-eat-when-pregnant/) 
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank">**Gravidez saudável, segura e em equilíbrio: como vivenciá-la?**</a>
+  [**Gravidez saudável, segura e em equilíbrio: como vivenciá-la?**](http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/) 
 </p>
 
 <p align="center">
@@ -174,11 +174,11 @@ categories:
 </p>
 
 <p align="justify">
-  Fabiana é uma nutricionista querida que conheço de longa data. Além de competente, a moça esbanja simpatia e é super acessível. Para encontrá-la na cidade do Rio de Janeiro, seus contatos são: (21) 981363498 | E-mail: <a href="mailto:fabicarvalhos@globo.com">fabicarvalhos@globo.com</a> | ou ainda <a href="http://www.facebook.com.br/fabicarvalhos" target="_blank">via Facebbok… clique aqui e se joga</a>!
+  Fabiana é uma nutricionista querida que conheço de longa data. Além de competente, a moça esbanja simpatia e é super acessível. Para encontrá-la na cidade do Rio de Janeiro, seus contatos são: (21) 981363498 | E-mail: [via Facebbok… clique aqui e se joga](mailto:fabicarvalhos@globo.com">fabicarvalhos@globo.com</a> | ou ainda <a href="http://www.facebook.com.br/fabicarvalhos) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

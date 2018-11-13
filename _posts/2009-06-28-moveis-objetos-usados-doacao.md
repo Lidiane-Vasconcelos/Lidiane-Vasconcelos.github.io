@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Há quem ponha na rua, com um aviso num papel escrito “me leva”, e fica na torcida que alguém se apodere do objeto, <em>né</em>? Tenho um tio que já fez isso, colocou um sofá na frente de casa com uma placa assim, e felizmente levaram rapidinho…
+  Há quem ponha na rua, com um aviso num papel escrito “me leva”, e fica na torcida que alguém se apodere do objeto, _né_? Tenho um tio que já fez isso, colocou um sofá na frente de casa com uma placa assim, e felizmente levaram rapidinho…
 </p>
 
 <p style="text-align: justify;">
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O que a gente doa é triado para separar o que poderá ser vendido em bazares por preços módicos. Não é bom? O que estiver muito <em>acabadinho</em>, é vendido como sucata. Para saber as áreas de cobertura desse tipo de serviço, digo, as áreas em que as instituições retiram as doações; ou ainda saber horário e marcação das retiradas, bem como os pontos onde você pode se desfazer de lixo eletrônico, segue abaixo a lista com nomes e referências de contato de quem realiza esse feito.
+  O que a gente doa é triado para separar o que poderá ser vendido em bazares por preços módicos. Não é bom? O que estiver muito _acabadinho_, é vendido como sucata. Para saber as áreas de cobertura desse tipo de serviço, digo, as áreas em que as instituições retiram as doações; ou ainda saber horário e marcação das retiradas, bem como os pontos onde você pode se desfazer de lixo eletrônico, segue abaixo a lista com nomes e referências de contato de quem realiza esse feito.
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg"><img class="alignnone size-full wp-image-10078" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg" alt="DOACAO[2]" width="476" height="600" /></a><br /> **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg"><img class="alignnone size-full wp-image-10078" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/06/DOACAO2.jpg" alt="DOACAO[2]" width="476" height="600" /></a><br /> **<a href="http://www.sxc.hu/) **
 </p>
 
 <p style="text-align: justify;">
@@ -96,9 +96,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>

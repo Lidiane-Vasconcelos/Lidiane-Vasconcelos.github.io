@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/decoracao-quarto-menina/" target="_blank">Decoração infantil: quartos fofos para as meninas.</a>**
+  **[Decoração infantil: quartos fofos para as meninas.](http://www.decoracaodacasa.com/decoracao-quarto-menina/) **
 </p>
 
 <p style="text-align: justify;">
@@ -45,15 +45,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank">Decoração infantil: enfeite de tecido para quarto ou festa.</a>**
+  **[Decoração infantil: enfeite de tecido para quarto ou festa.](http://www.decoracaodacasa.com/decoracao-infantil/) **
 </p>
 
 <p style="text-align: justify;">
-  As **letras na cabeceira** da cama são um item bem interessante para você se inspirar e **personalizar o quarto** de sua menina. Elas bem que **poderiam ser feitas em feltro** também, e isso foi uma das **<a href="http://www.trololodemulher.com.br/2011/03/14/ideias-decoracao-infantil/" target="_blank">5 ideias de decoração infantil no quarto dos pequenos</a>** já publicadas por aqui. Confira e inspire-se!
+  As **letras na cabeceira** da cama são um item bem interessante para você se inspirar e **personalizar o quarto** de sua menina. Elas bem que **poderiam ser feitas em feltro** também, e isso foi uma das **[5 ideias de decoração infantil no quarto dos pequenos](http://www.trololodemulher.com.br/2011/03/14/ideias-decoracao-infantil/) ** já publicadas por aqui. Confira e inspire-se!
 </p>
 
 <p style="text-align: justify;">
-  E o **bonequinho na cabeceira**? Diferente e divertido o suficiente para quebrar um pouco a neutralidade, não é? Até isso você pode reproduzir no quarto de sua pequena. Sabe como? Dá uma olhada nos <a href="http://www.trololodemulher.com.br/2011/04/06/tutitati/" target="_blank">**trabalhos da Tati, da Tutitati, que foram publicados no Trololó de Mulher**</a> e você vai entender do que estou falando… vai lá!
+  E o **bonequinho na cabeceira**? Diferente e divertido o suficiente para quebrar um pouco a neutralidade, não é? Até isso você pode reproduzir no quarto de sua pequena. Sabe como? Dá uma olhada nos [**trabalhos da Tati, da Tutitati, que foram publicados no Trololó de Mulher**](http://www.trololodemulher.com.br/2011/04/06/tutitati/)  e você vai entender do que estou falando… vai lá!
 </p>
 
 <p style="text-align: center;">
@@ -65,7 +65,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Olhar um canto assim, <em>tãããõ</em> fofo, pode vir acompanhado do pensamento: “<em>Não há como reproduzir algo assim em casa</em>!” Será? Pensa comigo e olha nos detalhes: o que você vê **na parede é um cabideiro**, e nem é difícil achar um artesanal para colocar **penduricalhos fofos como colares, coraçãozinho de tecido ou um móbile <em>cute</em>**, só para fazer uma graça na decoração…
+  Olhar um canto assim, _tãããõ_ fofo, pode vir acompanhado do pensamento: “_Não há como reproduzir algo assim em casa_!” Será? Pensa comigo e olha nos detalhes: o que você vê **na parede é um cabideiro**, e nem é difícil achar um artesanal para colocar **penduricalhos fofos como colares, coraçãozinho de tecido ou um móbile _cute_**, só para fazer uma graça na decoração…
 </p>
 
 <p style="text-align: justify;">
@@ -73,11 +73,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank">Cortina de bolinhas em quarto infantil: faça você mesma.</a>**
+  **[Cortina de bolinhas em quarto infantil: faça você mesma.](http://www.decoracaodacasa.com/cortina-quarto-infantil/) **
 </p>
 
 <p style="text-align: justify;">
-  Agora, volta lá na imagem e dá uma outra espiada no **mural de fotos abaixo do cabideiro**. Reparou? <em>Ok</em>! Se você não conseguir fazer um no formato de coração, que é mais difícil, nada te impede de fazer um **bastidor de madeira** num formato mais fácil, **cobrí-lo com um tecido bem fofo, passar as fitas cruzando a peça** para que sua filha prenda as fotos e tudo o mais. É ou não é? Viu como esses detalhes começaram a ser possíveis?
+  Agora, volta lá na imagem e dá uma outra espiada no **mural de fotos abaixo do cabideiro**. Reparou? _Ok_! Se você não conseguir fazer um no formato de coração, que é mais difícil, nada te impede de fazer um **bastidor de madeira** num formato mais fácil, **cobrí-lo com um tecido bem fofo, passar as fitas cruzando a peça** para que sua filha prenda as fotos e tudo o mais. É ou não é? Viu como esses detalhes começaram a ser possíveis?
 </p>
 
 <p style="text-align: center;">
@@ -97,7 +97,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Essa borboleta toda perfeitinha de papel foi feita pela Rejane, do **<a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>**. Ela ensinou o **<a href="http://casacorpoecia.blogspot.com/2011/04/borboletas-quer-tambem-vem-que-eu-te.html" target="_blank">PAP aqui</a>**, assim você pode se inspirar e colorir o quarto de sua menina dessa forma. Aproveita!
+  Essa borboleta toda perfeitinha de papel foi feita pela Rejane, do **[Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) **. Ela ensinou o **[PAP aqui](http://casacorpoecia.blogspot.com/2011/04/borboletas-quer-tambem-vem-que-eu-te.html) **, assim você pode se inspirar e colorir o quarto de sua menina dessa forma. Aproveita!
 </p>
 
 <p align="center">
@@ -105,17 +105,17 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Você tem uma **moldura inutilizada** e não sabe o que fazer com ela? Olha aí a ideia: **varal de bandeirolas triangulares com tecido colorido** e **bichinhos de pelúcia para arrematar**. Simples, singelo, bonito e <em>beeeem</em> menininha…
+  Você tem uma **moldura inutilizada** e não sabe o que fazer com ela? Olha aí a ideia: **varal de bandeirolas triangulares com tecido colorido** e **bichinhos de pelúcia para arrematar**. Simples, singelo, bonito e _beeeem_ menininha…
 </p>
 
 <p style="text-align: left;">
-  Imagens: <a href="http://www.housetohome.co.uk/" target="_blank">**housetohome**</a>
+  Imagens: [**housetohome**](http://www.housetohome.co.uk/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
 </p>

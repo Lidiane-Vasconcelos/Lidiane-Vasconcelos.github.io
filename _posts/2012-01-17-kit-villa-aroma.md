@@ -9,7 +9,7 @@ permalink: /2012/01/17/kit-villa-aroma/
 categories:
   - Publieditorial
 ---
-E quem não quer viver a vida se não for vivendo todo o aconchego que ela pode dar? É exatamente nisso no que a **<a href="http://villapano.com.br/" target="_blank">Villa Pano</a>** acredita, e procura levar para cada um de seus produtos toda essa sensação.
+E quem não quer viver a vida se não for vivendo todo o aconchego que ela pode dar? É exatamente nisso no que a **[Villa Pano](http://villapano.com.br/) ** acredita, e procura levar para cada um de seus produtos toda essa sensação.
 
 &nbsp;
 
@@ -26,7 +26,7 @@ E quem não quer viver a vida se não for vivendo todo o aconchego que ela pode 
 &nbsp;
 
 <p align="justify">
-  A **Villa Pano** anda cheia de novidades nos seus diferentes departamentos. Isso mesmo! São várias as possibilidades de ter algo <em>by</em> **Villa Pano**: produtos para **casa, moda, aromas, presentes**, produtos para as **crianças**.
+  A **Villa Pano** anda cheia de novidades nos seus diferentes departamentos. Isso mesmo! São várias as possibilidades de ter algo _by_ **Villa Pano**: produtos para **casa, moda, aromas, presentes**, produtos para as **crianças**.
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ E quem não quer viver a vida se não for vivendo todo o aconchego que ela pode 
 </p>
 
 <p align="justify">
-  Uma delas eu já sei que combina, é a **<a href="http://villapano.com.br/produtos/164/shopbrowse" target="_blank">Villa Aroma</a>**! Quem não gosta de sentir um cheirinho gostoso, não é verdade? Já pensou se esse monte de produtos cheirosos e gostosos de sentir fosse seu, e chegasse aí, na sua casa?
+  Uma delas eu já sei que combina, é a **[Villa Aroma](http://villapano.com.br/produtos/164/shopbrowse) **! Quem não gosta de sentir um cheirinho gostoso, não é verdade? Já pensou se esse monte de produtos cheirosos e gostosos de sentir fosse seu, e chegasse aí, na sua casa?
 </p>
 
 &nbsp;
@@ -49,12 +49,12 @@ Pois é… e não é que pode? **Quer ganhar?**
 
 &nbsp;
 
-**Então, conta para mim, qual é a outra área da** <a href="http://villapano.com.br/" target="_blank">**Villa Pano**</a>**, além da** <a href="http://villapano.com.br/produtos/164/shopbrowse" target="_blank">**Villa Aroma**</a>**, que mais combina com você?**
+**Então, conta para mim, qual é a outra área da** [**Villa Pano**](http://villapano.com.br/) **, além da** [**Villa Aroma**](http://villapano.com.br/produtos/164/shopbrowse) **, que mais combina com você?**
 
 &nbsp;
 
 <p align="center">
-  <span style="font-size: medium;">É a **<a href="http://villapano.com.br/produtos/139/shopbrowse" target="_blank">Villa Casa</a>** … a **<a href="http://villapano.com.br/produtos/140/shopbrowse" target="_blank">Villa Fashion</a>**… a **<a href="http://villapano.com.br/produtos/165/shopbrowse" target="_blank">Villa Gift</a>**… ou a **<a href="http://villapano.com.br/produtos/171/shopbrowse" target="_blank">Villa Kids</a>**? Por quê?</span>
+  <span style="font-size: medium;">É a **[Villa Casa](http://villapano.com.br/produtos/139/shopbrowse) ** … a **[Villa Fashion](http://villapano.com.br/produtos/140/shopbrowse) **… a **[Villa Gift](http://villapano.com.br/produtos/165/shopbrowse) **… ou a **[Villa Kids](http://villapano.com.br/produtos/171/shopbrowse) **? Por quê?</span>
 </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ Pois é… e não é que pode? **Quer ganhar?**
 </p>
 
 <p align="justify">
-  Ah! Se você quiser receber todas as novidades da **Villa Pano no seu e-mail**, não perca tempo, **<a href="http://villapano.blogspot.com/p/receba-nossa-news.html" target="_blank">cadastre-se bem aqui</a>**!
+  Ah! Se você quiser receber todas as novidades da **Villa Pano no seu e-mail**, não perca tempo, **[cadastre-se bem aqui](http://villapano.blogspot.com/p/receba-nossa-news.html) **!
 </p>
 
 <p align="justify">

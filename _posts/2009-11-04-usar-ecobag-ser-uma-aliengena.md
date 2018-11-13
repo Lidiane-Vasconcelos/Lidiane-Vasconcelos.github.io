@@ -25,4 +25,4 @@ No supermercado que frequento parece que sim: usar ecobag é como ser uma alien�
 
 Pelo menos no mercado que frequento, ainda me sinto uma ET usando minha sacola reutilizável. _Humpf_!
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: [stock.xchng](http://www.sxc.hu/) 

@@ -43,12 +43,12 @@ Para muitas pessoas o fim de semana representa deixar todo o empreendimento real
   Vale a dica já para esse fim de semana, e boa sorte!
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **<em>Pela Psicóloga <a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a></em>**
+      **_Pela Psicóloga <a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a>_**
     </td>
   </tr>
   
@@ -74,13 +74,13 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 **_[Como sentir-se confiante.](http://www.trololodemulher.com.br/2010/05/03/auto-estima/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/bem-viver/">**<em>Bem Viver</em>**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**<em>Comportamento</em>**</a>> Chutando o balde…
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a>> Chutando o balde…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

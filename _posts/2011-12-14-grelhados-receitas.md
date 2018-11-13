@@ -14,14 +14,14 @@ Sim… o Verão está mais próximo que nunca e grelhados são muito bem vindos 
 &nbsp;
 
 <p align="justify">
-  As moças talentosas com os temperos, molhos e afins são a **Juliana – <a href="http://www.pitadinha.com/" target="_blank">Pitadinha</a>**, **Tatiana – <a href="http://www.panelaterapia.com/" target="_blank">Panelaterapia</a>** e **Cláudia Ramalho – <a href="http://www.blogfeitoamao.com/" target="_blank">Feito a Mão</a>**. Está preparada para ser encantada pelos olhos e sair correndo para providenciar a reprodução das delícias em sua casa? Então… se joga!
+  As moças talentosas com os temperos, molhos e afins são a **Juliana – [Pitadinha](http://www.pitadinha.com/) **, **Tatiana – [Panelaterapia](http://www.panelaterapia.com/) ** e **Cláudia Ramalho – [Feito a Mão](http://www.blogfeitoamao.com/) **. Está preparada para ser encantada pelos olhos e sair correndo para providenciar a reprodução das delícias em sua casa? Então… se joga!
 </p>
 
 <!--more-->
 
 <p align="center">
   <p align="center">
-    **<span style="font-size: medium;"><em>Pra</em> variar o franguinho grelhado de todo dia…</span>**
+    **<span style="font-size: medium;">_Pra_ variar o franguinho grelhado de todo dia…</span>**
   </p>
   
   <p>
@@ -53,12 +53,12 @@ Sim… o Verão está mais próximo que nunca e grelhados são muito bem vindos 
   </p>
   
   <p style="text-align: center;" align="justify">
-    Ficou com água na boca e você quer comer esse franguinho na sua casa, já? **<a href="http://www.pitadinha.com/2010/11/frango-grelhado-com-abacaxi-pro-almoco.html" target="_blank">Se joga na receita</a>** e aproveita, bonita!
+    Ficou com água na boca e você quer comer esse franguinho na sua casa, já? **[Se joga na receita](http://www.pitadinha.com/2010/11/frango-grelhado-com-abacaxi-pro-almoco.html) ** e aproveita, bonita!
   </p>
   
   <p align="center">
     <p align="center">
-      **<span style="font-size: medium;">Grelhado <em>glamour</em> bem fácil de fazer!</span>**
+      **<span style="font-size: medium;">Grelhado _glamour_ bem fácil de fazer!</span>**
     </p>
     
     <p align="center">
@@ -79,12 +79,12 @@ Sim… o Verão está mais próximo que nunca e grelhados são muito bem vindos 
       </p>
       
       <p style="text-align: center;" align="justify">
-        Aposto que você está <em>superultramega</em> ansiosa para decobrir como preparar essa delícia e arrasar nos seus domínios, certo? **<a href="http://www.panelaterapia.com/2011/07/medalhao-de-baby-beef-ao-molho-de.html" target="_blank">Clica aqui</a>**, anota tudo e receba os elogios!
+        Aposto que você está _superultramega_ ansiosa para decobrir como preparar essa delícia e arrasar nos seus domínios, certo? **[Clica aqui](http://www.panelaterapia.com/2011/07/medalhao-de-baby-beef-ao-molho-de.html) **, anota tudo e receba os elogios!
       </p>
       
       <p align="center">
         <p align="center">
-          **<span style="font-size: medium;">Para eventuais arroubos de gulodice… <em>huuummm</em>!</span>**
+          **<span style="font-size: medium;">Para eventuais arroubos de gulodice… _huuummm_!</span>**
         </p>
         
         <p align="center">
@@ -93,7 +93,7 @@ Sim… o Verão está mais próximo que nunca e grelhados são muito bem vindos 
           </p>
           
           <p align="justify">
-            Quem disse que não dá para “meter o pé na jaca” de vez em quando, <em>hein</em>? Se você concorda que é possível e sabe fazer isso com equilíbrio, precisa ver como a **Cláudia Ramalho** ensinou direitinho como preparar esse **Medalhão de Filé com Bacon e Risoto Ramalho**… ai, ai!
+            Quem disse que não dá para “meter o pé na jaca” de vez em quando, _hein_? Se você concorda que é possível e sabe fazer isso com equilíbrio, precisa ver como a **Cláudia Ramalho** ensinou direitinho como preparar esse **Medalhão de Filé com Bacon e Risoto Ramalho**… ai, ai!
           </p>
           
           <p align="center">
@@ -105,7 +105,7 @@ Sim… o Verão está mais próximo que nunca e grelhados são muito bem vindos 
           </p>
           
           <p style="text-align: center;" align="justify">
-            E então, bonita?! Quer aprender neste exato momento qual a receita desse grelhado lindo de ver, e certamente melhor ainda de comer? **<a href="http://www.blogfeitoamao.com/2011/07/medalho-de-fil-com-bacon-e-risoto-ramalho.html" target="_blank">Clique aqui</a>** e delicie-se!!
+            E então, bonita?! Quer aprender neste exato momento qual a receita desse grelhado lindo de ver, e certamente melhor ainda de comer? **[Clique aqui](http://www.blogfeitoamao.com/2011/07/medalho-de-fil-com-bacon-e-risoto-ramalho.html) ** e delicie-se!!
           </p>
           
           <p align="center">
@@ -159,13 +159,13 @@ Sim… o Verão está mais próximo que nunca e grelhados são muito bem vindos 
               <tr>
                 <td valign="top" width="200">
                   <p align="center">
-                    <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+                    [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
                   </p>
                 </td>
                 
                 <td valign="top" width="200">
                   <p align="center">
-                    <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+                    [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
                   </p>
                 </td>
                 
@@ -175,5 +175,5 @@ Sim… o Verão está mais próximo que nunca e grelhados são muito bem vindos 
             </table>
             
             <p align="center">
-              Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+              Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
             </p>

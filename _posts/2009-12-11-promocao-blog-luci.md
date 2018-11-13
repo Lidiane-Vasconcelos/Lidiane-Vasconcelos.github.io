@@ -17,7 +17,7 @@ Isso era no passado! Depois do convite da Luci, que propôs mais uma blogagem co
 
 <!--more-->
 
-Enquanto lia o post em que Luci menciona o aniversário do blog <a href="http://artesdaluci.blogspot.com/" target="_blank">Artes da Luci</a> e faz o convite para esta blogagem coletiva, ela foi me convencendo de que todos nós somos artistas em algo. Penso cá comigo que eu, de fato, me descobri uma pessoa que se comunica bem na escrita, sobretudo nos trabalhos _bloguísticos_. Fiquei pensando em algum mérito pessoal para que o Bicha Fêmea funcione como um ponto de encontro de tanta mulher bacana, como você, e de alguma forma meu jeito de conduzir o _trololó_ deve ter influenciado bastante para que isso acontecesse.
+Enquanto lia o post em que Luci menciona o aniversário do blog [Artes da Luci](http://artesdaluci.blogspot.com/)  e faz o convite para esta blogagem coletiva, ela foi me convencendo de que todos nós somos artistas em algo. Penso cá comigo que eu, de fato, me descobri uma pessoa que se comunica bem na escrita, sobretudo nos trabalhos _bloguísticos_. Fiquei pensando em algum mérito pessoal para que o Bicha Fêmea funcione como um ponto de encontro de tanta mulher bacana, como você, e de alguma forma meu jeito de conduzir o _trololó_ deve ter influenciado bastante para que isso acontecesse.
 
 Segundo a Luci, isso também pode vir a ser uma forma de arte. Sinceramente, não acho que chegue a tanto. Mas eu sei que isso é algo positivamente forte em minha identidade _bloguística_. E quer saber? Faz bem para a alma procurar um talento que a gente tenha, e encontrar. Você, certamente, tem o seu. Você já realizou esse exercício?
 
@@ -31,7 +31,7 @@ E grite aos quatro cantos o que te faz ser uma artista…
 
 **As bichas fêmeas falam&#8230;**
 
-Muito bom! É bom começar a ler as bichas fêmeas nevegantes que pensam que não têm talento, mas têm sim. Olha só o que comentou a Pam, do <a href="http://menina-a-mulher.blogspot.com/" target="_blank">De Menina a Mulher</a>:
+Muito bom! É bom começar a ler as bichas fêmeas nevegantes que pensam que não têm talento, mas têm sim. Olha só o que comentou a Pam, do [De Menina a Mulher](http://menina-a-mulher.blogspot.com/) :
 
 _“&#8230;menina, quebrei a cabeça, me entristeci, achei que não sou boa em nada, e não é verdade! Eu sou boa na arte de blogar, pelo menos eu acho rsrsrs. E acho que isso serve sim como arte&#8230;”_
 
@@ -39,4 +39,4 @@ Pam,_ a_ gente tem sempre que dar o melhor da gente em tudo mesmo&#8230; é com
 
 Mas, para começar, a gente precisa descobrir onde investir o nosso melhor. Essa é a proposta do _trololó_, então. Descobrir o nosso talento, nossa arte.
 
-***Este post faz parte da blogagem coletiva proposta pela Luci, do blog <a href="http://artesdaluci.blogspot.com/" target="_blank">Artes da Luci</a>. Maiores informações? Está tudo <a href="http://artesdaluci.blogspot.com/2009/12/o-artes-esta-em-festa-venha-participar.html" target="_blank">neste post aqui</a>.**
+***Este post faz parte da blogagem coletiva proposta pela Luci, do blog [Artes da Luci](http://artesdaluci.blogspot.com/) . Maiores informações? Está tudo [neste post aqui](http://artesdaluci.blogspot.com/2009/12/o-artes-esta-em-festa-venha-participar.html) .**

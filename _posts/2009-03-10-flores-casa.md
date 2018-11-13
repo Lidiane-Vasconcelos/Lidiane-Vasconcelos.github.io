@@ -23,14 +23,14 @@ Sou iniciante na arte de florescer a casa, e enquanto revelo o que penso sobre c
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.countryhome.com/" src="http://www.countryhome.com/images/img_plantsandplans_ss4.jpg" alt="http://www.countryhome.com/" />
 </p>
 
-Vasinhos, copos ou garrafas. Tem uma forma ou cor interessante? É o que basta! E podem ir, serelepes e saltitantes, alegrar o banheiro ou lavabo. Aliás, <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self">**<em>dicas para enfeitar banheiro e lavabo by bichas fêmeas</em>** </a>é o que não faltam por aqui.
+Vasinhos, copos ou garrafas. Tem uma forma ou cor interessante? É o que basta! E podem ir, serelepes e saltitantes, alegrar o banheiro ou lavabo. Aliás, <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self">**_dicas para enfeitar banheiro e lavabo by bichas fêmeas_** </a>é o que não faltam por aqui.
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.countryhome.com/" src="http://www.countryhome.com/images/img_plantsandplans_ss5.jpg" alt="http://www.countryhome.com/" />
 </p>
 
 <p style="text-align: center;">
-  Um açucareiro também serve para colorir lindamente um cantinho na cozinha…e já estou de olho no meu para cumprir esse papel por esses dias. Ele não é tão alegremente colorido como o da imagem, mas tem forma e cor interessantes. Bingo! Para essas coisas, basta usar a imaginação. É ou não é? Duvida? Sugiro uma olhada em **<em><a href="http://www.trololodemulher.com.br/2009/02/15/objetos-novos-usos/" target="_self">novos usos de objetos em casa que podem virar vaso para flores&#8230;</a></em>**<img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.countryhome.com/" src="http://www.countryhome.com/images/img_plantsandplans_ss7.jpg" alt="http://www.countryhome.com/" />
+  Um açucareiro também serve para colorir lindamente um cantinho na cozinha…e já estou de olho no meu para cumprir esse papel por esses dias. Ele não é tão alegremente colorido como o da imagem, mas tem forma e cor interessantes. Bingo! Para essas coisas, basta usar a imaginação. É ou não é? Duvida? Sugiro uma olhada em **_<a href="http://www.trololodemulher.com.br/2009/02/15/objetos-novos-usos/" target="_self">novos usos de objetos em casa que podem virar vaso para flores&#8230;</a>_**<img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.countryhome.com/" src="http://www.countryhome.com/images/img_plantsandplans_ss7.jpg" alt="http://www.countryhome.com/" />
 </p>
 
 Açucareiros devem mesmo ser muito bons em acomodar flores. Começo a perceber que tenho menos do que preciso… Me falta um para enfeitar o móvel que dá apoio a cozinha e sala de jantar. Ai, meus sais minerais…suspiros!!!
@@ -47,18 +47,18 @@ O vaso predileto, seja ele da forma ou cor que for, certamente fica em algum lug
 
 E é lá, no centro da mesa de jantar, que fica meu vaso mais “_rechonchundinho_” e com cara de casa. Nem sei porque ele tem mais “cara de casa”, mas casa sem vaso “_rechonchundinho_” com flores na mesa não há de ser casa, ora pois!
 
-Imagens: <a href="http://www.countryhome.com/" target="_blank">Country Home</a>
+Imagens: [Country Home](http://www.countryhome.com/) 
 
 <span style="color: #800080;">Diz aí, onde é o lugar das flores na sua casa?</span>
 
 <span style="color: #800080;">Mais sobre decoração no Bicha Fêmea?</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher cores para a parede?</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher cores para a parede?</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Como decorar a parede da escada?</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Como decorar a parede da escada?</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/" target="_self">Reutilização de caixas de ovos em decoração</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/01/04/caixas-ovos-decorao/" target="_self">Reutilização de caixas de ovos em decoração</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/" target="_self">Como decorar uma mesa de fibra natural e vidro?</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/" target="_self">Como decorar uma mesa de fibra natural e vidro?</a>_**</span>
 
-<span style="color: #800080;">**<em><a href="http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa/" target="_self">Caminho de mesa em mesa de vidro: usar ou não?</a></em>**</span>
+<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa/" target="_self">Caminho de mesa em mesa de vidro: usar ou não?</a>_**</span>

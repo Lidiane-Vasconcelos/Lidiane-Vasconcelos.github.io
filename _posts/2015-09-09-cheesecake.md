@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Confesso: nunca fiz uma **<em>cheesecake</em>** porque sempre achei que eu não seria capaz. Sou uma cozinheira das mais básicas e arriscar tanto sempre me deu uma aflição. Medo do fracasso, sabe? Me julgue! Até que… surgiu a Drica pra explicar tudo <em>tim tim por tim tim</em>, e fazer tudo parecer tão fácil. Agora, sim: me sinto mais segura para tentar. Quer ver que didático é esse vídeo da Drica? Delicie-se a aprenda como fazer essa <em>lindeza</em> de cheesecake assada com geleia de framboesa e morangos. É de babar!
+  Confesso: nunca fiz uma **_cheesecake_** porque sempre achei que eu não seria capaz. Sou uma cozinheira das mais básicas e arriscar tanto sempre me deu uma aflição. Medo do fracasso, sabe? Me julgue! Até que… surgiu a Drica pra explicar tudo _tim tim por tim tim_, e fazer tudo parecer tão fácil. Agora, sim: me sinto mais segura para tentar. Quer ver que didático é esse vídeo da Drica? Delicie-se a aprenda como fazer essa _lindeza_ de cheesecake assada com geleia de framboesa e morangos. É de babar!
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Você pode usar a cobertura que desejar, essa cheesecake é básica! Decore com a geléia e frutas de sua preferência! Sugestões de calda: frutas vermelhas, amora, uva, pêssego em calda, damasco… Você também pode cobrir as laterais da forma se desejar, basta dobrar a quantidade de bolacha maizena e manteiga da receita e siga o restante da mesma maneira!”</em>**
+>   **_“Você pode usar a cobertura que desejar, essa cheesecake é básica! Decore com a geléia e frutas de sua preferência! Sugestões de calda: frutas vermelhas, amora, uva, pêssego em calda, damasco… Você também pode cobrir as laterais da forma se desejar, basta dobrar a quantidade de bolacha maizena e manteiga da receita e siga o restante da mesma maneira!”_**
 > </p>
 
 <p align="center">
@@ -101,19 +101,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/26/capuccino-caseiro-cremoso/" target="_blank">**Vídeo receita: capuccino caseiro cremoso**</a>
+  [**Vídeo receita: capuccino caseiro cremoso**](http://www.trololodemulher.com.br/2015/08/26/capuccino-caseiro-cremoso/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/" target="_blank">**Vídeo receita: batata doce assada**</a>
+  [**Vídeo receita: batata doce assada**](http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/) 
 </p>
 
 <p align="justify">
-  “<em>Drinks e petiscos para receber amigos, almoço pra sogra, um café da manhã especial para seu amor ou para a comidinha de todo dia mesmo, conte comigo!</em>”, essa é a promessa da Drica lá no seu blog. Um tantinho disso você acompanhará aqui no Trololó de Mulher mesmo, mas se eu fosse você, bonita, tratava de acompanhar essa blogueira que entende dos <em>parangolés</em> da cozinha agora, e já! Faz como eu, oh: <a href="http://www.dricanacozinha.com.br/" target="_blank">entre no blog</a> e espie o que tem de bom por lá, inclusive <a href="http://www.dricanacozinha.com.br/dicas/" target="_blank">dicas especiais e espertas bem aqui</a>. O <a href="https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A" target="_blank">canal da Drica no Youtube fica bem aqui</a>, basta fazer sua inscrição. E a <a href="https://www.facebook.com/dricanacozinha/timeline" target="_blank">página do blog no Facebook você encontra aqui</a>, é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
+  “_Drinks e petiscos para receber amigos, almoço pra sogra, um café da manhã especial para seu amor ou para a comidinha de todo dia mesmo, conte comigo!_”, essa é a promessa da Drica lá no seu blog. Um tantinho disso você acompanhará aqui no Trololó de Mulher mesmo, mas se eu fosse você, bonita, tratava de acompanhar essa blogueira que entende dos _parangolés_ da cozinha agora, e já! Faz como eu, oh: [entre no blog](http://www.dricanacozinha.com.br/)  e espie o que tem de bom por lá, inclusive [dicas especiais e espertas bem aqui](http://www.dricanacozinha.com.br/dicas/) . O [canal da Drica no Youtube fica bem aqui](https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A) , basta fazer sua inscrição. E a [página do blog no Facebook você encontra aqui](https://www.facebook.com/dricanacozinha/timeline) , é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

@@ -11,11 +11,11 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Hoje em dia está ficando cada vez mais comum as pessoas **trabalharem em casa mesmo**, não é verdade? O **escritório em casa** acabou sendo chamado <em>home office</em> e ganhou importância. Talvez pelo fato de ser em casa, de não ter um chefe fiscalizando, muitos convivem com a falta de **organização** nesse espaço, o que interfere no redimento. Esse é o seu caso?
+  Hoje em dia está ficando cada vez mais comum as pessoas **trabalharem em casa mesmo**, não é verdade? O **escritório em casa** acabou sendo chamado _home office_ e ganhou importância. Talvez pelo fato de ser em casa, de não ter um chefe fiscalizando, muitos convivem com a falta de **organização** nesse espaço, o que interfere no redimento. Esse é o seu caso?
 </p>
 
 <p style="text-align: justify;">
-  Saiba que você não está sozinha, bonita. Uma moça chamada **Joanna Wilson**, que não é brasileira, tinha um escritório em casa bem caótico. Graças ás dicas e ajuda de **Peter Walsh**, <em>expert</em> em organização, as coisas mudaram de figura na vida dela. Quer ver quais dicas a ajudaram tanto?
+  Saiba que você não está sozinha, bonita. Uma moça chamada **Joanna Wilson**, que não é brasileira, tinha um escritório em casa bem caótico. Graças ás dicas e ajuda de **Peter Walsh**, _expert_ em organização, as coisas mudaram de figura na vida dela. Quer ver quais dicas a ajudaram tanto?
 </p>
 
 <p style="text-align: justify;">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Está vendo o escritório de Joanna? Você se reconhece nele de alguma forma? Acho que muita gente se reconhece, para falar a verdade. E foi para ajudar muitas de nós que o caso dessa moça foi publicado **<a href="http://www.oprah.com/home/Peter-Walshs-Ten-Steps-to-Home-Office-Organization/1" target="_blank">nesta matéria</a>**, no **<a href="http://www.oprah.com/index.html" target="_blank">site da Oprah</a>**. Vamos aprender as dicas?
+  Está vendo o escritório de Joanna? Você se reconhece nele de alguma forma? Acho que muita gente se reconhece, para falar a verdade. E foi para ajudar muitas de nós que o caso dessa moça foi publicado **[nesta matéria](http://www.oprah.com/home/Peter-Walshs-Ten-Steps-to-Home-Office-Organization/1) **, no **[site da Oprah](http://www.oprah.com/index.html) **. Vamos aprender as dicas?
 </p>
 
 <p style="text-align: center;">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se você não consegue achar as coisas com facilidade no seu escritório, o ponto de partida, segundo Peter, é **separar tudo o que há no espaço por funcionalidade**. Foi o que Joanna fez e descobriu, por exemplo, o **quanto de espaço precisaria para acomodar cada grupo de objetos que tinha**, e mais, percebeu que **tinha duplicatas de itens**, a exemplo de grampeadores. Além disso, a moça também se deu conta de que **guardava equipamentos que não usava mais**. Você desconfia de que isso tudo também possa estar acontecendo com você? …<em>xiiiii</em>…
+  Se você não consegue achar as coisas com facilidade no seu escritório, o ponto de partida, segundo Peter, é **separar tudo o que há no espaço por funcionalidade**. Foi o que Joanna fez e descobriu, por exemplo, o **quanto de espaço precisaria para acomodar cada grupo de objetos que tinha**, e mais, percebeu que **tinha duplicatas de itens**, a exemplo de grampeadores. Além disso, a moça também se deu conta de que **guardava equipamentos que não usava mais**. Você desconfia de que isso tudo também possa estar acontecendo com você? …_xiiiii_…
 </p>
 
 <p style="text-align: center;">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **Na minha casa**, as **pastas** onde os documentos ficam arquivados têm **apenas uma cor**, e elas são identificadas por **etiquetas **que também têm **uma cor apenas. Entretanto**, o <em>guru</em> de organização aconselha a **usar um esquema de cores**, porque é mais fácil e rápida a identificação visual. Então, bonita, fica a dica! Você pode lançar mão de **pastas coloridas**, ou **etiquetas coloridas**, para identificar cada local onde ficam documentos como: **receitas médicas/exames, contas pagas, contas a pagar, notas fiscais, recibos, etc.**
+  **Na minha casa**, as **pastas** onde os documentos ficam arquivados têm **apenas uma cor**, e elas são identificadas por **etiquetas **que também têm **uma cor apenas. Entretanto**, o _guru_ de organização aconselha a **usar um esquema de cores**, porque é mais fácil e rápida a identificação visual. Então, bonita, fica a dica! Você pode lançar mão de **pastas coloridas**, ou **etiquetas coloridas**, para identificar cada local onde ficam documentos como: **receitas médicas/exames, contas pagas, contas a pagar, notas fiscais, recibos, etc.**
 </p>
 
 <p style="text-align: center;">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Você sabe que essa regra se aplica a quase tudo nessa vida, não é? E por que seria diferente com seu escritório? Sendo assim, aceite uma verdade: **é impossível você guardar um mundo de coisas no seu escritório**. Então, quando o espaço estiver saturado, aprenda a se livrar de algo quando você trouxer uma novidade. **Comprou um livro novo**? **Doe um que você já tenha**. Você **precisa mesmo de <em>tooooodas</em> as canetas que você tem**? Por que você tem **tantos CDs em branco se nem sabe quando ou como vai usá-los**?…e isso serve para muitas outras coisas. Fica atenta!
+  Você sabe que essa regra se aplica a quase tudo nessa vida, não é? E por que seria diferente com seu escritório? Sendo assim, aceite uma verdade: **é impossível você guardar um mundo de coisas no seu escritório**. Então, quando o espaço estiver saturado, aprenda a se livrar de algo quando você trouxer uma novidade. **Comprou um livro novo**? **Doe um que você já tenha**. Você **precisa mesmo de _tooooodas_ as canetas que você tem**? Por que você tem **tantos CDs em branco se nem sabe quando ou como vai usá-los**?…e isso serve para muitas outras coisas. Fica atenta!
 </p>
 
 <p style="text-align: center;">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Confira mais ideias possíveis para o seu escritório lendo o **<a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/" target="_blank">post com soluções simples de decoração e organização para home offices</a>** já publicado no Trololó de Mulher.
+  Confira mais ideias possíveis para o seu escritório lendo o **[post com soluções simples de decoração e organização para home offices](http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/) ** já publicado no Trololó de Mulher.
 </p>
 
 <p style="text-align: center;">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **1 – Tenha um mural de recados.** Se você ainda não tem um, saiba que ele é muito útil para deixar **ao alcance dos olhos os lembretes das coisas <em>superultramegaimportantes</em>** a serem executadas.
+  **1 – Tenha um mural de recados.** Se você ainda não tem um, saiba que ele é muito útil para deixar **ao alcance dos olhos os lembretes das coisas _superultramegaimportantes_** a serem executadas.
 </p>
 
 <p style="text-align: justify;">
@@ -95,15 +95,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **3 – Providencie um gaveteiro de rodinha**, assim ele pode sair de baixo de sua mesa durante o dia, enquanto você estiver trabalhando, e voltar para lá á noite, liberando o espaço de circulação. Para quem tem pouco espaço e usa a sala como <em>home office</em>, por exemplo, é uma dica de solução.
+  **3 – Providencie um gaveteiro de rodinha**, assim ele pode sair de baixo de sua mesa durante o dia, enquanto você estiver trabalhando, e voltar para lá á noite, liberando o espaço de circulação. Para quem tem pouco espaço e usa a sala como _home office_, por exemplo, é uma dica de solução.
 </p>
 
 <p style="text-align: justify;">
-  **4 – Personalize um nicho para caixas cheias de estilo**. Por poucos <em>dinheirinhos,</em> será que seu marceneiro não faz um módulo de madeira com quatro nichos para você? Preencha esses nichos com caixas escolhidas a dedo e, <em>voilá</em>! Você terá um cantinho bonito para guardar papel, suprimentos de escritório ou o que mais você precisar. Copie a ideia!
+  **4 – Personalize um nicho para caixas cheias de estilo**. Por poucos _dinheirinhos,_ será que seu marceneiro não faz um módulo de madeira com quatro nichos para você? Preencha esses nichos com caixas escolhidas a dedo e, _voilá_! Você terá um cantinho bonito para guardar papel, suprimentos de escritório ou o que mais você precisar. Copie a ideia!
 </p>
 
 <p style="text-align: justify;">
-  Imagens: **<a href="http://www.oprah.com/index.html" target="_blank">Oprah</a>**
+  Imagens: **[Oprah](http://www.oprah.com/index.html) **
 </p>
 
 **Mais no Trololó de Mulher…**
@@ -115,5 +115,5 @@ categories:
 **[Organização de escritório ou home office: dicas.](http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/)**
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

@@ -11,11 +11,11 @@ categories:
 ---
 Se você parar para pensar, tenho certeza que vai acontecer exatamente o que ocorreu comigo: parei no vigésimo sétimo motivo com cara de “_já acabou_?”. A gente tem uma infinidade de razões para sorrir e ser feliz, e no _vuco-vuco_ diário nem se dá conta… _tsc tsc tsc…_
 
-Mas, por que 27 motivos? Ah! Deixa eu te explicar. Sabe a Patrícia Pirota, editora do blog <a href="http://www.patriciapirota.blogspot.com/" target="_blank">AINDA MININAMÁ</a>? Ela fez aniversário no último dia 10 de Outubro, e a bonita completou 27 anos de vida. Pois bem, a _mininamá_ do coração de gengibre resolveu presentear as pessoas por ocasião do aniversário dela. Pode? Pode, sim.
+Mas, por que 27 motivos? Ah! Deixa eu te explicar. Sabe a Patrícia Pirota, editora do blog [AINDA MININAMÁ](http://www.patriciapirota.blogspot.com/) ? Ela fez aniversário no último dia 10 de Outubro, e a bonita completou 27 anos de vida. Pois bem, a _mininamá_ do coração de gengibre resolveu presentear as pessoas por ocasião do aniversário dela. Pode? Pode, sim.
 
 É que Patrícia não é mesmo alguém convencional, e o blog dela também não teria como ser. Somente lá para a gente receber um desafio tão gostoso como esse, de listar 27 motivos para sorrir e, de quebra, correr o risco gostoso de ganhar um livro de Drummond, autor querido da bonita.
 
-E eu? _Rá_! Eu não sou boba nem nada, e cá estou feliz da vida expondo meus motivos para sorrir. E você, que é esperta e não vai perder a chance de fazer uma reflexão sobre seus dias, pode participar também. Está tudo explicadinho, _tim_ por _tim tim_, <a href="http://patriciapirota.blogspot.com/2009/10/o-aniversario-e-meu-mas-o-presente-e.html" target="_blank">neste post aqui</a>. Sabe o máximo que pode acontecer? Você descobrir que não há razão para tanta reclamação na vida… vale ou não vale a pena?
+E eu? _Rá_! Eu não sou boba nem nada, e cá estou feliz da vida expondo meus motivos para sorrir. E você, que é esperta e não vai perder a chance de fazer uma reflexão sobre seus dias, pode participar também. Está tudo explicadinho, _tim_ por _tim tim_, [neste post aqui](http://patriciapirota.blogspot.com/2009/10/o-aniversario-e-meu-mas-o-presente-e.html) . Sabe o máximo que pode acontecer? Você descobrir que não há razão para tanta reclamação na vida… vale ou não vale a pena?
 
 Olha os meus motivos aqui:
 

@@ -15,7 +15,7 @@ Qual é a mulher que não se sente o máximo ao se olhar no espelho e ver que ar
 &nbsp;
 
 <p align="justify">
-  A gente quer mesmo é ficar toda bonita com **<em>bijus</em>, bolsas, cintos, pulseiras e lenços de ótima qualidade**, certo? Isso faz diferença no conjunto! Mas, oh: vamos combinar? Isso não quer dizer que o nosso bolso seja arrasado junto, concorda? Então vem cá que tenho uma dica para você, <em>bonitona</em>… confere!
+  A gente quer mesmo é ficar toda bonita com **_bijus_, bolsas, cintos, pulseiras e lenços de ótima qualidade**, certo? Isso faz diferença no conjunto! Mas, oh: vamos combinar? Isso não quer dizer que o nosso bolso seja arrasado junto, concorda? Então vem cá que tenho uma dica para você, _bonitona_… confere!
 </p>
 
 <!--more-->
@@ -27,15 +27,15 @@ Qual é a mulher que não se sente o máximo ao se olhar no espelho e ver que ar
 &nbsp;
 
 <p align="justify">
-  Já imaginou se você pudesse ter acesso a **bijuterias e acessórios de qualidade** com um **preço excelente**, sem que para isso seja necessário você sair de casa? Pode parar de imaginar… isso é possível! A **<a href="http://www.anibiju.com.br/" target="_blank">Anibiju</a>** surgiu exatamente com esse propósito, <em>bonita</em>!
+  Já imaginou se você pudesse ter acesso a **bijuterias e acessórios de qualidade** com um **preço excelente**, sem que para isso seja necessário você sair de casa? Pode parar de imaginar… isso é possível! A **[Anibiju](http://www.anibiju.com.br/) ** surgiu exatamente com esse propósito, _bonita_!
 </p>
 
 <p align="justify">
-  Nós que somos bichas fêmeas inteligentes, queremos esse **conforto e praticidade com facilidades no pagamento** também… é ou não é? Pois a **<a href="http://www.anibiju.com.br/" target="_blank">AniBiju</a>** tem o melhor dos diferenciais nas compras <em>on line</em>: **entrega grátis para todos os estados do Brasil!**
+  Nós que somos bichas fêmeas inteligentes, queremos esse **conforto e praticidade com facilidades no pagamento** também… é ou não é? Pois a **[AniBiju](http://www.anibiju.com.br/) ** tem o melhor dos diferenciais nas compras _on line_: **entrega grátis para todos os estados do Brasil!**
 </p>
 
 <p align="justify">
-  **E não para por aí! **A** <a href="http://www.anibiju.com.br/" target="_blank">AniBiju</a>** trabalha com um estoque limitado, para que você tenha exclusividade em suas peças, além de ter sempre novidades para você!
+  **E não para por aí! **A** [AniBiju](http://www.anibiju.com.br/) ** trabalha com um estoque limitado, para que você tenha exclusividade em suas peças, além de ter sempre novidades para você!
 </p>
 
 &nbsp;
@@ -47,15 +47,15 @@ Qual é a mulher que não se sente o máximo ao se olhar no espelho e ver que ar
 &nbsp;
 
 <p align="justify">
-  Para completar a série de vantagens oferecidas pela **<a href="http://www.anibiju.com.br/" target="_blank">AniBiju</a>**, anote aí: é possível realizar **compras no cartão em até 18 vezes!**
+  Para completar a série de vantagens oferecidas pela **[AniBiju](http://www.anibiju.com.br/) **, anote aí: é possível realizar **compras no cartão em até 18 vezes!**
 </p>
 
 <p align="justify">
-  O Verão está dando o ar da graça <em>logo logo</em>, o branco vem com tudo por aí e todas nós já sabemos disso, e as cores claras é que favorecem tanto a criatividade no <em>look, né</em>? A aposta nos detalhes é sempre algo muito acertado… a gente sabe!
+  O Verão está dando o ar da graça _logo logo_, o branco vem com tudo por aí e todas nós já sabemos disso, e as cores claras é que favorecem tanto a criatividade no _look, né_? A aposta nos detalhes é sempre algo muito acertado… a gente sabe!
 </p>
 
 <p align="justify">
-  Brincar com o contraste nesses detalhes faz o teu estilo? Ou você gosta mesmo é do visual clássico e tradicional? Seja de um jeito ou de outro, os modelos de bijuterias e acessórios da **<a href="http://www.anibiju.com.br/" target="_blank">AniBiju</a>** são bem variados, justamente para atender a todos os estilos. Não duvide de que o seu está por lá!
+  Brincar com o contraste nesses detalhes faz o teu estilo? Ou você gosta mesmo é do visual clássico e tradicional? Seja de um jeito ou de outro, os modelos de bijuterias e acessórios da **[AniBiju](http://www.anibiju.com.br/) ** são bem variados, justamente para atender a todos os estilos. Não duvide de que o seu está por lá!
 </p>
 
 &nbsp;
@@ -67,5 +67,5 @@ Qual é a mulher que não se sente o máximo ao se olhar no espelho e ver que ar
 &nbsp;
 
 <p align="justify">
-  Aposto que você está curiosa para dar uma <em>espiada</em> nas <em>belezuras</em> da **<a href="http://www.anibiju.com.br/" target="_blank">AniBiju</a>**, hã? **<a href="http://www.anibiju.com.br/" target="_blank">Vai lá</a>**, bonita! Olha mesmo! Você vai ver como é gostoso passear e clicar na loja virtual, que é muito bem construída e tem visual lindo de viver…quer ver? **<a href="http://www.anibiju.com.br/" target="_blank">Confere</a>**!
+  Aposto que você está curiosa para dar uma _espiada_ nas _belezuras_ da **[AniBiju](http://www.anibiju.com.br/) **, hã? **[Vai lá](http://www.anibiju.com.br/) **, bonita! Olha mesmo! Você vai ver como é gostoso passear e clicar na loja virtual, que é muito bem construída e tem visual lindo de viver…quer ver? **[Confere](http://www.anibiju.com.br/) **!
 </p>

@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando há a hipertensão na gestação, é preciso acender o sinal de alerta. Toda uma série de consequências são desencadeadas por conta disso, “<em>em casos mais graves há o desenvolvimento da Pré-eclâmpsia, quando associado ao quadro de aumento da pressão arterial temos edema (inchaço) generalizado e intenso (visto pelo aumento de peso súbito). Nesses casos, também é comum haver perda de proteína pela urina, insuficiência renal e hepática. Caso não haja melhora, o quadro pode evoluir para Eclâmpsia, que consiste em convulsões generalizadas e é a principal causa de morte materna e perinatal</em>” explica a médica.
+  Quando há a hipertensão na gestação, é preciso acender o sinal de alerta. Toda uma série de consequências são desencadeadas por conta disso, “_em casos mais graves há o desenvolvimento da Pré-eclâmpsia, quando associado ao quadro de aumento da pressão arterial temos edema (inchaço) generalizado e intenso (visto pelo aumento de peso súbito). Nesses casos, também é comum haver perda de proteína pela urina, insuficiência renal e hepática. Caso não haja melhora, o quadro pode evoluir para Eclâmpsia, que consiste em convulsões generalizadas e é a principal causa de morte materna e perinatal_” explica a médica.
 </p>
 
 <p align="justify">
@@ -28,11 +28,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/" target="_blank">**Alimentação na gravidez: saúde para mamãe e bebê**</a>
+  [**Alimentação na gravidez: saúde para mamãe e bebê**](http://www.trololodemulher.com.br/2015/02/27/alimentacao-gravidez-nutricao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/" target="_blank">**Gavidez saudável, segura e em equilíbrio: como vivenciá-la?**</a>
+  [**Gavidez saudável, segura e em equilíbrio: como vivenciá-la?**](http://www.trololodemulher.com.br/2015/01/09/gravidez-saudavel-gestacao/) 
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <b><a href="https://www.flickr.com/photos/meaganjean/3985720277/" target="_blank">Ⅿeagan</a> / <a href="http://foter.com/" target="_blank">Foter</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a></b>
+  Imagem: <b>[Ⅿeagan](https://www.flickr.com/photos/meaganjean/3985720277/)  / [Foter](http://foter.com/)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) </b>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  Os males da pressão alta alteram todo o ambiente uterino, e o feto sofre consequências diretas. Segunda a Dra. Livia, “<em>o bebê pode ser afetado diretamente pelo baixo fluxo de sangue que chega até ele, resultando em restrição de crescimento, diminuição de líquido amniótico, prematuridade e até casos extremos de descolamento de placenta com grande chance de óbito materno e fetal</em>”, conclui. É preciso que se diga que essa mal, o da hipertensão arterial, pode ser algo crônico, quando a mamãe já sofria desse problema antes mesmo de engravidar, ou algo adquirido quando engravida. Neste último caso, é o que se chama Hipertensão Gestacional, desenvolvida após a 20ª semana da gestação. “<em>A origem da Hipertensão Gestacional é desconhecida, mas alguns fatores tentam explicá-la: invasão inadequada da placenta na parede do útero (dificultando o fluxo adequado de sangue da mãe para o feto), fatores imunológicos (do sistema de defesa da mãe contra o bebê), lesões dos vasos sanguíneos, predisposição genética (história familiar de hipertensão gestacional), fatores nutricionais (deficiências nutricionais ainda em estudo) e estresse</em>”, esclarece a Ginecologista.
+  Os males da pressão alta alteram todo o ambiente uterino, e o feto sofre consequências diretas. Segunda a Dra. Livia, “_o bebê pode ser afetado diretamente pelo baixo fluxo de sangue que chega até ele, resultando em restrição de crescimento, diminuição de líquido amniótico, prematuridade e até casos extremos de descolamento de placenta com grande chance de óbito materno e fetal_”, conclui. É preciso que se diga que essa mal, o da hipertensão arterial, pode ser algo crônico, quando a mamãe já sofria desse problema antes mesmo de engravidar, ou algo adquirido quando engravida. Neste último caso, é o que se chama Hipertensão Gestacional, desenvolvida após a 20ª semana da gestação. “_A origem da Hipertensão Gestacional é desconhecida, mas alguns fatores tentam explicá-la: invasão inadequada da placenta na parede do útero (dificultando o fluxo adequado de sangue da mãe para o feto), fatores imunológicos (do sistema de defesa da mãe contra o bebê), lesões dos vasos sanguíneos, predisposição genética (história familiar de hipertensão gestacional), fatores nutricionais (deficiências nutricionais ainda em estudo) e estresse_”, esclarece a Ginecologista.
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>Não dispomos de meios satisfatórios para prevenção primária da Hipertensão Gestacional. Mas em casos em que ela já foi diagnosticada, um correto acompanhamento pré-natal e tratamento eficiente podem prevenir maiores complicações. O momento do parto depende das condições clínica e laboratorial maternas, da idade gestacional e das condições fetais. Sendo a via de parto, cesárea ou normal, também individualizadas</em>**.”
+>   “**_Não dispomos de meios satisfatórios para prevenção primária da Hipertensão Gestacional. Mas em casos em que ela já foi diagnosticada, um correto acompanhamento pré-natal e tratamento eficiente podem prevenir maiores complicações. O momento do parto depende das condições clínica e laboratorial maternas, da idade gestacional e das condições fetais. Sendo a via de parto, cesárea ou normal, também individualizadas_**.”
 > </p>
 
 <p align="center">
@@ -64,9 +64,9 @@ categories:
 </p>
 
 <p align="justify">
-  Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? <a href="https://www.facebook.com/draliviaavieira/timeline" target="_blank">Clica aqui, curta</a> e informe-se!
+  Dra. Lívia também atualiza uma página no Facebook constantemente, toda ela repleta de informação útil para saúde da mulher antes, durante e após a gestação. Eu, que não sou boba nem nada, já curti. Vem também? [Clica aqui, curta](https://www.facebook.com/draliviaavieira/timeline)  e informe-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

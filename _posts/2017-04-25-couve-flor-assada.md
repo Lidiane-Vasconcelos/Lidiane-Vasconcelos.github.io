@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Estou sempre procurando maneiras agradáveis e diferentes de comer legumes. Eles são tão importantes para a nossa dieta! Mas se você prepará-los o tempo todo da mesma forma, vai se tornar uma coisa chata, pouco interessante. Um bom exemplo disso é a couve-flor cozida: tenho certeza que você não quer prepará-la da mesma maneira todas as vezes, não é?</em>
+  “_Estou sempre procurando maneiras agradáveis e diferentes de comer legumes. Eles são tão importantes para a nossa dieta! Mas se você prepará-los o tempo todo da mesma forma, vai se tornar uma coisa chata, pouco interessante. Um bom exemplo disso é a couve-flor cozida: tenho certeza que você não quer prepará-la da mesma maneira todas as vezes, não é?_
 </p>
 
 <p align="justify">
-  <em>Para dar-lhe uma alternativa, a receita de hoje é uma couve-flor assada. Este vegetal é bem conhecido por ser rico em vitamina C, K e fibra. Para ajudar a melhorar o sabor da couve-flor, você pode usar uma mistura de temperos, e na minha experiência, esta receita é tão deliciosa que pode encorajar você a comer couve-flor regularmente.</em>
+  _Para dar-lhe uma alternativa, a receita de hoje é uma couve-flor assada. Este vegetal é bem conhecido por ser rico em vitamina C, K e fibra. Para ajudar a melhorar o sabor da couve-flor, você pode usar uma mistura de temperos, e na minha experiência, esta receita é tão deliciosa que pode encorajar você a comer couve-flor regularmente._
 </p>
 
 &nbsp;
@@ -68,20 +68,20 @@ _6 – Tempere com sal a gosto e sirva_.”
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/" target="_blank">**Bolo de alecrim… e a delícia de experimentar o novo.**</a>
+[**Bolo de alecrim… e a delícia de experimentar o novo.**](http://www.trololodemulher.com.br/2017/04/18/bolo-de-alecrim/) 
 
-<a href="http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/" target="_blank">**Suco de beterraba, cenoura e laranja… e sabedoria de vó.**</a>
+[**Suco de beterraba, cenoura e laranja… e sabedoria de vó.**](http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/) 
 
-<a href="http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/" target="_blank">**Patê de fígado de frango.**</a>
+[**Patê de fígado de frango.**](http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/) 
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… [clique aqui e siga!](https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

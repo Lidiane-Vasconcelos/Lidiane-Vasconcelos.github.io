@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Há controvérsias, porque engana-se que ser vegetariano é ser, necessariamente, saudável. Sim! Eu tenho muitas dúvidas sobre isso tudo, e quis tirá-las <em>tim tim por tim tim</em> para compartilhar aqui no **Trololó de Mulher**. Aprendi um bocado a partir da edição desse post, e tenho certeza que você vai ficar mais <em>antenada</em> com o assunto também… <em>bora</em>?
+  Há controvérsias, porque engana-se que ser vegetariano é ser, necessariamente, saudável. Sim! Eu tenho muitas dúvidas sobre isso tudo, e quis tirá-las _tim tim por tim tim_ para compartilhar aqui no **Trololó de Mulher**. Aprendi um bocado a partir da edição desse post, e tenho certeza que você vai ficar mais _antenada_ com o assunto também… _bora_?
 </p>
 
 <p align="justify">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando a gente ouve falar que <em>fulano ou beltrano</em> aderiu á dieta vegetariana, desconfiamos que isso aconteceu por alguns possíveis motivos: cuidar melhor da saúde (leia-se ter mais qualidade de vida) , cuidar do meio ambiente (entenda preocupar-se com o meio onde se vive) e ética (traduza com lutar pelos direitos dos animais). Seja por um motivo ou outro, essa mudança de postura não pode ser feita de uma hora pra outra, muito menos sem o acompanhamento de um profissional, porque é muito importante encontrar alternativas para repor as vitaminas, proteínas e gorduras que ficarão fora desse cardápio. Justamente por isso, perguntei para a Pamela:
+  Quando a gente ouve falar que _fulano ou beltrano_ aderiu á dieta vegetariana, desconfiamos que isso aconteceu por alguns possíveis motivos: cuidar melhor da saúde (leia-se ter mais qualidade de vida) , cuidar do meio ambiente (entenda preocupar-se com o meio onde se vive) e ética (traduza com lutar pelos direitos dos animais). Seja por um motivo ou outro, essa mudança de postura não pode ser feita de uma hora pra outra, muito menos sem o acompanhamento de um profissional, porque é muito importante encontrar alternativas para repor as vitaminas, proteínas e gorduras que ficarão fora desse cardápio. Justamente por isso, perguntei para a Pamela:
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.fortheloveoffoodblog.com/raw-zucchini-sushi-rolls/" target="_blank">In Sonnet´s Kitchen</a>
+  Imagem: [In Sonnet´s Kitchen](http://www.fortheloveoffoodblog.com/raw-zucchini-sushi-rolls/) 
 </p>
 
 <p align="center">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p align="justify">
-  Quando a gente lê as informações sobre a riqueza nutricional que há na dieta vegetariana e, de quebra, sabendo que ainda podemos engrossar o exército na luta pelos direitos dos animais, é fácil a gente se empolgar. Como não querer tanta coisa boa pra nossa vida? O fato é que mudar de postura quanto a alimentação pode trazer uma série de benefícios para a saúde, mas também é importante não perder de vista que isso não pode ser feito de uma hora pra outra. Há problema em agir assim, já que a ausência dos alimentos ideias fará o corpo reclamar. De acordo com a Nutricionista, “<em>no caso dos vegetarianos as deficiências de ferre, vitamina b12, cálcio e zinco podem aparecer, quando a dieta é feita sem a orientação correta. Além disso a falta do consumo de proteína, a longo prazo,  pode levar a perda de massa muscular e a desnutrição</em>”. Fica, portanto, o alerta.
+  Quando a gente lê as informações sobre a riqueza nutricional que há na dieta vegetariana e, de quebra, sabendo que ainda podemos engrossar o exército na luta pelos direitos dos animais, é fácil a gente se empolgar. Como não querer tanta coisa boa pra nossa vida? O fato é que mudar de postura quanto a alimentação pode trazer uma série de benefícios para a saúde, mas também é importante não perder de vista que isso não pode ser feito de uma hora pra outra. Há problema em agir assim, já que a ausência dos alimentos ideias fará o corpo reclamar. De acordo com a Nutricionista, “_no caso dos vegetarianos as deficiências de ferre, vitamina b12, cálcio e zinco podem aparecer, quando a dieta é feita sem a orientação correta. Além disso a falta do consumo de proteína, a longo prazo,  pode levar a perda de massa muscular e a desnutrição_”. Fica, portanto, o alerta.
 </p>
 
 <p align="justify">
-  Além do mais, todo cuidado é pouco e não podemos nos iludir: ser vegetariano não quer dizer ser saudável, necessariamente. Não confunda <em>alhos com bugalhos</em> já que, de acordo com nossa consultora, “<em>muitas vezes a retirada da proteína de origem animal da dieta leva à um consumo elevado de carboidrato (massas, pães, biscoitos, etc.), frituras e molhos com alto teor de caloria e gordura. O consumo desses alimentos pode ocasionar no ganho de peso e gordura corporal, e estar associado à uma deficiência de proteína”</em>, conclui.
+  Além do mais, todo cuidado é pouco e não podemos nos iludir: ser vegetariano não quer dizer ser saudável, necessariamente. Não confunda _alhos com bugalhos_ já que, de acordo com nossa consultora, “_muitas vezes a retirada da proteína de origem animal da dieta leva à um consumo elevado de carboidrato (massas, pães, biscoitos, etc.), frituras e molhos com alto teor de caloria e gordura. O consumo desses alimentos pode ocasionar no ganho de peso e gordura corporal, e estar associado à uma deficiência de proteína”_, conclui.
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://damndelicious.net/2014/06/13/one-pot-zucchini-mushroom-pasta/" target="_blank">Damn Delicious</a>
+  Imagem: [Damn Delicious](http://damndelicious.net/2014/06/13/one-pot-zucchini-mushroom-pasta/) 
 </p>
 
 <p align="center">
@@ -122,23 +122,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/" target="_blank">**Carne de porco faz mal á saúde: mito ou verdade?**</a>
+  [**Carne de porco faz mal á saúde: mito ou verdade?**](http://www.trololodemulher.com.br/2015/03/09/carne-de-porco/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/" target="_blank">**Café x saúde: quando é que ele é mocinho ou vilão?**</a>
+  [**Café x saúde: quando é que ele é mocinho ou vilão?**](http://www.trololodemulher.com.br/2014/10/13/cafe-saude-alimentacao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank">**Me diz o que comes… e te direi se és saudável ou não.**</a>
+  [**Me diz o que comes… e te direi se és saudável ou não.**](http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/) 
 </p>
 
 <p align="justify">
-  A **Dra. Pâmela Miguel** também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
+  A **Dra. Pâmela Miguel** também está na blogosfera _viu_, bonita? Para acompanhar todas as novidades e informações _superultramega_ úteis para que possamos nos alimentar melhor, espie o [blog onde há suas atualizações](http://www.drafernandagranja.com/) . Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

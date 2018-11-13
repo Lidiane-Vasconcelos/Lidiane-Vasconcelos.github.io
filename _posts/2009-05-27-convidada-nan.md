@@ -9,7 +9,7 @@ permalink: /2009/05/27/convidada-nan/
 categories:
   - Sem categoria
 ---
-**_Por Nana – <a href="http://www.mangacompimenta.blogspot.com/" target="_blank">Manga com Pimenta</a>_**
+**_Por Nana – [Manga com Pimenta](http://www.mangacompimenta.blogspot.com/) _**
 
 Quando a Lidiane me convidou para escrever especialmente no Bicha Fêmea, não sabia o que falar. Comida é algo que amo fazer, mas aqui era um canto de bicha e fêmea por sinal. Logo eu queria falar assunto de calcinha e deixar a comida para o meu blog. Assistindo Sexy and City, aonde Sarah Jessica Parker estava perdida em Paris, por causa de um amor e sentindo saudades de New York, me deu um estalo de escrever sobre a New York latina, São Paulo:
 

@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A boa notícia é que esse post foi editado para tirar TO-DAS as dúvidas que possam existir. A consultoria da **<em>Designer</em> de Ambientes Carol Carneiro**, sempre presente por aqui, não deixa margem para inseguranças. Preste atenção nas dicas, eleja seus tons queridos, e saia pincelando cores em sua vida.
+  A boa notícia é que esse post foi editado para tirar TO-DAS as dúvidas que possam existir. A consultoria da **_Designer_ de Ambientes Carol Carneiro**, sempre presente por aqui, não deixa margem para inseguranças. Preste atenção nas dicas, eleja seus tons queridos, e saia pincelando cores em sua vida.
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  Imagem: **_[stock.xchng](http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -114,7 +114,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  Carol Carneiro é uma Designer de Ambientes apaixonada pela reutilização de materiais. No **<a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank">blog que ela edita</a>** dá para ver muito do que essa<em> superultramega</em> profissional tem produzido, além de suas ideias transformadas em posts. Além disso, tem muito mais na **<a href="https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448" target="_blank">página da Designer no Facebook</a>**, cujo talento pode estar na casa de qualquer um através de projetos e serviços de consultoria de decoração.
+  Carol Carneiro é uma Designer de Ambientes apaixonada pela reutilização de materiais. No **[blog que ela edita](http://www.blogcarolcarneiro.blogspot.com.br/) ** dá para ver muito do que essa_ superultramega_ profissional tem produzido, além de suas ideias transformadas em posts. Além disso, tem muito mais na **[página da Designer no Facebook](https://www.facebook.com/pages/Blog-Carol-Carneiro/185450341509448) **, cujo talento pode estar na casa de qualquer um através de projetos e serviços de consultoria de decoração.
 </p>
 
 &nbsp;
@@ -122,5 +122,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

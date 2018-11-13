@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  Imagem: <a href="https://www.flickr.com/photos/donkeyhotey/5521101616/" target="_blank">DonkeyHotey</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: [DonkeyHotey](https://www.flickr.com/photos/donkeyhotey/5521101616/)  via [Foter.com](http://foter.com/)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) 
 </p>
 
 <!--more-->
@@ -34,7 +34,7 @@ Recebi a pergunta com o dilema de decoração da **Carolzinha Leroy**, que dizia
 &nbsp;
 
 > <p align="justify">
->   **“<em>Oi, Lidiane! ´Tô com um armário de ferro antigaço lá em casa ´pra reformar&#8230;.tá bem velhinho. Você pode me ajudar com um post sobre isso? Pensei em dar uma lixada bacana nele e pintar de branco, e nas portas que são de madeira, colocar chita. Me ajuda&#8230;por favorzinho&#8230;bjim</em>”**
+>   **“_Oi, Lidiane! ´Tô com um armário de ferro antigaço lá em casa ´pra reformar&#8230;.tá bem velhinho. Você pode me ajudar com um post sobre isso? Pensei em dar uma lixada bacana nele e pintar de branco, e nas portas que são de madeira, colocar chita. Me ajuda&#8230;por favorzinho&#8230;bjim_”**
 > </p>
 
 &nbsp;
@@ -60,43 +60,43 @@ As dicas da Carol Carneiro foram as seguintes:
 &nbsp;
 
 > <p align="justify">
->   **“<em>Bem bacana sua ideia, querida Carolzinha! Pintar com a cor branca é uma boa opção, pois é neutra, combina com tudo, além de ser “clean&#8221; e você não vai se cansar tão cedo. Agora, é importante que utilize o material correto. Anota aí!</em>**
+>   **“_Bem bacana sua ideia, querida Carolzinha! Pintar com a cor branca é uma boa opção, pois é neutra, combina com tudo, além de ser “clean&#8221; e você não vai se cansar tão cedo. Agora, é importante que utilize o material correto. Anota aí!_**
 > </p>
 
 > <p align="justify">
->   **<span style="text-decoration: underline;"><em>1º Passo: Ferro</em></span>**
+>   **<span style="text-decoration: underline;">_1º Passo: Ferro_</span>**
 > </p>
 
 > <p align="justify">
->   **<em>1) Lixa nº 150 para lixar bem o ferro e retirar todo ferrugem existente;</em>**
+>   **_1) Lixa nº 150 para lixar bem o ferro e retirar todo ferrugem existente;_**
 > </p>
 
 > <p align="justify">
->   **<em>2) Paninho para tirar a poeira após lixar;</em>**
+>   **_2) Paninho para tirar a poeira após lixar;_**
 > </p>
 
 > <p align="justify">
->   **<em>3) Aguarrás (caso queira misturar um pouquinho na tinta para diluí-la);</em>**
+>   **_3) Aguarrás (caso queira misturar um pouquinho na tinta para diluí-la);_**
 > </p>
 
 > <p align="justify">
->   **<em>4)Tinta esmalte sintético (na cor branca) e pincel para pintar umas 3 demãos (espaço de 4h entre uma e outra);</em>**
+>   **_4)Tinta esmalte sintético (na cor branca) e pincel para pintar umas 3 demãos (espaço de 4h entre uma e outra);_**
 > </p>
 
 > <p align="justify">
->   **<em><span style="text-decoration: underline;">Importante</span>: cuidado com pó de poeira, por exemplo, pois pode grudar na hora de secar deixando a pintura áspera (granulada).</em>**
+>   **_<span style="text-decoration: underline;">Importante</span>: cuidado com pó de poeira, por exemplo, pois pode grudar na hora de secar deixando a pintura áspera (granulada)._**
 > </p>
 
 > <p align="justify">
->   **<span style="text-decoration: underline;"><em>2º Passo: Madeira</em></span>**
+>   **<span style="text-decoration: underline;">_2º Passo: Madeira_</span>**
 > </p>
 
 > <p align="justify">
->   **<em>Adoro chita, mas aí neste caso, vou sugerir para você manter a frente das portas e gavetas em madeira e colar à frente desta madeira (retirar puxador antes, claro!), um paninho tipo crochê furadinho. Poderá encontrar também em lojas que vendem tecidos e tapetes por metro, um plastificado imitando esses tecidos em crochê, mas que são próprios para áreas onde há gordura e umidade, facilitando a limpeza. Dessa forma, dará um efeito de bordado super charmoso e romântico à peça. </em>**
+>   **_Adoro chita, mas aí neste caso, vou sugerir para você manter a frente das portas e gavetas em madeira e colar à frente desta madeira (retirar puxador antes, claro!), um paninho tipo crochê furadinho. Poderá encontrar também em lojas que vendem tecidos e tapetes por metro, um plastificado imitando esses tecidos em crochê, mas que são próprios para áreas onde há gordura e umidade, facilitando a limpeza. Dessa forma, dará um efeito de bordado super charmoso e romântico à peça. _**
 > </p>
 
 > <p align="justify">
->   **<em>Você tem também uma 2ª opção, que é usar no lugar do tecido em crochê, uma palhinha natural mais clara colada sobre a madeira, dando ar rústico e charmoso ao móvel. O restante da estante será toda pintada de branco deixando-o neutro e limpo</em>.”**
+>   **_Você tem também uma 2ª opção, que é usar no lugar do tecido em crochê, uma palhinha natural mais clara colada sobre a madeira, dando ar rústico e charmoso ao móvel. O restante da estante será toda pintada de branco deixando-o neutro e limpo_.”**
 > </p>
 > 
 > <p align="justify">
@@ -104,15 +104,15 @@ As dicas da Carol Carneiro foram as seguintes:
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/" target="_blank">Móvel usado e antigo: dá mesmo para repaginá-lo?</a>**
+>   **[Móvel usado e antigo: dá mesmo para repaginá-lo?](http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/) **
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.bichafemea.com/2012/07/04/adesivo-carro-decoracao/" target="_blank">É possível usar adesivos de envelopar carros na decoração da casa?</a>**
+>   **[É possível usar adesivos de envelopar carros na decoração da casa?](http://www.bichafemea.com/2012/07/04/adesivo-carro-decoracao/) **
 > </p>
 > 
 > <p align="justify">
->   **<a href="http://www.bichafemea.com/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank">Quer uma mesinha? Improvisa!</a>**
+>   **[Quer uma mesinha? Improvisa!](http://www.bichafemea.com/2011/07/12/decoracao-faca-voce-mesma-2/) **
 > </p>
 
 &nbsp;
@@ -124,9 +124,9 @@ As dicas da Carol Carneiro foram as seguintes:
 &nbsp;
 
 <p align="justify">
-  Carol Carneiro é uma Designer de Ambientes apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
+  Carol Carneiro é uma Designer de Ambientes apaixonada por reutilização de materiais. [No blog que ela edita](http://blogcarolcarneiro.blogspot.com.br/)  dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em [sua página no Facebook. É só clicar aqui](https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/) , curtir e acompanhar.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

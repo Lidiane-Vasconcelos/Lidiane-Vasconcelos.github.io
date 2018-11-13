@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Seja de uma forma ou outra, há mulheres que compram a briga com a mãe do amado, mas há quem queira buscar uma forma menos sofrida de lidar com a situação. É justamente isso o que uma leitora anônima deseja e, para isso, quer sua opinião a respeito. E então? Qual o seu <em>pitaco</em>?
+  Seja de uma forma ou outra, há mulheres que compram a briga com a mãe do amado, mas há quem queira buscar uma forma menos sofrida de lidar com a situação. É justamente isso o que uma leitora anônima deseja e, para isso, quer sua opinião a respeito. E então? Qual o seu _pitaco_?
 </p>
 
 <!--more-->
@@ -29,7 +29,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2012/04/20/casamento-sogra-nora/" target="_blank">Um casamento&#8230; e a sogra!</a>**
+  **[Um casamento&#8230; e a sogra!](http://www.trololodemulher.com.br/2012/04/20/casamento-sogra-nora/) **
 </p>
 
 <p align="center">
@@ -42,12 +42,12 @@ categories:
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>Gostaria de pedir ajuda a você e às suas consultoras em uma situação quase sempre muito problemática: a relação que temos com a sogra. A minha sogra não mora na mesma cidade que eu, e por isso muitas vezes meu marido e eu vamos passar o fim de semana na casa dela. Antes de ter o bebê, nós até nos dávamos bem, ou talvez eu não tivesse ainda enxergado quem de fato ela era. Quando meu bebê nasceu as coisas começaram a complicar, uma vez que ela botou as garrinhas de fora e começou a se intrometer em tudo que dizia respeito ao meu filho, à forma como eu cuidava dele, das coisas dele, enfim&#8230; ela é uma pessoa mandona, que não sabe pedir, e minha cunhada é igual ou pior. Pra me relacionar bem com elas faço de tudo pra não ter atrito, e me calava ou tentava amenizar as coisas pra não ter confusão. Apesar dela ser dissimulada, meu marido consegue ver algumas coisas, me apóia, mas não se mete na questão. Um dia eu não aguentei mais e escrevi uma carta pra ela, com total apoio do meu marido, dizendo tudo o que me incomodava na nossa relação, pois tenho muita dificuldade em expor o que me incomoda, é algo que preciso superar, então esse foi o jeito que encontramos de resolver a situação. Ela leu e não tocou no assunto comigo, deu uma melhorada um tempo mas agora já está de novo do mesmo jeito. Como eu vi que ficar calada é pior, parti pra briga: quando ela e minha cunhada vem se meter eu dou logo uma resposta curta e grossa, ou ignoro e continuo fazendo o que estava fazendo. O problema é que eu não sou assim. E me faz mal ser assim. Me sinto igual a elas, justamente algo que acho horrível. Eu tenho certeza que deve haver um jeito de neutralizar a cobra, quer dizer, sogra, sem precisar me rebaixar ao nível dela. Mas ainda não sei como. Eu queria ser superior a tudo isso, não deixar que essas coisinhas me atinjam e por isso peço ajuda das queridas amigas do Trololó de Mulher. Me dêem conselhos, amigas estou muito precisada mesmo&#8230; Obrigadíssima!”</em>
+    “_Gostaria de pedir ajuda a você e às suas consultoras em uma situação quase sempre muito problemática: a relação que temos com a sogra. A minha sogra não mora na mesma cidade que eu, e por isso muitas vezes meu marido e eu vamos passar o fim de semana na casa dela. Antes de ter o bebê, nós até nos dávamos bem, ou talvez eu não tivesse ainda enxergado quem de fato ela era. Quando meu bebê nasceu as coisas começaram a complicar, uma vez que ela botou as garrinhas de fora e começou a se intrometer em tudo que dizia respeito ao meu filho, à forma como eu cuidava dele, das coisas dele, enfim&#8230; ela é uma pessoa mandona, que não sabe pedir, e minha cunhada é igual ou pior. Pra me relacionar bem com elas faço de tudo pra não ter atrito, e me calava ou tentava amenizar as coisas pra não ter confusão. Apesar dela ser dissimulada, meu marido consegue ver algumas coisas, me apóia, mas não se mete na questão. Um dia eu não aguentei mais e escrevi uma carta pra ela, com total apoio do meu marido, dizendo tudo o que me incomodava na nossa relação, pois tenho muita dificuldade em expor o que me incomoda, é algo que preciso superar, então esse foi o jeito que encontramos de resolver a situação. Ela leu e não tocou no assunto comigo, deu uma melhorada um tempo mas agora já está de novo do mesmo jeito. Como eu vi que ficar calada é pior, parti pra briga: quando ela e minha cunhada vem se meter eu dou logo uma resposta curta e grossa, ou ignoro e continuo fazendo o que estava fazendo. O problema é que eu não sou assim. E me faz mal ser assim. Me sinto igual a elas, justamente algo que acho horrível. Eu tenho certeza que deve haver um jeito de neutralizar a cobra, quer dizer, sogra, sem precisar me rebaixar ao nível dela. Mas ainda não sei como. Eu queria ser superior a tudo isso, não deixar que essas coisinhas me atinjam e por isso peço ajuda das queridas amigas do Trololó de Mulher. Me dêem conselhos, amigas estou muito precisada mesmo&#8230; Obrigadíssima!”_
   </p>
 </blockquote>
 
 <p style="text-align: justify;">
-  Engana-se quem pensa que o problema dessa bonita anônima é algo pontual, e que o fato de o embate ser entre duas mulheres é mera coincidência. A **<em><a href="http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">competitividade parece ser algo muito comum entre as mulheres</a></em>**, infelizmente, e isso até já foi razão de debate no Tololó de Mulher. Na situação analisada neste momento, isto é, entre noras e sogras, a disputa é pelo amor do mesmo homem e o que move isso é o sentimento de posse, é o que explica a **<em>Psicanalista Clínica Geisa Machado</em>**, que é editora do blog &#8220;<a href="http://geisamachado.blogspot.com/" target="_blank">A Força e a Beleza de Ser Mulher</a>&#8220;. Segundo Geisa, não há outra saída para a situação que não seja a conscientização. &#8220;<em>A mãe precisa se conscientizar que o amor dela é de uma mãe para com o filho. A mulher precisa se conscientizar que o amor dela é de uma mulher para com o homem. Amores diferentes, forma de amar diferente. Os sentimentos estando misturados é que causam a confusão e os atritos</em>&#8220;, esclarece. A Psicanalista enfatiza que a confusão de sentimentos resulta, inconscientemente, num troca de amores: a mãe ama o filho como a um homem e a mulher ama o homem como a um filho. Geisa ainda alerta que tudo isso não é de hoje, vem desde os tempos remotos.
+  Engana-se quem pensa que o problema dessa bonita anônima é algo pontual, e que o fato de o embate ser entre duas mulheres é mera coincidência. A **_[A Força e a Beleza de Ser Mulher](http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">competitividade parece ser algo muito comum entre as mulheres</a>_**, infelizmente, e isso até já foi razão de debate no Tololó de Mulher. Na situação analisada neste momento, isto é, entre noras e sogras, a disputa é pelo amor do mesmo homem e o que move isso é o sentimento de posse, é o que explica a **_Psicanalista Clínica Geisa Machado_**, que é editora do blog &#8220;<a href="http://geisamachado.blogspot.com/) &#8220;. Segundo Geisa, não há outra saída para a situação que não seja a conscientização. &#8220;_A mãe precisa se conscientizar que o amor dela é de uma mãe para com o filho. A mulher precisa se conscientizar que o amor dela é de uma mulher para com o homem. Amores diferentes, forma de amar diferente. Os sentimentos estando misturados é que causam a confusão e os atritos_&#8220;, esclarece. A Psicanalista enfatiza que a confusão de sentimentos resulta, inconscientemente, num troca de amores: a mãe ama o filho como a um homem e a mulher ama o homem como a um filho. Geisa ainda alerta que tudo isso não é de hoje, vem desde os tempos remotos.
 </p>
 
 <p style="text-align: justify;">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 > <p style="text-align: justify;">
->   <em>É possível que, quando o neto(a) nasce, a sogra acha que a nora não está cuidando direito do marido, em função da criança, e começa a se intrometer. O marido percebe, apoia a mulher, mas não faz nada, porque gosta de ter a atenção da mãe e não quer criar atrito com ela. Através de uma carta a leitora consegue se expor e colocar um freio na sogra. Posteriormente, como a situação volta a acontecer, ela começa a se impor de outra forma. Tudo isso está acontecendo justamente para ela aprender a se impor. É um erro achar que está se rebaixando e que isso é ruim. Na verdade quando ela diz que &#8220;quer ser superior e não deixar que essas coisinhas a atinjam&#8221;, aí é que está se igualando a sogra.</em>
+>   _É possível que, quando o neto(a) nasce, a sogra acha que a nora não está cuidando direito do marido, em função da criança, e começa a se intrometer. O marido percebe, apoia a mulher, mas não faz nada, porque gosta de ter a atenção da mãe e não quer criar atrito com ela. Através de uma carta a leitora consegue se expor e colocar um freio na sogra. Posteriormente, como a situação volta a acontecer, ela começa a se impor de outra forma. Tudo isso está acontecendo justamente para ela aprender a se impor. É um erro achar que está se rebaixando e que isso é ruim. Na verdade quando ela diz que &#8220;quer ser superior e não deixar que essas coisinhas a atinjam&#8221;, aí é que está se igualando a sogra._
 > </p>
 
 <p style="text-align: justify;">
@@ -71,11 +71,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+  _Imagem: _[_stock.xchng_](http://www.sxc.hu/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 _ _

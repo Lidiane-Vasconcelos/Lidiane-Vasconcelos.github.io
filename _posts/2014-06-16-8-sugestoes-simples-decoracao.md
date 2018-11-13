@@ -27,7 +27,7 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
   **A propósito:**
 </p>
 
-<a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar paredes com quadros?**</a>
+[**Como decorar paredes com quadros?**](http://www.decoracaodacasa.com/decoracao-parede-quadros/) 
 
 &nbsp;
 
@@ -39,11 +39,11 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
   **Falando nisso:**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2013/08/26/reutilizacao-decoracao/" target="_blank">**Reutilização de móveis e objetos na decoração: questão de estilo.**</a>
+[**Reutilização de móveis e objetos na decoração: questão de estilo.**](http://www.trololodemulher.com.br/2013/08/26/reutilizacao-decoracao/) 
 
-<a href="http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-2/" target="_blank">**Reutilização de objetos com novos usos.**</a>
+[**Reutilização de objetos com novos usos.**](http://www.trololodemulher.com.br/2009/10/06/reutilizacao-de-objetos-2/) 
 
-<a href="http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/" target="_blank">**Decoração com objetos reutilizados by bichas fêmeas navegantes**</a>
+[**Decoração com objetos reutilizados by bichas fêmeas navegantes**](http://www.trololodemulher.com.br/2010/08/06/decoracao-reutilizacao/) 
 
 &nbsp;
 
@@ -55,11 +55,11 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
   **Tudo a ver:**
 </p>
 
-<a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank">**Banheiro: dicas simples de decoração que custam quase nada!**</a>
+[**Banheiro: dicas simples de decoração que custam quase nada!**](http://www.decoracaodacasa.com/banheiro-de-decoracao/) 
 
-<a href="http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/" target="_blank">**Lavabo e banheiro charmosos com dicas de leitoras.**</a>
+[**Lavabo e banheiro charmosos com dicas de leitoras.**](http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/) 
 
-<a href="http://www.decoracaodacasa.com/dicas-decoracao-banheiro/" target="_blank">**Dicas para a decoração do seu banheiro.**</a>
+[**Dicas para a decoração do seu banheiro.**](http://www.decoracaodacasa.com/dicas-decoracao-banheiro/) 
 
 &nbsp;
 
@@ -71,11 +71,11 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 
 **Falando nela, oh:**
 
-<a href="http://www.decoracaodacasa.com/moldura-quadro-decoracao/" target="_blank">**Moldura: coadjuvante ou protagonista na decoração? Você decide!**</a>
+[**Moldura: coadjuvante ou protagonista na decoração? Você decide!**](http://www.decoracaodacasa.com/moldura-quadro-decoracao/) 
 
-<a href="http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/" target="_blank">**Faça você mesma: moldura de porta-retratos linda de viver.**</a>
+[**Faça você mesma: moldura de porta-retratos linda de viver.**](http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/) 
 
-<a href="http://www.decoracaodacasa.com/reutilizacao-objeto-decoracao/" target="_blank">**Ideia para reutilização de quadro na decoração da casa.**</a>
+[**Ideia para reutilização de quadro na decoração da casa.**](http://www.decoracaodacasa.com/reutilizacao-objeto-decoracao/) 
 
 &nbsp;
 
@@ -87,9 +87,9 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
   **Ainda sobre cores:**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**</a>
+[**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**](http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/) 
 
-<a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank">**Cores salpicadas na decoração aqui e ecolá: lindeza de ver!**</a>
+[**Cores salpicadas na decoração aqui e ecolá: lindeza de ver!**](http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/) 
 
 &nbsp;
 
@@ -101,7 +101,7 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
   **O romantismo continua no ar:**
 </p>
 
-<a href="http://www.trololodemulher.com.br/2011/03/23/decoracao-do-quarto/" target="_blank">**3 dicas para deixar a decoração do quarto mais romântica.**</a>
+[**3 dicas para deixar a decoração do quarto mais romântica.**](http://www.trololodemulher.com.br/2011/03/23/decoracao-do-quarto/) 
 
 &nbsp;
 
@@ -117,20 +117,20 @@ Pois é, gosto de garimpar imagens de decoração de ambientes que falem por si,
 
 **Quarto da criançada em ordem:**
 
-<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização para o quarto infantil: você não vai copiar?**</a>
+[**4 soluções de organização para o quarto infantil: você não vai copiar?**](http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/) 
 
-<a href="http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/" target="_blank">**Quando a organização favorece a decoração do quarto infantil.**</a>
+[**Quando a organização favorece a decoração do quarto infantil.**](http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/) 
 
-<a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank">**Ideias para você organizar um cantinho de leitura e artes infantil.**</a>
+[**Ideias para você organizar um cantinho de leitura e artes infantil.**](http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/) 
 
 &nbsp;
 
-Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>
+Imagens: [Apartment Therapy](http://www.apartmenttherapy.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -147,13 +147,13 @@ Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Th
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>
@@ -162,5 +162,5 @@ Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Th
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
+  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
 </p>

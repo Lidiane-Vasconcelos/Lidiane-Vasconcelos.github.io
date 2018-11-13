@@ -26,7 +26,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 &nbsp;
 
 <p align="justify">
-  O <em>**Espaço Home** e a **Pura Tendência**</em> oferecem, através do **<a href="http://www.thenorthstarusa.com/" target="_blank">site</a>**, **<a href="http://newsespacohome.blogspot.com/" target="_blank">blog</a>** e **<a href="http://twitter.com/#!/EspacoHome" target="_blank">twitter</a>**, produtos, acessórios e dicas que irão facilitar a organização dentro do estilo de vida de cada um.
+  O _**Espaço Home** e a **Pura Tendência**_ oferecem, através do **[site](http://www.thenorthstarusa.com/) **, **[blog](http://newsespacohome.blogspot.com/) ** e **[twitter](http://twitter.com/#!/EspacoHome) **, produtos, acessórios e dicas que irão facilitar a organização dentro do estilo de vida de cada um.
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 </p>
 
 <p align="justify">
-  Quer a prova? Olha só o que eles estão oferecendo para ser **sorteado na festa de comemoração de aniversário do Bicha Fêmea!** Detalhe: **ganha você e sua melhor amiga!** <em>Espia</em>…
+  Quer a prova? Olha só o que eles estão oferecendo para ser **sorteado na festa de comemoração de aniversário do Bicha Fêmea!** Detalhe: **ganha você e sua melhor amiga!** _Espia_…
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 &nbsp;
 
 <p align="justify">
-  A linha de Papel Perfumado para gavetas e armários apresenta <em>design</em> e aroma exclusivos. A coleção é formada por 8 diferentes estampas e aromas, sendo 6 estampas destinadas para o público adulto e adolescente ( <a href="http://www.thenorthstarusa.com/eh_papelp_lh.htm" target="_blank">**Linha Home**</a><em></em> ) e 2 estampas para crianças e bebês ( <a href="http://www.thenorthstarusa.com/eh_papelp_lb.htm" target="_blank">**Linha Baby**</a><em></em> ).
+  A linha de Papel Perfumado para gavetas e armários apresenta _design_ e aroma exclusivos. A coleção é formada por 8 diferentes estampas e aromas, sendo 6 estampas destinadas para o público adulto e adolescente ( [**Linha Home**](http://www.thenorthstarusa.com/eh_papelp_lh.htm) __ ) e 2 estampas para crianças e bebês ( [**Linha Baby**](http://www.thenorthstarusa.com/eh_papelp_lb.htm) __ ).
 </p>
 
 &nbsp;
@@ -82,7 +82,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 &nbsp;
 
 <p align="justify">
-  O Suporte Inflável para Botas é perfeito para guardar as botas dentro dos armários, <em>closets</em> ou caixas, durante todo o verão, enquanto as botas não estão sendo utilizadas e também no inverno, mantendo-as organizadas.
+  O Suporte Inflável para Botas é perfeito para guardar as botas dentro dos armários, _closets_ ou caixas, durante todo o verão, enquanto as botas não estão sendo utilizadas e também no inverno, mantendo-as organizadas.
 </p>
 
 &nbsp;
@@ -92,7 +92,7 @@ Vamos começar a **comemoração de aniversário do Bicha Fêmea entre amigas**?
 </p>
 
 <p align="justify">
-  Para ganhar? Faça o seguinte: vá até o **<a href="http://www.thenorthstarusa.com/" target="_blank">site da Espaço Home + Pura Tendência</a>**, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
+  Para ganhar? Faça o seguinte: vá até o **[site da Espaço Home + Pura Tendência](http://www.thenorthstarusa.com/) **, dê uma olhada nos produtos, volte aqui nos comentários e me diga:
 </p>
 
 <p align="justify">

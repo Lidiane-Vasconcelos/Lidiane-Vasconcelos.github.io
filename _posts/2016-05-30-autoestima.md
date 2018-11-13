@@ -12,7 +12,7 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Há dias em que a gente se sente com a autoestima meio <em>capenga </em>mesmo… quem nunca? Isso não é bom, definitivamente. Tão logo a gente perceba que tem algo errado, que a gente olha no espelho e não se sente feliz com o reflexo, que a gente olha pra dentro e sente um certo desconforto, é preciso agir. O problema é que precisamos de medidas práticas, e nem sempre sabemos exatamente o que pode nos ajudar, como reverter a situação. Você também já se enxergou nesse lugar?
+  Há dias em que a gente se sente com a autoestima meio _capenga _mesmo… quem nunca? Isso não é bom, definitivamente. Tão logo a gente perceba que tem algo errado, que a gente olha no espelho e não se sente feliz com o reflexo, que a gente olha pra dentro e sente um certo desconforto, é preciso agir. O problema é que precisamos de medidas práticas, e nem sempre sabemos exatamente o que pode nos ajudar, como reverter a situação. Você também já se enxergou nesse lugar?
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “**<em>Olá, bom dia !!!! Tomei um garrafão de coragem para escrever, rsrsrsr. Estou precisando de umas dicas. Tenho percebido que por mais que eu me arrume, nunca pareço arrumada, harmoniosa, cuidada, etc. Isso acontece, principalmente, no dia a dia, parece que fica faltando o acabamento, o toque final no visual. Não digo visual para passeios ou festas, pois estes naturalmente pedem uma preparação na composição do visual. Digo no dia a dia, ao acordar, colocar uma roupa, ir no supermercado, academia, etc. Esses dias, numa ida a uma lojinha de 1,99, dei de cara com um espelho&#8230; senti-me tão mal, acabada&#8230;descombinada&#8230;desarmoniosa&#8230;horrorosa. Enfim, quais os pequenos detalhes que dão um toque de harmonia e bem cuidado ao visual?? Qual o segredo??</em>**”
+>   “**_Olá, bom dia !!!! Tomei um garrafão de coragem para escrever, rsrsrsr. Estou precisando de umas dicas. Tenho percebido que por mais que eu me arrume, nunca pareço arrumada, harmoniosa, cuidada, etc. Isso acontece, principalmente, no dia a dia, parece que fica faltando o acabamento, o toque final no visual. Não digo visual para passeios ou festas, pois estes naturalmente pedem uma preparação na composição do visual. Digo no dia a dia, ao acordar, colocar uma roupa, ir no supermercado, academia, etc. Esses dias, numa ida a uma lojinha de 1,99, dei de cara com um espelho&#8230; senti-me tão mal, acabada&#8230;descombinada&#8230;desarmoniosa&#8230;horrorosa. Enfim, quais os pequenos detalhes que dão um toque de harmonia e bem cuidado ao visual?? Qual o segredo??_**”
 > </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  A melhor das notícias é que o Trololó de Mulher conta com consultorias pra lá de especiais, assim como a da **Márcia Damasceno, maquiadora de Belo Horizonte – MG**, cujo trabalho lindo desenvolvido junto às mulheres se amplia por questões que vão muito, mas muito além da estética. Mesmo! Aliás, desde já e para que você confirme o que estou falando, sugiro que você <a href="http://www.marciadamasceno.com.br/" target="_blank">visite o site da moça e deixe seu melhor e-mail para receber seu conteúdo gratuito</a>. Garanto! Você vai ficar grata.
+  A melhor das notícias é que o Trololó de Mulher conta com consultorias pra lá de especiais, assim como a da **Márcia Damasceno, maquiadora de Belo Horizonte – MG**, cujo trabalho lindo desenvolvido junto às mulheres se amplia por questões que vão muito, mas muito além da estética. Mesmo! Aliás, desde já e para que você confirme o que estou falando, sugiro que você [visite o site da moça e deixe seu melhor e-mail para receber seu conteúdo gratuito](http://www.marciadamasceno.com.br/) . Garanto! Você vai ficar grata.
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
@@ -85,14 +85,14 @@ categories:
 
 **Mais consultoria da Márcia:**
 
-**<a href="http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/" target="_blank">Maquiagem leve e sofisticada: como conseguir esse efeito?</a>**
+**[Maquiagem leve e sofisticada: como conseguir esse efeito?](http://www.trololodemulher.com.br/2016/02/15/maquiagem-leve-e-sofisticada/) **
 
 <p align="justify">
-  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “<em>Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?</em>”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um <em>expert</em> em <em>makes</em> propor uma abordagem nessa área que fosse além da estética. Que achado! Você <em>pre-ci-sa</em> conhecer o <a href="http://www.marciadamasceno.com.br/" target="_blank">site da Márcia</a>, sua <a href="https://www.facebook.com/maquiagemnaoetudo/timeline" target="_blank">fanpage</a>, <a href="http://www.marciadamasceno.com.br/#blog" target="_blank">seu blog</a> e <a href="http://www.marciadamasceno.com.br/produtos-marcia-damasceno/" target="_blank">sua loja</a>… prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
+  Bonita, preciso dizer que meu coração saltitou de alegria quando conheci o trabalho da Márcia. “_Como assim uma maquiadora diz que maquiagem não é tudo, sendo essa sua profissão?_”, foi o que pensei logo que tomei conhecimento dessa profissional linda de viver. Isso me instigou muito, principalmente porque sempre acreditei nessa máxima, mas nunca vi um _expert_ em _makes_ propor uma abordagem nessa área que fosse além da estética. Que achado! Você _pre-ci-sa_ conhecer o [site da Márcia](http://www.marciadamasceno.com.br/) , sua [fanpage](https://www.facebook.com/maquiagemnaoetudo/timeline) , [seu blog](http://www.marciadamasceno.com.br/#blog)  e [sua loja](http://www.marciadamasceno.com.br/produtos-marcia-damasceno/) … prepare-se para uma deliciosa imersão em dicas simples e diretas sobre maquiagem, bem-estar e tudo o mais que nos deixa inspiradas a se cuidar melhor. É conteúdo de primeira, imperdível e apaixonante. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

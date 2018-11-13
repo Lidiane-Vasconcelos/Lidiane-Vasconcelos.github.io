@@ -20,7 +20,7 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg"><img class="alignnone size-full wp-image-9382" alt="BLOG-BELEZA-DICAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg" width="600" height="450" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/profile/loleia" target="_blank">Loleia</a></em>** via **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
+  [Loleia](http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg"><img class="alignnone size-full wp-image-9382" alt="BLOG-BELEZA-DICAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/BLOG-BELEZA-DICAS.jpg" width="600" height="450" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/profile/loleia) _** via **_[Stock.xchng](http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -32,19 +32,19 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
 &nbsp;
 
 <p align="center">
-  <a href="http://delineadogatinho.com.br/" target="_blank"><img class="alignnone size-full wp-image-9385" alt="DELINEADO GATINHO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DELINEADO-GATINHO.png" width="600" height="204" /></a>
+  [<img class="alignnone size-full wp-image-9385" alt="DELINEADO GATINHO" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/DELINEADO-GATINHO.png" width="600" height="204" />](http://delineadogatinho.com.br/) 
 </p>
 
 <p align="center">
-  <a href="http://www.vendenafarmacia.com/" target="_blank"><img class="alignnone size-full wp-image-9388" alt="VENDE-NA-FARMACIA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/VENDE-NA-FARMACIA.png" width="600" height="147" /></a>
+  [<img class="alignnone size-full wp-image-9388" alt="VENDE-NA-FARMACIA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/VENDE-NA-FARMACIA.png" width="600" height="147" />](http://www.vendenafarmacia.com/) 
 </p>
 
 <p align="center">
-  <a href="http://www.twodots.com.br/" target="_blank"><img class="alignnone size-full wp-image-9387" alt="TWO DOTS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/TWO-DOTS.png" width="600" height="316" /></a>
+  [<img class="alignnone size-full wp-image-9387" alt="TWO DOTS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/TWO-DOTS.png" width="600" height="316" />](http://www.twodots.com.br/) 
 </p>
 
 <p align="center">
-  <a href="http://supervaidosa.com/" target="_blank"><img class="alignnone size-full wp-image-9386" alt="SUPER VAIDOSA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/SUPER-VAIDOSA.png" width="600" height="128" /></a>
+  [<img class="alignnone size-full wp-image-9386" alt="SUPER VAIDOSA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/04/SUPER-VAIDOSA.png" width="600" height="128" />](http://supervaidosa.com/) 
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -115,13 +115,13 @@ Sabe quais são? Neste post você vai conhecê-los, porque a gente quer se olhar
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

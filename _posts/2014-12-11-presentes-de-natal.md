@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  Os produtos abaixo são da loja **<a href="http://ritabrasil.divitae.com.br/home" target="_blank">LemBRAncinhas BRAsil</a>**. A loja é toda recheada de mimos artesanais, portanto únicos e personalizados. Este ano a **Rita, proprietária da loja e artesã** que produz essas delicadezas, preparou uma seleção de sugestões de presentes de Natal pra você escolher e fazer feliz quem ama. Além do mais, ela está com um projeto que achei lindo de viver, e quero te mostrar:
+  Os produtos abaixo são da loja **[LemBRAncinhas BRAsil](http://ritabrasil.divitae.com.br/home) **. A loja é toda recheada de mimos artesanais, portanto únicos e personalizados. Este ano a **Rita, proprietária da loja e artesã** que produz essas delicadezas, preparou uma seleção de sugestões de presentes de Natal pra você escolher e fazer feliz quem ama. Além do mais, ela está com um projeto que achei lindo de viver, e quero te mostrar:
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  O projeto da Rita consiste na **doação de 01 naninha a cada 04 vendidas**. Você pode colaborar comprando uma para dar de presente para um pequeno seu querido, e saiba: sua compra ajuda a colocar um sorriso no rostinho de outra criança também. Não é legal? Eu achei <em>superultramega</em> bacana a proposta da Rita, e **já comprei a minha naninha… vamos juntas nessa?**
+  O projeto da Rita consiste na **doação de 01 naninha a cada 04 vendidas**. Você pode colaborar comprando uma para dar de presente para um pequeno seu querido, e saiba: sua compra ajuda a colocar um sorriso no rostinho de outra criança também. Não é legal? Eu achei _superultramega_ bacana a proposta da Rita, e **já comprei a minha naninha… vamos juntas nessa?**
 </p>
 
 <p align="justify">
-  Para saber **mais detalhes sobre as Naninhas do Bem, **<a href="http://ritabrasil.divitae.com.br/produto-94807-naninha-do-bem" target="_blank">**clique bem aqui**</a>** e informe-se! Ah, as Naninhas do Bem** ganharam uma <a href="https://www.facebook.com/naninhasdobem/timeline" target="_blank">página só para elas no Facebook</a>. Clique aqui e curta para ficar por dentro de tudo… eu já curti, claro!
+  Para saber **mais detalhes sobre as Naninhas do Bem, **[**clique bem aqui**](http://ritabrasil.divitae.com.br/produto-94807-naninha-do-bem) ** e informe-se! Ah, as Naninhas do Bem** ganharam uma [página só para elas no Facebook](https://www.facebook.com/naninhasdobem/timeline) . Clique aqui e curta para ficar por dentro de tudo… eu já curti, claro!
 </p>
 
 <p align="center">
@@ -47,15 +47,15 @@ categories:
 </p>
 
 <p align="justify">
-  As sugestões da Rita Brasil para você presentear são várias. Esses foram os meus escolhidos: **bolsa em cartonagem e palavra em mdf decorada**. Mas há muito mais opções, bonita. Você pode ficar por dentro de todos os itens <a href="http://ritabrasil.divitae.com.br/categoria-22519-presentes-artesanais" target="_blank">visitando a loja virtual, clicando bem aqui</a>.
+  As sugestões da Rita Brasil para você presentear são várias. Esses foram os meus escolhidos: **bolsa em cartonagem e palavra em mdf decorada**. Mas há muito mais opções, bonita. Você pode ficar por dentro de todos os itens [visitando a loja virtual, clicando bem aqui](http://ritabrasil.divitae.com.br/categoria-22519-presentes-artesanais) .
 </p>
 
 <p align="justify">
-  Ah! A **Rita Brasil** também está no Facebook e você pode <a href="https://www.facebook.com/RitaBrasilArtesanato" target="_blank">curtir sua página bem aqui</a>, é só clicar. Se joga!
+  Ah! A **Rita Brasil** também está no Facebook e você pode [curtir sua página bem aqui](https://www.facebook.com/RitaBrasilArtesanato) , é só clicar. Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

@@ -19,15 +19,15 @@ Não deu outra. As dicas que foram surgindo foram tantas que deu até para nasce
 
 Disso tudo concluo que cada diva do lar dá o seu jeitinho particular para manter a ordem em casa, e de acordo com suas necessidades. E que bom que é assim, porque o que funciona para mim necessariamente não funciona para você, certo? Mas há soluções que servem para todas nós, concorda? E são essas as que eu coloco em destaque neste post que é, na verdade, uma extensão do _trololó_ que vem _rolando_ nos desdobramentos dos comentários, firme e forte, [neste post aqui](http://www.trololodemulher.com.br/2010/01/19/dos-meus-itens-que-favorecem-minha-organizacao-qual-o-seu/). Então, vejamos…
 
-Sabe aqueles pequenos objetos que a gente sempre precisa ter a mão e, na hora H, os _trecos_ simplesmente somem, como num passe de mágica? Pois a Neli &#8211; <a href="http://caprichosbyneli.blogspot.com/" target="_blank">Caprichos by Neli</a> – tem uma solução fácil e aplicável para qualquer uma de nós. Ela diz o seguinte:
+Sabe aqueles pequenos objetos que a gente sempre precisa ter a mão e, na hora H, os _trecos_ simplesmente somem, como num passe de mágica? Pois a Neli &#8211; [Caprichos by Neli](http://caprichosbyneli.blogspot.com/)  – tem uma solução fácil e aplicável para qualquer uma de nós. Ela diz o seguinte:
 
 > “…_uma coisa quase insignificante e que acho que é minha maior dica de organização são umas caixinha c/ 3 gavetinhas, de plástico, a minha comprei no catálogo da Avon, mas ela é vendida em loja de aviamentos e de 1,99, ali gaurdo as coisas que normalmente as pessoas mais perdem em casa: calculadora, durex, caneta marca texto, pincel atômico, tesoura pequena, borracha, apontador, etiquetas auto-adesivas para o caderno dos filhos e p/ as carnes que vão ao frizer_…”
 
-Agora, concorda comigo que quem mais tem coisinhas e apetrechos para guardar são as bichas fêmeas arteiras? Ah! E como elas têm! E cada uma tem uma estratégia para se achar num emaranhado de peças para armazenar, não é? Sabe o pulo do gato da Cristiane – <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>? Olha só:
+Agora, concorda comigo que quem mais tem coisinhas e apetrechos para guardar são as bichas fêmeas arteiras? Ah! E como elas têm! E cada uma tem uma estratégia para se achar num emaranhado de peças para armazenar, não é? Sabe o pulo do gato da Cristiane – [Closonê Acessórios](http://closone.blogspot.com/) ? Olha só:
 
 > _“…Eu costumo utilizar muitos potinhos, de tamanhos variados, para guardar material de bijoux: potes transparentes (para poder ver facilmente o conteúdo) e com tampa bem forte e firme (pois se acidentalmente abrir, estou frita, rs)…”_
 
-Pois é, mas para ter potinhos assim nem precisa gastar dinheiro exclusivamente com eles, não é? A dica vem da Ana &#8211; <a href="http://curiosidadesdeana.blogspot.com/" target="_blank">CURIOSIDADES DE ANA</a>:
+Pois é, mas para ter potinhos assim nem precisa gastar dinheiro exclusivamente com eles, não é? A dica vem da Ana &#8211; [CURIOSIDADES DE ANA](http://curiosidadesdeana.blogspot.com/) :
 
 > _“…Potinhos de sopinha de bebê depois servem para guardar minúncias&#8230;”_
 
@@ -41,11 +41,11 @@ Pois é, mas para ter potinhos assim nem precisa gastar dinheiro exclusivamente 
   </tr>
 </table>
 
-Cestos de fibra natural parecem mesmo ser um coringa para arrumar e, &#8220;de quebra&#8221;, ainda decoram. Sou suspeita para falar porque tenho deles na cozinha também, como a Lu. Mas também tenho nos banheiros e no quarto. E mais gente faz uso. Olha só o que disse a bela e sofisticada Kátia Bonfadini – <a href="http://www.casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>:
+Cestos de fibra natural parecem mesmo ser um coringa para arrumar e, &#8220;de quebra&#8221;, ainda decoram. Sou suspeita para falar porque tenho deles na cozinha também, como a Lu. Mas também tenho nos banheiros e no quarto. E mais gente faz uso. Olha só o que disse a bela e sofisticada Kátia Bonfadini – [Casos e Coisas da Bonfa](http://www.casosecoisasdabonfa.blogspot.com/) :
 
 > _“…Tenho cestos de palha dentro do vão que fica em cima do armário do quarto de hóspedes e eles guardam livros, fotos, CDs, revistas etc. Na sala também tenho alguns cestos que uso como revisteiros. Adoro cestos pela estética e pela utiilidade!…”_
 
-Ah! Até mesmo espaços em casa onde não vamos com tanta frequência, como o lavabo, merecem um toque de organização também. Olha aqui a dica da Fla &#8211; <a href="http://artenacozinha.blogspot.com/" target="_blank">Arte na Cozinha</a> – e diga se ela não é super útil… claro que é!
+Ah! Até mesmo espaços em casa onde não vamos com tanta frequência, como o lavabo, merecem um toque de organização também. Olha aqui a dica da Fla &#8211; [Arte na Cozinha](http://artenacozinha.blogspot.com/)  – e diga se ela não é super útil… claro que é!
 
 > _“…Em casa o que eu fiz foi deixar no lavabo uma caixinha que é um porta papel higiênico. Ele fica sobre a pia, é fechadinho e só tem uma abertura em cima para identificar o que é…”_
 
@@ -82,20 +82,20 @@ E pensa que não tem dica _superultramega_ ótima, daquelas que a gente para e s
 </table>
 
 <p style="text-align: center;">
-  Cabide da Amanda, comprado na <a href="http://www.ikea.com/au/en/preindex.html" target="_blank">Ikea, Austrália</a>. Será que tem desse no Brasil?
+  Cabide da Amanda, comprado na [Ikea, Austrália](http://www.ikea.com/au/en/preindex.html) . Será que tem desse no Brasil?
 </p>
 
-E no escritório doméstico vale de tudo, e quanto mais personalidade melhor, certo? No meu, o porta-canetas é um antigo porta-escovas de dentes. Na casa da Cibele &#8211; <a href="http://organizandoarrumando.blogspot.com/" target="_blank">ORGANIZANDO ARRUMANDO E FUÇANDO</a> &#8211;  sabe o que guarda as canetas do filho dela? Olha só:
+E no escritório doméstico vale de tudo, e quanto mais personalidade melhor, certo? No meu, o porta-canetas é um antigo porta-escovas de dentes. Na casa da Cibele &#8211; [ORGANIZANDO ARRUMANDO E FUÇANDO](http://organizandoarrumando.blogspot.com/)  &#8211;  sabe o que guarda as canetas do filho dela? Olha só:
 
 > _“…eu tenho um vasinho que não é mais vasinho e guardo canetas e lápis na mesa do pc que fica no quarto do meu filho…”_
 
-Até dica de como arquivar as nossas revistas queridas de cada mês saiu por aqui. Quem deu a sugestão de como fazer isso foi a Letícia (Lelê) &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>:
+Até dica de como arquivar as nossas revistas queridas de cada mês saiu por aqui. Quem deu a sugestão de como fazer isso foi a Letícia (Lelê) &#8211; [Casa de Catarina](http://blog.casadecatarina.com.br/) :
 
 > _“…gosto de colocar revista que eu assino por ano em pastas (transparentes)…”_
 
 Este foi um post comunitário, no genuíno sentido da palavra, e ficou com ares de fórum. Foi ou não foi? E sabe do que mais? Acho isso o máximo, e muito me deixa feliz o teu entusiasmo em querer dividir dicas e ajudar a promover esse aprendizado coletivo. Palmas para todas nós que damos esse colorido todo especial ao Bicha Fêmea… _cla clap clap_…
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: [stock.xchng](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea…**
 

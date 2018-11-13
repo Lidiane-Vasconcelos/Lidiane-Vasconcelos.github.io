@@ -32,7 +32,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Em outubro do ano passado, eu estava louca atrás de um vestido para o casamento de um dos meus melhores amigos. Mas, como boa &#8220;brima&#8221; que sou, não queria gastar horrores num pedacinho de pano, além de estar economizando até os centavos para me esbaldar na Saraiva e na Cultura [o casamento foi em Campinas]. Fui na **<a href="http://www.riachuelo.com.br/" target="_blank">Riachuelo</a>** pra comprar um **pratinha básico** que tinha visto na promoção. Esse não era a minha cara, mas, por **20 reais**, foi ele mesmo. Não que fosse feio, era de um cetim gostoso, um prata bonitão, bem chique, aliás. E tinha babados, muitos babados. Olha só um pedaço do bonitinho…”</em> **Patricia Pirota** | **<a href="http://patriciapirota.blogspot.com/" target="_blank">Ainda MininaMá</a>**
+>   “_Em outubro do ano passado, eu estava louca atrás de um vestido para o casamento de um dos meus melhores amigos. Mas, como boa &#8220;brima&#8221; que sou, não queria gastar horrores num pedacinho de pano, além de estar economizando até os centavos para me esbaldar na Saraiva e na Cultura [o casamento foi em Campinas]. Fui na **[Riachuelo](http://www.riachuelo.com.br/) ** pra comprar um **pratinha básico** que tinha visto na promoção. Esse não era a minha cara, mas, por **20 reais**, foi ele mesmo. Não que fosse feio, era de um cetim gostoso, um prata bonitão, bem chique, aliás. E tinha babados, muitos babados. Olha só um pedaço do bonitinho…”_ **Patricia Pirota** | **[Ainda MininaMá](http://patriciapirota.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Menina, eu encontro muita coisa bacana por **menos de 50 reais**! eu fuço!&#8230;rs&#8230; quando tenho tempo vasculho lojinhas daquelas bem simples, de rua, aqui em **Salvador tem várias**, e não é que encontro roupas, acessórios, coisa bem bacanas! eu adoro fazer isso!”</em>
+>   “_Menina, eu encontro muita coisa bacana por **menos de 50 reais**! eu fuço!&#8230;rs&#8230; quando tenho tempo vasculho lojinhas daquelas bem simples, de rua, aqui em **Salvador tem várias**, e não é que encontro roupas, acessórios, coisa bem bacanas! eu adoro fazer isso!”_
 > </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “&#8230; <em>estava com uma **calça que paguei R$ 19,90** e </em><em>um amigo, que é designer, ficou apaixonado por ela sem saber onde comprei!&#8230;kkkk… </em><em>foi numa **lojinha da avenida Dorival Caymi em Itapuã**, curto aquela rua </em><em>mas nos shoppings também encontramos coisas baratas e legais nas lojas de departamento…”</em>
+>   “&#8230; _estava com uma **calça que paguei R$ 19,90** e __um amigo, que é designer, ficou apaixonado por ela sem saber onde comprei!&#8230;kkkk… __foi numa **lojinha da avenida Dorival Caymi em Itapuã**, curto aquela rua __mas nos shoppings também encontramos coisas baratas e legais nas lojas de departamento…”_
 > </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “…<em>usei outro dia um **vestidinho** que comprei na **Marisa** (algo por volta de **30 reais**)…”</em>
+>   “…_usei outro dia um **vestidinho** que comprei na **Marisa** (algo por volta de **30 reais**)…”_
 > </p>
 
 &nbsp;
@@ -80,7 +80,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “ … <em>fui numa festa e usei pérolas fake, outra coisa que adoro e compro sempre, tem umas lojas no shopping aqui perto de casa que vende qualquer peça de **bijoux por 7,90**, sempre dou uma passadinha por lá. Só não economizo em sapatos e bolsas, ai não dá pra ser qualquer coisinha não!”</em> **Jussara Gehrke** | **<a href="http://www.omovel.com.br/" target="_blank">O Móvel</a>**
+>   “ … _fui numa festa e usei pérolas fake, outra coisa que adoro e compro sempre, tem umas lojas no shopping aqui perto de casa que vende qualquer peça de **bijoux por 7,90**, sempre dou uma passadinha por lá. Só não economizo em sapatos e bolsas, ai não dá pra ser qualquer coisinha não!”_ **Jussara Gehrke** | **[O Móvel](http://www.omovel.com.br/) **
 > </p>
 
 &nbsp;
@@ -92,7 +92,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Liquidação na <a href="http://www.linhapura.com.br/" target="_blank">**Linha Pura** </a>é assim: uma sala para cada tamanho e uma sala só pra preço fixo, assim ninguém se engana, e sabe que na sala que tem o 38-40, 42-44 ou 46-48 ( fuja desta sala pipol!!!) o que vale é o preço da etiqueta. Na sala de R$ 40,00 não tem o que perguntar né, pipol? É só correr pro abraço, pois as peças são imperdiveis.”</em>
+>   “_Liquidação na [**Linha Pura** ](http://www.linhapura.com.br/) é assim: uma sala para cada tamanho e uma sala só pra preço fixo, assim ninguém se engana, e sabe que na sala que tem o 38-40, 42-44 ou 46-48 ( fuja desta sala pipol!!!) o que vale é o preço da etiqueta. Na sala de R$ 40,00 não tem o que perguntar né, pipol? É só correr pro abraço, pois as peças são imperdiveis.”_
 > </p>
 
 &nbsp;
@@ -104,7 +104,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Esta **blusa** tinha em preta, cinza e esta cor coral, e a gente não dava nada pra ela, mas experimentei a última e vi que era uma fofa: de R$ 549,00 por **R$ 28,00**! Botão lindo em formato de rosa com svarowsky no meio.”</em>
+>   “_Esta **blusa** tinha em preta, cinza e esta cor coral, e a gente não dava nada pra ela, mas experimentei a última e vi que era uma fofa: de R$ 549,00 por **R$ 28,00**! Botão lindo em formato de rosa com svarowsky no meio.”_
 > </p>
 
 &nbsp;
@@ -116,7 +116,7 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 &nbsp;
 
 > <p align="justify">
->   “<em>Este **vestidinho** aí é cor de buraco de cerca, pois ninguém consegue dizer se é cinza, se é roxo, se é marron…whatever! de R$ 380,00 por **R$ 28,00** eu levava até se fosse verde limão de listrinha preta</em>!” **Lilly** |** <a href="http://coisadelilly.wordpress.com/" target="_blank">Isso é coisa de Lilly</a>**
+>   “_Este **vestidinho** aí é cor de buraco de cerca, pois ninguém consegue dizer se é cinza, se é roxo, se é marron…whatever! de R$ 380,00 por **R$ 28,00** eu levava até se fosse verde limão de listrinha preta_!” **Lilly** |** [Isso é coisa de Lilly](http://coisadelilly.wordpress.com/) **
 > </p>
 
 &nbsp;
@@ -185,13 +185,13 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -201,5 +201,5 @@ Qual mulher não gosta de achar _pechinchas_ de **moda**, daquelas que fazem a g
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

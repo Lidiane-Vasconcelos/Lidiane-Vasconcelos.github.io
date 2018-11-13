@@ -10,10 +10,10 @@ categories:
   - Comportamento
   - Comportamento Feminino
 ---
-**_Por Claudia Medeiros – <a href="http://www.sefossenaminhacasa.blogspot.com/" target="_blank">Se fosse na minha casa</a>_**
+**_Por Claudia Medeiros – [Se fosse na minha casa](http://www.sefossenaminhacasa.blogspot.com/) _**
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/marytylermoorephotographc10111179.jpg"><img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="Mary Tyler Moore " src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/marytylermoorephotographc10111179_thumb.jpg" border="0" alt="Mary Tyler Moore " width="240" height="193" /></a>Imagem: <a href="http://www.imdb.com/" target="_blank">imdb.com</a>
+  [imdb.com](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/marytylermoorephotographc10111179.jpg"><img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto; border-width: 0;" title="Mary Tyler Moore " src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/marytylermoorephotographc10111179_thumb.jpg" border="0" alt="Mary Tyler Moore " width="240" height="193" /></a>Imagem: <a href="http://www.imdb.com/) 
 </p>
 
 Eu nasci em 1968 (não façam as contas!), um ano turbulento, com muitas coisas acontecendo, vivíamos a ditadura e neste ano foi editado o AI-5, o pior que podia nos acontecer, enquanto isso, Paris estava em chamas, com os estudantes nas ruas, em Londres, Mary Quant lançava a mini-saia. Mas, dentro das casas, as mulheres levavam suas vidinhas cotidianas – lavar, passar, cozinhar, cuidar dos filhos. Mas uma revolução estava a caminho e a mulher não poderia mais ter essa sua vidinha, ela tinha que ser independente, usar pílula, trabalhar fora, desaprender a fazer bolo, enfim, tinha que ser uma mulher moderna.
@@ -28,6 +28,6 @@ Gente, acho isso o fim da picada, acho que estas pessoas ainda não conseguiram 
 
 <span style="color: #000000;">**Mais no Bicha Fêmea&#8230;**</span>
 
-<span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">**<em>Mulherzinha, eu?</em>**</a></span>
+<span style="color: #000000;"><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">**_Mulherzinha, eu?_**</a></span>
 
-<span style="color: #000000;">**<em><a href="http://www.trololodemulher.com.br/2009/03/07/feminilidade/" target="_self">Feminilidade: a essência de uma bicha fêmea.</a></em>**</span>
+<span style="color: #000000;">**_<a href="http://www.trololodemulher.com.br/2009/03/07/feminilidade/" target="_self">Feminilidade: a essência de uma bicha fêmea.</a>_**</span>

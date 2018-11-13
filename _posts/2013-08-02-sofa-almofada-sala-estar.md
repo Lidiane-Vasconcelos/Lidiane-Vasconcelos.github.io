@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Sempre achei que a melhor das estratégias para deixar um ambiente bonito de se ver e gostoso de estar é fazer a aposta nos móveis neutros. No mais, é “temperar” o espaço com pitadas de cor nos detalhes. Errar, dessa forma, é <em>superultramega</em> difícil, <em>né</em> não?
+  Sempre achei que a melhor das estratégias para deixar um ambiente bonito de se ver e gostoso de estar é fazer a aposta nos móveis neutros. No mais, é “temperar” o espaço com pitadas de cor nos detalhes. Errar, dessa forma, é _superultramega_ difícil, _né_ não?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -39,7 +39,7 @@ categories:
 
 &nbsp;
 
-Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
+Imagens: **_[homedit](http://www.homedit.com/) _**
 
 &nbsp;
 
@@ -64,5 +64,5 @@ Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

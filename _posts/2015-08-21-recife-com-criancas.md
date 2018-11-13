@@ -10,7 +10,7 @@ categories:
   - Sem categoria
 ---
 <p align="justify">
-  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda **Recife com crianças**, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e <a href="http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/" target="_blank">clique aqui</a>. Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. <em>Bora</em>?!
+  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda **Recife com crianças**, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e [clique aqui](http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/) . Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. _Bora_?!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.flickr.com/photos/tacoekkel/" target="_blank">[2]</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Via [[2]](http://www.flickr.com/photos/tacoekkel/) <b> / </b>[Foter](http://foter.com/) <b> / </b>[CC BY](http://creativecommons.org/licenses/by/2.0/) 
 </p>
 
 <p align="justify">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Manhãs Analógicas – **<a href="http://zepelimbrinquedos.com.br/" target="_blank">**Zepelim**</a>** {Rua da Hora} e Manhãs Lúdicas – **<a href="http://zepelimbrinquedos.com.br/" target="_blank">**Zepelim Brinquedos Educativos**</a>** e **<a href="https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline" target="_blank">**Reinoceronte**</a>
+  **Manhãs Analógicas – **[**Zepelim**](http://zepelimbrinquedos.com.br/) ** {Rua da Hora} e Manhãs Lúdicas – **[**Zepelim Brinquedos Educativos**](http://zepelimbrinquedos.com.br/) ** e **[**Reinoceronte**](https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline) 
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  **#PartiuVacina – Campanha Nacional Contra Poliomielite – <a href="http://www2.recife.pe.gov.br/" target="_blank">Prefeitura do Recife</a>**
+  **#PartiuVacina – Campanha Nacional Contra Poliomielite – [Prefeitura do Recife](http://www2.recife.pe.gov.br/) **
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  **OLHA! RECIFE – **<a href="http://www.olharecife.com.br/" target="_blank">**Olha Recife**</a>** – Passeio Pedalando**
+  **OLHA! RECIFE – **[**Olha Recife**](http://www.olharecife.com.br/) ** – Passeio Pedalando**
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  **OLHA! RECIFE – **<a href="http://www.olharecife.com.br/" target="_blank">**Olha Recife**</a>** – Passeio à Pé**
+  **OLHA! RECIFE – **[**Olha Recife**](http://www.olharecife.com.br/) ** – Passeio à Pé**
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Sonoros Ofícios – Cantos de Trabalho – **<a href="http://www.caisdosertao.com.br/" target="_blank">**Museu Cais do Sertão**</a>
+  **Sonoros Ofícios – Cantos de Trabalho – **[**Museu Cais do Sertão**](http://www.caisdosertao.com.br/) 
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ categories:
 23/08 &#8211; Quebradeiras de Coco Babaçu (MA)
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

@@ -11,7 +11,7 @@ categories:
   - Quarto Infantil
 ---
 <p style="text-align: justify;">
-  Quando se pensa na **decoração** do **quarto** de **meninos** e **meninas**, ou seja, crianças e/ou adolescentes, logo se pensa em** cores**, cores e mais cores. Pudera! Em geral, não imaginamos algo diferente. Mas montar um colorido de qualquer jeito, não dá, <em>né</em>?
+  Quando se pensa na **decoração** do **quarto** de **meninos** e **meninas**, ou seja, crianças e/ou adolescentes, logo se pensa em** cores**, cores e mais cores. Pudera! Em geral, não imaginamos algo diferente. Mas montar um colorido de qualquer jeito, não dá, _né_?
 </p>
 
 <p style="text-align: justify;">
@@ -29,11 +29,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Gosto muito desse quarto para menino. Gosto mesmo! A **combinação do azul das paredes com detalhes decorativos como o <em>puff</em>** que mais parece uma poltrona (ou seria o contrário?!), da **cortina** e **demais objetos** como **roupas de cama** ou **luminária**, me pareceu <em>a-cer-ta-dís-si-ma</em>. E para você?
+  Gosto muito desse quarto para menino. Gosto mesmo! A **combinação do azul das paredes com detalhes decorativos como o _puff_** que mais parece uma poltrona (ou seria o contrário?!), da **cortina** e **demais objetos** como **roupas de cama** ou **luminária**, me pareceu _a-cer-ta-dís-si-ma_. E para você?
 </p>
 
 <p style="text-align: justify;">
-  Note que o **<em>design</em> do móvel é perfeito para quem tem pouco espaço**. E quem tem muito espaço hoje em dia? Dessa forma, cama e lugar de estudos ficam garantidos num espaço reduzido: tudo sob medida para quem não tem quase alguma nos <em>apertamentos</em> e “casas de boneca” dessa vida…
+  Note que o **_design_ do móvel é perfeito para quem tem pouco espaço**. E quem tem muito espaço hoje em dia? Dessa forma, cama e lugar de estudos ficam garantidos num espaço reduzido: tudo sob medida para quem não tem quase alguma nos _apertamentos_ e “casas de boneca” dessa vida…
 </p>
 
 <p style="text-align: justify;">
@@ -45,11 +45,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/decoracao-quarto-menino/" target="_blank">Decoração para quarto de menino.</a>**
+  **[Decoração para quarto de menino.](http://www.decoracaodacasa.com/decoracao-quarto-menino/) **
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/quarto-de-menino-branco/" target="_blank">Quarto de menino completamente branco?</a>**
+  **[Quarto de menino completamente branco?](http://www.decoracaodacasa.com/quarto-de-menino-branco/) **
 </p>
 
 <p style="text-align: center;">
@@ -65,7 +65,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Arremate tudo com uma **cortina quadriculada no tom marrom**. Eu <em>a-mei</em> a ideia! Atente para **ideia do móvel simples com cestos organizadores em fibra natural**. Prático, simples e barato, <em>hã</em>? **Ele pode ser substituído por prateleiras para dar suporte aos cestos**, não é?
+  Arremate tudo com uma **cortina quadriculada no tom marrom**. Eu _a-mei_ a ideia! Atente para **ideia do móvel simples com cestos organizadores em fibra natural**. Prático, simples e barato, _hã_? **Ele pode ser substituído por prateleiras para dar suporte aos cestos**, não é?
 </p>
 
 <p style="text-align: justify;">
@@ -93,7 +93,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/decoracao-quarto-menina/" target="_blank">Decoração infantil: quartos fofos para meninas.</a>**
+  **[Decoração infantil: quartos fofos para meninas.](http://www.decoracaodacasa.com/decoracao-quarto-menina/) **
 </p>
 
 <p style="text-align: center;">
@@ -117,19 +117,19 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Corre no **<a href="http://www.margaretss.com.br/" target="_blank">blog da Margaret</a>** e veja mais detalhes de como a Elisa Pinheiro, sua leitora arteira, fez isso. Está tudo **<a href="http://www.margaretss.com.br/archives/5053" target="_blank">aqui</a>**. Inspire-se e faça algo como a parede de listras no quarto do seu filho!
+  Corre no **[blog da Margaret](http://www.margaretss.com.br/) ** e veja mais detalhes de como a Elisa Pinheiro, sua leitora arteira, fez isso. Está tudo **[aqui](http://www.margaretss.com.br/archives/5053) **. Inspire-se e faça algo como a parede de listras no quarto do seu filho!
 </p>
 
-Imagens: **<a href="http://www.housetohome.co.uk/" target="_blank">housetohome</a>**
+Imagens: **[housetohome](http://www.housetohome.co.uk/) **
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
 </p>
 
 &nbsp;

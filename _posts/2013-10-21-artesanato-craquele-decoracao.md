@@ -25,7 +25,7 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.youtube.com/watch?v=Phr-aogRIlg" target="_blank"><img class="alignnone size-full wp-image-9829" alt="VANIA PINHO-CASA DE BONECA DECOR[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/VANIA-PINHO-CASA-DE-BONECA-DECOR2.jpg" width="600" height="369" /></a>
+  [<img class="alignnone size-full wp-image-9829" alt="VANIA PINHO-CASA DE BONECA DECOR[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2013/10/VANIA-PINHO-CASA-DE-BONECA-DECOR2.jpg" width="600" height="369" />](http://www.youtube.com/watch?v=Phr-aogRIlg) 
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -45,7 +45,7 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="http://casadebonecadecor.blogspot.com.br/" target="_blank">**<span style="font-size: small;">Blog da Vânia Pinho</span>**</a>**<span style="font-size: small;"> | </span>**<a href="https://www.facebook.com/pages/Casa-de-Boneca-Decor/538576672831951" target="_blank">**<span style="font-size: small;">Página do blog no Facebook</span>**</a>
+  [**<span style="font-size: small;">Blog da Vânia Pinho</span>**](http://casadebonecadecor.blogspot.com.br/) **<span style="font-size: small;"> | </span>**[**<span style="font-size: small;">Página do blog no Facebook</span>**](https://www.facebook.com/pages/Casa-de-Boneca-Decor/538576672831951) 
 </p>
 
 <p style="text-align: center;">
@@ -69,7 +69,7 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -86,13 +86,13 @@ Se você achava que isso era algo bem difícil, enganou-se redondamente. Neste p
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

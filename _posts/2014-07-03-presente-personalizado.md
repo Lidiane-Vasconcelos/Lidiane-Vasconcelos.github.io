@@ -38,7 +38,7 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="justify">
-  Quer navegar, se deliciar e escolher um mimo você também? <a href="http://www.lojalapomme.com.br/" target="_blank">Clica aqui</a> e se joga, bonita!
+  Quer navegar, se deliciar e escolher um mimo você também? [Clica aqui](http://www.lojalapomme.com.br/)  e se joga, bonita!
 </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="justify">
-  Pois é… quem curte a <a href="https://www.facebook.com/bichafemea" target="_blank">página do blog no Facebook</a> teve a chance de partcipar dessa brincadeira, isto é, 24h para se inscrever no sorteio relâmpago, e concorrer a essas <em>belezuras</em> da La Pomme. Sabe quem ganhou?
+  Pois é… quem curte a [página do blog no Facebook](https://www.facebook.com/bichafemea)  teve a chance de partcipar dessa brincadeira, isto é, 24h para se inscrever no sorteio relâmpago, e concorrer a essas _belezuras_ da La Pomme. Sabe quem ganhou?
 </p>
 
 &nbsp;

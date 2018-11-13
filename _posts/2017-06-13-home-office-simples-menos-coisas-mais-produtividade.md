@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://designcollector.net/" target="_blank">Design Collector</a>
+  Via [Design Collector](http://designcollector.net/) 
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://blackbirdstyle.blogspot.com.br/" target="_blank">Blackbird</a>
+  Via [Blackbird](http://blackbirdstyle.blogspot.com.br/) 
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.designertrapped.com/" target="_blank">Designer Trapped in a Lawyer´s Body</a>
+  Via [Designer Trapped in a Lawyer´s Body](http://www.designertrapped.com/) 
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.ruemag.com/" target="_blank">Rue Daily</a>
+  Via [Rue Daily](http://www.ruemag.com/) 
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/" target="_blank">**Organização do home office: dicas.**</a>
+  [**Organização do home office: dicas.**](http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/) 
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  **1** – Ter capacidade de armazenamento pela casa é bom, claro. Isso inclui o home office. Mas precisa tantas caixas, prateleiras, armários, etc? Mesmo que você tenha inúmeros itens de organização, na verdade fazer o desapego de tantas coisas pode ser a melhor das estratégias. Elimine! Veja tudo o que tem e selecione para permanecer em seu espaço de trabalho apenas o que é essencial. Faça isso pela casa inteira, inclusive. <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">Evitar o acúmulo e organizar o lar</a> vai impactar positivamente na maneira como você vê, organiza e realiza a manutenção do seu espaço de trabalho também.
+  **1** – Ter capacidade de armazenamento pela casa é bom, claro. Isso inclui o home office. Mas precisa tantas caixas, prateleiras, armários, etc? Mesmo que você tenha inúmeros itens de organização, na verdade fazer o desapego de tantas coisas pode ser a melhor das estratégias. Elimine! Veja tudo o que tem e selecione para permanecer em seu espaço de trabalho apenas o que é essencial. Faça isso pela casa inteira, inclusive. [Evitar o acúmulo e organizar o lar](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/)  vai impactar positivamente na maneira como você vê, organiza e realiza a manutenção do seu espaço de trabalho também.
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via [Casa Abril](http://casa.abril.com.br/) 
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/" target="_blank">**Inspirações para a decoração do home office.**</a>
+  [**Inspirações para a decoração do home office.**](http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/) 
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via [Casa Abril](http://casa.abril.com.br/) 
 </p>
 
 <p align="center">
@@ -106,11 +106,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/" target="_blank">**Home office: soluções simples de decoração & organização.**</a>
+  [**Home office: soluções simples de decoração & organização.**](http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/) 
 </p>
 
 <p align="justify">
-  **3** – Apele para o básico. Do que você precisa, realmente? Mesa, cadeira, computador, agenda, canetas, caderno de anotação…  o que mais? Repense seus hábitos, simplifique suas atividades e, de repente, o que parecia tão importante pode não ser como você imaginava. Ter uma <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">vida simples</a> e livre dos excessos pode ser libertador!
+  **3** – Apele para o básico. Do que você precisa, realmente? Mesa, cadeira, computador, agenda, canetas, caderno de anotação…  o que mais? Repense seus hábitos, simplifique suas atividades e, de repente, o que parecia tão importante pode não ser como você imaginava. Ter uma [vida simples](http://www.trololodemulher.com.br/2015/07/03/vida-simples/)  e livre dos excessos pode ser libertador!
 </p>
 
 <p align="center">
@@ -118,9 +118,9 @@ categories:
 </p>
 
 <p align="center">
-  Home office da <a href="http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/" target="_blank">fotógrafa Ruby Fernandes</a>, montado com uma escrivaninha antiga e pouquíssimos objetos de decoração. Inspire-se!
+  Home office da [fotógrafa Ruby Fernandes](http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/) , montado com uma escrivaninha antiga e pouquíssimos objetos de decoração. Inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

@@ -13,43 +13,43 @@ categories:
 ---
 <p style="text-align: center;">
   <div style="text-align: center;">
-    **<em><span style="font-size: small;">O peso ideal é aquele que se sente bem …</span></em>**
+    **_<span style="font-size: small;">O peso ideal é aquele que se sente bem …</span>_**
   </div>
   
   <div>
-    **<em><span style="font-size: small;"> </span></em>**
+    **_<span style="font-size: small;"> </span>_**
   </div>
   
   <div>
-    **<em><span style="font-size: small;"> </span></em>**
+    **_<span style="font-size: small;"> </span>_**
   </div>
   
   <div style="text-align: justify;">
-    <em><span style="font-size: small;">Perder peso hoje se tornou o foco de muitos jovens e adultos, que insatisfeitos com o peso e contorno corporal, saem em busca de soluções para enfrentar esse problema.</span></em>
+    _<span style="font-size: small;">Perder peso hoje se tornou o foco de muitos jovens e adultos, que insatisfeitos com o peso e contorno corporal, saem em busca de soluções para enfrentar esse problema.</span>_
   </div>
   
   <p style="text-align: justify;">
     <div style="text-align: justify;">
-      <em><span style="font-size: small;">Nessa batalha contra o peso, precisamos lembrar de traçar parâmetros reais, levando em consideração a idade, altura, entre outros fatores que podem determinar, ou não, a perda de peso.</span></em>
+      _<span style="font-size: small;">Nessa batalha contra o peso, precisamos lembrar de traçar parâmetros reais, levando em consideração a idade, altura, entre outros fatores que podem determinar, ou não, a perda de peso.</span>_
     </div>
     
     <div>
-      <em><span style="font-size: small;">**<!--more-->**</span></em>
+      _<span style="font-size: small;">**<!--more-->**</span>_
     </div>
     
     <div>
-      <em><span style="font-size: small;"> </span></em>
+      _<span style="font-size: small;"> </span>_
     </div>
     
     <div>
-      <em><span style="font-size: small;"> </span></em>
+      _<span style="font-size: small;"> </span>_
     </div>
     
     <p>
-      <em><span style="font-size: small;"> </p> 
+      _<span style="font-size: small;"> </p> 
       
       <p>
-        </span></em>
+        </span>_
       </p>
       
       <p style="text-align: justify;">
@@ -89,9 +89,9 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        **<em><a href="http://www.trololodemulher.com.br/2010/05/21/auto-estima-confianca-mulher/" target="_self">Você é confiante?</a></em>**
+        **_<a href="http://www.trololodemulher.com.br/2010/05/21/auto-estima-confianca-mulher/" target="_self">Você é confiante?</a>_**
       </p>
       
       <p style="text-align: justify;">
-        **<em><a href="http://www.trololodemulher.com.br/2010/05/03/auto-estim/" target="_self">Como sentir-se confiante.</a></em>**
+        **_<a href="http://www.trololodemulher.com.br/2010/05/03/auto-estim/" target="_self">Como sentir-se confiante.</a>_**
       </p>

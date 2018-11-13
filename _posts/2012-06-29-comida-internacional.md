@@ -26,7 +26,7 @@ Há um programa que eu faço com o marido e curto bastante: ir a restaurantes. S
 &nbsp;
 
 <p align="justify">
-  Não faz muito tempo nós fomos na unidade de **Campinas** do **<a href="http://www.lagundri.com.br/" target="_blank">Lagundri</a>**, onde a gente encontra delícias** tailandesas**. Eu amei tudo! Desde a decoração do local, a luz indireta e aconchegante, o som ambiente, o atendimento e a comida.
+  Não faz muito tempo nós fomos na unidade de **Campinas** do **[Lagundri](http://www.lagundri.com.br/) **, onde a gente encontra delícias** tailandesas**. Eu amei tudo! Desde a decoração do local, a luz indireta e aconchegante, o som ambiente, o atendimento e a comida.
 </p>
 
 <p align="justify">
@@ -42,15 +42,15 @@ Há um programa que eu faço com o marido e curto bastante: ir a restaurantes. S
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, querida! Tenho uma dica, sim. **<a href="http://sashiburi.com.br/" target="_blank">Sashiburi</a>** de **Porto Alegre**! O melhor sushi do sul! Culinária japonesa. Amo demais</em>!” **Pauline | **<a href="http://cheiadecharme.blog.br/" target="_blank">**Cheia de Charme**</a>
+>   “_Oi, querida! Tenho uma dica, sim. **[Sashiburi](http://sashiburi.com.br/) ** de **Porto Alegre**! O melhor sushi do sul! Culinária japonesa. Amo demais_!” **Pauline | **[**Cheia de Charme**](http://cheiadecharme.blog.br/) 
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/culinaria-italiana/" rel="attachment wp-att-8794"><img class="alignnone size-full wp-image-8794" title="CULINARIA ITALIANA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CULINARIA-ITALIANA.png" alt="" width="378" height="274" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
+  [Stock.xchng](http://www.trololodemulher.com.br/2012/06/29/comida-internacional/culinaria-italiana/" rel="attachment wp-att-8794"><img class="alignnone size-full wp-image-8794" title="CULINARIA ITALIANA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CULINARIA-ITALIANA.png" alt="" width="378" height="274" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 > <p align="justify">
->   “<em>Oi, Lidi! Como estou em uma cidade relativamente pequena, **Itapetininga**, não temos aqui muitas opções de sabores diferentes. O que temos aqui é um ótimo restaurante **italiano** chamado **Castellammare**, que adoro ir</em>.” **Lenita Feffe**
+>   “_Oi, Lidi! Como estou em uma cidade relativamente pequena, **Itapetininga**, não temos aqui muitas opções de sabores diferentes. O que temos aqui é um ótimo restaurante **italiano** chamado **Castellammare**, que adoro ir_.” **Lenita Feffe**
 > </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ Há um programa que eu faço com o marido e curto bastante: ir a restaurantes. S
 </p>
 
 > <p align="justify">
->   “<em>Aqui em casa não ousamos muito em conhecer restaurantes de comida internacional exóticos e diferentes, porque maridão gosta mesmo do tradicional. Quando viajamos ele até se permite experimentar alguns pratos (também não tem jeito, né? rs) . O nosso prato preferido (e acho que de 99% dos brasileiros) é massa. E para comermos uma boa &#8220;pasta&#8221;, costumamos ir a  um pequeno restaurante aqui em **Niterói** chamado **<a href="http://www.trattoriatorna.com.br/" target="_blank">Trattoria Torna</a>**, ambiente acolhedor e muito charmoso, uma cantina **italiana**</em>.&#8221; **Flávia Mergulhão | **<a href="http://ateliedacaie.blogspot.com.br/" target="_blank">**Ateliê da Caiê**</a>
+>   “_Aqui em casa não ousamos muito em conhecer restaurantes de comida internacional exóticos e diferentes, porque maridão gosta mesmo do tradicional. Quando viajamos ele até se permite experimentar alguns pratos (também não tem jeito, né? rs) . O nosso prato preferido (e acho que de 99% dos brasileiros) é massa. E para comermos uma boa &#8220;pasta&#8221;, costumamos ir a  um pequeno restaurante aqui em **Niterói** chamado **[Trattoria Torna](http://www.trattoriatorna.com.br/) **, ambiente acolhedor e muito charmoso, uma cantina **italiana**_.&#8221; **Flávia Mergulhão | **[**Ateliê da Caiê**](http://ateliedacaie.blogspot.com.br/) 
 > </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Há um programa que eu faço com o marido e curto bastante: ir a restaurantes. S
 </p>
 
 > <p align="justify">
->   “<em>Serve aqui em** Niterói**? Legal! Adoramos o ambiente descontraído e lindo, e o tempero do **<a href="http://www.coahuila.com.br/" target="_blank">Coahuila</a>**, onde comida no estilo **Tex Mex** é servida.</em>” **Marecelle Rebello | **<a href="http://pedacinhodacel.blogspot.com.br/" target="_blank">**Casa da Céu**</a>
+>   “_Serve aqui em** Niterói**? Legal! Adoramos o ambiente descontraído e lindo, e o tempero do **[Coahuila](http://www.coahuila.com.br/) **, onde comida no estilo **Tex Mex** é servida._” **Marecelle Rebello | **[**Casa da Céu**](http://pedacinhodacel.blogspot.com.br/) 
 > </p>
 
 <p align="center">
@@ -74,11 +74,11 @@ Há um programa que eu faço com o marido e curto bastante: ir a restaurantes. S
 </p>
 
 > <p align="justify">
->   “<em>Oi, Lidi! Fui 1 vez num **alemão** aqui em **B.H**. que se chama **<a href="http://www.hausmunchen.com.br/" target="_blank">Haus München</a>**. Normalmente lugares assim têm atendimento diferenciado, com garçons vindos do país para deixar com mais característica da região. E tudo isso, claro, tem seu preço</em>!” <a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank">**Carol Carneiro**</a>
+>   “_Oi, Lidi! Fui 1 vez num **alemão** aqui em **B.H**. que se chama **[Haus München](http://www.hausmunchen.com.br/) **. Normalmente lugares assim têm atendimento diferenciado, com garçons vindos do país para deixar com mais característica da região. E tudo isso, claro, tem seu preço_!” [**Carol Carneiro**](http://www.blogcarolcarneiro.blogspot.com.br/) 
 > </p>
 
 <p align="justify">
-  Então, bonita… ficou com vontade de experimentar algo novo em breve? Vai fundo, ué?! Posso garantir que é muito gostoso se jogar nesse tipo de aventura de vez em quando, <em>viu</em>? Agora, cá para nós: **<span style="font-size: large;">você tem a sua indicação para deixar por aqui? Corre e deixa nos comentários… as bichas fêmeas navegantes agradecem!</span>**
+  Então, bonita… ficou com vontade de experimentar algo novo em breve? Vai fundo, ué?! Posso garantir que é muito gostoso se jogar nesse tipo de aventura de vez em quando, _viu_? Agora, cá para nós: **<span style="font-size: large;">você tem a sua indicação para deixar por aqui? Corre e deixa nos comentários… as bichas fêmeas navegantes agradecem!</span>**
 </p>
 
 <p align="center">
@@ -136,7 +136,7 @@ Há um programa que eu faço com o marido e curto bastante: ir a restaurantes. S
     </table>
     
     <p align="center">
-      <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+      [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
     </p>
     
     <p>
@@ -155,13 +155,13 @@ Há um programa que eu faço com o marido e curto bastante: ir a restaurantes. S
       <tr>
         <td valign="top" width="300">
           <p align="center">
-            <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+            [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
           </p>
         </td>
         
         <td valign="top" width="300">
           <p align="center">
-            <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+            [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
           </p>
         </td>
       </tr>

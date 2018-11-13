@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
@@ -39,11 +39,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
-  Mesa arrumada com lugares postos de maneira simples, com aneis de guardanapo recebendo o complemento de folhas verdes. A graça fica por conta da forma como o guardanapo foi arrumado, em forma de leque. Não é uma graça? Outro detalhe que derreteu o meu coração foi o <a href="http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/" target="_blank">arranjo de mesa de Natal</a>: um prato de bolo apoiando velas nas cores branca e vermelha. Sim, há beleza na simplicidade.
+  Mesa arrumada com lugares postos de maneira simples, com aneis de guardanapo recebendo o complemento de folhas verdes. A graça fica por conta da forma como o guardanapo foi arrumado, em forma de leque. Não é uma graça? Outro detalhe que derreteu o meu coração foi o [arranjo de mesa de Natal](http://www.trololodemulher.com.br/2015/10/07/arranjo-de-mesa-de-natal/) : um prato de bolo apoiando velas nas cores branca e vermelha. Sim, há beleza na simplicidade.
 </p>
 
 <p align="center">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
-  Sabe o anel de guardanapo que você já tem e ele é bem básico? Use e abuse dele ano após ano: apenas fixe nele um pequeno enfeite, como esta florzinha que poderia ser de tecido, de papel ou de feltro. Pronto! Você deixa sua mesa de Natal cheia de <em>bossa</em> este ano e retira o enfeite depois do jantar. Ano que vem será este mesmo anel que será usado, com um detalhe diferente, o que te dará uma mesa novinha em folha. Fica dica!
+  Sabe o anel de guardanapo que você já tem e ele é bem básico? Use e abuse dele ano após ano: apenas fixe nele um pequeno enfeite, como esta florzinha que poderia ser de tecido, de papel ou de feltro. Pronto! Você deixa sua mesa de Natal cheia de _bossa_ este ano e retira o enfeite depois do jantar. Ano que vem será este mesmo anel que será usado, com um detalhe diferente, o que te dará uma mesa novinha em folha. Fica dica!
 </p>
 
 <p align="center">
@@ -63,11 +63,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://findinghomefarms.com/" target="_blank">Fiding Home</a>
+  Via [Fiding Home](http://findinghomefarms.com/) 
 </p>
 
 <p align="justify">
-  Lindo essa arrumação de lugar à mesa, e ao mesmo tempo tão simples! O uso do <em>souplat</em> vermelho e guardanapo verde é bem sugestivo para uma mesa de Natal. Se você já tem peças nessas cores, ótimo. Se não tem, peças brancas com o uso das folhagens natalinas e frutinhos vermelhos, que você adquire por precinhos camaradas + fita verde. Uma boa solução! Inspire-se!
+  Lindo essa arrumação de lugar à mesa, e ao mesmo tempo tão simples! O uso do _souplat_ vermelho e guardanapo verde é bem sugestivo para uma mesa de Natal. Se você já tem peças nessas cores, ótimo. Se não tem, peças brancas com o uso das folhagens natalinas e frutinhos vermelhos, que você adquire por precinhos camaradas + fita verde. Uma boa solução! Inspire-se!
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+  Via [Martha Stewart](http://www.marthastewart.com/) 
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

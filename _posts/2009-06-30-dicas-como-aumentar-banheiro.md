@@ -10,7 +10,7 @@ categories:
   - Banheiro
   - Pequenos Espaços
 ---
-Banheiro pequeno quase todo mundo tem, não é? Eu não fujo a essa regra e imagino que você também não, certo? Por isso mesmo é que toda dica que ouço falar para que esse espaço seja um pouco mais maximizado me interessa, e as que vi no <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a> também não me deixaram “passar batida”.
+Banheiro pequeno quase todo mundo tem, não é? Eu não fujo a essa regra e imagino que você também não, certo? Por isso mesmo é que toda dica que ouço falar para que esse espaço seja um pouco mais maximizado me interessa, e as que vi no [HGTV.com](http://www.hgtv.com/)  também não me deixaram “passar batida”.
 
 Já disse que meus banheiros não estão completamente prontos? Pois, é isso. O que falta neles são os armários sob o balcão, e tudo o mais está feito. Por isso mesmo já andei pesquisando sobre**_ <a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">ideias para armários no banheiro</a>_**, e talvez você se inspire pelo que reuni. Sugiro a leitura do post!
 
@@ -26,13 +26,13 @@ Box de vidro em pequenos banheiros dão a falsa impressão (mas aí a gente já 
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="HGTV.com" src="http://img.hgtv.com/HGTV/2009/02/14/dp-pubillones-bathroom-vanity_s4x3_lg.jpg" alt="HGTV.com" />
 </p>
 
-Um armário flutuante sob o balcão oferece muito estilo ao banheiro (e já fiquei daqui de olho no charme que ele pode proporcionar), e deixa o piso livre para os nossos olhos. Isso também da a impressão de que o espaço é maior. Tem muito mais <a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">**<em>dicas para armários no banheiro</em>** </a>antes publicadas no Bicha Fêmea, hein?!
+Um armário flutuante sob o balcão oferece muito estilo ao banheiro (e já fiquei daqui de olho no charme que ele pode proporcionar), e deixa o piso livre para os nossos olhos. Isso também da a impressão de que o espaço é maior. Tem muito mais <a href="http://www.trololodemulher.com.br/2010/01/06/decoracao-armarios-banheiro/" target="_self">**_dicas para armários no banheiro_** </a>antes publicadas no Bicha Fêmea, hein?!
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="HGTV.com" src="http://img.hgtv.com/HGTV/2004/06/01/sollugub_Picture001_lg.jpg" alt="HGTV.com" />
 </p>
 
-É importante ter espaço para armazenar coisas no banheiro, como embaixo da pia (o mais comum), e também espaço para pendurar as toalhas. Tudo deve contribuir para que o balcão fique o mais vazio possível a fim de eliminar a sensação de bagunça em um banheiro pequeno. Aliás, se você gosta do banheiro organizado e bonito, certamente vai gostar de ler <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self">**<em>dicas para organizar e embelezar o banheiro</em>** </a>dadas pelas leitoras do Bicha Fêmea, _hã_?!
+É importante ter espaço para armazenar coisas no banheiro, como embaixo da pia (o mais comum), e também espaço para pendurar as toalhas. Tudo deve contribuir para que o balcão fique o mais vazio possível a fim de eliminar a sensação de bagunça em um banheiro pequeno. Aliás, se você gosta do banheiro organizado e bonito, certamente vai gostar de ler <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self">**_dicas para organizar e embelezar o banheiro_** </a>dadas pelas leitoras do Bicha Fêmea, _hã_?!
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="HGTV.com" src="http://img.hgtv.com/HGTV/2005/12/16/Hittinger_Bath1_lg.jpg" alt="HGTV.com" />
@@ -46,7 +46,7 @@ Prateleiras abertas cumprem a função de armazenamento e organização, e por s
 
 Novamente, é importante a gente ficar atenta a necessidade de fazer o melhor uso do espaço sob o balcão e deixá-lo livre do que seja desnecessário estar lá.[<img style="display: inline;" title="EmoticonBigSmile" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonbigsmile_thumb11.gif" alt="EmoticonBigSmile" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/emoticonbigsmile11.gif)
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
+Imagens: [HGTV.com](http://www.hgtv.com/) 
 
 A gente sabe mais do que ninguém que a melhor dica mesmo é dada porque quem “se vira nos 30” com o pouco espaço que tem, _né_?
 

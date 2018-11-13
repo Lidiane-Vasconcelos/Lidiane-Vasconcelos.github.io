@@ -30,19 +30,19 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “ <em>Ontem foi um domingo normal e, para você ter uma idéia do que é um domingo normal na minha vida, eu vou te contar o que aconteceu. A madrugada foi assim: Isabel tossiu a noite inteira e estava na minha cama. Passou a noite daquele jeito esparramado dela, com pernas e braços por cima de nós. Lá pelas 3h, de tanto tossir, acabou vomitando. Por sorte eu previ que isso aconteceria , coloquei a cabeça dela na beirada da cama rapidamente e ela só sujou o chão. Depois de limpá-la, escovar seus dentes e conseguir fazer com que dormisse outra vez, acordou o João, com fome. E o chão sujo. No quarto aquele cheiro insuportável. O João mamou, arrotou, dormiu.  E lá fui eu pegar um pano de chão para dar fim àquela sujeira. Mão na água fria do tanque às 4:30 da madruga. Inverno! ÔOOOO vidão!!!</em>
+  “ _Ontem foi um domingo normal e, para você ter uma idéia do que é um domingo normal na minha vida, eu vou te contar o que aconteceu. A madrugada foi assim: Isabel tossiu a noite inteira e estava na minha cama. Passou a noite daquele jeito esparramado dela, com pernas e braços por cima de nós. Lá pelas 3h, de tanto tossir, acabou vomitando. Por sorte eu previ que isso aconteceria , coloquei a cabeça dela na beirada da cama rapidamente e ela só sujou o chão. Depois de limpá-la, escovar seus dentes e conseguir fazer com que dormisse outra vez, acordou o João, com fome. E o chão sujo. No quarto aquele cheiro insuportável. O João mamou, arrotou, dormiu.  E lá fui eu pegar um pano de chão para dar fim àquela sujeira. Mão na água fria do tanque às 4:30 da madruga. Inverno! ÔOOOO vidão!!!_
 </p>
 
 <p style="text-align: justify;">
-  <em>A tosse continua. Às 6h João acorda definitivamente e lá vou eu para a sala com ele para tentar salvar o que resta da noite do Marco, e não acordar os outros. Rafaela, graças a Deus, continua dormindo. Ela é quem dá mais trabalho quando acorda, mas não acordou. </em>
+  _A tosse continua. Às 6h João acorda definitivamente e lá vou eu para a sala com ele para tentar salvar o que resta da noite do Marco, e não acordar os outros. Rafaela, graças a Deus, continua dormindo. Ela é quem dá mais trabalho quando acorda, mas não acordou. _
 </p>
 
 <p style="text-align: justify;">
-  <em>Às 8h acordam Rafaela e a babá. Ouço barulhos no meu quarto, Marco já está de pé. Quando chego no meu banheiro encontro tudo alagado. O Marco esqueceu que o vaso estava entupido e puxou a descarga. Conclusão: antes das 9h, lá estava eu tacando água sanitária em tudo e desentupindo o vaso, enfim, tive que lavar o banheiro. O Marco? Foi ler o jornal na cozinha e fechou a porta.</em>
+  _Às 8h acordam Rafaela e a babá. Ouço barulhos no meu quarto, Marco já está de pé. Quando chego no meu banheiro encontro tudo alagado. O Marco esqueceu que o vaso estava entupido e puxou a descarga. Conclusão: antes das 9h, lá estava eu tacando água sanitária em tudo e desentupindo o vaso, enfim, tive que lavar o banheiro. O Marco? Foi ler o jornal na cozinha e fechou a porta._
 </p>
 
 <p style="text-align: justify;">
-  <em>Alimento a todos com a ajuda da Maria, escovo os dentes e penteio os cabelos, inclusive os meus. Não se podia sair de casa por causa da chuva. Vídeos, dança, pinturas, desenhos, contações de histórias, muita gritaria e alguma briga com choramingação. Até que chega a hora de dar uma pausa para arrumar as bolsas, pois vamos sair. Maria segura as pontas e eu vou recolher o que é preciso levar. Duas bolsas: Uma para as meninas, outra para o João. Depois os banhos. Secar, vestir, pentear 3 crianças. Antes de sair lembrar dos remédios. </em>
+  _Alimento a todos com a ajuda da Maria, escovo os dentes e penteio os cabelos, inclusive os meus. Não se podia sair de casa por causa da chuva. Vídeos, dança, pinturas, desenhos, contações de histórias, muita gritaria e alguma briga com choramingação. Até que chega a hora de dar uma pausa para arrumar as bolsas, pois vamos sair. Maria segura as pontas e eu vou recolher o que é preciso levar. Duas bolsas: Uma para as meninas, outra para o João. Depois os banhos. Secar, vestir, pentear 3 crianças. Antes de sair lembrar dos remédios. _
 </p>
 
 <p style="text-align: center;">
@@ -50,31 +50,31 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Venho me arrumar. Mal consigo tomar um banho de 5 minutos.</em>
+  _Venho me arrumar. Mal consigo tomar um banho de 5 minutos._
 </p>
 
 <p style="text-align: justify;">
-  <em>Chego na casa da minha sogra e vou dar o almoço das meninas. João Pedro quer mamar.  As meninas sobem em tudo. Qualquer dia a Maria pede demissão. O Marco bebe sua cerveja e conversa com um primo insuportável. Meu sogro quer levar a neta para exibir no boteco que freqüenta. Está chovendo muito e minha sogra não deixa. Procuro ficar calada. Começa uma briga. Duas brigas. Ele diz à Isabel que somos nós os culpados por ela não poder ir passear com ele. Mais brigas. Eu não abro a boca.</em>
+  _Chego na casa da minha sogra e vou dar o almoço das meninas. João Pedro quer mamar.  As meninas sobem em tudo. Qualquer dia a Maria pede demissão. O Marco bebe sua cerveja e conversa com um primo insuportável. Meu sogro quer levar a neta para exibir no boteco que freqüenta. Está chovendo muito e minha sogra não deixa. Procuro ficar calada. Começa uma briga. Duas brigas. Ele diz à Isabel que somos nós os culpados por ela não poder ir passear com ele. Mais brigas. Eu não abro a boca._
 </p>
 
 <p style="text-align: justify;">
-  <em>Todos almoçam, menos eu e a Maria. Maria almoça por último. Eu não consigo almoçar. Vou comendo uma coisa e outra até matar a fome.</em>
+  _Todos almoçam, menos eu e a Maria. Maria almoça por último. Eu não consigo almoçar. Vou comendo uma coisa e outra até matar a fome._
 </p>
 
 <p style="text-align: justify;">
-  <em>Às 16h, cansada de tudo, peço ao Marco para irmos embora. Recolhe tudo. Cata as coisas todas, cata a  criançada. Calço sapatos à força nos 3. Elas não querem ir, mas também não querem ficar. Elas não sabem o que querem e o João assiste a tudo com os olhos arregalados. </em>
+  _Às 16h, cansada de tudo, peço ao Marco para irmos embora. Recolhe tudo. Cata as coisas todas, cata a  criançada. Calço sapatos à força nos 3. Elas não querem ir, mas também não querem ficar. Elas não sabem o que querem e o João assiste a tudo com os olhos arregalados. _
 </p>
 
 <p style="text-align: justify;">
-  <em>No carro temos que cantar, contar os carros da polícia, brincar de dar sustos. Elas não podem é dormir. Cada vez que o carro pára, o João chora. Chagamos em casa, graças a Deus. </em>
+  _No carro temos que cantar, contar os carros da polícia, brincar de dar sustos. Elas não podem é dormir. Cada vez que o carro pára, o João chora. Chagamos em casa, graças a Deus. _
 </p>
 
 <p style="text-align: justify;">
-  <em>Enrolar a todos até a hora da janta é preciso. Janta. Mais três banhos. Escovar os dentes. Remédios.  Maria vai fazer a Rafaela dormir. Isabel deita numa caminha que fazemos na sala para ver as vídeo-cassetadas. Dorme. Tosse, tosse, tosse. Ligo para a pediatra com João no colo. Mando vir um remédio da farmácia, mas não deu tempo e ela vomitou. Acordou. Coloco o João na cama e vou limpá-la, escovar seus dentinhos outra vez. Marco bebe cerveja e vê o Faustão. Ela chora, João chora, eu choro. </em>
+  _Enrolar a todos até a hora da janta é preciso. Janta. Mais três banhos. Escovar os dentes. Remédios.  Maria vai fazer a Rafaela dormir. Isabel deita numa caminha que fazemos na sala para ver as vídeo-cassetadas. Dorme. Tosse, tosse, tosse. Ligo para a pediatra com João no colo. Mando vir um remédio da farmácia, mas não deu tempo e ela vomitou. Acordou. Coloco o João na cama e vou limpá-la, escovar seus dentinhos outra vez. Marco bebe cerveja e vê o Faustão. Ela chora, João chora, eu choro. _
 </p>
 
 <p style="text-align: justify;">
-  <em>Chega o remédio. Depois do remédio ela quer brincar mais e eu quero que ela durma&#8230;dormiu. Melhorou da tosse e eu a levei para a sua cama. Depois ainda resta o João mamar e resistir ao sono por mais 1/2 hora. Pronto. Acabou. </em>
+  _Chega o remédio. Depois do remédio ela quer brincar mais e eu quero que ela durma&#8230;dormiu. Melhorou da tosse e eu a levei para a sua cama. Depois ainda resta o João mamar e resistir ao sono por mais 1/2 hora. Pronto. Acabou. _
 </p>
 
 <p style="text-align: center;">
@@ -82,41 +82,41 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <em>Acabou? Claro que não! Ainda temos bolsas para desfazer, mamadeiras para lavar, mamadeiras para esterilizar, brinquedos para recolher, vomitado para limpar, água para ferver( do João) e roupa para acabar de lavar e colocar no varal (havia ficado de molho na máquina). Eu esqueci de mencionar ainda todas as trocas de fralda e outras coisas.</em>
+  _Acabou? Claro que não! Ainda temos bolsas para desfazer, mamadeiras para lavar, mamadeiras para esterilizar, brinquedos para recolher, vomitado para limpar, água para ferver( do João) e roupa para acabar de lavar e colocar no varal (havia ficado de molho na máquina). Eu esqueci de mencionar ainda todas as trocas de fralda e outras coisas._
 </p>
 
 <p style="text-align: justify;">
-  <em>O Marco estava dormindo no sofá e eu o mandei para a cama. Pedi uma pizza e fui tomar banho. Quando a pizza chegou, eu e a Maria comemos na Santa Paz de Deus. </em>
+  _O Marco estava dormindo no sofá e eu o mandei para a cama. Pedi uma pizza e fui tomar banho. Quando a pizza chegou, eu e a Maria comemos na Santa Paz de Deus. _
 </p>
 
 <p style="text-align: justify;">
-  <em>O João só acordou uma vez esta noite. Parecia saber que eu não agüentaria mais que isso.</em>
+  _O João só acordou uma vez esta noite. Parecia saber que eu não agüentaria mais que isso._
 </p>
 
 <p style="text-align: justify;">
-  <em>Isso tudo acontece todos os dias. Há dias, como hoje, em que as meninas estão na escola e eu tenho mais tempo, mas ainda há todo o serviço normal da casa para fazer e preparar a comida de todos. Hoje estou bem, estou me sentindo bem, tenho disposição. Mas há aqueles dias em que eu estou com algum problema, alguma dor, um pé doendo, por exemplo. E, haja o que houver, tudo tem que acontecer, tudo precisa funcionar. </em>
+  _Isso tudo acontece todos os dias. Há dias, como hoje, em que as meninas estão na escola e eu tenho mais tempo, mas ainda há todo o serviço normal da casa para fazer e preparar a comida de todos. Hoje estou bem, estou me sentindo bem, tenho disposição. Mas há aqueles dias em que eu estou com algum problema, alguma dor, um pé doendo, por exemplo. E, haja o que houver, tudo tem que acontecer, tudo precisa funcionar. _
 </p>
 
 <p style="text-align: justify;">
-  <em>Viu só? É por isso que eu gostaria que os finais de semana não existissem.”</em>
+  _Viu só? É por isso que eu gostaria que os finais de semana não existissem.”_
 </p>
 
 <p style="text-align: justify;">
   **O que eu queria dizer é o seguinte: MÃES, as coisas melhoram! Acreditem! (até o marido colabora mais hoje…) **
 </p>
 
-_Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_
+_Imagens: [stock.xchng](http://www.sxc.hu/) _
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por **<em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/adriana-vieira/">Adriana Vieira</a></em>**
+      Por **_<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/adriana-vieira/">Adriana Vieira</a>_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://coisasqueeuamoetc.blogspot.com/" target="_blank">Coisas que eu amo e são tudo pra mim…</a>
+      [Coisas que eu amo e são tudo pra mim…](http://coisasqueeuamoetc.blogspot.com/) 
     </td>
   </tr>
 </table>
@@ -138,9 +138,9 @@ Quer ver seu texto publicado por aqui? Seja uma **_[bicha fêmea colaboradora](h
 **_[E a educação? Vem mesmo de berço?](http://www.trololodemulher.com.br/2009/11/16/educao-criancas/)_**
 
 <p style="text-align: center;">
-  Navegue no Bicha Fêmea: **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">Comportamento</a></em>** > Peripécias de uma mãe desesperada…
+  Navegue no Bicha Fêmea: **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">Comportamento</a>_** > Peripécias de uma mãe desesperada…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

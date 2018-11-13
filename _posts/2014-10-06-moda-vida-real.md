@@ -10,11 +10,11 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Eu gosto de folhear revista de moda ou espiar programas de TV do gênero, mas me agrada muito mais quando o conteúdo que chega até meus olhinhos traduzem o que é “tendência” para a minha vida, que é bem real. Você é das minhas, bonita? Pois então eu pensei neste post para a gente, <em>viu</em>? Eu queria ficar por dentro do que virá com força total para as vitrines nesta Primavera-Verão 2015, mas de um jeito didático e que eu percebesse bem o que é bom para mim, ou não.
+  Eu gosto de folhear revista de moda ou espiar programas de TV do gênero, mas me agrada muito mais quando o conteúdo que chega até meus olhinhos traduzem o que é “tendência” para a minha vida, que é bem real. Você é das minhas, bonita? Pois então eu pensei neste post para a gente, _viu_? Eu queria ficar por dentro do que virá com força total para as vitrines nesta Primavera-Verão 2015, mas de um jeito didático e que eu percebesse bem o que é bom para mim, ou não.
 </p>
 
 <p align="justify">
-  A boa notícia é que este post está recheado de dicas, informações visuais, orientações e tudo mais que precisamos para fazer boas escolhas na hora de comprar, e se arrumar. Quem nos ensina tudo<em> tim-tim-por-tim-tim</em> é a querida **Lilian Jordão, nossa consultora de moda e estilo** aqui no **Trololó de Mulher**. A hora de aprender é agora… vamos aproveitar? Vem!
+  A boa notícia é que este post está recheado de dicas, informações visuais, orientações e tudo mais que precisamos para fazer boas escolhas na hora de comprar, e se arrumar. Quem nos ensina tudo_ tim-tim-por-tim-tim_ é a querida **Lilian Jordão, nossa consultora de moda e estilo** aqui no **Trololó de Mulher**. A hora de aprender é agora… vamos aproveitar? Vem!
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Em busca de romantismo e delicadeza, o próximo verão vai destacar o estilo <em>lady like</em>. Os <em>looks</em> que seguem esta linha resgatam o visual dos anos 50, com saias <em>midi</em> e saias rodadas de cintura marcada, cores suaves e estampas de flores.”**
+>   **Em busca de romantismo e delicadeza, o próximo verão vai destacar o estilo _lady like_. Os _looks_ que seguem esta linha resgatam o visual dos anos 50, com saias _midi_ e saias rodadas de cintura marcada, cores suaves e estampas de flores.”**
 > </p>
 
 <p align="justify">
@@ -150,7 +150,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Quanto às cores, veremos muitos tons vibrantes, pastéis e neutros. Dentro dos tons vibrantes, ganham destaque as cores goiaba, tangerina, coral, orquídea, azul klein, rosa chiclete e amarelo. Nos tons neutros, o <em>off white</em>, <em>brown sugar</em> e <em>nude</em> ganham destaque. As Candy Colors também continuam com tudo, seus tons pastéis voltam mais discretos e modestos, sendo responsáveis pelo toque romântico da estação: o rosa, verde, lilás, azul e amarelo são os protagonistas.”**
+>   **Quanto às cores, veremos muitos tons vibrantes, pastéis e neutros. Dentro dos tons vibrantes, ganham destaque as cores goiaba, tangerina, coral, orquídea, azul klein, rosa chiclete e amarelo. Nos tons neutros, o _off white_, _brown sugar_ e _nude_ ganham destaque. As Candy Colors também continuam com tudo, seus tons pastéis voltam mais discretos e modestos, sendo responsáveis pelo toque romântico da estação: o rosa, verde, lilás, azul e amarelo são os protagonistas.”**
 > </p>
 
 <p align="center">
@@ -178,7 +178,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/" target="_blank">**O bom e velho short: peça certeira nos dias de sol.**</a>
+  [**O bom e velho short: peça certeira nos dias de sol.**](http://www.trololodemulher.com.br/2014/09/10/short-dias-de-sol/) 
 </p>
 
 <p align="center">
@@ -186,15 +186,15 @@ categories:
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>!
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? [Clica aqui e se joga](https://www.facebook.com/lilianjordao82/timeline) !
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://br.pinterest.com/" target="_blank">Pinterest</a>
+  Imagens: [Pinterest](http://br.pinterest.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

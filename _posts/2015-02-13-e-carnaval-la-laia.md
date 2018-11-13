@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Brincar, sim, mas com juízo e prudência, <em>pelamor</em>!!!! Depois desses dias de festa, a vida continua, tudo recomeça, seus amores e sabores estarão aí, te esperando, e tenho certeza que você quer abraçar tudo o que ainda há de vir pela frente, certo? Você sabe bem, nós sabemos: bebida alcoólica e direção, jamais! Cuide de você e de quem você ama, sim?
+  Brincar, sim, mas com juízo e prudência, _pelamor_!!!! Depois desses dias de festa, a vida continua, tudo recomeça, seus amores e sabores estarão aí, te esperando, e tenho certeza que você quer abraçar tudo o que ainda há de vir pela frente, certo? Você sabe bem, nós sabemos: bebida alcoólica e direção, jamais! Cuide de você e de quem você ama, sim?
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.carlosmeirailustrador.blogspot.com.br/" target="_blank">Carlos Meira</a>
+  Imagem: [Carlos Meira](http://www.carlosmeirailustrador.blogspot.com.br/) 
 </p>
 
 <p align="justify">
@@ -46,5 +46,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

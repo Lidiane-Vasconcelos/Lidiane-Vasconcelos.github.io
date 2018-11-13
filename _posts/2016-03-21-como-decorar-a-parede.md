@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.dreamgreendiy.com/blog/" target="_blank">Dream Green DIY</a>
+  Imagem: [Dream Green DIY](http://www.dreamgreendiy.com/blog/) 
 </p>
 
 <p align="justify">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank">**Puro charme: decoração da parede com fotos.**</a>
+  [**Puro charme: decoração da parede com fotos.**](http://www.decoracaodacasa.com/decoracao-parede-fotos/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank">**Decoração da parede com fotos: faça a sua!**</a>
+  [**Decoração da parede com fotos: faça a sua!**](http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/) 
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://knightmovesblog.blogspot.com.br/" target="_blank">Knight Moves</a>
+  Imagem: [Knight Moves](http://knightmovesblog.blogspot.com.br/) 
 </p>
 
 <p align="justify">
@@ -66,15 +66,15 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.thenester.com/" target="_blank">Nesting Place</a>
+  Imagem: [Nesting Place](http://www.thenester.com/) 
 </p>
 
 <p align="justify">
-  Se você tem pratos de formatos diferentes ou cores ou estampas, enfim, um conjunto de peças que, juntas, podem surtir um efeito bem legal, pendure-os! Nessa imagem, para sua inspiração, eles estão na sala de estar. Pessoalmente, gosto da ideia para ser aplicada na sala de jantar ou na cozinha. Você ficou superultramega a fim de fazer algo parecido? Você pode comprar os suportes, eu fazê-los. No blog <a href="http://juportogusman.blogspot.com.br/2012/06/suporte-para-pratos-na-parede-com-pap.html" target="_blank">Atelier Criatividade EVA tem um PAP e você acessa clicando aqui</a>. Há outro passo-a-passo sobre como fazer suportes para pendurar quadros na parede, mas de um jeito diferente, no <a href="http://casadejuntados.blogspot.com.br/2009/10/pap-suporte-de-parede-para-pratos.html" target="_blank">blog Casa de Juntados, e você confere clicando aqui</a>. Fica a dica.
+  Se você tem pratos de formatos diferentes ou cores ou estampas, enfim, um conjunto de peças que, juntas, podem surtir um efeito bem legal, pendure-os! Nessa imagem, para sua inspiração, eles estão na sala de estar. Pessoalmente, gosto da ideia para ser aplicada na sala de jantar ou na cozinha. Você ficou superultramega a fim de fazer algo parecido? Você pode comprar os suportes, eu fazê-los. No blog [Atelier Criatividade EVA tem um PAP e você acessa clicando aqui](http://juportogusman.blogspot.com.br/2012/06/suporte-para-pratos-na-parede-com-pap.html) . Há outro passo-a-passo sobre como fazer suportes para pendurar quadros na parede, mas de um jeito diferente, no [blog Casa de Juntados, e você confere clicando aqui](http://casadejuntados.blogspot.com.br/2009/10/pap-suporte-de-parede-para-pratos.html) . Fica a dica.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

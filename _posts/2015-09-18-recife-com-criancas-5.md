@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Domingo dia 20/09 terá caminhada solidária! A IPOG &#8211; Recife / PE, o Crea-PE e o Corpo de Bombeiros Militar de Pernambuco, realizam a Caminhada Multicultural Solidária, em prol do NACC. Inscrições <a href="http://ipogpe.especialistas.inf.br/caminhada/" target="_blank">pelo site</a> ou na sede do NACC. Mais informações (81) 3267-9200 (NACC) ou (81) 3035-0512 (IPOG).
+  Domingo dia 20/09 terá caminhada solidária! A IPOG &#8211; Recife / PE, o Crea-PE e o Corpo de Bombeiros Militar de Pernambuco, realizam a Caminhada Multicultural Solidária, em prol do NACC. Inscrições [pelo site](http://ipogpe.especialistas.inf.br/caminhada/)  ou na sede do NACC. Mais informações (81) 3267-9200 (NACC) ou (81) 3035-0512 (IPOG).
 </p>
 
 &nbsp;
@@ -102,7 +102,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;">
-  **1º Fórum Pernambucano de Literatura de Cordel no<a href="https://www.facebook.com/hashtag/caisdosert%C3%A3o?source=feed_text&story_id=979901778734511">‪ </a>Cais do Sertão**. Exibição de curtas, roda de leituras, exposição de livretos, oficinas de cordel e xilogravura e contação de histórias fazem parte da programação que segue até o próximo domingo, sempre a partir das 11h. No Domingo, dia 20/09, tem contação de histórias de 14:30 às 15:30. Programação completa, <a href="https://www.facebook.com/CaisdoSertao/photos/a.558306837560676.1073741828.507354069322620/979806268744062/?type=1" target="_blank">veja aqui</a>.
+  **1º Fórum Pernambucano de Literatura de Cordel no[veja aqui](https://www.facebook.com/hashtag/caisdosert%C3%A3o?source=feed_text&story_id=979901778734511">‪ </a>Cais do Sertão**. Exibição de curtas, roda de leituras, exposição de livretos, oficinas de cordel e xilogravura e contação de histórias fazem parte da programação que segue até o próximo domingo, sempre a partir das 11h. No Domingo, dia 20/09, tem contação de histórias de 14:30 às 15:30. Programação completa, <a href="https://www.facebook.com/CaisdoSertao/photos/a.558306837560676.1073741828.507354069322620/979806268744062/?type=1) .
 </p>
 
 &nbsp;
@@ -130,7 +130,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Shtim Shlim – O sonho de um aprendiz** &#8211; Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance.**Local:** Galeria 2. **Entrada:** De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. **Valor do Ingresso:** Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mailgentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510" target="_blank">aqui</a>.
+  **Shtim Shlim – O sonho de um aprendiz** &#8211; Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance.**Local:** Galeria 2. **Entrada:** De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. **Valor do Ingresso:** Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mailgentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações [aqui](http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510) .
 </p>
 
 <p align="justify">
@@ -142,7 +142,7 @@ categories:
 </p>
 
 <p align="justify">
-  Produzido pela ONG Integrarte, o festival busca incluir no mundo das artes pessoas com deficiência, e mostrar ao grande público a capacidade criativa e laborativa desses cidadãos, por meio do trabalho artístico. Arte quebrando os limites que o preconceito impõe é o tema da edição 2015 do projeto, que utiliza espetáculos de música, teatro e dança para incluir e diminuir as distâncias. Mais informações, <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=521" target="_blank">clique aqui</a>.
+  Produzido pela ONG Integrarte, o festival busca incluir no mundo das artes pessoas com deficiência, e mostrar ao grande público a capacidade criativa e laborativa desses cidadãos, por meio do trabalho artístico. Arte quebrando os limites que o preconceito impõe é o tema da edição 2015 do projeto, que utiliza espetáculos de música, teatro e dança para incluir e diminuir as distâncias. Mais informações, [clique aqui](http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=521) .
 </p>
 
 <p align="justify">
@@ -154,11 +154,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Abelardo da Hora 90 anos: Vida e Arte** &#8211; Sábado: 10h ás 20h e Domingo: 10h ás 17h | **Horário da Bilheteria:** De terça a sábado das 10h às 20h, domingo das 10h às 17h. | **Local:** Galeria 1 | **Entrada &#8211; ****Valor do Ingresso:** Entrada gratuita | Dentre as esculturas, desenhos, pinturas e maquetes destacam-se os bronzes <b>Menino de Mocambo </b>(1969) e <b>A Fome e o Brado </b>(1947); a série de 22 desenhos de bico de pena de 1962 e o poema <b>Meninos do Recife</b>; além da maquete e fotos da polêmica <b>Torre de Iluminação Cinética</b>, instalada em 1961 na Praça da Torre, no Recife e destruída pelo regime militar em 1964. Mais informações, <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=462" target="_blank">aqui</a>.
+  **Abelardo da Hora 90 anos: Vida e Arte** &#8211; Sábado: 10h ás 20h e Domingo: 10h ás 17h | **Horário da Bilheteria:** De terça a sábado das 10h às 20h, domingo das 10h às 17h. | **Local:** Galeria 1 | **Entrada &#8211; ****Valor do Ingresso:** Entrada gratuita | Dentre as esculturas, desenhos, pinturas e maquetes destacam-se os bronzes <b>Menino de Mocambo </b>(1969) e <b>A Fome e o Brado </b>(1947); a série de 22 desenhos de bico de pena de 1962 e o poema <b>Meninos do Recife</b>; além da maquete e fotos da polêmica <b>Torre de Iluminação Cinética</b>, instalada em 1961 na Praça da Torre, no Recife e destruída pelo regime militar em 1964. Mais informações, [aqui](http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=462) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

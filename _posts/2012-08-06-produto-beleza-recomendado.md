@@ -14,7 +14,7 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 <p align="justify">
-  Quando a gente compra algo que foi recomendado por alguém que entende dos problemas e desejos da gente, a aquisição é sempre feita de forma mais segura, <em>hã</em>? Sendo assim, vou te contar qual foi minha **última aquisição de beleza** como uma dica para você. Aliás, a minha e a de outras bichas fêmeas navegantes também. Confere!
+  Quando a gente compra algo que foi recomendado por alguém que entende dos problemas e desejos da gente, a aquisição é sempre feita de forma mais segura, _hã_? Sendo assim, vou te contar qual foi minha **última aquisição de beleza** como uma dica para você. Aliás, a minha e a de outras bichas fêmeas navegantes também. Confere!
 </p>
 
 <!--more-->
@@ -26,23 +26,23 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 <p align="justify">
-  Minha última aquisição foi a **mousse de limpeza facial da linha Active**, para todos os tipos de pele, do **Boticário**. Eu ganhei uma higienização de pele numa das unidades aqui pertinho de casa e, naquele momento, pude experimentar o produto. Eu amei! Eu recomendo <em>comtodaforçadomeuser!!!</em>. Tem cheirinho dos bons, deixa a pele com toque gostoso e limpinha.
+  Minha última aquisição foi a **mousse de limpeza facial da linha Active**, para todos os tipos de pele, do **Boticário**. Eu ganhei uma higienização de pele numa das unidades aqui pertinho de casa e, naquele momento, pude experimentar o produto. Eu amei! Eu recomendo _comtodaforçadomeuser!!!_. Tem cheirinho dos bons, deixa a pele com toque gostoso e limpinha.
 </p>
 
 <p align="justify">
-  Além da minha recomendação pessoal, <em>espia</em> que tem mais:
+  Além da minha recomendação pessoal, _espia_ que tem mais:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidiane! No rosto só uso os produtos da **Adcos**. Vale a pena pagar mais, sabe como é, depois dos 50 não se pode bobear… rsrs… Adoro a linha do **REPAIR COMPLEX**. O último que comprei foi o **Lift densificador**. É fantástico!”</em> **Silvana Mello | **<a href="http://in-vestidajoiasebijoux.blogspot.com.br/" target="_blank">**In Vestida**</a>
+>   “_Oi, Lidiane! No rosto só uso os produtos da **Adcos**. Vale a pena pagar mais, sabe como é, depois dos 50 não se pode bobear… rsrs… Adoro a linha do **REPAIR COMPLEX**. O último que comprei foi o **Lift densificador**. É fantástico!”_ **Silvana Mello | **[**In Vestida**](http://in-vestidajoiasebijoux.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidi! Minha última aquisição de beleza foi um produto de farmácia bem baratinho mas que tem mil e uma utilidades. Depois de ler tantas indicações na internet comprei uma **pomada Bepantol** que tem feito milagres para as áreas mais ressecadas do corpo e para olheiras também! Estou gostando bastante dos resultados e recomendo!”</em> **Lets | **<a href="http://puxadinhodalets.blogspot.com.br/" target="_blank">**Puxadinho da Lets**</a>
+>   “_Oi, Lidi! Minha última aquisição de beleza foi um produto de farmácia bem baratinho mas que tem mil e uma utilidades. Depois de ler tantas indicações na internet comprei uma **pomada Bepantol** que tem feito milagres para as áreas mais ressecadas do corpo e para olheiras também! Estou gostando bastante dos resultados e recomendo!”_ **Lets | **[**Puxadinho da Lets**](http://puxadinhodalets.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -104,7 +104,7 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -119,13 +119,13 @@ A gente que é mulher está sempre adquirindo **produtinhos de beleza**, _né_? 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

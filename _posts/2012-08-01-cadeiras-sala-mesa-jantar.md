@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  E por que ainda não fez? Não tem nada demais, e fica bem interessante. Se falta inspiração para você sobre como fazer isso, eu te mostro **3 delas** garimpadas no **<em><a href="http://www.shelterness.com/" target="_blank">Shelterness</a></em>**. Com uma pitada de ousadia, e conhecimento pleno do estilo que você gosta, dá para deixar sua mesa de jantar sem a aparência óbvia das cadeiras todas iguais.
+  E por que ainda não fez? Não tem nada demais, e fica bem interessante. Se falta inspiração para você sobre como fazer isso, eu te mostro **3 delas** garimpadas no **_[Shelterness](http://www.shelterness.com/) _**. Com uma pitada de ousadia, e conhecimento pleno do estilo que você gosta, dá para deixar sua mesa de jantar sem a aparência óbvia das cadeiras todas iguais.
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -38,11 +38,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Viu? Se você tiver domínio de seu estilo, sabendo do que gosta, pode ousar e usar cadeiras diferentes na sua mesa de jantar, sim. Tudo depende de bom senso, sempre… no mais, inspire-se e divirta-se com a <em>decor</em> de sua casa!
+  Viu? Se você tiver domínio de seu estilo, sabendo do que gosta, pode ousar e usar cadeiras diferentes na sua mesa de jantar, sim. Tudo depende de bom senso, sempre… no mais, inspire-se e divirta-se com a _decor_ de sua casa!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

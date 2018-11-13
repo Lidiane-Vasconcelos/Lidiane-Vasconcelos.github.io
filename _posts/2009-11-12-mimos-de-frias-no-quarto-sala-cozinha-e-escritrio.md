@@ -19,7 +19,7 @@ Vamos ver as fotos? Então _bora_…
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="DSC01874" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01874_thumb.jpg" border="0" alt="DSC01874" width="277" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01874.jpg)
 
-Trouxe esse cestinho de fibra natural como lembrança do Centro de Artesanato que fica em <a href="http://www.bezerrosonline.com/" target="_blank">Bezerros</a>. Quem mais gosta de peças em fibra natural sou eu, _hein_?! E quando vi algo tão pequeno, tão mimoso, tão gostosamente decorativo, eu não resisti. Coloquei essas flores secas bem miúdas, e agora ele está lá, fazendo charme na minha cabeceira.
+Trouxe esse cestinho de fibra natural como lembrança do Centro de Artesanato que fica em [Bezerros](http://www.bezerrosonline.com/) . Quem mais gosta de peças em fibra natural sou eu, _hein_?! E quando vi algo tão pequeno, tão mimoso, tão gostosamente decorativo, eu não resisti. Coloquei essas flores secas bem miúdas, e agora ele está lá, fazendo charme na minha cabeceira.
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="DSC01876" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01876_thumb.jpg" border="0" alt="DSC01876" width="277" height="331" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01876.jpg)
 
@@ -29,7 +29,7 @@ Esse baú em madeira talhada eu trouxe de Olinda. Ele fica na parte de baixo de 
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="DSC01909 - Copy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01909copy_thumb.jpg" border="0" alt="DSC01909 - Copy" width="277" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01909copy.jpg)
 
-Essas peças coloridas representam o casario nas ladeiras de Olinda, e são talhadas em madeira. Compramos as peças na <a href="http://www.casadaculturape.com.br/aCasa.php" target="_blank">Casa da Cultura</a>, um centro de compras que no passado foi uma casa de detenção, e hoje as antigas celas abrigam várias lojas de artesanato local. Essa parede fica no pequeno corredor do andar de cima da [casa de boneca](http://www.trololodemulher.com.br/2009/01/02/ninho-novo-ano-novo-novo-olhar/), entre o banheiro social e o quarto do futuro bebê. Ao subir as escadas, dou de cara com estes quadrinhos e minha mente voa longe…
+Essas peças coloridas representam o casario nas ladeiras de Olinda, e são talhadas em madeira. Compramos as peças na [Casa da Cultura](http://www.casadaculturape.com.br/aCasa.php) , um centro de compras que no passado foi uma casa de detenção, e hoje as antigas celas abrigam várias lojas de artesanato local. Essa parede fica no pequeno corredor do andar de cima da [casa de boneca](http://www.trololodemulher.com.br/2009/01/02/ninho-novo-ano-novo-novo-olhar/), entre o banheiro social e o quarto do futuro bebê. Ao subir as escadas, dou de cara com estes quadrinhos e minha mente voa longe…
 
 **Que é que tem no escritório?**
 
@@ -47,13 +47,13 @@ Esta pequena maquete também é talhada em madeira, e mais uma vez pretende repr
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="DSC01888" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01888_thumb.jpg" border="0" alt="DSC01888" width="277" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01888.jpg)
 
-Esse _souvenir_ é de Porto de Galinhas. Em qualquer canto que se esteja na vila, seja na rua, em pousadas e hotéis, ou ainda na porta de restaurantes, há galinhas como essas em frente aos estabelecimentos, sendo muito maiores. <a href="http://www.trololodemulher.com.br/2009/09/29/pode-ir-armando-o-coreto-e-preparando/" target="_blank">Tem foto minha junto de uma dessas galinhas, lembra?</a> Foto típica de turista…na própria terra (?)…[<img style="display: inline;" title="EmoticonGoofy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/emoticongoofy_thumb.gif" alt="EmoticonGoofy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/emoticongoofy.gif)
+Esse _souvenir_ é de Porto de Galinhas. Em qualquer canto que se esteja na vila, seja na rua, em pousadas e hotéis, ou ainda na porta de restaurantes, há galinhas como essas em frente aos estabelecimentos, sendo muito maiores. [Tem foto minha junto de uma dessas galinhas, lembra?](http://www.trololodemulher.com.br/2009/09/29/pode-ir-armando-o-coreto-e-preparando/)  Foto típica de turista…na própria terra (?)…[<img style="display: inline;" title="EmoticonGoofy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/emoticongoofy_thumb.gif" alt="EmoticonGoofy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/emoticongoofy.gif)
 
 **E descendo as escadas?**
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border: 0;" title="DSC01892" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01892_thumb.jpg" border="0" alt="DSC01892" width="277" height="331" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01892.jpg)
 
-Esta é uma <a href="http://pt.wikipedia.org/wiki/Xilogravura" target="_blank">xilogravura</a>, um tipo de impressão feita com madeira talhada. O artista talha a imagem na madeira e transfere para o papel como se fosse um carimbo. A xilogravura em preto e branco é do tipo tradicional, mas tem a colorida também. Nesta xilogravura estão representados o Lamp
+Esta é uma [xilogravura](http://pt.wikipedia.org/wiki/Xilogravura) , um tipo de impressão feita com madeira talhada. O artista talha a imagem na madeira e transfere para o papel como se fosse um carimbo. A xilogravura em preto e branco é do tipo tradicional, mas tem a colorida também. Nesta xilogravura estão representados o Lamp
   
 ião e a Maria Bonita. Trouxemos nossas xilogravuras de Bezerros, ávidos por emoldurá-las e deixar o Nordeste estampado em nossas paredes.
 

@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  Look para mãe e filha da loja virtual **<em><a href="http://vitrine.elo7.com.br/aliciamaeefilha" target="_blank">Alícia Mãe e Filha</a></em>**.
+  Look para mãe e filha da loja virtual **_[Alícia Mãe e Filha](http://vitrine.elo7.com.br/aliciamaeefilha) _**.
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  Bincar faz bem, e usar roupas que favoreçam esse momento é muito importante! Na imagem, looks materno e infantil da <a href="http://www.elo7.com.br/aliciamaeefilha/loja" target="_blank">**Loja Alícia Mãe e Filha**</a>.
+  Bincar faz bem, e usar roupas que favoreçam esse momento é muito importante! Na imagem, looks materno e infantil da [**Loja Alícia Mãe e Filha**](http://www.elo7.com.br/aliciamaeefilha/loja) .
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  Vanessa e Pietra, mãe e filha, lindas de viver com as saias da <a href="http://vitrine.elo7.com.br/aliciamaeefilha" target="_blank">Alícia Mãe e Filha</a>.
+  Vanessa e Pietra, mãe e filha, lindas de viver com as saias da [Alícia Mãe e Filha](http://vitrine.elo7.com.br/aliciamaeefilha) .
 </p>
 
 <p align="center">
@@ -96,9 +96,9 @@ categories:
 </p>
 
 <p align="justify">
-  Fique à vontade, <a href="http://vitrine.elo7.com.br/aliciamaeefilha" target="_blank">clique aqui pra conhecer a loja</a> e conferir os modelos disponíveis para você e sua pequena. Pra viver no amor diariamente e acompanhar as novidades da **loja Alícia Mãe e Filha**, <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank">curta a Fanpage clicando aqui</a>. A **Alícia também está no Instagram**, com imagens lindíssimas pra inspirar looks incríveis. <a href="https://www.instagram.com/adrianatestamcarvalho/" target="_blank">Clique aqui e siga!</a> E como se não bastasse, a **Alícia vai além e apresenta um conteúdo incrível** **e im-per-dí-vel em seu blog**. <a href="http://www.alicia.net.br/" target="_blank">Clique aqui, se joga e se inspira</a>, bonita!
+  Fique à vontade, [clique aqui pra conhecer a loja](http://vitrine.elo7.com.br/aliciamaeefilha)  e conferir os modelos disponíveis para você e sua pequena. Pra viver no amor diariamente e acompanhar as novidades da **loja Alícia Mãe e Filha**, [curta a Fanpage clicando aqui](https://www.facebook.com/AliciaMaeeFilha/) . A **Alícia também está no Instagram**, com imagens lindíssimas pra inspirar looks incríveis. [Clique aqui e siga!](https://www.instagram.com/adrianatestamcarvalho/)  E como se não bastasse, a **Alícia vai além e apresenta um conteúdo incrível** **e im-per-dí-vel em seu blog**. [Clique aqui, se joga e se inspira](http://www.alicia.net.br/) , bonita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

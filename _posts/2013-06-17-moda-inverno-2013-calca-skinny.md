@@ -58,11 +58,11 @@ Que bom! Afinal, poucas mulheres não têm uma dessas para chamar de sua, não �
 &nbsp;
 
 <p align="justify">
-  A Limara é dessas mulheres criativas e inteligentes que usam o que a moda dispõe a seu favor, por isso seu blog, o **<a href="http://www.alinhavosdemoda.com.br/" target="_blank">Alinhavos de Moda</a>**, é <em>superultramega</em> recheado de dicas de moda, estilo, costura e customização. Você quer ler opinião sobre o assunto, sugestões e tudo o mais sobre o mundo da moda, feito por quem entende e para mulheres reais como você? Se joga no conteúdo que a Limara oferece, **<a href="http://www.alinhavosdemoda.com.br/" target="_blank">clicando aqui</a>**, e aproveita!
+  A Limara é dessas mulheres criativas e inteligentes que usam o que a moda dispõe a seu favor, por isso seu blog, o **[Alinhavos de Moda](http://www.alinhavosdemoda.com.br/) **, é _superultramega_ recheado de dicas de moda, estilo, costura e customização. Você quer ler opinião sobre o assunto, sugestões e tudo o mais sobre o mundo da moda, feito por quem entende e para mulheres reais como você? Se joga no conteúdo que a Limara oferece, **[clicando aqui](http://www.alinhavosdemoda.com.br/) **, e aproveita!
 </p>
 
 <p align="justify">
-  Imagem: <em>**<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**</em>
+  Imagem: _**[stock.xchng](http://www.sxc.hu/) **_
 </p>
 
 &nbsp;
@@ -120,7 +120,7 @@ Que bom! Afinal, poucas mulheres não têm uma dessas para chamar de sua, não �
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -135,13 +135,13 @@ Que bom! Afinal, poucas mulheres não têm uma dessas para chamar de sua, não �
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

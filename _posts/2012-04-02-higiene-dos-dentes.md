@@ -20,7 +20,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 <!--more-->
 
 <p align="justify">
-  As dicas <em>superultramega</em> úteis desse post de hoje são da **Dra. Ana Paula Pasqualin Tokunaga**, que é **Cirurgiã-Dentista** e presta consultoria para o Bicha Fêmea quando o assunto é saúde bucal. É ela, inclusive, quem edita o blog **<a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a>**… conhece? Vale a pena, <em>hein</em>?!
+  As dicas _superultramega_ úteis desse post de hoje são da **Dra. Ana Paula Pasqualin Tokunaga**, que é **Cirurgiã-Dentista** e presta consultoria para o Bicha Fêmea quando o assunto é saúde bucal. É ela, inclusive, quem edita o blog **[Medo de Dentista](http://medodedentista.com.br/) **… conhece? Vale a pena, _hein_?!
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL.jpg"><img class="alignnone size-full wp-image-8650" title="HIGIENE BUCAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL.jpg" alt="" width="600" height="466" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL.jpg"><img class="alignnone size-full wp-image-8650" title="HIGIENE BUCAL" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/HIGIENE-BUCAL.jpg" alt="" width="600" height="466" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 &nbsp;
 
 > <p align="justify">
->   “<em>Sim. Se engana quem pensa que os problemas bucais são estritamente bucais. Os agentes causadores da cárie, da gengivite e da doença periodontal são bactérias. Essas bactérias podem, eventualmente, ser **levadas da nossa boca, via corrente sanguínea, para outras partes do nosso corpo, como as articulações e algumas válvulas do coração**. Isso pode levar ao desenvolvimento de doenças como o **reumatismo articular e a endocardite bacteriana**, respectivamente. Por isso é tão importante caprichar na higiene bucal&#8230; e nunca subestimar uma bactéria</em>.”
+>   “_Sim. Se engana quem pensa que os problemas bucais são estritamente bucais. Os agentes causadores da cárie, da gengivite e da doença periodontal são bactérias. Essas bactérias podem, eventualmente, ser **levadas da nossa boca, via corrente sanguínea, para outras partes do nosso corpo, como as articulações e algumas válvulas do coração**. Isso pode levar ao desenvolvimento de doenças como o **reumatismo articular e a endocardite bacteriana**, respectivamente. Por isso é tão importante caprichar na higiene bucal&#8230; e nunca subestimar uma bactéria_.”
 > </p>
 > 
 > <p align="justify">
@@ -59,7 +59,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >     
 >     <blockquote>
 >       <p align="justify">
->         “<em>Uma **escova macia, de cabeça não muito grande, creme dental com flúor e fio ou fita dental**. Precisa de enxaguante bucal? Não, e **sem indicação do dentista nem se recomenda seu uso contínuo**. Com o básico em mãos, é importante **SABER** escovar os dentes e não fazê-lo com pressa ou displicência. Uma das tarefas do dentista, a mais nobre delas, é a de orientação em higiene bucal. Escovar os dentes corretamente requer técnica, e ninguém nasceu sabendo. Por isso, na sua próxima consulta, peça ao dentista que ensine você a escovar os dentes e a usar o fio dental, não importa a sua idade, não há por que ter vergonha. Ele, certamente, terá dicas preciosas para compartilhar com você. Lembro ainda que a escovação deve ser feita após cada refeição.”</em>
+>         “_Uma **escova macia, de cabeça não muito grande, creme dental com flúor e fio ou fita dental**. Precisa de enxaguante bucal? Não, e **sem indicação do dentista nem se recomenda seu uso contínuo**. Com o básico em mãos, é importante **SABER** escovar os dentes e não fazê-lo com pressa ou displicência. Uma das tarefas do dentista, a mais nobre delas, é a de orientação em higiene bucal. Escovar os dentes corretamente requer técnica, e ninguém nasceu sabendo. Por isso, na sua próxima consulta, peça ao dentista que ensine você a escovar os dentes e a usar o fio dental, não importa a sua idade, não há por que ter vergonha. Ele, certamente, terá dicas preciosas para compartilhar com você. Lembro ainda que a escovação deve ser feita após cada refeição.”_
 >       </p>
 >     </blockquote>
 >     
@@ -68,7 +68,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >     </p>
 >     
 >     <p align="justify">
->       Resta alguma dúvida de que é preciso ficar atenta aos detalhes no cuidado com os dentes de hoje em diante? Não, <em>né</em>? E para continuar muito bem informada sobre isso, o **<a href="http://medodedentista.com.br/" target="_blank">blog editado pela Dra. Ana</a>** está repleto de boa informação a respeito como, por exemplo, o post editado sobre o**<a href="http://medodedentista.com.br/2012/02/nunca-subestime-um-dente-inflamado.html" target="_blank"> alerta para tomar cuidado com dentes inflamados</a>**. Visite, acompanhe e informe-se… sua saúde e de sua família agradece!
+>       Resta alguma dúvida de que é preciso ficar atenta aos detalhes no cuidado com os dentes de hoje em diante? Não, _né_? E para continuar muito bem informada sobre isso, o **[blog editado pela Dra. Ana](http://medodedentista.com.br/) ** está repleto de boa informação a respeito como, por exemplo, o post editado sobre o**[ alerta para tomar cuidado com dentes inflamados](http://medodedentista.com.br/2012/02/nunca-subestime-um-dente-inflamado.html) **. Visite, acompanhe e informe-se… sua saúde e de sua família agradece!
 >     </p>
 >     
 >     <p>
@@ -162,7 +162,7 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >     </p>
 >     
 >     <p align="center">
->       <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+>       [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 >     </p>
 >     
 >     <p>
@@ -181,13 +181,13 @@ Embora o título do post possa te fazer pensar que há algo novo nesse sentido q
 >       <tr>
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+>             [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
 >           </p>
 >         </td>
 >         
 >         <td valign="top" width="300">
 >           <p align="center">
->             <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+>             [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
 >           </p>
 >         </td>
 >       </tr>

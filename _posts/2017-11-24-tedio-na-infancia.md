@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Nossas crianças são da geração <em>touch screen</em>, e parecem ter de estar entretidas o tempo todo para que não encarem o **tédio na infância**, bastante necessário. Não abomino o uso da tecnologia por elas. Artur tem, sim, seu <em>tablet</em>, vê TV e curte vídeos no <em>youtube</em>… mas há que se ter um limite. Cabe a nós, como pais, tirar os pequenos da frente das telas e, quando acontecer de eles falarem o que Artur já falou para mim, de que não havia nada para fazer, não temer e responder: então, filho, faça nada!
+  Nossas crianças são da geração _touch screen_, e parecem ter de estar entretidas o tempo todo para que não encarem o **tédio na infância**, bastante necessário. Não abomino o uso da tecnologia por elas. Artur tem, sim, seu _tablet_, vê TV e curte vídeos no _youtube_… mas há que se ter um limite. Cabe a nós, como pais, tirar os pequenos da frente das telas e, quando acontecer de eles falarem o que Artur já falou para mim, de que não havia nada para fazer, não temer e responder: então, filho, faça nada!
 </p>
 
 <p align="justify">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  Que a gente, enquanto pais dessa geração <em>high tech</em>, não tenha medo de permitir esse contato com as possibilidade e oportunidades de aprendizado para eles, ainda que o caminho comece por eles serem confrontados com o tédio. Eles precisam disso, de olhar pro nada e esperarem as ideias chegaram… elas chegarão! Sabe o porquê? Crianças são assim desde que o mundo é mundo… santo ócio criativo! O estímulo vem de dentro.
+  Que a gente, enquanto pais dessa geração _high tech_, não tenha medo de permitir esse contato com as possibilidade e oportunidades de aprendizado para eles, ainda que o caminho comece por eles serem confrontados com o tédio. Eles precisam disso, de olhar pro nada e esperarem as ideias chegaram… elas chegarão! Sabe o porquê? Crianças são assim desde que o mundo é mundo… santo ócio criativo! O estímulo vem de dentro.
 </p>
 
 <p align="justify">
-  E quem disse que não há aí lições para toda a vida? Se a gente teme que eles se chateiem porque saíram da frente das telas, onde a relidade é virtual, apressada, super estimulada e imediatista, como ensinar aos pequenos que o mundo lá fora não é assim? Ser estimulado o tempo todo ensina a nossas crianças a não ter paciência, a querer tudo pra agora. É bom parar, acalmar, esperar… na vida real as coisas acontecem em outro ritmo, e eles precisam aprender isso desde já. Se não aprendem, como vão lidar com o tédio e a espera quando adultos? Há tempo pra tudo… e pra viver a vida <em>ofline</em> também.
+  E quem disse que não há aí lições para toda a vida? Se a gente teme que eles se chateiem porque saíram da frente das telas, onde a relidade é virtual, apressada, super estimulada e imediatista, como ensinar aos pequenos que o mundo lá fora não é assim? Ser estimulado o tempo todo ensina a nossas crianças a não ter paciência, a querer tudo pra agora. É bom parar, acalmar, esperar… na vida real as coisas acontecem em outro ritmo, e eles precisam aprender isso desde já. Se não aprendem, como vão lidar com o tédio e a espera quando adultos? Há tempo pra tudo… e pra viver a vida _ofline_ também.
 </p>
 
 <p align="justify">
@@ -47,11 +47,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="justify">

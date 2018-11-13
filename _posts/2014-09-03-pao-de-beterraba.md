@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Olha só: ela compartilhou uma receita com a gente que é <em>superultramega</em> fácil a reprodução. Você vai ficar boba com a simplicidade e começar a acreditar que, sim, dá para fazer o pão em casa. Olha só que <em>belezura</em>… lápis e papel na mão? Vem comigo que já te mostro.
+  Olha só: ela compartilhou uma receita com a gente que é _superultramega_ fácil a reprodução. Você vai ficar boba com a simplicidade e começar a acreditar que, sim, dá para fazer o pão em casa. Olha só que _belezura_… lápis e papel na mão? Vem comigo que já te mostro.
 </p>
 
 <p align="center">
@@ -90,11 +90,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank">**Canelone de berinjela + queijo cottage (no molho caseiro)**</a>
+  [**Canelone de berinjela + queijo cottage (no molho caseiro)**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank">**Arroz integral (fora do comum) + filé de frango (no molho delícia)**</a>
+  [**Arroz integral (fora do comum) + filé de frango (no molho delícia)**](http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/) 
 </p>
 
 <p align="center">
@@ -102,11 +102,11 @@ categories:
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

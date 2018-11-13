@@ -12,7 +12,7 @@ categories:
   - Quarto Infantil
 ---
 <p align="justify">
-  Uma cortina com esse efeito fica uma lindeza no quarto de uma menina, <em>né</em>? Se pensar bem, fica no quarto de um menino também. Tudo depende, na verdade, das cores que serão usadas. O fato é: como não achar lindo de viver? Melhor ainda é ver que é possível fazer algo similar em casa, poupando seu rico dinheirinho e ainda tendo algo exclusivo, <em>hã</em>? Se você é uma mãe prendada, certamente vai ficar com um <em>siricotico</em> para reproduzir o projeto.
+  Uma cortina com esse efeito fica uma lindeza no quarto de uma menina, _né_? Se pensar bem, fica no quarto de um menino também. Tudo depende, na verdade, das cores que serão usadas. O fato é: como não achar lindo de viver? Melhor ainda é ver que é possível fazer algo similar em casa, poupando seu rico dinheirinho e ainda tendo algo exclusivo, _hã_? Se você é uma mãe prendada, certamente vai ficar com um _siricotico_ para reproduzir o projeto.
 </p>
 
 <p align="justify">
@@ -20,15 +20,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-cortinas-persianas/" target="_blank">**4 ideias com cortinas e persianas na janela: inspire-se!**</a>
+  [**4 ideias com cortinas e persianas na janela: inspire-se!**](http://www.decoracaodacasa.com/decoracao-cortinas-persianas/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortina-ideia-decoracao/" target="_blank">**Cortina: ideia fácil, rápida e barata para decoração.**</a>
+  [**Cortina: ideia fácil, rápida e barata para decoração.**](http://www.decoracaodacasa.com/cortina-ideia-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank">**Cortinas: 3 ideias para personalizar sua decoração.**</a>
+  [**Cortinas: 3 ideias para personalizar sua decoração.**](http://www.decoracaodacasa.com/cortinas-ideias-decoracao/) 
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você tem uma cortina sem detalhes esperando uma intervenção, a hora é agora. Ou ainda, corra num <em>home center</em> e adquira a sua. Você vai se surpreender pela facilidade do projeto. Sabe o que mais precisa? Tinta para tecido, um copinho de plástico que servirá como “carimbo” para suas bolinhas, um prato para colocar a tinta que você usará, e um pincel para terminar a “pintura” de cada bolinha. No mais, é calma para a execução… mesmo!
+  Se você tem uma cortina sem detalhes esperando uma intervenção, a hora é agora. Ou ainda, corra num _home center_ e adquira a sua. Você vai se surpreender pela facilidade do projeto. Sabe o que mais precisa? Tinta para tecido, um copinho de plástico que servirá como “carimbo” para suas bolinhas, um prato para colocar a tinta que você usará, e um pincel para terminar a “pintura” de cada bolinha. No mais, é calma para a execução… mesmo!
 </p>
 
 <p align="justify">
@@ -56,27 +56,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortinas/" target="_blank">**Quer ver 2 estilos diferentes (e simples!) de cortina?**</a>
+  [**Quer ver 2 estilos diferentes (e simples!) de cortina?**](http://www.decoracaodacasa.com/cortinas/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/" target="_blank">**Decoração com cortina sem costura… e bem barata!**</a>
+  [**Decoração com cortina sem costura… e bem barata!**](http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/" target="_blank">**Repare: há duas formas de inserir a cortina na decoração.**</a>
+  [**Repare: há duas formas de inserir a cortina na decoração.**](http://www.trololodemulher.com.br/2012/11/12/cortina-decoracao-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/" target="_blank">**Dá para customizar uma cortina sem usar máquina de costura?**</a>
+  [**Dá para customizar uma cortina sem usar máquina de costura?**](http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/) 
 </p>
 
 <p align="justify">
-  A arteira que executou esse projeto, a Cassity, optou por fazer uma cor de bolinha por vez. Ao passo que uma cor secava, ela então investia seu tempo em outra cor. Eu acho uma decisão bem sensata, <em>viu?</em> Achei a dica dela muito digna e esperta. No mais, se joga no passo a passo da moça em seu blog <a href="http://www.remodelaholic.com/2013/06/confetti-drapes-tutorial/" target="_blank">Remodel Aholic</a> que, de tão simples, as imagens bastam.
+  A arteira que executou esse projeto, a Cassity, optou por fazer uma cor de bolinha por vez. Ao passo que uma cor secava, ela então investia seu tempo em outra cor. Eu acho uma decisão bem sensata, _viu?_ Achei a dica dela muito digna e esperta. No mais, se joga no passo a passo da moça em seu blog [Remodel Aholic](http://www.remodelaholic.com/2013/06/confetti-drapes-tutorial/)  que, de tão simples, as imagens bastam.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

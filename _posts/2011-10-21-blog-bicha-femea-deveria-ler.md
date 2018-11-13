@@ -32,7 +32,7 @@ Quem navega pela blogosfera sabe muito bem que a oferta de blogs é enorme. Todo
 &nbsp;
 
 > <p align="justify">
->   “ <em>O blog que indico é o da  **<a href="http://www.lubrasil.net/blog/" target="_blank">Lu Brasil</a>**. Indico porque amo a forma despojada de escrever da Lu, ela mostra a vida dela sem medo de ser feliz, ela fala do sério em tom de brincadeira, ela cria uns termos que em outra pessoa ficaria artificial mas nos posts dela fica perfeito. E principalmente porque ela sabe encarar os sofrimentos com leveza e bom humor. E até quando ela faz drama, ela faz um drama brincalhão e que diverte. Sou fã dela.” **Margaret |** **<a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**</em>
+>   “ _O blog que indico é o da  **[Lu Brasil](http://www.lubrasil.net/blog/) **. Indico porque amo a forma despojada de escrever da Lu, ela mostra a vida dela sem medo de ser feliz, ela fala do sério em tom de brincadeira, ela cria uns termos que em outra pessoa ficaria artificial mas nos posts dela fica perfeito. E principalmente porque ela sabe encarar os sofrimentos com leveza e bom humor. E até quando ela faz drama, ela faz um drama brincalhão e que diverte. Sou fã dela.” **Margaret |** **[Margaretss](http://www.margaretss.com.br/) **_
 > </p>
 
 &nbsp;
@@ -52,7 +52,7 @@ Quem navega pela blogosfera sabe muito bem que a oferta de blogs é enorme. Todo
 &nbsp;
 
 > <p align="justify">
->   “<em>O blog que recomendo é o **<a href="http://www.blogfeitoamao.com/" target="_blank">FEITO À MÃO</a>**, editado pela **Cláudia Ramalho**. Na minha opinião, é um dos espaços virtuais mais completos na categoria &#8220;faça-você-mesmo&#8221;, meu estilo preferido. Gosto de ver a Claudinha colocando a mão na massa, muitas vezes literalmente, a fim de produzir pratos elaborados para um almoço com a família ou para um jantar romântico com o maridão. O blog aborda temas variados como festas, culinária, artesanato, viagens, scrapbooking, costura e bordado, além de crônicas sobre &#8220;vida de mãe&#8221;. É completo, escrito de maneira inteligente e equilibrada e dá gosto de ver a energia, empolgação, dedicação, cuidado e carinho que a Claudinha tem com o blog e com tudo o que se propõe a fazer. Ela é uma das pessoas mais criativas que conheci nos últimos anos e a considero também a &#8220;musa das festas infantis&#8221;. Nenhuma festa é igual a outra, a Claudinha pesquisa muito antes de cada evento e está sempre surpreendendo! Seus docinhos moldados são simplesmente perfeitos! Adoro os temas diferentes que ela escolhe e o fato de ela mostrar sempre algo diferente do que vimos antes! É um verdadeiro aprendizado! Além de ser muito talentosa, a Claudinha é generosa na mesma medida, sempre compartilhando seus PAPs bem explicadinhos com todas as informações necessárias para que os leitores reproduzam em casa as belezuras que ela cria!” **Katia Bonfadini | <a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>**</em>
+>   “_O blog que recomendo é o **[FEITO À MÃO](http://www.blogfeitoamao.com/) **, editado pela **Cláudia Ramalho**. Na minha opinião, é um dos espaços virtuais mais completos na categoria &#8220;faça-você-mesmo&#8221;, meu estilo preferido. Gosto de ver a Claudinha colocando a mão na massa, muitas vezes literalmente, a fim de produzir pratos elaborados para um almoço com a família ou para um jantar romântico com o maridão. O blog aborda temas variados como festas, culinária, artesanato, viagens, scrapbooking, costura e bordado, além de crônicas sobre &#8220;vida de mãe&#8221;. É completo, escrito de maneira inteligente e equilibrada e dá gosto de ver a energia, empolgação, dedicação, cuidado e carinho que a Claudinha tem com o blog e com tudo o que se propõe a fazer. Ela é uma das pessoas mais criativas que conheci nos últimos anos e a considero também a &#8220;musa das festas infantis&#8221;. Nenhuma festa é igual a outra, a Claudinha pesquisa muito antes de cada evento e está sempre surpreendendo! Seus docinhos moldados são simplesmente perfeitos! Adoro os temas diferentes que ela escolhe e o fato de ela mostrar sempre algo diferente do que vimos antes! É um verdadeiro aprendizado! Além de ser muito talentosa, a Claudinha é generosa na mesma medida, sempre compartilhando seus PAPs bem explicadinhos com todas as informações necessárias para que os leitores reproduzam em casa as belezuras que ela cria!” **Katia Bonfadini | [Casos e Coisas da Bonfa](http://casosecoisasdabonfa.blogspot.com/) **_
 > </p>
 
 &nbsp;
@@ -70,7 +70,7 @@ Quem navega pela blogosfera sabe muito bem que a oferta de blogs é enorme. Todo
 &nbsp;
 
 > <p align="justify">
->   “<em>Meu blog preferido  e de leitura obrigatória é o **<a href="http://www.chucrutecomsalsicha.com/" target="_blank">Chucrute com Salsicha</a>**. O blog é da **Fernanda Guimarães Rosa**, uma brasileira que vive nos EUA e que me inspirou a ter um blog. Conheci o primeiro blog dela por acaso há uns seis anos ou mais e gostei tanto que o li de ponta a ponta. Depois, ela passou ´pro Chucrute com Salsicha, se concentrando mais nas comidas incríveis que ela faz e nas fotos maravilhosas que tira. </em><em>Adoro o jeito que ela escreve, contando seu dia a dia com muito bom humor. Uma delícia!” **Claudia Medeiros** | **<a href="http://sefossenaminhacasa.blogspot.com/" target="_blank">se fosse na minha casa</a>**</em>
+>   “_Meu blog preferido  e de leitura obrigatória é o **[Chucrute com Salsicha](http://www.chucrutecomsalsicha.com/) **. O blog é da **Fernanda Guimarães Rosa**, uma brasileira que vive nos EUA e que me inspirou a ter um blog. Conheci o primeiro blog dela por acaso há uns seis anos ou mais e gostei tanto que o li de ponta a ponta. Depois, ela passou ´pro Chucrute com Salsicha, se concentrando mais nas comidas incríveis que ela faz e nas fotos maravilhosas que tira. __Adoro o jeito que ela escreve, contando seu dia a dia com muito bom humor. Uma delícia!” **Claudia Medeiros** | **[se fosse na minha casa](http://sefossenaminhacasa.blogspot.com/) **_
 > </p>
 
 &nbsp;
@@ -88,17 +88,17 @@ Quem navega pela blogosfera sabe muito bem que a oferta de blogs é enorme. Todo
 &nbsp;
 
 > <p align="justify">
->   “<em>Eu acredito que o blog que toda bicha fêmea deve ler é o da Margaret, o **<a href="http://www.margaretss.com.br" target="_blank">Margaretss</a>**. </em><em>Primeiro, porque a Má é uma pessoa maravilhosa, e eu só consigo gostar de blogs os quais admiro quem escreve. </em><em>Segundo, porque ali tem muito conteúdo: reciclagem, artesanato, dicas de beleza, e tudo muito bem escrito, com um super bom humor. </em><em>É ir no blog da Má, aprender e dar boas risadas! </em><em>É um blog perfeito!!!” **Veronica Kraemer | <a href="http://alemdaruaatelier.com.br/" target="_blank">Além da Rua Atelier</a>** </em>
+>   “_Eu acredito que o blog que toda bicha fêmea deve ler é o da Margaret, o **[Margaretss](http://www.margaretss.com.br) **. __Primeiro, porque a Má é uma pessoa maravilhosa, e eu só consigo gostar de blogs os quais admiro quem escreve. __Segundo, porque ali tem muito conteúdo: reciclagem, artesanato, dicas de beleza, e tudo muito bem escrito, com um super bom humor. __É ir no blog da Má, aprender e dar boas risadas! __É um blog perfeito!!!” **Veronica Kraemer | [Além da Rua Atelier](http://alemdaruaatelier.com.br/) ** _
 > </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/escolhas.jpg"><img class="alignnone size-full wp-image-7031" title="escolhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/escolhas.jpg" alt="" width="600" height="427" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/escolhas.jpg"><img class="alignnone size-full wp-image-7031" title="escolhas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/escolhas.jpg" alt="" width="600" height="427" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Receber indicações de blogs para entrar para a lista dos favoritos vindas de blogueiras de peso como essas é outra coisa,<em> né</em>? Isso é o que chamo de **blogosfera de estilo**! Para aproveitar tanto conteúdo bacana? Tudo depende de um clique… vai lá e confere!
+  Receber indicações de blogs para entrar para a lista dos favoritos vindas de blogueiras de peso como essas é outra coisa,_ né_? Isso é o que chamo de **blogosfera de estilo**! Para aproveitar tanto conteúdo bacana? Tudo depende de um clique… vai lá e confere!
 </p>
 
 &nbsp;

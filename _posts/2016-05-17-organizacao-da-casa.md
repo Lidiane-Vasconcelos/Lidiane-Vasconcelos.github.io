@@ -19,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">**18 hábitos da pessoa organizada na arrumação da casa…**</a>
+  [**18 hábitos da pessoa organizada na arrumação da casa…**](http://www.decoracaodacasa.com/organizacao-da-casa/) 
 </p>
 
 <p align="justify">
-  O que eu te digo é que não há segredo, mas muita disciplina… e eu ainda diria que o conhecimento de alguns truques que farão uma grande diferença na sua rotina de manutenção da ordem na sua casa. Aqui é onde entram os tais 5 minutos. É que fiquei por aqui ás voltas com a ideia de editar um post no **Trololó de Mulher** que nos ajude a criar bons hábitos para manter o lar <em>nos trinques</em>. A perfeição não existe, claro, e tantar alcançá-la é loucura, mas muitas vezes é possível melhorar o espaço em que vivemos fazendo muito pouco, pouquinho mesmo.
+  O que eu te digo é que não há segredo, mas muita disciplina… e eu ainda diria que o conhecimento de alguns truques que farão uma grande diferença na sua rotina de manutenção da ordem na sua casa. Aqui é onde entram os tais 5 minutos. É que fiquei por aqui ás voltas com a ideia de editar um post no **Trololó de Mulher** que nos ajude a criar bons hábitos para manter o lar _nos trinques_. A perfeição não existe, claro, e tantar alcançá-la é loucura, mas muitas vezes é possível melhorar o espaço em que vivemos fazendo muito pouco, pouquinho mesmo.
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-para-organizar-a-casa/" target="_blank">**3 dicas simples, básicas e úteis para organizar a casa. Confira!**</a>
+  [**3 dicas simples, básicas e úteis para organizar a casa. Confira!**](http://www.decoracaodacasa.com/dicas-para-organizar-a-casa/) 
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-de-organizacao/" target="_blank">**Mais algumas dicas de organização.**</a>
+  [**Mais algumas dicas de organização.**](http://www.decoracaodacasa.com/dicas-de-organizacao/) 
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">**Como evitar o acúmulo e organizar o lar? Dicas práticas.**</a>
+  [**Como evitar o acúmulo e organizar o lar? Dicas práticas.**](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/) 
 </p>
 
 <p align="justify">
@@ -71,31 +71,15 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.goodhousekeeping.com/home/organizing-mistakes#slide-1" target="_blank">Good Housekeeping</a>
+  Imagem: [Good Housekeeping](http://www.goodhousekeeping.com/home/organizing-mistakes#slide-1) 
 </p>
 
 <p align="justify">
-  Viu? As ações são do tipo <em>vapt-vupt</em>. Sabe a melhor das notícias? Várias leitoras do blog compartilharam suas táticas de organização também, e o resultado é uma lista mais abaixo cheia de <em>truques&trucões</em> para aplicar já! Repara:
+  Viu? As ações são do tipo _vapt-vupt_. Sabe a melhor das notícias? Várias leitoras do blog compartilharam suas táticas de organização também, e o resultado é uma lista mais abaixo cheia de _truques&trucões_ para aplicar já! Repara:
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">4 </span>**– “<em>Olá, Lidi! Uma prática que tenho para facilitar a limpeza dos quartos-de-banho, é ter em cada um, um cesto com os artigos de limpeza e um par de luvas.  Essa coisa de ter que ir buscar a outro sítio os produtos de limpeza  demora mais, e pelo caminho frequentemente fazemos outra coisa que surge, esquecendo o objectivo inicial. Assim funciona realmente, em menos de 5 m. o w.c. fica limpo e cheiroso!”</em> **Fernanda Sampaio | **<a href="http://fernanda-e-filhos.blogspot.pt/" target="_blank">**Mãe…e muito mais**</a>
-</p>
-
-<p align="justify">
-  **Veja também:**
-</p>
-
-<p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">**Se sua casa estiver em ordem, não duvide: você ficará bem.**</a>
-</p>
-
-<p align="justify">
-  **<span style="font-size: large;">5 </span>**– <em>“Oi, Lidi! Para minhas blusas e blusões, tenho o hábito de dobrar e colocar, cada um , dentro de um saquinho plástico. Assim, fica fácil de tirar da prateleira sem bagunçar a pilha, pois justamente no dia em que  tempo é curto, a gente escolhe aquela blusa que está bem embaixo da pilha, né?”</em> **Adriana Lara | **<a href="http://tititidadri.blogspot.com.br/" target="_blank">**Tititi da Dri**</a>
-</p>
-
-<p align="justify">
-  **<span style="font-size: large;">6</span>** –<em> “Olá! Uma coisa que eu faço e percebi dar diferença é tirar o tenis ou sapato e já colocar direto no lugar, perco segundos para fazer isso, e não fico mais tropeçando em sapatos…rsrsrs”</em> **Mariana Beira | **<a href="http://www.marianabeira.com/" target="_blank">**Blog Mariana Beira**</a>
+  **<span style="font-size: large;">4 </span>**– “_Olá, Lidi! Uma prática que tenho para facilitar a limpeza dos quartos-de-banho, é ter em cada um, um cesto com os artigos de limpeza e um par de luvas.  Essa coisa de ter que ir buscar a outro sítio os produtos de limpeza  demora mais, e pelo caminho frequentemente fazemos outra coisa que surge, esquecendo o objectivo inicial. Assim funciona realmente, em menos de 5 m. o w.c. fica limpo e cheiroso!”_ **Fernanda Sampaio | **[**Mãe…e muito mais**](http://fernanda-e-filhos.blogspot.pt/) 
 </p>
 
 <p align="justify">
@@ -103,15 +87,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">**Caixas: 5 soluções de organização da casa.**</a>
+  [**Se sua casa estiver em ordem, não duvide: você ficará bem.**](http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/) 
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">7 </span>**– <em>“Uma boa dica é dar uma esticada no lençol assim que levantar da cama, pois o quarto não parece tão bagunçado (e não dá aquela vontade de deitar de novo!)”</em> **Adriana Minhoto | **<a href="http://entrevodkaecachaca.blogspot.com.br/" target="_blank">**Entre Vodka e Cachaça**</a>
+  **<span style="font-size: large;">5 </span>**– _“Oi, Lidi! Para minhas blusas e blusões, tenho o hábito de dobrar e colocar, cada um , dentro de um saquinho plástico. Assim, fica fácil de tirar da prateleira sem bagunçar a pilha, pois justamente no dia em que  tempo é curto, a gente escolhe aquela blusa que está bem embaixo da pilha, né?”_ **Adriana Lara | **[**Tititi da Dri**](http://tititidadri.blogspot.com.br/) 
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">8 </span>**– “<em>A minha dica é quanto à limpeza da geladeira. Para não acumular sujeira, verifico semanalmente como estão as prateleiras e passo um pano úmido com uma mistura de bicarbonato de sódio e água morna. Também retiro alimentos que já passaram da validade e, dessa forma, a geladeira fica sempre organizada. Faço uma faxina pesada a cada seis meses e dessa forma consigo mais tempo pra família.”</em> **Rosa Cavalcanti | **<a href="https://pensecrie.wordpress.com/" target="_blank">**Pense Crie**</a>
+  **<span style="font-size: large;">6</span>** –_ “Olá! Uma coisa que eu faço e percebi dar diferença é tirar o tenis ou sapato e já colocar direto no lugar, perco segundos para fazer isso, e não fico mais tropeçando em sapatos…rsrsrs”_ **Mariana Beira | **[**Blog Mariana Beira**](http://www.marianabeira.com/) 
 </p>
 
 <p align="justify">
@@ -119,15 +103,31 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/" target="_blank">**Casa em ordem já! Veja 19 dicas.**</a>
+  [**Caixas: 5 soluções de organização da casa.**](http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/) 
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">9</span>** – “<em>Lidi, eu uso cestinhas e caixas organizadoras em todos os cômodos. Cestinhas na despensa, cestinhas na área de serviço, cestinhas plásticas nas prateleiras do banheiro, para produtos de higiene. Agora coloquei uma cestinha bonita sobre a cômoda, porque meu marido chega e larga tudo pela casa, relógio, carteira, celular, moedas e bombinha (ele é asmático). Com a cestinha ficou melhor, ele arruma tudo na cesta.”</em> **Flavinha Gomes | **<a href="http://casinhabonitinha.blogspot.com.br/" target="_blank">**Casinha Bonitinha**</a>
+  **<span style="font-size: large;">7 </span>**– _“Uma boa dica é dar uma esticada no lençol assim que levantar da cama, pois o quarto não parece tão bagunçado (e não dá aquela vontade de deitar de novo!)”_ **Adriana Minhoto | **[**Entre Vodka e Cachaça**](http://entrevodkaecachaca.blogspot.com.br/) 
+</p>
+
+<p align="justify">
+  **<span style="font-size: large;">8 </span>**– “_A minha dica é quanto à limpeza da geladeira. Para não acumular sujeira, verifico semanalmente como estão as prateleiras e passo um pano úmido com uma mistura de bicarbonato de sódio e água morna. Também retiro alimentos que já passaram da validade e, dessa forma, a geladeira fica sempre organizada. Faço uma faxina pesada a cada seis meses e dessa forma consigo mais tempo pra família.”_ **Rosa Cavalcanti | **[**Pense Crie**](https://pensecrie.wordpress.com/) 
+</p>
+
+<p align="justify">
+  **Veja também:**
+</p>
+
+<p align="justify">
+  [**Casa em ordem já! Veja 19 dicas.**](http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/) 
+</p>
+
+<p align="justify">
+  **<span style="font-size: large;">9</span>** – “_Lidi, eu uso cestinhas e caixas organizadoras em todos os cômodos. Cestinhas na despensa, cestinhas na área de serviço, cestinhas plásticas nas prateleiras do banheiro, para produtos de higiene. Agora coloquei uma cestinha bonita sobre a cômoda, porque meu marido chega e larga tudo pela casa, relógio, carteira, celular, moedas e bombinha (ele é asmático). Com a cestinha ficou melhor, ele arruma tudo na cesta.”_ **Flavinha Gomes | **[**Casinha Bonitinha**](http://casinhabonitinha.blogspot.com.br/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Café é vida! Não sei você, mas não consigo passar um dia sem um cafezinho. Café da manhã tem que ter essa delicinha, e se for uma dica <em>superultramega</em> linda de viver, gostosa e simples de reproduzir como esse <em>capuccino</em> caseiro cremoso que a Drica ensina a gente a fazer, em vídeo, tanto melhor. Surpreenda-se com a facilidade da receita e coloque mais glamour no seu café da manhã de todo dia (uia!).
+  Café é vida! Não sei você, mas não consigo passar um dia sem um cafezinho. Café da manhã tem que ter essa delicinha, e se for uma dica _superultramega_ linda de viver, gostosa e simples de reproduzir como esse _capuccino_ caseiro cremoso que a Drica ensina a gente a fazer, em vídeo, tanto melhor. Surpreenda-se com a facilidade da receita e coloque mais glamour no seu café da manhã de todo dia (uia!).
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Aos 2 minutos vai parecer que o café está pronto porém ele ainda não incorporou ar suficiente para se manter cremoso no congelador. Assista o vídeo para ver o ponto exato que você deve parar de bater. Você pode usar menos açúcar se desejar, já fiz testes com diversas medidas diferentes de açúcar e sim funciona, só não funciona se você eliminar completamente o açúcar da receita!”</em>**
+>   **_“Aos 2 minutos vai parecer que o café está pronto porém ele ainda não incorporou ar suficiente para se manter cremoso no congelador. Assista o vídeo para ver o ponto exato que você deve parar de bater. Você pode usar menos açúcar se desejar, já fiz testes com diversas medidas diferentes de açúcar e sim funciona, só não funciona se você eliminar completamente o açúcar da receita!”_**
 > </p>
 
 <p align="center">
@@ -77,16 +77,16 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/" target="_blank">Video receita: batata doce assada. Amor de vó!</a>**
+  **[Video receita: batata doce assada. Amor de vó!](http://www.trololodemulher.com.br/2015/08/12/video-receita-batata-doce-assada/) **
 </p>
 
 <p align="justify">
   <p align="justify">
-    “<em>Drinks e petiscos para receber amigos, almoço pra sogra, um café da manhã especial para seu amor ou para a comidinha de todo dia mesmo, conte comigo!</em>”, essa é a promessa da Drica lá no seu blog. Um tantinho disso você acompanhará aqui no Trololó de Mulher mesmo, mas se eu fosse você, bonita, tratava de acompanhar essa blogueira que entende dos <em>parangolés</em> da cozinha agora, e já! Faz como eu, oh: <a href="http://www.dricanacozinha.com.br/" target="_blank">entre no blog</a> e espie o que tem de bom por lá, inclusive <a href="http://www.dricanacozinha.com.br/dicas/" target="_blank">dicas especiais e espertas bem aqui</a>. O <a href="https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A" target="_blank">canal da Drica no Youtube fica bem aqui</a>, basta fazer sua inscrição. E a <a href="https://www.facebook.com/dricanacozinha/timeline" target="_blank">página do blog no Facebook você encontra aqui</a>, é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
+    “_Drinks e petiscos para receber amigos, almoço pra sogra, um café da manhã especial para seu amor ou para a comidinha de todo dia mesmo, conte comigo!_”, essa é a promessa da Drica lá no seu blog. Um tantinho disso você acompanhará aqui no Trololó de Mulher mesmo, mas se eu fosse você, bonita, tratava de acompanhar essa blogueira que entende dos _parangolés_ da cozinha agora, e já! Faz como eu, oh: [entre no blog](http://www.dricanacozinha.com.br/)  e espie o que tem de bom por lá, inclusive [dicas especiais e espertas bem aqui](http://www.dricanacozinha.com.br/dicas/) . O [canal da Drica no Youtube fica bem aqui](https://www.youtube.com/channel/UC1mIECRirlkQIq0aqAsOk_A) , basta fazer sua inscrição. E a [página do blog no Facebook você encontra aqui](https://www.facebook.com/dricanacozinha/timeline) , é curtir e ficar por dentro de tudo! Se joga! Perde tempo não!
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
   </p>
   
   <p align="justify">

@@ -9,12 +9,12 @@ permalink: /2010/11/01/parceria-espaco-home/
 categories:
   - Publieditorial
 ---
-Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>, não é? Pelo menos no Bicha Fêmea a presença dessa empresa super parceira tem sido algo constante. Através dela algumas bichas fêmeas navegantes já tiveram a chance de ter a casa um pouco mais organizada, e com estilo. Justo agora não seria diferente…
+Você já deve conhecer a [Espaço Home](http://www.espacohome.com.br/) , não é? Pelo menos no Bicha Fêmea a presença dessa empresa super parceira tem sido algo constante. Através dela algumas bichas fêmeas navegantes já tiveram a chance de ter a casa um pouco mais organizada, e com estilo. Justo agora não seria diferente…
 
 <!--more-->
 
 <p style="text-align: justify;">
-  Sabia que a **<em>Espaço Home</em>** também está de aniversário? Pois é! Está, sim. É festa aqui e por lá, o que é muito bom para você, que pode festejar nos dois espaços virtuais e ter a chance de ganhar belos presentes. Quer? Olha só o que pode chegar na sua casa:
+  Sabia que a **_Espaço Home_** também está de aniversário? Pois é! Está, sim. É festa aqui e por lá, o que é muito bom para você, que pode festejar nos dois espaços virtuais e ter a chance de ganhar belos presentes. Quer? Olha só o que pode chegar na sua casa:
 </p>
 
 <p style="text-align: center;">
@@ -26,7 +26,7 @@ Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank
 </p>
 
 <p style="text-align: justify;">
-  Lá na Espaço Home, que também está festejando aniversário, mais duas toalhas de lavabo, porém com estampas diferentes, estão sendo sorteadas. Suas chances são dobradas, e para saber como ganhar basta dar um passadinha no <a href="http://newsespacohome.blogspot.com/2010/11/aniversario-do-espaco-home-sorteio.html" target="_blank">blog da Espaço Home</a>.
+  Lá na Espaço Home, que também está festejando aniversário, mais duas toalhas de lavabo, porém com estampas diferentes, estão sendo sorteadas. Suas chances são dobradas, e para saber como ganhar basta dar um passadinha no [blog da Espaço Home](http://newsespacohome.blogspot.com/2010/11/aniversario-do-espaco-home-sorteio.html) .
 </p>
 
 <p style="text-align: justify;">
@@ -42,19 +42,19 @@ Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Quer aumentar as chances de ganhar?</span></em>**
+  **_<span style="font-size: medium;">Quer aumentar as chances de ganhar?</span>_**
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a **<em>Espaço Home</em>** num post em seu blog, me avise com seu link, e ganhe +2 inscrições;
+  *Fale do sorteio em parceria com a **_Espaço Home_** num post em seu blog, me avise com seu link, e ganhe +2 inscrições;
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a **<em>Espaço Home</em>** no Twitter, me avise com seu link, e ganhe +2 inscrições;
+  *Fale do sorteio em parceria com a **_Espaço Home_** no Twitter, me avise com seu link, e ganhe +2 inscrições;
 </p>
 
 <p style="text-align: justify;">
-  *Fale do sorteio em parceria com a **<em>Espaço Home</em>** num post no blog + Twitter, me avise com os links, e ganhe, ao todo, 5 inscrições.
+  *Fale do sorteio em parceria com a **_Espaço Home_** num post no blog + Twitter, me avise com os links, e ganhe, ao todo, 5 inscrições.
 </p>
 
 É isso aí!
@@ -64,13 +64,13 @@ Você já deve conhecer a <a href="http://www.espacohome.com.br/" target="_blank
 </p>
 
 <p style="text-align: center;">
-  *Você ainda não entendeu o que estamos comemorando? Quer ganhar muito mais prêmios nesta comemoração? Entenda tudo e saiba como **<em><a href="http://www.trololodemulher.com.br/2010/11/01/2-aniversario-bicha-femea/" target="_self">clicando aqui</a></em>**.
+  *Você ainda não entendeu o que estamos comemorando? Quer ganhar muito mais prêmios nesta comemoração? Entenda tudo e saiba como **_<a href="http://www.trololodemulher.com.br/2010/11/01/2-aniversario-bicha-femea/" target="_self">clicando aqui</a>_**.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

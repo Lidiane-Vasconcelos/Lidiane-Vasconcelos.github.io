@@ -14,7 +14,7 @@ Quando os dias frios começam a chegar, o que anda acontecendo exatamente neste 
 &nbsp;
 
 <p align="justify">
-  Aposto que você concorda comigo, e tenho quase certeza que você vive mesmo de amores por uma sopinha nos dias mais frios, <em>hã</em>?! Quer aprender duas receitas gostosas enviadas por duas bichas fêmeas navegantes para serem compartilhadas por aqui? Anota!
+  Aposto que você concorda comigo, e tenho quase certeza que você vive mesmo de amores por uma sopinha nos dias mais frios, _hã_?! Quer aprender duas receitas gostosas enviadas por duas bichas fêmeas navegantes para serem compartilhadas por aqui? Anota!
 </p>
 
 <!--more-->
@@ -76,11 +76,11 @@ Quando os dias frios começam a chegar, o que anda acontecendo exatamente neste 
 </p>
 
 > <p align="justify">
->   <em>Deixa dourar a carne com óleo, junta o tomate, a cebola, o alho. Levar na pressão com 1l 1/2 de água por 1/2 hora. Depois, sem pressão, vai juntando os legumes. Deixar a mandioquinha e a abobrinha no final porque o cozimento é mais rápido. Junte mais 1 litro de água, deixa ferver. Pode ou não acrescentar macarrão ou arroz. Muito bom! Se quiser pode também bater tudo no liquidificador, inclusive a carne. Fica uma delicia!” **Mara Serni**</em>
+>   _Deixa dourar a carne com óleo, junta o tomate, a cebola, o alho. Levar na pressão com 1l 1/2 de água por 1/2 hora. Depois, sem pressão, vai juntando os legumes. Deixar a mandioquinha e a abobrinha no final porque o cozimento é mais rápido. Junte mais 1 litro de água, deixa ferver. Pode ou não acrescentar macarrão ou arroz. Muito bom! Se quiser pode também bater tudo no liquidificador, inclusive a carne. Fica uma delicia!” **Mara Serni**_
 > </p>
 
 <p align="center">
-  **<span style="font-size: medium;">Caldo Verde Amarelo por Adriana Magre | <a href="http://www.coresdacasa.com.br/" target="_blank">Cores da Casa</a></span>**
+  **<span style="font-size: medium;">Caldo Verde Amarelo por Adriana Magre | [Cores da Casa](http://www.coresdacasa.com.br/) </span>**
 </p>
 
 <p align="center">
@@ -112,11 +112,11 @@ Queijo parmesão ralado.
 &nbsp;
 
 > <p align="justify">
->   <em>Em uma panela, coloque as batatas em rodelas, a água e a abóbora. Após o cozimento, utilize o mixer ou liquidificador para reduzir estes ingredientes a um creme espesso. Volte o creme à panela. Acrescente a couve manteiga, o tablete de caldo de carne, o sal, a pimenta e o cominho, e aguarde a couve cozinhar. Não tampe, para que a couve não perca a sua cor original. Desligue e acrescente o azeite ainda na panela. Ao servir, coloque parmesão ralado sobre a sopa.” **Adriana Magre | <a href="http://www.coresdacasa.com.br/" target="_blank">Cores da Casa</a>**</em>
+>   _Em uma panela, coloque as batatas em rodelas, a água e a abóbora. Após o cozimento, utilize o mixer ou liquidificador para reduzir estes ingredientes a um creme espesso. Volte o creme à panela. Acrescente a couve manteiga, o tablete de caldo de carne, o sal, a pimenta e o cominho, e aguarde a couve cozinhar. Não tampe, para que a couve não perca a sua cor original. Desligue e acrescente o azeite ainda na panela. Ao servir, coloque parmesão ralado sobre a sopa.” **Adriana Magre | [Cores da Casa](http://www.coresdacasa.com.br/) **_
 > </p>
 
 <p align="justify">
-  <em>…huuummmm…</em> já imagionou a delícia disso tudo,<em> né</em>? O bom é que as receitas são simples, daquelas que qualquer uma de nós consegue reproduzir em casa, não é verdade? Então depois de tomar nota, deixa a receita naquele cantinho da cozinha e, na próxima noite mais fria, arrasa na sopa ou no caldo. O corpo e coração agradecem!
+  _…huuummmm…_ já imagionou a delícia disso tudo,_ né_? O bom é que as receitas são simples, daquelas que qualquer uma de nós consegue reproduzir em casa, não é verdade? Então depois de tomar nota, deixa a receita naquele cantinho da cozinha e, na próxima noite mais fria, arrasa na sopa ou no caldo. O corpo e coração agradecem!
 </p>
 
 <p align="center">
@@ -176,7 +176,7 @@ Queijo parmesão ralado.
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -191,13 +191,13 @@ Queijo parmesão ralado.
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

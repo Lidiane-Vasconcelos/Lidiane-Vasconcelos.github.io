@@ -11,7 +11,7 @@ categories:
   - Quarto Infantil
 ---
 <p align="justify">
-  Quem me acompanha mais de pertinho sabe da decisão que tomamos de voltar para Recife, não é? Então, você pode imaginar: minha cabeça já começa a fervilhar com ideias para serem colocadas em prática na decoração da nova casinha por lá. E nesse <em>vuco-vuco</em> de ideias, claro que vivo suspirando e vivendo de amores pelas intervenções que eu gostaria de fazer no quarto de Artur. Está aí a razão desse post…
+  Quem me acompanha mais de pertinho sabe da decisão que tomamos de voltar para Recife, não é? Então, você pode imaginar: minha cabeça já começa a fervilhar com ideias para serem colocadas em prática na decoração da nova casinha por lá. E nesse _vuco-vuco_ de ideias, claro que vivo suspirando e vivendo de amores pelas intervenções que eu gostaria de fazer no quarto de Artur. Está aí a razão desse post…
 </p>
 
 <p align="justify">
@@ -19,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quarto-de-menino-branco/" target="_blank">**Quarto de menino completamente branco?**</a>
+  [**Quarto de menino completamente branco?**](http://www.decoracaodacasa.com/quarto-de-menino-branco/) 
 </p>
 
 <p align="justify">
-  Vi esses quartinhos de menino e suspirei: amei a ideia de usar **papel de parede** no quarto do meu pequeno, usar mais alguns **brinquedos na decoração**, tenho vivido de amores pelas **bandeirolas, guirlandas e afins**. Enfim, sou só suspiros… quer ficar com um <em>siricotico</em> de ideias para o quarto do seu meninão também? Vem cá… vamos sonhar juntas!
+  Vi esses quartinhos de menino e suspirei: amei a ideia de usar **papel de parede** no quarto do meu pequeno, usar mais alguns **brinquedos na decoração**, tenho vivido de amores pelas **bandeirolas, guirlandas e afins**. Enfim, sou só suspiros… quer ficar com um _siricotico_ de ideias para o quarto do seu meninão também? Vem cá… vamos sonhar juntas!
 </p>
 
 <p align="center">
@@ -43,15 +43,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/mesa-de-estudo/" target="_blank">**Seu filho tem uma mesa de estudo linda de viver?**</a>
+  [**Seu filho tem uma mesa de estudo linda de viver?**](http://www.decoracaodacasa.com/mesa-de-estudo/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.styleroom.fi/" target="_blank">StyleRoom</a>
+  Imagens: [StyleRoom](http://www.styleroom.fi/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

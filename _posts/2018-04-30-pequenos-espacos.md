@@ -21,19 +21,19 @@ categories:
 </p>
 
 <p align="justify">
-  Na busca pelo nossa casa própria veio a lição: o mercado oferecia imóveis cada vez menores. A boa notícia é que o <em>design</em> de interiores acompanhou essa tendência, e nos oferecia produtos e serviços voltados para esse mercado de consumo. Ambientes integrados, espaços funcionais, móveis sob medida e, quando prontos, de <em>design</em> bastante enxuto. Tudo passou a ser pensado para quem queria morar bem, mas com menos espaço. Isso tudo, à época, foi o que chamou bastante minha atenção, e foi o que me motivou, hoje, a compartilhar contigo conteúdo para te ajudar a repensar o seu lar, ampliando o seu espaço, ainda que em qualidade. Vamos lá?
+  Na busca pelo nossa casa própria veio a lição: o mercado oferecia imóveis cada vez menores. A boa notícia é que o _design_ de interiores acompanhou essa tendência, e nos oferecia produtos e serviços voltados para esse mercado de consumo. Ambientes integrados, espaços funcionais, móveis sob medida e, quando prontos, de _design_ bastante enxuto. Tudo passou a ser pensado para quem queria morar bem, mas com menos espaço. Isso tudo, à época, foi o que chamou bastante minha atenção, e foi o que me motivou, hoje, a compartilhar contigo conteúdo para te ajudar a repensar o seu lar, ampliando o seu espaço, ainda que em qualidade. Vamos lá?
 </p>
 
 <p align="justify">
-  1 – <a href="http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/" target="_blank">Decoração de cozinha pequena: dicas e imagens.</a>
+  1 – [Decoração de cozinha pequena: dicas e imagens.](http://www.trololodemulher.com.br/2016/03/07/decoracao-de-cozinha-pequena/) 
 </p>
 
 <p align="justify">
-  2 – <a href="http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/" target="_blank">Faça seu banheiro pequeno parecer maior com 5 truques.</a>
+  2 – [Faça seu banheiro pequeno parecer maior com 5 truques.](http://www.trololodemulher.com.br/2016/02/19/banheiro-pequeno/) 
 </p>
 
 <p align="justify">
-  3 – <a href="http://www.trololodemulher.com.br/2014/11/17/receber-espaco-pequeno/" target="_blank">Como receber em um espaço pequeno? Dicas valiosas.</a>
+  3 – [Como receber em um espaço pequeno? Dicas valiosas.](http://www.trololodemulher.com.br/2014/11/17/receber-espaco-pequeno/) 
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Avise que quer, neste post</a>. É grátis!
+  Se você quiser estreitar ainda mais nossa conexão, envio para você, por e-mail, o que de melhor eu puder compartilhar sobre o que tenho aprendido acerca de **gestão do tempo, organização pessoal, produtividade, vida simples e bem viver**. Para isso, preciso que você entre na minha lista de relacionamento. [Avise que quer, neste post](http://www.trololodemulher.com.br/2018/02/28/newsletter/) . É grátis!
 </p>
 
 <p align="justify">

@@ -19,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/" target="_blank">**Trabalho: o que é mais importante na hora de empreender?**</a>
+  [**Trabalho: o que é mais importante na hora de empreender?**](http://www.trololodemulher.com.br/2014/06/13/trabalho-empreendedorismo/) 
 </p>
 
 <p align="justify">
-  As histórias que você verá a seguir, de **3 mulheres** que foram lá e fizeram suas ideias darem certo, são mesmo inspiradoras. A vontade de tomá-las como exemplo é enorme, você verá… mas, atenção: há uma distância entre sonhar… e tornar o sonho realidade. Nem toda grande ideia pode se revelar um caso de sucesso, porque é preciso ter muita atitude,<em> viu</em>? Ser criativa é importante, mas é vital, na mesma medida, que haja muita perseverança e “mão na massa”. Ficou animada e sente que esse é o seu perfil? Então… inspire-se!
+  As histórias que você verá a seguir, de **3 mulheres** que foram lá e fizeram suas ideias darem certo, são mesmo inspiradoras. A vontade de tomá-las como exemplo é enorme, você verá… mas, atenção: há uma distância entre sonhar… e tornar o sonho realidade. Nem toda grande ideia pode se revelar um caso de sucesso, porque é preciso ter muita atitude,_ viu_? Ser criativa é importante, mas é vital, na mesma medida, que haja muita perseverança e “mão na massa”. Ficou animada e sente que esse é o seu perfil? Então… inspire-se!
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">**O que faz uma mãe optar pelo trabalho autônomo?**</a>
+  [**O que faz uma mãe optar pelo trabalho autônomo?**](http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/) 
 </p>
 
 <p align="center">
@@ -43,11 +43,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Taís e suas delícias: dedicação, muito estudo e amor.</em>
+  _Taís e suas delícias: dedicação, muito estudo e amor._
 </p>
 
 <p align="justify">
-  A relação de Taís com os doces vem de muito tempo, de quando ela era ainda uma menina. Com 10 ou 11 anos cismou que iria aprender a fazer bolo de chocolate, com muito brigadeiro e… quer saber? Aquele capricho de menina dava sinais sobre por onde a mulher empreendedora do futuro iria enveredar: Taís deu início ao seu projeto literalmente delicioso, a empresa **<a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank">Maria Mel</a>**.
+  A relação de Taís com os doces vem de muito tempo, de quando ela era ainda uma menina. Com 10 ou 11 anos cismou que iria aprender a fazer bolo de chocolate, com muito brigadeiro e… quer saber? Aquele capricho de menina dava sinais sobre por onde a mulher empreendedora do futuro iria enveredar: Taís deu início ao seu projeto literalmente delicioso, a empresa **[Maria Mel](https://www.facebook.com/cozinhamariamel/timeline) **.
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  Incansável na vontade de fazer o melhor que ela podia, Taís se entregou aos estudos e aprimoramentos. Foi com essa determinação que essa mulher pra lá de batalhadora buscou diversos cursos na área de gastronomia, e colocou em prática este seu projeto que existe, efetivamente, há cerca de 1 ano. Suas guloseimas podem ser apreciadas em um carrinho <em>gourmet</em> de doces, desses que ficam em <em>shoppings</em>. A ideia segue a tendência atual de comercializar comida em um ponto de venda móvel, e tudo começou com o modelo <em>Food Truck</em>, que se vê hoje em dia nos EUA, na Europa, e está chegando com tudo no Brasil. Depois de pesquisar bastante, a Taís decidiu que seria dessa forma que iria levar seus produtos aos seus clientes e, vale ressaltar, não fica apenas nos brigadeiros, já que ela também produz pão de mel, bombom, amendoim doce, e muito mais.
+  Incansável na vontade de fazer o melhor que ela podia, Taís se entregou aos estudos e aprimoramentos. Foi com essa determinação que essa mulher pra lá de batalhadora buscou diversos cursos na área de gastronomia, e colocou em prática este seu projeto que existe, efetivamente, há cerca de 1 ano. Suas guloseimas podem ser apreciadas em um carrinho _gourmet_ de doces, desses que ficam em _shoppings_. A ideia segue a tendência atual de comercializar comida em um ponto de venda móvel, e tudo começou com o modelo _Food Truck_, que se vê hoje em dia nos EUA, na Europa, e está chegando com tudo no Brasil. Depois de pesquisar bastante, a Taís decidiu que seria dessa forma que iria levar seus produtos aos seus clientes e, vale ressaltar, não fica apenas nos brigadeiros, já que ela também produz pão de mel, bombom, amendoim doce, e muito mais.
 </p>
 
 <p align="justify">
@@ -75,23 +75,23 @@ categories:
 </p>
 
 <p align="center">
-  <em>Lilian quer provar que boa imagem e estilo qualquer um pode ter.</em>
+  _Lilian quer provar que boa imagem e estilo qualquer um pode ter._
 </p>
 
 <p align="justify">
-  Lilian formou-se em Consultoria de Estilo e resolveu dedicar-se ao estudo de imagem e estilo porque, percebeu, <em>“a imagem dos indivíduos, grupos e instituições já se coloca como fator decisivo para o sucesso pessoal e profissional</em>”. Foi por esse caminho que essa mulher atenta ao mundo a sua volta enxergou uma oportunidade de negócio, já que, constatou o inquestionável: <em>“a capacidade de construir e adaptar a imagem de pessoa física ou jurídica é ferramenta fundamental para alcançar êxito em qualquer setor de atividade</em>”.
+  Lilian formou-se em Consultoria de Estilo e resolveu dedicar-se ao estudo de imagem e estilo porque, percebeu, _“a imagem dos indivíduos, grupos e instituições já se coloca como fator decisivo para o sucesso pessoal e profissional_”. Foi por esse caminho que essa mulher atenta ao mundo a sua volta enxergou uma oportunidade de negócio, já que, constatou o inquestionável: _“a capacidade de construir e adaptar a imagem de pessoa física ou jurídica é ferramenta fundamental para alcançar êxito em qualquer setor de atividade_”.
 </p>
 
 <p align="justify">
-  Da ideia para a concretização do sonho do negócio ela não demorou muito, e começou tão logo concluiu o seu curso. Dessa forma, deu o início necessário a sua atuação como **<a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Consultora de Estilo</a>**. Entretanto, viu seu projeto ser alavancado quando idealizou algo inovador, o seu congresso &#8211; **<a href="https://www.facebook.com/conastyle/timeline" target="_blank">ConaStyle &#8211; Congresso Nacional de Estilo</a>**.
+  Da ideia para a concretização do sonho do negócio ela não demorou muito, e começou tão logo concluiu o seu curso. Dessa forma, deu o início necessário a sua atuação como **[Consultora de Estilo](https://www.facebook.com/lilianjordao82/timeline) **. Entretanto, viu seu projeto ser alavancado quando idealizou algo inovador, o seu congresso &#8211; **[ConaStyle &#8211; Congresso Nacional de Estilo](https://www.facebook.com/conastyle/timeline) **.
 </p>
 
 <p align="justify">
-  Lilian revela, contudo, que tudo não são flores. As dificuldades existem e, para ela, a maior de todas foi fazer com que as pessoas entendessem que “<em>Consultoria de Imagem & Estilo não é algo para ricos e famosos. Todo mundo pode ter um</em>”, e é assim que ela segue, incansável e determinada a provar isso. Para tanto, procura desenvolver seu trabalho atuando em várias frentes: **consultoria de imagem e estilo pessoal, consultoria corporativa, treinamentos, <em>workshops</em> e palestras**.
+  Lilian revela, contudo, que tudo não são flores. As dificuldades existem e, para ela, a maior de todas foi fazer com que as pessoas entendessem que “_Consultoria de Imagem & Estilo não é algo para ricos e famosos. Todo mundo pode ter um_”, e é assim que ela segue, incansável e determinada a provar isso. Para tanto, procura desenvolver seu trabalho atuando em várias frentes: **consultoria de imagem e estilo pessoal, consultoria corporativa, treinamentos, _workshops_ e palestras**.
 </p>
 
 <p align="justify">
-  Conhecedora de sua área de atuação e dos benefícios de seus serviços, é ela quem explica porque tê-la tão perto é extremamente importante para quem deseja alavancar o seu próprio negócio: “<em>nossa maneira de vestir, gestos, comportamento, transmitem várias mensagens podendo assim ser favoráveis ou desfavoráveis, abrindo ou fechando portas em todas as horas, locais e oportunidades. Conhecer sua imagem e saber trabalhá-la a seu favor é uma arte que você terá em todos os aspectos</em>”. E quem poderá dizer o contrário?!
+  Conhecedora de sua área de atuação e dos benefícios de seus serviços, é ela quem explica porque tê-la tão perto é extremamente importante para quem deseja alavancar o seu próprio negócio: “_nossa maneira de vestir, gestos, comportamento, transmitem várias mensagens podendo assim ser favoráveis ou desfavoráveis, abrindo ou fechando portas em todas as horas, locais e oportunidades. Conhecer sua imagem e saber trabalhá-la a seu favor é uma arte que você terá em todos os aspectos_”. E quem poderá dizer o contrário?!
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Adriana assumiu sua veia artística, colocou mãos á obra e construiu seu negócio do coração.</em>
+  _Adriana assumiu sua veia artística, colocou mãos á obra e construiu seu negócio do coração._
 </p>
 
 <p align="justify">
@@ -111,15 +111,15 @@ categories:
 </p>
 
 <p align="justify">
-  A hora da virada se deu em 2012 quando, com o apoio do marido e da família, essa criativa corajosa resolveu assumir sua veia artística e deu a volta por cima: largou o emprego formal e investiu o seu tempo e seus esforços no seu negócio do coração. Foi assim que nasceu o **<a href="https://www.facebook.com/kecaatelie/timeline" target="_blank">KeCa Ateliê</a>**.
+  A hora da virada se deu em 2012 quando, com o apoio do marido e da família, essa criativa corajosa resolveu assumir sua veia artística e deu a volta por cima: largou o emprego formal e investiu o seu tempo e seus esforços no seu negócio do coração. Foi assim que nasceu o **[KeCa Ateliê](https://www.facebook.com/kecaatelie/timeline) **.
 </p>
 
 <p align="justify">
-  <em>“Inicialmente vendi alguns mimos para amigos e estes foram indicando novos clientes, mas a </em><a href="http://www.vitrine.elo7.com.br/kecaatelie" target="_blank">**<em>loja virtual</em>**</a><em> foi criada em conjunto. Quando fiz minha primeira venda pela loja virtual para uma pessoa que nunca tinha visto e de outro estado, foi um dia marcante e especial pra mim. Vi que estava no caminho certo. Hoje já temos mimos do **KeCa ateliê** em todos os estados da federação, EUA e Argentina. Costumo dizer no grupo de clientes do facebook que nossa família está crescendo, já somos mais de 450 membros, 450 pessoas que valorizam o meu trabalho e que apreciam a minha arte</em>”, revela Adriana, orgulhosa de seu feito. E não é pra menos!
+  _“Inicialmente vendi alguns mimos para amigos e estes foram indicando novos clientes, mas a _[**_loja virtual_**](http://www.vitrine.elo7.com.br/kecaatelie) _ foi criada em conjunto. Quando fiz minha primeira venda pela loja virtual para uma pessoa que nunca tinha visto e de outro estado, foi um dia marcante e especial pra mim. Vi que estava no caminho certo. Hoje já temos mimos do **KeCa ateliê** em todos os estados da federação, EUA e Argentina. Costumo dizer no grupo de clientes do facebook que nossa família está crescendo, já somos mais de 450 membros, 450 pessoas que valorizam o meu trabalho e que apreciam a minha arte_”, revela Adriana, orgulhosa de seu feito. E não é pra menos!
 </p>
 
 <p align="justify">
-  Entretanto, Adriana também alerta que ter seu negócio próprio envolve riscos: <em>“em todo e qualquer empreendimento há um certo risco. Você se preocupa se vai alcançar as metas de vendas, se o próximo mês vai ser bom como o anterior, se vai dar conta de tudo, se, se &#8230;”</em>. Mas é preciso, neste caso, neutralizar essa força que pode nos impedir de correr atrás dos sonhos, e a Adriana diz como é que ela fez: <em>“não podemos deixar o &#8220;se&#8221; tomar conta e desistir. É preciso investir tempo em aperfeiçoamento, novas técnicas, inovação, capricho e beleza, pois no ramo artesanal isso é o que o cliente procura: um produto diferenciado e com um toque especial que cada artista dá a sua peça”</em>. Viu? A dica foi dada pela Adriana e, o resto, é contigo…
+  Entretanto, Adriana também alerta que ter seu negócio próprio envolve riscos: _“em todo e qualquer empreendimento há um certo risco. Você se preocupa se vai alcançar as metas de vendas, se o próximo mês vai ser bom como o anterior, se vai dar conta de tudo, se, se &#8230;”_. Mas é preciso, neste caso, neutralizar essa força que pode nos impedir de correr atrás dos sonhos, e a Adriana diz como é que ela fez: _“não podemos deixar o &#8220;se&#8221; tomar conta e desistir. É preciso investir tempo em aperfeiçoamento, novas técnicas, inovação, capricho e beleza, pois no ramo artesanal isso é o que o cliente procura: um produto diferenciado e com um toque especial que cada artista dá a sua peça”_. Viu? A dica foi dada pela Adriana e, o resto, é contigo…
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ categories:
 </p>
 
 <p align="justify">
-  As meninas contaram como foi o “caminho das pedras” para elas, cada uma em sua área distinta de atuação. Só por isso, esse post já te daria ferramentas mais que necessárias para você começar a amadurecer suas ideias, e desenhar o seu novo projeto de vida para o ano que vem, certo? Por isso, desconfio <em>cá</em> comigo que 2015 promete!
+  As meninas contaram como foi o “caminho das pedras” para elas, cada uma em sua área distinta de atuação. Só por isso, esse post já te daria ferramentas mais que necessárias para você começar a amadurecer suas ideias, e desenhar o seu novo projeto de vida para o ano que vem, certo? Por isso, desconfio _cá_ comigo que 2015 promete!
 </p>
 
 <p align="justify">
@@ -143,7 +143,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank">**Qual é o mistério do sucesso da Margaret?**</a>
+  [**Qual é o mistério do sucesso da Margaret?**](http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/) 
 </p>
 
 <p align="justify">
@@ -151,19 +151,19 @@ categories:
 </p>
 
 > <p align="justify">
->   **Uma dica é sempre acreditar em seus sonhos, fazer tudo com dedicação, aprender sempre, e nunca, nunca, nunca desistir, por que um dia se torna realidade, se focar realmente no que quer. Fé e foco! O tempo que vai demorar, não importa, o tempo passa de qualquer forma, então aproveita para subir de um em um degrau até chegar lá!” Taís Marçal – **<a href="https://www.facebook.com/cozinhamariamel/timeline" target="_blank">**Maria Mel**</a>
+>   **Uma dica é sempre acreditar em seus sonhos, fazer tudo com dedicação, aprender sempre, e nunca, nunca, nunca desistir, por que um dia se torna realidade, se focar realmente no que quer. Fé e foco! O tempo que vai demorar, não importa, o tempo passa de qualquer forma, então aproveita para subir de um em um degrau até chegar lá!” Taís Marçal – **[**Maria Mel**](https://www.facebook.com/cozinhamariamel/timeline) 
 > </p>
 
 > <p align="justify">
->   **Perfil Empreendedor; Buscar conhecimento sempre; Tirar a ideia do papel; Conheça sua área; Errar é humano; Nunca desista dos seus sonhos; Ame o que você faz.” Lilian Jordão – **<a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">**Consultoria de Estilo**</a>
+>   **Perfil Empreendedor; Buscar conhecimento sempre; Tirar a ideia do papel; Conheça sua área; Errar é humano; Nunca desista dos seus sonhos; Ame o que você faz.” Lilian Jordão – **[**Consultoria de Estilo**](https://www.facebook.com/lilianjordao82/timeline) 
 > </p>
 
 > <p align="justify">
->   **Minha dica pra quem quer viver exclusivamente de sua arte é concentrar-se no que faz de melhor e depois partir para novos desafios. Investir tempo para criar uma identidade para seu trabalho, um conceito, algo que faça as pessoas perceberem o quanto de paixão e de carinho há em cada detalhe da sua peça. Não tenha medo de colocar mais de você em sua marca. Por fim, persistir sempre!” Adriana Galvão – **<a href="https://www.facebook.com/kecaatelie/timeline" target="_blank">**KeCa Ateliê**</a>
+>   **Minha dica pra quem quer viver exclusivamente de sua arte é concentrar-se no que faz de melhor e depois partir para novos desafios. Investir tempo para criar uma identidade para seu trabalho, um conceito, algo que faça as pessoas perceberem o quanto de paixão e de carinho há em cada detalhe da sua peça. Não tenha medo de colocar mais de você em sua marca. Por fim, persistir sempre!” Adriana Galvão – **[**KeCa Ateliê**](https://www.facebook.com/kecaatelie/timeline) 
 > </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

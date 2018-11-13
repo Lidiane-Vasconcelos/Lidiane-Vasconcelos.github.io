@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  1 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-vermelho" target="_blank">Sapatinho bebê renda rensacença vermelho</a> | 2 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-rosa-e-branco" target="_blank">Sapatinho bebê renda renascença rosa e branco</a> | 3 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-branco" target="_blank">Sapatinho bebê renda renascença branco</a> | 4 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-azul-e-branco" target="_blank">Sapatinho bebê renda renascença azul e branco</a>, todos eles da XiqueXique Brasil.
+  1 – [Sapatinho bebê renda rensacença vermelho](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-vermelho)  | 2 – [Sapatinho bebê renda renascença rosa e branco](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-rosa-e-branco)  | 3 – [Sapatinho bebê renda renascença branco](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-branco)  | 4 – [Sapatinho bebê renda renascença azul e branco](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-azul-e-branco) , todos eles da XiqueXique Brasil.
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  1 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-laco" target="_blank">Sapatinho bebê tricô branco laço</a> | 2 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-rosa-seco-laco" target="_blank">Sapatinho bebê tricô rosa seco laço</a> | 3 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-rosa-coracao" target="_blank">Sapatinho bebê tricô rosa coração</a> | 4 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-coracao" target="_blank">Sapatinho bebê tricô branco coração</a> | 5 &#8211; <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-preto-coracao" target="_blank">Sapatinho bebê tricô preto coração</a>, todos eles da XiqueXique Brasil.
+  1 – [Sapatinho bebê tricô branco laço](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-laco)  | 2 – [Sapatinho bebê tricô rosa seco laço](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-rosa-seco-laco)  | 3 – [Sapatinho bebê tricô rosa coração](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-rosa-coracao)  | 4 – [Sapatinho bebê tricô branco coração](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-coracao)  | 5 &#8211; [Sapatinho bebê tricô preto coração](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-preto-coracao) , todos eles da XiqueXique Brasil.
 </p>
 
 <p align="justify">
@@ -47,13 +47,13 @@ categories:
 </p>
 
 <p align="center">
-  1 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-botao" target="_blank">Sapatinho bebê tricô branco botão</a> | 2 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-bege-botao" target="_blank">Sapatinho bebê tricô bege botão</a> | 3 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-marinho-botao" target="_blank">Sapatinho bebê tricô azul marinho botão</a> | 4 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-azul-botao" target="_blank">Sapatinho bebê tricô azul botão</a>, todos eles da XiqueXique Brasil.
+  1 – [Sapatinho bebê tricô branco botão](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-botao)  | 2 – [Sapatinho bebê tricô bege botão](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-bege-botao)  | 3 – [Sapatinho bebê tricô azul marinho botão](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-marinho-botao)  | 4 – [Sapatinho bebê tricô azul botão](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-azul-botao) , todos eles da XiqueXique Brasil.
 </p>
 
 E quem nunca associou, de imediato, bebê recém-nascido ao sapatinho vermelho? A gente pode nem fazer ideia do porquê, mas quer logo que haja um sapatinho vermelho no seu enxoval, não é verdade? Diz a lenda que&#8230;
 
 <p align="justify">
-  “&#8230;<em>presentear sapatinhos vermelhos tem seu significado em um antigo costume cigano que simboliza proteção e o desejo de boa sorte, saúde e felicidade para o resto da vida. De acordo com a lenda que envolve os sapatinhos, cada bebê escolhe um casal para ser seus pais. Mas havia um que estava muito preocupado com sua nova experiência. Percebendo as dúvidas do pequeno, apareceu a Mestra que tem o poder de sentir todas as coisas. Ela colocou a mão em sua cabeça e falou: “Tenha confiança. Para que sua vida na Terra seja tranquila eu enviarei um amuleto sob a forma de presente, garantindo sua saúde e felicidade&#8221;. O destino reservou que aquele bebê nascesse numa família de ciganos europeus. E o primeiro presente que recebeu foi um par de sapatinhos vermelhos que ele usou e guardou para sempre. O bebê cresceu e tornou-se muito conhecido e respeitado por todos, assim como seu amuleto. A partir de então, a tradição de dar sapatinhos vermelhos para os recém-nascidos se espalhou pelos cinco continentes.&#8221; </em>
+  “&#8230;_presentear sapatinhos vermelhos tem seu significado em um antigo costume cigano que simboliza proteção e o desejo de boa sorte, saúde e felicidade para o resto da vida. De acordo com a lenda que envolve os sapatinhos, cada bebê escolhe um casal para ser seus pais. Mas havia um que estava muito preocupado com sua nova experiência. Percebendo as dúvidas do pequeno, apareceu a Mestra que tem o poder de sentir todas as coisas. Ela colocou a mão em sua cabeça e falou: “Tenha confiança. Para que sua vida na Terra seja tranquila eu enviarei um amuleto sob a forma de presente, garantindo sua saúde e felicidade&#8221;. O destino reservou que aquele bebê nascesse numa família de ciganos europeus. E o primeiro presente que recebeu foi um par de sapatinhos vermelhos que ele usou e guardou para sempre. O bebê cresceu e tornou-se muito conhecido e respeitado por todos, assim como seu amuleto. A partir de então, a tradição de dar sapatinhos vermelhos para os recém-nascidos se espalhou pelos cinco continentes.&#8221; _
 </p>
 
 <p align="justify">
@@ -65,7 +65,7 @@ E quem nunca associou, de imediato, bebê recém-nascido ao sapatinho vermelho? 
 </p>
 
 <p align="center">
-  1 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-vermelho-laco" target="_blank">Sapatinho bebê tricô vermelho laço</a> | 2 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-vermelho-coracao" target="_blank">Sapatinho bebê tricô vermelho coração</a> | 3 – <a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-vermelho-botao" target="_blank">Sapatinho bebê tricô vermelho botão</a>, todos eles da XiqueXique Brasil.
+  1 – [Sapatinho bebê tricô vermelho laço](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-vermelho-laco)  | 2 – [Sapatinho bebê tricô vermelho coração](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-vermelho-coracao)  | 3 – [Sapatinho bebê tricô vermelho botão](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-vermelho-botao) , todos eles da XiqueXique Brasil.
 </p>
 
 <p align="justify">
@@ -73,9 +73,9 @@ E quem nunca associou, de imediato, bebê recém-nascido ao sapatinho vermelho? 
 </p>
 
 <p align="justify">
-  Para ver **todos os modelos de sapatinhos** que são pequenas pecinhas de arte, produzidas com carinho e garimpadas com muito bom gosto, visite a **<a href="https://www.xiquexiquebrasil.com.br/" target="_blank">Xique Xique Brasil</a>**, uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-trololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! Ah! No Instagram dá para ficar por dentro de todas as novidades também. <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">Clique aqui</a> e siga!
+  Para ver **todos os modelos de sapatinhos** que são pequenas pecinhas de arte, produzidas com carinho e garimpadas com muito bom gosto, visite a **[Xique Xique Brasil](https://www.xiquexiquebrasil.com.br/) **, uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e [clique aqui](http://bit.ly/xxb-trololo) . Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. [Clique aqui, curta](https://www.facebook.com/XiqueXiqueBrasil/)  e acompanhe! Ah! No Instagram dá para ficar por dentro de todas as novidades também. [Clique aqui](https://www.instagram.com/xiquexiquebrasil/)  e siga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

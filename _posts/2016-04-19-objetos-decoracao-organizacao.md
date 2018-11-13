@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a>**
+  **[Banheiro pequeno? Veja 6 ideias e ganhe espaço já!](http://www.decoracaodacasa.com/banheiro-pequeno/) **
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">5 ideias de organização do banheiro que favorecem a decoração.</a>**
+  **[5 ideias de organização do banheiro que favorecem a decoração.](http://www.decoracaodacasa.com/organizacao-do-banheiro/) **
 </p>
 
 <p align="center">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/organizacao-casa-cozinha/" target="_blank">+1 ideia de organização para sua cozinha pequena.</a>**
+  **[+1 ideia de organização para sua cozinha pequena.](http://www.decoracaodacasa.com/organizacao-casa-cozinha/) **
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/cozinha-organizacao/" target="_blank">Cozinha: 2 ideias simples que, sim, organizam!</a>**
+  **[Cozinha: 2 ideias simples que, sim, organizam!](http://www.decoracaodacasa.com/cozinha-organizacao/) **
 </p>
 
 <p align="center">
@@ -75,21 +75,21 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank">3 dicas para organização da cozinha: confira!</a>**
+  **[3 dicas para organização da cozinha: confira!](http://www.decoracaodacasa.com/organizacao-da-cozinha/) **
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank">4 ideias para manter sua cozinha organizada. Confira!</a>**
+  **[4 ideias para manter sua cozinha organizada. Confira!](http://www.decoracaodacasa.com/ideias-cozinha-organizada/) **
 </p>
 
 <p style="text-align: left;" align="center">
-  **<a href="http://www.decoracaodacasa.com/decoracao-de-cozinha/" target="_blank">Decoração de cozinha: 2 ideias que também organizam.</a>**
+  **[Decoração de cozinha: 2 ideias que também organizam.](http://www.decoracaodacasa.com/decoracao-de-cozinha/) **
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+  Imagens: [Martha Stewart](http://www.marthastewart.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

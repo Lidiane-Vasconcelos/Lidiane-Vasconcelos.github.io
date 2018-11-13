@@ -15,19 +15,19 @@ Ou você acha que vale? Se estamos de acordo e concluímos que **_antes de decor
 <!--more-->
 
 <p style="text-align: center;">
-  **<em>Dos produtos que ficam no banheiro…</em>**
+  **_Dos produtos que ficam no banheiro…_**
 </p>
 
 <p style="text-align: justify;">
-  Você já deve ter ouvido falar que **<em>remédios ou cosméticos, a exemplo dos perfumes ou maquiagem, não devem ficar no banheiro por causa da variação de temperatura e da umidade</em>**, correto? E você ainda insiste em mantê-los por lá? … <em>tsc tsc tsc</em>…
+  Você já deve ter ouvido falar que **_remédios ou cosméticos, a exemplo dos perfumes ou maquiagem, não devem ficar no banheiro por causa da variação de temperatura e da umidade_**, correto? E você ainda insiste em mantê-los por lá? … _tsc tsc tsc_…
 </p>
 
 <p style="text-align: justify;">
-  **<em>O melhor a fazer é tirá-los do local, assim você ganha espaço para outras coisas que precisam ser deixadas por lá</em>**, e evita o excesso de itens a serem organizados, concorda?
+  **_O melhor a fazer é tirá-los do local, assim você ganha espaço para outras coisas que precisam ser deixadas por lá_**, e evita o excesso de itens a serem organizados, concorda?
 </p>
 
 <p style="text-align: center;">
-  **<em>E o que você precisa que esteja por lá?</em>**
+  **_E o que você precisa que esteja por lá?_**
 </p>
 
 <p style="text-align: justify;">
@@ -35,11 +35,11 @@ Ou você acha que vale? Se estamos de acordo e concluímos que **_antes de decor
 </p>
 
 <p style="text-align: justify;">
-  Uma dica é **<em>arrumar um ou mais rolos extras, além de alguns sabonetes (sem a embalagem) numa cestinha de vime ou de algum outro material que você aprecie e ache bonito, arrematando com um mimo decorativo a seu gosto</em>**. Sugiro um pequeno ramalhete de flores secas.
+  Uma dica é **_arrumar um ou mais rolos extras, além de alguns sabonetes (sem a embalagem) numa cestinha de vime ou de algum outro material que você aprecie e ache bonito, arrematando com um mimo decorativo a seu gosto_**. Sugiro um pequeno ramalhete de flores secas.
 </p>
 
 <p style="text-align: center;">
-  **<em>Sugestão para acomodar seu papel higiênico e sabonetes extra no banheiro…</em>**
+  **_Sugestão para acomodar seu papel higiênico e sabonetes extra no banheiro…_**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -50,47 +50,47 @@ Ou você acha que vale? Se estamos de acordo e concluímos que **_antes de decor
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em>Quer trazer o frescor da lavanda para seu banheiro? O uso da bandeja é de acordo com sua criatividade para decorar  seu espaço. O que não se pode negar é o charme que uma peça exclusiva assim pode trazer para seu banheiro, não é verdade? </em>
+        _Quer trazer o frescor da lavanda para seu banheiro? O uso da bandeja é de acordo com sua criatividade para decorar  seu espaço. O que não se pode negar é o charme que uma peça exclusiva assim pode trazer para seu banheiro, não é verdade? _
       </p>
       
       <p style="text-align: justify;">
-        <em>Ela está a venda no **Mercado de Artes** do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/">basta clicar</a>**!</em>
+        _Ela está a venda no **Mercado de Artes** do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/">basta clicar</a>**!_
       </p>
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  **<em>Seu problema é falta de espaço para menter o essencial de forma organizada no banheiro?</em>**
+  **_Seu problema é falta de espaço para menter o essencial de forma organizada no banheiro?_**
 </p>
 
 <p style="text-align: justify;">
-  Então, bonita, não tem jeito! Você precisa **<em>criar espaços verticais</em>**. Como? Sugestões: **<em>instale uma prateleira na parede onde você possa acomodar objetos, e ainda coloque dois ganchos extras atrás da porta do banheiro.</em>** Acredite! Isso pode fazer alguma diferença, <em>hein</em>?
+  Então, bonita, não tem jeito! Você precisa **_criar espaços verticais_**. Como? Sugestões: **_instale uma prateleira na parede onde você possa acomodar objetos, e ainda coloque dois ganchos extras atrás da porta do banheiro._** Acredite! Isso pode fazer alguma diferença, _hein_?
 </p>
 
 <p style="text-align: center;">
-  **<em>Dê uma geral nos armários num momento (honesto) de desapego por cosméticos vencidos…</em>**
+  **_Dê uma geral nos armários num momento (honesto) de desapego por cosméticos vencidos…_**
 </p>
 
 <p style="text-align: justify;">
-  Você é do tipo que usa cremes para você e mais 9 mulheres? <em>Xiiii</em>… deve ter um bocado deles entulhado nos armários, esperando a vez de serem usados e, muito provavelmente, alguns deles até venceram, não é? O que você está esperando para se **<em>desfazer desse amontoado de cremes desnecessários para ganhar espaço e limpar o visual decorativo do seu banheiro</em>**?
+  Você é do tipo que usa cremes para você e mais 9 mulheres? _Xiiii_… deve ter um bocado deles entulhado nos armários, esperando a vez de serem usados e, muito provavelmente, alguns deles até venceram, não é? O que você está esperando para se **_desfazer desse amontoado de cremes desnecessários para ganhar espaço e limpar o visual decorativo do seu banheiro_**?
 </p>
 
 <p style="text-align: center;">
-  **<em>Para tomar nota e não esquecer, ou melhor, aplicar!</em>**
+  **_Para tomar nota e não esquecer, ou melhor, aplicar!_**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: justify;" width="300" valign="top">
-      <em>1 – Remover do banheiro os remédios, perfumes e a maquiagem; </em><em>2 – Levar para o banheiro algum rolo de papel higiênico extra + sabonetes e arrumá-los em um recipiente com algum mimo decorativo. Isso vai promover a organização + decoração do seu espaço;</em></p> 
+      _1 – Remover do banheiro os remédios, perfumes e a maquiagem; __2 – Levar para o banheiro algum rolo de papel higiênico extra + sabonetes e arrumá-los em um recipiente com algum mimo decorativo. Isso vai promover a organização + decoração do seu espaço;_</p> 
       
       <p>
-        <em>3 – Crie espaços verticais com alguma prateleira na parede e ganchos extras atrás da porta do banheiro;</em>
+        _3 – Crie espaços verticais com alguma prateleira na parede e ganchos extras atrás da porta do banheiro;_
       </p>
       
       <p style="text-align: justify;">
-        <em>4 – Elimine o excesso de cremes vencidos dos armários a fim de limpar o visual decorativo do banheiro e ganhar espaço.</em>
+        _4 – Elimine o excesso de cremes vencidos dos armários a fim de limpar o visual decorativo do banheiro e ganhar espaço._
       </p>
     </td>
     
@@ -106,7 +106,7 @@ Ou você acha que vale? Se estamos de acordo e concluímos que **_antes de decor
   Você certamente tem alguma dica para deixar aqui também, estou certa? Então vai lá nos comentários e deixa tua sugestão para organizar e decorar o banheiro. As bichas fêmeas navegantes agradecem…
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xghng</em></a>
+_Imagem:_ [_stock.xghng_](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea…**
 
@@ -119,13 +119,13 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xghng</em></a>
 **_[Banheiros, banheiros e mais banheiros.](http://www.trololodemulher.com.br/2009/03/02/banheiros/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> **<em><a href="http://www.trololodemulher.com.br/category/decoracao/banheiros/">Banheiros</a></em>**> Decoração bonita em banheiro sem organização não vale nada!
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> **_<a href="http://www.trololodemulher.com.br/category/decoracao/banheiros/">Banheiros</a>_**> Decoração bonita em banheiro sem organização não vale nada!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

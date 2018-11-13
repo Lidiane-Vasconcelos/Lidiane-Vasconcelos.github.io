@@ -10,11 +10,11 @@ categories:
   - Salas
 ---
 <p style="text-align: justify;">
-  Você é solar? Gosta de **cores radiantes** na sua **decoração**? <em>Hum</em>… **amarelo** é um representante dos bons quando se pensa em **cores alegres em decoração**, não é? Se você pensa em usar algo assim na sua **sala de estar** e busca inspirações, então este post é para você!
+  Você é solar? Gosta de **cores radiantes** na sua **decoração**? _Hum_… **amarelo** é um representante dos bons quando se pensa em **cores alegres em decoração**, não é? Se você pensa em usar algo assim na sua **sala de estar** e busca inspirações, então este post é para você!
 </p>
 
 <p style="text-align: justify;">
-  A história que motivou este post começa com um comentário deixado pela Katy, quando foram publicadas, aqui no Trololó de Mulher, **<em><a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/">dicas e sugestões sobre cores na sala de estar</a></em>**.
+  A história que motivou este post começa com um comentário deixado pela Katy, quando foram publicadas, aqui no Trololó de Mulher, **_<a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/">dicas e sugestões sobre cores na sala de estar</a>_**.
 </p>
 
 <!--more-->
@@ -25,7 +25,7 @@ categories:
 
 <blockquote style="text-align: justify;">
   <p>
-    “<em>Olá, queria algumas dicas: quero trocar o sofá da minha casa e queria saber a melhor cor…</em>”
+    “_Olá, queria algumas dicas: quero trocar o sofá da minha casa e queria saber a melhor cor…_”
   </p>
   
   <p>
@@ -34,11 +34,11 @@ categories:
 </blockquote>
 
 <p style="text-align: justify;">
-  Tratei de colocar os pingos nos “ís”, explicando a Katy que não sou decoradora, e nem quero vender “gato por lebre, mas expliquei que estava disposta a ajudá-la com <em>pitacos</em>. Por que não?!
+  Tratei de colocar os pingos nos “ís”, explicando a Katy que não sou decoradora, e nem quero vender “gato por lebre, mas expliquei que estava disposta a ajudá-la com _pitacos_. Por que não?!
 </p>
 
 > <p style="text-align: justify;">
->   “<em>Oi, Katy! Antes de mais nada, deixa eu te alertar quanto a algo muito importante: eu não sou decoradora, certo? Eu não tenho qualquer formação na área. Sou amadora, amadora mesmo. No máximo, gosto de ver sites e revistas de decoração. Se ainda assim você quiser alguma dica/consideração sobre sua sala, sugiro que você me envie uma foto da sua sala, mostrando esses detalhes que você citou no comentário. Eu posso tentar reunir algumas imagens que possam servir de inspiração para você, e pedir pitacos das outras leitoras do blog. Se eu conseguir montar esse post, eu te aviso. Se quiser mandar fotos, o e-mail é: trololomulher</em><a href="mailto:bichafemea@trololodemulher.com.br"><em>@gmail.com</em></a><em> | Beijos, Lidi</em>”
+>   “_Oi, Katy! Antes de mais nada, deixa eu te alertar quanto a algo muito importante: eu não sou decoradora, certo? Eu não tenho qualquer formação na área. Sou amadora, amadora mesmo. No máximo, gosto de ver sites e revistas de decoração. Se ainda assim você quiser alguma dica/consideração sobre sua sala, sugiro que você me envie uma foto da sua sala, mostrando esses detalhes que você citou no comentário. Eu posso tentar reunir algumas imagens que possam servir de inspiração para você, e pedir pitacos das outras leitoras do blog. Se eu conseguir montar esse post, eu te aviso. Se quiser mandar fotos, o e-mail é: trololomulher_<a href="mailto:bichafemea@trololodemulher.com.br">_@gmail.com_</a>_ | Beijos, Lidi_”
 > </p>
 
 <p style="text-align: justify;">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">O sofá…</span></em>**
+  **_<span style="font-size: medium;">O sofá…</span>_**
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <em>Imagem via</em> <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a><em> </em>
+  _Imagem via_ [Better Homes and Gardens](http://www.bhg.com/) _ _
 </p>
 
 <p style="text-align: justify;">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">O tapete…</span></em>**
+  **_<span style="font-size: medium;">O tapete…</span>_**
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <em>Imagem via </em><a href="http://www.countryliving.com/" target="_blank"><em>Country Living</em></a>
+  _Imagem via _[_Country Living_](http://www.countryliving.com/) 
 </p>
 
 <p style="text-align: justify;">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Indo um pouco mais além do sofá + tapete…</span></em>**
+  **_<span style="font-size: medium;">Indo um pouco mais além do sofá + tapete…</span>_**
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  Imagem via <a href="http://www.myhomeideas.com/" target="_blank">myhomeideas</a>
+  Imagem via [myhomeideas](http://www.myhomeideas.com/) 
 </p>
 
 <p style="text-align: justify;">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank">Amarelo na decoração: como usar?</a>
+  [Amarelo na decoração: como usar?](http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/) 
 </p>
 
 <p style="text-align: justify;">
@@ -130,11 +130,11 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
 </p>
 
 **_ _**

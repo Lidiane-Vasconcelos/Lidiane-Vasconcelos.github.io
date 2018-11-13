@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank">**Aromatizador de ambientes: como fazer?**</a>
+  [**Aromatizador de ambientes: como fazer?**](http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/) 
 </p>
 
 &nbsp;
@@ -53,7 +53,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   Tem dias em que a gente está meio pra baixo e nem sabe o motivo, né? Quando me sinto assim, gosto de relaxar assistindo a um bom filme. Antigamente eu adorava ir ao cinema, mas há algum tempo sinto mais prazer vendo filmes em casa, que é o espaço onde fico mais aconchegada e totalmente à vontade. Vou pra sala, deixo só a luz do abajur acesa, coloco um DVD, me sirvo de uma taça de vinho e estou pronta para esquecer dos problemas e passar duas horas acompanhando uma história interessante. O ideal para esses dias é escolher uma comédia ou um romance bem água com açúcar. **Katia Bonfadini | <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a>**
+>   Tem dias em que a gente está meio pra baixo e nem sabe o motivo, né? Quando me sinto assim, gosto de relaxar assistindo a um bom filme. Antigamente eu adorava ir ao cinema, mas há algum tempo sinto mais prazer vendo filmes em casa, que é o espaço onde fico mais aconchegada e totalmente à vontade. Vou pra sala, deixo só a luz do abajur acesa, coloco um DVD, me sirvo de uma taça de vinho e estou pronta para esquecer dos problemas e passar duas horas acompanhando uma história interessante. O ideal para esses dias é escolher uma comédia ou um romance bem água com açúcar. **Katia Bonfadini | [Casos e Coisas da Bonfa](http://casosecoisasdabonfa.blogspot.com.br/) **
 > </p>
 
 &nbsp;
@@ -65,7 +65,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   Vou dizer uma que uso comigo mesma&#8230; sorrir sempre!!! Eu acredito muito na força do sorriso. Acho que ele muda nosso astral, atrai energia positiva, contagia quem está em volta e passa aos outros uma boa sensação. Sorrio sempre, por mim e por quem está em volta. Afinal, quem está por perto também tem influência sobre minha vida, certo?! Se elas estão felizes, estou feliz também e vice-versa! **Dani Moreno | **<a href="http://danimoreno.com.br/" target="_blank">**Moça de Família**</a>
+>   Vou dizer uma que uso comigo mesma&#8230; sorrir sempre!!! Eu acredito muito na força do sorriso. Acho que ele muda nosso astral, atrai energia positiva, contagia quem está em volta e passa aos outros uma boa sensação. Sorrio sempre, por mim e por quem está em volta. Afinal, quem está por perto também tem influência sobre minha vida, certo?! Se elas estão felizes, estou feliz também e vice-versa! **Dani Moreno | **[**Moça de Família**](http://danimoreno.com.br/) 
 > </p>
 
 &nbsp;
@@ -77,7 +77,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   Bastou eu sentir que estou ficando desanimada que trato logoooo de me maquiar, fazer penteado e usar batom coloridao! Isso me superanima e na rua é visível como os outros notam e elogiam. É fato, podem testar, mas tenha força de vontade e corra pro espelho. E lembre-se: batom vermelho tem poder!!! **<a href="http://www.danigarlet.com.br/" target="_blank">Dani Garlet</a>**
+>   Bastou eu sentir que estou ficando desanimada que trato logoooo de me maquiar, fazer penteado e usar batom coloridao! Isso me superanima e na rua é visível como os outros notam e elogiam. É fato, podem testar, mas tenha força de vontade e corra pro espelho. E lembre-se: batom vermelho tem poder!!! **[Dani Garlet](http://www.danigarlet.com.br/) **
 > </p>
 
 &nbsp;
@@ -89,7 +89,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   Sempre que pensar alguma coisa ruim faça uma substituição do seu pensamento. Pense em coisas legais, lugares que você gostaria de conhecer, pessoas que você gostaria de abraçar. Não permita que pensamentos ruins comandem sua cabeça. E pense sorrindo, pense em qualquer coisa que te deixe feliz. No inicio parece dificil, mas depois fica quase que automático e assim nosso dia a dia começa a ser bem melhor. **Margaret | <a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**
+>   Sempre que pensar alguma coisa ruim faça uma substituição do seu pensamento. Pense em coisas legais, lugares que você gostaria de conhecer, pessoas que você gostaria de abraçar. Não permita que pensamentos ruins comandem sua cabeça. E pense sorrindo, pense em qualquer coisa que te deixe feliz. No inicio parece dificil, mas depois fica quase que automático e assim nosso dia a dia começa a ser bem melhor. **Margaret | [Margaretss](http://www.margaretss.com.br/) **
 > </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Viu, bonita? Agora escolha um dos caminhos para você se sentir melhor e corra atrás do prejuízo. A ideia do post é fazer com que você “sacuda a poeira e dê a volta por cima”. Há jeito pra tudo e sempre é hora de recomeçar. Força na peruca, olha pra frente e segue. <em>Bora</em>?
+  Viu, bonita? Agora escolha um dos caminhos para você se sentir melhor e corra atrás do prejuízo. A ideia do post é fazer com que você “sacuda a poeira e dê a volta por cima”. Há jeito pra tudo e sempre é hora de recomeçar. Força na peruca, olha pra frente e segue. _Bora_?
 </p>
 
 <p align="justify">
@@ -107,17 +107,17 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/15/sonhos/" target="_blank">**O ano já já acaba… e seus sonhos, aonde foram parar?**</a>
+  [**O ano já já acaba… e seus sonhos, aonde foram parar?**](http://www.trololodemulher.com.br/2014/08/15/sonhos/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagens: [freeimages](http://www.freeimages.com/) 
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

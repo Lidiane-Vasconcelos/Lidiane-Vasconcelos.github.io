@@ -118,23 +118,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank">**Filé de Saint Peter enroladinho no aspargo e salada de lentilha**</a>
+  [**Filé de Saint Peter enroladinho no aspargo e salada de lentilha**](http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank">**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**</a>
+  [**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**](http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank">**Risoto com arroz comum, mas integral, com aspargos**</a>
+  [**Risoto com arroz comum, mas integral, com aspargos**](http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

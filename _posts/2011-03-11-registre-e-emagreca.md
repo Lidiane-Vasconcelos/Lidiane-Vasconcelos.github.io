@@ -47,7 +47,7 @@ categories:
   O que acha de começar a construir o seu? Acrescente o que desejar e mãos a obra!
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 <table border="0" width="600" cellspacing="0" cellpadding="0">
   <tr>
@@ -56,7 +56,7 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
     </td>
     
     <td valign="top" width="300">
-      <em> </em><em>Psicóloga e especialista em Transtornos Alimentares, **Luciana Kotaka** desenvolve seus trabalhos há mais de 14 anos, sendo referência nesta área por realizar atividades focadas em tratamentos que envolvam a relação direta entre o distúrbio do peso e a psicologia. Luciana Kotaka edita o site <a href="http://lucianakotaka.com.br/"><em>Comportamento Magro</em></a><em>.</em></em>
+      _ __Psicóloga e especialista em Transtornos Alimentares, **Luciana Kotaka** desenvolve seus trabalhos há mais de 14 anos, sendo referência nesta área por realizar atividades focadas em tratamentos que envolvam a relação direta entre o distúrbio do peso e a psicologia. Luciana Kotaka edita o site <a href="http://lucianakotaka.com.br/">_Comportamento Magro_</a>_.__
     </td>
   </tr>
 </table>
@@ -64,5 +64,5 @@ _Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

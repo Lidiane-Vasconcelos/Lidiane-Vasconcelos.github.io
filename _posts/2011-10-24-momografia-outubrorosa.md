@@ -33,7 +33,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando eu vi os vídeos produzidos pela **<a href="http://www.femama.org.br/novo/index.php" target="_blank">FEMAMA</a>** sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
+  Quando eu vi os vídeos produzidos pela **[FEMAMA](http://www.femama.org.br/novo/index.php) ** sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
 </p>
 
 
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta **<a href="http://www.femama.org.br/novo/cancer-mama.php?menu=can" target="_blank">página da FEMEMA</a> **onde há informações simples e diretas sobre **o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.** Faça isso, bonita!
+  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta **[página da FEMEMA](http://www.femama.org.br/novo/cancer-mama.php?menu=can)  **onde há informações simples e diretas sobre **o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.** Faça isso, bonita!
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  Eu consegui convencer somente uma mulher, a mais importante de minha vida… isso, por si só, foi uma conquista <em>pra</em> lá de boa… vai por mim!
+  Eu consegui convencer somente uma mulher, a mais importante de minha vida… isso, por si só, foi uma conquista _pra_ lá de boa… vai por mim!
 </p>
 
 <p align="justify">
@@ -61,5 +61,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

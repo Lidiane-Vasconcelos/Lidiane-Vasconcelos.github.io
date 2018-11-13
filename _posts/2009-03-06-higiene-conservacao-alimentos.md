@@ -11,7 +11,7 @@ categories:
 ---
 Comer fora de casa realmente aumenta os riscos de a gente ser premiado com um mal estar. Mas, sem querer, a gente pode, dentro de casa, facilitar a contaminação dos alimentos e ficar muito mal também. E é porque acho que informação nunca será demais no sentido de garantir uma alimentação boa, saudável e muito bem cuidada, que trouxe umas dicas para serem divididas por aqui.
 
-Lendo uma matéria no site “<a href="http://www.atmosferafeminina.com.br/" target="_blank">atmosfera feminina</a>” revisei a lição de casa da boa higiene e conservação dos alimentos. _Bora_ rever juntas????[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00184.gif)
+Lendo uma matéria no site “[atmosfera feminina](http://www.atmosferafeminina.com.br/) ” revisei a lição de casa da boa higiene e conservação dos alimentos. _Bora_ rever juntas????[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image00184.gif)
 
 1 – Carnes e ovos são o tipo de alimento onde a bactéria _Salmonella_ é mais abundante. Então, precisamos cozinhar bem as carnes bovina e de aves, e nada de ovo com gema mole, hein?[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image001104.gif)
 

@@ -52,13 +52,13 @@ Pimenta moída na hora a gosto;
 **Modo de preparo:**
 
 <p align="justify">
-  <em>“Corte as berinjelas e leve ao microondas até que fiquem amolecidas. Coloque 3 minutos, depois mais 3 e assim por diante. Reserve. Em uma panela, coloque a cebola e deixe murchar. Como não tem óleo, se precisar é só acrescentar gotinhas de água. Coloque o alho e a carne. Deixe selar muito bem a carne, depois acrescente os tomates e desmanche-os com uma colher. Acrescente o vinho, as folhas de louro, o manjericão, cominho, sal e pimenta moída na hora. Deixe apurar bem.”</em>
+  _“Corte as berinjelas e leve ao microondas até que fiquem amolecidas. Coloque 3 minutos, depois mais 3 e assim por diante. Reserve. Em uma panela, coloque a cebola e deixe murchar. Como não tem óleo, se precisar é só acrescentar gotinhas de água. Coloque o alho e a carne. Deixe selar muito bem a carne, depois acrescente os tomates e desmanche-os com uma colher. Acrescente o vinho, as folhas de louro, o manjericão, cominho, sal e pimenta moída na hora. Deixe apurar bem.”_
 </p>
 
 **Montagem:**
 
 <p align="justify">
-  <em>“Coloque um pouco de molho no refratário, forre com as fatias de berinjela, depois o molho, as fatias de muçarela. Faça camadas até que termine os ingredientes. Deve sempre acabar com o queijo. Leve ao forno em 180 graus até que tudo fique incorporado e o queijo derretido</em>.”
+  _“Coloque um pouco de molho no refratário, forre com as fatias de berinjela, depois o molho, as fatias de muçarela. Faça camadas até que termine os ingredientes. Deve sempre acabar com o queijo. Leve ao forno em 180 graus até que tudo fique incorporado e o queijo derretido_.”
 </p>
 
 <p align="center">
@@ -70,23 +70,23 @@ Pimenta moída na hora a gosto;
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/13/peixe-assado/" target="_blank">**Peixe assado ao molho de abóbora.**</a>
+  [**Peixe assado ao molho de abóbora.**](http://www.trololodemulher.com.br/2016/01/13/peixe-assado/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/" target="_blank">**Bolo de Chocolate Funcional.**</a>
+  [**Bolo de Chocolate Funcional.**](http://www.trololodemulher.com.br/2015/11/25/bolo-de-chocolate/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/" target="_blank">**Beijinho sem leite condensado.**</a>
+  [**Beijinho sem leite condensado.**](http://www.trololodemulher.com.br/2015/11/11/beijinho-sem-leite-condensado/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

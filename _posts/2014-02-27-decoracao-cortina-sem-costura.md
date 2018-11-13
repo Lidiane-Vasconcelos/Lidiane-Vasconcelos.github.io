@@ -32,7 +32,7 @@ categories:
 
 &nbsp;
 
-Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>_**
+Imagem: **_[Better Homes and Gardens](http://www.bhg.com/) _**
 
 &nbsp;
 
@@ -45,11 +45,11 @@ Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Garden
 </p>
 
 <p align="center">
-  **<a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span></a>**
+  **[<span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span>](http://www.decoracaodacasa.com/cortinas-ideias-decoracao/) **
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

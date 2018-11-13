@@ -12,7 +12,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Ao contrário do que poderíamos imaginar, embora a **<a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">educação em terras finlandesas</a>** seja exemplo de excelência, o **bullying na Finlândia** também é um problema a ser tratado. Não há novidade sobre as consequências devastadoras que podem ocorrer em pessoas que sofrem bullying, e o quanto essa questão social tem se tornado cada vez mais crescente. Medo ou falta de vontade de ir a escola, desejo de abandonar os estudos ou baixo rendimento são danos causados por esse mau, só para citar alguns.
+  Ao contrário do que poderíamos imaginar, embora a **[educação em terras finlandesas](http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/) ** seja exemplo de excelência, o **bullying na Finlândia** também é um problema a ser tratado. Não há novidade sobre as consequências devastadoras que podem ocorrer em pessoas que sofrem bullying, e o quanto essa questão social tem se tornado cada vez mais crescente. Medo ou falta de vontade de ir a escola, desejo de abandonar os estudos ou baixo rendimento são danos causados por esse mau, só para citar alguns.
 </p>
 
 <p align="justify">
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://foter.com/re/0a5d53" target="_blank">Foter.com</a>
+  Via [Foter.com](http://foter.com/re/0a5d53) 
 </p>
 
 <p align="justify">
@@ -68,23 +68,23 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/" target="_blank">Verdades pouco conhecidas sobre a mulher finlandesa.</a>**
+  **[Verdades pouco conhecidas sobre a mulher finlandesa.](http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2016/05/31/finlandia-3/" target="_blank">O que você não sabia sobre a cultura popular na Finlândia.</a>**
+  **[O que você não sabia sobre a cultura popular na Finlândia.](http://www.trololodemulher.com.br/2016/05/31/finlandia-3/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/" target="_blank">Casar e morar na Finlândia: o amor colocado à prova.</a>**
+  **[Casar e morar na Finlândia: o amor colocado à prova.](http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/) **
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca/timeline)  Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

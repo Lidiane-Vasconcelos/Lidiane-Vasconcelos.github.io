@@ -9,7 +9,7 @@ permalink: /2009/04/09/convidada-raissa-beleza/
 categories:
   - Beleza
 ---
-**_Por Raissa – <a href="http://queroenfeitarvoce.blogspot.com/" target="_blank">quero enfeitar você</a>_**
+**_Por Raissa – [quero enfeitar você](http://queroenfeitarvoce.blogspot.com/) _**
 
 Para aproveitar da melhor maneira possível esse feriadão da semana santa que termina com a Páscoa, que tal tirar um tempinho para cuidar da pessoa mais importante da sua vida? Você. Um dia já basta, e eu desafio você a fazer o que vou propor e depois contar como foi, mas tem que contar mesmo, ok?
 
@@ -39,7 +39,7 @@ Depois do almoço você pode tirar uma sonequinha, minha mãe costuma chamar de 
 
 Primeiro, faça todo um ritual no banheiro para que você possa aproveitar bem. Coloque velas, flores, incenso, uma música agradável para tocar&#8230; enfim, o que faz bem à você.
 
-Lave os cabelos e faça uma **hidratação** bem caprichada, com calma, massageando mecha por mecha e depois o couro cabeludo. Todas nós sabemos que babosa, manteiga de karité, cápsulas de vitaminas e milhões de outros ingredientes são bons para hidratar o cabelo, você pode usar hidratantes reconhecidos, de marcas boas ou essa receita simples e diferente que eu pretendo fazer quando comprar o que for preciso, que é: **Bepantol Líquido** (só tenho a pomada, não use a pomada no cabelo) e um hidratante de sua preferência. Misture uma tampinha do Bepantol com o hidratante e coloque nos cabelos, dizem que restaura bem, imagino que sim, afinal o Bepantol nada mais é do que a vitamina B5. <a href="http://bulledebeaute.wordpress.com/2008/10/09/bepantol-nos-cabelos/" target="_blank">Nesse post</a> da Renata do <a href="http://bulledebeaute.wordpress.com/" target="_blank">Bulle de Beauté</a> tem tudo bem explicadinho, vale dar uma conferida.
+Lave os cabelos e faça uma **hidratação** bem caprichada, com calma, massageando mecha por mecha e depois o couro cabeludo. Todas nós sabemos que babosa, manteiga de karité, cápsulas de vitaminas e milhões de outros ingredientes são bons para hidratar o cabelo, você pode usar hidratantes reconhecidos, de marcas boas ou essa receita simples e diferente que eu pretendo fazer quando comprar o que for preciso, que é: **Bepantol Líquido** (só tenho a pomada, não use a pomada no cabelo) e um hidratante de sua preferência. Misture uma tampinha do Bepantol com o hidratante e coloque nos cabelos, dizem que restaura bem, imagino que sim, afinal o Bepantol nada mais é do que a vitamina B5. [Nesse post](http://bulledebeaute.wordpress.com/2008/10/09/bepantol-nos-cabelos/)  da Renata do [Bulle de Beauté](http://bulledebeaute.wordpress.com/)  tem tudo bem explicadinho, vale dar uma conferida.
 
 Bom, enquanto o hidratante age nos cabelos, vamos fazer uma **esfoliação** no corpo, o que é muito importante para tirar as células mortas e dar uma aparência mais saudável para a pele. Atualmente tou usando um esfoliante de camomila, que comprei numa loja de essências, mas novamente, você pode usar um que já vem prontinho ou fazer, os mesmos que indiquei para o rosto podem ser usados no corpo (o que não pode é o contrário). Então jogue açúcar no corpo molhado e esfolie de forma gentil, para que a pele fique macia e não irritada. Você vai ficar doce, **doce**. [<img style="display: inline;" title="clip_image001[4]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image0014-thumb6.gif" alt="clip_image001[4]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00147.gif)
 
@@ -59,7 +59,7 @@ _
 
 Obrigada pelo convite Lidi, beijos
 
-<a href="http://queroenfeitarvoce.blogspot.com/" target="_blank">Raissa</a>.
+[Raissa](http://queroenfeitarvoce.blogspot.com/) .
 
 **Quer ver mais dicas de coisas que você mesma pode fazer por sua beleza?**
 

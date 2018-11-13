@@ -24,11 +24,11 @@ categories:
 </p>
 
 > <p align="justify">
->   **“<em>Gostaria de um pitaco, estou reformando a minha cozinha e quero revestir somente a área molhada, só que fiquei na dúvida até que altura devo colocar o revestimento. Vc pode me ajudar?”</em>**
+>   **“_Gostaria de um pitaco, estou reformando a minha cozinha e quero revestir somente a área molhada, só que fiquei na dúvida até que altura devo colocar o revestimento. Vc pode me ajudar?”_**
 > </p>
 
 <p align="justify">
-  Essa é uma dúvida que você tem também? Pois agora chegou o momento de eliminá-la. Quem dá as orientações básicas para a gente sobre isso é a **Carol Carneiro**, que é de **Belo Horizonte** e atua como **<em>Designer</em> de Ambientes**, além de produzir trabalhos manuais, uma de suas paixões. Editora do **<a href="http://www.blogcarolcarneiro.blogspot.com/" target="_blank">blog que leva seu nome</a>**, ela responde a esse tipo de questionamento explicando que, de fato, **é possível fazer o revestimento parcial da cozinha, isto é: acima da bancada da pia (entre a bancada e o armário alto) em toda extensão, e atrás do fogão.** Segundo a <em>designer</em>, “<em>estes são locais onde são indispensáveis o uso de revestimentos como azulejo, madeira, vidro, ladrilhos hidráulicos (um tipo de cerâmica), dentre outros</em>”.
+  Essa é uma dúvida que você tem também? Pois agora chegou o momento de eliminá-la. Quem dá as orientações básicas para a gente sobre isso é a **Carol Carneiro**, que é de **Belo Horizonte** e atua como **_Designer_ de Ambientes**, além de produzir trabalhos manuais, uma de suas paixões. Editora do **[blog que leva seu nome](http://www.blogcarolcarneiro.blogspot.com/) **, ela responde a esse tipo de questionamento explicando que, de fato, **é possível fazer o revestimento parcial da cozinha, isto é: acima da bancada da pia (entre a bancada e o armário alto) em toda extensão, e atrás do fogão.** Segundo a _designer_, “_estes são locais onde são indispensáveis o uso de revestimentos como azulejo, madeira, vidro, ladrilhos hidráulicos (um tipo de cerâmica), dentre outros_”.
 </p>
 
 <p align="justify">
@@ -36,15 +36,15 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Caso ela não tenha armário alto suspenso sugiro fazer uma &#8220;rodabanca&#8221; (= faixa) de aproximadamente 50cm de altura pela extensão da bancada com os mesmos revestimentos citados.”</em>**
+>   **_“Caso ela não tenha armário alto suspenso sugiro fazer uma &#8220;rodabanca&#8221; (= faixa) de aproximadamente 50cm de altura pela extensão da bancada com os mesmos revestimentos citados.”_**
 > </p>
 
 <p align="justify">
-  Para quem gosta de **cores na cozinha**, **Carol** sugere os **ladrilhos hidráulicos ou pastilhas de “vidrotil” de cores e desenhos variados**. Para facilitar a limpeza, a orientação é a seguinte: <em>“placas de vidro laqueado (tem várias opções de cores) são muito bem vindas também, pois quanto mais liso for o revestimento, mais fácil será a limpeza daquela área e não vai acumular resíduos e sujeiras. Além disso, dará um toque chiquérrimo à sua cozinha”</em>. Para finalizar, **Carol** sugere o uso de tinta acrílica da **<a href="http://www.suvinil.com.br/" target="_blank">Suvinil</a>** para a pintura do resto da cozinha, pois ela <em>“apresenta característica lavável, permitindo o uso de bucha na limpeza, o cheiro não é forte e é uma solução mais em conta”.</em>
+  Para quem gosta de **cores na cozinha**, **Carol** sugere os **ladrilhos hidráulicos ou pastilhas de “vidrotil” de cores e desenhos variados**. Para facilitar a limpeza, a orientação é a seguinte: _“placas de vidro laqueado (tem várias opções de cores) são muito bem vindas também, pois quanto mais liso for o revestimento, mais fácil será a limpeza daquela área e não vai acumular resíduos e sujeiras. Além disso, dará um toque chiquérrimo à sua cozinha”_. Para finalizar, **Carol** sugere o uso de tinta acrílica da **[Suvinil](http://www.suvinil.com.br/) ** para a pintura do resto da cozinha, pois ela _“apresenta característica lavável, permitindo o uso de bucha na limpeza, o cheiro não é forte e é uma solução mais em conta”._
 </p>
 
 <p align="center">
-  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cozinha.jpg"><img class="alignnone size-full wp-image-6673" title="cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cozinha.jpg" alt="" width="600" height="512" /></a><br /> **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**</em>
+  _[stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cozinha.jpg"><img class="alignnone size-full wp-image-6673" title="cozinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/cozinha.jpg" alt="" width="600" height="512" /></a><br /> **<a href="http://www.sxc.hu/) **_
 </p>
 
 <p align="justify">
@@ -52,25 +52,25 @@ categories:
 </p>
 
 > <p align="justify">
->   **“<em>Gostaria de sugerir também um post sobre esses novos revestimentos que podem ser colocados em cima dos antigos. Não sei se é por causa da argamassa ou do piso mesmo mas é muito interessante, né? bjus</em>”**
+>   **“_Gostaria de sugerir também um post sobre esses novos revestimentos que podem ser colocados em cima dos antigos. Não sei se é por causa da argamassa ou do piso mesmo mas é muito interessante, né? bjus_”**
 > </p>
 
 <p align="justify">
-  Sim! Concordo com a **Gleici.** Parece ser uma opção bastante interessante. Já pensou trocar o piso da cozinha sem precisar quebrar tudo? Curiosa para saber do que se tratava, consultei a **Arquiteta e Decoradora de São Paulo, Larissa Lieders**. Ela edita o blog &#8211;  **<a href="http://fuimorarnumacasinha.blogspot.com/" target="_blank">Fui morar numa casinha…</a>** &#8211;  e, gentilmente, explicou do que se trata:
+  Sim! Concordo com a **Gleici.** Parece ser uma opção bastante interessante. Já pensou trocar o piso da cozinha sem precisar quebrar tudo? Curiosa para saber do que se tratava, consultei a **Arquiteta e Decoradora de São Paulo, Larissa Lieders**. Ela edita o blog &#8211;  **[Fui morar numa casinha…](http://fuimorarnumacasinha.blogspot.com/) ** &#8211;  e, gentilmente, explicou do que se trata:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **“<em>Acho que vocês estão se referindo ao porcelanato. São peças com uma espessura menor do que o padrão, que possibilita o assentamento sobre o piso existente sem ter interferência nas portas, soleiras, etc. Para isso é preciso avaliar o desnível entre a sala e a cozinha, para o piso da cozinha não ficar mais alto que o da sala, também se não existe problema de umidade abaixo do piso existente e ele tem que ter sido assentado nivelado</em>.”**
+>   **“_Acho que vocês estão se referindo ao porcelanato. São peças com uma espessura menor do que o padrão, que possibilita o assentamento sobre o piso existente sem ter interferência nas portas, soleiras, etc. Para isso é preciso avaliar o desnível entre a sala e a cozinha, para o piso da cozinha não ficar mais alto que o da sala, também se não existe problema de umidade abaixo do piso existente e ele tem que ter sido assentado nivelado_.”**
 > </p>
 
 <p align="justify">
-  A **Larissa** conheceu, pessoalmente, esse tipo de produto. Ela foi ao <em>showroom</em> da **Portobello**, marca que eu mesma já usei aqui em casa e aprovo <em>comtodasasforçasdomeuser</em>, mas essa novidade ainda não foi usada por ela nas obras que cuida.
+  A **Larissa** conheceu, pessoalmente, esse tipo de produto. Ela foi ao _showroom_ da **Portobello**, marca que eu mesma já usei aqui em casa e aprovo _comtodasasforçasdomeuser_, mas essa novidade ainda não foi usada por ela nas obras que cuida.
 </p>
 
 <p align="justify">
-  Entretanto, ao que tudo indica, esse parece mesmo ser um produto promissor. De acordo com a **<a href="http://www.portobello.com.br/" target="_blank">Portobello</a>**, o **Extra Fino** é um tipo de porcelanato com apenas **4,7mm** de espessura, e pode ser assentado sobre piso e parede. Os avanços tecnológicos permitiram a combinação de redução da espessura e performance de resistência, resultando num produto que tem vantagens como **evitar a quebra e o entulho, além da possibilidade de ser assentado em diferentes bases. **Não parece perfeito para acalmar um pouco do estresse que toda construção e reforma gera? … Ô!
+  Entretanto, ao que tudo indica, esse parece mesmo ser um produto promissor. De acordo com a **[Portobello](http://www.portobello.com.br/) **, o **Extra Fino** é um tipo de porcelanato com apenas **4,7mm** de espessura, e pode ser assentado sobre piso e parede. Os avanços tecnológicos permitiram a combinação de redução da espessura e performance de resistência, resultando num produto que tem vantagens como **evitar a quebra e o entulho, além da possibilidade de ser assentado em diferentes bases. **Não parece perfeito para acalmar um pouco do estresse que toda construção e reforma gera? … Ô!
 </p>
 
 <p align="justify">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

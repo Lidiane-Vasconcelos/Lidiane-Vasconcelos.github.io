@@ -9,7 +9,7 @@ permalink: /2011/07/19/natura-sorteio/
 categories:
   - Publieditorial
 ---
-Quando se fala em **<a href="http://scf.natura.net/Default.aspx" target="_blank">Natura</a>** entre mulheres, a marca dispensa apresentação, não é? Poucas empresas de cosméticos têm a nossa confiança como ela, e isso não surgiu do nada, do dia para a noite…vamos combinar?
+Quando se fala em **[Natura](http://scf.natura.net/Default.aspx) ** entre mulheres, a marca dispensa apresentação, não é? Poucas empresas de cosméticos têm a nossa confiança como ela, e isso não surgiu do nada, do dia para a noite…vamos combinar?
 
 &nbsp;
 
@@ -20,7 +20,7 @@ Quando se fala em **<a href="http://scf.natura.net/Default.aspx" target="_blank"
 <!--more-->
 
 <p align="justify">
-  Bonita, eu vi de perto e você também precisa ver como **está linda essa linha de produtos, com embalagens sofisticadas e com focos diferenciados por tipo de pele**. É a qualidade **Natura** que conhecemos com visual ainda mais atrativo aos nossos olhinhos que, <em>cá ´pra nós</em>, faz sim um boa diferença, <em>hã</em>?
+  Bonita, eu vi de perto e você também precisa ver como **está linda essa linha de produtos, com embalagens sofisticadas e com focos diferenciados por tipo de pele**. É a qualidade **Natura** que conhecemos com visual ainda mais atrativo aos nossos olhinhos que, _cá ´pra nós_, faz sim um boa diferença, _hã_?
 </p>
 
 <p align="justify">
@@ -30,15 +30,15 @@ Quando se fala em **<a href="http://scf.natura.net/Default.aspx" target="_blank"
 &nbsp;
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Espuma-de-Limpeza-Refrescante.jpg"><img class="alignnone size-full wp-image-6643" title="Espuma de Limpeza Refrescante" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Espuma-de-Limpeza-Refrescante.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/espuma-de-limpeza-refrescante" target="_blank">Espuma de Limpeza Refrescante</a>**
+  **[Espuma de Limpeza Refrescante](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Espuma-de-Limpeza-Refrescante.jpg"><img class="alignnone size-full wp-image-6643" title="Espuma de Limpeza Refrescante" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Espuma-de-Limpeza-Refrescante.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/espuma-de-limpeza-refrescante) **
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg"><img class="alignnone size-full wp-image-6649" title="Sabonete Gel Limpeza Intensiva" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/sabonete-gel-limpeza-intensiva" target="_blank">Sabonete Gel Limpeza Intensiva</a>**
+  **[Sabonete Gel Limpeza Intensiva](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg"><img class="alignnone size-full wp-image-6649" title="Sabonete Gel Limpeza Intensiva" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Sabonete-Gel-Limpeza-Intensiva.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/sabonete-gel-limpeza-intensiva) **
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Adstringente-Reguladora.jpg"><img class="alignnone size-full wp-image-6644" title="Loção Adstringente Reguladora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Adstringente-Reguladora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-adstringente-reguladora" target="_blank">Loção Adstringente Reguladora</a>**
+  **[Loção Adstringente Reguladora](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Adstringente-Reguladora.jpg"><img class="alignnone size-full wp-image-6644" title="Loção Adstringente Reguladora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Adstringente-Reguladora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-adstringente-reguladora) **
 </p>
 
 &nbsp;
@@ -48,11 +48,11 @@ Já as **peles Normais a Secas** podem ser tratadas pelos seguintes produtos: **
 &nbsp;
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Emulsao-Cremosa-de-Limpeza.jpg"><img class="alignnone size-full wp-image-6642" title="Emulsão Cremosa de Limpeza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Emulsao-Cremosa-de-Limpeza.jpg" alt="" width="326" height="326" /><br /> </a><a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/emulsao-cremosa-de-limpeza" target="_blank">Emulsão Cremosa de Limpeza</a>**
+  **[Emulsão Cremosa de Limpeza](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Emulsao-Cremosa-de-Limpeza.jpg"><img class="alignnone size-full wp-image-6642" title="Emulsão Cremosa de Limpeza" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Emulsao-Cremosa-de-Limpeza.jpg" alt="" width="326" height="326" /><br /> </a><a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/emulsao-cremosa-de-limpeza) **
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Tonica-Protetora.jpg"><img class="alignnone size-full wp-image-6645" title="Loção Tônica Protetora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Tonica-Protetora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-tonica-protetora" target="_blank">Loção Tônica Protetora</a>**
+  **[Loção Tônica Protetora](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Tonica-Protetora.jpg"><img class="alignnone size-full wp-image-6645" title="Loção Tônica Protetora" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/Locao-Tonica-Protetora.jpg" alt="" width="326" height="326" /></a><br /> <a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/locao-tonica-protetora) **
 </p>
 
 &nbsp;
@@ -66,7 +66,7 @@ Para a **esfoliação intensa** o **produto a ser usado é o mesmo para todos os
 </p>
 
 <p align="center">
-  **<a href="http://scf.natura.net/produtos/natura-chronos/tratamento-basico/creme-microesfoliante-purificante" target="_blank">Creme Microesfoliante Purificante</a>**
+  **[Creme Microesfoliante Purificante](http://scf.natura.net/produtos/natura-chronos/tratamento-basico/creme-microesfoliante-purificante) **
 </p>
 
 &nbsp;
@@ -106,17 +106,17 @@ Para a **esfoliação intensa** o **produto a ser usado é o mesmo para todos os
 &nbsp;
 
 <p align="center">
-  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p align="center">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p align="center">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

@@ -20,7 +20,7 @@ Para a **Pauline Costa**, nossa consultora de beleza, isso já é um hábito de 
 <!--more-->
 
 > <p align="justify">
->   “<em>Meu tempo vale ouro. Além de ter que investir um dinheirinho a mais, é preciso também de um tempo a mais para ir ao salão, então prefiro comprar e fazer em casa. Há tantas opções boas no mercado, inclusive de marcas que são vendidas nos próprios salões de beleza, e deixam o cabelo lindo, brilhoso e hidratado em dois toques</em>.”
+>   “_Meu tempo vale ouro. Além de ter que investir um dinheirinho a mais, é preciso também de um tempo a mais para ir ao salão, então prefiro comprar e fazer em casa. Há tantas opções boas no mercado, inclusive de marcas que são vendidas nos próprios salões de beleza, e deixam o cabelo lindo, brilhoso e hidratado em dois toques_.”
 > </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ Para a **Pauline Costa**, nossa consultora de beleza, isso já é um hábito de 
 &nbsp;
 
 > <p align="justify">
->   “<em>A dica principal é: FREQUÊNCIA. Hidrate uma vez por semana, seja com uma boa máscara de tratamento, ampolas, óleo de argan, etc. Eu costumo variar os produtos de uma semana para outra, mas não deixo de fazer. A manutenção é fundamental para que o cabelo não resseque. Se você ainda não faz, verá que além do resultado imediato que muitos desses produtos proporcionam, há também o resultado a longo prazo. Esse é o mais satisfatório. Se você fizer toda semana, notará bastante a diferença com o passar dos meses, tanto na aparência, quanto na textura dos fios</em>.”
+>   “_A dica principal é: FREQUÊNCIA. Hidrate uma vez por semana, seja com uma boa máscara de tratamento, ampolas, óleo de argan, etc. Eu costumo variar os produtos de uma semana para outra, mas não deixo de fazer. A manutenção é fundamental para que o cabelo não resseque. Se você ainda não faz, verá que além do resultado imediato que muitos desses produtos proporcionam, há também o resultado a longo prazo. Esse é o mais satisfatório. Se você fizer toda semana, notará bastante a diferença com o passar dos meses, tanto na aparência, quanto na textura dos fios_.”
 > </p>
 
 &nbsp;
@@ -50,19 +50,19 @@ Para a **Pauline Costa**, nossa consultora de beleza, isso já é um hábito de 
 &nbsp;
 
 > <p align="justify">
->   <em>**1 **&#8211; **<a href="http://www.desirius.com.br/produto.php?menu=2&submenu=21&t=1&lg=1" target="_blank">De Sirius &#8211; Mask Straight Control Hair</a>**: essa máscara é divina, porque além de hidratar, elimina o frizz e o volume. Ela está no topo da minha lista e está a venda em salões de beleza. Para saber onde encontrar, veja no site da marca. Como tudo que uso eu mostro no blog, tem post dele **<a href="http://cheiadecharme.blog.br/volume-reduzido-com-kera-control-de-sirius/" target="_blank">aqui</a>.**</em>
+>   _**1 **&#8211; **[De Sirius &#8211; Mask Straight Control Hair](http://www.desirius.com.br/produto.php?menu=2&submenu=21&t=1&lg=1) **: essa máscara é divina, porque além de hidratar, elimina o frizz e o volume. Ela está no topo da minha lista e está a venda em salões de beleza. Para saber onde encontrar, veja no site da marca. Como tudo que uso eu mostro no blog, tem post dele **[aqui](http://cheiadecharme.blog.br/volume-reduzido-com-kera-control-de-sirius/) .**_
 > </p>
 
 > <p align="justify">
->   <em>**2 &#8211; ** **Tratamento de Choque Niely Gold**: esse cabe em qualquer bolso e é ótimo. Pode ser encontrado no super mercado. Já fiz um **<a href="http://cheiadecharme.blog.br/creme-de-tratamento-de-choque-niely-gold-bom-e-barato/" target="_blank">post sobre ele</a>** há muito tempo atrás.</em>
+>   _**2 &#8211; ** **Tratamento de Choque Niely Gold**: esse cabe em qualquer bolso e é ótimo. Pode ser encontrado no super mercado. Já fiz um **[post sobre ele](http://cheiadecharme.blog.br/creme-de-tratamento-de-choque-niely-gold-bom-e-barato/) ** há muito tempo atrás._
 > </p>
 
 > <p align="justify">
->   <em>**3 &#8211;** **<a href="http://loja.qod.com.br/pt/Produto.aspx?ProdutoLinha=1065&Produto=1095" target="_blank">Ampolas Q5 QOD</a>**: uso para hidratar e dar brilho. Dá um bom resultado e são práticas. Cada ampola rende, para mim, 2 aplicações. O preço é bem amigo também.</em>
+>   _**3 &#8211;** **[Ampolas Q5 QOD](http://loja.qod.com.br/pt/Produto.aspx?ProdutoLinha=1065&Produto=1095) **: uso para hidratar e dar brilho. Dá um bom resultado e são práticas. Cada ampola rende, para mim, 2 aplicações. O preço é bem amigo também._
 > </p>
 
 > <p align="justify">
->   <em>**4 &#8211;** **<a href="http://www.botanytree.com.br/produtos/geleia-real-e-oliva-nutri-reparador/" target="_blank">Máscara Nutri-reparadora da Botany Tree Geléia real e oliva</a>**: os produtos da Botany geralmente podem ser encontrados no supermercado. Essa máscara hidrata super bem, tem um cheirinho gostoso e rende bastante. **<a href="http://cheiadecharme.blog.br/reconstrucao-e-vitalidade-dos-cabelos-botany-tree/" target="_blank">Post da linha</a>. **</em>
+>   _**4 &#8211;** **[Máscara Nutri-reparadora da Botany Tree Geléia real e oliva](http://www.botanytree.com.br/produtos/geleia-real-e-oliva-nutri-reparador/) **: os produtos da Botany geralmente podem ser encontrados no supermercado. Essa máscara hidrata super bem, tem um cheirinho gostoso e rende bastante. **[Post da linha](http://cheiadecharme.blog.br/reconstrucao-e-vitalidade-dos-cabelos-botany-tree/) . **_
 > </p>
 
 &nbsp;
@@ -76,7 +76,7 @@ Para a **Pauline Costa**, nossa consultora de beleza, isso já é um hábito de 
 &nbsp;
 
 <p align="justify">
-  A **Pauline** edita o blog **<a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a>**, cujo tema é beleza. Ela fala sobre o assunto de um jeito “gente da gente”, <em>viu</em>? Ela mostra um conteúdo que é resultado de uma busca por novidades em maquiagem, moda (inclusive e especialmente Moda GG), cabelos, mãos e unhas, saúde do corpo e da mente (emagrecimento saudável e bem-estar), cosméticos dermatológicos em geral. Enfim, é um blog para a mulher que tem amor próprio, se cuida e é vaidosa, mas gosta de informação com qualidade. Curtiu, <em>né?</em> Eu sabia que sim… então, <em>oh</em>: <a href="http://cheiadecharme.blog.br/" target="_blank">**clica aqui**</a> e se joga!
+  A **Pauline** edita o blog **[Cheia de Charme](http://cheiadecharme.blog.br/) **, cujo tema é beleza. Ela fala sobre o assunto de um jeito “gente da gente”, _viu_? Ela mostra um conteúdo que é resultado de uma busca por novidades em maquiagem, moda (inclusive e especialmente Moda GG), cabelos, mãos e unhas, saúde do corpo e da mente (emagrecimento saudável e bem-estar), cosméticos dermatológicos em geral. Enfim, é um blog para a mulher que tem amor próprio, se cuida e é vaidosa, mas gosta de informação com qualidade. Curtiu, _né?_ Eu sabia que sim… então, _oh_: [**clica aqui**](http://cheiadecharme.blog.br/)  e se joga!
 </p>
 
 &nbsp;
@@ -130,7 +130,7 @@ Para a **Pauline Costa**, nossa consultora de beleza, isso já é um hábito de 
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -145,13 +145,13 @@ Para a **Pauline Costa**, nossa consultora de beleza, isso já é um hábito de 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

@@ -11,7 +11,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Você está acima do seu peso ideal há bastante tempo, e não consegue perder esses quilos extras mesmo tentando tudo quanto é dieta mirabolante? Os vários métodos de emagrecimento disponíveis por aí já fazem parte do seu histórico de vida? A questão é: <span style="font-family: inherit; font-style: inherit; font-weight: inherit; line-height: 1.5;">será que não tem sido tudo “mais do mesmo”? </span>Contar calorias, contar pontos, dieta disso, dieta daquilo, <em>blá blá blá, etc. e tal. </em>Se emagrecer tem sido um desafio, já que você tentou de tudo e não viu resultado, tenho uma boa notícia: há um jeito novo de trilhar esse caminho, diferente de tudo que você já experimentou, que pode trazer os resultados esperados.
+  Você está acima do seu peso ideal há bastante tempo, e não consegue perder esses quilos extras mesmo tentando tudo quanto é dieta mirabolante? Os vários métodos de emagrecimento disponíveis por aí já fazem parte do seu histórico de vida? A questão é: <span style="font-family: inherit; font-style: inherit; font-weight: inherit; line-height: 1.5;">será que não tem sido tudo “mais do mesmo”? </span>Contar calorias, contar pontos, dieta disso, dieta daquilo, _blá blá blá, etc. e tal. _Se emagrecer tem sido um desafio, já que você tentou de tudo e não viu resultado, tenho uma boa notícia: há um jeito novo de trilhar esse caminho, diferente de tudo que você já experimentou, que pode trazer os resultados esperados.
 </p>
 
 <p align="justify">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quer ter acesso a mais informações, saber tudo <em>tim tim por tim tim</em>, e confirmar se o método é mesmo pra você? **<a href="http://hotmart.net.br/show.html?a=O3480332W&ap=440d&src=trololo" target="_blank">Clique aqui</a> **e não perca tempo!
+  Quer ter acesso a mais informações, saber tudo _tim tim por tim tim_, e confirmar se o método é mesmo pra você? **[Clique aqui](http://hotmart.net.br/show.html?a=O3480332W&ap=440d&src=trololo)  **e não perca tempo!
 </p>
 
 <p align="justify">
@@ -79,15 +79,15 @@ categories:
 </p>
 
 <p align="justify">
-  Se você é daquelas mulheres já cansadas de tentar dietas restritivas e que não têm surtido efeito, confira mais detalhes sobre esse livro e avalie o custo/benefício de comer bem, sem restrições mirabolantes e que proporcione um emagrecimento saudável. **<a href="http://hotmart.net.br/show.html?a=C3480457P&src=trololo" target="_blank">Clica aqui e se joga</a>**!
+  Se você é daquelas mulheres já cansadas de tentar dietas restritivas e que não têm surtido efeito, confira mais detalhes sobre esse livro e avalie o custo/benefício de comer bem, sem restrições mirabolantes e que proporcione um emagrecimento saudável. **[Clica aqui e se joga](http://hotmart.net.br/show.html?a=C3480457P&src=trololo) **!
 </p>
 
 <p align="justify">
-  Quer receber mais dicas e **conteúdo de qualidade** sobre emagrecimento, alimentação saudável, e desvendar os mitos sobre o que comer e fazer para Emagrecer? Então se cadastre <a href="http://corpoementeemforma.com/emagrecer-de-vez" target="_blank">AQUI</a>!
+  Quer receber mais dicas e **conteúdo de qualidade** sobre emagrecimento, alimentação saudável, e desvendar os mitos sobre o que comer e fazer para Emagrecer? Então se cadastre [AQUI](http://corpoementeemforma.com/emagrecer-de-vez) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

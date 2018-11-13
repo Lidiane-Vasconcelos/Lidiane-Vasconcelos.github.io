@@ -12,7 +12,7 @@ categories:
 Ganhar presente todo mundo gosta, não é verdade? E toda blogueira gosta mesmo é de ganhá-los via correspondência, porque o melhor de tudo é receber o famoso “pacotinho”. Sim, sei que você, que também é blogueira, entende do que eu falo. Se você não for, deve achar isso tudo uma loucura, não é? Mas quando você se tornar uma, vai entender bem o que falo…
 
 <p style="text-align: justify;">
-  Pois é. Eu recebi um “pacotinho” com conteúdo muito fofo. E sabe de quem? Foi da **<em>Cristiane Inokuma</em>**, a artesã que comanda a <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>. <em>Espia</em> só:
+  Pois é. Eu recebi um “pacotinho” com conteúdo muito fofo. E sabe de quem? Foi da **_Cristiane Inokuma_**, a artesã que comanda a [Closonê Acessórios](http://closone.blogspot.com/) . _Espia_ só:
 </p>
 
 <!--more-->
@@ -22,7 +22,7 @@ Ganhar presente todo mundo gosta, não é verdade? E toda blogueira gosta mesmo 
 </p>
 
 <p style="text-align: justify;">
-  Viu que lindo? Trata-se de um chaveiro, que também pode ser usado como penduricalho de bolsa, todo cheio de <em>bossa</em> e <em>superultramega</em> feminino. Além disso, também veio essa flor bem mimosa de tecido, que na verdade é um ímã de geladeira. É perfeita para prender recados na geladeira, ao passo que também faz um charminho na decoração da cozinha. É ou não é?
+  Viu que lindo? Trata-se de um chaveiro, que também pode ser usado como penduricalho de bolsa, todo cheio de _bossa_ e _superultramega_ feminino. Além disso, também veio essa flor bem mimosa de tecido, que na verdade é um ímã de geladeira. É perfeita para prender recados na geladeira, ao passo que também faz um charminho na decoração da cozinha. É ou não é?
 </p>
 
 <p style="text-align: justify;">
@@ -54,13 +54,13 @@ Ganhar presente todo mundo gosta, não é verdade? E toda blogueira gosta mesmo 
 </p>
 
 <p style="text-align: justify;">
-  <em>Cá</em> ‘<em>pra</em> nós, é disso tudo que uma autêntica bicha fêmea gosta, ‘<em>né</em> não?
+  _Cá_ ‘_pra_ nós, é disso tudo que uma autêntica bicha fêmea gosta, ‘_né_ não?
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

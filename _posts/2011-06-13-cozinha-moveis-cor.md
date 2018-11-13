@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  A **Margaret**, do blog **<a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a>**, decidiu que queria brincar com as cores na cozinha dela também, e o resultado foi um banho de azul que, indiscutivelmente, trouxe muita alegria a esse canto da casa… olha só!
+  A **Margaret**, do blog **[Margaretss](http://www.margaretss.com.br/) **, decidiu que queria brincar com as cores na cozinha dela também, e o resultado foi um banho de azul que, indiscutivelmente, trouxe muita alegria a esse canto da casa… olha só!
 </p>
 
 &nbsp;
@@ -44,7 +44,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O tom **amarelo** bem clarinho, como o da imagem acima para sua inspiração, foi o que escolhi para meus armários também. Se você ainda não viu o tom de meus armários, ele está no post onde tratamos de **<a href="http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/" target="_blank">revestimentos de cozinha</a>**. Para quem quer cor, mas com suavidade, fica a dica!
+  O tom **amarelo** bem clarinho, como o da imagem acima para sua inspiração, foi o que escolhi para meus armários também. Se você ainda não viu o tom de meus armários, ele está no post onde tratamos de **[revestimentos de cozinha](http://www.trololodemulher.com.br/2009/07/23/decoracao-revestimento-cozinha/) **. Para quem quer cor, mas com suavidade, fica a dica!
 </p>
 
 <p align="center">
@@ -72,15 +72,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  E agora, bonita? Qual sua cor preferida, <em>hein</em>?!
+  E agora, bonita? Qual sua cor preferida, _hein_?!
 </p>
 
-Imagens: **<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>**
+Imagens: **[Better Homes and Gardens](http://www.bhg.com/) **
 
 &nbsp;
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

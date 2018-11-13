@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Por outro lado, o que facilita mesmo a vida é quando temos a ajuda de um <em>expert</em> no assunto, certo? Foi por isso que um casal buscou o suporte da **<em>Designer </em>de Interiores Claudia Medeiros, de Campinas**. Com um custo bem baixo, a moça transformou um **quarto sem decoração num cantinho <em>pra</em> lá de aconchegante**. Confira e inspire-se!
+  Por outro lado, o que facilita mesmo a vida é quando temos a ajuda de um _expert_ no assunto, certo? Foi por isso que um casal buscou o suporte da **_Designer _de Interiores Claudia Medeiros, de Campinas**. Com um custo bem baixo, a moça transformou um **quarto sem decoração num cantinho _pra_ lá de aconchegante**. Confira e inspire-se!
 </p>
 
 <!--more-->
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“O piso, que era de carpete-forração cinza, estava feio, velho e se soltando<em>.</em>**
+>   **“O piso, que era de carpete-forração cinza, estava feio, velho e se soltando_._**
 > </p>
 
 &nbsp;
@@ -116,11 +116,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A **Claudia Medeiros** é uma leitora talentosa que eu conheço, oh: faz tempo… inclusive tive o prazer de conhecê-la pessoalmente, num encontro de blogueiras. Sim! Essa bonitona também tem um blog, o **<a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank">Se fosse na minha casa</a>**. Quer conhecer? Se joga!
+  A **Claudia Medeiros** é uma leitora talentosa que eu conheço, oh: faz tempo… inclusive tive o prazer de conhecê-la pessoalmente, num encontro de blogueiras. Sim! Essa bonitona também tem um blog, o **[Se fosse na minha casa](http://sefossenaminhacasa.blogspot.com.br/) **. Quer conhecer? Se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

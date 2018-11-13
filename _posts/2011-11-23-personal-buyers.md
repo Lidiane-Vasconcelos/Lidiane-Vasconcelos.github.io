@@ -14,7 +14,7 @@ A **comemoração de aniversário de 3 anos do Bicha Fêmea neste mês de Novemb
 &nbsp;
 
 <p align="justify">
-  Comandada pela Fatima Moral, que também edita o blog **<a href="http://personalbuyers.blogspot.com/" target="_blank">Personal Buyers – First Class</a>**, essa loja virtual é cheia de produtinhos mais que necessários a qualquer bicha fêmea que gosta de se cuidar. Um passeio por lá, pode acreditar, é uma verdadeira tentação… mas a loja tem mesmo é outro diferencial…
+  Comandada pela Fatima Moral, que também edita o blog **[Personal Buyers – First Class](http://personalbuyers.blogspot.com/) **, essa loja virtual é cheia de produtinhos mais que necessários a qualquer bicha fêmea que gosta de se cuidar. Um passeio por lá, pode acreditar, é uma verdadeira tentação… mas a loja tem mesmo é outro diferencial…
 </p>
 
 <!--more-->

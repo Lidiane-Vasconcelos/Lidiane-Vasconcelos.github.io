@@ -26,25 +26,25 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="justify">
-  Na verdade, o que para a gente parece novidade, para a **Flores Online** nem é tanto assim, já que eles estão nesse mercado há mais de 10 anos! Ou seja, não estamos falando de uma empresa amadora no serviço, <em>hã</em>?!
+  Na verdade, o que para a gente parece novidade, para a **Flores Online** nem é tanto assim, já que eles estão nesse mercado há mais de 10 anos! Ou seja, não estamos falando de uma empresa amadora no serviço, _hã_?!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=885" target="_blank" rel="attachment wp-att-8763"  rel="nofollow"><img class="alignnone size-full wp-image-8763" title="FLORES ONLINE - TULIPAS" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-TULIPAS.png" width="561" height="236" /></a><br /> <em>Clique na imagem e confira a coleção!</em>
+  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=885" target="_blank" rel="attachment wp-att-8763"  rel="nofollow"><img class="alignnone size-full wp-image-8763" title="FLORES ONLINE - TULIPAS" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-TULIPAS.png" width="561" height="236" /></a><br /> _Clique na imagem e confira a coleção!_
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A infinidade de possibilidades e escolhas entre flores e presentes eu nem te conto, só **<a href="http://www.floresonline.com.br/" target="_blank">conferindo no site</a>** para você entender do que estou falando. Eu também digo presentes porque, além dos vários tipos de flores e arranjos que você pode escolher, também é possível acrescentar alguns carinhos como chocolates e trufas, outros tipos de guloseimas, pelúcias, perfumes, dentre outros presentes.
+  A infinidade de possibilidades e escolhas entre flores e presentes eu nem te conto, só **[conferindo no site](http://www.floresonline.com.br/) ** para você entender do que estou falando. Eu também digo presentes porque, além dos vários tipos de flores e arranjos que você pode escolher, também é possível acrescentar alguns carinhos como chocolates e trufas, outros tipos de guloseimas, pelúcias, perfumes, dentre outros presentes.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8762"  rel="nofollow"><img class="alignnone size-full wp-image-8762" title="FLORES ONLINE - BOMBONS" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-BOMBONS.png" width="559" height="238" /></a><br /> <em>Clique na imagem e delicie-se!</em>
+  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8762"  rel="nofollow"><img class="alignnone size-full wp-image-8762" title="FLORES ONLINE - BOMBONS" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-BOMBONS.png" width="559" height="238" /></a><br /> _Clique na imagem e delicie-se!_
 </p>
 
 &nbsp;
@@ -56,13 +56,13 @@ Levanta o dedo quem vive de amores quando recebe flores… você aí, do outro l
 &nbsp;
 
 <p align="center">
-  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8761"  rel="nofollow"><img class="alignnone size-full wp-image-8761" title="FLORES ONLINE - ANIVERSÁRIO" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-ANIVERSÁRIO.png" width="558" height="237" /></a><br /> <em>Clique na imagem e comemore!</em>
+  <a href="http://www.floresonline.com.br/opcoes.asp?tipo=1" target="_blank" rel="attachment wp-att-8761"  rel="nofollow"><img class="alignnone size-full wp-image-8761" title="FLORES ONLINE - ANIVERSÁRIO" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/FLORES-ONLINE-ANIVERSÁRIO.png" width="558" height="237" /></a><br /> _Clique na imagem e comemore!_
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Aposto que você já deve estar <em>matutando</em> aí com seus botões para quem você gostaria de enviar flores… saiba que as **entregas são para todo o Brasil**, <em>hein</em>? Então, prepare-se para ver um monte de <em>lindezas</em> no site** <a href="http://www.floresonline.com.br/" target="_blank" rel="nofollow">clicando aqui</a>**, e depois aguarde para ter a notícia de que a pessoa que recebeu o mimo é toda sorrisos… pode apostar nisso!
+  Aposto que você já deve estar _matutando_ aí com seus botões para quem você gostaria de enviar flores… saiba que as **entregas são para todo o Brasil**, _hein_? Então, prepare-se para ver um monte de _lindezas_ no site** <a href="http://www.floresonline.com.br/" target="_blank" rel="nofollow">clicando aqui</a>**, e depois aguarde para ter a notícia de que a pessoa que recebeu o mimo é toda sorrisos… pode apostar nisso!
 </p>
 
 E se você quiser saber das novidades do **Flores Online** acompanhe os perfis sociais da marca [**<a href="https://www.facebook.com/floresonline" target="_blank"  rel="nofollow">Facebook</a>** e **<a href="https://twitter.com/_floresonline" target="_blank"  rel="nofollow">Twitter</a>**] e o **<a href="http://blog.floresonline.com.br/" target="_blank"  rel="nofollow">blog da loja</a>** com diversas dicas!

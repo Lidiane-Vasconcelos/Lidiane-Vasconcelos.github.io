@@ -29,13 +29,13 @@ Não, não creio que um homem desse modelo tenha um cérebro bonito, hein! E hom
 
 <span style="color: #800080;"> </span>
 
-<span style="color: #800080;">Diz aí, “cérebro bonito” de quem quer que seja combina com preocupação “<em>descontrol</em>” acerca da celulite?</span>[<img style="display: inline;" title="EmoticonConfused" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused_thumb.gif" alt="EmoticonConfused" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused.gif)
+<span style="color: #800080;">Diz aí, “cérebro bonito” de quem quer que seja combina com preocupação “_descontrol_” acerca da celulite?</span>[<img style="display: inline;" title="EmoticonConfused" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused_thumb.gif" alt="EmoticonConfused" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonconfused.gif)
 
 ** **
 
 <span style="color: #800080;">Atualização</span>
 
-<span style="color: #800080;">Ei, bonita! Eu tinha que te contar essa, este post acabou se desdobrando num outro escrito pela Laély, do blog</span> <a href="http://saladala.blogspot.com/" target="_blank">“Sala da La”.</a> <span style="color: #800080;">O post traz reflexões permeadas pelo bom humor da blogueira a respeito do desespero comum entre as mulheres pelo rejuvenescimento a qualquer custo. E muitas vezes esse custo é a deformação do rosto e corpo. Vale a pena ler. É sempre muito bom se informar ao passo que a gente se diverte com uma leitura gostosa, não é? Então</span> <a href="http://saladala.blogspot.com/2009/07/michael-jackson-nao-morreu.html" target="_blank">vai lá, bonita!</a>
+<span style="color: #800080;">Ei, bonita! Eu tinha que te contar essa, este post acabou se desdobrando num outro escrito pela Laély, do blog</span> [“Sala da La”.](http://saladala.blogspot.com/)  <span style="color: #800080;">O post traz reflexões permeadas pelo bom humor da blogueira a respeito do desespero comum entre as mulheres pelo rejuvenescimento a qualquer custo. E muitas vezes esse custo é a deformação do rosto e corpo. Vale a pena ler. É sempre muito bom se informar ao passo que a gente se diverte com uma leitura gostosa, não é? Então</span> [vai lá, bonita!](http://saladala.blogspot.com/2009/07/michael-jackson-nao-morreu.html) 
 
 **Mais no Bicha:**
 

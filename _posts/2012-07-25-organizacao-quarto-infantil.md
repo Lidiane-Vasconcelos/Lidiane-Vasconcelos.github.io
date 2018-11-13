@@ -16,7 +16,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  As imagens são do site **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**, e representam duas **ideias de marcenaria** para você encomendar a um profissional de sua confiança. O resultado final será um quarto mais organizado e de decoração linda de viver. Confere!
+  As imagens são do site **_[Better Homes and Gardens](http://www.bhg.com/) _**, e representam duas **ideias de marcenaria** para você encomendar a um profissional de sua confiança. O resultado final será um quarto mais organizado e de decoração linda de viver. Confere!
 </p>
 
 <!--more-->
@@ -28,7 +28,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Um **banco com uma prateleira na parte de baixo**, onde você possa colocar alguns cestos organizadores para acomodar brinquedos pode fazer milagre para deixar tudo limpo, em ordem e bonito. Para arrematar essa solução de **organização e decoração**, providencie um<em> futon</em> bem bonito e colorido para colocar sobre ele. Pronto! Aquele cantinho no quarto infantil vai ficar lindo de viver. Não duvide!
+  Um **banco com uma prateleira na parte de baixo**, onde você possa colocar alguns cestos organizadores para acomodar brinquedos pode fazer milagre para deixar tudo limpo, em ordem e bonito. Para arrematar essa solução de **organização e decoração**, providencie um_ futon_ bem bonito e colorido para colocar sobre ele. Pronto! Aquele cantinho no quarto infantil vai ficar lindo de viver. Não duvide!
 </p>
 
 &nbsp;
@@ -40,11 +40,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Sabe um <em>design</em> básico de **armário de cozinha**? É exatamente o que você vê acima, só que **com um <em>futon</em> bem bonito sobre ele, assumirá o papel de banco**. Essa solução é para quem quer esconder tudo atrás das portinhas! Num armário como esse, que também é banco, dá para guardar brinquedos, ou ainda roupa de cama, material escolar, ou o que vier na sua imaginação e de seus herdeiros, <em>viu</em>? Inspire-se!
+  Sabe um _design_ básico de **armário de cozinha**? É exatamente o que você vê acima, só que **com um _futon_ bem bonito sobre ele, assumirá o papel de banco**. Essa solução é para quem quer esconder tudo atrás das portinhas! Num armário como esse, que também é banco, dá para guardar brinquedos, ou ainda roupa de cama, material escolar, ou o que vier na sua imaginação e de seus herdeiros, _viu_? Inspire-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

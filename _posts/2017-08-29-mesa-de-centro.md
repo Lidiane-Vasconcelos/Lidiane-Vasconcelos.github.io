@@ -10,7 +10,7 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Uma sala de estar com uma **mesa de centro** ganha outros ares, não é verdade? O <em>design</em> do espaço fica tão harmonioso, que é difícil quem não queira uma para viver de amores, sem contar que essa peça de mobiliário é, sim, muito útil. Lá você pode apoiar um copo ou xícara, utilidades próprias da sala e até mesmo os pés, oh: é verdade ou não é? Agora, você há de concordar comigo: comprar uma dessas pode não ser uma tarefa das mais simples, certo? Imagine se o orçamento estiver curto, então?!
+  Uma sala de estar com uma **mesa de centro** ganha outros ares, não é verdade? O _design_ do espaço fica tão harmonioso, que é difícil quem não queira uma para viver de amores, sem contar que essa peça de mobiliário é, sim, muito útil. Lá você pode apoiar um copo ou xícara, utilidades próprias da sala e até mesmo os pés, oh: é verdade ou não é? Agora, você há de concordar comigo: comprar uma dessas pode não ser uma tarefa das mais simples, certo? Imagine se o orçamento estiver curto, então?!
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.designsponge.com/2012/10/sneak-peek-amy-erich-mcvey.html" target="_blank">Design Sponge</a>
+  Imagem: [Design Sponge](http://www.designsponge.com/2012/10/sneak-peek-amy-erich-mcvey.html) 
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank">**Como decorar a mesa de centro de sala.**</a>
+  [**Como decorar a mesa de centro de sala.**](http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/) 
 </p>
 
 <p align="center">
@@ -54,19 +54,19 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/" target="_blank">Simples Decoração</a>
+  Imagem: [Simples Decoração](http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/) 
 </p>
 
 > <p align="justify">
->   **Entre o sofá/poltronas  e a mesa,  uma <em>distância máxima de 60cm</em>. É mais ou menos o quanto a média das pessoas adultas consegue alcançar um objeto sobre a mesa sem desconforto.**
+>   **Entre o sofá/poltronas  e a mesa,  uma _distância máxima de 60cm_. É mais ou menos o quanto a média das pessoas adultas consegue alcançar um objeto sobre a mesa sem desconforto.**
 > </p>
 
 > <p align="justify">
->   **O comprimento da mesa deve  ser tal que no mínimo, <em> “sobrem” 50 cm de sofá de cada lado </em>(não considere o braço do sofá, mas somente a área de assento). Mesmo a pessoa lá no cantão, vai conseguir acessar a mesa sem problemas.**
+>   **O comprimento da mesa deve  ser tal que no mínimo, _ “sobrem” 50 cm de sofá de cada lado _(não considere o braço do sofá, mas somente a área de assento). Mesmo a pessoa lá no cantão, vai conseguir acessar a mesa sem problemas.**
 > </p>
 
 > <p align="justify">
->   **A largura da mesa depende do quanto você tem de espaço para circulação. <em>O espaço livre mínimo é 60cm. O ideal é 80 cm.”</em>**
+>   **A largura da mesa depende do quanto você tem de espaço para circulação. _O espaço livre mínimo é 60cm. O ideal é 80 cm.”_**
 > </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando sair a procura do móvel ideal, você verá que variedade é o que não falta. Todo estilo pode ser atendido. Qual o seu? Se você quer algo moderno, rústico ou <em>glamouroso</em>, enfim, seja como for, haverá sempre uma alternativa para você. O que nossa consultora enfatiza é que <em>“você pode seguir ou não o estilo do ambiente. Mas se não seguir, é bom que tenha alguma característica já existente em algum outro objeto do ambiente (seja cor, material, revestimento, etc)”.</em>
+  Quando sair a procura do móvel ideal, você verá que variedade é o que não falta. Todo estilo pode ser atendido. Qual o seu? Se você quer algo moderno, rústico ou _glamouroso_, enfim, seja como for, haverá sempre uma alternativa para você. O que nossa consultora enfatiza é que _“você pode seguir ou não o estilo do ambiente. Mas se não seguir, é bom que tenha alguma característica já existente em algum outro objeto do ambiente (seja cor, material, revestimento, etc)”._
 </p>
 
 <p align="justify">
@@ -94,15 +94,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/" target="_blank">**Decoração na sala de estar: mesa de centro. Qual o seu estilo?**</a>
+  [**Decoração na sala de estar: mesa de centro. Qual o seu estilo?**](http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/) 
 </p>
 
 <p align="justify">
-  Quanto ao espaço que você dispõe, Rosana finaliza explicando que <em>“desde que se preserve uma circulação mínima de 60 cm, ela pode existir no espaço pequeno. Quando isso não é possível, use as mesas laterais ou uma prateleira de apoio na parte posterior do sofá”,</em> completa.
+  Quanto ao espaço que você dispõe, Rosana finaliza explicando que _“desde que se preserve uma circulação mínima de 60 cm, ela pode existir no espaço pequeno. Quando isso não é possível, use as mesas laterais ou uma prateleira de apoio na parte posterior do sofá”,_ completa.
 </p>
 
 <p align="justify">
-  A Rosana Silva edita um dos blogs de decoração com melhor conteúdo sobre o tema e, veja você, ela preparou um post completíssimo sobre mesas de centro e mesinhas laterais para sua sala ficar toda <em>nos trinques</em>. Claro que você não vai perder a chance de espiar esse post que, na verdade, é um guia, certo? <a href="http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/" target="_blank">Clique aqui e saiba tu-do</a>.
+  A Rosana Silva edita um dos blogs de decoração com melhor conteúdo sobre o tema e, veja você, ela preparou um post completíssimo sobre mesas de centro e mesinhas laterais para sua sala ficar toda _nos trinques_. Claro que você não vai perder a chance de espiar esse post que, na verdade, é um guia, certo? [Clique aqui e saiba tu-do](http://www.simplesdecoracao.com.br/2015/02/as-mesas-de-centro-e-apoio-na-sala-de-estar/) .
 </p>
 
 <p align="center">
@@ -114,13 +114,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/09/14/moldura/" target="_blank">**Moldura: coadjuvante ou protagonista na decoração?**</a>
+  [**Moldura: coadjuvante ou protagonista na decoração?**](http://www.trololodemulher.com.br/2016/09/14/moldura/) 
 </p>
 
 <p align="justify">
-  A Rosana edita o blog <a href="http://www.simplesdecoracao.com.br/" target="_blank">Simples Decoração</a>, uma fonte incrível de informações sobre casa e decoração. Quer acompanhar também? Então, <a href="http://www.simplesdecoracao.com.br/" target="_blank">clique bem aqui</a> e se jogue! Ah! O <a href="https://www.facebook.com/SimplesDecoracao?fref=ts" target="_blank">Simples Decoração também está no Facebook, com uma fanpage</a> muito bem atualizada com o melhor da decoração e do Design. Além do mais, também está no Instagram, com inspirações imperdíveis. <a href="https://www.instagram.com/simplesdecor/" target="_blank">Clique aqui e siga</a>!
+  A Rosana edita o blog [Simples Decoração](http://www.simplesdecoracao.com.br/) , uma fonte incrível de informações sobre casa e decoração. Quer acompanhar também? Então, [clique bem aqui](http://www.simplesdecoracao.com.br/)  e se jogue! Ah! O [Simples Decoração também está no Facebook, com uma fanpage](https://www.facebook.com/SimplesDecoracao?fref=ts)  muito bem atualizada com o melhor da decoração e do Design. Além do mais, também está no Instagram, com inspirações imperdíveis. [Clique aqui e siga](https://www.instagram.com/simplesdecor/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

@@ -47,10 +47,10 @@ Ah! E por falar em fazer carinho, queria mostrar aqui um que recebi recentemente
 
  
 
-Viu? São velas e uma bolsinha para moedas. Fiquei feliz, serelepe e saltitante com o presente. Quem me fez o carinho foi a Flávia Simoni, do blog <a href="http://minhacasaminhafamilia.blogspot.com/" target="_blank">Lar Doce Lar</a>.
+Viu? São velas e uma bolsinha para moedas. Fiquei feliz, serelepe e saltitante com o presente. Quem me fez o carinho foi a Flávia Simoni, do blog [Lar Doce Lar](http://minhacasaminhafamilia.blogspot.com/) .
 
 _Flávia, muito obrigada por sua gentileza, viu?! Gostei de verdade, muito, pode acreditar!_
 
 Ei! Bom fim de semana!!!
 
-Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagem: [stock.xchng](http://www.sxc.hu/) 

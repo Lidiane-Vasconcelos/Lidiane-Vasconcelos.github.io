@@ -20,7 +20,7 @@ categories:
 <!--more-->
 
 <p align="justify">
-  Para tirar minhas dúvidas e, suspeito, as suas também, procurei a **Dra. Ana Paula Pasqualin Tokunaga**, que é **Cirurgiã-Dentista** e **blogueira** também. Ela edita o blog **<a href="http://medodedentista.com.br/" target="_blank">Medo de Dentista</a> **desde Julho de 2010 quando, segundo ela, “ <em>resolveu tomar para si a tarefa de explicar de forma simples e bem humorada tudo o que acontece dentro de um consultório odontológico, visando sempre incentivar o hábito da prevenção em saúde bucal</em>.”
+  Para tirar minhas dúvidas e, suspeito, as suas também, procurei a **Dra. Ana Paula Pasqualin Tokunaga**, que é **Cirurgiã-Dentista** e **blogueira** também. Ela edita o blog **[Medo de Dentista](http://medodedentista.com.br/)  **desde Julho de 2010 quando, segundo ela, “ _resolveu tomar para si a tarefa de explicar de forma simples e bem humorada tudo o que acontece dentro de um consultório odontológico, visando sempre incentivar o hábito da prevenção em saúde bucal_.”
 </p>
 
 <p align="justify">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg"><img class="alignnone size-full wp-image-6678" title="saúde bucal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg" alt="" width="600" height="364" /></a><br /> **<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg"><img class="alignnone size-full wp-image-6678" title="saúde bucal" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/saude-bucal.jpg" alt="" width="600" height="364" /></a><br /> **<a href="http://www.sxc.hu/) **
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>Não. Não há como se obter um clareamento dental efetivo usando esses produtos. E isso por um motivo simples: cremes dentais e enxaguantes bucais não contêm em sua formulação as substâncias clareadoras ou, quando contêm, é em quantidade irrisória, &#8220;só pra constar&#8221;. As pastas &#8220;clareadoras&#8221;, na verdade, costumam ser muito abrasivas, ou seja, removem manchas superficiais desgastando a superfície do esmalte dos dentes. Mas isso, a longo-prazo, pode até levar a problemas de sensibilidade dental. Quanto aos enxaguantes bucais, não vejo relevância alguma em seu uso para esse fim. Há quem diga que eles provocam um &#8220;efeito óptico&#8221; que faz com que os dentes sejam enxergados como mais brancos por um certo período após o seu uso, mas não sei dizer se isso procede</em>.”
+>   “_Não. Não há como se obter um clareamento dental efetivo usando esses produtos. E isso por um motivo simples: cremes dentais e enxaguantes bucais não contêm em sua formulação as substâncias clareadoras ou, quando contêm, é em quantidade irrisória, &#8220;só pra constar&#8221;. As pastas &#8220;clareadoras&#8221;, na verdade, costumam ser muito abrasivas, ou seja, removem manchas superficiais desgastando a superfície do esmalte dos dentes. Mas isso, a longo-prazo, pode até levar a problemas de sensibilidade dental. Quanto aos enxaguantes bucais, não vejo relevância alguma em seu uso para esse fim. Há quem diga que eles provocam um &#8220;efeito óptico&#8221; que faz com que os dentes sejam enxergados como mais brancos por um certo período após o seu uso, mas não sei dizer se isso procede_.”
 > </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “<em>Os cremes dentais sim, pois mesmo não clareando os dentes eles continuam sendo efetivos contra outros problemas bucais, como a cárie e a gengivite. Mas, pela característica que têm, talvez seja melhor substituí-los por um produto menos abrasivo. Já os enxaguantes bucais, &#8220;clareadores&#8221; ou não, eu não recomendo, e eu mesma não uso nenhum. Esses produtos não devem ser usados de forma contínua se não houver indicação do dentista. Eles no máximo participam como coadjuvantes na higiene bucal, mas certamente não são essenciais como se prega por aí. O principal é uma escovação dental assídua e realizada dentro da técnica. Consultem seus dentistas a respeito!”</em>
+>   “_Os cremes dentais sim, pois mesmo não clareando os dentes eles continuam sendo efetivos contra outros problemas bucais, como a cárie e a gengivite. Mas, pela característica que têm, talvez seja melhor substituí-los por um produto menos abrasivo. Já os enxaguantes bucais, &#8220;clareadores&#8221; ou não, eu não recomendo, e eu mesma não uso nenhum. Esses produtos não devem ser usados de forma contínua se não houver indicação do dentista. Eles no máximo participam como coadjuvantes na higiene bucal, mas certamente não são essenciais como se prega por aí. O principal é uma escovação dental assídua e realizada dentro da técnica. Consultem seus dentistas a respeito!”_
 > </p>
 
 &nbsp;
@@ -78,19 +78,19 @@ categories:
 &nbsp;
 
 <p align="center">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>**
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/corpo/">**_Corpo_**</a>> **_<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a>_**
 </p>
 
 <p align="center">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p align="center">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 <p align="center">

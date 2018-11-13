@@ -47,6 +47,6 @@ Pronto! É o suficiente para eu _twitar_ o post, e assim sigo fazendo… quer ve
 
 Viu? Se você entrar no _Twitter_, imagine que você vai ver uma série de boas informações que podem ser muito úteis para você. Que tal experimentar?
 
-Me segue aí – **_<a href="http://twitter.com/bichafemea/" target="_blank">@bichafemea</a>_** – é de graça!!!
+Me segue aí – **_[@bichafemea](http://twitter.com/bichafemea/) _** – é de graça!!!
 
 E bom fim de semana!!!

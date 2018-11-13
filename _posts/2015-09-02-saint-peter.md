@@ -82,23 +82,23 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café… porque merecemos!</a>**
+  **[Mousse de chocolate com café… porque merecemos!](http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank">Brigadeiro de colher saudável: xô, TPM!</a>**
+  **[Brigadeiro de colher saudável: xô, TPM!](http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank">Sopa de tomate com couve</a>**
+  **[Sopa de tomate com couve](http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/) **
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

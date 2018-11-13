@@ -20,13 +20,13 @@ Então&#8230; eu ainda não uso. Mas sei bem, isso não demorará muito a fazer 
 <!--more-->
 
 > <p align="justify">
->   “<em>**1** &#8211; Como sempre tive olheiras, uso o **creme clareador de olheiras Solutions Intense Banishing da Avon**. O único problema é que quase sempre me esqueço de passar, mas nunca deixo de ter rs.Beijos</em>” **Carol | **<a href="http://madamemorgana.blogspot.com.br/" target="_blank">**Madame Morgana**</a>
+>   “_**1** &#8211; Como sempre tive olheiras, uso o **creme clareador de olheiras Solutions Intense Banishing da Avon**. O único problema é que quase sempre me esqueço de passar, mas nunca deixo de ter rs.Beijos_” **Carol | **[**Madame Morgana**](http://madamemorgana.blogspot.com.br/) 
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   “**2**<em> &#8211; Os que estou usando atualmente não são específicos para a área dos olhos, mas o **DERMA COMPLEX  RETINOL ÁREA DOS OLHOS** que usei muito… é muito bom. Ele possui ácido hialurônico e promete suavizar as rugas e linhas. Mas&#8230; o produto só funcionou mesmo usando o **DERMA COMPLEX VITAMINA C** antes de aplicar o ácido. Já está na hora de usar novamente… para mim foi magnífico!”</em> **Fátima Moral | **<a href="http://personalbuyers.blogspot.com.br/" target="_blank">**Personal Buyers – First Class**</a>
+>   “**2**_ &#8211; Os que estou usando atualmente não são específicos para a área dos olhos, mas o **DERMA COMPLEX  RETINOL ÁREA DOS OLHOS** que usei muito… é muito bom. Ele possui ácido hialurônico e promete suavizar as rugas e linhas. Mas&#8230; o produto só funcionou mesmo usando o **DERMA COMPLEX VITAMINA C** antes de aplicar o ácido. Já está na hora de usar novamente… para mim foi magnífico!”_ **Fátima Moral | **[**Personal Buyers – First Class**](http://personalbuyers.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -110,7 +110,7 @@ Então&#8230; eu ainda não uso. Mas sei bem, isso não demorará muito a fazer 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -125,13 +125,13 @@ Então&#8230; eu ainda não uso. Mas sei bem, isso não demorará muito a fazer 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

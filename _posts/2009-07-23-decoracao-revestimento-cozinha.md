@@ -10,11 +10,11 @@ categories:
   - Cozinha
 ---
 <p style="text-align: justify;">
-  A gente já sabe que os desdobramentos do nosso <em>trololó</em> nos comentários do blog “rolam” soltos, não é? Como não foi diferente quando vimos dicas de<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"> **<em>decoração para paredes</em>**</a>, a conversa com a Rose, do blog “<a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Receitinhas e Frescurinhas</a>”, acabou desembocando na reforma da casa dela. Como mulher gosta de perguntar as coisas a outra, porque tudo é motivo para fomentar o <em>trololó</em>, a bonita me perguntou:
+  A gente já sabe que os desdobramentos do nosso _trololó_ nos comentários do blog “rolam” soltos, não é? Como não foi diferente quando vimos dicas de[Receitinhas e Frescurinhas](http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"> **_decoração para paredes_**</a>, a conversa com a Rose, do blog “<a href="http://receitinhasefrescurinhas.blogspot.com/) ”, acabou desembocando na reforma da casa dela. Como mulher gosta de perguntar as coisas a outra, porque tudo é motivo para fomentar o _trololó_, a bonita me perguntou:
 </p>
 
 <p style="text-align: justify;">
-  “…<em>A minha cozinha é pequena…quando a reforma chegar lá pensei em não colocar mais azulejos na parede apenas pintar, mas na frente da pia pensei numa coisa bem colorida (se o marido deixar kkkkk) usando pastilhas…o que você acha???…”</em>
+  “…_A minha cozinha é pequena…quando a reforma chegar lá pensei em não colocar mais azulejos na parede apenas pintar, mas na frente da pia pensei numa coisa bem colorida (se o marido deixar kkkkk) usando pastilhas…o que você acha???…”_
 </p>
 
 <p style="text-align: justify;">
@@ -22,23 +22,23 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “<em>sabe que minha cozinha também não é toda revestida com pedras? Do mesmo jeito que você imagina para a sua digo, pintar e colocar pedras na frente da pia, foi o que fiz aqui. </em>
+  “_sabe que minha cozinha também não é toda revestida com pedras? Do mesmo jeito que você imagina para a sua digo, pintar e colocar pedras na frente da pia, foi o que fiz aqui. _
 </p>
 
 <p style="text-align: justify;">
-  <em>Eu usei pastilhas também, mas não são de vidro, são de porcelanato. Também não são coloridas, são preta e creme bem clarinho. Tanto as pretas quanto as cremes têm efeito fosco e polido, variando entre elas. </em>
+  _Eu usei pastilhas também, mas não são de vidro, são de porcelanato. Também não são coloridas, são preta e creme bem clarinho. Tanto as pretas quanto as cremes têm efeito fosco e polido, variando entre elas. _
 </p>
 
 <p style="text-align: justify;">
-  <em>Eu fiz assim: revesti em frente a pia (parte molhada) e esse revestimento segue em L até a parte seca. O revestimento é com o creme clarinho, sendo que umas três faixas recebeu as pastilhas pretas. Atrás do fogão sobe do chão ao teto todo o revestimento com as pastilhas pretas. </em>
+  _Eu fiz assim: revesti em frente a pia (parte molhada) e esse revestimento segue em L até a parte seca. O revestimento é com o creme clarinho, sendo que umas três faixas recebeu as pastilhas pretas. Atrás do fogão sobe do chão ao teto todo o revestimento com as pastilhas pretas. _
 </p>
 
 <p style="text-align: justify;">
-  <em>Fiz a minha compra, e também a paginação de como ficaria essa padronagem na PortoBello. Será que tem dessa loja por aí? Vou fazer assim: vou tirar umas fotos e vou mandar para o teu e-mail, tá? </em>
+  _Fiz a minha compra, e também a paginação de como ficaria essa padronagem na PortoBello. Será que tem dessa loja por aí? Vou fazer assim: vou tirar umas fotos e vou mandar para o teu e-mail, tá? _
 </p>
 
 <p style="text-align: justify;">
-  <em>A ideia de pintar a cozinha e usar pastilhas em parte dela eu acho massa, porque eu mesma fiz e gosto do resultado. Agora, sobre pastilhas coloridas, se não forem muuuuuito coloridas eu também gosto… kkkkk… agora é contigo e o maridão… ehehehehe…”</em>
+  _A ideia de pintar a cozinha e usar pastilhas em parte dela eu acho massa, porque eu mesma fiz e gosto do resultado. Agora, sobre pastilhas coloridas, se não forem muuuuuito coloridas eu também gosto… kkkkk… agora é contigo e o maridão… ehehehehe…”_
 </p>
 
 <p style="text-align: justify;">
@@ -80,7 +80,7 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.decoracaodacasa.com/cozinha-revestimento/" target="_blank">Qual cor de revestimento da área molhada escolher?</a>
+  [Qual cor de revestimento da área molhada escolher?](http://www.decoracaodacasa.com/cozinha-revestimento/) 
 </p>
 
 <p style="text-align: center;">
@@ -96,7 +96,7 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://www.decoracaodacasa.com/balcao-revestimento-cozinha/" target="_blank">Como combinar cor do balcão com o revestimento da cozinha?</a>
+  [Como combinar cor do balcão com o revestimento da cozinha?](http://www.decoracaodacasa.com/balcao-revestimento-cozinha/) 
 </p>
 
 <p style="text-align: center;">
@@ -107,12 +107,12 @@ Rose, trouxe para o post mais algumas opções de cozinhas para você se inspira
   Essa mescla de pedras com amarelo um pouco mais acentuado e outros mais claros surtiu um efeito muito bonito e iluminado. Note que a parede sobre os armários também não é revestida, como aqui em casa.
 </p>
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
+Imagens: [HGTV.com](http://www.hgtv.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

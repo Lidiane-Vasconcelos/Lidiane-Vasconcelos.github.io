@@ -25,13 +25,13 @@ Espero que gostem!
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **<em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/juliana/"><br /> Por Juliana</a></em>**
+      **_<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/juliana/"><br /> Por Juliana</a>_**
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      <a href="http://www.pitadinha.com/" target="_blank">Pitadinha.com</a>
+      [Pitadinha.com](http://www.pitadinha.com/) 
     </td>
   </tr>
 </table>
@@ -47,13 +47,13 @@ Quer fazer como a Juliana, e publicar seu texto ou vídeo aqui? Seja uma **_[bic
 **[Como conservar bananas por mais tempo…](http://www.trololodemulher.com.br/2010/09/24/video-dica-conservar-bananas/)**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa</em>****<em> & Decoração</em>** </a>> <a href="http://www.trololodemulher.com.br/category/casa-cozinha/">**<em>Casa – Cozinha</em>** </a>> Video-receita: Barrita de Coco
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa_****_ & Decoração_** </a>> <a href="http://www.trololodemulher.com.br/category/casa-cozinha/">**_Casa – Cozinha_** </a>> Video-receita: Barrita de Coco
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

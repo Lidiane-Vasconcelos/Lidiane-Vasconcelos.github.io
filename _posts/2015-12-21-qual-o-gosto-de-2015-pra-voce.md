@@ -22,15 +22,15 @@ categories:
 </p>
 
 <p align="justify">
-  A força criadora e empreendedora de **Jê Pereira**, no post <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">DE HOBBY A TRABALHO, COMO GANHAR DINHEIRO?</a>
+  A força criadora e empreendedora de **Jê Pereira**, no post [DE HOBBY A TRABALHO, COMO GANHAR DINHEIRO?](http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/) 
 </p>
 
 <p align="justify">
-  A garra de quem quer lutar diariamente pela vida, apesar da dor, vista na história de **Ly Mello**, no post <a href="http://www.trololodemulher.com.br/2014/12/05/como-ser-resiliente/" target="_blank">COMO SER RESILIENTE? A VIDA ENSINA.</a>
+  A garra de quem quer lutar diariamente pela vida, apesar da dor, vista na história de **Ly Mello**, no post [COMO SER RESILIENTE? A VIDA ENSINA.](http://www.trololodemulher.com.br/2014/12/05/como-ser-resiliente/) 
 </p>
 
 <p align="justify">
-  A energia transformadora na vida de mulheres que querem ter sucesso (com propósito!) na vida, liberada pela **Simone Mitjans**, no post <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank">EMPREENDEDORISMO, QUAIS OS 7 MEDOS MAIS COMUNS?</a>
+  A energia transformadora na vida de mulheres que querem ter sucesso (com propósito!) na vida, liberada pela **Simone Mitjans**, no post [EMPREENDEDORISMO, QUAIS OS 7 MEDOS MAIS COMUNS?](http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/) 
 </p>
 
 <p align="justify">
@@ -58,5 +58,5 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

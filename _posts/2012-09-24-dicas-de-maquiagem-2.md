@@ -24,15 +24,15 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 &nbsp;
 
 > <p align="justify">
->   <em>**1** &#8211; **IIuminador da Catharine Hill, o 1021/1**. Vi uma maquiadora usando e me encantei pelo produto. Esse está no topo da lista.</em>
+>   _**1** &#8211; **IIuminador da Catharine Hill, o 1021/1**. Vi uma maquiadora usando e me encantei pelo produto. Esse está no topo da lista._
 > </p>
 
 > <p align="justify">
->   <em>**2** &#8211; **Batons com textura matte da Maybelline**. Além de curtir a marca, o batom mate geralmente tem ótima durabilidade e as cores dessa coleção recém lançada pela marca estão lindas. Quero todas, começando pelo Play Peach.</em>
+>   _**2** &#8211; **Batons com textura matte da Maybelline**. Além de curtir a marca, o batom mate geralmente tem ótima durabilidade e as cores dessa coleção recém lançada pela marca estão lindas. Quero todas, começando pelo Play Peach._
 > </p>
 
 > <p align="justify">
->   <em>**3 **&#8211; **Paletas de sombras da Revlon, linha Colorstay**. Porque eu tenho 1 em pó e sou apaixonada pelas cores e pela qualidade das sombras da marca, têm ótima durabilidade. Uso diariamente.</em>
+>   _**3 **&#8211; **Paletas de sombras da Revlon, linha Colorstay**. Porque eu tenho 1 em pó e sou apaixonada pelas cores e pela qualidade das sombras da marca, têm ótima durabilidade. Uso diariamente._
 > </p>
 > 
 > <p align="justify">
@@ -51,7 +51,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >   </p>
 >   
 >   <p align="justify">
->     A **Pauline** edita o blog **<a href="http://cheiadecharme.blog.br/" target="_blank">Cheia de Charme</a>**, cujo tema é beleza. Ela fala sobre o assunto de um jeito “gente da gente”, <em>viu</em>? Ela mostra um conteúdo que é resultado de uma busca por novidades em maquiagem, moda (inclusive e especialmente Moda GG), cabelos, mãos e unhas, saúde do corpo e da mente (emagrecimento saudável e bem-estar), cosméticos dermatológicos em geral. Enfim, é um blog para a mulher que tem amor próprio, se cuida e é vaidosa, mas gosta de informação com qualidade. Curtiu, <em>né?</em> Eu sabia que sim… então, <em>oh</em>: **<a href="http://cheiadecharme.blog.br/" target="_blank">clica aqui</a>** e se joga!
+>     A **Pauline** edita o blog **[Cheia de Charme](http://cheiadecharme.blog.br/) **, cujo tema é beleza. Ela fala sobre o assunto de um jeito “gente da gente”, _viu_? Ela mostra um conteúdo que é resultado de uma busca por novidades em maquiagem, moda (inclusive e especialmente Moda GG), cabelos, mãos e unhas, saúde do corpo e da mente (emagrecimento saudável e bem-estar), cosméticos dermatológicos em geral. Enfim, é um blog para a mulher que tem amor próprio, se cuida e é vaidosa, mas gosta de informação com qualidade. Curtiu, _né?_ Eu sabia que sim… então, _oh_: **[clica aqui](http://cheiadecharme.blog.br/) ** e se joga!
 >   </p>
 >   
 >   <p>
@@ -131,7 +131,7 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+>     [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 >   </p>
 >   
 >   <p>
@@ -150,13 +150,13 @@ O resultado é uma listinha básica e certeira de três itens que estão nos des
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+>           [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+>           [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
 >         </p>
 >       </td>
 >     </tr>

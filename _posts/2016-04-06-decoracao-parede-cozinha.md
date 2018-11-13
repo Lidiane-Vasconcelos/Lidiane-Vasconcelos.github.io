@@ -11,7 +11,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Nem só de panelas e demais utilidades vive uma cozinha, certo? Lá também é lugar de enfeitar e agradar os olhos com detalhes charmosos capazes de tirar um sorriso do rosto e fazer um afago no coração. Sendo assim, que tal escolher um enfeite para a parede da cozinha, como um monte de frutinhas em miniatura como a que você vê a seguir? Essa <em>belezura</em> é uma gentileza do blog <em><a href="http://sugarandcloth.com/" target="_blank">Sugar & Cloth</a></em> – blog que acompanho – pra gente. Basta imprimir no tamanho que você escolher dentre as três possibilidades oferecidas, colocar numa moldura de seu agrado, e pronto! Você pode pendurar ou encostar em uma cantinho de sua cozinha, e dar a ela uma pitadinha de cor <em>superultramega</em> divertida. Gostou da ideia? Eu amei!!!!
+  Nem só de panelas e demais utilidades vive uma cozinha, certo? Lá também é lugar de enfeitar e agradar os olhos com detalhes charmosos capazes de tirar um sorriso do rosto e fazer um afago no coração. Sendo assim, que tal escolher um enfeite para a parede da cozinha, como um monte de frutinhas em miniatura como a que você vê a seguir? Essa _belezura_ é uma gentileza do blog _[Sugar & Cloth](http://sugarandcloth.com/) _ – blog que acompanho – pra gente. Basta imprimir no tamanho que você escolher dentre as três possibilidades oferecidas, colocar numa moldura de seu agrado, e pronto! Você pode pendurar ou encostar em uma cantinho de sua cozinha, e dar a ela uma pitadinha de cor _superultramega_ divertida. Gostou da ideia? Eu amei!!!!
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  Se joga no presente e faz logo o seu <a href="http://sugarandcloth.com/2015/03/diy-printable-fruit-wall-art/" target="_blank">download aqui. No final do post você encontra os links</a> para cada um dos tamanhos oferecidos para você imprimir. Aproveite!
+  Se joga no presente e faz logo o seu [download aqui. No final do post você encontra os links](http://sugarandcloth.com/2015/03/diy-printable-fruit-wall-art/)  para cada um dos tamanhos oferecidos para você imprimir. Aproveite!
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -35,15 +35,15 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  **<a href="http://www.decoracaodacasa.com/decoracao-cozinha-3/" target="_blank">Nem toda mudança na decoração da cozinha exige muitos gastos.</a>**
+  **[Nem toda mudança na decoração da cozinha exige muitos gastos.](http://www.decoracaodacasa.com/decoracao-cozinha-3/) **
 </p>
 
 <p style="text-align: justify;" align="center">
-  **<a href="http://www.decoracaodacasa.com/decoracao-cozinha-3/" target="_blank">Para dar uma repaginada na decoração da cozinha é simples.</a>**
+  **[Para dar uma repaginada na decoração da cozinha é simples.](http://www.decoracaodacasa.com/decoracao-cozinha-3/) **
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

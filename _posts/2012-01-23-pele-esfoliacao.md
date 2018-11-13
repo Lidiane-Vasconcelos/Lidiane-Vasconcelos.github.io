@@ -24,7 +24,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>A esfoliação consiste na remoção da camada mais superficial da pele, que em geral já se destaca normalmente, e a parte da pele que descama e não percebemos a olho nu. </em><em>A nossa pele está em constante renovação. </em><em>A esfoliação consiste em acelerar este processo removendo a camada de células &#8220;mortas&#8221;.  Assim a pele fica mais fina e lisa. </em><em>A esfoliação também permite uma melhor absorção dos cremes, então muitas vezes é usada antes de um tratamento corporal, por exemplo.”</em>
+>   “_A esfoliação consiste na remoção da camada mais superficial da pele, que em geral já se destaca normalmente, e a parte da pele que descama e não percebemos a olho nu. __A nossa pele está em constante renovação. __A esfoliação consiste em acelerar este processo removendo a camada de células &#8220;mortas&#8221;.  Assim a pele fica mais fina e lisa. __A esfoliação também permite uma melhor absorção dos cremes, então muitas vezes é usada antes de um tratamento corporal, por exemplo.”_
 > </p>
 
 &nbsp;
@@ -34,7 +34,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>Sim, existem diversos tipos de esfoliantes. Esfoliantes para diferentes partes do corpo como os faciais, em geral mais delicados e com ativos específicos para esta área; corporais, em geral mais abrasivos”</em>
+>   “_Sim, existem diversos tipos de esfoliantes. Esfoliantes para diferentes partes do corpo como os faciais, em geral mais delicados e com ativos específicos para esta área; corporais, em geral mais abrasivos”_
 > </p>
 
 &nbsp;
@@ -44,13 +44,13 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>A esfoliacao não deve ser feita em demasia, pois pode hiperestimular a produção de sebo (oleosidade) em peles oleosas, e ressecar ainda mais as peles secas. Outra dica que devem ficar atentos é com peles que têm muitos cravos: neste tipo de pele esfoliar demais pode promover a inflamação e gerar espinhas. </em><em>ATENÇÃO: peles com acne inflamadas não devem usar esfoliantes, a não ser que seja orientado pelo dermatologista!! </em><em>Esfoliação corporal apenas 1 vez por semana, caso contrário a pele ficará muito ressecada. </em><em>Já a esfoliação facial, depende de cada tipo de pele, mas em geral é recomendada a cada 15 dias.”</em>
+>   “_A esfoliacao não deve ser feita em demasia, pois pode hiperestimular a produção de sebo (oleosidade) em peles oleosas, e ressecar ainda mais as peles secas. Outra dica que devem ficar atentos é com peles que têm muitos cravos: neste tipo de pele esfoliar demais pode promover a inflamação e gerar espinhas. __ATENÇÃO: peles com acne inflamadas não devem usar esfoliantes, a não ser que seja orientado pelo dermatologista!! __Esfoliação corporal apenas 1 vez por semana, caso contrário a pele ficará muito ressecada. __Já a esfoliação facial, depende de cada tipo de pele, mas em geral é recomendada a cada 15 dias.”_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg"><img class="alignnone size-full wp-image-8480" title="ESFOLIACAO DA PELE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg" alt="" width="600" height="424" /></a><br /> Ilustração: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg"><img class="alignnone size-full wp-image-8480" title="ESFOLIACAO DA PELE" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/ESFOLIACAO-DA-PELE.jpg" alt="" width="600" height="424" /></a><br /> Ilustração: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>Existem excelentes esfoliantes labiais, mas muito cuidado com esta delicada região do corpo. A pele do lábio, na verdade, é uma mucosa, e por isso é muito sensível. Só recomendo em alguns casos.”</em>
+>   “_Existem excelentes esfoliantes labiais, mas muito cuidado com esta delicada região do corpo. A pele do lábio, na verdade, é uma mucosa, e por isso é muito sensível. Só recomendo em alguns casos.”_
 > </p>
 
 &nbsp;
@@ -88,7 +88,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>Sabonete liquido de mel e cereais da **NATURA** &#8211; bem delicado para o corpo; Brown sugar body polish, da marca **FRESH** &#8211; AMO este esfoliante de açúcar mascavo; Esfoliante corporal da **CAUDALIE** com propriedades da uva.”</em>
+>   “_Sabonete liquido de mel e cereais da **NATURA** &#8211; bem delicado para o corpo; Brown sugar body polish, da marca **FRESH** &#8211; AMO este esfoliante de açúcar mascavo; Esfoliante corporal da **CAUDALIE** com propriedades da uva.”_
 > </p>
 
 &nbsp;
@@ -98,7 +98,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 > <p align="justify">
->   “<em>Dermotivin scrub da **Galderma **&#8211; para peles oleosas; Complex up gommage enzimatica da **DERMATUS** &#8211; com extrato de romã, especialíssimo.”</em>
+>   “_Dermotivin scrub da **Galderma **&#8211; para peles oleosas; Complex up gommage enzimatica da **DERMATUS** &#8211; com extrato de romã, especialíssimo.”_
 > </p>
 
 &nbsp;
@@ -110,7 +110,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="justify">
-  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>**, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: **<a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">clica bem aqui</a>** e aproveita, bonita!
+  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog **[Dermatologia em Foco](http://www.dermatologiaemfoco.blogspot.com/) **, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, _oh_: **[clica bem aqui](http://www.dermatologiaemfoco.blogspot.com/) ** e aproveita, bonita!
 </p>
 
 &nbsp;
@@ -158,7 +158,7 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -173,13 +173,13 @@ Se sua resposta for positiva, ponto para você! É através da esfoliação corp
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

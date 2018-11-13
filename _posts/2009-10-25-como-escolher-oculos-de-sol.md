@@ -35,7 +35,7 @@ Olha aqui do lado os formatos de rosto. Presta bem atenção e compara com o teu
 
 Pronto! O verão está _já já_ batendo a nossa porta, e essa é uma estação em que é muito bom ter óculos de sol, _néam_? O mais importante é você achar um que te faça se sentir bem, bonita de verdade. Para isso é provar muitos, e se olhar bem no espelho, certo? Eu já achei o meu, e nem tão cedo penso em mudá-lo. E você?
 
-Fonte: “<a href="http://www.guiadebeleza.org/guia-modelos-oculos-de-sol.php" target="_blank">Como escolher o melhor modelo de Óculos de Sol</a>?” em <a href="http://www.guiadebeleza.org/" target="_blank">Guia da Beleza</a>
+Fonte: “[Como escolher o melhor modelo de Óculos de Sol](http://www.guiadebeleza.org/guia-modelos-oculos-de-sol.php) ?” em [Guia da Beleza](http://www.guiadebeleza.org/) 
 
 **Mais sobre moda no Bicha Fêmea**
 

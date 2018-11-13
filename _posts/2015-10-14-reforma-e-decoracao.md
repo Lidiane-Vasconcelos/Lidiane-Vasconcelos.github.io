@@ -22,15 +22,15 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 <p align="justify">
-  “<em>Eu acredito que falta de planejamento é o erro mais recorrente quando reformamos ou, simplesmente, decoramos uma casa. E isso acarreta outros desastres! Euforia por se encantar com um item na vitrine, ou na casa da amiga; pressa em deixar a casa pronta para alguma data importante; ou, às vezes, inexperiência mesmo&#8230;</em>
+  “_Eu acredito que falta de planejamento é o erro mais recorrente quando reformamos ou, simplesmente, decoramos uma casa. E isso acarreta outros desastres! Euforia por se encantar com um item na vitrine, ou na casa da amiga; pressa em deixar a casa pronta para alguma data importante; ou, às vezes, inexperiência mesmo&#8230;_
 </p>
 
 <p align="justify">
-  <em>O planejamento pode ser por conta própria, com a contratação de um profissional na área ou dando uma pesquisada em blogs do ramo, como o Trololó de Mulher ou Decoração da Casa. Quando listamos tudo antes de fazer nossas amadas comprinhas, e pesquisamos os serviços já executados por nossos fornecedores, evitamos muitas dores de cabeça e, assim, teremos mais certeza de que tudo sairá como queremos!</em>”
+  _O planejamento pode ser por conta própria, com a contratação de um profissional na área ou dando uma pesquisada em blogs do ramo, como o Trololó de Mulher ou Decoração da Casa. Quando listamos tudo antes de fazer nossas amadas comprinhas, e pesquisamos os serviços já executados por nossos fornecedores, evitamos muitas dores de cabeça e, assim, teremos mais certeza de que tudo sairá como queremos!_”
 </p>
 
 <p align="justify">
@@ -38,43 +38,43 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-profissionais-decoracao/" target="_blank">5 dicas profissionais de decoração que só nosso leitor sabe</a>
+  [5 dicas profissionais de decoração que só nosso leitor sabe](http://www.decoracaodacasa.com/dicas-profissionais-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank">Cozinha inteligente, prática e funcional: dicas profissionais</a>
+  [Cozinha inteligente, prática e funcional: dicas profissionais](http://www.decoracaodacasa.com/cozinha-decoracao-dicas/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank">Como fazer seu espaço pequeno parecer maior? 10 dicas</a>
+  [Como fazer seu espaço pequeno parecer maior? 10 dicas](http://www.decoracaodacasa.com/espaco-pequeno-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank">Decoração da cozinha: 7 profissionais dizem o que é top.</a>
+  [Decoração da cozinha: 7 profissionais dizem o que é top.](http://www.decoracaodacasa.com/decoracao-da-cozinha-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/moveis-planejados/" target="_blank">Móveis planejados: dicas para não errar na hora da escolha.</a>
+  [Móveis planejados: dicas para não errar na hora da escolha.](http://www.decoracaodacasa.com/moveis-planejados/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/revestimentos-piso-parede/" target="_blank">Revestimentos: piso e parede. Quais as opções?</a>
+  [Revestimentos: piso e parede. Quais as opções?](http://www.decoracaodacasa.com/revestimentos-piso-parede/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cor-decoracao/" target="_blank">Em qual cor você aposta na decoração?</a>
+  [Em qual cor você aposta na decoração?](http://www.decoracaodacasa.com/cor-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/balcao-revestimento-cozinha/" target="_blank">Como combinar cor da pedra do balcão com o revestimento da cozinha?</a>
+  [Como combinar cor da pedra do balcão com o revestimento da cozinha?](http://www.decoracaodacasa.com/balcao-revestimento-cozinha/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/" target="_blank">Decoração e reforma: 5 experts falam o que não fazer.</a>
+  [Decoração e reforma: 5 experts falam o que não fazer.](http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank">Decoração de cozinha: 2 dúvidas sobre revestimentos respondidas.</a>
+  [Decoração de cozinha: 2 dúvidas sobre revestimentos respondidas.](http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/) 
 </p>
 
 <p align="center">
@@ -86,19 +86,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-de-parede-no-quarto/" target="_blank">**Papel de parede no quarto: como decorar?**</a>
+  [**Papel de parede no quarto: como decorar?**](http://www.decoracaodacasa.com/papel-de-parede-no-quarto/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cores-decoracao-sala-estar/" target="_blank">**Como usar cores vibrantes na sala de estar?**</a>
+  [**Como usar cores vibrantes na sala de estar?**](http://www.decoracaodacasa.com/cores-decoracao-sala-estar/) 
 </p>
 
 <p align="justify">
-  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a <em>designer</em> <a href="http://www.maristelaleonel.com.br/bem-vindo" target="_blank">clicando aqui</a>. Maristela também dispõe de uma página no <em>Facebook</em> onde apresenta seus projetos e compartilha informações. <a href="https://www.facebook.com/maristelaleoneldi/timeline" target="_blank">Eu já curti… vem também</a>!
+  **Maristela **atua em Florianópolis e região, empregando seu conhecimento para ajudar você na realização do que você sente como sendo seu sonho de morar bem. Você pode contar com a moça para reforma, construção, mobília e decoração residencial ou comercial, tudo de forma personalizada, de acordo com seu estilo. Conheça seu site, sua proposta de trabalho e formas de contato com a _designer_ [clicando aqui](http://www.maristelaleonel.com.br/bem-vindo) . Maristela também dispõe de uma página no _Facebook_ onde apresenta seus projetos e compartilha informações. [Eu já curti… vem também](https://www.facebook.com/maristelaleoneldi/timeline) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

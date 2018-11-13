@@ -15,13 +15,13 @@ Como assim você não navega pelos bastidores do **Bicha Fêmea**, bonita?! Pois
 &nbsp;
 
 <p align="justify">
-  Nos bastidores do Bicha Fêmea há muito <em>trololó</em>, e a partir disso, inclusive, surgem as colaborações para os vários posts publicados por aqui. Por isso, sou muito grata a essa mulherada que gosta de participar, dar <em>pitacos </em>e opiniões. Como agradecê-las?
+  Nos bastidores do Bicha Fêmea há muito _trololó_, e a partir disso, inclusive, surgem as colaborações para os vários posts publicados por aqui. Por isso, sou muito grata a essa mulherada que gosta de participar, dar _pitacos _e opiniões. Como agradecê-las?
 </p>
 
 <!--more-->
 
 <p align="justify">
-  Queria agradecer de um jeito diferente. Eu já sabia que faria um sorteio por aqui em parceria com a **Artesanal Shop**, onde seria sorteado um mimo para a casa. Mas antes disso acontecer no blog,** nossa parceira reservou um presente especial** para ser sorteado nos bastidores, **somente entre as bichas fêmeas navegantes que recebem a Newsletter do Blog e fazem parte do grupo que trocam <em>e-mails</em> comigo e respondem aos meus questionamentos mais curiosos, resultando num conteúdo <em>bloguístico</em> bem colaborativo**.
+  Queria agradecer de um jeito diferente. Eu já sabia que faria um sorteio por aqui em parceria com a **Artesanal Shop**, onde seria sorteado um mimo para a casa. Mas antes disso acontecer no blog,** nossa parceira reservou um presente especial** para ser sorteado nos bastidores, **somente entre as bichas fêmeas navegantes que recebem a Newsletter do Blog e fazem parte do grupo que trocam _e-mails_ comigo e respondem aos meus questionamentos mais curiosos, resultando num conteúdo _bloguístico_ bem colaborativo**.
 </p>
 
 &nbsp;
@@ -39,11 +39,11 @@ Como assim você não navega pelos bastidores do **Bicha Fêmea**, bonita?! Pois
 &nbsp;
 
 <p align="justify">
-  Já escrevi sobre a loja no Bicha Fêmea **<a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/">aqui</a>**. Se quiser conhecer a empresa ainda mais de perto, pode **<a href="http://www.artesanalshop.com.br/" target="_blank">clicar aqui</a>**.
+  Já escrevi sobre a loja no Bicha Fêmea **[clicar aqui](http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/">aqui</a>**. Se quiser conhecer a empresa ainda mais de perto, pode **<a href="http://www.artesanalshop.com.br/) **.
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Sabe qual presente da Artesanal Shop foi sorteado somente nos bastidores do blog? <em>Espia</em>:</span>**
+  **<span style="font-size: large;">Sabe qual presente da Artesanal Shop foi sorteado somente nos bastidores do blog? _Espia_:</span>**
 </p>
 
 &nbsp;
@@ -85,7 +85,7 @@ A **<span style="font-size: large;">Neli Rodrigues</span>**!!!!!
 &nbsp;
 
 <p align="justify">
-  Viu? É uma **<span style="font-size: large;">TOALHA DE MESA DEGRADÊ</span>** de 140X220 cm, 100% algodão. A **cor da toalha fica a gosto de quem ganhá-la**, e você pode conferir as cores **<a href="http://www.artesanalshop.com.br/toalha-de-mesa-jogo-americano/toalha-de-mesa/toalha-de-mesa-degrade-220.html#" target="_blank">clicando bem aqui</a>** e já começar a sonhar com ela deixando sua casa linda de viver, <em>viu</em>?
+  Viu? É uma **<span style="font-size: large;">TOALHA DE MESA DEGRADÊ</span>** de 140X220 cm, 100% algodão. A **cor da toalha fica a gosto de quem ganhá-la**, e você pode conferir as cores **[clicando bem aqui](http://www.artesanalshop.com.br/toalha-de-mesa-jogo-americano/toalha-de-mesa/toalha-de-mesa-degrade-220.html#) ** e já começar a sonhar com ela deixando sua casa linda de viver, _viu_?
 </p>
 
 &nbsp;
@@ -97,7 +97,7 @@ A **<span style="font-size: large;">Neli Rodrigues</span>**!!!!!
 &nbsp;
 
 <p align="justify">
-  **Visite a loja virtual Artesanal Shop**, **<a href="http://www.artesanalshop.com.br/" target="_blank">clicando bem aqui</a>**, e responda:
+  **Visite a loja virtual Artesanal Shop**, **[clicando bem aqui](http://www.artesanalshop.com.br/) **, e responda:
 </p>
 
 &nbsp;

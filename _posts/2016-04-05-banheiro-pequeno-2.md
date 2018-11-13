@@ -25,7 +25,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.housebeautiful.com/" target="_blank">House Beautiful</a>
+  Via [House Beautiful](http://www.housebeautiful.com/) 
 </p>
 
 &nbsp;
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank">**Banheiro: dicas simples de decoração que custam quase nada!**</a>
+  [**Banheiro: dicas simples de decoração que custam quase nada!**](http://www.decoracaodacasa.com/banheiro-de-decoracao/) 
 </p>
 
 &nbsp;
@@ -83,15 +83,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank">**Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.**</a>
+  [**Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.**](http://www.bichafemea.com/2013/09/02/decoracao-banheiro-pequeno-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">**4 ideias para decoração de banheiro pequeno.**</a>
+  [**4 ideias para decoração de banheiro pequeno.**](http://www.bichafemea.com/2011/10/05/decoracao-banheiro-pequeno/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank">**Dicas e imagens: como maximizar o banheiro?**</a>
+  [**Dicas e imagens: como maximizar o banheiro?**](http://www.bichafemea.com/2009/06/30/dicas-como-aumentar-banheiro/) 
 </p>
 
 &nbsp;
@@ -123,17 +123,17 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/" target="_blank">**Caixas: 5 soluções de organização da casa.**</a>
+  [**Caixas: 5 soluções de organização da casa.**](http://www.bichafemea.com/2014/06/30/caixas-organizacao-casa/) 
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a>
+Imagens: [Apartment Therapy](http://www.apartmenttherapy.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

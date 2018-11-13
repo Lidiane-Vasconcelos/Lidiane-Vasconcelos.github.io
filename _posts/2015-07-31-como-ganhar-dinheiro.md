@@ -12,7 +12,7 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  <span style="color: #000000;">Quantas mulheres não levantam todos os dias pensando em como largar o emprego e dedicar-se a um trabalho onde elas façam o que realmente gostam? Melhor ainda seria poder trabalhar de casa, não é? Especialmente aquelas que são mães e alimentam o desejo de olhar de perto o crescimento da cria. Muitas têm no trabalho manual uma válvula de escape, que acalma e leva pra longe o cansaço do dia a dia. Na ânsia de querer unir o útil ao agradável, há sempre uma pergunta pairando no ar: seria possível fazer do artesanato uma fonte de renda? Como ganhar dinheiro fazendo do hobby um trabalho? Este post foi pensado para te dizer que, sim, é possível. E mais! Ele todo é um guia para você começar a trilhar o caminho das pedras. Não pense que é fácil, mas também não é nada do outro mundo. E quem te conta tudo isso com propriedade, e revela todos os segredos, é a <em>RAINHA DA CHITA</em>!</span>
+  <span style="color: #000000;">Quantas mulheres não levantam todos os dias pensando em como largar o emprego e dedicar-se a um trabalho onde elas façam o que realmente gostam? Melhor ainda seria poder trabalhar de casa, não é? Especialmente aquelas que são mães e alimentam o desejo de olhar de perto o crescimento da cria. Muitas têm no trabalho manual uma válvula de escape, que acalma e leva pra longe o cansaço do dia a dia. Na ânsia de querer unir o útil ao agradável, há sempre uma pergunta pairando no ar: seria possível fazer do artesanato uma fonte de renda? Como ganhar dinheiro fazendo do hobby um trabalho? Este post foi pensado para te dizer que, sim, é possível. E mais! Ele todo é um guia para você começar a trilhar o caminho das pedras. Não pense que é fácil, mas também não é nada do outro mundo. E quem te conta tudo isso com propriedade, e revela todos os segredos, é a _RAINHA DA CHITA_!</span>
 </p>
 
 <p align="justify">
@@ -20,15 +20,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/" target="_blank">**O que faz uma mãe decidir pelo trabalho autônomo?**</a>
+  [**O que faz uma mãe decidir pelo trabalho autônomo?**](http://www.trololodemulher.com.br/2014/05/06/empreendedorismo-materno/) 
 </p>
 
 <p align="justify">
-  **Jê Souza Pereira**, a **Rainha da Chita**, é uma moça bonita de trinta e poucos anos – ela não revela nem por decreto quantos são esses poucos anos a mais! – que nasceu em Mossóró, RN. Nordestina forte que só ela, foi morar nos EUA há mais de 13 anos com o amor de sua vida, e lá aprendeu a costurar com o objetivo de interagir com outras pessoas e aprender a língua, já que trabalhar formalmente não era possível naquele momento, porque seu visto de esposa não permitia. A costura, que no início era hobby, passou a ser mais que isso: virou terapia. Jê perdeu a sua mãe, e junto com ela o chão e a alegria de viver. Vieram a depressão e a síndrome do pânico, e o que sua terapeuta recomendou foi: use suas mãos! O poder das artes manuais resgatou essa bonita do fundo do poço e, aos poucos, a levou para um lugar que ela jamais imaginou. “<em>Vender a minha arte não foi planejado. Aconteceu de uma forma rápida e motivadora. Quanto mais eu postava meus produtos mais as minhas amigas me perguntavam se era pra vender. Eu respondia que não. Afinal, era apenas um hobby para passar o meu tempo de uma forma agradável. E em uma determinada situação me vi passando o número de minha conta para depósito bancário e logo então abri a **<a href="http://www.dreamsfactorybyjeane.com/" target="_blank">Dreams Factory by Jeane</a>**, minha loja virtual nos USA que vendia para o mundo inteiro. Fiz envios para o Brasil, vários países da Europa e Japão</em>”, conta a Jê.
+  **Jê Souza Pereira**, a **Rainha da Chita**, é uma moça bonita de trinta e poucos anos – ela não revela nem por decreto quantos são esses poucos anos a mais! – que nasceu em Mossóró, RN. Nordestina forte que só ela, foi morar nos EUA há mais de 13 anos com o amor de sua vida, e lá aprendeu a costurar com o objetivo de interagir com outras pessoas e aprender a língua, já que trabalhar formalmente não era possível naquele momento, porque seu visto de esposa não permitia. A costura, que no início era hobby, passou a ser mais que isso: virou terapia. Jê perdeu a sua mãe, e junto com ela o chão e a alegria de viver. Vieram a depressão e a síndrome do pânico, e o que sua terapeuta recomendou foi: use suas mãos! O poder das artes manuais resgatou essa bonita do fundo do poço e, aos poucos, a levou para um lugar que ela jamais imaginou. “_Vender a minha arte não foi planejado. Aconteceu de uma forma rápida e motivadora. Quanto mais eu postava meus produtos mais as minhas amigas me perguntavam se era pra vender. Eu respondia que não. Afinal, era apenas um hobby para passar o meu tempo de uma forma agradável. E em uma determinada situação me vi passando o número de minha conta para depósito bancário e logo então abri a **[Dreams Factory by Jeane](http://www.dreamsfactorybyjeane.com/) **, minha loja virtual nos USA que vendia para o mundo inteiro. Fiz envios para o Brasil, vários países da Europa e Japão_”, conta a Jê.
 </p>
 
 <p align="justify">
-  Apaixonada pelas coisas da terra natal, Jê é um exemplo clássico dos que saem do Nordeste, mas a região permanece na essência deles. Em suas artes, num peça ou outra, há a presença da chita, um tecido <em>superultramega</em> colorido que é a cara do Nordeste brasileiro: cheio de cores e nuances culturais nos 9 estados da região, de paisagens belíssimas e culinária das mais gostosas. Foi daí que veio o carinhoso título Rainha da Chita, que ela ganhou depois de sua popularidade vendendo suas artes pela internet.
+  Apaixonada pelas coisas da terra natal, Jê é um exemplo clássico dos que saem do Nordeste, mas a região permanece na essência deles. Em suas artes, num peça ou outra, há a presença da chita, um tecido _superultramega_ colorido que é a cara do Nordeste brasileiro: cheio de cores e nuances culturais nos 9 estados da região, de paisagens belíssimas e culinária das mais gostosas. Foi daí que veio o carinhoso título Rainha da Chita, que ela ganhou depois de sua popularidade vendendo suas artes pela internet.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <em>“**Minhas vendas e divulgação eram 100% feitas na internet. Posso contar nos dedos as vezes que vendi para familiares e amigos próximos. Sou capaz de afirmar que eles nunca acreditaram muito “que o meu hobby tinha se tornado o meu trabalho”. Acho que esse detalhe me fez amadurecer me motivando a conquistar um público que eu desconhecia. Aprendi a não vender para familiares e amigos próximos.”** </em>
+>   _“**Minhas vendas e divulgação eram 100% feitas na internet. Posso contar nos dedos as vezes que vendi para familiares e amigos próximos. Sou capaz de afirmar que eles nunca acreditaram muito “que o meu hobby tinha se tornado o meu trabalho”. Acho que esse detalhe me fez amadurecer me motivando a conquistar um público que eu desconhecia. Aprendi a não vender para familiares e amigos próximos.”** _
 > </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>**A cada final de semana eu conversava com meu marido, que foi quem mais acreditou na minha arte e na minha empresa, e dizia que notava o quanto novidades vendem fácil. Bastava postar e na hora acertava 2 a 3 vendas. Então, eu me disciplinava para CRIAR algo novo uma vez por semana. Não digo que todas as tentativas seguiam as regras de vendas garantidas. Mas, eu oferecia novidades ao meu público com frequência. O engraçado é que muitas vezes essa novidade partia da ideia do meu cliente**</em>.”
+>   “_**A cada final de semana eu conversava com meu marido, que foi quem mais acreditou na minha arte e na minha empresa, e dizia que notava o quanto novidades vendem fácil. Bastava postar e na hora acertava 2 a 3 vendas. Então, eu me disciplinava para CRIAR algo novo uma vez por semana. Não digo que todas as tentativas seguiam as regras de vendas garantidas. Mas, eu oferecia novidades ao meu público com frequência. O engraçado é que muitas vezes essa novidade partia da ideia do meu cliente**_.”
 > </p>
 
 <p align="justify">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>**Muito. Basta comprar de uma forma inteligente. A questão não é quanto eu posso ganhar e, sim, quanto eu devo gastar. É isso que tento passar para as minhas artesãs que me acompanham diariamente. Não posso vender uma necessaire de R$ 35,00 e ir à loja para comprar um botão, mas voltar com a mala do carro cheia de “fofurices”. Isso é trabalho! Eu preciso ser cautelosa nas compras. Se eu preciso apenas de um botão, compro somente o botão. Passei muitos anos indo a loja comprar 1/4 de metro de tecido com a estampa da encomenda. Depois de ver que a estampa fazia sucesso, eu comprava o rolo inteiro. Cada vez que eu precisava de uma ferramenta mais cara, separava do meu lucro para investir, e não me fazia de boba usando o meu orçamento doméstico.”**</em>
+>   “_**Muito. Basta comprar de uma forma inteligente. A questão não é quanto eu posso ganhar e, sim, quanto eu devo gastar. É isso que tento passar para as minhas artesãs que me acompanham diariamente. Não posso vender uma necessaire de R$ 35,00 e ir à loja para comprar um botão, mas voltar com a mala do carro cheia de “fofurices”. Isso é trabalho! Eu preciso ser cautelosa nas compras. Se eu preciso apenas de um botão, compro somente o botão. Passei muitos anos indo a loja comprar 1/4 de metro de tecido com a estampa da encomenda. Depois de ver que a estampa fazia sucesso, eu comprava o rolo inteiro. Cada vez que eu precisava de uma ferramenta mais cara, separava do meu lucro para investir, e não me fazia de boba usando o meu orçamento doméstico.”**_
 > </p>
 
 <p align="justify">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “<em>**Aqui nos USA usava o Etsy. Mas, a melhor plataforma sempre será a nossa fan page do facebook. Para cobrar pagamento, sugiro o uso do depósito bancário, paypal e money order (bem conhecido nos USA).”**</em>
+>   “_**Aqui nos USA usava o Etsy. Mas, a melhor plataforma sempre será a nossa fan page do facebook. Para cobrar pagamento, sugiro o uso do depósito bancário, paypal e money order (bem conhecido nos USA).”**_
 > </p>
 
 <p align="justify">
@@ -72,7 +72,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/" target="_blank">**Quer trabalhar sem sair de casa? Abra sua loja na Divitae!**</a>
+  [**Quer trabalhar sem sair de casa? Abra sua loja na Divitae!**](http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/) 
 </p>
 
 <p align="justify">
@@ -80,11 +80,11 @@ categories:
 </p>
 
 > <p align="justify">
->   <em>**“Equilíbrio. Temos que entender que será o nosso trabalho, e que precisamos do retorno financeiro. Eu começo a gastar quando começar a ganhar, certo? Então, não tenha medo (ou vergonha) de expor o seu começo, o que você tem para usar. Seja firme e diga “ainda não trabalho com esse material.”**</em>
+>   _**“Equilíbrio. Temos que entender que será o nosso trabalho, e que precisamos do retorno financeiro. Eu começo a gastar quando começar a ganhar, certo? Então, não tenha medo (ou vergonha) de expor o seu começo, o que você tem para usar. Seja firme e diga “ainda não trabalho com esse material.”**_
 > </p>
 
 <p align="justify">
-  Com o negócio prosperando, Jê mudou. De costureira e vendedora das próprias artes pela internet, essa moça desbravadora e de espírito reconhecidamente empreendedor se viu atuando como professora de costura e consultora de negócios <em>craft</em>, e tudo <em>online</em>, de casa, ainda na linha do que tanto ama fazer. Jê é a prova viva de que é possível mesmo unir o útil ao agradável, agora focando em ensinar SUAS ARTEIRAS a “<em>possibilidade de construir e acreditar na arte</em>”, como ela tanto enfatiza em seu dia a dia na Dreams Factory. Através de vídeos postados diariamente, Jê ensina o passo-a-passo de várias técnicas de costura e vai além, dá dicas, conselhos e orientações sobre como suas arteiras podem melhorar a gestão de seus negócios, obterem lucro, expor seus produtos, cativarem os seus clientes. Tudo isso é feito de forma bastante didática, numa metodologia “gente da gente”, e certamente foi o que garantiu o sucesso estrondoso que a Jê vem fazendo junto a quem tanto ama a costura, e sonha em fazer disso uma fonte de renda.
+  Com o negócio prosperando, Jê mudou. De costureira e vendedora das próprias artes pela internet, essa moça desbravadora e de espírito reconhecidamente empreendedor se viu atuando como professora de costura e consultora de negócios _craft_, e tudo _online_, de casa, ainda na linha do que tanto ama fazer. Jê é a prova viva de que é possível mesmo unir o útil ao agradável, agora focando em ensinar SUAS ARTEIRAS a “_possibilidade de construir e acreditar na arte_”, como ela tanto enfatiza em seu dia a dia na Dreams Factory. Através de vídeos postados diariamente, Jê ensina o passo-a-passo de várias técnicas de costura e vai além, dá dicas, conselhos e orientações sobre como suas arteiras podem melhorar a gestão de seus negócios, obterem lucro, expor seus produtos, cativarem os seus clientes. Tudo isso é feito de forma bastante didática, numa metodologia “gente da gente”, e certamente foi o que garantiu o sucesso estrondoso que a Jê vem fazendo junto a quem tanto ama a costura, e sonha em fazer disso uma fonte de renda.
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Produtos confeccionados pela Jê, sempre com a presença da chita, tecido pelo qual é apaixonada e que não deixa que ela esqueça suas origens.</em>
+  _Produtos confeccionados pela Jê, sempre com a presença da chita, tecido pelo qual é apaixonada e que não deixa que ela esqueça suas origens._
 </p>
 
 <p align="justify">
@@ -100,7 +100,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Mudei. No ano passado vi que eu precisava me ocupar com um hobby porque o cansaço das encomendas estava sobrecarregando meus ombros e a minha mente. A costura já era o meu trabalho, que antes era o meu hobby, então me comprometi a voltar a usar a costura como hobby, e sem compromisso, de forma que pudesse me trazer prazer. Foi por isso que veio a ideia de gravar os PAPs (passo a paso) de minhas peças, que são 100% técnicas de minha autoria. Eu nem tinha tempo para divulgar o canal, e muitas artesãs começaram a entrar em contato, mas o meu tempo era muito curto para responder, e eu me sentia mal por isso. Esse contato foi chegando de uma forma desenfreada apenas de agradecimentos e fotos dos “meus produtos feitos&#8221;. Era surreal! As perguntas quase não existiam. Nenhuma dúvida. Eram apenas “muito obrigada, eu consegui confeccionar”. Nunca tive medo de expor o meu jeito de fazer. Hoje chamo “técnica da Rainha da Chita”. Pra mim é funcional e eu digo “com certeza vai funcionar pra você também”. Eu não tinha nem 300 seguidores quando a marca da máquina que uso entrou em contato elogiando minha didática e a minha desenvoltura com o público. Caí pra trás. Também falaram sobre a proposta de como poderíamos trabalhar em parceria. Dali em diante me vi fazendo os vídeos com mais frequência e vibrando com cada 100 novos seguidores. Em dezembro do ano passado eu estava exausta, creio que vendi mais de 200 toalhas bordadas, mais de 20 kits de bolsas, e já estava fazendo 3 vídeos semanais. Eu chegava ao ponto de tirar minha loja virtual do ar para não vender. Eu pedia as minhas clientes para não comprar mais. Parei para pensar e planejar a mudança que poderia acontecer dentro de 6 meses. Sentindo o medo saltar da boca do meu estômago, em 3 meses fechei a minha empresa de encomendas. Bem antes do planejado. Passei a apostar em ganhar dinheiro das empresas que me achavam uma boa formadora de opinião. Digamos, que mais uma vez, o meu hobby virou trabalho. Mas, agora com uma cautela maior e menos pressão na produção. O contato com o público cresceu, o retorno financeiro vem acontecendo sem que eu precise vender minha opinião. Vendo o que comprei e uso. Entendeu? Vendo indiretamente o que já usava para confeccionar meus produtos.”</em>**
+>   **_“Mudei. No ano passado vi que eu precisava me ocupar com um hobby porque o cansaço das encomendas estava sobrecarregando meus ombros e a minha mente. A costura já era o meu trabalho, que antes era o meu hobby, então me comprometi a voltar a usar a costura como hobby, e sem compromisso, de forma que pudesse me trazer prazer. Foi por isso que veio a ideia de gravar os PAPs (passo a paso) de minhas peças, que são 100% técnicas de minha autoria. Eu nem tinha tempo para divulgar o canal, e muitas artesãs começaram a entrar em contato, mas o meu tempo era muito curto para responder, e eu me sentia mal por isso. Esse contato foi chegando de uma forma desenfreada apenas de agradecimentos e fotos dos “meus produtos feitos&#8221;. Era surreal! As perguntas quase não existiam. Nenhuma dúvida. Eram apenas “muito obrigada, eu consegui confeccionar”. Nunca tive medo de expor o meu jeito de fazer. Hoje chamo “técnica da Rainha da Chita”. Pra mim é funcional e eu digo “com certeza vai funcionar pra você também”. Eu não tinha nem 300 seguidores quando a marca da máquina que uso entrou em contato elogiando minha didática e a minha desenvoltura com o público. Caí pra trás. Também falaram sobre a proposta de como poderíamos trabalhar em parceria. Dali em diante me vi fazendo os vídeos com mais frequência e vibrando com cada 100 novos seguidores. Em dezembro do ano passado eu estava exausta, creio que vendi mais de 200 toalhas bordadas, mais de 20 kits de bolsas, e já estava fazendo 3 vídeos semanais. Eu chegava ao ponto de tirar minha loja virtual do ar para não vender. Eu pedia as minhas clientes para não comprar mais. Parei para pensar e planejar a mudança que poderia acontecer dentro de 6 meses. Sentindo o medo saltar da boca do meu estômago, em 3 meses fechei a minha empresa de encomendas. Bem antes do planejado. Passei a apostar em ganhar dinheiro das empresas que me achavam uma boa formadora de opinião. Digamos, que mais uma vez, o meu hobby virou trabalho. Mas, agora com uma cautela maior e menos pressão na produção. O contato com o público cresceu, o retorno financeiro vem acontecendo sem que eu precise vender minha opinião. Vendo o que comprei e uso. Entendeu? Vendo indiretamente o que já usava para confeccionar meus produtos.”_**
 > </p>
 
 <p align="justify">
@@ -108,7 +108,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>O amor pelo o hobby será uma grande parcela para o seu sucesso. Não digo que devemos inseri-lo em tempo integral em nossa vida. Tenha seu espaço para viver. Cuidar da família, da casa, do seu bem estar e dos amigos também. Uma noite de vinhos é a minha certeza de um dia seguinte mais produtivo.”</em>**
+>   “**_O amor pelo o hobby será uma grande parcela para o seu sucesso. Não digo que devemos inseri-lo em tempo integral em nossa vida. Tenha seu espaço para viver. Cuidar da família, da casa, do seu bem estar e dos amigos também. Uma noite de vinhos é a minha certeza de um dia seguinte mais produtivo.”_**
 > </p>
 
 <p align="justify">
@@ -116,7 +116,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>Novamente falo do equilíbrio. É preciso muita responsabilidade para aprender mais sobre o seu hobby, para fazê-lo todos os dias e ver a melhor forma, com planejamento, para que possa se tornar o seu trabalho. É preciso levar isso com seriedade, e ter horários para cumprir. Se eu trabalho de casa eu tenho o privilegio de escolher minha planilha de horários. Não importa se por conta das crianças e meus afazeres domésticos disponho de apenas duas horas diárias, então que eu eu seja produtiva nesse horário e trabalhe com intensidade. E não esqueça: o maior incentivador sempre será você mesma. Organize-se a sua maneira.”</em>**
+>   “**_Novamente falo do equilíbrio. É preciso muita responsabilidade para aprender mais sobre o seu hobby, para fazê-lo todos os dias e ver a melhor forma, com planejamento, para que possa se tornar o seu trabalho. É preciso levar isso com seriedade, e ter horários para cumprir. Se eu trabalho de casa eu tenho o privilegio de escolher minha planilha de horários. Não importa se por conta das crianças e meus afazeres domésticos disponho de apenas duas horas diárias, então que eu eu seja produtiva nesse horário e trabalhe com intensidade. E não esqueça: o maior incentivador sempre será você mesma. Organize-se a sua maneira.”_**
 > </p>
 
 <p align="justify">
@@ -124,7 +124,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Eu costumo orientar para esquecer a concorrência. Ela nos limita e nos escraviza fazendo com que o nosso trabalho se torne chato. Se todo mundo está confeccionando a “necessaire redonda&#8221; eu posso oferecer a minha cliente a “necessaire quadrada”. É a liberdade para criar e sem ter medo de expor. É a humildade de aceitar que é possível que você não seja a escolhida para confeccionar a necessaire da moda para o seu cliente. Se arrisque mostrando o seu diferencial.”</em>**
+>   **_“Eu costumo orientar para esquecer a concorrência. Ela nos limita e nos escraviza fazendo com que o nosso trabalho se torne chato. Se todo mundo está confeccionando a “necessaire redonda&#8221; eu posso oferecer a minha cliente a “necessaire quadrada”. É a liberdade para criar e sem ter medo de expor. É a humildade de aceitar que é possível que você não seja a escolhida para confeccionar a necessaire da moda para o seu cliente. Se arrisque mostrando o seu diferencial.”_**
 > </p>
 
 <p align="justify">
@@ -132,7 +132,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“O nosso lugar ao sol conquistamos logo que nascemos. Esse foi o presente de Deus. O nosso lugar no mercado, como profissional, vai depender da sua persistência e criatividade. Não imponha limites para si mesma fazendo “o que todo mundo está fazendo”. Esse não é o segredo para boas vendas. Liberte a sua criatividade. Vença seus limites.”</em>**
+>   **_“O nosso lugar ao sol conquistamos logo que nascemos. Esse foi o presente de Deus. O nosso lugar no mercado, como profissional, vai depender da sua persistência e criatividade. Não imponha limites para si mesma fazendo “o que todo mundo está fazendo”. Esse não é o segredo para boas vendas. Liberte a sua criatividade. Vença seus limites.”_**
 > </p>
 
 <p align="justify">
@@ -140,7 +140,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Sim e não. Sim, porque devemos olhar para aqueles que julgamos no momento ser maiores que nós com admiração. Isso vai nos fazer querer crescer para conseguir o mesmo. Quem sabe até um pouco mais? Todas nós somos capazes. Não, porque às vezes é dificil separar o sentimento que alguns podem entender como inveja (palavra descartada do meu dicionário). Muitas pessoas não se sentem admiradas e, sim, invejadas. É confuso. É algo que apenas se sente e demora a ser entendido.”</em>**
+>   **_“Sim e não. Sim, porque devemos olhar para aqueles que julgamos no momento ser maiores que nós com admiração. Isso vai nos fazer querer crescer para conseguir o mesmo. Quem sabe até um pouco mais? Todas nós somos capazes. Não, porque às vezes é dificil separar o sentimento que alguns podem entender como inveja (palavra descartada do meu dicionário). Muitas pessoas não se sentem admiradas e, sim, invejadas. É confuso. É algo que apenas se sente e demora a ser entendido.”_**
 > </p>
 
 <p align="justify">
@@ -148,11 +148,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/" target="_blank">**Empreendedorismo feminino: 3 mulheres contaram tudo!**</a>
+  [**Empreendedorismo feminino: 3 mulheres contaram tudo!**](http://www.trololodemulher.com.br/2014/12/12/empreendedorismo-feminino/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/" target="_blank">**Qual é o mistério do sucesso da Margaret?**</a>
+  [**Qual é o mistério do sucesso da Margaret?**](http://www.trololodemulher.com.br/2013/08/16/margaret-empreendedorismo/) 
 </p>
 
 <p align="justify">
@@ -160,7 +160,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>Invista o mínimo que puder para que esse retorno apareça tão rápido como esperado. Aqui estamos falando de artesanatos e vendas na internet. Então, eu não preciso abrir as portas do meu ateliê para o meu cliente. Com agulha, linha, feltro e dedicação eu posso começar a fazer dinheiro. Invista quando vender.”</em>**
+>   “**_Invista o mínimo que puder para que esse retorno apareça tão rápido como esperado. Aqui estamos falando de artesanatos e vendas na internet. Então, eu não preciso abrir as portas do meu ateliê para o meu cliente. Com agulha, linha, feltro e dedicação eu posso começar a fazer dinheiro. Invista quando vender.”_**
 > </p>
 
 <p align="justify">
@@ -168,7 +168,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>O desafio é diário. Se ele deixar de existir, com isso vai morrer o amor em querer mais. Eu sempre devo sentir medo de não responder a expectativa do meu público, que poderá ser o meu futuro cliente. A segurança limita a nossa criatividade. É preciso errar infinitas vezes para acertar o produto certo e de boa aceitação.”</em>**
+>   “**_O desafio é diário. Se ele deixar de existir, com isso vai morrer o amor em querer mais. Eu sempre devo sentir medo de não responder a expectativa do meu público, que poderá ser o meu futuro cliente. A segurança limita a nossa criatividade. É preciso errar infinitas vezes para acertar o produto certo e de boa aceitação.”_**
 > </p>
 
 <p align="justify">
@@ -176,7 +176,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **<em>“Rá. Creio que me agarrei ao equilíbro (novamente). Fazer cálculos é muito difícil no começo. Pra mim nunca funcionou a tabela tão famosa de multiplicar por três. Imagine uma empresa que vende peças de vidro quanto ganharia com essa conta ? NADA. Vidro é muito barato. Então, eles cobram pelo o design da peça. Eu compro quanto eu poderia pagar também. Você não vende material. Você vende ideias, transformações e principalmente o seu tempo. O artesanato é lucrativo.”</em>**
+>   **_“Rá. Creio que me agarrei ao equilíbro (novamente). Fazer cálculos é muito difícil no começo. Pra mim nunca funcionou a tabela tão famosa de multiplicar por três. Imagine uma empresa que vende peças de vidro quanto ganharia com essa conta ? NADA. Vidro é muito barato. Então, eles cobram pelo o design da peça. Eu compro quanto eu poderia pagar também. Você não vende material. Você vende ideias, transformações e principalmente o seu tempo. O artesanato é lucrativo.”_**
 > </p>
 
 <p align="justify">
@@ -184,7 +184,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>É fundamental a sua organização com o seu tempo no trabalho. Não é fácil mesmo trabalhar de casa: o telefone toca, a vizinha chega, a amiga mandou mensagem, a comida precisa ser feita. Mas é preciso lembrar que no espaço de tempo determinado por você haverá dedicação ao seu trabalho, e não a sua casa. Cansei de ver a minha família reclamar “mas, eu liguei mais cedo e você não atendeu&#8221; e eu novamente lembrando “Pois é, eu estava no trabalho”. Organize-se para ser produtiva pois, de outra forma, você vai se demitir por justa causa. Respeite o seu tempo fazendo um bom uso dele.”</em>**
+>   “**_É fundamental a sua organização com o seu tempo no trabalho. Não é fácil mesmo trabalhar de casa: o telefone toca, a vizinha chega, a amiga mandou mensagem, a comida precisa ser feita. Mas é preciso lembrar que no espaço de tempo determinado por você haverá dedicação ao seu trabalho, e não a sua casa. Cansei de ver a minha família reclamar “mas, eu liguei mais cedo e você não atendeu&#8221; e eu novamente lembrando “Pois é, eu estava no trabalho”. Organize-se para ser produtiva pois, de outra forma, você vai se demitir por justa causa. Respeite o seu tempo fazendo um bom uso dele.”_**
 > </p>
 
 <p align="justify">
@@ -192,7 +192,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">**Produtividade e gestão do tempo: chega de correria!**</a>
+  [**Produtividade e gestão do tempo: chega de correria!**](http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/) 
 </p>
 
 <p align="justify">
@@ -200,7 +200,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>Você tem que se expor da melhor maneira possível na internet. Isso mesmo, além de mostrar a sua arte, se mostre. Essa é a diferença que vai fazer com que o seu futuro cliente acredite no que vai receber em casa. A cada dia uma foto nova, um detalhe, um pedaço do seu espaço de trabalho. Se mostre para o mundo TODOS OS DIAS.”</em>**
+>   “**_Você tem que se expor da melhor maneira possível na internet. Isso mesmo, além de mostrar a sua arte, se mostre. Essa é a diferença que vai fazer com que o seu futuro cliente acredite no que vai receber em casa. A cada dia uma foto nova, um detalhe, um pedaço do seu espaço de trabalho. Se mostre para o mundo TODOS OS DIAS.”_**
 > </p>
 
 <p align="center">
@@ -208,7 +208,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <em>Imagens do atelier da Jê, onde ela cria suas artes e grava vídeos para compartilhar experiências, dicas e tudo o mais.</em>
+  _Imagens do atelier da Jê, onde ela cria suas artes e grava vídeos para compartilhar experiências, dicas e tudo o mais._
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -217,11 +217,11 @@ categories:
   </p>
   
   <p style="text-align: left;" align="justify">
-    **<a href="http://www.trololodemulher.com.br/2011/08/08/dicas-de-organizacao/" target="_blank">Seu ateliê: 3 dicas de marcenaria para melhorar a organização.</a>**
+    **[Seu ateliê: 3 dicas de marcenaria para melhorar a organização.](http://www.trololodemulher.com.br/2011/08/08/dicas-de-organizacao/) **
   </p>
   
   <p style="text-align: left;" align="justify">
-    **<a href="http://www.trololodemulher.com.br/2011/07/18/ideias-vintage-organizacao/" target="_blank">3 ideias vintage que organizam o seu ateliê com charme. Inspire-se!</a>**
+    **[3 ideias vintage que organizam o seu ateliê com charme. Inspire-se!](http://www.trololodemulher.com.br/2011/07/18/ideias-vintage-organizacao/) **
   </p>
   
   <p align="justify">
@@ -234,7 +234,7 @@ categories:
   
   <blockquote>
     <p align="justify">
-      **<em>“O amor pela arte e aprender a lidar com a realidade. Para cada SIM eu levo antes muitos NÃO(s). Aceitar que a minha luta é diária faz com que eu me mantenha firme e disposta a conquistar novos desafios para com o meu trabalho.”</em>**
+      **_“O amor pela arte e aprender a lidar com a realidade. Para cada SIM eu levo antes muitos NÃO(s). Aceitar que a minha luta é diária faz com que eu me mantenha firme e disposta a conquistar novos desafios para com o meu trabalho.”_**
     </p>
   </blockquote>
   
@@ -244,7 +244,7 @@ categories:
   
   <blockquote>
     <p align="justify">
-      **<em>“Isso é fato. Muitas vezes me pego trabalhando quando já estou pronta para dormir, me vejo motivada a responder aquela última dúvida da minha arteira. Me vejo motivada a concluir o texto do vídeo que será liberado pela manhã. Compulsão ou amor ? Mas também me vejo motivada a sair para relaxar, e tomar meu vinho todas as sextas com meu esposo, e algumas vezes com amigos.”</em>**
+      **_“Isso é fato. Muitas vezes me pego trabalhando quando já estou pronta para dormir, me vejo motivada a responder aquela última dúvida da minha arteira. Me vejo motivada a concluir o texto do vídeo que será liberado pela manhã. Compulsão ou amor ? Mas também me vejo motivada a sair para relaxar, e tomar meu vinho todas as sextas com meu esposo, e algumas vezes com amigos.”_**
     </p>
   </blockquote>
   
@@ -253,7 +253,7 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2014/07/23/trabalho-carreira/" target="_blank">**“Amo tanto o meu trabalho!”… será mesmo amor?**</a>
+    [**“Amo tanto o meu trabalho!”… será mesmo amor?**](http://www.trololodemulher.com.br/2014/07/23/trabalho-carreira/) 
   </p>
   
   <p align="justify">
@@ -262,7 +262,7 @@ categories:
   
   <blockquote>
     <p align="justify">
-      **<em>“Depende do que você espera. Muitos trabalhos vão te dar retorno financeiro rápido e pouca satisfação. Outros trabalhos vão te dar muita satisfação e pouco retorno financeiro. O importante é que venha os dois na medida certa e esse é o seu dever para conquistar “retorno financeiro e satisfação.”</em>**
+      **_“Depende do que você espera. Muitos trabalhos vão te dar retorno financeiro rápido e pouca satisfação. Outros trabalhos vão te dar muita satisfação e pouco retorno financeiro. O importante é que venha os dois na medida certa e esse é o seu dever para conquistar “retorno financeiro e satisfação.”_**
     </p>
   </blockquote>
   
@@ -271,7 +271,7 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/" target="_blank">**Empreendedorismo feminino: o que é mais importante?**</a>
+    [**Empreendedorismo feminino: o que é mais importante?**](http://www.trololodemulher.com.br/2014/06/13/empreendedorismo-feminino-2/) 
   </p>
   
   <p align="center">
@@ -280,13 +280,13 @@ categories:
   
   <blockquote>
     <p align="justify">
-      **<em>“Seja o SAC da sua empresa, ninguém poderá descrever sobre o seu produto melhor que você. Então, faça isso da melhor maneira possível. Ainda que não feche a compra dessa vez, você deixa no cliente a vontade de voltar para uma nova consulta, e dessa vez para fechar a compra. O cliente a procurou por querer um produto diferenciado, então ofereça todo esse suporte a ele.”</em>**
+      **_“Seja o SAC da sua empresa, ninguém poderá descrever sobre o seu produto melhor que você. Então, faça isso da melhor maneira possível. Ainda que não feche a compra dessa vez, você deixa no cliente a vontade de voltar para uma nova consulta, e dessa vez para fechar a compra. O cliente a procurou por querer um produto diferenciado, então ofereça todo esse suporte a ele.”_**
     </p>
   </blockquote>
   
   <blockquote>
     <p align="justify">
-      **<em>“O acabamento do seu produto e detalhes em embalagens e cheiros. Ganhe seu cliente com o que você gostaria de receber em sua compras: uma embalagem bem feita, um chocolate, um sachê, um cartão de muito obrigada. Detalhes.”</em>**
+      **_“O acabamento do seu produto e detalhes em embalagens e cheiros. Ganhe seu cliente com o que você gostaria de receber em sua compras: uma embalagem bem feita, um chocolate, um sachê, um cartão de muito obrigada. Detalhes.”_**
     </p>
   </blockquote>
   
@@ -296,12 +296,12 @@ categories:
   
   <blockquote>
     <p align="justify">
-      **<em>“Possibilidades para construir e acreditar na sua arte.”</em>**
+      **_“Possibilidades para construir e acreditar na sua arte.”_**
     </p>
   </blockquote>
   
   <p align="justify">
-    Jê está espalhada pela internet e você pode vê-la nos lugares mais agitados. Confira o que essa moça vem desenvolvendo, aprenda muito mais com ela e comece a trilhar o seu caminho também, fazendo de suas habilidades manuais um meio para ganhar o seu sustento. Impossível não é… e pra começar: <a href="https://www.facebook.com/DreamsFactoryByJeane" target="_blank">curta a fanpage Dreams Facotory no Facebook</a>, acompanhe o <a href="http://www.dreamsfactorybyjeane.com/" target="_blank">blog da Jê</a> e <a href="https://www.youtube.com/user/DreamsFactoryByJeane" target="_blank">inscreva-se no canal da Jê no Youtube</a>, re-ple-to de vídeos com PAPs, dicas e muito mais.
+    Jê está espalhada pela internet e você pode vê-la nos lugares mais agitados. Confira o que essa moça vem desenvolvendo, aprenda muito mais com ela e comece a trilhar o seu caminho também, fazendo de suas habilidades manuais um meio para ganhar o seu sustento. Impossível não é… e pra começar: [curta a fanpage Dreams Facotory no Facebook](https://www.facebook.com/DreamsFactoryByJeane) , acompanhe o [blog da Jê](http://www.dreamsfactorybyjeane.com/)  e [inscreva-se no canal da Jê no Youtube](https://www.youtube.com/user/DreamsFactoryByJeane) , re-ple-to de vídeos com PAPs, dicas e muito mais.
   </p>
   
   <p align="justify">
@@ -309,13 +309,13 @@ categories:
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/" target="_blank">**O talento na cozinha pode virar uma fonte de renda?**</a>
+    [**O talento na cozinha pode virar uma fonte de renda?**](http://www.trololodemulher.com.br/2011/10/07/empreendedorismo-cozinha/) 
   </p>
   
   <p align="justify">
-    <a href="http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/" target="_blank">**Quer trabalhar sem sair de casa mas não sabe como?**</a>
+    [**Quer trabalhar sem sair de casa mas não sabe como?**](http://www.trololodemulher.com.br/2011/09/09/trabalhar-home-office/) 
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
   </p>

@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Enquanto edito este post, fico pensando com meus botões que não lembro de ter saboreado uma **canja de galinha**. A receita é tão simples que, claro, vou remediar isso o quanto antes. Costumo pensar que é <em>blogando</em> que se aprende, e tenho sorte de ter a Tânia como colaboradora do **Trololó de Mulher**, porque tenho aprendido muito mesmo. Olha que lindeza de prato! Anime-se e reproduza esta delícia confortante em seu lar também.
+  Enquanto edito este post, fico pensando com meus botões que não lembro de ter saboreado uma **canja de galinha**. A receita é tão simples que, claro, vou remediar isso o quanto antes. Costumo pensar que é _blogando_ que se aprende, e tenho sorte de ter a Tânia como colaboradora do **Trololó de Mulher**, porque tenho aprendido muito mesmo. Olha que lindeza de prato! Anime-se e reproduza esta delícia confortante em seu lar também.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Eu cresci ouvindo a minha avó, regularmente, dizendo que sopa de frango e descanso não faz nenhum mal. Quando criança, eu não conseguia entender muito bem o comentário dela, mas agora faz muito sentido e, mais uma vez, ela estava certa. Você se lembra do meu post anterior onde eu falei sobre a sugestão de minha avó para beber </em><a href="http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/" target="_blank"><em>suco de beterraba</em></a><em>?</em>
+  “_Eu cresci ouvindo a minha avó, regularmente, dizendo que sopa de frango e descanso não faz nenhum mal. Quando criança, eu não conseguia entender muito bem o comentário dela, mas agora faz muito sentido e, mais uma vez, ela estava certa. Você se lembra do meu post anterior onde eu falei sobre a sugestão de minha avó para beber _[_suco de beterraba_](http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/) _?_
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Canja é o tipo de comida que você come quando você está sentindo fraco e precisa de um pouco de energia. </em>
+  _Canja é o tipo de comida que você come quando você está sentindo fraco e precisa de um pouco de energia. _
 </p>
 
 <p align="justify">
-  <em>O poder deste prato vem dos ingredientes simples e frescos utilizados para a sua preparação: peito de frango, arroz e vegetais. Além disso, é leve e fácil de digerir.</em>
+  _O poder deste prato vem dos ingredientes simples e frescos utilizados para a sua preparação: peito de frango, arroz e vegetais. Além disso, é leve e fácil de digerir._
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Esta sopa é o que você chamaria de “comfort food”, uma comidinha com cara de aconchego, é fácil de preparar e muito saborosa. Esse prato nunca deixa de colocar um sorriso no meu rosto e espero que o mesmo aconteça com você.</em>
+  _Esta sopa é o que você chamaria de “comfort food”, uma comidinha com cara de aconchego, é fácil de preparar e muito saborosa. Esse prato nunca deixa de colocar um sorriso no meu rosto e espero que o mesmo aconteça com você._
 </p>
 
 <p align="justify">
@@ -50,87 +50,87 @@ categories:
 </p>
 
 <p align="justify">
-  <em>2 colheres de sopa de azeite</em>
+  _2 colheres de sopa de azeite_
 </p>
 
 <p align="justify">
-  <em>1 cebola, picada</em>
+  _1 cebola, picada_
 </p>
 
 <p align="justify">
-  <em>1 talo de aipo, picado</em>
+  _1 talo de aipo, picado_
 </p>
 
 <p align="justify">
-  <em>1 dente de alho, amassado</em>
+  _1 dente de alho, amassado_
 </p>
 
 <p align="justify">
-  <em>1 peito de frango</em>
+  _1 peito de frango_
 </p>
 
 <p align="justify">
-  <em>2 tomates, picados</em>
+  _2 tomates, picados_
 </p>
 
 <p align="justify">
-  <em>1 ½  litro de água, quente</em>
+  _1 ½  litro de água, quente_
 </p>
 
 <p align="justify">
-  <em>2 cenouras, picadas</em>
+  _2 cenouras, picadas_
 </p>
 
 <p align="justify">
-  <em>2 batatas, picadas</em>
+  _2 batatas, picadas_
 </p>
 
 <p align="justify">
-  <em>1/3 de xícara de arroz, lavado e escorrido</em>
+  _1/3 de xícara de arroz, lavado e escorrido_
 </p>
 
 <p align="justify">
-  <em>Salsinha a gosto, picada</em>
+  _Salsinha a gosto, picada_
 </p>
 
 <p align="justify">
-  <em>Pimenta do reino moída e sal, a gosto</em>
+  _Pimenta do reino moída e sal, a gosto_
 </p>
 
 <p align="justify">
-  <em>  </em>
+  _  _
 </p>
 
 <p align="justify">
-  <em>1 – Em uma panela, em fogo médio-baixo, refogue o azeite, a cebola, o talo de aipo e o alho até que a cebola pareça translúcida; </em>
+  _1 – Em uma panela, em fogo médio-baixo, refogue o azeite, a cebola, o talo de aipo e o alho até que a cebola pareça translúcida; _
 </p>
 
 <p align="justify">
-  <em>2 – Adicione o peito de frango e vire-o até dourar todos os lados; </em>
+  _2 – Adicione o peito de frango e vire-o até dourar todos os lados; _
 </p>
 
 <p align="justify">
-  <em>3- Adicione os tomates e refogue mais um pouco; </em>
+  _3- Adicione os tomates e refogue mais um pouco; _
 </p>
 
 <p align="justify">
-  <em>4 – Adicione a água, as cenouras e as batatas e cozinhe por 15 minutos; </em>
+  _4 – Adicione a água, as cenouras e as batatas e cozinhe por 15 minutos; _
 </p>
 
 <p align="justify">
-  <em>5 – Adicione o arroz e cozinhe por mais 12 minutos; </em>
+  _5 – Adicione o arroz e cozinhe por mais 12 minutos; _
 </p>
 
 <p align="justify">
-  <em>6 – Adicione sal a gosto; </em>
+  _6 – Adicione sal a gosto; _
 </p>
 
 <p align="justify">
-  <em>6 – Retirar o peito de frango desfie e coloque-o outra vez na panela; </em>
+  _6 – Retirar o peito de frango desfie e coloque-o outra vez na panela; _
 </p>
 
 <p align="justify">
-  <em>7 – Antes de servir, tempere com a salsinha e a pimenta do reino</em>.”
+  _7 – Antes de servir, tempere com a salsinha e a pimenta do reino_.”
 </p>
 
 <p align="center">
@@ -139,18 +139,18 @@ categories:
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/" target="_blank">**Picolé caseiro de tangerina assada, com gengibre e iogurte.**</a>
+[**Picolé caseiro de tangerina assada, com gengibre e iogurte.**](http://www.trololodemulher.com.br/2017/09/05/picole-caseiro-2/) 
 
-<a href="http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/" target="_blank">**Pão caseiro trançado com recheio de pesto.**</a>
+[**Pão caseiro trançado com recheio de pesto.**](http://www.trololodemulher.com.br/2017/08/29/pao-caseiro-2/) 
 
-<a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank">**Geleia de banana e as reminiscências infantis.**</a>
+[**Geleia de banana e as reminiscências infantis.**](http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/) 
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira [o blog de Tânia clicando aqui](https://iwanttobeacook.wordpress.com/) , e [sua fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está [no Instagram… clique aqui e siga](https://www.instagram.com/iwanttobeacook/) ! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p style="text-align: justify;" align="center">
-  Há um item muito usado em composições de ambientes que sempre chamam minha atenção: bandejas. Repare e você verá que ela é uma queridinha entre os decoradores, e sempre haverá uma aqui e <em>acolá</em>, dando uma <em>bossa</em> toda charmosa nos mais diferentes espaços. Para usá-la com bastante charme, note: basta arrumar alguns pequenos objetos. O resultado final é uma composição que pode deixar sala, quarto, cozinha ou banheiro com aquele detalhe que é pura <em>lindeza</em>.
+  Há um item muito usado em composições de ambientes que sempre chamam minha atenção: bandejas. Repare e você verá que ela é uma queridinha entre os decoradores, e sempre haverá uma aqui e _acolá_, dando uma _bossa_ toda charmosa nos mais diferentes espaços. Para usá-la com bastante charme, note: basta arrumar alguns pequenos objetos. O resultado final é uma composição que pode deixar sala, quarto, cozinha ou banheiro com aquele detalhe que é pura _lindeza_.
 </p>
 
 <p style="text-align: justify;" align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://handmademood.com/" target="_blank">Handmade Mood</a>
+  Imagem: [Handmade Mood](http://handmademood.com/) 
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://mittvitahus.blogspot.se/" target="_blank">Mitt Vita Hus</a>
+  Imagem: [Mitt Vita Hus](http://mittvitahus.blogspot.se/) 
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

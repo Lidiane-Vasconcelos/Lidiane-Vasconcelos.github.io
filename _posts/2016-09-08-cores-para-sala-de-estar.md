@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Não é mais fácil quando a gente vê um ambiente que gosta, com uma cor que nos encanta? Foi nisso que pensei quando garimpei as imagens a seguir lá no **<em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em>**. Apesar de elas serem meramente ilustrativas, dá para a gente ter bem uma noção por qual família de cores e tons a gente suspira… <em>espia</em>!
+  Não é mais fácil quando a gente vê um ambiente que gosta, com uma cor que nos encanta? Foi nisso que pensei quando garimpei as imagens a seguir lá no **_[Better Homes and Gardens](http://www.bhg.com/) _**. Apesar de elas serem meramente ilustrativas, dá para a gente ter bem uma noção por qual família de cores e tons a gente suspira… _espia_!
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Sempre que precisei escolher cores para parede, recorri aos <em>folders</em> de tons que a gente encontra facilmente nas lojas especializadas. Recomendo que você faça o mesmo e traga para comparar com as nuances dos ambientes dos quais você gosta. Isso serve para as imagens que você vê logo em seguida, em outros posts ou outros blogs.
+  Sempre que precisei escolher cores para parede, recorri aos _folders_ de tons que a gente encontra facilmente nas lojas especializadas. Recomendo que você faça o mesmo e traga para comparar com as nuances dos ambientes dos quais você gosta. Isso serve para as imagens que você vê logo em seguida, em outros posts ou outros blogs.
 </p>
 
 <p align="justify">
@@ -35,15 +35,15 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.bichafemea.com/2010/05/31/cores-para-parede/" target="_blank">Como escolher cores para a parede?</a>**
+  **[Como escolher cores para a parede?](http://www.bichafemea.com/2010/05/31/cores-para-parede/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.bichafemea.com/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas e acabe suas dúvidas!</a>**
+  **[Cores na decoração: veja 6 respostas e acabe suas dúvidas!](http://www.bichafemea.com/2014/02/13/cores-na-decoracao/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a>**
+  **[Decoração da sala de estar: como inserir detalhes coloridos?](http://www.decoracaodacasa.com/decoracao-sala-estar-cores/) **
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Decoração de interiores: que cor pintar a parede da sala de estar?</a>**
+  **[Decoração de interiores: que cor pintar a parede da sala de estar?](http://www.bichafemea.com/2010/12/27/decoracao-cor-sala-de-estar/) **
 </p>
 
 &nbsp;
@@ -75,5 +75,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

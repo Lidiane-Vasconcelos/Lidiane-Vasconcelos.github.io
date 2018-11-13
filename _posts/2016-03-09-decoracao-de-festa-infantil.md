@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/17/festa-infantil-do-balao/" target="_blank">**Festa infantil do balão: ideias lindas de viver.**</a>
+  [**Festa infantil do balão: ideias lindas de viver.**](http://www.trololodemulher.com.br/2016/02/17/festa-infantil-do-balao/) 
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://studiodiy.com/2013/01/08/diy-balloon-surprise/" target="_blank">Studio DIY</a>
+  Via [Studio DIY](http://studiodiy.com/2013/01/08/diy-balloon-surprise/) 
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/12/04/festa-infantil-de-picnic/" target="_blank">Ideias simples para uma festa infantil de pic-nic</a>
+  [Ideias simples para uma festa infantil de pic-nic](http://www.trololodemulher.com.br/2015/12/04/festa-infantil-de-picnic/) 
 </p>
 
 <p align="justify">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="justify">
-  Está aí um jeito bem legal de cada criança convidada levar pra casa um balão: o item amarrado na <a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">sacola de festa infantil</a>. Não é uma graça?
+  Está aí um jeito bem legal de cada criança convidada levar pra casa um balão: o item amarrado na [sacola de festa infantil](http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/) . Não é uma graça?
 </p>
 
 <p align="justify">
@@ -115,7 +115,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">**Sacolinhas de festa infantil: faça você mesma.**</a>
+  [**Sacolinhas de festa infantil: faça você mesma.**](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
 </p>
 
 <p align="justify">
@@ -139,7 +139,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/" target="_blank">**Festa infantil: como fazer topper para cupcake.**</a>
+  [**Festa infantil: como fazer topper para cupcake.**](http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/) 
 </p>
 
 <p align="justify">
@@ -151,11 +151,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://studiodiy.com/2014/08/28/diy-apple-balloons/" target="_blank">Studio DIY</a>
+  Via [Studio DIY](http://studiodiy.com/2014/08/28/diy-apple-balloons/) 
 </p>
 
 <p align="justify">
-  Como não achar lindo de viver um balão vermelho decorado como se fosse uma maçã, gente? Cartolina colorida e fita dupla face + tesoura pode deixar seus balões <em>beeem</em> diferentes do lugar comum… e encantar a todos! Inspire-se!
+  Como não achar lindo de viver um balão vermelho decorado como se fosse uma maçã, gente? Cartolina colorida e fita dupla face + tesoura pode deixar seus balões _beeem_ diferentes do lugar comum… e encantar a todos! Inspire-se!
 </p>
 
 <p align="justify">
@@ -163,11 +163,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank">**Bandeirolas de aniversário: imprima grátis.**</a>
+  [**Bandeirolas de aniversário: imprima grátis.**](http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

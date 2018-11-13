@@ -25,7 +25,7 @@ Tem coisa mais gostosa que **presentear** um pequeno e ver a alegria estampada n
 
 &nbsp;
 
-_Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de **<a href="http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=59&category=7" target="_blank">Ité</a>**, os dois vivem no Alasca e inventam muitas brincadeiras no gelo. Ele adora correr na neve e vive tomando sorvete. Ele adora tudo que é gelado_. Via **<a href="http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=78&category=7" target="_blank">Tutitati</a>**.
+_Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de **[Ité](http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=59&category=7) **, os dois vivem no Alasca e inventam muitas brincadeiras no gelo. Ele adora correr na neve e vive tomando sorvete. Ele adora tudo que é gelado_. Via **[Tutitati](http://www.tutitati.com.br/lojavirtual.php?view=productPage&product=78&category=7) **.
 
 &nbsp;
 
@@ -36,7 +36,7 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
 &nbsp;
 
 <p align="justify">
-  <em>Tecido 100% Poliéster. Enchimento com fibra de silicone. Medidas: 31 x 21 cm (aproximadamente &#8211; pode variar de acordo com o formato). O produto pode ser 100% personalizado! Ao adquirir essa almofada você escolherá como personalizá-la. Veja outras estampas disponíveis</em>. Via **<a href="https://www.lojalapomme.com.br/produtos/Almofada-Toy.html" target="_blank">La Pomme</a>**.
+  _Tecido 100% Poliéster. Enchimento com fibra de silicone. Medidas: 31 x 21 cm (aproximadamente &#8211; pode variar de acordo com o formato). O produto pode ser 100% personalizado! Ao adquirir essa almofada você escolherá como personalizá-la. Veja outras estampas disponíveis_. Via **[La Pomme](https://www.lojalapomme.com.br/produtos/Almofada-Toy.html) **.
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
 &nbsp;
 
 <p align="justify">
-  <em>Dedoches confeccionados em feltro. Gato, cavalo, elefante, sapo, galinha, porquinho, vaquinha e muitos outros</em>. Via **<a href="http://www.elo7.com.br/dedoches-animais-diversos/dp/10F42B" target="_blank">1001 Feltros</a>**.
+  _Dedoches confeccionados em feltro. Gato, cavalo, elefante, sapo, galinha, porquinho, vaquinha e muitos outros_. Via **[1001 Feltros](http://www.elo7.com.br/dedoches-animais-diversos/dp/10F42B) **.
 </p>
 
 &nbsp;
@@ -60,7 +60,7 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
 &nbsp;
 
 <p align="justify">
-  <em>A boneca sapeca é a representação de uma criança de 3 a 5 anos de idade. Ela pode ter 30 ou 35 cm de altura. Seus membros são costurados e com isso podem fazer pose, trocar de roupa e penteado. Seu corpo é confeccionado em tecido importado, o recheio de lã de carneiro e os cabelos de lã natural ou sintética. Ela vai com um vestido, uma calcinha e um par de sapatos. Roupas extras podem ser encomendadas. Pode ser lavada à mão com carinho</em>. Via **<a href="http://fabiluli.com.br/?page_id=22" target="_blank">Fabiluli</a>**.
+  _A boneca sapeca é a representação de uma criança de 3 a 5 anos de idade. Ela pode ter 30 ou 35 cm de altura. Seus membros são costurados e com isso podem fazer pose, trocar de roupa e penteado. Seu corpo é confeccionado em tecido importado, o recheio de lã de carneiro e os cabelos de lã natural ou sintética. Ela vai com um vestido, uma calcinha e um par de sapatos. Roupas extras podem ser encomendadas. Pode ser lavada à mão com carinho_. Via **[Fabiluli](http://fabiluli.com.br/?page_id=22) **.
 </p>
 
 &nbsp;
@@ -127,13 +127,13 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -143,5 +143,5 @@ _Todo fofinho, macio e com barulhinho (chocalho)! Inu é um esquimó, irmão de 
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

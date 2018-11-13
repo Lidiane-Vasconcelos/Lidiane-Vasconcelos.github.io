@@ -28,15 +28,15 @@ categories:
 </p>
 
 <p align="justify">
-  Agora, imagine você, se a vida te leva para longe do seu porto seguro, família, amigos… país?! Já pensou que <em>vuco-vuco</em> isso causaria na sua vida? Veja bem… e se eu te dissesse que o país para onde você mudaria é a Finlândia? É, bonita, isso mesmo que você leu: Finlândia!!! Frio, neve, cultura e língua diferentes. Diante de uma mudança dessas, a minha virou fichinha de fliperama (ai, como sou <em>véia</em>!). Pois temos entre nós uma bicha fêmea que, oh: é arretada de forte e corajosa. **Adriana Minhoto**, poderosa que só ela, topou essa aventura com o marido, e vai passar 2 anos nessa terra pouco conhecida para nós, brasileiros.
+  Agora, imagine você, se a vida te leva para longe do seu porto seguro, família, amigos… país?! Já pensou que _vuco-vuco_ isso causaria na sua vida? Veja bem… e se eu te dissesse que o país para onde você mudaria é a Finlândia? É, bonita, isso mesmo que você leu: Finlândia!!! Frio, neve, cultura e língua diferentes. Diante de uma mudança dessas, a minha virou fichinha de fliperama (ai, como sou _véia_!). Pois temos entre nós uma bicha fêmea que, oh: é arretada de forte e corajosa. **Adriana Minhoto**, poderosa que só ela, topou essa aventura com o marido, e vai passar 2 anos nessa terra pouco conhecida para nós, brasileiros.
 </p>
 
 <p align="justify">
-  E sabe o melhor de tudo? Ela vai nos contar<em> tim-tim-por-tim-tim </em>a sua experiência em terras finlandesas. Fiquei <em>superultramega</em> empolgada quando ela topou compartilhar conosco suas descobertas e aventura. E pra começar… o começo de tudo:
+  E sabe o melhor de tudo? Ela vai nos contar_ tim-tim-por-tim-tim _a sua experiência em terras finlandesas. Fiquei _superultramega_ empolgada quando ela topou compartilhar conosco suas descobertas e aventura. E pra começar… o começo de tudo:
 </p>
 
 <p align="justify">
-  **<em><span style="font-size: large;">“Tínhamos muito em comum e sempre nos demos muito bem. Porém ele sempre sonhou em estudar fora do país e eu nunca imaginei em ficar fora do Brasil, longe dos meus pais.”</span></em>**
+  **_<span style="font-size: large;">“Tínhamos muito em comum e sempre nos demos muito bem. Porém ele sempre sonhou em estudar fora do país e eu nunca imaginei em ficar fora do Brasil, longe dos meus pais.”</span>_**
 </p>
 
 > <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  **<em>“…eu aceitei casar com ele e com isso acabei “comprando” o sonho dele de estudar fora! “</em>**
+  **_“…eu aceitei casar com ele e com isso acabei “comprando” o sonho dele de estudar fora! “_**
 </p>
 
 > <p align="justify">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p align="justify">
-  Vamos conhecer essa terra tão distante, seus costumes e coisas práticas do dia a dia, tudo pelos olhos de outra mulher que tem o mesmo ponto de vista do nosso. Vamos aprender muito com a Dri, tenho certeza. Viajar para outro país é bom demais, mas ter a oportunidade de conviver com nativos como ela terá, e que certamente vai fazê-la enxergar muitos aspectos da vida com outros olhos, é outro nível! Sorte nossa que vamos fazer parte desse aprendizado, <em>né</em>? Estou feliz da vida por isso, por esse presente que o blog vai ganhar… e que venham os próximos posts!
+  Vamos conhecer essa terra tão distante, seus costumes e coisas práticas do dia a dia, tudo pelos olhos de outra mulher que tem o mesmo ponto de vista do nosso. Vamos aprender muito com a Dri, tenho certeza. Viajar para outro país é bom demais, mas ter a oportunidade de conviver com nativos como ela terá, e que certamente vai fazê-la enxergar muitos aspectos da vida com outros olhos, é outro nível! Sorte nossa que vamos fazer parte desse aprendizado, _né_? Estou feliz da vida por isso, por esse presente que o blog vai ganhar… e que venham os próximos posts!
 </p>
 
 <p align="center">
@@ -72,11 +72,11 @@ categories:
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Vai!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

@@ -9,7 +9,7 @@ permalink: /2009/05/14/convidada-yvon/
 categories:
   - Sem categoria
 ---
-**_Por Yvone – <a href="http://casaspossiveis.blogspot.com/" target="_blank">Casas Possíveis</a>_**
+**_Por Yvone – [Casas Possíveis](http://casaspossiveis.blogspot.com/) _**
 
 _Tô_ adorando estar aqui. Quando a Lidiane me convidou, fiquei tentando pensar como resumir tantos aprendizados&#8230; Bom, lá vamos nós&#8230;
 

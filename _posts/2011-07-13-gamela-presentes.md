@@ -14,7 +14,7 @@ Escolher a **Prateleira do Bicha Fêmea**, mês a mês, não é uma das tarefas 
 &nbsp;
 
 <p style="text-align: justify;">
-  Repara só quem está na prateleira desse mês: **<a href="http://www.gamelapresentes.com.br/" target="_blank">Gamela Presentes</a>**. Conhece? Se essa loja virtual ainda é uma novidade para você, prepare-se para ver coisas lindas de viver que deixariam a casa de qualquer uma ainda mais bonita…
+  Repara só quem está na prateleira desse mês: **[Gamela Presentes](http://www.gamelapresentes.com.br/) **. Conhece? Se essa loja virtual ainda é uma novidade para você, prepare-se para ver coisas lindas de viver que deixariam a casa de qualquer uma ainda mais bonita…
 </p>
 
 <!--more-->
@@ -46,7 +46,7 @@ Escolher a **Prateleira do Bicha Fêmea**, mês a mês, não é uma das tarefas 
 &nbsp;
 
 <p style="text-align: justify;">
-  Também presente na blogosfera, a Fátima atualiza **<a href="http://gamelapresentes.blogspot.com/" target="_blank">o blog da loja</a>** com as novidades que vão chegando por lá, o que é uma excelente alternativa para quem gosta de saber quais os novos produtos tão logo o blog seja atualizado. Dessa forma, dá para correr e garantir os mimos antes que eles sumam das prateleiras. Como os produtos são <em>cutes cutes</em>, isso não é difícil de acontecer em pouco tempo.
+  Também presente na blogosfera, a Fátima atualiza **[o blog da loja](http://gamelapresentes.blogspot.com/) ** com as novidades que vão chegando por lá, o que é uma excelente alternativa para quem gosta de saber quais os novos produtos tão logo o blog seja atualizado. Dessa forma, dá para correr e garantir os mimos antes que eles sumam das prateleiras. Como os produtos são _cutes cutes_, isso não é difícil de acontecer em pouco tempo.
 </p>
 
 &nbsp;
@@ -66,7 +66,7 @@ Escolher a **Prateleira do Bicha Fêmea**, mês a mês, não é uma das tarefas 
 &nbsp;
 
 <p style="text-align: justify;">
-  Ficou tão encantada quanto eu? Você vai ficar muito mais se der uma passeada pela loja virtual da **Gamela Presentes**, viu? A variedade é incrível e vai te tentar muito…pode acreditar .**<a href="http://www.gamelapresentes.com.br/" target="_blank">Tire a prova</a>**!
+  Ficou tão encantada quanto eu? Você vai ficar muito mais se der uma passeada pela loja virtual da **Gamela Presentes**, viu? A variedade é incrível e vai te tentar muito…pode acreditar .**[Tire a prova](http://www.gamelapresentes.com.br/) **!
 </p>
 
 &nbsp;
@@ -88,17 +88,17 @@ Escolher a **Prateleira do Bicha Fêmea**, mês a mês, não é uma das tarefas 
 &nbsp;
 
 <p align="center">
-  Receba todo dia, como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p align="center">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p align="center">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

@@ -12,7 +12,7 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Quando você – e <em>tooooda</em> a família – chega em casa é aquela cena: bolsa largada sobre a mesa ou sofá, certo? A mesma coisa acontece com as contas que vão chegando e precisam ser pagas: ficam largadas aqui e acolá. Na hora de pagar, cadê? Vamos procurar? <em>tsc tsc tsc</em>… não seria uma boa ideia ter um cabideiro na entrada da casa onde tudo pudesse ser acomodado? Bolsas penduradas (capa de chuva, guarda-chuva, mochila, etc.) e contas devidamente juntas, esperando para serem pagas. Isso é organização, minha gente! E isso salva. Melhor ainda é se esse cabide for cheio de <em>bossa</em>, porque pode ter exatamente a sua cara, com detalhes nas cores de sua preferência. E se eu te disser: faça você mesma um cabideiro! &#8211;  A ideia deste post é te mostrar algo que pode ser reproduzido aí, em seus domínios, e o resultado é pura <em>lindeza</em>. Olha só:
+  Quando você – e _tooooda_ a família – chega em casa é aquela cena: bolsa largada sobre a mesa ou sofá, certo? A mesma coisa acontece com as contas que vão chegando e precisam ser pagas: ficam largadas aqui e acolá. Na hora de pagar, cadê? Vamos procurar? _tsc tsc tsc_… não seria uma boa ideia ter um cabideiro na entrada da casa onde tudo pudesse ser acomodado? Bolsas penduradas (capa de chuva, guarda-chuva, mochila, etc.) e contas devidamente juntas, esperando para serem pagas. Isso é organização, minha gente! E isso salva. Melhor ainda é se esse cabide for cheio de _bossa_, porque pode ter exatamente a sua cara, com detalhes nas cores de sua preferência. E se eu te disser: faça você mesma um cabideiro! &#8211;  A ideia deste post é te mostrar algo que pode ser reproduzido aí, em seus domínios, e o resultado é pura _lindeza_. Olha só:
 </p>
 
 <p align="justify">
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank">**Área de entrada da casa: organização… desde o início.**</a>
+  [**Área de entrada da casa: organização… desde o início.**](http://www.decoracaodacasa.com/area-de-entrada-da-casa/) 
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank">**Quer reformar uma cômoda e criar um espaço de organização na entrada da casa?**</a>
+  [**Quer reformar uma cômoda e criar um espaço de organização na entrada da casa?**](http://www.decoracaodacasa.com/comoda-hall-de-entrada/) 
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank">**Dicas de decoração para a área de entrada da casa.**</a>
+  [**Dicas de decoração para a área de entrada da casa.**](http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/) 
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="justify">
-  Todo o passo a passo bem detalhado, com fotos e explicação bastante didática, você encontra no blog A casa que a minha vó queria, da Ana Medeiros. Quem executou esse projeto foi a Eva Mota, colaboradora do blog. Gostou da ideia é quer um também? <a href="http://www.acasaqueaminhavoqueria.com/faca-voce-mesmo-um-cabideiro-super-charmoso-e-com-varias-utilidades/" target="_blank">Se joga bem aqui</a> e aprenda tudo, <em>tim tim por tim tim</em>.
+  Todo o passo a passo bem detalhado, com fotos e explicação bastante didática, você encontra no blog A casa que a minha vó queria, da Ana Medeiros. Quem executou esse projeto foi a Eva Mota, colaboradora do blog. Gostou da ideia é quer um também? [Se joga bem aqui](http://www.acasaqueaminhavoqueria.com/faca-voce-mesmo-um-cabideiro-super-charmoso-e-com-varias-utilidades/)  e aprenda tudo, _tim tim por tim tim_.
 </p>
 
 <p align="justify">
@@ -68,11 +68,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank">**Ideia para organização de objetos na área de entrada da casa.**</a>
+  [**Ideia para organização de objetos na área de entrada da casa.**](http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

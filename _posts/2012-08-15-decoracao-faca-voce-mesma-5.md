@@ -15,7 +15,7 @@ Pois é… essa moça bonita é das blogueiras que inspiram as bichas fêmeas qu
 &nbsp;
 
 <p align="justify">
-  Repare: há **ideias de decoração para seu <em>quartelier </em>e<em> </em>sua cabeceira de cama**. O resultado é algo fiel ao estilo dela, por um precinho <em>beeeem</em> camarada. Quer se inspirar com as <em>invencionices</em> da moça? Se joga!
+  Repare: há **ideias de decoração para seu _quartelier _e_ _sua cabeceira de cama**. O resultado é algo fiel ao estilo dela, por um precinho _beeeem_ camarada. Quer se inspirar com as _invencionices_ da moça? Se joga!
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Pois é… essa moça bonita é das blogueiras que inspiram as bichas fêmeas qu
 &nbsp;
 
 > <p align="justify">
->   “<em>Marido escolheu os melhores caixotes que pegamos do lado de casa, onde tem uma mercearia e toda noite o dono coloca na rua, e lixou para tirar o grosso, já que eles são muito rústicos. O pé de máquina Singer eu comprei em um ferro velho no começo do ano, por R$ 60,00. Marido passou anti-ferrugem e pintou de branco com tinta spray. Minha sogra viu em um terreno na rua da casa dela  um tipo de um tampo de mesa, em perfeito estado, que jogaram fora. Foi correndo buscar e depois me contou toda feliz que tinha &#8220;achado&#8221; o tampo para minha máquina. Marido só teve que cortar um pouquinho para poder encaixar certinho… ficou perfeito!!!”</em>
+>   “_Marido escolheu os melhores caixotes que pegamos do lado de casa, onde tem uma mercearia e toda noite o dono coloca na rua, e lixou para tirar o grosso, já que eles são muito rústicos. O pé de máquina Singer eu comprei em um ferro velho no começo do ano, por R$ 60,00. Marido passou anti-ferrugem e pintou de branco com tinta spray. Minha sogra viu em um terreno na rua da casa dela  um tipo de um tampo de mesa, em perfeito estado, que jogaram fora. Foi correndo buscar e depois me contou toda feliz que tinha &#8220;achado&#8221; o tampo para minha máquina. Marido só teve que cortar um pouquinho para poder encaixar certinho… ficou perfeito!!!”_
 > </p>
 
 &nbsp;
@@ -67,7 +67,7 @@ Pois é… essa moça bonita é das blogueiras que inspiram as bichas fêmeas qu
 &nbsp;
 
 > <p align="justify">
->   “<em>Dei uma olhada no Google para tirar algumas ideias e achei um post feito pela **Evinha**, filha da musa **Margaret**, em que ela desenhou e pintou uns arabescos na parede do quarto com um casal de passarinhos. O post é esse </em><a href="http://asperipeciasdeeva.com.br/2011/04/quarto-de-casal-ble/" target="_blank">**<em>aqui</em>**</a><em>. Achei maravilhoso e o marido encontrou a inspiração que queria para fazer o desenho!!! E o resultado que muito me agradou, e que todos os dias quando acordo fico encantada, é esse ai…”</em>
+>   “_Dei uma olhada no Google para tirar algumas ideias e achei um post feito pela **Evinha**, filha da musa **Margaret**, em que ela desenhou e pintou uns arabescos na parede do quarto com um casal de passarinhos. O post é esse _[**_aqui_**](http://asperipeciasdeeva.com.br/2011/04/quarto-de-casal-ble/) _. Achei maravilhoso e o marido encontrou a inspiração que queria para fazer o desenho!!! E o resultado que muito me agradou, e que todos os dias quando acordo fico encantada, é esse ai…”_
 > </p>
 
 &nbsp;
@@ -90,7 +90,7 @@ Pois é… essa moça bonita é das blogueiras que inspiram as bichas fêmeas qu
     
     <td valign="top" width="300">
       <p align="center">
-        **<span style="font-size: medium;"><a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/decoracao-quarto-cabeceira2200/" rel="attachment wp-att-9015"><img class="alignnone size-full wp-image-9015" title="DECORACAO QUARTO CABECEIRA[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-QUARTO-CABECEIRA2200.jpg" alt="" width="200" height="200" /></a><br /> </span>**<a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank">**<span style="font-size: medium;">3 ideias de cabeceiras diferentes… nada convencionais!</span>**</a>
+        **<span style="font-size: medium;">[**<span style="font-size: medium;">3 ideias de cabeceiras diferentes… nada convencionais!</span>**](http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/decoracao-quarto-cabeceira2200/" rel="attachment wp-att-9015"><img class="alignnone size-full wp-image-9015" title="DECORACAO QUARTO CABECEIRA[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/08/DECORACAO-QUARTO-CABECEIRA2200.jpg" alt="" width="200" height="200" /></a><br /> </span>**<a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/) 
       </p>
     </td>
   </tr>
@@ -109,13 +109,13 @@ Pois é… essa moça bonita é das blogueiras que inspiram as bichas fêmeas qu
 &nbsp;
 
 <p align="justify">
-  Ficou curiosa para conhecer um pouco mais sobre essa blogueira criativa para fazer da casa, assim como ela, um cantinho aconchegante, com sua carinha e, de quebra, gastando bem pouco? Visite o **<a href="http://casadadonakeilla.blogspot.com.br/" target="_blank">Casa da Dona Keilla</a>**, e delicie-se com as inúmeras <em>belezuras</em> que você encontra por lá…
+  Ficou curiosa para conhecer um pouco mais sobre essa blogueira criativa para fazer da casa, assim como ela, um cantinho aconchegante, com sua carinha e, de quebra, gastando bem pouco? Visite o **[Casa da Dona Keilla](http://casadadonakeilla.blogspot.com.br/) **, e delicie-se com as inúmeras _belezuras_ que você encontra por lá…
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -130,13 +130,13 @@ Pois é… essa moça bonita é das blogueiras que inspiram as bichas fêmeas qu
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

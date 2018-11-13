@@ -11,31 +11,31 @@ categories:
   - Social
 ---
 <p align="justify">
-  **Outubro Rosa** já faz parte do calendário de publicações do **Trololó de Mulher**. Pudera! O **<a href="http://www.trololodemulher.com.br/2015/10/23/cancer-de-mama-4/" target="_blank">câncer de mama</a>** toca a vida de muitas mulheres, algumas muito próximas de nós (isso se já não tocou você), e precisamos falar sobre o assunto, reforçar o alerta de que nós, mulheres, precisamos nos cuidar. Ocorre que, infelizmente, mesmo tentando cuidar da saúde, muitas esbarram numa série de dificuldades. Mas, juntas, podemos fazer algo para minimizar esses transtornos… é hora de partir para a ação! Esse post é um chamamento para as **mulheres de Recife**, e partiu de uma médica querida que conheço pessoalmente. Trata-se da **Dra. Claudia Nóbrega, Mastologista de Recife &#8211; PE**, que trabalha na rede da prefeitura da cidade, assim como a do estado, e faz parte da equipe de Oncomastologia do Hospital Esperança. Além disso, trabalha no **IMIP**, e conhece a realidade naquele espaço. Com muita propriedade e conhecimento de causa, ela deixa pra gente um pedido:
+  **Outubro Rosa** já faz parte do calendário de publicações do **Trololó de Mulher**. Pudera! O **[câncer de mama](http://www.trololodemulher.com.br/2015/10/23/cancer-de-mama-4/) ** toca a vida de muitas mulheres, algumas muito próximas de nós (isso se já não tocou você), e precisamos falar sobre o assunto, reforçar o alerta de que nós, mulheres, precisamos nos cuidar. Ocorre que, infelizmente, mesmo tentando cuidar da saúde, muitas esbarram numa série de dificuldades. Mas, juntas, podemos fazer algo para minimizar esses transtornos… é hora de partir para a ação! Esse post é um chamamento para as **mulheres de Recife**, e partiu de uma médica querida que conheço pessoalmente. Trata-se da **Dra. Claudia Nóbrega, Mastologista de Recife &#8211; PE**, que trabalha na rede da prefeitura da cidade, assim como a do estado, e faz parte da equipe de Oncomastologia do Hospital Esperança. Além disso, trabalha no **IMIP**, e conhece a realidade naquele espaço. Com muita propriedade e conhecimento de causa, ela deixa pra gente um pedido:
 </p>
 
 <p align="justify">
-  “<em>Meninas, gostaria de convidar vocês a participarem de uma ação que visa reformar o centro de diagnóstico e tratamento de câncer de mama Imip, instituição onde eu trabalho.</em>
+  “_Meninas, gostaria de convidar vocês a participarem de uma ação que visa reformar o centro de diagnóstico e tratamento de câncer de mama Imip, instituição onde eu trabalho._
 </p>
 
 <p align="justify">
-  <em>Há cerca de 1 ano o centro de mama não recebe nem um tipo de manutenção, ou seja, as portas que quebraram não foram consertadas , os negatoscopios (aquele lugar com luzes onde analisamos as mamografias) estão com luzes queimadas sem serem trocadas, aparelhos de ultrassonografia que tiveram defeitos não foram consertados (a fila para fazer USG de mama já chega a quase 1 ano e meio!) , o material para curativo cada dia é mais escasso, as infiltrações tomam conta das salas e colocam em risco a saúde de médicos e pacientes, isso do ponto de vista estrutural, dentre outros inúmeros problemas &#8230;</em>
+  _Há cerca de 1 ano o centro de mama não recebe nem um tipo de manutenção, ou seja, as portas que quebraram não foram consertadas , os negatoscopios (aquele lugar com luzes onde analisamos as mamografias) estão com luzes queimadas sem serem trocadas, aparelhos de ultrassonografia que tiveram defeitos não foram consertados (a fila para fazer USG de mama já chega a quase 1 ano e meio!) , o material para curativo cada dia é mais escasso, as infiltrações tomam conta das salas e colocam em risco a saúde de médicos e pacientes, isso do ponto de vista estrutural, dentre outros inúmeros problemas &#8230;_
 </p>
 
 <p align="justify">
-  <em>O atendimento lá é 100% SUS, e nossas pacientes estão sofrendo com isso também .</em>
+  _O atendimento lá é 100% SUS, e nossas pacientes estão sofrendo com isso também ._
 </p>
 
 <p align="justify">
-  <em>Diante de tantos problemas, e da falta de atitudes do poder público, a direção do centro de mama em parceria com a Harley Davidson coloca à venda kits, e fará essa ação no domingo 23/10 . O dinheiro da venda dos kits será usado para a reforma do centro de mama .</em>
+  _Diante de tantos problemas, e da falta de atitudes do poder público, a direção do centro de mama em parceria com a Harley Davidson coloca à venda kits, e fará essa ação no domingo 23/10 . O dinheiro da venda dos kits será usado para a reforma do centro de mama ._
 </p>
 
 <p align="justify">
-  <em>Quem puder ajudar, é uma causa super justa.</em>
+  _Quem puder ajudar, é uma causa super justa._
 </p>
 
 <p align="justify">
-  <em>Obrigada a todas</em>!”
+  _Obrigada a todas_!”
 </p>
 
 <p align="center">
@@ -76,12 +76,12 @@ categories:
 
 **Veja também:**
 
-<a href="http://www.trololodemulher.com.br/2015/10/23/cancer-de-mama-4/" target="_blank">**Câncer de mama: três coisas que toda paciente deve fazer.**</a>
+[**Câncer de mama: três coisas que toda paciente deve fazer.**](http://www.trololodemulher.com.br/2015/10/23/cancer-de-mama-4/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

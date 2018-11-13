@@ -10,9 +10,9 @@ categories:
   - Comportamento
   - Comportamento Feminino
 ---
-Li um post escrito pela Fernanda, do blog <a href="http://devaneiosdomesticos.blogspot.com/" target="_blank">Devaneios Domésticos</a>, e achei interessante porque mostra o relato do que aconteceu com ela, que levava uma vida acelerada (como a da imensa maioria das mulheres) e não parava sequer para prestar atenção no que estava acontecendo com o corpo dela.O ritmo de vida de Fernanda hoje em dia é outro, por escolha dela, porque felizmente foi possível ela dar espaço ao que era prioridade na sua vida.
+Li um post escrito pela Fernanda, do blog [Devaneios Domésticos](http://devaneiosdomesticos.blogspot.com/) , e achei interessante porque mostra o relato do que aconteceu com ela, que levava uma vida acelerada (como a da imensa maioria das mulheres) e não parava sequer para prestar atenção no que estava acontecendo com o corpo dela.O ritmo de vida de Fernanda hoje em dia é outro, por escolha dela, porque felizmente foi possível ela dar espaço ao que era prioridade na sua vida.
 
-Fabiana, que edita o <a href="http://ideiasdetalhesedicas.blogspot.com/" target="_blank">Ideias, Detalhes & Dicas</a>, refletiu sobre o que leu, questionou aqui no Bicha Fêmea e no Twitter (<a href="http://twitter.com/bichafemea" target="_blank">me segue aí!! &#8211; @bichafemea</a>):
+Fabiana, que edita o [Ideias, Detalhes & Dicas](http://ideiasdetalhesedicas.blogspot.com/) , refletiu sobre o que leu, questionou aqui no Bicha Fêmea e no Twitter ([me segue aí!! &#8211; @bichafemea](http://twitter.com/bichafemea) ):
 
 > _“&#8230;porque será que queremos ser sempre as heróinas?”_
 

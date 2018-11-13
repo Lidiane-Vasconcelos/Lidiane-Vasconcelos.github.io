@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank">**<span style="font-size: large;">Toalhas para lavabo</span>**</a>
+  [**<span style="font-size: large;">Toalhas para lavabo</span>**](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher) 
 </p>
 
 <p align="justify">
@@ -69,43 +69,43 @@ categories:
 </p>
 
 <p align="justify">
-  Para tornar o lavabo ou banheiro um local de puro charme nos dias em que você vai receber, e mostrar o seu cuidado e delicadeza com os convidados, veja a seguir belíssimas opções de <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank">toalhas de lavabo</a> a altura dos seus dias mais especiais e festivos:
+  Para tornar o lavabo ou banheiro um local de puro charme nos dias em que você vai receber, e mostrar o seu cuidado e delicadeza com os convidados, veja a seguir belíssimas opções de [toalhas de lavabo](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher)  a altura dos seus dias mais especiais e festivos:
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13134" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS2.jpg" alt="decoracao-lavabo-banheiro-toalhas2" width="779" height="777" /></a>
+  [<img class="alignnone size-full wp-image-13134" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS2.jpg" alt="decoracao-lavabo-banheiro-toalhas2" width="779" height="777" />](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher) 
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13135" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS3.jpg" alt="decoracao-lavabo-banheiro-toalhas3" width="779" height="815" /></a>
+  [<img class="alignnone size-full wp-image-13135" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS3.jpg" alt="decoracao-lavabo-banheiro-toalhas3" width="779" height="815" />](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher) 
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13136" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS4.jpg" alt="decoracao-lavabo-banheiro-toalhas4" width="779" height="331" /></a>
+  [<img class="alignnone size-full wp-image-13136" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS4.jpg" alt="decoracao-lavabo-banheiro-toalhas4" width="779" height="331" />](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher) 
 </p>
 
 <p align="justify">
-  As <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank">toalhas de lavabo</a> nas imagens acima são todas da loja virtual <a href="https://www.xiquexiquebrasil.com.br/?ref=trololodemulher" target="_blank">Xique Xique Brasil</a>, onde há peças delicadíssimas, dos mais variados estilos artesanais e tipos de tecidos: bordados manuais, renda renascença, peças em cambraia ou linho, detalhes em richelieu, dentre outros.
+  As [toalhas de lavabo](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher)  nas imagens acima são todas da loja virtual [Xique Xique Brasil](https://www.xiquexiquebrasil.com.br/?ref=trololodemulher) , onde há peças delicadíssimas, dos mais variados estilos artesanais e tipos de tecidos: bordados manuais, renda renascença, peças em cambraia ou linho, detalhes em richelieu, dentre outros.
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13137" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS5.jpg" alt="decoracao-lavabo-banheiro-toalhas5" width="779" height="666" /></a>
+  [<img class="alignnone size-full wp-image-13137" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS5.jpg" alt="decoracao-lavabo-banheiro-toalhas5" width="779" height="666" />](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher) 
 </p>
 
 <p align="center">
-  <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher" target="_blank"><img class="alignnone size-full wp-image-13138" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS6.jpg" alt="decoracao-lavabo-banheiro-toalhas6" width="779" height="781" /></a>
+  [<img class="alignnone size-full wp-image-13138" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/DECORACAO-LAVABO-BANHEIRO-TOALHAS6.jpg" alt="decoracao-lavabo-banheiro-toalhas6" width="779" height="781" />](https://www.xiquexiquebrasil.com.br/toalha-lavabo/?ref=trololodemulher) 
 </p>
 
 <p align="justify">
-  Fique à vontade e prepare-se para viver no amor com tantas delicadezas para o seu lavabo ou banheiro, todas disponíveis na <a href="https://www.xiquexiquebrasil.com.br/?ref=trololodemulher" target="_blank">Xique Xique Brasil</a>. <a href="https://www.xiquexiquebrasil.com.br/toalha-lavabo" target="_blank">Clique aqui e visite a loja</a>!
+  Fique à vontade e prepare-se para viver no amor com tantas delicadezas para o seu lavabo ou banheiro, todas disponíveis na [Xique Xique Brasil](https://www.xiquexiquebrasil.com.br/?ref=trololodemulher) . [Clique aqui e visite a loja](https://www.xiquexiquebrasil.com.br/toalha-lavabo) !
 </p>
 
 <p align="justify">
-  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-tololo" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe! No **Instagram** todas as novidades e lindezas também desfilam lindamente para você: <a href="https://www.instagram.com/xiquexiquebrasil/" target="_blank">clique aqui e siga</a>!
+  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e [clique aqui](http://bit.ly/xxb-tololo) . Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. [Clique aqui, curta](https://www.facebook.com/XiqueXiqueBrasil/)  e acompanhe! No **Instagram** todas as novidades e lindezas também desfilam lindamente para você: [clique aqui e siga](https://www.instagram.com/xiquexiquebrasil/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

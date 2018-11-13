@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: [free images](http://www.freeimages.com/) 
 </p>
 
 &nbsp;
@@ -110,9 +110,9 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a>!
+  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog [A Força e a Beleza de ser Mulher](http://geisamachado.blogspot.com.br/) . Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e [clica aqui](http://geisamachado.blogspot.com.br/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

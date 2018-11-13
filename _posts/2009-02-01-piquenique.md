@@ -13,7 +13,7 @@ categories:
 
 Eu já disse que estive em Buenos Aires? Não?! Pois, estive. Me chamou a atenção o fato de o povo argentino gostar tanto de fazer **_piqueniques_**. Eles se reúnem em família, vão para uma área arborizada e escolhem uma sombra, e ficam por lá. Brincam em família e desfrutam dos **_comes e bebes_** ao ar livre. É uma cena bucólica, e dá vontade de reproduzí-la.
 
-A partir <a href="http://www1.folha.uol.com.br/folha/comida/ult10005u490262.shtml" target="_blank">desta matéria</a> da <a href="http://www.folha.uol.com.br/" target="_blank">Folha OnLine</a>, reuni aqui algumas dicas para a gente se inspirar e tentar reproduzir uma cena dessas, e ter um dia diferente e gostoso com quem a gente ama. _Bora_ lá anotar os detalhes imprescindíveis para garantir um piquenique muito _massa_?
+A partir [desta matéria](http://www1.folha.uol.com.br/folha/comida/ult10005u490262.shtml)  da [Folha OnLine](http://www.folha.uol.com.br/) , reuni aqui algumas dicas para a gente se inspirar e tentar reproduzir uma cena dessas, e ter um dia diferente e gostoso com quem a gente ama. _Bora_ lá anotar os detalhes imprescindíveis para garantir um piquenique muito _massa_?
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.thebudgetcasa.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/picnic-basket-thumb.jpg" border="0" alt="www.thebudgetcasa.com" width="244" height="209" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/picnic-basket.jpg) 1 &#8211; A gente precisa providenciar uma cesta para levar as comidinhas e a toalha para forrar o chão (ou a mesa de cimento que tem em alguns parques), não é, minha gente? Lembra dos desenhos animados? Quem já viu um piquenique sem uma cesta e uma toalha? _Hã_?[<img style="display: inline;" title="clip_image001" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image001-thumb1.gif" alt="clip_image001" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/02/clip-image0011.gif)
 
@@ -33,6 +33,6 @@ A partir <a href="http://www1.folha.uol.com.br/folha/comida/ult10005u490262.shtm
 
 **<span style="color: #800080;">Quer mais dicas do que é possível fazer em contato com a natureza?</span>**
 
-**<span style="color: #800080;"><em><a href="http://www.trololodemulher.com.br/2009/05/22/do-jardim-japons-e-tudo-o-mais-que-nos-acalme/" target="_self">Do jardim japonês e tudo o mais que nos acalme.</a></em></span>**
+**<span style="color: #800080;">_<a href="http://www.trololodemulher.com.br/2009/05/22/do-jardim-japons-e-tudo-o-mais-que-nos-acalme/" target="_self">Do jardim japonês e tudo o mais que nos acalme.</a>_</span>**
 
-**<span style="color: #800080;"><em><a href="http://www.trololodemulher.com.br/2009/04/06/o-encanto-do-encontro-ao-ar-livre/" target="_self">O encanto do encontro ao ar livre.</a></em></span>**
+**<span style="color: #800080;">_<a href="http://www.trololodemulher.com.br/2009/04/06/o-encanto-do-encontro-ao-ar-livre/" target="_self">O encanto do encontro ao ar livre.</a>_</span>**

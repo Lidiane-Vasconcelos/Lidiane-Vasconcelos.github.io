@@ -13,7 +13,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Não há mal que sempre dure, nem bem que nunca acabe. Onde é melhor estar? Na Finlândia ou no Brasil? Adriana Minhoto, a bonita que nos conta tudo sobre a aventura de morar num país tão frio e distante, esteve nos dois mundos em um breve espaço de tempo. A viagem de visita ao Brasil para ver família e amigos, e depois o retorno para a <em>friolândia</em>, foi um evento suficiente o bastante para dar um nó nos sentimentos e percepções da nossa querida. Além do mais, Dri percebeu o que antes talvez parecesse impossível: ela até que curte ficar sozinha… entenda o porquê disso, e muito mais sobre a visão da Dri a respeito do Brasil depois de ter vivido na Finlândia, e da Finlândia, depois de ter visitado o Brasil. Se joga!
+  Não há mal que sempre dure, nem bem que nunca acabe. Onde é melhor estar? Na Finlândia ou no Brasil? Adriana Minhoto, a bonita que nos conta tudo sobre a aventura de morar num país tão frio e distante, esteve nos dois mundos em um breve espaço de tempo. A viagem de visita ao Brasil para ver família e amigos, e depois o retorno para a _friolândia_, foi um evento suficiente o bastante para dar um nó nos sentimentos e percepções da nossa querida. Além do mais, Dri percebeu o que antes talvez parecesse impossível: ela até que curte ficar sozinha… entenda o porquê disso, e muito mais sobre a visão da Dri a respeito do Brasil depois de ter vivido na Finlândia, e da Finlândia, depois de ter visitado o Brasil. Se joga!
 </p>
 
 > <p align="justify">
@@ -108,7 +108,7 @@ categories:
 >           </p>
 >           
 >           <p>
->             **<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+>             **[As voltas que a vida dá nos leva a lugares inimagináveis!](http://www.trololodemulher.com.br/2014/09/08/vida-lugares/) **
 >           </p>
 >           
 >           <p>
@@ -120,15 +120,15 @@ categories:
 >           </p>
 >           
 >           <p>
->             **<a href="http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/" target="_blank">Tanto tempo longe da família e amigos: quem aguenta?</a>**
+>             **[Tanto tempo longe da família e amigos: quem aguenta?](http://www.trololodemulher.com.br/2015/03/20/longe-da-familia-saudade/) **
 >           </p>
 >           
 >           <p>
->             **<a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank">Se você fosse mãe lá na Finlândia…</a>**
+>             **[Se você fosse mãe lá na Finlândia…](http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/) **
 >           </p>
 >           
 >           <p>
->             **<a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso… lá na Finlândia é assim!</a>**
+>             **[Educação, ordem e progresso… lá na Finlândia é assim!](http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/) **
 >           </p>
 >           
 >           <p>
@@ -136,7 +136,7 @@ categories:
 >           </p>
 >           
 >           <p>
->             Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+>             Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Vai! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts)  Eu já!
 >           </p>
 >           
 >           <p>
@@ -144,7 +144,7 @@ categories:
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+>             [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 >           </p>
 >           
 >           <p>

@@ -10,9 +10,9 @@ categories:
   - Comportamento
   - Comportamento Feminino
 ---
-**_Por Dolly – <a href="http://www.maryamariah.blogspot.com/" target="_blank">Marya Mariah</a>_**
+**_Por Dolly – [Marya Mariah](http://www.maryamariah.blogspot.com/) _**
 
-Olá pessoal, eu sou a <a href="http://www.maryamariah.blogspot.com/" target="_blank">Dolly</a> e fui gentilmente convidada pela Lidiane a participar neste blog.
+Olá pessoal, eu sou a [Dolly](http://www.maryamariah.blogspot.com/)  e fui gentilmente convidada pela Lidiane a participar neste blog.
 
 O tema é livre, o que torna mais complicado porque tudo que escreverei, escreverei segundo minha ótica, minha vivência e experiências, o que não quer dizer que não sou suscetível de erros .
 

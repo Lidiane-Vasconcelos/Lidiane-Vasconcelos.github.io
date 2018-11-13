@@ -92,7 +92,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      Depois de deixar São Miguel dos Milagres seguimos para Maceió, capital de Alagoas. Por lá eu visitei feiras de artesanato, vi praias da capital, visitei pontos turísticos e ainda tive um encontro bloguístico. Isso mesmo. Creia! Sabe quem eu encontrei? A bonitona Fabiana Correia, que escreve nos blogs <a href="http://deliciasculinariasdafabi.blogspot.com/" target="_blank">Delícias Culinárias</a> e <a href="http://ideiasdetalhesedicas.blogspot.com/" target="_blank">Ideias, Detalhes & Dicas</a>. Almoçamos juntas, tiramos foto e conversamos um bocado. Melhor que isso? Só outro disso!
+      Depois de deixar São Miguel dos Milagres seguimos para Maceió, capital de Alagoas. Por lá eu visitei feiras de artesanato, vi praias da capital, visitei pontos turísticos e ainda tive um encontro bloguístico. Isso mesmo. Creia! Sabe quem eu encontrei? A bonitona Fabiana Correia, que escreve nos blogs [Delícias Culinárias](http://deliciasculinariasdafabi.blogspot.com/)  e [Ideias, Detalhes & Dicas](http://ideiasdetalhesedicas.blogspot.com/) . Almoçamos juntas, tiramos foto e conversamos um bocado. Melhor que isso? Só outro disso!
     </p>
     
     <table align="center">
@@ -128,7 +128,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </table>
     
     <p style="text-align: center;">
-      Marido e eu no <a href="http://www.overmundo.com.br/guia/museu-theo-brandao" target="_blank">Museu Théo Brandão</a>.
+      Marido e eu no [Museu Théo Brandão](http://www.overmundo.com.br/guia/museu-theo-brandao) .
     </p>
     
     <table align="center">
@@ -152,7 +152,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      Sabia que não é somente no Rio Grande do Norte que se formam as dunas? Pois, saiba e creia. O visual é lindo e tudo ficou muito melhor porque fizemos o passeio com o pessoal do <a href="http://www.faroldafozecoturismo.com/" target="_blank">Farol da Foz Ecoturismo</a>, com um <em>trololó</em> que passa muito longe daqueles modelos <em>decoreba</em> que os guias turísticos costumam adotar para passar as informações. Foi uma experiência incrível e prazerosa, só me faltou a coragem de fazer o <em>skibunda</em>. Sim, só marido que fez porque eu sou medrosa mesmo… <em>tsc tsc tsc</em>…
+      Sabia que não é somente no Rio Grande do Norte que se formam as dunas? Pois, saiba e creia. O visual é lindo e tudo ficou muito melhor porque fizemos o passeio com o pessoal do [Farol da Foz Ecoturismo](http://www.faroldafozecoturismo.com/) , com um _trololó_ que passa muito longe daqueles modelos _decoreba_ que os guias turísticos costumam adotar para passar as informações. Foi uma experiência incrível e prazerosa, só me faltou a coragem de fazer o _skibunda_. Sim, só marido que fez porque eu sou medrosa mesmo… _tsc tsc tsc_…
     </p>
     
     <table align="center">
@@ -216,7 +216,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      E na sequência, <em>skibunda</em> que o marido fez…
+      E na sequência, _skibunda_ que o marido fez…
     </p>
     
     <table align="center">
@@ -288,7 +288,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      A cidade tem belos prédios históricos, igrejas, museus e muita vocação para receber bem quem quiser ver mais do que praias pelas terras nordestinas. Sim, porque quem achar que conhecendo as praias do Nordeste conhece tudo o que tem por lá, sinto informar mas há aí um engano bem grande, <em>hein</em>?!
+      A cidade tem belos prédios históricos, igrejas, museus e muita vocação para receber bem quem quiser ver mais do que praias pelas terras nordestinas. Sim, porque quem achar que conhecendo as praias do Nordeste conhece tudo o que tem por lá, sinto informar mas há aí um engano bem grande, _hein_?!
     </p>
     
     <table align="center">
@@ -300,7 +300,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </table>
     
     <p style="text-align: center;">
-      Eu de <em>trololó</em> com a guia que nos recebeu no teatro Sete de Setembro.
+      Eu de _trololó_ com a guia que nos recebeu no teatro Sete de Setembro.
     </p>
     
     <table align="center">
@@ -344,11 +344,11 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      De Penedo nós partimos em direção a Paulo Afonso, na Bahia. Por lá o nosso objetivo era conhecer a usina hidrelétrica, e também os <em>canyons</em> do <a href="http://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Francisco" target="_blank">Velho Chico</a> passeando por Canindé de São Francisco, em Sergipe.
+      De Penedo nós partimos em direção a Paulo Afonso, na Bahia. Por lá o nosso objetivo era conhecer a usina hidrelétrica, e também os _canyons_ do [Velho Chico](http://pt.wikipedia.org/wiki/Rio_S%C3%A3o_Francisco)  passeando por Canindé de São Francisco, em Sergipe.
     </p>
     
     <p>
-      O calor naquelas bandas é escaldante, já vou logo avisando. Mas a paisagem e grandiosidade de tudo por lá até me fizeram esquecer esse detalhe, sabia? Além do mais, conhecer um pouco da Pré-História e dos povos que habitavam aquela região, a partir do que acharam nas escavações antes da construção da <a href="http://pt.wikipedia.org/wiki/Usina_Hidrel%C3%A9trica_de_Xing%C3%B3" target="_blank">usina de Xingó</a>, foi incrível.
+      O calor naquelas bandas é escaldante, já vou logo avisando. Mas a paisagem e grandiosidade de tudo por lá até me fizeram esquecer esse detalhe, sabia? Além do mais, conhecer um pouco da Pré-História e dos povos que habitavam aquela região, a partir do que acharam nas escavações antes da construção da [usina de Xingó](http://pt.wikipedia.org/wiki/Usina_Hidrel%C3%A9trica_de_Xing%C3%B3) , foi incrível.
     </p>
     
     <table align="center">
@@ -404,7 +404,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </table>
     
     <p style="text-align: center;">
-      Posso falar? Isso é muito alto e eu estava com medo. <em>Aff</em>!!
+      Posso falar? Isso é muito alto e eu estava com medo. _Aff_!!
     </p>
     
     <table align="center">
@@ -419,7 +419,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </table>
     
     <p style="text-align: center;">
-      Sorrindo para esconder o medo. <em>Rá</em>!
+      Sorrindo para esconder o medo. _Rá_!
     </p>
     
     <table align="center">
@@ -434,7 +434,7 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </table>
     
     <p style="text-align: center;">
-      Já falei que gosto de museus? Esse é o <a href="http://max.org.br/index-800.asp" target="_blank">Max</a>.
+      Já falei que gosto de museus? Esse é o [Max](http://max.org.br/index-800.asp) .
     </p>
     
     <table align="center">
@@ -453,11 +453,11 @@ Se você gosta de ser mimada por um atendimento de primeira, gosta de sol e mar,
     </p>
     
     <p>
-      Agora eu tenho que admitir, viajar é uma delícia mas voltar para casa é uma delícia e meia. E quando a gente volta e dá de cara com presente? Tem coisa melhor? Pois foi o que aconteceu quando cheguei em casa. Dei de cara com um pacotinho <em>bloguístico</em> cheio de mimos exclusivos da <a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>. Ganhei brincos e um prendedor de cabelos. Pronto! Fechei esse pequeno período de férias com chave de ouro, diga se não foi?! Foto? Hum&#8230; estou sem máquina. Dei um passadinha na casa da minha mãe e fiz o favor a mim mesma de esquecer a máquina por lá.<em> Aff!!!</em> Nem eu me aguento!<em> Humpf</em>!
+      Agora eu tenho que admitir, viajar é uma delícia mas voltar para casa é uma delícia e meia. E quando a gente volta e dá de cara com presente? Tem coisa melhor? Pois foi o que aconteceu quando cheguei em casa. Dei de cara com um pacotinho _bloguístico_ cheio de mimos exclusivos da [Closonê Acessórios](http://closone.blogspot.com/) . Ganhei brincos e um prendedor de cabelos. Pronto! Fechei esse pequeno período de férias com chave de ouro, diga se não foi?! Foto? Hum&#8230; estou sem máquina. Dei um passadinha na casa da minha mãe e fiz o favor a mim mesma de esquecer a máquina por lá._ Aff!!!_ Nem eu me aguento!_ Humpf_!
     </p>
     
     <p>
-      Depois dessa fico por aqui sonhando com o próximo passeio que ronda nossos pensamentos. <em>Eita</em>, delícia é viver!!!
+      Depois dessa fico por aqui sonhando com o próximo passeio que ronda nossos pensamentos. _Eita_, delícia é viver!!!
     </p>
     
     <p>

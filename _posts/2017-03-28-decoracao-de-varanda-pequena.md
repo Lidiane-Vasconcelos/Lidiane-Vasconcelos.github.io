@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="justify">
-  Plantas em suportes pendurados na parede, compondo jardins verticais, apoiadas diretamente no chão, sobre bancos, no guarda-corpo, ou penduradas no teto. Diferentes espécies em vasos variados, neutros ou coloridos. Até vasinhos <em>mini</em> sobre uma mesinha contam como elementos que vão dar vida ao seu pequeno grande jardim.
+  Plantas em suportes pendurados na parede, compondo jardins verticais, apoiadas diretamente no chão, sobre bancos, no guarda-corpo, ou penduradas no teto. Diferentes espécies em vasos variados, neutros ou coloridos. Até vasinhos _mini_ sobre uma mesinha contam como elementos que vão dar vida ao seu pequeno grande jardim.
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.casaaberta.net/Andre-Lopes-e-Luis-Felipe/" target="_blank">Casa Aberta</a>
+  Via [Casa Aberta](http://www.casaaberta.net/Andre-Lopes-e-Luis-Felipe/) 
 </p>
 
 <p align="justify">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/04/varandinhas-charmosas.html#F6" target="_blank">Casa e Jardim</a>
+  Via [Casa e Jardim](http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/04/varandinhas-charmosas.html#F6) 
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="justify">
-  Tornar a varanda um ambiente acolhedor e agradável foi a opção que fizemos aqui em casa, e isso dá para fazer, sim, em varandas <em>mini</em>. Um sofá/banco tipo namoradeira com almofadas lindas de viver, um vaso com planta, uma mesinha de centro, um ou outro elemento decorativo que te ajude a decorar o espaço, como um quadro: escolhas que vão fazer de sua varanda uma extensão da sua sala para receber, acolher e jogar conversa fora. Conviva!
+  Tornar a varanda um ambiente acolhedor e agradável foi a opção que fizemos aqui em casa, e isso dá para fazer, sim, em varandas _mini_. Um sofá/banco tipo namoradeira com almofadas lindas de viver, um vaso com planta, uma mesinha de centro, um ou outro elemento decorativo que te ajude a decorar o espaço, como um quadro: escolhas que vão fazer de sua varanda uma extensão da sua sala para receber, acolher e jogar conversa fora. Conviva!
 </p>
 
 <p align="justify">
@@ -115,15 +115,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/02/decoracao-varanda-pequena/" target="_blank">**4 composições de cantinhos para sua varanda pequena.**</a>
+  [**4 composições de cantinhos para sua varanda pequena.**](http://www.trololodemulher.com.br/2016/08/02/decoracao-varanda-pequena/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/29/jardim-vertical/" target="_blank">**2 ótimas ideias de jardim vertical.**</a>
+  [**2 ótimas ideias de jardim vertical.**](http://www.trololodemulher.com.br/2016/04/29/jardim-vertical/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

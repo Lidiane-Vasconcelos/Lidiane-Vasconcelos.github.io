@@ -10,7 +10,7 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Lá se foi o tempo em que **mulheres de 50 anos** vestiam-se iguais, com conjuntos de blusa e bermuda estampados… lembra? Respiro aliviada por saber que quando estiver nessa faixa etária será luxo, glória e poder me vestir de acordo com o que me fará bem, e não como esperam que se vista <em>uma senhora de 50 anos</em>.
+  Lá se foi o tempo em que **mulheres de 50 anos** vestiam-se iguais, com conjuntos de blusa e bermuda estampados… lembra? Respiro aliviada por saber que quando estiver nessa faixa etária será luxo, glória e poder me vestir de acordo com o que me fará bem, e não como esperam que se vista _uma senhora de 50 anos_.
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank">**Calça flare: aprenda como combinar o modelo da vez.**</a>
+  [**Calça flare: aprenda como combinar o modelo da vez.**](http://www.trololodemulher.com.br/2016/03/28/calca-flare/) 
 </p>
 
 <p align="justify">
@@ -114,7 +114,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/" target="_blank">**Como usar saia, a peça mais feminina?**</a>
+  [**Como usar saia, a peça mais feminina?**](http://www.trololodemulher.com.br/2016/02/29/como-usar-saia/) 
 </p>
 
 <p align="justify">
@@ -145,14 +145,14 @@ Fotos: Claudia Medeiros
 
 **Mais de Claudia no Trololó de Mulher:**
 
-<a href="http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/" target="_blank">**Notícia luxo: conteúdo exclusivo para você, mulher de 50.**</a>
+[**Notícia luxo: conteúdo exclusivo para você, mulher de 50.**](http://www.trololodemulher.com.br/2017/05/29/mulher-de-50/) 
 
 <p align="justify">
-  Além do <a href="https://50edaiblog.wordpress.com/" target="_blank">Blog `50, e daí?´</a>, você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: <a href="https://www.instagram.com/50edai/" target="_blank">instagram</a> e <a href="https://www.facebook.com/50edai/" target="_blank">facebook</a>. Claudia também edita o blog <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na Minha Casa</a>, com conteúdo voltado para casa e decoração. Confira <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">instagram</a> e <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">facebook</a>. Se joga!
+  Além do [Blog `50, e daí?´](https://50edaiblog.wordpress.com/) , você acompanha o conteúdo sobre moda, estilo, beleza e autoestima para mulheres na faixa dos 50 nas redes sociais: [instagram](https://www.instagram.com/50edai/)  e [facebook](https://www.facebook.com/50edai/) . Claudia também edita o blog [Se fosse na Minha Casa](https://sefossenaminhacasa.wordpress.com/) , com conteúdo voltado para casa e decoração. Confira [instagram](https://www.instagram.com/sefossenaminhacasa/)  e [facebook](https://www.facebook.com/SeFosseNaMinhaCasa/) . Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

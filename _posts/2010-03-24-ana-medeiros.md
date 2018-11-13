@@ -26,7 +26,7 @@ Quem acompanhou o blog PRENDADAS, em 2008, conhece bem a Ana Medeiros. Ela é um
 
 **“_eu nem sabia o que era nem pra que servia um blog. Meus primeiros posts são hilários de tão ruins e sem noção. Eu nem sabia que gostava tanto de decoração…e__u queria distração, queria compartilhar uma vida nova com pessoas que estivessem passando pelo mesmo que eu. Estava sozinha, numa cidade sem amigas reais_.”**
 
-Sentir-se sozinha e querer alguma distração, ou ainda desejar compartilhar experiências interagindo com outras pessoas, parecem ser motivos bem comuns a muitas blogueiras que se lançam blogosfera afora. Mas um blog pode trazer muito mais, e o PRENDADAS da Ana Medeiros cresceu. Cresceu tanto que até colaboradoras fixas para ajudar a Ana nesse projeto o blog ganhou. Uma delas foi a Nana, blogueira que hoje é bem conhecida e comanda o <a href="http://www.mangacompimenta.blogspot.com/" target="_blank">Manga com Pimenta</a> e que, reconhece, sua experiência ajudando a Ana fez grande diferença para ela:
+Sentir-se sozinha e querer alguma distração, ou ainda desejar compartilhar experiências interagindo com outras pessoas, parecem ser motivos bem comuns a muitas blogueiras que se lançam blogosfera afora. Mas um blog pode trazer muito mais, e o PRENDADAS da Ana Medeiros cresceu. Cresceu tanto que até colaboradoras fixas para ajudar a Ana nesse projeto o blog ganhou. Uma delas foi a Nana, blogueira que hoje é bem conhecida e comanda o [Manga com Pimenta](http://www.mangacompimenta.blogspot.com/)  e que, reconhece, sua experiência ajudando a Ana fez grande diferença para ela:
 
 **“…_eu sempre gostei do estilo da Ana Medeiros de blogar e um dia ela pediu ajuda, colaboradoras para ajuda-la no Prendadas, comentei que se ela precisava de uma cozinheira, era só me chamar._ _Graças a Ana, ao blog Prendadas, aprendi a dar uma turbinada no Manga com Pimenta, tudo que eu faço nele, é graças a ela. Passamos horas, dias, minutos matutando como seria o Prendadas assim ou assado… Infelizmente tudo acaba, menos a amizade (graças a Deus)._ “**
 
@@ -37,20 +37,20 @@ _**“…encontrei um sentido maior pra isso, a minha avó. Morei com ela grande
 <table align="center">
   <tr>
     <td>
-      **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz.jpg"><img class="aligncenter size-medium wp-image-4374" title="familia feliz" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz-300x224.jpg" alt="" width="300" height="224" /></a></em>**
+      **_<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz.jpg"><img class="aligncenter size-medium wp-image-4374" title="familia feliz" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/familia-feliz-300x224.jpg" alt="" width="300" height="224" /></a>_**
     </td>
   </tr>
 </table>
 
  
 
-Ana fala d’A casa, é **_<a href="http://acasaqueaminhavoqueria.blogspot.com/" target="_blank">A Casa Que A Minha Vó Queria</a>_**, o blog que hoje ela comanda com maestria e fazendo malabarismos para postar, já que há em sua vida um bebê. Com muito jogo de cintura e organização, Ana dá vida a um blog sempre muito atualizado. A bonita conta com o apoio do marido, e mais ainda com seu amadurecimento para lidar com a blogosfera. Sobre um blog e outro, e o que aprendeu com isso tudo, ela reflete:
+Ana fala d’A casa, é **_[A Casa Que A Minha Vó Queria](http://acasaqueaminhavoqueria.blogspot.com/) _**, o blog que hoje ela comanda com maestria e fazendo malabarismos para postar, já que há em sua vida um bebê. Com muito jogo de cintura e organização, Ana dá vida a um blog sempre muito atualizado. A bonita conta com o apoio do marido, e mais ainda com seu amadurecimento para lidar com a blogosfera. Sobre um blog e outro, e o que aprendeu com isso tudo, ela reflete:
 
 _**“Os dois falam basicamente de decoração, da minha forma leiga de curtir algo que gosto e que me faz bem. A grande diferença? O amadurecimento, talvez. Digamos que no Prendadas eu dava tiro no escuro e não tinha um mapa pra me guiar. No novo blog, aprendi onde posso pisar e os caminhos que devo passar longe. Mas ainda tenho muito o que aprender, muito mesmo.”**_
 
 Alguma experiência a Ana ganhou, e blogar sobre decoração lhe trouxe algumas lições e sensações bem interessantes, e que ela divide comigo e contigo. Olha só:
 
-**Do nome do Blog –** _<a href="http://acasaqueaminhavoqueria.blogspot.com/" target="_blank">**A Casa Que A Minha Vó Queria**</a>_
+**Do nome do Blog –** _[**A Casa Que A Minha Vó Queria**](http://acasaqueaminhavoqueria.blogspot.com/) _
 
 > “_Blog tem que ser convidativo, começando pelo nome. Muitas pessoas me falam que foram parar ali porque acharam o nome curioso.”_
 
@@ -70,7 +70,7 @@ Alguma experiência a Ana ganhou, e blogar sobre decoração lhe trouxe algumas 
 
 > _“Se pretende torná-lo conhecido e bem visitado, inspire-se naqueles que dão certo, mas seja autêntica, cria a sua marca. Dedicação também é fundamental pra um blogueiro, é preciso mesmo gastar horas do seu dia com pesquisas, pra levar boas informações e não tornar a coisa repetida. Mas blogar, sem nenhuma pretensão, também é muito bom, você mostra a cara quando quer e fala do que bem entender, quem quiser que curta ou não_.”
 
-**Do <a href="http://aninhamedeiros.wordpress.com/" target="_blank"><em>Caroço da Pitanga</em></a>**
+**Do [_Caroço da Pitanga_](http://aninhamedeiros.wordpress.com/) **
 
 > _“Um xodó. Quando estava grávida, joguei muito sentimento ali, foi terapêutico. Hoje, virou meu “blog de mãe”, de vez em quando vou lá descarregar esse monte de amor que sinto pelo Vinícius._”
 
@@ -90,9 +90,9 @@ Alguma experiência a Ana ganhou, e blogar sobre decoração lhe trouxe algumas 
 
 **Ana, só no _trololó…_**
 
-**Blog favorito**: _“Um só?? Sacanagem&#8230;rsrs. Vamos lá: <a href="http://www.designspongeonline.com/" target="_blank">Desing *Sponge</a>”_
+**Blog favorito**: _“Um só?? Sacanagem&#8230;rsrs. Vamos lá: [Desing *Sponge](http://www.designspongeonline.com/) ”_
 
-**Blog de consumo**: _“Adoro a fotografia, os posts, e a autenticidade do <a href="http://www.hellololla.com/" target="_blank">Hello, Lola</a>.”_
+**Blog de consumo**: _“Adoro a fotografia, os posts, e a autenticidade do [Hello, Lola](http://www.hellololla.com/) .”_
 
 **O que não pode faltar na sua casa**: _“Cor.”_
 

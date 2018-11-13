@@ -37,30 +37,30 @@ Aqui algo parecido, em termos de opção do que fazer como cabeceira, com a prim
 
 Quem sabe um painel pintado por uma bicha fêmea _beeeem_ talentosa? Sei que há dessas (arteiras) que passam por aqui e lêem o Bicha… fica a sugestão.[<img style="display: inline;" title="clip_image001[16]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00116-thumb4.gif" alt="clip_image001[16]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001164.gif)
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
+Imagens: [HGTV.com](http://www.hgtv.com/) 
 
 <span style="color: #ff0000;"> </span>
 
 **Mais no Bicha&#8230;**
 
-<a href="http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/" target="_self">**<em>Dicas e Detalhes na Decoração do Quarto</em>**</a>
+<a href="http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/" target="_self">**_Dicas e Detalhes na Decoração do Quarto_**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/08/11/pitacos-de-bicha-fmea-decorao-de-quartos/" target="_self">**<em>“Pitacos” de Bicha Fêmea: decoração de quartos.</em>**</a>
+<a href="http://www.trololodemulher.com.br/2009/08/11/pitacos-de-bicha-fmea-decorao-de-quartos/" target="_self">**_“Pitacos” de Bicha Fêmea: decoração de quartos._**</a>
 
-<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">**<em>Dicas de decoração para a parede do quarto, sala e banheiro.</em>**</a>
+<a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">**_Dicas de decoração para a parede do quarto, sala e banheiro._**</a>
 
 [**_Ideias essencialmente femininas para a decoração do nosso quarto…_**](http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/)
 
 [**_Os 10 erros em seu quarto…_**](http://www.trololodemulher.com.br/2009/01/15/os-10-erros-em-seu-quarto/)
 
 <p style="text-align: center;">
-  **Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">**e-mail** </a>ou **<a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank">**feed**</a>** ****.**
+  **Gostou desse post? Receba atualizações do Bicha Fêmea por [**e-mail** ](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) ou **[**feed**](http://feeds2.feedburner.com/blogbichafemea) ** ****.**
 </p>
 
 <p style="text-align: center;">
-  **Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.**
+  **Siga o Bicha Fêmea no Twitter &#8211; [@bichafemea](http://twitter.com/bichafemea) .**
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _[_basta clicar_](http://www.trololodemulher.com.br/loja/) _!_**
 </p>

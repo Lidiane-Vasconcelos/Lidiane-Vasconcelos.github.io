@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/paulnich/16190178028/" target="_blank">Paul Nicholson</a> via <a href="http://foter.com/re/b8593c" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
+  Imagem: [Paul Nicholson](https://www.flickr.com/photos/paulnich/16190178028/)  via [Foter.com](http://foter.com/re/b8593c)  / [CC BY-NC](http://creativecommons.org/licenses/by-nc/2.0/) 
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “<em>Muitas pessoas confundem a calça cigarrete com a skinny, pois ambas possuem uma modelagem justa e a boca estreita. A cigarrete difere por ser mais afunilada do joelho para a barra, e por ter um comprimento que chega ao ossinho do tornozelo. É uma peça coringa que em todas as estações reaparece repaginada. Hoje é possível  encontrar  diferentes modelos, tecidos e estilos. E podem ser usadas em diversas ocasiões.</em>”
+  “_Muitas pessoas confundem a calça cigarrete com a skinny, pois ambas possuem uma modelagem justa e a boca estreita. A cigarrete difere por ser mais afunilada do joelho para a barra, e por ter um comprimento que chega ao ossinho do tornozelo. É uma peça coringa que em todas as estações reaparece repaginada. Hoje é possível  encontrar  diferentes modelos, tecidos e estilos. E podem ser usadas em diversas ocasiões._”
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “<em>No ambiente de  trabalho podem ser  usadas com blazers, casacos, jaquetas. Mas, é preciso ter um pouco de cuidado no momento da escolha da calça. Deve-se evitar peças com rasgos,  muito coladas e transparentes. Para ir a uma festa, uma ótima opção é usar a cigarrete metalizada ou com paetês. No momento da produção do look, a combinação com peças lisas ou com tons neutros é o mais recomendável</em>.”
+  “_No ambiente de  trabalho podem ser  usadas com blazers, casacos, jaquetas. Mas, é preciso ter um pouco de cuidado no momento da escolha da calça. Deve-se evitar peças com rasgos,  muito coladas e transparentes. Para ir a uma festa, uma ótima opção é usar a cigarrete metalizada ou com paetês. No momento da produção do look, a combinação com peças lisas ou com tons neutros é o mais recomendável_.”
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://modanotrabalho.com.br/2015/look-de-trabalho-com-blusa-estampada-e-calca-cigarrete/" target="_blank">Moda no Tabalho</a>
+  Via [Moda no Tabalho](http://modanotrabalho.com.br/2015/look-de-trabalho-com-blusa-estampada-e-calca-cigarrete/) 
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.gosto-disto.com/2015/09/como-usar-jeans-no-trabalho-estilo-de.html" target="_blank">Gosto disto!</a>
+  Via [Gosto disto!](http://www.gosto-disto.com/2015/09/como-usar-jeans-no-trabalho-estilo-de.html) 
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hojevouassimoff.com.br/" target="_blank">Hoje Vou Assim Off</a>
+  Via [Hoje Vou Assim Off](http://www.hojevouassimoff.com.br/) 
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “<em>No que diz respeito ao calçado, pode-se optar pelo uso das ankle boots, sapatilhas, scarpins. Sendo que, nas produções mais simples, o ideal é o uso dos sapatos mais baixos. Vale ressaltar que as baixinhas devem optar por looks monocromáticos, a fim de evitar o achatamento da silhueta. Fica a dica: a calça cigarrete de couro preta + camisa jeans + sapatilha ou tênis branco é uma combinação que pode ser usada sem medo de errar</em>.”
+  “_No que diz respeito ao calçado, pode-se optar pelo uso das ankle boots, sapatilhas, scarpins. Sendo que, nas produções mais simples, o ideal é o uso dos sapatos mais baixos. Vale ressaltar que as baixinhas devem optar por looks monocromáticos, a fim de evitar o achatamento da silhueta. Fica a dica: a calça cigarrete de couro preta + camisa jeans + sapatilha ou tênis branco é uma combinação que pode ser usada sem medo de errar_.”
 </p>
 
 <p align="center">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail <a href="mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal" target="_blank">Clique aqui, curta e acompanhe</a>!
+  Tatiane presta consultoria de imagem e estilo, cujo serviço oferece uma ótima relação custo/benefício e traz resultados rápidos. Trata-se de uma Consultoria de Estilo Virtual com resultados reais. Você pode obter mais informações pelo telefone (71) 99332-2895 ou e-mail [Clique aqui, curta e acompanhe](mailto:valasquesconsultoria@gmail.com">valasquesconsultoria@gmail.com</a>. Em sua Página no Facebook, a consultora oferece conteúdo frequente sobre moda e estilo, para você ficar antenada e de bem consigo mesma. <a href="https://www.facebook.com/valasquesconsultoria/?ref=page_internal) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

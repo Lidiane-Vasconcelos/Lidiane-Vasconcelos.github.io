@@ -40,13 +40,13 @@ _Não dá vontade de conhecer um pouco mais dessa bonita? Bom, é justamente por
 
 **_ _**
 
-**_Por Rosi Costa – <a href="http://mundinhodarosi.blogspot.com/" target="_blank">Mundinho Particular</a>_**
+**_Por Rosi Costa – [Mundinho Particular](http://mundinhodarosi.blogspot.com/) _**
 
 O que escrever para mulheres blogueiras se elas sabem de tudo um pouco? Como escolher um assunto que seja adequado a esse cantinho e agradar a todas?
 
 Depois de muito pensar, resolvi falar de uma fase que todas passaram ou passarão. Algo que assusta muito mais do que quando se vivencia.
   
-Adorei o convite e reproduzo um texto que apareceu semelhante lá no meu <a href="http://mundinhodarosi.blogspot.com/" target="_blank">Cantinho Particular</a>, mas que ganhou nova e moderna roupagem para o &#8220;Bicha&#8221;.
+Adorei o convite e reproduzo um texto que apareceu semelhante lá no meu [Cantinho Particular](http://mundinhodarosi.blogspot.com/) , mas que ganhou nova e moderna roupagem para o &#8220;Bicha&#8221;.
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.fabrics.net (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-fabrics-net2_thumb.jpg" alt="www.fabrics.net (2)" width="240" height="233" align="right" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-fabrics-net2.jpg) Ter 30 anos é como ser uma garota super poderosa.
 

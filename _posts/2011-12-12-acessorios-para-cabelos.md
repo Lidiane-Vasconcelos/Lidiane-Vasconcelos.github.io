@@ -24,7 +24,7 @@ Quer saber o que elas andam usando? Eu perguntei, elas me disseram e mostraram�
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidi! Eu não uso tiara pois me dá dor de cabeça! Acho-as lindas, mas tento, tento e nada! Nenhuma dá certo. Meu cabelo está curto, mas pra prender a franja eu uso um clipe que ganhei da minha amiga **Dani**, do blog **<a href="http://poesiadistraida.blogspot.com/" target="_blank">Poesia Distraida</a>**</em>.” **Lilly | <a href="http://coisadelilly.wordpress.com/" target="_blank">Isso é coisa de Lilly</a>**
+>   “_Oi, Lidi! Eu não uso tiara pois me dá dor de cabeça! Acho-as lindas, mas tento, tento e nada! Nenhuma dá certo. Meu cabelo está curto, mas pra prender a franja eu uso um clipe que ganhei da minha amiga **Dani**, do blog **[Poesia Distraida](http://poesiadistraida.blogspot.com/) **_.” **Lilly | [Isso é coisa de Lilly](http://coisadelilly.wordpress.com/) **
 > </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ Quer saber o que elas andam usando? Eu perguntei, elas me disseram e mostraram�
 &nbsp;
 
 > <p align="justify">
->   “<em>Ah, faixas! Sou apaixonada por faixas de cabelo!! Essa da foto (em tecido) eu fiz para mim. Ela é dupla face. Tenho também faixas diversas que compro em feiras de artesanato, lojas indianas, e algumas faixas de crochê feitas por amigas (ainda não fiz para mim por pura falta de tempo!). Meu cabelo é muito cheio então prefiro faixas mais largas. Gosto tanto de faixas de amarrar ou com elástico! E quanto mais &#8220;exóticas&#8221;,  melhor!”</em> **Dora Quevedo | <a href="http://doraquevedo.blogspot.com/" target="_blank">Passatempos da Dorinha</a>**
+>   “_Ah, faixas! Sou apaixonada por faixas de cabelo!! Essa da foto (em tecido) eu fiz para mim. Ela é dupla face. Tenho também faixas diversas que compro em feiras de artesanato, lojas indianas, e algumas faixas de crochê feitas por amigas (ainda não fiz para mim por pura falta de tempo!). Meu cabelo é muito cheio então prefiro faixas mais largas. Gosto tanto de faixas de amarrar ou com elástico! E quanto mais &#8220;exóticas&#8221;,  melhor!”_ **Dora Quevedo | [Passatempos da Dorinha](http://doraquevedo.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Quer saber o que elas andam usando? Eu perguntei, elas me disseram e mostraram�
 &nbsp;
 
 > <p align="justify">
->   “<em>Essa é uma tiara que amo**!** Eu não sei onde foi comprada, pois ganhei a tiara. Mas o que me fez partir em busca de uma dessas foi este site aqui: **<a href="http://www.prontocortei-acessorios.com/" target="_blank">Pronto. Cortei. Acessórios</a>. **Até que minha mãe achou por aqui e me presenteou. Pretendo comprar dessa moça aí do site ainda</em>.” **Keka | <a href="http://coisas-para-meninas.blogspot.com/" target="_blank">Coisas de Meninas</a>**
+>   “_Essa é uma tiara que amo**!** Eu não sei onde foi comprada, pois ganhei a tiara. Mas o que me fez partir em busca de uma dessas foi este site aqui: **[Pronto. Cortei. Acessórios](http://www.prontocortei-acessorios.com/) . **Até que minha mãe achou por aqui e me presenteou. Pretendo comprar dessa moça aí do site ainda_.” **Keka | [Coisas de Meninas](http://coisas-para-meninas.blogspot.com/) **
 > </p>
 
 &nbsp;
@@ -113,13 +113,13 @@ Quer saber o que elas andam usando? Eu perguntei, elas me disseram e mostraram�
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
     
@@ -129,5 +129,5 @@ Quer saber o que elas andam usando? Eu perguntei, elas me disseram e mostraram�
 </table>
 
 <p align="center">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>

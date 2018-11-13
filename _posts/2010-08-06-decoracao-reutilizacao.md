@@ -11,7 +11,7 @@ categories:
   - Faça Você Mesma
 ---
 <p style="text-align: justify;">
-  Você já pensou em incrementar a **<em>decoração da sua casa</em>** com detalhes produzidos a partir de **<em>objetos reutilizados</em>**? A solução é barata e ecologicamente correta, e hoje em dia é uma das atitudes esperadas da mulher moderna: criatividade e consumo consciente. 
+  Você já pensou em incrementar a **_decoração da sua casa_** com detalhes produzidos a partir de **_objetos reutilizados_**? A solução é barata e ecologicamente correta, e hoje em dia é uma das atitudes esperadas da mulher moderna: criatividade e consumo consciente. 
 </p>
 
 <p style="text-align: justify;">
@@ -21,7 +21,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  A relação dessa blogueira, que comanda o “<a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc…</a>”, com a reutilização de objetos, já acontece há bastante tempo:
+  A relação dessa blogueira, que comanda o “[Festas e etc…](http://simonescharamm.blogspot.com/) ”, com a reutilização de objetos, já acontece há bastante tempo:
 </p>
 
 > “…_Há tempos aprendi a reaproveitar embalagens, e o que me motivou foi a falta de recursos. Trabalhei como professora de Educação Infantil por muito tempo, e conheci os 2 extremos: pela manhã, numa escola municipal, que era só carência. À tarde, numa escola particular, onde dispunha de todos os recursos. Não achava justo que os meus aluninhos carentes não tivessem acesso a brinquedos e brincadeiras, daí passei a inventar coisas interessantes com sucata. Há 15, 20 anos atrás, eu era conhecida como a &#8220;sucateira&#8221;&#8230;hoje virou &#8220;moda&#8221;, né? Mais do que a necessidade, a consciência me faz separar materias para uso posterior. Não leciono mais. Sou agora uma mãe, que curte artesanato, decoração, festinhas, gastronomia&#8230;em tudo que eu posso, boto o meu &#8220;dedo verde&#8221;,rs!”_
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  “<em>Porta-guardanapos confeccionados com retalhos de juta e sementes de girassol; o dourado é caro e bonito. O rústico, apesar de inferior, dá personalidade à minha mesa!”</em>
+  “_Porta-guardanapos confeccionados com retalhos de juta e sementes de girassol; o dourado é caro e bonito. O rústico, apesar de inferior, dá personalidade à minha mesa!”_
 </p>
 
 <p style="text-align: center;">
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  “<em>Vidrinhos de patê viraram porta-velas perfumadas. Colei adesivos e fiz as velas em casa, fácil, fácil!”</em>
+  “_Vidrinhos de patê viraram porta-velas perfumadas. Colei adesivos e fiz as velas em casa, fácil, fácil!”_
 </p>
 
 Inspirada pelas ideias da Simone? Veja o que mais as bichas fêmeas navegantes andam fazendo por aí afora…
@@ -63,7 +63,7 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
 </p>
 
 <p style="text-align: center;">
-  <em>“…foto para você entender o que fiz com os cones de papelão que, claro, não joguei no lixo, e uma velha esteira de praia que também seria colocada no lixo.”</em>
+  _“…foto para você entender o que fiz com os cones de papelão que, claro, não joguei no lixo, e uma velha esteira de praia que também seria colocada no lixo.”_
 </p>
 
 <p style="text-align: justify;">
@@ -71,7 +71,7 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
 </p>
 
 <p style="text-align: justify;">
-  Fernanda Reali, a bonitona que está por trás do <a href="http://fernandareali.blogspot.com/" target="_blank">blog que leva seu nome</a>, é das blogueiras incansáveis em mostrar exemplos de reutilização de objetos para a decoração de sua casa. E sabe o melhor? É tudo bonito e de bom gosto. Duvida?
+  Fernanda Reali, a bonitona que está por trás do [blog que leva seu nome](http://fernandareali.blogspot.com/) , é das blogueiras incansáveis em mostrar exemplos de reutilização de objetos para a decoração de sua casa. E sabe o melhor? É tudo bonito e de bom gosto. Duvida?
 </p>
 
 > “_Nos links abaixo, tu vais encontrar algumas fotos e PAPs de objetos que iriam para o lixo, mas recuperei-os e voltaram ao uso. Separo sobras de tecido para forrar caixas e latas e as uso para guardar biscoitos, pregadores, miudezas em geral. É um hábito que tenho desde março de 2008, quando fiz o curso de pintura e decoupagem.”_
@@ -81,7 +81,7 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
 </p>
 
 <p style="text-align: center;">
-  <em>“…tinha uma sobrinha de pano das almofadas da Helena e <a href="http://fernandareali.blogspot.com/2009/09/reciclagem-latas-e-tecidos.html" target="_blank">fiz estes cachepôs</a>. Muito simples e rápido, é uma ótima alternativa para reciclar latas, principalmente para quem não tem jeito com decoupage e pintura</em>.”
+  _“…tinha uma sobrinha de pano das almofadas da Helena e [fiz estes cachepôs](http://fernandareali.blogspot.com/2009/09/reciclagem-latas-e-tecidos.html) . Muito simples e rápido, é uma ótima alternativa para reciclar latas, principalmente para quem não tem jeito com decoupage e pintura_.”
 </p>
 
 <p style="text-align: center;">
@@ -89,7 +89,7 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
 </p>
 
 > <p style="text-align: center;">
->   <em>“Resolvi reciclar uma </em><a href="http://fernandareali.blogspot.com/2009/07/antes-e-depois-quadro-de-scrapbooking.html" target="_blank"><em>moldura com um defeitinho e usei retalhos de papel</em></a><em> que sobraram de outro trabalho. Cortei em pedaços retangulares, apliquei fita dupla face atrás e montei como se fosse uma página de álbum de fotos. Imprimi uma foto em preto e branco e fixei no centro. Dentro do envelope, escrevi palavras de carinho descrevendo a personalidade da Helena.”</em>
+>   _“Resolvi reciclar uma _[_moldura com um defeitinho e usei retalhos de papel_](http://fernandareali.blogspot.com/2009/07/antes-e-depois-quadro-de-scrapbooking.html) _ que sobraram de outro trabalho. Cortei em pedaços retangulares, apliquei fita dupla face atrás e montei como se fosse uma página de álbum de fotos. Imprimi uma foto em preto e branco e fixei no centro. Dentro do envelope, escrevi palavras de carinho descrevendo a personalidade da Helena.”_
 > </p>
 
 <p style="text-align: justify;">
@@ -111,7 +111,7 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="600" valign="top">
-      Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração</a></em>** > Decoração com objetos reutilizados by bichas fêmeas.
+      Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_** > **_<a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração</a>_** > Decoração com objetos reutilizados by bichas fêmeas.
     </td>
   </tr>
 </table>
@@ -119,5 +119,5 @@ Outro feito útil e bonito na prática da reutilização foi o que fez a Silvia 
  
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

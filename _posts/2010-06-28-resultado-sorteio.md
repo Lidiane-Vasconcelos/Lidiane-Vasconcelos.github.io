@@ -10,7 +10,7 @@ categories:
   - Promoção
   - Publieditorial
 ---
-Saiu o resultado de mais um sorteio no Bicha Fêmea, desta vez feito em parceria com a talentosa Fernanda Postai, responsável pela <a href="http://fernandapostai.blogspot.com/" target="_blank">CATAVENTO ARTES</a>.
+Saiu o resultado de mais um sorteio no Bicha Fêmea, desta vez feito em parceria com a talentosa Fernanda Postai, responsável pela [CATAVENTO ARTES](http://fernandapostai.blogspot.com/) .
 
 O sorteio contou com 344 inscrições válidas. Eu já desconfiava de que seria alto o número de inscrições, porque as coisas que a Fernanda produz são mesmo muito fofas, e quem visita seu espaço virtual consegue ver quantas _belezuras_ mais ela faz com o papel.
 

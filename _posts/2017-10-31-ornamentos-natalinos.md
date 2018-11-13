@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/17/enfeites-natalinos-2/" target="_blank">**3 cordões de enfeites natalinos: faça você mesma.**</a>
+  [**3 cordões de enfeites natalinos: faça você mesma.**](http://www.trololodemulher.com.br/2016/11/17/enfeites-natalinos-2/) 
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2017/10/03/decoracao-natalina-3/" target="_blank">**3 ideias de charme para sua decoração natalina.**</a>
+  [**3 ideias de charme para sua decoração natalina.**](http://www.trololodemulher.com.br/2017/10/03/decoracao-natalina-3/) 
 </p>
 
 <p align="center">
@@ -63,23 +63,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/11/14/decoracao-natalina-2/" target="_blank">**Decoração natalina: inspiração das casas reais.**</a>
+  [**Decoração natalina: inspiração das casas reais.**](http://www.trololodemulher.com.br/2016/11/14/decoracao-natalina-2/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
-  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank">**Clique aqui e confira**</a>!
+  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. [**Clique aqui e confira**](http://www.trololodemulher.com.br/category/natal/) !
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>
 
 <p align="center">

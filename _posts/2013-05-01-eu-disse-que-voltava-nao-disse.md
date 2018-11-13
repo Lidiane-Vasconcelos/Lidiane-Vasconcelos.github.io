@@ -24,13 +24,13 @@ Voltei!!! Lembra do **[post de despedida](http://www.trololodemulher.com.br/2012
 </p>
 
 <p align="center">
-  <em>Meu bichinho macho Artur, aos 3 meses de vida, enchendo a bicha fêmea mãe de muito amor… tanto amor que até faz cócegas no coração.</em>
+  _Meu bichinho macho Artur, aos 3 meses de vida, enchendo a bicha fêmea mãe de muito amor… tanto amor que até faz cócegas no coração._
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Confesso que andei insegura com a ideia da volta. Sei lá… achei que havia perdido o jeito de <em>blogar</em>, mas acredito que é uma questão de tempo e logo logo estarei livre da ferrugem <em>bloguística.</em> Assim espero…
+  Confesso que andei insegura com a ideia da volta. Sei lá… achei que havia perdido o jeito de _blogar_, mas acredito que é uma questão de tempo e logo logo estarei livre da ferrugem _bloguística._ Assim espero…
 </p>
 
 &nbsp;
@@ -40,11 +40,11 @@ Voltei!!! Lembra do **[post de despedida](http://www.trololodemulher.com.br/2012
 </p>
 
 <p align="center">
-  <em>Meu amorzinho, gostoso que só ele…ganha tantos cheiros da mãe que nem te conto. Ah, conto, sim! São cheirinhos, abraços e por aí vai…</em>
+  _Meu amorzinho, gostoso que só ele…ganha tantos cheiros da mãe que nem te conto. Ah, conto, sim! São cheirinhos, abraços e por aí vai…_
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Então é isso: estou de volta aos trabalhos por aqui, cheia de saudade e vontade de compartilhar informação contigo. A retomada do<em> trololó</em> por aqui começa a partir de agora, e que venham muitos anos e posts pela frente.
+  Então é isso: estou de volta aos trabalhos por aqui, cheia de saudade e vontade de compartilhar informação contigo. A retomada do_ trololó_ por aqui começa a partir de agora, e que venham muitos anos e posts pela frente.
 </p>

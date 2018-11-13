@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
+  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
 </p>
 
 &nbsp;
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  Tiaras para cabeça em tecido meia, super macio e confortável para a cabeça das menininhas. Aplicação de belíssima flor toda em renda Renascença. Os produtos da Xique Xique Brasil passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://bit.ly/xxb-trololo" target="_blank">clique aqui</a>.
+  Tiaras para cabeça em tecido meia, super macio e confortável para a cabeça das menininhas. Aplicação de belíssima flor toda em renda Renascença. Os produtos da Xique Xique Brasil passam por uma cuidadosa seleção, o que garante um enxoval precioso para seu bebê. Para conhecer todas as delicadezas da loja, sinta-se à vontade e [clique aqui](http://bit.ly/xxb-trololo) .
 </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ categories:
   <img class="alignnone size-full wp-image-12742" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/08/ACESSORIOS-ACESSORIO-FEMININO-BRINCO.jpg" alt="ACESSORIOS-ACESSORIO FEMININO-BRINCO" width="580" height="435" />
 </p>
 
-Brinco estilo hippie chic em banho níquel antigo com detalhes em strass. Lindo! Confira peças lindas de viver na <a href="http://www.elo7.com.br/silvanaracessorios" target="_blank">Silvana R. Acessórios</a>!
+Brinco estilo hippie chic em banho níquel antigo com detalhes em strass. Lindo! Confira peças lindas de viver na [Silvana R. Acessórios](http://www.elo7.com.br/silvanaracessorios) !
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Brinco estilo hippie chic em banho níquel antigo com detalhes em strass. Lindo!
 </p>
 
 <p align="justify">
-  Ao produzir suas peças, o artista Carlos Szollosi agrega o valor da sustentabilidade quando se propõe dar nova vida e cara a materiais reaproveitados. Ambiente da piscina decorado com os móveis de pallets da <a href="http://vitrine.elo7.com.br/carlloscriacoes" target="_blank">Carllos Criações</a>. Para tirar dúvidas, não hesite em procurar o pessoal da loja!
+  Ao produzir suas peças, o artista Carlos Szollosi agrega o valor da sustentabilidade quando se propõe dar nova vida e cara a materiais reaproveitados. Ambiente da piscina decorado com os móveis de pallets da [Carllos Criações](http://vitrine.elo7.com.br/carlloscriacoes) . Para tirar dúvidas, não hesite em procurar o pessoal da loja!
 </p>
 
 &nbsp;
@@ -74,7 +74,7 @@ Brinco estilo hippie chic em banho níquel antigo com detalhes em strass. Lindo!
 </p>
 
 <p align="justify">
-  Com clientes satisfeitíssimas que fazem questão de dar tantos retornos positivos sobre trabalho e atendimento de Aline (o que acho muito massa!), a artesã aplica ainda mais amor aos seus trabalhos. A linha de letras decorativas em MDF encanta! Pintadas a mão e decoradas com muito carinho, as letras ganham detalhes diferentes e variados, como essas pérolas, que dão aquele charme especial! Peça ideal para enfeitar um lar cheio do que importa: amor. Veja mais peças na <a href="http://www.elo7.com.br/boutiqueateline" target="_blank">Boutique Ateline</a>.
+  Com clientes satisfeitíssimas que fazem questão de dar tantos retornos positivos sobre trabalho e atendimento de Aline (o que acho muito massa!), a artesã aplica ainda mais amor aos seus trabalhos. A linha de letras decorativas em MDF encanta! Pintadas a mão e decoradas com muito carinho, as letras ganham detalhes diferentes e variados, como essas pérolas, que dão aquele charme especial! Peça ideal para enfeitar um lar cheio do que importa: amor. Veja mais peças na [Boutique Ateline](http://www.elo7.com.br/boutiqueateline) .
 </p>
 
 <p align="center">
@@ -86,11 +86,11 @@ Brinco estilo hippie chic em banho níquel antigo com detalhes em strass. Lindo!
 </p>
 
 <p align="justify">
-  Procurando uma dica para incrementar a mesa posta? Sobreponha uma peça de renda ao seu sousplat rústico. A dica apaixonante e de beleza incontestável é das meninas da Xique Xique Brasil, uma loja virtual que oferece uma variedade incrível pra vestir a casa com muito bom gosto. Confira na loja virtual, <a href="https://www.xiquexiquebrasil.com.br/" target="_blank">clicando aqui</a>.
+  Procurando uma dica para incrementar a mesa posta? Sobreponha uma peça de renda ao seu sousplat rústico. A dica apaixonante e de beleza incontestável é das meninas da Xique Xique Brasil, uma loja virtual que oferece uma variedade incrível pra vestir a casa com muito bom gosto. Confira na loja virtual, [clicando aqui](https://www.xiquexiquebrasil.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

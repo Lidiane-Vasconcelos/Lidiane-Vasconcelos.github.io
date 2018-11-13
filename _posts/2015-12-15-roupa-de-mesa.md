@@ -12,7 +12,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Seja pra receber convidados em um dia de festa, ou para o dia a dia, dá gosto ver uma **roupa de mesa** linda de viver, não é? Mesa posta é sinal de carinho e homenagem a quem a gente quer bem e deseja estar junto, especialmente na hora de compartilhar uma comidinha das boas. Se isso faz toda diferença pra você também, não tenho dúvidas de que seu coração vai se derreter pela loja que quero te apresentar hoje: **<a href="http://www.recebendocomcharme.com/index.html" target="_blank">Recebendo com Charme</a>.**
+  Seja pra receber convidados em um dia de festa, ou para o dia a dia, dá gosto ver uma **roupa de mesa** linda de viver, não é? Mesa posta é sinal de carinho e homenagem a quem a gente quer bem e deseja estar junto, especialmente na hora de compartilhar uma comidinha das boas. Se isso faz toda diferença pra você também, não tenho dúvidas de que seu coração vai se derreter pela loja que quero te apresentar hoje: **[Recebendo com Charme](http://www.recebendocomcharme.com/index.html) .**
 </p>
 
 <p align="center">
@@ -52,13 +52,13 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“Aqui você encontra muitas opções para receber com charme e impressionar seus convidados ou clientes. Lembre-se que receber bem é uma arte e nós estamos aqui para ajudá-los, seja em sua casa, restaurante, bar, festa de aniversário, casamento ou qualquer outra confraternização! Conte Conosco!!!”</em>, é o que dizem as meninas da Recebendo com Charme. Com essa pequena amostra do que há na loja não há o que questionar, não é? Há mesmo é o que espiar! Faça isso e delicie-se com tantas <em>belezuras</em>,<em> viu</em>?
+  _“Aqui você encontra muitas opções para receber com charme e impressionar seus convidados ou clientes. Lembre-se que receber bem é uma arte e nós estamos aqui para ajudá-los, seja em sua casa, restaurante, bar, festa de aniversário, casamento ou qualquer outra confraternização! Conte Conosco!!!”_, é o que dizem as meninas da Recebendo com Charme. Com essa pequena amostra do que há na loja não há o que questionar, não é? Há mesmo é o que espiar! Faça isso e delicie-se com tantas _belezuras_,_ viu_?
 </p>
 
 <p align="justify">
-  Para visitar o site insitucional da **Recebendo com Charme**, <a href="http://www.recebendocomcharme.com/index.html" target="_blank">clique aqui</a>. A loja virtual com todas as lindezas para vestir sua mesa você <a href="https://recebendocomcharme.minhalojanouol.com.br/" target="_blank">acessa aqui</a>. A fanpage com todas as novidades, você <a href="https://www.facebook.com/Recebendo-com-Charme-775761572452036/" target="_blank">curte aqui</a>. Elas também têm lindas inspirações no Instagram <em>**@recebendocomcharme**</em> e, o melhor de tudo, enviam para todo o Brasil. No mais… se jogue e suspire!
+  Para visitar o site insitucional da **Recebendo com Charme**, [clique aqui](http://www.recebendocomcharme.com/index.html) . A loja virtual com todas as lindezas para vestir sua mesa você [acessa aqui](https://recebendocomcharme.minhalojanouol.com.br/) . A fanpage com todas as novidades, você [curte aqui](https://www.facebook.com/Recebendo-com-Charme-775761572452036/) . Elas também têm lindas inspirações no Instagram _**@recebendocomcharme**_ e, o melhor de tudo, enviam para todo o Brasil. No mais… se jogue e suspire!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

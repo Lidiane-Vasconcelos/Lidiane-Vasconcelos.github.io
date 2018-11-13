@@ -46,7 +46,7 @@ Cravo;
 &nbsp;
 
 <p align="justify">
-  “<em>Misture o leite em pó com o coco e o adoçante e vá acrescentando o leite de coco até obter uma mistura homogênea. Deixe a massa descansar por uma hora. Caso esteja muito firme acrescente água aos poucos até obter ponto de enrolar. Passe as bolinhas no coco e coloque o cravo em cima</em>.”
+  “_Misture o leite em pó com o coco e o adoçante e vá acrescentando o leite de coco até obter uma mistura homogênea. Deixe a massa descansar por uma hora. Caso esteja muito firme acrescente água aos poucos até obter ponto de enrolar. Passe as bolinhas no coco e coloque o cravo em cima_.”
 </p>
 
 <p align="center">
@@ -58,27 +58,27 @@ Cravo;
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank">**Suflê de couve-flor e cenoura**</a>
+  [**Suflê de couve-flor e cenoura**](http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/10/14/pudim-de-chocolate-light/" target="_blank">**Pudim de chocolate light**</a>
+  [**Pudim de chocolate light**](http://www.trololodemulher.com.br/2015/10/14/pudim-de-chocolate-light/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.belezacorpoecia.com/bolo-simples-integral/" target="_blank">**Bolo simples integral com gotas de chocolate**</a>
+  [**Bolo simples integral com gotas de chocolate**](http://www.belezacorpoecia.com/bolo-simples-integral/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank">**Mousse de abacate e cacau em pó**</a>
+  [**Mousse de abacate e cacau em pó**](http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

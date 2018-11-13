@@ -10,7 +10,7 @@ categories:
   - Bem-estar
   - Quarto
 ---
-É muito fácil a gente contribuir para um dia a dia harmonioso tomando pequenos cuidados na** _decoração e bem-estar do quarto_**, que é o ambiente de descanso e recuperação de energias, mas a gente não se dá conta. Isso tem chamado minha atenção desde que parei para perceber como pequenas providências fazem a diferença na sensação de bem-estar, e por isso trouxe para vocês essas dicas dos erros cometidos no quarto e que foram totalmente inspiradas <a href="http://www.apartmenttherapy.com/la/bedroom/10-common-mistakes-made-in-the-bedroom-073806" target="_blank">neste post</a> publicado no <a href="http://www.apartmenttherapy.com/" target="_blank">“Apartment Therapy”.</a> Eu as considero importante, por isso lá vai:
+É muito fácil a gente contribuir para um dia a dia harmonioso tomando pequenos cuidados na** _decoração e bem-estar do quarto_**, que é o ambiente de descanso e recuperação de energias, mas a gente não se dá conta. Isso tem chamado minha atenção desde que parei para perceber como pequenas providências fazem a diferença na sensação de bem-estar, e por isso trouxe para vocês essas dicas dos erros cometidos no quarto e que foram totalmente inspiradas [neste post](http://www.apartmenttherapy.com/la/bedroom/10-common-mistakes-made-in-the-bedroom-073806)  publicado no [“Apartment Therapy”.](http://www.apartmenttherapy.com/)  Eu as considero importante, por isso lá vai:
 
 1 – Não arrumar a cama.
 
@@ -54,7 +54,7 @@ O quarto é lugar para namorar e descansar. Ponto. No máximo, um livro de cabec
 
 Gostaram? Espero que sim, que apliquem, e sintam alguma diferença. 🙂
 
-Ah! O post original (em inglês) está <a href="http://www.apartmenttherapy.com/la/bedroom/10-common-mistakes-made-in-the-bedroom-073806" target="_blank">aqui, ó</a>!
+Ah! O post original (em inglês) está [aqui, ó](http://www.apartmenttherapy.com/la/bedroom/10-common-mistakes-made-in-the-bedroom-073806) !
 
 **Quer ler sobre decoração do quarto?**
 

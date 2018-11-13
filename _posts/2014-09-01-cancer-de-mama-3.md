@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“Vou morrer. O índice de câncer na minha família paterna é alto, foi a primeira coisa que pensei: tenho um filho de 6 anos e vou deixa-lo órfão como meu pai me deixou.”</em>
+  _“Vou morrer. O índice de câncer na minha família paterna é alto, foi a primeira coisa que pensei: tenho um filho de 6 anos e vou deixa-lo órfão como meu pai me deixou.”_
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“O tempo inteiro eu me revolto. Meu corpo não responde ao tratamento. As chances estão esgotando. E ainda escuto&#8221;você tem que ter fé&#8221; &#8220;você tem que lutar&#8221; &#8220;você tem que querer&#8221;. A vontade que dá quando escuto isso (muitas vezes de pessoas próximas) é de mandar trocar de lugar comigo e ver como é. Se eu não lutasse, se eu não tivesse fé, se eu não tentasse não teria aguentado até aqui.São muitas dores e limitações, minha vida foi completamente paralisada. Eu era uma mulher indepedente, hoje dependo da minha mãe pra tudo, raramente estou bem o suficiente pra fazer minha própria comida (por exemplo).”</em>
+  _“O tempo inteiro eu me revolto. Meu corpo não responde ao tratamento. As chances estão esgotando. E ainda escuto&#8221;você tem que ter fé&#8221; &#8220;você tem que lutar&#8221; &#8220;você tem que querer&#8221;. A vontade que dá quando escuto isso (muitas vezes de pessoas próximas) é de mandar trocar de lugar comigo e ver como é. Se eu não lutasse, se eu não tivesse fé, se eu não tentasse não teria aguentado até aqui.São muitas dores e limitações, minha vida foi completamente paralisada. Eu era uma mulher indepedente, hoje dependo da minha mãe pra tudo, raramente estou bem o suficiente pra fazer minha própria comida (por exemplo).”_
 </p>
 
 <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>**“**No inicio tentaram levar naturalmente. Meu filho foi o que mais me surpreendeu com a maturidade e responsabilidade. Ele lida muito bem, apesar de ter apenas 8 anos. Me ajuda, apoia. Faz coisas simples como trazer um lanche pra mim, ou respeitar o silêncio (que é algo que eu tenho necessitado e valorizado demais). Minha mãe é muito forte, ajuda muito além do que poderia ajudar, mas tem os momentos em que tenta ignorar / fugir da realidade, como muitos pacientes mesmo fazem. Eu sou hiper realista. Se estou paralisada por uma lesão eu não fico me enganando dizendo que é o tempo frio, eu sei que é a lesão que está me paralisando e ponto. Me medico e enfrento a dor até ela passar. É mais fácil fugir da realidade do que enfrentá-la. Muitos fazem isso com superstições, fé, rituais&#8230; eu tento ser realista e não me enganar achando que porque uma compressa de água quente aliviou minha dor eu vou poder sair andando por ai&#8230; sei os meus limites e respeito.”</em>
+  _**“**No inicio tentaram levar naturalmente. Meu filho foi o que mais me surpreendeu com a maturidade e responsabilidade. Ele lida muito bem, apesar de ter apenas 8 anos. Me ajuda, apoia. Faz coisas simples como trazer um lanche pra mim, ou respeitar o silêncio (que é algo que eu tenho necessitado e valorizado demais). Minha mãe é muito forte, ajuda muito além do que poderia ajudar, mas tem os momentos em que tenta ignorar / fugir da realidade, como muitos pacientes mesmo fazem. Eu sou hiper realista. Se estou paralisada por uma lesão eu não fico me enganando dizendo que é o tempo frio, eu sei que é a lesão que está me paralisando e ponto. Me medico e enfrento a dor até ela passar. É mais fácil fugir da realidade do que enfrentá-la. Muitos fazem isso com superstições, fé, rituais&#8230; eu tento ser realista e não me enganar achando que porque uma compressa de água quente aliviou minha dor eu vou poder sair andando por ai&#8230; sei os meus limites e respeito.”_
 </p>
 
 > <p align="justify">
@@ -56,11 +56,11 @@ categories:
 > </p>
 
 <p align="justify">
-  **Bicha Fêmea > Apesar da doença e os tratamentos dolorosos para o corpo, você não se isolou. Você esteve presente na blogosfera [<a href="http://eraumavezumcancer.blogspot.com.br/" target="_blank">Era uma vez um câncer&#8230;</a>], redes sociais e eventos na sua cidade, esbanjando vontade de viver. A vida continua? **
+  **Bicha Fêmea > Apesar da doença e os tratamentos dolorosos para o corpo, você não se isolou. Você esteve presente na blogosfera [[Era uma vez um câncer&#8230;](http://eraumavezumcancer.blogspot.com.br/) ], redes sociais e eventos na sua cidade, esbanjando vontade de viver. A vida continua? **
 </p>
 
 <p align="justify">
-  <em>“Tento viver o máximo que posso. Depois do câncer me divorciei. Por causa da paralisia das pernas e lesões na coluna não consigo sair de casa como gostaria de sair, mas sempre que posso saio. E ás vezes me isolo, sim. No início desse ano tive uma crise forte de depressão porque me isolei demais. Precisei de ajuda pra me recuperar. As pessoas acham que sou forte mas não sou, sou frágil e preciso da ajuda e contato dos outros pra me manter firme. Uma mudança na minha vida é que hoje eu procuro não fazer mais planos. Hoje estou namorando novamente. Apaixonada, se fosse há 10 anos eu já estaria fazendo cartas kilométricas com frases de amor, escolhendo nomes pros filhos, essas coisas&#8230; toda canceriana é meio assim neah&#8230; mas hoje eu sou mais pé no chão, na paixão, na vida, em tudo. Continuo vivendo, mas tento enxergar que as pessoas não são obrigadas a estar ao meu lado, a se limitar por causa de mim e respeito isso.”</em>
+  _“Tento viver o máximo que posso. Depois do câncer me divorciei. Por causa da paralisia das pernas e lesões na coluna não consigo sair de casa como gostaria de sair, mas sempre que posso saio. E ás vezes me isolo, sim. No início desse ano tive uma crise forte de depressão porque me isolei demais. Precisei de ajuda pra me recuperar. As pessoas acham que sou forte mas não sou, sou frágil e preciso da ajuda e contato dos outros pra me manter firme. Uma mudança na minha vida é que hoje eu procuro não fazer mais planos. Hoje estou namorando novamente. Apaixonada, se fosse há 10 anos eu já estaria fazendo cartas kilométricas com frases de amor, escolhendo nomes pros filhos, essas coisas&#8230; toda canceriana é meio assim neah&#8230; mas hoje eu sou mais pé no chão, na paixão, na vida, em tudo. Continuo vivendo, mas tento enxergar que as pessoas não são obrigadas a estar ao meu lado, a se limitar por causa de mim e respeito isso.”_
 </p>
 
 <p align="justify">
@@ -68,13 +68,13 @@ categories:
 </p>
 
 <p align="justify">
-  <em>“Pra mim fica a dor. Perdi minha vida, perdi a oportunidade de ter uma carreira, de seguir minha vida como sempre sonhamos quando criança. Pra quem me vê fica a lição da persistência, de não cair. Não caio mesmo, não. Dói, machuca, é difícil, mas me levanto, não fico no chão. E sei que isso ajuda quem está de fora olhando. Tem um monte de gente cruel por ai que não está nem ai, fala e faz coisas horrorosas, eu passei e passo por isso. Nós mulheres que passamos pelo câncer (de mama, especialmente) estamos fadadas a enfrentar gente assim o tempo todo. São maridos, irmãos, mães&#8230; O que posso dizer? Ignorem! Se não têm sensibilidade pra lidar com você e sua dificuldade, então que saiam da sua vida. Não perca tempo com bobagens. A vida é muito curta. Hoje você está bem, andando, pegando um ônibus e indo pra qualquer lugar. Amanhã pode estar numa cama usando fraldas e tomando morfina pra diminuir a dor. Viva sua vida ao máximo, não perca tempo com futilidades, não deixe pra amanhã o que pode fazer hoje. Eu esperei casar e ter filhos pra depois construir carreira. Hoje não posso mais trabalhar, nunca serei a advogada ou administradora que queria ser. Sonhava quando meu filho tivesse grande ir pra Fernando de Noronha aprender a mergulhar. Hoje tenho a coluna fraturada, não posso nem em sonho fazer algo assim. Durante o inicio do tratamento eu sonhava em operar logo pra comprar uma bicicleta e voltar a pedalar. Hoje não posso mais subir em uma bicicleta. Não espere pra fazer amanhã o que você pode fazer hoje. Mais vale uma lembrança do que um arrependimento.”</em>
+  _“Pra mim fica a dor. Perdi minha vida, perdi a oportunidade de ter uma carreira, de seguir minha vida como sempre sonhamos quando criança. Pra quem me vê fica a lição da persistência, de não cair. Não caio mesmo, não. Dói, machuca, é difícil, mas me levanto, não fico no chão. E sei que isso ajuda quem está de fora olhando. Tem um monte de gente cruel por ai que não está nem ai, fala e faz coisas horrorosas, eu passei e passo por isso. Nós mulheres que passamos pelo câncer (de mama, especialmente) estamos fadadas a enfrentar gente assim o tempo todo. São maridos, irmãos, mães&#8230; O que posso dizer? Ignorem! Se não têm sensibilidade pra lidar com você e sua dificuldade, então que saiam da sua vida. Não perca tempo com bobagens. A vida é muito curta. Hoje você está bem, andando, pegando um ônibus e indo pra qualquer lugar. Amanhã pode estar numa cama usando fraldas e tomando morfina pra diminuir a dor. Viva sua vida ao máximo, não perca tempo com futilidades, não deixe pra amanhã o que pode fazer hoje. Eu esperei casar e ter filhos pra depois construir carreira. Hoje não posso mais trabalhar, nunca serei a advogada ou administradora que queria ser. Sonhava quando meu filho tivesse grande ir pra Fernando de Noronha aprender a mergulhar. Hoje tenho a coluna fraturada, não posso nem em sonho fazer algo assim. Durante o inicio do tratamento eu sonhava em operar logo pra comprar uma bicicleta e voltar a pedalar. Hoje não posso mais subir em uma bicicleta. Não espere pra fazer amanhã o que você pode fazer hoje. Mais vale uma lembrança do que um arrependimento.”_
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

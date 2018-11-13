@@ -12,11 +12,11 @@ categories:
 ---
 A Bicha Fêmea Convidada em Foco de hoje é uma blogueira do tipo que é rara na blogosfera. Nessa bonita eu enxergo sinceridade sem grosseria, amizade sem afetamentos e elegância de comportamento. Não lembro ao certo quem chegou primeiro no blog de quem, mas foi tudo muito sutil. E tem sido assim, sutil e delicado, até hoje.
 
-Elaine Gaspareto, blogueira com sensibilidade a flor da pele, escreve no blog <a href="http://elainegaspareto.blogspot.com/" target="_blank">Um Pouco de Mim</a>. O blog tem mais dela do qualquer outra coisa: tem sua sensibilidade permeando cada texto; tem sua alma feminina estampada em desabafos, relatos e contos; tem sua inteligência denunciada em textos críticos e de opinião fundamentada; tem sua generosidade derretida em posts _metabloguísticos_…
+Elaine Gaspareto, blogueira com sensibilidade a flor da pele, escreve no blog [Um Pouco de Mim](http://elainegaspareto.blogspot.com/) . O blog tem mais dela do qualquer outra coisa: tem sua sensibilidade permeando cada texto; tem sua alma feminina estampada em desabafos, relatos e contos; tem sua inteligência denunciada em textos críticos e de opinião fundamentada; tem sua generosidade derretida em posts _metabloguísticos_…
 
 E mais ainda, tem ela própria, com seus textos a primeira vista de caráter _umbigocentrista_ (como ela mesma diz…), mas que revelam muito da gente próprio. Desconfio que passe por aí todo o sucesso que o blog de Elaine tem alcançado, pela proeza de fazer com que tantas pessoas, tão diferentes, se enxerguem de alguma forma em suas palavras… é que Elaine se mostra transparente, sem máscaras, sem o que quer que seja, e com muita humanidade.
 
-**_Por Elaine Gaspareto – <a href="http://elainegaspareto.blogspot.com/" target="_blank">Um Pouco de Mim</a>_**
+**_Por Elaine Gaspareto – [Um Pouco de Mim](http://elainegaspareto.blogspot.com/) _**
 
 Quando a Lidiane me convidou para escrever um texto para o Bicha Fêmea fiquei muito feliz. Por 5 segundos. Depois fiquei muito preocupada. Por 1 mês. Mas quando sentei para digitar o texto que já estava todo formadinho na minha cabeça fiquei feliz de novo e vou ficar feliz para sempre. Tá, prá sempre é exagero. Mas estou numa felicidade imensa de grande como diz minha sobrinha.
 

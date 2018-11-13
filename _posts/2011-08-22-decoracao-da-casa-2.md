@@ -11,7 +11,7 @@ categories:
   - Comportamento Feminino
   - Decoração
 ---
-Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vânia Pinho**, que edita o blog **<a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**, apontar um cantinho preferido é algo difícil. Ela tem um caso de amor com a casa inteira, e mostra com paixão cada cantinho dela aqui, no **Bicha Fêmea.**
+Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vânia Pinho**, que edita o blog **[Casa de Boneca](http://www.casadebonecadecor.blogspot.com/) **, apontar um cantinho preferido é algo difícil. Ela tem um caso de amor com a casa inteira, e mostra com paixão cada cantinho dela aqui, no **Bicha Fêmea.**
 
 &nbsp;
 
@@ -28,7 +28,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 <p align="justify">
-  Este ambiente é onde a Vânia costuma ficar enquanto <em>bloga</em>. Cheio de detalhes decorativos nas prateleiras sobre a TV, o que também chama a atenção é a presença do verde em sua sala.
+  Este ambiente é onde a Vânia costuma ficar enquanto _bloga_. Cheio de detalhes decorativos nas prateleiras sobre a TV, o que também chama a atenção é a presença do verde em sua sala.
 </p>
 
 &nbsp;
@@ -40,7 +40,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 > <p align="justify">
->   “<em>Cantinho onde geralmente eu sento para visitar os blogs das amigas e fazer minhas postagens</em>. Adoro esse cantinho com planta natural e velas”
+>   “_Cantinho onde geralmente eu sento para visitar os blogs das amigas e fazer minhas postagens_. Adoro esse cantinho com planta natural e velas”
 > </p>
 
 &nbsp;
@@ -52,7 +52,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 > <p align="justify">
->   “<em>Adoro a minha sala porque é nela onde nos reunimos todas as noites</em>.”
+>   “_Adoro a minha sala porque é nela onde nos reunimos todas as noites_.”
 > </p>
 
 &nbsp;
@@ -64,7 +64,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 > <p align="justify">
->   “Adoro esse canto, pois a maioria das peças foram feitas por mim, <em>só a a vela amarela e o vidro exotérico é que não foram.</em>
+>   “Adoro esse canto, pois a maioria das peças foram feitas por mim, _só a a vela amarela e o vidro exotérico é que não foram._
 > </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 > <p align="justify">
->   “<em>Esta cristaleira foi um presente que minha ex sogra me deu e eu reformei, e as telas ao lado foram pintadas por mim</em>.”
+>   “_Esta cristaleira foi um presente que minha ex sogra me deu e eu reformei, e as telas ao lado foram pintadas por mim_.”
 > </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 > <p align="justify">
->   “<em>A cristaleira, o bufet e o espelho foram resturados por mim, fiz pátina</em>.”
+>   “_A cristaleira, o bufet e o espelho foram resturados por mim, fiz pátina_.”
 > </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 <p align="justify">
-  A Vania é inquieta, pois vive mudando a decoração conforme as ideias surgem a partir dos cliques que dá de blog em blog. Quando coloca a mão na massa, as <em>fofurices</em> lindas de viver vão parar nos cantinhos da casa, a exemplo do varal de corações que está em sua cabeceira.
+  A Vania é inquieta, pois vive mudando a decoração conforme as ideias surgem a partir dos cliques que dá de blog em blog. Quando coloca a mão na massa, as _fofurices_ lindas de viver vão parar nos cantinhos da casa, a exemplo do varal de corações que está em sua cabeceira.
 </p>
 
 <p align="center">
@@ -120,7 +120,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 > <p align="justify">
->   “<em>Eu adoro esse canto  que é simples porém muito aconchegante. Todos os enfeites que estão sobre os criados também foram feitos por mim, incluindo o varal de corações.”</em>
+>   “_Eu adoro esse canto  que é simples porém muito aconchegante. Todos os enfeites que estão sobre os criados também foram feitos por mim, incluindo o varal de corações.”_
 > </p>
 
 <p align="justify">
@@ -152,7 +152,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 <p align="center">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
 </p>
 
 <p align="center">
@@ -160,5 +160,5 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 <p align="center">
-  **<a href="http://twitter.com/#!/bichafemea" target="_blank">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank">Facebook</a> **
+  **[Twitter](http://twitter.com/#!/bichafemea)  | [Facebook](https://www.facebook.com/profile.php?id=100002007076157)  **
 </p>

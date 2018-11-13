@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  As inscrições para a turma de Abril já estão abertas, começaremos dia 09. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Saiba mais clicando aqui</a>, ou entre em contato comigo via WhatsApp: **81 9 9530-7307**.
+  As inscrições para a turma de Abril já estão abertas, começaremos dia 09. [Saiba mais clicando aqui](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) , ou entre em contato comigo via WhatsApp: **81 9 9530-7307**.
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

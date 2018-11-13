@@ -98,11 +98,11 @@ categories:
 </p>
 
 <p align="justify">
-  Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance. **Local:** Galeria 2. **Entrada:** De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. **Valor do Ingresso:** Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mail gentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações <a href="http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510" target="_blank">aqui</a>.
+  Sábado: 10h às 20h e Domingo: 10h às 17h. Distribuição de ingressos meia hora antes de cada performance. **Local:** Galeria 2. **Entrada:** De terça a sexta, as performances destinam-se a grupos fechados de escolas. Sábados e domingos, para o público espontâneo. **Valor do Ingresso:** Entrada Gratuita. O público participa do projeto de duas maneiras principais: visitando a instalação interativa, que ficará em exposição diariamente ou participando das performances, que acontecem aos sábados e domingos às 15h. De terça a sexta, as performances destinam-se a grupos fechados de escolas, que devem agendar a visita pelo telefone (81) 3425-1906 ou pelo e-mail gentearteirape@gmail.com. A classificação indicativa é a partir dos 6 anos. Mais informações [aqui](http://www.caixacultural.gov.br/SitePages/evento-detalhe.aspx?uid=5&eid=510) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

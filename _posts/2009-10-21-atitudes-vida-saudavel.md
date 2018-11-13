@@ -13,11 +13,11 @@ Uma das coisas que me dá muito prazer no espaço “Bicha Fêmea Convidada em F
 
 Acabo de constatar mais uma característica ímpar em mais uma bicha fêmea convidada: força de vontade, traduzida em disciplina e perseverança.
 
-É, foi exatamente o que enxerguei ao ler o texto da Rejane, _bonitona_ que edita o <a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>. Acostumada a ler o blog dessa mulher super criativa e arteira, tão envolvida com o universo da decoração e _embonecamento_ do lar, jamais imaginei a sua saga para estar em forma e bem consigo mesma.
+É, foi exatamente o que enxerguei ao ler o texto da Rejane, _bonitona_ que edita o [Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) . Acostumada a ler o blog dessa mulher super criativa e arteira, tão envolvida com o universo da decoração e _embonecamento_ do lar, jamais imaginei a sua saga para estar em forma e bem consigo mesma.
 
 O texto abaixo revela uma mulher madura, que se sabe bonita muito mais por estar saudável, do que por qualquer futilidade barata. Rejane nos dá uma lição de que é possível se sentir melhor quando se quer muito isso, mas que tudo seja feito com parcimônia e sabedoria. Tudo a seu tempo, e no tempo certo…
 
-**_Por Rejane Batista – <a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>_**
+**_Por Rejane Batista – [Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) _**
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="rejanebatista" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/rejanebatista_thumb.jpg" border="0" alt="rejanebatista" width="180" height="260" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/rejanebatista.jpg) Olá gente querida! Bom, quero dizer, bichas queridas!
 
@@ -55,11 +55,11 @@ E por experiência própria, deixo estas orientações para as bichas que també
 
 Estar em forma é muito mais que vestir bem a calça jeans preferida; é estar bem consigo mesma.
 
-Com tudo isso, o nome do blog foi decidido: <a href="http://casacorpoecia.blogspot.com/" target="_blank">“Casa Corpo e Cia.”</a>
+Com tudo isso, o nome do blog foi decidido: [“Casa Corpo e Cia.”](http://casacorpoecia.blogspot.com/) 
 
 Um beijO em todas!
 
-Até mais, <a href="http://casacorpoecia.blogspot.com/" target="_blank">Rejane</a>.
+Até mais, [Rejane](http://casacorpoecia.blogspot.com/) .
 
 **Quer mais dicas para ter uma vida mais saudável?**
 

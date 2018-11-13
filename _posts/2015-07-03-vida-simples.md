@@ -21,7 +21,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">**Redes sociais e produtividade no dia a dia: qual o impacto?**</a>
+  [**Redes sociais e produtividade no dia a dia: qual o impacto?**](http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/) 
 </p>
 
 <p align="justify">
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/lng0004/6978693751/" target="_blank">Linh H. Nguyen</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: [Linh H. Nguyen](https://www.flickr.com/photos/lng0004/6978693751/) <b> / </b>[Foter](http://foter.com/) <b> / </b>[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

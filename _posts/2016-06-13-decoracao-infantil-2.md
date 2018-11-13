@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank">**Cortina de bolinhas em quarto infantil: faça você mesma!**</a>
+  [**Cortina de bolinhas em quarto infantil: faça você mesma!**](http://www.decoracaodacasa.com/cortina-quarto-infantil/) 
 </p>
 
 &nbsp;
@@ -47,19 +47,19 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma!**</a>
+  [**2 ideias para festa ou decoração infantil: faça você mesma!**](http://www.decoracaodacasa.com/festa-decoracao-infantil/) 
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Você já deve supor o material necessário? Tecido, tesoura, cordão. No mais, há uma forma especial de amarrar suas tiras de tecido. Aprenda como fazer no post original, no blog <a href="http://greyhouseharbor.com/how-to-make-a-fabric-garland/" target="_blank">Gray House Harbor, bem aqui</a>. É simples, acredite! Veja as imagens e comprove: elas falam por si.
+  Você já deve supor o material necessário? Tecido, tesoura, cordão. No mais, há uma forma especial de amarrar suas tiras de tecido. Aprenda como fazer no post original, no blog [Gray House Harbor, bem aqui](http://greyhouseharbor.com/how-to-make-a-fabric-garland/) . É simples, acredite! Veja as imagens e comprove: elas falam por si.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

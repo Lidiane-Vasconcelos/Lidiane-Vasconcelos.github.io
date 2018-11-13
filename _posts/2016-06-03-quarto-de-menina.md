@@ -11,7 +11,7 @@ categories:
   - Quarto Infantil
 ---
 <p align="justify">
-  Cheias de imaginação, o quarto delas merecem toques que revelam detalhes únicos na **decoração de quarto de menina**. Cores, formas ou pontos caprichosos no ambiente podem fomentar a criatividade das pequenas e levá-las para um mundo encantado, onde elas serão o que quiserem. Neste post você verá 4 ideias bem fáceis de serem aplicadas no quarto de sua princesa, e certamente vão arrancar dela um sorrisinho de alegria por ter um cantinho com <em>charmosices</em> tão lindinhas. Quer ver só? Se joga!
+  Cheias de imaginação, o quarto delas merecem toques que revelam detalhes únicos na **decoração de quarto de menina**. Cores, formas ou pontos caprichosos no ambiente podem fomentar a criatividade das pequenas e levá-las para um mundo encantado, onde elas serão o que quiserem. Neste post você verá 4 ideias bem fáceis de serem aplicadas no quarto de sua princesa, e certamente vão arrancar dela um sorrisinho de alegria por ter um cantinho com _charmosices_ tão lindinhas. Quer ver só? Se joga!
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Imagem: [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quartos-de-menina/" target="_blank">**Decoração infantil: quartos de menina muito fofos!**</a>
+  [**Decoração infantil: quartos de menina muito fofos!**](http://www.decoracaodacasa.com/quartos-de-menina/) 
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Imagem: [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/quarto-de-meninas/" target="_blank">Decoração infantil: quarto de meninas.</a>
+  [Decoração infantil: quarto de meninas.](http://www.decoracaodacasa.com/quarto-de-meninas/) 
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://petitevintageinteriors.com.au/" target="_blank">Petit Vintage Interiors</a>
+  Imagem: [Petit Vintage Interiors](http://petitevintageinteriors.com.au/) 
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina/" target="_blank">**Decoração de quarto de menina.**</a>
+  [**Decoração de quarto de menina.**](http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina/) 
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Imagem: [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
-  Outro elemento decorativo que certamente fará sucesso entre as pequenas é o coração. Um papel de parede com esse motivo, assim como foi sugerido com as nuvens, vai deixar o quarto <em>pura fofurice</em>. Fica a dica!
+  Outro elemento decorativo que certamente fará sucesso entre as pequenas é o coração. Um papel de parede com esse motivo, assim como foi sugerido com as nuvens, vai deixar o quarto _pura fofurice_. Fica a dica!
 </p>
 
 <p align="justify">
@@ -91,15 +91,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank">**Enfeite de tecido para a decoração do quarto ou festa.**</a>
+  [**Enfeite de tecido para a decoração do quarto ou festa.**](http://www.decoracaodacasa.com/decoracao-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cortina-quarto-infantil/" target="_blank">**Cortina de bolinhas em quarto infantil: faça você mesma.**</a>
+  [**Cortina de bolinhas em quarto infantil: faça você mesma.**](http://www.decoracaodacasa.com/cortina-quarto-infantil/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

@@ -25,15 +25,15 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina.jpg"><img class="alignnone size-full wp-image-6125" title="decoração bebê menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina.jpg" alt="" width="588" height="391" /></a><br /> <em><a href="http://www.hgtv.com/" target="_blank">HGTV</a></em>
+  [HGTV](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina.jpg"><img class="alignnone size-full wp-image-6125" title="decoração bebê menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina.jpg" alt="" width="588" height="391" /></a><br /> _<a href="http://www.hgtv.com/) _
 </p>
 
 <p style="text-align: justify;">
-  Para quem gostaria de uma **parede simples **no quarto da criança mas não faz ideia do que fazer, uma alternativa seria pintar **meia parede de uma cor, e a outra metade de uma cor diferente**. Uma faixa, que pode ser de papel de parede, dividiria a parte de baixo e de cima, enquanto flores delicadamente pintadas (ou adesivadas) cresceriam a partir da parte de baixo, <em>hã?</em> Que tal a ideia? É singelo, simples e bonito. E tem cara de menina!
+  Para quem gostaria de uma **parede simples **no quarto da criança mas não faz ideia do que fazer, uma alternativa seria pintar **meia parede de uma cor, e a outra metade de uma cor diferente**. Uma faixa, que pode ser de papel de parede, dividiria a parte de baixo e de cima, enquanto flores delicadamente pintadas (ou adesivadas) cresceriam a partir da parte de baixo, _hã?_ Que tal a ideia? É singelo, simples e bonito. E tem cara de menina!
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina1.jpg"><img class="alignnone size-full wp-image-6126" title="decoração bebê menina[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina1.jpg" alt="" width="550" height="550" /></a><em><br /> <a href="http://www.housetohome.co.uk/" target="_blank">housetohome</a></em>
+  [housetohome](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina1.jpg"><img class="alignnone size-full wp-image-6126" title="decoração bebê menina[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina1.jpg" alt="" width="550" height="550" /></a>_<br /> <a href="http://www.housetohome.co.uk/) _
 </p>
 
 <p style="text-align: justify;">
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina2.jpg"><img class="alignnone size-full wp-image-6127" title="decoração bebê menina[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina2.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  [_housetohome_](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina2.jpg"><img class="alignnone size-full wp-image-6127" title="decoração bebê menina[2]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menina2.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/) 
 </p>
 
 <p style="text-align: justify;">
@@ -53,39 +53,39 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino.jpg"><img class="alignnone size-full wp-image-6128" title="decoração bebê menino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino.jpg" alt="" width="600" height="450" /></a><br /> <em><a href="http://www.hgtv.com/" target="_blank">HGTV</a></em>
+  [HGTV](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino.jpg"><img class="alignnone size-full wp-image-6128" title="decoração bebê menino" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino.jpg" alt="" width="600" height="450" /></a><br /> _<a href="http://www.hgtv.com/) _
 </p>
 
 <p style="text-align: justify;">
-  Para um menino, não é preciso deixar o azul predominar forte e absoluto, <em>hã</em>? Gosto da ideia de que o quarto da criança tenha uma **base de cores neutras** e os detalhes ganhem outras cores. Isso te agrada? Pois imagino que algo como este ambiente possa te inspirar nesse sentido, porque o detalhe do azul no quadrinho sobre o guarda-roupas ou dos enfeites na prateleira sobre o berço é que denota que o quarto é de um meninão.
+  Para um menino, não é preciso deixar o azul predominar forte e absoluto, _hã_? Gosto da ideia de que o quarto da criança tenha uma **base de cores neutras** e os detalhes ganhem outras cores. Isso te agrada? Pois imagino que algo como este ambiente possa te inspirar nesse sentido, porque o detalhe do azul no quadrinho sobre o guarda-roupas ou dos enfeites na prateleira sobre o berço é que denota que o quarto é de um meninão.
 </p>
 
 <p style="text-align: justify;">
-  No Brasil não parece ser comum um guarda-roupas aberto com cara de um pequeno <em>closet</em> como esse, certo? Mas a simplicidade desse móvel deixa a inspiração para um guarda-roupas pequeno, de apenas uma porta e, ao lado, **prateleiras de apoio** onde **caixas bonitas, decoradas e úteis** resolvam bem. A solução parece facilitar a vida de quem tem pouco espaço. Que tal?
+  No Brasil não parece ser comum um guarda-roupas aberto com cara de um pequeno _closet_ como esse, certo? Mas a simplicidade desse móvel deixa a inspiração para um guarda-roupas pequeno, de apenas uma porta e, ao lado, **prateleiras de apoio** onde **caixas bonitas, decoradas e úteis** resolvam bem. A solução parece facilitar a vida de quem tem pouco espaço. Que tal?
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino1.jpg"><img class="alignnone size-full wp-image-6133" title="decoração bebê menino[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  [_housetohome_](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino1.jpg"><img class="alignnone size-full wp-image-6133" title="decoração bebê menino[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/) 
 </p>
 
 <p style="text-align: justify;">
-  Você quer mesmo que o **azul** predomine no quarto do seu pequeno homem? Inspire-se neste ambiente decorado com **papel de parede de cor bem suave e mobiliário branco**. Sim! Não tenha dúvidas de que o resultado pode ficar muito fofo também! Capriche nos detalhes decorativos, e <em>voilá</em>!
+  Você quer mesmo que o **azul** predomine no quarto do seu pequeno homem? Inspire-se neste ambiente decorado com **papel de parede de cor bem suave e mobiliário branco**. Sim! Não tenha dúvidas de que o resultado pode ficar muito fofo também! Capriche nos detalhes decorativos, e _voilá_!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Tem ‘<em>pra</em> todo mundo: menino & menina. Sem brigas, <em>pelamor</em>!</span>**
+  **<span style="font-size: medium;">Tem ‘_pra_ todo mundo: menino & menina. Sem brigas, _pelamor_!</span>**
 </p>
 
 <p style="text-align: justify;">
-  Não é nada difícil que **você já tenha uma criança**, **engravide de outra do sexo oposto**, e tenha **apenas um quarto para dividir entre os dois**. É ou não é? Pois é exatamente isso o que está acontecendo com a **Alexandrina**, que lê o blog e é uma amiga querida e especial para mim. Foi numa conversa via <em>MSN</em> que ela revelou estar envolvida nesse desafio decorativo: preparar um quarto que acomode a menina que já tem, e o menino que está a caminho.
+  Não é nada difícil que **você já tenha uma criança**, **engravide de outra do sexo oposto**, e tenha **apenas um quarto para dividir entre os dois**. É ou não é? Pois é exatamente isso o que está acontecendo com a **Alexandrina**, que lê o blog e é uma amiga querida e especial para mim. Foi numa conversa via _MSN_ que ela revelou estar envolvida nesse desafio decorativo: preparar um quarto que acomode a menina que já tem, e o menino que está a caminho.
 </p>
 
 <p style="text-align: justify;">
-  Para ajudar, sugiro a leitura de um outro **<em><a href="http://www.trololodemulher.com.br/2010/08/16/decoracao-quarto-infantil/">post sobre detalhes decorativos infantis</a></em>**, antes publicado por aqui. No post há uma série de sugestões aplicáveis num quarto que sirva para os dois. E agora, para reforçar, segue mais algumas dicas…
+  Para ajudar, sugiro a leitura de um outro **_<a href="http://www.trololodemulher.com.br/2010/08/16/decoracao-quarto-infantil/">post sobre detalhes decorativos infantis</a>_**, antes publicado por aqui. No post há uma série de sugestões aplicáveis num quarto que sirva para os dois. E agora, para reforçar, segue mais algumas dicas…
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina.jpg"><img class="alignnone size-full wp-image-6129" title="decoração bebê menino e menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  [_housetohome_](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina.jpg"><img class="alignnone size-full wp-image-6129" title="decoração bebê menino e menina" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/) 
 </p>
 
 <p style="text-align: justify;">
@@ -93,7 +93,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina1.jpg"><img class="alignnone size-full wp-image-6132" title="decoração bebê menino e menina[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/" target="_blank"><em>housetohome</em></a>
+  [_housetohome_](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina1.jpg"><img class="alignnone size-full wp-image-6132" title="decoração bebê menino e menina[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/decoracao-bebe-menino-e-menina1.jpg" alt="" width="550" height="550" /></a><br /> <a href="http://www.housetohome.co.uk/) 
 </p>
 
 <p style="text-align: justify;">
@@ -101,26 +101,26 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Sugestões de mimos decorativos artesanais para quartos infantis: todos os produtos estão a venda no **<em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">Mercado de Artes</a></em>**, a loja virtual do **<em>Bicha Fêmea</em>**. Para ver fotos maiores e mais detalhes sobre o produto, clique no nome de cada um deles!
+  Sugestões de mimos decorativos artesanais para quartos infantis: todos os produtos estão a venda no **_[Mercado de Artes](http://www.trololodemulher.com.br/loja/) _**, a loja virtual do **_Bicha Fêmea_**. Para ver fotos maiores e mais detalhes sobre o produto, clique no nome de cada um deles!
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-thumbnail wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/" target="_blank">Quadro Meu Primeiro Carrinho</a></em>**
+        **_[Quadro Meu Primeiro Carrinho](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200.jpg"><img class="alignnone size-thumbnail wp-image-5330" title="Quadro Meu Primeiro Carrinho200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Meu-Primeiro-Carrinho200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-meu-primeiro-carrinho/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Placa-Maternidade-Menino200.jpg"><img class="alignnone size-thumbnail wp-image-5699" title="Placa Maternidade Menino200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Placa-Maternidade-Menino200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-maternidade-menino/" target="_blank">Placa Maternidade Menino</a></em>**
+        **_[Placa Maternidade Menino](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Placa-Maternidade-Menino200.jpg"><img class="alignnone size-thumbnail wp-image-5699" title="Placa Maternidade Menino200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Placa-Maternidade-Menino200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-maternidade-menino/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200.jpg"><img class="alignnone size-thumbnail wp-image-5701" title="Móbile Sininho Lilás200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/" target="_blank">Móbile Sininho Lilás</a></em>**
+        **_[Móbile Sininho Lilás](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200.jpg"><img class="alignnone size-thumbnail wp-image-5701" title="Móbile Sininho Lilás200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Sininho-Lilas200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-sininho-lilas/) _**
       </p>
     </td>
   </tr>
@@ -130,13 +130,13 @@ categories:
   <tr>
     <td width="300" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Gatinho-Rosa200.jpg"><img class="alignnone size-full wp-image-5702" title="Gatinho Rosa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Gatinho-Rosa200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-rosa/" target="_blank">Móbile Gatinho Rosa</a></em>**
+        **_[Móbile Gatinho Rosa](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Gatinho-Rosa200.jpg"><img class="alignnone size-full wp-image-5702" title="Gatinho Rosa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Gatinho-Rosa200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-rosa/) _**
       </p>
     </td>
     
     <td width="300" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Lilas200.jpg"><img class="alignnone size-full wp-image-5703" title="Móbile Gatinho Lilás200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Lilas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-lilas/" target="_blank">Móbile Gatinho Lilás</a></em>**
+        **_[Móbile Gatinho Lilás](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Lilas200.jpg"><img class="alignnone size-full wp-image-5703" title="Móbile Gatinho Lilás200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Lilas200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-lilas/) _**
       </p>
     </td>
   </tr>
@@ -146,19 +146,19 @@ categories:
   <tr>
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Azul200.jpg"><img class="alignnone size-thumbnail wp-image-5704" title="Móbile Gatinho Azul200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Azul200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-azul/" target="_blank">Móbile Gatinho Azul</a></em>**
+        **_[Móbile Gatinho Azul](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Azul200.jpg"><img class="alignnone size-thumbnail wp-image-5704" title="Móbile Gatinho Azul200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Gatinho-Azul200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-azul/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200.jpg"><img class="alignnone size-thumbnail wp-image-5705" title="Móbile Butterfly200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/" target="_blank">Móbile Butterfly</a></em>**
+        **_[Móbile Butterfly](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200.jpg"><img class="alignnone size-thumbnail wp-image-5705" title="Móbile Butterfly200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Mobile-Butterfly200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-butterfly/) _**
       </p>
     </td>
     
     <td width="200" valign="top">
       <p style="text-align: center;">
-        **<em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200.jpg"><img class="alignnone size-thumbnail wp-image-5267" title="Móbile Bike200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/" target="_blank">Móbile Bike</a></em>**
+        **_[Móbile Bike](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200.jpg"><img class="alignnone size-thumbnail wp-image-5267" title="Móbile Bike200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Mobile-Bike200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-bike/) _**
       </p>
     </td>
   </tr>
@@ -177,23 +177,23 @@ categories:
 **_[Pitacos de bicha fêmea: decoração para quarto de mãe e filho.](http://www.trololodemulher.com.br/2010/04/22/decoracao-quarto-mae-e-filho/)_**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**<em>Casa & Decoração</em>**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**<em>Quartos</em>**</a>
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa & Decoração_**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**_Quartos_**</a>
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
  

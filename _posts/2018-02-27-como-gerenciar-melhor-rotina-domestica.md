@@ -19,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  **<em>“Me organizando melhor&#8230; tendo mais noção de como facilitar a vida! Estou feliz e determinada!&#8221; Amanda | Turma de Fevereiro, 2018.</em>**
+  **_“Me organizando melhor&#8230; tendo mais noção de como facilitar a vida! Estou feliz e determinada!&#8221; Amanda | Turma de Fevereiro, 2018._**
 </p>
 
 <p align="justify">
-  **<em>“Para mim também tem feito diferença, sinto minha casa muito mais organizada e me sinto mais leve, com mais tempo pra curtir&#8221; Telma | Turma de Fevereiro, 2018.</em>**
+  **_“Para mim também tem feito diferença, sinto minha casa muito mais organizada e me sinto mais leve, com mais tempo pra curtir&#8221; Telma | Turma de Fevereiro, 2018._**
 </p>
 
 <p align="justify">
-  **<em>“Quebrando a crença de que limpeza e organização é algo desgastante e chato, aprendi com o projeto a olhar de uma outra forma e hoje só vejo benefícios! Ter controle sobre a organização faz tudo fluir, e gera a sensação que tudo está sob seu controle, e aos poucos vai ficando cada vez mais fácil&#8221; Aline | Turma de Fevereiro, 2018.</em>**
+  **_“Quebrando a crença de que limpeza e organização é algo desgastante e chato, aprendi com o projeto a olhar de uma outra forma e hoje só vejo benefícios! Ter controle sobre a organização faz tudo fluir, e gera a sensação que tudo está sob seu controle, e aos poucos vai ficando cada vez mais fácil&#8221; Aline | Turma de Fevereiro, 2018._**
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

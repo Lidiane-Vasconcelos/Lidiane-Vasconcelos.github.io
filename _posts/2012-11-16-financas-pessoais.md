@@ -21,7 +21,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 <!--more-->
 
 <p align="justify">
-  **Maiara**, que é <em>superultramega</em> <em>antenada</em> nas coisas práticas do dia a dia que a façam ver seus ganhos serem usados de forma equilibrada, dá alguns <em>pitacos</em> sobre finanças para a gente. Repare, pense e pesquise mais sobre o que te interessar. Aplique o que aprender e, quem sabe, você não terá um 2013 diferente?
+  **Maiara**, que é _superultramega_ _antenada_ nas coisas práticas do dia a dia que a façam ver seus ganhos serem usados de forma equilibrada, dá alguns _pitacos_ sobre finanças para a gente. Repare, pense e pesquise mais sobre o que te interessar. Aplique o que aprender e, quem sabe, você não terá um 2013 diferente?
 </p>
 
 &nbsp;
@@ -49,7 +49,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/pilhas-de-moedas/" rel="attachment wp-att-9330"><img class="alignnone size-full wp-image-9330" title="FINANCAS PESSOAIS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/FINANCAS-PESOAIS.jpg" alt="" width="505" height="478" /></a><br /> Imagem: **<a href="http://www.sxc.hu/profile/caboco" target="_blank">Caboco</a>** via **<em>stock.xchng</em>**
+  [Caboco](http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/pilhas-de-moedas/" rel="attachment wp-att-9330"><img class="alignnone size-full wp-image-9330" title="FINANCAS PESSOAIS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/11/FINANCAS-PESOAIS.jpg" alt="" width="505" height="478" /></a><br /> Imagem: **<a href="http://www.sxc.hu/profile/caboco) ** via **_stock.xchng_**
 </p>
 
 &nbsp;
@@ -82,7 +82,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >   </p>
 >   
 >   <p align="justify">
->     A **Maiara** edita o blog **<a href="http://mulherica.blogspot.com.br/" target="_blank">Mulher Rica</a>**, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público&#8230; <em>nã nã nim nã não</em>! Quer você mesma correr atrás disso já, no presente? Então **<a href="http://mulherica.blogspot.com.br/" target="_blank">se joga no blog da moça</a>** porque o<em> trololó</em> por lá é exatamente sobre esse assunto.
+>     A **Maiara** edita o blog **[Mulher Rica](http://mulherica.blogspot.com.br/) **, voltado para nós, bichas fêmeas navegantes. O nome do blog, bem sugestivo, indica bem seu público alvo: a mulher que quer ficar rica. Engana-se quem acha que seus posts são para aquelas que querem alcançar a independência financeira com base numa herança, ser sorteada na mega sena ou passar num concurso público&#8230; _nã nã nim nã não_! Quer você mesma correr atrás disso já, no presente? Então **[se joga no blog da moça](http://mulherica.blogspot.com.br/) ** porque o_ trololó_ por lá é exatamente sobre esse assunto.
 >   </p>
 >   
 >   <p>
@@ -146,7 +146,7 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+>     [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 >   </p>
 >   
 >   <p>
@@ -165,13 +165,13 @@ Se você não se importa com o seu bem-estar no futuro, se você gasta compulsiv
 >     <tr>
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+>           [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
 >         </p>
 >       </td>
 >       
 >       <td valign="top" width="300">
 >         <p align="center">
->           <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+>           [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
 >         </p>
 >       </td>
 >     </tr>

@@ -21,13 +21,13 @@ categories:
 <p style="text-align: justify;">
   <blockquote>
     <p style="text-align: justify;">
-      **“<em>Oiê! Tudo pink, flor? </em>**
+      **“_Oiê! Tudo pink, flor? _**
     </p>
   </blockquote>
   
   <blockquote>
     <p style="text-align: justify;">
-      **<em>Bom, eu estou com uma dúvida: eu estou reformando o meu quarto e ele é muito muito muito pequeno, só dá a mesa de computadoor e a cama. O que eu faço para colocar o meu armário? Beijo Rosa Com Gliter</em> ♥” Ana Carolina**
+      **_Bom, eu estou com uma dúvida: eu estou reformando o meu quarto e ele é muito muito muito pequeno, só dá a mesa de computadoor e a cama. O que eu faço para colocar o meu armário? Beijo Rosa Com Gliter_ ♥” Ana Carolina**
     </p>
   </blockquote>
   
@@ -40,7 +40,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/mesa-computador-embaixo-da-cama.jpg"><img class="alignnone size-full wp-image-6354" title="mesa computador embaixo da cama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/mesa-computador-embaixo-da-cama.jpg" alt="" width="556" height="556" /></a><br /> **<a href="http://www.ohdeedoh.com/" target="_blank">ohdeedoh</a>**
+    [ohdeedoh](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/mesa-computador-embaixo-da-cama.jpg"><img class="alignnone size-full wp-image-6354" title="mesa computador embaixo da cama" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/mesa-computador-embaixo-da-cama.jpg" alt="" width="556" height="556" /></a><br /> **<a href="http://www.ohdeedoh.com/) **
   </p>
   
   <p style="text-align: justify;">
@@ -52,7 +52,7 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    A verdade é que **há lojas que vendem móveis assim**, mas eles não foram pensados para caber no seu quarto, de modo a ficar sob medida, certo? Se o móvel pronto não atende ao que você deseja, em termos de cores, <em>design</em>, etc., também **há marcenarias que desenham um móvel para você**. Se ele for **planejado de acordo com suas necessidades**, na **cor** que você quer, com a **quantidade de gaveteiros** e **gavetas** que você precisa, com a **posição da escada** que dá acesso a cama no melhor lado para você, etc., vai ficar super bacana, <em>hã</em>?
+    A verdade é que **há lojas que vendem móveis assim**, mas eles não foram pensados para caber no seu quarto, de modo a ficar sob medida, certo? Se o móvel pronto não atende ao que você deseja, em termos de cores, _design_, etc., também **há marcenarias que desenham um móvel para você**. Se ele for **planejado de acordo com suas necessidades**, na **cor** que você quer, com a **quantidade de gaveteiros** e **gavetas** que você precisa, com a **posição da escada** que dá acesso a cama no melhor lado para você, etc., vai ficar super bacana, _hã_?
   </p>
   
   <p style="text-align: center;">
@@ -80,7 +80,7 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    Quem melhor diz isso é você, mulher! **Quais são suas necessidades**, <em>hein</em>? O importante é que você **aprenda a se organizar com o pouco espaço que tem**… e tudo vai dar certo no final. Acredite! Vejamos o que daria para fazer num armário bem pequeno:
+    Quem melhor diz isso é você, mulher! **Quais são suas necessidades**, _hein_? O importante é que você **aprenda a se organizar com o pouco espaço que tem**… e tudo vai dar certo no final. Acredite! Vejamos o que daria para fazer num armário bem pequeno:
   </p>
   
   <p style="text-align: justify;">
@@ -88,7 +88,7 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    **<a href="http://www.decoracaodacasa.com/arrumacao-do-guarda-roupas/" target="_blank">2 dicas simples para a arrumação do guarda-roupas.</a>**
+    **[2 dicas simples para a arrumação do guarda-roupas.](http://www.decoracaodacasa.com/arrumacao-do-guarda-roupas/) **
   </p>
   
   <p align="center">
@@ -116,11 +116,11 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    E antes que você coloque a mão na cabeça e pense: <em>oh</em>, meus sais! Tudo o que tenho não cabe num espaço tão pequeno!”, eu pergunto:
+    E antes que você coloque a mão na cabeça e pense: _oh_, meus sais! Tudo o que tenho não cabe num espaço tão pequeno!”, eu pergunto:
   </p>
   
   <p style="text-align: justify;">
-    1 – **Você precisa de tudo que tem?** Coloque suas coisas sobre a cama, seja sincera consigo mesma e avalie: será que não há **roupas, calçados, acessórios ou <em>bijous</em> que você deixou de usar há pelo menos 1 ano**?
+    1 – **Você precisa de tudo que tem?** Coloque suas coisas sobre a cama, seja sincera consigo mesma e avalie: será que não há **roupas, calçados, acessórios ou _bijous_ que você deixou de usar há pelo menos 1 ano**?
   </p>
   
   <p style="text-align: justify;">
@@ -132,7 +132,7 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    **<a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank">Móveis e objetos usados: como doar?</a>**
+    **[Móveis e objetos usados: como doar?](http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/) **
   </p>
   
   <p style="text-align: justify;">
@@ -140,11 +140,11 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    Você que está lendo esse post e já passou por situação semelhante quanto a **falta de espaço no quarto** tem algum <em>pitaco</em> para dar? Então, corre nos **comentários** e diz, porque o melhor do conteúdo do post acontece quando você também participa dele… vai lá!
+    Você que está lendo esse post e já passou por situação semelhante quanto a **falta de espaço no quarto** tem algum _pitaco_ para dar? Então, corre nos **comentários** e diz, porque o melhor do conteúdo do post acontece quando você também participa dele… vai lá!
   </p>
   
   <p>
-    Imagens do armário: **<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>**
+    Imagens do armário: **[Better Homes and Gardens](http://www.bhg.com/) **
   </p>
   
   <p>
@@ -156,7 +156,7 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    A Glaucia, editora do blog <a href="http://supercriativobyglau.blogspot.com/" target="_blank">**Super Criativo by Glau** </a>e comentarista assídua por aqui, deixou como dica a possibilidade de fazer algo inverso ao que propus. Explico: é possível que seja **planejada uma cama com o armário embaixo dela, e a sua mesa de computador fica em outro espaço do quarto**. Olha a imagem que a Glaucia indicou como referência:
+    A Glaucia, editora do blog [**Super Criativo by Glau** ](http://supercriativobyglau.blogspot.com/) e comentarista assídua por aqui, deixou como dica a possibilidade de fazer algo inverso ao que propus. Explico: é possível que seja **planejada uma cama com o armário embaixo dela, e a sua mesa de computador fica em outro espaço do quarto**. Olha a imagem que a Glaucia indicou como referência:
   </p>
   
   <p align="center">
@@ -164,7 +164,7 @@ categories:
   </p>
   
   <p style="text-align: justify;">
-    A Glaucia viu essa imagem **<a href="http://mulherseverino-faztudo.blogspot.com/2010/08/revista-minha-casa-ensina-viver-em.html" target="_blank">neste post da Eliene</a>**, do blog **<a href="http://mulherseverino-faztudo.blogspot.com/" target="_blank">Mulher Severino</a>**. Trata-se de uma imagem publicada na **<a href="http://casa.abril.com.br/minha-casa/" target="_blank">revista Minha Casa</a>**, e que mostra que uma moradora resolveu o seu problema de falta de espaço com bastante criatividade. Depois de projetar a cama num papel, a moradora fez a encomenda num marceneiro. Na parte de cima, um varão que passa pela cama serve de suporte para uma cortina que esconde o armário que fica na parte de baixo do móvel. Super criativo, não é verdade? Fica a dica para você, bonita!
+    A Glaucia viu essa imagem **[neste post da Eliene](http://mulherseverino-faztudo.blogspot.com/2010/08/revista-minha-casa-ensina-viver-em.html) **, do blog **[Mulher Severino](http://mulherseverino-faztudo.blogspot.com/) **. Trata-se de uma imagem publicada na **[revista Minha Casa](http://casa.abril.com.br/minha-casa/) **, e que mostra que uma moradora resolveu o seu problema de falta de espaço com bastante criatividade. Depois de projetar a cama num papel, a moradora fez a encomenda num marceneiro. Na parte de cima, um varão que passa pela cama serve de suporte para uma cortina que esconde o armário que fica na parte de baixo do móvel. Super criativo, não é verdade? Fica a dica para você, bonita!
   </p>
   
   <p>
@@ -172,7 +172,7 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
   </p>
   
   <p align="center">

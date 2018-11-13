@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <span style="color: #000000;"><em>Puffs</em> confortáveis para serem colocados sem qualquer pretensão na sala de estar. Já pensou nisso? Essa pode ser uma excelente solução decorativa para quem tem pouco espaço, numa alternativa a poltronas ou a um segundo sofá. Falta de espaço é algo que você enfrenta em casa? Então confira **<em><a href="http://www.trololodemulher.com.br/2009/06/03/decoracao-espacos-pequenos/" target="_self">5 dicas de decoração para ambientes pequenos</a></em>**, e aplique nos seus domínios!</span>
+  <span style="color: #000000;">_Puffs_ confortáveis para serem colocados sem qualquer pretensão na sala de estar. Já pensou nisso? Essa pode ser uma excelente solução decorativa para quem tem pouco espaço, numa alternativa a poltronas ou a um segundo sofá. Falta de espaço é algo que você enfrenta em casa? Então confira **_<a href="http://www.trololodemulher.com.br/2009/06/03/decoracao-espacos-pequenos/" target="_self">5 dicas de decoração para ambientes pequenos</a>_**, e aplique nos seus domínios!</span>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <span style="color: #000000;">Utensílios rústicos e bonitos para enfeitar sua cozinha e sua mesa. Peças assim, inclusive, podem deixar sua mesa de jantar com muito charme e estilo, decorando o seu móvel. Há muitas outra formas possíveis de decorar uma mesa de jantar. Quer mais inspiração para isso? Então veja **<em><a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self">alternativas para a decoração da sua mesa de jantar</a></em>**, e aproveite!</span>
+  <span style="color: #000000;">Utensílios rústicos e bonitos para enfeitar sua cozinha e sua mesa. Peças assim, inclusive, podem deixar sua mesa de jantar com muito charme e estilo, decorando o seu móvel. Há muitas outra formas possíveis de decorar uma mesa de jantar. Quer mais inspiração para isso? Então veja **_<a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self">alternativas para a decoração da sua mesa de jantar</a>_**, e aproveite!</span>
 </p>
 
 <p style="text-align: center;">
@@ -73,18 +73,18 @@ categories:
   <span style="color: #000000;">Pratos mimosos e bonitos para, literalmente, florescer seu dia-a-dia.</span>
 </p>
 
-<span style="color: #000000;"><em>Imagens:  </em><a href="http://www.ivillage.com/" target="_blank"><em>iVillage</em></a></span>
+<span style="color: #000000;">_Imagens:  _[_iVillage_](http://www.ivillage.com/) </span>
 
 <span style="color: #000000;">**Quer mais dicas e sugestões de estratégias, ou detalhes, para a decoração de sua casa?**</span>
 
-<span style="color: #000000;">**<em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher cores para as paredes?</a></em>**</span>
+<span style="color: #000000;">**_<a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/" target="_self">Como escolher cores para as paredes?</a>_**</span>
 
-<span style="color: #000000;">**<em><a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Pitacos de bicha fêmea: como decorar a parede da escada.</a></em>**</span>
+<span style="color: #000000;">**_<a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/" target="_self">Pitacos de bicha fêmea: como decorar a parede da escada.</a>_**</span>
 
-<span style="color: #000000;">**<em><a href="http://www.trololodemulher.com.br/2009/10/16/flores-decoracao/" target="_self">Use flores para a decoração de sua mesa de jantar e toda a casa.</a></em>**</span>
+<span style="color: #000000;">**_<a href="http://www.trololodemulher.com.br/2009/10/16/flores-decoracao/" target="_self">Use flores para a decoração de sua mesa de jantar e toda a casa.</a>_**</span>
 
-<span style="color: #000000;">**<em><a href="http://www.trololodemulher.com.br/2009/10/01/dicas-decoracao-quarto/" target="_self">Dicas e detalhes na decoração do quarto.</a></em>**</span>
+<span style="color: #000000;">**_<a href="http://www.trololodemulher.com.br/2009/10/01/dicas-decoracao-quarto/" target="_self">Dicas e detalhes na decoração do quarto.</a>_**</span>
 
-<span style="color: #000000;">**<em><a href="http://www.trololodemulher.com.br/2009/08/24/horta-para-apartamento/" target="_self">Ideia para mini-horta em um apertamento.</a></em>**</span>
+<span style="color: #000000;">**_<a href="http://www.trololodemulher.com.br/2009/08/24/horta-para-apartamento/" target="_self">Ideia para mini-horta em um apertamento.</a>_**</span>
 
 **<span style="color: #800080;"> </span>**

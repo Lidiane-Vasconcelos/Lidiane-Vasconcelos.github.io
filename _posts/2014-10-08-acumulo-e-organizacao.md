@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">**Se sua casa estiver em ordem, não duvide: você ficará bem.**</a>
+  [**Se sua casa estiver em ordem, não duvide: você ficará bem.**](http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/) 
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  Passear num centro de compras é algo que eu gosto de fazer (também), e não vejo nada demais nisso. O problema é que não é bem assim para todo mundo, <em>né</em>? O passeio no <em>shopping</em> pode disparar uma vontade descontrolada na pessoa de comprar só porque está na liquidação, porque é lindo de viver, ou porque a mídia falou que é impossível viver sem aquilo…<em> tsc tsc tsc</em>… e o resultado? Uma casa cheia de coisas desnecessárias, e a criatura reclamando que não consegue se organizar. Procure fazer compras inteligentes, bonita! Pare e pense: você precisa disso? Será que você não tem algo similar em casa? Se você ficou na dúvida, não leve! Se dê um tempinho para analisar com carinho essa compra… sua casa agradece, e seu bem estar mental também.
+  Passear num centro de compras é algo que eu gosto de fazer (também), e não vejo nada demais nisso. O problema é que não é bem assim para todo mundo, _né_? O passeio no _shopping_ pode disparar uma vontade descontrolada na pessoa de comprar só porque está na liquidação, porque é lindo de viver, ou porque a mídia falou que é impossível viver sem aquilo…_ tsc tsc tsc_… e o resultado? Uma casa cheia de coisas desnecessárias, e a criatura reclamando que não consegue se organizar. Procure fazer compras inteligentes, bonita! Pare e pense: você precisa disso? Será que você não tem algo similar em casa? Se você ficou na dúvida, não leve! Se dê um tempinho para analisar com carinho essa compra… sua casa agradece, e seu bem estar mental também.
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Para evitar o acúmulo desnecessário uma coisa que quase sempre faço: &#8220;Comprei 1, tiro 1&#8221;. É assim: comprei uma camiseta &#8211; vou direto ver no guarda-roupa descobrir aquela que eu posso doar, que eu não uso faz tempo, que não vou usar mais e tal. Até para livros (a coisa que mais acumulei na vida&#8230;) estou fazendo isso. “ Rosana Silva, do blog **<a href="http://www.simplesdecoracao.com.br/" target="_blank">**Simples Decoração**</a>
+>   **Para evitar o acúmulo desnecessário uma coisa que quase sempre faço: &#8220;Comprei 1, tiro 1&#8221;. É assim: comprei uma camiseta &#8211; vou direto ver no guarda-roupa descobrir aquela que eu posso doar, que eu não uso faz tempo, que não vou usar mais e tal. Até para livros (a coisa que mais acumulei na vida&#8230;) estou fazendo isso. “ Rosana Silva, do blog **[**Simples Decoração**](http://www.simplesdecoracao.com.br/) 
 > </p>
 
 <p align="justify">
@@ -54,11 +54,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_blank">**Como e onde doar móveis e objetos usados?**</a>
+  [**Como e onde doar móveis e objetos usados?**](http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/) 
 </p>
 
 > <p align="justify">
->   **Para evitar o acúmulo, eu jogo tudo fora rs. Sério, quando pego correspondência, por exemplo, ali mesmo já seleciono o que não presta e&#8230;lixo. Eu também costumo fazer doações de tudo, louças, panelas, roupas de camas, sapatos, até almofadas. Eu só tenho o que uso (ou aquilo que tem valor afetivo). Documentos pagos só guardo por uns 2 anos. Comprei um jogo novo de panelas e doei todas as antigas. Doei uma panela de pressão, não preciso de duas, somos dois. Hoje só tenho 4 bolsas para o dia-a-dia, duas miúdas, dessas de usar atravessada ao corpo para uma saidinha rápida e uma de festa. Para que mais? Eu tinha coleção de havaianas, acredita? Pensei nas pessoas que não tinham. Dei roupas usadas e novas. Sabe aquela peça que você compra mas nunca usa? Não usei por 1 ano, vou usar? Doei. Roupas que não cabem mais, não me apego. Não vou esperar emagrecer. Quando emagrecer, compro outra. Doei duas jaquetas de couro para minhas enteadas, jovens, elas amaram. Doei dois sobretudos. Eu tinha prato demais, copo demais, xícara demais. O filho da minha empregada vai casar às pressas, a namorada está grávida. Dei tudo. Lidi, importa ajudar sim, mas importa que tenhamos o necessário. E que aprendamos a consumir. Por que gastar tanto? As coisas ficam guardadas. O dinheiro pode ser usado em outra coisa. ” Flavinha Gomes, do blog **<a href="http://casinhabonitinha.blogspot.com.br/" target="_blank">**Casinha Bonitinha**</a>
+>   **Para evitar o acúmulo, eu jogo tudo fora rs. Sério, quando pego correspondência, por exemplo, ali mesmo já seleciono o que não presta e&#8230;lixo. Eu também costumo fazer doações de tudo, louças, panelas, roupas de camas, sapatos, até almofadas. Eu só tenho o que uso (ou aquilo que tem valor afetivo). Documentos pagos só guardo por uns 2 anos. Comprei um jogo novo de panelas e doei todas as antigas. Doei uma panela de pressão, não preciso de duas, somos dois. Hoje só tenho 4 bolsas para o dia-a-dia, duas miúdas, dessas de usar atravessada ao corpo para uma saidinha rápida e uma de festa. Para que mais? Eu tinha coleção de havaianas, acredita? Pensei nas pessoas que não tinham. Dei roupas usadas e novas. Sabe aquela peça que você compra mas nunca usa? Não usei por 1 ano, vou usar? Doei. Roupas que não cabem mais, não me apego. Não vou esperar emagrecer. Quando emagrecer, compro outra. Doei duas jaquetas de couro para minhas enteadas, jovens, elas amaram. Doei dois sobretudos. Eu tinha prato demais, copo demais, xícara demais. O filho da minha empregada vai casar às pressas, a namorada está grávida. Dei tudo. Lidi, importa ajudar sim, mas importa que tenhamos o necessário. E que aprendamos a consumir. Por que gastar tanto? As coisas ficam guardadas. O dinheiro pode ser usado em outra coisa. ” Flavinha Gomes, do blog **[**Casinha Bonitinha**](http://casinhabonitinha.blogspot.com.br/) 
 > </p>
 
 > <p align="justify">
@@ -66,7 +66,7 @@ categories:
 > </p>
 
 > <p align="justify">
->   **A dica que tenho para compartilhar é: ao adquirir alguma peça de roupa (por exemplo) que você esteja disposto a doar uma outra ou até mesmo 2 peças. Isso também pode ser feito com as crianças, ajudando-o inclusive a valorizar mais o que tem. Explique ao seu filho quantas crianças no mundo não têm um brinquedo para se divertir, não têm roupa nova e nem sequer a comida gostosa que ele come em casa. Então, se ele quer realmente aquele brinquedo (ou roupa) deverá separar 2 brinquedos (ou roupas) para DOAR a quem não tem. Acredito que essa seja uma maneira eficaz de evitar o acúmulo desnecessário e de ser solidário com quem precisa!” **<a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">**Carol Carneiro**</a>
+>   **A dica que tenho para compartilhar é: ao adquirir alguma peça de roupa (por exemplo) que você esteja disposto a doar uma outra ou até mesmo 2 peças. Isso também pode ser feito com as crianças, ajudando-o inclusive a valorizar mais o que tem. Explique ao seu filho quantas crianças no mundo não têm um brinquedo para se divertir, não têm roupa nova e nem sequer a comida gostosa que ele come em casa. Então, se ele quer realmente aquele brinquedo (ou roupa) deverá separar 2 brinquedos (ou roupas) para DOAR a quem não tem. Acredito que essa seja uma maneira eficaz de evitar o acúmulo desnecessário e de ser solidário com quem precisa!” **[**Carol Carneiro**](http://blogcarolcarneiro.blogspot.com.br/) 
 > </p>
 
 > <p align="justify">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://blog.loish.net/post/95399241468/my-latest-illustration-an-ode-to-my-troubled" target="_blank">Loish Blog</a>
+  Imagem: [Loish Blog](http://blog.loish.net/post/95399241468/my-latest-illustration-an-ode-to-my-troubled) 
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="justify">
-  Já parou para pensar como é fácil os objetos aparecerem onde não deveriam estar? Meia suja no escritório, cinto sobre a mesa da sala de jantar, copo sobre o <em>rack</em> da sala, e por aí vai. Você vai sair da sala? Leve o copo para a cozinha. Passou pelo escritório? Leve a meia suja para o cesto. Cruzou a sala de jantar? Carregue o cinto para o quarto. Cada coisa em seu lugar, um lugar para cada coisa. Com pequenas ações como essa, e um olhar atento para o que está fora de ordem, você deixa tudo organizado sem esforço.
+  Já parou para pensar como é fácil os objetos aparecerem onde não deveriam estar? Meia suja no escritório, cinto sobre a mesa da sala de jantar, copo sobre o _rack_ da sala, e por aí vai. Você vai sair da sala? Leve o copo para a cozinha. Passou pelo escritório? Leve a meia suja para o cesto. Cruzou a sala de jantar? Carregue o cinto para o quarto. Cada coisa em seu lugar, um lugar para cada coisa. Com pequenas ações como essa, e um olhar atento para o que está fora de ordem, você deixa tudo organizado sem esforço.
 </p>
 
 <p align="justify">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">**18 hábitos da pessoa organizada na arrumação da casa.**</a>
+  [**18 hábitos da pessoa organizada na arrumação da casa.**](http://www.decoracaodacasa.com/organizacao-da-casa/) 
 </p>
 
 <p align="center">
@@ -114,11 +114,11 @@ categories:
 > </p>
 
 > <p align="justify">
->   **Para manter a casa organizada, sei que o melhor método é o que você já falou: manter as coisas nos seus lugares. Mas devo dizer: sou caótica. Então, o que faço é ter em alguns lugares da casa (meu quarto e meu escritório, especificamente, porque são os lugares que tenho tendência para desorganizar) uma &#8220;área de bagunça&#8221;. Um lugar só, onde coloco as coisas que não estou com saco ou tempo de guardar no lugar certo. Aí, um dia quando a área está entulhada ou eu tenho paciência, vou lá, pego tudo e arrumo no seu lugar.” Rosana Silva, do blog **<a href="http://www.simplesdecoracao.com.br/" target="_blank">**Simples Decoração**</a>
+>   **Para manter a casa organizada, sei que o melhor método é o que você já falou: manter as coisas nos seus lugares. Mas devo dizer: sou caótica. Então, o que faço é ter em alguns lugares da casa (meu quarto e meu escritório, especificamente, porque são os lugares que tenho tendência para desorganizar) uma &#8220;área de bagunça&#8221;. Um lugar só, onde coloco as coisas que não estou com saco ou tempo de guardar no lugar certo. Aí, um dia quando a área está entulhada ou eu tenho paciência, vou lá, pego tudo e arrumo no seu lugar.” Rosana Silva, do blog **[**Simples Decoração**](http://www.simplesdecoracao.com.br/) 
 > </p>
 
 > <p align="justify">
->   **Para manter a organização, meu lema é: tudo tem sua &#8220;casinha e deve voltar para ela. Não tenho filhos, mas meu marido é &#8220;O Bagunceiro&#8221;, então, dou &#8220;dura&#8221; nas coisas dele. Eu coloco etiqueta nas caixas, arrumo os cabides, limpo os sapatos, minha filha, porque se depender dele&#8230;Olha, Lidi, eu fico de olho na validade de tudo, desde o sabonete até o arroz. Uma vez por semana, dou geral na geladeira. Se tiver refrigerante velho, vai pro lixo.” Flavinha Gomes, do blog **<a href="http://casinhabonitinha.blogspot.com.br/" target="_blank">**Casinha Bonitinha**</a>
+>   **Para manter a organização, meu lema é: tudo tem sua &#8220;casinha e deve voltar para ela. Não tenho filhos, mas meu marido é &#8220;O Bagunceiro&#8221;, então, dou &#8220;dura&#8221; nas coisas dele. Eu coloco etiqueta nas caixas, arrumo os cabides, limpo os sapatos, minha filha, porque se depender dele&#8230;Olha, Lidi, eu fico de olho na validade de tudo, desde o sabonete até o arroz. Uma vez por semana, dou geral na geladeira. Se tiver refrigerante velho, vai pro lixo.” Flavinha Gomes, do blog **[**Casinha Bonitinha**](http://casinhabonitinha.blogspot.com.br/) 
 > </p>
 
 <p align="justify">
@@ -126,7 +126,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-organizacao/" target="_blank">**Siga 10 passos e o canto da bagunça deixará de existir.**</a>
+  [**Siga 10 passos e o canto da bagunça deixará de existir.**](http://www.decoracaodacasa.com/dicas-organizacao/) 
 </p>
 
 > <p align="justify">
@@ -138,11 +138,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-casa-brinquedos/" target="_blank">**Organização da casa: suas crianças ajudam?**</a>
+  [**Organização da casa: suas crianças ajudam?**](http://www.decoracaodacasa.com/organizacao-casa-brinquedos/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

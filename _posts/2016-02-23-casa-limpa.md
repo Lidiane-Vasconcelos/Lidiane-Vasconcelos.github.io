@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank">**Casa limpa e organizada com menos esforço: 11 dicas.**</a>
+  [**Casa limpa e organizada com menos esforço: 11 dicas.**](http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/) 
 </p>
 
 <p align="justify">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">**Como evitar o acúmulo e organizar o lar? Dicas práticas.**</a>
+  [**Como evitar o acúmulo e organizar o lar? Dicas práticas.**](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/) 
 </p>
 
 <p align="justify">
@@ -90,13 +90,13 @@ categories:
 </p>
 
 <p align="justify">
-  Não basta ter móveis essenciais e de fato úteis, para falicitar o dia a dia é preciso que essas peças tenham um <em>design</em> bastante simples. Muitos detalhes no desenho deles significa mais lugares chatinhos onde a poeira acumula… e quem terá que limpar isso? Lembre-se na hora da compra: linhas retas e simples implicam em menos acúmulo de sujeira e facilita o uso do espanador e pano úmido. Sua intenção é uma rotina de limpeza <em>vapt-vupt</em>, certo? Pois bem… o raciocínio é por aí. Fica a dica.
+  Não basta ter móveis essenciais e de fato úteis, para falicitar o dia a dia é preciso que essas peças tenham um _design_ bastante simples. Muitos detalhes no desenho deles significa mais lugares chatinhos onde a poeira acumula… e quem terá que limpar isso? Lembre-se na hora da compra: linhas retas e simples implicam em menos acúmulo de sujeira e facilita o uso do espanador e pano úmido. Sua intenção é uma rotina de limpeza _vapt-vupt_, certo? Pois bem… o raciocínio é por aí. Fica a dica.
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

@@ -36,15 +36,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para suas dúvidas.</a>**
+  **[Cores na decoração: veja 6 respostas para suas dúvidas.](http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/) **
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a>**
+  **[Decoração da sala de estar: como inserir detalhes coloridos?](http://www.decoracaodacasa.com/decoracao-sala-estar-cores/) **
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para sua sala de estar: quer ainda mais ideias de cores?</a>**
+  **[Para sua sala de estar: quer ainda mais ideias de cores?](http://www.decoracaodacasa.com/parede-sala-estar-cores/) **
 </p>
 
 <p align="center">
@@ -60,11 +60,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/" target="_blank">Decoração básica com graça e charme: aprenda os truques!</a>**
+  **[Decoração básica com graça e charme: aprenda os truques!](http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/) **
 </p>
 
 <p align="center">
-  **<em>Sugestão de objetos que poderiam estar numa sala de cores neutras…</em>**
+  **_Sugestão de objetos que poderiam estar numa sala de cores neutras…_**
 </p>
 
 <p align="center">
@@ -91,10 +91,10 @@ categories:
   Sua sala é totalmente creme e você tem dúvidas sobre qual cor escolher para os objetos e detalhes? Que tal o vermelho? Sim! Olha bem: você pode escolher um tapete com tons de vermelho, assim como as almofadas. Mas não só de vermelho suas almofadas viveriam, porque dá para pincelar uma ou outra na cor dourada também. Viu? Creme e vermelho, no geral, combinam sim, bonita!
 </p>
 
-_Imagens:_ <a href="http://www.hgtv.com/" target="_blank"><em>HGTV.Start at Home</em></a>
+_Imagens:_ [_HGTV.Start at Home_](http://www.hgtv.com/) 
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="center">

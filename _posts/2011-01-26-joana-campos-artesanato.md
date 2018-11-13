@@ -26,7 +26,7 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
 </p>
 
 <p style="text-align: justify;">
-  A **Joana Campos**, que edita um <a href="http://www.joanacampos.com/" target="_blank">blog que leva o nome dela</a>, inaugurou há um certo tempo uma lojinha virtual, a <a href="http://www.joanacampos.com/" target="_blank">JoanaJoana</a>. Ela é artesã, e produz tudo o que está disponível em sua loja. Um dos produtos com maior variedade são os descansos de copo, a exemplo desses que você vê na imagem acima, todo fofo de poá. E não é que fui mimada com um conjunto desses, além de pimentas decorativas?
+  A **Joana Campos**, que edita um [blog que leva o nome dela](http://www.joanacampos.com/) , inaugurou há um certo tempo uma lojinha virtual, a [JoanaJoana](http://www.joanacampos.com/) . Ela é artesã, e produz tudo o que está disponível em sua loja. Um dos produtos com maior variedade são os descansos de copo, a exemplo desses que você vê na imagem acima, todo fofo de poá. E não é que fui mimada com um conjunto desses, além de pimentas decorativas?
 </p>
 
 <p style="text-align: center;">
@@ -70,7 +70,7 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
     </td>
     
     <td style="text-align: justify;" width="541" valign="top">
-      Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em>**
+      Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_[Assine. É grátis!](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) _**
     </td>
   </tr>
   
@@ -80,7 +80,7 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em>**
+      Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_[@bichafemea](http://twitter.com/bichafemea) _**
     </td>
   </tr>
   
@@ -90,21 +90,21 @@ Sabe como a gente fica feliz da vida quando chega um pacotinho por correspondên
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em>**
+      Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_[Adicione!](http://www.orkut.com.br/Main#Profile?uid=5161612886294499900) _**
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  **<em> </em>**
+  **_ _**
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>
 
 <p style="text-align: center;">
-  **<em> </em>**
+  **_ _**
 </p>
 
 <p style="text-align: center;">

@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Inserir **cores na decoração**, seja em paredes, móveis ou objetos, alegra a casa e dá personalidade. Há quem goste de usar a maior quantidade delas, e quanto mais vivas melhor! Por outro lado, uma excelente aposta é o uso de uma base neutra com pinceladas coloridas aqui e <em>acolá</em>. O fato é que para todos existe sempre uma dúvida pairando sobre qual cor escolher, ou qual a melhor maneira de usá-la. A boa notícia é que esse post foi editado para mostrar dicas e sugestões que dão algumas pistas sobre isso. Eleja seus tons queridos, e saia pincelando cores em sua casa, e na vida!
+  Inserir **cores na decoração**, seja em paredes, móveis ou objetos, alegra a casa e dá personalidade. Há quem goste de usar a maior quantidade delas, e quanto mais vivas melhor! Por outro lado, uma excelente aposta é o uso de uma base neutra com pinceladas coloridas aqui e _acolá_. O fato é que para todos existe sempre uma dúvida pairando sobre qual cor escolher, ou qual a melhor maneira de usá-la. A boa notícia é que esse post foi editado para mostrar dicas e sugestões que dão algumas pistas sobre isso. Eleja seus tons queridos, e saia pincelando cores em sua casa, e na vida!
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/soikkoratamo/32708248422/" target="_blank">soikkoratamo</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
+  Imagem: [soikkoratamo](https://www.flickr.com/photos/soikkoratamo/32708248422/)  via [Foter.com](http://foter.com/)  / [CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagens via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
+  Imagens via [Homedit](http://www.homedit.com/) 
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que **você encontra online na Xique Xique Brasil**. <a href="https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher" target="_blank">Clique aqui para ver estes e outros modelos disponíveis</a></em><em>.</em>
+  _Capas de almofadas em tapeçaria e retalhos coloridos, na ordem: verde, laranja e terra. Essas lindezas são peças que **você encontra online na Xique Xique Brasil**. [Clique aqui para ver estes e outros modelos disponíveis](https://www.xiquexiquebrasil.com.br/casa/almofada/?ref=trololodemulher) __._
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>O **turquesa** é das cores mais lindas e instigantes, daquelas perfeitas para ser um ponto de destaque num ambiente. Acima, toalha labirinto azul turquesa, para ser usada no lavabo, banheiro, cozinha ou copa. A peça artesanal está disponível online na **XiqueXique Brasil**. </em><a href="https://www.xiquexiquebrasil.com.br/casa/toalha-labirinto-azul-turquesa" target="_blank"><em>Clique aqui para ver mais detalhes sobre esse item</em></a><em>.</em>
+  _O **turquesa** é das cores mais lindas e instigantes, daquelas perfeitas para ser um ponto de destaque num ambiente. Acima, toalha labirinto azul turquesa, para ser usada no lavabo, banheiro, cozinha ou copa. A peça artesanal está disponível online na **XiqueXique Brasil**. _[_Clique aqui para ver mais detalhes sobre esse item_](https://www.xiquexiquebrasil.com.br/casa/toalha-labirinto-azul-turquesa) _._
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
+  Via [Home Designing](http://www.home-designing.com/) 
 </p>
 
 <p align="justify">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Toalha Bordado Manual Buquê Amarelo, em tecido linho. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Buque-Amarelo" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 2 &#8211; Toalha Bordado Manual Amarela Buquê, em tecido linho amarelo. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Amarela-Buque" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Toalha de Bandeja Renda Renascença Amarela Abacaxi, desenvolvida manualmente com lacê, agulha e linha, com tingimento artesanal. </em><a href="https://www.xiquexiquebrasil.com.br/casa/bandeja-e-jogo-americano/toalha-de-bandeja-renascenca-amarela-abacaxi" target="_blank"><em>Clique aqui para mais detalhes sobre esse produto</em></a><em>. Todas as peças são da loja virtual **XiqueXique Brasil**.</em>
+  _1 &#8211; Toalha Bordado Manual Buquê Amarelo, em tecido linho. _[_Clique aqui para mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Buque-Amarelo) _. | 2 &#8211; Toalha Bordado Manual Amarela Buquê, em tecido linho amarelo. _[_Clique aqui para mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/casa/Toalha-Bordado-Manual-Amarela-Buque) _. | 3 &#8211; Toalha de Bandeja Renda Renascença Amarela Abacaxi, desenvolvida manualmente com lacê, agulha e linha, com tingimento artesanal. _[_Clique aqui para mais detalhes sobre esse produto_](https://www.xiquexiquebrasil.com.br/casa/bandeja-e-jogo-americano/toalha-de-bandeja-renascenca-amarela-abacaxi) _. Todas as peças são da loja virtual **XiqueXique Brasil**._
 </p>
 
 <p align="justify">
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Guardanapo cambraia cana, em linho na cor verde. Bordado de cana de açúcar em uma das pontas. Acabamento em ponto ajour. O produto é enviado em embalagem contendo seis unidades. </em><a href="https://www.xiquexiquebrasil.com.br/casa/guardanapo/guardanapo-cambraia-cana-6-unid" target="_blank"><em>Clique aqui para mais detalhes sobre esse produto</em></a>, que está disponível na loja virtual **XiqueXique Brasil**.
+  _Guardanapo cambraia cana, em linho na cor verde. Bordado de cana de açúcar em uma das pontas. Acabamento em ponto ajour. O produto é enviado em embalagem contendo seis unidades. _[_Clique aqui para mais detalhes sobre esse produto_](https://www.xiquexiquebrasil.com.br/casa/guardanapo/guardanapo-cambraia-cana-6-unid) , que está disponível na loja virtual **XiqueXique Brasil**.
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Centro de mesa crivo rosa, em linho branco. Bordados crivo, sombreado e mini ponto cruz. Contorno com matame branco. </em><a href="https://www.xiquexiquebrasil.com.br/casa/centro-de-mesa-crivo-rosa-o75cm" target="_blank"><em>Clique aqui e veja mais detalhes sobre a peça</em></a><em>. | 2 &#8211; Toalha Lavabo Crivo Rosas, em tecido linho. Peça bordada em crivo e mini ponto de cruz. </em><a href="https://www.xiquexiquebrasil.com.br/casa/Toalha-Lavabo-Crivo-Rosas" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Toalha Bordado Manual Trio Floral Rosa, em tecido linho. Peça com bordado manual. </em><a href="https://www.xiquexiquebrasil.com.br/casa/toalha-bordado-manual-trio-floral-rosa" target="_blank"><em>Clique aqui para mais detalhes sobre o produto</em></a><em>. Todas as peças são da loja virtual **XiqueXique Brasil**.</em>
+  _1 &#8211; Centro de mesa crivo rosa, em linho branco. Bordados crivo, sombreado e mini ponto cruz. Contorno com matame branco. _[_Clique aqui e veja mais detalhes sobre a peça_](https://www.xiquexiquebrasil.com.br/casa/centro-de-mesa-crivo-rosa-o75cm) _. | 2 &#8211; Toalha Lavabo Crivo Rosas, em tecido linho. Peça bordada em crivo e mini ponto de cruz. _[_Clique aqui para mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/casa/Toalha-Lavabo-Crivo-Rosas) _. | 3 &#8211; Toalha Bordado Manual Trio Floral Rosa, em tecido linho. Peça com bordado manual. _[_Clique aqui para mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/casa/toalha-bordado-manual-trio-floral-rosa) _. Todas as peças são da loja virtual **XiqueXique Brasil**._
 </p>
 
 <p align="center">
@@ -111,9 +111,9 @@ categories:
 </p>
 
 <p align="center">
-  <em>Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da **Xique Xique Brasil, **você encontra todas online, e elas são enviadas para todo o Brasil. </em><a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank"><em>Clique aqui</em></a><em>, veja esses e mais produtos.</em>
+  _Leve o colorido à mesa usando jogos americanos lindos e alegres, como esses, de Renda Filé. As peças ricamente trabalhadas são da **Xique Xique Brasil, **você encontra todas online, e elas são enviadas para todo o Brasil. _[_Clique aqui_](https://www.xiquexiquebrasil.com.br//?ref=trololodemulher) _, veja esses e mais produtos._
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

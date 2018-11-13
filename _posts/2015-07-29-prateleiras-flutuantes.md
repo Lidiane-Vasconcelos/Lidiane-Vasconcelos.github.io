@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Se tem um recurso decorativo que conquistou meu coração foi o uso de prateleiras flutuantes. Há algumas delas que são muito simples e, por isso mesmo, ainda mais belas. Instaladas na parede  e com objetos escolhidos a dedo para enfeitá-las, essas prateleiras podem dar um visual minimalista e, elas tanto reforçam positivamente a decoração, quanto são uma <em>superultramega</em> ajuda para manter o ambiente organizado. O que colocar nessas lindinhas? Porta-retratos, vasos com flores, composição de velas, livros, etc. Elas ainda podem ser usadas na cozinha, para ampliar espaços de armazenamento e deixar os balcões livres, ou ainda serem instaladas ao lado da cama, para serem usadas como mesinhas de cabeceiras das mais simples, mas nem por isso menos bonitas ou funcionais. Como não viver de amores por elas? Veja algumas, para te inspirar.
+  Se tem um recurso decorativo que conquistou meu coração foi o uso de prateleiras flutuantes. Há algumas delas que são muito simples e, por isso mesmo, ainda mais belas. Instaladas na parede  e com objetos escolhidos a dedo para enfeitá-las, essas prateleiras podem dar um visual minimalista e, elas tanto reforçam positivamente a decoração, quanto são uma _superultramega_ ajuda para manter o ambiente organizado. O que colocar nessas lindinhas? Porta-retratos, vasos com flores, composição de velas, livros, etc. Elas ainda podem ser usadas na cozinha, para ampliar espaços de armazenamento e deixar os balcões livres, ou ainda serem instaladas ao lado da cama, para serem usadas como mesinhas de cabeceiras das mais simples, mas nem por isso menos bonitas ou funcionais. Como não viver de amores por elas? Veja algumas, para te inspirar.
 </p>
 
 <p align="justify">
@@ -19,11 +19,11 @@ categories:
   </p>
   
   <p align="center">
-    Imagem: <a href="http://www.containerstore.com/welcome.htm" target="_blank">The Container Store</a>
+    Imagem: [The Container Store](http://www.containerstore.com/welcome.htm) 
   </p>
   
   <p align="center">
-    <a href="https://thatsweetgift.com/product/alpha-edition-grimoire-deck-box/" target="_blank">Veja mais detalhes.</a>
+    [Veja mais detalhes.](https://thatsweetgift.com/product/alpha-edition-grimoire-deck-box/) 
   </p>
   
   <p align="center">
@@ -31,7 +31,7 @@ categories:
   </p>
   
   <p align="center">
-    Imagem: <a href="http://www.westelm.com/" target="_blank">West elm</a>
+    Imagem: [West elm](http://www.westelm.com/) 
   </p>
   
   <p align="center">
@@ -39,7 +39,7 @@ categories:
   </p>
   
   <p align="center">
-    Imagem: <a href="http://www.cb2.com/" target="_blank">CB2</a>
+    Imagem: [CB2](http://www.cb2.com/) 
   </p>
   
   <p align="center">
@@ -47,7 +47,7 @@ categories:
   </p>
   
   <p align="center">
-    Imagem: <a href="http://www.ikea.com/us/en/" target="_blank">Ikea</a>
+    Imagem: [Ikea](http://www.ikea.com/us/en/) 
   </p>
   
   <p align="center">
@@ -55,7 +55,7 @@ categories:
   </p>
   
   <p align="center">
-    Imagem: <a href="http://www.crateandbarrel.com/" target="_blank">Crate&Barrel</a>
+    Imagem: [Crate&Barrel](http://www.crateandbarrel.com/) 
   </p>
   
   <p align="center">
@@ -63,7 +63,7 @@ categories:
   </p>
   
   <p align="center">
-    Imagem: <a href="http://www.allmodern.com/" target="_blank">All Modern</a>
+    Imagem: [All Modern](http://www.allmodern.com/) 
   </p>
   
   <p align="justify">
@@ -75,11 +75,11 @@ categories:
   </p>
   
   <p align="justify">
-    **<a href="http://www.decoracaodacasa.com/decoracao-de-parede-2/" target="_blank">Faltando algo naquele cantinho de parede?</a>**
+    **[Faltando algo naquele cantinho de parede?](http://www.decoracaodacasa.com/decoracao-de-parede-2/) **
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
   </p>
   
   <p align="justify">

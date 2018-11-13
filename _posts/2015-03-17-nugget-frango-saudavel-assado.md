@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Já faz muito tempo aquele nugget que se compra congelado perdeu espaço aqui em casa. Já ouvi falar o quanto a qualidade desse alimento tido como prático não é confiável, nem nutritivo. Ou seja, tenho motivos de sobra pra não querer conversa com esses bolinhos de carne de frango…até que: a Carol vem com essa dica <em>mara</em> pra compartilhar por aqui, e arrancar um sorriso do meu rosto. Agora, sim: podemos voltar a comer nuggets em casa, porque a versão dessa moça que sabe fazer boas escolhas quanto a alimentação é garantia de sabor gostoso, e versão <em>superultramega</em> saudável. Tenho certeza que meu menino agradece… vamos aprender como faz?
+  Já faz muito tempo aquele nugget que se compra congelado perdeu espaço aqui em casa. Já ouvi falar o quanto a qualidade desse alimento tido como prático não é confiável, nem nutritivo. Ou seja, tenho motivos de sobra pra não querer conversa com esses bolinhos de carne de frango…até que: a Carol vem com essa dica _mara_ pra compartilhar por aqui, e arrancar um sorriso do meu rosto. Agora, sim: podemos voltar a comer nuggets em casa, porque a versão dessa moça que sabe fazer boas escolhas quanto a alimentação é garantia de sabor gostoso, e versão _superultramega_ saudável. Tenho certeza que meu menino agradece… vamos aprender como faz?
 </p>
 
 <p align="center">
@@ -74,23 +74,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank">**Receita mais fácil não existe: tabule de quinoa**</a>
+  [**Receita mais fácil não existe: tabule de quinoa**](http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank">**Filé de saint peter enroladinho no aspargo e salada de lentilha**</a>
+  [**Filé de saint peter enroladinho no aspargo e salada de lentilha**](http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank">**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**</a>
+  [**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**](http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

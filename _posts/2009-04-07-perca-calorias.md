@@ -23,11 +23,11 @@ E hoje temos a primeira convidada!! _Aeeewww_!!!
 
 Vamos apreciá-la? Então _bora_![<img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image0016-thumb4.gif" alt="clip_image001[6]" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00164.gif)
 
-**_Por Ju – <a href="http://certezaquaseabsoluta.blogspot.com/" target="_blank">Certeza QUASE Absoluta</a>_**
+**_Por Ju – [Certeza QUASE Absoluta](http://certezaquaseabsoluta.blogspot.com/) _**
 
 Olá meninas!
 
-Eu sou a <a href="http://certezaquaseabsoluta.blogspot.com/" target="_blank">Ju</a> e estou muito feliz por receber um convite para escrever um post para o Bicha fêmea. MUITO OBRIGADA Lidiane!!!
+Eu sou a [Ju](http://certezaquaseabsoluta.blogspot.com/)  e estou muito feliz por receber um convite para escrever um post para o Bicha fêmea. MUITO OBRIGADA Lidiane!!!
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="fotosa.ru" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/fotosaru-4-thumb.jpg" border="0" alt="fotosa.ru" width="240" height="180" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/fotosaru-4.jpg) Bom, todo mundo sabe que ‘bicha fêmea’ sooofre pra ficar bonita, quer dizer, já somos bonitas, mas sofremos pra ficar mais&#8230; hehehe
 
@@ -57,9 +57,9 @@ As tarefas domésticas trabalham a musculatura dos membros superiores, peitoral 
 
 Mas cuidado!!! Preocupe-se em usar roupas confortáveis, manter a postura ereta e o abdômen contraído, e lembre-se sempre de flexionar os joelhos para não sobrecarregar a coluna.
 
-Beijos da <a href="http://certezaquaseabsoluta.blogspot.com/" target="_blank">Ju</a>!
+Beijos da [Ju](http://certezaquaseabsoluta.blogspot.com/) !
 
-Fontes: <a href="http://www.dicas.blog.br/?mostra=MTc0" target="_blank">Dicas.blog</a> e <a href="http://www.minhavida.com.br/Alimentacao/Guia-de-alimentacao/No-supermercado/Calorias.htm" target="_blank">Minha Vida</a>.
+Fontes: [Dicas.blog](http://www.dicas.blog.br/?mostra=MTc0)  e [Minha Vida](http://www.minhavida.com.br/Alimentacao/Guia-de-alimentacao/No-supermercado/Calorias.htm) .
 
 **Quer mais dicas que motivem você a mexer o corpo?**
 

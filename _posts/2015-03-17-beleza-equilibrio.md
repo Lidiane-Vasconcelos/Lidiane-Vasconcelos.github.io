@@ -11,7 +11,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  No mundo da moda, por exemplo, há um padrão estético do que vem a ser uma mulher bonita que a gente conhece muito bem, basta ver fotos ou vídeos de um desfile. Já reparou que nos comerciais de TV ou campanhas publicitárias em revistas as modelos diferem do padrão das passarelas? Hoje em dia, até mesmo as modelos chamadas <em>plus size</em> (tamanho atribuído ás mulhes que vestem acima de 44) apresentam variações de padrão. Aliás, essa variação já me deixou com a pulga atrás da orelha porque, veja bem, como considerar que uma mulher como a modelo Robyn Lawley está acima do peso?
+  No mundo da moda, por exemplo, há um padrão estético do que vem a ser uma mulher bonita que a gente conhece muito bem, basta ver fotos ou vídeos de um desfile. Já reparou que nos comerciais de TV ou campanhas publicitárias em revistas as modelos diferem do padrão das passarelas? Hoje em dia, até mesmo as modelos chamadas _plus size_ (tamanho atribuído ás mulhes que vestem acima de 44) apresentam variações de padrão. Aliás, essa variação já me deixou com a pulga atrás da orelha porque, veja bem, como considerar que uma mulher como a modelo Robyn Lawley está acima do peso?
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Robyn Lawley, na revista Cosmopolitan, considerada como uma mulher plus size. Imagem via Google.</em>
+  _Robyn Lawley, na revista Cosmopolitan, considerada como uma mulher plus size. Imagem via Google._
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  Mas afinal, se vemos os índices de obesidade se tornarem alarmantes, ou ainda a imposição das imagens da <em>top models</em> <em>superultramega</em> magras como sendo o ideal de corpo, onde fica o ponto de equilíbrio?
+  Mas afinal, se vemos os índices de obesidade se tornarem alarmantes, ou ainda a imposição das imagens da _top models_ _superultramega_ magras como sendo o ideal de corpo, onde fica o ponto de equilíbrio?
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="justify">
-  Ser muito magra ou muito gorda, a gente já deve desconfiar, não é bom para ninguém. O que os médicos observam, neste caso, é um conjunto de características que indiquem que estamos conseguindo trilhar o caminho do meio. Essas referências começam, portanto, na análise do **IMC**, que é o **Índice de Massa Corpórea**. Mas não é só, hein? Quem sai por aí fazendo essa conta, e acredita que se encaixa num padrão de beleza&saúde apenas pelo resultado numérico pode estar ligeiramente enganada. De acordo com a Dra. Manuela, “<em>o IMC é um índice impreciso, não diferencia entre massa gorda e massa magra e não reflete a distribuição de gordura, que sabemos que tem influência no metabolismo e no risco de doenças como diabetes, hipertensão, hipertrigliceridemia, etc. Apesar disso, ele é uma ferramenta importante para o médico, mas pelas suas limitações deve ser avaliado sempre em conjunto com outros dados para dizer se o paciente está saudável &#8211; da história clínica, dos hábitos, do exame físico e dos exames laboratoriais</em>”. Portanto, mais atenção e cuidado, por favor!
+  Ser muito magra ou muito gorda, a gente já deve desconfiar, não é bom para ninguém. O que os médicos observam, neste caso, é um conjunto de características que indiquem que estamos conseguindo trilhar o caminho do meio. Essas referências começam, portanto, na análise do **IMC**, que é o **Índice de Massa Corpórea**. Mas não é só, hein? Quem sai por aí fazendo essa conta, e acredita que se encaixa num padrão de beleza&saúde apenas pelo resultado numérico pode estar ligeiramente enganada. De acordo com a Dra. Manuela, “_o IMC é um índice impreciso, não diferencia entre massa gorda e massa magra e não reflete a distribuição de gordura, que sabemos que tem influência no metabolismo e no risco de doenças como diabetes, hipertensão, hipertrigliceridemia, etc. Apesar disso, ele é uma ferramenta importante para o médico, mas pelas suas limitações deve ser avaliado sempre em conjunto com outros dados para dizer se o paciente está saudável &#8211; da história clínica, dos hábitos, do exame físico e dos exames laboratoriais_”. Portanto, mais atenção e cuidado, por favor!
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://cienciaemserrinha.blogspot.com.br/2014/09/camb-indice-de-massa-corporal-imc-aula.html" target="_blank">Ciência em Serrinha</a>
+  Imagem: [Ciência em Serrinha](http://cienciaemserrinha.blogspot.com.br/2014/09/camb-indice-de-massa-corporal-imc-aula.html) 
 </p>
 
 <p align="justify">
@@ -94,11 +94,11 @@ categories:
 >   </p>
 >   
 >   <p align="justify">
->     Se você está na cidade de São Paulo, poderá encontrar a Dra. Manuela pessoalmente em seu consultório. Todas as informações com endereço para localizá-la, telefone de contato ou e-mail estão em seu site. Aliás, lá também você encontra informações bem importantes para entender sobre como um médico endocrinologista pode te ajudar, bem como dúvidas frequentes referentes sobre o que trata esta especialidade da medicina. <a href="http://www.manuelarochabraz.com.br/" target="_blank">Clique aqui, se jogue</a> e fique por dentro de tudo! Ah! Não deixe de <a href="https://www.facebook.com/ManuelaRochaBrazEndocrinologista" target="_blank">curtir a página da Dra. Manuela no Facebook</a>, mais uma fonte de informação e conteúdo pra você manter sua saúde em dia!
+>     Se você está na cidade de São Paulo, poderá encontrar a Dra. Manuela pessoalmente em seu consultório. Todas as informações com endereço para localizá-la, telefone de contato ou e-mail estão em seu site. Aliás, lá também você encontra informações bem importantes para entender sobre como um médico endocrinologista pode te ajudar, bem como dúvidas frequentes referentes sobre o que trata esta especialidade da medicina. [Clique aqui, se jogue](http://www.manuelarochabraz.com.br/)  e fique por dentro de tudo! Ah! Não deixe de [curtir a página da Dra. Manuela no Facebook](https://www.facebook.com/ManuelaRochaBrazEndocrinologista) , mais uma fonte de informação e conteúdo pra você manter sua saúde em dia!
 >   </p>
 >   
 >   <p align="center">
->     <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+>     [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 >   </p>
 >   
 >   <p align="justify">

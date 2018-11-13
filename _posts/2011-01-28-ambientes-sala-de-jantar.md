@@ -18,7 +18,7 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 <!--more-->
 
 <p style="text-align: center;">
-  **<em><span style="font-size: small;">Tradicional… mas nem tanto!</span></em>**
+  **_<span style="font-size: small;">Tradicional… mas nem tanto!</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -30,11 +30,11 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 </p>
 
 <p style="text-align: justify;">
-  Não dá para negar que escolher um pendente em forma de candelabro, desses facilmente encontrados em lojas de decoração com bons achados, a exemplo da Tok&Stok, dá um ar ‘<em>pra</em> lá de romântico ao espaço, não é? E se ele é usado com os móveis de “pegada” <em>vintage</em> que você tem, tudo ganha um aspecto bem tradicional. O que pode quebrar é algo como o azul que está nas paredes do ambiente para sua inspiração, e que você pode colocar em apenas uma delas…pensa aí!
+  Não dá para negar que escolher um pendente em forma de candelabro, desses facilmente encontrados em lojas de decoração com bons achados, a exemplo da Tok&Stok, dá um ar ‘_pra_ lá de romântico ao espaço, não é? E se ele é usado com os móveis de “pegada” _vintage_ que você tem, tudo ganha um aspecto bem tradicional. O que pode quebrar é algo como o azul que está nas paredes do ambiente para sua inspiração, e que você pode colocar em apenas uma delas…pensa aí!
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: small;">As cores ficam nos detalhes</span></em>**
+  **_<span style="font-size: small;">As cores ficam nos detalhes</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -42,15 +42,15 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
 </p>
 
 <p style="text-align: justify;">
-  Você bem que gostaria de ousar nas cores mas teme mudanças radicais e o arrependimento na semana seguinte? Então é nos detalhes que você pode fazer a festa, bonita! Como não? Repara bem: as cores dos móveis, paredes e cortina desse ambiente não te parece comportada? E é. Reparou agora as pinceladas de laranja “aqui e <em>acolá</em>”? Sim, não temos como negar que a combinação dos azuis bem suaves da parede e cortinas com o alaranjado dos guardanapos e peça decorativa sobre o bufê parece perfeito. Mas na dúvida sobre se isso vai continuar agradando por muito tempo, evite aplicar em móveis e paredes, e capriche nas cores dos detalhes.
+  Você bem que gostaria de ousar nas cores mas teme mudanças radicais e o arrependimento na semana seguinte? Então é nos detalhes que você pode fazer a festa, bonita! Como não? Repara bem: as cores dos móveis, paredes e cortina desse ambiente não te parece comportada? E é. Reparou agora as pinceladas de laranja “aqui e _acolá_”? Sim, não temos como negar que a combinação dos azuis bem suaves da parede e cortinas com o alaranjado dos guardanapos e peça decorativa sobre o bufê parece perfeito. Mas na dúvida sobre se isso vai continuar agradando por muito tempo, evite aplicar em móveis e paredes, e capriche nas cores dos detalhes.
 </p>
 
 <p style="text-align: justify;">
-  E para arrematar, inspire-se na montagem com quadros na parede. Se você tem dúvidas sobre como organizar um arranjo de molduras assim, confira as **<em><a href="http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/">dicas para a decoração de paredes com quadros</a></em>** que já foram publicadas por aqui, assim você fica segura na hora de pendurá-los. Inspire-se!
+  E para arrematar, inspire-se na montagem com quadros na parede. Se você tem dúvidas sobre como organizar um arranjo de molduras assim, confira as **_<a href="http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/">dicas para a decoração de paredes com quadros</a>_** que já foram publicadas por aqui, assim você fica segura na hora de pendurá-los. Inspire-se!
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: small;">E se as cores te trazem alegria…</span></em>**
+  **_<span style="font-size: small;">E se as cores te trazem alegria…</span>_**
 </p>
 
 <p style="text-align: center;">
@@ -61,7 +61,7 @@ Vai mudar a decoração de sua sala de jantar, ou ainda vai montar uma, e precis
   …não abra mão delas, ora! Inspire-se no amarelo das paredes e azul que cobre as almofadas sobre as cadeiras, e veja que a combinação pode dar muito certo, sim! Não fica bonito? E fica com cara de Verão! É disso que uma bicha fêmea de alma solar e florida como você precisa? Então se joga!
 </p>
 
-Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+Imagens: [HGTV](http://www.hgtv.com/) 
 
 **_Mais no Bicha Fêmea…_**
 
@@ -76,13 +76,13 @@ Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 **_[Caminho de mesa em mesa de vidro: usar ou não?](http://www.trololodemulher.com.br/2009/11/05/caminho-de-mesa/)_**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">**<em>Salas & Halls</em>**</a>> 3 ambientes inspiradores para sua sala de jantar. Comprove!
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">**_Salas & Halls_**</a>> 3 ambientes inspiradores para sua sala de jantar. Comprove!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

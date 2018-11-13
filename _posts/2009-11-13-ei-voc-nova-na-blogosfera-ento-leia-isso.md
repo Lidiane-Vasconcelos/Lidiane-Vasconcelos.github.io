@@ -33,6 +33,6 @@ E são essas as trocas que valem a pena no final das contas…
 
 Ah! Bom fim de semana para nós!!!!
 
-Imagem: <a href="http://aquestforbalance.blogspot.com/" target="_blank">Mammajamma Blabba</a>
+Imagem: [Mammajamma Blabba](http://aquestforbalance.blogspot.com/) 
 
 <span style="color: #800080;">**Antes de ir, deixa eu te perguntar: você está sabendo da festa de comemoração do aniversário de 1 ano do Bicha Fêmea? Os convidados já começaram a chegar. <a href="http://www.trololodemulher.com.br/2009/11/06/comemorao-vista-no-bicha-fmea/">Você não quer vir?</a>**</span>

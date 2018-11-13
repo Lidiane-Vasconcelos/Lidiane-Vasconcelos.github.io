@@ -13,7 +13,7 @@ Pois é, bonita! Não é de ideias de execução bem fácil que a gente gosta? E
 
 &nbsp;
 
-Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" target="_blank">iVillage</a>_**, e **nesta única imagem há 3 ideias** que eu consegui enxergar como sendo bacanas para aplicar na sala de estar de qualquer uma de nós. De repente, você até enxerga mais… quem sabe? O bacana de ver imagens assim é exercitar o olho e aprender dessa forma: apenas vendo… inspire-se!
+Trata-se de uma imagem garimpada no site **_[iVillage](http://www.ivillage.com/) _**, e **nesta única imagem há 3 ideias** que eu consegui enxergar como sendo bacanas para aplicar na sala de estar de qualquer uma de nós. De repente, você até enxerga mais… quem sabe? O bacana de ver imagens assim é exercitar o olho e aprender dessa forma: apenas vendo… inspire-se!
 
 <!--more-->
 
@@ -24,19 +24,19 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
 &nbsp;
 
 <p align="justify">
-  Então vamos lá exercitar juntas o olhar para as **imagens de decoração** que tanto amamos <em>curiar</em> blogosfera afora? O que eu vi nessa imagem de legal para a gente reproduzir foi:
+  Então vamos lá exercitar juntas o olhar para as **imagens de decoração** que tanto amamos _curiar_ blogosfera afora? O que eu vi nessa imagem de legal para a gente reproduzir foi:
 </p>
 
 <p align="justify">
-  **<span style="font-size: x-large;"><em>1 </em></span>**– Se você tem uma parede no seu ambiente que está vazia, esperando, sei lá, um quadro estonteante que você nunca encontra (esse é o meu caso faz tempo… <em>tsc tsc tsc</em>…), você pode preenchê-la com prateleiras fininhas dispostas de forma aparentemente assimétrica. Confesso que fiquei bastante entusiasmada para aplicar essa ideia em meus domínios, <em>viu</em>? Nas prateleiras poderão entrar desde pequenos quadros, até vasos, livros e esculturas. Não ficou uma graça?
+  **<span style="font-size: x-large;">_1 _</span>**– Se você tem uma parede no seu ambiente que está vazia, esperando, sei lá, um quadro estonteante que você nunca encontra (esse é o meu caso faz tempo… _tsc tsc tsc_…), você pode preenchê-la com prateleiras fininhas dispostas de forma aparentemente assimétrica. Confesso que fiquei bastante entusiasmada para aplicar essa ideia em meus domínios, _viu_? Nas prateleiras poderão entrar desde pequenos quadros, até vasos, livros e esculturas. Não ficou uma graça?
 </p>
 
 <p align="justify">
-  **<em><span style="font-size: x-large;">2 </span></em>**– Se sua sala é pequena, e você precisa de espaço extra para sentar sempre que chega visita mas não dá para ter um sofá ou poltrona a mais, observe: está vendo aqueles pufes cilindricos perto da poltrona na imagem? Eles bem que poderiam ser quadrados, estarem no centro da sala, com uma bandeja de madeira sobre eles que acomodaria os mesmos objetos decorativos, certo? Pronto! Dá para ter uma mesinha de centro que também vira assentos a mais no ambiente, não dá? Claro que dá!
+  **_<span style="font-size: x-large;">2 </span>_**– Se sua sala é pequena, e você precisa de espaço extra para sentar sempre que chega visita mas não dá para ter um sofá ou poltrona a mais, observe: está vendo aqueles pufes cilindricos perto da poltrona na imagem? Eles bem que poderiam ser quadrados, estarem no centro da sala, com uma bandeja de madeira sobre eles que acomodaria os mesmos objetos decorativos, certo? Pronto! Dá para ter uma mesinha de centro que também vira assentos a mais no ambiente, não dá? Claro que dá!
 </p>
 
 <p align="justify">
-  **<em><span style="font-size: x-large;">3</span></em>** – Está vendo as velinhas sobre a mesa de centro da sala? Já imaginou se elas fossem aromatizadas ou, ainda, um porta incenso lindo de viver com palitinhos que exalam um cheirinho gostoso demais da conta? Também poderia ser um difusor de varetas de aroma irresistível, não é? Então, para trazer aconchego e bem estar para o ambiente, ponha cheirinho nele, bonita!
+  **_<span style="font-size: x-large;">3</span>_** – Está vendo as velinhas sobre a mesa de centro da sala? Já imaginou se elas fossem aromatizadas ou, ainda, um porta incenso lindo de viver com palitinhos que exalam um cheirinho gostoso demais da conta? Também poderia ser um difusor de varetas de aroma irresistível, não é? Então, para trazer aconchego e bem estar para o ambiente, ponha cheirinho nele, bonita!
 </p>
 
 <p align="justify">
@@ -110,7 +110,7 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -125,13 +125,13 @@ Trata-se de uma imagem garimpada no site **_<a href="http://www.ivillage.com/" t
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

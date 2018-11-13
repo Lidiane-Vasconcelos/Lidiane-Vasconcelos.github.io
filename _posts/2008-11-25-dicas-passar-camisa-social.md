@@ -11,11 +11,11 @@ categories:
 ---
  Eu sempre tive muitas dificuldades para passar camisas sociais. Na verdade, era uma luta entre a camisa, o ferro e eu. Invariavelmente, eu saía como uma perdedora&#8230; _tsc tsc tsc_
 
-Ocorre que estava eu, serelepe e saltitante, navegando web afora, e eis que no blog <a href="http://cantodalu.blogspot.com/2008/11/organizando-papis.html" target="_blank">Canto da Lu</a> havia uma indicação para o <a href="http://chezlarsson.typepad.com/myblog/cleaning/" target="_blank">Chez Larsson</a>. Inquieta, vasculhei o blog da moça sueca, e achei um PAP para passar roupa que fez de mim uma vencedora nessas batalhas domésticas. Duvida? Confere comigo&#8230;
+Ocorre que estava eu, serelepe e saltitante, navegando web afora, e eis que no blog [Canto da Lu](http://cantodalu.blogspot.com/2008/11/organizando-papis.html)  havia uma indicação para o [Chez Larsson](http://chezlarsson.typepad.com/myblog/cleaning/) . Inquieta, vasculhei o blog da moça sueca, e achei um PAP para passar roupa que fez de mim uma vencedora nessas batalhas domésticas. Duvida? Confere comigo&#8230;
 
 A moça da Suécia mostra um técnica toda especial, porém muito simples, para passar camisa social ou de botão. O ANTES e DEPOIS dessa atividade, após a leitura do post, sobretudo o item 2, está muito diferente para mim.
 
-O post está <a href="http://chezlarsson.typepad.com/myblog/2008/09/how-to-iron-a-shirt.html" target="_blank">aqui</a>. Oh! É em Inglês. Mas quem não tem familiaridade com a língua, não precisa se descabelar porque as imagens falam por si, e eu vou dar uma mãozinha, sim?
+O post está [aqui](http://chezlarsson.typepad.com/myblog/2008/09/how-to-iron-a-shirt.html) . Oh! É em Inglês. Mas quem não tem familiaridade com a língua, não precisa se descabelar porque as imagens falam por si, e eu vou dar uma mãozinha, sim?
 
 <table align="center">
   <tr>

@@ -30,9 +30,9 @@ Chegou o grande dia para as bichas fêmeas navegantes amantes de _cupcakes_. Sim
 </p>
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/category/promocao/">Promoção</a></em>** > Resultado do sorteio no Bicha Fêmea em parceria com a MIREPOIX.
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/category/promocao/">Promoção</a>_** > Resultado do sorteio no Bicha Fêmea em parceria com a MIREPOIX.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

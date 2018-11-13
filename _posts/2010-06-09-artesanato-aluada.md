@@ -21,7 +21,7 @@ Cuidar da decoração do cantinho, e deixá-lo cada vez mais bonito, pode até l
 > 
 > Como a maioria das minhas ideias surgem nas inúmeras noites de insônia, resolvi batizar com o nome de ALUADA as minhas invencionices&#8230;&#8221;
 
-Viu? Foi assim que a Luciana começou a desenvolver as almofadas exclusivas e fofas da <a href="http://lojaluada.blogspot.com/" target="_blank">ALUADA</a>, que têm se revelado lindas possibilidades para deixar a casa com toques _craft_.
+Viu? Foi assim que a Luciana começou a desenvolver as almofadas exclusivas e fofas da [ALUADA](http://lojaluada.blogspot.com/) , que têm se revelado lindas possibilidades para deixar a casa com toques _craft_.
 
 <table align="center">
   <tr>

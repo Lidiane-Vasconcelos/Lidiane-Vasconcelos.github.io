@@ -21,7 +21,7 @@ O estilo _cottage_ na **decoração** tem uma _pegada_ bem feminina, não é? De
 <!--more-->
 
 <p align="justify">
-  O ambiente foi garimpado no site <a href="http://www.countryhome.com/" target="_blank">**<em>Country Home</em>**</a>, e na verdade revela uma composição casual, com <em>bossa</em> <em>cottage</em>, isto é, um charme especial permeado por esse estilo. Alguma dúvida de que dá para usá-lo num pequeno apartamento (ou casa) de alguém que viva de amores por esse tipo de decoração?
+  O ambiente foi garimpado no site [**_Country Home_**](http://www.countryhome.com/) , e na verdade revela uma composição casual, com _bossa_ _cottage_, isto é, um charme especial permeado por esse estilo. Alguma dúvida de que dá para usá-lo num pequeno apartamento (ou casa) de alguém que viva de amores por esse tipo de decoração?
 </p>
 
 &nbsp;
@@ -49,7 +49,7 @@ O estilo _cottage_ na **decoração** tem uma _pegada_ bem feminina, não é? De
 &nbsp;
 
 <p align="justify">
-  Um **caminho de mesa de linho coroado com vasos simples de vidro, enfeitados festivamente com flores**: quer algo mais feminino, romântico e <em>cottage</em> que isso?
+  Um **caminho de mesa de linho coroado com vasos simples de vidro, enfeitados festivamente com flores**: quer algo mais feminino, romântico e _cottage_ que isso?
 </p>
 
 &nbsp;
@@ -127,7 +127,7 @@ O estilo _cottage_ na **decoração** tem uma _pegada_ bem feminina, não é? De
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -142,13 +142,13 @@ O estilo _cottage_ na **decoração** tem uma _pegada_ bem feminina, não é? De
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

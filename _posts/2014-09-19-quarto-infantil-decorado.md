@@ -11,7 +11,7 @@ categories:
   - Quarto Infantil
 ---
 <p align="justify">
-  Está aí um item que não vende em nenhuma loja de decoração… ainda bem! Já pensou se até isso pudesse ser comprado? Bom, tem gente que parece que acha, <em>né</em>? <em>tsc tsc tsc</em>… mas isso é outra história. Deixa quieto. Voltando ao quarto que quero mostrar, ele é de uma menina muito bonita e inteligente: é a Dora, dona do blog <a href="http://lechatquepeche.blogspot.com.br/" target="_blank">Le Chat Que Pêche</a>. Essa belezinha de menina é filha da Evinha, dona da <a href="http://www.lojalapomme.com.br/" target="_blank">La Pomme</a>. Se você conhece a loja da mãe, sabe o quanto de criatividade e amor pelo que faz emana dessa mulher. É lógico que ela teria uma menina tão sensível como filha, e seu quarto teria que ser assim: <em>belezura</em> pura!
+  Está aí um item que não vende em nenhuma loja de decoração… ainda bem! Já pensou se até isso pudesse ser comprado? Bom, tem gente que parece que acha, _né_? _tsc tsc tsc_… mas isso é outra história. Deixa quieto. Voltando ao quarto que quero mostrar, ele é de uma menina muito bonita e inteligente: é a Dora, dona do blog [Le Chat Que Pêche](http://lechatquepeche.blogspot.com.br/) . Essa belezinha de menina é filha da Evinha, dona da [La Pomme](http://www.lojalapomme.com.br/) . Se você conhece a loja da mãe, sabe o quanto de criatividade e amor pelo que faz emana dessa mulher. É lógico que ela teria uma menina tão sensível como filha, e seu quarto teria que ser assim: _belezura_ pura!
 </p>
 
 <p align="justify">
@@ -31,15 +31,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/" target="_blank">**5 ideias de decoração para o teto do quarto infantil: é pura diversão!**</a>
+  [**5 ideias de decoração para o teto do quarto infantil: é pura diversão!**](http://www.decoracaodacasa.com/decoracao-teto-quarto-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank">**2 ideias para festa ou decoração infantil: faça você mesma!**</a>
+  [**2 ideias para festa ou decoração infantil: faça você mesma!**](http://www.decoracaodacasa.com/festa-decoracao-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/" target="_blank">**Dica de decoração infantil que sua criança pode fazer…**</a>
+  [**Dica de decoração infantil que sua criança pode fazer…**](http://www.trololodemulher.com.br/2013/05/29/decoracao-quarto-infantil-2/) 
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  A decoração pode ficar por conta dos brinquedos que a criança usa de verdade. Gibis podem ser pendurados em suportes daqueles que você usa no banheiro mesmo, para pendurar toalhas. No quarto da Dora não foi usado, mas vou além com uma dica: para colorir os suportes, você pode usar <em>washi tapes</em>. Dê uma olhadinha neste post – <a href="http://www.decoracaodacasa.com/washi-tapes-decoracao/" target="_blank">Wahi tapes: 3 ideias de decoração “faça você mesma”</a> – publicado no <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>, e você vai entender do que se trata.
+  A decoração pode ficar por conta dos brinquedos que a criança usa de verdade. Gibis podem ser pendurados em suportes daqueles que você usa no banheiro mesmo, para pendurar toalhas. No quarto da Dora não foi usado, mas vou além com uma dica: para colorir os suportes, você pode usar _washi tapes_. Dê uma olhadinha neste post – [Wahi tapes: 3 ideias de decoração “faça você mesma”](http://www.decoracaodacasa.com/washi-tapes-decoracao/)  – publicado no [Decoração da Casa](http://www.decoracaodacasa.com/) , e você vai entender do que se trata.
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/" target="_blank">**Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!**</a>
+  [**Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!**](http://www.trololodemulher.com.br/2012/02/15/quarto-infantil-croche/) 
 </p>
 
 <p align="center">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank">**Como brincar com as cores na decoração do quarto infantil?**</a>
+  [**Como brincar com as cores na decoração do quarto infantil?**](http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/papel-parede-infantil/" target="_blank">**Papel de parede infantil: divertidos, didáticos e criativos.**</a>
+  [**Papel de parede infantil: divertidos, didáticos e criativos.**](http://www.decoracaodacasa.com/papel-parede-infantil/) 
 </p>
 
 <p align="center">
@@ -95,27 +95,27 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/" target="_blank">**Ideias para você organizar um cantinho de leitura e artes infantil.**</a>
+  [**Ideias para você organizar um cantinho de leitura e artes infantil.**](http://www.decoracaodacasa.com/organizar-casa-quarto-infantil/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/mesa-de-estudo/" target="_blank">**Mesas de estudo para inspirar…**</a>
+  [**Mesas de estudo para inspirar…**](http://www.decoracaodacasa.com/mesa-de-estudo/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização do quarto infantil… você não vai copiar?**</a>
+  [**4 soluções de organização do quarto infantil… você não vai copiar?**](http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/) 
 </p>
 
 <p align="justify">
-  Há outras imagens inspiradoras desse quarto cheio de vida, além de detalhes que a mamãe Eva conta que podem te inspirar ainda mais. Se eu fosse você, daria uma espiadinha <a href="http://asperipeciasdeeva.com.br/2014/09/2862/" target="_blank">bem aqui, no blog As Peripécias de Eva</a>. Sei que você é esperta e vai conferir tudo, <em>né</em>? Então… se joga!
+  Há outras imagens inspiradoras desse quarto cheio de vida, além de detalhes que a mamãe Eva conta que podem te inspirar ainda mais. Se eu fosse você, daria uma espiadinha [bem aqui, no blog As Peripécias de Eva](http://asperipeciasdeeva.com.br/2014/09/2862/) . Sei que você é esperta e vai conferir tudo, _né_? Então… se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
+  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
 </p>
 
 &nbsp;

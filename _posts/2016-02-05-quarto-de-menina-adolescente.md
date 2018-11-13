@@ -10,7 +10,7 @@ categories:
   - Quarto Adolescente
 ---
 <p align="justify">
-  Nem sempre de rosa é feito o <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina-2/" target="_blank">quarto de menina</a>, sobretudo se ela já entrou na adolescência. Nessa fase, cheias de personalidade, essas mocinhas querem muito mais: elas desejam que seu espaço tenham detalhes estilosos, com muita <em>bossa</em> e charme. **Quarto de menina adolescente**, para deixá-la feliz, precisa ter muito dela mesma. Neste post você verá algumas dicas e sugestões de como levar isso para a decoração do cantinho delas. Mostre as ideias para sua filha, deixe que ela eleja o que conquista seu coração, e divirtam-se aplicando juntas as sugestões que estão aqui. Confira!
+  Nem sempre de rosa é feito o [quarto de menina](http://www.decoracaodacasa.com/decoracao-de-quarto-de-menina-2/) , sobretudo se ela já entrou na adolescência. Nessa fase, cheias de personalidade, essas mocinhas querem muito mais: elas desejam que seu espaço tenham detalhes estilosos, com muita _bossa_ e charme. **Quarto de menina adolescente**, para deixá-la feliz, precisa ter muito dela mesma. Neste post você verá algumas dicas e sugestões de como levar isso para a decoração do cantinho delas. Mostre as ideias para sua filha, deixe que ela eleja o que conquista seu coração, e divirtam-se aplicando juntas as sugestões que estão aqui. Confira!
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.housetohome.co.uk/" target="_blank">House To Home</a>
+  Via [House To Home](http://www.housetohome.co.uk/) 
 </p>
 
 <p align="justify">
-  Escolha detalhes na decoração que encham o quarto de charme. Luminárias coloridas, divertidas ou que tenham tudo a ver com o gosto pessoal da dona do quarto cumprem bem esse papel. Há muitos outros acessórios coloridos que podem ser usados com esse propósito: almofadas, <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">caixas organizadoras</a>, enfeites, quadros na parede, etc. Esses pequenos toques de cor podem ser trocados de tempos em tempos, fazendo um rodízio entre eles e, vez ou outra, mudando a carinha geral do quarto.
+  Escolha detalhes na decoração que encham o quarto de charme. Luminárias coloridas, divertidas ou que tenham tudo a ver com o gosto pessoal da dona do quarto cumprem bem esse papel. Há muitos outros acessórios coloridos que podem ser usados com esse propósito: almofadas, [caixas organizadoras](http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/) , enfeites, quadros na parede, etc. Esses pequenos toques de cor podem ser trocados de tempos em tempos, fazendo um rodízio entre eles e, vez ou outra, mudando a carinha geral do quarto.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  Detalhes feitos pela sua filha podem customizar o ambiente com toques pessoais. Esses vasos decorados com <em>glitter</em> podem ser feitos com embalagens de vidro reaproveitadas, e o passo a passo é <em>superultramega</em> simples. Você pode ver como fazer, em detalhes, no blog <a href="http://www.thesweetestoccasion.com/2012/07/diy-glitter-vases/" target="_blank">The Sweetest Occasion</a>. Perceba: as imagens sobre a execução do projeto falam por si. A cola usada para preencher a parte interna dos recipientes é a Mode Podge, e dá para fazer em casa também. No blog <a href="http://www.babblingsandmore.com/2011/10/homemade-mod-podge.html" target="_blank">Babblings And More</a> há a receitinha de como fazer: cola branca + água, sendo 50% para cada. Simples, não é? Fica a dica.
+  Detalhes feitos pela sua filha podem customizar o ambiente com toques pessoais. Esses vasos decorados com _glitter_ podem ser feitos com embalagens de vidro reaproveitadas, e o passo a passo é _superultramega_ simples. Você pode ver como fazer, em detalhes, no blog [The Sweetest Occasion](http://www.thesweetestoccasion.com/2012/07/diy-glitter-vases/) . Perceba: as imagens sobre a execução do projeto falam por si. A cola usada para preencher a parte interna dos recipientes é a Mode Podge, e dá para fazer em casa também. No blog [Babblings And More](http://www.babblingsandmore.com/2011/10/homemade-mod-podge.html)  há a receitinha de como fazer: cola branca + água, sendo 50% para cada. Simples, não é? Fica a dica.
 </p>
 
 <p align="center">
@@ -38,11 +38,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.housetohome.co.uk/" target="_blank">House To Home</a>
+  Via [House To Home](http://www.housetohome.co.uk/) 
 </p>
 
 <p align="justify">
-  Para as meninas românticas, apostar em roupa de cama com detalhes florais, numa <em>pegada vintage</em>, pode ser uma estratégia acertadíssima. Isso no mínimo vai deixá-la bem empolgada para **<a href="http://www.decoracaodacasa.com/fazer-a-cama/" target="_blank">fazer a cama</a>** todos os dias. A mamãe agradece!
+  Para as meninas românticas, apostar em roupa de cama com detalhes florais, numa _pegada vintage_, pode ser uma estratégia acertadíssima. Isso no mínimo vai deixá-la bem empolgada para **[fazer a cama](http://www.decoracaodacasa.com/fazer-a-cama/) ** todos os dias. A mamãe agradece!
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.housetohome.co.uk/" target="_blank">House To Home</a>
+  Via [House To Home](http://www.housetohome.co.uk/) 
 </p>
 
 <p align="justify">
-  Se houver espaço no quarto, um cantinho para **penteadeira** e espelho que reflita o corpo inteiro é <em>tudo-que-há-na-vida</em> de qualquer mulher… imagine para uma adolescente?! Invista na ideia.
+  Se houver espaço no quarto, um cantinho para **penteadeira** e espelho que reflita o corpo inteiro é _tudo-que-há-na-vida_ de qualquer mulher… imagine para uma adolescente?! Invista na ideia.
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.housetohome.co.uk/" target="_blank">House To Home</a>
+  Via [House To Home](http://www.housetohome.co.uk/) 
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

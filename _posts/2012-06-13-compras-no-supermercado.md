@@ -22,19 +22,19 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 <!--more-->
 
 <p align="justify">
-  Pois é, toda diva do lar precisa mesmo dar uma olhadinha e conferir o que tantas outras têm a dizer sobre compras no supermercado. A primeira de todas as dicas é jamais ir ao mercado com fome, pois isso vai fazer você comprar mais. Esse alerta é dado pela **Milena Orlando** e pela **Elaine Cunha | <a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a>**. Além do mais, a **Milena** faz outros alertas, dentre eles, o de não levar crianças para as compras:
+  Pois é, toda diva do lar precisa mesmo dar uma olhadinha e conferir o que tantas outras têm a dizer sobre compras no supermercado. A primeira de todas as dicas é jamais ir ao mercado com fome, pois isso vai fazer você comprar mais. Esse alerta é dado pela **Milena Orlando** e pela **Elaine Cunha | [Caminhando e Contando](http://www.caminhandocontando.com/) **. Além do mais, a **Milena** faz outros alertas, dentre eles, o de não levar crianças para as compras:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “…<em>crianças pedem, issso às vezes tira o nosso foco, ficam cansadas e nos atrapalham. </em><em>Eu tenho uma dica: ao comparar produtos &#8220;iguais&#8221; mas com preços muito diferentes, pesquise: uma vez ao comprar almôndegas em caixetas, percebi que uma marca era muito mais barata que a outra pois havia glúten, ou seja, possuía farinha de trigo junto com a carne. Como essa informação é legalizada para os alérgicos a este íten, deduzi que a outra não tinha</em>.”
+>   “…_crianças pedem, issso às vezes tira o nosso foco, ficam cansadas e nos atrapalham. __Eu tenho uma dica: ao comparar produtos &#8220;iguais&#8221; mas com preços muito diferentes, pesquise: uma vez ao comprar almôndegas em caixetas, percebi que uma marca era muito mais barata que a outra pois havia glúten, ou seja, possuía farinha de trigo junto com a carne. Como essa informação é legalizada para os alérgicos a este íten, deduzi que a outra não tinha_.”
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  A propósito, levar crianças não é uma boa ideia na opinião da **Márcia da Costa Trigueiro | <a href="http://www.simplesmenteaprendiz.blogspot.com.br/" target="_blank">Simplesmente Aprendiz</a>** também: “<em>Uma dica que eu levo muito a sério é deixar as crianças em casa com alguém: economia de tempo, preocupação e dinheiro !!!!”</em>
+  A propósito, levar crianças não é uma boa ideia na opinião da **Márcia da Costa Trigueiro | [Simplesmente Aprendiz](http://www.simplesmenteaprendiz.blogspot.com.br/) ** também: “_Uma dica que eu levo muito a sério é deixar as crianças em casa com alguém: economia de tempo, preocupação e dinheiro !!!!”_
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 &nbsp;
 
 > <p align="justify">
->   “…<em>eu procuro ver em supermercado tipo atacadão pois os preços são diferenciados. E também vejo por quantidade. Exemplo: compro embalagem de 5 litros de detergente de prato pois o meio-litro sai muuuuito mais barato do que a embalagem já com mesma quantidade. Aí, guardo uma embalagem original e fico enchendo na medida que acaba usando um funil. Pronto. Não derrama, dura mais e pago menos. Procuro fazer isso com quase tudo de material de limpeza.”</em>
+>   “…_eu procuro ver em supermercado tipo atacadão pois os preços são diferenciados. E também vejo por quantidade. Exemplo: compro embalagem de 5 litros de detergente de prato pois o meio-litro sai muuuuito mais barato do que a embalagem já com mesma quantidade. Aí, guardo uma embalagem original e fico enchendo na medida que acaba usando um funil. Pronto. Não derrama, dura mais e pago menos. Procuro fazer isso com quase tudo de material de limpeza.”_
 > </p>
 
 &nbsp;
@@ -68,35 +68,35 @@ Ah, bonita! Para isso você precisa ver as dicas deste post, dadas por mim e mui
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/organizacao-domestica/" rel="attachment wp-att-8719"><img class="alignnone size-full wp-image-8719" title="ORGANIZACAO DOMESTICA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ORGANIZACAO-DOMESTICA.png" alt="" width="396" height="317" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
+  [Stock.xchng](http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/organizacao-domestica/" rel="attachment wp-att-8719"><img class="alignnone size-full wp-image-8719" title="ORGANIZACAO DOMESTICA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ORGANIZACAO-DOMESTICA.png" alt="" width="396" height="317" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  E agora já aprendi outros truques com a **Simone |** **<a href="http://www.newsespacohome.blogspot.com.br/" target="_blank">Organização com Estilo</a>**… <em>espia</em>:
+  E agora já aprendi outros truques com a **Simone |** **[Organização com Estilo](http://www.newsespacohome.blogspot.com.br/) **… _espia_:
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “…<em>eu costumo colocar itens que amassam ou quebram, tipo bolacha, batatinha, bolinho, chocolate, em uma caixa, em cima dos outros itens que já estão no carrinho, assim elas não correm o risco de chegarem em casa como uma paçoca. </em><em>Na hora de passar os produtos no caixa, já passo por categoria, ou seja, produtos da mesma família juntos (todos os de limpeza, depois todos de banheiro, etc), para serem embalados juntos e, ficar bem mais fácil na hora de guardar. </em><em>Prefiro fazer compras sempre no mesmo mercado, pois sei exatamente onde está cada item. Detesto ter que ficar procurando&#8230;”</em>
+>   “…_eu costumo colocar itens que amassam ou quebram, tipo bolacha, batatinha, bolinho, chocolate, em uma caixa, em cima dos outros itens que já estão no carrinho, assim elas não correm o risco de chegarem em casa como uma paçoca. __Na hora de passar os produtos no caixa, já passo por categoria, ou seja, produtos da mesma família juntos (todos os de limpeza, depois todos de banheiro, etc), para serem embalados juntos e, ficar bem mais fácil na hora de guardar. __Prefiro fazer compras sempre no mesmo mercado, pois sei exatamente onde está cada item. Detesto ter que ficar procurando&#8230;”_
 > </p>
 
 &nbsp;
 
-Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" target="_blank">Casas Possíveis</a>**, que não tem mais filhos pequenos e, portanto, está numa outra fase da vida, também deixou seu recado compartilhando dicas valiosas. Anote:
+Além do mais, a **Yvone | [Casas Possíveis](http://casaspossiveis.blogspot.com.br/) **, que não tem mais filhos pequenos e, portanto, está numa outra fase da vida, também deixou seu recado compartilhando dicas valiosas. Anote:
 
 &nbsp;
 
 > <p align="justify">
->   “…<em>com o passar dos anos acredito que cada um de nós vai descobrindo a melhor forma de fazer as compras. </em><em>Hoje somos dois então prefiro ir ao supermercado uma vez por semana. Mais fácil para carregar, os alimentos estão sempre dentro do prazo e frescos. </em><em>Não gosto mais de ir a hipermercados, sempre dou preferência às lojas menores, são mais fáceis de encontrar as coisas e cansam menos. </em><em>Não vou ao supermercado próximo aos dias de pagamento e nem nos dias que antecedem </em><em>e sucedem as datas padrão de pagamento pelas empresas, os supermercados tendem a ficar superlotados. </em><em>Outra coisa que aprendi também é dar preferência aos carrinhos de compras menores &#8211; Você já notou como às vezes é difícil encontrar carrinhos pequenos? Os supermercados oferecem poucos. Acredito ser uma das estratégias de marqueteiros para forçar o consumidor comprar mais. Carrinhos menores para quem compra só para a semana não corre o risco de entupi-los com supérfluos e engordativos.”</em>
+>   “…_com o passar dos anos acredito que cada um de nós vai descobrindo a melhor forma de fazer as compras. __Hoje somos dois então prefiro ir ao supermercado uma vez por semana. Mais fácil para carregar, os alimentos estão sempre dentro do prazo e frescos. __Não gosto mais de ir a hipermercados, sempre dou preferência às lojas menores, são mais fáceis de encontrar as coisas e cansam menos. __Não vou ao supermercado próximo aos dias de pagamento e nem nos dias que antecedem __e sucedem as datas padrão de pagamento pelas empresas, os supermercados tendem a ficar superlotados. __Outra coisa que aprendi também é dar preferência aos carrinhos de compras menores &#8211; Você já notou como às vezes é difícil encontrar carrinhos pequenos? Os supermercados oferecem poucos. Acredito ser uma das estratégias de marqueteiros para forçar o consumidor comprar mais. Carrinhos menores para quem compra só para a semana não corre o risco de entupi-los com supérfluos e engordativos.”_
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Eu não falei que o post seria dos bons? Agora é você incorporar as dicas que melhor se adequam ao seu perfil de consumidora e deixar essa atividade ainda mais prática. Toda diva do lar tem seus truques para dar conta do recado no dia a dia, não é? Ainda bem que as frequentadoras do bicha fêmea dividem os delas… **a propósito, se você tiver alguma dica que não foi citada por aqui, não hesite: vai nos comentários e conta <em>´pra</em> gente, bonita!**
+  Eu não falei que o post seria dos bons? Agora é você incorporar as dicas que melhor se adequam ao seu perfil de consumidora e deixar essa atividade ainda mais prática. Toda diva do lar tem seus truques para dar conta do recado no dia a dia, não é? Ainda bem que as frequentadoras do bicha fêmea dividem os delas… **a propósito, se você tiver alguma dica que não foi citada por aqui, não hesite: vai nos comentários e conta _´pra_ gente, bonita!**
 </p>
 
 &nbsp;
@@ -166,7 +166,7 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -181,13 +181,13 @@ Além do mais, a **Yvone | <a href="http://casaspossiveis.blogspot.com.br/" targ
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

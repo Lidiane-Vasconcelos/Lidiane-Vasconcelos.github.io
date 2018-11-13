@@ -18,12 +18,12 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Mesmo a distância, a corrente de solidariedade pode se manter firme e indissolúvel. Ações como a que foi proposta pela** Luci**, do blog <a href="http://postandosobreartes.blogspot.com/" target="_blank">Postando Sobre Artes</a>, dão a oportunidade para que o carinho com que você confeccione alguma peça chegue até uma das mães que vivem toda aquela tragédia. Quer saber como? A **Luci **explica:
+  Mesmo a distância, a corrente de solidariedade pode se manter firme e indissolúvel. Ações como a que foi proposta pela** Luci**, do blog [Postando Sobre Artes](http://postandosobreartes.blogspot.com/) , dão a oportunidade para que o carinho com que você confeccione alguma peça chegue até uma das mães que vivem toda aquela tragédia. Quer saber como? A **Luci **explica:
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    “…<em>quero fazer um desafio para vocês, para todas que têm sua arte, que doe um pouco dela. Como? Fazendo algo para doar ás famílias desabrigadas. Vocês viram , por exemplo, quantos nenens tem lá? Quantas grávidas? Que tal fazer algo para o enxovalzinho delas? Pode ser de crochê, de tricô, bordado, patch, pintura em tecido&#8230; daqui 4 meses começa a esfriar nessa região. Se Deus quiser logo terão suas casinhas. E o enxoval? Paninhos de prato, toalhinhas de mão, e até mesmo enfeitinhos, não é? O que vocês acham?…”</em>
+    “…_quero fazer um desafio para vocês, para todas que têm sua arte, que doe um pouco dela. Como? Fazendo algo para doar ás famílias desabrigadas. Vocês viram , por exemplo, quantos nenens tem lá? Quantas grávidas? Que tal fazer algo para o enxovalzinho delas? Pode ser de crochê, de tricô, bordado, patch, pintura em tecido&#8230; daqui 4 meses começa a esfriar nessa região. Se Deus quiser logo terão suas casinhas. E o enxoval? Paninhos de prato, toalhinhas de mão, e até mesmo enfeitinhos, não é? O que vocês acham?…”_
   </p>
 </blockquote>
 
@@ -36,11 +36,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Está animada para ajudar também? O quartel general <em>bloguístico</em> para essas ações, inclusive com todas as informações quanto a logística durante o processo, é no blog da **Luci**. Tudo que você precisa saber para entrar nessa campanha e doar sua arte para quem precisa está no <a href="http://postandosobreartes.blogspot.com/2011/01/desafio-de-doacao-de-amor-e-arte.html" target="_blank">post da campanha</a>.
+  Está animada para ajudar também? O quartel general _bloguístico_ para essas ações, inclusive com todas as informações quanto a logística durante o processo, é no blog da **Luci**. Tudo que você precisa saber para entrar nessa campanha e doar sua arte para quem precisa está no [post da campanha](http://postandosobreartes.blogspot.com/2011/01/desafio-de-doacao-de-amor-e-arte.html) .
 </p>
 
 <p style="text-align: center;">
-  **<em><span style="font-size: medium;">Eu não sou arteira. E agora?</span></em>**
+  **_<span style="font-size: medium;">Eu não sou arteira. E agora?</span>_**
 </p>
 
 <p style="text-align: justify;">
@@ -107,7 +107,7 @@ Agência: 3475-4
 
 Conta: 32.000-5
 
-<span style="font-size: x-small;">Fonte: </span><a href="http://globonews.globo.com/Jornalismo/GN/0,,17664,00.html" target="_blank"><span style="font-size: x-small;">Globo News</span></a>
+<span style="font-size: x-small;">Fonte: </span>[<span style="font-size: x-small;">Globo News</span>](http://globonews.globo.com/Jornalismo/GN/0,,17664,00.html) 
 
 <p style="text-align: justify;">
   Então é isso, bonita! A hora é de ajudar com algo material caso seja possível. Se não for, há outro tipo de ajuda que também pode fazer diferença: seu tempo, sua atenção e ainda sua oração. Se seu coração pede, não deixe de ajudar de alguma forma. No final das contas, a gente também ganha muito com isso. É dando que se recebe, lembra?
@@ -118,21 +118,21 @@ Conta: 32.000-5
 </p>
 
 <p style="text-align: justify;">
-  **<em><a href="http://www.trololodemulher.com.br/2010/01/11/viva-melhor-grupo-de-apoio-e-auto-ajuda-s-mulheres-mastectomizadas/" target="_self">Viva Melhor &#8211; Grupo de apoio e auto ajuda ás mulheres mastectomizadas.</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/01/11/viva-melhor-grupo-de-apoio-e-auto-ajuda-s-mulheres-mastectomizadas/" target="_self">Viva Melhor &#8211; Grupo de apoio e auto ajuda ás mulheres mastectomizadas.</a>_**
 </p>
 
 <p style="text-align: justify;">
-  **<em><a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_self">Móveis e objetos usados. Lixo? Não! Doação? Sim!</a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/" target="_self">Móveis e objetos usados. Lixo? Não! Doação? Sim!</a>_**
 </p>
 
 <p style="text-align: center;">
-  **<em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/category/social/" target="_self">Social</a></em>**
+  **_Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/category/social/" target="_self">Social</a>_**
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

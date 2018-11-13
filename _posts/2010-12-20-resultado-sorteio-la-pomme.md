@@ -22,11 +22,11 @@ Chegou o dia! É hoje que vamos saber, juntas, quem vai receber o [kit do **_Bic
 </p>
 
 <p style="text-align: justify;">
-  Viu? Dentre as 208 inscrições, a sorteada foi a de número 58: **<em>Talita Marques</em>**.
+  Viu? Dentre as 208 inscrições, a sorteada foi a de número 58: **_Talita Marques_**.
 </p>
 
 <p style="text-align: justify;">
-  <em>Êêêêêê</em>! Parabéns, Talita!!
+  _Êêêêêê_! Parabéns, Talita!!
 </p>
 
 <p style="text-align: justify;">
@@ -34,13 +34,13 @@ Chegou o dia! É hoje que vamos saber, juntas, quem vai receber o [kit do **_Bic
 </p>
 
 <p style="text-align: justify;">
-  …será? <em>Hummm</em>… vamos aguardar as cenas dos próximos capítulos?
+  …será? _Hummm_… vamos aguardar as cenas dos próximos capítulos?
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

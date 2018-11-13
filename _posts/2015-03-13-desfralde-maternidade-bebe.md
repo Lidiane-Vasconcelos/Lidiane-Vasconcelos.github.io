@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Aqui quem vos escreve é uma mãe vivenciando esse momento e, como você, fiquei bem ansiosa no início. Se essa etapa do desenvolvimento de sua cria ainda está por vir, posso te dizer: tenha paciência! O desfralde não vai acontecer como num passe de mágica de um dia pro outro, e nem no momento que você quiser. É sua criança quem vai dizer pra você, através do comportamento dela, quando será hora. E mais: a cada dia você contabiliza pequenas vitórias, bem pequenas mesmo. Mas é uma delícia concluir que, no final das contas, você vê a evolução da sua <em>gostosura</em>, <em>viu</em>?
+  Aqui quem vos escreve é uma mãe vivenciando esse momento e, como você, fiquei bem ansiosa no início. Se essa etapa do desenvolvimento de sua cria ainda está por vir, posso te dizer: tenha paciência! O desfralde não vai acontecer como num passe de mágica de um dia pro outro, e nem no momento que você quiser. É sua criança quem vai dizer pra você, através do comportamento dela, quando será hora. E mais: a cada dia você contabiliza pequenas vitórias, bem pequenas mesmo. Mas é uma delícia concluir que, no final das contas, você vê a evolução da sua _gostosura_, _viu_?
 </p>
 
 <p align="justify">
@@ -19,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank">**Dilema de mãe: a hora do desfralde… como fazer?**</a>
+  [**Dilema de mãe: a hora do desfralde… como fazer?**](http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/) 
 </p>
 
 <p align="justify">
-  Como conduzir esse processo? Essa é a pergunta que toda mãe se faz quando decide que é hora de começar. A verdade é que nem há um momento padrão para o início, e nem mesmo uma <em>receita de bolo</em> para a execução. Vamos combinar isso logo de início? No mais, bonita, informação salva! Essa é a razão do post: abastecê-la de informações e dicas valiosas sobre como agir nesta etapa do desenvolvimento infantil. Quem nos ajuda por aqui é a **Paolla Alberton, Médica Pediatra de Campinas**, e nossa consultora querida por aqui. Vem comigo… vem!
+  Como conduzir esse processo? Essa é a pergunta que toda mãe se faz quando decide que é hora de começar. A verdade é que nem há um momento padrão para o início, e nem mesmo uma _receita de bolo_ para a execução. Vamos combinar isso logo de início? No mais, bonita, informação salva! Essa é a razão do post: abastecê-la de informações e dicas valiosas sobre como agir nesta etapa do desenvolvimento infantil. Quem nos ajuda por aqui é a **Paolla Alberton, Médica Pediatra de Campinas**, e nossa consultora querida por aqui. Vem comigo… vem!
 </p>
 
 <p align="center">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  Você já deve ter ouvido falar que 2 anos é uma boa idade para dar início ao processo do desfralde, certo? Essa crença, contudo, é discutível. Na verdade, de acordo com a Paolla, “<em>não há &#8220;idade ideal&#8221; para o desfralde. O que sabemos é que, tipicamente, o desfralde só ocorre após o desenvolvimento motor e cognitivo adequado para a criança, ou seja, ela deve ser capaz de SENTIR que está com vontade de urinar ou evacuar, e ser capaz de SE LOCOMOVER até o banheiro para fazê-lo. Isso pode acontecer cedo ou tarde, mas a criança deve ser capaz de andar sozinha para que o desfralde seja bem-sucedido. Essa &#8220;imposição&#8221; para que a criança seja desfraldada aos 2 anos nada mais é do que social</em>.”
+  Você já deve ter ouvido falar que 2 anos é uma boa idade para dar início ao processo do desfralde, certo? Essa crença, contudo, é discutível. Na verdade, de acordo com a Paolla, “_não há &#8220;idade ideal&#8221; para o desfralde. O que sabemos é que, tipicamente, o desfralde só ocorre após o desenvolvimento motor e cognitivo adequado para a criança, ou seja, ela deve ser capaz de SENTIR que está com vontade de urinar ou evacuar, e ser capaz de SE LOCOMOVER até o banheiro para fazê-lo. Isso pode acontecer cedo ou tarde, mas a criança deve ser capaz de andar sozinha para que o desfralde seja bem-sucedido. Essa &#8220;imposição&#8221; para que a criança seja desfraldada aos 2 anos nada mais é do que social_.”
 </p>
 
 <p align="justify">
-  Dessa forma, já dá para entender bem: quem saberá quando começar é você, que é quem mais conhece a sua cria. Não dê muito ouvido aos <em>palpiteiros</em> de plantão, certo? E olhe que eles existem aos montes! <em>…tsc tsc tsc…</em> voltando: e neste ponto você me pergunta como identificar quando é hora de começar. Calma! Não criemos pânico! Atenção para os sinais, de acordo com a pediatra:
+  Dessa forma, já dá para entender bem: quem saberá quando começar é você, que é quem mais conhece a sua cria. Não dê muito ouvido aos _palpiteiros_ de plantão, certo? E olhe que eles existem aos montes! _…tsc tsc tsc…_ voltando: e neste ponto você me pergunta como identificar quando é hora de começar. Calma! Não criemos pânico! Atenção para os sinais, de acordo com a pediatra:
 </p>
 
 > <p align="justify">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.popsugar.com/moms/Easy-Ways-Potty-Train-Boys-27330399" target="_blank">Popsugar</a>
+  Imagem: [Popsugar](http://www.popsugar.com/moms/Easy-Ways-Potty-Train-Boys-27330399) 
 </p>
 
 <p align="center">
@@ -135,19 +135,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/" target="_blank">**Chegou o frio… e as doenças infantis: e agora?**</a>
+  [**Chegou o frio… e as doenças infantis: e agora?**](http://www.trololodemulher.com.br/2014/07/21/frio-doencas-infantis/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank">**Bebê sem assaduras: é possível sim, mamãe!**</a>
+  [**Bebê sem assaduras: é possível sim, mamãe!**](http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/) 
 </p>
 
 <p align="justify">
-  A **Dra. Paolla** também é blogueira, e escreve **textos informativos na linguagem de mãe**, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma <em>espiada</em> no blog da Dra Paolla, o <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">Mamãe Pediatra</a>, e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no <a href="http://mamaepediatra.blogspot.com.br/" target="_blank">blog</a> e aproveita!
+  A **Dra. Paolla** também é blogueira, e escreve **textos informativos na linguagem de mãe**, de modo que possamos usufruir de conhecimento, o que é imprescindível na criação de nossas crianças, e ainda trocarmos experiência com ela, que também é mãe. Isso não é bacana? Aposto que você gostou da ideia de dar uma _espiada_ no blog da Dra Paolla, o [Mamãe Pediatra](http://mamaepediatra.blogspot.com.br/) , e até acompanhá-la em suas publicações, certo? Eu imaginei… então, oh: se joga no [blog](http://mamaepediatra.blogspot.com.br/)  e aproveita!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

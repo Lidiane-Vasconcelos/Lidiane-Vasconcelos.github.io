@@ -41,14 +41,14 @@ O alongamento ainda não é muito utilizado, porém os benefícios que ele causa
   Tudo o que fazemos em melhoria para o nosso corpo será reflexo para o bem estar e a saúde, alongue-se com a ajuda de um profissional. Após o alongamento não esqueça de descontrair a musculatura para diminuir a tensão do local.
 </p>
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 _ _
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **<em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/tamires-roque/" target="_self">Tamires Fernandes Roque</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo</a></em>**
+      **_Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/tamires-roque/" target="_self">Tamires Fernandes Roque</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo</a>_**
     </td>
   </tr>
   
@@ -76,9 +76,9 @@ _ _
 **_[Dicas para automotivação na prática de exercícios físicos.](http://www.trololodemulher.com.br/2009/12/28/dicas-exercicios-fisicos/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a> > **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>** > Qual é a importância do alongamento?
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/corpo/">**_Corpo_**</a> > **_<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a>_** > Qual é a importância do alongamento?
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>

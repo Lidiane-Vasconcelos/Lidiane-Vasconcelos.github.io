@@ -9,7 +9,7 @@ permalink: /2009/08/26/descobertas-blogueira/
 categories:
   - Trololó
 ---
-A convidada desta semana é a Fabi, do blog “<a href="http://favasdesign.blogspot.com/" target="_blank">Favas a Contar</a>”. Conheci a Fabi não tem tanto tempo assim, e foi num momento em que ela estava dando os primeiros passos na blogosfera. Tinha iniciado o blog e já alertava naqueles primeiros posts que tinha muito a mostrar. E não é que era mesmo?
+A convidada desta semana é a Fabi, do blog “[Favas a Contar](http://favasdesign.blogspot.com/) ”. Conheci a Fabi não tem tanto tempo assim, e foi num momento em que ela estava dando os primeiros passos na blogosfera. Tinha iniciado o blog e já alertava naqueles primeiros posts que tinha muito a mostrar. E não é que era mesmo?
 
 Fabi tem se revelado uma mulher extremamente inquieta artisticamente, cheia de ideias fervilhando na cabeça. Tudo o que ela imagina vai tomando forma através das mãos, surgindo a partir de sua mente inventiva. Foi assim que já mudou o visual do blog algumas vezes, até chegar numa identidade que traduza o que ela tem a dizer e fazer. E cada vez que muda, tanto melhor vai ficando. Ela tem a habilidade de se reinventar cada vez melhor, mais bonita, mais criativa…
 
@@ -17,9 +17,9 @@ E tem sido assim também nas criações que ela vem dando corpo. Convites, lembr
 
 Há muitas e muitas favas a serem contadas…
 
-**_Por Fabi Carvalhos – <a href="http://favasdesign.blogspot.com/" target="_blank">Favas a Contar</a>_**
+**_Por Fabi Carvalhos – [Favas a Contar](http://favasdesign.blogspot.com/) _**
 
-Ser convidada para escrever no Bicha Fêmea pela Lidiane me fez sentir um enorme orgulho de mim mesma. Sim! Afinal é um blog super querido e acessado.  Bem, isso acabou me dando a ideia do que escrever para vocês, ou seja, todo o caminho que fiz até chegar ao “<a href="http://favasdesign.blogspot.com/" target="_blank">Favas a Contar</a>”.
+Ser convidada para escrever no Bicha Fêmea pela Lidiane me fez sentir um enorme orgulho de mim mesma. Sim! Afinal é um blog super querido e acessado.  Bem, isso acabou me dando a ideia do que escrever para vocês, ou seja, todo o caminho que fiz até chegar ao “[Favas a Contar](http://favasdesign.blogspot.com/) ”.
 
 **RECAPITULANDO…**
 

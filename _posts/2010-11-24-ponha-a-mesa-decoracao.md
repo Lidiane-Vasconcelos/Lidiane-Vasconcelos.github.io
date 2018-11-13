@@ -23,7 +23,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 </p>
 
 <p style="text-align: justify;">
-  Quer enfeitar a mesa com algo diferente e nem imagina como? Olha a sugestão na imagem e me diga o que há de complicado. Velas variadas e dispostas numa bandeja não compõe um arranjo para a mesa <em>facinho</em> de reproduzir?
+  Quer enfeitar a mesa com algo diferente e nem imagina como? Olha a sugestão na imagem e me diga o que há de complicado. Velas variadas e dispostas numa bandeja não compõe um arranjo para a mesa _facinho_ de reproduzir?
 </p>
 
 <p style="text-align: center;">
@@ -39,7 +39,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 </p>
 
 <p style="text-align: justify;">
-  Muitas vezes para encantar uma visita nem precisa de muito. Duvida? Olha bem para essa solução: um vaso transparente e belas flores, arrematado com um pedaço de fita em volta dele. Para prender a fita um pedaço de adesivo dupla face resolve. <em>Voilá</em>! É bonito, simples e elegante!
+  Muitas vezes para encantar uma visita nem precisa de muito. Duvida? Olha bem para essa solução: um vaso transparente e belas flores, arrematado com um pedaço de fita em volta dele. Para prender a fita um pedaço de adesivo dupla face resolve. _Voilá_! É bonito, simples e elegante!
 </p>
 
 <p style="text-align: center;">
@@ -47,7 +47,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 </p>
 
 <p style="text-align: justify;">
-  Seja colorido ou com cores mais discretas, o que vai depender do seu estilo, usar jogos americanos na hora de colocar a mesa faz diferença no visual como um todo. É gostoso ver a mesa arrumada e, se olhar bem, não dá trabalho algum. Onde estão seus jogos americanos? Escondidos na gaveta e fora de uso? Não vá me dizer que as pessoas comem espalhadas pela casa, e por isso você não usa&#8230;<em>tsc tsc tsc</em>
+  Seja colorido ou com cores mais discretas, o que vai depender do seu estilo, usar jogos americanos na hora de colocar a mesa faz diferença no visual como um todo. É gostoso ver a mesa arrumada e, se olhar bem, não dá trabalho algum. Onde estão seus jogos americanos? Escondidos na gaveta e fora de uso? Não vá me dizer que as pessoas comem espalhadas pela casa, e por isso você não usa&#8230;_tsc tsc tsc_
 </p>
 
 <p style="text-align: center;">
@@ -57,7 +57,7 @@ A **decoração de uma mesa** para uma ocasião especial pode ser diferente, sim
 Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O que é menos óbvio encanta, sim. A imagem serve como inspiração e arranca meus suspiros&#8230; é que um jogo assim, redondo, também não tenho (ainda)&#8230;
 
 <p style="text-align: center;">
-  **Sugestões de itens que vão deixar sua mesa arrumada, cheia de <em>bossa</em>, e com estilo…**
+  **Sugestões de itens que vão deixar sua mesa arrumada, cheia de _bossa_, e com estilo…**
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -70,15 +70,15 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Leve charme para sua mesa na hora do lanche usando um porta guardanapo bem assim: charmoso! Mesa bonita faz bem aos olhos…</em>
+        _Leve charme para sua mesa na hora do lanche usando um porta guardanapo bem assim: charmoso! Mesa bonita faz bem aos olhos…_
       </p>
       
       <p style="text-align: justify;">
-        <em>O porta guardanapo está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-guardanapo-arabesco/" target="_blank">**<em>Basta clicar</em>**</a><em>!</em>
+        _O porta guardanapo está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> _[**_Basta clicar_**](http://www.trololodemulher.com.br/loja/2010/10/21/porta-guardanapo-arabesco/) _!_
       </p>
     </td>
   </tr>
@@ -86,15 +86,15 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        <em> </em>
+        _ _
       </p>
       
       <p style="text-align: justify;">
-        <em>Porta Chá Poá é uma peça belíssima que organiza seus saquinhos de chá, mas também decora. Receber amigas para um chá da tarde vai arrancar suspiros e elogios… duvida? </em>
+        _Porta Chá Poá é uma peça belíssima que organiza seus saquinhos de chá, mas também decora. Receber amigas para um chá da tarde vai arrancar suspiros e elogios… duvida? _
       </p>
       
       <p style="text-align: justify;">
-        <em>O porta chá está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/porta-cha-poa/" target="_blank">**<em>Basta clicar</em>**</a><em>!</em>
+        _O porta chá está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> _[**_Basta clicar_**](http://www.trololodemulher.com.br/loja/2010/10/21/porta-cha-poa/) _!_
       </p>
     </td>
     
@@ -122,7 +122,7 @@ Quem disse que o apoio para pratos precisa ser, necessariamente, o retangular? O
   Será que existe forma mais didática de ensinar a criançada a forma básica de disposição dos objetos para a refeição quanto jogos americanos assim? Seja confeccionado com papel colorido ou EVA, com o lugar para cada item (prato, copo e talheres) recortados e colados onde devem ficar, as mães criativas têm na imagem uma sugestão para tornar a refeição das crianças ainda mais divertida, e elas nem se darão conta de que estão aprendendo algo novo&#8230;
 </p>
 
-_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
+_Imagens:_ [_Better Homes and Gardens_](http://www.bhg.com/) 
 
 **Mais no Bicha Fêmea…**
 
@@ -137,13 +137,13 @@ _Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Ga
 **_[Alternativas para decorar uma mesa de jantar.](http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/)_**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">**<em>Salas & Halls</em>**</a>> Ponha sua mesa para receber ou encantar os olhos!
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">**_Salas & Halls_**</a>> Ponha sua mesa para receber ou encantar os olhos!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!
+  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
 </p>
 
 <p style="text-align: center;">
-  **<em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em>**
+  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
 </p>

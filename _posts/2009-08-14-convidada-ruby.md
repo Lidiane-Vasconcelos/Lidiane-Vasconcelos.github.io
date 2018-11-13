@@ -12,7 +12,7 @@ categories:
 ---
 Quem ilustra o espaço Bicha Fêmea de Hoje é uma mulher que tem a criatividade á flor da pele, e que sai com intensidade pelos poros. Ruby é uma blogueira extremamente arteira, parece brincar de criar…
 
-Grudei no “<a href="http://www.meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>” desde quando o visitei pela primeira vez, e não foi a toa que [publiquei um post, há bastante tempo](http://www.trololodemulher.com.br/2009/04/03/bicha-fmea-em-foco-6/), para falar daquele espaço virtual que eu acabara de conhecer.
+Grudei no “[Meu Canto, Minha Prosa](http://www.meucantominhaprosa.blogspot.com/) ” desde quando o visitei pela primeira vez, e não foi a toa que [publiquei um post, há bastante tempo](http://www.trololodemulher.com.br/2009/04/03/bicha-fmea-em-foco-6/), para falar daquele espaço virtual que eu acabara de conhecer.
 
 Quando a convidei para escrever no Bicha, logo imaginei que talvez saísse um _PAP_ de mais alguma de suas deliciosas artes, por ter feito uma ideia mental da _inventadeira_ de _mimos_ que ela é. Mas qual? A bonita me surpreende, assim como em cada nova criação que sai de suas mãos de fada, e ela me manda um texto tão diretamente provocatico quanto este…
 
@@ -22,7 +22,7 @@ E como há muito nas entrelinhas, o que faz do texto algo bastante reflexivo, ac
 
 Bom fim de semana para você!
 
-**_Por Ruby Fernandes – <a href="http://www.meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>_**
+**_Por Ruby Fernandes – [Meu Canto, Minha Prosa](http://www.meucantominhaprosa.blogspot.com/) _**
 
 **Dom e Responsabilidade**
 
@@ -48,6 +48,6 @@ Dinheiro não é tudo mas, felicidade &#8211; a minha, a sua e da do próximo &#
 
 Bjokas
 
-<a href="http://www.meucantominhaprosa.blogspot.com/" target="_blank">Ruby</a>
+[Ruby](http://www.meucantominhaprosa.blogspot.com/) 
 
-Imagens: <a href="http://www.moodclipart.com/" target="_blank">Mood Clip Art</a>
+Imagens: [Mood Clip Art](http://www.moodclipart.com/) 

@@ -11,11 +11,11 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Se sua mãe insistia tanto para você fazer a cama todos os dias, saiba: ela entendia das coisas! Essa tarefa, que é das mais simples e faria muito bem pra você e pra casa se fosse diária, surte efeitos muito positivos. **Fazer a cama** diariamente já te dá uma sensação de quarto mais limpo visualmente, e organizado. A sensação é tão boa que há uma motivação imediata para colocar toda a <a href="http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/" target="_blank">casa em ordem</a> também. Se você é dessas pessoas que têm dificuldade de se organizar no dia a dia, começar por arrumar a cama diariamente é uma estratégia excelente. Esse é, na verdade, um dos <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">18 hábitos da pessoa organizada</a>. Experimente!
+  Se sua mãe insistia tanto para você fazer a cama todos os dias, saiba: ela entendia das coisas! Essa tarefa, que é das mais simples e faria muito bem pra você e pra casa se fosse diária, surte efeitos muito positivos. **Fazer a cama** diariamente já te dá uma sensação de quarto mais limpo visualmente, e organizado. A sensação é tão boa que há uma motivação imediata para colocar toda a [casa em ordem](http://www.trololodemulher.com.br/2014/08/18/casa-em-ordem-2/)  também. Se você é dessas pessoas que têm dificuldade de se organizar no dia a dia, começar por arrumar a cama diariamente é uma estratégia excelente. Esse é, na verdade, um dos [18 hábitos da pessoa organizada](http://www.decoracaodacasa.com/organizacao-da-casa/) . Experimente!
 </p>
 
 <p align="justify">
-  Além do mais, quando chegar á noite, a sensação de deitar numa cama tão bonita gera bem-estar. Esse é uma dos cuidados essenciais para que você tenha um <a href="http://www.decoracaodacasa.com/quarto-calmo-e-relaxante/" target="_blank">quarto calmo e relaxante</a>. Então, fica a dica: escolha jogos de cama lindos de viver e passe a fazer a cama todos os dias.
+  Além do mais, quando chegar á noite, a sensação de deitar numa cama tão bonita gera bem-estar. Esse é uma dos cuidados essenciais para que você tenha um [quarto calmo e relaxante](http://www.decoracaodacasa.com/quarto-calmo-e-relaxante/) . Então, fica a dica: escolha jogos de cama lindos de viver e passe a fazer a cama todos os dias.
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
+  Via [Casa Abril](http://casa.abril.com.br/) 
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="https://www.flickr.com/photos/elissamae/2325264167/in/photostream/" target="_blank">Flickr</a>
+  Via [Flickr](https://www.flickr.com/photos/elissamae/2325264167/in/photostream/) 
 </p>
 
 <p align="center">
@@ -87,11 +87,11 @@ categories:
 </p>
 
 <p align="justify">
-  2 – Não esqueça de trocar a roupa de cama periodicamente. Aqui em casa eu faço semanalmente. Há quem faça a cada 15 dias. Isso fica a seu critério. O importante, neste caso, é prestar atenção ao cheiro da cama, porque dormir sentindo um odor duvidoso põe por água abaixo qualquer tentativa de fazer do quarto o melhor dos mundos. Cama com aroma gostoso de limpeza certamente entraria no rol dos <a href="http://www.trololodemulher.com.br/2009/03/11/cheiros/" target="_blank">cheiros da casa que fazem bem</a>. Concorda?
+  2 – Não esqueça de trocar a roupa de cama periodicamente. Aqui em casa eu faço semanalmente. Há quem faça a cada 15 dias. Isso fica a seu critério. O importante, neste caso, é prestar atenção ao cheiro da cama, porque dormir sentindo um odor duvidoso põe por água abaixo qualquer tentativa de fazer do quarto o melhor dos mundos. Cama com aroma gostoso de limpeza certamente entraria no rol dos [cheiros da casa que fazem bem](http://www.trololodemulher.com.br/2009/03/11/cheiros/) . Concorda?
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

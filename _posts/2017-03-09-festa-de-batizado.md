@@ -11,7 +11,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  **Festa de batizado** geralmente é um evento bastante intimista, oferecida para os padrinhos, avós e tios (irmãos dos pais), mas não é por isso que será negligenciada em alguns detalhes. Suas escolhas serão pautadas pelo horário de término da cerimônia na igreja, a partir daí é que você decide: será um café da manhã, <em>brunch</em> (café da manhã mais reforçado) ou um almoço? A seguir quero te mostrar alguns pontos para você pensar, e te ajudar no planejamento de um dos momentos mais importantes na vida de um bebê.
+  **Festa de batizado** geralmente é um evento bastante intimista, oferecida para os padrinhos, avós e tios (irmãos dos pais), mas não é por isso que será negligenciada em alguns detalhes. Suas escolhas serão pautadas pelo horário de término da cerimônia na igreja, a partir daí é que você decide: será um café da manhã, _brunch_ (café da manhã mais reforçado) ou um almoço? A seguir quero te mostrar alguns pontos para você pensar, e te ajudar no planejamento de um dos momentos mais importantes na vida de um bebê.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/deweggis/14158366807/" target="_blank">DEWEGGIS</a> via <a href="http://foter.com/re/b492f1" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nd/2.0/" target="_blank">CC BY-ND</a>
+  Imagem: [DEWEGGIS](https://www.flickr.com/photos/deweggis/14158366807/)  via [Foter.com](http://foter.com/re/b492f1)  / [CC BY-ND](http://creativecommons.org/licenses/by-nd/2.0/) 
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Artur, meu menino que hoje tem 4 anos, no dia do seu batizado, com 1 ano e 2 meses.</em>
+  _Artur, meu menino que hoje tem 4 anos, no dia do seu batizado, com 1 ano e 2 meses._
 </p>
 
 <p align="justify">
-  Não há uma idade determinada para batizar o pequeno. Em geral, o batismo é feito com a criança ainda bebê, e considerando a minha experiência pessoal, concordo que é bem melhor. Adiei o batizado de Artur e, com mais de 1 ano, não foi das tarefas mais fáceis mantê-lo quietinho… <em>rsrsrsrs</em>… se ele fosse menor, tenho certeza de que teria sido muito mais fácil. Essa é minha dica <em>superultramegablaster</em>: **batize a cria quando ainda for um bebê.**
+  Não há uma idade determinada para batizar o pequeno. Em geral, o batismo é feito com a criança ainda bebê, e considerando a minha experiência pessoal, concordo que é bem melhor. Adiei o batizado de Artur e, com mais de 1 ano, não foi das tarefas mais fáceis mantê-lo quietinho… _rsrsrsrs_… se ele fosse menor, tenho certeza de que teria sido muito mais fácil. Essa é minha dica _superultramegablaster_: **batize a cria quando ainda for um bebê.**
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  Geralmente a criança usa uma roupa branca, que simboliza a pureza do bebê. Há uma roupa bastante tradicional, o **<em>mandrião</em>**, um vestido longo branco, que é usado por meninos e meninas. A peça costuma passar de geração em geração, e pode ser acompanhada com touca. Quer comerçar essa tadição na família? Veja essas sugestões:
+  Geralmente a criança usa uma roupa branca, que simboliza a pureza do bebê. Há uma roupa bastante tradicional, o **_mandrião_**, um vestido longo branco, que é usado por meninos e meninas. A peça costuma passar de geração em geração, e pode ser acompanhada com touca. Quer comerçar essa tadição na família? Veja essas sugestões:
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Mandrião para batismo em cambraia de algodão. Trabalho delicado com bico de algodão em toda a peça. Fechamento frontal com 3 botões. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/mandriao-george" target="_blank"><em>Clique aqui e veja mais detalhes sobre a peça</em></a><em>. | 2 &#8211; Mandrião para batismo em cambraia de algodão. Delicado bordado manual em linha branca. Trabalho delicado com bico de algodão em toda a peça. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/mandriao-isa" target="_blank"><em>Clique aqui e veja mais detalhes sobre a peça</em></a><em>. | 3 &#8211; Mandrião em cambraia de algodão branca. Gola em Renda Renascença. Saias com detalhes em renda Renascença e bordado manual. Mangas com laço de fita em cetim branco. Fechamento posterior com botões. Por ser um trabalho manual, os desenhos da renda Renascença podem sofrer variações. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/mandriao-renascenca-ane-cambraia-de-algodao" target="_blank"><em>Clique aqui e veja mais detalhes sobre a peça</em></a><em>. Esses produtos estão disponíveis online, a um clique, na </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>loja virtual XiqueXique Brasil</em></a><em>.</em>
+  _1 &#8211; Mandrião para batismo em cambraia de algodão. Trabalho delicado com bico de algodão em toda a peça. Fechamento frontal com 3 botões. _[_Clique aqui e veja mais detalhes sobre a peça_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/mandriao-george) _. | 2 &#8211; Mandrião para batismo em cambraia de algodão. Delicado bordado manual em linha branca. Trabalho delicado com bico de algodão em toda a peça. _[_Clique aqui e veja mais detalhes sobre a peça_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/mandriao-isa) _. | 3 &#8211; Mandrião em cambraia de algodão branca. Gola em Renda Renascença. Saias com detalhes em renda Renascença e bordado manual. Mangas com laço de fita em cetim branco. Fechamento posterior com botões. Por ser um trabalho manual, os desenhos da renda Renascença podem sofrer variações. _[_Clique aqui e veja mais detalhes sobre a peça_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/mandriao-renascenca-ane-cambraia-de-algodao) _. Esses produtos estão disponíveis online, a um clique, na _[_loja virtual XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _._
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Linda e clássica Touca para Batizado em Renda Renascença, com forro em macia cambraia de algodão. Fechamento frontal (queixo do bebê) com laço de fita cetim de largura 7mm, na cor branca. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/toucas-e-tiaras-para-batizado/touca-batizado-renda-renascenca" target="_blank"><em>Clique aqui e veja mais detalhes sobre esse produto</em></a><em>. | 2 &#8211; Linda touca para Batizado modelo camponesa. Touca em cambraia de algodão com Renda Renascença. Forro em macia cambraia de algodão. Fechamento frontal (queixo do bebê) com laço de fita cetim de largura 7mm, na cor branca. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/toucas-e-tiaras-para-batizado/touca-batizado-renda-renascenca-cambraia-de-algodao" target="_blank"><em>Clique aqui e veja mais detalhes sobre esse produto</em></a><em>. Esses produtos estão disponíveis online, a um clique, na </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>loja virtual XiqueXique Brasil</em></a><em>.</em>
+  _1 &#8211; Linda e clássica Touca para Batizado em Renda Renascença, com forro em macia cambraia de algodão. Fechamento frontal (queixo do bebê) com laço de fita cetim de largura 7mm, na cor branca. _[_Clique aqui e veja mais detalhes sobre esse produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/toucas-e-tiaras-para-batizado/touca-batizado-renda-renascenca) _. | 2 &#8211; Linda touca para Batizado modelo camponesa. Touca em cambraia de algodão com Renda Renascença. Forro em macia cambraia de algodão. Fechamento frontal (queixo do bebê) com laço de fita cetim de largura 7mm, na cor branca. _[_Clique aqui e veja mais detalhes sobre esse produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/toucas-e-tiaras-para-batizado/touca-batizado-renda-renascenca-cambraia-de-algodao) _. Esses produtos estão disponíveis online, a um clique, na _[_loja virtual XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _._
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Camisa e Macacão em algodão, perfeito para batizado. Macacão em fustão cordãozinho branco. Pala em piquê com bordado de poás branco. Camisa em tecido de algodão com fechamento frontal por botões. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/macacao-com-camisa-fustao-poa.phtml" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. | 2 &#8211; Camisa e Macacão em algodão, perfeito para batizado. Macacão em fustão cordãozinho branco. Pala de 7cm em renda renascença. Camisa em tecido de algodão com fechamento frontal por botões. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/macacao-renda-renascenca" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Manta em tricô para o bebê perfeita para momentos memoráveis como o batizado. Protege o bebês de ventos e de temperaturas mais amenas, sem super aquecê-lo. Produzida à máquina, artesanalmente, com linha soft de alta qualidade com composição de 50% acrílico e 50% algodão, possui toque suave. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/manta-trico-off-white" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. <em>Esses produtos estão disponíveis online, a um clique, na </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>loja virtual XiqueXique Brasil</em></a><em>.</em></em>
+  _1 &#8211; Camisa e Macacão em algodão, perfeito para batizado. Macacão em fustão cordãozinho branco. Pala em piquê com bordado de poás branco. Camisa em tecido de algodão com fechamento frontal por botões. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/macacao-com-camisa-fustao-poa.phtml) _. | 2 &#8211; Camisa e Macacão em algodão, perfeito para batizado. Macacão em fustão cordãozinho branco. Pala de 7cm em renda renascença. Camisa em tecido de algodão com fechamento frontal por botões. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/roupas-e-acessorios-batizado/macacao-renda-renascenca) _. | 3 &#8211; Manta em tricô para o bebê perfeita para momentos memoráveis como o batizado. Protege o bebês de ventos e de temperaturas mais amenas, sem super aquecê-lo. Produzida à máquina, artesanalmente, com linha soft de alta qualidade com composição de 50% acrílico e 50% algodão, possui toque suave. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/bebe/manta-trico-off-white) _. _Esses produtos estão disponíveis online, a um clique, na _[_loja virtual XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _.__
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Vestido casinha de abelha / ponto smock em fustão cordãozinho algodão. Gola em casinha de abelha (ponto smock) e arremate das mangas com delicado bico. Bordado frontal floral branco. Barrado com delicado bico de renda Renascença. Fechamento posterior com botões de pressão: branco ou prata. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/bebe-vestido/vestido-casinha-de-abelha-renda-renascenca-6-meses" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. | 2 &#8211; Vestido em delicado tecido de cambraia de algodão. Detalhes e nesgas no corpo do vestido em linha de algodão. Acabamento de manga, gola e barra em bico de linha de algodão. Delicado bordado manual. Fechamento posterior com 2 botões de casa. Forro em cambraia de algodão e fechamento com 21 botões posteriores. </em><a href="https://www.xiquexiquebrasil.com.br/renda-renascenca/batizado/vestido-renda-renascenca-branco-maria" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Vestido em delicado tecido de cambraia de algodão. Pala toda em renda Renascença. Acabamento de manga, gola e barra em renda Renascença. Barrado triplo com detalhe em renda Renascença. Fechamento posterior com botões de casa. </em><a href="https://www.xiquexiquebrasil.com.br/renda-renascenca/batizado/vestido-renda-renascenca-tres-ordens-6-meses" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. <em>Esses produtos estão disponíveis online, a um clique, na </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>loja virtual XiqueXique Brasil</em></a><em>.</em></em>
+  _1 &#8211; Vestido casinha de abelha / ponto smock em fustão cordãozinho algodão. Gola em casinha de abelha (ponto smock) e arremate das mangas com delicado bico. Bordado frontal floral branco. Barrado com delicado bico de renda Renascença. Fechamento posterior com botões de pressão: branco ou prata. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/bebe/bebe-vestido/vestido-casinha-de-abelha-renda-renascenca-6-meses) _. | 2 &#8211; Vestido em delicado tecido de cambraia de algodão. Detalhes e nesgas no corpo do vestido em linha de algodão. Acabamento de manga, gola e barra em bico de linha de algodão. Delicado bordado manual. Fechamento posterior com 2 botões de casa. Forro em cambraia de algodão e fechamento com 21 botões posteriores. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/renda-renascenca/batizado/vestido-renda-renascenca-branco-maria) _. | 3 &#8211; Vestido em delicado tecido de cambraia de algodão. Pala toda em renda Renascença. Acabamento de manga, gola e barra em renda Renascença. Barrado triplo com detalhe em renda Renascença. Fechamento posterior com botões de casa. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/renda-renascenca/batizado/vestido-renda-renascenca-tres-ordens-6-meses) _. _Esses produtos estão disponíveis online, a um clique, na _[_loja virtual XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _.__
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Sapatinho em renda Renascença na cor branca. Amarração por laço de fita de cetim na cor branca. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-branco" target="_blank"><em>Clique aqui e veja mais detalhes sobre esse produto</em></a><em>. | 2 – Sapatinho produzido com pontos grão de arroz e pipoca em processo automatizado. Utiliza linha Soft, 50% acrílico e 50% algodão, que deixa os sapatinhos com leve brilho e aparência de sempre novo. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-botao" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. <em>Esses produtos estão disponíveis online, a um clique, na </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>loja virtual XiqueXique Brasil</em></a><em>.</em></em>
+  _1 &#8211; Sapatinho em renda Renascença na cor branca. Amarração por laço de fita de cetim na cor branca. _[_Clique aqui e veja mais detalhes sobre esse produto_](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-renascenca-branco) _. | 2 – Sapatinho produzido com pontos grão de arroz e pipoca em processo automatizado. Utiliza linha Soft, 50% acrílico e 50% algodão, que deixa os sapatinhos com leve brilho e aparência de sempre novo. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/bebe/sapatinhos/sapatinho-bebe-trico-branco-botao) _. _Esses produtos estão disponíveis online, a um clique, na _[_loja virtual XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _.__
 </p>
 
 <p align="justify">
@@ -99,7 +99,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Toalha lisa em cambraia de linho branco com barrado em delicado trabalho de Renascença. Bordado em linha na cor branca, com nome (até 2 nomes). </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/batizado-e-casamento-toalha-batizado/toalha-batizado-personalizada-renda-renascenca-nome" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. | 2 &#8211; Toalha lisa em cambraia de linho branco com barrado em delicado trabalho de Renascença. Bordado em linha na cor branca, com nome (até 2 nomes) e data do evento. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/batizado-e-casamento-toalha-batizado/toalha-batizado-personalizada-renda-renascenca-media" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. | 3 &#8211; Toalha de batizado em cambraia de linho. Bordado manual com o nome Meu Batizado. Barrado em renda Renascença. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/toalha-batizado-renascenca-meu-batizado-media" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. Esses produtos estão disponíveis online, a um clique, na </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>loja virtual XiqueXique Brasil</em></a><em>.</em>
+  _1 &#8211; Toalha lisa em cambraia de linho branco com barrado em delicado trabalho de Renascença. Bordado em linha na cor branca, com nome (até 2 nomes). _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/batizado-e-casamento-toalha-batizado/toalha-batizado-personalizada-renda-renascenca-nome) _. | 2 &#8211; Toalha lisa em cambraia de linho branco com barrado em delicado trabalho de Renascença. Bordado em linha na cor branca, com nome (até 2 nomes) e data do evento. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/batizado-e-casamento-toalha-batizado/toalha-batizado-personalizada-renda-renascenca-media) _. | 3 &#8211; Toalha de batizado em cambraia de linho. Bordado manual com o nome Meu Batizado. Barrado em renda Renascença. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/toalha-batizado-renascenca-meu-batizado-media) _. Esses produtos estão disponíveis online, a um clique, na _[_loja virtual XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _._
 </p>
 
 <p align="justify">
@@ -115,11 +115,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Clique aqui e veja essa </em><a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank"><em>receita de pão caseiro de abobrinha</em></a><em>… das mais fáceis</em>!
+  _Clique aqui e veja essa _[_receita de pão caseiro de abobrinha_](http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/) _… das mais fáceis_!
 </p>
 
 <p align="justify">
-  Se for um pouco mais tarde, o café da manhã pode ganhar um reforço, e você servirá um <em>brunch, </em>que é um café da manhã com mistura de almoço leve. Você serve as mesmas coisas, mas acrescenta salada, torta salgada ou quiche, e alguma sobremesa. Se o batizado terminar no final da manhã, o almoço pode ser servido na casa dos pais, avós ou padrinhos. O que irá à mesa combina com seu gosto e o que você sabe que agradará seus convidados. Já à tarde, após o almoço, pode ser servido o café ou chá da tarde, com suco, sanduíches, salgados, pão, torta, docinhos. O que é certo é que uma mesa bem vestida fará jus ao momento tão especial, não é verdade? Veja sugestões para receber de forma linda e elegante neste dia:
+  Se for um pouco mais tarde, o café da manhã pode ganhar um reforço, e você servirá um _brunch, _que é um café da manhã com mistura de almoço leve. Você serve as mesmas coisas, mas acrescenta salada, torta salgada ou quiche, e alguma sobremesa. Se o batizado terminar no final da manhã, o almoço pode ser servido na casa dos pais, avós ou padrinhos. O que irá à mesa combina com seu gosto e o que você sabe que agradará seus convidados. Já à tarde, após o almoço, pode ser servido o café ou chá da tarde, com suco, sanduíches, salgados, pão, torta, docinhos. O que é certo é que uma mesa bem vestida fará jus ao momento tão especial, não é verdade? Veja sugestões para receber de forma linda e elegante neste dia:
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Jogos americanos em renda Renascença, todos da loja virtual </em><a href="http://bit.ly/xxb-tololo" target="_blank"><em>XiqueXique Brasil</em></a><em>. </em><a href="http://bit.ly/jogoamericano-trololo" target="_blank"><em>Clique aqui</em></a><em> para conferir!</em>
+  _Jogos americanos em renda Renascença, todos da loja virtual _[_XiqueXique Brasil_](http://bit.ly/xxb-tololo) _. _[_Clique aqui_](http://bit.ly/jogoamericano-trololo) _ para conferir!_
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Guardanapos lindos, elegantes e sofisticados, todos da loja virtual </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>XiqueXique Brasil</em></a><em>. </em><a href="https://www.xiquexiquebrasil.com.br/casa/guardanapo" target="_blank"><em>Clique aqui para conferir</em></a><em>.</em>
+  _Guardanapos lindos, elegantes e sofisticados, todos da loja virtual _[_XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _. _[_Clique aqui para conferir_](https://www.xiquexiquebrasil.com.br/casa/guardanapo) _._
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Porta-guardanapos Anjo, </em>feitos artesanalmente com palha de milho. Argola para encaixar o guardanapo em madeira. Veja esses e outros porta-guardanapos para compor lindamente a sua mesa. <a href="https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo" target="_blank">Clique aqui e visite a XiqueXique Brasil</a>.
+  _Porta-guardanapos Anjo, _feitos artesanalmente com palha de milho. Argola para encaixar o guardanapo em madeira. Veja esses e outros porta-guardanapos para compor lindamente a sua mesa. [Clique aqui e visite a XiqueXique Brasil](https://www.xiquexiquebrasil.com.br/casa/porta-guardanapo) .
 </p>
 
 <p align="justify">
@@ -159,7 +159,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://acreativemint.typepad.com/a_creative_mint/" target="_blank">A Creative Mint</a>
+  Via [A Creative Mint](http://acreativemint.typepad.com/a_creative_mint/) 
 </p>
 
 <p align="center">
@@ -167,11 +167,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://historiasdecasa.com.br/2015/12/18/florindo-tudo-branco-flores/#" target="_blank">Histórias de Casa</a>
+  Via [Histórias de Casa](http://historiasdecasa.com.br/2015/12/18/florindo-tudo-branco-flores/#) 
 </p>
 
 <p align="center">
-  <em>Clique aqui e veja no blog </em><a href="http://historiasdecasa.com.br/2015/12/18/florindo-tudo-branco-flores/#" target="_blank"><em>Histórias de Casa – Espaços com Alma</em></a><em> o passo a passo pra você montar esse arranjo lindo de viver!</em>
+  _Clique aqui e veja no blog _[_Histórias de Casa – Espaços com Alma_](http://historiasdecasa.com.br/2015/12/18/florindo-tudo-branco-flores/#) _ o passo a passo pra você montar esse arranjo lindo de viver!_
 </p>
 
 <p align="justify">
@@ -191,11 +191,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>1 &#8211; Sache em tecido piquê branco. Aplique frontal de flor em renda renascença com 7cm de diâmetro. Fechamento com fita de cetim branca. Enchimento com fibra de poliéster siliconizada 100% virgem. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/lembrancinhas/sache-renda-renascenca-flor-pique" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. | 2 &#8211; Sachê em tecido piquê branco redondo. Flor renda renda renascença aplicada. Enchimento com fibra de poliéster siliconizada 100% virgem. Medidas &#8211; Diâmetro 8,5cm  &#8211; Altura 4cm. </em><a href="https://www.xiquexiquebrasil.com.br/batizado-e-casamento/lembrancinhas/sache-renda-renascenca-flor-redondo" target="_blank"><em>Clique aqui e veja mais detalhes sobre o produto</em></a><em>. Esses produtos estão disponíveis online, a um clique, na </em><a href="https://www.xiquexiquebrasil.com.br/" target="_blank"><em>loja virtual XiqueXique Brasil</em></a><em>.</em>
+  _1 &#8211; Sache em tecido piquê branco. Aplique frontal de flor em renda renascença com 7cm de diâmetro. Fechamento com fita de cetim branca. Enchimento com fibra de poliéster siliconizada 100% virgem. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/lembrancinhas/sache-renda-renascenca-flor-pique) _. | 2 &#8211; Sachê em tecido piquê branco redondo. Flor renda renda renascença aplicada. Enchimento com fibra de poliéster siliconizada 100% virgem. Medidas &#8211; Diâmetro 8,5cm  &#8211; Altura 4cm. _[_Clique aqui e veja mais detalhes sobre o produto_](https://www.xiquexiquebrasil.com.br/batizado-e-casamento/lembrancinhas/sache-renda-renascenca-flor-redondo) _. Esses produtos estão disponíveis online, a um clique, na _[_loja virtual XiqueXique Brasil_](https://www.xiquexiquebrasil.com.br/) _._
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

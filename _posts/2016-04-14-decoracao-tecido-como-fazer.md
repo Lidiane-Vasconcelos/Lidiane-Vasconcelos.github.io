@@ -11,7 +11,7 @@ categories:
   - Faça Você Mesma
 ---
 <p align="justify">
-  Ideias simples, rápidas e práticas, que possam dar uma carinha de renovação na sua decoração… que tal? Esta é a ideia deste post, e tudo fazendo uso da variedade visual que os tecidos podem dar. Repare nas ideias a seguir: algumas bem simples, outras que talvez exijam um tantinho mais de habilidade ou de alguma ajuda… mas bem pouca. O resultado pode ser algo surpreendente e novo em sua casa, o que faz muito bem aos olhos e coração, <em>hã</em>? Vamos ás ideias?
+  Ideias simples, rápidas e práticas, que possam dar uma carinha de renovação na sua decoração… que tal? Esta é a ideia deste post, e tudo fazendo uso da variedade visual que os tecidos podem dar. Repare nas ideias a seguir: algumas bem simples, outras que talvez exijam um tantinho mais de habilidade ou de alguma ajuda… mas bem pouca. O resultado pode ser algo surpreendente e novo em sua casa, o que faz muito bem aos olhos e coração, _hã_? Vamos ás ideias?
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank">**Quer uma mesinha lateral na sua sala? Improvisa!**</a>
+  [**Quer uma mesinha lateral na sua sala? Improvisa!**](http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/) 
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  Depois que você estiver com seus quadradinhos devidamente revestidos, monte sua cabeceira de <em>patchwork</em> colando os pedaços na parede com fita adesiva <em>superultramega</em> colante. Isso não é difícil de achar. Aqui em casa, inclusive, há um painel de mdf no quarto de Artur preso na parede com esse tipo de fita… fácil fácil de encontrar. Se joga na ideia!
+  Depois que você estiver com seus quadradinhos devidamente revestidos, monte sua cabeceira de _patchwork_ colando os pedaços na parede com fita adesiva _superultramega_ colante. Isso não é difícil de achar. Aqui em casa, inclusive, há um painel de mdf no quarto de Artur preso na parede com esse tipo de fita… fácil fácil de encontrar. Se joga na ideia!
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank">**Cabeceira com enchimento “fofinho”: como fazer?**</a>
+  [**Cabeceira com enchimento “fofinho”: como fazer?**](http://www.decoracaodacasa.com/cabeceira-enchimento/) 
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">**Como decorar a parede com quadros.**</a>
+  [**Como decorar a parede com quadros.**](http://www.decoracaodacasa.com/decoracao-parede-quadros/) 
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  Eu mesma já apliquei ideia semelhante aqui em casa, a diferença é que escolhi um tecido de cor uniforme. Mas isso é questão de estilo, certo? O importante é você deixar seu escritório com sua cara de acordo com a estampa do tecido que você escolher. O princípio é o mesmo dos quadros acima: moldura de madeira com tecido revestindo a peça, com grampos nas laterais. Use alfintes de cabeça colorida para prender seus papeis, fotos ou recados e dê vida nova ao seu <em>home office</em>. Inspire-se!
+  Eu mesma já apliquei ideia semelhante aqui em casa, a diferença é que escolhi um tecido de cor uniforme. Mas isso é questão de estilo, certo? O importante é você deixar seu escritório com sua cara de acordo com a estampa do tecido que você escolher. O princípio é o mesmo dos quadros acima: moldura de madeira com tecido revestindo a peça, com grampos nas laterais. Use alfintes de cabeça colorida para prender seus papeis, fotos ou recados e dê vida nova ao seu _home office_. Inspire-se!
 </p>
 
 <p align="justify">
@@ -95,15 +95,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/home-office-2/" target="_blank">**Para um home office cheio de bossa, inspire-se na Lia!**</a>
+  [**Para um home office cheio de bossa, inspire-se na Lia!**](http://www.decoracaodacasa.com/home-office-2/) 
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

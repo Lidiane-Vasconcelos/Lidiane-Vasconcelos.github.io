@@ -19,43 +19,43 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://foter.com/author/a4d011" target="_blank">kaichanvong</a> on <a href="http://foter.com/re/7fed48" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
+  Imagem: [kaichanvong](http://foter.com/author/a4d011)  on [Foter.com](http://foter.com/re/7fed48)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) 
 </p>
 
 <p align="justify">
-  O método a que me refiro é o FLY, sigla em inglês para &#8220;<em>finally loving yourself</em>&#8221; &#8211; finalmente amando a si mesma, em tradução livre. Ele foi criado por uma americana, a Marla Cilley, na década de 90, e desde então vem sendo difundido no mundo todo! Quer aprender? Estou ensinando o FLY para um grupo de mulheres no Whatsapp desde Outubro, e finalizando o ciclo com elas. Em 1º de Fevereiro de 2018 vou iniciar outro ciclo, e este post é meu convite para você fazer parte desse grupo. Confira a percepção de quem participou:
+  O método a que me refiro é o FLY, sigla em inglês para &#8220;_finally loving yourself_&#8221; &#8211; finalmente amando a si mesma, em tradução livre. Ele foi criado por uma americana, a Marla Cilley, na década de 90, e desde então vem sendo difundido no mundo todo! Quer aprender? Estou ensinando o FLY para um grupo de mulheres no Whatsapp desde Outubro, e finalizando o ciclo com elas. Em 1º de Fevereiro de 2018 vou iniciar outro ciclo, e este post é meu convite para você fazer parte desse grupo. Confira a percepção de quem participou:
 </p>
 
 <p align="justify">
-  <em>“Estou gostando da sequência que o método oferece, muito bom para estimular a auto-estima&#8221; **Lis Saldanha, em 27/10/2017**</em>
+  _“Estou gostando da sequência que o método oferece, muito bom para estimular a auto-estima&#8221; **Lis Saldanha, em 27/10/2017**_
 </p>
 
 <p align="justify">
-  <em>&#8220;Estou adorando! Já venho sentindo mudanças na minha rotina diária. Está sendo muito impactante mesmo, inclusive as pessoas daqui de casa estão sentindo isso.&#8221; **Ana Claudia, em 1° de Novembro de 2017**</em>
+  _&#8220;Estou adorando! Já venho sentindo mudanças na minha rotina diária. Está sendo muito impactante mesmo, inclusive as pessoas daqui de casa estão sentindo isso.&#8221; **Ana Claudia, em 1° de Novembro de 2017**_
 </p>
 
 <p align="justify">
-  <em><em>&#8220;Lidi, gratidão por me apresentar esse método, estou gostando bastante, é impressionante como pequenas mudanças fazem uma diferença enorme em nossa rotina, já sinto diferença, animada para as próximas etapas.&#8221; **Aline, em 1° de Novembro de 2017**</em></em>
+  __&#8220;Lidi, gratidão por me apresentar esse método, estou gostando bastante, é impressionante como pequenas mudanças fazem uma diferença enorme em nossa rotina, já sinto diferença, animada para as próximas etapas.&#8221; **Aline, em 1° de Novembro de 2017**__
 </p>
 
 <p align="justify">
-  <em>&#8220;<em>O que mais gostei no FLY foi a ideia de dividir pra conquistar. Antes eu sempre ficava adiando organizar as coisas porque não tinha tempo suficiente, agora aprendi que cada 15 minutinhos conta, e no fim faz uma grande diferença.&#8221; **Tânia, em 20 de Novembro**</em></em>
+  _&#8220;_O que mais gostei no FLY foi a ideia de dividir pra conquistar. Antes eu sempre ficava adiando organizar as coisas porque não tinha tempo suficiente, agora aprendi que cada 15 minutinhos conta, e no fim faz uma grande diferença.&#8221; **Tânia, em 20 de Novembro**__
 </p>
 
 <p align="justify">
-  <em><em>&#8220;Reavaliando, o que mais gostei foi a leveza que é dado aos passinhos! Não me sinto sobrecarregada e eles tem algo de especial, pois mexem com o meu psicológico. Me sinto bem ao lavar a louça ( o que era entediante, passou a ser bom!). Acordo e já quero colocar a roupa, fico incomodada em ficar de pijama (ex. quando fiquei um dia, pareceu que a preguiça tomou conta do meu corpo. Não conseguia fazer nada)… confesso que alguns passinhos ainda estão sendo implantados, outros já estão incorporados. Obrigada pelo convite, lidi! Estou amando o fly&#8221; **Ana Claudia, em 20 de Novembro**</em></em>
+  __&#8220;Reavaliando, o que mais gostei foi a leveza que é dado aos passinhos! Não me sinto sobrecarregada e eles tem algo de especial, pois mexem com o meu psicológico. Me sinto bem ao lavar a louça ( o que era entediante, passou a ser bom!). Acordo e já quero colocar a roupa, fico incomodada em ficar de pijama (ex. quando fiquei um dia, pareceu que a preguiça tomou conta do meu corpo. Não conseguia fazer nada)… confesso que alguns passinhos ainda estão sendo implantados, outros já estão incorporados. Obrigada pelo convite, lidi! Estou amando o fly&#8221; **Ana Claudia, em 20 de Novembro**__
 </p>
 
 <p align="justify">
-  <em>“Sinto que as mudanças me trazem mais &#8220;controle&#8221; sobre as coisas, não só sobre a casa, como se eu estivesse com tudo sob controle. Com o fly percebi o quanto a bagunça me deixava pesada e irritada, começar o dia com pia limpa e tudo organizado é muito bom! Às vezes tenho recaídas, mas aos poucos vejo que está fluindo&#8221;** Aline, em 23 de Novembro**</em>
+  _“Sinto que as mudanças me trazem mais &#8220;controle&#8221; sobre as coisas, não só sobre a casa, como se eu estivesse com tudo sob controle. Com o fly percebi o quanto a bagunça me deixava pesada e irritada, começar o dia com pia limpa e tudo organizado é muito bom! Às vezes tenho recaídas, mas aos poucos vejo que está fluindo&#8221;** Aline, em 23 de Novembro**_
 </p>
 
 <p align="justify">
-  <em>&#8220;Eu sempre tive um pensamento Fly mas nunca consegui colocar em prática. Agora com essas orientações, mesmo morando num ap maior e com duas crianças ( 2 e 10 anos), estou vendo a minha casa clarear e andar. Às vezes fico até desconfiada achando que estou deixando de fazer algo, porque a casa está com quase tudo em seus lugares, e eu não me sinto cansada. Sei que ainda preciso colocar muita coisa em prática, mas já sinto na pele os benefícios do método. Acho que minha empregada já está ficando com medo, porque daqui a pouco ela vai sobrar na casa &#8221; **Melissa, em 28 de Novembro**</em>
+  _&#8220;Eu sempre tive um pensamento Fly mas nunca consegui colocar em prática. Agora com essas orientações, mesmo morando num ap maior e com duas crianças ( 2 e 10 anos), estou vendo a minha casa clarear e andar. Às vezes fico até desconfiada achando que estou deixando de fazer algo, porque a casa está com quase tudo em seus lugares, e eu não me sinto cansada. Sei que ainda preciso colocar muita coisa em prática, mas já sinto na pele os benefícios do método. Acho que minha empregada já está ficando com medo, porque daqui a pouco ela vai sobrar na casa &#8221; **Melissa, em 28 de Novembro**_
 </p>
 
 <p align="justify">
-  <em><em>&#8220;<em>Estou amando a experiência! Tem me ajudado muuuuuuuuitooooooo! Obrigada por compartilhar conosco!&#8221; **Débora Berg, em 29 de Novembro**</em></em></em>
+  __&#8220;_Estou amando a experiência! Tem me ajudado muuuuuuuuitooooooo! Obrigada por compartilhar conosco!&#8221; **Débora Berg, em 29 de Novembro**___
 </p>
 
 <p align="justify">
@@ -103,9 +103,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>

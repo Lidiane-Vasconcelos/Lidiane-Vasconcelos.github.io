@@ -19,11 +19,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank">**Apartamento mínimo, com tudo para viver bem: é possível?**</a>
+  [**Apartamento mínimo, com tudo para viver bem: é possível?**](http://www.decoracaodacasa.com/apartamento-pequeno-2/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank">**Dá para viver bem em pequenos espaços?**</a>
+  [**Dá para viver bem em pequenos espaços?**](http://www.decoracaodacasa.com/apartamento-pequeno-2/) 
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Ilha da cozinha: do lado de cá, <em>cooktop</em> e forno, com área de trabalho dos lados. Do lado de lá tem cadeiras, pois serve como espaço para refeição. Vamos chegar lá com mais detalhes, sim?
+  Ilha da cozinha: do lado de cá, _cooktop_ e forno, com área de trabalho dos lados. Do lado de lá tem cadeiras, pois serve como espaço para refeição. Vamos chegar lá com mais detalhes, sim?
 </p>
 
 <p align="center">
@@ -79,11 +79,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank">**Cozinha pequena: o grande charme da decoração está nos detalhes.**</a>
+  [**Cozinha pequena: o grande charme da decoração está nos detalhes.**](http://www.decoracaodacasa.com/cozinha-pequena-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/" target="_blank">**Cozinha moderna em apartamento pequeno… tem jeito?**</a>
+  [**Cozinha moderna em apartamento pequeno… tem jeito?**](http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/) 
 </p>
 
 <p align="center">
@@ -99,15 +99,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank">**Como fazer seu espaço pequeno parecer maior? 10 dicas.**</a>
+  [**Como fazer seu espaço pequeno parecer maior? 10 dicas.**](http://www.decoracaodacasa.com/espaco-pequeno-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank">**3 erros na decoração e organização de espaços pequenos: você os comete?**</a>
+  [**3 erros na decoração e organização de espaços pequenos: você os comete?**](http://www.decoracaodacasa.com/decoracao-espacos-pequenos/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank">**5 dicas de decoração para casas com pouco espaço.**</a>
+  [**5 dicas de decoração para casas com pouco espaço.**](http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/) 
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@ categories:
 </p>
 
 <p align="center">
-  Cozinha <em>mini mini mini…</em>
+  Cozinha _mini mini mini…_
 </p>
 
 <p align="center">
@@ -135,11 +135,11 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank">**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**</a>
+  [**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**](http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/) 
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank">**Móvel funcional na sua sala de estar pequena é a melhor escolha.**</a>
+  [**Móvel funcional na sua sala de estar pequena é a melhor escolha.**](http://www.decoracaodacasa.com/movel-funcional-sala-pequena/) 
 </p>
 
 <p align="center">
@@ -163,7 +163,7 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank">**4 composições de cantinhos para sua varanda pequena.**</a>
+  [**4 composições de cantinhos para sua varanda pequena.**](http://www.decoracaodacasa.com/decoracao-varanda-pequena/) 
 </p>
 
 <p align="center">
@@ -183,7 +183,7 @@ categories:
 </p>
 
 <p align="left">
-  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank">**Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.**</a>
+  [**Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.**](http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/) 
 </p>
 
 <p align="center">
@@ -191,15 +191,15 @@ categories:
 </p>
 
 <p align="center">
-  Planta do <em>apertamento</em> inspirador!!!
+  Planta do _apertamento_ inspirador!!!
 </p>
 
 <p align="justify">
-  Ficou com água na boca para espiar um pouquinho mais? Espie no <a href="http://www.apartmenttherapy.com/matts-urban-studio-222013?utm_medium=email&utm_campaign=Apartment+Therapy+Daily+8315+5+New+Old+Trends&utm_content=Apartment+Therapy+Daily+8315+5+New+Old+Trends+CID_ae9f9dafcf817c99eef527ca2aa4ddc6&utm_source=email_newsletter" target="_blank">post original, no Apartment Therapy, bem aqui</a>. Delicie-se e continue se inspirando.
+  Ficou com água na boca para espiar um pouquinho mais? Espie no [post original, no Apartment Therapy, bem aqui](http://www.apartmenttherapy.com/matts-urban-studio-222013?utm_medium=email&utm_campaign=Apartment+Therapy+Daily+8315+5+New+Old+Trends&utm_content=Apartment+Therapy+Daily+8315+5+New+Old+Trends+CID_ae9f9dafcf817c99eef527ca2aa4ddc6&utm_source=email_newsletter) . Delicie-se e continue se inspirando.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

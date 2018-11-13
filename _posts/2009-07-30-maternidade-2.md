@@ -11,15 +11,15 @@ categories:
   - Comportamento Feminino
   - Maternidade
 ---
-Não faz muito tempo que encontrei a Claudia, do blog “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>”, na blogosfera. Na verdade, ela me encontrou. Li o comentário que ela deixou no Bicha quando ainda estava fora, no [meu último recesso](http://www.trololodemulher.com.br/2009/06/05/aviso-a-quem-navega-visita-e-comenta-no-bicha/).
+Não faz muito tempo que encontrei a Claudia, do blog “[Feito a Mão](http://claudinha-feitoamo.blogspot.com/) ”, na blogosfera. Na verdade, ela me encontrou. Li o comentário que ela deixou no Bicha quando ainda estava fora, no [meu último recesso](http://www.trololodemulher.com.br/2009/06/05/aviso-a-quem-navega-visita-e-comenta-no-bicha/).
 
 Chamou a minha atenção o entusiasmo dela pelo que havia encontrado por aqui. Claro estava que ela gostou muito desse espaço, e logo que li o comentário, fui me sentindo mais feliz e recompensada por tê-la agradado tanto com tudo o que há por aqui. Desde então, as visitas (virtuais) em mão dupla jamais pararam…
 
-O fato é que Claudia é uma blogueira muito elegante com as palavras, escreve posts no “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>” que são uma delícia de serem lidos, escreve para a mulher moderna e inteligente como nós, que somos críticas e queremos aprender.
+O fato é que Claudia é uma blogueira muito elegante com as palavras, escreve posts no “[Feito a Mão](http://claudinha-feitoamo.blogspot.com/) ” que são uma delícia de serem lidos, escreve para a mulher moderna e inteligente como nós, que somos críticas e queremos aprender.
 
 Claudia fala suas impressões da vida com visão sempre muito lúcida, enquanto permeia a conversa mostrando as manualidades de que tanto gosta. É arteira e artista. É uma mulher multitarefa, por assim dizer…
 
-**_Por Claudia Ramalho – <a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>_**
+**_Por Claudia Ramalho – [Feito a Mão](http://claudinha-feitoamo.blogspot.com/) _**
 
 **MATERNIDADE – UM APRENDIZADO QUE REQUER INTELIGÊNCIA**
 
@@ -47,7 +47,7 @@ E ao mesmo tempo em que gosto de aprender, sinto um prazer enorme em compartilha
 
 E alguém ainda duvida que ser sociável é ser inteligente?
 
-Imagens: <a href="http://www.bethkrommes.com/" target="_blank">Beth Krommes</a>
+Imagens: [Beth Krommes](http://www.bethkrommes.com/) 
 
 **Mais sobre maternidade no Bicha Fêmea**
 

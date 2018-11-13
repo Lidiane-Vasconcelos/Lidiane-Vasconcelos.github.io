@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  A Lyn escolheu um papel <em>contact</em> bem colorido para aplicar e reformar o móvel. A gente nota que ela aplicou uma nova cor também. Fiel ao seu estilo pessoal que aprecia as cores, ela caprichou no trabalho e se empolgou tanto, que já pensa em sair reformando muito mais pela casa… olha só:
+  A Lyn escolheu um papel _contact_ bem colorido para aplicar e reformar o móvel. A gente nota que ela aplicou uma nova cor também. Fiel ao seu estilo pessoal que aprecia as cores, ela caprichou no trabalho e se empolgou tanto, que já pensa em sair reformando muito mais pela casa… olha só:
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Se você tem um móvel e quer mudar a cor dele, comece por seguir algumas **<a href="http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/" target="_blank">dicas da Margaret para reformas de móveis pela pintura</a>**. Depois faça como a Lyn, escolha um revestimento, a exemplo do papel <em>contact</em>, e arrase!
+  Se você tem um móvel e quer mudar a cor dele, comece por seguir algumas **[dicas da Margaret para reformas de móveis pela pintura](http://www.bichafemea.com/2011/08/01/movel-usado-antigo-restauracao/) **. Depois faça como a Lyn, escolha um revestimento, a exemplo do papel _contact_, e arrase!
 </p>
 
 &nbsp;
@@ -46,5 +46,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

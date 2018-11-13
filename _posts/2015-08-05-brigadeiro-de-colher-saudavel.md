@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Na hora do desespero pra comer um doce, especialmente se a vontade for de chocolate, dá pra comer um brigadeiro de colher saudável e mandar a TPM tomar outro rumo. Chocolate é vida e salva naqueles momentos de irritabilidade, a gente bem sabe e viu no post “<a href="http://www.trololodemulher.com.br/2015/01/12/cansaco-estresse-hormonios/" target="_blank">Cansaço ou estresse? Que nada! São seus hormônios!</a>”, lembra? Pois é. Para resolver esse pequeno probleminha, Carol nos enviou essa dica das boas. A gente pode saborear sem culpa alguma, oh: aproveita!
+  Na hora do desespero pra comer um doce, especialmente se a vontade for de chocolate, dá pra comer um brigadeiro de colher saudável e mandar a TPM tomar outro rumo. Chocolate é vida e salva naqueles momentos de irritabilidade, a gente bem sabe e viu no post “[Cansaço ou estresse? Que nada! São seus hormônios!](http://www.trololodemulher.com.br/2015/01/12/cansaco-estresse-hormonios/) ”, lembra? Pois é. Para resolver esse pequeno probleminha, Carol nos enviou essa dica das boas. A gente pode saborear sem culpa alguma, oh: aproveita!
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 > <p align="justify">
->   “**<em>Leve ao fogo e vai baixo e vai mexendo sempre, até engrossar. Demora um pouco, mas engrossa. Coloque nas tacinhas e polvilhe granulado.”</em>**
+>   “**_Leve ao fogo e vai baixo e vai mexendo sempre, até engrossar. Demora um pouco, mas engrossa. Coloque nas tacinhas e polvilhe granulado.”_**
 > </p>
 
 <p align="center">
@@ -54,23 +54,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank">**Sopa de tomate com couve: para aquecer neste Inverno.**</a>
+  [**Sopa de tomate com couve: para aquecer neste Inverno.**](http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/" target="_blank">**Bolo de banana sem glúten e light… e cheiroso!**</a>
+  [**Bolo de banana sem glúten e light… e cheiroso!**](http://www.trololodemulher.com.br/2015/07/08/bolo-de-banana/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/" target="_blank">**Tofu ao forno… com toques especiais!**</a>
+  [**Tofu ao forno… com toques especiais!**](http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

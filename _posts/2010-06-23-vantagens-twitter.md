@@ -17,7 +17,7 @@ Sabia que me enganei? Me enganei redondamente! E comecei a ver vantagens em esta
 
 A verdade é que continuo achando que não me acrescenta muita coisa saber, nos mínimos detalhes (como alguns fazem), o que as pessoas estão fazendo. Definitivamente, não é isso o que busco no Twitter. Então, se você é das minhas, garanto que há outras coisas pelas quais você possa se interessar.
 
-**Eu gosto de ver links de matérias e posts interessantes**, e isso dá para a gente tomar conhecimento através de poucos caracteres, porque é como se a gente visse “manchetes” do que anda acontecendo web afora. Isso não é bom? **Gosto também de divulgar o conteúdo do Bicha Fêmea e dos blogs que leio também**, e isso é ótimo! Aproveita e **_<a href="http://twitter.com/bichafemea" target="_blank">me segue aí</a>_**…
+**Eu gosto de ver links de matérias e posts interessantes**, e isso dá para a gente tomar conhecimento através de poucos caracteres, porque é como se a gente visse “manchetes” do que anda acontecendo web afora. Isso não é bom? **Gosto também de divulgar o conteúdo do Bicha Fêmea e dos blogs que leio também**, e isso é ótimo! Aproveita e **_[me segue aí](http://twitter.com/bichafemea) _**…
 
 Façamos o seguinte: dá uma olhada no que andei _twittando_ sobre os blogs que li nos últimos dias, clique apenas nas &#8220;manchetes&#8221; que chamam a sua atenção e você vai sentir como funciona a &#8220;mecânica&#8221; do Twitter. A partir daí, comece a pensar com carinho na possibilidade de entrar na onda do _Twitter_ também, _hã_?
 
@@ -43,4 +43,4 @@ Colcha de Retalhos <http://tinyurl.com/2fe3ty4> por Yvone &#8211; Casas Possíve
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink1_thumb5.png"><img class="size-full wp-image-4328 aligncenter" title="tgm_twitter_icon_pink1_thumb.png" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/tgm_twitter_icon_pink1_thumb5.png" alt="" width="64" height="64" /></a>
 </p>
 
-E aí? Decidiu? Se você vai mesmo experimentar essa novidade, **_<a href="http://twitter.com/bichafemea" target="_blank">me segue</a>_**???
+E aí? Decidiu? Se você vai mesmo experimentar essa novidade, **_[me segue](http://twitter.com/bichafemea) _**???

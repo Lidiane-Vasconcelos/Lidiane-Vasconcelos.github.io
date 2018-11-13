@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  Responda sem <em>titubear</em>: você cuida da sua visão? <em>Xiiiii</em>… parece que estou vendo daqui você se enrolar toda para responder… é isso mesmo? <em>tsc tsc tsc</em>… vamos combinar? O cuidado com os olhos não deveria ser negligenciado… mesmo! Pensa comigo: esse talvez seja o sentido mais requisitado hoje em dia porque, afinal de contas, a vida ao seu redor é absorvida pelos olhos, não é? O fato é que, ao passo em que eles trabalham tanto e sem parar, também são bombardeados por fatores que contribuem para que sua saúde ocular seja afetada dia após dia e, muitas vezes silenciosamente.
+  Responda sem _titubear_: você cuida da sua visão? _Xiiiii_… parece que estou vendo daqui você se enrolar toda para responder… é isso mesmo? _tsc tsc tsc_… vamos combinar? O cuidado com os olhos não deveria ser negligenciado… mesmo! Pensa comigo: esse talvez seja o sentido mais requisitado hoje em dia porque, afinal de contas, a vida ao seu redor é absorvida pelos olhos, não é? O fato é que, ao passo em que eles trabalham tanto e sem parar, também são bombardeados por fatores que contribuem para que sua saúde ocular seja afetada dia após dia e, muitas vezes silenciosamente.
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.hungryforchange.tv/article/5-foods-to-improve-eye-health" target="_blank">Hungry for Change</a>
+  Imagem: [Hungry for Change](http://www.hungryforchange.tv/article/5-foods-to-improve-eye-health) 
 </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.behance.net/gallery/19109049/Kate-Bush-Independent-on-Sunday-editorial" target="_blank">Behance</a>
+  Imagem: [Behance](https://www.behance.net/gallery/19109049/Kate-Bush-Independent-on-Sunday-editorial) 
 </p>
 
 <p align="justify">
@@ -130,11 +130,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Dra. Elizabeth Navarrete faz um trabalho incrível na blogosfera, bonita! Se você não conhece, mas é dessas mulheres que acham importante estar bem informada para ter boa saúde e cuidar bem de sua família, não deixe de conferir o espaço da Dra. Em <a href="http://elizabethnavarrete.com/" target="_blank">seu blog, que você acessa clicando aqui</a>, ela costuma responder as dúvidas dos leitores sobre saúde ocular. Cada pergunta pode virar um post! Além do mais, você ainda pode encontrá-la em duas páginas no Facebook: <a href="https://www.facebook.com/duvidasemoftalmologia?fref=ts" target="_blank">Oftalmologia para leigos</a> e <a href="https://www.facebook.com/pages/D%C3%BAvidas-em-Oftalmologia/370703669761685?fref=ts" target="_blank">Dúvidas em Oftalmologia</a>. Curta e informe-se!!!
+  A Dra. Elizabeth Navarrete faz um trabalho incrível na blogosfera, bonita! Se você não conhece, mas é dessas mulheres que acham importante estar bem informada para ter boa saúde e cuidar bem de sua família, não deixe de conferir o espaço da Dra. Em [seu blog, que você acessa clicando aqui](http://elizabethnavarrete.com/) , ela costuma responder as dúvidas dos leitores sobre saúde ocular. Cada pergunta pode virar um post! Além do mais, você ainda pode encontrá-la em duas páginas no Facebook: [Oftalmologia para leigos](https://www.facebook.com/duvidasemoftalmologia?fref=ts)  e [Dúvidas em Oftalmologia](https://www.facebook.com/pages/D%C3%BAvidas-em-Oftalmologia/370703669761685?fref=ts) . Curta e informe-se!!!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

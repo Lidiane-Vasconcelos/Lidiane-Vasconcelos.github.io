@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  E quem não gosta de receita diferente, com um toque festivo? Eu amo! Essa foi a impressão que tive dessa dica da Carol, uma receita fácil de ser reproduzida e com pegada <em>gourmet</em>: ótima pra dar uma variada das boas no jantar… e se é saudável, então? Não tem melhor! Ah! E já que a semana santa vem por aí, vem comigo aprender mais uma receita das melhores (de peixe) da Carol, oh:
+  E quem não gosta de receita diferente, com um toque festivo? Eu amo! Essa foi a impressão que tive dessa dica da Carol, uma receita fácil de ser reproduzida e com pegada _gourmet_: ótima pra dar uma variada das boas no jantar… e se é saudável, então? Não tem melhor! Ah! E já que a semana santa vem por aí, vem comigo aprender mais uma receita das melhores (de peixe) da Carol, oh:
 </p>
 
 <p align="center">
@@ -74,23 +74,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank">**Filé de saint peter (peixe) enroladinho no aspargo e salada de lentilha**</a>
+  [**Filé de saint peter (peixe) enroladinho no aspargo e salada de lentilha**](http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/17/nugget-frango-saudavel-assado/" target="_blank">**Nugget de frango: caseiro, assado e saudável**</a>
+  [**Nugget de frango: caseiro, assado e saudável**](http://www.trololodemulher.com.br/2015/03/17/nugget-frango-saudavel-assado/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank">**Receita mais fácil não existe: tabule de quinoa**</a>
+  [**Receita mais fácil não existe: tabule de quinoa**](http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

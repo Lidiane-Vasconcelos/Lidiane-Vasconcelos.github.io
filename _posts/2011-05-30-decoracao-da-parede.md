@@ -12,7 +12,7 @@ categories:
 Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **parede** sem **decoração** alguma? Você olha para o espaço, sabe que está faltando algo, mas não chegou a conclusão do que gostaria de colocar ali? Então este post é para você!
 
 <p style="text-align: justify;">
-  Veja aqui uma série de 5 ideias para acabar com a sensação de vazio decorativo que a visão dessa parede te proporciona, e arremate a <em>decor</em> de seu ambiente querido com o que faltava nele…
+  Veja aqui uma série de 5 ideias para acabar com a sensação de vazio decorativo que a visão dessa parede te proporciona, e arremate a _decor_ de seu ambiente querido com o que faltava nele…
 </p>
 
 <!--more-->
@@ -70,7 +70,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-6249" title="Divino Rosas Médias" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg" alt="" width="600" height="400" /></a><br /> **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank">Quadro Divino Rosas Médias</a>**
+  [Quadro Divino Rosas Médias](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg"><img class="alignnone size-full wp-image-6249" title="Divino Rosas Médias" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/04/Divino-Rosas-Medias.jpg" alt="" width="600" height="400" /></a><br /> **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/) **
 </p>
 
 <p style="text-align: center;">
@@ -78,7 +78,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  **<a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a>**
+  **[Regador Provençal](http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/) **
 </p>
 
 <p style="text-align: center;">
@@ -86,7 +86,7 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: center;">
-  **<a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">Espelho Provençal</a>**
+  **[Espelho Provençal](http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/) **
 </p>
 
 <p style="text-align: justify;">
@@ -106,15 +106,15 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 </p>
 
 <p style="text-align: justify;">
-  Olha novamente para os nichos, bonita! Olhou? Repare que há uma boa **variedade de tipos de objetos decorativos**: vaso, escultura, relógio, <em>souvenir</em>, porta-retrato, etc. Repare também nos livros, que ora estão arranjados em pé, ora estão deitados. Essa alternância de tipos de objetos e disposição dos livros deu uma <em>bossa</em> a mais aos nichos, não é verdade?
+  Olha novamente para os nichos, bonita! Olhou? Repare que há uma boa **variedade de tipos de objetos decorativos**: vaso, escultura, relógio, _souvenir_, porta-retrato, etc. Repare também nos livros, que ora estão arranjados em pé, ora estão deitados. Essa alternância de tipos de objetos e disposição dos livros deu uma _bossa_ a mais aos nichos, não é verdade?
 </p>
 
 <p style="text-align: justify;">
-  Quanto ás prateleiras, o **jogo de cestos de fibra natural** **decoram e organizam** objetos que você precisa manter num espaço como esse, a exemplo de papel e suprimentos de escritório. Mais alguns livros e porta-retratos na prateleira mais abaixo, e todo o conjunto resulta numa ideia das boas para reproduzir em casa e deixar a parede vazia do escritório <em>muuuuito</em> mais charmosa. Inspire-se!
+  Quanto ás prateleiras, o **jogo de cestos de fibra natural** **decoram e organizam** objetos que você precisa manter num espaço como esse, a exemplo de papel e suprimentos de escritório. Mais alguns livros e porta-retratos na prateleira mais abaixo, e todo o conjunto resulta numa ideia das boas para reproduzir em casa e deixar a parede vazia do escritório _muuuuito_ mais charmosa. Inspire-se!
 </p>
 
 <p style="text-align: justify;">
-  Imagens: **<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>**
+  Imagens: **[Better Homes and Gardens](http://www.bhg.com/) **
 </p>
 
 **Mais no Bicha Fêmea…**
@@ -130,21 +130,21 @@ Você tem um ambiente em casa, a exemplo do quarto ou sala, com um espaço de **
 **[Pitacos de bicha fêmea: como decorar a parede da escada?](http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/)**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**<em>Decoração</em>**</a>
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

@@ -48,11 +48,11 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/11/04/sozinhez/" target="_blank">**Sozinhez**</a>
+  [**Sozinhez**](http://www.trololodemulher.com.br/2011/11/04/sozinhez/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/" target="_blank">**Quando alguém te pergunta se você quer ter filhos…**</a>
+  [**Quando alguém te pergunta se você quer ter filhos…**](http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/) 
 </p>
 
 &nbsp;
@@ -72,15 +72,15 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank">**Consumismo: você ficaria 365 dias sem compras?**</a>
+  [**Consumismo: você ficaria 365 dias sem compras?**](http://www.trololodemulher.com.br/2011/09/23/consumismo/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank">**Suas finanças pessoais estão no azul ou no vermelho?**</a>
+  [**Suas finanças pessoais estão no azul ou no vermelho?**](http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank">**Dicas que seu bolso agradece, e muito!**</a>
+  [**Dicas que seu bolso agradece, e muito!**](http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/) 
 </p>
 
 <p align="center">
@@ -108,13 +108,13 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 &nbsp;
 
 <p align="justify">
-  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a>!
+  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog [A Força e a Beleza de ser Mulher](http://geisamachado.blogspot.com.br/) . Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e [clica aqui](http://geisamachado.blogspot.com.br/) !
 </p>
 
 <p align="justify">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
+  Imagem: [free images](http://www.freeimages.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

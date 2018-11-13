@@ -41,7 +41,7 @@ Quem já tentou diversas formas de perder peso e hoje se encontra com o peso ele
   Segundo Cruz e Morimoto, a cirurgia não finaliza o tratamento da obesidade, pelo contrário, é o início de um período de um a dois anos de mudanças comportamentais, alimentares e de exercícios, com monitoração regular de uma equipe multidisciplinar de profissionais de saúde (CRUZ, M. R. R. & MORIMOTO, I. M. I., 2004).
 </p>
 
-_Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagens:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -50,7 +50,7 @@ _Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
     </td>
     
     <td width="300" valign="top">
-      <em> </em><em>Psicóloga e especialista em Transtornos Alimentares, **Luciana Kotaka** desenvolve seus trabalhos há mais de 14 anos, sendo referência nesta área por realizar atividades focadas em tratamentos que envolvam a relação direta entre o distúrbio do peso e a psicologia. Luciana Kotaka edita o site <a href="http://lucianakotaka.com.br/"><em>Comportamento Magro</em></a><em>.</em></em>
+      _ __Psicóloga e especialista em Transtornos Alimentares, **Luciana Kotaka** desenvolve seus trabalhos há mais de 14 anos, sendo referência nesta área por realizar atividades focadas em tratamentos que envolvam a relação direta entre o distúrbio do peso e a psicologia. Luciana Kotaka edita o site <a href="http://lucianakotaka.com.br/">_Comportamento Magro_</a>_.__
     </td>
   </tr>
 </table>
@@ -58,7 +58,7 @@ _Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
  
 
 <p style="text-align: center;">
-  Faça como a **Luciana**, e envie **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em>** para o **Bicha Fêmea**!
+  Faça como a **Luciana**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
 </p>
 
 **Mais no Bicha Fêmea…**
@@ -74,23 +74,23 @@ _Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 **_[Comer bem para viver melhor](http://www.trololodemulher.com.br/2010/01/13/comer-bem/)_**
 
 <p style="text-align: center;">
-  Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>**> Cirurgia bariátrica e os cuidados essênciais para o sucesso
+  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/corpo/">**_Corpo_**</a>> **_<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a>_**> Cirurgia bariátrica e os cuidados essênciais para o sucesso
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>
 
 **_ _**

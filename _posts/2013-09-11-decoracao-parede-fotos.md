@@ -31,7 +31,7 @@ categories:
   </p>
   
   <p align="justify">
-    Essas fotos foram dispostas em uma sala, reparou? Mas elas poderiam estar no quarto ou ainda no <em>home office</em>. A escolha é sua. Veja como a solução é simples:
+    Essas fotos foram dispostas em uma sala, reparou? Mas elas poderiam estar no quarto ou ainda no _home office_. A escolha é sua. Veja como a solução é simples:
   </p>
   
   <p align="justify">
@@ -43,7 +43,7 @@ categories:
   </p>
   
   <p align="justify">
-    Viu? Não é simples reproduzir, com resultado bonito e elegante? Eu <em>superultramega </em>amei a ideia e não podia deixar de dividi-la com você. Inspire-se!
+    Viu? Não é simples reproduzir, com resultado bonito e elegante? Eu _superultramega _amei a ideia e não podia deixar de dividi-la com você. Inspire-se!
   </p>
   
   <p>
@@ -51,7 +51,7 @@ categories:
   </p>
   
   <p>
-    Imagem: **<em><a href="http://www.homedit.com/" target="_blank">Homedit</a></em>**
+    Imagem: **_[Homedit](http://www.homedit.com/) _**
   </p>
   
   <p>
@@ -63,5 +63,5 @@ categories:
   </p>
   
   <p align="center">
-    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
   </p>

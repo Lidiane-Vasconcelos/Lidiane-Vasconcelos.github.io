@@ -12,15 +12,15 @@ categories:
 _Ei_, bonita! Deixa eu te perguntar: você sabia que o Carrefour já está no Brasil há 35 anos? Já imaginou!? A rede de hipermercados chegou por aqui em 1975, eu nem era nascida, e uma revolução no jeito de comprar aconteceu: a família brasileira poderia encontrar tudo num só lugar. Muito prático!
 
 <p style="text-align: justify;">
-  Sabe que eles prepararam uma série de ações para comemorar essa data? Você já deve ter visto na TV algum comercial do Carrefour com comunicação visual que relembra a década de 70, não é? Pois além disso, as lojas também nos remetem a essa década, o <em>hotsite</em> da campanha recorda fatos das 4 décadas nas quais a rede atua no Brasil, e ainda um blog foi criado para veicular conteúdo com curiosidades dos anos 70, 80, 90 e 00.<!--more-->
+  Sabe que eles prepararam uma série de ações para comemorar essa data? Você já deve ter visto na TV algum comercial do Carrefour com comunicação visual que relembra a década de 70, não é? Pois além disso, as lojas também nos remetem a essa década, o _hotsite_ da campanha recorda fatos das 4 décadas nas quais a rede atua no Brasil, e ainda um blog foi criado para veicular conteúdo com curiosidades dos anos 70, 80, 90 e 00.<!--more-->
 </p>
 
 <p style="text-align: center;">
-  **<em>Tem surpresa na loja de Pinheiros. Divirta-se!</em>**
+  **_Tem surpresa na loja de Pinheiros. Divirta-se!_**
 </p>
 
 <p style="text-align: justify;">
-  A loja do Carrefour que fica na Marginal Pinheiros, em São Paulo, foi a primeira no Brasil. Será que essa você sabia? Pois, saiba! E, claro, lá as comemorações serão especiais, a começar pela loja <em>Retrô</em> montada no estacionamento. Imagina que divertido entrar num espaço totalmente ambientado nos anos 70, inclusive com produtos estilizados como na época, fotógrafo para tirar fotos temáticas, e mais atrações especiais! Pois imagine, porque é lá o lugar!
+  A loja do Carrefour que fica na Marginal Pinheiros, em São Paulo, foi a primeira no Brasil. Será que essa você sabia? Pois, saiba! E, claro, lá as comemorações serão especiais, a começar pela loja _Retrô_ montada no estacionamento. Imagina que divertido entrar num espaço totalmente ambientado nos anos 70, inclusive com produtos estilizados como na época, fotógrafo para tirar fotos temáticas, e mais atrações especiais! Pois imagine, porque é lá o lugar!
 </p>
 
 <p style="text-align: justify;">
@@ -40,13 +40,13 @@ _Ei_, bonita! Deixa eu te perguntar: você sabia que o Carrefour já está no Br
   </p>
   
   <p style="text-align: center;">
-    **<em>Quer ganhar presente na promoção de aniversário do Carrefour?</em>**
+    **_Quer ganhar presente na promoção de aniversário do Carrefour?_**
   </p>
   
   <p style="text-align: justify;">
-    A ideia da promoção partiu do <em>slogan</em> “Bons Momentos Começam Aqui”, e ela vai premiar clientes, funcionários e fornecedores que contarem histórias de bons momentos em suas vidas que tenham começado no Carrefour. Olha só: você pode participar pelo site, por carta ou por urnas espalhadas por todas as lojas do país. Todo o regulamento está disponível no site Aniversário Carrefour, e a melhor história será premiada com nada menos que 35 carrinhos de compra. É bom ou não é?
+    A ideia da promoção partiu do _slogan_ “Bons Momentos Começam Aqui”, e ela vai premiar clientes, funcionários e fornecedores que contarem histórias de bons momentos em suas vidas que tenham começado no Carrefour. Olha só: você pode participar pelo site, por carta ou por urnas espalhadas por todas as lojas do país. Todo o regulamento está disponível no site Aniversário Carrefour, e a melhor história será premiada com nada menos que 35 carrinhos de compra. É bom ou não é?
   </p>
   
   <p style="text-align: justify;">
-    Ah! Todo o conteúdo da campanha também está disponível no <a href="http://twitter.com/carrefourbrasil" target="_blank">Twitter oficial do Grupo Carrefour</a>. E para mais informações, acesse o site do Aniversário Carrefour e o blog Aniversário Carrefour. Aproveite!
+    Ah! Todo o conteúdo da campanha também está disponível no [Twitter oficial do Grupo Carrefour](http://twitter.com/carrefourbrasil) . E para mais informações, acesse o site do Aniversário Carrefour e o blog Aniversário Carrefour. Aproveite!
   </p>

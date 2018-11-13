@@ -20,7 +20,7 @@ Que a **laranja** é uma fonte de vitamina C certeira, o senso comum já sabe be
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA.jpg"><img class="alignnone size-full wp-image-8514" title="LARANJA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA.jpg" alt="" width="600" height="450" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em>**
+  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA.jpg"><img class="alignnone size-full wp-image-8514" title="LARANJA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA.jpg" alt="" width="600" height="450" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ Que a **laranja** é uma fonte de vitamina C certeira, o senso comum já sabe be
 &nbsp;
 
 <p align="justify">
-  Qual é a bicha fêmea que não curte essa combinação, <em>hein</em>? Fala para mim! Eu já anotei a receita <em>superultramega</em> fácil da **Lu**, uma das bonitas que edita o **<a href="http://blogdaszefinhas.com/" target="_blank">Blog das Zefinhas</a>**. Repare bem na delícia: **filé de dourada ao molho de laranja**… <em>hummmmm</em>… não está lindo de viver e pedindo para ser devorado?
+  Qual é a bicha fêmea que não curte essa combinação, _hein_? Fala para mim! Eu já anotei a receita _superultramega_ fácil da **Lu**, uma das bonitas que edita o **[Blog das Zefinhas](http://blogdaszefinhas.com/) **. Repare bem na delícia: **filé de dourada ao molho de laranja**… _hummmmm_… não está lindo de viver e pedindo para ser devorado?
 </p>
 
 <p align="justify">
-  A receita é perfeita para os dias de preguiça, sem maiores complicações, mas nem por isso menos gostosa. Então **<a href="http://blogdaszefinhas.com/2011/06/25/file-de-peixe-ao-molho-de-laranja/" target="_blank">corre e clica aqui</a>**, que a Lu é super didática para nos ensinar como faz… desfrute!
+  A receita é perfeita para os dias de preguiça, sem maiores complicações, mas nem por isso menos gostosa. Então **[corre e clica aqui](http://blogdaszefinhas.com/2011/06/25/file-de-peixe-ao-molho-de-laranja/) **, que a Lu é super didática para nos ensinar como faz… desfrute!
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Que a **laranja** é uma fonte de vitamina C certeira, o senso comum já sabe be
 </p>
 
 <p align="justify">
-  Ela confessa que teve suas dúvidas quanto a combinação de ingredientes, mas a surpresa estava no sabor super suave e delicioso desse franguinho. Quer espiar como faz? Corre, **<a href="http://blogdaszefinhas.com/2011/03/05/frango-caramelado-com-laranja-shoyo-e-mel/" target="_blank">clica aqui</a>** e faça na sua casa também!
+  Ela confessa que teve suas dúvidas quanto a combinação de ingredientes, mas a surpresa estava no sabor super suave e delicioso desse franguinho. Quer espiar como faz? Corre, **[clica aqui](http://blogdaszefinhas.com/2011/03/05/frango-caramelado-com-laranja-shoyo-e-mel/) ** e faça na sua casa também!
 </p>
 
 &nbsp;
@@ -80,7 +80,7 @@ Que a **laranja** é uma fonte de vitamina C certeira, o senso comum já sabe be
 &nbsp;
 
 <p align="justify">
-  Como é que a gente pode resistir a um **pudim de laranja**? Tem jeito? Difícil, <em>né</em>? Ainda mais sendo uma receita bem tranquila de ser reproduzida… é que a **Tereza**, a moça bonita que comanda as penelas da **<a href="http://www.cozinhaperfumada.com/" target="_blank">Cozinha Perfumada</a>**, sabe das coisas e selecionou algo que tem a cara das bichas fêmeas navegantes: algo prático para o dia a dia, porém de sabor irresistível. É ou não é um carinho para você e seus queridos?
+  Como é que a gente pode resistir a um **pudim de laranja**? Tem jeito? Difícil, _né_? Ainda mais sendo uma receita bem tranquila de ser reproduzida… é que a **Tereza**, a moça bonita que comanda as penelas da **[Cozinha Perfumada](http://www.cozinhaperfumada.com/) **, sabe das coisas e selecionou algo que tem a cara das bichas fêmeas navegantes: algo prático para o dia a dia, porém de sabor irresistível. É ou não é um carinho para você e seus queridos?
 </p>
 
 &nbsp;
@@ -106,11 +106,11 @@ A mesma medida da lata de suco de laranja;
 &nbsp;
 
 > <p align="justify">
->   “<em>Para uma fôrma de furo central (com diâmetro 19cm), coloque as colheres de sopa do açúcar nela e leve a fogo baixo até o açúcar ficar dourado. É importante ir mexendo com a colher para que ele doure por igual e não queime nenhuma parte. Quando o açúcar estiver dourado e bem derretido, adicione a água fervente e misture, até ficar uma calda dourada, deixe no fogo baixo até engrossar um pouco e depois reserve. </em><em>Pré-aqueça o forno a 180 °C. No liquidificador coloque o leite condensado, os ovos e o suco de laranja. Bata bem por cerca de 01 minuto. Verifique se a calda da fôrma já esfriou, então coloque o líquido batido na fôrma já caramelada e leve ao forno em banho-maria (coloque a fôrma numa travessa de vidro e preencha até o meio da travessa com água quente) coberto por papel alumínio, e deixe assar por cerca de 1 hora e 15 minutos (esse tempo pode variar de acordo com seu forno). Para saber se está pronto, basta fazer o teste do palito – enfie o palito e o pudim deve estar firme. Quando estiver pronto deixe esfriar, e leve a geladeira por pelo menos umas 06 horas (normalmente faço num dia e desenforme no outro).”</em>
+>   “_Para uma fôrma de furo central (com diâmetro 19cm), coloque as colheres de sopa do açúcar nela e leve a fogo baixo até o açúcar ficar dourado. É importante ir mexendo com a colher para que ele doure por igual e não queime nenhuma parte. Quando o açúcar estiver dourado e bem derretido, adicione a água fervente e misture, até ficar uma calda dourada, deixe no fogo baixo até engrossar um pouco e depois reserve. __Pré-aqueça o forno a 180 °C. No liquidificador coloque o leite condensado, os ovos e o suco de laranja. Bata bem por cerca de 01 minuto. Verifique se a calda da fôrma já esfriou, então coloque o líquido batido na fôrma já caramelada e leve ao forno em banho-maria (coloque a fôrma numa travessa de vidro e preencha até o meio da travessa com água quente) coberto por papel alumínio, e deixe assar por cerca de 1 hora e 15 minutos (esse tempo pode variar de acordo com seu forno). Para saber se está pronto, basta fazer o teste do palito – enfie o palito e o pudim deve estar firme. Quando estiver pronto deixe esfriar, e leve a geladeira por pelo menos umas 06 horas (normalmente faço num dia e desenforme no outro).”_
 > </p>
 
 <p align="justify">
-  Se você gosta de receitas explicadinhas assim, com esse jeito todo especial da Tereza, precisa ver a variedade enorme de sabores que ela apresenta para a gente na sua **<a href="http://www.cozinhaperfumada.com/" target="_blank">Cozinha Perfumada</a>**, bonita. Corre lá e desfrute de tudo aquilo, <em>viu</em>?
+  Se você gosta de receitas explicadinhas assim, com esse jeito todo especial da Tereza, precisa ver a variedade enorme de sabores que ela apresenta para a gente na sua **[Cozinha Perfumada](http://www.cozinhaperfumada.com/) **, bonita. Corre lá e desfrute de tudo aquilo, _viu_?
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ A mesma medida da lata de suco de laranja;
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -163,13 +163,13 @@ A mesma medida da lata de suco de laranja;
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

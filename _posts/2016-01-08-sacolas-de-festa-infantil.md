@@ -21,7 +21,7 @@ categories:
     </p>
     
     <p align="center">
-      Use recortes para fazer colagens na sacola, e dê um toque final com papel de seda na cor que preferir. O tema escolhido para esta foi gatos. Inspire-se! Via <a href="http://sherrifoxman.typepad.com/daily_party_dish/theme_parties/page/4/" target="_blank">The Daily Party Dish</a>.
+      Use recortes para fazer colagens na sacola, e dê um toque final com papel de seda na cor que preferir. O tema escolhido para esta foi gatos. Inspire-se! Via [The Daily Party Dish](http://sherrifoxman.typepad.com/daily_party_dish/theme_parties/page/4/) .
     </p>
     
     <p align="center">
@@ -29,7 +29,7 @@ categories:
     </p>
     
     <p align="center">
-      Use fitinhas de cores diversas e tags com os dizeres que você quiser. Via <a href="http://www.babble.com/toddler/abbys-alice-in-wonderland-birthday-2-party/" target="_blank">Babble</a>.
+      Use fitinhas de cores diversas e tags com os dizeres que você quiser. Via [Babble](http://www.babble.com/toddler/abbys-alice-in-wonderland-birthday-2-party/) .
     </p>
     
     <p align="center">
@@ -37,7 +37,7 @@ categories:
     </p>
     
     <p align="center">
-      Saquinhos de papel + fitas adesivas coloridas (<em>washi tapes</em>) e… só!
+      Saquinhos de papel + fitas adesivas coloridas (_washi tapes_) e… só!
     </p>
     
     <p align="center">
@@ -45,7 +45,7 @@ categories:
     </p>
     
     <p align="center">
-      Papel acartonado colorido fazem fundo para o papel branco recortado que recebe o nome (manuscrito) de cada convidado que levará a socolinha pra casa. Simples, prático e carinhoso. Via <a href="http://www.littlepartylove.com.au/diyprojects/how-to-make-your-own-birthday-party-gift-bags/" target="_blank">Little Party Love</a>.
+      Papel acartonado colorido fazem fundo para o papel branco recortado que recebe o nome (manuscrito) de cada convidado que levará a socolinha pra casa. Simples, prático e carinhoso. Via [Little Party Love](http://www.littlepartylove.com.au/diyprojects/how-to-make-your-own-birthday-party-gift-bags/) .
     </p>
     
     <p align="center">
@@ -53,7 +53,7 @@ categories:
     </p>
     
     <p align="center">
-      Baldinhos plásticos recheados com o que você quiser. Para arrematar, que tal envolvê-los num saco de papel celofane e fechá-los com um lacinho de fita? Fica a dica. Via <a href="http://love-the-day.com/under-the-sea-birthday-party-feature-2/" target="_blank">Love The Day</a>.
+      Baldinhos plásticos recheados com o que você quiser. Para arrematar, que tal envolvê-los num saco de papel celofane e fechá-los com um lacinho de fita? Fica a dica. Via [Love The Day](http://love-the-day.com/under-the-sea-birthday-party-feature-2/) .
     </p>
     
     <p align="justify">
@@ -61,7 +61,7 @@ categories:
     </p>
     
     <p align="justify">
-      <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a>
+      [Sacolinha de festa infantil: faça você mesma.](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
     </p>
     
     <p align="center">
@@ -69,7 +69,7 @@ categories:
     </p>
     
     <p align="center">
-      Saquinho de papel + furador + fitas variadas. O resultado é pura lindeza, porque há beleza na simplicidade. Via <a href="http://www.thepinksprinkle.com/2014/10/craft-little-treat-bags/" target="_blank">The Pink Sprinkle</a>.
+      Saquinho de papel + furador + fitas variadas. O resultado é pura lindeza, porque há beleza na simplicidade. Via [The Pink Sprinkle](http://www.thepinksprinkle.com/2014/10/craft-little-treat-bags/) .
     </p>
     
     <p align="center">
@@ -77,7 +77,7 @@ categories:
     </p>
     
     <p align="center">
-      Saquinho branco fazendo fundo para essa colagem de nuvem com fitinhas coloridas. Amei a ideia e, para simplificar o processo, eu usaria papel acartonado para fazer a nuvem e colaria ela usando fita banana (fita dupa-face com espuma) para dar o efeito 3D da nuvem. No mais, é não esquecer de colar as fitinhas coloridas antes da finalização. Pronto! Uma ideia para viver de amores via <a href="http://www.karaspartyideas.com/2013/07/rainbow-themed-1st-birthday-party-2.html" target="_blank">Kara´s Party Ideas</a>.
+      Saquinho branco fazendo fundo para essa colagem de nuvem com fitinhas coloridas. Amei a ideia e, para simplificar o processo, eu usaria papel acartonado para fazer a nuvem e colaria ela usando fita banana (fita dupa-face com espuma) para dar o efeito 3D da nuvem. No mais, é não esquecer de colar as fitinhas coloridas antes da finalização. Pronto! Uma ideia para viver de amores via [Kara´s Party Ideas](http://www.karaspartyideas.com/2013/07/rainbow-themed-1st-birthday-party-2.html) .
     </p>
     
     <p align="center">
@@ -85,7 +85,7 @@ categories:
     </p>
     
     <p align="center">
-      Sacolas de tecido fechadas com retalhos. Sugestão linda de viver via <a href="http://www.intimateweddings.com/blog/easy-no-sew-diy-favor-bags/" target="_blank">Intimate Weddings</a>.
+      Sacolas de tecido fechadas com retalhos. Sugestão linda de viver via [Intimate Weddings](http://www.intimateweddings.com/blog/easy-no-sew-diy-favor-bags/) .
     </p>
     
     <p align="center">
@@ -93,11 +93,11 @@ categories:
     </p>
     
     <p align="center">
-      Saquinhos de tecido cru + bolinhas que você pode fazer com canetinhas para tecido + carimbo de agradecimento. Ideia simples e que derrete o coração via <a href="http://www.sweetstyleblog.com.au/archives/4429" target="_blank">Sweet Style</a>.
+      Saquinhos de tecido cru + bolinhas que você pode fazer com canetinhas para tecido + carimbo de agradecimento. Ideia simples e que derrete o coração via [Sweet Style](http://www.sweetstyleblog.com.au/archives/4429) .
     </p>
     
     <p align="center">
-      <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+      [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
     </p>
     
     <p align="justify">

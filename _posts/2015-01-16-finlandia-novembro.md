@@ -11,7 +11,7 @@ categories:
   - Bem-estar
 ---
 <p align="justify">
-  Para nós, brasileiros acostumados aos dias tropicais em terra tupiniquim, vivenciar um dia após o outro, sendo vários deles e sem sol, é algo inimaginável, não é? Parece coisa de outro mundo! Bem… se não é de outro mundo, ao menos de uma outro país muito distante com realidade totalmente diferente da nossa, é. Esse é o caso da Finlândia, um lugar frio de bater os dentes para onde foi nossa linda Adriana Minhoto, e de onde conta tudo pra gente, <em>tim tim por tim tim</em>…
+  Para nós, brasileiros acostumados aos dias tropicais em terra tupiniquim, vivenciar um dia após o outro, sendo vários deles e sem sol, é algo inimaginável, não é? Parece coisa de outro mundo! Bem… se não é de outro mundo, ao menos de uma outro país muito distante com realidade totalmente diferente da nossa, é. Esse é o caso da Finlândia, um lugar frio de bater os dentes para onde foi nossa linda Adriana Minhoto, e de onde conta tudo pra gente, _tim tim por tim tim_…
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  “<em>Para mim era total novidade ver o céu escuro às quatro horas da tarde com as luzes da cidade acesas</em>.”
+  “_Para mim era total novidade ver o céu escuro às quatro horas da tarde com as luzes da cidade acesas_.”
 </p>
 
 > <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>“É engraçado dizer, mas os dias escuros ficam mais claros quando tudo está coberto pela neve!”</em>
+  _“É engraçado dizer, mas os dias escuros ficam mais claros quando tudo está coberto pela neve!”_
 </p>
 
 > <p align="justify">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+  **[As voltas que a vida dá nos leva a lugares inimagináveis!](http://www.trololodemulher.com.br/2014/09/08/vida-lugares/) **
 </p>
 
 <p align="justify">
@@ -95,19 +95,19 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso: lá na Finlândia é assim!</a>**
+  **[Educação, ordem e progresso: lá na Finlândia é assim!](http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/" target="_blank">Fazer compras é simples, a menos que seja na Finlândia!</a>**
+  **[Fazer compras é simples, a menos que seja na Finlândia!](http://www.trololodemulher.com.br/2014/10/10/compras-finlandia/) **
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Vai!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Vai!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

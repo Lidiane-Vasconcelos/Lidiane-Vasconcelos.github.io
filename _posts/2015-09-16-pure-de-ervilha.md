@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Que coisa linda de viver é esse **purê de ervilha**, minha gente?! Essa é mais uma receita sugerida pela Carol, nossa querida colaboradora que nos presenteia com essas delícias <em>superultramega</em> fáceis de reproduzir. Sabe como é, né? Receita simples, prática, bonita, gostosa e saudável é o que você mais vê por aqui. Vamos aprender como faz? Vem!
+  Que coisa linda de viver é esse **purê de ervilha**, minha gente?! Essa é mais uma receita sugerida pela Carol, nossa querida colaboradora que nos presenteia com essas delícias _superultramega_ fáceis de reproduzir. Sabe como é, né? Receita simples, prática, bonita, gostosa e saudável é o que você mais vê por aqui. Vamos aprender como faz? Vem!
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Pimenta moída na hora a gosto.
 &nbsp;
 
 <p style="text-align: justify;">
-  <em>&#8220;Cozinhe a mandioquinha e as ervilhas frescas, depois bata ainda quente no processador com um pouquinho de leite e o azeite. Veja como ficou a consistência! Se estiver muito firme coloque mais leite. Tempere com sal e pimenta, e sirva quentinho! Fica muito bom e nutritivo.&#8221;</em>
+  _&#8220;Cozinhe a mandioquinha e as ervilhas frescas, depois bata ainda quente no processador com um pouquinho de leite e o azeite. Veja como ficou a consistência! Se estiver muito firme coloque mais leite. Tempere com sal e pimenta, e sirva quentinho! Fica muito bom e nutritivo.&#8221;_
 </p>
 
 &nbsp;
@@ -53,20 +53,20 @@ Pimenta moída na hora a gosto.
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank">**Saint peter ao forno ao molho de abóbora**</a>
+[**Saint peter ao forno ao molho de abóbora**](http://www.trololodemulher.com.br/2015/09/02/saint-peter/) 
 
-<a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">**Mousse de chocolate com café… porque merecemos!**</a>
+[**Mousse de chocolate com café… porque merecemos!**](http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/) 
 
-<a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank">**Brigadeiro de colher saudável: xô, TPM!**</a>
+[**Brigadeiro de colher saudável: xô, TPM!**](http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/) 
 
 &nbsp;
 
-Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

@@ -15,7 +15,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="justify">
-  É justamente porque queremos isso tudo que tenho certeza que você vai curtir a dica que eu quero te dar hoje: **adesivos <a href="http://www.tudocolado.com.br/" target="_blank">TudoColado</a>** com uma **super oferta exclusiva para quem acompanha o Bicha Fêmea: 50% de desconto + frete grátis para as 50 primeiras pessoas**… vai perder?
+  É justamente porque queremos isso tudo que tenho certeza que você vai curtir a dica que eu quero te dar hoje: **adesivos [TudoColado](http://www.tudocolado.com.br/) ** com uma **super oferta exclusiva para quem acompanha o Bicha Fêmea: 50% de desconto + frete grátis para as 50 primeiras pessoas**… vai perder?
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="justify">
-  Com um desconto desses fica difícil resistir, não é? Eu diria que vai ser impossível sua resistência se sua casa estiver mesmo precisando de um charme a mais, de algum diferencial que você sabe bem, e você se deparar com as **inúmeras possibilidades no site** da **TudoColado**. Olha só: são muitas, <em>hein</em>?
+  Com um desconto desses fica difícil resistir, não é? Eu diria que vai ser impossível sua resistência se sua casa estiver mesmo precisando de um charme a mais, de algum diferencial que você sabe bem, e você se deparar com as **inúmeras possibilidades no site** da **TudoColado**. Olha só: são muitas, _hein_?
 </p>
 
 &nbsp;
@@ -63,7 +63,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="justify">
-  Que os adesivos são uma **solução decorativa prática para mudar seu ambiente**, isso você já sabe. Que isso pode ser **aplicado em uma parede estratégica na sua casa, ou em eletrodomésticos como a sua geladeira, a fim de deixar a cozinha com outra cara**, disso você também não tem dúvidas, <em>né</em>? Agora, resta saber como aproveitar essa promoção na **TudoColado** que eu diria: é uma <em>pechincha</em> daquelas! É assim:
+  Que os adesivos são uma **solução decorativa prática para mudar seu ambiente**, isso você já sabe. Que isso pode ser **aplicado em uma parede estratégica na sua casa, ou em eletrodomésticos como a sua geladeira, a fim de deixar a cozinha com outra cara**, disso você também não tem dúvidas, _né_? Agora, resta saber como aproveitar essa promoção na **TudoColado** que eu diria: é uma _pechincha_ daquelas! É assim:
 </p>
 
 &nbsp;
@@ -75,7 +75,7 @@ Quem não quer dar uma _bossa_ na **decoração** **da casa** vez ou outra? A ve
 &nbsp;
 
 <p align="justify">
-  A compra deverá ser feita **somente pela loja virtual**.  Para fazer a compra basta **<a href="http://www.tudocolado.com.br/" target="_blank">acessar o site</a>**, escolher seus adesivos e, **no final, informar o código do cupom acima**.  Após isso o site irá calcular o desconto automaticamente.
+  A compra deverá ser feita **somente pela loja virtual**.  Para fazer a compra basta **[acessar o site](http://www.tudocolado.com.br/) **, escolher seus adesivos e, **no final, informar o código do cupom acima**.  Após isso o site irá calcular o desconto automaticamente.
 </p>
 
 <p align="justify">

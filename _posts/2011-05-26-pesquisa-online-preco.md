@@ -9,7 +9,7 @@ permalink: /2011/05/26/pesquisa-online-preco/
 categories:
   - Publieditorial
 ---
-Eu já usei, sim. E não foram poucas as vezes! Quer um exemplo? A situação é sempre a mesma e invariavelmente se repete: quando eu folheio uma revista ou navego num blog, e tomo conhecimento de um cosmético, antes mesmo de sair por lojas reais na minha pesquisa de preços, lanço mão da pesquisa que envolva **<a href="http://www.olx.com.br/compra-venda-cat-185" target="_blank">compra venda</a>** do produto. É assim que faço minhas pesquisas de preço online, sabia?
+Eu já usei, sim. E não foram poucas as vezes! Quer um exemplo? A situação é sempre a mesma e invariavelmente se repete: quando eu folheio uma revista ou navego num blog, e tomo conhecimento de um cosmético, antes mesmo de sair por lojas reais na minha pesquisa de preços, lanço mão da pesquisa que envolva **[compra venda](http://www.olx.com.br/compra-venda-cat-185) ** do produto. É assim que faço minhas pesquisas de preço online, sabia?
 
 <p style="text-align: justify;">
   Você já imaginou que esse tipo de ação pode poupar um bom tempo de sua vida para iniciar uma busca por referências de preços sobre o que quer que seja? Pois essa facilidade pode estar ao alcance de um clique e começar na **OLX**. Já ouviu falar? Eu te apresento!

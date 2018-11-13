@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Como você não está num dilema como o meu, aproveita para espiar essas 5 sugestões e já vá selecionando as ideias que arrebatam o seu coração. Quando chegar o momento certo de providenciar sua decoração de Natal, você saberá e-xa-ta-men-te o que fazer, sem correria, <em>hein</em>?! Vamos lá?
+  Como você não está num dilema como o meu, aproveita para espiar essas 5 sugestões e já vá selecionando as ideias que arrebatam o seu coração. Quando chegar o momento certo de providenciar sua decoração de Natal, você saberá e-xa-ta-men-te o que fazer, sem correria, _hein_?! Vamos lá?
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank">**Decoração de Natal com reutilização de janela velha: dica.**</a>
+  [**Decoração de Natal com reutilização de janela velha: dica.**](http://www.decoracaodacasa.com/decoracao-natal-2014/) 
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank">**As crianças participam da decoração de Natal na sua casa?**</a>
+  [**As crianças participam da decoração de Natal na sua casa?**](http://www.decoracaodacasa.com/decoracao-de-natal-3/) 
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Bati o olho nessa sugestão e já pensei na minha jarrinha de porcelana. Você tem uma também? Tem mais de uma? Opa! Melhor ainda! Tudo que você precisa fazer se resume a comprar folhagens natalinas diversas nas lojas espcializadas… e só! E o resultado? Nem precisa comentar, <em>né</em>? É de viver de amores, bonita!
+  Bati o olho nessa sugestão e já pensei na minha jarrinha de porcelana. Você tem uma também? Tem mais de uma? Opa! Melhor ainda! Tudo que você precisa fazer se resume a comprar folhagens natalinas diversas nas lojas espcializadas… e só! E o resultado? Nem precisa comentar, _né_? É de viver de amores, bonita!
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank">**2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!**</a>
+  [**2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!**](http://www.decoracaodacasa.com/enfeites-decoracao-natal/) 
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-natal/" target="_blank">**Enfeites de Natal: você já sabe como decorar a mesa?**</a>
+  [**Enfeites de Natal: você já sabe como decorar a mesa?**](http://www.decoracaodacasa.com/decoracao-natal/) 
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  Olha que<em> lindeza</em>! Amei essa referência pela simplicidade e o resultado lindo de viver. O segredo é achar bolas com cores chamativas, feito isso arrume algumas delas sobre folhagens natalinas, permeadas por bolinhas miúdas e douradas, tudo sobre uma travassa bem aberta. Não tem como dar errado: o resultado é algo lindo para os olhos apreciarem.
+  Olha que_ lindeza_! Amei essa referência pela simplicidade e o resultado lindo de viver. O segredo é achar bolas com cores chamativas, feito isso arrume algumas delas sobre folhagens natalinas, permeadas por bolinhas miúdas e douradas, tudo sobre uma travassa bem aberta. Não tem como dar errado: o resultado é algo lindo para os olhos apreciarem.
 </p>
 
 <p align="justify">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank">**Dicas para a decoração das salas no Natal.**</a>
+  [**Dicas para a decoração das salas no Natal.**](http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/) 
 </p>
 
 <p align="center">
@@ -98,11 +98,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

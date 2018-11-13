@@ -30,15 +30,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/" target="_blank">**Antes & depois de uma mesa de cabeceira: haja inspiração!**</a>
+  [**Antes & depois de uma mesa de cabeceira: haja inspiração!**](http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank">**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**</a>
+  [**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**](http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank">**Quarto: ideias de organização para a cabeceira da cama.**</a>
+  [**Quarto: ideias de organização para a cabeceira da cama.**](http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/) 
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  Escolha um cantinho de parede bem delimitado na sua casa pra montar ali um espaço <em>superultramega</em> charmoso. A sugestão é aplicar papel de parede somente ali e, por isso, dá para escolher uma estampa ou textura mais acentuada, já que a área trabalhada será bem pequena. Escolha móveis e itens de decoração que vão te ajudar a reforçar esse cantinho cheio de charme, a exemplo dessa composição, onde foi usado um pequeno aparador + espelho + pequenos objetos para decorar. Inspire-se e faça algo similar em seus domínios também.
+  Escolha um cantinho de parede bem delimitado na sua casa pra montar ali um espaço _superultramega_ charmoso. A sugestão é aplicar papel de parede somente ali e, por isso, dá para escolher uma estampa ou textura mais acentuada, já que a área trabalhada será bem pequena. Escolha móveis e itens de decoração que vão te ajudar a reforçar esse cantinho cheio de charme, a exemplo dessa composição, onde foi usado um pequeno aparador + espelho + pequenos objetos para decorar. Inspire-se e faça algo similar em seus domínios também.
 </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

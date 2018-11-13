@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Preciso de ajuda para iniciar a decoração deste espaço. Não sei o que fazer com essa parede de frente para a mesa. Devo colocar espelho nela toda e um aparador espelhado com madeira para combinar com a mesa?</em>”
+  “_Preciso de ajuda para iniciar a decoração deste espaço. Não sei o que fazer com essa parede de frente para a mesa. Devo colocar espelho nela toda e um aparador espelhado com madeira para combinar com a mesa?_”
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Em primeiro lugar, eu desencostaria a mesa da parede e deixaria ela no centro do espaço. Pelo que vejo na foto, apesar de não ter as medidas do ambiente nem da mesa, mesmo no centro, a circulação seria tranquila.</em>
+  “_Em primeiro lugar, eu desencostaria a mesa da parede e deixaria ela no centro do espaço. Pelo que vejo na foto, apesar de não ter as medidas do ambiente nem da mesa, mesmo no centro, a circulação seria tranquila._
 </p>
 
 <p align="justify">
-  <em>Eu colocaria papel de parede na parede do lado direito, e minha escolha seria um papel de padrão mais clássico, com sobretons de bege, já que a outra parede é vermelha e qualquer outra cor poderia tornar o ambiente muito pesado. Nesta parede, poderiam ser colocados quadros com molduras e passepartouts claros para que se integrem à parede.</em>
+  _Eu colocaria papel de parede na parede do lado direito, e minha escolha seria um papel de padrão mais clássico, com sobretons de bege, já que a outra parede é vermelha e qualquer outra cor poderia tornar o ambiente muito pesado. Nesta parede, poderiam ser colocados quadros com molduras e passepartouts claros para que se integrem à parede._
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Sugestões de padronagens de papeis de parede.</em>
+  _Sugestões de padronagens de papeis de parede._
 </p>
 
 <p align="justify">
-  <em>Na parede onde hoje a mesa está encostada, eu colocaria um espelho da largura da parede, iniciando logo após a mesa e indo até 2,10m (que é a altura limite de portas e janelas). Este espelho seria sem moldura, mas com acabamento bisotê. </em><em>Para complementar, eu colocaria um lustre pendente sobre a mesa, pois além de criar um ponto de iluminação que será refletido no espelho, complementa a decoração.</em>
+  _Na parede onde hoje a mesa está encostada, eu colocaria um espelho da largura da parede, iniciando logo após a mesa e indo até 2,10m (que é a altura limite de portas e janelas). Este espelho seria sem moldura, mas com acabamento bisotê. __Para complementar, eu colocaria um lustre pendente sobre a mesa, pois além de criar um ponto de iluminação que será refletido no espelho, complementa a decoração._
 </p>
 
 <p align="center">
@@ -54,23 +54,23 @@ categories:
 </p>
 
 <p align="center">
-  <em>Sugestão de tipo de lustre pendente a ser usado no ambiente da leitora.</em>
+  _Sugestão de tipo de lustre pendente a ser usado no ambiente da leitora._
 </p>
 
 <p align="justify">
-  <em>**Veja também:**</em>
+  _**Veja também:**_
 </p>
 
 <p align="justify">
-  <em><a href="http://www.trololodemulher.com.br/2016/08/29/luminaria-pendente/" target="_blank">**Você sabe inserir a luminária pendente na decoração?**</a></em>
+  _[**Você sabe inserir a luminária pendente na decoração?**](http://www.trololodemulher.com.br/2016/08/29/luminaria-pendente/) _
 </p>
 
 <p align="justify">
-  <em><a href="http://decoracaodacasa.com/lustre-pendente/" target="_blank">**Como decorar a sala de jantar com lustre pendente?**</a></em>
+  _[**Como decorar a sala de jantar com lustre pendente?**](http://decoracaodacasa.com/lustre-pendente/) _
 </p>
 
 <p align="justify">
-  <em>Eu não colocaria um aparador, pois o espaço não é muito grande e pode comprometer a circulação, mas caso tenha preferência pelo uso deste móvel, aí a mesa teria que ficar encostada e eu colocaria um aparador estreito espelhado ou em laca na mesma cor do estofado das cadeiras, pois acredito que um aparador no mesmo tom da madeira das cadeiras e mesa pode escurecer o ambiente</em>.”
+  _Eu não colocaria um aparador, pois o espaço não é muito grande e pode comprometer a circulação, mas caso tenha preferência pelo uso deste móvel, aí a mesa teria que ficar encostada e eu colocaria um aparador estreito espelhado ou em laca na mesma cor do estofado das cadeiras, pois acredito que um aparador no mesmo tom da madeira das cadeiras e mesa pode escurecer o ambiente_.”
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  *Você tem dúvidas de decoração também? Escreve pra gente! A resposta pra sua pergunta pode virar um post, o que é bom para você, mas também para outras leitoras. Fale comigo &#8211; <em>**Lidiane {Lidi} Vasconcelos (trololomulher@gmail.com)**</em>. Te aguardo!
+  *Você tem dúvidas de decoração também? Escreve pra gente! A resposta pra sua pergunta pode virar um post, o que é bom para você, mas também para outras leitoras. Fale comigo &#8211; _**Lidiane {Lidi} Vasconcelos (trololomulher@gmail.com)**_. Te aguardo!
 </p>
 
 <p align="center">
@@ -114,23 +114,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">**4º post da série para organização da casa: closet.**</a>
+  [**4º post da série para organização da casa: closet.**](http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/) 
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2016/02/02/piso-que-imita-madeira/" target="_blank">Revestimento de piso que imita madeira: 6 dicas de expert.</a>**
+  **[Revestimento de piso que imita madeira: 6 dicas de expert.](http://www.trololodemulher.com.br/2016/02/02/piso-que-imita-madeira/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/" target="_blank">Antes x depois do quarto do casal: dicas de expert.</a>**
+  **[Antes x depois do quarto do casal: dicas de expert.](http://www.trololodemulher.com.br/2012/11/14/antes-depois-quarto-casal/) **
 </p>
 
 <p align="justify">
-  A **Claudia Medeiros** também tem um blog, o <a href="https://sefossenaminhacasa.wordpress.com/" target="_blank">Se fosse na minha casa</a>**. **A <a href="https://www.facebook.com/SeFosseNaMinhaCasa/" target="_blank">fanpage do blog você clica e curte aqui</a>. Como Personal Organizer a moça atualiza uma <a href="https://www.facebook.com/claudiamedeirosdesigner/timeline" target="_blank">página no Facebook bem aqui</a>. Você ainda pode ver mais informações em seu <a href="https://www.instagram.com/sefossenaminhacasa/" target="_blank">perfil no Instagram</a>. Se joga!
+  A **Claudia Medeiros** também tem um blog, o [Se fosse na minha casa](https://sefossenaminhacasa.wordpress.com/) **. **A [fanpage do blog você clica e curte aqui](https://www.facebook.com/SeFosseNaMinhaCasa/) . Como Personal Organizer a moça atualiza uma [página no Facebook bem aqui](https://www.facebook.com/claudiamedeirosdesigner/timeline) . Você ainda pode ver mais informações em seu [perfil no Instagram](https://www.instagram.com/sefossenaminhacasa/) . Se joga!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

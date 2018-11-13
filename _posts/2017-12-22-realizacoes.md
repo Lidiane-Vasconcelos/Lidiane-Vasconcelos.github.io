@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Graças às melhorias na forma como passei a conduzir minha rotina diária, pude colocar no mundo o projeto que há um certo tempo rondava minha cabeça, mas adiava pela falta de tempo: a <a href="http://loja.trololodemulher.com.br/" target="_blank">Loja do Trololó de Mulher</a>. Como se não bastasse, no desejo de ensinar o que aprendi, timidamente ofereci meus conhecimentos a quatro amigas, que quiseram aprender a melhorar suas rotinas… tomei coragem, e pensei: por que não? Fui adiante e em Outubro dei início a um novo projeto: levar o FLY a um grupo maior de mulheres via Whatsapp. O primeiro grupo teve 55 mulheres, e o próximo, cujo <a href="http://www.trololodemulher.com.br/2017/12/12/rotina-domestica/" target="_blank">ciclo terá início em Fevereiro do ano que vem</a>, já mais que dobrou de tamanho com relação ao primeiro, e continua crescendo…
+  Graças às melhorias na forma como passei a conduzir minha rotina diária, pude colocar no mundo o projeto que há um certo tempo rondava minha cabeça, mas adiava pela falta de tempo: a [Loja do Trololó de Mulher](http://loja.trololodemulher.com.br/) . Como se não bastasse, no desejo de ensinar o que aprendi, timidamente ofereci meus conhecimentos a quatro amigas, que quiseram aprender a melhorar suas rotinas… tomei coragem, e pensei: por que não? Fui adiante e em Outubro dei início a um novo projeto: levar o FLY a um grupo maior de mulheres via Whatsapp. O primeiro grupo teve 55 mulheres, e o próximo, cujo [ciclo terá início em Fevereiro do ano que vem](http://www.trololodemulher.com.br/2017/12/12/rotina-domestica/) , já mais que dobrou de tamanho com relação ao primeiro, e continua crescendo…
 </p>
 
 <p align="center">
@@ -46,9 +46,9 @@ categories:
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">
-  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
+  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
 </p>

@@ -21,7 +21,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="https://www.flickr.com/photos/45777632@N06/9396736909/" target="_blank">D. Garding</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
+  Imagem: [D. Garding](https://www.flickr.com/photos/45777632@N06/9396736909/)  via [Foter.com](http://foter.com/)  / [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/) 
 </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  5 – Use produtos adequados para a pele do bebê, e não deixe de conferir o post “<a href="http://www.trololodemulher.com.br/2014/09/12/cosmeticos-pele-bebe/" target="_blank">Afinal, quais cosméticos o bebê pode, de fato, usar?</a>”.
+  5 – Use produtos adequados para a pele do bebê, e não deixe de conferir o post “[Afinal, quais cosméticos o bebê pode, de fato, usar?](http://www.trololodemulher.com.br/2014/09/12/cosmeticos-pele-bebe/) ”.
 </p>
 
 <p align="justify">
@@ -73,7 +73,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Toalhas felpa e fralda, com capuz, e bordados lindos e fofos! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank"><em>Clique aqui e veja toda a linha banho da loja para bebês</em></a><em>.</em>
+  _Toalhas felpa e fralda, com capuz, e bordados lindos e fofos! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. _[_Clique aqui e veja toda a linha banho da loja para bebês_](https://www.xiquexiquebrasil.com.br/bebe/banho-bebe) _._
 </p>
 
 &nbsp;
@@ -89,7 +89,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Toalhas fralda, com bordados produzidos manualmente, em tecido 100% algodão… pura delicadeza para os bebês! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. </em><a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank"><em>Clique aqui e veja toda a linha banho da loja para bebês</em></a><em>.</em>
+  _Toalhas fralda, com bordados produzidos manualmente, em tecido 100% algodão… pura delicadeza para os bebês! Todas elas estão disponíveis online, na loja virtual XiqueXique Brasil. _[_Clique aqui e veja toda a linha banho da loja para bebês_](https://www.xiquexiquebrasil.com.br/bebe/banho-bebe) _._
 </p>
 
 &nbsp;
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <em>Toalha de banho com capuz em felpa ultra macia Buddemeyer na cor branca. Barrado no capuz em tecido piquê branco. Bordado sobre o barrado de Coroa na cor Rosa. Disponível na loja online XiqueXique Brasil. <a href="https://www.xiquexiquebrasil.com.br/bebe/banho-bebe" target="_blank">Clique aqui e veja toda a linha banho da loja para bebês</a>.</em>
+  _Toalha de banho com capuz em felpa ultra macia Buddemeyer na cor branca. Barrado no capuz em tecido piquê branco. Bordado sobre o barrado de Coroa na cor Rosa. Disponível na loja online XiqueXique Brasil. [Clique aqui e veja toda a linha banho da loja para bebês](https://www.xiquexiquebrasil.com.br/bebe/banho-bebe) ._
 </p>
 
 &nbsp;
@@ -119,7 +119,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Então… quem não tem vontade de se deliciar numa fatia de bolo como essa? Ai, que difícil resistir! Mas você sabe como é, <em>né</em>? A Carol sempre nos presenteia com alternativas que nos deixam felizes em dose dupla: uma porque a receita é linda e gostosa, e outra porque é saudável. Tem coisa melhor? Tem não… ah! Até tem: o fato de ser bem fácil de reproduzir. Quer aprender como faz? Repara só:
+  Então… quem não tem vontade de se deliciar numa fatia de bolo como essa? Ai, que difícil resistir! Mas você sabe como é, _né_? A Carol sempre nos presenteia com alternativas que nos deixam felizes em dose dupla: uma porque a receita é linda e gostosa, e outra porque é saudável. Tem coisa melhor? Tem não… ah! Até tem: o fato de ser bem fácil de reproduzir. Quer aprender como faz? Repara só:
 </p>
 
 <p align="center">
@@ -150,23 +150,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank">**Salmão ao molho de manga**</a>
+  [**Salmão ao molho de manga**](http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank">**Mini abóbora recheada de cuscuz marroquino**</a>
+  [**Mini abóbora recheada de cuscuz marroquino**](http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank">**Mousse de abacate e cacau em pó**</a>
+  [**Mousse de abacate e cacau em pó**](http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

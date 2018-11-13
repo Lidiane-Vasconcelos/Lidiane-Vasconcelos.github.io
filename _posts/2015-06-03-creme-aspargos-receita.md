@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Está sentindo a temperatura mais amena? Pois é, agora você já pode lançar mão dos cremes e sopas no cardápio da família, e por aqui as dicas já começam a surgir. Dessa vez a nossa querida Carol, moça das receitas saudáveis, enviou um creme de aspargos bem simples de você reproduzir por aí. Carol já avisou: a receita é levinha, já que o aspargo tem, em média, apenas 7 calorias. Bom, não é? Vamos á receita dessa delícia <em>superultramega</em> saudável?
+  Está sentindo a temperatura mais amena? Pois é, agora você já pode lançar mão dos cremes e sopas no cardápio da família, e por aqui as dicas já começam a surgir. Dessa vez a nossa querida Carol, moça das receitas saudáveis, enviou um creme de aspargos bem simples de você reproduzir por aí. Carol já avisou: a receita é levinha, já que o aspargo tem, em média, apenas 7 calorias. Bom, não é? Vamos á receita dessa delícia _superultramega_ saudável?
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 > <p align="justify">
->   <em>**Corte os aspargos em rodelas (elimine a parte mais grossa do talo, pois é bem fibroso, mas não jogue fora, junte com alguns legumes e faça caldo caseiro)… Refoge o aspargo no fio de azeite, cebola e alho. Deixe refogar bem e em fogo baixo. Depois acrescente a água e cozinhe bem. Bata no mixer/liquidificador, volte para a panela e deixe engrossar. Tempere com sal e pimenta moída na hora. No final, acrescente o creme de ricota e mexa bem.**</em>
+>   _**Corte os aspargos em rodelas (elimine a parte mais grossa do talo, pois é bem fibroso, mas não jogue fora, junte com alguns legumes e faça caldo caseiro)… Refoge o aspargo no fio de azeite, cebola e alho. Deixe refogar bem e em fogo baixo. Depois acrescente a água e cozinhe bem. Bata no mixer/liquidificador, volte para a panela e deixe engrossar. Tempere com sal e pimenta moída na hora. No final, acrescente o creme de ricota e mexa bem.**_
 > </p>
 
 <p align="center">
@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/" target="_blank">**Bolo prestígio saudável**</a>
+  [**Bolo prestígio saudável**](http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank">**Salmão ao molho de manga**</a>
+  [**Salmão ao molho de manga**](http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank">**Mini abóbora recheada de cuscuz marroquino**</a>
+  [**Mini abóbora recheada de cuscuz marroquino**](http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/) 
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

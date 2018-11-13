@@ -12,7 +12,7 @@ categories:
   - Saúde Infantil
 ---
 <p align="justify">
-  Ter uma gestação tranquila é o maior dos desejos de 10 em cada 10 mulheres, certo? Não há como contestar isso. O que também é verdade é que, embora a condição física da mulher conte bastante, bem como suas características emocionais, há algumas regrinhas de ouro que, se seguidas, podem facilitar muito todo esse processo. Você está grávida e também quer curtir esse momento com mais leveza? Ou, quem sabe, há uma mamãe ainda grávida em seu convívio e você quer ajudá-la nesse sentido? Este post foi pensado exatamente para isso, <em>viu</em>?
+  Ter uma gestação tranquila é o maior dos desejos de 10 em cada 10 mulheres, certo? Não há como contestar isso. O que também é verdade é que, embora a condição física da mulher conte bastante, bem como suas características emocionais, há algumas regrinhas de ouro que, se seguidas, podem facilitar muito todo esse processo. Você está grávida e também quer curtir esse momento com mais leveza? Ou, quem sabe, há uma mamãe ainda grávida em seu convívio e você quer ajudá-la nesse sentido? Este post foi pensado exatamente para isso, _viu_?
 </p>
 
 <p align="justify">
@@ -32,7 +32,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você não quer ficar redonda ao extremo e, depois, ter uma dificuldade enorme para perder todo o peso adquirido na gestação, pare… e reveja suas crenças. Essa história de que a grávida “precisa” comer por dois já está mais do que ultrapassada, e a médica explica bem o porquê: <em>“O período da gestação e amamentação exige muito do corpo da mulher pois através dele é que o bebê adquire nutrientes para se desenvolver. Tanto é que nessas fases, as doses de vitaminas e minerais necessários são diferentes de uma mulher não grávida. Estamos falando de uma alimentação equilibrada e com nutrientes essenciais. Em nenhum momento se justifica a mulher comer &#8220;de tudo um pouco&#8221; principalmente porque determinados alimentos como os que contém cafeína, por exemplo, quanto menos forem consumidos, melhor”.</em>
+  Se você não quer ficar redonda ao extremo e, depois, ter uma dificuldade enorme para perder todo o peso adquirido na gestação, pare… e reveja suas crenças. Essa história de que a grávida “precisa” comer por dois já está mais do que ultrapassada, e a médica explica bem o porquê: _“O período da gestação e amamentação exige muito do corpo da mulher pois através dele é que o bebê adquire nutrientes para se desenvolver. Tanto é que nessas fases, as doses de vitaminas e minerais necessários são diferentes de uma mulher não grávida. Estamos falando de uma alimentação equilibrada e com nutrientes essenciais. Em nenhum momento se justifica a mulher comer &#8220;de tudo um pouco&#8221; principalmente porque determinados alimentos como os que contém cafeína, por exemplo, quanto menos forem consumidos, melhor”._
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se a mulher não engravida até os 35 anos, logo vem o sinal de alerta. Esse receio tem razão de ser? De acordo com a Dra. Denise, <em>“35 anos é um ponto de corte. Após essa idade começa a haver um declínio nos níveis hormonais e alterações no metabolismo feminino como um todo, alterando também os hormônios relacionados à fertilidade. Esse declínio acontece lentamente ano a ano. Claro que isso está intimamente relacionado à questão genética e alimentação também. Algumas mulheres já chegam nesta fase com hormônios bastante alterados enquanto outras engravidam com 38, 40 anos”.</em>
+  Se a mulher não engravida até os 35 anos, logo vem o sinal de alerta. Esse receio tem razão de ser? De acordo com a Dra. Denise, _“35 anos é um ponto de corte. Após essa idade começa a haver um declínio nos níveis hormonais e alterações no metabolismo feminino como um todo, alterando também os hormônios relacionados à fertilidade. Esse declínio acontece lentamente ano a ano. Claro que isso está intimamente relacionado à questão genética e alimentação também. Algumas mulheres já chegam nesta fase com hormônios bastante alterados enquanto outras engravidam com 38, 40 anos”._
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você também tem essa dúvida sobre do que se trata essa doença, a hora de entendê-la é agora. A Dra. Denise explica que “<em>são alterações metabólicas induzidas pelos hormônios da gravidez que levam a um aumento na resistência insulínica e consequentemente diabetes. Uma vez finalizada a gravidez, os hormônios retornam ao normal e a insulina e glicemia tendem a voltar ao normal. Em alguns poucos casos, a diabetes persiste. Geralmente, em mulheres com histórico familiar ou sobrepeso.”</em>
+  Se você também tem essa dúvida sobre do que se trata essa doença, a hora de entendê-la é agora. A Dra. Denise explica que “_são alterações metabólicas induzidas pelos hormônios da gravidez que levam a um aumento na resistência insulínica e consequentemente diabetes. Uma vez finalizada a gravidez, os hormônios retornam ao normal e a insulina e glicemia tendem a voltar ao normal. Em alguns poucos casos, a diabetes persiste. Geralmente, em mulheres com histórico familiar ou sobrepeso.”_
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Imagem: </em><a href="http://www.kissthegroom.com/2009/08/lovely-little-luca/" target="_blank">Kiss The Groom</a>
+  _Imagem: _[Kiss The Groom](http://www.kissthegroom.com/2009/08/lovely-little-luca/) 
 </p>
 
 <p align="center">
@@ -96,11 +96,11 @@ categories:
 </p>
 
 <p align="justify">
-  Meninas, é preciso que se diga que a **Dra. Denise Vasconcelos** tem um site incrível, recheado de muita informação pertinente a saúde da mulher, tanto em forma de blog, com posts ricos em orientações, como em vídeos. Vale <em>superultramega </em>a pena você espiar! <a href="http://dradenisevasconcelos.com.br/" target="_blank">Clique aqui e fique por dentro de tudo</a>! É lá, também, que você saberá como entrar em contato com a médica e até marcar uma consulta. Ah! Não deixe de <a href="https://www.facebook.com/dradenisevasconcelos" target="_blank">curtir sua fanpage no Facebook</a> e acompanhar suas atualizações por lá também. Informe-se!
+  Meninas, é preciso que se diga que a **Dra. Denise Vasconcelos** tem um site incrível, recheado de muita informação pertinente a saúde da mulher, tanto em forma de blog, com posts ricos em orientações, como em vídeos. Vale _superultramega _a pena você espiar! [Clique aqui e fique por dentro de tudo](http://dradenisevasconcelos.com.br/) ! É lá, também, que você saberá como entrar em contato com a médica e até marcar uma consulta. Ah! Não deixe de [curtir sua fanpage no Facebook](https://www.facebook.com/dradenisevasconcelos)  e acompanhar suas atualizações por lá também. Informe-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

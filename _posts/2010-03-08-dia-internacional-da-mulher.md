@@ -59,7 +59,7 @@ Que a gente um dia, lá no futuro, receba flores nesta data. Apenas isso. O dia 
 
 Quem viver, verá!
 
-Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
+Imagens: [stock.xchng](http://www.sxc.hu/) 
 
 **Mais no Bicha Fêmea…**
 

@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Turistando em Helsinki</em>
+  _Turistando em Helsinki_
 </p>
 
 > <p align="justify">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Neve</em>
+  _Neve_
 </p>
 
 > <p align="justify">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Caminho de casa</em>
+  _Caminho de casa_
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Vista da minha sacada</em>
+  _Vista da minha sacada_
 </p>
 
 > <p align="justify">
@@ -80,7 +80,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Praça do Senado em Helsinki</em>
+  _Praça do Senado em Helsinki_
 </p>
 
 > <p align="justify">
@@ -168,7 +168,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+  **[As voltas que a vida dá nos leva a lugares inimagináveis!](http://www.trololodemulher.com.br/2014/09/08/vida-lugares/) **
 </p>
 
 <p align="justify">
@@ -176,23 +176,23 @@ categories:
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank">Se você fosse mãe lá na Finlândia…</a>**
+  **[Se você fosse mãe lá na Finlândia…](http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso… lá na Finlândia é assim!</a>**
+  **[Educação, ordem e progresso… lá na Finlândia é assim!](http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/) **
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/" target="_blank">Dias e dias sem sol: o temido Novembro lá na Finlândia</a>**
+  **[Dias e dias sem sol: o temido Novembro lá na Finlândia](http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/) **
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O **Entre Vodka e Cachaça** também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts)  Eu já!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

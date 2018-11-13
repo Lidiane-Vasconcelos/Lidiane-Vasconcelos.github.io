@@ -71,16 +71,16 @@ categories:
 
 **Não deixe de ler:**
 
-<a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank">**4 ideias para decoração de banheiro pequeno.**</a>
+[**4 ideias para decoração de banheiro pequeno.**](http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/) 
 
-<a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank">**Dicas e imagens: como maximizar o banheiro.**</a>
+[**Dicas e imagens: como maximizar o banheiro.**](http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/) 
 
-<a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">**5 ideias de organização do banheiro que favorecem a decoração.**</a>
+[**5 ideias de organização do banheiro que favorecem a decoração.**](http://www.decoracaodacasa.com/organizacao-do-banheiro/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

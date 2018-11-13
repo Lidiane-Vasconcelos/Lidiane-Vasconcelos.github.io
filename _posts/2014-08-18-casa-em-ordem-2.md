@@ -16,7 +16,7 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 &nbsp;
 
 <p align="justify">
-  Não sei se você sabe, tenho um menino de 1 ano e 8 meses. Eu mesma cuido da casa por aqui, em parceria com o marido, claro! Eu trabalho cuidando deste blog e do <a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a>. Tenho ajuda extra, sim, mas a cada 15 dias. Como você deve imaginar, seria bem fácil o caos se instalar num lar onde há criança e a não há alguém com dedicação ex-clu-si-va para as coisas da casa, certo? #sóquenão!
+  Não sei se você sabe, tenho um menino de 1 ano e 8 meses. Eu mesma cuido da casa por aqui, em parceria com o marido, claro! Eu trabalho cuidando deste blog e do [Decoração da Casa](http://www.decoracaodacasa.com/) . Tenho ajuda extra, sim, mas a cada 15 dias. Como você deve imaginar, seria bem fácil o caos se instalar num lar onde há criança e a não há alguém com dedicação ex-clu-si-va para as coisas da casa, certo? #sóquenão!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
+  Imagem: [freeimages](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
@@ -40,15 +40,15 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/" target="_blank">**Casa em ordem, já! Como? Veja 19 dicas.**</a>
+  [**Casa em ordem, já! Como? Veja 19 dicas.**](http://www.trololodemulher.com.br/2014/06/06/casa-em-ordem/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/" target="_blank">**Siga 10 passos e o canto da bagunça deixará de existir.**</a>
+  [**Siga 10 passos e o canto da bagunça deixará de existir.**](http://www.trololodemulher.com.br/2011/04/01/bagunca-organizacao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-casa/" target="_blank">**18 hábitos da pessoa organizada na arrumação da casa.**</a>
+  [**18 hábitos da pessoa organizada na arrumação da casa.**](http://www.decoracaodacasa.com/organizacao-da-casa/) 
 </p>
 
 <p align="justify">
@@ -64,11 +64,11 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/dicas-organizacao-da-casa/" target="_blank">**Dicas de organização para toda a casa.**</a>
+  [**Dicas de organização para toda a casa.**](http://www.decoracaodacasa.com/dicas-organizacao-da-casa/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/5-dicas-de-oganizacao/" target="_blank">**5 dicas de organização, passe bem, e seja feliz!**</a>
+  [**5 dicas de organização, passe bem, e seja feliz!**](http://www.decoracaodacasa.com/5-dicas-de-oganizacao/) 
 </p>
 
 <p align="justify">
@@ -80,17 +80,17 @@ Uma vez uma leitora me disse que uma casa em ordem até nos ilude quanto a limpe
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/" target="_blank">**Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!**</a>
+  [**Como você dá conta das tarefas diárias? Veja 20 dicas e agilize!**](http://www.trololodemulher.com.br/2013/07/05/tarefas-domesticas/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/" target="_blank">**Dicas para facilitar a rotina doméstica.**</a>
+  [**Dicas para facilitar a rotina doméstica.**](http://www.trololodemulher.com.br/2010/09/10/dicas-rotina-domestica/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/" target="_blank">**Ações esquecidas no cuidado da casa, porém necessárias.**</a>
+  [**Ações esquecidas no cuidado da casa, porém necessárias.**](http://www.trololodemulher.com.br/2010/08/20/cuidado-da-casa/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

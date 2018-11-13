@@ -28,11 +28,11 @@ Hoje é dia de receita bonita, gostosa e saudável por aqui. Oba! A dica da Caro
 > </p>
 > 
 > <p align="justify">
->   <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/" target="_blank">**Você sabe preparar um molho de tomate SSS?**</a>
+>   [**Você sabe preparar um molho de tomate SSS?**](http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/) 
 > </p>
 > 
 > <p align="justify">
->   <a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/" target="_blank">**O molho ao sugo da Cláudia Ramalho eu já fiz e, oh: hummm…**</a>
+>   [**O molho ao sugo da Cláudia Ramalho eu já fiz e, oh: hummm…**](http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/) 
 > </p>
 > 
 > <p align="justify">
@@ -63,12 +63,12 @@ Hoje é dia de receita bonita, gostosa e saudável por aqui. Oba! A dica da Caro
 
 &nbsp;
 
-Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

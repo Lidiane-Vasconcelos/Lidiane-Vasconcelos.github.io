@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.dreamgreendiy.com/blog/" target="_blank">Dream Green DIY</a>
+  Via [Dream Green DIY](http://www.dreamgreendiy.com/blog/) 
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://shopsweetthings.com/" target="_blank">Shop Sweet Things</a>
+  Via [Shop Sweet Things](http://shopsweetthings.com/) 
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.styleathome.com/" target="_blank">Style at Home</a>
+  Via [Style at Home](http://www.styleathome.com/) 
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank">**Amarelo na decoração: 8 imagens com detalhes solares**</a>
+  [**Amarelo na decoração: 8 imagens com detalhes solares**](http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/) 
 </p>
 
 <p align="center">
@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
-  E se sua mesa de cabeceira por si só for um elemento de decoração pra lá de inspirador? Vivi de amores quando bati os olhos nesse móvel com <em>pegada vintage</em>. Branquinho assim… é pra suspirar e transbordar romantismo e feminilidade.
+  E se sua mesa de cabeceira por si só for um elemento de decoração pra lá de inspirador? Vivi de amores quando bati os olhos nesse móvel com _pegada vintage_. Branquinho assim… é pra suspirar e transbordar romantismo e feminilidade.
 </p>
 
 <p align="justify">
-  **Para quem ama o que é <em>vintage</em>:**
+  **Para quem ama o que é _vintage_:**
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/" target="_blank">**Quer toques de decoração vintage em casa? Veja 7 dicas.**</a>
+  [**Quer toques de decoração vintage em casa? Veja 7 dicas.**](http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/" target="_blank">**Objetos vintage: 4 ideias de organização**</a>
+  [**Objetos vintage: 4 ideias de organização**](http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/) 
 </p>
 
 <p align="center">
@@ -94,11 +94,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://allyredhead.blogspot.com.br/" target="_blank">Ally Redhead</a>
+  Via [Ally Redhead](http://allyredhead.blogspot.com.br/) 
 </p>
 
 <p align="justify">
-  Seja com medidas mais largas ou enxutas, se de acrílico, somente os objetos sobre a mesa é que aparecem. Eles parecem flutuar… e podem até ter uma <em>bossa</em> mais luxuosa, porque nem mesmo o móvel disputará sua atenção com eles.
+  Seja com medidas mais largas ou enxutas, se de acrílico, somente os objetos sobre a mesa é que aparecem. Eles parecem flutuar… e podem até ter uma _bossa_ mais luxuosa, porque nem mesmo o móvel disputará sua atenção com eles.
 </p>
 
 <p align="center">
@@ -106,11 +106,11 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+  Via [Better Homes and Gardens](http://www.bhg.com/) 
 </p>
 
 <p align="justify">
-  Com <em>design</em> moderno e limpo em suas linhas, a novidade na nossa seleção é o uso de um espelho enorme atrás do móvel. E se as ideias fervilham em sua cabeça, é bom lembrar de deixar um caderninho e canetas ao lado da cama… só pra lembrar.
+  Com _design_ moderno e limpo em suas linhas, a novidade na nossa seleção é o uso de um espelho enorme atrás do móvel. E se as ideias fervilham em sua cabeça, é bom lembrar de deixar um caderninho e canetas ao lado da cama… só pra lembrar.
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
@@ -130,7 +130,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
@@ -142,11 +142,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank">**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**</a>
+  [**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**](http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/" target="_blank">**Como ganhar (e não perder) espaço em quartos pequenos?**</a>
+  [**Como ganhar (e não perder) espaço em quartos pequenos?**](http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/) 
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@ categories:
 </p>
 
 <p align="center">
-  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
+  Via [HGTV](http://www.hgtv.com/) 
 </p>
 
 <p align="justify">
@@ -166,9 +166,9 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/" target="_blank">**Truques de decoração: bandejas… por que te quero?**</a>
+  [**Truques de decoração: bandejas… por que te quero?**](http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

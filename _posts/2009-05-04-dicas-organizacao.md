@@ -31,7 +31,7 @@ Vamos ver o que mais podemos aprender (juntas) hoje? Então, ser organizada é�
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.marthastewart.com/" src="http://images.marthastewart.com/images/content/pub/special_issues/2005/a100272_gt05_shelves_l.jpg" alt="http://www.marthastewart.com/" />
 </p>
 
-…usar cestas e caixas para colocar ordem na bagunça do armário. Das caixas e cestos sou fã _meesmo_. Fica tudo bonitinho e no lugar. <span style="color: #800080;">Alguém aí ainda resiste a esse recurso de organização, “<em>pelamor</em>”???<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0015.gif"><img style="display: inline;" title="clip_image001[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0015-thumb.gif" alt="clip_image001[5]" width="20" height="18" /></a></span>
+…usar cestas e caixas para colocar ordem na bagunça do armário. Das caixas e cestos sou fã _meesmo_. Fica tudo bonitinho e no lugar. <span style="color: #800080;">Alguém aí ainda resiste a esse recurso de organização, “_pelamor_”???<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0015.gif"><img style="display: inline;" title="clip_image001[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/clip-image0015-thumb.gif" alt="clip_image001[5]" width="20" height="18" /></a></span>
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.marthastewart.com/" src="http://images.marthastewart.com/images/content/web/goodthings/gt069_towelhold01_l.jpg" alt="http://www.marthastewart.com/" />
@@ -59,7 +59,7 @@ Também na hora de pendurar as roupas, colocá-los (os cabides) com o ganchos vi
 
 …escolher uma caixa, um cesto ou qualquer outro recipiente que possa servir para organizar os seus controles.
 
-Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
+Imagens: [Martha Stewart](http://www.marthastewart.com/) 
 
 <span style="color: #800080;">Diz aí, bonita, você tem alguma dica legal para compartilhar e ilustrar o que seria ser uma pessoa organizada?</span>
 

@@ -14,7 +14,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Aliás, difícil é encontrar quem não tenha, <em>né</em>? Pois é&#8230; e nesses dias de Verão que estão por vir eles não são perfeitos? Se você não se rendeu a essas delícias refrescantes que deixam nossa pele fresquinha, prepare-se para uma série das boas de indicações. As sugestões são minhas e de outras bichas fêmeas navegantes.Se joga nesse frescor!
+  Aliás, difícil é encontrar quem não tenha, _né_? Pois é&#8230; e nesses dias de Verão que estão por vir eles não são perfeitos? Se você não se rendeu a essas delícias refrescantes que deixam nossa pele fresquinha, prepare-se para uma série das boas de indicações. As sugestões são minhas e de outras bichas fêmeas navegantes.Se joga nesse frescor!
 </p>
 
 <!--more-->
@@ -54,15 +54,15 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **1 & 2** – <em>“Oi, Lidi! Tenho usado e amado o **Hidratante Dramatically Different Moisturizing Gel da Clinique**. O fabricante afirma que o &#8220;gel hidratante sem óleo desenvolvido pelos dermatologistas da Clinique mantém a hidratação da pele, deixando-a balanceada. Contém micro-esponjas que ajudam a manter a pele sem brilho. Hidrata e deixa a pele macia. Recomendado para peles normais à oleosas”. Uso há bastante tempo por dois motivos muito importantes: **primeiro ele é realmente sequinho, some na pele e não deixa nadinha oleosa e segundo, ele duuuura!** Uma gota ridícula do produto cobre todo o rosto! Quem já usou sabe que não estou exagerando. O hidratante em gel vem em duas embalagens de 125 e 50 ml. Super recomendo. Juntamente com ele uso o **Episol Water Gel FPS 30**. Esse produtinho tem uma consistência bem fininha, não-oleosa, que minha pele absorve completamente. O fato dele não possuir nem parabenos nem corantes aumentou meu interesse em experimentá-lo . O fabricante garante que o produto &#8220;possui grau muito alto de proteção contra queimaduras solares raios UVA e UVB. O uso regular auxilia na proteção do câncer de pele e outros efeitos danosos causados pelo sol. É um gel aquoso hipoalergênico, não provoca cravos, foi formulado de maneira a minimizar o possível surgimento de alergias, não possui álcool em sua formulação.&#8221; Com o uso diário **percebi que realmente ele segura a oleosidade por mais tempo que os produtos que usei antes, não briga com meus cremes anti-sinais nem meu hidratante**.”</em> **Cely Bezerra**
+>   **1 & 2** – _“Oi, Lidi! Tenho usado e amado o **Hidratante Dramatically Different Moisturizing Gel da Clinique**. O fabricante afirma que o &#8220;gel hidratante sem óleo desenvolvido pelos dermatologistas da Clinique mantém a hidratação da pele, deixando-a balanceada. Contém micro-esponjas que ajudam a manter a pele sem brilho. Hidrata e deixa a pele macia. Recomendado para peles normais à oleosas”. Uso há bastante tempo por dois motivos muito importantes: **primeiro ele é realmente sequinho, some na pele e não deixa nadinha oleosa e segundo, ele duuuura!** Uma gota ridícula do produto cobre todo o rosto! Quem já usou sabe que não estou exagerando. O hidratante em gel vem em duas embalagens de 125 e 50 ml. Super recomendo. Juntamente com ele uso o **Episol Water Gel FPS 30**. Esse produtinho tem uma consistência bem fininha, não-oleosa, que minha pele absorve completamente. O fato dele não possuir nem parabenos nem corantes aumentou meu interesse em experimentá-lo . O fabricante garante que o produto &#8220;possui grau muito alto de proteção contra queimaduras solares raios UVA e UVB. O uso regular auxilia na proteção do câncer de pele e outros efeitos danosos causados pelo sol. É um gel aquoso hipoalergênico, não provoca cravos, foi formulado de maneira a minimizar o possível surgimento de alergias, não possui álcool em sua formulação.&#8221; Com o uso diário **percebi que realmente ele segura a oleosidade por mais tempo que os produtos que usei antes, não briga com meus cremes anti-sinais nem meu hidratante**.”_ **Cely Bezerra**
 > </p>
 
 > <p align="justify">
->   **3 **– “<em>Lidi, esse protetor – **Anthelios AC Gel Creme FPS30 La Roche-Posay** &#8211; é MARA! **Vale o investimento**.”</em> **Juliana Stelli | **<a href="http://www.pitadinha.com/" target="_blank">**Pitadinha**</a>
+>   **3 **– “_Lidi, esse protetor – **Anthelios AC Gel Creme FPS30 La Roche-Posay** &#8211; é MARA! **Vale o investimento**.”_ **Juliana Stelli | **[**Pitadinha**](http://www.pitadinha.com/) 
 > </p>
 
 > <p align="justify">
->   **4 **– “<em>Oiê! Também acho uma delicia os produtos em gel! Hoje em dia ando meio desleixada comigo, vida moderna horrorosa, mas&#8230; amo o corporal: **Gel-Creme Express da Nívea,** ele realmente é **refrescante e tem um cheirinho delicioso**! Fica a dica!! Bjks ; D</em>” **Adriana Moreira**
+>   **4 **– “_Oiê! Também acho uma delicia os produtos em gel! Hoje em dia ando meio desleixada comigo, vida moderna horrorosa, mas&#8230; amo o corporal: **Gel-Creme Express da Nívea,** ele realmente é **refrescante e tem um cheirinho delicioso**! Fica a dica!! Bjks ; D_” **Adriana Moreira**
 > </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ categories:
 </table>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -129,13 +129,13 @@ categories:
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

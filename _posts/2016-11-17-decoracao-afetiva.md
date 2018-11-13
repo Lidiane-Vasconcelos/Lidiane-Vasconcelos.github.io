@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>O porta-retrato de EVA que Artur me deu, todo contente, no dia da festa das mães na escola, é o melhor dos itens decorativos no meu home office. Decoração afetiva é aquela que a gente bate os olhos e sente um afago no coração.</em>
+  _O porta-retrato de EVA que Artur me deu, todo contente, no dia da festa das mães na escola, é o melhor dos itens decorativos no meu home office. Decoração afetiva é aquela que a gente bate os olhos e sente um afago no coração._
 </p>
 
 <p align="justify">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  O que também é verdade é que as coisas podem deixar de nos traduzir, porque nada nessa vida é permanente. Ao longo de nosso caminho vamos sendo forjados pelas nossas experiências, trocas, aprendizados, encontros com pessoas. O que antes tinha significado, hoje pode não ter, ou se re-significa. É neste contexto que se desfazer de algumas coisas é bem importante. Desapegar é deixar ir o que não serve mais ao coração, talvez a função mais importante de um objeto. Tão importante quanto saber o que nos inspira é entender o que não nos preenche mais, e atravessar esse momento com tranquilidade, <em>**soltando o que deixou de ser**</em> em nós. A vida pede passagem, e se reinventar diante dela salva.
+  O que também é verdade é que as coisas podem deixar de nos traduzir, porque nada nessa vida é permanente. Ao longo de nosso caminho vamos sendo forjados pelas nossas experiências, trocas, aprendizados, encontros com pessoas. O que antes tinha significado, hoje pode não ter, ou se re-significa. É neste contexto que se desfazer de algumas coisas é bem importante. Desapegar é deixar ir o que não serve mais ao coração, talvez a função mais importante de um objeto. Tão importante quanto saber o que nos inspira é entender o que não nos preenche mais, e atravessar esse momento com tranquilidade, _**soltando o que deixou de ser**_ em nós. A vida pede passagem, e se reinventar diante dela salva.
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

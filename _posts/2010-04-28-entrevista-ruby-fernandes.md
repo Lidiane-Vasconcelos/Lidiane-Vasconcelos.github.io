@@ -10,7 +10,7 @@ categories:
   - Comportamento
   - Entrevistas
 ---
-Cargo, _status_ ou carreira, nada disso foi prioridade na vida de Ruby quando ela se tornou mãe. Aos poucos, de forma consciente e planejada, a blogueira de talento reconhecido para a criação de _belezuras_, e dona do blog “<a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>”, consolidou a escolha por ser mãe em tempo integral, diva do lar prendada e dona de seu próprio tempo.
+Cargo, _status_ ou carreira, nada disso foi prioridade na vida de Ruby quando ela se tornou mãe. Aos poucos, de forma consciente e planejada, a blogueira de talento reconhecido para a criação de _belezuras_, e dona do blog “[Meu Canto, Minha Prosa](http://meucantominhaprosa.blogspot.com/) ”, consolidou a escolha por ser mãe em tempo integral, diva do lar prendada e dona de seu próprio tempo.
 
 <!--more-->
 
@@ -96,7 +96,7 @@ _É todo conjunto da obra, mostro minha casa, minha família, meus artesanatos, 
 
 _Não sei, prefiro pensar um dia de cada vez. O que tem me deixado chateada é não conseguir responder a todos os comentários do bloguito._
 
-**A <a href="http://www.lojinhadaruby.blogspot.com/" target="_blank">loja virtual</a> pode tornar-se real também?**
+**A [loja virtual](http://www.lojinhadaruby.blogspot.com/)  pode tornar-se real também?**
 
 _Não, apesar de já ter recebido propostas, não saio de casa de jeito nenhum, a lojinha é um pequeno prazer, se virar obrigação perde a graça._
 

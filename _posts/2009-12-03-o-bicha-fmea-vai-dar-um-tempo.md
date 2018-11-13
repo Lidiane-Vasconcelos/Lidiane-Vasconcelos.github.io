@@ -23,4 +23,4 @@ Pode deixar comigo que eu farei um sinal de fumaça quando tudo estiver pronto, 
 
 Até a volta, bonita!!!
 
-Imagem: <a href="http://mariejosephine.wordpress.com/" target="_blank">The Birds and The Bees</a>
+Imagem: [The Birds and The Bees](http://mariejosephine.wordpress.com/) 

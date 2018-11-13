@@ -45,13 +45,13 @@ E se eu te disser que o que você precisa tem para pronta entrega, e com um prec
 </p>
 
 <p align="justify">
-  Para visitar a **loja **já e aproveitar o desconto, <a href="https://www.personalbuyers.com.br/" target="_blank">clique aqui</a>.
+  Para visitar a **loja **já e aproveitar o desconto, [clique aqui](https://www.personalbuyers.com.br/) .
 </p>
 
 <p align="justify">
-  Para conhecer o **blog da loja**, acompanhar os posts e tudo o mais, <a href="http://personalbuyers.blogspot.com.br/" target="_blank">clique aqui</a>.
+  Para conhecer o **blog da loja**, acompanhar os posts e tudo o mais, [clique aqui](http://personalbuyers.blogspot.com.br/) .
 </p>
 
 <p align="justify">
-  Para curtir a **página no Facebook** e ficar por dentro de todas as novidades, <a href="https://www.facebook.com/PersonalBuyersShop" target="_blank">clique aqui</a>.
+  Para curtir a **página no Facebook** e ficar por dentro de todas as novidades, [clique aqui](https://www.facebook.com/PersonalBuyersShop) .
 </p>

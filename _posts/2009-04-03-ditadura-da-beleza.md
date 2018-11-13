@@ -28,21 +28,21 @@ Penso que beleza só seja alcançada através de um apanhado de atitudes que  e
 **Quer ler mais sobre reflexões acerca do universo feminino?**
 
 <div>
-  **<em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">Você é confiante?<br /> </a></em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/" target="_self">Você é confiante?<br /> </a>_**
 </div>
 
 <div>
-  **<em>**<em><a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/"><span style="color: #b85b5a;">Mulherzinha? Eu?</span></a></em>**</em>**
+  **_**_<a href="http://www.trololodemulher.com.br/2010/02/24/mulherzinha-preconceito/"><span style="color: #b85b5a;">Mulherzinha? Eu?</span></a>_**_**
 </div>
 
 **_ _** 
 
 <div>
-  **<em><a href="http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">Há competitividade entre as mulheres?</a> </em>**
+  **_<a href="http://www.trololodemulher.com.br/2010/02/25/competitividade-entre-mulheres/" target="_self">Há competitividade entre as mulheres?</a> _**
 </div>
 
 **_<a href="http://www.trololodemulher.com.br/2010/01/27/convidada-luciana-casado/" target="_self">A idade certa para ter filhos&#8230;</a> </p> 
 
 <a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/" target="_self">Por que será que queremos ser sempre heroínas?</a> 
 
-</em>**
+_**

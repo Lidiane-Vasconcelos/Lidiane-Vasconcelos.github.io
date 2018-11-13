@@ -29,7 +29,7 @@ Porque… _né_? Se você não comenta, como vou saber que você existe, bonita?
 </p>
 
 <p align="center">
-  Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
+  Imagem: **_[Stock.xchng](http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -59,7 +59,7 @@ Porque… _né_? Se você não comenta, como vou saber que você existe, bonita?
 &nbsp;
 
 <p align="justify">
-  A **Irani** terá a loja virtual de **adesivos decorativos **<a href="http://www.gaudesivos.com.br/index.php" target="_blank">**GAUDESIVOS**</a> para escolher. Isso mesmo! A loja **IN-TEI-RA**, cheia de opções, para ela e**scolher um dos produtos que mais gostar, eleger a cor preferida do adesivo, e receber o presente em casa**!
+  A **Irani** terá a loja virtual de **adesivos decorativos **[**GAUDESIVOS**](http://www.gaudesivos.com.br/index.php)  para escolher. Isso mesmo! A loja **IN-TEI-RA**, cheia de opções, para ela e**scolher um dos produtos que mais gostar, eleger a cor preferida do adesivo, e receber o presente em casa**!
 </p>
 
 <p align="justify">
@@ -75,13 +75,13 @@ Porque… _né_? Se você não comenta, como vou saber que você existe, bonita?
 </p>
 
 <p align="center">
-  Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
+  Imagem: **_[Stock.xchng](http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **Você pode**! Olha só: **visite a loja <a href="http://www.gaudesivos.com.br/index.php" target="_blank">GAUDESIVOS clicando bem aqui</a> e escolha o adesivo que você mais gostar, além da cor que ele terá. Depois volta aqui e, nos comentários, responda:**
+  **Você pode**! Olha só: **visite a loja [GAUDESIVOS clicando bem aqui](http://www.gaudesivos.com.br/index.php)  e escolha o adesivo que você mais gostar, além da cor que ele terá. Depois volta aqui e, nos comentários, responda:**
 </p>
 
 &nbsp;

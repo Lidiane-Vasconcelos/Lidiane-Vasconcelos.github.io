@@ -53,7 +53,7 @@ E quem dá o ar da graça e a receita linda de ver, e certamente melhor ainda de
 
 &nbsp;
 
-Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perdendo tempo, viu? Sim, ela escreve com um sotaque gostoso que só lendo. Essa mineira desgarrada em terras paulistanas conseguiu dar vida a um blog cheio de delícias, com uma prosa das boas e muitas _feminices_… quer conferir as novidades do **<a href="http://amehliadigital.com.br/" target="_blank">Amehlia Digital</a>**? Clica bem **<a href="http://amehliadigital.com.br/" target="_blank">aqui</a>** e se joga!
+Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perdendo tempo, viu? Sim, ela escreve com um sotaque gostoso que só lendo. Essa mineira desgarrada em terras paulistanas conseguiu dar vida a um blog cheio de delícias, com uma prosa das boas e muitas _feminices_… quer conferir as novidades do **[Amehlia Digital](http://amehliadigital.com.br/) **? Clica bem **[aqui](http://amehliadigital.com.br/) ** e se joga!
 
 &nbsp;
 
@@ -126,7 +126,7 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -141,13 +141,13 @@ Ei, bonita! Se você ainda não conhece o blog dessa queria prendada, está perd
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

@@ -22,17 +22,17 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Oxe! Vem, bonita! **Segue o Trololó de Mulher no Instagram** que eu estou <em>a-man-do</em> postar por lá também, viu? <a href="https://www.instagram.com/trololodemulher/" target="_blank">**Clica aqui, se joga que a gente se encontra por lá**</a>!
+  Oxe! Vem, bonita! **Segue o Trololó de Mulher no Instagram** que eu estou _a-man-do_ postar por lá também, viu? [**Clica aqui, se joga que a gente se encontra por lá**](https://www.instagram.com/trololodemulher/) !
 </p>
 
 <p align="justify">
-  E só para não esquecer, no **Facebook você encontra o Trololó de Mulher também**. <a href="https://www.facebook.com/TrololoMulher/" target="_blank">**Clica aqui, curta e acompanhe**</a>!!!!
+  E só para não esquecer, no **Facebook você encontra o Trololó de Mulher também**. [**Clica aqui, curta e acompanhe**](https://www.facebook.com/TrololoMulher/) !!!!
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

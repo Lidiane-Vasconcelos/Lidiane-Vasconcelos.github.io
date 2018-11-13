@@ -20,7 +20,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 <!--more-->
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/padarias-sao-paulo-campinas/" rel="attachment wp-att-8848"><img class="alignnone size-full wp-image-8848" title="PADARIAS-SAO PAULO-CAMPINAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PADARIAS-SAO-PAULO-CAMPINAS.png" alt="" width="389" height="209" /></a><br /> Imagem: **<em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em>**
+  [Stock.xchng](http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/padarias-sao-paulo-campinas/" rel="attachment wp-att-8848"><img class="alignnone size-full wp-image-8848" title="PADARIAS-SAO PAULO-CAMPINAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PADARIAS-SAO-PAULO-CAMPINAS.png" alt="" width="389" height="209" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
 </p>
 
 &nbsp;
@@ -30,7 +30,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 </p>
 
 <p align="justify">
-  Você também tem esse costume, bonita? Certeza que vale a pena experimentar esse jeitinho de aproveitar a vida, <em>viu</em>? Vale uma visitinha num cantinho repleto de gostosuras aí na sua cidade, numa manhã de fim de semana, sem pressa, com a família, para jogar conversa fora e experimentar novos sabores… vai por mim!
+  Você também tem esse costume, bonita? Certeza que vale a pena experimentar esse jeitinho de aproveitar a vida, _viu_? Vale uma visitinha num cantinho repleto de gostosuras aí na sua cidade, numa manhã de fim de semana, sem pressa, com a família, para jogar conversa fora e experimentar novos sabores… vai por mim!
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 <p align="justify">
-  Se você estiver na região de **Campinas**, deixa eu te contar aonde eu vou de vez em quando com o marido para me deliciar? Minha favorita para esse tipo de programa é a **<em><a href="http://www.boulangeriedefrance.com.br/bdf/" target="_blank">Boulangerie de France</a></em>**, onde encontramos uma série de delícias em pães, doces, salgados e lanches que só vendo!
+  Se você estiver na região de **Campinas**, deixa eu te contar aonde eu vou de vez em quando com o marido para me deliciar? Minha favorita para esse tipo de programa é a **_[Boulangerie de France](http://www.boulangeriedefrance.com.br/bdf/) _**, onde encontramos uma série de delícias em pães, doces, salgados e lanches que só vendo!
 </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 > <p align="justify">
->   “<em>Oi, Lidiane, tudo bem? Agora fala verdade, tem coisa mais gostosa? Agora então que chegou o inverno é mais gostoso ainda. Acordar tarde no sábado ensolarado, colocar aquele moletom quentinho e tomar café com maridão e o filho na padaria. Tenho muito este costume pois moro no bairro do **Brooklin em São Paulo** e aqui o que mais tem é padarias por perto. Quem nunca experimentou, faça que eu tenho certeza que vão adorar. Eu vou muito na padaria **Manhatan**, que fica aqui na minha rua mesmo, é muito boa!”</em> **Daniela Polo**
+>   “_Oi, Lidiane, tudo bem? Agora fala verdade, tem coisa mais gostosa? Agora então que chegou o inverno é mais gostoso ainda. Acordar tarde no sábado ensolarado, colocar aquele moletom quentinho e tomar café com maridão e o filho na padaria. Tenho muito este costume pois moro no bairro do **Brooklin em São Paulo** e aqui o que mais tem é padarias por perto. Quem nunca experimentou, faça que eu tenho certeza que vão adorar. Eu vou muito na padaria **Manhatan**, que fica aqui na minha rua mesmo, é muito boa!”_ **Daniela Polo**
 > </p>
 
 &nbsp;
@@ -64,7 +64,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 > <p align="justify">
->   “<em>Que delícia, Lidi! Tomar café na padaria é tudo de bom… rsrsrs …temos este costume há anos e a padaria que mais gostamos e frenquentamos é a **<a href="http://www.estadoluso.com.br/" target="_blank">Estado Luso (São Paulo)</a>**, fica em um bairro próximo de casa e as coisas lá são deliciosas, e as amizades que fizemos por lá são para sempre !!”</em> **Sueli Simões | **<a href="http://www.su-pessoaldetudoumpouco.blogspot.com.br/" target="_blank">**SU DE TUDO UM POUCO**</a>
+>   “_Que delícia, Lidi! Tomar café na padaria é tudo de bom… rsrsrs …temos este costume há anos e a padaria que mais gostamos e frenquentamos é a **[Estado Luso (São Paulo)](http://www.estadoluso.com.br/) **, fica em um bairro próximo de casa e as coisas lá são deliciosas, e as amizades que fizemos por lá são para sempre !!”_ **Sueli Simões | **[**SU DE TUDO UM POUCO**](http://www.su-pessoaldetudoumpouco.blogspot.com.br/) 
 > </p>
 
 &nbsp;
@@ -144,7 +144,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -159,13 +159,13 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

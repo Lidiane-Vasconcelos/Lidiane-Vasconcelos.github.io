@@ -18,49 +18,49 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Você tem alguma boa memória da sua infância? espero que sim. No meu caso, algumas das minhas melhores memórias me lembram a casa da minha avó, e é de lá que vou buscar essa receita.</em>
+  “_Você tem alguma boa memória da sua infância? espero que sim. No meu caso, algumas das minhas melhores memórias me lembram a casa da minha avó, e é de lá que vou buscar essa receita._
 </p>
 
 <p style="text-align: justify;">
-  <em>O resultado dessa  receita fácil de preparar é: uma galeia muito saborosa e versátil que pode ser usada com pães, biscoitos salgados ou até mesmo para rechear bolos.</em>
+  _O resultado dessa  receita fácil de preparar é: uma galeia muito saborosa e versátil que pode ser usada com pães, biscoitos salgados ou até mesmo para rechear bolos._
 </p>
 
 <p style="text-align: justify;">
-  **<em>Ingredientes</em>**
+  **_Ingredientes_**
 </p>
 
 <ul style="text-align: justify;">
   <li>
-    <em>600 g de bananas maduras picadinhas ou amassadas </em>
+    _600 g de bananas maduras picadinhas ou amassadas _
   </li>
   <li>
-    <em>100 g de açúcar granulado </em>
+    _100 g de açúcar granulado _
   </li>
   <li>
-    <em>2 colheres de sopa de limão </em>
+    _2 colheres de sopa de limão _
   </li>
   <li>
-    <em>Canela a gosto</em>
+    _Canela a gosto_
   </li>
 </ul>
 
 <ol style="text-align: justify;">
   <li>
-    <em>Adicione as bananas, o limão e o açúcar em uma panela; </em>
+    _Adicione as bananas, o limão e o açúcar em uma panela; _
   </li>
   <li>
-    <em>Cozinhe em fogo médio até ferver, mexendo sempre, especialmente no início; </em>
+    _Cozinhe em fogo médio até ferver, mexendo sempre, especialmente no início; _
   </li>
   <li>
-    <em>Continue o cozimento até a geleia atingir a consistência e cor que você deseja (após cerca de 20 minutos de cozimento a geleia terá uma cor marrom agradável); </em>
+    _Continue o cozimento até a geleia atingir a consistência e cor que você deseja (após cerca de 20 minutos de cozimento a geleia terá uma cor marrom agradável); _
   </li>
   <li>
-    <em>Pouco antes de terminar o cozimento polvilhe com um pouco de canela.</em>
+    _Pouco antes de terminar o cozimento polvilhe com um pouco de canela._
   </li>
 </ol>
 
 <p style="text-align: justify;">
-  <em>Deixe a geleia esfriaR e guarde em um recipiente esterilizado. Guarde na geladeira por até 2 semanas</em>.”
+  _Deixe a geleia esfriaR e guarde em um recipiente esterilizado. Guarde na geladeira por até 2 semanas_.”
 </p>
 
 &nbsp;
@@ -73,18 +73,18 @@ categories:
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank">**Chá de menta de Marraquexe, ou como acolher bem…**</a>
+[**Chá de menta de Marraquexe, ou como acolher bem…**](http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/) 
 
-<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank">**Sopa de abóbora e alho para aquecer os dias frios.**</a>
+[**Sopa de abóbora e alho para aquecer os dias frios.**](http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/) 
 
-<a href="http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/" target="_blank">**Receita de brownie de chocolate marmorizado.**</a>
+[**Receita de brownie de chocolate marmorizado.**](http://www.trololodemulher.com.br/2017/05/23/receita-de-brownie-de-chocolate/) 
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira [o blog de Tânia clicando aqui](https://iwanttobeacook.wordpress.com/) , e [sua fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está [no Instagram… clique aqui e siga](https://www.instagram.com/iwanttobeacook/) ! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>A dona do cantinho de trabalho dos mais inspiradores que já vi, e que você verá a seguir: Lia Griffith.</em>
+  _A dona do cantinho de trabalho dos mais inspiradores que já vi, e que você verá a seguir: Lia Griffith._
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Caixotes reutilizados como suportes para os monitores.</em>
+  _Caixotes reutilizados como suportes para os monitores._
 </p>
 
 <p align="justify">
@@ -38,11 +38,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/" target="_blank">**Decoração “faça você mesma” bem barata? É com a Keilla Colombo!**</a>
+  [**Decoração “faça você mesma” bem barata? É com a Keilla Colombo!**](http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/05/08/moveis-quarto/" target="_blank">**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**</a>
+  [**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**](http://www.bichafemea.com/2013/05/08/moveis-quarto/) 
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Mais uma lição de reutilização: potes de vidro reaproveitados a favor da organização do espaço.</em>
+  _Mais uma lição de reutilização: potes de vidro reaproveitados a favor da organização do espaço._
 </p>
 
 <p align="justify">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/10/27/organizacao-escritorio/" target="_blank">**Organização do escritório ou home office: dicas.**</a>
+  [**Organização do escritório ou home office: dicas.**](http://www.bichafemea.com/2009/10/27/organizacao-escritorio/) 
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Vasinho com cor suave recheado de flores de papel dando beleza ao espaço. Puro romantismo!</em>
+  _Vasinho com cor suave recheado de flores de papel dando beleza ao espaço. Puro romantismo!_
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Daqueles detalhes que a gente bate o olho e… ownnnn!</em>
+  _Daqueles detalhes que a gente bate o olho e… ownnnn!_
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>Eu, que sou gostadeira de canecas, bati o olho e pensei: oh, que caneca bacana, gente!</em>
+  _Eu, que sou gostadeira de canecas, bati o olho e pensei: oh, que caneca bacana, gente!_
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="center">
-  <em>O lindo colorido das washi tapes todas organizadinhas.</em>
+  _O lindo colorido das washi tapes todas organizadinhas._
 </p>
 
 <p align="justify">
@@ -98,13 +98,13 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2016/08/17/washi-tapes/" target="_blank">**Washi tapes: 3 ideias de decoração “faça você mesma”.**</a>
+  [**Washi tapes: 3 ideias de decoração “faça você mesma”.**](http://www.trololodemulher.com.br/2016/08/17/washi-tapes/) 
 </p>
 
 <p align="justify">
-  Difícil não viver de amores pelos detalhes do home office dessa blogueira, não é? Bem que eu falei! Se você quer espiar muito mais de seu espaços, <a href="http://liagriffith.com/my-home-tour-the-updated-office-space-how-we-use-our-intel-tablet/" target="_blank">há muitas outras fotos bem aqui</a>. Inspire-se!
+  Difícil não viver de amores pelos detalhes do home office dessa blogueira, não é? Bem que eu falei! Se você quer espiar muito mais de seu espaços, [há muitas outras fotos bem aqui](http://liagriffith.com/my-home-tour-the-updated-office-space-how-we-use-our-intel-tablet/) . Inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>

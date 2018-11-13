@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  Essa é uma caixa porta-jóias exclusiva, porque pode ser personalizada com o seu nome. Essa é apenas mais uma das delicadezas da **Boutique Ateline**, uma **loja especializada em artigos de decoração artesanais, feitos em MDF**. Fique á vontade para **dar uma espiadinha nos produtos**, <a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">clicando bem aqui</a>.
+  Essa é uma caixa porta-jóias exclusiva, porque pode ser personalizada com o seu nome. Essa é apenas mais uma das delicadezas da **Boutique Ateline**, uma **loja especializada em artigos de decoração artesanais, feitos em MDF**. Fique á vontade para **dar uma espiadinha nos produtos**, [clicando bem aqui](http://www.elo7.com.br/boutiqueateline/loja) .
 </p>
 
 <p align="justify">
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  1 – <a href="https://www.facebook.com/TrololoMulher/photos/a.301419516712695.1073741828.252977281556919/587490101438967/?type=3&theater" target="_blank">**Clique aqui e, no post do sorteio no Facebook**</a>, marque a amiga que você irá presentear com um porta-jóias.
+  1 – [**Clique aqui e, no post do sorteio no Facebook**](https://www.facebook.com/TrololoMulher/photos/a.301419516712695.1073741828.252977281556919/587490101438967/?type=3&theater) , marque a amiga que você irá presentear com um porta-jóias.
 </p>
 
 <p style="text-align: justify;">
@@ -45,7 +45,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  <a href="https://www.instagram.com/trololodemulher/" target="_blank">**Visite o Instagram do blog**</a> e, **na foto oficial do sorteio**, **marque a amiga que você quer presentear**.
+  [**Visite o Instagram do blog**](https://www.instagram.com/trololodemulher/)  e, **na foto oficial do sorteio**, **marque a amiga que você quer presentear**.
 </p>
 
 <p style="text-align: justify;">
@@ -53,7 +53,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  *O objetivo é que você, leitora do blog que vive de amores pelo nosso conteúdo e **aprecia o** **Trololó de Mulher**, apresente este espaço para sua amiga também. Vocês duas, neste momento, também estão tendo a oportunidade de conhecer a **<a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">Boutique Ateline</a> através do blog**. Não é bacana? Isso tudo é preparado para você, com muito carinho, viu?
+  *O objetivo é que você, leitora do blog que vive de amores pelo nosso conteúdo e **aprecia o** **Trololó de Mulher**, apresente este espaço para sua amiga também. Vocês duas, neste momento, também estão tendo a oportunidade de conhecer a **[Boutique Ateline](http://www.elo7.com.br/boutiqueateline/loja)  através do blog**. Não é bacana? Isso tudo é preparado para você, com muito carinho, viu?
 </p>
 
 &nbsp;
@@ -121,5 +121,5 @@ Boa sorte!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>

@@ -31,13 +31,13 @@ Vamos pensar e rever essas crenças, pois elas podem estar bloqueando um process
 
 Não somos perfeitos e não temos que ser…
 
-_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
+_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
 
 **_Luciana Kotaka – Psicóloga Clínica_**
 
 Especialista em Obesidade e Transtornos Alimentares
 
-<a href="http://www.comportamentomagro.com.br" target="_blank">WWW.comportamentomagro.com.br</a>
+[WWW.comportamentomagro.com.br](http://www.comportamentomagro.com.br) 
 
 **Quer ser uma bicha fêmea colaboradora? Então <a href="http://www.trololodemulher.com.br/colabore/" target="_self">clique aqui </a>e saiba como&#8230;**
 
@@ -48,5 +48,5 @@ Especialista em Obesidade e Transtornos Alimentares
 **_[Expectativas reais, você tem?](http://www.trololodemulher.com.br/2010/06/28/emagrecimento-expectativas/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em>**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
 </p>

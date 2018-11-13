@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank">**Amarelo na decoração: como usar?**</a>
+  [**Amarelo na decoração: como usar?**](http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/) 
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/" target="_blank">**Quarto com parede amarela: você quer inspirações?**</a>
+  [**Quarto com parede amarela: você quer inspirações?**](http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/) 
 </p>
 
 &nbsp;
@@ -69,12 +69,12 @@ categories:
 
 &nbsp;
 
-Imagens: <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
+Imagens: [Home Designing](http://www.home-designing.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 &nbsp;

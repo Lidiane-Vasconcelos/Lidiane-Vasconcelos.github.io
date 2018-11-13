@@ -30,7 +30,7 @@ Então, é assim:
 &nbsp;
 
 <p style="text-align: center;">
-  **<a href="https://www.facebook.com/bichafemea" target="_blank">Página do Bicha Fêmea no Facebook</a> | <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Meu perfil no Facebook</a>**
+  **[Página do Bicha Fêmea no Facebook](https://www.facebook.com/bichafemea)  | [Meu perfil no Facebook](https://www.facebook.com/lidiane.vasconcelos.94) **
 </p>
 
 <p style="text-align: center;">

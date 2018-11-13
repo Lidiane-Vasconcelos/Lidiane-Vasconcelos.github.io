@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Essas almofadas são pura delicadeza, assim como todos os produtos da **linha BEBÊ da Xique Xique Brasil**. Vários ítens para um enxoval clássico e de bom gosto, com peças exclusivas, podem ser adquiridos <em>online</em> na loja virtual da Xique Xique Brasil. Já dei uma <a href="http://www.trololodemulher.com.br/2016/04/11/enxoval-de-bebe/" target="_blank">pequena amostra aqui no Trololó de Mulher</a>, inclusive, do que há por lá: fraldas delicadamente bordadas, panos de boca com detalhes lindos de viver, jogos de lençol de berço que são pura delicadeza, toalhas de capuz bonitas e confortáveis. <a href="http://www.xiquexiquebrasil.com.br/?ref=trololo" target="_blank">Clique aqui, visite a loja e delicie-se</a>!
+  Essas almofadas são pura delicadeza, assim como todos os produtos da **linha BEBÊ da Xique Xique Brasil**. Vários ítens para um enxoval clássico e de bom gosto, com peças exclusivas, podem ser adquiridos _online_ na loja virtual da Xique Xique Brasil. Já dei uma [pequena amostra aqui no Trololó de Mulher](http://www.trololodemulher.com.br/2016/04/11/enxoval-de-bebe/) , inclusive, do que há por lá: fraldas delicadamente bordadas, panos de boca com detalhes lindos de viver, jogos de lençol de berço que são pura delicadeza, toalhas de capuz bonitas e confortáveis. [Clique aqui, visite a loja e delicie-se](http://www.xiquexiquebrasil.com.br/?ref=trololo) !
 </p>
 
 <p style="text-align: justify;" align="justify">
-  A melhor das notícias é que a Xique Xique Brasil vai presentear você, leitora, com uma <a href="http://www.xiquexiquebrasil.com.br/almofada-berco" target="_blank">almofada do Santo Anjo</a> na cor que você escolher: azul, bege ou rosa. E mais! Você ganha a sua e indica uma amiga para receber uma almofadinha também. Claro! Sua amiga também escolhe a cor da almofada dela, viu? Não é uma delícia de presente?
+  A melhor das notícias é que a Xique Xique Brasil vai presentear você, leitora, com uma [almofada do Santo Anjo](http://www.xiquexiquebrasil.com.br/almofada-berco)  na cor que você escolher: azul, bege ou rosa. E mais! Você ganha a sua e indica uma amiga para receber uma almofadinha também. Claro! Sua amiga também escolhe a cor da almofada dela, viu? Não é uma delícia de presente?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  1 – <a href="https://goo.gl/FSOKMk" target="_blank">Clique aqui e, no post do sorteio no Facebook</a>, marque a amiga que você irá presentear com uma almofada. O objetivo é que você, leitora do blog que vive de amores pelas delicadezas da Xique Xique Brasil, apresente a loja para sua amiga também. Combinado?
+  1 – [Clique aqui e, no post do sorteio no Facebook](https://goo.gl/FSOKMk) , marque a amiga que você irá presentear com uma almofada. O objetivo é que você, leitora do blog que vive de amores pelas delicadezas da Xique Xique Brasil, apresente a loja para sua amiga também. Combinado?
 </p>
 
 <p style="text-align: justify;">
@@ -106,7 +106,7 @@ Boa sorte!
           </p>
           
           <p align="center">
-            <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+            [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
           </p>
           
           <p>

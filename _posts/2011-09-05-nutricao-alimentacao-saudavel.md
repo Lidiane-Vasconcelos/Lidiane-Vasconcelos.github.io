@@ -32,7 +32,7 @@ Quer ficar **mais bonita e saudável** para aguentar bem a correria diária? Ót
 &nbsp;
 
 > <p align="justify">
->   “<em>Parabéns pelo seu post. Semana atrasada, estava fazendo muito frio e eu fiquei uns dias sem beber água…. resultado? Paralisou os rins e o intestino, foi uma sensação e dor horrível… Hoje vivo com uma garrafinha junto de mim e bebo uns golinhos a todo momento para hidratar e saciar a sede. POR FAVOR…BEBAM ÁGUA. Abraços</em>.” Lina Rosa
+>   “_Parabéns pelo seu post. Semana atrasada, estava fazendo muito frio e eu fiquei uns dias sem beber água…. resultado? Paralisou os rins e o intestino, foi uma sensação e dor horrível… Hoje vivo com uma garrafinha junto de mim e bebo uns golinhos a todo momento para hidratar e saciar a sede. POR FAVOR…BEBAM ÁGUA. Abraços_.” Lina Rosa
 > </p>
 > 
 > <p align="justify">
@@ -103,7 +103,7 @@ Quer ficar **mais bonita e saudável** para aguentar bem a correria diária? Ót
 >   </p>
 >   
 >   <p align="justify">
->     Viu só, bonita?! Informação você tem um bocado, só falta agora sua disposição em mudar o que for necessário para que você reverta a forma como você se alimenta a seu favor… daqui para frente é contigo, <em>hein</em>? Se o que você come e bebe não é bem o que gostaria, inspire-se e faça algo diferente de hoje em diante… e bom apetite!
+>     Viu só, bonita?! Informação você tem um bocado, só falta agora sua disposição em mudar o que for necessário para que você reverta a forma como você se alimenta a seu favor… daqui para frente é contigo, _hein_? Se o que você come e bebe não é bem o que gostaria, inspire-se e faça algo diferente de hoje em diante… e bom apetite!
 >   </p>
 >   
 >   <p>
@@ -111,7 +111,7 @@ Quer ficar **mais bonita e saudável** para aguentar bem a correria diária? Ót
 >   </p>
 >   
 >   <p align="center">
->     Navegue no **<em>Bicha Fêmea</em>** – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > <a href="http://www.trololodemulher.com.br/corpo/">**<em>Corpo</em>**</a>> **<em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em>**
+>     Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/corpo/">**_Corpo_**</a>> **_<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a>_**
 >   </p>
 >   
 >   <p align="center">

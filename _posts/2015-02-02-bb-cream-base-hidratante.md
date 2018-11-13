@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quem me explicou tudinho,<em> tim por tim tim</em>, foi a nossa mais nova consultora por aqui. A **Camilla Moraes, maquiadora de São Paulo**, deu todas as explicações a cerca de cada um desses produtos, diferenciando bem cada um deles, orientou sobre como e quando usá-los e, ainda por cima, revelou alguns segredinhos certeiros pra conseguir melhores resultados de beleza… espia e aproveite, oh:
+  Quem me explicou tudinho,_ tim por tim tim_, foi a nossa mais nova consultora por aqui. A **Camilla Moraes, maquiadora de São Paulo**, deu todas as explicações a cerca de cada um desses produtos, diferenciando bem cada um deles, orientou sobre como e quando usá-los e, ainda por cima, revelou alguns segredinhos certeiros pra conseguir melhores resultados de beleza… espia e aproveite, oh:
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank">**BB Cream pra cá… BB Cream pra lá…**</a>
+  [**BB Cream pra cá… BB Cream pra lá…**](http://www.trololodemulher.com.br/2013/07/22/bb-cream/) 
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.cosmopolitan.com/style-beauty/beauty/how-to/a32305/genius-concealer-hacks-every-woman-needs-to-know/" target="_blank">Cosmopolitan</a>
+  Imagem: [Cosmopolitan](http://www.cosmopolitan.com/style-beauty/beauty/how-to/a32305/genius-concealer-hacks-every-woman-needs-to-know/) 
 </p>
 
 <p align="center">
@@ -146,11 +146,11 @@ categories:
 </p>
 
 <p align="justify">
-  Camilla é uma profissional com talento inquestionável. Quer a prova? Dê uma espiadinha no seu portfólio e demais trabalhos de maquiagem para fotos de editoriais de moda&beleza: difícil discordar disso, <em>viu</em>? O melhor de tudo é que se você quer aprender mais com essa moça linda de viver, pode fazer seus cursos de auto maquiagem. Camilla atende em domicílio, faz maquiagens e penteados para festa, casamentos, batizados e demais ocasiões especiais. Vale frisar: ela não atende em salões, somente em domicílio. Para saber todos os detalhes sobre como encontrar a moça, não deixe de visitar o seu site e tomar nota de seus telefones e <em>e-mail</em>. <a href="http://www.camillamoraesmake.com/" target="_blank">Clique aqui e se jogue!</a>
+  Camilla é uma profissional com talento inquestionável. Quer a prova? Dê uma espiadinha no seu portfólio e demais trabalhos de maquiagem para fotos de editoriais de moda&beleza: difícil discordar disso, _viu_? O melhor de tudo é que se você quer aprender mais com essa moça linda de viver, pode fazer seus cursos de auto maquiagem. Camilla atende em domicílio, faz maquiagens e penteados para festa, casamentos, batizados e demais ocasiões especiais. Vale frisar: ela não atende em salões, somente em domicílio. Para saber todos os detalhes sobre como encontrar a moça, não deixe de visitar o seu site e tomar nota de seus telefones e _e-mail_. [Clique aqui e se jogue!](http://www.camillamoraesmake.com/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="center">

@@ -9,7 +9,7 @@ permalink: /2010/10/20/promocao-grudado-resultado/
 categories:
   - Promoção
 ---
-Saiu! Oba! Saiu o resultado da promoção da **_<a href="http://www.grudado.com.br/" target="_blank">Grudado – adesivos decorativos</a>_** – em parceria com o Bicha Fêmea. Foram duas as felizardas que vão receber em casa um adesivo, peça decorativa super prática para transformar um ambiente.
+Saiu! Oba! Saiu o resultado da promoção da **_[Grudado – adesivos decorativos](http://www.grudado.com.br/) _** – em parceria com o Bicha Fêmea. Foram duas as felizardas que vão receber em casa um adesivo, peça decorativa super prática para transformar um ambiente.
 
 <!--more-->
 

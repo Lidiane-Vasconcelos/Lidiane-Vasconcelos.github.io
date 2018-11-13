@@ -10,11 +10,11 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Dezembro é tempo de pensar nos preparativos para comemorar o Natal, certo? Dentre tantas coisas nas quais pensamos, a ceia talvez seja a principal delas e, com isso, a eterna pergunta: o que preparar? Se, neste ano, você gostaria de incluir comidas saudáveis na <em>comilança</em>, tenho uma boa notícia: hoje você vai aprender uma receitinha. Ainda neste mês vamos aprender outra… mas isso é uma cena para os próximos capítulos…
+  Dezembro é tempo de pensar nos preparativos para comemorar o Natal, certo? Dentre tantas coisas nas quais pensamos, a ceia talvez seja a principal delas e, com isso, a eterna pergunta: o que preparar? Se, neste ano, você gostaria de incluir comidas saudáveis na _comilança_, tenho uma boa notícia: hoje você vai aprender uma receitinha. Ainda neste mês vamos aprender outra… mas isso é uma cena para os próximos capítulos…
 </p>
 
 <p align="justify">
-  Por hora, veja essa delicinha compartilhada pela Carol, nossa querida colaboradora <em>expert </em>em receitas gostosas, práticas e saudáveis. Esses biscoitinhos ensinados pela bonita podem fazer parte da sua ceia de alguma forma, ou você pode prepará-los para oferecer presentinhos artesanais. Que tal? de um jeito ou de outro, espero que você aproveite essa dica incrível da Carol, oh:
+  Por hora, veja essa delicinha compartilhada pela Carol, nossa querida colaboradora _expert _em receitas gostosas, práticas e saudáveis. Esses biscoitinhos ensinados pela bonita podem fazer parte da sua ceia de alguma forma, ou você pode prepará-los para oferecer presentinhos artesanais. Que tal? de um jeito ou de outro, espero que você aproveite essa dica incrível da Carol, oh:
 </p>
 
 <p align="center">
@@ -77,20 +77,20 @@ categories:
 
 **Mais receitas da Carol:**
 
-<a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank">**Bolinho de inhame assado com bacalhau… hummmm!**</a>
+[**Bolinho de inhame assado com bacalhau… hummmm!**](http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/) 
 
-<a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank">**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**</a>
+[**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.**](http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/) 
 
-<a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank">**Hamburguer de grão de bico facinho, facinho…**</a>
+[**Hamburguer de grão de bico facinho, facinho…**](http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/) 
 
 &nbsp;
 
-Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
+Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;

@@ -13,7 +13,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  É com o coração saltitando de alegria que venho te contar essa novidade: agora temos a <a href="http://loja.trololodemulher.com.br/" target="_blank">**Loja do Trololó de Mulher**</a>! Ela está prontinha, e estou colocando os produtinhos lá bem aos poucos. Sabe como é, <em>né</em>? Empreendedora trabalhando de casa no tempo que dá, já que minha prioridade é a maternidade… some-se a isso os cuidados com a casa, já que não dispomos aqui de funcionária exclusiva para essa atividade: pronto! Tempinho bem <em>inho</em>! Mas sigo em frente, dividindo para conquistar!
+  É com o coração saltitando de alegria que venho te contar essa novidade: agora temos a [**Loja do Trololó de Mulher**](http://loja.trololodemulher.com.br/) ! Ela está prontinha, e estou colocando os produtinhos lá bem aos poucos. Sabe como é, _né_? Empreendedora trabalhando de casa no tempo que dá, já que minha prioridade é a maternidade… some-se a isso os cuidados com a casa, já que não dispomos aqui de funcionária exclusiva para essa atividade: pronto! Tempinho bem _inho_! Mas sigo em frente, dividindo para conquistar!
 </p>
 
 <p align="justify">
@@ -25,11 +25,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Enfeite de Porta de Maternidade Ursinha</em>
+  _Enfeite de Porta de Maternidade Ursinha_
 </p>
 
 <p align="center">
-  Para ver mais detalhes, e mais fotos, <a href="http://loja.trololodemulher.com.br/2017/09/22/enfeite-porta-maternidade-2/" target="_blank">clica aqui e se joga</a>!
+  Para ver mais detalhes, e mais fotos, [clica aqui e se joga](http://loja.trololodemulher.com.br/2017/09/22/enfeite-porta-maternidade-2/) !
 </p>
 
 <p align="center">
@@ -37,11 +37,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Bota para Bebê + Babadores Floridos</em>
+  _Bota para Bebê + Babadores Floridos_
 </p>
 
 <p align="center">
-  Para ver mais detalhes, e mais fotos, <a href="http://loja.trololodemulher.com.br/2017/09/21/bota-para-bebe/" target="_blank">clica aqui e se joga</a>!
+  Para ver mais detalhes, e mais fotos, [clica aqui e se joga](http://loja.trololodemulher.com.br/2017/09/21/bota-para-bebe/) !
 </p>
 
 <p align="center">
@@ -49,11 +49,11 @@ categories:
 </p>
 
 <p align="center">
-  <em>Jogo de Berço, duas peças – Lençol e Fronha</em>
+  _Jogo de Berço, duas peças – Lençol e Fronha_
 </p>
 
 <p align="center">
-  Para ver mais detalhes, <a href="http://loja.trololodemulher.com.br/2017/09/22/jogo-berco/" target="_blank">clica aqui e se joga</a>!
+  Para ver mais detalhes, [clica aqui e se joga](http://loja.trololodemulher.com.br/2017/09/22/jogo-berco/) !
 </p>
 
 <p align="justify">
@@ -69,15 +69,15 @@ categories:
 </p>
 
 <p align="justify">
-  <em>Kit Enfeites de Natal 15 unidades – azul</em> | <a href="http://loja.trololodemulher.com.br/2017/09/29/kit-enfeites-de-natal-15-unidades-azul/" target="_blank">clique aqui e confira</a>!
+  _Kit Enfeites de Natal 15 unidades – azul_ | [clique aqui e confira](http://loja.trololodemulher.com.br/2017/09/29/kit-enfeites-de-natal-15-unidades-azul/) !
 </p>
 
 <p align="justify">
-  <em>Kit Enfeites de Natal 15 unidades</em> | <a href="http://loja.trololodemulher.com.br/2017/09/29/kit-enfeites-de-natal-15-unidades/" target="_blank">Clique aqui e confira</a>!
+  _Kit Enfeites de Natal 15 unidades_ | [Clique aqui e confira](http://loja.trololodemulher.com.br/2017/09/29/kit-enfeites-de-natal-15-unidades/) !
 </p>
 
 <p align="justify">
-  Enfeite de Natal: Anjinha Natalina | <a href="http://loja.trololodemulher.com.br/2017/09/29/enfeite-de-natal/" target="_blank">Clique aqui e confira</a>!
+  Enfeite de Natal: Anjinha Natalina | [Clique aqui e confira](http://loja.trololodemulher.com.br/2017/09/29/enfeite-de-natal/) !
 </p>
 
 <p align="justify">
@@ -85,15 +85,15 @@ categories:
 </p>
 
 <p align="justify">
-  Quer dar uma espiadinha? <a href="http://loja.trololodemulher.com.br/" target="_blank">Clique aqui e se joga</a>! Vai ser um prazer receber você por lá, viu? Adianto que você vai encontrar produtinhos nas categorias:
+  Quer dar uma espiadinha? [Clique aqui e se joga](http://loja.trololodemulher.com.br/) ! Vai ser um prazer receber você por lá, viu? Adianto que você vai encontrar produtinhos nas categorias:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <a href="http://loja.trololodemulher.com.br/category/infantil/enxoval-bebe/" target="_blank">Enxoval de Bebê</a> | <a href="http://loja.trololodemulher.com.br/category/infantil/festa-infantil/" target="_blank">Festa Infantil</a> | <a href="http://loja.trololodemulher.com.br/category/infantil/decoracao-infantil/" target="_blank">Decoração Infantil</a> | <a href="http://loja.trololodemulher.com.br/category/infantil/material-escolar/" target="_blank">Material Escolar</a> | <a href="http://loja.trololodemulher.com.br/category/infantil/diversao/" target="_blank">Diversão</a> … e claro! <a href="http://loja.trololodemulher.com.br/category/natal/" target="_blank">Natal!!!</a>
+  [Enxoval de Bebê](http://loja.trololodemulher.com.br/category/infantil/enxoval-bebe/)  | [Festa Infantil](http://loja.trololodemulher.com.br/category/infantil/festa-infantil/)  | [Decoração Infantil](http://loja.trololodemulher.com.br/category/infantil/decoracao-infantil/)  | [Material Escolar](http://loja.trololodemulher.com.br/category/infantil/material-escolar/)  | [Diversão](http://loja.trololodemulher.com.br/category/infantil/diversao/)  … e claro! [Natal!!!](http://loja.trololodemulher.com.br/category/natal/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
+  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

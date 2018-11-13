@@ -15,7 +15,7 @@ Pois pode parar de imaginar porque isso, bonita, hoje em dia, é algo bem real. 
 &nbsp;
 
 <p align="justify">
-  Se o aspecto que você imagina para esses móveis é algo extremamente duvidoso, já adianto que não é bem assim. Muito pelo contrário! A ideia é nova, é verdade, e talvez ainda falte bastante para ser popularizada, mas desconfio que ela vá conquistar o coração de muitos… <em>espia</em>!
+  Se o aspecto que você imagina para esses móveis é algo extremamente duvidoso, já adianto que não é bem assim. Muito pelo contrário! A ideia é nova, é verdade, e talvez ainda falte bastante para ser popularizada, mas desconfio que ela vá conquistar o coração de muitos… _espia_!
 </p>
 
 <!--more-->
@@ -39,7 +39,7 @@ Pois pode parar de imaginar porque isso, bonita, hoje em dia, é algo bem real. 
 </p>
 
 <p align="justify">
-  Com móveis assim é possível criar um cantinho no quarto do pequeno, mobiliar o <em>quarteliê</em> de muitas bichas fêmeas navegantes ou ainda um espacinho gostoso da casa. Além do mais, para quem prefere começar de leve no uso desse tipo de recurso decorativo, não precisa ser necessariamente um móvel.
+  Com móveis assim é possível criar um cantinho no quarto do pequeno, mobiliar o _quarteliê_ de muitas bichas fêmeas navegantes ou ainda um espacinho gostoso da casa. Além do mais, para quem prefere começar de leve no uso desse tipo de recurso decorativo, não precisa ser necessariamente um móvel.
 </p>
 
 <p style="text-align: center;">
@@ -59,11 +59,11 @@ Pois pode parar de imaginar porque isso, bonita, hoje em dia, é algo bem real. 
 &nbsp;
 
 <p align="justify">
-  Explico: além de móveis, também é possível encontrar acessórios feitos dessa forma, a exemplo da luminária, lixeira ou revisteiro. Assim a gente pode ir acostumando de leve, <em>né</em>? Certeza que aos poucos vai ter gente doidinha para montar uma casa inteira com esse tipo de produto… será?!
+  Explico: além de móveis, também é possível encontrar acessórios feitos dessa forma, a exemplo da luminária, lixeira ou revisteiro. Assim a gente pode ir acostumando de leve, _né_? Certeza que aos poucos vai ter gente doidinha para montar uma casa inteira com esse tipo de produto… será?!
 </p>
 
 <p align="justify">
-  O fato é que em tempos de discussões em torno do assunto do momento, isto é, sustentabilidade, aderir a essa inovação é algo realmente tentador. A natureza bem que agradece bastante o desenvolvimento de móveis, acessórios e objetos que se desintegram em pouquíssimo tempo quando precisamos descartá-los, <em>hã</em>?
+  O fato é que em tempos de discussões em torno do assunto do momento, isto é, sustentabilidade, aderir a essa inovação é algo realmente tentador. A natureza bem que agradece bastante o desenvolvimento de móveis, acessórios e objetos que se desintegram em pouquíssimo tempo quando precisamos descartá-los, _hã_?
 </p>
 
 &nbsp;

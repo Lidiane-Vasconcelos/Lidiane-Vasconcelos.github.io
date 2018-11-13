@@ -13,7 +13,7 @@ categories:
 
 Mas, oh! Estou longe, muito longe de ser modelo de diva do lar perfeita como as que a gente vê nos anúncios antigos da década de 50, _tá_? Essa não sou eu, mas que eu me esforço para manter a ordem, isso sim. Eu faço! É que acredito piamente que isso reflete de forma positiva no dia a dia, e por isso tento aplicar algumas lições que leio por aí e aprendo, e acho que valem a pena usar na minha vida.
 
-Numa dessas navegadas e leituras sobre organização, avistei <a href="http://unclutterer.com/2008/10/22/five-classic-clutter-busting-strategies/" target="_blank">este post (em Inglês) que traz 5 dicas básicas para as coisas ficarem sob controle nos nossos domínios</a>. O post foi publicado no blog _<a href="http://unclutterer.com/" target="_blank">Unclutterer</a>_, e acredito que há muito para a gente aprender. Olha só!
+Numa dessas navegadas e leituras sobre organização, avistei [este post (em Inglês) que traz 5 dicas básicas para as coisas ficarem sob controle nos nossos domínios](http://unclutterer.com/2008/10/22/five-classic-clutter-busting-strategies/) . O post foi publicado no blog _[Unclutterer](http://unclutterer.com/) _, e acredito que há muito para a gente aprender. Olha só!
 
 1 – **Cada coisa, pequeno objeto, papel ou o que quer que seja, precisa ter um lugar.** Confesso que não cheguei ainda ao estágio de ter cada coisa no seu devido lugar, digo, com lugar próprio. Ocorre que recentemente nosso escritório foi montado, e nem tudo está devidamente organizado. _Ui!_ Mas chego lá. Contudo, já me apropriei dessa máxima há algum tempo, e realmente faz dierença saber onde está cada coisa, e também não ficar sapateando com um objeto na mão sem saber de cara qual o lugar dele.
 
@@ -27,7 +27,7 @@ Numa dessas navegadas e leituras sobre organização, avistei <a href="http://un
 
 Viu? Não são dicas básicas e que se forem seguidas deixam a vida mais fácil? Oh! Eu acredito que sim, hein? A gente tem um monte de coisas muito mais interessantes nessa vida, e não vale a pena perder tempo com a eterna desorganização que insiste em reinar em nossos lares, _né_?
 
-Imagens: <a href="http://photobucket.com/" target="_blank">Photobucket</a>
+Imagens: [Photobucket](http://photobucket.com/) 
 
 **Mais no Bicha Fêmea…**
 

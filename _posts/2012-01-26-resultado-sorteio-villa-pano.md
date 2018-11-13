@@ -9,7 +9,7 @@ permalink: /2012/01/26/resultado-sorteio-villa-pano/
 categories:
   - Promoção
 ---
-Chegou o dia de a gente saber quem é a bicha fêmea sortuda que receberá em casa o **Kit Villa Aroma** da **<a href="http://villapano.com.br/" target="_blank">Villa Pano</a>**.  Mas, oh: ter em casa produtos tentadores como esses, que só promovem o bem-estar de quem usufrui deles, não precisa ser exclusividade da ganhadora. Por isso, não deixe de dar uma espiadinha em tudo o que a **<a href="http://villapano.com.br/" target="_blank">Villa Pano</a>** tem para te oferecer… fica a dica!
+Chegou o dia de a gente saber quem é a bicha fêmea sortuda que receberá em casa o **Kit Villa Aroma** da **[Villa Pano](http://villapano.com.br/) **.  Mas, oh: ter em casa produtos tentadores como esses, que só promovem o bem-estar de quem usufrui deles, não precisa ser exclusividade da ganhadora. Por isso, não deixe de dar uma espiadinha em tudo o que a **[Villa Pano](http://villapano.com.br/) ** tem para te oferecer… fica a dica!
 
 &nbsp;
 
@@ -34,7 +34,7 @@ Chegou o dia de a gente saber quem é a bicha fêmea sortuda que receberá em ca
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
+  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 &nbsp;
@@ -49,13 +49,13 @@ Chegou o dia de a gente saber quem é a bicha fêmea sortuda que receberá em ca
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
+        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
       </p>
     </td>
   </tr>

@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “<em>Gostaria de ser absolutamente clara sobre uma coisa: nada é melhor do que sentir o aroma e o sabor de uma comidinha caseira. Pensando nisto eu decidi compartilhar esta receita com vocês. Vocês estão prontos para impressionar os seus entes queridos? Espero que sim. Vamos lá!</em>
+  “_Gostaria de ser absolutamente clara sobre uma coisa: nada é melhor do que sentir o aroma e o sabor de uma comidinha caseira. Pensando nisto eu decidi compartilhar esta receita com vocês. Vocês estão prontos para impressionar os seus entes queridos? Espero que sim. Vamos lá!_
 </p>
 
 **_Ingredientes_**
@@ -55,20 +55,20 @@ _1 – Coloque o frango e o azeite de oliva em uma panela, adicione sal e piment
 
 **Mais receitas de Tânia:**
 
-<a href="http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/" target="_blank">**Pão de queijo pra ser feliz no café da tarde.**</a>
+[**Pão de queijo pra ser feliz no café da tarde.**](http://www.trololodemulher.com.br/2016/11/08/pao-de-queijo/) 
 
-<a href="http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/" target="_blank">**Por um Verão perfeito: picolé caseiro de morango e iogurte.**</a>
+[**Por um Verão perfeito: picolé caseiro de morango e iogurte.**](http://www.trololodemulher.com.br/2016/11/03/picole-caseiro/) 
 
-<a href="http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/" target="_blank">**Brigadeiro de pistache pra adoçar a vida com bossa.**</a>
+[**Brigadeiro de pistache pra adoçar a vida com bossa.**](http://www.trololodemulher.com.br/2016/10/25/brigadeiro-de-pistache/) 
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="justify">

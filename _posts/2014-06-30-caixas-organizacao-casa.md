@@ -48,7 +48,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Nas prateleiras abertas de seu escritório elas podem ser muito úteis guardando todo tipo de material possível e próprio desse espaço. No caso das arteiras, então, essa dica pode se estender para o <em>quarteliê</em> ou o cantinho do artesanato. Seu local de trabalho vai ganhar muito em organização, pode acreditar!
+  Nas prateleiras abertas de seu escritório elas podem ser muito úteis guardando todo tipo de material possível e próprio desse espaço. No caso das arteiras, então, essa dica pode se estender para o _quarteliê_ ou o cantinho do artesanato. Seu local de trabalho vai ganhar muito em organização, pode acreditar!
 </p>
 
 <p align="justify">
@@ -56,11 +56,11 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-de-escritorio/" target="_blank">**Organização de escritório ou home office: dicas.**</a>
+  [**Organização de escritório ou home office: dicas.**](http://www.decoracaodacasa.com/organizacao-de-escritorio/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/escritorio-casa-organizacao/" target="_blank">**Escritório em casa: ideias simples e baratas para organização.**</a>
+  [**Escritório em casa: ideias simples e baratas para organização.**](http://www.decoracaodacasa.com/escritorio-casa-organizacao/) 
 </p>
 
 &nbsp;
@@ -84,15 +84,15 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank">**Quer 5 razões para ter um suporte de organização na parde da cozinha?**</a>
+  [**Quer 5 razões para ter um suporte de organização na parde da cozinha?**](http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank">**3 dicas para organização da cozinha… confira!**</a>
+  [**3 dicas para organização da cozinha… confira!**](http://www.decoracaodacasa.com/organizacao-da-cozinha/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank">**4 ideias para manter sua cozinha organizada.**</a>
+  [**4 ideias para manter sua cozinha organizada.**](http://www.decoracaodacasa.com/ideias-cozinha-organizada/) 
 </p>
 
 &nbsp;
@@ -113,9 +113,9 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 
 **Tudo em ordem no quarto!**
 
-<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank">**4 soluções de organização para o quarto infantil: você não vai copiar?**</a>
+[**4 soluções de organização para o quarto infantil: você não vai copiar?**](http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/) 
 
-<a href="http://www.decoracaodacasa.com/moveis-organizacao-quarto/" target="_blank">**Móveis para a organização do quarto: o que dá para usar?**</a>
+[**Móveis para a organização do quarto: o que dá para usar?**](http://www.decoracaodacasa.com/moveis-organizacao-quarto/) 
 
 &nbsp;
 
@@ -140,17 +140,17 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">**5 ideias de organização do banheiro que favorecem a decoração.**</a>
+  [**5 ideias de organização do banheiro que favorecem a decoração.**](http://www.decoracaodacasa.com/organizacao-do-banheiro/) 
 </p>
 
 &nbsp;
 
-Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
+Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
 
 &nbsp;
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
 </p>
 
 <p align="center">

@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  <em>A-ha</em>! Claro que não! É por isso que esse post foi editado: para te dar 4 ideias de como compor esse espaço de modo a ficar com charme e aconchego para tomar um café, ler uma revista, espiar a vista lá fora, etc. Vem cá comigo que já te mostro o que encontrei como referência para isso… vem!
+  _A-ha_! Claro que não! É por isso que esse post foi editado: para te dar 4 ideias de como compor esse espaço de modo a ficar com charme e aconchego para tomar um café, ler uma revista, espiar a vista lá fora, etc. Vem cá comigo que já te mostro o que encontrei como referência para isso… vem!
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.ikea.com/se/sv/" target="_blank">Ikea</a>
+  Imagem: [Ikea](http://www.ikea.com/se/sv/) 
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.stadshem.se/" target="_blank">Stadshem</a>
+  Imagem: [Stadshem](http://www.stadshem.se/) 
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.femina.dk/" target="_blank">Femina</a>
+  Imagem: [Femina](http://www.femina.dk/) 
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.marieclairemaison.com/" target="_blank">Marie Claire Maison</a>
+  Imagem: [Marie Claire Maison](http://www.marieclairemaison.com/) 
 </p>
 
 <p align="justify">
@@ -71,19 +71,19 @@ categories:
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/" target="_blank">**Varanda, terraço, área externa: é tudo de bom!**</a>
+  [**Varanda, terraço, área externa: é tudo de bom!**](http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank">**Como escolher tecidos para a decoração da varanda?**</a>
+  [**Como escolher tecidos para a decoração da varanda?**](http://www.decoracaodacasa.com/decoracao-da-varanda/) 
 </p>
 
 <p align="justify">
-  <a href="http://www.bichafemea.com/2013/07/17/decoracao-varanda/" target="_blank">**Decoração da varanda: ideia fácil e barata para você copiar.**</a>
+  [**Decoração da varanda: ideia fácil e barata para você copiar.**](http://www.bichafemea.com/2013/07/17/decoracao-varanda/) 
 </p>
 
 <p align="center">
-  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
+  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
 </p>
 
 <p align="justify">

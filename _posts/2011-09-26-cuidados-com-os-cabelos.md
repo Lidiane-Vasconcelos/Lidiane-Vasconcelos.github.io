@@ -13,7 +13,7 @@ Sempre é bom aproveitar a oportunidade de conversar com **profissionais da bele
 
 &nbsp;
 
-A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiavalborges.blogspot.com/" target="_blank">Beleza em Dia</a>** e profissional atuante na área há 12 anos, fala com exclusividade para o blog e nos dá toques muito importantes. Quer ficar com os cabelos em dia? Então confere…
+A **_Hair Designer_ Valéria Borges**, editora do **[Beleza em Dia](http://belezaemdiavalborges.blogspot.com/) ** e profissional atuante na área há 12 anos, fala com exclusividade para o blog e nos dá toques muito importantes. Quer ficar com os cabelos em dia? Então confere…
 
 <!--more-->
 
@@ -24,7 +24,7 @@ A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiav
 &nbsp;
 
 > <p align="justify">
->   “<em>Na medida do possível, uma boa alimentação e a ingestão de bastante água que hidrata não apenas a pele mas os cabelos. Hidratações semanais, mesmo em cabelos virgens, com produtos de qualidade (receitinhas caseiras nunca, mesmo que ditas por cabeleireiros da moda, pois geralmente os ingredientes por não serem devidamente manipulados, podem ter um PH acima do cabelo que ao invés de hidratar, ressecam mais ainda) que podem ser feitas em casa no seu tempo livre. A cada mês, um bom tratamento, principalmente para cabelos quimicamente tratados: cauterização, reconstrução, remineralização que são ótimos para tratar danos físicos e químicos, ao passo que a hidratação vai repondo água e dando emoliência e maleabilidade. Por último uma manuntenção de corte a cada 3 meses.”</em>
+>   “_Na medida do possível, uma boa alimentação e a ingestão de bastante água que hidrata não apenas a pele mas os cabelos. Hidratações semanais, mesmo em cabelos virgens, com produtos de qualidade (receitinhas caseiras nunca, mesmo que ditas por cabeleireiros da moda, pois geralmente os ingredientes por não serem devidamente manipulados, podem ter um PH acima do cabelo que ao invés de hidratar, ressecam mais ainda) que podem ser feitas em casa no seu tempo livre. A cada mês, um bom tratamento, principalmente para cabelos quimicamente tratados: cauterização, reconstrução, remineralização que são ótimos para tratar danos físicos e químicos, ao passo que a hidratação vai repondo água e dando emoliência e maleabilidade. Por último uma manuntenção de corte a cada 3 meses.”_
 > </p>
 
 &nbsp;
@@ -36,13 +36,13 @@ A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiav
 &nbsp;
 
 > <p align="justify">
->   “<em>Geralmente existem máscaras hidratantes especificas para cada tipo de cabelo. São feitas assim, pois determinados tipos de cabelos exigem determinados produtos. Por exemplo, um cabelo muito ressecado, virgem ou com alisamento, precisa de produtos que contenham em sua fórmula, determinados tipos de óleos para proteger os fios que são mais sensíveis que os demais. Cabelos lisos precisam mais de reposição de água. Cabelos grossos, possuem mais queratina, portanto precisam de emoliência e hidratação. Portanto não dá para criar um produto para todos os tipos de cabelo, ainda mais em nosso país com tanta mistura de raças.”</em>
+>   “_Geralmente existem máscaras hidratantes especificas para cada tipo de cabelo. São feitas assim, pois determinados tipos de cabelos exigem determinados produtos. Por exemplo, um cabelo muito ressecado, virgem ou com alisamento, precisa de produtos que contenham em sua fórmula, determinados tipos de óleos para proteger os fios que são mais sensíveis que os demais. Cabelos lisos precisam mais de reposição de água. Cabelos grossos, possuem mais queratina, portanto precisam de emoliência e hidratação. Portanto não dá para criar um produto para todos os tipos de cabelo, ainda mais em nosso país com tanta mistura de raças.”_
 > </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos.jpg"><img class="alignnone size-full wp-image-6950" title="cabelos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos.jpg" alt="" width="600" height="482" /></a><br /> Imagem: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
+  [Stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos.jpg"><img class="alignnone size-full wp-image-6950" title="cabelos" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cabelos.jpg" alt="" width="600" height="482" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
 </p>
 
 &nbsp;
@@ -54,17 +54,17 @@ A **_Hair Designer_ Valéria Borges**, editora do **<a href="http://belezaemdiav
 &nbsp;
 
 > <p align="justify">
->   “<em>Excesso de secador, chapinha e babyliss. Fazer hidratação e cortar apenas no final de cada ano. Relaxar, amaciar, alisar os cabelos em casa ou na vizinha que está fazendo curso de cabeleireira. Aplicar coloração da raíz as pontas a cada retoque (se é retoque de raíz, é só na raiz). Não ficar experimentando tudo que é lançamento de produtos sem saber se seu cabelo precisa. Nunca aplicar as tais &#8220;receitinhas caseiras&#8221;. Fujam das PROGRESSIVAS COM FORMOL, GLUTARAL, CARBOCISTEINA COM ACIDO GLIOXÍLICO.”</em>
+>   “_Excesso de secador, chapinha e babyliss. Fazer hidratação e cortar apenas no final de cada ano. Relaxar, amaciar, alisar os cabelos em casa ou na vizinha que está fazendo curso de cabeleireira. Aplicar coloração da raíz as pontas a cada retoque (se é retoque de raíz, é só na raiz). Não ficar experimentando tudo que é lançamento de produtos sem saber se seu cabelo precisa. Nunca aplicar as tais &#8220;receitinhas caseiras&#8221;. Fujam das PROGRESSIVAS COM FORMOL, GLUTARAL, CARBOCISTEINA COM ACIDO GLIOXÍLICO.”_
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Agora me diga: não valeu a pena ter reparado bem em todas as dicas que a **Valéria** nos deu por aqui? Tenho certeza que assim como eu, você ficará ainda mais atenta aos cuidados com as madeixas, <em>hã</em>?
+  Agora me diga: não valeu a pena ter reparado bem em todas as dicas que a **Valéria** nos deu por aqui? Tenho certeza que assim como eu, você ficará ainda mais atenta aos cuidados com as madeixas, _hã_?
 </p>
 
 <p align="justify">
-  Quer continuar acompanhando as atualizações dessa profissional, suas dicas e sugestões quanto aos cuidados com a beleza em geral, sobretudo com os cabelos? Ela edita o blog **<a href="http://belezaemdiavalborges.blogspot.com/" target="_blank">Beleza em Dia</a>** produzindo um conteúdo super útil e de bastante qualidade nesse sentido. Aproveita, bonita!
+  Quer continuar acompanhando as atualizações dessa profissional, suas dicas e sugestões quanto aos cuidados com a beleza em geral, sobretudo com os cabelos? Ela edita o blog **[Beleza em Dia](http://belezaemdiavalborges.blogspot.com/) ** produzindo um conteúdo super útil e de bastante qualidade nesse sentido. Aproveita, bonita!
 </p>
 
 &nbsp;

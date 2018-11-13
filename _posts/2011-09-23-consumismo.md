@@ -29,11 +29,11 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 &nbsp;
 
 <p align="justify">
-  Conhecer essa blogueira me deixou entusiasmada para mostrar suas ideias e propostas <em>bloguísticas</em> no Bicha Fêmea. Achei interessante falar dela neste post porque o que ela tem feito representa uma resistência ao comportamento em bloco e automatizado que muitos andam adotando: consumir, consumir e consumir…
+  Conhecer essa blogueira me deixou entusiasmada para mostrar suas ideias e propostas _bloguísticas_ no Bicha Fêmea. Achei interessante falar dela neste post porque o que ela tem feito representa uma resistência ao comportamento em bloco e automatizado que muitos andam adotando: consumir, consumir e consumir…
 </p>
 
 <p align="justify">
-  Pois é, esta **Psicóloga mineira** resolveu experimentar passar um ano de sua vida sem compras… parece loucura? Ela encarou o desafio. E como se não bastasse, assumiu esse compromisso em público ao <em>blogar</em> sobre esse projeto pessoal no “**<a href="http://umanosemcompras.blogspot.com/" target="_blank">Um ano sem compras</a>**”, e por incrível que pareça, vem contagiando muita gente com sua atitude.
+  Pois é, esta **Psicóloga mineira** resolveu experimentar passar um ano de sua vida sem compras… parece loucura? Ela encarou o desafio. E como se não bastasse, assumiu esse compromisso em público ao _blogar_ sobre esse projeto pessoal no “**[Um ano sem compras](http://umanosemcompras.blogspot.com/) **”, e por incrível que pareça, vem contagiando muita gente com sua atitude.
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 &nbsp;
 
 > <p align="justify">
->   “<em>Às vezes eu me sinto mais feliz e às vezes me sinto só meio estranha&#8230; O que eu percebo é que passei a usar o meu tempo de forma diferente e estou investindo mais em experiências e menos em coisas. Estava chegando numa situação em que toda vez que saía para passear acabava comprando alguma coisa, nem que fosse só um postal. Viver sem comprar supérfluos é realmente nadar contra a corrente&#8230; nesse sentido me considero privilegiada por estar vivendo essa experiência pois ela me faz ver que eu tenho uma vida mais plena do que acreditava: adoro meu trabalho, tenho um relacionamento excelente, uma família maravilhosa. Acho que tirar o foco de  conquistar certas coisas materiais me fez olhar mais para o que eu já tenho</em>.”
+>   “_Às vezes eu me sinto mais feliz e às vezes me sinto só meio estranha&#8230; O que eu percebo é que passei a usar o meu tempo de forma diferente e estou investindo mais em experiências e menos em coisas. Estava chegando numa situação em que toda vez que saía para passear acabava comprando alguma coisa, nem que fosse só um postal. Viver sem comprar supérfluos é realmente nadar contra a corrente&#8230; nesse sentido me considero privilegiada por estar vivendo essa experiência pois ela me faz ver que eu tenho uma vida mais plena do que acreditava: adoro meu trabalho, tenho um relacionamento excelente, uma família maravilhosa. Acho que tirar o foco de  conquistar certas coisas materiais me fez olhar mais para o que eu já tenho_.”
 > </p>
 
 &nbsp;
@@ -61,7 +61,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 &nbsp;
 
 > <p align="justify">
->   “<em>No início até passou pela minha cabeça que ninguém fosse se interessar pelo blog então para mim é surpreendente ver que outras pessoas também estão deixando de comprar, várias influenciadas pelo blog. Eu realmente não esperava que isso acontecesse e subestimei o alcance do blog. Não sou uma pessoa que usa muitas redes sociais ou que tem uma vida virtual intensa então o blog foi definitivamente uma surpresa pra mim. Eu não esperava encontrar tantas pessoas interessadas nas mesmas coisas que eu e sinceramente achei que a maior parte dos leitores fosse achar a ideia de escrever sobre um ano sem compras meio frívola ou superficial. Eu me enganei, ainda bem, e agora um monte de gente está deixando de comprar também!”</em>
+>   “_No início até passou pela minha cabeça que ninguém fosse se interessar pelo blog então para mim é surpreendente ver que outras pessoas também estão deixando de comprar, várias influenciadas pelo blog. Eu realmente não esperava que isso acontecesse e subestimei o alcance do blog. Não sou uma pessoa que usa muitas redes sociais ou que tem uma vida virtual intensa então o blog foi definitivamente uma surpresa pra mim. Eu não esperava encontrar tantas pessoas interessadas nas mesmas coisas que eu e sinceramente achei que a maior parte dos leitores fosse achar a ideia de escrever sobre um ano sem compras meio frívola ou superficial. Eu me enganei, ainda bem, e agora um monte de gente está deixando de comprar também!”_
 > </p>
 
 &nbsp;
@@ -94,7 +94,7 @@ Numa conversa informal por _e-mail_ com a **Júlia Vieira**, leitora do **Bicha 
 
 &nbsp;
 
-Imagens: **<a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a>**
+Imagens: **[Stock.xchng](http://www.sxc.hu/) **
 
 &nbsp;
 

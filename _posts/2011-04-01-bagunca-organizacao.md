@@ -18,7 +18,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Antes de mais nada, é preciso que se diga que esse post foi inspirado pela leitura que fiz do artigo <em><a href="http://www.ivillage.com/say-goodbye-garage-clutter-just-10-steps-ivillage/7-a-219144?nlcid=hh|07-27-2010|" target="_blank">Get Rid of Garage Clutter | go from chaos to contained in just 10 steps</a></em>, publicado no site <em><a href="http://www.ivillage.com/home-garden" target="_blank">iVillage Home & Garden</a></em>. Sim! Eu sempre leio artigos que eu julgue que irão facilitar o meu dia a dia na manutenção da ordem mínima por aqui, porque acredito que sempre posso aprender mais com isso, e sentir que a casa está mais harmonizada. Eu não gosto de viver na bagunça, e se você é das minhas, certamente vai querer aplicar essas dicas bem fáceis de serem colocadas em prática.
+  Antes de mais nada, é preciso que se diga que esse post foi inspirado pela leitura que fiz do artigo _[Get Rid of Garage Clutter | go from chaos to contained in just 10 steps](http://www.ivillage.com/say-goodbye-garage-clutter-just-10-steps-ivillage/7-a-219144?nlcid=hh|07-27-2010|) _, publicado no site _[iVillage Home & Garden](http://www.ivillage.com/home-garden) _. Sim! Eu sempre leio artigos que eu julgue que irão facilitar o meu dia a dia na manutenção da ordem mínima por aqui, porque acredito que sempre posso aprender mais com isso, e sentir que a casa está mais harmonizada. Eu não gosto de viver na bagunça, e se você é das minhas, certamente vai querer aplicar essas dicas bem fáceis de serem colocadas em prática.
 </p>
 
 <p style="text-align: center;">
@@ -56,7 +56,7 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: justify;">
-  ***Quer vender o que tem? Promova um bazar num encontro real, ou você pode promover algo no espaço virtual**. A blogueira **Dani Garlet**, que tem um **<a href="http://www.danigarlet.com/" target="_blank">blog que leva seu nome</a>**, sempre promove a venda de roupas no **brechó via Orkut** que ela criou. Isso serve de exemplo para você, que pode se inspirar e promover a venda de suas coisas que estejam em bom uso. Faça como a Dani e use a criatividade!
+  ***Quer vender o que tem? Promova um bazar num encontro real, ou você pode promover algo no espaço virtual**. A blogueira **Dani Garlet**, que tem um **[blog que leva seu nome](http://www.danigarlet.com/) **, sempre promove a venda de roupas no **brechó via Orkut** que ela criou. Isso serve de exemplo para você, que pode se inspirar e promover a venda de suas coisas que estejam em bom uso. Faça como a Dani e use a criatividade!
 </p>
 
 <p style="text-align: center;">
@@ -128,10 +128,10 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: justify;">
-  Agora que está tudo em ordem, **aprenda a** **tirar as coisas do lugar, usá-las e devolvê-las para o lugar certo**. Se você voltar a jogar tudo por lá de qualquer jeito, como fazia antes, todo esse trabalho terá sido em vão. Daqui <em>‘pra</em> frente, a escolha é sua…
+  Agora que está tudo em ordem, **aprenda a** **tirar as coisas do lugar, usá-las e devolvê-las para o lugar certo**. Se você voltar a jogar tudo por lá de qualquer jeito, como fazia antes, todo esse trabalho terá sido em vão. Daqui _‘pra_ frente, a escolha é sua…
 </p>
 
-Imagens: _<a href="http://www.sxc.hu/" target="_blank">**stock.xchng**</a>_
+Imagens: _[**stock.xchng**](http://www.sxc.hu/) _
 
 **Mais no Bicha Fêmea…**
 
@@ -146,21 +146,21 @@ Imagens: _<a href="http://www.sxc.hu/" target="_blank">**stock.xchng**</a>_
 **[4 passos e sua “gaveta da bagunça” ficará impecável!](http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/)**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **<em><a href="http://www.trololodemulher.com.br/">Início</a></em>** > **<em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em>**> <em><a href="http://www.trololodemulher.com.br/category/casa-organizacao/">**Organização**</a></em>**…**
+  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> _<a href="http://www.trololodemulher.com.br/category/casa-organizacao/">**Organização**</a>_**…**
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **<em>centenas</em>** de leitoras, o **<em>Bicha Fêmea</em>** no **<em>e-mail</em>**. | **<em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em>**
+  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **<em>+ de 1.000</em>** seguidores do **<em>Bicha Fêmea</em>** no <em>**Twitter. **Corre!</em> | **<em><a href="http://twitter.com/bichafemea">@bichafemea</a></em>**
+  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **<em>Bicha Fêmea</em>** no **<em>Orkut.</em>** Atualize-se! | **<em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em>**
+  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
 </p>
 
 <p style="text-align: center;">
-  Conheça o**<em> Mercado de Artes,</em>** a loja virtual do blog **<em>Bicha Fêmea. | É por aqui, </em>**<a href="http://www.trololodemulher.com.br/loja/">**<em>basta clicar</em>**</a>**<em>!</em>**
+  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
 </p>

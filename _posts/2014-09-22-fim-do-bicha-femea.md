@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: <a href="http://www.freeimages.com/" target="_blank">FreeImages</a>
+  Imagem: [FreeImages](http://www.freeimages.com/) 
 </p>
 
 <p align="justify">
-  Eu queria algo diferente no nome, por isso o “Trololó” que, aliás, é uma expressão que costumo usar (e gosto dessa brincadeira <em>neologística</em>) para definir conversa, bate-papo, discussão, troca de ideias, e por aí vai… Eu também queria que o nome tivesse algo que desse, de cara, a noção que tratava-se de algo feminino, por isso o “de mulher”. Para mim a escolha parece perfeita, porque me sinto muito mais confortável com ela. Resolvi mudar.
+  Eu queria algo diferente no nome, por isso o “Trololó” que, aliás, é uma expressão que costumo usar (e gosto dessa brincadeira _neologística_) para definir conversa, bate-papo, discussão, troca de ideias, e por aí vai… Eu também queria que o nome tivesse algo que desse, de cara, a noção que tratava-se de algo feminino, por isso o “de mulher”. Para mim a escolha parece perfeita, porque me sinto muito mais confortável com ela. Resolvi mudar.
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="justify">
-  <a href="https://twitter.com/TrololodeMulher" target="_blank">Novo Twitter</a> | <a href="https://www.facebook.com/TrololoMulher" target="_blank">Novo Facebook</a> | <a href="https://plus.google.com/+LidianeVasconcelosTMDC/posts" target="_blank">Google+</a> | <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Para assinar e receber no seu e-mail</a> | Novo e-mail de contato: <a href="mailto:trololomulher@gmail.com">trololomulher@gmail.com</a>
+  [Novo Twitter](https://twitter.com/TrololodeMulher)  | [Novo Facebook](https://www.facebook.com/TrololoMulher)  | [Google+](https://plus.google.com/+LidianeVasconcelosTMDC/posts)  | [Para assinar e receber no seu e-mail](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR)  | Novo e-mail de contato: <a href="mailto:trololomulher@gmail.com">trololomulher@gmail.com</a>
 </p>
 
 <p align="center">

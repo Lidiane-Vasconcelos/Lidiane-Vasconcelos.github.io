@@ -54,7 +54,7 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
 &nbsp;
 
 <p align="justify">
-  <em>Obs:</em> A pimenta é opcional!
+  _Obs:_ A pimenta é opcional!
 </p>
 
 &nbsp;
@@ -91,14 +91,14 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
     
     <td valign="top" width="300">
       <p align="justify">
-        <em>Eu, Gleici Schiavo, sou uma mãe, esposa e dona de casa apaixonada por essas duas artes: cozinha e artesanato. Resolvi juntar minhas duas paixões em um único blog [ **<a href="http://cozinhaefofurices.blogspot.com/" target="_blank">Cozinha e Fofurices</a>** ] onde o carinho e o respeito estão em primeiro lugar, e cada post é preparado com muito amor. Será um grande prazer tê-las como amigas!</em>
+        _Eu, Gleici Schiavo, sou uma mãe, esposa e dona de casa apaixonada por essas duas artes: cozinha e artesanato. Resolvi juntar minhas duas paixões em um único blog [ **[Cozinha e Fofurices](http://cozinhaefofurices.blogspot.com/) ** ] onde o carinho e o respeito estão em primeiro lugar, e cada post é preparado com muito amor. Será um grande prazer tê-las como amigas!_
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  Faça como a **Gleici**, e envie **<em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em>** para o **Bicha Fêmea**!
+  Faça como a **Gleici**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
 </p>
 
 <p align="center">
