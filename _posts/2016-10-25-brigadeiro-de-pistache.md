@@ -1,8 +1,8 @@
 ---
-
+id: 3695
 title: Brigadeiro de pistache pra adoçar a vida com bossa!
-
-author: Lidiane
+date: 2016-10-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/10/25/brigadeiro-de-pistache/
 permalink: /2016/10/25/brigadeiro-de-pistache/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  O docinho obrigatório das nossas festas pode ganhar algumas variações. Por que não? Eu amo experimentar coisas diferentes, e nessas aventuras gastronômicas a gente acaba descobrindo cada delícia, não é? A proposta de Tânia, pela qual vivi de amores, é um **brigadeiro de pistache** muitíssimo charmoso! A moça bonita nos dá a receita neste post, que tem poucos ingredientes, muita praticidade e um resultado lindo de viver. Quer ver só? Se joga!
+  O docinho obrigatório das nossas festas pode ganhar algumas variações. Por que não? Eu amo experimentar coisas diferentes, e nessas aventuras gastronômicas a gente acaba descobrindo cada delícia, não é? A proposta de Tânia, pela qual vivi de amores, é um <strong>brigadeiro de pistache</strong> muitíssimo charmoso! A moça bonita nos dá a receita neste post, que tem poucos ingredientes, muita praticidade e um resultado lindo de viver. Quer ver só? Se joga!
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  “_Não há festa de aniversário tradicional, no Brasil, sem brigadeiros, especialmente festas infantis; uma festa de aniversário brasileira sem brigadeiros é como uma festa de casamento sem um bolo: é possível, mas muito raro. Este doce é fácil de preparar, e tem uma textura macia que derrete na boca deixando um sabor delicado e doce. O brigadeiro tradicional é feito com chocolate, mas nos últimos anos têm sido desenvolvidas muitas variações deste doce, os chamados brigadeiros gourmet. Eles não têm  necessariamente o chocolate como um ingrediente, como no caso de brigadeiro de pistache, ilustrado neste post. Vamos à receita:_
+  “<em>Não há festa de aniversário tradicional, no Brasil, sem brigadeiros, especialmente festas infantis; uma festa de aniversário brasileira sem brigadeiros é como uma festa de casamento sem um bolo: é possível, mas muito raro. Este doce é fácil de preparar, e tem uma textura macia que derrete na boca deixando um sabor delicado e doce. O brigadeiro tradicional é feito com chocolate, mas nos últimos anos têm sido desenvolvidas muitas variações deste doce, os chamados brigadeiros gourmet. Eles não têm  necessariamente o chocolate como um ingrediente, como no caso de brigadeiro de pistache, ilustrado neste post. Vamos à receita:</em>
 </p>
 
 &nbsp;
@@ -54,20 +54,20 @@ _6 – Os brigadeiros se mantêm bem na geladeira por até 4 dias_.”
 
 **Mais receitas de Tânia:**
 
-[**Alho assado com alecrim, pra tornar tudo especial.**](http://www.trololodemulher.com.br/2016/10/21/alho-assado/) 
+<a href="http://www.trololodemulher.com.br/2016/10/21/alho-assado/" target="_blank"><strong>Alho assado com alecrim, pra tornar tudo especial.</strong></a>
 
-[**Sorvete caseiro de melancia para dias de sol.**](http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/) 
+<a href="http://www.trololodemulher.com.br/2016/10/13/sorvete-caseiro/" target="_blank"><strong>Sorvete caseiro de melancia para dias de sol.</strong></a>
 
-[**Como fazer barra de cereal caseira?**](http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/) 
+<a href="http://www.trololodemulher.com.br/2016/10/05/barra-de-cereal-caseira/" target="_blank"><strong>Como fazer barra de cereal caseira?</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se **_[I Want to be a cook](https://iwanttobeacook.wordpress.com/) _**. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <strong><em><a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a></em></strong>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

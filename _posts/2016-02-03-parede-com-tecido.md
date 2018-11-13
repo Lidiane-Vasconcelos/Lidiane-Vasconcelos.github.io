@@ -1,8 +1,8 @@
 ---
-
+id: 3537
 title: Decore, você mesma, sua parede com tecido.
-
-author: Lidiane
+date: 2016-02-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/02/03/parede-com-tecido/
 permalink: /2016/02/03/parede-com-tecido/
@@ -10,7 +10,7 @@ categories:
   - Decoração
 ---
 <p align="justify">
-  Você até pensou em [como escolher cores para a parede](http://www.decoracaodacasa.com/cores-para-a-parede/)  que está sem graça, mas decidiu que não quer pintá-la. Passou pela sua cabeça fazer naquele espaço uma [decoração com papel de parede](http://www.decoracaodacasa.com/decoracao-papel-de-parede/) , mas o custo pode ter sido pouco atrativo, não é? A solução pode ser muito mais simples do que você imagina!
+  Você até pensou em <a href="http://www.decoracaodacasa.com/cores-para-a-parede/" target="_blank">como escolher cores para a parede</a> que está sem graça, mas decidiu que não quer pintá-la. Passou pela sua cabeça fazer naquele espaço uma <a href="http://www.decoracaodacasa.com/decoracao-papel-de-parede/" target="_blank">decoração com papel de parede</a>, mas o custo pode ter sido pouco atrativo, não é? A solução pode ser muito mais simples do que você imagina!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Decorar a **parede com tecido** pode ser uma estratégia das mais acertadas, sobretudo se você imaginar a variedade de estampas que há no mercado. O custo será baixo, acredite. Se você tem disposição para investir nesse projeto, o resultado pode ser surpreendente! Quero te inspirar e mostrar algumas paredes por aí afora que ficaram uma _lindeza_. Olha só quem aderiu a ideia:
+  Decorar a <strong>parede com tecido</strong> pode ser uma estratégia das mais acertadas, sobretudo se você imaginar a variedade de estampas que há no mercado. O custo será baixo, acredite. Se você tem disposição para investir nesse projeto, o resultado pode ser surpreendente! Quero te inspirar e mostrar algumas paredes por aí afora que ficaram uma <em>lindeza</em>. Olha só quem aderiu a ideia:
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Na casa da Jaqueline Ribeiro o recurso foi usado no quarto da filha bebê. Em um canto o tecido listrado, e no outro um floral. Lindos de viver! O passo e passo e todos os detalhes estão em seu blog, o [Jaqueline Ribeiro – Design de Interiores](http://www.designinteriores.com.br/decoracao/decoracao-com-tecido-na-parede-parte-1) .
+  Na casa da Jaqueline Ribeiro o recurso foi usado no quarto da filha bebê. Em um canto o tecido listrado, e no outro um floral. Lindos de viver! O passo e passo e todos os detalhes estão em seu blog, o <a href="http://www.designinteriores.com.br/decoracao/decoracao-com-tecido-na-parede-parte-1" target="_blank">Jaqueline Ribeiro – Design de Interiores</a>.
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="center">
-  Eduardo Mendes até já tinha papel de parede, mas quis mudar e experimentar uma nova técnica: tirou o papel e aplicou tecido. O resultado ficou lindo de viver, emoldurando sua [cabeceira](http://www.decoracaodacasa.com/cabeceira/)  nova. Ele explicou tudinho no seu blog, o [Homens da Casa](http://homensdacasa.net/como-aplicar-tecido-na-parede/) .
+  Eduardo Mendes até já tinha papel de parede, mas quis mudar e experimentar uma nova técnica: tirou o papel e aplicou tecido. O resultado ficou lindo de viver, emoldurando sua <a href="http://www.decoracaodacasa.com/cabeceira/" target="_blank">cabeceira</a> nova. Ele explicou tudinho no seu blog, o <a href="http://homensdacasa.net/como-aplicar-tecido-na-parede/" target="_blank">Homens da Casa</a>.
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Esse é o resultado da parede estilosa da Vivianne Pontes, que ganhou tecido e um novo visual. Ela conta tudo no seu blog, o [dcoracao.com](http://www.dcoracao.com/2014/03/como-colocar-tecido-na-parede-tudo-que.html) .
+  Esse é o resultado da parede estilosa da Vivianne Pontes, que ganhou tecido e um novo visual. Ela conta tudo no seu blog, o <a href="http://www.dcoracao.com/2014/03/como-colocar-tecido-na-parede-tudo-que.html" target="_blank">dcoracao.com</a>.
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="center">
-  Eduarda Passos, enjoada com o visual da parede do quarto, aplicou um tecido verde clarinho com flores cor de rosa. [Quarto feminino](http://www.decoracaodacasa.com/decoracao-quarto-feminino/)  define. Ela contou tudo em seu blog, o [Pequenas Extravagâncias](https://pequenasextravagancias.wordpress.com/2011/05/14/parede-decorada/) .
+  Eduarda Passos, enjoada com o visual da parede do quarto, aplicou um tecido verde clarinho com flores cor de rosa. <a href="http://www.decoracaodacasa.com/decoracao-quarto-feminino/" target="_blank">Quarto feminino</a> define. Ela contou tudo em seu blog, o <a href="https://pequenasextravagancias.wordpress.com/2011/05/14/parede-decorada/" target="_blank">Pequenas Extravagâncias</a>.
 </p>
 
 <p align="justify">
-  **E sabe quem mostra tudo em vídeo, de um jeito simples?**
+  <strong>E sabe quem mostra tudo em vídeo, de um jeito simples?</strong>
 </p>
 
 <p align="center">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  Essa é a **Margaret**, _superultramega_ conhecida na blogosfera, sobretudo pelos amantes do “faça você mesma”. Margaret faz da sua casa um verdadeiro laboratório de decoração, experimentando de tudo e, o melhor, mostra como fazer. Aplicar tecido em parede, claro, foi mais uma das experiências pelas quais ela passou. A boa notícia é que ela esclareceu as dúvidas mais frequentes sobre o assunto, com a autoridade de quem colocou a mão na massa, e ainda registrou um vídeo mostrando a aplicação. Se você se animou para colocar tecido na sua parede também, não faça sem antes conferir tudo o que a Margaret tem pra te contar em seu blog, o [Margaretss](http://www.margaretss.com.br/colando-tecido-na-parede/) .
+  Essa é a <strong>Margaret</strong>, <em>superultramega</em> conhecida na blogosfera, sobretudo pelos amantes do “faça você mesma”. Margaret faz da sua casa um verdadeiro laboratório de decoração, experimentando de tudo e, o melhor, mostra como fazer. Aplicar tecido em parede, claro, foi mais uma das experiências pelas quais ela passou. A boa notícia é que ela esclareceu as dúvidas mais frequentes sobre o assunto, com a autoridade de quem colocou a mão na massa, e ainda registrou um vídeo mostrando a aplicação. Se você se animou para colocar tecido na sua parede também, não faça sem antes conferir tudo o que a Margaret tem pra te contar em seu blog, o <a href="http://www.margaretss.com.br/colando-tecido-na-parede/" target="_blank">Margaretss</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

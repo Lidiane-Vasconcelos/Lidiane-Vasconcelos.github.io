@@ -1,8 +1,8 @@
 ---
-
+id: 2652
 title: Prateleira do Bicha Fêmea – Ana Benet Artes
-
-author: Lidiane
+date: 2009-04-24T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/04/24/prateleira-do-bicha-fmea-ana-benet-artes/
 permalink: /2009/04/24/prateleira-do-bicha-fmea-ana-benet-artes/
@@ -11,7 +11,7 @@ categories:
 ---
 [<img title="2.bp.blogspot.com (2)" style="display:inline;margin-left:0;margin-right:0;border-width:0;" height="240" alt="2.bp.blogspot.com (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/2bpblogspotcom2-thumb.jpg" width="224" align="left" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/2bpblogspotcom2.jpg) Este é o primeiro post de um novo espaço aqui do Bicha. Sabe quando a gente vai ao _shopping_, a _feirinha_ de artesanato ou naquele centro de compras e vê coisas que nos chamam a atenção? E sabe aquela mania de mulher, _beeeem_ bicha fêmea, de querer contar o que viu e gostou? Pois é exatamente a proposta desse novo espaço: mostrar o que há nos blogs (e que é bonito, claro!) das bichas fêmeas _web_ afora. 
 
-[<img title="www.vintageshoppingguide.com" style="display:inline;margin-left:0;margin-right:0;border-width:0;" height="240" alt="www.vintageshoppingguide.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwvintageshoppingguidecom-thumb.jpg" width="113" align="right" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwvintageshoppingguidecom.jpg) Inauguro esse espaço mostrando o _blog_ “[Ana Benet Artes](http://anabenetartes.blogspot.com/) ”. Pensem num _blog_ cheio de coisas úteis e bonitas? Pois, é o _blog_ da Ana!!! Deu trabalho escolher algumas das artes dela para postar aqui, porque eu me abstraía imaginando as coisinhas aqui em casa, tentando ver se eu me agradava da imagem que vinha a cabeça nesse exercício de abstração. Mas isso só me fez ter um pouco mais de trabalho e aflição, porque dava vontade de trazer muito mais do que eu trouxe para mostrar a vocês…aí o post ia ficar enorme não é, minha gente? não ía dar certo!…[<img title="clip_image001[12]" style="display:inline;" height="18" alt="clip_image001[12]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00112-thumb6.gif" width="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001127.gif)…
+[<img title="www.vintageshoppingguide.com" style="display:inline;margin-left:0;margin-right:0;border-width:0;" height="240" alt="www.vintageshoppingguide.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwvintageshoppingguidecom-thumb.jpg" width="113" align="right" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/wwwvintageshoppingguidecom.jpg) Inauguro esse espaço mostrando o _blog_ “<a href="http://anabenetartes.blogspot.com/" target="_blank">Ana Benet Artes</a>”. Pensem num _blog_ cheio de coisas úteis e bonitas? Pois, é o _blog_ da Ana!!! Deu trabalho escolher algumas das artes dela para postar aqui, porque eu me abstraía imaginando as coisinhas aqui em casa, tentando ver se eu me agradava da imagem que vinha a cabeça nesse exercício de abstração. Mas isso só me fez ter um pouco mais de trabalho e aflição, porque dava vontade de trazer muito mais do que eu trouxe para mostrar a vocês…aí o post ia ficar enorme não é, minha gente? não ía dar certo!…[<img title="clip_image001[12]" style="display:inline;" height="18" alt="clip_image001[12]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00112-thumb6.gif" width="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001127.gif)…
 
 Bom, o fato é que trouxe aqui para vocês algumas das coisas _bonitinhas_ que surgem das mãos talentosas da Ana e que certamente ficaria um primor num cantinho da casa de vocês também. _Bora_ ver? [<img title="clip_image001[14]" style="display:inline;" height="18" alt="clip_image001[14]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00114-thumb4.gif" width="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001144.gif)
 
@@ -47,4 +47,4 @@ Não resisti em mostrar mais esse porta-lápis. Olha que delicado o detalhe do b
 
 &#160;
 
-Meninas, Ana tem uma diversidade enorme de peças, com detalhes gostosos de se ver e que revelam uma artista bastante criativa. E há muitas outras criações como porta-chaves, conjuntos de bebê, farmacinhas, porta-fotos, e tantas outras coisas. Ufa! Para ver tudinho, só dando um _pulinho_ lá. _Oxe_! [É só clicar aqui, ó](http://anabenetartes.blogspot.com/) !&#160;
+Meninas, Ana tem uma diversidade enorme de peças, com detalhes gostosos de se ver e que revelam uma artista bastante criativa. E há muitas outras criações como porta-chaves, conjuntos de bebê, farmacinhas, porta-fotos, e tantas outras coisas. Ufa! Para ver tudinho, só dando um _pulinho_ lá. _Oxe_! <a href="http://anabenetartes.blogspot.com/" target="_blank">É só clicar aqui, ó</a>!&#160;

@@ -1,8 +1,8 @@
 ---
-
+id: 2735
 title: E A Educação? Vem Mesmo De Berço???
-
-author: Lidiane
+date: 2009-11-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/11/16/educao-criancas/
 permalink: /2009/11/16/educao-criancas/
@@ -20,24 +20,24 @@ No último Sábado eu passei o dia em um parque aquático. No espaço para as cr
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="vintageholidaycrafts.com1" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/vintageholidaycrafts-com1_thumb.jpg" border="0" alt="vintageholidaycrafts.com1" width="212" height="240" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/vintageholidaycrafts-com1_.jpg) O Bicha Fêmea é frequentado por gente como você, que é inteligente, articulada e se questiona. Isso é fundamental, ao meu ver, para que deixemos de levar uma vida no “piloto automático”. Mas **muito mais importante que ser revolucionário no campo das ideias, é sê-lo na prática.** Então, pergunto: você, como mãe, tem consciência de suas ações e do quanto isso influencia no comportamento de sua cria?
 
-Imagens: [Vintage Holiday Crafts](http://vintageholidaycrafts.com/) 
+Imagens: <a href="http://vintageholidaycrafts.com/" target="_blank">Vintage Holiday Crafts</a>
 
 **As bichas fêmeas falam…**
 
-<span style="color: #800080;">Esse post gerou uma discussão bastante interessante, disso não tenho dúvidas. E foi além, porque até post a mais saiu depois disso tudo. Acho isso bom, muito bom, quanto mais gente demonstrando com ações o quanto está preocupada com a educação dos pequenos, tanto melhor. Olha só o que comentou a Manuela, que edita o blog</span> [Manu Nygaard](http://manuelanygaard.blogspot.com/) :
+<span style="color: #800080;">Esse post gerou uma discussão bastante interessante, disso não tenho dúvidas. E foi além, porque até post a mais saiu depois disso tudo. Acho isso bom, muito bom, quanto mais gente demonstrando com ações o quanto está preocupada com a educação dos pequenos, tanto melhor. Olha só o que comentou a Manuela, que edita o blog</span> <a href="http://manuelanygaard.blogspot.com/" target="_blank">Manu Nygaard</a>:
 
-> _<span style="color: #800080;">“…Lidi, to fazendoum</span> [post com o mesmo video que vc me mandou](http://manuelanygaard.blogspot.com/2009/11/voce-tem-orgulho-da-educacao-que-da-aos.html) <span style="color: #800080;">, fiquei chocada com o que vi, exatamente por se tratar da mais pura realidade. Só que abordei a coisa por outro ângulo que talvez você ainda não tenha pensado: nós damos o exemplo, nós escolhemos o que nossos filhos serão, logo é nossa responsabilidade. Se eles fazem o que fazemos não é apenas porque estejamos agindo errado, mas porque estamos agindo errado e dando mal exemplo também.<br /> </span>[Dá uma olhadinha lá](http://manuelanygaard.blogspot.com/2009/11/voce-tem-orgulho-da-educacao-que-da-aos.html) <span style="color: #800080;">…”</span>_
+> _<span style="color: #800080;">“…Lidi, to fazendoum</span> <a href="http://manuelanygaard.blogspot.com/2009/11/voce-tem-orgulho-da-educacao-que-da-aos.html" target="_blank">post com o mesmo video que vc me mandou</a><span style="color: #800080;">, fiquei chocada com o que vi, exatamente por se tratar da mais pura realidade. Só que abordei a coisa por outro ângulo que talvez você ainda não tenha pensado: nós damos o exemplo, nós escolhemos o que nossos filhos serão, logo é nossa responsabilidade. Se eles fazem o que fazemos não é apenas porque estejamos agindo errado, mas porque estamos agindo errado e dando mal exemplo também.<br /> </span><a href="http://manuelanygaard.blogspot.com/2009/11/voce-tem-orgulho-da-educacao-que-da-aos.html" target="_blank">Dá uma olhadinha lá</a><span style="color: #800080;">…”</span>_
 > 
 > _<span style="color: #800080;"> </span>_
 > 
 > _<span style="color: #800080;">Mais no Bicha Fêmea sobre comportamento?</span>_
 > 
-> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/" target="_self">Por que será que queremos ser sempre heroínas?</a>**</span>
+> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/11/26/mulher-heroina/" target="_self">Por que será que queremos ser sempre heroínas?</a></strong></span>
 > 
-> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/10/05/comportamento-masculino/" target="_self">Já não há homens como antigamente? Que bom!</a>**</span>
+> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/10/05/comportamento-masculino/" target="_self">Já não há homens como antigamente? Que bom!</a></strong></span>
 > 
-> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/" target="_self">De repente você acorda e toma um susto: você é mãe!</a>**</span>
+> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/08/20/maternidade/" target="_self">De repente você acorda e toma um susto: você é mãe!</a></strong></span>
 > 
-> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/" target="_self">Maternidade: um aprendizado que requer inteligência.</a>**</span>
+> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/07/30/maternidade-2/" target="_self">Maternidade: um aprendizado que requer inteligência.</a></strong></span>
 > 
-> <span style="color: #800080;">**<a href="http://www.trololodemulher.com.br/2009/07/29/cobrancas-femininas/" target="_self">Mulher é um &#8220;bicho danado&#8221;. Se não, vejamos&#8230;</a>**</span>
+> <span style="color: #800080;"><strong><a href="http://www.trololodemulher.com.br/2009/07/29/cobrancas-femininas/" target="_self">Mulher é um &#8220;bicho danado&#8221;. Se não, vejamos&#8230;</a></strong></span>

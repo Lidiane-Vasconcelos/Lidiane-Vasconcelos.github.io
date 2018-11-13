@@ -1,8 +1,8 @@
 ---
-
+id: 3266
 title: Os vários olhares na fotografia de Ruby Fernandes
-
-author: Lidiane
+date: 2013-10-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/10/04/fotografia-ruby-fernandes/
 permalink: /2013/10/04/fotografia-ruby-fernandes/
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  “_O amor pela fotografia não aconteceu de forma avassaladora na minha vida. Com o passar dos dias &#8211; e dos cursos &#8211; me dei conta que estava completamente envolvida com o mundo da fotografia. Luz e sombra passaram a me encantar mais do que nunca e o amor aconteceu, calmo, sereno, maduro_!”
+  “<em>O amor pela fotografia não aconteceu de forma avassaladora na minha vida. Com o passar dos dias &#8211; e dos cursos &#8211; me dei conta que estava completamente envolvida com o mundo da fotografia. Luz e sombra passaram a me encantar mais do que nunca e o amor aconteceu, calmo, sereno, maduro</em>!”
 </p>
 
 &nbsp;
@@ -40,7 +40,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **<span style="font-size: medium;">Gosto de fotografar com muita luz natural as coisas simples do dia a dia. Sorrisos, beijos e abraços são o pozinho mágico que dá vida aos cliques que faço.”</span>**
+>   <strong><span style="font-size: medium;">Gosto de fotografar com muita luz natural as coisas simples do dia a dia. Sorrisos, beijos e abraços são o pozinho mágico que dá vida aos cliques que faço.”</span></strong>
 > </p>
 
 &nbsp;
@@ -60,31 +60,31 @@ categories:
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais **[clicando aqui](http://rubyfernandes.com.br/) **, e conheça muito mais do trabalho dessa profissional_ superultramega_ talentosa.
+  Viu quanta beleza nesses momentos capturados pela Ruby? Encante-se com muito mais <strong><a href="http://rubyfernandes.com.br/" target="_blank">clicando aqui</a></strong>, e conheça muito mais do trabalho dessa profissional<em> superultramega</em> talentosa.
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Viva… com mais estilo!</span>**
+  <strong><span style="font-size: large;">Viva… com mais estilo!</span></strong>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/08/07/casa-lar-decoracao/">**<span style="font-size: large;">Casa é diferente de lar, certo?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/08/07/casa-lar-decoracao/"><strong><span style="font-size: large;">Casa é diferente de lar, certo?</span></strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/10/19/loja-infantil-campinas/">**<span style="font-size: large;">Mãe de Campinas, só leia se você valoriza uma infância de verdade!</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2012/10/19/loja-infantil-campinas/"><strong><span style="font-size: large;">Mãe de Campinas, só leia se você valoriza uma infância de verdade!</span></strong></a>
 </p>
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/">**<span style="font-size: large;">Tem uma área verde na sua cidade para passear?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/"><strong><span style="font-size: large;">Tem uma área verde na sua cidade para passear?</span></strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;"> </span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;"> </span></strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3791
 title: Agir com gentileza muda no mínimo o seu mundo.
-
-author: Lidiane
+date: 2017-09-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/09/01/gentileza/
 permalink: /2017/09/01/gentileza/
@@ -10,7 +10,7 @@ categories:
   - Comportamento
 ---
 <p align="justify">
-  Uma conversa verdadeira ou uma atitude empática trazem a **gentileza** para o nosso dia a dia, e embora possa parecer que estamos fazendo bem apenas ao outro, na verdade a nossa vida é que ganha leveza, tranquilidade e paz. Assim, as marcas que deixamos por aí afora, se recheadas de afeto, fazem bem aos outros, mas mudam mesmo é o nosso mundo, seja ele no nosso entorno, seja no nosso interior.
+  Uma conversa verdadeira ou uma atitude empática trazem a <strong>gentileza</strong> para o nosso dia a dia, e embora possa parecer que estamos fazendo bem apenas ao outro, na verdade a nossa vida é que ganha leveza, tranquilidade e paz. Assim, as marcas que deixamos por aí afora, se recheadas de afeto, fazem bem aos outros, mas mudam mesmo é o nosso mundo, seja ele no nosso entorno, seja no nosso interior.
 </p>
 
 <p align="justify">
@@ -36,7 +36,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 &nbsp;

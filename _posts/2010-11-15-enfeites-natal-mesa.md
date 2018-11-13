@@ -1,8 +1,8 @@
 ---
-
+id: 2909
 title: 'Enfeites de Natal: você já sabe como decorar a mesa?'
-
-author: Lidiane
+date: 2010-11-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/11/15/enfeites-natal-mesa/
 permalink: /2010/11/15/enfeites-natal-mesa/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p style="text-align: justify;">
-  Se a resposta for não, justamente porque você precisa de inspirações para a **_decoração da mesa de Natal_**, então aqui está um apanhado de ideias bem simples de serem reproduzidas em sua casa.
+  Se a resposta for não, justamente porque você precisa de inspirações para a <strong><em>decoração da mesa de Natal</em></strong>, então aqui está um apanhado de ideias bem simples de serem reproduzidas em sua casa.
 </p>
 
 <p style="text-align: justify;">
@@ -59,7 +59,7 @@ Um prato de bolinhos e doces, desses que são altos e tem mais de um andar, serv
 </p>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Bônus: sugestão de decoração para quem tem escada em casa…</span>_**
+  <strong><em><span style="font-size: medium;">Bônus: sugestão de decoração para quem tem escada em casa…</span></em></strong>
 </p>
 
 <p align="center">
@@ -70,8 +70,8 @@ Um prato de bolinhos e doces, desses que são altos e tem mais de um andar, serv
   Inspire-se e decore a escada também. A graça também está na simplicidade. Separe um bom pedaço de festão com tons metalizados e mais alguns ornamentos. E nem precisa ser somente bolas, você pode diversificar. Viu a imagem? O efeito é dos melhores!
 </p>
 
-_Imagens:_ [_HGTV – Start at Home_](http://www.hgtv.com/) 
+_Imagens:_ <a href="http://www.hgtv.com/" target="_blank"><em>HGTV – Start at Home</em></a>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

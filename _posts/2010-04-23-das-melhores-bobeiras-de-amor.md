@@ -1,8 +1,8 @@
 ---
-
+id: 2782
 title: Das melhores bobeiras de amor…
-
-author: Lidiane
+date: 2010-04-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/04/23/das-melhores-bobeiras-de-amor/
 permalink: /2010/04/23/das-melhores-bobeiras-de-amor/
@@ -47,10 +47,10 @@ Ah! E por falar em fazer carinho, queria mostrar aqui um que recebi recentemente
 
  
 
-Viu? São velas e uma bolsinha para moedas. Fiquei feliz, serelepe e saltitante com o presente. Quem me fez o carinho foi a Flávia Simoni, do blog [Lar Doce Lar](http://minhacasaminhafamilia.blogspot.com/) .
+Viu? São velas e uma bolsinha para moedas. Fiquei feliz, serelepe e saltitante com o presente. Quem me fez o carinho foi a Flávia Simoni, do blog <a href="http://minhacasaminhafamilia.blogspot.com/" target="_blank">Lar Doce Lar</a>.
 
 _Flávia, muito obrigada por sua gentileza, viu?! Gostei de verdade, muito, pode acreditar!_
 
 Ei! Bom fim de semana!!!
 
-Imagem: [stock.xchng](http://www.sxc.hu/) 
+Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>

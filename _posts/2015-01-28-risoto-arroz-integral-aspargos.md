@@ -1,8 +1,8 @@
 ---
-
+id: 3384
 title: Risoto com arroz comum, mas integral, com aspargos.
-
-author: Lidiane
+date: 2015-01-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/01/28/risoto-arroz-integral-aspargos/
 permalink: /2015/01/28/risoto-arroz-integral-aspargos/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **Primeiro eu aqueci uma panela com água e quando começou a ferver coloquei os aspargos e deixei por 2 minutos. Depois dei um banho de água fria para parar o cozimento. Reserve. Em uma panela coloque azeite e a cebola. Deixa dar fritadinha, depois acrescente o arroz e deixa pegar o sabor da cebola.Acrescente o vinho e mexa até que seque e depois vai regando com o caldo. Você coloca um pouco do caldo, vai mexendo até secar e depois coloque mais caldo e assim por diante&#8230; Quando estiver mais cremoso, coloque a cenoura e tomate, acrescente mais o caldo e vai mexendo aos poucos. Acrescente os aspargos, tomilho, mostarda, sal e pimenta. Por último o creme de ricota light.”**
+>   <strong>Primeiro eu aqueci uma panela com água e quando começou a ferver coloquei os aspargos e deixei por 2 minutos. Depois dei um banho de água fria para parar o cozimento. Reserve. Em uma panela coloque azeite e a cebola. Deixa dar fritadinha, depois acrescente o arroz e deixa pegar o sabor da cebola.Acrescente o vinho e mexa até que seque e depois vai regando com o caldo. Você coloca um pouco do caldo, vai mexendo até secar e depois coloque mais caldo e assim por diante&#8230; Quando estiver mais cremoso, coloque a cenoura e tomate, acrescente mais o caldo e vai mexendo aos poucos. Acrescente os aspargos, tomilho, mostarda, sal e pimenta. Por último o creme de ricota light.”</strong>
 > </p>
 
 <p align="center">
@@ -86,27 +86,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Bolinho de inhame assado com bacalhau… hummm…**](http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/) 
+  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau… hummm…</strong></a>
 </p>
 
 <p align="justify">
-  [**Receita molezinha e gostosa: torta de abóbora + frango**](http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/) 
+  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
 </p>
 
 <p align="justify">
-  [**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa**](http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/) 
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

@@ -1,17 +1,17 @@
 ---
-
+id: 2679
 title: Prateleira do Bicha Fêmea – Artes da Luci
-
-author: Lidiane
+date: 2009-07-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/07/07/prateleira-do-bicha-fmea-artes-da-luci/
 permalink: /2009/07/07/prateleira-do-bicha-fmea-artes-da-luci/
 categories:
   - Sem categoria
 ---
-Hoje quem aparece por aqui no Prateleira do Bicha é a Luci, do blog [Artes da Luci](http://artesdaluci.blogspot.com/) . Conhece? Na dúvida, resolvi apresentá-la a você, e também mostrar alguma coisa da imensa diversidade do que a Luci é capaz de criar com as mãos, mais a criatividade, lógico! 
+Hoje quem aparece por aqui no Prateleira do Bicha é a Luci, do blog <a href="http://artesdaluci.blogspot.com/" target="_blank">Artes da Luci</a>. Conhece? Na dúvida, resolvi apresentá-la a você, e também mostrar alguma coisa da imensa diversidade do que a Luci é capaz de criar com as mãos, mais a criatividade, lógico! 
 
-Luci tem uma lista enorme de produtos que vão desde as caixas ricamente trabalhadas, passando pela pintura em tecidos, e chegando a trabalhos com produtos em melamina, que é um tipo de plástico. Estes eu nem conhecia, mas ela mostra a habilidade que tem com as canecas que fez, por exemplo. Muito simpáticas, por sinal. Onde você as vê? No blog da artista, _né_? [Aqui, ó](http://artesdaluci.blogspot.com/) . 
+Luci tem uma lista enorme de produtos que vão desde as caixas ricamente trabalhadas, passando pela pintura em tecidos, e chegando a trabalhos com produtos em melamina, que é um tipo de plástico. Estes eu nem conhecia, mas ela mostra a habilidade que tem com as canecas que fez, por exemplo. Muito simpáticas, por sinal. Onde você as vê? No blog da artista, _né_? <a href="http://artesdaluci.blogspot.com/" target="_blank">Aqui, ó</a>. 
 
 Por hora quis mostrar a você algumas peças que selecionei somente para ilustrar minhas ótimas impressões que tive a respeito do trabalho dessa mulher tão talentosa. 
 
@@ -47,4 +47,4 @@ Não parece uma excelente alternativa para acomodar essa delícia e presentear? 
 
 Sei, sei… o Natal ainda está longe, mas eu não poderia deixar de mostrar aqui essa peça que tanto chamou minha atenção _né_, bonita? Pois! Fica aqui, portanto, essa sugestão. [<img title="EmoticonWink" style="display:inline;" height="18" alt="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb1.gif" width="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink1.gif) 
 
-Esta foi uma pequena amostra, _beeem_ pequena mesmo, do que pode-se encontrar no “[Artes da Luci](http://artesdaluci.blogspot.com/) ”. Há alternativas por lá muito simpáticas e criativas, e úteis (e bonitas, como não?), de presentes para a gente, para a casa e para pessoas queridas. É passar lá para conferir.[<img title="EmoticonBigSmile" style="display:inline;" height="18" alt="EmoticonBigSmile" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonbigsmile_thumb3.gif" width="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonbigsmile3.gif)
+Esta foi uma pequena amostra, _beeem_ pequena mesmo, do que pode-se encontrar no “<a href="http://artesdaluci.blogspot.com/" target="_blank">Artes da Luci</a>”. Há alternativas por lá muito simpáticas e criativas, e úteis (e bonitas, como não?), de presentes para a gente, para a casa e para pessoas queridas. É passar lá para conferir.[<img title="EmoticonBigSmile" style="display:inline;" height="18" alt="EmoticonBigSmile" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonbigsmile_thumb3.gif" width="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonbigsmile3.gif)

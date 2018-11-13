@@ -1,8 +1,8 @@
 ---
-
+id: 2867
 title: O que é ser um chef de cozinha…
-
-author: Lidiane
+date: 2010-08-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/08/30/chef-de-cozinha/
 permalink: /2010/08/30/chef-de-cozinha/
@@ -18,11 +18,11 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 <!--more-->
 
 <p style="text-align: justify;">
-  Mas além de atender bem os clientes e de preparar quitutes deliciosos, um _chef_ precisa, hoje em dia, saber muito bem como funcionam todos os setores de um restaurante, ter noções de administração e contabilidade, fazer viagens, quando possível, para aprimorar seus conhecimentos e estar sempre por dentro do que rola pelo mundo gastronômico.
+  Mas além de atender bem os clientes e de preparar quitutes deliciosos, um <em>chef</em> precisa, hoje em dia, saber muito bem como funcionam todos os setores de um restaurante, ter noções de administração e contabilidade, fazer viagens, quando possível, para aprimorar seus conhecimentos e estar sempre por dentro do que rola pelo mundo gastronômico.
 </p>
 
 <p style="text-align: justify;">
-  Algumas especializações dentro desse grande universo da gastronomia já estão dando as caras no mercado e para agarrar uma excelente oportunidade é necessário, além de cursos, ter força de vontade e certeza do que se quer fazer. O mercado procura por profissionais com uma boa formação técnica. Os chefs de cozinha ainda são os mais requisitados, mas há muito espaço para bons _maîtres_, confeiteiros, padeiros, _patissiers_, baristas, _sommeliers_ e etc.
+  Algumas especializações dentro desse grande universo da gastronomia já estão dando as caras no mercado e para agarrar uma excelente oportunidade é necessário, além de cursos, ter força de vontade e certeza do que se quer fazer. O mercado procura por profissionais com uma boa formação técnica. Os chefs de cozinha ainda são os mais requisitados, mas há muito espaço para bons <em>maîtres</em>, confeiteiros, padeiros, <em>patissiers</em>, baristas, <em>sommeliers</em> e etc.
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 </p>
 
 <p style="text-align: justify;">
-  Nessa área é muito comum o crescimento na carreira, onde muitos começam trabalhando como auxiliares onde fazem de tudo dentro da cozinha, e chegam a _chefs_. Muitos acabam até sendo conhecidos em todo o país e até no exterior como é o caso de Alex Atala, Flávia Quaresma, Sérgio Arno, Ana Soares, Álvaro Rodriguez, Benê, Laurent Suaudeau, Nina Horta e muitos outros.
+  Nessa área é muito comum o crescimento na carreira, onde muitos começam trabalhando como auxiliares onde fazem de tudo dentro da cozinha, e chegam a <em>chefs</em>. Muitos acabam até sendo conhecidos em todo o país e até no exterior como é o caso de Alex Atala, Flávia Quaresma, Sérgio Arno, Ana Soares, Álvaro Rodriguez, Benê, Laurent Suaudeau, Nina Horta e muitos outros.
 </p>
 
 <p style="text-align: justify;">
@@ -46,23 +46,23 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 </p>
 
 <p style="text-align: justify;">
-  Mas não é só pelo domínio da técnica que você conhece um bom _chef_ de cozinha, um _patissier_, barista ou _sommelier_. Estes profissionais dentro de suas áreas precisam também contar com muita criatividade, sensibilidade, visão, harmonia, facilidade de comunicação e flexibilidade para conviver bem com colegas de profissão, funcionários e clientes.
+  Mas não é só pelo domínio da técnica que você conhece um bom <em>chef</em> de cozinha, um <em>patissier</em>, barista ou <em>sommelier</em>. Estes profissionais dentro de suas áreas precisam também contar com muita criatividade, sensibilidade, visão, harmonia, facilidade de comunicação e flexibilidade para conviver bem com colegas de profissão, funcionários e clientes.
 </p>
 
 <p style="text-align: justify;">
-  _Imagem: _[_stock.xchng_](http://www.sxc.hu/) 
+  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **_Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo colaborativo</a>_**
+      <strong><em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo colaborativo</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      _[Mirepoix](http://chefdeboracordeiro.blogspot.com/) _
+      <em><a href="http://chefdeboracordeiro.blogspot.com/" target="_blank">Mirepoix</a></em>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 </p>
 
 <p style="text-align: center;">
-  Quer fazer como a Debora, e publicar seu texto aqui? Seja uma **_<a href="http://www.trololodemulher.com.br/colabore/">Bicha Fêmea colaboradora</a>_**!
+  Quer fazer como a Debora, e publicar seu texto aqui? Seja uma <strong><em><a href="http://www.trololodemulher.com.br/colabore/">Bicha Fêmea colaboradora</a></em></strong>!
 </p>
 
 **Últimas colaborações no Bicha Fêmea…**
@@ -88,9 +88,9 @@ Quem trabalha com gastronomia sabe muito bem que não dá para ficar só dentro 
 **_[Perfeccionismo e obesidade.](http://www.trololodemulher.com.br/2010/07/21/perfeccionismo-e-obesidade/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">**_Vida com Estilo_**</a> > O que é ser um chef de cozinha…
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/"><strong><em>Vida com Estilo</em></strong></a> > O que é ser um chef de cozinha…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>

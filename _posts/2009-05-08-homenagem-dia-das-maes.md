@@ -1,8 +1,8 @@
 ---
-
+id: 2657
 title: Homenagem a minha mãe… e ás bichas fêmeas que são mãe…
-
-author: Lidiane
+date: 2009-05-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/05/08/homenagem-dia-das-maes/
 permalink: /2009/05/08/homenagem-dia-das-maes/
@@ -10,7 +10,7 @@ categories:
   - Trololó
 ---
 <p style="text-align: center;">
-  Dia das mães chegando… e meu coração fica apertado. É que moro _loooonge_ da minha, e eu gostaria de estar mais perto. Essa vontade não é latente somente agora, por ocasião do dia das mães, mas de sempre. É de todos os dias. Mas não dá para estar mais perto, e não há muito o que fazer em função disso. <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://img4.southernliving.com/i/externaltouts/scarlett-bouquet-l.jpg?400:400" alt="" />
+  Dia das mães chegando… e meu coração fica apertado. É que moro <em>loooonge</em> da minha, e eu gostaria de estar mais perto. Essa vontade não é latente somente agora, por ocasião do dia das mães, mas de sempre. É de todos os dias. Mas não dá para estar mais perto, e não há muito o que fazer em função disso. <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" src="http://img4.southernliving.com/i/externaltouts/scarlett-bouquet-l.jpg?400:400" alt="" />
 </p>
 
 <p style="text-align: center;">
@@ -35,4 +35,4 @@ Não sei de vocês quem vai ter o privilégio de estar perto da mãe neste Domin
 
 Acho que vocês são pessoas especiais, de verdade. Vocês têm certeza que são desse mundo? Sei não, hein?! Enquanto tento decifrar daqui esse enigma, espero que apreciem daí a seleção de flores que deixei para encher os olhos de vocês de beleza, e o coração de inspirações. Esse é o meu presente para vocês. **_<span style="color: #800080;">FELIZ DIA DAS MÃES!!!!!</span>_**
 
-_<span style="color: #000000;">Imagens: [Southern Living](http://www.southernliving.com/) </span>_
+_<span style="color: #000000;">Imagens: <a href="http://www.southernliving.com/" target="_blank">Southern Living</a></span>_

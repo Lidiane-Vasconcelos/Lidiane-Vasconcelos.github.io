@@ -1,8 +1,8 @@
 ---
-
+id: 3090
 title: Casamento… por que te quero?
-
-author: Lidiane
+date: 2011-12-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/12/09/casamento-relacionamento/
 permalink: /2011/12/09/casamento-relacionamento/
@@ -15,7 +15,7 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
 &nbsp;
 
 <p align="justify">
-  Você se enxerga em alguma das situações, bonita? Pois é, você não é a única. Muitas outras bichas fêmeas navegantes como você dividiram suas experiências por aqui, desabafaram e deram apoio para uma e outra. Quer conferir e entrar no _trololó_? Se joga!
+  Você se enxerga em alguma das situações, bonita? Pois é, você não é a única. Muitas outras bichas fêmeas navegantes como você dividiram suas experiências por aqui, desabafaram e deram apoio para uma e outra. Quer conferir e entrar no <em>trololó</em>? Se joga!
 </p>
 
 <!--more-->
@@ -24,13 +24,13 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2010/12/10/problemas-nora-sogra/"><img class="alignnone size-full wp-image-5612" title="mulher pensativa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/mulher-pensativa200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2010/12/10/problemas-nora-sogra/"><span style="font-size: small;">Você também tem problemas com a sogra?</span></a>**
+        <a href="http://www.trololodemulher.com.br/2010/12/10/problemas-nora-sogra/"><img class="alignnone size-full wp-image-5612" title="mulher pensativa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/mulher-pensativa200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/12/10/problemas-nora-sogra/"><span style="font-size: small;">Você também tem problemas com a sogra?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/"><img class="alignnone size-full wp-image-5314" title="casal de noivos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal-de-noivos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/"><span style="font-size: small;">Casamento duradouro: isto tem algum segredo?</span></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/"><img class="alignnone size-full wp-image-5314" title="casal de noivos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/casal-de-noivos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/10/18/casamento-duradouro-segredo/"><span style="font-size: small;">Casamento duradouro: isto tem algum segredo?</span></a></strong>
       </p>
     </td>
   </tr>
@@ -38,13 +38,13 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/"><img class="alignnone size-full wp-image-4818" title="taças 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tacas-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/"><span style="font-size: small;">Há vida após o casamento?</span></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/"><img class="alignnone size-full wp-image-4818" title="taças 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/06/tacas-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/06/30/casamento-2/"><span style="font-size: small;">Há vida após o casamento?</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/"><img class="alignnone size-full wp-image-5776" title="mulher pensando200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/mulher-pensando200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/"><span style="font-size: small;">E se fosse você? Como lidaria com um enteado mal educado?</span></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/"><img class="alignnone size-full wp-image-5776" title="mulher pensando200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/mulher-pensando200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/28/como-lidar-enteado-mal-educado/"><span style="font-size: small;">E se fosse você? Como lidaria com um enteado mal educado?</span></a></strong>
       </p>
     </td>
   </tr>
@@ -52,13 +52,13 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2010/01/27/convidada-luciana-casado/"><img class="alignnone size-full wp-image-8287" title="reflexao-feminina-226x300[1]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/reflexao-feminina-226x3001200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/27/convidada-luciana-casado/"><span style="font-size: small;">A idade certa de ter filhos…</span></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2010/01/27/convidada-luciana-casado/"><img class="alignnone size-full wp-image-8287" title="reflexao-feminina-226x300[1]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/reflexao-feminina-226x3001200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2010/01/27/convidada-luciana-casado/"><span style="font-size: small;">A idade certa de ter filhos…</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2009/11/04/casamento-parceria/"><img class="alignnone size-full wp-image-8288" title="DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Elaine-Gaspareto-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/11/04/casamento-parceria/"><span style="font-size: small;">Casamento é parceria?</span></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2009/11/04/casamento-parceria/"><img class="alignnone size-full wp-image-8288" title="DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/Elaine-Gaspareto-200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/11/04/casamento-parceria/"><span style="font-size: small;">Casamento é parceria?</span></a></strong>
       </p>
     </td>
   </tr>
@@ -68,7 +68,7 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
   <tr>
     <td valign="top" width="600">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2009/08/27/conversa-no-relacionamento/"><img class="alignnone size-full wp-image-8289" title="casal velhinhos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/casal-velhinhos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/27/conversa-no-relacionamento/"><span style="font-size: small;">Do que a boa conversa pode fazer por um casal.</span></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2009/08/27/conversa-no-relacionamento/"><img class="alignnone size-full wp-image-8289" title="casal velhinhos200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/casal-velhinhos200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/08/27/conversa-no-relacionamento/"><span style="font-size: small;">Do que a boa conversa pode fazer por um casal.</span></a></strong>
       </p>
     </td>
   </tr>
@@ -79,39 +79,39 @@ As pessoas estão casando, querem ter uma vida feliz até que a morte separe os 
 &nbsp;
 
 <p align="center">
-  **Vamos manter contato?**
+  <strong>Vamos manter contato?</strong>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>
 
 <p align="center">
-  **Redes Sociais**
+  <strong>Redes Sociais</strong>
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6856" title="Orkut" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Orkut.png" alt="" width="49" height="49" />](http://www.orkut.com.br/Community?cmm=92609046) 
+        <a href="http://www.orkut.com.br/Community?cmm=92609046" target="_blank"><img class="alignnone size-full wp-image-6856" title="Orkut" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Orkut.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>

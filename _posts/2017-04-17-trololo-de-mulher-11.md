@@ -1,8 +1,8 @@
 ---
-
+id: 3752
 title: 'Prateleira do Trololó de Mulher de Abril: pra viver no amor.'
-
-author: Lidiane
+date: 2017-04-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/04/17/trololo-de-mulher-11/
 permalink: /2017/04/17/trololo-de-mulher-11/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Neste mês, no **Trololó de Mulher**, a _Prateleira_ está recheada de inspirações para a casa, para os bebês, para as meninas e para você mesma. Tem conteúdo daqueles imperdíveis e necessários, e produtos que, oh: segura o coração! É muita lindeza, fofura e itens “tem que ter” num post só. Se joga e confia!
+  Neste mês, no <strong>Trololó de Mulher</strong>, a <em>Prateleira</em> está recheada de inspirações para a casa, para os bebês, para as meninas e para você mesma. Tem conteúdo daqueles imperdíveis e necessários, e produtos que, oh: segura o coração! É muita lindeza, fofura e itens “tem que ter” num post só. Se joga e confia!
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@ categories:
 </p>
 
 <p align="center">
-  Inserir cores na decoração, seja em paredes, móveis ou objetos, alegra a casa e dá personalidade. [Clique aqui e veja dicas](http://www.trololodemulher.com.br/2017/02/17/cores-na-decoracao-4/)  sobre como usá-las!
+  Inserir cores na decoração, seja em paredes, móveis ou objetos, alegra a casa e dá personalidade. <a href="http://www.trololodemulher.com.br/2017/02/17/cores-na-decoracao-4/" target="_blank">Clique aqui e veja dicas</a> sobre como usá-las!
 </p>
 
-#casa #decoração #dicasdedecoração #coresnadecoração com [Xique Xique Brasil](https://www.xiquexiquebrasil.com.br//?ref=trololodemulher) 
+#casa #decoração #dicasdedecoração #coresnadecoração com <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Xique Xique Brasil</a>
 
 <p align="center">
   <img class="alignnone size-full wp-image-13593" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/03/CASA-SERVICO-A-AMERICANA2.jpg" alt="CASA-SERVICO A AMERICANA[2]" width="600" height="600" />
 </p>
 
 <p align="center">
-  O serviço à americana é perfeito para quem deseja receber em casa, mas o número de convidados será maior que o de lugares na mesa. Como fazer dar certo? [Clique aqui e descubra como](http://www.trololodemulher.com.br/2017/03/16/servico-a-americana/) .
+  O serviço à americana é perfeito para quem deseja receber em casa, mas o número de convidados será maior que o de lugares na mesa. Como fazer dar certo? <a href="http://www.trololodemulher.com.br/2017/03/16/servico-a-americana/" target="_blank">Clique aqui e descubra como</a>.
 </p>
 
-#casa #receber #serviçoaamericana #receberbem com [Xique Xique Brasil](https://www.xiquexiquebrasil.com.br//?ref=trololodemulher) 
+#casa #receber #serviçoaamericana #receberbem com <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Xique Xique Brasil</a>
 
 <p align="center">
   <img class="alignnone size-full wp-image-13731" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/BEBE.jpg" alt="BEBE" width="672" height="189" />
@@ -46,20 +46,20 @@ categories:
 </p>
 
 <p align="center">
-  Toalhas de banho de bebê precisam ser gentis com a pele da criança, que é tão fininha e delicada. [Clique aqui, veja dicas, e saiba como escolher](http://www.trololodemulher.com.br/2017/02/23/toalhas-de-banho-de-bebe/) !
+  Toalhas de banho de bebê precisam ser gentis com a pele da criança, que é tão fininha e delicada. <a href="http://www.trololodemulher.com.br/2017/02/23/toalhas-de-banho-de-bebe/" target="_blank">Clique aqui, veja dicas, e saiba como escolher</a>!
 </p>
 
-#maternidade #filhos #enxovaldebebê #toalhasdebanhodebebê com [Xique Xique Brasil](https://www.xiquexiquebrasil.com.br//?ref=trololodemulher) 
+#maternidade #filhos #enxovaldebebê #toalhasdebanhodebebê com <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Xique Xique Brasil</a>
 
 <p align="center">
   <img class="alignnone size-full wp-image-13720" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/FESTA-DE-BATIZADO-FESTA-DE-BATISMO-BATIZADO-BATISMO800.jpg" alt="FESTA DE BATIZADO-FESTA DE BATISMO-BATIZADO-BATISMO800" width="800" height="800" />
 </p>
 
 <p align="center">
-  Festa de batizado é um evento intimista, mas cheia de detalhes lindos e importantes. [Clique aqui e veja dicas, sugestões e ideias para planejar o batismo da cria](http://www.trololodemulher.com.br/2017/03/09/festa-de-batizado/) !
+  Festa de batizado é um evento intimista, mas cheia de detalhes lindos e importantes. <a href="http://www.trololodemulher.com.br/2017/03/09/festa-de-batizado/" target="_blank">Clique aqui e veja dicas, sugestões e ideias para planejar o batismo da cria</a>!
 </p>
 
-#maternidade #filhos #batizado #batismo #festadebatizado #festadebatismo com [Xique Xique Brasil](https://www.xiquexiquebrasil.com.br//?ref=trololodemulher) 
+#maternidade #filhos #batizado #batismo #festadebatizado #festadebatismo com <a href="https://www.xiquexiquebrasil.com.br//?ref=trololodemulher" target="_blank">Xique Xique Brasil</a>
 
 <p align="center">
   <img class="alignnone size-full wp-image-13734" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/04/MENINA.jpg" alt="MENINA" width="674" height="173" />
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Dedicar tempo a cria é tudo de bom! A Stela, cliente da [Alícia Mãe & Filha](https://www.elo7.com.br/aliciamaeefilha/loja) , sabe aproveitar bem.
+  Dedicar tempo a cria é tudo de bom! A Stela, cliente da <a href="https://www.elo7.com.br/aliciamaeefilha/loja" target="_blank">Alícia Mãe & Filha</a>, sabe aproveitar bem.
 </p>
 
 Look tal mãe tal filha com as Saias Jardim. Não é pra viver no amor?
@@ -82,7 +82,7 @@ Look tal mãe tal filha com as Saias Jardim. Não é pra viver no amor?
 </p>
 
 <p align="center">
-  Leve em consideração, e jamais perca de vista, que criança corre, brinca e pula, portanto, conforto é fundamental. A criança deve sentir-se bem com a roupa que está vestindo, que não deve limitar seus movimentos. Bincar faz bem, e usar roupas que favoreçam esse momento é muito importante! Na imagem, looks materno e infantil da Loja virtual [Alícia Mãe & Filha](https://www.elo7.com.br/aliciamaeefilha/loja) . Fresquinho e com a cara de dias agitados!
+  Leve em consideração, e jamais perca de vista, que criança corre, brinca e pula, portanto, conforto é fundamental. A criança deve sentir-se bem com a roupa que está vestindo, que não deve limitar seus movimentos. Bincar faz bem, e usar roupas que favoreçam esse momento é muito importante! Na imagem, looks materno e infantil da Loja virtual <a href="https://www.elo7.com.br/aliciamaeefilha/loja" target="_blank">Alícia Mãe & Filha</a>. Fresquinho e com a cara de dias agitados!
 </p>
 
 #maternidade #filhos #mãedemenina #modatalmãetalfilha
@@ -92,7 +92,7 @@ Look tal mãe tal filha com as Saias Jardim. Não é pra viver no amor?
 </p>
 
 <p align="center">
-  #mãedemenina que preza por vestidos artesanais, costurados com carinho e muita dedicação para sua pequena, feitos para proporcionar conforto e liberdade nas brincadeiras: apresento o [Ateliê Princesa Moleca](https://www.elo7.com.br/princesamoleca/loja)  !!!
+  #mãedemenina que preza por vestidos artesanais, costurados com carinho e muita dedicação para sua pequena, feitos para proporcionar conforto e liberdade nas brincadeiras: apresento o <a href="https://www.elo7.com.br/princesamoleca/loja" target="_blank">Ateliê Princesa Moleca</a> !!!
 </p>
 
 Espie, conheça e viva no amor&#8230; qualquer dúvida, a Tati é a querida que está a sua disposição.
@@ -104,7 +104,7 @@ Espie, conheça e viva no amor&#8230; qualquer dúvida, a Tati é a querida que 
 </p>
 
 <p align="center">
-  Nada de collant da Ladybug, a filha da Cecilia Vodopivic queria um vestido! O pedido para o aniversário de 4 anos da pequena foi atendido pelo [Ateliê Princesa Moleca](https://www.elo7.com.br/princesamoleca/loja) , e não é que ficou uma lindeza?
+  Nada de collant da Ladybug, a filha da Cecilia Vodopivic queria um vestido! O pedido para o aniversário de 4 anos da pequena foi atendido pelo <a href="https://www.elo7.com.br/princesamoleca/loja" target="_blank">Ateliê Princesa Moleca</a>, e não é que ficou uma lindeza?
 </p>
 
 #maternidade #filhos #mãedemenina#aniversárioinfantil #festainfantil #festademenina #festaladybug #ladybugparty #compredasmães #empreendedorismomaterno
@@ -121,7 +121,7 @@ Espie, conheça e viva no amor&#8230; qualquer dúvida, a Tati é a querida que 
   ATEMPORAL &#8211; joalheria artesanal e acessórios handmade, desconectados com o fast fashion mas em sintonia com a verdade de cada mulher. A marca traz peças cheias de mistérios e caracteristicas próprias, como as flores e as mulheres da vida real. Cada uma é única, intrigante e com história própria.
 </p>
 
-Feliz demais por te apresentar [Lore Atelier](https://www.loreatelier.com/) , nova parceria comercial do Trololó de Mulher&#8230; porque desconfio que tenha muito a ver com você.
+Feliz demais por te apresentar <a href="https://www.loreatelier.com/" target="_blank">Lore Atelier</a>, nova parceria comercial do Trololó de Mulher&#8230; porque desconfio que tenha muito a ver com você.
 
 #moda #modaatemporal #slowfashion #acessóriosfemininos #acessórioshandmade #feitoamão
 
@@ -133,12 +133,12 @@ Feliz demais por te apresentar [Lore Atelier](https://www.loreatelier.com/) , no
   O zodíaco, e seus signos, é o tema da linha que inclui o Colar Constelação Câncer. Desde já meu queridinho, porque tem tudo a ver comigo&#8230; qual o seu?
 </p>
 
-Essa delicadeza em prata é confeccionada exclusiva e artesanalmente por [Lore Atelier](https://www.loreatelier.com/) .
+Essa delicadeza em prata é confeccionada exclusiva e artesanalmente por <a href="https://www.loreatelier.com/" target="_blank">Lore Atelier</a>.
 
 #moda #modaatemporal #slowfashion #acessórios #acessóriosfemininos #colar #constelação #signos#constellation #handmade #feitoamão
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

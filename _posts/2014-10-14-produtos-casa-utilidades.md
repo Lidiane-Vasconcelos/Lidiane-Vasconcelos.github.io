@@ -1,8 +1,8 @@
 ---
-
+id: 3355
 title: 'Produtos para a casa: úteis… e bonitos também!'
-
-author: Lidiane
+date: 2014-10-14T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/10/14/produtos-casa-utilidades/
 permalink: /2014/10/14/produtos-casa-utilidades/
@@ -17,7 +17,7 @@ categories:
 </p>
 
 <p align="justify">
-  A loja **[Grife da Casa](http://grifedacasa.com.br/) ** tem uma variedade incrível de produtos para facilitar a rotina doméstica. Para comprovar isso, basta dar uma olhada em seus departamentos. O que você precisa para equipar sua casa com itens funcionais e bonitos, pode apostar, você vai encontrar. Quer uma pitadinha do que eles têm pra te oferecer? Vem cá que eu te mostro, e você vai perceber do que estou falando. Vem!
+  A loja <strong><a href="http://grifedacasa.com.br/" target="_blank">Grife da Casa</a></strong> tem uma variedade incrível de produtos para facilitar a rotina doméstica. Para comprovar isso, basta dar uma olhada em seus departamentos. O que você precisa para equipar sua casa com itens funcionais e bonitos, pode apostar, você vai encontrar. Quer uma pitadinha do que eles têm pra te oferecer? Vem cá que eu te mostro, e você vai perceber do que estou falando. Vem!
 </p>
 
 <p align="center">
@@ -25,23 +25,23 @@ categories:
 </p>
 
 <p align="justify">
-  1 – Tábua de churrasco modelo Podere madeira Lyptus Fatezze: com design arrojado, a Podere é uma peça prática, elegante e uma excelente opção de presente. Madeira: Nobre (de lei), maciça. • Lyptus; madeira extraída de plantios sustentáveis, é considerada uma madeira nobre por possuir grande resistência e ótimo acabamento. Pegadores: Alumínio fundido e escovado, preso com parafuso de aço inoxidável, que contribuem para a elegância e durabilidade da peça. Dimensões: 68 cm de comprimento x 3,5 cm de espessura x 34 cm de profundidade. Mais detalhes, [clique aqui](http://grifedacasa.com.br/espaco-gourmet/tabua-de-churrasco-modelo-podere-madeira-lyptus-fatezze.html) .
+  1 – Tábua de churrasco modelo Podere madeira Lyptus Fatezze: com design arrojado, a Podere é uma peça prática, elegante e uma excelente opção de presente. Madeira: Nobre (de lei), maciça. • Lyptus; madeira extraída de plantios sustentáveis, é considerada uma madeira nobre por possuir grande resistência e ótimo acabamento. Pegadores: Alumínio fundido e escovado, preso com parafuso de aço inoxidável, que contribuem para a elegância e durabilidade da peça. Dimensões: 68 cm de comprimento x 3,5 cm de espessura x 34 cm de profundidade. Mais detalhes, <a href="http://grifedacasa.com.br/espaco-gourmet/tabua-de-churrasco-modelo-podere-madeira-lyptus-fatezze.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  2 – Tábua de corte dupla-face modelo Multifunzionale madeira Lyptus Fatezze: especial para quem busca praticidade. Essa tábua possui dupla função; um lado pode ser usado para corte e o outro para servir, além de ser uma peça leve e elegante. Madeira: Nobre (de lei), maciça. • Lyptus; madeira extraída de plantios sustentáveis, é considerada uma madeira nobre por possuir grande resistência e ótimo acabamento. Pegadores: Alumínio fundido e escovado, preso com parafuso de aço inoxidável, que contribuem para a elegância e durabilidade da peça. Dimensões: 63,5 cm de comprimento x 3,5 cm de espessura x 26 cm de profundidade. Mais informações, [clique aqui](http://grifedacasa.com.br/tabua-de-corte-dupla-face-modelo-multifunzionale-madeira-lyptus-fatezze.html) .
+  2 – Tábua de corte dupla-face modelo Multifunzionale madeira Lyptus Fatezze: especial para quem busca praticidade. Essa tábua possui dupla função; um lado pode ser usado para corte e o outro para servir, além de ser uma peça leve e elegante. Madeira: Nobre (de lei), maciça. • Lyptus; madeira extraída de plantios sustentáveis, é considerada uma madeira nobre por possuir grande resistência e ótimo acabamento. Pegadores: Alumínio fundido e escovado, preso com parafuso de aço inoxidável, que contribuem para a elegância e durabilidade da peça. Dimensões: 63,5 cm de comprimento x 3,5 cm de espessura x 26 cm de profundidade. Mais informações, <a href="http://grifedacasa.com.br/tabua-de-corte-dupla-face-modelo-multifunzionale-madeira-lyptus-fatezze.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  3 – Migalheira Jamie Oliver – Conjunto de faca e tábua para pão: Corte e sirva pães com estilo e praticidade usando esse conjunto de migalheira e faca Jamie Oliver. Enquanto você fatia, as migalhas do pão cairão na bandeja coletora e sua bancada/mesa ficará livre de bagunça!  Contém: 1 tábua de madeira (carvalho-americano); 1 faca de pão em aço inoxidável; 1 migalheira lavável. Mais informações, [clique aqui](http://grifedacasa.com.br/migalheira-jamie-oliver--conjunto-de-faca-e-tabua-para-pao.html) .
+  3 – Migalheira Jamie Oliver – Conjunto de faca e tábua para pão: Corte e sirva pães com estilo e praticidade usando esse conjunto de migalheira e faca Jamie Oliver. Enquanto você fatia, as migalhas do pão cairão na bandeja coletora e sua bancada/mesa ficará livre de bagunça!  Contém: 1 tábua de madeira (carvalho-americano); 1 faca de pão em aço inoxidável; 1 migalheira lavável. Mais informações, <a href="http://grifedacasa.com.br/migalheira-jamie-oliver--conjunto-de-faca-e-tabua-para-pao.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  4 – Jogo para cortar e servir – Jamie Oliver: você ficará surpresa como poderá rapidamente picar folhas, ervas, castanhas e temperos no geral com o cortador meia lua do famoso chef de cozinha Jamie Oliver. O cortador, chamado originalmente de “mezzaluna” (meia lua em italiano) facilita o movimento de corte e exige menos pressão do que quando cortamos com uma faca. Vem acompanhado de uma tábua em madeira acácia e uma tábua para servir pizza. Então, salpique sobre suas pizzas e pães caseiros e sirva sobre esta linda tábua! Acompanhe com uma salada para um almoço ou jantar informal. *Você poderá armazenar o cortador com segurança em uma conveniente fenda localizada na tábua de madeira rústica. O kit contém: 1 lâmina em meia-lua (aço inoxidável); 1 tábua em madeira acácia; 1 tábua para pizza em madeira acácia. Mais informações, [clique aqui](http://grifedacasa.com.br/jogo-para-cortar-e-servir---jamie-oliver.html) .
+  4 – Jogo para cortar e servir – Jamie Oliver: você ficará surpresa como poderá rapidamente picar folhas, ervas, castanhas e temperos no geral com o cortador meia lua do famoso chef de cozinha Jamie Oliver. O cortador, chamado originalmente de “mezzaluna” (meia lua em italiano) facilita o movimento de corte e exige menos pressão do que quando cortamos com uma faca. Vem acompanhado de uma tábua em madeira acácia e uma tábua para servir pizza. Então, salpique sobre suas pizzas e pães caseiros e sirva sobre esta linda tábua! Acompanhe com uma salada para um almoço ou jantar informal. *Você poderá armazenar o cortador com segurança em uma conveniente fenda localizada na tábua de madeira rústica. O kit contém: 1 lâmina em meia-lua (aço inoxidável); 1 tábua em madeira acácia; 1 tábua para pizza em madeira acácia. Mais informações, <a href="http://grifedacasa.com.br/jogo-para-cortar-e-servir---jamie-oliver.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">E mais…</span>**
+  <strong><span style="font-size: large;">E mais…</span></strong>
 </p>
 
 <p align="center">
@@ -53,15 +53,15 @@ categories:
 </p>
 
 <p align="justify">
-  1 – Modelo Vermelho: mais informações, [clique aqui](http://grifedacasa.com.br/net-pillow-bandeja-de-colo-multiuso-modelo-vermelho.html) .
+  1 – Modelo Vermelho: mais informações, <a href="http://grifedacasa.com.br/net-pillow-bandeja-de-colo-multiuso-modelo-vermelho.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  2 – Modelo Amarelo: mais informações, [clique aqui](http://grifedacasa.com.br/decoracao--moveis-1/net-pillow-bandeja-de-colo-multiuso-modelo-amarelo.html) .
+  2 – Modelo Amarelo: mais informações, <a href="http://grifedacasa.com.br/decoracao--moveis-1/net-pillow-bandeja-de-colo-multiuso-modelo-amarelo.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Confira também!</span>**
+  <strong><span style="font-size: large;">Confira também!</span></strong>
 </p>
 
 <p align="center">
@@ -73,19 +73,19 @@ categories:
 </p>
 
 <p align="justify">
-  1 – Espátula Tavolo Amarela (Sun Ray): Mais informações, [clique aqui](http://grifedacasa.com.br/espatula-tovolo-em-silicone-amarela-sun-ray-com-cabo-em-madeira.html) .
+  1 – Espátula Tavolo Amarela (Sun Ray): Mais informações, <a href="http://grifedacasa.com.br/espatula-tovolo-em-silicone-amarela-sun-ray-com-cabo-em-madeira.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  2 – Espátula Tavolo Bordô (Japanese Maple): Mais informações, [clique aqui](http://grifedacasa.com.br/espatula-tovolo-em-silicone-bordo-japanese-maple-com-cabo-em-madeira.html) .
+  2 – Espátula Tavolo Bordô (Japanese Maple): Mais informações, <a href="http://grifedacasa.com.br/espatula-tovolo-em-silicone-bordo-japanese-maple-com-cabo-em-madeira.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  3 – Espátula Tavolo Turquesa (Teal): mais informações, [clique aqui](http://grifedacasa.com.br/espatula-tovolo-em-silicone-turquesa-teal-com-cabo-em-madeira.html) .
+  3 – Espátula Tavolo Turquesa (Teal): mais informações, <a href="http://grifedacasa.com.br/espatula-tovolo-em-silicone-turquesa-teal-com-cabo-em-madeira.html" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  Viu quantas sugestões para dar uma renovada nas utilidades domésticas de sua casa? Aproveita que a loja está oferecendo desconto, _viu_? Você já deu uma olhadinha na barra do blog, no seu canto direito? Você vai ver um banner com código de cupom de desconto igual a esse aqui embaixo:
+  Viu quantas sugestões para dar uma renovada nas utilidades domésticas de sua casa? Aproveita que a loja está oferecendo desconto, <em>viu</em>? Você já deu uma olhadinha na barra do blog, no seu canto direito? Você vai ver um banner com código de cupom de desconto igual a esse aqui embaixo:
 </p>
 
 <p align="center">
@@ -93,19 +93,19 @@ categories:
 </p>
 
 <p align="justify">
-  Deixar a casa toda equipada com qualidade e charme, e ainda economizar? Nada mal, _hein_? Aproveita e se joga! [Clica aqui e conheça toda a loja](http://grifedacasa.com.br/) !
+  Deixar a casa toda equipada com qualidade e charme, e ainda economizar? Nada mal, <em>hein</em>? Aproveita e se joga! <a href="http://grifedacasa.com.br/" target="_blank">Clica aqui e conheça toda a loja</a>!
 </p>
 
 <p align="justify">
-  Para saber mais: [Fanpage da loja](https://www.facebook.com/lojagrifedacasa)  | [Twitter da loja](https://twitter.com/grifedacasa) 
+  Para saber mais: <a href="https://www.facebook.com/lojagrifedacasa" target="_blank">Fanpage da loja</a> | <a href="https://twitter.com/grifedacasa" target="_blank">Twitter da loja</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 <p align="justify">

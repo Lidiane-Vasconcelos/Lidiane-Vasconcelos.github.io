@@ -1,8 +1,8 @@
 ---
-
+id: 2845
 title: 'Prateleira do Bicha Fêmea: Meu Jardim'
-
-author: Lidiane
+date: 2010-07-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/07/28/prateleira-meu-jardim/
 permalink: /2010/07/28/prateleira-meu-jardim/
@@ -11,7 +11,7 @@ categories:
 ---
 Quem tem meninas em casa levanta a mão _aê_! Por quê? Ah, bonita! Você nem imagina… vou deixar você louquinha de vontade de enfeitar sua bonequinha, e de enfeitar o quarto dela também…
 
-A Prateleira do Bicha Fêmea de hoje está repleta de artes do [Meu Jardim](http://lojameujardim.blogspot.com/) , e a artesã responsável é a Elaine Battistel. E o que tem de coisinhas fofas para meninhas deixa as  mães em polvorosa. Quer ver só?
+A Prateleira do Bicha Fêmea de hoje está repleta de artes do <a href="http://lojameujardim.blogspot.com/" target="_blank">Meu Jardim</a>, e a artesã responsável é a Elaine Battistel. E o que tem de coisinhas fofas para meninhas deixa as  mães em polvorosa. Quer ver só?
 
 <!--more-->
 
@@ -78,5 +78,5 @@ E pensa que para por aí? A Elaine produz brinquedos lúdicos artesanalmente con
 **_[Prateleira do Bicha Fêmea: Izabelle Nossa](http://www.trololodemulher.com.br/2010/02/03/prateleira-do-bicha-femea-%e2%80%93-izabelle-nossa/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

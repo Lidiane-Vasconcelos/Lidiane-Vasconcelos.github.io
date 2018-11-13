@@ -1,8 +1,8 @@
 ---
-
+id: 3193
 title: 'Sabe quem ganhou uma tolha de mesa linda de viver por aqui? [ATUALIZADO]'
-
-author: Lidiane
+date: 2012-10-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/10/02/sorteio-artesanal-shop-2/
 permalink: /2012/10/02/sorteio-artesanal-shop-2/
@@ -26,7 +26,7 @@ Pois é… chegou o dia de a gente saber quem foi a sortuda que levará uma **[t
 &nbsp;
 
 <p align="justify">
-  Viu? Quem vai receber o presente da Artesanal Shop em casa é a **<span style="font-size: large;">Jennifer Sinhorelli</span>**!!!
+  Viu? Quem vai receber o presente da Artesanal Shop em casa é a <strong><span style="font-size: large;">Jennifer Sinhorelli</span></strong>!!!
 </p>
 
 <p align="justify">
@@ -46,13 +46,13 @@ Pois é… chegou o dia de a gente saber quem foi a sortuda que levará uma **[t
 </p>
 
 <p align="center">
-  **<span style="color: #ff8080; font-size: large;">[ATUALIZADO]</span>**
+  <strong><span style="color: #ff8080; font-size: large;">[ATUALIZADO]</span></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Pois é… aguardei as cenas seguintes dos capítulos e a protagonista, _ops_, ganhadora do sorteio não apareceu…_fuén_!!!
+  Pois é… aguardei as cenas seguintes dos capítulos e a protagonista, <em>ops</em>, ganhadora do sorteio não apareceu…<em>fuén</em>!!!
 </p>
 
 <p align="justify">
@@ -73,7 +73,7 @@ Pois é… chegou o dia de a gente saber quem foi a sortuda que levará uma **[t
   </p>
   
   <p>
-    Isso! A **<span style="font-size: medium;">Adriana M Lara – Dri</span>**.
+    Isso! A <strong><span style="font-size: medium;">Adriana M Lara – Dri</span></strong>.
   </p>
   
   <p>

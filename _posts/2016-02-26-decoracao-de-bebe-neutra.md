@@ -1,8 +1,8 @@
 ---
-
+id: 3550
 title: 'Decoração de bebê neutra: como fazer?'
-
-author: Lidiane
+date: 2016-02-26T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/02/26/decoracao-de-bebe-neutra/
 permalink: /2016/02/26/decoracao-de-bebe-neutra/
@@ -19,15 +19,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração para quarto de bebê menino e menina.**](http://www.decoracaodacasa.com/decoracao-quarto-bebe/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe/" target="_blank"><strong>Decoração para quarto de bebê menino e menina.</strong></a>
 </p>
 
 <p align="justify">
-  **Escolha combinações suaves de cores**
+  <strong>Escolha combinações suaves de cores</strong>
 </p>
 
 <p align="center">
@@ -43,15 +43,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração neutra e simples para bebê: pitacos e inspirações.**](http://www.decoracaodacasa.com/decoracao-bebe/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank"><strong>Decoração neutra e simples para bebê: pitacos e inspirações.</strong></a>
 </p>
 
 <p align="justify">
-  **Use formas geométricas**
+  <strong>Use formas geométricas</strong>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Escolha um bichinho reinante**
+  <strong>Escolha um bichinho reinante</strong>
 </p>
 
 <p align="center">
@@ -79,19 +79,19 @@ categories:
 </p>
 
 <p align="justify">
-  Neste quarto, de base _superultramega _neutra, o que se vê são poucos detalhes inspirados na girafa. A escolha, que é bem discreta, serve para menino ou menina. Quando a criança for crescendo, basta ir acrescentando um item ou outro na decoração, já que o apelo no quarto é para o universo infantil, e não propriamente algo direcionado a um bebê.
+  Neste quarto, de base <em>superultramega </em>neutra, o que se vê são poucos detalhes inspirados na girafa. A escolha, que é bem discreta, serve para menino ou menina. Quando a criança for crescendo, basta ir acrescentando um item ou outro na decoração, já que o apelo no quarto é para o universo infantil, e não propriamente algo direcionado a um bebê.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração de bebê bonita, segura e funcional: 8 dicas infalíveis!**](http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank"><strong>Decoração de bebê bonita, segura e funcional: 8 dicas infalíveis!</strong></a>
 </p>
 
 <p align="justify">
-  **Use adesivos**
+  <strong>Use adesivos</strong>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Escolha detalhes em tecido**
+  <strong>Escolha detalhes em tecido</strong>
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Amarelo ou verde? Nenhum deles.**
+  <strong>Amarelo ou verde? Nenhum deles.</strong>
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Aposte nos brinquedos!**
+  <strong>Aposte nos brinquedos!</strong>
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [David A. Land](http://www.davidaland.com/) 
+  Via <a href="http://www.davidaland.com/" target="_blank">David A. Land</a>
 </p>
 
 <p align="justify">
@@ -155,7 +155,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

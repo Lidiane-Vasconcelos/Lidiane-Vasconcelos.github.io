@@ -1,8 +1,8 @@
 ---
-
+id: 2600
 title: Inspirações para a decoração do home office.
-
-author: Lidiane
+date: 2009-01-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/01/06/decoracao-escritorio/
 permalink: /2009/01/06/decoracao-escritorio/
@@ -10,7 +10,7 @@ categories:
   - Escritório
 ---
 <p style="text-align: justify;">
-  Navegando por aí encontrei o espaço Habitué. Textos simples e concisos ao analisar as imagens postadas. Ótimo! Por lá vi muitas coisas legais e separei alguma ideias pensando em um _home office_:
+  Navegando por aí encontrei o espaço Habitué. Textos simples e concisos ao analisar as imagens postadas. Ótimo! Por lá vi muitas coisas legais e separei alguma ideias pensando em um <em>home office</em>:
 </p>
 
 <p style="text-align: center;">
@@ -30,5 +30,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

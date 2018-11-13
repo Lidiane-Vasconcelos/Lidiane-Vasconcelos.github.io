@@ -1,8 +1,8 @@
 ---
-
+id: 2784
 title: 'Procura-se uma bicha fêmea para a corujinha&#8230;'
-
-author: Lidiane
+date: 2010-02-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/
 permalink: /2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/
@@ -10,7 +10,7 @@ categories:
   - Promoção
   - Publieditorial
 ---
-Se eu te contar você acredita? Pois, creia! A Raine, sortuda que [ganhou a corujinha no primeiro sorteio do Bicha Fêmea](http://www.trololodemulher.com.br/2010/02/01/resultado-do-sorteio-bicha-femea-closone-acessorios/) , em parceria com a **_[Closonê Acessórios](http://closone.blogspot.com/) _**, não respondeu meu e-mail até agora. Pois então é assim, bonita. Se em mais uma semana a Raine não fizer sinal de fumaça, vamos fazer um novo sorteio, hein?<!--more-->
+Se eu te contar você acredita? Pois, creia! A Raine, sortuda que <a href="http://www.trololodemulher.com.br/2010/02/01/resultado-do-sorteio-bicha-femea-closone-acessorios/" target="_blank">ganhou a corujinha no primeiro sorteio do Bicha Fêmea</a>, em parceria com a **_<a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>_**, não respondeu meu e-mail até agora. Pois então é assim, bonita. Se em mais uma semana a Raine não fizer sinal de fumaça, vamos fazer um novo sorteio, hein?<!--more-->
 
 Então, o que nos resta é aguardar as cenas dos próximos capítulos. Se a Raine não der retorno, a corujinha ainda poderá ser sua (se você se inscreveu no sorteio quando ele foi lançado, lógico! )&#8230;
 

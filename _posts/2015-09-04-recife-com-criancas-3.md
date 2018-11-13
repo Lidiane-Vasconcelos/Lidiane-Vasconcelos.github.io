@@ -1,8 +1,8 @@
 ---
-
+id: 3481
 title: 'Agenda Recife com crianças: 05, 06 e 07 de Setembro.'
-
-author: Lidiane
+date: 2015-09-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/09/04/recife-com-criancas-3/
 permalink: /2015/09/04/recife-com-criancas-3/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  **{Sábado}**
+  <strong>{Sábado}</strong>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  **{Domingo}**
+  <strong>{Domingo}</strong>
 </p>
 
 <p align="justify">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  **{Sábado, Domingo e Segunda}**
+  <strong>{Sábado, Domingo e Segunda}</strong>
 </p>
 
 <p align="justify">
@@ -61,10 +61,10 @@ categories:
   O castelo mais famoso do estado chegou no Taca! De 1 a 19 de setembro, peças do maior acervo do Brasil Holandês estarão expostas na nossa Praça de Eventos.
 </p>
 
-Quadros, esculturas, armaduras, armas brancas e muito mais. A exposição é gratuita. Mais informações, [clique aqui](http://www.shoppingtacaruna.com.br/destaques/436) .
+Quadros, esculturas, armaduras, armas brancas e muito mais. A exposição é gratuita. Mais informações, <a href="http://www.shoppingtacaruna.com.br/destaques/436" target="_blank">clique aqui</a>.
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

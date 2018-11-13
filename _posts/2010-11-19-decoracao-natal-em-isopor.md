@@ -1,8 +1,8 @@
 ---
-
+id: 2911
 title: 'Decoração de Natal: de inspiração em inspiração, faça a sua!'
-
-author: Lidiane
+date: 2010-11-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/11/19/decoracao-natal-em-isopor/
 permalink: /2010/11/19/decoracao-natal-em-isopor/
@@ -13,17 +13,17 @@ categories:
 A inspiração para a decoração de Natal não virá desta bicha fêmea que vos escreve, sabia? Hoje quem quer te motivar a enfeitar sua casa é um bicho macho, muito macho!
 
 <p style="text-align: justify;">
-  Explico: já faz um tempo recebi um _e-mail_ do Dercio, um leitor que revelou que iria decorar sua casa este ano usando um pouco do que viu por aqui e que o inspirou. Imagina se não fiquei feliz ao saber disso! E muito mais quando ele quis mostrar o que andava fazendo, e dar as dicas pessoais para motivar a todos que navegassem por aqui. Minha alegria foi dupla!
+  Explico: já faz um tempo recebi um <em>e-mail</em> do Dercio, um leitor que revelou que iria decorar sua casa este ano usando um pouco do que viu por aqui e que o inspirou. Imagina se não fiquei feliz ao saber disso! E muito mais quando ele quis mostrar o que andava fazendo, e dar as dicas pessoais para motivar a todos que navegassem por aqui. Minha alegria foi dupla!
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  No ano passado eu mostrei o que havia feito para decorar a janela de minha casa, além de todos os detalhes que havia por aqui. Foi no post onde mostrei a **_<a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/">minha decoração de Natal de 2009</a>_** que o Dercio deixou seu primeiro comentário:
+  No ano passado eu mostrei o que havia feito para decorar a janela de minha casa, além de todos os detalhes que havia por aqui. Foi no post onde mostrei a <strong><em><a href="http://www.trololodemulher.com.br/2009/12/17/decoracao-de-natal/">minha decoração de Natal de 2009</a></em></strong> que o Dercio deixou seu primeiro comentário:
 </p>
 
 > <p style="text-align: justify;">
->   “_Embora ainda seja agosto, estou preparando minha decoração natalina, gostei dos arranjos nas janelas, vou utilizar parte de suas idéias para decorar o vaso da minha arvore de Natal._ “
+>   “<em>Embora ainda seja agosto, estou preparando minha decoração natalina, gostei dos arranjos nas janelas, vou utilizar parte de suas idéias para decorar o vaso da minha arvore de Natal.</em> “
 > </p>
 
 <p style="text-align: justify;">
@@ -51,11 +51,11 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 <p style="text-align: center;">
-  _Imagem: _<a href="http://www.realsimple.com/">_Real Simple_</a>
+  <em>Imagem: </em><a href="http://www.realsimple.com/"><em>Real Simple</em></a>
 </p>
 
 <p style="text-align: justify;">
-  Eu mostrei essa imagem num outro **_<a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/">post sobre decoração de Natal</a>_** que havia feito anteriormente, dando ideias para que você, bicha fêmea navegante, se inspirasse. Eu mesma me divirto e aprendo bastante com tudo o que pesquiso para trazer para você, e aplico na minha casa também.
+  Eu mostrei essa imagem num outro <strong><em><a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/">post sobre decoração de Natal</a></em></strong> que havia feito anteriormente, dando ideias para que você, bicha fêmea navegante, se inspirasse. Eu mesma me divirto e aprendo bastante com tudo o que pesquiso para trazer para você, e aplico na minha casa também.
 </p>
 
 <p style="text-align: justify;">
@@ -63,11 +63,11 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 <p style="text-align: justify;">
-  Isso veio a cabeça dele num “clique”, a partir das pequenas árvores de Natal que ele viu penduradas na minha janela. Ele enviou as imagens por _e-mail_ e explicou tudo, assim:
+  Isso veio a cabeça dele num “clique”, a partir das pequenas árvores de Natal que ele viu penduradas na minha janela. Ele enviou as imagens por <em>e-mail</em> e explicou tudo, assim:
 </p>
 
 > <p style="text-align: justify;">
->   “_Olá, Lidi Vasconcelos. O vaso para minha árvore de natal está quase pronto. Ainda utilizando suas idéias para decoração, fiz o enfeite que está em quatro montagens.”_
+>   “<em>Olá, Lidi Vasconcelos. O vaso para minha árvore de natal está quase pronto. Ainda utilizando suas idéias para decoração, fiz o enfeite que está em quatro montagens.”</em>
 > </p>
 
 <p style="text-align: center;">
@@ -75,7 +75,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 <p style="text-align: center;">
-  _Simples com fitinhas ouro e prata._
+  <em>Simples com fitinhas ouro e prata.</em>
 </p>
 
 <p style="text-align: center;">
@@ -83,7 +83,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 <p style="text-align: center;">
-  _No alto uma estrela cadente e pequenos enfeites laterais._
+  <em>No alto uma estrela cadente e pequenos enfeites laterais.</em>
 </p>
 
 <p style="text-align: center;">
@@ -91,7 +91,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 <p style="text-align: center;">
-  _No alto um ponteiro pequeno e enfeites laterais_.
+  <em>No alto um ponteiro pequeno e enfeites laterais</em>.
 </p>
 
 <p style="text-align: center;">
@@ -99,19 +99,19 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 <p style="text-align: center;">
-  _No alto uma estrela pequena e enfeites laterais_.
+  <em>No alto uma estrela pequena e enfeites laterais</em>.
 </p>
 
 <p style="text-align: justify;">
-  O Dercio continuou dando detalhes do que utilizou para produzir os enfeites na troca de _e-mails_ que tivemos, dando provas de sua gentileza e boa vontade em dividir as ideias:
+  O Dercio continuou dando detalhes do que utilizou para produzir os enfeites na troca de <em>e-mails</em> que tivemos, dando provas de sua gentileza e boa vontade em dividir as ideias:
 </p>
 
 > <p style="text-align: justify;">
->   “_Os materiais utilizados são: EPS (isopor) em chapas e bolinhas, tinta acrilica, cola branca e glitter colorido. Havendo interesses posso explicar como é feito com todos os detalhes_.”
+>   “<em>Os materiais utilizados são: EPS (isopor) em chapas e bolinhas, tinta acrilica, cola branca e glitter colorido. Havendo interesses posso explicar como é feito com todos os detalhes</em>.”
 > </p>
 
 <p style="text-align: justify;">
-  Agora, me diga: como não aceitar que tudo o que foi produzido com tanto carinho, de forma bem personalizada, não fosse mostrado aqui para, quem sabe, estimular “um clique” em você também? Lógico que aceitei, ‘_né_?!
+  Agora, me diga: como não aceitar que tudo o que foi produzido com tanto carinho, de forma bem personalizada, não fosse mostrado aqui para, quem sabe, estimular “um clique” em você também? Lógico que aceitei, ‘<em>né</em>?!
 </p>
 
 <p style="text-align: justify;">
@@ -119,7 +119,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 > <p style="text-align: justify;">
->   “_As peças são cortadas com fio quente, utilizando moldes… É possivel desenvolver qualquer tema, claro que requer um pouco de prática. Vou te passar detalhes do artesanato que faço com isopor em placas_”
+>   “<em>As peças são cortadas com fio quente, utilizando moldes… É possivel desenvolver qualquer tema, claro que requer um pouco de prática. Vou te passar detalhes do artesanato que faço com isopor em placas</em>”
 > </p>
 
 <p style="text-align: center;">
@@ -135,7 +135,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 > <p style="text-align: justify;">
->   “_Conforme o prometido, anexei alguma coisa para trabalhar com isopor sem precisar ferramenta para cortar. É uma figura sem muitos detalhes, mas serve como orientação para outros trabalhos. Na realidade é a base para qualquer outro trabalho feito com isopor de meio centimetro (0,5).”_
+>   “<em>Conforme o prometido, anexei alguma coisa para trabalhar com isopor sem precisar ferramenta para cortar. É uma figura sem muitos detalhes, mas serve como orientação para outros trabalhos. Na realidade é a base para qualquer outro trabalho feito com isopor de meio centimetro (0,5).”</em>
 > </p>
 
 <p style="text-align: justify;">
@@ -151,7 +151,7 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 </p>
 
 > <p style="text-align: justify;">
->   “_Para tudo o que for preciso sobre EPS em placas ou chapas (Blocos não é meu forte). Com a prática desenvolvida desde 1991, mais literaturas, ainda estou aprendendo, mas posso responder á qualquer pergunta através desse e-mail: _<a href="mailto:ventinid@hotmail.com">_ventinid@hotmail.com_</a>_ . Para adquirir ferramenta ou máquina para cortar é só usar o procurador Bing ou outro, ou buscar no Mercado Livre e ver o que possa interessar e comprar on line. Buscar: Ferramenta para cortar isopor ou máquina para cortar isopor. O material que enviei foi feito as pressas, Havendo duvidas, por favor pergunte.”_
+>   “<em>Para tudo o que for preciso sobre EPS em placas ou chapas (Blocos não é meu forte). Com a prática desenvolvida desde 1991, mais literaturas, ainda estou aprendendo, mas posso responder á qualquer pergunta através desse e-mail: </em><a href="mailto:ventinid@hotmail.com"><em>ventinid@hotmail.com</em></a><em> . Para adquirir ferramenta ou máquina para cortar é só usar o procurador Bing ou outro, ou buscar no Mercado Livre e ver o que possa interessar e comprar on line. Buscar: Ferramenta para cortar isopor ou máquina para cortar isopor. O material que enviei foi feito as pressas, Havendo duvidas, por favor pergunte.”</em>
 > </p>
 
 **Mais no Bicha Fêmea…**
@@ -167,13 +167,13 @@ A inspiração para a decoração de Natal não virá desta bicha fêmea que vos
 **_[Dicas para a decoração das salas no Natal.](http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/)_**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>> Decoração de Natal: de inspiração em inspiração, faça a sua!
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>> Decoração de Natal: de inspiração em inspiração, faça a sua!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>

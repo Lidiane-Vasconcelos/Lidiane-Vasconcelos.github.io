@@ -1,8 +1,8 @@
 ---
-
+id: 2896
 title: 4 passos e sua “gaveta da bagunça” ficará impecável!
-
-author: Lidiane
+date: 2010-10-27T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/10/27/4-passos-gaveta-organizada/
 permalink: /2010/10/27/4-passos-gaveta-organizada/
@@ -10,17 +10,17 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Todo mundo, com algumas exceções, tem “**_a gaveta da bagunça_**” em casa, não é verdade? Eu tinha duas. Isto mesmo: tinha! Minhas navegações _bloguísticas_ me levaram a aprender a **_organizar essas gavetas_**, eliminando tudo o que era desnecessário estar lá.
+  Todo mundo, com algumas exceções, tem “<strong><em>a gaveta da bagunça</em></strong>” em casa, não é verdade? Eu tinha duas. Isto mesmo: tinha! Minhas navegações <em>bloguísticas</em> me levaram a aprender a <strong><em>organizar essas gavetas</em></strong>, eliminando tudo o que era desnecessário estar lá.
 </p>
 
 <p style="text-align: justify;">
-  Fiz isto em duas gavetas, uma na cozinha e outra no _home office_, e preciso dizer que isso me fez bem… muito bem. Algo em mim se organizou também… fiz isto em 4 passos. Quer fazer isso nas gavetas em seus domínios domésticos ?
+  Fiz isto em duas gavetas, uma na cozinha e outra no <em>home office</em>, e preciso dizer que isso me fez bem… muito bem. Algo em mim se organizou também… fiz isto em 4 passos. Quer fazer isso nas gavetas em seus domínios domésticos ?
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  É preciso que se diga, antes de qualquer coisa, que aprendi os quatro passos lendo um dos meus blogs preferidos: o [Unclutterer](http://unclutterer.com/) . O aprendizado me fez tão bem, que não abro mão de um _post it_ diante dos meus olhos, com os quatro passos básicos para “limpar” a gaveta da bagunça, no meu painel de lembretes. Se cair na fraqueza de tornar uma gaveta bagunçada novamente, vou recorrer a essas dicas infalíveis:
+  É preciso que se diga, antes de qualquer coisa, que aprendi os quatro passos lendo um dos meus blogs preferidos: o <a href="http://unclutterer.com/" target="_blank">Unclutterer</a>. O aprendizado me fez tão bem, que não abro mão de um <em>post it</em> diante dos meus olhos, com os quatro passos básicos para “limpar” a gaveta da bagunça, no meu painel de lembretes. Se cair na fraqueza de tornar uma gaveta bagunçada novamente, vou recorrer a essas dicas infalíveis:
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  1 – **_Esvaziar_**;
+  1 – <strong><em>Esvaziar</em></strong>;
 </p>
 
 <p style="text-align: justify;">
-  Abra a gaveta e, sem pestanejar, tire tudo que estiver dentro dela. Num primeiro momento a sensação é de choque quanto ao número de _tranqueiras_ naquele espaço, e o medo de não conseguir, de fato, dar um fim naquele pequeno caos, vem a cabeça também. Fique firme! Você vai conseguir!
+  Abra a gaveta e, sem pestanejar, tire tudo que estiver dentro dela. Num primeiro momento a sensação é de choque quanto ao número de <em>tranqueiras</em> naquele espaço, e o medo de não conseguir, de fato, dar um fim naquele pequeno caos, vem a cabeça também. Fique firme! Você vai conseguir!
 </p>
 
 <p style="text-align: justify;">
-  2 – **_Separar o que não serve_**;
+  2 – <strong><em>Separar o que não serve</em></strong>;
 </p>
 
 <p style="text-align: justify;">
@@ -60,11 +60,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  3 – **_Categorizar_**;
+  3 – <strong><em>Categorizar</em></strong>;
 </p>
 
 <p style="text-align: justify;">
-  Olhe para o que restou. Tudo realmente precisa estar na gaveta? Eu, por exemplo, achei na gaveta da cozinha coisas que tinham que estar no quarto ou no escritório. Tinha coisas na gaveta do escritório que deveria estar na caixa de ferramentas ou no _closet_.
+  Olhe para o que restou. Tudo realmente precisa estar na gaveta? Eu, por exemplo, achei na gaveta da cozinha coisas que tinham que estar no quarto ou no escritório. Tinha coisas na gaveta do escritório que deveria estar na caixa de ferramentas ou no <em>closet</em>.
 </p>
 
 <p style="text-align: justify;">
@@ -72,7 +72,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  4 – **_Agrupar objetos na gaveta_**;
+  4 – <strong><em>Agrupar objetos na gaveta</em></strong>;
 </p>
 
 <p style="text-align: justify;">
@@ -91,10 +91,10 @@ categories:
   Viu? Os passos são básicos e não há nada de muito difícil em aplicar. Isso pode ser adaptado ao que mais você tiver em casa, ou no trabalho, e que você reconheça ser um local que virou um depósito bagunçado de inutilidades. Isso está te incomodando? Então, mãos á obra!!!
 </p>
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3393
 title: 'Suflê de abobrinha com hortelã: bonito, gostoso e saudável.'
-
-author: Lidiane
+date: 2015-02-11T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/02/11/sufle-abobrinha-hortela/
 permalink: /2015/02/11/sufle-abobrinha-hortela/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Combinação perfeita essa receita, viu? Uma comidinha bonita e, por isso, apetitosa. Fácil de preparar como poucas, gostosa de comer e super saudável. Esta é dessas receitas que bato o olho e penso: é a cara da Carol! Você, assim como eu, já está acostumada com essas dicas _superultramega_ cheias de saúde e sabor que a Carol compartilha por aqui, não é? Pois bem… aqui está mais uma: vamos aprender juntas?
+  Combinação perfeita essa receita, viu? Uma comidinha bonita e, por isso, apetitosa. Fácil de preparar como poucas, gostosa de comer e super saudável. Esta é dessas receitas que bato o olho e penso: é a cara da Carol! Você, assim como eu, já está acostumada com essas dicas <em>superultramega</em> cheias de saúde e sabor que a Carol compartilha por aqui, não é? Pois bem… aqui está mais uma: vamos aprender juntas?
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **Misture bem todos os ingredientes, bata as claras em neve e adicione delicadamente. Coloque em um refratário untado com azeite, leve ao forno em 180 graus até crescer e dourar.”**
+>   <strong>Misture bem todos os ingredientes, bata as claras em neve e adicione delicadamente. Coloque em um refratário untado com azeite, leve ao forno em 180 graus até crescer e dourar.”</strong>
 > </p>
 
 <p align="center">
@@ -78,27 +78,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Risoto com arroz comum, mas integral, com aspargos.**](http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/) 
+  <a href="http://www.trololodemulher.com.br/2015/01/28/risoto-arroz-integral-aspargos/" target="_blank"><strong>Risoto com arroz comum, mas integral, com aspargos.</strong></a>
 </p>
 
 <p align="justify">
-  [**Bolinho de inhame assado com bacalhau…**](http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/) 
+  <a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau…</strong></a>
 </p>
 
 <p align="justify">
-  [**Receita molezinha e gostosa: torta de abóbora + frango**](http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/) 
+  <a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

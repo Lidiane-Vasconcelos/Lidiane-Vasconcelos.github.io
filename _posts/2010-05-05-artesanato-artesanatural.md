@@ -1,8 +1,8 @@
 ---
-
+id: 2811
 title: 'Prateleira do Bicha Fêmea: Artesanatural'
-
-author: Lidiane
+date: 2010-05-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/05/05/artesanato-artesanatural/
 permalink: /2010/05/05/artesanato-artesanatural/

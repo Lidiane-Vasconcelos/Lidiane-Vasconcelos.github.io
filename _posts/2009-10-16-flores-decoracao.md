@@ -1,8 +1,8 @@
 ---
-
+id: 2717
 title: Use flores para decoração de sua mesa de jantar e toda a casa.
-
-author: Lidiane
+date: 2009-10-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/10/16/flores-decoracao/
 permalink: /2009/10/16/flores-decoracao/
@@ -45,7 +45,7 @@ Olhe para seus potes, vasos, bules, compoteiras, frascos de vidro e ornamentos c
 
 Tenha um ótimo fim de semana!!!
 
-Imagens: [Martha Stewart](http://www.marthastewart.com/) 
+Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
 
 **Mais no Bicha:**
 

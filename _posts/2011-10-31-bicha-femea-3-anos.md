@@ -1,8 +1,8 @@
 ---
-
+id: 3072
 title: O Bicha Fêmea fará 3 anos… vamos comemorar?
-
-author: Lidiane
+date: 2011-10-31T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/10/31/bicha-femea-3-anos/
 permalink: /2011/10/31/bicha-femea-3-anos/
@@ -20,13 +20,13 @@ Pois é, bonita! Dia 22 de Novembro o Bicha Fêmea fará 3 anos, e dia após di
 <!--more-->
 
 <p align="center">
-  [Kriss Szkurlatowski](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg"><img class="alignnone size-full wp-image-7084" title="Tacas - Brinde" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg" alt="" width="600" height="600" /></a><br /> Imagem: **<a href="http://www.12frames.eu/) ** via **[stock.xchng](http://www.sxc.hu/) **
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg"><img class="alignnone size-full wp-image-7084" title="Tacas - Brinde" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Tacas-Brinde.jpg" alt="" width="600" height="600" /></a><br /> Imagem: <strong><a href="http://www.12frames.eu/" target="_blank">Kriss Szkurlatowski</a></strong> via <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Sempre que recebo um recado teu pelos comentários, por _e-mail_, via **[_Twitter_](http://twitter.com/bichafemea) **, **[_Orkut_](http://twitter.com/bichafemea) ** ou **_[Facebook](http://www.facebook.com/people/Lidiane-Vasconcelos/100002007076157) _**, fico toda radiante. Sabe como é… gosto de interagir e acho que a graça disso tudo está nisso: na troca.
+  Sempre que recebo um recado teu pelos comentários, por <em>e-mail</em>, via <strong><a href="http://twitter.com/bichafemea" target="_blank"><em>Twitter</em></a></strong>, <strong><a href="http://twitter.com/bichafemea" target="_blank"><em>Orkut</em></a></strong> ou <strong><em><a href="http://www.facebook.com/people/Lidiane-Vasconcelos/100002007076157" target="_blank">Facebook</a></em></strong>, fico toda radiante. Sabe como é… gosto de interagir e acho que a graça disso tudo está nisso: na troca.
 </p>
 
 <p align="justify">
@@ -34,31 +34,31 @@ Pois é, bonita! Dia 22 de Novembro o Bicha Fêmea fará 3 anos, e dia após di
 </p>
 
 <p align="justify">
-  Ou seja, me alegra muito pensar que **o Bicha Fêmea se tornou um espaço virtual onde amizades realmente podem surgir.**
+  Ou seja, me alegra muito pensar que <strong>o Bicha Fêmea se tornou um espaço virtual onde amizades realmente podem surgir.</strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Foi essa ideia que me fez pensar numa série de sorteios que vai brindar justamente isso: **a amizade entre amigas.**
+  Foi essa ideia que me fez pensar numa série de sorteios que vai brindar justamente isso: <strong>a amizade entre amigas.</strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="color: #800000; font-size: medium;">Brindemos os 3 anos de aniversário do Bicha Fêmea com as amigas!</span>**
+  <strong><span style="color: #800000; font-size: medium;">Brindemos os 3 anos de aniversário do Bicha Fêmea com as amigas!</span></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [stock.xchng](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg"><img class="alignnone size-full wp-image-7083" title="Amigas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg" alt="" width="600" height="409" /></a><br /> Imagem: **<a href="http://www.sxc.hu/) **
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg"><img class="alignnone size-full wp-image-7083" title="Amigas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/10/Amigas.jpg" alt="" width="600" height="409" /></a><br /> Imagem: <strong><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **Quem é sua melhor amiga?** Se ela ainda não conhece o Bicha Fêmea, corra e apresente para ela. Diga que o blog vai festejar o mês de aniversário de 3 anos e vocês duas correrão o sério risco de ganhar presentes lindos de viver…
+  <strong>Quem é sua melhor amiga?</strong> Se ela ainda não conhece o Bicha Fêmea, corra e apresente para ela. Diga que o blog vai festejar o mês de aniversário de 3 anos e vocês duas correrão o sério risco de ganhar presentes lindos de viver…
 </p>
 
 <p align="justify">

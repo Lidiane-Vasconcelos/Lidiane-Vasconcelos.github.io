@@ -1,8 +1,8 @@
 ---
-
+id: 3095
 title: 'Chá das Cinco: coisas para casa com o charme inglês…'
-
-author: Lidiane
+date: 2011-12-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/12/13/decoracao-casa-importados/
 permalink: /2011/12/13/decoracao-casa-importados/
@@ -15,7 +15,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 &nbsp;
 
 <p align="justify">
-  Todas as _belezuras_ estão á venda na loja virtual **[Chá das Cinco](http://www.lojachadascinco.com.br/) **, comandada pela **Jane**, que também é uma bicha fêmea navegante, _viu_?! É… ela costuma passear por aqui e, vez ou outra, também é chegada num _trololó…_ e_ _não é que a bonitona tem loja virtual?
+  Todas as <em>belezuras</em> estão á venda na loja virtual <strong><a href="http://www.lojachadascinco.com.br/" target="_blank">Chá das Cinco</a></strong>, comandada pela <strong>Jane</strong>, que também é uma bicha fêmea navegante, <em>viu</em>?! É… ela costuma passear por aqui e, vez ou outra, também é chegada num <em>trololó…</em> e<em> </em>não é que a bonitona tem loja virtual?
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 &nbsp;
 
 <p align="justify">
-  A loja **Chá das Cinco** oferece produtos de _design_ e decoração vindos diretamente da Inglaterra para a sua casa, a preços acessíveis, seguindo as tendências mais modernas ao mesmo tempo que prezando pela excelência e qualidade dos produtos.
+  A loja <strong>Chá das Cinco</strong> oferece produtos de <em>design</em> e decoração vindos diretamente da Inglaterra para a sua casa, a preços acessíveis, seguindo as tendências mais modernas ao mesmo tempo que prezando pela excelência e qualidade dos produtos.
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <h4 align="center">
-  **[Almofada HOME Cinza](http://www.lojachadascinco.com.br/almofada-home-cinza_119xJM) **
+  <strong><a href="http://www.lojachadascinco.com.br/almofada-home-cinza_119xJM" target="_blank">Almofada HOME Cinza</a></strong>
 </h4>
 
 <p align="center">
@@ -55,7 +55,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <h4 align="center">
-  **Kit Banheiro Provençal em Cerâmica &#8211; 3 itens**
+  <strong>Kit Banheiro Provençal em Cerâmica &#8211; 3 itens</strong>
 </h4>
 
 <p align="center">
@@ -67,7 +67,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <h4 align="center">
-  **[Placa Vintage Bouquets Floral](http://www.lojachadascinco.com.br/placa-vintage-bouquets-floral_56xJM) **
+  <strong><a href="http://www.lojachadascinco.com.br/placa-vintage-bouquets-floral_56xJM" target="_blank">Placa Vintage Bouquets Floral</a></strong>
 </h4>
 
 <p align="center">
@@ -75,7 +75,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <p align="justify">
-  Eu avisei que tudo que eu mostraria arrancaria suspiros, certo? Entendeu bem o porquê? Pois continue se controlando pois ainda quero te mostrar mais _fofurices _próprias da loja **Chá das Cinco**… repara:
+  Eu avisei que tudo que eu mostraria arrancaria suspiros, certo? Entendeu bem o porquê? Pois continue se controlando pois ainda quero te mostrar mais <em>fofurices </em>próprias da loja <strong>Chá das Cinco</strong>… repara:
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <h4 align="center">
-  **[Cabide de Passarinho em Metal](http://www.lojachadascinco.com.br/cabide-de-passarinho-em-metal_126xJM) **
+  <strong><a href="http://www.lojachadascinco.com.br/cabide-de-passarinho-em-metal_126xJM" target="_blank">Cabide de Passarinho em Metal</a></strong>
 </h4>
 
 <p align="center">
@@ -95,7 +95,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <h4 align="center">
-  **[Panos de Prato Cath Kidston](http://www.lojachadascinco.com.br/panos-de-prato-cath-kidston_120xJM) **
+  <strong><a href="http://www.lojachadascinco.com.br/panos-de-prato-cath-kidston_120xJM" target="_blank">Panos de Prato Cath Kidston</a></strong>
 </h4>
 
 <p align="center">
@@ -107,7 +107,7 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <h4 align="center">
-  **[Papel de Parede](http://www.lojachadascinco.com.br/papel-de-parede_49xJM) **
+  <strong><a href="http://www.lojachadascinco.com.br/papel-de-parede_49xJM" target="_blank">Papel de Parede</a></strong>
 </h4>
 
 <p align="center">
@@ -115,5 +115,5 @@ Vem cá, bonita! Quero te mostrar umas coisas para **casa** que são tão lindas
 </p>
 
 <p align="justify">
-  Pois é… não tenha dúvidas de que há muito mais coisas fofas para você espiar. A loja **Chá das Cinco** tem uma variedade enorme de produtos, a exemplo de **luminárias, mimos para casa, utilidades domésticas,** etc. A **Jane** está lá, te dando boas vindas e disposta a tirar qualquer dúvida sua, viu? Ah! Até o final de Dezembro a Loja está oferecendo frete grátis em compras acima de R$200,00. É **[entrar](http://www.lojachadascinco.com.br/) **, navegar e ver para crer. Delicie-se!
+  Pois é… não tenha dúvidas de que há muito mais coisas fofas para você espiar. A loja <strong>Chá das Cinco</strong> tem uma variedade enorme de produtos, a exemplo de <strong>luminárias, mimos para casa, utilidades domésticas,</strong> etc. A <strong>Jane</strong> está lá, te dando boas vindas e disposta a tirar qualquer dúvida sua, viu? Ah! Até o final de Dezembro a Loja está oferecendo frete grátis em compras acima de R$200,00. É <strong><a href="http://www.lojachadascinco.com.br/" target="_blank">entrar</a></strong>, navegar e ver para crer. Delicie-se!
 </p>

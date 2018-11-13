@@ -1,8 +1,8 @@
 ---
-
+id: 3303
 title: Quer comprar produtos cosméticos nacionais e importados?
-
-author: Lidiane
+date: 2014-06-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/06/05/cosmetico-nacional-importado/
 permalink: /2014/06/05/cosmetico-nacional-importado/
@@ -25,15 +25,15 @@ E se eu te disser que o que você precisa tem para pronta entrega, e com um prec
 </p>
 
 <p align="justify">
-  O que você viu acima é só um exemplo do quanto há a disposição para você na **Personal Buyers**. A loja é repleta de **marcas diversas e produtos para todos os tipos de necessidades**, e para o corpo todo, da cabeça aos pés!
+  O que você viu acima é só um exemplo do quanto há a disposição para você na <strong>Personal Buyers</strong>. A loja é repleta de <strong>marcas diversas e produtos para todos os tipos de necessidades</strong>, e para o corpo todo, da cabeça aos pés!
 </p>
 
 <p style="text-align: justify;" align="center">
-  O mais legal é que você pode contar com um atendimento bem bacana, daqueles que, sim, fazem a diferença. A **Fátima Moral** está no comando da empresa que, inclusive, já tem espaço físico. Se você quiser, pode fazer uma **visita agendada** e conhecer marcas, produtos e demais lançamentos.
+  O mais legal é que você pode contar com um atendimento bem bacana, daqueles que, sim, fazem a diferença. A <strong>Fátima Moral</strong> está no comando da empresa que, inclusive, já tem espaço físico. Se você quiser, pode fazer uma <strong>visita agendada</strong> e conhecer marcas, produtos e demais lançamentos.
 </p>
 
 <p align="justify">
-  Anota o endereço aí: **Rua Maceió, 673 – Sala 02, São Caetano do Sul, SP. Telefone: 11 2311-3833.**
+  Anota o endereço aí: <strong>Rua Maceió, 673 – Sala 02, São Caetano do Sul, SP. Telefone: 11 2311-3833.</strong>
 </p>
 
 <p align="justify">
@@ -45,13 +45,13 @@ E se eu te disser que o que você precisa tem para pronta entrega, e com um prec
 </p>
 
 <p align="justify">
-  Para visitar a **loja **já e aproveitar o desconto, [clique aqui](https://www.personalbuyers.com.br/) .
+  Para visitar a <strong>loja </strong>já e aproveitar o desconto, <a href="https://www.personalbuyers.com.br/" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  Para conhecer o **blog da loja**, acompanhar os posts e tudo o mais, [clique aqui](http://personalbuyers.blogspot.com.br/) .
+  Para conhecer o <strong>blog da loja</strong>, acompanhar os posts e tudo o mais, <a href="http://personalbuyers.blogspot.com.br/" target="_blank">clique aqui</a>.
 </p>
 
 <p align="justify">
-  Para curtir a **página no Facebook** e ficar por dentro de todas as novidades, [clique aqui](https://www.facebook.com/PersonalBuyersShop) .
+  Para curtir a <strong>página no Facebook</strong> e ficar por dentro de todas as novidades, <a href="https://www.facebook.com/PersonalBuyersShop" target="_blank">clique aqui</a>.
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2744
 title: 'A educação dos homens e mulheres de amanhã&#8230;'
-
-author: Lidiane
+date: 2009-12-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/12/02/educacao-domestica/
 permalink: /2009/12/02/educacao-domestica/
@@ -14,11 +14,11 @@ Passear na blogosfera é bom, muito bom. Creio que você não questione isso, n�
 
 Nem é preciso você concordar sempre com o que lê. Alguém já disse que a unanimidade é burra, e eu concordo com isso até demais. E enriquecedor mesmo é quando a troca de ideias, ainda que contrárias, se dá num nível tão maduro que a discordância talvez enriqueça mais do que se houvesse o contrário dela sempre.
 
-Sabia que achei um espaço assim na blogosfera? Trata-se do [Vida](http://reencontrandoaspalavras.blogspot.com/) , comandado pela Luci. Respeito muito essa blogueira, demais até, e gosto de ler suas opiniões porque vêm de uma mulher madura, segura de si e da inteligência que possui, sem meias palavras e dona de uma redação limpa, elegante, coerente e objetiva.
+Sabia que achei um espaço assim na blogosfera? Trata-se do <a href="http://reencontrandoaspalavras.blogspot.com/" target="_blank">Vida</a>, comandado pela Luci. Respeito muito essa blogueira, demais até, e gosto de ler suas opiniões porque vêm de uma mulher madura, segura de si e da inteligência que possui, sem meias palavras e dona de uma redação limpa, elegante, coerente e objetiva.
 
 Não poderia ser diferente neste post em que ela é a convidada de hoje. Luci discorre sobre como ela vê a quantas anda frouxa as relações mãe e filho hoje em dia, e fala com a autoridade de quem não precisou ter parido para ter a sensibilidade inquestionável de uma amorosa e sábia mãe. Só conferir…
 
-**_Por Luci &#8211; [Vida](http://reencontrandoaspalavras.blogspot.com/) _**
+**_Por Luci &#8211; <a href="http://reencontrandoaspalavras.blogspot.com/" target="_blank">Vida</a>_**
 
 Vocês não imaginam minha surpresa quando a Lidiane me convidou para escrever para o Bicha. Coração disparou!!! Depois dos olhos arregalados e um monte de interrogações na mente, esbocei um sorriso de felicidade, mas logo pesou a responsabilidade e dúvidas. A maior delas: escrever sobre o que? No final optei por escrever sobre algo que estava na mente e no coração naqueles dias. Vocês não imaginam o parto que foi pra esse filho nascer, mas aí se eu for contar, daria outro post.[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/12/emoticonbigsmile.gif)
 
@@ -40,10 +40,10 @@ Não sou a favor de bater, mas acho que um castigo é sempre bem vindo. Impor li
 
 Creio que todos nós podemos ajudar para que esse quadro mude. Sempre podemos doar algo a uma criança, a um jovem que esteja em nossas vidas. Não tive filhos, mas a vida colocou muitos filhos na minha vida e eu sempre tentei dar a eles algum valor e carinho.
 
-Imagem: [Embroidery Etcetera](http://embroideryetcetera.com/) 
+Imagem: <a href="http://embroideryetcetera.com/" target="_blank">Embroidery Etcetera</a>
 
 **Mais no Bicha Fêmea…**
 
-<a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/" target="_self">**_A_****_ educação vem mesmo de berço?_**</a>
+<a href="http://www.trololodemulher.com.br/2009/11/16/educao-criancas/" target="_self"><strong><em>A</em></strong><strong><em> educação vem mesmo de berço?</em></strong></a>
 
 **_<a href="http://www.trololodemulher.com.br/2010/05/19/educacao-ecologica-criancas/" target="_self">Filho de ecomãe, ecofilho é?</a>_**

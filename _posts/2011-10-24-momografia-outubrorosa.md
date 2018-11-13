@@ -1,8 +1,8 @@
 ---
-
+id: 3067
 title: 'Mãe, faça a momografia por mim, sim? #outubrorosa'
-
-author: Lidiane
+date: 2011-10-24T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/10/24/momografia-outubrorosa/
 permalink: /2011/10/24/momografia-outubrorosa/
@@ -11,7 +11,7 @@ categories:
   - Social
 ---
 <p style="text-align: justify;">
-  O ano de 2011 foi bem importante para a saúde da minha mãe. Hoje ela tem 51 anos e, acredite, nunca tinha feito **mamografia**. Eu sempre me incomodei por isso, porque a amo e quero muito que ela tenha uma vida saudável e tranquila, então não medi esforços para tentar convencê-la da importância do exame.
+  O ano de 2011 foi bem importante para a saúde da minha mãe. Hoje ela tem 51 anos e, acredite, nunca tinha feito <strong>mamografia</strong>. Eu sempre me incomodei por isso, porque a amo e quero muito que ela tenha uma vida saudável e tranquila, então não medi esforços para tentar convencê-la da importância do exame.
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -25,7 +25,7 @@ categories:
 </p>
 
 <p align="justify">
-  Fiquei imaginando: quanto deve ser o número de mulheres que agem assim como a minha mãe agia? Você certamente conhece alguma, que está bem pertinho de você, que **tem mais de 40 anos**, e **nunca fez o exame**. Por que ela não fez?
+  Fiquei imaginando: quanto deve ser o número de mulheres que agem assim como a minha mãe agia? Você certamente conhece alguma, que está bem pertinho de você, que <strong>tem mais de 40 anos</strong>, e <strong>nunca fez o exame</strong>. Por que ela não fez?
 </p>
 
 <p align="justify">
@@ -33,7 +33,7 @@ categories:
 </p>
 
 <p align="justify">
-  Quando eu vi os vídeos produzidos pela **[FEMAMA](http://www.femama.org.br/novo/index.php) ** sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
+  Quando eu vi os vídeos produzidos pela <strong><a href="http://www.femama.org.br/novo/index.php" target="_blank">FEMAMA</a></strong> sob a ótica de quem ama uma mulher e pede que ela faça a mamografia por ela, a pessoa que a ama, me vi bastante representada, de certa forma, por este aqui, oh:
 </p>
 
 
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta **[página da FEMEMA](http://www.femama.org.br/novo/cancer-mama.php?menu=can)  **onde há informações simples e diretas sobre **o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.** Faça isso, bonita!
+  Se você acha que ainda te falta argumentos para isso, dá uma olhada nesta <strong><a href="http://www.femama.org.br/novo/cancer-mama.php?menu=can" target="_blank">página da FEMEMA</a> </strong>onde há informações simples e diretas sobre <strong>o que é a doença, como detectá-la, a diferença entre os vários tipos, como prevenir o câncer de mana e quais os tipos de tratamento.</strong> Faça isso, bonita!
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  Eu consegui convencer somente uma mulher, a mais importante de minha vida… isso, por si só, foi uma conquista _pra_ lá de boa… vai por mim!
+  Eu consegui convencer somente uma mulher, a mais importante de minha vida… isso, por si só, foi uma conquista <em>pra</em> lá de boa… vai por mim!
 </p>
 
 <p align="justify">
@@ -61,5 +61,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

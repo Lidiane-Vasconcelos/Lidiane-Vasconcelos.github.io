@@ -1,8 +1,8 @@
 ---
-
+id: 3563
 title: 'Quarto infantil: retire 5 itens fora de uso… agora!'
-
-author: Lidiane
+date: 2016-03-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/03/15/quarto-infanti/
 permalink: /2016/03/15/quarto-infanti/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  A rotina doméstica pode ser bastante cansativa se você ficar dia após dia às voltas com tarefas desnecessárias. Ninguém merece, por exemplo, ficar arrumando e limpando tralha, não é verdade? É preciso desapegar! Se tem um lugar da casa onde a tralha se multiplica é o **quarto infantil**. Aposto que várias vezes você vai lá no quarto da cria e pensa: “_OMG! Quanta coisa!_”. Pois é… acontece comigo também quando entro no quarto de Artur. Ocorre que se a gente olhar bem, nos pormenores, vai descobrir uma série de itens que não precisariam estar lá… mas está. E o pior: acumulando sujeira, ocupando espaço, aumentando a bagunça… e tudo desnecessário. Sem uso.
+  A rotina doméstica pode ser bastante cansativa se você ficar dia após dia às voltas com tarefas desnecessárias. Ninguém merece, por exemplo, ficar arrumando e limpando tralha, não é verdade? É preciso desapegar! Se tem um lugar da casa onde a tralha se multiplica é o <strong>quarto infantil</strong>. Aposto que várias vezes você vai lá no quarto da cria e pensa: “<em>OMG! Quanta coisa!</em>”. Pois é… acontece comigo também quando entro no quarto de Artur. Ocorre que se a gente olhar bem, nos pormenores, vai descobrir uma série de itens que não precisariam estar lá… mas está. E o pior: acumulando sujeira, ocupando espaço, aumentando a bagunça… e tudo desnecessário. Sem uso.
 </p>
 
 <p align="justify">
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [dog.happy.art](https://www.flickr.com/photos/8113246@N02/4348488461/)  via [Foter.com](http://foter.com/)  / [CC BY-NC](http://creativecommons.org/licenses/by-nc/2.0/) <b></b>
+  Imagem: <a href="https://www.flickr.com/photos/8113246@N02/4348488461/" target="_blank">dog.happy.art</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a><b></b>
 </p>
 
 <p align="justify">
-  1 – **Papeis da escola**:
+  1 – <strong>Papeis da escola</strong>:
 </p>
 
 <p align="justify">
@@ -35,15 +35,15 @@ categories:
 </p>
 
 <p align="justify">
-  **2 – Giz de cêra quebrado:**
+  <strong>2 – Giz de cêra quebrado:</strong>
 </p>
 
 <p align="justify">
-  Pintar com cotoquinhos de giz de cêra? Não dá, minha gente! E por que cargas d´água eu ainda guardava aquilo? Nem sei dizer o porquê… _tsc tsc tsc_… O resultado: um estojo abarrotado de pedacinhos que até atrapalhavam achar os que eram maiores e que, na verdade, é que eram usados. Passei um pente fino no estojo de Artur e joguei fora um tantão de pequenos pedaços de giz de cêra sem uso. Fica a dica!
+  Pintar com cotoquinhos de giz de cêra? Não dá, minha gente! E por que cargas d´água eu ainda guardava aquilo? Nem sei dizer o porquê… <em>tsc tsc tsc</em>… O resultado: um estojo abarrotado de pedacinhos que até atrapalhavam achar os que eram maiores e que, na verdade, é que eram usados. Passei um pente fino no estojo de Artur e joguei fora um tantão de pequenos pedaços de giz de cêra sem uso. Fica a dica!
 </p>
 
 <p align="justify">
-  **3 – Roupas e calçados que não cabem mais:**
+  <strong>3 – Roupas e calçados que não cabem mais:</strong>
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  **4 – Livros danificados:**
+  <strong>4 – Livros danificados:</strong>
 </p>
 
 <p align="justify">
@@ -59,15 +59,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**3 ideias para organizar os livros infantis e facilitar o acesso.**](http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/) 
+  <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank"><strong>3 ideias para organizar os livros infantis e facilitar o acesso.</strong></a>
 </p>
 
 <p align="justify">
-  **5 – Brinquedos com os quais Artur não brinca:**
+  <strong>5 – Brinquedos com os quais Artur não brinca:</strong>
 </p>
 
 <p align="justify">
@@ -75,15 +75,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Quando a organização favorece a decoração do quarto infantil.**](http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/) 
+  <a href="http://www.trololodemulher.com.br/2012/07/25/organizacao-quarto-infantil/" target="_blank"><strong>Quando a organização favorece a decoração do quarto infantil.</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

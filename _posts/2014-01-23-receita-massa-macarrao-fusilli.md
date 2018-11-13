@@ -1,8 +1,8 @@
 ---
-
+id: 3275
 title: 'Fusilli Temperado: fácil, rápido e gostoso.'
-
-author: Lidiane
+date: 2014-01-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/01/23/receita-massa-macarrao-fusilli/
 permalink: /2014/01/23/receita-massa-macarrao-fusilli/
@@ -14,13 +14,13 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: justify;">
-  O mérito dessa dica pra lá de gostosa é toda do **Sr. Aquiles**, do blog **[Receitas do Quilão](http://receitasdoquilao.com.br/) **. Ele é o amor da **[Margaret](http://www.margaretss.com.br/) **, a diva da blogosfera, dona da **[Divitae](http://divitae.com.br/) ** e a sortuda que saboreia todas as delícias que ele prepara. A boa notícia é que seu blog é recheado de tantas outras receitas simples e gostosas como essa. Prepare-se para viver de vontade de comer essa gostosura só de olhar… repara:
+  O mérito dessa dica pra lá de gostosa é toda do <strong>Sr. Aquiles</strong>, do blog <strong><a href="http://receitasdoquilao.com.br/" target="_blank">Receitas do Quilão</a></strong>. Ele é o amor da <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaret</a></strong>, a diva da blogosfera, dona da <strong><a href="http://divitae.com.br/" target="_blank">Divitae</a></strong> e a sortuda que saboreia todas as delícias que ele prepara. A boa notícia é que seu blog é recheado de tantas outras receitas simples e gostosas como essa. Prepare-se para viver de vontade de comer essa gostosura só de olhar… repara:
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  **<span style="font-size: large;">Dicas do Quilão:</span>**
+  <strong><span style="font-size: large;">Dicas do Quilão:</span></strong>
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: large;">INGREDIENTES</span>**
+  <strong><span style="font-size: large;">INGREDIENTES</span></strong>
 </p>
 
 &nbsp;
@@ -50,7 +50,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: center;">
-  <span style="font-size: large;">**Como fazer?**</span>
+  <span style="font-size: large;"><strong>Como fazer?</strong></span>
 </p>
 
 &nbsp;
@@ -72,7 +72,7 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: justify;">
-  Preciso dizer que o daqui de casa não leva o pimentão nem cheiro verde, porque marido pegou implicância com os coitados. _Aff!!!_ Então, para que tivesse um verdinho salpicado no macarrão, coloquei azeitonas verdes fatiadas. No mais, é tudo como o Sr. Aquiles ensinou e, oh: vale _superultramega_ a pena, viu?
+  Preciso dizer que o daqui de casa não leva o pimentão nem cheiro verde, porque marido pegou implicância com os coitados. <em>Aff!!!</em> Então, para que tivesse um verdinho salpicado no macarrão, coloquei azeitonas verdes fatiadas. No mais, é tudo como o Sr. Aquiles ensinou e, oh: vale <em>superultramega</em> a pena, viu?
 </p>
 
 &nbsp;
@@ -88,25 +88,25 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: justify;">
-  É com essa simpatia que o Sr. Aquiles nos recebe em seu blog, com receitas fáceis de fazer, despretensiosas, com ingredientes fáceis de serem encontrados em qualquer parte, tudo acessível para mortais como a gente. Quer aprender com ele, que ensina o que sabe de forma tão calorosa e didática? Se joga nas **[Receitas do Quilão](http://receitasdoquilao.com.br/) **, bonita!!!
+  É com essa simpatia que o Sr. Aquiles nos recebe em seu blog, com receitas fáceis de fazer, despretensiosas, com ingredientes fáceis de serem encontrados em qualquer parte, tudo acessível para mortais como a gente. Quer aprender com ele, que ensina o que sabe de forma tão calorosa e didática? Se joga nas <strong><a href="http://receitasdoquilao.com.br/" target="_blank">Receitas do Quilão</a></strong>, bonita!!!
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Mais delícias para você:</span>**
+  <strong><span style="font-size: medium;">Mais delícias para você:</span></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/09/18/receita-carne-ragu/">**<span style="font-size: medium;">… da delícia que é o Ragu Apressadinho…</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/18/receita-carne-ragu/"><strong><span style="font-size: medium;">… da delícia que é o Ragu Apressadinho…</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/">**<span style="font-size: medium;">O Molho ao Sugo da Cláudia Ramalho eu já fiz, e ficou, oh…</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/"><strong><span style="font-size: medium;">O Molho ao Sugo da Cláudia Ramalho eu já fiz, e ficou, oh…</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/">**<span style="font-size: medium;">Você sabe preparar um molho de tomate SSS?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/"><strong><span style="font-size: medium;">Você sabe preparar um molho de tomate SSS?</span></strong></a>
 </p>
 
 &nbsp;
@@ -116,17 +116,17 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -137,13 +137,13 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -152,5 +152,5 @@ Semana passada reproduzi esta receita aqui em casa, e já nem sei quantas vezes 
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3313
 title: 'Comida boa, bonita e saudável: você verá por aqui.'
-
-author: Lidiane
+date: 2014-07-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/07/07/receita-saudavel/
 permalink: /2014/07/07/receita-saudavel/
@@ -15,13 +15,13 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p style="text-align: justify;">
-  Tudo isso será possível graças a parceria com uma blogueira, linda de viver, que topou dividir conosco tudo o que ela aprendeu ao longo de 7 anos sobre o que é bonito aos olhos, delicioso de comer e ótimo para nosso corpo. Eu estou falando da Carol Vieira, do blog [Mundo da Carol](http://mundocarolvieira.blogspot.com.br/) . É ela mesma quem nos conta, de maneira inspiradora, como começou sua escolha por uma alimentação saudável. Olha só:
+  Tudo isso será possível graças a parceria com uma blogueira, linda de viver, que topou dividir conosco tudo o que ela aprendeu ao longo de 7 anos sobre o que é bonito aos olhos, delicioso de comer e ótimo para nosso corpo. Eu estou falando da Carol Vieira, do blog <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">Mundo da Carol</a>. É ela mesma quem nos conta, de maneira inspiradora, como começou sua escolha por uma alimentação saudável. Olha só:
 </p>
 
 <!--more-->
 
 <p align="justify">
-  **<span style="font-size: medium;">“…estava com 20 quilos acima, vestindo calça gigante, com uma barriga que nunca tinha tido e meu rosto muito gordo.” </span>**
+  <strong><span style="font-size: medium;">“…estava com 20 quilos acima, vestindo calça gigante, com uma barriga que nunca tinha tido e meu rosto muito gordo.” </span></strong>
 </p>
 
 &nbsp;
@@ -33,7 +33,7 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: medium;">“Com o tempo fui me aprimorando, usando muitas ervas frescas e muitas combinações para que as refeições possam ser rápidas de serem feitas e saborosas.”</span>**
+  <strong><span style="font-size: medium;">“Com o tempo fui me aprimorando, usando muitas ervas frescas e muitas combinações para que as refeições possam ser rápidas de serem feitas e saborosas.”</span></strong>
 </p>
 
 &nbsp;
@@ -45,13 +45,13 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: medium;">“Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação.”</span>**
+  <strong><span style="font-size: medium;">“Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação.”</span></strong>
 </p>
 
 &nbsp;
 
 > <p style="text-align: justify;">
->   …Hoje eu faço academia 4 vezes na semana, treino pesado e faço uma alimentação saudável. Ás vezes como algo mais pesado e com gordura, mas apenas um dia e uma refeição. Nada de ser o final de semana todo. A melhor dica é você não se auto sabotar. Esse negócio de só hoje vou comer isso e aquilo, quando você vai ver já comeu 3 dias errado. A reeducação alimentar é o segredo, as substituições são importantes para o equilíbrio das refeições no dia a dia. Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação. No início é difícil, porque o organismo, a língua principalmente está viciada na gordura, no açúcar, no corante, no glutamato&#8230; Precisa de 15 dias a 1 mês para uma adaptação. Sair para comer não é uma tortura, eu sou a prova de que os cardápios sempre tem uma opção mais saudável. Eu viajo para vários lugares do Brasil e do mundo e sempre escolho opções mais leves, até mesmo no temido Estados Unidos, rs. Vou para lá e volto mais magra, porque sei escolher os alimentos. E assim continuo minha busca eterna pelo conhecimento e **nunca utilizei nenhum remédio, porque sou muito contra. Uma boa alimentação + exercícios é o segredo. **Não existe milagre, não existe dieta milagrosa e sim reeducação alimentar. Dieta você faz por pouco tempo e depois volta a engordar e a comer tudo errado novamente. A reeducação alimentar é para sempre!”
+>   …Hoje eu faço academia 4 vezes na semana, treino pesado e faço uma alimentação saudável. Ás vezes como algo mais pesado e com gordura, mas apenas um dia e uma refeição. Nada de ser o final de semana todo. A melhor dica é você não se auto sabotar. Esse negócio de só hoje vou comer isso e aquilo, quando você vai ver já comeu 3 dias errado. A reeducação alimentar é o segredo, as substituições são importantes para o equilíbrio das refeições no dia a dia. Fazendo as substituições dos ingrediente você terá o mesmo sabor? Não, você terá parecido, mas não igual. Se quer mudar a vida, vai precisar mudar a alimentação. No início é difícil, porque o organismo, a língua principalmente está viciada na gordura, no açúcar, no corante, no glutamato&#8230; Precisa de 15 dias a 1 mês para uma adaptação. Sair para comer não é uma tortura, eu sou a prova de que os cardápios sempre tem uma opção mais saudável. Eu viajo para vários lugares do Brasil e do mundo e sempre escolho opções mais leves, até mesmo no temido Estados Unidos, rs. Vou para lá e volto mais magra, porque sei escolher os alimentos. E assim continuo minha busca eterna pelo conhecimento e <strong>nunca utilizei nenhum remédio, porque sou muito contra. Uma boa alimentação + exercícios é o segredo. </strong>Não existe milagre, não existe dieta milagrosa e sim reeducação alimentar. Dieta você faz por pouco tempo e depois volta a engordar e a comer tudo errado novamente. A reeducação alimentar é para sempre!”
 > </p>
 
 &nbsp;
@@ -61,25 +61,25 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 </p>
 
 <p align="center">
-  _Carol, toda bonitona, disposta a dividir conosco tudo que ela aprendeu sobre alimentação saudável. Eu não sou boba de perder!_
+  <em>Carol, toda bonitona, disposta a dividir conosco tudo que ela aprendeu sobre alimentação saudável. Eu não sou boba de perder!</em>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Não sei você, mas eu já estou ansiosa para conhecer todas as receitas que a Carol vai dividir conosco. Aguarde as cenas dos próximos capítulos por aqui, e reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o blog da Carol e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Não sei você, mas eu já estou ansiosa para conhecer todas as receitas que a Carol vai dividir conosco. Aguarde as cenas dos próximos capítulos por aqui, e reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o blog da Carol e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -90,13 +90,13 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -105,5 +105,5 @@ Essa é uma notícia das boas que eu estava bem ansiosa para te dar, sabia? Pois
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
 </p>

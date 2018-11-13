@@ -1,8 +1,8 @@
 ---
-
+id: 3494
 title: 'Festa infantil: como fazer topper para cupcake.'
-
-author: Lidiane
+date: 2015-10-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/10/02/topper-para-cupcake/
 permalink: /2015/10/02/topper-para-cupcake/
@@ -11,15 +11,15 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Como não viver de amores pelos bolinhos decorados, não é? Eles todos arrumadinhos numa mesa de aniversário infantil são muito lindos de viver, sobretudo com as plaquinhas feitas para eles. Acha uma graça também? Veja que é fácil fazer você mesma um** _topper_ para cupcake**, e dar a festa da sua cria aquele toque de mãe. Festas assim são como as de antigamente, e por isso são tão charmosas e carregadas de afetividade. Amo! Vem comigo e vamos aprender juntas?
+  Como não viver de amores pelos bolinhos decorados, não é? Eles todos arrumadinhos numa mesa de aniversário infantil são muito lindos de viver, sobretudo com as plaquinhas feitas para eles. Acha uma graça também? Veja que é fácil fazer você mesma um<strong> <em>topper</em> para cupcake</strong>, e dar a festa da sua cria aquele toque de mãe. Festas assim são como as de antigamente, e por isso são tão charmosas e carregadas de afetividade. Amo! Vem comigo e vamos aprender juntas?
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Bandeirolas de aniversário: imprima grátis**](http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/) 
+  <a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank"><strong>Bandeirolas de aniversário: imprima grátis</strong></a>
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Sacolinha de festa infantil: faça você mesma**](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
+  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank"><strong>Sacolinha de festa infantil: faça você mesma</strong></a>
 </p>
 
 <p align="center">
@@ -43,19 +43,19 @@ categories:
 </p>
 
 <p align="justify">
-  A blogueira que fez o passo a passo deu algumas sugestões de decoração do topper, que são diferentes dessas, em que o enfeite da plaquinha – no caso esses bolinhos – ganham o efeito 3D. Particularmente, gostei mesmo foi dessa. Fica a seu critério. É tudo muito simples de fazer e, embora o post original esteja em inglês, nem se preocupe, as imagens são bastante didáticas e falam por si. Visite o [post original do blog Cake Journal aqui](http://cakejournal.com/tutorials/how-to-make-cupcake-paper-toppers/) , e aprenda tudo _tim tim por tim tim_. Ah! E divirta-se preparando a festa da cria!
+  A blogueira que fez o passo a passo deu algumas sugestões de decoração do topper, que são diferentes dessas, em que o enfeite da plaquinha – no caso esses bolinhos – ganham o efeito 3D. Particularmente, gostei mesmo foi dessa. Fica a seu critério. É tudo muito simples de fazer e, embora o post original esteja em inglês, nem se preocupe, as imagens são bastante didáticas e falam por si. Visite o <a href="http://cakejournal.com/tutorials/how-to-make-cupcake-paper-toppers/" target="_blank">post original do blog Cake Journal aqui</a>, e aprenda tudo <em>tim tim por tim tim</em>. Ah! E divirta-se preparando a festa da cria!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Ideias criativas e simples para festas de aniversário infantil**](http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/) 
+  <a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/" target="_blank"><strong>Ideias criativas e simples para festas de aniversário infantil</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

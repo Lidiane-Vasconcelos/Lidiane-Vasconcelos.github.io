@@ -1,8 +1,8 @@
 ---
-
+id: 2931
 title: 'Ei, psiu! Tenho um recadinho para você&#8230;'
-
-author: Lidiane
+date: 2010-12-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/12/22/mensagem-natal-2010/
 permalink: /2010/12/22/mensagem-natal-2010/
@@ -12,7 +12,7 @@ categories:
 Isso mesmo! Queria deixar um recadinho para você que está lendo este post agora, e que está aí navegando pelo Bicha Fêmea.
 
 <p style="text-align: justify;">
-  Antes de mais nada, muito obrigada por estar aqui neste momento, seja esse seu primeiro acesso ao blog ou mais uma de tantas outras visitas que você faz por aqui. Justamente por que eu sabia que você viria, escrevi um recadinho para você, _&#8216;tá_?!<!--more-->
+  Antes de mais nada, muito obrigada por estar aqui neste momento, seja esse seu primeiro acesso ao blog ou mais uma de tantas outras visitas que você faz por aqui. Justamente por que eu sabia que você viria, escrevi um recadinho para você, <em>&#8216;tá</em>?!<!--more-->
 </p>
 
  
@@ -22,13 +22,13 @@ Isso mesmo! Queria deixar um recadinho para você que está lendo este post agor
 </p>
 
 <p style="text-align: center;">
-  Imagem: [stock.xchng](http://www.sxc.hu/) 
+  Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>

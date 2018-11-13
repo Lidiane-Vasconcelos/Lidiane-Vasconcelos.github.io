@@ -1,8 +1,8 @@
 ---
-
+id: 3762
 title: O que te faz mal? Identifique, e torne a vida simples.
-
-author: Lidiane
+date: 2017-05-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/05/12/vida-simples-2/
 permalink: /2017/05/12/vida-simples-2/
@@ -11,7 +11,7 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Não é fácil tornar a **vida simples** quando cedemos ao comportamento de rebanho, ou seja, fazer o que todos fazem para atender as expectativas externas. Repare: somos ensinadas desde pequenas que é preciso obedecer a alguns padrões para a gente se encaixar, e isso em vários aspectos da vida. Nos ensinaram que precisamos atingir a um tipo de sucesso bastante engessado, sem qualquer customização, como se apenas um modelo de vida fosse o ideal. Além do mais, é preciso ter um corpo com músculos bem definidos, casar e, necessariamente, ter filhos. Precisamos agradar… e não há necessidade de pensar sobre nada disso, pois está posto, é assim que tem que ser.
+  Não é fácil tornar a <strong>vida simples</strong> quando cedemos ao comportamento de rebanho, ou seja, fazer o que todos fazem para atender as expectativas externas. Repare: somos ensinadas desde pequenas que é preciso obedecer a alguns padrões para a gente se encaixar, e isso em vários aspectos da vida. Nos ensinaram que precisamos atingir a um tipo de sucesso bastante engessado, sem qualquer customização, como se apenas um modelo de vida fosse o ideal. Além do mais, é preciso ter um corpo com músculos bem definidos, casar e, necessariamente, ter filhos. Precisamos agradar… e não há necessidade de pensar sobre nada disso, pois está posto, é assim que tem que ser.
 </p>
 
 <p align="justify">
@@ -27,15 +27,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Produtividade e gestão de tempo: chega de correria.**](http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/) 
+  <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank"><strong>Produtividade e gestão de tempo: chega de correria.</strong></a>
 </p>
 
 <p align="justify">
-  [**Desacelerar e ter uma vida leve: veja quatro dicas práticas.**](http://www.trololodemulher.com.br/2016/04/18/desacelerar/) 
+  <a href="http://www.trololodemulher.com.br/2016/04/18/desacelerar/" target="_blank"><strong>Desacelerar e ter uma vida leve: veja quatro dicas práticas.</strong></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -59,17 +59,17 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Vida simples: menos é mais, e a gente vive melhor.**](http://www.trololodemulher.com.br/2015/07/03/vida-simples/) 
+  <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank"><strong>Vida simples: menos é mais, e a gente vive melhor.</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

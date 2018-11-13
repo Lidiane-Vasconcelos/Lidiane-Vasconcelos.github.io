@@ -1,8 +1,8 @@
 ---
-
+id: 2842
 title: 'Pitacos de bicha fêmea: sala de jantar com móveis escuros.'
-
-author: Lidiane
+date: 2010-07-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/07/07/decoracao-sala-de-jantar/
 permalink: /2010/07/07/decoracao-sala-de-jantar/
@@ -23,7 +23,7 @@ Salas de jantar já foram tema de posts anteriores no Bicha Fêmea, e há um del
 
 Há também um outro post, este exclusiamente sobre  **_[decoração de salas de jantar](http://www.trololodemulher.com.br/2009/02/18/sala-de-jantar-olhando-alm-do-enfeite-da-mesa/)_**, onde você vê vários outros ambientes com **_móveis na tonalidade marrom_**, onde** _cortinas e demais acessórios que compõem o espaço_** podem servir de referência para você também, sim?!
 
-Enfim, o post onde há <a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self">**_alternativas para decorar uma mesa de jantar_** </a>também tem imagens com móveis escuros. Os ambientes trazem vários elementos decorativos que podem servir como referência. Aproveite!
+Enfim, o post onde há <a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self"><strong><em>alternativas para decorar uma mesa de jantar</em></strong> </a>também tem imagens com móveis escuros. Os ambientes trazem vários elementos decorativos que podem servir como referência. Aproveite!
 
 O que selecionei para mostrar a você, Sandra, neste post, também poderá lhe ajudar com ideias e inspirações. Assim espero! Vamos ver juntas?
 
@@ -79,7 +79,7 @@ Você comentou que tem uma **_tela com moldura clara_**, e que imagina que ela c
 
 Agora é aguardar, Sandra, porque várias _pitacos_ ainda devem surgir nos comentários. As bichas fêmeas navegantes fazem dos comentários o melhor que há no Bicha Fêmea, e isso pode te ajudar muito. Aguarde e confie!
 
-_Imagens:_ [_do it yourself_](http://www.diyideas.com/) 
+_Imagens:_ <a href="http://www.diyideas.com/" target="_blank"><em>do it yourself</em></a>
 
 **Quer ver mais sobre decoração de salas de jantar?**
 
@@ -96,5 +96,5 @@ _Imagens:_ [_do it yourself_](http://www.diyideas.com/)
 <span style="font-size: xx-small;"> </span>
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_[Receba gratuitamente em seu e-mail](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) _**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

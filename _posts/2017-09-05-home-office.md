@@ -1,8 +1,8 @@
 ---
-
+id: 3793
 title: Para um home office cheio de bossa, inspire-se na Lia!
-
-author: Lidiane
+date: 2017-09-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/09/05/home-office/
 permalink: /2017/09/05/home-office/
@@ -10,7 +10,7 @@ categories:
   - Escritório
 ---
 <p align="justify">
-  Porque, oh: eu já me sinto inspirada por ela faz um tempinho. Sabe de quem estou falando? Deixa eu te contar: é da **Lia Griffith**, do blog **Handcraft Your Life**. A moça edita um blog lindo de viver e re-ple-to de ideias do tipo “faça você mesma”. Ela é criatividade pura, minha gente! Lógico que o espaço de trabalho dessa moça bonita não poderia ser outra coisa diferente do que é: um ambiente pincelado por pequenos detalhes bonitos e inspiradores.
+  Porque, oh: eu já me sinto inspirada por ela faz um tempinho. Sabe de quem estou falando? Deixa eu te contar: é da <strong>Lia Griffith</strong>, do blog <strong>Handcraft Your Life</strong>. A moça edita um blog lindo de viver e re-ple-to de ideias do tipo “faça você mesma”. Ela é criatividade pura, minha gente! Lógico que o espaço de trabalho dessa moça bonita não poderia ser outra coisa diferente do que é: um ambiente pincelado por pequenos detalhes bonitos e inspiradores.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  _A dona do cantinho de trabalho dos mais inspiradores que já vi, e que você verá a seguir: Lia Griffith._
+  <em>A dona do cantinho de trabalho dos mais inspiradores que já vi, e que você verá a seguir: Lia Griffith.</em>
 </p>
 
 <p align="justify">
@@ -30,19 +30,19 @@ categories:
 </p>
 
 <p align="center">
-  _Caixotes reutilizados como suportes para os monitores._
+  <em>Caixotes reutilizados como suportes para os monitores.</em>
 </p>
 
 <p align="justify">
-  **A propósito, veja mais ideias de reutilização de caixotes:**
+  <strong>A propósito, veja mais ideias de reutilização de caixotes:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração “faça você mesma” bem barata? É com a Keilla Colombo!**](http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/) 
+  <a href="http://www.trololodemulher.com.br/2012/08/15/decoracao-faca-voce-mesma-5/" target="_blank"><strong>Decoração “faça você mesma” bem barata? É com a Keilla Colombo!</strong></a>
 </p>
 
 <p align="justify">
-  [**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**](http://www.bichafemea.com/2013/05/08/moveis-quarto/) 
+  <a href="http://www.bichafemea.com/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
 </p>
 
 <p align="center">
@@ -50,15 +50,15 @@ categories:
 </p>
 
 <p align="center">
-  _Mais uma lição de reutilização: potes de vidro reaproveitados a favor da organização do espaço._
+  <em>Mais uma lição de reutilização: potes de vidro reaproveitados a favor da organização do espaço.</em>
 </p>
 
 <p align="justify">
-  **Não deixe de ler:**
+  <strong>Não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  [**Organização do escritório ou home office: dicas.**](http://www.bichafemea.com/2009/10/27/organizacao-escritorio/) 
+  <a href="http://www.bichafemea.com/2009/10/27/organizacao-escritorio/" target="_blank"><strong>Organização do escritório ou home office: dicas.</strong></a>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="center">
-  _Vasinho com cor suave recheado de flores de papel dando beleza ao espaço. Puro romantismo!_
+  <em>Vasinho com cor suave recheado de flores de papel dando beleza ao espaço. Puro romantismo!</em>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="center">
-  _Daqueles detalhes que a gente bate o olho e… ownnnn!_
+  <em>Daqueles detalhes que a gente bate o olho e… ownnnn!</em>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  _Eu, que sou gostadeira de canecas, bati o olho e pensei: oh, que caneca bacana, gente!_
+  <em>Eu, que sou gostadeira de canecas, bati o olho e pensei: oh, que caneca bacana, gente!</em>
 </p>
 
 <p align="center">
@@ -90,21 +90,21 @@ categories:
 </p>
 
 <p align="center">
-  _O lindo colorido das washi tapes todas organizadinhas._
+  <em>O lindo colorido das washi tapes todas organizadinhas.</em>
 </p>
 
 <p align="justify">
-  **Ah, você viu?**
+  <strong>Ah, você viu?</strong>
 </p>
 
 <p align="justify">
-  [**Washi tapes: 3 ideias de decoração “faça você mesma”.**](http://www.trololodemulher.com.br/2016/08/17/washi-tapes/) 
+  <a href="http://www.trololodemulher.com.br/2016/08/17/washi-tapes/" target="_blank"><strong>Washi tapes: 3 ideias de decoração “faça você mesma”.</strong></a>
 </p>
 
 <p align="justify">
-  Difícil não viver de amores pelos detalhes do home office dessa blogueira, não é? Bem que eu falei! Se você quer espiar muito mais de seu espaços, [há muitas outras fotos bem aqui](http://liagriffith.com/my-home-tour-the-updated-office-space-how-we-use-our-intel-tablet/) . Inspire-se!
+  Difícil não viver de amores pelos detalhes do home office dessa blogueira, não é? Bem que eu falei! Se você quer espiar muito mais de seu espaços, <a href="http://liagriffith.com/my-home-tour-the-updated-office-space-how-we-use-our-intel-tablet/" target="_blank">há muitas outras fotos bem aqui</a>. Inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

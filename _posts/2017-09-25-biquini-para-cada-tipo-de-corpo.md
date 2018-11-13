@@ -1,8 +1,8 @@
 ---
-
+id: 3805
 title: 'Biquíni para cada tipo de corpo: saiba escolher.'
-
-author: Lidiane
+date: 2017-09-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/09/25/biquini-para-cada-tipo-de-corpo/
 permalink: /2017/09/25/biquini-para-cada-tipo-de-corpo/
@@ -10,19 +10,19 @@ categories:
   - Moda
 ---
 <p align="justify">
-  Caso você não saiba, há um **biquíni para cada tipo de corpo**, no sentido de que sua escolha valoriza o que você tem de melhor, e disfarça o que você considera como um ponto fraco.
+  Caso você não saiba, há um <strong>biquíni para cada tipo de corpo</strong>, no sentido de que sua escolha valoriza o que você tem de melhor, e disfarça o que você considera como um ponto fraco.
 </p>
 
 <p align="justify">
-  Quer dicas para acertar em cheio na sua próxima ida às compras de moda praia? Confira orientações ricas e exclusivas dadas pela **Sarah Tapias, Consultora de Imagem e Estilo, de Florianópolis – SC**. Se joga!
+  Quer dicas para acertar em cheio na sua próxima ida às compras de moda praia? Confira orientações ricas e exclusivas dadas pela <strong>Sarah Tapias, Consultora de Imagem e Estilo, de Florianópolis – SC</strong>. Se joga!
 </p>
 
 <p align="justify">
-  **Em tempo:**
+  <strong>Em tempo:</strong>
 </p>
 
 <p align="justify">
-  **Confira lista de [sandálias](https://www.gearweare.com/review/best-flip-flop-sandals/) , com dicas para realizar melhores escolhas. **
+  <strong>Confira lista de <a href="https://www.gearweare.com/review/best-flip-flop-sandals/" target="_blank">sandálias</a>, com dicas para realizar melhores escolhas. </strong>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Ana Patrícia Almeida](https://www.flickr.com/photos/anap/3177177124/)  via [Foter.com](http://foter.com/re/5fbcb1)  / [CC BY](http://creativecommons.org/licenses/by/2.0/) 
+  Imagem: <a href="https://www.flickr.com/photos/anap/3177177124/" target="_blank">Ana Patrícia Almeida</a> via <a href="http://foter.com/re/5fbcb1" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Evite:** Calcinhas com tiras muito finas e peças de número menor que o seu. O biquíni apertado ajuda a criar ainda mais volume na parte abdominal.
+  <strong>Evite:</strong> Calcinhas com tiras muito finas e peças de número menor que o seu. O biquíni apertado ajuda a criar ainda mais volume na parte abdominal.
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Evite:** modelo tomara que caia e cortininha, pois não tem muita sustentação.
+  <strong>Evite:</strong> modelo tomara que caia e cortininha, pois não tem muita sustentação.
 </p>
 
 <p align="justify">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Evite:** Modelos de calcinhas pequenas, pois pela proporção do tamanho, elas vão dar a impressão de que o seu quadril é ainda maior.
+  <strong>Evite:</strong> Modelos de calcinhas pequenas, pois pela proporção do tamanho, elas vão dar a impressão de que o seu quadril é ainda maior.
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ categories:
 </p>
 
 <p align="justify">
-  O modelo chamado coração, ou _ripple_, ajuda a aumentar e empinar o bumbum visualmente graças ao franzidinho que possui na parte de trás da calcinha. Invista também em calcinhas com babados, estampas grandes e coloridas, detalhes como laços, zíperes e bordados. As listras horizontais também são ótimas aliadas. Para aquelas que estão com tudo em cima, podem apostar nos lacinhos laterais, que dão ainda mais volume ao quadril.
+  O modelo chamado coração, ou <em>ripple</em>, ajuda a aumentar e empinar o bumbum visualmente graças ao franzidinho que possui na parte de trás da calcinha. Invista também em calcinhas com babados, estampas grandes e coloridas, detalhes como laços, zíperes e bordados. As listras horizontais também são ótimas aliadas. Para aquelas que estão com tudo em cima, podem apostar nos lacinhos laterais, que dão ainda mais volume ao quadril.
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Evite:** uso de cores escuras e estampas miúdas na calcinha, pois da mesma forma como acontece com as roupas, esses detalhes são ótimos para aquelas que desejam afinar, o que não é o caso.
+  <strong>Evite:</strong> uso de cores escuras e estampas miúdas na calcinha, pois da mesma forma como acontece com as roupas, esses detalhes são ótimos para aquelas que desejam afinar, o que não é o caso.
 </p>
 
 <p align="center">
@@ -150,19 +150,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais de Sarah no Trololó de Mulher:**
+  <strong>Mais de Sarah no Trololó de Mulher:</strong>
 </p>
 
 <p align="justify">
-  [**Calça flare: aprenda como combinar o modelo da vez!**](http://www.trololodemulher.com.br/2016/03/28/calca-flare/) 
+  <a href="http://www.trololodemulher.com.br/2016/03/28/calca-flare/" target="_blank"><strong>Calça flare: aprenda como combinar o modelo da vez!</strong></a>
 </p>
 
 <p align="justify">
-  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no [Facebook](https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/)  e em seu perfil do [Instagram](https://www.instagram.com/sarah_tapias/?hl=pt-br) . Acompanhe e aproveite!
+  Sarah é super presente nas redes sociais, e  se eu fosse você não perderia tempo algum e já trataria de acompanhá-la. A proposta da Sarah, com o seu trabalho, é auxiliar mulheres a conhecer sua própria imagem de maneira correta e equilibrada, transmitindo à sociedade sua maneira de pensar, sua personalidade, seus objetivos, através do modo de se vestir, com mais confiança e segurança. Seu conteúdo é publicado no <a href="https://www.facebook.com/Sarah-Tapias-Consultoria-de-Imagem-1377996229185974/" target="_blank">Facebook</a> e em seu perfil do <a href="https://www.instagram.com/sarah_tapias/?hl=pt-br" target="_blank">Instagram</a>. Acompanhe e aproveite!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

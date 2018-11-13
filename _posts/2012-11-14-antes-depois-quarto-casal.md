@@ -1,8 +1,8 @@
 ---
-
+id: 3209
 title: Antes x Depois de quarto de casal com a ajuda de uma expert
-
-author: Lidiane
+date: 2012-11-14T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/11/14/antes-depois-quarto-casal/
 permalink: /2012/11/14/antes-depois-quarto-casal/
@@ -10,11 +10,11 @@ categories:
   - Quarto
 ---
 <p style="text-align: justify;">
-  Quem disse que um **quarto pequeno** não pode ficar todo charmoso com um orçamento baixo? A verdade é que dá para tirar muitas ideias, inspirações e referências nos tantos blogs de decoração que conhecemos, o que faria essa tarefa ser menos árdua, certo?
+  Quem disse que um <strong>quarto pequeno</strong> não pode ficar todo charmoso com um orçamento baixo? A verdade é que dá para tirar muitas ideias, inspirações e referências nos tantos blogs de decoração que conhecemos, o que faria essa tarefa ser menos árdua, certo?
 </p>
 
 <p style="text-align: justify;">
-  Por outro lado, o que facilita mesmo a vida é quando temos a ajuda de um _expert_ no assunto, certo? Foi por isso que um casal buscou o suporte da **_Designer _de Interiores Claudia Medeiros, de Campinas**. Com um custo bem baixo, a moça transformou um **quarto sem decoração num cantinho _pra_ lá de aconchegante**. Confira e inspire-se!
+  Por outro lado, o que facilita mesmo a vida é quando temos a ajuda de um <em>expert</em> no assunto, certo? Foi por isso que um casal buscou o suporte da <strong><em>Designer </em>de Interiores Claudia Medeiros, de Campinas</strong>. Com um custo bem baixo, a moça transformou um <strong>quarto sem decoração num cantinho <em>pra</em> lá de aconchegante</strong>. Confira e inspire-se!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Antes</span>**
+  <strong><span style="font-size: large;">Antes</span></strong>
 </p>
 
 &nbsp;
@@ -38,13 +38,13 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **“O piso, que era de carpete-forração cinza, estava feio, velho e se soltando_._**
+>   <strong>“O piso, que era de carpete-forração cinza, estava feio, velho e se soltando<em>.</em></strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Depois</span>**
+  <strong><span style="font-size: large;">Depois</span></strong>
 </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **O piso foi trocado por outro do tipo laminado, da Eucafloor. As paredes foram pintadas de palha e a cabeceira, de verde orquídea, da Suvinil.**
+>   <strong>O piso foi trocado por outro do tipo laminado, da Eucafloor. As paredes foram pintadas de palha e a cabeceira, de verde orquídea, da Suvinil.</strong>
 > </p>
 
 &nbsp;
@@ -68,7 +68,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **O armário teve as portas trocadas por outras novas, de MDF.**
+>   <strong>O armário teve as portas trocadas por outras novas, de MDF.</strong>
 > </p>
 
 &nbsp;
@@ -80,11 +80,11 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **Já que o dormitório não comportava dois criados-mudos, mas o casal precisava de armários para organizar suas coisas, um armário embaixo da janela resolveu a situação, com quase 3 metros de comprimento e 40cm de profundidade, armazena muitas coisas e não interfere na circulação.**
+>   <strong>Já que o dormitório não comportava dois criados-mudos, mas o casal precisava de armários para organizar suas coisas, um armário embaixo da janela resolveu a situação, com quase 3 metros de comprimento e 40cm de profundidade, armazena muitas coisas e não interfere na circulação.</strong>
 > </p>
 
 > <p align="justify">
->   **A cortina, em linhão creme, é curta devido ao móvel que fica logo abaixo, se não houvesse este móvel deveria ser longa para deixar o ambiente mais elegante.**
+>   <strong>A cortina, em linhão creme, é curta devido ao móvel que fica logo abaixo, se não houvesse este móvel deveria ser longa para deixar o ambiente mais elegante.</strong>
 > </p>
 
 &nbsp;
@@ -96,11 +96,11 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **A cama ganhou cabeceira alta de MDF branco trabalhada com frisos e recebeu duas luminárias fixas, pois mesmo sem os criados-mudos, o casal queria uma iluminação mais aconchegante. O lustre, do mesmo modelo das luminárias, cria um clima romântico no quarto.**
+>   <strong>A cama ganhou cabeceira alta de MDF branco trabalhada com frisos e recebeu duas luminárias fixas, pois mesmo sem os criados-mudos, o casal queria uma iluminação mais aconchegante. O lustre, do mesmo modelo das luminárias, cria um clima romântico no quarto.</strong>
 > </p>
 
 > <p align="justify">
->   Sobre o móvel, o charme fica por conta da moringa, gaiola e lanterna marroquina. A tela foi presente da irmã do cliente e **recebeu moldura clara** para combinar com o restante do quarto. Colcha da loja **Pernambucanas**, manta da **Tok&Stok**, lustre e luminárias da **Ponto de Iluminação**, cortinas e piso da** Decortex**, tintas e futons da** Leroy Merlin**.”
+>   Sobre o móvel, o charme fica por conta da moringa, gaiola e lanterna marroquina. A tela foi presente da irmã do cliente e <strong>recebeu moldura clara</strong> para combinar com o restante do quarto. Colcha da loja <strong>Pernambucanas</strong>, manta da <strong>Tok&Stok</strong>, lustre e luminárias da <strong>Ponto de Iluminação</strong>, cortinas e piso da<strong> Decortex</strong>, tintas e futons da<strong> Leroy Merlin</strong>.”
 > </p>
 
 &nbsp;
@@ -116,11 +116,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A **Claudia Medeiros** é uma leitora talentosa que eu conheço, oh: faz tempo… inclusive tive o prazer de conhecê-la pessoalmente, num encontro de blogueiras. Sim! Essa bonitona também tem um blog, o **[Se fosse na minha casa](http://sefossenaminhacasa.blogspot.com.br/) **. Quer conhecer? Se joga!
+  A <strong>Claudia Medeiros</strong> é uma leitora talentosa que eu conheço, oh: faz tempo… inclusive tive o prazer de conhecê-la pessoalmente, num encontro de blogueiras. Sim! Essa bonitona também tem um blog, o <strong><a href="http://sefossenaminhacasa.blogspot.com.br/" target="_blank">Se fosse na minha casa</a></strong>. Quer conhecer? Se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3510
 title: Beijinho sem leite condensado
-
-author: Lidiane
+date: 2015-11-11T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/11/11/beijinho-sem-leite-condensado/
 permalink: /2015/11/11/beijinho-sem-leite-condensado/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Docinho de festa é um clássico: seja para um momento festivo, ou para aquela vontade repentina de saborear um doce, ele sempre faz sucesso. Essa receita de **beijinho sem leite condensado** que a Carol compartilhou conosco é pra guardar com carinho e recorrer a ela nestas situações. Aprecie sem culpa… olha só:
+  Docinho de festa é um clássico: seja para um momento festivo, ou para aquela vontade repentina de saborear um doce, ele sempre faz sucesso. Essa receita de <strong>beijinho sem leite condensado</strong> que a Carol compartilhou conosco é pra guardar com carinho e recorrer a ela nestas situações. Aprecie sem culpa… olha só:
 </p>
 
 &nbsp;
@@ -46,7 +46,7 @@ Cravo;
 &nbsp;
 
 <p align="justify">
-  “_Misture o leite em pó com o coco e o adoçante e vá acrescentando o leite de coco até obter uma mistura homogênea. Deixe a massa descansar por uma hora. Caso esteja muito firme acrescente água aos poucos até obter ponto de enrolar. Passe as bolinhas no coco e coloque o cravo em cima_.”
+  “<em>Misture o leite em pó com o coco e o adoçante e vá acrescentando o leite de coco até obter uma mistura homogênea. Deixe a massa descansar por uma hora. Caso esteja muito firme acrescente água aos poucos até obter ponto de enrolar. Passe as bolinhas no coco e coloque o cravo em cima</em>.”
 </p>
 
 <p align="center">
@@ -54,31 +54,31 @@ Cravo;
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Suflê de couve-flor e cenoura**](http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/) 
+  <a href="http://www.trololodemulher.com.br/2015/10/28/receita-saudavel-2/" target="_blank"><strong>Suflê de couve-flor e cenoura</strong></a>
 </p>
 
 <p align="justify">
-  [**Pudim de chocolate light**](http://www.trololodemulher.com.br/2015/10/14/pudim-de-chocolate-light/) 
+  <a href="http://www.trololodemulher.com.br/2015/10/14/pudim-de-chocolate-light/" target="_blank"><strong>Pudim de chocolate light</strong></a>
 </p>
 
 <p align="justify">
-  [**Bolo simples integral com gotas de chocolate**](http://www.belezacorpoecia.com/bolo-simples-integral/) 
+  <a href="http://www.belezacorpoecia.com/bolo-simples-integral/" target="_blank"><strong>Bolo simples integral com gotas de chocolate</strong></a>
 </p>
 
 <p align="justify">
-  [**Mousse de abacate e cacau em pó**](http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/) 
+  <a href="http://www.belezacorpoecia.com/mousse-abacate-cacau-em-po/" target="_blank"><strong>Mousse de abacate e cacau em pó</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

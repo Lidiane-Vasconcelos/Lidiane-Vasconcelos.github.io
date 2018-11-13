@@ -1,8 +1,8 @@
 ---
-
+id: 3391
 title: Você está conectada, mas com a vida real?
-
-author: Lidiane
+date: 2015-01-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/01/23/conectada-vida-real/
 permalink: /2015/01/23/conectada-vida-real/
@@ -27,7 +27,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Meus filhos, meus alunos e meus amigos. Esses me deixam com os pés no chão, focada na vida. Com as crianças a gente consegue viver um pouco entre as fadas, um pouco vendo o futuro, mas sempre com os pés aqui na terra.” Glaucia de Oliveira**
+>   <strong>Meus filhos, meus alunos e meus amigos. Esses me deixam com os pés no chão, focada na vida. Com as crianças a gente consegue viver um pouco entre as fadas, um pouco vendo o futuro, mas sempre com os pés aqui na terra.” Glaucia de Oliveira</strong>
 > </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Oi, Lidi! Minha gatinha é o que mais me faz ficar conectada com o mundo e a vida reais! Acredito que quem for mãe vai responder a mesma coisa..rss…olha ela aí!” **[**Carol Carneiro | Blog Carol Carneiro**](http://www.blogcarolcarneiro.blogspot.com.br/) 
+>   <strong>Oi, Lidi! Minha gatinha é o que mais me faz ficar conectada com o mundo e a vida reais! Acredito que quem for mãe vai responder a mesma coisa..rss…olha ela aí!” </strong><a href="http://www.blogcarolcarneiro.blogspot.com.br/" target="_blank"><strong>Carol Carneiro | Blog Carol Carneiro</strong></a>
 > </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Oi, Lidi! Acho que o que me conecta com o mundo e com a vida real é sem dúvida a minha família e meus amigos, por eles vou mais longe do que acho que posso, sempre encontro forças para cuidar deles e estar presente em suas vidas.” Rita de Cássia Pacífico Feitosa**
+>   <strong>Oi, Lidi! Acho que o que me conecta com o mundo e com a vida real é sem dúvida a minha família e meus amigos, por eles vou mais longe do que acho que posso, sempre encontro forças para cuidar deles e estar presente em suas vidas.” Rita de Cássia Pacífico Feitosa</strong>
 > </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Minha família &#8211; É o amor de uma forma absoluta. Vou sintetizar no rapazinho que acabou de chegar e nos encheu de alegria e amor, relembrando velhos tempos, o meu sobrinho-neto. Olhando para minha mãe (a bisavó) com ele no colo, tenho a certeza absoluta que a vida é muito, mas muito mais do que vivemos. Ela transcende a nós todos. A Natureza &#8211; Nada como uns minutinhos observando a beleza deste presente maravilhoso que é um caminho na mata para me conectar comigo e com o Todo de uma forma que nenhuma máquina conseguiria. Pintar &#8211; Conectando eu comigo mesma, de uma forma profunda e inexplicável. Ouvir música &#8211; Mas aí não tenho imagem para mostrar&#8230; A música me liga ao passado, ao futuro, ao além do tempo. A tudo que não compreendo mais sinto.” Rosana Silva | **[**Simples Decoração**](http://www.simplesdecoracao.com.br/) 
+>   <strong>Minha família &#8211; É o amor de uma forma absoluta. Vou sintetizar no rapazinho que acabou de chegar e nos encheu de alegria e amor, relembrando velhos tempos, o meu sobrinho-neto. Olhando para minha mãe (a bisavó) com ele no colo, tenho a certeza absoluta que a vida é muito, mas muito mais do que vivemos. Ela transcende a nós todos. A Natureza &#8211; Nada como uns minutinhos observando a beleza deste presente maravilhoso que é um caminho na mata para me conectar comigo e com o Todo de uma forma que nenhuma máquina conseguiria. Pintar &#8211; Conectando eu comigo mesma, de uma forma profunda e inexplicável. Ouvir música &#8211; Mas aí não tenho imagem para mostrar&#8230; A música me liga ao passado, ao futuro, ao além do tempo. A tudo que não compreendo mais sinto.” Rosana Silva | </strong><a href="http://www.simplesdecoracao.com.br/" target="_blank"><strong>Simples Decoração</strong></a>
 > </p>
 
 <p align="center">
@@ -59,11 +59,11 @@ categories:
 </p>
 
 > <p align="justify">
->   **Amo costurar, o vestidinho de festa junina, fiz para Anelise, a filha mais nova. Praia, cozinha e qualquer tipo de arte me diverte. Sou advogada, o que também não é fácil nesse país sob a égide da injustiça&#8230;mas amo o que faço.” Eliana Silva**
+>   <strong>Amo costurar, o vestidinho de festa junina, fiz para Anelise, a filha mais nova. Praia, cozinha e qualquer tipo de arte me diverte. Sou advogada, o que também não é fácil nesse país sob a égide da injustiça&#8230;mas amo o que faço.” Eliana Silva</strong>
 > </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

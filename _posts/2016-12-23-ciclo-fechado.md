@@ -1,8 +1,8 @@
 ---
-
+id: 3720
 title: Ciclo fechado, agradecimento, férias.
-
-author: Lidiane
+date: 2016-12-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/12/23/ciclo-fechado/
 permalink: /2016/12/23/ciclo-fechado/
@@ -50,5 +50,5 @@ Beijos e beijos,
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

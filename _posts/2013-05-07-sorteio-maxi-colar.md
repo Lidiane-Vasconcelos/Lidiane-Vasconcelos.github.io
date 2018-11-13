@@ -1,8 +1,8 @@
 ---
-
+id: 3215
 title: Sorteio de Maxi Colar Sandra Arruda… toda bicha fêmea quer!
-
-author: Lidiane
+date: 2013-05-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/05/07/sorteio-maxi-colar/
 permalink: /2013/05/07/sorteio-maxi-colar/
@@ -14,7 +14,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Desde Abril de 2012 a moça está a frente da **[Maxi Colares Sandra Arruda](https://www.facebook.com/maxicolaresarruda) **, esbanjando talento em peças encomendadas em todo o Brasil e até no exterior. É uma dessas peças que será sorteada por aqui, para o delírio das bichas fêmeas navegantes. _Espia_ só:
+  Desde Abril de 2012 a moça está a frente da <strong><a href="https://www.facebook.com/maxicolaresarruda" target="_blank">Maxi Colares Sandra Arruda</a></strong>, esbanjando talento em peças encomendadas em todo o Brasil e até no exterior. É uma dessas peças que será sorteada por aqui, para o delírio das bichas fêmeas navegantes. <em>Espia</em> só:
 </p>
 
 <!--more-->
@@ -26,27 +26,27 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Viu que _lindeza_? As peças de Sandra são assim: puro _glamour!_ Quer tirar a prova? Dá uma espiada na **[galeria de imagens de peças na página da empresa do Facebook](https://www.facebook.com/maxicolaresarruda/photos_stream) **. Vai lá e volta…
+  Viu que <em>lindeza</em>? As peças de Sandra são assim: puro <em>glamour!</em> Quer tirar a prova? Dá uma espiada na <strong><a href="https://www.facebook.com/maxicolaresarruda/photos_stream" target="_blank">galeria de imagens de peças na página da empresa do Facebook</a></strong>. Vai lá e volta…
 </p>
 
 <p align="justify">
-  Viu? Os colares são criados com pedras naturais brasileiras, ou ainda com pedras de acrílico. As peças são exclusivas, diferenciadas e requintadas, com estilos variados que atendem a todos os gostos, desde os mais coloridos aos mais sóbrios. É através da **[página no Facebook](https://www.facebook.com/maxicolaresarruda) ** que você pode fazer sua encomenda, está bem?
+  Viu? Os colares são criados com pedras naturais brasileiras, ou ainda com pedras de acrílico. As peças são exclusivas, diferenciadas e requintadas, com estilos variados que atendem a todos os gostos, desde os mais coloridos aos mais sóbrios. É através da <strong><a href="https://www.facebook.com/maxicolaresarruda" target="_blank">página no Facebook</a></strong> que você pode fazer sua encomenda, está bem?
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: x-large;">Como ganhar esse maxi colar?</span>**
+  <strong><span style="font-size: x-large;">Como ganhar esse maxi colar?</span></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Complete a frase: **<span style="font-size: medium;">“Quero ganhar um Maxi Colar Sandra Arruda&#8230;”</span>**. Faça isso nos comentários desse post e sua inscrição já estará valendo.
+  Complete a frase: <strong><span style="font-size: medium;">“Quero ganhar um Maxi Colar Sandra Arruda&#8230;”</span></strong>. Faça isso nos comentários desse post e sua inscrição já estará valendo.
 </p>
 
 <p style="text-align: center;" align="justify">
-  **Quer chance extra?**
+  <strong>Quer chance extra?</strong>
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  As **incrições vão de hoje até o dia 14 de Maio**. O envio é válido para o território nacional. O sorteio será feito via random.org, com **divulgação dia 16 de Maio**. **Anote a data na agenda porque a pessoa que ganhar verá o resultado somente aqui e, se não se apresentar até o dia 19 de Maio**, será feito novo sorteio, _hein_?
+  As <strong>incrições vão de hoje até o dia 14 de Maio</strong>. O envio é válido para o território nacional. O sorteio será feito via random.org, com <strong>divulgação dia 16 de Maio</strong>. <strong>Anote a data na agenda porque a pessoa que ganhar verá o resultado somente aqui e, se não se apresentar até o dia 19 de Maio</strong>, será feito novo sorteio, <em>hein</em>?
 </p>
 
 <p align="justify">

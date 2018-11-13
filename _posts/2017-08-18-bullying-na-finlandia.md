@@ -1,8 +1,8 @@
 ---
-
+id: 3785
 title: 'Caso de sucesso: o enfrentamento do bullying na Finlândia'
-
-author: Lidiane
+date: 2017-08-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/08/18/bullying-na-finlandia/
 permalink: /2017/08/18/bullying-na-finlandia/
@@ -12,11 +12,11 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Ao contrário do que poderíamos imaginar, embora a **[educação em terras finlandesas](http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/) ** seja exemplo de excelência, o **bullying na Finlândia** também é um problema a ser tratado. Não há novidade sobre as consequências devastadoras que podem ocorrer em pessoas que sofrem bullying, e o quanto essa questão social tem se tornado cada vez mais crescente. Medo ou falta de vontade de ir a escola, desejo de abandonar os estudos ou baixo rendimento são danos causados por esse mau, só para citar alguns.
+  Ao contrário do que poderíamos imaginar, embora a <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">educação em terras finlandesas</a></strong> seja exemplo de excelência, o <strong>bullying na Finlândia</strong> também é um problema a ser tratado. Não há novidade sobre as consequências devastadoras que podem ocorrer em pessoas que sofrem bullying, e o quanto essa questão social tem se tornado cada vez mais crescente. Medo ou falta de vontade de ir a escola, desejo de abandonar os estudos ou baixo rendimento são danos causados por esse mau, só para citar alguns.
 </p>
 
 <p align="justify">
-  Neste post vamos conhecer o que o governo finlandês tem feito no enfrentamento desse fenômeno, e os resultados bastante positivos vindos dessas ações. **Adriana Minhoto**, nossa colaboradora responsável por descortinar vários aspectos sobre aquele país frio e distante, conta em detalhes como tem sido esse trabalho,  orientado para o controle e diminuição  das ocorrências de bullying na Finlândia. Confira!
+  Neste post vamos conhecer o que o governo finlandês tem feito no enfrentamento desse fenômeno, e os resultados bastante positivos vindos dessas ações. <strong>Adriana Minhoto</strong>, nossa colaboradora responsável por descortinar vários aspectos sobre aquele país frio e distante, conta em detalhes como tem sido esse trabalho,  orientado para o controle e diminuição  das ocorrências de bullying na Finlândia. Confira!
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Foter.com](http://foter.com/re/0a5d53) 
+  Via <a href="http://foter.com/re/0a5d53" target="_blank">Foter.com</a>
 </p>
 
 <p align="justify">
@@ -56,35 +56,35 @@ categories:
 </p>
 
 <p align="justify">
-  **Entenda como tudo começou:**
+  <strong>Entenda como tudo começou:</strong>
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/">As voltas que a vida dá nos leva a lugares inimagináveis!</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
 </p>
 
 <p align="justify">
-  **Mais sobre a Finlândia, por Adriana Minhoto:**
+  <strong>Mais sobre a Finlândia, por Adriana Minhoto:</strong>
 </p>
 
 <p align="justify">
-  **[Verdades pouco conhecidas sobre a mulher finlandesa.](http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/) **
+  <strong><a href="http://www.trololodemulher.com.br/2016/08/09/mulher-finlandesa/" target="_blank">Verdades pouco conhecidas sobre a mulher finlandesa.</a></strong>
 </p>
 
 <p align="justify">
-  **[O que você não sabia sobre a cultura popular na Finlândia.](http://www.trololodemulher.com.br/2016/05/31/finlandia-3/) **
+  <strong><a href="http://www.trololodemulher.com.br/2016/05/31/finlandia-3/" target="_blank">O que você não sabia sobre a cultura popular na Finlândia.</a></strong>
 </p>
 
 <p align="justify">
-  **[Casar e morar na Finlândia: o amor colocado à prova.](http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/) **
+  <strong><a href="http://www.trololodemulher.com.br/2016/04/15/morar-na-finlandia-2/" target="_blank">Casar e morar na Finlândia: o amor colocado à prova.</a></strong>
 </p>
 
 <p align="justify">
-  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca/timeline)  Eu já!
+  Dri Minhoto, a moça bonita desgarrada em terras finlandesas, dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca/timeline" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

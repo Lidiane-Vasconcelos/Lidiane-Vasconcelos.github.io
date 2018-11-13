@@ -1,8 +1,8 @@
 ---
-
+id: 3657
 title: 'Quarto infantil: como brincar com as cores?'
-
-author: Lidiane
+date: 2016-09-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/09/05/quarto-infantil/
 permalink: /2016/09/05/quarto-infantil/
@@ -12,7 +12,7 @@ categories:
   - Quarto Infantil
 ---
 <p style="text-align: justify;">
-  Usando as paredes! Por que não? Isso mesmo… use as paredes do **quarto infantil** e brinque com as cores naquele espaço. Como o quarto do(a) pequeno(a) se trata de um espaço reservado para alguém de faixa etária totalmente diferente dos outros moradores da casa, a decoração precisa estar de acordo com esse universo, certo?
+  Usando as paredes! Por que não? Isso mesmo… use as paredes do <strong>quarto infantil</strong> e brinque com as cores naquele espaço. Como o quarto do(a) pequeno(a) se trata de um espaço reservado para alguém de faixa etária totalmente diferente dos outros moradores da casa, a decoração precisa estar de acordo com esse universo, certo?
 </p>
 
 <p style="text-align: justify;">
@@ -28,15 +28,15 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **Amarelo, azul e laranja** foram as cores escolhidas para a brincadeira na parede, e foram **elas que nortearam a escolha de alguns acessórios na decoração do quarto**. Repare que essa estratégia funciona bem se for um quarto só de meninas, ou meninos, ou de irmãos de ambos os sexos. O segredo está na escolha das cores, em harmonia, para fazerem essa composição. Inspire-se na ideia e capriche na montagem do quarto dos pequenos!
+  <strong>Amarelo, azul e laranja</strong> foram as cores escolhidas para a brincadeira na parede, e foram <strong>elas que nortearam a escolha de alguns acessórios na decoração do quarto</strong>. Repare que essa estratégia funciona bem se for um quarto só de meninas, ou meninos, ou de irmãos de ambos os sexos. O segredo está na escolha das cores, em harmonia, para fazerem essa composição. Inspire-se na ideia e capriche na montagem do quarto dos pequenos!
 </p>
 
 &nbsp;
 
-Imagem: [**_Homedit_**](http://www.homedit.com/) 
+Imagem: <a href="http://www.homedit.com/" target="_blank"><strong><em>Homedit</em></strong></a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

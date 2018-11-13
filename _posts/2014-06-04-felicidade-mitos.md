@@ -1,8 +1,8 @@
 ---
-
+id: 3300
 title: '3 “verdades” duvidosas que minam sua vida: fuja disso já!'
-
-author: Lidiane
+date: 2014-06-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/06/04/felicidade-mitos/
 permalink: /2014/06/04/felicidade-mitos/
@@ -22,7 +22,7 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 <!--more-->
 
 <p align="center">
-  **<span style="font-size: small;">Com a palavra, a especialista:</span>**
+  <strong><span style="font-size: small;">Com a palavra, a especialista:</span></strong>
 </p>
 
 &nbsp;
@@ -34,7 +34,7 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">“Só posso ser feliz se estiver casada.” & “Preciso ser mãe e, aí, minha vida será perfeita.”</span>**
+  <strong><span style="font-size: small;">“Só posso ser feliz se estiver casada.” & “Preciso ser mãe e, aí, minha vida será perfeita.”</span></strong>
 </p>
 
 &nbsp;
@@ -44,21 +44,21 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 > </p>
 
 <p align="justify">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p align="justify">
-  [**Sozinhez**](http://www.trololodemulher.com.br/2011/11/04/sozinhez/) 
+  <a href="http://www.trololodemulher.com.br/2011/11/04/sozinhez/" target="_blank"><strong>Sozinhez</strong></a>
 </p>
 
 <p align="justify">
-  [**Quando alguém te pergunta se você quer ter filhos…**](http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/) 
+  <a href="http://www.trololodemulher.com.br/2012/10/26/filhos-maternidade-gravidez/" target="_blank"><strong>Quando alguém te pergunta se você quer ter filhos…</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">“Quanto mais dinheiro eu ganhar, menos problemas terei na vida.”</span>**
+  <strong><span style="font-size: small;">“Quanto mais dinheiro eu ganhar, menos problemas terei na vida.”</span></strong>
 </p>
 
 &nbsp;
@@ -68,19 +68,19 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 > </p>
 
 <p align="justify">
-  **Tudo a ver:**
+  <strong>Tudo a ver:</strong>
 </p>
 
 <p align="justify">
-  [**Consumismo: você ficaria 365 dias sem compras?**](http://www.trololodemulher.com.br/2011/09/23/consumismo/) 
+  <a href="http://www.trololodemulher.com.br/2011/09/23/consumismo/" target="_blank"><strong>Consumismo: você ficaria 365 dias sem compras?</strong></a>
 </p>
 
 <p align="justify">
-  [**Suas finanças pessoais estão no azul ou no vermelho?**](http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/) 
+  <a href="http://www.trololodemulher.com.br/2011/05/20/dicas-financas-pessoais/" target="_blank"><strong>Suas finanças pessoais estão no azul ou no vermelho?</strong></a>
 </p>
 
 <p align="justify">
-  [**Dicas que seu bolso agradece, e muito!**](http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/) 
+  <a href="http://www.trololodemulher.com.br/2012/11/16/financas-pessoais/" target="_blank"><strong>Dicas que seu bolso agradece, e muito!</strong></a>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Concluindo…</span>**
+  <strong><span style="font-size: small;">Concluindo…</span></strong>
 </p>
 
 &nbsp;
@@ -108,13 +108,13 @@ Há crenças que condicionam nossa felicidade ao alcance do sucesso em alguns as
 &nbsp;
 
 <p align="justify">
-  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog [A Força e a Beleza de ser Mulher](http://geisamachado.blogspot.com.br/) . Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e [clica aqui](http://geisamachado.blogspot.com.br/) !
+  Geisa também é blogueira, sabia? Pois é… seus textos podem ser acompanhados através de seu blog <a href="http://geisamachado.blogspot.com.br/" target="_blank">A Força e a Beleza de ser Mulher</a>. Sua proposta é analisar os reflexos positivos, e também negativos, decorrentes do movimento femininsta. Alguma dúvida de que essa leitura pode ser bastante esclarecedora? Então se joga e <a href="http://geisamachado.blogspot.com.br/" target="_blank">clica aqui</a>!
 </p>
 
 <p align="justify">
-  Imagem: [free images](http://www.freeimages.com/) 
+  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

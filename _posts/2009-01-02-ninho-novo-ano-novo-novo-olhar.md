@@ -1,8 +1,8 @@
 ---
-
+id: 2598
 title: 'Ninho novo, ano novo, novo olhar&#8230;'
-
-author: Lidiane
+date: 2009-01-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/01/02/ninho-novo-ano-novo-novo-olhar/
 permalink: /2009/01/02/ninho-novo-ano-novo-novo-olhar/

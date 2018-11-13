@@ -1,8 +1,8 @@
 ---
-
+id: 3329
 title: 5 coisas que você precisa saber sobre dor nas costas.
-
-author: Lidiane
+date: 2014-08-11T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/08/11/dor-nas-costas/
 permalink: /2014/08/11/dor-nas-costas/
@@ -25,11 +25,11 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 </p>
 
 <p align="center">
-  Imagem: [free images](http://www.freeimages.com/) 
+  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 </p>
 
 <p align="justify">
-  **<span style="font-size: small;">[1] Bicha Fêmea &#8211; Estar acima do peso favorece a dor nas costas?</span>**
+  <strong><span style="font-size: small;">[1] Bicha Fêmea &#8211; Estar acima do peso favorece a dor nas costas?</span></strong>
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 > </p>
 
 <p align="justify">
-  **<span style="font-size: small;">[2] Bicha Fêmea &#8211; Envelhecer significa passar a ter dores na região?</span>**
+  <strong><span style="font-size: small;">[2] Bicha Fêmea &#8211; Envelhecer significa passar a ter dores na região?</span></strong>
 </p>
 
 &nbsp;
@@ -51,7 +51,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: small;">[3] Bicha Fêmea &#8211; Passar muito tempo sentada agrava a situação?</span>**
+  <strong><span style="font-size: small;">[3] Bicha Fêmea &#8211; Passar muito tempo sentada agrava a situação?</span></strong>
 </p>
 
 &nbsp;
@@ -63,7 +63,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: small;">[4] Bicha Fêmea &#8211; Fazer atividade física regularmente previne esse tipo de dor?</span>**
+  <strong><span style="font-size: small;">[4] Bicha Fêmea &#8211; Fazer atividade física regularmente previne esse tipo de dor?</span></strong>
 </p>
 
 &nbsp;
@@ -75,7 +75,7 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: small;">[5] Bicha Fêmea &#8211; Como melhorar a qualidade de vida de quem já convive com esse mal?</span>**
+  <strong><span style="font-size: small;">[5] Bicha Fêmea &#8211; Como melhorar a qualidade de vida de quem já convive com esse mal?</span></strong>
 </p>
 
 &nbsp;
@@ -89,11 +89,11 @@ Uma delas e talvez a que configura um mito, é de que os anos de vida virão aco
 </p>
 
 <p align="justify">
-  Denise Pripas também é blogueira, viu? Você pode acompanhar todas as suas atualizações em seu blog, que leva seu nome, e que está ao alcance de um [clique bem aqui](http://www.fisioterapiadenisepripas.blogspot.com.br/) . Fique por dentro de tudo o que ela posta sobre a saúde do corpo, e se beneficie de seu jeito gostoso e didático de falar sobre o assunto. Além do blog, Denise também atualiza uma [página no Facebook, bem aqui](https://www.facebook.com/fisioterapia.denisepripas/timeline) . Curta, compartilhe e informe-se!
+  Denise Pripas também é blogueira, viu? Você pode acompanhar todas as suas atualizações em seu blog, que leva seu nome, e que está ao alcance de um <a href="http://www.fisioterapiadenisepripas.blogspot.com.br/" target="_blank">clique bem aqui</a>. Fique por dentro de tudo o que ela posta sobre a saúde do corpo, e se beneficie de seu jeito gostoso e didático de falar sobre o assunto. Além do blog, Denise também atualiza uma <a href="https://www.facebook.com/fisioterapia.denisepripas/timeline" target="_blank">página no Facebook, bem aqui</a>. Curta, compartilhe e informe-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;

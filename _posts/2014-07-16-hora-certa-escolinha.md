@@ -1,8 +1,8 @@
 ---
-
+id: 3321
 title: Qual a hora certa de mandar a cria para a escolinha?
-
-author: Lidiane
+date: 2014-07-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/07/16/hora-certa-escolinha/
 permalink: /2014/07/16/hora-certa-escolinha/
@@ -29,17 +29,17 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 </p>
 
 <p align="justify">
-  **Já que falamos na tal da culpa materna, não deixe de ler:**
+  <strong>Já que falamos na tal da culpa materna, não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  **[Culpa materna na consciência da outra é refresco. Liberte-se!](http://www.trololodemulher.com.br/2014/02/04/culpa-materna/) **
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/04/culpa-materna/" target="_blank">Culpa materna na consciência da outra é refresco. Liberte-se!</a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">“Nunca deixarei minha criança ser educada pela escola. Acredito que este papel é meu e do meu esposo. Mas acredito que a escola é parceira.”</span>**
+  <strong><span style="font-size: small;">“Nunca deixarei minha criança ser educada pela escola. Acredito que este papel é meu e do meu esposo. Mas acredito que a escola é parceira.”</span></strong>
 </p>
 
 &nbsp;
@@ -55,13 +55,13 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 </p>
 
 <p align="center">
-  _Elaine Cunha e seu filhote, Pedro. Elaine também é blogueira e está a frente do _[_Caminhando e Contando_](http://www.caminhandocontando.com/) _._
+  <em>Elaine Cunha e seu filhote, Pedro. Elaine também é blogueira e está a frente do </em><a href="http://www.caminhandocontando.com/" target="_blank"><em>Caminhando e Contando</em></a><em>.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">“Optei por manter na escola e depois de duas semanas lulu entendeu a escola, conheceu amigos, apaixonou na professora e simplesmente fez um &#8220;tchau mamãe &#8220;</span>**
+  <strong><span style="font-size: small;">“Optei por manter na escola e depois de duas semanas lulu entendeu a escola, conheceu amigos, apaixonou na professora e simplesmente fez um &#8220;tchau mamãe &#8220;</span></strong>
 </p>
 
 &nbsp;
@@ -71,11 +71,11 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 > </p>
 > 
 > <p align="justify">
->   **Já que a Fernanda tocou no assunto &#8220;desfralde&#8221;, segue sugestão de leitura:**
+>   <strong>Já que a Fernanda tocou no assunto &#8220;desfralde&#8221;, segue sugestão de leitura:</strong>
 > </p>
 > 
 > <p align="justify">
->   **[Dilema de mãe&#8230; a hora do desfralde: como fazer?](http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/) **
+>   <strong><a href="http://www.trololodemulher.com.br/2013/05/24/desfralde-como-fazer/" target="_blank">Dilema de mãe&#8230; a hora do desfralde: como fazer?</a></strong>
 > </p>
 
 &nbsp;
@@ -85,13 +85,13 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 </p>
 
 <p align="center">
-  _Fernanda Miyata e sua japinha linda, a Lulu._
+  <em>Fernanda Miyata e sua japinha linda, a Lulu.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">“Acho que não tem certo nem errado, fazemos o melhor dentro das nossas possibilidades. Existe o lado bom de ir na escolinha cedo e vice versa.”</span>**
+  <strong><span style="font-size: small;">“Acho que não tem certo nem errado, fazemos o melhor dentro das nossas possibilidades. Existe o lado bom de ir na escolinha cedo e vice versa.”</span></strong>
 </p>
 
 &nbsp;
@@ -107,13 +107,13 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 </p>
 
 <p align="center">
-  _Fabiana e seu amor, Caio._
+  <em>Fabiana e seu amor, Caio.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">“Apesar desse distanciamento escolar, ele não fica alheio a esse mundo. Tomás tem muito contato com livros, papéis, tinta, giz, canetinha, lápis&#8230;”</span>**
+  <strong><span style="font-size: small;">“Apesar desse distanciamento escolar, ele não fica alheio a esse mundo. Tomás tem muito contato com livros, papéis, tinta, giz, canetinha, lápis&#8230;”</span></strong>
 </p>
 
 &nbsp;
@@ -129,19 +129,19 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 </p>
 
 <p align="center">
-  _Denise e seu querido, Tomás._
+  <em>Denise e seu querido, Tomás.</em>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -152,13 +152,13 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -167,5 +167,5 @@ Se você espera uma resposta prontinha e redondinha para essa dúvida, que passa
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
 </p>

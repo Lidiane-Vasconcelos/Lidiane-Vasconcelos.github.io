@@ -1,8 +1,8 @@
 ---
-
+id: 2997
 title: Ideias criativas e simples para festas de aniversário infantil
-
-author: Lidiane
+date: 2011-05-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/05/23/festas-aniversario-infantil/
 permalink: /2011/05/23/festas-aniversario-infantil/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p style="text-align: justify;">
-  Quando se é **criança**, uma** festa de aniversário** não precisa custar horrores para trazer alegria aos pequenos, não é verdade? Veja neste post **ideias simples e criativas** que podem ser colocadas em prática com poucos recursos, mas que deixarão tudo colorido, bonito e com personalidade.
+  Quando se é <strong>criança</strong>, uma<strong> festa de aniversário</strong> não precisa custar horrores para trazer alegria aos pequenos, não é verdade? Veja neste post <strong>ideias simples e criativas</strong> que podem ser colocadas em prática com poucos recursos, mas que deixarão tudo colorido, bonito e com personalidade.
 </p>
 
 <p style="text-align: justify;">
@@ -21,7 +21,7 @@ categories:
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">O convite de aniversário</span>**
+  <strong><span style="font-size: medium;">O convite de aniversário</span></strong>
 </p>
 
 <p align="center">
@@ -29,15 +29,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Achei esse exemplo de convite bem inspirador para que você tente algo similar… nem precisa ser igual! Eu buscaria nas papelarias **envelopes básicos e simples, mas que tivessem sido confeccionados com papel colorido**. Sim! O formato de envelope que estou falando é aquele básico que todas nós conhecemos no Brasil… no **fechamento do envelope**, acredito, ficaria bacana uma **composição com colagens sobrepostas de círculos ou formatos diferentes, a exemplo da estrela, cortadas com tesouras de corte especial, e tudo com papel colorido**.
+  Achei esse exemplo de convite bem inspirador para que você tente algo similar… nem precisa ser igual! Eu buscaria nas papelarias <strong>envelopes básicos e simples, mas que tivessem sido confeccionados com papel colorido</strong>. Sim! O formato de envelope que estou falando é aquele básico que todas nós conhecemos no Brasil… no <strong>fechamento do envelope</strong>, acredito, ficaria bacana uma <strong>composição com colagens sobrepostas de círculos ou formatos diferentes, a exemplo da estrela, cortadas com tesouras de corte especial, e tudo com papel colorido</strong>.
 </p>
 
 <p style="text-align: justify;">
-  Dentro, no **papel branco repousando numa base colorida** iriam os detalhes da festa. Tudo simples e divertido, exatamente adequado ao seu bolso. Fica a dica!
+  Dentro, no <strong>papel branco repousando numa base colorida</strong> iriam os detalhes da festa. Tudo simples e divertido, exatamente adequado ao seu bolso. Fica a dica!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Detalhes na decoração…</span>**
+  <strong><span style="font-size: medium;">Detalhes na decoração…</span></strong>
 </p>
 
 <p align="center">
@@ -45,11 +45,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  O que esta imagem me inspiraria a fazer? Uma **base triangular maior com bordas cortadas com a ajuda de uma tesoura de corte especial + um triangulo menor e liso, sobreposto ao maior + colagens sobrepostas e coloridas com bordas feitas pela tesoura especial**. Depois? _Hum_… basta** colocar esses triângulos num barbante e, entre cada um deles, um lacinho de fita** (no caso da festa de uma menina) e teríamos bandeirolas divertidas para enfeitar o espaço da festa. Inspire-se, bonita!
+  O que esta imagem me inspiraria a fazer? Uma <strong>base triangular maior com bordas cortadas com a ajuda de uma tesoura de corte especial + um triangulo menor e liso, sobreposto ao maior + colagens sobrepostas e coloridas com bordas feitas pela tesoura especial</strong>. Depois? <em>Hum</em>… basta<strong> colocar esses triângulos num barbante e, entre cada um deles, um lacinho de fita</strong> (no caso da festa de uma menina) e teríamos bandeirolas divertidas para enfeitar o espaço da festa. Inspire-se, bonita!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Festa de aniversário infantil sem chapeuzinho?</span>**
+  <strong><span style="font-size: medium;">Festa de aniversário infantil sem chapeuzinho?</span></strong>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Ai que saudade dos chapeuzinhos! Eles não eram fofos? Inspire-se nesse **modelo com papel colorido e colagens em cores diferentes**. Pessoalmente, eu não usaria um pompom de papel crepom assim, no topo do chapeuzinho…gosto da ideia do uso do crepom no detalhe a seguir:
+  Ai que saudade dos chapeuzinhos! Eles não eram fofos? Inspire-se nesse <strong>modelo com papel colorido e colagens em cores diferentes</strong>. Pessoalmente, eu não usaria um pompom de papel crepom assim, no topo do chapeuzinho…gosto da ideia do uso do crepom no detalhe a seguir:
 </p>
 
 <p align="center">
@@ -65,11 +65,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Esse chapeuzinho super simples e divertido foi mostrado pela **Roberta Dalsenter**, no seu delicioso e inspirador “**[Doces Abobrinhas](http://www.docesabobrinhas.com/) **”. Tem até um _PAP_ com imagens que ensinam a reproduzir algo assim. Quer ver como? Só clicar **[bem aqui](http://docesabobrinhas.com/2011/05/fazendo-chapeuzinho/) **…
+  Esse chapeuzinho super simples e divertido foi mostrado pela <strong>Roberta Dalsenter</strong>, no seu delicioso e inspirador “<strong><a href="http://www.docesabobrinhas.com/" target="_blank">Doces Abobrinhas</a></strong>”. Tem até um <em>PAP</em> com imagens que ensinam a reproduzir algo assim. Quer ver como? Só clicar <strong><a href="http://docesabobrinhas.com/2011/05/fazendo-chapeuzinho/" target="_blank">bem aqui</a></strong>…
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">E na sacolinha… nada? Tudo!</span>**
+  <strong><span style="font-size: medium;">E na sacolinha… nada? Tudo!</span></strong>
 </p>
 
 <p align="center">
@@ -80,10 +80,10 @@ categories:
   Tudo de colorido, bonito, simples e barato num lugar só! E precisa mais? Achei fan-tás-ti-ca a ideia de usar sacolinhas básicas de papel pardo enfeitadas com colagens coloridas. As que a minha mãe usava não eram de papel, mas eram bem coloridas também. Dentro não podia faltar guloseimas e pequenos presentinhos bem baratos, mas que faziam a alegria das crianças…
 </p>
 
-Imagens: **[scrapbooks etc.](http://www.scrapbooksetc.com/) **
+Imagens: **<a href="http://www.scrapbooksetc.com/" target="_blank">scrapbooks etc.</a>**
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

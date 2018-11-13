@@ -1,15 +1,15 @@
 ---
-
+id: 2759
 title: 'Pitacos de bicha fêmea: armários para banheiro.'
-
-author: Lidiane
+date: 2010-01-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/01/07/decoracao-armarios-banheiro/
 permalink: /2010/01/07/decoracao-armarios-banheiro/
 categories:
   - Banheiro
 ---
-Não lembro se já te contei que no meu banheiro não há armários ainda. Acontece que no banheiro de Sonia – [De Tudo Um Pouco](http://partilhandoo.blogspot.com/)  – também não tem, e num dia desses em que conversávamos por e-mail ela pediu para eu pesquisar ideias de armários para o banheiro dela. Eu pesquisei algumas ideias, digo, para o meu e para o dela. Quem sabe  se, sem querer, eu também pesquisei para o seu, hã?!
+Não lembro se já te contei que no meu banheiro não há armários ainda. Acontece que no banheiro de Sonia – <a href="http://partilhandoo.blogspot.com/" target="_blank">De Tudo Um Pouco</a> – também não tem, e num dia desses em que conversávamos por e-mail ela pediu para eu pesquisar ideias de armários para o banheiro dela. Eu pesquisei algumas ideias, digo, para o meu e para o dela. Quem sabe  se, sem querer, eu também pesquisei para o seu, hã?!
 
 <!--more-->
 
@@ -61,12 +61,12 @@ Imagens: Casa.com.br
 
 **As bichas fêmeas falam&#8230;**
 
-Como sempre acontece, o melhor do Bicha Fêmea ocorre nos desdobramentos dos comentários. O _trololó_ corre solto e uma coisa puxa a outra. Foi assim que a Luma &#8211; [Luz de Luma, yes party!](http://luzdeluma.blogspot.com/)  &#8211; lembrou de um detalhe importante sobre guardar cosméticos no banheiro:
+Como sempre acontece, o melhor do Bicha Fêmea ocorre nos desdobramentos dos comentários. O _trololó_ corre solto e uma coisa puxa a outra. Foi assim que a Luma &#8211; <a href="http://luzdeluma.blogspot.com/" target="_blank">Luz de Luma, yes party!</a> &#8211; lembrou de um detalhe importante sobre guardar cosméticos no banheiro:
 
 &#8220;&#8230;_Posso dar uma sugestão de postagem? Sabe que perfumes, maquiagens e tantas coisinhas que invariavelmente vão para o banheiro, não poderiam estar lá &#8211; pecado colocar perfumes na bancada, fica bonito mas o perfume, babaú. Maquiagem idem. Que tal falar do local apropriado para seu acondicionamento e sabe, fiz no meu quarto algo parecido com os hotéis antigos, uma bancada com pia e espelho bem iluminado &#8211; um banquinho que encaixa abaixo da bancada para a hora da maquiagem &#8211; um bom difusor de espelho e adeus, brigas por espaço no banheiro!_!&#8230;&#8221;
 
 Na verdade eu já havia feito uma postagem com esse tipo de aprendizado que eu já adquiri, o de que no banheiro nós não devemos guardar cosméticos. Além dessa dica sobre organização dos nossos cosméticos, há mais tantas outras sobre <a href="http://www.trololodemulher.com.br/2009/01/25/e-eu-me-organizando/" target="_self">organização</a>, e só conferir <a href="http://www.trololodemulher.com.br/2009/01/25/e-eu-me-organizando/" target="_self">aqui</a>!
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

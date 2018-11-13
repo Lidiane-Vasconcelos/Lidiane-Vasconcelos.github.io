@@ -1,8 +1,8 @@
 ---
-
+id: 2802
 title: 'Pitacos de bicha fêmea: decoração do quarto de casal'
-
-author: Lidiane
+date: 2010-03-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/03/29/decoracao-quarto-de-casal/
 permalink: /2010/03/29/decoracao-quarto-de-casal/
@@ -139,11 +139,11 @@ Quanto ao jardim particular que o quarto terá? Ui! Isso é muito chique! Conhe�
 
 Aguarde e confie!! Dicas virão para as plantas e o quarto como um todo. Quer ver?
 
-Imagens: [HGTV](http://www.hgtv.com/) 
+Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 
 **As bichas fêmeas falam&#8230;**
 
-&#8220;_Lidi, conforme prometi no post&#8230; segue a foto de um quarto espaçoso que eu gosto. Beijos&#8221;_ Letícia &#8211; [Casa de Catarina](http://blog.casadecatarina.com.br/) 
+&#8220;_Lidi, conforme prometi no post&#8230; segue a foto de um quarto espaçoso que eu gosto. Beijos&#8221;_ Letícia &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
 
 <table align="center">
   <tr>
@@ -168,5 +168,5 @@ Imagens: [HGTV](http://www.hgtv.com/)
 [Dicas e detalhes na decoração do quarto](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/).
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

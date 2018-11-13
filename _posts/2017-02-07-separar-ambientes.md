@@ -1,8 +1,8 @@
 ---
-
+id: 3722
 title: 5 ideias para separar ambientes sem paredes.
-
-author: Lidiane
+date: 2017-02-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/02/07/separar-ambientes/
 permalink: /2017/02/07/separar-ambientes/
@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Quando casas e apartamentos são pequenos, um espaço pode ter mais de uma função. Se há a intenção de **separar ambientes** com praticidade e charme, isso pode ser feito de várias formas. Veja a seguir sugestões cheias de bossa para fazer essa separação, sem complicações. Confira!
+  Quando casas e apartamentos são pequenos, um espaço pode ter mais de uma função. Se há a intenção de <strong>separar ambientes</strong> com praticidade e charme, isso pode ser feito de várias formas. Veja a seguir sugestões cheias de bossa para fazer essa separação, sem complicações. Confira!
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">Porta de correr</span>**
+  <strong><span style="font-size: large;">Porta de correr</span></strong>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  <span style="font-size: large;">**Cobogós**</span>
+  <span style="font-size: large;"><strong>Cobogós</strong></span>
 </p>
 
 <p align="center">
@@ -42,11 +42,11 @@ categories:
 </p>
 
 <p align="justify">
-  Cobogós são blocos de louça vazados, e funcionam muito bem como uma opção leve de separação de ambientes, já que permitem a passagem de luminosidade e ar. A estrutura, por si só, é linda de viver e cria uma _bossa_ incrível no ambiente. Inspire-se!
+  Cobogós são blocos de louça vazados, e funcionam muito bem como uma opção leve de separação de ambientes, já que permitem a passagem de luminosidade e ar. A estrutura, por si só, é linda de viver e cria uma <em>bossa</em> incrível no ambiente. Inspire-se!
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">Biombo</span>**
+  <strong><span style="font-size: large;">Biombo</span></strong>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Por [Isabela Bethonico, via VivaDecora](https://www.vivadecora.com.br/foto/42478/biombo-para-separar-ambientes-integrados) 
+  Por <a href="https://www.vivadecora.com.br/foto/42478/biombo-para-separar-ambientes-integrados" target="_blank">Isabela Bethonico, via VivaDecora</a>
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">Cortina</span>**
+  <strong><span style="font-size: large;">Cortina</span></strong>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="justify">
-  A opção pela [cortina](http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/)  é uma saída bastante simples para a separação de espaços, porque a sua instalação não interfere na estrutura da casa ou apartamento. A escolha do tecido fica de acordo com o estilo dos moradores, que vai desde o delicado ou refinado, até o ousado, passando pela possibilidade de imprimir rusticidade também. Fica a dica!
+  A opção pela <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank">cortina</a> é uma saída bastante simples para a separação de espaços, porque a sua instalação não interfere na estrutura da casa ou apartamento. A escolha do tecido fica de acordo com o estilo dos moradores, que vai desde o delicado ou refinado, até o ousado, passando pela possibilidade de imprimir rusticidade também. Fica a dica!
 </p>
 
 <p align="justify">
@@ -82,11 +82,11 @@ categories:
 </p>
 
 <p align="justify">
-  [Cortinas: como escolher?](http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/) 
+  <a href="http://www.trololodemulher.com.br/2016/05/05/cortinas-como-escolher/" target="_blank">Cortinas: como escolher?</a>
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">Estante</span>**
+  <strong><span style="font-size: large;">Estante</span></strong>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Staci Etwards](http://www.staciedwardsblog.ca/2010/12/sarah-tommy.html) 
+  Via <a href="http://www.staciedwardsblog.ca/2010/12/sarah-tommy.html" target="_blank">Staci Etwards</a>
 </p>
 
 <p align="justify">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

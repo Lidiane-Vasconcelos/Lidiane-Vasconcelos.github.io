@@ -1,8 +1,8 @@
 ---
-
+id: 2951
 title: + de 20 dicas de organização da casa by bichas fêmeas navegantes.
-
-author: Lidiane
+date: 2011-02-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/02/18/dicas-organizacao-casa-2/
 permalink: /2011/02/18/dicas-organizacao-casa-2/
@@ -12,13 +12,13 @@ categories:
 Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo de ordem nos deixa mais tranquilas, não é? Afinal de contas, visualizar a bagunça diariamente não faz muito bem e causa mau humor, e isso pode ser evitado com atitudes bem simples na maioria das vezes.
 
 <p style="text-align: justify;">
-  Foi pensando em te dar **dicas de organização da casa**, mas que fossem simples de serem colocadas em prática, que consultei as **leitoras do Bicha Fêmea** para contarem seus segredos quanto a isso. Senta aí, pega um café, que esse post é daqueles cheios de _trololó_…
+  Foi pensando em te dar <strong>dicas de organização da casa</strong>, mas que fossem simples de serem colocadas em prática, que consultei as <strong>leitoras do Bicha Fêmea</strong> para contarem seus segredos quanto a isso. Senta aí, pega um café, que esse post é daqueles cheios de <em>trololó</em>…
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Cada coisa em seu lugar, um lugar para cada coisa…</span>_**
+  <strong><em><span style="font-size: medium;">Cada coisa em seu lugar, um lugar para cada coisa…</span></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -27,18 +27,18 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p>
-    “_No meu criado mudo **tenho uma xícara de café dessas de porcelana de coleção. Nela coloco as moedas que tenho nos bolsos. Para que a hora que chegamos da rua não deixemos espalhadas pela casa. **_
+    “<em>No meu criado mudo <strong>tenho uma xícara de café dessas de porcelana de coleção. Nela coloco as moedas que tenho nos bolsos. Para que a hora que chegamos da rua não deixemos espalhadas pela casa. </strong></em>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    _Tenho **uma caixa de correspondências na minha cozinha. Coloco dentro dela: conta de água, fatura do cartão de crédito, conta de energia e outras. Isso evita de a conta ficar perdida em meio a outros papéis**, e ‘cá ‘pra nós, pagar juro por causa de desorganização não dá ‘né? **Quando tenho tempo de ler vou colocando na agenda ‘pra não esquecer de pagar**.” **Ione**_
+    <em>Tenho <strong>uma caixa de correspondências na minha cozinha. Coloco dentro dela: conta de água, fatura do cartão de crédito, conta de energia e outras. Isso evita de a conta ficar perdida em meio a outros papéis</strong>, e ‘cá ‘pra nós, pagar juro por causa de desorganização não dá ‘né? <strong>Quando tenho tempo de ler vou colocando na agenda ‘pra não esquecer de pagar</strong>.” <strong>Ione</strong></em>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  **<span style="font-size: small;">Sugestão de caixa de correspondência que pode ser usada com a finalidade idêntica a da Ione:</span>**
+  <strong><span style="font-size: small;">Sugestão de caixa de correspondência que pode ser usada com a finalidade idêntica a da Ione:</span></strong>
 </p>
 
 <table style="text-align: justify;" border="0" cellspacing="0" cellpadding="0" width="600">
@@ -50,38 +50,38 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
     </td>
     
     <td width="300" valign="top">
-      _ __As correspondências em sua casa podem ser recebidas em um local bem especial com uma caixa assim. Fica tudo organizado e bonito, como você gosta. __A **[Caixa de Correspondências Gatinho no Meu Jardim](http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/) ** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **[Basta clicar](http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/) **!_
+      <em> </em><em>As correspondências em sua casa podem ser recebidas em um local bem especial com uma caixa assim. Fica tudo organizado e bonito, como você gosta. </em><em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/" target="_blank">Caixa de Correspondências Gatinho no Meu Jardim</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/caixa-correspondencias-gatinho/" target="_blank">Basta clicar</a></strong>!</em>
     </td>
   </tr>
 </table>
 
 <blockquote style="text-align: justify;">
   <p>
-    “_**Antes de dormir**, eu **vou colocando cada coisa no seu lugar**: **roupas sujas vão para o cesto**, **roupa limpa no armário**, **ajeito almofadas e recolho revistas, pia sem louça, balcões limpinhos**, e tem dia que até passo o mop pelo chão. Quando acordo a casa está em ordem, sei que não está limpíssima, apenas ajeitada, mas se chega alguém de fora logo cedo, não encontra bagunça.”_ **Lilly** | [Isso é coisa de Lilly](http://coisadelilly.wordpress.com/) 
+    “<em><strong>Antes de dormir</strong>, eu <strong>vou colocando cada coisa no seu lugar</strong>: <strong>roupas sujas vão para o cesto</strong>, <strong>roupa limpa no armário</strong>, <strong>ajeito almofadas e recolho revistas, pia sem louça, balcões limpinhos</strong>, e tem dia que até passo o mop pelo chão. Quando acordo a casa está em ordem, sei que não está limpíssima, apenas ajeitada, mas se chega alguém de fora logo cedo, não encontra bagunça.”</em> <strong>Lilly</strong> | <a href="http://coisadelilly.wordpress.com/" target="_blank">Isso é coisa de Lilly</a>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    **“_Forro caixas de leite vazias para usar dentro das gavetas como separadores e arrumar meias, calcinhas, papelaria_**_&#8230; **Pote de sorvete são ótimos para brinquedos miúdos e peças de jogos**. Trabalho muito com feltro e **separo os retalhinhos por cor, em saquinhos transparentes, numa cesta para facilitar a visualização**.”_ **Tati** | [Tutitati](http://tutitati.blogspot.com/) 
+    <strong>“<em>Forro caixas de leite vazias para usar dentro das gavetas como separadores e arrumar meias, calcinhas, papelaria</em></strong><em>&#8230; <strong>Pote de sorvete são ótimos para brinquedos miúdos e peças de jogos</strong>. Trabalho muito com feltro e <strong>separo os retalhinhos por cor, em saquinhos transparentes, numa cesta para facilitar a visualização</strong>.”</em> <strong>Tati</strong> | <a href="http://tutitati.blogspot.com/" target="_blank">Tutitati</a>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    “_Para **organizar lápis e canetas** eu costumo usar **potes de plásticos**. **São potes de cappuccino que retiro o papel dele e colo papel de presente**. _[_Falei deles um dia desses no meu blog_](http://mayaramonica.blogspot.com/2011/01/faxina.html) _. Ficam bem coloridos e ajuda a reciclar. _
+    “<em>Para <strong>organizar lápis e canetas</strong> eu costumo usar <strong>potes de plásticos</strong>. <strong>São potes de cappuccino que retiro o papel dele e colo papel de presente</strong>. </em><a href="http://mayaramonica.blogspot.com/2011/01/faxina.html" target="_blank"><em>Falei deles um dia desses no meu blog</em></a><em>. Ficam bem coloridos e ajuda a reciclar. </em>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    _Para **organizar cremes de cabelos, cremes para o corpo e maquiagem **eu uso **cestas plásticas**. É algo bem simples mas me ajuda bastante na organização. **Isso serve também para organizar produtos de limpeza**. _
+    <em>Para <strong>organizar cremes de cabelos, cremes para o corpo e maquiagem </strong>eu uso <strong>cestas plásticas</strong>. É algo bem simples mas me ajuda bastante na organização. <strong>Isso serve também para organizar produtos de limpeza</strong>. </em>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    _As **contas pagas são colocadas dentro de uma gaveta**. **Quando o ano termina eu separo as doze faturas/contas grampeio e coloco uma etiqueta com o ano**. Faço esse mesmo procedimento para todas as contas. Depois **junto tudo e coloco dentro de uma caixa grande de arquivo, que fica na guardada na estante**_.” **Mayara Mônica** | [My Diary](http://mayaramonica.blogspot.com/) 
+    <em>As <strong>contas pagas são colocadas dentro de uma gaveta</strong>. <strong>Quando o ano termina eu separo as doze faturas/contas grampeio e coloco uma etiqueta com o ano</strong>. Faço esse mesmo procedimento para todas as contas. Depois <strong>junto tudo e coloco dentro de uma caixa grande de arquivo, que fica na guardada na estante</strong></em>.” <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>
   </p>
 </blockquote>
 
@@ -90,29 +90,29 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 </p>
 
 <p style="text-align: center;">
-  _Pense na casa como um quebra-cabeça. Cada peça, ou objeto, deve ter um lugar, e é lá que ele deveria estar._
+  <em>Pense na casa como um quebra-cabeça. Cada peça, ou objeto, deve ter um lugar, e é lá que ele deveria estar.</em>
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    “_Contas de casa: tenho uma **pasta com divisórias onde já arquivo as contas por despesa**: luz, gás, telefone, etc. Fica mais fácil, já que a gente tem que guardá-las por um certo período_.” **Mag Ferreira**
+    “<em>Contas de casa: tenho uma <strong>pasta com divisórias onde já arquivo as contas por despesa</strong>: luz, gás, telefone, etc. Fica mais fácil, já que a gente tem que guardá-las por um certo período</em>.” <strong>Mag Ferreira</strong>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    “_**Para organizar documentos, notas fiscais e manuais de aparelhos eletrônicos, coloco tudo em pastas separadas (de preferência de cores diferentes) e coloco etiquetas na capa de cada uma, de acordo com o tipo de material guardado dentro**.”_ **Mayara Mônica** | [My Diary](http://mayaramonica.blogspot.com/) 
+    “<em><strong>Para organizar documentos, notas fiscais e manuais de aparelhos eletrônicos, coloco tudo em pastas separadas (de preferência de cores diferentes) e coloco etiquetas na capa de cada uma, de acordo com o tipo de material guardado dentro</strong>.”</em> <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    “_**Toalhas de banho e rosto: guardo-as em gavetas em rolinhos**. Ocupa menos espaço_” **Mag Ferreira**
+    “<em><strong>Toalhas de banho e rosto: guardo-as em gavetas em rolinhos</strong>. Ocupa menos espaço</em>” <strong>Mag Ferreira</strong>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Bagunça no guarda roupas ainda é algo que te pertence?</span>_**
+  <strong><em><span style="font-size: medium;">Bagunça no guarda roupas ainda é algo que te pertence?</span></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -121,41 +121,41 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p>
-    “_A minha dica de organização é para organizar guarda roupas:_
+    “<em>A minha dica de organização é para organizar guarda roupas:</em>
   </p>
   
   <p>
-    _1º **Tirar todas as peças do armário** e **separar** em **roupas que estão em uso, roupas que não foram usadas no último mês e roupas não usadas há mais de um ano**, pegar estas roupas e doar para quem precisa. _
+    <em>1º <strong>Tirar todas as peças do armário</strong> e <strong>separar</strong> em <strong>roupas que estão em uso, roupas que não foram usadas no último mês e roupas não usadas há mais de um ano</strong>, pegar estas roupas e doar para quem precisa. </em>
   </p>
   
   <p>
-    2º **Separar as roupas por estações**.
+    2º <strong>Separar as roupas por estações</strong>.
   </p>
   
   <p>
-    3º **Lavar as roupas (que não são da estação e acomodá-las em sacos fechados à vácuo para ocupar menos espaço**).
+    3º <strong>Lavar as roupas (que não são da estação e acomodá-las em sacos fechados à vácuo para ocupar menos espaço</strong>).
   </p>
   
   <p>
-    4º **Separar as roupas por cor, assim fica mais harmônico e fácil de usar**.” **Andreia Lica** | [Andreia Lica&#8230; Renovando e Reciclando](http://andreiarenovandoereciclando.blogspot.com/) 
+    4º <strong>Separar as roupas por cor, assim fica mais harmônico e fácil de usar</strong>.” <strong>Andreia Lica</strong> | <a href="http://andreiarenovandoereciclando.blogspot.com/" target="_blank">Andreia Lica&#8230; Renovando e Reciclando</a>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    **“_Roupas de frio tem seu lugar _**_(e quando está no verão ensaco tudo)_
+    <strong>“<em>Roupas de frio tem seu lugar </em></strong><em>(e quando está no verão ensaco tudo)</em>
   </p>
   
   <p>
-    _**Roupas de sair &#8211; uma gaveta**_
+    <em><strong>Roupas de sair &#8211; uma gaveta</strong></em>
   </p>
   
   <p>
-    **Roupas de ficar em casa &#8211; outra gaveta**
+    <strong>Roupas de ficar em casa &#8211; outra gaveta</strong>
   </p>
   
   <div>
-    E por aí vai, **tem uma gaveta para cada tipo** e ainda **nos cabides eu arrumo por estilo, primeiro conjuntos de saia e blusa, depois terninhos**&#8230;” **Marilia** | Coisas da Gigi
+    E por aí vai, <strong>tem uma gaveta para cada tipo</strong> e ainda <strong>nos cabides eu arrumo por estilo, primeiro conjuntos de saia e blusa, depois terninhos</strong>&#8230;” <strong>Marilia</strong> | Coisas da Gigi
   </div>
 </blockquote>
 
@@ -164,73 +164,73 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 </p>
 
 <p style="text-align: center;">
-  _Você precisa de tudo que tem? Simplifique seu guarda-roupas mantendo o que de fato você usa. Guarde as roupas e calçados que estão fora da estação em um lugar de menor acesso e separe o que está sendo usado de acordo com os critérios mais adequados a você: cor, estilo ou local de uso._
+  <em>Você precisa de tudo que tem? Simplifique seu guarda-roupas mantendo o que de fato você usa. Guarde as roupas e calçados que estão fora da estação em um lugar de menor acesso e separe o que está sendo usado de acordo com os critérios mais adequados a você: cor, estilo ou local de uso.</em>
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    “_Procuro** guardar meus pares de calçados em ordem por estação do ano**&#8230; **estão em grandes gavetas, acondicionados em saquinhos, com buchas de papel dentro &#8211; para não deformar**&#8230;”_ **Adriana** | [Ti Ti Ti da Dri](http://tititidadri.blogspot.com/) 
+    “<em>Procuro<strong> guardar meus pares de calçados em ordem por estação do ano</strong>&#8230; <strong>estão em grandes gavetas, acondicionados em saquinhos, com buchas de papel dentro &#8211; para não deformar</strong>&#8230;”</em> <strong>Adriana</strong> | <a href="http://tititidadri.blogspot.com/" target="_blank">Ti Ti Ti da Dri</a>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    “Tenho um **armário com** **prateleiras que mandei fazer só para calçados, que também os separo por cores**. Não sou metódica ao extremo, mas isso tudo na hora de sair facilita ‘pra caramba. Depois que mandei fazer esse armário meus problemas acabaram! rs
+    “Tenho um <strong>armário com</strong> <strong>prateleiras que mandei fazer só para calçados, que também os separo por cores</strong>. Não sou metódica ao extremo, mas isso tudo na hora de sair facilita ‘pra caramba. Depois que mandei fazer esse armário meus problemas acabaram! rs
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    Tenho uma infinidade de bolsas que me deixavam doida ‘pra guardar. **Comprei um cabideiro de pé e penduro tudo ali**. Ó, resolveu minha vida!” **Mag Ferreira**
+    Tenho uma infinidade de bolsas que me deixavam doida ‘pra guardar. <strong>Comprei um cabideiro de pé e penduro tudo ali</strong>. Ó, resolveu minha vida!” <strong>Mag Ferreira</strong>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">E não esqueça dos livros!</span>_**
+  <strong><em><span style="font-size: medium;">E não esqueça dos livros!</span></em></strong>
 </p>
 
 <p style="text-align: justify;">
-  Como estão seus livros em casa? Largados de qualquer jeito, em qualquer lugar, sem um mínimo de organização e conservação? _…tsc tsc tsc…_ quer saber como conservá-los por muito mais tempo? As bichas fêmeas navegantes ensinam:
+  Como estão seus livros em casa? Largados de qualquer jeito, em qualquer lugar, sem um mínimo de organização e conservação? <em>…tsc tsc tsc…</em> quer saber como conservá-los por muito mais tempo? As bichas fêmeas navegantes ensinam:
 </p>
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    “_O **espaço para o armazenamento dos livros deve ser arejado**, com **boa circulação de ar**, mas **longe dos raios solares e de janelas mal conservadas**. De **preferência em estantes abertas e metálicas**…Os livros **têm que ser limpos constantemente**, com **flanelas limpas e secas**… **nada de** encapar seus livros com plástico ou papel, usando durex, ou contact. **Se as páginas ou a capa soltarem, procure um restaurador, a restauração de obras literárias não é cara e conserva muito melhor as obras**. A _**_melhor forma de colocá-los na estante é em pé, retos, em paralelo, mas sem apertar.”_ Beta** | [MIX CULTURAL](http://mixdeinformacao.blogspot.com/) 
+    “<em>O <strong>espaço para o armazenamento dos livros deve ser arejado</strong>, com <strong>boa circulação de ar</strong>, mas <strong>longe dos raios solares e de janelas mal conservadas</strong>. De <strong>preferência em estantes abertas e metálicas</strong>…Os livros <strong>têm que ser limpos constantemente</strong>, com <strong>flanelas limpas e secas</strong>… <strong>nada de</strong> encapar seus livros com plástico ou papel, usando durex, ou contact. <strong>Se as páginas ou a capa soltarem, procure um restaurador, a restauração de obras literárias não é cara e conserva muito melhor as obras</strong>. A </em><strong><em>melhor forma de colocá-los na estante é em pé, retos, em paralelo, mas sem apertar.”</em> Beta</strong> | <a href="http://mixdeinformacao.blogspot.com/" target="_blank">MIX CULTURAL</a>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/livros.jpg"><img class="alignnone size-full wp-image-5924" title="livros" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/livros.jpg" alt="" width="535" height="415" /></a><br /> Mantenha seus livros organizados, limpos e enfileirados em prateleiras onde haja circulação de ar. Identifique os livros com etiquetas nas suas prateleiras para que todos saibam onde é o lugar de cada um._
+  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/livros.jpg"><img class="alignnone size-full wp-image-5924" title="livros" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/livros.jpg" alt="" width="535" height="415" /></a><br /> Mantenha seus livros organizados, limpos e enfileirados em prateleiras onde haja circulação de ar. Identifique os livros com etiquetas nas suas prateleiras para que todos saibam onde é o lugar de cada um.</em>
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    “_Para **organizar livros** meu irmão colou **pequenas etiquetas com os nomes das diciplinas na estante **e **organizou os livros de acordo com as etiquetas**. Assim quando encontro algum livro espalhado pela casa (acredite,  isso é muito comum aqui em casa) basta procurar pela etiqueta e colocá-lo no lugar certo.”_ **Mayara Mônica** | [My Diary](http://mayaramonica.blogspot.com/) 
+    “<em>Para <strong>organizar livros</strong> meu irmão colou <strong>pequenas etiquetas com os nomes das diciplinas na estante </strong>e <strong>organizou os livros de acordo com as etiquetas</strong>. Assim quando encontro algum livro espalhado pela casa (acredite,  isso é muito comum aqui em casa) basta procurar pela etiqueta e colocá-lo no lugar certo.”</em> <strong>Mayara Mônica</strong> | <a href="http://mayaramonica.blogspot.com/" target="_blank">My Diary</a>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Pensa que diva do lar não é gerente? Olha que engano, hein?!</span>_**
+  <strong><em><span style="font-size: medium;">Pensa que diva do lar não é gerente? Olha que engano, hein?!</span></em></strong>
 </p>
 
 <p style="text-align: justify;">
-  Ser _diva do lar_ exige senso de organização e capacidade de envolver todos na família para que o dia a dia funcione de forma mais harmoniosa. Muitas vezes, é preciso criar sistemas ou processos, que adequados a rotina de cada família, fazem as atividades “rodarem” de modo que tudo dê certo no final. Confira!
+  Ser <em>diva do lar</em> exige senso de organização e capacidade de envolver todos na família para que o dia a dia funcione de forma mais harmoniosa. Muitas vezes, é preciso criar sistemas ou processos, que adequados a rotina de cada família, fazem as atividades “rodarem” de modo que tudo dê certo no final. Confira!
 </p>
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    “_Sou mais ou menos do epírito de **tudo tem seu lugar**… E pelo resto da casa é a mesma coisa. Mas **com uma premissa: tudo que todos tiraram do lugar**, **coloquem de volta ‘pra gente sempre encontrar**. Outra é **anotar as tarefas diárias comuns e aquelas que surgiram**, assim a gente não fica baratinada pensando ‘tenho o que pra fazer?’ Sabe? É assim que me organizo, **coloco tudo num lugar específico e sempre anoto tudo ‘pra fazer**.”_ **Marilia** | Coisas da Gigi
+    “<em>Sou mais ou menos do epírito de <strong>tudo tem seu lugar</strong>… E pelo resto da casa é a mesma coisa. Mas <strong>com uma premissa: tudo que todos tiraram do lugar</strong>, <strong>coloquem de volta ‘pra gente sempre encontrar</strong>. Outra é <strong>anotar as tarefas diárias comuns e aquelas que surgiram</strong>, assim a gente não fica baratinada pensando ‘tenho o que pra fazer?’ Sabe? É assim que me organizo, <strong>coloco tudo num lugar específico e sempre anoto tudo ‘pra fazer</strong>.”</em> <strong>Marilia</strong> | Coisas da Gigi
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    **“_Roupas: para lavar_**_, sigo umas &#8220;regras&#8221; que ajudam bastante: **há dias certos de se lavar roupas de banho, cama e mesa**. **Outro dia para roupas de uso pessoal**._**_ Idem para passar_. “** **Mag Ferreira**
+    <strong>“<em>Roupas: para lavar</em></strong><em>, sigo umas &#8220;regras&#8221; que ajudam bastante: <strong>há dias certos de se lavar roupas de banho, cama e mesa</strong>. <strong>Outro dia para roupas de uso pessoal</strong>.</em><strong><em> Idem para passar</em>. “</strong> <strong>Mag Ferreira</strong>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Simples, mas organizada!</span>_**
+  <strong><em><span style="font-size: medium;">Simples, mas organizada!</span></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -239,12 +239,12 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    “_Estou vivendo exatamente neste momento uma situação inusitada para mim. Para dar continuidade a obra da minha casa em São Paulo, precisei (eu, o marido e duas cachorras), vir para o Rio de Janeiro, literalmente expulsar o inquilino que não estava pagando aluguel+condomínio, e colocar o imóvel para  vender. Sendo assim, fiquei no **ap vazio**, meus móveis na casa em São Paulo. E agora? **Como sobreviver num imóvel vazio**? **Gavetas encontradas no lixo viraram armário, porta de guarda roupa virou prateleira para apoiar pratos e trecos, latas e garrafas viraram adereços e enfeites**. **Meus criados mudo são duas caixas de massa corrida reciclada com filtro de café, sem faltar flores na garrafa reaproveitada**. Não precisamos de muito para ser feliz. Antes do blog eu não sabia o que era improvisar, reaproveitar, ser feliz com pouco.”_ **Nadja** | [Nema Charmosa](http://nemacharmosa.blogspot.com/) 
+    “<em>Estou vivendo exatamente neste momento uma situação inusitada para mim. Para dar continuidade a obra da minha casa em São Paulo, precisei (eu, o marido e duas cachorras), vir para o Rio de Janeiro, literalmente expulsar o inquilino que não estava pagando aluguel+condomínio, e colocar o imóvel para  vender. Sendo assim, fiquei no <strong>ap vazio</strong>, meus móveis na casa em São Paulo. E agora? <strong>Como sobreviver num imóvel vazio</strong>? <strong>Gavetas encontradas no lixo viraram armário, porta de guarda roupa virou prateleira para apoiar pratos e trecos, latas e garrafas viraram adereços e enfeites</strong>. <strong>Meus criados mudo são duas caixas de massa corrida reciclada com filtro de café, sem faltar flores na garrafa reaproveitada</strong>. Não precisamos de muito para ser feliz. Antes do blog eu não sabia o que era improvisar, reaproveitar, ser feliz com pouco.”</em> <strong>Nadja</strong> | <a href="http://nemacharmosa.blogspot.com/" target="_blank">Nema Charmosa</a>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Organização para receber convidados. Isso também conta, não conta?</span>_**
+  <strong><em><span style="font-size: medium;">Organização para receber convidados. Isso também conta, não conta?</span></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -253,23 +253,23 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
 
 <blockquote style="text-align: justify;">
   <p>
-    “_**Tenho sempre em casa, palitos decorados com miçangas, contas coloridas e pérolas**. Eles enfeitam qualquer petisco e dão aquele ar de capricho, que encanta os convidados. **Eu compro as peças em lojas de bijouterias, colo nos palitos com cola branca e deixo-os prontinhos, guardados numa caixa**. Até pedacinhos de queijo e azeitonas ficam &#8220;renovados&#8221; com esses palitos!rs!_
+    “<em><strong>Tenho sempre em casa, palitos decorados com miçangas, contas coloridas e pérolas</strong>. Eles enfeitam qualquer petisco e dão aquele ar de capricho, que encanta os convidados. <strong>Eu compro as peças em lojas de bijouterias, colo nos palitos com cola branca e deixo-os prontinhos, guardados numa caixa</strong>. Até pedacinhos de queijo e azeitonas ficam &#8220;renovados&#8221; com esses palitos!rs!</em>
   </p>
 </blockquote>
 
 <blockquote style="text-align: justify;">
   <p>
-    _**Compro toalhas rendadas de papel, descartáveis, que têm um ótimo preço e uso como jogo americano, ou até para valorizar uma sobremesa que vai ser servida**. Elas são tão delicadas, que nem parecem de papel. Eu me sinto organizada e confortável, tendo à mão esses pequenos trunfos de anfitriã.”_ **Simone** | [Festas e etc&#8230;](http://simonescharamm.blogspot.com/) 
+    <em><strong>Compro toalhas rendadas de papel, descartáveis, que têm um ótimo preço e uso como jogo americano, ou até para valorizar uma sobremesa que vai ser servida</strong>. Elas são tão delicadas, que nem parecem de papel. Eu me sinto organizada e confortável, tendo à mão esses pequenos trunfos de anfitriã.”</em> <strong>Simone</strong> | <a href="http://simonescharamm.blogspot.com/" target="_blank">Festas e etc&#8230;</a>
   </p>
 </blockquote>
 
 <p style="text-align: center;">
   <div style="text-align: center;">
-    _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/florais.jpg"><img class="alignnone size-full wp-image-5921" title="florais" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/florais.jpg" alt="" width="416" height="416" /></a>_
+    <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/florais.jpg"><img class="alignnone size-full wp-image-5921" title="florais" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/02/florais.jpg" alt="" width="416" height="416" /></a></em>
   </div>
   
   <div style="text-align: center;">
-    _Seja para arrumar sua casa, envolver sua família junto com você nessa tarefa ou receber convidados, manter-se organizada ás vezes depende de um pouco mais de criatividade. Olhe para as coisas de uma forma diferente, se reinvente e transforme as coisas. O dia a dia poderá ser muito melhor! _
+    <em>Seja para arrumar sua casa, envolver sua família junto com você nessa tarefa ou receber convidados, manter-se organizada ás vezes depende de um pouco mais de criatividade. Olhe para as coisas de uma forma diferente, se reinvente e transforme as coisas. O dia a dia poderá ser muito melhor! </em>
   </div>
   
   <p>
@@ -282,46 +282,46 @@ Você é organizada? A gente sabe bem o quanto manter as coisas com um mínimo d
     </p>
     
     <p style="text-align: justify;">
-      _Imagens: _[_stock.xchng_](http://www.sxc.hu/) 
+      <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
     </p>
     
     <p style="text-align: justify;">
-      **Mais no Bicha Fêmea…**
+      <strong>Mais no Bicha Fêmea…</strong>
     </p>
     
     <p style="text-align: justify;">
-      **_<a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/">Home office: soluções simples de decoração e organização.</a>_**
+      <strong><em><a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/">Home office: soluções simples de decoração e organização.</a></em></strong>
     </p>
     
     <p style="text-align: justify;">
-      **_<a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/">4 passos e sua “gaveta da bagunça” ficará impecável!</a>_**
+      <strong><em><a href="http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/">4 passos e sua “gaveta da bagunça” ficará impecável!</a></em></strong>
     </p>
     
     <p style="text-align: justify;">
-      **_<a href="http://www.trololodemulher.com.br/2010/10/25/decoracao-banheiro-organizacao/">Decoração bonita em banheiro, sem organização, não vale nada!</a>_**
+      <strong><em><a href="http://www.trololodemulher.com.br/2010/10/25/decoracao-banheiro-organizacao/">Decoração bonita em banheiro, sem organização, não vale nada!</a></em></strong>
     </p>
     
     <p style="text-align: justify;">
-      **_<a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/">Dicas para organizar sua maquiagem.</a>_**
+      <strong><em><a href="http://www.trololodemulher.com.br/2010/07/30/dicas-organizacao-maquiagem/">Dicas para organizar sua maquiagem.</a></em></strong>
     </p>
     
     <p style="text-align: justify;">
-      **_<a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/">Organizando a bagunça em casa: dicas, truques e objetos úteis.</a>_**
+      <strong><em><a href="http://www.trololodemulher.com.br/2010/07/16/organizando-bagunca/">Organizando a bagunça em casa: dicas, truques e objetos úteis.</a></em></strong>
     </p>
     
     <p style="text-align: center;">
-      Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
     </p>
     
     <p style="text-align: center;">
-      Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
     </p>
     
     <p style="text-align: center;">
-      Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
     </p>
     
     <p style="text-align: center;">
-      Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+      Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
     </p>
   </div>

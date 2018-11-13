@@ -1,8 +1,8 @@
 ---
-
+id: 3598
 title: 3 mesinhas de canto pra você viver de amores.
-
-author: Lidiane
+date: 2016-04-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/04/28/mesas-de-canto/
 permalink: /2016/04/28/mesas-de-canto/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Eu confesso: estou _in love_ com essas três que selecionei para te mostrar, seja pelo _design_ das peças, ou pela escolha dos objetos que estão nela. Fiquei inspiradíssima e indecisa sobre do que gostei mais. E como não quero sofrer sozinha, vem cá comigo que eu te mostro essas _belezuras,_ e deixo por tua conta a definição de qual a mesinha é a eleita. Se joga!
+  Eu confesso: estou <em>in love</em> com essas três que selecionei para te mostrar, seja pelo <em>design</em> das peças, ou pela escolha dos objetos que estão nela. Fiquei inspiradíssima e indecisa sobre do que gostei mais. E como não quero sofrer sozinha, vem cá comigo que eu te mostro essas <em>belezuras,</em> e deixo por tua conta a definição de qual a mesinha é a eleita. Se joga!
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [AM Dolce Vita](http://www.amdolcevita.com/) 
+  Imagem: <a href="http://www.amdolcevita.com/" target="_blank">AM Dolce Vita</a>
 </p>
 
 <p align="justify">
-  Como não amar uma mesinha como essa, a famosa _Tulipa_, do _designer Eero Saarinen_. Simples, bonita de viver e super fácil de a gente combinar nos ambientes, não é? Quer uma bem pequena assim? Combine um livro + uma caixa decorada + um vaso com flores e o resultado é acertado. Inspire-se!
+  Como não amar uma mesinha como essa, a famosa <em>Tulipa</em>, do <em>designer Eero Saarinen</em>. Simples, bonita de viver e super fácil de a gente combinar nos ambientes, não é? Quer uma bem pequena assim? Combine um livro + uma caixa decorada + um vaso com flores e o resultado é acertado. Inspire-se!
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Not Your Standard](http://notyourstandard.com/) 
+  Imagem: <a href="http://notyourstandard.com/" target="_blank">Not Your Standard</a>
 </p>
 
 <p align="justify">
-  Uma mesa como essa, de acrílico e transparente, é levinha visulmente por si só, concorda? Justamente por isso a gente acaba se sentindo com mais liberdade sobre o que colocar sobre ela. Contraste de cores e formas pode ser um bom caminho a se trilhar, a exemplo do uso das revistas empilhadas + livros + vela robusta. Finalizar com flores nunca é demais, _hã_? Copie!
+  Uma mesa como essa, de acrílico e transparente, é levinha visulmente por si só, concorda? Justamente por isso a gente acaba se sentindo com mais liberdade sobre o que colocar sobre ela. Contraste de cores e formas pode ser um bom caminho a se trilhar, a exemplo do uso das revistas empilhadas + livros + vela robusta. Finalizar com flores nunca é demais, <em>hã</em>? Copie!
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Northern Berries](https://northernberries.wordpress.com/) 
+  Imagem: <a href="https://northernberries.wordpress.com/" target="_blank">Northern Berries</a>
 </p>
 
 <p align="justify">
@@ -54,15 +54,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Mesa de centro da sala de estar: compre sem erro!**](http://www.decoracaodacasa.com/mesa-centro-sala-estar/) 
+  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

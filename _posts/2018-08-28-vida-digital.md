@@ -1,8 +1,8 @@
 ---
-
+id: 3875
 title: Como conseguir qualidade de vida digital?
-
-author: Lidiane
+date: 2018-08-28T00:00:00+00:00
+author: admin
 excerpt: 'O medo de ficar por fora do que acontece online impacta diretamente na sua qualidade de vida digital.  Como atingir o equilíbrio? Descubra, neste post.'
 layout: post
 guid: http://localhost/wordpress/2018/08/28/vida-digital/
@@ -14,7 +14,7 @@ categories:
   - Produtividade
 ---
 <p align="justify">
-  Já ouviu falar da FOMO? Essa é uma sigla em inglês para “fear of missing out”, em outras palavras, medo de ficar por fora, e isso impacta diretamente na sua qualidade de **vida digital**. Sabe quando você vê uma pessoa no cinema, olhando o celular o tempo todo? Ou alguém caminhando enquanto olha o celular? Já viu alguém à mesa, comendo, com o dedo deslizando no aparelho? Conhece alguém que sente uma necessidade incrível de responder whatsapp no momento em que recebe as mensagens, priorizando o tempo das outras pessoas, em detrimento do próprio?
+  Já ouviu falar da FOMO? Essa é uma sigla em inglês para “fear of missing out”, em outras palavras, medo de ficar por fora, e isso impacta diretamente na sua qualidade de <strong>vida digital</strong>. Sabe quando você vê uma pessoa no cinema, olhando o celular o tempo todo? Ou alguém caminhando enquanto olha o celular? Já viu alguém à mesa, comendo, com o dedo deslizando no aparelho? Conhece alguém que sente uma necessidade incrível de responder whatsapp no momento em que recebe as mensagens, priorizando o tempo das outras pessoas, em detrimento do próprio?
 </p>
 
 <p align="justify">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="justify">
-  **[SÓ PARA QUE VOCÊ SAIBA]** O hábito de ter atenção sobre a frequência com que se fica online é um dos passos trabalhados no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener">Projeto Lar Bonito Lar</a>, que está com inscrições encerradas. Quer fazer parte da próxima turma? <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank" rel="noopener">Clique aqui, fale comigo no whatsapp</a> e peça para entrar na lista de espera de interessadas, que já está em formação. Quando as inscrições forem abertas, é com as pessoas dessa lista que falo primeiro, já que as vagas são limitadas. Se preferir, me chame **whats 81.9.9530-7307**.
+  <strong>[SÓ PARA QUE VOCÊ SAIBA]</strong> O hábito de ter atenção sobre a frequência com que se fica online é um dos passos trabalhados no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank" rel="noopener">Projeto Lar Bonito Lar</a>, que está com inscrições encerradas. Quer fazer parte da próxima turma? <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank" rel="noopener">Clique aqui, fale comigo no whatsapp</a> e peça para entrar na lista de espera de interessadas, que já está em formação. Quando as inscrições forem abertas, é com as pessoas dessa lista que falo primeiro, já que as vagas são limitadas. Se preferir, me chame <strong>whats 81.9.9530-7307</strong>.
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  **Nosso contéudo:**
+  <strong>Nosso contéudo:</strong>
 </p>
 
 <p align="center">
@@ -90,7 +90,7 @@ categories:
 </p>
 
 <p align="center">
-  **E tem mais!**
+  <strong>E tem mais!</strong>
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="center">
-  **Nas Redes:**
+  <strong>Nas Redes:</strong>
 </p>
 
 <p align="center">

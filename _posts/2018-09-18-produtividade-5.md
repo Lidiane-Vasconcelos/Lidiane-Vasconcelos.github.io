@@ -1,8 +1,8 @@
 ---
-
+id: 3878
 title: Como exercitar o autocuidado, e ter mais produtividade?
-
-author: Lidiane
+date: 2018-09-18T00:00:00+00:00
+author: admin
 excerpt: A produtividade depende do autocuidado na rotina, e para isso é preciso identificar e deixar ir o que não te faz bem. Como fazer mais do que a gente ama no dia a dia?
 layout: post
 guid: http://localhost/wordpress/2018/09/18/produtividade-5/
@@ -15,7 +15,7 @@ categories:
   - Produtividade
 ---
 <p align="justify">
-  A **produtividade** depende do autocuidado na rotina, e para isso é preciso identificar e deixar ir o que não te faz bem. Cuidar da saúde, do próprio corpo, da cabeça… a gente fica tão envolvida com as atividades ligadas a demandas da casa e do trabalho, que acaba nem sobrando tempo para a gente mesma. A coisa mais fácil que existe é a gente ligar o piloto automático na rotina e tocar o dia adiante, sem se dar conta de que não estamos aproveitando ele direito. Sabe as atividades que nos dão prazer? Por que esperar apenas pelas férias, ou numa perspectiva bem otimista, somente o fim de semana, para aproveitá-las?
+  A <strong>produtividade</strong> depende do autocuidado na rotina, e para isso é preciso identificar e deixar ir o que não te faz bem. Cuidar da saúde, do próprio corpo, da cabeça… a gente fica tão envolvida com as atividades ligadas a demandas da casa e do trabalho, que acaba nem sobrando tempo para a gente mesma. A coisa mais fácil que existe é a gente ligar o piloto automático na rotina e tocar o dia adiante, sem se dar conta de que não estamos aproveitando ele direito. Sabe as atividades que nos dão prazer? Por que esperar apenas pelas férias, ou numa perspectiva bem otimista, somente o fim de semana, para aproveitá-las?
 </p>
 
 <p align="justify">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  **[PARA SER PRODUTIVA]** Na gestão das rotinas da casa, é preciso estabelecer uma série de bons hábitos que, articulados em conjunto, nos colocam mais dispostas para o trabalho. Autocuidado é apenas um deles, dentre os tantos apresentados no Projeto Lar Bonito Lar. Quer fazer parte da próxima turma e aprender as melhores práticas na gestão das demandas do lar e tornar essas tarefas mais leves?
+  <strong>[PARA SER PRODUTIVA]</strong> Na gestão das rotinas da casa, é preciso estabelecer uma série de bons hábitos que, articulados em conjunto, nos colocam mais dispostas para o trabalho. Autocuidado é apenas um deles, dentre os tantos apresentados no Projeto Lar Bonito Lar. Quer fazer parte da próxima turma e aprender as melhores práticas na gestão das demandas do lar e tornar essas tarefas mais leves?
 </p>
 
 <p align="justify">
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307">Clique aqui, fale comigo no whatsapp</a> e peça para entrar na lista de espera de interessadas para a próxima turma, que já está em formação. Quando as inscrições forem abertas, é com as pessoas dessa lista que falo primeiro, já que as vagas são limitadas. Se preferir, me chame **whats 81.9.9530-7307**.
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307">Clique aqui, fale comigo no whatsapp</a> e peça para entrar na lista de espera de interessadas para a próxima turma, que já está em formação. Quando as inscrições forem abertas, é com as pessoas dessa lista que falo primeiro, já que as vagas são limitadas. Se preferir, me chame <strong>whats 81.9.9530-7307</strong>.
 </p>
 
 <p align="justify">
@@ -71,7 +71,7 @@ categories:
 </p>
 
 <p align="center">
-  **Nosso contéudo:**
+  <strong>Nosso contéudo:</strong>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ categories:
 </p>
 
 <p align="center">
-  **E tem mais!**
+  <strong>E tem mais!</strong>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  **Nas Redes:**
+  <strong>Nas Redes:</strong>
 </p>
 
 <p align="center">

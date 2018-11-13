@@ -1,8 +1,8 @@
 ---
-
+id: 3531
 title: 'Gestão do tempo e produtividade: 6 dicas pra fazer mais.'
-
-author: Lidiane
+date: 2016-01-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/01/22/tempo-e-produtividade/
 permalink: /2016/01/22/tempo-e-produtividade/
@@ -12,23 +12,23 @@ categories:
   - 'Trabalho &amp; Dinheiro'
 ---
 <p align="justify">
-  O dia tem apenas 24 horas, mas lá no fundinho, quem nunca lamentou que ele não tivesse mais? Duro é quando a gente percebe que há muito por fazer, e a quantidade de horas parece ainda ser menor. Para quem trabalha por conta própria, a ideia de que fazer os próprios horários é luxo, glória e poder logo cai por terra se não houver uma [gestão do tempo eficiente](http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/) . Como preservar o equilíbrio no dia a dia entre vida pessoal e trabalho, garantindo, ainda assim, a [produtividade](http://www.trololodemulher.com.br/2015/10/30/produtividade-2/) ? O pulo do gato, bonita, está em conciliar **tempo e produtividade**, de modo a identificar o que rouba o primeiro, e prejudica o segundo.
+  O dia tem apenas 24 horas, mas lá no fundinho, quem nunca lamentou que ele não tivesse mais? Duro é quando a gente percebe que há muito por fazer, e a quantidade de horas parece ainda ser menor. Para quem trabalha por conta própria, a ideia de que fazer os próprios horários é luxo, glória e poder logo cai por terra se não houver uma <a href="http://www.trololodemulher.com.br/2015/07/17/produtividade-e-gestao-do-tempo/" target="_blank">gestão do tempo eficiente</a>. Como preservar o equilíbrio no dia a dia entre vida pessoal e trabalho, garantindo, ainda assim, a <a href="http://www.trololodemulher.com.br/2015/10/30/produtividade-2/" target="_blank">produtividade</a>? O pulo do gato, bonita, está em conciliar <strong>tempo e produtividade</strong>, de modo a identificar o que rouba o primeiro, e prejudica o segundo.
 </p>
 
 <p align="justify">
-  **O que rouba o seu tempo?**
+  <strong>O que rouba o seu tempo?</strong>
 </p>
 
 <p align="justify">
-  Você sabe, o **Trololó de Mulher** tornou-se o meu trabalho há algum tempo, e eu faço isso de casa. Além do mais, sou mãe e casada. Isso quer dizer que preciso equilibrar elementos da minha vida que são bastante caros pra mim, e para não supervalorizar um aspecto da vida, em detrimento de outros, preciso encontrar o ponto ideal de investimento de energia e dedicação em cada uma dessas áreas: cuidar de mim, do meu filho, casamento, trabalho, casa, vida social, etc. Aposto que isso funciona mais ou menos assim com você, não é? Dá aqui um abraço… estamos juntas. Este post é para compartilhar contigo um pouco mais da minha experiência pessoal com a gestão do tempo para aumentar minha produtividade.
+  Você sabe, o <strong>Trololó de Mulher</strong> tornou-se o meu trabalho há algum tempo, e eu faço isso de casa. Além do mais, sou mãe e casada. Isso quer dizer que preciso equilibrar elementos da minha vida que são bastante caros pra mim, e para não supervalorizar um aspecto da vida, em detrimento de outros, preciso encontrar o ponto ideal de investimento de energia e dedicação em cada uma dessas áreas: cuidar de mim, do meu filho, casamento, trabalho, casa, vida social, etc. Aposto que isso funciona mais ou menos assim com você, não é? Dá aqui um abraço… estamos juntas. Este post é para compartilhar contigo um pouco mais da minha experiência pessoal com a gestão do tempo para aumentar minha produtividade.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**O que é empreendedorismo criativo?**](http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/) 
+  <a href="http://www.trololodemulher.com.br/2015/09/25/empreendedorismo-criativo/" target="_blank"><strong>O que é empreendedorismo criativo?</strong></a>
 </p>
 
 <p align="justify">
@@ -40,11 +40,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
 </p>
 
 <p align="justify">
-  **1 – Você gerencia seu tempo, mas esquece de direcionar bem a sua energia.**
+  <strong>1 – Você gerencia seu tempo, mas esquece de direcionar bem a sua energia.</strong>
 </p>
 
 <p align="justify">
@@ -56,7 +56,7 @@ categories:
 </p>
 
 <p align="justify">
-  **2- Você não trabalha quando está no seu melhor momento.**
+  <strong>2- Você não trabalha quando está no seu melhor momento.</strong>
 </p>
 
 <p align="justify">
@@ -64,27 +64,27 @@ categories:
 </p>
 
 <p align="justify">
-  **3 – Você empurra suas atividades com a barriga, enquanto deveria produzir.**
+  <strong>3 – Você empurra suas atividades com a barriga, enquanto deveria produzir.</strong>
 </p>
 
 <p align="justify">
-  Eu, tanto quanto você, amo dar uma espiadinha nas redes sociais. E ler blogs incríveis, com conteúdo _mara_? Quem não ama? A questão é: aceite que isso é um ladrão de tempo… você não vai fazer nada a respeito? Não se trata de banir esses pequenos prazeres da sua vida, mas definir quando você vai fazer isso. Que tal… depois de cumprir suas tarefas principais? Aí, sim, você pode se dar esse presente. Mas limite o tempo! Foco é tudo… e salva!
+  Eu, tanto quanto você, amo dar uma espiadinha nas redes sociais. E ler blogs incríveis, com conteúdo <em>mara</em>? Quem não ama? A questão é: aceite que isso é um ladrão de tempo… você não vai fazer nada a respeito? Não se trata de banir esses pequenos prazeres da sua vida, mas definir quando você vai fazer isso. Que tal… depois de cumprir suas tarefas principais? Aí, sim, você pode se dar esse presente. Mas limite o tempo! Foco é tudo… e salva!
 </p>
 
 <p align="justify">
-  Além do mais, se você vai passar [menos tempo em redes sociais](http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/) , proponho que isso seja feito com qualidade. Sendo assim, preste atenção em como você usa seu tempo por lá, e selecione o que de fato acrescenta algo de bom no seu dia a dia. Quais pessoas vale à pena seguir? Quais páginas te apresentam conteúdo que te divertem, te informam, te jogam pra cima e te fazem ser mais feliz. Se agarre nesse povo!
+  Além do mais, se você vai passar <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank">menos tempo em redes sociais</a>, proponho que isso seja feito com qualidade. Sendo assim, preste atenção em como você usa seu tempo por lá, e selecione o que de fato acrescenta algo de bom no seu dia a dia. Quais pessoas vale à pena seguir? Quais páginas te apresentam conteúdo que te divertem, te informam, te jogam pra cima e te fazem ser mais feliz. Se agarre nesse povo!
 </p>
 
 <p align="justify">
-  **4 – Você não está descansando, efetivamente.**
+  <strong>4 – Você não está descansando, efetivamente.</strong>
 </p>
 
 <p align="justify">
-  Daí que sua jornada encerra e… lá está você no computador, no_ tablet_ ou no celular. Se você planeja descansar, e passou todo o seu tempo dedicada ao trabalho e agarrada a um computador, desconecte. Vai brincar com seu filho no parquinho? Não se apegue ao celular. Vai sair com a família para comer? Pra que se conectar à mesa? Vai ficar com a família à noite, e jogar conversa fora? Desligue um pouco a TV! _Desplugue_ dos eletrônicos e viva! A vida acontece no modo _off line_ e, perceba, isso de fato favorece o [descanso do seu corpo e mente](http://www.trololodemulher.com.br/2015/06/22/bem-estar-em-casa/) . Não tenha dúvidas, bonita, sua produtividade estará afiada no dia seguinte. A vida e o trabalho fluem mais leves e gostosos no dia a dia. Experimente!
+  Daí que sua jornada encerra e… lá está você no computador, no<em> tablet</em> ou no celular. Se você planeja descansar, e passou todo o seu tempo dedicada ao trabalho e agarrada a um computador, desconecte. Vai brincar com seu filho no parquinho? Não se apegue ao celular. Vai sair com a família para comer? Pra que se conectar à mesa? Vai ficar com a família à noite, e jogar conversa fora? Desligue um pouco a TV! <em>Desplugue</em> dos eletrônicos e viva! A vida acontece no modo <em>off line</em> e, perceba, isso de fato favorece o <a href="http://www.trololodemulher.com.br/2015/06/22/bem-estar-em-casa/" target="_blank">descanso do seu corpo e mente</a>. Não tenha dúvidas, bonita, sua produtividade estará afiada no dia seguinte. A vida e o trabalho fluem mais leves e gostosos no dia a dia. Experimente!
 </p>
 
 <p align="justify">
-  **5 – Você é escrava da leitura de e-mails.**
+  <strong>5 – Você é escrava da leitura de e-mails.</strong>
 </p>
 
 <p align="justify">
@@ -96,7 +96,7 @@ categories:
 </p>
 
 <p align="justify">
-  **6 – Você tem o complexo da mulher maravilha.**
+  <strong>6 – Você tem o complexo da mulher maravilha.</strong>
 </p>
 
 <p align="justify">
@@ -104,7 +104,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Como usar essas dicas?**
+  <strong>Como usar essas dicas?</strong>
 </p>
 
 <p align="justify">
@@ -112,7 +112,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

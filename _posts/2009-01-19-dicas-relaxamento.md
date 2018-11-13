@@ -1,8 +1,8 @@
 ---
-
+id: 2605
 title: Dicas para relaxar em casa, como se você estivesse em um SPA.
-
-author: Lidiane
+date: 2009-01-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/01/19/dicas-relaxamento/
 permalink: /2009/01/19/dicas-relaxamento/
@@ -15,7 +15,7 @@ E se pudéssemos ter um SPA em casa? Já pensou que delícia? Pensa bem: o que 
 
 Nós buscamos relaxar. Esse é o principal motivo por que se vai para o SPA, certo? Mas, se a gente não dispõe de dinheiro suficiente para pagar um, quer dizer que não podemos desfrutar de momentos de relaxamento?!?
 
-Explorando o “[Real Simple](http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-2,00.html) ”, encontrei [algumas dicas](http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-1,00.html)  preciosas e simples para a gente se auto proporcionar momentos bem gosotosos. E o melhor: em casa! Quer saber como?
+Explorando o “<a href="http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/homepage/flash/0,23022,,00.shtml?origref=http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-2,00.html" target="_blank">Real Simple</a>”, encontrei <a href="http://www.realsimple.com/realsimple/package/0,21861,1168444-1850351-1,00.html" target="_blank">algumas dicas</a> preciosas e simples para a gente se auto proporcionar momentos bem gosotosos. E o melhor: em casa! Quer saber como?
 
 1 – **_Tomando banho_**.
 

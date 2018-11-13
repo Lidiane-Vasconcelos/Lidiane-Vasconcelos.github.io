@@ -1,8 +1,8 @@
 ---
-
+id: 3443
 title: Bolo de banana sem glúten e light… e cheiroso!
-
-author: Lidiane
+date: 2015-07-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/07/08/bolo-de-banana/
 permalink: /2015/07/08/bolo-de-banana/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Vamos combinar que tudo que leva canela nessa vida só pode ser muito cheiroso? Cheirinho de bolo de banana assando em casa é muito bom, _né_? E dessa vez a Carol, nossa querida colaboradora com receitas saudáveis, caprichou nesse quesito. Ah! Carol avisa que o bolo, para ser _light_, precisa ter o uso do adoçante na receita, e foi o que ela fez. Mas se a gente preferir (e é como eu prefiro), podemos usar açúcar mascavo ou demerara, que são mais saudáveis. Isto posto, vamos logo ao que interessa? Vem ver a receita, vem!
+  Vamos combinar que tudo que leva canela nessa vida só pode ser muito cheiroso? Cheirinho de bolo de banana assando em casa é muito bom, <em>né</em>? E dessa vez a Carol, nossa querida colaboradora com receitas saudáveis, caprichou nesse quesito. Ah! Carol avisa que o bolo, para ser <em>light</em>, precisa ter o uso do adoçante na receita, e foi o que ela fez. Mas se a gente preferir (e é como eu prefiro), podemos usar açúcar mascavo ou demerara, que são mais saudáveis. Isto posto, vamos logo ao que interessa? Vem ver a receita, vem!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes**
+  <strong>Ingredientes</strong>
 </p>
 
 <p align="justify">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de Preparo**
+  <strong>Modo de Preparo</strong>
 </p>
 
 > <p align="justify">
->   “**_Eu fiz tudo batendo a mão mesmo, mas se quiser pode utilizar a batedeira. Bati a manteiga com o adoçante até ficar uma mistura mais branca. Depois junte os ovos e bata mais, acrescente o leite e bate mais um pouco. Acrescente as farinhas, misture bem e depois o fermento em pó. Coloque a massa em uma forma untada e enfarinhada (farinha de arroz ou a mix de farinhas sem glúten). Por cima você distribua as bananas e polvilhe a misturinha de canela com o adoçante. Leve ao forno em 180 graus até assar. A casa fica cheirosa e o bolo delicioso!!!”_**
+>   “<strong><em>Eu fiz tudo batendo a mão mesmo, mas se quiser pode utilizar a batedeira. Bati a manteiga com o adoçante até ficar uma mistura mais branca. Depois junte os ovos e bata mais, acrescente o leite e bate mais um pouco. Acrescente as farinhas, misture bem e depois o fermento em pó. Coloque a massa em uma forma untada e enfarinhada (farinha de arroz ou a mix de farinhas sem glúten). Por cima você distribua as bananas e polvilhe a misturinha de canela com o adoçante. Leve ao forno em 180 graus até assar. A casa fica cheirosa e o bolo delicioso!!!”</em></strong>
 > </p>
 
 <p align="center">
@@ -74,27 +74,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Tofu ao forno… com toques especiais!**](http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/) 
+  <a href="http://www.trololodemulher.com.br/2015/06/17/tofu-ao-forno/" target="_blank"><strong>Tofu ao forno… com toques especiais!</strong></a>
 </p>
 
 <p align="justify">
-  [**Creme de aspargos: receita que conforta nos dias frios.**](http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/) 
+  <a href="http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/" target="_blank"><strong>Creme de aspargos: receita que conforta nos dias frios.</strong></a>
 </p>
 
 <p align="justify">
-  [**Bolo prestígio saudável.**](http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/) 
+  <a href="http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/" target="_blank"><strong>Bolo prestígio saudável.</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

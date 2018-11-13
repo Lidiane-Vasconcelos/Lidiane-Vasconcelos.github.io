@@ -1,8 +1,8 @@
 ---
-
+id: 2768
 title: Dos meus itens que favorecem minha organização. Qual o seu?
-
-author: Lidiane
+date: 2010-01-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/01/19/itens-organizacao-casa-2/
 permalink: /2010/01/19/itens-organizacao-casa-2/
@@ -43,7 +43,7 @@ Agora, bem que eu queria saber sobre teus objetos queridos, e avaliar possíveis
 
 Quem acha que sabe tudo é outro, eu que não sou boba não sei um bocado de coisas, e quero aprender contigo…
 
-Imagem: [stock.xchng](vhttp://www.sxc.hu/) 
+Imagem: <a href="vhttp://www.sxc.hu/" target="_blank">stock.xchng</a>
 
 **Mais no Bicha Fêmea…**
 

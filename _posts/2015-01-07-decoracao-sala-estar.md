@@ -1,8 +1,8 @@
 ---
-
+id: 3381
 title: 'Coletânea de ideias: decoração da sala de estar.'
-
-author: Lidiane
+date: 2015-01-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/01/07/decoracao-sala-estar/
 permalink: /2015/01/07/decoracao-sala-estar/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  Pensando em facilitar a sua vida, eu reuni neste post uma coletânea de ideias para a decoração deste ambiente. Aqui você verá os melhores posts já publicados aqui no **Trololó de Mulher**, e no meu outro blog, o **[Decoração da Casa](http://www.decoracaodacasa.com/) **, sobre como deixar este espaço na sua casa com a sua cara. Aproveite as dicas e ideias, e divirta-se imprimindo o seu estilo e seu jeito de morar bem. Se joga!
+  Pensando em facilitar a sua vida, eu reuni neste post uma coletânea de ideias para a decoração deste ambiente. Aqui você verá os melhores posts já publicados aqui no <strong>Trololó de Mulher</strong>, e no meu outro blog, o <strong><a href="http://www.decoracaodacasa.com/" target="_blank">Decoração da Casa</a></strong>, sobre como deixar este espaço na sua casa com a sua cara. Aproveite as dicas e ideias, e divirta-se imprimindo o seu estilo e seu jeito de morar bem. Se joga!
 </p>
 
 &nbsp;
@@ -25,36 +25,36 @@ categories:
 
 &nbsp;
 
-[1] [Como decorar uma sala de estar com aconchego e conforto?](http://www.decoracaodacasa.com/como-decorar-uma-sala-de-estar/) 
+[1] <a href="http://www.decoracaodacasa.com/como-decorar-uma-sala-de-estar/" target="_blank">Como decorar uma sala de estar com aconchego e conforto?</a>
 
-[2] [Sofá neutro + almofadas coloridas = sucesso garantido na decoração da sala de estar.](http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/) 
+[2] <a href="http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/" target="_blank">Sofá neutro + almofadas coloridas = sucesso garantido na decoração da sala de estar.</a>
 
-[3] [Como decorar a mesa de centro de sala?](http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/) 
+[3] <a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_blank">Como decorar a mesa de centro de sala?</a>
 
-[4] [Vai pintar a sala de estar? Quer ideias de cores?](http://www.decoracaodacasa.com/parede-sala-estar-cores/) 
+[4] <a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Vai pintar a sala de estar? Quer ideias de cores?</a>
 
-[5] [Que cor usar na pintura da parede da sala de estar?](http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/) 
+[5] <a href="http://www.trololodemulher.com.br/2010/12/27/decoracao-cor-sala-de-estar/" target="_blank">Que cor usar na pintura da parede da sala de estar?</a>
 
-[6] [Como decorar uma sala de estar numa casa com crianças?](http://www.decoracaodacasa.com/decorar-sala-estar-criancas/) 
+[6] <a href="http://www.decoracaodacasa.com/decorar-sala-estar-criancas/" target="_blank">Como decorar uma sala de estar numa casa com crianças?</a>
 
-[7] [Solução de decoração boa, bonita e barata: como fazer um tapete de sisal listrado?](http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/) 
+[7] <a href="http://www.trololodemulher.com.br/2013/06/12/decoracao-barata-sala/" target="_blank">Solução de decoração boa, bonita e barata: como fazer um tapete de sisal listrado?</a>
 
-[8] [Móvel funcional na sua sala de estar pequena: a melhor escolha!](http://www.decoracaodacasa.com/movel-funcional-sala-pequena/) 
+[8] <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank">Móvel funcional na sua sala de estar pequena: a melhor escolha!</a>
 
-[9] [3 ideias simples de decoração e aconchego na sua sala de estar.](http://www.trololodemulher.com.br/2012/08/03/ideias-decoracao-sala-estar/) 
+[9] <a href="http://www.trololodemulher.com.br/2012/08/03/ideias-decoracao-sala-estar/" target="_blank">3 ideias simples de decoração e aconchego na sua sala de estar.</a>
 
-[10] [Sala de estar moderna, bonita e chic: dá pra ter uma?](http://www.decoracaodacasa.com/sala-de-estar-moderna/) 
+[10] <a href="http://www.decoracaodacasa.com/sala-de-estar-moderna/" target="_blank">Sala de estar moderna, bonita e chic: dá pra ter uma?</a>
 
-[11] [Quer uma mesinha de apoio? Improvisa!!!](http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/) 
+[11] <a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/" target="_blank">Quer uma mesinha de apoio? Improvisa!!!</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 &nbsp;

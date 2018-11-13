@@ -1,8 +1,8 @@
 ---
-
+id: 3330
 title: 'Dias frios, hidratantes e tudo mais: tudo a ver!'
-
-author: Lidiane
+date: 2014-08-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/08/13/hidratantes-pele-inverno/
 permalink: /2014/08/13/hidratantes-pele-inverno/
@@ -21,7 +21,7 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 <!--more-->
 
 <p align="justify">
-  **<span style="font-size: small;">Bicha Fêmea > Para a hidratação do corpo, o melhor é usar óleo ou creme?</span>**
+  <strong><span style="font-size: small;">Bicha Fêmea > Para a hidratação do corpo, o melhor é usar óleo ou creme?</span></strong>
 </p>
 
 &nbsp;
@@ -35,13 +35,13 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 </p>
 
 <p align="center">
-  Imagem: [free images](http://www.freeimages.com/) 
+  Imagem: <a href="http://www.freeimages.com/" target="_blank">free images</a>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: small;">Bicha Fêmea > Há algum problema em usar o óleo diariamente?</span>**
+  <strong><span style="font-size: small;">Bicha Fêmea > Há algum problema em usar o óleo diariamente?</span></strong>
 </p>
 
 &nbsp;
@@ -53,7 +53,7 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: small;">Bicha Fêmea > O hidratante de banho é uma boa alternativa?</span>**
+  <strong><span style="font-size: small;">Bicha Fêmea > O hidratante de banho é uma boa alternativa?</span></strong>
 </p>
 
 &nbsp;
@@ -65,7 +65,7 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 &nbsp;
 
 <p align="justify">
-  **<span style="font-size: small;">Bicha Fêmea > Sobre o cuidado do rosto, mesmo quem tem pele oleosa, deve hidratá-la diariamente?</span>**
+  <strong><span style="font-size: small;">Bicha Fêmea > Sobre o cuidado do rosto, mesmo quem tem pele oleosa, deve hidratá-la diariamente?</span></strong>
 </p>
 
 &nbsp;
@@ -75,11 +75,11 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 > </p>
 
 <p align="justify">
-  **A propósito, não deixe de ler:**
+  <strong>A propósito, não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  [**A saúde da pele agradece o filtro solar, mesmo no inverno.**](http://www.trololodemulher.com.br/2012/07/23/saude-beleza-pele-inverno/) 
+  <a href="http://www.trololodemulher.com.br/2012/07/23/saude-beleza-pele-inverno/" target="_blank"><strong>A saúde da pele agradece o filtro solar, mesmo no inverno.</strong></a>
 </p>
 
 &nbsp;
@@ -91,13 +91,13 @@ Como está o seu arsenal de cremes hidratantes? Você deve saber, ou o aspecto d
 &nbsp;
 
 <p align="justify">
-  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode [acessar clicando aqui](http://www.blografaelasalvato.med.br/) . Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho [acessando seu site aqui](http://rafaelasalvato.com.br/) , ou curtir sua [página no Facebook bem aqui](https://www.facebook.com/rafaelasalvatodermatologia) . Se joga!
+  A Dra. Rafaela tem presença constante na internet, isso para nossa alegria, viu? É possível acompanhar suas atualizações em seu blog, e você pode <a href="http://www.blografaelasalvato.med.br/" target="_blank">acessar clicando aqui</a>. Acompanhe os posts com temas pertinentes a saúde e beleza da pele, fique bem informada, saudável e bonita. Além do mais você pode conhecer mais de seu trabalho <a href="http://rafaelasalvato.com.br/" target="_blank">acessando seu site aqui</a>, ou curtir sua <a href="https://www.facebook.com/rafaelasalvatodermatologia" target="_blank">página no Facebook bem aqui</a>. Se joga!
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;

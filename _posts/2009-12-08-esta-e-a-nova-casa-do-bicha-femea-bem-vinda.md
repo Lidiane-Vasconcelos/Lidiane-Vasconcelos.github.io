@@ -1,8 +1,8 @@
 ---
-
+id: 2746
 title: Esta é a nova casa do Bicha Fêmea. Bem Vinda!!!
-
-author: Lidiane
+date: 2009-12-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/12/08/esta-e-a-nova-casa-do-bicha-femea-bem-vinda/
 permalink: /2009/12/08/esta-e-a-nova-casa-do-bicha-femea-bem-vinda/
@@ -23,9 +23,9 @@ Agora que estamos chegando juntas para essa casa nova, queria te pedir para voc�
 
 2 – Se você já tem assinatura do Bicha Fêmea antigo e lê o conteúdo no seu painel de leitura ou no seu e-mail, você assina novamente para esse novo endereço?
 
-***Para receber o Bicha Fêmea no seu painel de leitura de blogs e sites, basta clicar [aqui](http://feeds2.feedburner.com/blogbichafemea) ;** 
+***Para receber o Bicha Fêmea no seu painel de leitura de blogs e sites, basta clicar <a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank">aqui</a>;** 
 
-***Para receber o Bicha Fêmea diretamente no seu e-mail, basta clicar [aqui](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) .**
+***Para receber o Bicha Fêmea diretamente no seu e-mail, basta clicar <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">aqui</a>.**
 
 *Se você não tinha a assinatura, essa é uma boa oportunidade de assinar, não é? Que tal?
 

@@ -1,8 +1,8 @@
 ---
-
+id: 3790
 title: Pão caseiro trançado com recheio de pesto.
-
-author: Lidiane
+date: 2017-08-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/08/29/pao-caseiro-2/
 permalink: /2017/08/29/pao-caseiro-2/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  **Pão caseiro** tem seu charme, com sabor e cheiro irresistíveis! O que você verá aqui no blog é uma receita inusitada apresentada pela Tânia: uma versão recheada com molho pesto. Consegue imaginar o quanto deve ter ficado delicioso? Eu não só imaginei, como desejei comer esse pão… olha que lindeza!
+  <strong>Pão caseiro</strong> tem seu charme, com sabor e cheiro irresistíveis! O que você verá aqui no blog é uma receita inusitada apresentada pela Tânia: uma versão recheada com molho pesto. Consegue imaginar o quanto deve ter ficado delicioso? Eu não só imaginei, como desejei comer esse pão… olha que lindeza!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p style="text-align: justify;" align="center">
-  “_Para comemorar a temporada, já que é verão por aqui (na Inglaterra), a receita de hoje é um delicioso Pão Trançado de _[_Pesto_](http://www.trololodemulher.com.br/2017/03/16/molho-pesto/) _. E se apenas o pesto já é delicioso, você pode imaginar um pão caseiro, fresquinho, recheado com ele? Delícia!_
+  “<em>Para comemorar a temporada, já que é verão por aqui (na Inglaterra), a receita de hoje é um delicioso Pão Trançado de </em><a href="http://www.trololodemulher.com.br/2017/03/16/molho-pesto/" target="_blank"><em>Pesto</em></a><em>. E se apenas o pesto já é delicioso, você pode imaginar um pão caseiro, fresquinho, recheado com ele? Delícia!</em>
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="justify">
-  _Como já mostrei na _[_receita de pesto_](http://www.trololodemulher.com.br/2017/03/16/molho-pesto/) _, ele é bem versátil e pode ter muitas variações, o que significa que você tem muitas opções para preparar esse pão, mudando apenas o sabor do pesto. Eu preparei o meu pão trançado com pesto de sálvia e ficou delicioso._
+  <em>Como já mostrei na </em><a href="http://www.trololodemulher.com.br/2017/03/16/molho-pesto/" target="_blank"><em>receita de pesto</em></a><em>, ele é bem versátil e pode ter muitas variações, o que significa que você tem muitas opções para preparar esse pão, mudando apenas o sabor do pesto. Eu preparei o meu pão trançado com pesto de sálvia e ficou delicioso.</em>
 </p>
 
 <p align="justify">
-  _Eu sei que a idéia de preparar um pão caseiro assusta um pouco, mas não se preocupe, esta receita é facinha, e estou segura de que você pode prepará-la sem qualquer problema._
+  <em>Eu sei que a idéia de preparar um pão caseiro assusta um pouco, mas não se preocupe, esta receita é facinha, e estou segura de que você pode prepará-la sem qualquer problema.</em>
 </p>
 
 **_Ingredientes_**
@@ -76,18 +76,18 @@ _10 – Asse por cerca de 25-30, até ficar dourado._
 
 **Mais receitas de Tânia:**
 
-[**Geleia de banana e as reminiscências infantis…**](http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/) 
+<a href="http://www.trololodemulher.com.br/2017/08/22/geleia-de-banana/" target="_blank"><strong>Geleia de banana e as reminiscências infantis…</strong></a>
 
-[**Chá de menta de Marraquexe, ou como acolher bem…**](http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/) 
+<a href="http://www.trololodemulher.com.br/2017/08/15/cha-de-menta/" target="_blank"><strong>Chá de menta de Marraquexe, ou como acolher bem…</strong></a>
 
-[**Sopa de abóbora e alho pra aquecer os dias frios.**](http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/) 
+<a href="http://www.trololodemulher.com.br/2017/06/06/sopa-de-abobora-2/" target="_blank"><strong>Sopa de abóbora e alho pra aquecer os dias frios.</strong></a>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira [o blog de Tânia clicando aqui](https://iwanttobeacook.wordpress.com/) , e [sua fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está [no Instagram… clique aqui e siga](https://www.instagram.com/iwanttobeacook/) ! Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira <a href="https://iwanttobeacook.wordpress.com/" target="_blank">o blog de Tânia clicando aqui</a>, e <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">sua fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">no Instagram… clique aqui e siga</a>! Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

@@ -1,8 +1,8 @@
 ---
-
+id: 3238
 title: 'Saiu o resultado do sorteio da blogagem coletiva: quem te inspira?'
-
-author: Lidiane
+date: 2013-06-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/06/25/sorteio-blogagem-coletiva/
 permalink: /2013/06/25/sorteio-blogagem-coletiva/
@@ -26,7 +26,7 @@ Hoje a gente vai ficar sabendo quem vai receber os mimos oferecidos pela [**Espa
 &nbsp;
 
 <p align="justify">
-  Parabéns, **<span style="font-size: medium;">Regiane Yuki Sabanai</span>**!!!!
+  Parabéns, <strong><span style="font-size: medium;">Regiane Yuki Sabanai</span></strong>!!!!
 </p>
 
 <p align="justify">

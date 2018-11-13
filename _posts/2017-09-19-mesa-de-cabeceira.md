@@ -1,8 +1,8 @@
 ---
-
+id: 3801
 title: Como decorar sua mesa de cabeceira?
-
-author: Lidiane
+date: 2017-09-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/09/19/mesa-de-cabeceira/
 permalink: /2017/09/19/mesa-de-cabeceira/
@@ -10,7 +10,7 @@ categories:
   - Quarto
 ---
 <p align="justify">
-  Isso na verdade depende do seu estilo, viu? É preciso pensar no que você gosta de ter à mão na sua **mesa de cabeceira**, o que te inspira e agrega valor ao seu dia a dia. O que muitas vezes acontece é ficamos meio perdidas sobre o que gostamos de verdade, não é? Nessas horas é bem importante olhar imagens e usá-las como referência, para que possamos identificar o que tem a ver conosco, com nosso jeito de viver. No final das contas, isso vai nos nortear sobre o que escolher pra deixar esse cantinho do quarto lindo de viver, porque irá traduzir nossos gostos e necessidades…
+  Isso na verdade depende do seu estilo, viu? É preciso pensar no que você gosta de ter à mão na sua <strong>mesa de cabeceira</strong>, o que te inspira e agrega valor ao seu dia a dia. O que muitas vezes acontece é ficamos meio perdidas sobre o que gostamos de verdade, não é? Nessas horas é bem importante olhar imagens e usá-las como referência, para que possamos identificar o que tem a ver conosco, com nosso jeito de viver. No final das contas, isso vai nos nortear sobre o que escolher pra deixar esse cantinho do quarto lindo de viver, porque irá traduzir nossos gostos e necessidades…
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Dream Green DIY](http://www.dreamgreendiy.com/blog/) 
+  Via <a href="http://www.dreamgreendiy.com/blog/" target="_blank">Dream Green DIY</a>
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Shop Sweet Things](http://shopsweetthings.com/) 
+  Via <a href="http://shopsweetthings.com/" target="_blank">Shop Sweet Things</a>
 </p>
 
 <p align="justify">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Style at Home](http://www.styleathome.com/) 
+  Via <a href="http://www.styleathome.com/" target="_blank">Style at Home</a>
 </p>
 
 <p align="justify">
@@ -58,11 +58,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Ainda sobre o amarelo:**
+  <strong>Ainda sobre o amarelo:</strong>
 </p>
 
 <p align="justify">
-  [**Amarelo na decoração: 8 imagens com detalhes solares**](http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/) 
+  <a href="http://www.trololodemulher.com.br/2016/05/16/amarelo-na-decoracao-2/" target="_blank"><strong>Amarelo na decoração: 8 imagens com detalhes solares</strong></a>
 </p>
 
 <p align="center">
@@ -70,23 +70,23 @@ categories:
 </p>
 
 <p align="center">
-  Via [Better Homes and Gardens](http://www.bhg.com/) 
+  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  E se sua mesa de cabeceira por si só for um elemento de decoração pra lá de inspirador? Vivi de amores quando bati os olhos nesse móvel com _pegada vintage_. Branquinho assim… é pra suspirar e transbordar romantismo e feminilidade.
+  E se sua mesa de cabeceira por si só for um elemento de decoração pra lá de inspirador? Vivi de amores quando bati os olhos nesse móvel com <em>pegada vintage</em>. Branquinho assim… é pra suspirar e transbordar romantismo e feminilidade.
 </p>
 
 <p align="justify">
-  **Para quem ama o que é _vintage_:**
+  <strong>Para quem ama o que é <em>vintage</em>:</strong>
 </p>
 
 <p align="justify">
-  [**Quer toques de decoração vintage em casa? Veja 7 dicas.**](http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/) 
+  <a href="http://www.trololodemulher.com.br/2016/04/04/retro-decoracao-vintage/" target="_blank"><strong>Quer toques de decoração vintage em casa? Veja 7 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  [**Objetos vintage: 4 ideias de organização**](http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/) 
+  <a href="http://www.trololodemulher.com.br/2016/04/14/ideias-de-organizacao/" target="_blank"><strong>Objetos vintage: 4 ideias de organização</strong></a>
 </p>
 
 <p align="center">
@@ -94,11 +94,11 @@ categories:
 </p>
 
 <p align="center">
-  Via [Ally Redhead](http://allyredhead.blogspot.com.br/) 
+  Via <a href="http://allyredhead.blogspot.com.br/" target="_blank">Ally Redhead</a>
 </p>
 
 <p align="justify">
-  Seja com medidas mais largas ou enxutas, se de acrílico, somente os objetos sobre a mesa é que aparecem. Eles parecem flutuar… e podem até ter uma _bossa_ mais luxuosa, porque nem mesmo o móvel disputará sua atenção com eles.
+  Seja com medidas mais largas ou enxutas, se de acrílico, somente os objetos sobre a mesa é que aparecem. Eles parecem flutuar… e podem até ter uma <em>bossa</em> mais luxuosa, porque nem mesmo o móvel disputará sua atenção com eles.
 </p>
 
 <p align="center">
@@ -106,11 +106,11 @@ categories:
 </p>
 
 <p align="center">
-  Via [Better Homes and Gardens](http://www.bhg.com/) 
+  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Com _design_ moderno e limpo em suas linhas, a novidade na nossa seleção é o uso de um espelho enorme atrás do móvel. E se as ideias fervilham em sua cabeça, é bom lembrar de deixar um caderninho e canetas ao lado da cama… só pra lembrar.
+  Com <em>design</em> moderno e limpo em suas linhas, a novidade na nossa seleção é o uso de um espelho enorme atrás do móvel. E se as ideias fervilham em sua cabeça, é bom lembrar de deixar um caderninho e canetas ao lado da cama… só pra lembrar.
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [HGTV](http://www.hgtv.com/) 
+  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 </p>
 
 <p align="justify">
@@ -130,7 +130,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [HGTV](http://www.hgtv.com/) 
+  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 </p>
 
 <p align="justify">
@@ -138,15 +138,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Ainda sobre quartos pequenos:**
+  <strong>Ainda sobre quartos pequenos:</strong>
 </p>
 
 <p align="justify">
-  [**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**](http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/) 
+  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
 </p>
 
 <p align="justify">
-  [**Como ganhar (e não perder) espaço em quartos pequenos?**](http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/) 
+  <a href="http://www.trololodemulher.com.br/2010/11/29/como-ganhar-espaco-no-quarto/" target="_blank"><strong>Como ganhar (e não perder) espaço em quartos pequenos?</strong></a>
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [HGTV](http://www.hgtv.com/) 
+  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 </p>
 
 <p align="justify">
@@ -162,13 +162,13 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja mais sobre bandejas:**
+  <strong>Veja mais sobre bandejas:</strong>
 </p>
 
 <p align="justify">
-  [**Truques de decoração: bandejas… por que te quero?**](http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/) 
+  <a href="http://www.trololodemulher.com.br/2016/04/22/decoracao-bandejas/" target="_blank"><strong>Truques de decoração: bandejas… por que te quero?</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

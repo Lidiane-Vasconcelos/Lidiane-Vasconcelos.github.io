@@ -1,8 +1,8 @@
 ---
-
+id: 3798
 title: 3 detalhes pra surpreender na decoração da cozinha.
-
-author: Lidiane
+date: 2017-09-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/09/12/decoracao-da-cozinha-3/
 permalink: /2017/09/12/decoracao-da-cozinha-3/
@@ -10,17 +10,17 @@ categories:
   - Cozinha
 ---
 <p style="text-align: justify;">
-  Pois é… sou obrigada a usar um _clichesão_: o detalhe faz toda a diferença! Para te provar isso, te dar ideias e te instigar a reparar algo diferente a ser feito na **decoração da cozinha**, selecionei 3 sugestões para você se deliciar, _viu_?
+  Pois é… sou obrigada a usar um <em>clichesão</em>: o detalhe faz toda a diferença! Para te provar isso, te dar ideias e te instigar a reparar algo diferente a ser feito na <strong>decoração da cozinha</strong>, selecionei 3 sugestões para você se deliciar, <em>viu</em>?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  As ideias reunidas a partir do site **_[Better Homes and Gardens](http://www.bhg.com/) _** passam por estratégias diferentes na sua decoração: revestimento, móveis e detalhes decorativos. Escolha a que mais agrada o seu estilo, ou aplique todas, e arranque elogios encantados com o ambiente que você vai compor. Divirta-se!
+  As ideias reunidas a partir do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong> passam por estratégias diferentes na sua decoração: revestimento, móveis e detalhes decorativos. Escolha a que mais agrada o seu estilo, ou aplique todas, e arranque elogios encantados com o ambiente que você vai compor. Divirta-se!
 </p>
 
 <!--more-->
 
 <p align="center">
-  **<span style="font-size: large;">Sua cor favorita é…</span>**
+  <strong><span style="font-size: large;">Sua cor favorita é…</span></strong>
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Ela pode aparecer como o centro das atenções em apenas um detalhe de seus armários se você escolher produzí-los em **laca**. Olha só que lindo o efeito se todo o resto for branquinho? O mercado de móveis de cozinha oferece cores diferentes, para agradar todos os gostos. Decida qual cor será a rainha da sua cozinha e aplique-a num detalhe, no final das contas seus olhos agradecem.
+  Ela pode aparecer como o centro das atenções em apenas um detalhe de seus armários se você escolher produzí-los em <strong>laca</strong>. Olha só que lindo o efeito se todo o resto for branquinho? O mercado de móveis de cozinha oferece cores diferentes, para agradar todos os gostos. Decida qual cor será a rainha da sua cozinha e aplique-a num detalhe, no final das contas seus olhos agradecem.
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">De onde menos se espera…</span>**
+  <strong><span style="font-size: large;">De onde menos se espera…</span></strong>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Saia do lugar comum…</span>**
+  <strong><span style="font-size: large;">Saia do lugar comum…</span></strong>
 </p>
 
 <p align="center">
@@ -58,9 +58,9 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Como? Escolha um tipo de revestimento para sua área molhada que surpreenda pelo formato. Que tal usar pastilhas ou mosaicos sextavados? Já tinha visto? Quem procura acha, e no Brasil mesmo, _hein_? Se você gostou da ideia, o que está esperando para encontrar seu revestimento, com esse formato, e na cor ideal? Inspire-se!
+  Como? Escolha um tipo de revestimento para sua área molhada que surpreenda pelo formato. Que tal usar pastilhas ou mosaicos sextavados? Já tinha visto? Quem procura acha, e no Brasil mesmo, <em>hein</em>? Se você gostou da ideia, o que está esperando para encontrar seu revestimento, com esse formato, e na cor ideal? Inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

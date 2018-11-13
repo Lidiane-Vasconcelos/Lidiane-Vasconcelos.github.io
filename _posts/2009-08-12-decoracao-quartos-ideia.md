@@ -1,8 +1,8 @@
 ---
-
+id: 2696
 title: '“Pitacos” de Bicha Fêmea: decoração de quartos.'
-
-author: Lidiane
+date: 2009-08-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/08/12/decoracao-quartos-ideia/
 permalink: /2009/08/12/decoracao-quartos-ideia/
@@ -12,11 +12,11 @@ categories:
 O Bicha é lugar de _trololó_, não é? Será que vai se transformar num _point_ virtual de _pitacos_ também? Explico: a Bianca, leitora do Bicha, pediu sugestões para o quarto dela nos comentários [deste post](http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/), em que vemos algumas dicas para dar um “ar” feminino ao quarto. No pedido de sugestões, ela chamou atenção para o desejo de que o quarto fique organizado e bonito, e também com cara de jovem. E salienta que o quarto tem pouco espaço.
 
 <p style="text-align: justify;">
-  Como nós já ensaiamos antes uma boa sessão de _pitacos_ para a cozinha da Rose <a href="http://www.trololodemulher.com.br/2009/07/23/pitacos-de-bicha-fmea-revestimentos-de-cozinha/">por aqui</a>, achei que também poderíamos dar nossas sugestões para a Bianca. Cheguei a enviar um e-mail para a bonita avisando que prepararia o post, mas não obtive resposta. Será que perdi a leitora? Pode até ser, mas a ideia para o post e as dicas? Isso não!<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonthumbsdown2.gif"><img style="display: inline;" title="EmoticonThumbsDown" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonthumbsdown_thumb2.gif" alt="EmoticonThumbsDown" width="23" height="18" /></a>
+  Como nós já ensaiamos antes uma boa sessão de <em>pitacos</em> para a cozinha da Rose <a href="http://www.trololodemulher.com.br/2009/07/23/pitacos-de-bicha-fmea-revestimentos-de-cozinha/">por aqui</a>, achei que também poderíamos dar nossas sugestões para a Bianca. Cheguei a enviar um e-mail para a bonita avisando que prepararia o post, mas não obtive resposta. Será que perdi a leitora? Pode até ser, mas a ideia para o post e as dicas? Isso não!<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonthumbsdown2.gif"><img style="display: inline;" title="EmoticonThumbsDown" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonthumbsdown_thumb2.gif" alt="EmoticonThumbsDown" width="23" height="18" /></a>
 </p>
 
 <p style="text-align: justify;">
-  Lendo a mensagem da Bianca logo pensei em cores, e lá fui eu atrás de inspirações, _néam_?! Portanto, o que segue abaixo são imagens de ambientes muito bonitos com cores que deixam tudo com um “Q” de especial. Também alguns detalhes decorativos chamaram a minha atenção quando via essas imagens, então vou dando meus _pitacos_ em cada uma delas…
+  Lendo a mensagem da Bianca logo pensei em cores, e lá fui eu atrás de inspirações, <em>néam</em>?! Portanto, o que segue abaixo são imagens de ambientes muito bonitos com cores que deixam tudo com um “Q” de especial. Também alguns detalhes decorativos chamaram a minha atenção quando via essas imagens, então vou dando meus <em>pitacos</em> em cada uma delas…
 </p>
 
 <p style="text-align: center;">
@@ -32,14 +32,14 @@ O Bicha é lugar de _trololó_, não é? Será que vai se transformar num _point
 </p>
 
 <p style="text-align: justify;">
-  Atenção para o detalhe na parede. Não é bonita e fácil de reproduzir essas prateleiras na diagonal para enfeitar a parede com charme? Outra alternativa muito charmosa é a composição de pequenos quadros, que também poderiam ser dispostos em diagonal. Como sugestão, há vários quadros que podem cumprir essa função no **_Mercado de Artes_**, a loja virtual do blog Bicha Fêmea, a exemplo do quadro abaixo:
+  Atenção para o detalhe na parede. Não é bonita e fácil de reproduzir essas prateleiras na diagonal para enfeitar a parede com charme? Outra alternativa muito charmosa é a composição de pequenos quadros, que também poderiam ser dispostos em diagonal. Como sugestão, há vários quadros que podem cumprir essa função no <strong><em>Mercado de Artes</em></strong>, a loja virtual do blog Bicha Fêmea, a exemplo do quadro abaixo:
 </p>
 
 <p style="text-align: center;">
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Cenario-Bolsinha.jpg"><img class="size-medium wp-image-5218 aligncenter" title="Quadro Cenário Bolsinha" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Quadro-Cenario-Bolsinha-300x200.jpg" alt="" width="300" height="200" /></a>
 </p>
 
-Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu cantinho, _hã?! Para ver mais detalhes sobre esse quadro,_ [**_basta clicar aqui_**](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/) _._
+Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginando? Talvez seja esse o detalhe que está faltando no seu cantinho, _hã?! Para ver mais detalhes sobre esse quadro,_ <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/" target="_blank"><strong><em>basta clicar aqui</em></strong></a>_._
 
 <p style="text-align: center;">
   <img class="aligncenter" title="HGTV.com" src="http://img.hgtv.com/HGTV/2007/05/14/colorbedroom_Pinkbedroom_lg.jpg" alt="HGTV.com" />
@@ -50,7 +50,7 @@ Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginan
 </p>
 
 <p style="text-align: justify;">
-  Atente para as mesas de cabeceira. Se couber ao menos uma nesse estilo no quarto, não parece interessante colocar um baú sob o móvel? Que tal? Fica bonito e ganha-se espaço para guardar algumas _baguncinhas_ que teimam em tirar o _glamour_ do espaço de dormir, hã? Se seu estilo for menos clássico, você pode trocar o baú por uma caixa grande e decorativa, o que cumpre a mesma função. Quer uma sugestão? Que tal uma Caixa Chita?
+  Atente para as mesas de cabeceira. Se couber ao menos uma nesse estilo no quarto, não parece interessante colocar um baú sob o móvel? Que tal? Fica bonito e ganha-se espaço para guardar algumas <em>baguncinhas</em> que teimam em tirar o <em>glamour</em> do espaço de dormir, hã? Se seu estilo for menos clássico, você pode trocar o baú por uma caixa grande e decorativa, o que cumpre a mesma função. Quer uma sugestão? Que tal uma Caixa Chita?
 </p>
 
 <p style="text-align: center;">
@@ -58,7 +58,7 @@ Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginan
 </p>
 
 <p style="text-align: justify;">
-  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do quarto ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Esta caixa está a venda no **_Mercado de Artes_**, a loja virtual do Bicha Fêmea. Para saber maiores detalhes sobre ela, basta **_[clicar aqui](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/) _**.
+  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do quarto ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Esta caixa está a venda no <strong><em>Mercado de Artes</em></strong>, a loja virtual do Bicha Fêmea. Para saber maiores detalhes sobre ela, basta <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank">clicar aqui</a></em></strong>.
 </p>
 
 <p style="text-align: center;">
@@ -79,25 +79,25 @@ Onde cabe, em seu quarto, um quadro TO-TAL-MEN-TE feminino assim? Está imaginan
 
 E resta, então, a dúvida se a Bianca verá esse post…[<img style="display: inline;" title="EmoticonConfused" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonconfused_thumb.gif" alt="EmoticonConfused" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonconfused.gif)
 
-Imagens: [HGTV.com](http://www.hgtv.com/) 
+Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV.com</a>
 
 <p style="text-align: center;">
-  **_Sugestões de Decoração & Organização para seu quarto_**
+  <strong><em>Sugestões de Decoração & Organização para seu quarto</em></strong>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="300" valign="top">
       <div style="text-align: center;">
-        _**[Aparador de Porta Scarpin](http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/) **_
+        <em><strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/" target="_blank">Aparador de Porta Scarpin</a></strong></em>
       </div>
       
       <div>
-        __
+        <em></em>
       </div>
       
       <p>
-        _</p> 
+        <em></p> 
         
         <p style="text-align: justify;">
           Porta batendo a toa no quarto, por causa do vento, e dando susto? Por favor! Alguém merece? Agora imagina se isso pudesse ser evitado com muito estilo? Hein?!
@@ -112,11 +112,11 @@ Imagens: [HGTV.com](http://www.hgtv.com/)
         </p>
         
         <p>
-          _
+          </em>
         </p>
         
         <p style="text-align: justify;">
-          _O aparador está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!_
+          <em>O aparador está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
         </p></td> 
         
         <td width="300" valign="top">
@@ -150,40 +150,40 @@ Imagens: [HGTV.com](http://www.hgtv.com/)
                   
                   <td width="300" valign="top">
                     <p style="text-align: center;">
-                      **_[Móbile Primavera](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/) _**
+                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">Móbile Primavera</a></em></strong>
                     </p>
                     
                     <div style="text-align: justify;">
-                      _Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com um toque floral e muito… muito romântico? Fofurice pouca é bobagem! Use a imaginação e encha o quarto de mimos!_
+                      <em>Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com um toque floral e muito… muito romântico? Fofurice pouca é bobagem! Use a imaginação e encha o quarto de mimos!</em>
                     </div>
                     
                     <div>
-                      _ _
+                      <em> </em>
                     </div>
                     
                     <p>
-                      _ </p> 
+                      <em> </p> 
                       
                       <p>
-                        _
+                        </em>
                       </p>
                       
                       <p style="text-align: justify;">
-                        _O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!_
+                        <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
                       </p></td> </tr> 
                       
                       <tr>
                         <td width="300" valign="top">
                           <p style="text-align: center;">
-                            **_[Móbile Gatinho Vermelho](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/) _**
+                            <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank">Móbile Gatinho Vermelho</a></em></strong>
                           </p>
                           
                           <p style="text-align: justify;">
-                            _Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com um gatinho vermelho? Use a imaginação e encha o quarto de mimos!_
+                            <em>Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com um gatinho vermelho? Use a imaginação e encha o quarto de mimos!</em>
                           </p>
                           
                           <p style="text-align: justify;">
-                            _O móbile está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!_
+                            <em>O móbile está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
                           </p>
                         </td>
                         
@@ -218,30 +218,30 @@ Imagens: [HGTV.com](http://www.hgtv.com/)
                                   
                                   <td width="300" valign="top">
                                     <p style="text-align: center;">
-                                      **_[Quadro Cenário Safári](http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/) _**
+                                      <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/quadro-cenario-safari/" target="_blank">Quadro Cenário Safári</a></em></strong>
                                     </p>
                                     
                                     <p style="text-align: justify;">
-                                      _Use a imaginação, e criatividade, e enfeite seu canto mais feminino com esse quadro cenário bem sugestivo…_
+                                      <em>Use a imaginação, e criatividade, e enfeite seu canto mais feminino com esse quadro cenário bem sugestivo…</em>
                                     </p>
                                     
                                     <p style="text-align: justify;">
-                                      _O quadro está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!_
+                                      <em>O quadro está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
                                     </p>
                                   </td></tr> 
                                   
                                   <tr>
                                     <td width="300" valign="top">
                                       <p style="text-align: center;">
-                                        **_[Porta Jóia Bolsinha](http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/) _**
+                                        <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank">Porta Jóia Bolsinha</a></em></strong>
                                       </p>
                                       
                                       <p style="text-align: justify;">
-                                        _Para quem gosta de peças artesanais ricas em detalhes, e daqueles bem femininos, essa peça é ideal. Trata-se de um porta jóia com gaveta na parte de baixo e divisórias na parte de cima. A tampa é com vidro, e os detalhes com renda deixam tudo feminino, como toda mulher gosta de ser._
+                                        <em>Para quem gosta de peças artesanais ricas em detalhes, e daqueles bem femininos, essa peça é ideal. Trata-se de um porta jóia com gaveta na parte de baixo e divisórias na parte de cima. A tampa é com vidro, e os detalhes com renda deixam tudo feminino, como toda mulher gosta de ser.</em>
                                       </p>
                                       
                                       <p style="text-align: justify;">
-                                        _O porta jóias está a venda no **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>> **<a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>**!_
+                                        <em>O porta jóias está a venda no <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a></strong>!</em>
                                       </p>
                                     </td>
                                     
@@ -260,37 +260,37 @@ Imagens: [HGTV.com](http://www.hgtv.com/)
                                         </a></td> </tr> </tbody> </table> 
                                         
                                         <p>
-                                          **Mais no Bicha Fêmea&#8230;**
+                                          <strong>Mais no Bicha Fêmea&#8230;</strong>
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/" target="_self">**_Dicas e Detalhes na Decoração do Quarto_**</a>
+                                          <a href="http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/" target="_self"><strong><em>Dicas e Detalhes na Decoração do Quarto</em></strong></a>
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self">**_Dicas de decoração para a parede do quarto, sala e banheiro._**</a>
+                                          <a href="http://www.trololodemulher.com.br/2009/07/13/alternativas-que-podem-transformar-sua-parede/" target="_self"><strong><em>Dicas de decoração para a parede do quarto, sala e banheiro.</em></strong></a>
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/">**_Cabeceiras de cama para inspiração…_**</a>
+                                          <a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/"><strong><em>Cabeceiras de cama para inspiração…</em></strong></a>
                                         </p>
                                         
                                         <p>
-                                          <a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/">**_Ideias essencialmente femininas para a decoração do nosso quarto…_**</a>
+                                          <a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/"><strong><em>Ideias essencialmente femininas para a decoração do nosso quarto…</em></strong></a>
                                         </p>
                                         
                                         <p>
-                                          **_<a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/" target="_self">Dicas de decoração em quarto de casal.</a>_**
+                                          <strong><em><a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-casal/" target="_self">Dicas de decoração em quarto de casal.</a></em></strong>
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          **Gostou desse post? Receba atualizações do Bicha Fêmea por [**e-mail** ](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) ou **[**feed**](http://feeds2.feedburner.com/blogbichafemea) ** ****.**
+                                          <strong>Gostou desse post? Receba atualizações do Bicha Fêmea por <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><strong>e-mail</strong> </a>ou </strong><a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank"><strong>feed</strong></a><strong> </strong><strong>.</strong>
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          **Siga o Bicha Fêmea no Twitter &#8211; [@bichafemea](http://twitter.com/bichafemea) .**
+                                          <strong>Siga o Bicha Fêmea no Twitter &#8211; <a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a>.</strong>
                                         </p>
                                         
                                         <p style="text-align: center;">
-                                          **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _[_basta clicar_](http://www.trololodemulher.com.br/loja/) _!_**
+                                          <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
                                         </p>

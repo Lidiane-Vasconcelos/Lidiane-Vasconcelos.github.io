@@ -1,8 +1,8 @@
 ---
-
+id: 3753
 title: Bolo de alecrim… e a delícia de experimentar o novo!
-
-author: Lidiane
+date: 2017-04-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/04/18/bolo-de-alecrim/
 permalink: /2017/04/18/bolo-de-alecrim/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Tânia Telva, a bonita que colabora aqui no Trololó de Mulher com receitas incríveis, é daquelas mulheres criativas que me inspiram! Talentosa que só ela, trouxe essa novidade pra compartilhar conosco: uma receita de **bolo de alecrim** inusitada e instigante, daquelas que deixam a gente vivendo de vontade pra correr atrás dos ingredientes, reproduzir e experimentar… e olha só que fácil:
+  Tânia Telva, a bonita que colabora aqui no Trololó de Mulher com receitas incríveis, é daquelas mulheres criativas que me inspiram! Talentosa que só ela, trouxe essa novidade pra compartilhar conosco: uma receita de <strong>bolo de alecrim</strong> inusitada e instigante, daquelas que deixam a gente vivendo de vontade pra correr atrás dos ingredientes, reproduzir e experimentar… e olha só que fácil:
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@ categories:
 </p>
 
 <p align="justify">
-  “_Desde que eu comecei _[_meu blog_](https://iwanttobeacook.wordpress.com/) _ meu livro de cabeceira tem sido de receitas. Talvez no momento eu esteja um pouco obcecada por comida, e a boa notícia é que, como conseqüência disso, eu tenho sido capaz de compartilhar algumas receitas interessantes com você. Em todo o caso, isso não importa tanto quanto o que eu realmente gostaria de falar com vocês: um livro que eu acabei de ler, cujo foco era comida e chefs criativos._
+  “<em>Desde que eu comecei </em><a href="https://iwanttobeacook.wordpress.com/" target="_blank"><em>meu blog</em></a><em> meu livro de cabeceira tem sido de receitas. Talvez no momento eu esteja um pouco obcecada por comida, e a boa notícia é que, como conseqüência disso, eu tenho sido capaz de compartilhar algumas receitas interessantes com você. Em todo o caso, isso não importa tanto quanto o que eu realmente gostaria de falar com vocês: um livro que eu acabei de ler, cujo foco era comida e chefs criativos.</em>
 </p>
 
 <p align="justify">
-  _Através de tal livro acabei de descobrir a originalidade de Heston Blumenthal, que serviu no seu restaurante sorvete de ovo e bacon, e sorbet de sardinha, e a criatividade de Ferran Adrià, e o seu sorbet de caipirinha._
+  <em>Através de tal livro acabei de descobrir a originalidade de Heston Blumenthal, que serviu no seu restaurante sorvete de ovo e bacon, e sorbet de sardinha, e a criatividade de Ferran Adrià, e o seu sorbet de caipirinha.</em>
 </p>
 
 <p align="justify">
-  _Eu gostaria de ser tão criativa quanto eles, mas não sou, pelo menos não ainda. Apesar disso, eu decidi encontrar e preparar uma receita “nova e original”, e enquanto eu estava procurando por ela, descobri essa receita de bolo de Alecrim da Nigela Lawson. E é a partir dessa receita que vem a minha inspiração para a sugestão de hoje._
+  <em>Eu gostaria de ser tão criativa quanto eles, mas não sou, pelo menos não ainda. Apesar disso, eu decidi encontrar e preparar uma receita “nova e original”, e enquanto eu estava procurando por ela, descobri essa receita de bolo de Alecrim da Nigela Lawson. E é a partir dessa receita que vem a minha inspiração para a sugestão de hoje.</em>
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  _Você pode estar pensando que isso não é tão criativo como um sorbet de sardinha, mas vamos ser honestas, este pode ser o início de algumas novas experiências, e não é tão comum o uso de alecrim em doces. Você não acha?_
+  <em>Você pode estar pensando que isso não é tão criativo como um sorbet de sardinha, mas vamos ser honestas, este pode ser o início de algumas novas experiências, e não é tão comum o uso de alecrim em doces. Você não acha?</em>
 </p>
 
 &nbsp;
@@ -79,22 +79,22 @@ _6- Asse em  forno pré-aquecido por cerca de 40 minutos, ou até espetar um pa
 
 **Mais receitas de Tânia:**
 
-[**Suco de beterraba, cenoura e laranja… e sabedoria de vó.**](http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/) 
+<a href="http://www.trololodemulher.com.br/2017/04/11/suco-de-beterraba/" target="_blank"><strong>Suco de beterraba, cenoura e laranja… e sabedoria de vó.</strong></a>
 
-[**Patê de fígado de frango.**](http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/) 
+<a href="http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/" target="_blank"><strong>Patê de fígado de frango.</strong></a>
 
-[**Pera assada: perfeita como entrada, ou sobremesa.**](http://www.trololodemulher.com.br/2017/03/21/pera-assada/) 
+<a href="http://www.trololodemulher.com.br/2017/03/21/pera-assada/" target="_blank"><strong>Pera assada: perfeita como entrada, ou sobremesa.</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… [clique aqui e siga!](https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

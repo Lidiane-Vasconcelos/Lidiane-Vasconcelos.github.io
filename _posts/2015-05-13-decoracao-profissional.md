@@ -1,8 +1,8 @@
 ---
-
+id: 3420
 title: Decore como se você fosse uma profissional!
-
-author: Lidiane
+date: 2015-05-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/05/13/decoracao-profissional/
 permalink: /2015/05/13/decoracao-profissional/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Sabe quando dá aquele _siricotico decorístico_ e você quer mudar _tu-do_ em casa? Daí vem aquela dúvida: será que consigo? Esse questionamento é recorrente porque a vontade de mudar é muita, mas a certeza do que e como fazer isso é pouca… e na dúvida, a gente não sai do canto e fica a frustração do desejo não realizado. Não é assim?
+  Sabe quando dá aquele <em>siricotico decorístico</em> e você quer mudar <em>tu-do</em> em casa? Daí vem aquela dúvida: será que consigo? Esse questionamento é recorrente porque a vontade de mudar é muita, mas a certeza do que e como fazer isso é pouca… e na dúvida, a gente não sai do canto e fica a frustração do desejo não realizado. Não é assim?
 </p>
 
 <p align="justify">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Nesting Place](http://www.thenester.com/) 
+  Imagem: <a href="http://www.thenester.com/" target="_blank">Nesting Place</a>
 </p>
 
 <p align="center">
@@ -34,19 +34,19 @@ categories:
 </p>
 
 <p align="justify">
-  [**Dicas para decoração da área de entrada.**](http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/) 
+  <a href="http://www.trololodemulher.com.br/2009/02/16/area-de-entrada/" target="_blank"><strong>Dicas para decoração da área de entrada.</strong></a>
 </p>
 
 <p align="justify">
-  [**Ideia para organização de objetos na área de entrada da casa.**](http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/) 
+  <a href="http://www.trololodemulher.com.br/2009/01/17/organizacao-area-entrada/" target="_blank"><strong>Ideia para organização de objetos na área de entrada da casa.</strong></a>
 </p>
 
 <p align="justify">
-  [**Área de entrada da casa: organização desde o início.**](http://www.decoracaodacasa.com/area-de-entrada-da-casa/) 
+  <a href="http://www.decoracaodacasa.com/area-de-entrada-da-casa/" target="_blank"><strong>Área de entrada da casa: organização desde o início.</strong></a>
 </p>
 
 <p align="justify">
-  [**Quer reformar uma cômoda e criar uma área de entrada na sua casa?**](http://www.decoracaodacasa.com/comoda-hall-de-entrada/) 
+  <a href="http://www.decoracaodacasa.com/comoda-hall-de-entrada/" target="_blank"><strong>Quer reformar uma cômoda e criar uma área de entrada na sua casa?</strong></a>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="justify">
-  Se sua cozinha tem poucas medidas, saiba que isso é o que há de mais comum hoje em dia. Cada centímetro conta e para deixá-la bonita e bem decorada é imprescindível que não haja bagunça por lá. Por isso, deixe á mostra somente o que é bonito e essencial. Use e abuse de organizadores de parede para te ajudar na organização do espaço e, se você ainda desconfia da eficiência dessa dica, deixa eu te mostrar [**5 razões para ter um suporte de organização da parede da cozinha**](http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/) , combinado?
+  Se sua cozinha tem poucas medidas, saiba que isso é o que há de mais comum hoje em dia. Cada centímetro conta e para deixá-la bonita e bem decorada é imprescindível que não haja bagunça por lá. Por isso, deixe á mostra somente o que é bonito e essencial. Use e abuse de organizadores de parede para te ajudar na organização do espaço e, se você ainda desconfia da eficiência dessa dica, deixa eu te mostrar <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank"><strong>5 razões para ter um suporte de organização da parede da cozinha</strong></a>, combinado?
 </p>
 
 <p align="justify">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  [**Cozinha inteligente, prática e funcional: dicas profissionais.**](http://www.decoracaodacasa.com/cozinha-decoracao-dicas/) 
+  <a href="http://www.decoracaodacasa.com/cozinha-decoracao-dicas/" target="_blank"><strong>Cozinha inteligente, prática e funcional: dicas profissionais.</strong></a>
 </p>
 
 <p align="justify">
-  [**Decoração da cozinha: 7 profissionais dizem o que é top.**](http://www.decoracaodacasa.com/decoracao-da-cozinha-2/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-da-cozinha-2/" target="_blank"><strong>Decoração da cozinha: 7 profissionais dizem o que é top.</strong></a>
 </p>
 
 <p align="center">
@@ -74,15 +74,15 @@ categories:
 </p>
 
 <p align="justify">
-  Se tem um item numa sala que dá uma _bossa_ de ambiente bem decorado, essa peça é a mesa de centro. Entretanto, de nada adianta se ela estiver sem charme ou, o que seria pior, totalmente desorganizada. Você tem uma que te pede socorro nesse momento? Quer comprar uma e não sabe nem por onde começar para escolhê-la? Atenção para as dicas a seguir… e se joga:
+  Se tem um item numa sala que dá uma <em>bossa</em> de ambiente bem decorado, essa peça é a mesa de centro. Entretanto, de nada adianta se ela estiver sem charme ou, o que seria pior, totalmente desorganizada. Você tem uma que te pede socorro nesse momento? Quer comprar uma e não sabe nem por onde começar para escolhê-la? Atenção para as dicas a seguir… e se joga:
 </p>
 
 <p align="justify">
-  [**Como decorar a mesa de centro de sala?**](http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/) 
+  <a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_blank"><strong>Como decorar a mesa de centro de sala?</strong></a>
 </p>
 
 <p align="justify">
-  [**Mesa de centro da sala de estar: compre sem erro!**](http://www.decoracaodacasa.com/mesa-centro-sala-estar/) 
+  <a href="http://www.decoracaodacasa.com/mesa-centro-sala-estar/" target="_blank"><strong>Mesa de centro da sala de estar: compre sem erro!</strong></a>
 </p>
 
 <p align="center">
@@ -94,31 +94,31 @@ categories:
 </p>
 
 <p align="justify">
-  [**Decoração de banheiro para ganhar/poupar espaço: 4 dicas.**](http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/) 
+  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro para ganhar/poupar espaço: 4 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  [**4 ideias para decoração de banheiro pequeno.**](http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/) 
+  <a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
 </p>
 
 <p align="justify">
-  [**Banheiro pequeno? Veja 6 ideias e ganhe espaço já!**](http://www.decoracaodacasa.com/banheiro-pequeno/) 
+  <a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank"><strong>Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</strong></a>
 </p>
 
 <p align="justify">
-  [**Banheiro: dicas simples de decoração que custam quase nada!**](http://www.decoracaodacasa.com/banheiro-de-decoracao/) 
+  <a href="http://www.decoracaodacasa.com/banheiro-de-decoracao/" target="_blank"><strong>Banheiro: dicas simples de decoração que custam quase nada!</strong></a>
 </p>
 
 <p align="justify">
-  [**Banheiro: 4 ideias baratas e simples para deixá-lo mais bonito.**](http://www.decoracaodacasa.com/banheiro-decoracao/) 
+  <a href="http://www.decoracaodacasa.com/banheiro-decoracao/" target="_blank"><strong>Banheiro: 4 ideias baratas e simples para deixá-lo mais bonito.</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 <p align="justify">

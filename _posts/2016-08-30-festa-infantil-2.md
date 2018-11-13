@@ -1,8 +1,8 @@
 ---
-
+id: 3654
 title: Por menos festa infantil espetáculo, e mais festa afetiva.
-
-author: Lidiane
+date: 2016-08-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/08/30/festa-infantil-2/
 permalink: /2016/08/30/festa-infantil-2/
@@ -11,15 +11,15 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  **Festa infantil** em bufê da moda… e bem caro! Quem nunca foi a um evento assim? O ambiente a gente conhece: brinquedos com luzes piscando e emitindo sons os mais diversos, e as crianças enlouquecidas correndo de um lado para o outro. De repente, uma parada: a criança aniversariante entra na festa. Mas agora ela usa uma roupa diferente da que estava logo no início do evento, quando recebeu 3 dígitos de convidados. Será que aquele pingo de gente conhece mesmo tantas pessoas assim? A comemoração segue. Os presentes ainda nem foram abertos, repousam num lugar reservado para eles. Isso fica pra depois! Foi-se o tempo da alegria de abrir o mimo, e agradecer pessoalmente a gentileza do amiguinho ou do primo com um abraço. Isso tornou-se desnecessário.
+  <strong>Festa infantil</strong> em bufê da moda… e bem caro! Quem nunca foi a um evento assim? O ambiente a gente conhece: brinquedos com luzes piscando e emitindo sons os mais diversos, e as crianças enlouquecidas correndo de um lado para o outro. De repente, uma parada: a criança aniversariante entra na festa. Mas agora ela usa uma roupa diferente da que estava logo no início do evento, quando recebeu 3 dígitos de convidados. Será que aquele pingo de gente conhece mesmo tantas pessoas assim? A comemoração segue. Os presentes ainda nem foram abertos, repousam num lugar reservado para eles. Isso fica pra depois! Foi-se o tempo da alegria de abrir o mimo, e agradecer pessoalmente a gentileza do amiguinho ou do primo com um abraço. Isso tornou-se desnecessário.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  **[6 convites de aniversário infantil: faça você mesma.](http://www.trololodemulher.com.br/2016/09/21/convites-de-aniversario-infantil/) **
+  <strong><a href="http://www.trololodemulher.com.br/2016/09/21/convites-de-aniversario-infantil/" target="_blank">6 convites de aniversário infantil: faça você mesma.</a></strong>
 </p>
 
 <p align="justify">
@@ -27,15 +27,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  **[9 ideias de sacolas de festa infantil: faça você mesma.](http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/) **
+  <strong><a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil: faça você mesma.</a></strong>
 </p>
 
 <p align="justify">
-  **[Sacolinha de festa infantil: faça você mesma.](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) **
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a></strong>
 </p>
 
 <p align="justify">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [luiginter](https://www.flickr.com/photos/luiginter/61932888/)  via [Foter.com](http://foter.com/)  / [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/2.0/) 
+  Imagem: <a href="https://www.flickr.com/photos/luiginter/61932888/" target="_blank">luiginter</a> via <a href="http://foter.com/" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">CC BY-NC-SA</a>
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="justify">
-  É claro que cada família é livre para fazer a comemoração do aniversário da cria como bem entender, e fazer o investimento que puder e quiser. Se isso é significativo para elas, assim mesmo como vemos hoje em dia, que seja. E nem se trata de eu ter me sentido desconfortável por ter estado em um evento assim. Absolutamente! Não é essa a questão. O que desejo colocar como reflexão é se isso tudo realmente traduz a essência dessas famílias. O que há de verdade nisso tudo? O que resta, em termos de sentimento, desses _superultramega_ eventos? O quanto isso tem sido saudável para todos? O que vamos ensinar às crianças com todo esse movimento eufórico e consumista em torno das festas infantis? Quero refletir com você, apenas…
+  É claro que cada família é livre para fazer a comemoração do aniversário da cria como bem entender, e fazer o investimento que puder e quiser. Se isso é significativo para elas, assim mesmo como vemos hoje em dia, que seja. E nem se trata de eu ter me sentido desconfortável por ter estado em um evento assim. Absolutamente! Não é essa a questão. O que desejo colocar como reflexão é se isso tudo realmente traduz a essência dessas famílias. O que há de verdade nisso tudo? O que resta, em termos de sentimento, desses <em>superultramega</em> eventos? O quanto isso tem sido saudável para todos? O que vamos ensinar às crianças com todo esse movimento eufórico e consumista em torno das festas infantis? Quero refletir com você, apenas…
 </p>
 
 <p align="justify">
@@ -67,19 +67,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  **[6 mesas de festa infantil caseira para inspirar.](http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/) **
+  <strong><a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank">6 mesas de festa infantil caseira para inspirar.</a></strong>
 </p>
 
 <p align="justify">
-  **[Festa do capitão américa caseira: 4 anos de João.](http://www.trololodemulher.com.br/2017/03/15/festa-do-capitao-america/) **
+  <strong><a href="http://www.trololodemulher.com.br/2017/03/15/festa-do-capitao-america/" target="_blank">Festa do capitão américa caseira: 4 anos de João.</a></strong>
 </p>
 
 <p align="justify">
-  **[Festa de menina sem personagens: 9 ideias.](http://www.trololodemulher.com.br/2016/11/16/festa-de-menina/) **
+  <strong><a href="http://www.trololodemulher.com.br/2016/11/16/festa-de-menina/" target="_blank">Festa de menina sem personagens: 9 ideias.</a></strong>
 </p>
 
 <p align="justify">
@@ -87,9 +87,9 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
+  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

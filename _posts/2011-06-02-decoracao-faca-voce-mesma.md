@@ -1,8 +1,8 @@
 ---
-
+id: 3004
 title: 'História de um móvel: guarda-roupas virou sapateira…'
-
-author: Lidiane
+date: 2011-06-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/06/02/decoracao-faca-voce-mesma/
 permalink: /2011/06/02/decoracao-faca-voce-mesma/
@@ -13,7 +13,7 @@ categories:
 Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe que a **Maria Araújo,** que é de **Portugal,** pensou assim, e enxergou uma **sapateira** quando viu seu **guarda-roupas** velho? Pois é… a natureza agradece, o bolso mais ainda, e certamente você também. Afinal, pode estar neste post a inspiração que você precisava para efetuar uma mudança em casa.
 
 <p style="text-align: justify;">
-  A Maria me enviou um e-mail para contar a história desse móvel, e isso me deixou muito feliz, porque sua disponibilidade em dividir essa dica só enriquece nosso conteúdo, deixando-o ainda mais inspirador. Você duvida da beleza do resultado final dessa **reutilização de móvel**? Confere!
+  A Maria me enviou um e-mail para contar a história desse móvel, e isso me deixou muito feliz, porque sua disponibilidade em dividir essa dica só enriquece nosso conteúdo, deixando-o ainda mais inspirador. Você duvida da beleza do resultado final dessa <strong>reutilização de móvel</strong>? Confere!
 </p>
 
 <p style="text-align: justify;">
@@ -21,19 +21,19 @@ Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe q
 </p>
 
 > <p style="text-align: justify;">
->   “_Olá. Espreito seu blog todos os dias, hoje gostei do **post sobre ideias para a decoração do quarto**. Adorei a **cadeira a fazer de mesa de cabeceira**. Tiro muitas ideias aqui para casa.”_
+>   “<em>Olá. Espreito seu blog todos os dias, hoje gostei do <strong>post sobre ideias para a decoração do quarto</strong>. Adorei a <strong>cadeira a fazer de mesa de cabeceira</strong>. Tiro muitas ideias aqui para casa.”</em>
 > </p>
 
 <p style="text-align: justify;">
-  Se você não sabe a que post a Maria se referiu, precisa conferir as **<a href="http://www.trololodemulher.com.br/2011/05/25/ideias-decoracao-quarto-2/">6 ideias de decoração para mudar o seu quarto</a>**. Uma delas é a cadeira que pode virar uma mesa de cabeceira. Olha ela aqui embaixo:
+  Se você não sabe a que post a Maria se referiu, precisa conferir as <strong><a href="http://www.trololodemulher.com.br/2011/05/25/ideias-decoracao-quarto-2/">6 ideias de decoração para mudar o seu quarto</a></strong>. Uma delas é a cadeira que pode virar uma mesa de cabeceira. Olha ela aqui embaixo:
 </p>
 
 <p style="text-align: center;">
-  [CountryLiving](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg"><img class="alignnone size-full wp-image-6440" title="decoração de quarto[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg" alt="" width="500" height="575" /></a><br /> **<a href="http://www.countryliving.com/) **
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg"><img class="alignnone size-full wp-image-6440" title="decoração de quarto[5]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/decoracao-de-quarto5.jpg" alt="" width="500" height="575" /></a><br /> <strong><a href="http://www.countryliving.com/" target="_blank">CountryLiving</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  Vendo **ideias** assim, a Maria costuma pensar na **aplicabilidade delas na vida real**. **Como você costuma enxergar as imagens em blogs de Decoração que frequenta?** Pense nisso…
+  Vendo <strong>ideias</strong> assim, a Maria costuma pensar na <strong>aplicabilidade delas na vida real</strong>. <strong>Como você costuma enxergar as imagens em blogs de Decoração que frequenta?</strong> Pense nisso…
 </p>
 
 <p style="text-align: justify;">
@@ -41,19 +41,19 @@ Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe q
 </p>
 
 > <p style="text-align: justify;">
->   “_Com tempo e sem stress, comecei nos 3 dias de férias de Carnavel a lixar, à mão, um **movél todo em castanho**. **Tinha duas portas**. Era um **armário para guardar roupas de casa**. Há 2 anos mandei fazer um armário grande, e **aproveitei este para os sapatos**. Só que estava cansada da cor. O armário deve ter 30 anos_.”
+>   “<em>Com tempo e sem stress, comecei nos 3 dias de férias de Carnavel a lixar, à mão, um <strong>movél todo em castanho</strong>. <strong>Tinha duas portas</strong>. Era um <strong>armário para guardar roupas de casa</strong>. Há 2 anos mandei fazer um armário grande, e <strong>aproveitei este para os sapatos</strong>. Só que estava cansada da cor. O armário deve ter 30 anos</em>.”
 > </p>
 
 <p style="text-align: justify;">
-  Esse tipo de situação é familiar para você? **Móvel antigo sem uso + sentimento de cansaço visual ao olhar para ele + vontade recorrente de mudança?**
+  Esse tipo de situação é familiar para você? <strong>Móvel antigo sem uso + sentimento de cansaço visual ao olhar para ele + vontade recorrente de mudança?</strong>
 </p>
 
 <p style="text-align: justify;">
-  Pois é, a Maria **começou a lixar** o armário, disposta a uma revolução…e foi o que ela conseguiu…
+  Pois é, a Maria <strong>começou a lixar</strong> o armário, disposta a uma revolução…e foi o que ela conseguiu…
 </p>
 
 > <p style="text-align: justify;">
->   “_Depois, **passei o primário e fui para a tinta definitiva. Azul SPA**. Mas teve de levar 3 demãos. Deu-me imenso trabalho, fi-lo sozinha. Acabei-o na semana passada_.”
+>   “<em>Depois, <strong>passei o primário e fui para a tinta definitiva. Azul SPA</strong>. Mas teve de levar 3 demãos. Deu-me imenso trabalho, fi-lo sozinha. Acabei-o na semana passada</em>.”
 > </p>
 
 <p style="text-align: center;">
@@ -61,11 +61,11 @@ Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe q
 </p>
 
 <p style="text-align: justify;">
-  Viu que lindo o resultado final?! Maria publicou o armário em seu blog também, o “**[Cantinho da Casa](http://cantinhodacasa.blogs.sapo.pt/) **”. Foi lá que ela também mostrou a **penteadeira** que reformou, **[neste post](http://cantinhodacasa.blogs.sapo.pt/301861.html) **. Ainda sobre o armário, ela falou que o **fundo foi feito com papel de parede**.
+  Viu que lindo o resultado final?! Maria publicou o armário em seu blog também, o “<strong><a href="http://cantinhodacasa.blogs.sapo.pt/" target="_blank">Cantinho da Casa</a></strong>”. Foi lá que ela também mostrou a <strong>penteadeira</strong> que reformou, <strong><a href="http://cantinhodacasa.blogs.sapo.pt/301861.html" target="_blank">neste post</a></strong>. Ainda sobre o armário, ela falou que o <strong>fundo foi feito com papel de parede</strong>.
 </p>
 
 <p style="text-align: justify;">
-  Olha aí mais um uso interessante para restos desse material que você possa ter em casa! Falo “mais um uso” porque já foi editado um post por aqui sobre **<a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/">4 dicas de decoração com as sobras do papel de parede</a>**, lembra? Se não lembra, confere!
+  Olha aí mais um uso interessante para restos desse material que você possa ter em casa! Falo “mais um uso” porque já foi editado um post por aqui sobre <strong><a href="http://www.trololodemulher.com.br/2010/10/15/papel-de-parede/">4 dicas de decoração com as sobras do papel de parede</a></strong>, lembra? Se não lembra, confere!
 </p>
 
 <p style="text-align: justify;">
@@ -73,7 +73,7 @@ Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe q
 </p>
 
 <p style="text-align: justify;">
-  **Mais no Bicha Fêmea…**
+  <strong>Mais no Bicha Fêmea…</strong>
 </p>
 
 **[Decoração “faça você mesma”: casa de Margaret](http://www.trololodemulher.com.br/2011/05/09/decoracao-reciclagem/)**
@@ -87,23 +87,23 @@ Você tem um **móvel sem uso** em casa? Pense nele com outras funções! Sabe q
 **[Novos usos de objetos na decoração: vasos diferentes para flores](http://www.trololodemulher.com.br/2009/02/15/vasos-diferentes-flores/)**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>
 
 **_ _**

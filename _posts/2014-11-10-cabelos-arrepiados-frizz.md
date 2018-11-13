@@ -1,8 +1,8 @@
 ---
-
+id: 3369
 title: Cabelos arrepiados com frizz… o que fazer?
-
-author: Lidiane
+date: 2014-11-10T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/11/10/cabelos-arrepiados-frizz/
 permalink: /2014/11/10/cabelos-arrepiados-frizz/
@@ -10,15 +10,15 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  Pouco importa o tipo de cabelo que você tenha, pois todas nós, sem exceções, podemos sofrer com esse probleminha: aqueles arrepios nos fios que nos incomodam tanto… o popular e conhecido _frizz_. Sou dessas que acreditam que a informação é uma aliada muito importante para tudo nessa vida, até mesmo para facilitar nossa rotina nos cuidados de beleza. Afinal de contas, a gente tem tanta coisa pra se ocupar no dia a dia, que não dá para ficar perdendo tempo com atitudes incorretas que não resolvem nada, certo?
+  Pouco importa o tipo de cabelo que você tenha, pois todas nós, sem exceções, podemos sofrer com esse probleminha: aqueles arrepios nos fios que nos incomodam tanto… o popular e conhecido <em>frizz</em>. Sou dessas que acreditam que a informação é uma aliada muito importante para tudo nessa vida, até mesmo para facilitar nossa rotina nos cuidados de beleza. Afinal de contas, a gente tem tanta coisa pra se ocupar no dia a dia, que não dá para ficar perdendo tempo com atitudes incorretas que não resolvem nada, certo?
 </p>
 
 <p align="justify">
-  Pensando nisso, busquei as informações básicas e necessárias pra gente lidar melhor com o_ frizz_ nosso de cada dia, e a cabeleira agradece. A **Fabiana Miranda, que é hair stylist e nossa consultora por aqui**, nos muniu de tudo o que precisamos saber para acalmar esses fiozinhos indomados, e fazermos as pazes, de uma vez por todas, com o espelho. Vem comigo… vamos aprender juntas?
+  Pensando nisso, busquei as informações básicas e necessárias pra gente lidar melhor com o<em> frizz</em> nosso de cada dia, e a cabeleira agradece. A <strong>Fabiana Miranda, que é hair stylist e nossa consultora por aqui</strong>, nos muniu de tudo o que precisamos saber para acalmar esses fiozinhos indomados, e fazermos as pazes, de uma vez por todas, com o espelho. Vem comigo… vamos aprender juntas?
 </p>
 
 <p align="justify">
-  **Trololó de Mulher >>> O que é o frizz?**
+  <strong>Trololó de Mulher >>> O que é o frizz?</strong>
 </p>
 
 > <p align="justify">
@@ -26,7 +26,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **TM >>>  O frizz aparece em todos os tipos de cabelos?**
+  <strong>TM >>>  O frizz aparece em todos os tipos de cabelos?</strong>
 </p>
 
 > <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  **TM >>> O que provoca o frizz?**
+  <strong>TM >>> O que provoca o frizz?</strong>
 </p>
 
 > <p align="justify">
@@ -46,7 +46,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **TM >>> Quais cuidados ajudam a prevenir e combater o problema?**
+  <strong>TM >>> Quais cuidados ajudam a prevenir e combater o problema?</strong>
 </p>
 
 > <p align="justify">
@@ -54,7 +54,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **TM >>> É verdade que preferir pentes de madeira ajudam a evitar o problema?**
+  <strong>TM >>> É verdade que preferir pentes de madeira ajudam a evitar o problema?</strong>
 </p>
 
 > <p align="justify">
@@ -66,27 +66,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja mais consultorias da Fabiana:**
+  <strong>Veja mais consultorias da Fabiana:</strong>
 </p>
 
 <p align="justify">
-  [**Cabelos: saiba 5 verdades sobre saúde e beleza.**](http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/) 
+  <a href="http://www.trololodemulher.com.br/2014/05/27/cabelos-saude-e-beleza/" target="_blank"><strong>Cabelos: saiba 5 verdades sobre saúde e beleza.</strong></a>
 </p>
 
 <p align="justify">
-  [**Verão + sol + mar + piscina = você descabelada. Xiii… e agora?**](http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/) 
+  <a href="http://www.trololodemulher.com.br/2014/02/06/cabelos-beleza-verao/" target="_blank"><strong>Verão + sol + mar + piscina = você descabelada. Xiii… e agora?</strong></a>
 </p>
 
 <p align="justify">
-  Então, bonita, contar com dicas de uma profissional como a Fabiana faz toda a diferença, não é verdade? Quem é de Santo André pode chegar no salão e entregar-se a equipe do Fa´bella, que oferece serviços como Dia da Noiva, além de cuidar dos cabelos e estética de suas clientes. Quem não está por lá, mas quer acompanhar todas as novidades e dicas do Fa´bella, pode visitar [seu site](http://www.fabella.com.br/) , acompanhar os [posts no blog](http://dicasdofabella.blogspot.com.br/)  ou curtir a [página do salão no Facebook](https://www.facebook.com/Fabiana.fabella) . Se joga, bonita!
+  Então, bonita, contar com dicas de uma profissional como a Fabiana faz toda a diferença, não é verdade? Quem é de Santo André pode chegar no salão e entregar-se a equipe do Fa´bella, que oferece serviços como Dia da Noiva, além de cuidar dos cabelos e estética de suas clientes. Quem não está por lá, mas quer acompanhar todas as novidades e dicas do Fa´bella, pode visitar <a href="http://www.fabella.com.br/" target="_blank">seu site</a>, acompanhar os <a href="http://dicasdofabella.blogspot.com.br/" target="_blank">posts no blog</a> ou curtir a <a href="https://www.facebook.com/Fabiana.fabella" target="_blank">página do salão no Facebook</a>. Se joga, bonita!
 </p>
 
 <p align="justify">
-  Imagem: [totalbeauty.com](http://www.totalbeauty.com/content/gallery/hairstyles-for-frizzy-hair) 
+  Imagem: <a href="http://www.totalbeauty.com/content/gallery/hairstyles-for-frizzy-hair" target="_blank">totalbeauty.com</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

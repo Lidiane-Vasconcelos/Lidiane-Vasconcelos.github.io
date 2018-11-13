@@ -1,8 +1,8 @@
 ---
-
+id: 2751
 title: Dica para facilitar a virada regular do colchão e ganhar mais saúde.
-
-author: Lidiane
+date: 2009-12-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/12/15/dica-como-virar-colchao/
 permalink: /2009/12/15/dica-como-virar-colchao/
@@ -11,7 +11,7 @@ categories:
 ---
 Será que você tem dúvidas na hora de virar o colchão para saber como posicionar o lado onde ficam a cabeça e os pés? Como decidir qual a melhor posição na hora de virar o colchão para garantir a perfeita alternância de lados, e com isso garantir maior durabilidade, além de saúde para sua coluna?
 
-Aqui em casa tínhamos todas essas dúvidas. Elas sumiram quando marido localizou web afora, [neste post](http://stulzer.net/blog/2007/08/18/como-aumentar-a-vida-util-do-seu-colchao/)  que foi publicado no blog [Empirical Empire](http://stulzer.net/blog/) , uma forma eficiente de controlar isso. Devo dizer que depois que começamos esse processo, as dores que marido sentia nas costas sumiram, porque há agora um uso mais eficiente dos lados do colchão, de modo a manter uma rotação regularizada no uso desses lados. Quer ver que forma foi essa?
+Aqui em casa tínhamos todas essas dúvidas. Elas sumiram quando marido localizou web afora, <a href="http://stulzer.net/blog/2007/08/18/como-aumentar-a-vida-util-do-seu-colchao/" target="_blank">neste post</a> que foi publicado no blog <a href="http://stulzer.net/blog/" target="_blank">Empirical Empire</a>, uma forma eficiente de controlar isso. Devo dizer que depois que começamos esse processo, as dores que marido sentia nas costas sumiram, porque há agora um uso mais eficiente dos lados do colchão, de modo a manter uma rotação regularizada no uso desses lados. Quer ver que forma foi essa?
 
 <!--more-->
 
@@ -42,7 +42,7 @@ Será que ficou alguma dúvida? Pelo sim, pelo não, trouxe para cá um vídeo q
   </div>
 </div>
 
-Este vídeo, publicado no [post original que trata sobre como aumentar a vida útil do seu colchão](http://stulzer.net/blog/2007/08/18/como-aumentar-a-vida-util-do-seu-colchao/) , lá no blog [Empirical Empire](http://stulzer.net/blog/) , é super claro, não? Agora é só aplicar nos seus domínios e a tarefa de organizar as viradas de colchão fica muito mais fácil, certo?
+Este vídeo, publicado no <a href="http://stulzer.net/blog/2007/08/18/como-aumentar-a-vida-util-do-seu-colchao/" target="_blank">post original que trata sobre como aumentar a vida útil do seu colchão</a>, lá no blog <a href="http://stulzer.net/blog/" target="_blank">Empirical Empire</a>, é super claro, não? Agora é só aplicar nos seus domínios e a tarefa de organizar as viradas de colchão fica muito mais fácil, certo?
 
 O cartão é super eficiente e poupa a chatice de ter que ficar lembrando a última posição em que o colchão foi virado. Fizemos isso porque, sinceramente? Há muitos outros pequenos detalhes na vida com o qual se preocupar, certo? Agora é contigo e o colchão, bonita!
 

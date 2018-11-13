@@ -1,8 +1,8 @@
 ---
-
+id: 2767
 title: “Tchanram”… Nova identidade visual do Bicha Fêmea!
-
-author: Lidiane
+date: 2010-01-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/01/16/tchanram-veja-a-nova-identidade-visual-do-bicha-fmea/
 permalink: /2010/01/16/tchanram-veja-a-nova-identidade-visual-do-bicha-fmea/
@@ -19,7 +19,7 @@ As mudanças foram feitas com o objetivo de facilitar ainda mais a navegabilidad
 
 Olha lá _pra_ cima. Vê o novo cabeçalho? Aquelas bonequinhas de antes cederam espaço para essas flores vermelhas. Achei que elas são simples e femininas, e que combinariam com a proposta do blog. Abaixo do cabeçalho continua o menu de páginas do Bicha Fêmea, o que te permite navegar pela parte interna do blog.
 
-Vê o topo da barra lateral? Logo ali há um espaço onde ficam concentradas alguns pontos importantes do blog. Na aba “**Siga o Bicha**” você encontra os ícones que apontam para todas as formas que podem te deixar mais próxima do Bicha Fêmea e acompanhar todas as atualizações: pelo [feed](http://feeds2.feedburner.com/blogbichafemea) , por _[e-mail](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) _, no [Twitter](http://twitter.com/bichafemea) , no [Orkut](http://www.orkut.com.br/Main#Community?cmm=92609046)  ou adicionando o Bicha Fêmea aos seus favoritos. No mais, as outras abas compreendem os sistemas de busca, arquivos e as categorias.
+Vê o topo da barra lateral? Logo ali há um espaço onde ficam concentradas alguns pontos importantes do blog. Na aba “**Siga o Bicha**” você encontra os ícones que apontam para todas as formas que podem te deixar mais próxima do Bicha Fêmea e acompanhar todas as atualizações: pelo <a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank">feed</a>, por _<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">e-mail</a>_, no <a href="http://twitter.com/bichafemea" target="_blank">Twitter</a>, no <a href="http://www.orkut.com.br/Main#Community?cmm=92609046" target="_blank">Orkut</a> ou adicionando o Bicha Fêmea aos seus favoritos. No mais, as outras abas compreendem os sistemas de busca, arquivos e as categorias.
 
 Logo abaixo fica o painel reservado para publicidade, seguido pelo número de visitantes _on line._ Em seguida vem o espaço com abas que indicam os posts mais recentes, comentados e vistos. Logo depois há o espaço com abas que mostram os comentários recentes e as top comentaristas de todos os tempo do Bicha Fêmea&#8230; _eita_!
 

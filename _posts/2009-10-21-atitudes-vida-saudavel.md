@@ -1,8 +1,8 @@
 ---
-
+id: 2718
 title: Atitudes que garantem um vida mais saudável.
-
-author: Lidiane
+date: 2009-10-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/10/21/atitudes-vida-saudavel/
 permalink: /2009/10/21/atitudes-vida-saudavel/
@@ -13,11 +13,11 @@ Uma das coisas que me dá muito prazer no espaço “Bicha Fêmea Convidada em F
 
 Acabo de constatar mais uma característica ímpar em mais uma bicha fêmea convidada: força de vontade, traduzida em disciplina e perseverança.
 
-É, foi exatamente o que enxerguei ao ler o texto da Rejane, _bonitona_ que edita o [Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) . Acostumada a ler o blog dessa mulher super criativa e arteira, tão envolvida com o universo da decoração e _embonecamento_ do lar, jamais imaginei a sua saga para estar em forma e bem consigo mesma.
+É, foi exatamente o que enxerguei ao ler o texto da Rejane, _bonitona_ que edita o <a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>. Acostumada a ler o blog dessa mulher super criativa e arteira, tão envolvida com o universo da decoração e _embonecamento_ do lar, jamais imaginei a sua saga para estar em forma e bem consigo mesma.
 
 O texto abaixo revela uma mulher madura, que se sabe bonita muito mais por estar saudável, do que por qualquer futilidade barata. Rejane nos dá uma lição de que é possível se sentir melhor quando se quer muito isso, mas que tudo seja feito com parcimônia e sabedoria. Tudo a seu tempo, e no tempo certo…
 
-**_Por Rejane Batista – [Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) _**
+**_Por Rejane Batista – <a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>_**
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="rejanebatista" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/rejanebatista_thumb.jpg" border="0" alt="rejanebatista" width="180" height="260" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/rejanebatista.jpg) Olá gente querida! Bom, quero dizer, bichas queridas!
 
@@ -31,7 +31,7 @@ Sempre fui magra, e nunca tive problemas com excesso de peso. Me casei com 21 an
 
 Mas eu sabia&#8230; sabia, sim! Foi toda a pizza, hambúrguer, coca-cola, trakinas (o biscoito recheado mais gostoso que existe e eu comia um pacote todo dia); resumindo: uma alimentação errada e uma vida sedentária.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="antes_e_depois_-__bicha_femea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea_thumb.jpg" border="0" alt="antes_e_depois_-__bicha_femea" width="260" height="260" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea.jpg) RESULTADO: cansaço, falta de ânimo, ansiedade, colesterol alto, dor nos joelhos, inchaço, retenção de líquidos&#8230; chegou a um ponto que eu tinha que tomar uma atitude. Nunca pensei (e acho erradíssimo) fazer dietas _mirabolantes_ e tomar medicamentos; precisava mais do que isso: <span style="text-decoration: underline;">**Queria mudar a minha vida**</span>. Procurei uma nutricionista para me orientar e entrei na academia. Foram conquistas, sacrifícios e renúncias dia após dia, meses&#8230; emagreci 10 quilos em sete meses. Hoje não largo o meu exercício físico por nada e principalmente a minha aula de _spinning_, que é fundamental para queimar calorias, fortalecer o coração e os membros inferiores, e melhorar a circulação sanguínea. Hoje tenho disposição para tudo e me sinto sempre vigorada. A minha resistência física está ótima.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="antes_e_depois_-__bicha_femea" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea_thumb.jpg" border="0" alt="antes_e_depois_-__bicha_femea" width="260" height="260" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/antes_e_depois___bicha_femea.jpg) RESULTADO: cansaço, falta de ânimo, ansiedade, colesterol alto, dor nos joelhos, inchaço, retenção de líquidos&#8230; chegou a um ponto que eu tinha que tomar uma atitude. Nunca pensei (e acho erradíssimo) fazer dietas _mirabolantes_ e tomar medicamentos; precisava mais do que isso: <span style="text-decoration: underline;"><strong>Queria mudar a minha vida</strong></span>. Procurei uma nutricionista para me orientar e entrei na academia. Foram conquistas, sacrifícios e renúncias dia após dia, meses&#8230; emagreci 10 quilos em sete meses. Hoje não largo o meu exercício físico por nada e principalmente a minha aula de _spinning_, que é fundamental para queimar calorias, fortalecer o coração e os membros inferiores, e melhorar a circulação sanguínea. Hoje tenho disposição para tudo e me sinto sempre vigorada. A minha resistência física está ótima.
 
 E por experiência própria, deixo estas orientações para as bichas que também querem mudar de atitude para uma vida mais saudável:
 
@@ -55,11 +55,11 @@ E por experiência própria, deixo estas orientações para as bichas que també
 
 Estar em forma é muito mais que vestir bem a calça jeans preferida; é estar bem consigo mesma.
 
-Com tudo isso, o nome do blog foi decidido: [“Casa Corpo e Cia.”](http://casacorpoecia.blogspot.com/) 
+Com tudo isso, o nome do blog foi decidido: <a href="http://casacorpoecia.blogspot.com/" target="_blank">“Casa Corpo e Cia.”</a>
 
 Um beijO em todas!
 
-Até mais, [Rejane](http://casacorpoecia.blogspot.com/) .
+Até mais, <a href="http://casacorpoecia.blogspot.com/" target="_blank">Rejane</a>.
 
 **Quer mais dicas para ter uma vida mais saudável?**
 

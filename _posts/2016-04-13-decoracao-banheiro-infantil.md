@@ -1,8 +1,8 @@
 ---
-
+id: 3588
 title: Quer ideias de decoração para o banheiro das crianças?
-
-author: Lidiane
+date: 2016-04-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/04/13/decoracao-banheiro-infantil/
 permalink: /2016/04/13/decoracao-banheiro-infantil/
@@ -10,17 +10,17 @@ categories:
   - Banheiro
 ---
 <p style="text-align: justify;">
-  Se na sua casa há mais de um **banheiro** e virou um consenso que um deles é usado exclusivamente pelas **crianças, **que tal dar uma _bossa_ na **decoração** do espaço com ideias simples?
+  Se na sua casa há mais de um <strong>banheiro</strong> e virou um consenso que um deles é usado exclusivamente pelas <strong>crianças, </strong>que tal dar uma <em>bossa</em> na <strong>decoração</strong> do espaço com ideias simples?
 </p>
 
 <p style="text-align: justify;" align="justify">
-  Pode acreditar que as sugestões são rápidas de serem executadas e bem práticas, tudo para que os momentos de banho dos pequenos sejam ainda mais prazerosos. Todas as ideias são do site **_[Better Homes and Gardens](http://www.bhg.com/) _**, e elas são para você copiar mesmo, _viu_? Portanto… inspire-se!
+  Pode acreditar que as sugestões são rápidas de serem executadas e bem práticas, tudo para que os momentos de banho dos pequenos sejam ainda mais prazerosos. Todas as ideias são do site <strong><em><a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a></em></strong>, e elas são para você copiar mesmo, <em>viu</em>? Portanto… inspire-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Ilumine o espaço com cores!</span>**
+  <strong><span style="font-size: large;">Ilumine o espaço com cores!</span></strong>
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Mime os olhos com fofurices!</span>**
+  <strong><span style="font-size: large;">Mime os olhos com fofurices!</span></strong>
 </p>
 
 &nbsp;
@@ -48,13 +48,13 @@ categories:
 </p>
 
 <p align="justify">
-  Adesivos decorativos e bem mimosos podem deixar o banheiro _superultramega_ divertido se forem colocados em pontos estratégicos…
+  Adesivos decorativos e bem mimosos podem deixar o banheiro <em>superultramega</em> divertido se forem colocados em pontos estratégicos…
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">E no chão… nada?!</span>**
+  <strong><span style="font-size: large;">E no chão… nada?!</span></strong>
 </p>
 
 &nbsp;
@@ -72,7 +72,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">E se a mamãe for prendada…</span>**
+  <strong><span style="font-size: large;">E se a mamãe for prendada…</span></strong>
 </p>
 
 &nbsp;
@@ -84,11 +84,11 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Dá para deixar as toalhas_´prá_ lá de exclusivas com simples apliques de quadradinhos de tecido + botão… _tãããão_ fofo!
+  Dá para deixar as toalhas<em>´prá</em> lá de exclusivas com simples apliques de quadradinhos de tecido + botão… <em>tãããão</em> fofo!
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

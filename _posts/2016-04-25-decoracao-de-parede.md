@@ -1,8 +1,8 @@
 ---
-
+id: 3594
 title: Faltando algo naquele cantinho de parede?
-
-author: Lidiane
+date: 2016-04-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/04/25/decoracao-de-parede/
 permalink: /2016/04/25/decoracao-de-parede/
@@ -31,20 +31,20 @@ Vasos com plantas, livros, quadros encostados, velas, porta-retratos… o que fa
 
 **Veja também:**
 
-[**Decoração de parede com tampa de caixa de sapato… é criativo ou não é?**](http://www.decoracaodacasa.com/decoracao-de-parede/) 
+<a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
 
-[**Já viu como imprimir charme na decoração da parede com fotos?**](http://www.decoracaodacasa.com/decoracao-parede-fotos/) 
+<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
 
-[**5 ideias para a decoração da perede vazia em casa.**](http://www.decoracaodacasa.com/decoracao-da-parede/) 
+<a href="http://www.decoracaodacasa.com/decoracao-da-parede/" target="_blank"><strong>5 ideias para a decoração da perede vazia em casa.</strong></a>
 
 &nbsp;
 
-Imagem: [A beaultiful Mess](http://www.abeautifulmess.com/) 
+Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A beaultiful Mess</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

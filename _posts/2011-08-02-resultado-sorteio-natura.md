@@ -1,8 +1,8 @@
 ---
-
+id: 3031
 title: Resultado do sorteio de produtos Natura no Bicha Fêmea…
-
-author: Lidiane
+date: 2011-08-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/08/02/resultado-sorteio-natura/
 permalink: /2011/08/02/resultado-sorteio-natura/
@@ -26,11 +26,11 @@ Você se inscreveu nesse sorteio? Então deve estar bem ansiosa para espiar quem
 &nbsp;
 
 <p align="justify">
-  Viu? A ganhadora foi a **Irani Santos**, dona da inscrição de número **107**, e que foi contemplada pelo Random.org.
+  Viu? A ganhadora foi a <strong>Irani Santos</strong>, dona da inscrição de número <strong>107</strong>, e que foi contemplada pelo Random.org.
 </p>
 
 <p align="justify">
-  Hoje mesmo seguirá um e-mail para** Irani**, e vou aguardar seu retorno **até as 8h do dia 04 de Agosto**. Se não tiver resposta, farei novo sorteio entre as inscritas com prazo de 48h para resposta.
+  Hoje mesmo seguirá um e-mail para<strong> Irani</strong>, e vou aguardar seu retorno <strong>até as 8h do dia 04 de Agosto</strong>. Se não tiver resposta, farei novo sorteio entre as inscritas com prazo de 48h para resposta.
 </p>
 
 <p align="justify">
@@ -40,17 +40,17 @@ Você se inscreveu nesse sorteio? Então deve estar bem ansiosa para espiar quem
 &nbsp;
 
 <p align="center">
-  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p align="center">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p align="center">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>

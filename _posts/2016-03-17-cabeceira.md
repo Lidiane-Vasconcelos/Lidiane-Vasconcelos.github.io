@@ -1,8 +1,8 @@
 ---
-
+id: 3564
 title: Qual a melhor cabeceira pra sua cama?
-
-author: Lidiane
+date: 2016-03-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/03/17/cabeceira/
 permalink: /2016/03/17/cabeceira/
@@ -10,15 +10,15 @@ categories:
   - Quarto
 ---
 <p align="justify">
-  Ter uma cabeceira na cama é opção, especialmente por que hoje em dia temos as camas box, e as camas também box que são do tipo baú. Elas são vendidas sem a cabeceira, portanto podemos comprar, colocar a mão na massa e fazer uma ou usar recursos decorativos para “simular” uma cabeceira pra nossa cama. O fato é que com alguma cabeceira o quarto fica muito mais interessante em termos de decoração, porque ela pode ser o elemento que funciona como foco no ambiente, e ela também pode assumir o papel de “elo” na composição. Isto é: uma cabeceira _superultramega_ moderna num quarto que se pretende romântico não funciona bem visualmente, não é? É desse tipo de elo que estou falando.
+  Ter uma cabeceira na cama é opção, especialmente por que hoje em dia temos as camas box, e as camas também box que são do tipo baú. Elas são vendidas sem a cabeceira, portanto podemos comprar, colocar a mão na massa e fazer uma ou usar recursos decorativos para “simular” uma cabeceira pra nossa cama. O fato é que com alguma cabeceira o quarto fica muito mais interessante em termos de decoração, porque ela pode ser o elemento que funciona como foco no ambiente, e ela também pode assumir o papel de “elo” na composição. Isto é: uma cabeceira <em>superultramega</em> moderna num quarto que se pretende romântico não funciona bem visualmente, não é? É desse tipo de elo que estou falando.
 </p>
 
 <p align="justify">
-  Cabeceiras podem ser simples ou carregadas de elementos visuais, apenas decorativa ou também funcional, novinha em folha ou _vintage_, tradicional ou moderna. Como se vê, tudo depende do seu estilo, e a escolha de uma reflete o seu jeito de ser, como você vê o mundo. Nesse ponto a gente pode começar a pensar nos diferentes tipos de cabeceiras e como podem atender as nossas necessidades pessoais. Foi justamente para te ajudar nesse sentido que esse post foi pensado… vem comigo! Se joga!
+  Cabeceiras podem ser simples ou carregadas de elementos visuais, apenas decorativa ou também funcional, novinha em folha ou <em>vintage</em>, tradicional ou moderna. Como se vê, tudo depende do seu estilo, e a escolha de uma reflete o seu jeito de ser, como você vê o mundo. Nesse ponto a gente pode começar a pensar nos diferentes tipos de cabeceiras e como podem atender as nossas necessidades pessoais. Foi justamente para te ajudar nesse sentido que esse post foi pensado… vem comigo! Se joga!
 </p>
 
 <p align="justify">
-  **O que norteia a escolha de uma cabeceira?**
+  <strong>O que norteia a escolha de uma cabeceira?</strong>
 </p>
 
 <p align="justify">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  **O ponto de foco**
+  <strong>O ponto de foco</strong>
 </p>
 
 <p align="justify">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Funcionalidade**
+  <strong>Funcionalidade</strong>
 </p>
 
 <p align="justify">
@@ -46,11 +46,11 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  _Se você é do tipo que precisa do maior espaço possível na sua cabeceira para armazenar os objetos que você tanto precisa, a saída pode ser algo planejado, sob medida para suas necessidades. O design dessa mesa de cabeceira super diferenciada, que na verdade são prateleiras, reserva espaço para várias coisas: luminária, livros, remédios e até objetos de decoração. Veja mais em “_[_Quarto: ideias de organização para a cabeceira da cama_](http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/) _”._
+  <em>Se você é do tipo que precisa do maior espaço possível na sua cabeceira para armazenar os objetos que você tanto precisa, a saída pode ser algo planejado, sob medida para suas necessidades. O design dessa mesa de cabeceira super diferenciada, que na verdade são prateleiras, reserva espaço para várias coisas: luminária, livros, remédios e até objetos de decoração. Veja mais em “</em><a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><em>Quarto: ideias de organização para a cabeceira da cama</em></a><em>”.</em>
 </p>
 
 <p align="justify">
-  **Para cada desejo, um tipo ou estilo**
+  <strong>Para cada desejo, um tipo ou estilo</strong>
 </p>
 
 <p align="justify">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**O que fazer na decoração de quarto pequeno?**](http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno-2/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-de-quarto-pequeno-2/" target="_blank"><strong>O que fazer na decoração de quarto pequeno?</strong></a>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  _As esculturas de parede de metal que imitam folhagens são mesmo peças decorativas lindas de viver, não é? Você já viu sua possibilidade de uso assim, como cabeceira? Pois bem, inspire-se no efeito de modernidade e elegância que esse recurso de decoração pode trazer para o seu quarto e capriche na escolha das peças certas… seus olhos agradecem! Veja mais em “_[_3 ideias de cabeceiras diferentes… nada convencionais!_](http://www.decoracaodacasa.com/cabeceiras-diferentes/) _”._
+  <em>As esculturas de parede de metal que imitam folhagens são mesmo peças decorativas lindas de viver, não é? Você já viu sua possibilidade de uso assim, como cabeceira? Pois bem, inspire-se no efeito de modernidade e elegância que esse recurso de decoração pode trazer para o seu quarto e capriche na escolha das peças certas… seus olhos agradecem! Veja mais em “</em><a href="http://www.decoracaodacasa.com/cabeceiras-diferentes/" target="_blank"><em>3 ideias de cabeceiras diferentes… nada convencionais!</em></a><em>”.</em>
 </p>
 
 <p align="center">
@@ -82,15 +82,15 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  _Papel de parede aplicado até metade da parede, em toda a extensão, recebendo um acabamento com madeira, que serve como apoio para quadros. Veja mais em “_[_Papel de parede na cabeceira na cama: inspirações_](http://www.decoracaodacasa.com/papel-de-parede-na-cabeceira/) _”._
+  <em>Papel de parede aplicado até metade da parede, em toda a extensão, recebendo um acabamento com madeira, que serve como apoio para quadros. Veja mais em “</em><a href="http://www.decoracaodacasa.com/papel-de-parede-na-cabeceira/" target="_blank"><em>Papel de parede na cabeceira na cama: inspirações</em></a><em>”.</em>
 </p>
 
 <p align="justify">
-  De madeira com linhas simples e modernas ou muito trabalhada em detalhes, de metal e _design_ tradicional ou cheia de ornamentos, acolchoada, de bamboo, com material reaproveitado, customizada… as possibilidades são muitas e uma breve pesquisa na iternet em busca dessas imagens vão te mostrar algumas delas. Procure pelo tamanho da sua cama (tradicional, _Queen ou King_?) e elas estarão lá. Haverá ainda as que são propositalmente maiores que a cama, e isso tem uma certa _bossa_. Como se vê, o estilo  e necessidade pessoais é que realmente norteiam a escolha, de modo que não haja certo ou errado nessa tarefa.
+  De madeira com linhas simples e modernas ou muito trabalhada em detalhes, de metal e <em>design</em> tradicional ou cheia de ornamentos, acolchoada, de bamboo, com material reaproveitado, customizada… as possibilidades são muitas e uma breve pesquisa na iternet em busca dessas imagens vão te mostrar algumas delas. Procure pelo tamanho da sua cama (tradicional, <em>Queen ou King</em>?) e elas estarão lá. Haverá ainda as que são propositalmente maiores que a cama, e isso tem uma certa <em>bossa</em>. Como se vê, o estilo  e necessidade pessoais é que realmente norteiam a escolha, de modo que não haja certo ou errado nessa tarefa.
 </p>
 
 <p align="justify">
-  **E pra não esquecer:**
+  <strong>E pra não esquecer:</strong>
 </p>
 
 <p align="justify">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="justify">
-  6 – Qual cor ou _design_ atende a esse ambiente?
+  6 – Qual cor ou <em>design</em> atende a esse ambiente?
 </p>
 
 <p align="justify">
@@ -126,17 +126,17 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Cabeceira com enchimento “fofinho”: como fazer?**](http://www.decoracaodacasa.com/cabeceira-enchimento/) 
+  <a href="http://www.decoracaodacasa.com/cabeceira-enchimento/" target="_blank"><strong>Cabeceira com enchimento “fofinho”: como fazer?</strong></a>
 </p>
 
 <p align="justify">
-  **[Uma ideia de cabeceira simples, rápida e barata: quarto com novo visual.](http://www.decoracaodacasa.com/cabeceira-cama-quarto/) **
+  <strong><a href="http://www.decoracaodacasa.com/cabeceira-cama-quarto/" target="_blank">Uma ideia de cabeceira simples, rápida e barata: quarto com novo visual.</a></strong>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

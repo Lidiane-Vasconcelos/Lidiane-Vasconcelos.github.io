@@ -1,8 +1,8 @@
 ---
-
+id: 3412
 title: 'Tanto tempo longe da família e amigos: quem aguenta?'
-
-author: Lidiane
+date: 2015-03-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/03/20/longe-da-familia-saudade/
 permalink: /2015/03/20/longe-da-familia-saudade/
@@ -12,7 +12,7 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Fiquei com esse questionamento na cabeça enquanto lia o relato da querida **Adriana Minhoto**, nossa correspondente lindona que está lá na Finlândia, que fez um balanço sobre os 6 meses que já passou em um país tão frio e distante do Brasil. Fiquei cá comigo pensando a mesma coisa sobre o fato de ter passado 10 anos em Campinas e região, longe da família e amigos de toda uma vida, todos em Recife.  Digo que aguenta somente quem ama demais, e sente-se amada na mesma medida.
+  Fiquei com esse questionamento na cabeça enquanto lia o relato da querida <strong>Adriana Minhoto</strong>, nossa correspondente lindona que está lá na Finlândia, que fez um balanço sobre os 6 meses que já passou em um país tão frio e distante do Brasil. Fiquei cá comigo pensando a mesma coisa sobre o fato de ter passado 10 anos em Campinas e região, longe da família e amigos de toda uma vida, todos em Recife.  Digo que aguenta somente quem ama demais, e sente-se amada na mesma medida.
 </p>
 
 <p align="justify">
@@ -20,15 +20,15 @@ categories:
 </p>
 
 > <p align="justify">
->   **Meio ano. Seis meses. 26,09 semanas. 182 dias. 4.383 horas. É com esse tanto de número que escrevo para vocês um balanço dos meus primeiros meses na Finlândia, também chamada por mim carinhosamente de Friolândia.**
+>   <strong>Meio ano. Seis meses. 26,09 semanas. 182 dias. 4.383 horas. É com esse tanto de número que escrevo para vocês um balanço dos meus primeiros meses na Finlândia, também chamada por mim carinhosamente de Friolândia.</strong>
 > </p>
 
 > <p align="justify">
->   **Nesse período aconteceu tanta coisa que nem sei por onde começar, mas primeira coisa que vem a cabeça é: não é fácil passar aniversários, festas, datas comemorativas, tanto tempo longe da família e dos amigos&#8230; **
+>   <strong>Nesse período aconteceu tanta coisa que nem sei por onde começar, mas primeira coisa que vem a cabeça é: não é fácil passar aniversários, festas, datas comemorativas, tanto tempo longe da família e dos amigos&#8230; </strong>
 > </p>
 
 > <p align="justify">
->   **Morar fora do Brasil, em minha opinião, faz a gente dar mais valor ao que temos em nosso país. Clima, cultura, pessoas&#8230; Aqui na Finlândia a adaptação foi bem complicada por conta da diferença cultural e climática.**
+>   <strong>Morar fora do Brasil, em minha opinião, faz a gente dar mais valor ao que temos em nosso país. Clima, cultura, pessoas&#8230; Aqui na Finlândia a adaptação foi bem complicada por conta da diferença cultural e climática.</strong>
 > </p>
 
 <p align="center">
@@ -36,11 +36,11 @@ categories:
 </p>
 
 <p align="center">
-  _Turistando em Helsinki_
+  <em>Turistando em Helsinki</em>
 </p>
 
 > <p align="justify">
->   **Apesar de tudo funcionar perfeitamente, desde sistema de transporte, até educação e saúde, e da Finlândia ser considerada um país com alto grau de igualdade social, o nosso sol e o calor humano brasileiro fazem falta.**
+>   <strong>Apesar de tudo funcionar perfeitamente, desde sistema de transporte, até educação e saúde, e da Finlândia ser considerada um país com alto grau de igualdade social, o nosso sol e o calor humano brasileiro fazem falta.</strong>
 > </p>
 
 <p align="center">
@@ -48,11 +48,11 @@ categories:
 </p>
 
 <p align="center">
-  _Neve_
+  <em>Neve</em>
 </p>
 
 > <p align="justify">
->   **Os primeiro três meses passaram rápido! Fase de adaptação. Montar a casinha, conhecer o bairro, os produtos do supermercado, como andar de transporte público e se locomover, melhorar o inglês, aprender um pouco de finlandês, conseguir lidar com o fuso horário para poder falar com a família&#8230;**
+>   <strong>Os primeiro três meses passaram rápido! Fase de adaptação. Montar a casinha, conhecer o bairro, os produtos do supermercado, como andar de transporte público e se locomover, melhorar o inglês, aprender um pouco de finlandês, conseguir lidar com o fuso horário para poder falar com a família&#8230;</strong>
 > </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ categories:
 </p>
 
 <p align="center">
-  _Caminho de casa_
+  <em>Caminho de casa</em>
 </p>
 
 <p align="center">
@@ -68,11 +68,11 @@ categories:
 </p>
 
 <p align="center">
-  _Vista da minha sacada_
+  <em>Vista da minha sacada</em>
 </p>
 
 > <p align="justify">
->   **Fiquei muito tempo sozinha, pois o mestrado do marido é período integral e de segunda a sexta. Literalmente tive que aprender a me virar sozinha em um lugar totalmente desconhecido. Tinha aulas duas vezes por semana, mas na maior parte do tempo eu ficava sozinha. Não consegui fazer amigos, só uma amiga brasileira que me ajudou bastante.**
+>   <strong>Fiquei muito tempo sozinha, pois o mestrado do marido é período integral e de segunda a sexta. Literalmente tive que aprender a me virar sozinha em um lugar totalmente desconhecido. Tinha aulas duas vezes por semana, mas na maior parte do tempo eu ficava sozinha. Não consegui fazer amigos, só uma amiga brasileira que me ajudou bastante.</strong>
 > </p>
 
 <p align="center">
@@ -80,15 +80,15 @@ categories:
 </p>
 
 <p align="center">
-  _Praça do Senado em Helsinki_
+  <em>Praça do Senado em Helsinki</em>
 </p>
 
 > <p align="justify">
->   **Quando cheguei ainda tinha sol e o clima era agradável. Então, todo dia eu ia andar na praia e ver o mar (minha paixão), mas o tempo foi passando e o inverno chegou. Com ele a escuridão, o frio, a melancolia e mais do que nunca a sensação de: o que estou fazendo aqui nesse lugar longe e escuro?**
+>   <strong>Quando cheguei ainda tinha sol e o clima era agradável. Então, todo dia eu ia andar na praia e ver o mar (minha paixão), mas o tempo foi passando e o inverno chegou. Com ele a escuridão, o frio, a melancolia e mais do que nunca a sensação de: o que estou fazendo aqui nesse lugar longe e escuro?</strong>
 > </p>
 
 > <p align="justify">
->   **Em dezembro, marido teve duas semanas de férias do mestrado e aproveitamos para fazer um mochilão de nove dias passando pela Dinamarca, Noruega e Suécia. Nunca pensei que fosse conhecer tantos países em um espaço tão curto de tempo. Nesses seis meses também conheci a Estônia. Quem já pensou em conhecer a Estônia na vida? Rs&#8230;**
+>   <strong>Em dezembro, marido teve duas semanas de férias do mestrado e aproveitamos para fazer um mochilão de nove dias passando pela Dinamarca, Noruega e Suécia. Nunca pensei que fosse conhecer tantos países em um espaço tão curto de tempo. Nesses seis meses também conheci a Estônia. Quem já pensou em conhecer a Estônia na vida? Rs&#8230;</strong>
 > </p>
 
 <p align="center">
@@ -124,39 +124,39 @@ categories:
 </p>
 
 > <p align="justify">
->   **Esse texto que vocês estão lendo agora, eu escrevo de terras brasucas. Esse mês eu vim para o Brasil matar a saudade da família, dos amigos, do sol, do calor&#8230; mas em breve volto para a minha casinha em terras finlandesas.**
+>   <strong>Esse texto que vocês estão lendo agora, eu escrevo de terras brasucas. Esse mês eu vim para o Brasil matar a saudade da família, dos amigos, do sol, do calor&#8230; mas em breve volto para a minha casinha em terras finlandesas.</strong>
 > </p>
 
 > <p align="justify">
->   **Gostaria de deixar algumas coisas que aprendi nesse tempo na terra do Papai Noel.**
+>   <strong>Gostaria de deixar algumas coisas que aprendi nesse tempo na terra do Papai Noel.</strong>
 > </p>
 
 > <p align="justify">
->   *** Nós temos uma força interior que não sabemos! Quando achamos que estamos cansados e que não aguentamos mais, ela surge para nos reerguer e fazer a gente continuar a caminhar.**
+>   <strong>* Nós temos uma força interior que não sabemos! Quando achamos que estamos cansados e que não aguentamos mais, ela surge para nos reerguer e fazer a gente continuar a caminhar.</strong>
 > </p>
 
 > <p align="justify">
->   *** Não sabia o que era frio até chegar aqui&#8230; e a cada dia que passa me surpreendo por saber que posso sentir mais frio!**
+>   <strong>* Não sabia o que era frio até chegar aqui&#8230; e a cada dia que passa me surpreendo por saber que posso sentir mais frio!</strong>
 > </p>
 
 > <p align="justify">
->   *** A saudade pode doer mais do que a gente imagina! É dor física, é dor nas entranhas.**
+>   <strong>* A saudade pode doer mais do que a gente imagina! É dor física, é dor nas entranhas.</strong>
 > </p>
 
 > <p align="justify">
->   *** Mesmo se sentindo em casa, você vai sempre ser um estrangeiro, quando mora fora do seu país!**
+>   <strong>* Mesmo se sentindo em casa, você vai sempre ser um estrangeiro, quando mora fora do seu país!</strong>
 > </p>
 
 > <p align="justify">
->   *** Viver fora faz com que qualquer momento seja extremamente intenso! Você vive e sente todas as emoções e até o sol te traz felicidade&#8230;**
+>   <strong>* Viver fora faz com que qualquer momento seja extremamente intenso! Você vive e sente todas as emoções e até o sol te traz felicidade&#8230;</strong>
 > </p>
 
 > <p align="justify">
->   *** Fazer um mochilão é deixar a vaidade de lado e se jogar em uma experiência loucamente incrível!**
+>   <strong>* Fazer um mochilão é deixar a vaidade de lado e se jogar em uma experiência loucamente incrível!</strong>
 > </p>
 
 > <p align="justify">
->   *** A vida é uma eterna descoberta. Não tenha medo, se jogue! Se não está contente com sua vida hoje, mexa-se, você não é uma árvore! 😉**
+>   <strong>* A vida é uma eterna descoberta. Não tenha medo, se jogue! Se não está contente com sua vida hoje, mexa-se, você não é uma árvore! 😉</strong>
 > </p>
 
 <p align="center">
@@ -164,35 +164,35 @@ categories:
 </p>
 
 <p align="justify">
-  **Entenda como tudo começou:**
+  <strong>Entenda como tudo começou:</strong>
 </p>
 
 <p align="justify">
-  **[As voltas que a vida dá nos leva a lugares inimagináveis!](http://www.trololodemulher.com.br/2014/09/08/vida-lugares/) **
+  <strong><a href="http://www.trololodemulher.com.br/2014/09/08/vida-lugares/" target="_blank">As voltas que a vida dá nos leva a lugares inimagináveis!</a></strong>
 </p>
 
 <p align="justify">
-  **Mais sobre a Finlândia, por Adriana Minhoto:**
+  <strong>Mais sobre a Finlândia, por Adriana Minhoto:</strong>
 </p>
 
 <p align="justify">
-  **[Se você fosse mãe lá na Finlândia…](http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/) **
+  <strong><a href="http://www.trololodemulher.com.br/2015/02/20/maternidade-finlandia/" target="_blank">Se você fosse mãe lá na Finlândia…</a></strong>
 </p>
 
 <p align="justify">
-  **[Educação, ordem e progresso… lá na Finlândia é assim!](http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/) **
+  <strong><a href="http://www.trololodemulher.com.br/2014/11/14/educacao-na-finlandia/" target="_blank">Educação, ordem e progresso… lá na Finlândia é assim!</a></strong>
 </p>
 
 <p align="justify">
-  **[Dias e dias sem sol: o temido Novembro lá na Finlândia](http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/) **
+  <strong><a href="http://www.trololodemulher.com.br/2015/01/16/finlandia-novembro/" target="_blank">Dias e dias sem sol: o temido Novembro lá na Finlândia</a></strong>
 </p>
 
 <p align="justify">
-  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A **Visivae** pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite [seu site](http://www.visivae.com.br/)  e sua [página no Facebook](https://www.facebook.com/visivaecomunicacao/timeline) . Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, **Entre Vodka e Cachaça**. Pra conhecer é só [clicar aqui e se jogar](http://entrevodkaecachaca.blogspot.fi/) ! Ah! O **Entre Vodka e Cachaça** também tem [página no Facebook, viu? Já curtiu?](https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts)  Eu já!
+  Pois é, bonita! Viu que a Adriana tem um negócio destinado a ajudar o seu, que é empreendedora? A <strong>Visivae</strong> pode fazer diferença para sua pequena empresa, que está só começando… quer saber mais sobre isso? Visite <a href="http://www.visivae.com.br/" target="_blank">seu site</a> e sua <a href="https://www.facebook.com/visivaecomunicacao/timeline" target="_blank">página no Facebook</a>. Informe-se! Além de tudo isso, a moça bonita desgarrada em terras finlandesas dá mais detalhes de seu dia dia no seu blog, <strong>Entre Vodka e Cachaça</strong>. Pra conhecer é só <a href="http://entrevodkaecachaca.blogspot.fi/" target="_blank">clicar aqui e se jogar</a>! Ah! O <strong>Entre Vodka e Cachaça</strong> também tem <a href="https://www.facebook.com/entrevodkaecachaca.blogspot.com.br?fref=ts" target="_blank">página no Facebook, viu? Já curtiu?</a> Eu já!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

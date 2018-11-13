@@ -1,8 +1,8 @@
 ---
-
+id: 2894
 title: 'Presentes de Natal: que tal as novidades do Mercado de Artes?'
-
-author: Lidiane
+date: 2010-10-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/10/22/presente-natal-mercado-artes/
 permalink: /2010/10/22/presente-natal-mercado-artes/
@@ -12,7 +12,7 @@ categories:
 _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que o Natal está chegando, porque os panetones já estão nas prateleiras. Dentre tantas coisas a se pensar, os **_presentes para as pessoas mais queridas_** estão na lista , não é?
 
 <p style="text-align: justify;">
-  Se você quiser ver algumas sugestões, este post mostra alguns dos produtos que acabaram de chegar no **_Mercado de Artes do Bicha Fêmea_**…inspire-se!!
+  Se você quiser ver algumas sugestões, este post mostra alguns dos produtos que acabaram de chegar no <strong><em>Mercado de Artes do Bicha Fêmea</em></strong>…inspire-se!!
 </p>
 
 <!--more-->
@@ -22,7 +22,7 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  **_[Conjunto Bandeja&Potes Lavanda](http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/) _**
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">Conjunto Bandeja&Potes Lavanda</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -34,11 +34,11 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  **_[Regador Provençal](http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/) _**
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">Regador Provençal</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
-  Espalhar mimos decorativos pela casa deixa qualquer canto cheio de _bossa_! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?
+  Espalhar mimos decorativos pela casa deixa qualquer canto cheio de <em>bossa</em>! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  **_[Telas Mediterrâneo](http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/) _**
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -58,7 +58,7 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  **_[Quadro Divino Rosas Médias](http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/) _**
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/quadro-divino-rosas-medias/" target="_blank">Quadro Divino Rosas Médias</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -70,7 +70,7 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: center;">
-  **_[Espelho Provençal](http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/) _**
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/" target="_blank">Espelho Provençal</a></em></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -78,9 +78,9 @@ _Ho, ho, ho_… quem foi no supermercado por esses dias já deve ter notado que 
 </p>
 
 <p style="text-align: justify;">
-  Pensa que as novidades do **_[Mercado de Artes](http://www.trololodemulher.com.br/loja/) _** do Bicha Fêmea acabaram por aqui? Na verdade, há muito mais produtos em todos os espaços possíveis por lá: **_[Casa](http://www.trololodemulher.com.br/loja/casa/) _**, **_[Decoração](http://www.trololodemulher.com.br/loja/decoracao/) _** e **_Organização_**. Para facilitar a visita, tudo o que chegou recentemente no Mercado está no espaço de **_Novidades_**. Além disso, a **_[Vitrine de Destaques](http://www.trololodemulher.com.br/loja/2010/09/16/vitrine-de-artes-artesanato/) _** foi atualizada com os produtos mais queridos e que têm ganhado mais elogios das bichas fêmeas navegantes. Quer dar uma espiada? É **_[por aqui](http://www.trololodemulher.com.br/loja/) _**… basta clicar!
+  Pensa que as novidades do <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">Mercado de Artes</a></em></strong> do Bicha Fêmea acabaram por aqui? Na verdade, há muito mais produtos em todos os espaços possíveis por lá: <strong><em><a href="http://www.trololodemulher.com.br/loja/casa/" target="_blank">Casa</a></em></strong>, <strong><em><a href="http://www.trololodemulher.com.br/loja/decoracao/" target="_blank">Decoração</a></em></strong> e <strong><em>Organização</em></strong>. Para facilitar a visita, tudo o que chegou recentemente no Mercado está no espaço de <strong><em>Novidades</em></strong>. Além disso, a <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/16/vitrine-de-artes-artesanato/" target="_blank">Vitrine de Destaques</a></em></strong> foi atualizada com os produtos mais queridos e que têm ganhado mais elogios das bichas fêmeas navegantes. Quer dar uma espiada? É <strong><em><a href="http://www.trololodemulher.com.br/loja/" target="_blank">por aqui</a></em></strong>… basta clicar!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>

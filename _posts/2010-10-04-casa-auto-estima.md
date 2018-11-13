@@ -1,8 +1,8 @@
 ---
-
+id: 2889
 title: Sua casa também possui auto-estima.
-
-author: Lidiane
+date: 2010-10-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/10/04/casa-auto-estima/
 permalink: /2010/10/04/casa-auto-estima/
@@ -51,18 +51,18 @@ Não é preciso muito para deixar sua casa com uma super auto-estima. Em tempos 
   Controle-se. Comece a partir das coisas simples, de si mesmo, mas sem cobranças. Quando tudo começa a ficar em ordem, a paz ressurge.
 </p>
 
-_Imagem:_ [_stock-xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock-xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por **_<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/mila-viegas/">Mila Viegas</a>_**
+      Por <strong><em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/mila-viegas/">Mila Viegas</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      **_[Mila’s Ville – Open House!](http://milasville.blogspot.com/) _**
+      <strong><em><a href="http://milasville.blogspot.com/" target="_blank">Mila’s Ville – Open House!</a></em></strong>
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@ _Imagem:_ [_stock-xchng_](http://www.sxc.hu/)
  
 
 <p style="text-align: center;">
-  Faça como a Mila e seja uma <a href="http://www.trololodemulher.com.br/colabore/">**_bicha fêmea colaboradora_**</a>!
+  Faça como a Mila e seja uma <a href="http://www.trololodemulher.com.br/colabore/"><strong><em>bicha fêmea colaboradora</em></strong></a>!
 </p>
 
 ** **
@@ -88,17 +88,17 @@ _Imagem:_ [_stock-xchng_](http://www.sxc.hu/)
 **_[Bichas fêmeas em debate: enteado a vista no casamento. E agora?](http://www.trololodemulher.com.br/2010/05/12/enteado-casamento/)_**
 
 <p style="text-align: center;">
-  Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>**_ _**>**_ _**<a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a> > Sua casa também possui auto-estima.
+  Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a><strong><em> </em></strong>><strong><em> </em></strong><a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/"><strong><em>Comportamento</em></strong></a> > Sua casa também possui auto-estima.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">**_Receba gratuitamente em seu e-mail_**</a>!
+  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><strong><em>Receba gratuitamente em seu e-mail</em></strong></a>!
 </p>
 
 <p style="text-align: center;">
-  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">**_@bichafemea_**</a>.
+  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea"><strong><em>@bichafemea</em></strong></a>.
 </p>
 
 <p style="text-align: center;">
-  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>!
+  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a>!
 </p>

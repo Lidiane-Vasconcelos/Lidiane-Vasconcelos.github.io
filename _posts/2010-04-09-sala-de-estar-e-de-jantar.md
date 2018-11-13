@@ -1,15 +1,15 @@
 ---
-
+id: 2805
 title: 'Pitacos de bicha fêmea: sala de estar e de jantar.'
-
-author: Lidiane
+date: 2010-04-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/04/09/sala-de-estar-e-de-jantar/
 permalink: /2010/04/09/sala-de-estar-e-de-jantar/
 categories:
   - Salas
 ---
-[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg)Depois dos últimos pitacos sobre a [**_decoração do quarto_**](http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/) da Roberta, outra bicha fêmea navegante revelou que queria a nossa ajuda. Desta vez foi a Flávia Simoni, dona do blog [Lar Doce Lar](http://minhacasaminhafamilia.blogspot.com/) , e que está envolvida com a decoração da casa dela. Os _pitacos_ que ela pede são para a sala, que terá dois ambientes: estar e jantar. Olha a foto do ambiente de estar:
+[](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg)Depois dos últimos pitacos sobre a [**_decoração do quarto_**](http://www.trololodemulher.com.br/2010/03/29/pitacos-de-bicha-femea-decoracao-do-quarto-de-casal/) da Roberta, outra bicha fêmea navegante revelou que queria a nossa ajuda. Desta vez foi a Flávia Simoni, dona do blog <a href="http://minhacasaminhafamilia.blogspot.com/" target="_blank">Lar Doce Lar</a>, e que está envolvida com a decoração da casa dela. Os _pitacos_ que ela pede são para a sala, que terá dois ambientes: estar e jantar. Olha a foto do ambiente de estar:
 
 <!--more-->
 
@@ -121,11 +121,11 @@ Agora, adivinha? Falta o teu pitaco, bonitona! Ou você imagina que Flávia nã
 
 Ah! E tenha um ótimo fim de semana!
 
-Imagens: [My Home Ideas](http://www.myhomeideas.com/) 
+Imagens: <a href="http://www.myhomeideas.com/" target="_blank">My Home Ideas</a>
 
 **As bichas fêmea falam&#8230;**
 
-_&#8220;&#8230;Depois que comecei a fazer arquitetura, me enveredei por caminhos mais minimalistas, clean… mas sem grande certeza de espírito. A realidade é que adoro uma decoração bem pessoal, íntima e delicada… com salas bem ocupadas, sofas confortáveis e com aparência de preguiça total. Cores pastéis, mesas de centro rústicas, peças de decoração, quadros… personalidade. Mais recentemente, descobri a minha paixão pelos tecidos, que ainda não consegui empregar, mas vi que pode dar toques fantásticos de forma super simples. Uma manta jogada no sofá, cortinas novas, jogos de transparências para separar ambientes, almofadas divertidas, isso tudo dá a cara e a personalidade do espaço…&#8221;_ Letícia &#8211; [Casa de Catarina](http://blog.casadecatarina.com.br/) 
+_&#8220;&#8230;Depois que comecei a fazer arquitetura, me enveredei por caminhos mais minimalistas, clean… mas sem grande certeza de espírito. A realidade é que adoro uma decoração bem pessoal, íntima e delicada… com salas bem ocupadas, sofas confortáveis e com aparência de preguiça total. Cores pastéis, mesas de centro rústicas, peças de decoração, quadros… personalidade. Mais recentemente, descobri a minha paixão pelos tecidos, que ainda não consegui empregar, mas vi que pode dar toques fantásticos de forma super simples. Uma manta jogada no sofá, cortinas novas, jogos de transparências para separar ambientes, almofadas divertidas, isso tudo dá a cara e a personalidade do espaço…&#8221;_ Letícia &#8211; <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
 
 E como se não bastasse o excelente pitaco, a Letícia ainda me enviou imagens como referências, oh:
 
@@ -144,7 +144,7 @@ E como se não bastasse o excelente pitaco, a Letícia ainda me enviou imagens c
 <table align="center">
   <tr>
     <td>
-      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg"><img class="aligncenter size-full wp-image-4527" title="mla103942_1208_pillow_l" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg" alt="" width="225" height="281" /></a>**
+      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg"><img class="aligncenter size-full wp-image-4527" title="mla103942_1208_pillow_l" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/04/mla103942_1208_pillow_l.jpg" alt="" width="225" height="281" /></a></strong>
     </td>
     
     <td>
@@ -197,7 +197,7 @@ _Outra coisa é sobre o aparador branco: foi decidido que ele vai ficar na entra
   </tr>
 </table>
 
-_Então na sala de jantar ainda não tenho nada. Ela é estreita, por isso eu acho que é melhor a mesa retangular, mas como disse eu acho&#8230; por isso quero opinião de vocês! Acho que um aparador para mesa de jantar não vai ficar bacana&#8230; porque a sala de jantar é pequena. Estou muito na dúvida se vou usar mesa retangular ou se vai ser melhor usar redonda.&#8221;_ Flávia Simoni &#8211; [Lar Doce Lar ](http://minhacasaminhafamilia.blogspot.com/) 
+_Então na sala de jantar ainda não tenho nada. Ela é estreita, por isso eu acho que é melhor a mesa retangular, mas como disse eu acho&#8230; por isso quero opinião de vocês! Acho que um aparador para mesa de jantar não vai ficar bacana&#8230; porque a sala de jantar é pequena. Estou muito na dúvida se vou usar mesa retangular ou se vai ser melhor usar redonda.&#8221;_ Flávia Simoni &#8211; <a href="http://minhacasaminhafamilia.blogspot.com/" target="_blank">Lar Doce Lar </a>
 
 **Mais no Bicha Fêmea…**
 
@@ -212,5 +212,5 @@ _Então na sala de jantar ainda não tenho nada. Ela é estreita, por isso eu a
 **_[Decoração em salas de jantar e estar para inspiração](http://www.trololodemulher.com.br/2009/04/12/salas-de-estar-e-de-jantar-sofisticadas-para-inspirao/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

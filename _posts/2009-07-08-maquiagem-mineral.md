@@ -1,25 +1,25 @@
 ---
-
+id: 2681
 title: Tudo sobre maquiagem mineral
-
-author: Lidiane
+date: 2009-07-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/07/08/maquiagem-mineral/
 permalink: /2009/07/08/maquiagem-mineral/
 categories:
   - Beleza
 ---
-_**Por Ilália – [Maquiagem Mineral](http://maquiagemmineral.blogspot.com/) **_
+_**Por Ilália – <a href="http://maquiagemmineral.blogspot.com/" target="_blank">Maquiagem Mineral</a>**_
 
 Há algum tempo Lidiane me convidou para escrever um post para o Bicha Fêmea, mas com a correria do trabalho, do blog e das vendas Mary Kay, ainda não havia conseguido escrever. Hoje decidi que não sairia da frente do computador sem terminar esse texto.
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.polyvore.com (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com2_thumb.jpg" alt="www.polyvore.com (2)" width="240" height="240" align="right" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com2.jpg)Resolvi escrever sobre como começou meu interesse por maquiagem mineral e quais as vantagens desse tipo de maquiagem.
 
-Antes de me interessar por maquiagem mineral meu interesse foi por cosméticos naturais em geral, e esse foi o meu primeiro blog: [Cosméticos Orgânicos/Naturais](http://cosmeticosorganicosnaturais.blogspot.com/) .
+Antes de me interessar por maquiagem mineral meu interesse foi por cosméticos naturais em geral, e esse foi o meu primeiro blog: <a href="http://cosmeticosorganicosnaturais.blogspot.com/" target="_blank">Cosméticos Orgânicos/Naturais</a>.
 
 Adoro receitinhas caseiras, adoro entender do que são compostos os produtos que a gente usa e os efeitos deles sobre a nossa pele. Por isso sempre pesquisei sobre o assunto.
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.polyvore.com (5)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com5_thumb.jpg" alt="www.polyvore.com (5)" width="240" height="240" align="left" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com5.jpg) E foi pesquisando sobre alternativas de maquiagens mais naturais e que não causassem alergia que encontrei a maquiagem mineral. Gostei tanto que comecei um novo blog: [Maquiagem Mineral](http://maquiagemmineral.blogspot.com/) .
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="www.polyvore.com (5)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com5_thumb.jpg" alt="www.polyvore.com (5)" width="240" height="240" align="left" border="0" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/www-polyvore-com5.jpg) E foi pesquisando sobre alternativas de maquiagens mais naturais e que não causassem alergia que encontrei a maquiagem mineral. Gostei tanto que comecei um novo blog: <a href="http://maquiagemmineral.blogspot.com/" target="_blank">Maquiagem Mineral</a>.
 
 Livre de conservantes, talco, óleo, fragrâncias e outras substâncias químicas nocivas, a maquiagem mineral se apresenta na forma de pó finíssimo e tem basicamente três vantagens:
 
@@ -39,11 +39,11 @@ E não deixem de visitar o blog, ficarei muito feliz em ver vocês por lá!
 
 Beijinhos,
 
-[Ilália Cristina](http://maquiagemmineral.blogspot.com/) 
+<a href="http://maquiagemmineral.blogspot.com/" target="_blank">Ilália Cristina</a>
 
 **Quer ver mais dicas e sugestões sobre beleza?**
 
-<a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/" target="_self">**_Cabelo enrolado tem corte, sim!_**</a>
+<a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/" target="_self"><strong><em>Cabelo enrolado tem corte, sim!</em></strong></a>
 
 **_<a href="http://www.trololodemulher.com.br/2009/12/14/atitudes-e-tratamentos-para-atenuar-a-celulite/" target="_self">Atitudes e tratamentos para atenuar a celulite.</a>_**
 

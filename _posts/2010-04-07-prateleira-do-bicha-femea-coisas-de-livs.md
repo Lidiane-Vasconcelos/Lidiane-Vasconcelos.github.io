@@ -1,8 +1,8 @@
 ---
-
+id: 2792
 title: 'Prateleira do Bicha Fêmea: Coisas de Livs'
-
-author: Lidiane
+date: 2010-04-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/04/07/prateleira-do-bicha-femea-coisas-de-livs/
 permalink: /2010/04/07/prateleira-do-bicha-femea-coisas-de-livs/
@@ -11,7 +11,7 @@ categories:
 ---
 Qual é a bicha fêmea, dessas genuínas como nós, que não gosta de sofrer tentações vendo _fofurices_ úteis, _hein_? Sim, porque queremos gastar o nosso rico dinheirinho em coisas bonitas, que deixam a gente feliz só de olhar, mas é preciso que tudo seja _usável_, não é verdade?
 
-Pois a prateleira de hoje tem as **_[Coisas de Livs](http://coisasdelivs.blogspot.com/) _**, tudo bonito e gostoso de ver, mas bom mesmo seria usá-las…
+Pois a prateleira de hoje tem as **_<a href="http://coisasdelivs.blogspot.com/" target="_blank">Coisas de Livs</a>_**, tudo bonito e gostoso de ver, mas bom mesmo seria usá-las…
 
 <!--more-->
 
@@ -91,4 +91,4 @@ Muitas outras coisas mais são produzidas por essa arteira, e todas revelam femi
   </tr>
 </table>
 
-Há muito mais das **_[Coisas de Livs](http://coisasdelivs.blogspot.com/) _** em seu blog. São bolsas, penduricalhos, organizadores e tantas coisas mais. Tecidos parecem mesmo ser sua matéria prima preferida, e deles saem _fofurices_ como essas, úteis e bonitas, o que por lá tem aos montes…
+Há muito mais das **_<a href="http://coisasdelivs.blogspot.com/" target="_blank">Coisas de Livs</a>_** em seu blog. São bolsas, penduricalhos, organizadores e tantas coisas mais. Tecidos parecem mesmo ser sua matéria prima preferida, e deles saem _fofurices_ como essas, úteis e bonitas, o que por lá tem aos montes…

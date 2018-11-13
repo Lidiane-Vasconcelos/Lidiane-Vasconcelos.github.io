@@ -1,15 +1,15 @@
 ---
-
+id: 2758
 title: Prateleira do Bicha Fêmea – Beta Bernardo
-
-author: Lidiane
+date: 2010-01-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/01/06/prateleira-do-bicha-femea-beta-bernardo/
 permalink: /2010/01/06/prateleira-do-bicha-femea-beta-bernardo/
 categories:
   - Sem categoria
 ---
-Já faz um tempo que aprendi a admirar mais e mais o trabalho dos fotógrafos. Isso tem um marco: foi quando conheci a Beta Bernardo, a artista que escreve e enfeita com imagens o [Beta Bernardo.com](http://www.betabernardo.com/) . Com esta bonita eu percebi que há algo diferente no trabalho de um profissional talentoso, e é o que percebo que está nas imagens que ela capta: a sensibilidade.
+Já faz um tempo que aprendi a admirar mais e mais o trabalho dos fotógrafos. Isso tem um marco: foi quando conheci a Beta Bernardo, a artista que escreve e enfeita com imagens o <a href="http://www.betabernardo.com/" target="_blank">Beta Bernardo.com</a>. Com esta bonita eu percebi que há algo diferente no trabalho de um profissional talentoso, e é o que percebo que está nas imagens que ela capta: a sensibilidade.
 
 Sim, Beta Bernardo imprime ternura, vida, movimento, cheiro e sonoridade nas imagens que ela produz. Em poucos trabalhos eu enxergo o que há em suas fotos: poesia.
 
@@ -39,7 +39,7 @@ A capital do Rio de Janeiro é o lugar onde essa mulher tão sensível mora, e l
 
 [<img class="aligncenter size-full wp-image-4004" title="3872078570_42052bfeef[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/12/3872078570_42052bfeef1.jpg" alt="" width="500" height="333" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/12/3872078570_42052bfeef1.jpg)
 
-Agora me diga: já pensou ter registros de sua vida, seu bebê, seu casamento, ou o que quer que seja, sob as lentes de alguém tão talentoso? Um álbum de fotografias com assinatura da [Beta Bernardo](http://www.betabernardo.com/)  é, indiscutivelmente, um luxo que faz bem a alma de qualquer uma de nós. Registrar momentos é bom, e com a beleza singular dos detalhes que somente ela consegue captar… ah! É outro nível!!!
+Agora me diga: já pensou ter registros de sua vida, seu bebê, seu casamento, ou o que quer que seja, sob as lentes de alguém tão talentoso? Um álbum de fotografias com assinatura da <a href="http://www.betabernardo.com/" target="_blank">Beta Bernardo</a> é, indiscutivelmente, um luxo que faz bem a alma de qualquer uma de nós. Registrar momentos é bom, e com a beleza singular dos detalhes que somente ela consegue captar… ah! É outro nível!!!
 
 Olha o registro desses bebês!
 
@@ -61,7 +61,7 @@ Agora olha bem o registro lindo desses momentos de grávidas que a Beta fotograf
 
 Há como não ficar sensibilizada com isso tudo? Quem não gostaria de ter algum momento da vida registrado com tanta beleza? Quem?
 
-Tem muito mais dessa talentosíssima fotógrafa em seu blog, o [Beta Bernardo.com](http://www.betabernardo.com/) , e em seu [Flickr](http://www.flickr.com/photos/roberta003/) . É pura poesia em imagens…
+Tem muito mais dessa talentosíssima fotógrafa em seu blog, o <a href="http://www.betabernardo.com/" target="_blank">Beta Bernardo.com</a>, e em seu <a href="http://www.flickr.com/photos/roberta003/" target="_blank">Flickr</a>. É pura poesia em imagens…
 
 **Mais no Bicha Fêmea…**
 

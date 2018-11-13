@@ -1,8 +1,8 @@
 ---
-
+id: 3658
 title: O que tem na Prateleira do Trololó de Mulher de Setembro?
-
-author: Lidiane
+date: 2016-09-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/09/06/trololo-de-mulher-6/
 permalink: /2016/09/06/trololo-de-mulher-6/
@@ -10,7 +10,7 @@ categories:
   - Prateleira do Trololó de Mulher
 ---
 <p align="justify">
-  Setembro é um mês tão gostoso! A gente começa uma nova estação, a Primavera, e começa a entrar no clima do Verão que está por vir. O mês inspira novidades, abertura para o novo, para a vida, para a alegria de viver! Neste mês quero te mostrar um lançamento que é pura lindeza da **Boutique Ateline**, dicas e gostosuras da **Xique Xique Brasil** para o seu **bebê** e para a **casa**, tem também o produto campeão da **Carllos Criações** e uma delicadeza apaixonante da **Silvana R. Acessórios**. Tudo selecionado com carinho pra te mostrar apenas uma pitadinha dos **parceiros comerciais queridos do Trololó de Mulher**. Olha só:
+  Setembro é um mês tão gostoso! A gente começa uma nova estação, a Primavera, e começa a entrar no clima do Verão que está por vir. O mês inspira novidades, abertura para o novo, para a vida, para a alegria de viver! Neste mês quero te mostrar um lançamento que é pura lindeza da <strong>Boutique Ateline</strong>, dicas e gostosuras da <strong>Xique Xique Brasil</strong> para o seu <strong>bebê</strong> e para a <strong>casa</strong>, tem também o produto campeão da <strong>Carllos Criações</strong> e uma delicadeza apaixonante da <strong>Silvana R. Acessórios</strong>. Tudo selecionado com carinho pra te mostrar apenas uma pitadinha dos <strong>parceiros comerciais queridos do Trololó de Mulher</strong>. Olha só:
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Floreiras/Hortas Verticais com 4 caixotes removíveis, envernizadas no tom natural e com rodinhas. Você pode encomendar a sua na [Carllos Criações](http://vitrine.elo7.com.br/carlloscriacoes) . Entre em contato!
+  Floreiras/Hortas Verticais com 4 caixotes removíveis, envernizadas no tom natural e com rodinhas. Você pode encomendar a sua na <a href="http://vitrine.elo7.com.br/carlloscriacoes" target="_blank">Carllos Criações</a>. Entre em contato!
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Como escolher o melhor sapatinho de bebê? Sapatinho de bebê é peça essencial, porque a criança fica bem vestida, e com pezinhos bem protegidos. [Clique aqui e veja dicas](http://www.trololodemulher.com.br/2016/08/12/sapatinho-de-bebe/)  para fazer uma ótima escolha.
+  Como escolher o melhor sapatinho de bebê? Sapatinho de bebê é peça essencial, porque a criança fica bem vestida, e com pezinhos bem protegidos. <a href="http://www.trololodemulher.com.br/2016/08/12/sapatinho-de-bebe/" target="_blank">Clique aqui e veja dicas</a> para fazer uma ótima escolha.
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="center">
-  Calcinha 100% algodão: conforto e saúde para as princesinhas. Acesse a [Xique Xique Brasil](https://www.xiquexiquebrasil.com.br/)  e compre online lindos modelos com rendas e bordados incríveis.
+  Calcinha 100% algodão: conforto e saúde para as princesinhas. Acesse a <a href="https://www.xiquexiquebrasil.com.br/" target="_blank">Xique Xique Brasil</a> e compre online lindos modelos com rendas e bordados incríveis.
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  Pro garrafão de água ganhar bossa, capas com bordado em richelieu, com linha branca e de cor. Lindezas como essa você encontra na [Xique Xique Brasil](https://www.facebook.com/XiqueXiqueBrasil/) .
+  Pro garrafão de água ganhar bossa, capas com bordado em richelieu, com linha branca e de cor. Lindezas como essa você encontra na <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Xique Xique Brasil</a>.
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Há muito tempo sou fã dos jogos americanos, e quero te convencer a usar essas lindezas também. Então, oh: [clique aqui e confira 6 razões para usar jogos americanos à mesa](http://www.trololodemulher.com.br/2016/08/30/jogos-americanos/) .
+  Há muito tempo sou fã dos jogos americanos, e quero te convencer a usar essas lindezas também. Então, oh: <a href="http://www.trololodemulher.com.br/2016/08/30/jogos-americanos/" target="_blank">clique aqui e confira 6 razões para usar jogos americanos à mesa</a>.
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  Nova coleção de mini-telas para enfeitar cantinhos queridos. Amei os quadrinhos com **Nossa Senhora**, pra inspirar a fé; o da **cozinha**, pra temperar com afeto; e o **London**, pra enfeitar o home office. Todos da [Boutique Ateline](http://www.elo7.com.br/boutiqueateline/loja) .
+  Nova coleção de mini-telas para enfeitar cantinhos queridos. Amei os quadrinhos com <strong>Nossa Senhora</strong>, pra inspirar a fé; o da <strong>cozinha</strong>, pra temperar com afeto; e o <strong>London</strong>, pra enfeitar o home office. Todos da <a href="http://www.elo7.com.br/boutiqueateline/loja" target="_blank">Boutique Ateline</a>.
 </p>
 
 <p align="center">
@@ -94,13 +94,13 @@ categories:
 </p>
 
 <p align="center">
-  Colar Relicário Bizantino &#8211; Colar comprido em corrente ouro antigo com pingente relicário estilo bizantino. Tamanho do relicário: 3 cm. Tão lindo quanto o colar, é ver as avaliações das clientes em torno da compra de uma peça dessas, que vão desde a qualidade e beleza do produto, até a beleza da embalagem, passando pelo atendimento nota 10! O mérito é da [Silvana R. Acessórios](http://www.elo7.com.br/silvanaracessorios/loja) .
+  Colar Relicário Bizantino &#8211; Colar comprido em corrente ouro antigo com pingente relicário estilo bizantino. Tamanho do relicário: 3 cm. Tão lindo quanto o colar, é ver as avaliações das clientes em torno da compra de uma peça dessas, que vão desde a qualidade e beleza do produto, até a beleza da embalagem, passando pelo atendimento nota 10! O mérito é da <a href="http://www.elo7.com.br/silvanaracessorios/loja" target="_blank">Silvana R. Acessórios</a>.
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

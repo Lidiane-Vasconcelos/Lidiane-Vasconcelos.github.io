@@ -1,8 +1,8 @@
 ---
-
+id: 3375
 title: Como ser resiliente? A vida ensina…
-
-author: Lidiane
+date: 2014-12-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/12/05/como-ser-resiliente/
 permalink: /2014/12/05/como-ser-resiliente/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  Meu Artur completou 2 anos bem recentemente. Enquanto eu estava grávida, uma amiga da blogosfera também estava, e pariu seu pequeno Theo mais ou menos na época em que Artur nasceu. Estou falando de **Ly Mello**, uma mulher que se mostrou muito mais forte do que eu poderia imaginar, e que deu uma lição incrível e absurda do que é essa tal resiliência, na prática.
+  Meu Artur completou 2 anos bem recentemente. Enquanto eu estava grávida, uma amiga da blogosfera também estava, e pariu seu pequeno Theo mais ou menos na época em que Artur nasceu. Estou falando de <strong>Ly Mello</strong>, uma mulher que se mostrou muito mais forte do que eu poderia imaginar, e que deu uma lição incrível e absurda do que é essa tal resiliência, na prática.
 </p>
 
 <p align="justify">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [boredpanda](http://www.boredpanda.com/plants-flowers-versus-concrete-asphalt-pavement/) 
+  Imagem: <a href="http://www.boredpanda.com/plants-flowers-versus-concrete-asphalt-pavement/" target="_blank">boredpanda</a>
 </p>
 
 <p align="justify">
@@ -35,27 +35,27 @@ categories:
 </p>
 
 > <p align="justify">
->   **Quando recebi o convite da Lidi para falar sobre resiliência, não hesitei, embora nesse período tenha recebido vários convites, mas não me sentia à vontade para falar. Na psicologia, a resiliência é a capacidade de uma pessoa lidar com seus próprios problemas, vencer obstáculos e não ceder à pressão, seja qual for a situação.**
+>   <strong>Quando recebi o convite da Lidi para falar sobre resiliência, não hesitei, embora nesse período tenha recebido vários convites, mas não me sentia à vontade para falar. Na psicologia, a resiliência é a capacidade de uma pessoa lidar com seus próprios problemas, vencer obstáculos e não ceder à pressão, seja qual for a situação.</strong>
 > </p>
 
 > <p align="justify">
->   **Bom, primeiro vou me apresentar. Sou Aline, 39 anos, casada, mãe do Pedro de 14 anos, Livia de 8 e do Theo, que hoje não está mais entre nós, pelo menos fisicamente.**
+>   <strong>Bom, primeiro vou me apresentar. Sou Aline, 39 anos, casada, mãe do Pedro de 14 anos, Livia de 8 e do Theo, que hoje não está mais entre nós, pelo menos fisicamente.</strong>
 > </p>
 
 > <p align="justify">
->   **Nunca me imaginei uma mulher forte, capaz de vencer desafios e superar dificuldades, mas a perda do meu filho no ano de 2013, mudou o rumo da minha vida. Eu não sei dizer como consegui sair da fase total de escuridão que assolou os meus dias. Lembro dos dias na cama, onde eu só tirava a camisola para tomar banho, período em que meu marido foi pai e mãe dos nossos filhos e um companheiro sem igual. **
+>   <strong>Nunca me imaginei uma mulher forte, capaz de vencer desafios e superar dificuldades, mas a perda do meu filho no ano de 2013, mudou o rumo da minha vida. Eu não sei dizer como consegui sair da fase total de escuridão que assolou os meus dias. Lembro dos dias na cama, onde eu só tirava a camisola para tomar banho, período em que meu marido foi pai e mãe dos nossos filhos e um companheiro sem igual. </strong>
 > </p>
 
 > <p align="justify">
->   **Certo dia, ouvi a Livia dizer no corredor de casa, &#8220;minha mãe nunca sai da cama.&#8221; Nesse momento me deu um &#8220;start&#8221;. Meus filhos perderam o irmão e estavam perdendo a mãe também. Não bastasse toda a história pesada que teriam que carregar durante a vida, ainda levariam a imagem da mãe que ama mais o irmão que se foi, do que os filhos que ficaram.**
+>   <strong>Certo dia, ouvi a Livia dizer no corredor de casa, &#8220;minha mãe nunca sai da cama.&#8221; Nesse momento me deu um &#8220;start&#8221;. Meus filhos perderam o irmão e estavam perdendo a mãe também. Não bastasse toda a história pesada que teriam que carregar durante a vida, ainda levariam a imagem da mãe que ama mais o irmão que se foi, do que os filhos que ficaram.</strong>
 > </p>
 
 > <p align="justify">
->   **Não sei se sou resiliente, teimosa, ou se não me sobrou opção, mas a vida não faz uma pausa para você tentar se reerguer, então decidi pegar o cabresto e retomar a direção. Não posso mudar nada do que aconteceu, lamentar não adianta, então resolvi tentar fazer o melhor daquele momento em diante. Nesse período fiz terapia com uma profissional, e também com amigas que passaram pela mesma experiência que eu, e que me abraçaram de uma tal forma, que me ensinaram e me ensinam diariamente; e uma vez, li a seguinte frase de uma delas, &#8220;eu não sou nem quero ser a Mulher Maravilha, apesar de, muitas vezes, estar dando conta de continuar”. Também não sou nem quero ser uma coitada, apesar de, muitas vezes, não estar dando conta de continuar &#8220;.**
+>   <strong>Não sei se sou resiliente, teimosa, ou se não me sobrou opção, mas a vida não faz uma pausa para você tentar se reerguer, então decidi pegar o cabresto e retomar a direção. Não posso mudar nada do que aconteceu, lamentar não adianta, então resolvi tentar fazer o melhor daquele momento em diante. Nesse período fiz terapia com uma profissional, e também com amigas que passaram pela mesma experiência que eu, e que me abraçaram de uma tal forma, que me ensinaram e me ensinam diariamente; e uma vez, li a seguinte frase de uma delas, &#8220;eu não sou nem quero ser a Mulher Maravilha, apesar de, muitas vezes, estar dando conta de continuar”. Também não sou nem quero ser uma coitada, apesar de, muitas vezes, não estar dando conta de continuar &#8220;.</strong>
 > </p>
 
 > <p align="justify">
->   **Muitas pessoas escolhem não agir diante de uma situação, sim, eu digo escolhem, porque a opção é nossa! Mais fácil ficar sempre na &#8220;zona de conforto&#8221; que a dor nos traz, assumir a posição de coitado, do que falhar em mais alguma coisa. Deixar a vida seguir sem se dar o direito de tentar algo, afinal de contas, a gente sempre acha que não tem direito de voltar a ser feliz.**
+>   <strong>Muitas pessoas escolhem não agir diante de uma situação, sim, eu digo escolhem, porque a opção é nossa! Mais fácil ficar sempre na &#8220;zona de conforto&#8221; que a dor nos traz, assumir a posição de coitado, do que falhar em mais alguma coisa. Deixar a vida seguir sem se dar o direito de tentar algo, afinal de contas, a gente sempre acha que não tem direito de voltar a ser feliz.</strong>
 > </p>
 
 <p align="center">
@@ -67,15 +67,15 @@ categories:
 </p>
 
 > <p align="justify">
->   **Costumo dizer que passei o que existe de pior na vida de alguém, que é perder um filho, então nada daqui pra frente vai me fazer parar e desistir! Por ele e por nós! Sofrer, chorar, lamentar é normal, mergulhar na dor, não! Em certos casos, ajuda profissional é indicado para ajudar a definir objetivos, fortalecer seu emocional e aceitar as mudanças que a vida impõe! Lembrem-se que, “resiliência é uma dança bem sucedida na música da vida. Não uma dança com bailarinos solitários: ela pede parcerias, empatia, encontros. Ela fala de amor”.**
+>   <strong>Costumo dizer que passei o que existe de pior na vida de alguém, que é perder um filho, então nada daqui pra frente vai me fazer parar e desistir! Por ele e por nós! Sofrer, chorar, lamentar é normal, mergulhar na dor, não! Em certos casos, ajuda profissional é indicado para ajudar a definir objetivos, fortalecer seu emocional e aceitar as mudanças que a vida impõe! Lembrem-se que, “resiliência é uma dança bem sucedida na música da vida. Não uma dança com bailarinos solitários: ela pede parcerias, empatia, encontros. Ela fala de amor”.</strong>
 > </p>
 
 <p align="justify">
-  Em tempo: você encontra a Ly Mello através de seu blog, o [*Design My Life*](http://lymello.blogspot.com.br/) . Seu blog não está sendo mais atualizado, mas seus posts sobre decoração estão disponíveis para consulta. O conteúdo é incrível, e vale a pena uma conferida, viu? Além do mais, há como ter contato mais próximo com essa bonita forte e guerreira através de sua [fanpage no Fecebook, clicando bem aqui](https://www.facebook.com/pages/Design-My-Life/197015870398157?sk=timeline) . Vai lá!
+  Em tempo: você encontra a Ly Mello através de seu blog, o <a href="http://lymello.blogspot.com.br/" target="_blank">*Design My Life*</a>. Seu blog não está sendo mais atualizado, mas seus posts sobre decoração estão disponíveis para consulta. O conteúdo é incrível, e vale a pena uma conferida, viu? Além do mais, há como ter contato mais próximo com essa bonita forte e guerreira através de sua <a href="https://www.facebook.com/pages/Design-My-Life/197015870398157?sk=timeline" target="_blank">fanpage no Fecebook, clicando bem aqui</a>. Vai lá!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

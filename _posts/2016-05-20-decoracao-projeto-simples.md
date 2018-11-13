@@ -1,8 +1,8 @@
 ---
-
+id: 3613
 title: Execute 3 projetos de decoração num final de semana.
-
-author: Lidiane
+date: 2016-05-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/05/20/decoracao-projeto-simples/
 permalink: /2016/05/20/decoracao-projeto-simples/
@@ -26,19 +26,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Antes & depois de uma mesa de cabeceira: haja inspiração!**](http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-3/" target="_blank"><strong>Antes & depois de uma mesa de cabeceira: haja inspiração!</strong></a>
 </p>
 
 <p align="justify">
-  [**Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!**](http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/) 
+  <a href="http://www.trololodemulher.com.br/2013/05/08/moveis-quarto/" target="_blank"><strong>Móveis da casa: falta mesa de cabeceira no quarto? Improvisa!</strong></a>
 </p>
 
 <p align="justify">
-  [**Quarto: ideias de organização para a cabeceira da cama.**](http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/) 
+  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  Escolha um cantinho de parede bem delimitado na sua casa pra montar ali um espaço _superultramega_ charmoso. A sugestão é aplicar papel de parede somente ali e, por isso, dá para escolher uma estampa ou textura mais acentuada, já que a área trabalhada será bem pequena. Escolha móveis e itens de decoração que vão te ajudar a reforçar esse cantinho cheio de charme, a exemplo dessa composição, onde foi usado um pequeno aparador + espelho + pequenos objetos para decorar. Inspire-se e faça algo similar em seus domínios também.
+  Escolha um cantinho de parede bem delimitado na sua casa pra montar ali um espaço <em>superultramega</em> charmoso. A sugestão é aplicar papel de parede somente ali e, por isso, dá para escolher uma estampa ou textura mais acentuada, já que a área trabalhada será bem pequena. Escolha móveis e itens de decoração que vão te ajudar a reforçar esse cantinho cheio de charme, a exemplo dessa composição, onde foi usado um pequeno aparador + espelho + pequenos objetos para decorar. Inspire-se e faça algo similar em seus domínios também.
 </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

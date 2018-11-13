@@ -1,8 +1,8 @@
 ---
-
+id: 3357
 title: Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.
-
-author: Lidiane
+date: 2014-10-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/10/15/escondidinho-file-suino/
 permalink: /2014/10/15/escondidinho-file-suino/
@@ -26,11 +26,11 @@ categories:
 </p>
 
 > <p align="justify">
->   **Filé suíno: comprei o filé suíno, cortei na ponta da faca cubos bem pequenos. Em uma panela, coloquei um fio de azeite, depois cebola roxa e alho picadinho. Depois de levemente murchar, acrescentei os cubos do filé suíno. Deixei selar bem. Acrescentei um pouco de vinho tinto, acertei o sal, pimenta moída na hora e deixei cozinhar bem. Por fim coloquei tomilho fresco. Reserve.”**
+>   <strong>Filé suíno: comprei o filé suíno, cortei na ponta da faca cubos bem pequenos. Em uma panela, coloquei um fio de azeite, depois cebola roxa e alho picadinho. Depois de levemente murchar, acrescentei os cubos do filé suíno. Deixei selar bem. Acrescentei um pouco de vinho tinto, acertei o sal, pimenta moída na hora e deixei cozinhar bem. Por fim coloquei tomilho fresco. Reserve.”</strong>
 > </p>
 
 > <p align="justify">
->   **Purê de batata doce roxa: descasquei as batatas, cortei em cubos pequenos, coloquei em um saco, dei um nó, fiz alguns furinhos e levei ao microondas até que ficassem bem macias. Amassei as batatas e em uma panela coloquei: azeite, leite desnatado, sal, pimenta moída na hora e chia.”**
+>   <strong>Purê de batata doce roxa: descasquei as batatas, cortei em cubos pequenos, coloquei em um saco, dei um nó, fiz alguns furinhos e levei ao microondas até que ficassem bem macias. Amassei as batatas e em uma panela coloquei: azeite, leite desnatado, sal, pimenta moída na hora e chia.”</strong>
 > </p>
 
 <p align="center">
@@ -38,23 +38,23 @@ categories:
 </p>
 
 > <p align="justify">
->   **Montagem: em uma vasilha que possa ir ao forno, untei com azeite, coloquei a carne, depois o purê por cima e salpiquei muçarela light. Levei para gratinar.”**
+>   <strong>Montagem: em uma vasilha que possa ir ao forno, untei com azeite, coloquei a carne, depois o purê por cima e salpiquei muçarela light. Levei para gratinar.”</strong>
 > </p>
 
 <p align="justify">
-  **Quer ver mais receitas saudáveis e gostosas da Carol?**
+  <strong>Quer ver mais receitas saudáveis e gostosas da Carol?</strong>
 </p>
 
 <p align="justify">
-  [**Hamburguer de grão de bico facinho, facinho…**](http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/) 
+  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
 </p>
 
 <p align="justify">
-  [**Canelone de berinjela + queijo cottage (no molho caseiro).**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro).</strong></a>
 </p>
 
 <p align="justify">
-  [**Quibe rústico assado de abóbora + sua salada do coração.**](http://www.trololodemulher.com.br/2014/09/17/quibe-rustico-assado-abobora/) 
+  <a href="http://www.trololodemulher.com.br/2014/09/17/quibe-rustico-assado-abobora/" target="_blank"><strong>Quibe rústico assado de abóbora + sua salada do coração.</strong></a>
 </p>
 
 <p align="center">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

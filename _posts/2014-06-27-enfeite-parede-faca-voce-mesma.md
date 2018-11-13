@@ -1,8 +1,8 @@
 ---
-
+id: 3315
 title: Faça você mesma um enfeite de parede para sua casa.
-
-author: Lidiane
+date: 2014-06-27T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/06/27/enfeite-parede-faca-voce-mesma/
 permalink: /2014/06/27/enfeite-parede-faca-voce-mesma/
@@ -31,35 +31,35 @@ Eu amo espiar ideias de decoração do tipo “faça você mesma”, especialmen
 </p>
 
 <p align="justify">
-  **Não deixe de espiar:**
+  <strong>Não deixe de espiar:</strong>
 </p>
 
 <p align="justify">
-  [**Baú vintage: faça você mesma.**](http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/) 
+  <a href="http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/" target="_blank"><strong>Baú vintage: faça você mesma.</strong></a>
 </p>
 
 <p align="justify">
-  [**Decoração “faça você mesma”: luminárias de taça de vinho.**](http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/) 
+  <a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank"><strong>Decoração “faça você mesma”: luminárias de taça de vinho.</strong></a>
 </p>
 
 <p align="justify">
-  [**Faça você mesma: moldura de porta-retratos linda de viver.**](http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/) 
+  <a href="http://www.trololodemulher.com.br/2014/05/13/moldura-porta-retratos/" target="_blank"><strong>Faça você mesma: moldura de porta-retratos linda de viver.</strong></a>
 </p>
 
 <p align="justify">
-  Depois de pronto você pode fixar sua palavra na parede usando fita dupla face, certo? Quer ver como faz? O PAP está em inglês mas, oh: vai por mim, pois só de ver as imagens você mata a charada. É tudo _muuuuito_ simples, pode acreditar, viu? Então, vem cá e [clica aqui](http://www.dwellbeautiful.com/eat-kitchen-sign/) . Divirta-se!
+  Depois de pronto você pode fixar sua palavra na parede usando fita dupla face, certo? Quer ver como faz? O PAP está em inglês mas, oh: vai por mim, pois só de ver as imagens você mata a charada. É tudo <em>muuuuito</em> simples, pode acreditar, viu? Então, vem cá e <a href="http://www.dwellbeautiful.com/eat-kitchen-sign/" target="_blank">clica aqui</a>. Divirta-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -70,13 +70,13 @@ Eu amo espiar ideias de decoração do tipo “faça você mesma”, especialmen
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -85,5 +85,5 @@ Eu amo espiar ideias de decoração do tipo “faça você mesma”, especialmen
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
 </p>

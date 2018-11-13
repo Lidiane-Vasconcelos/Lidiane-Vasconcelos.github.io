@@ -1,8 +1,8 @@
 ---
-
+id: 3735
 title: 'Estilo industrial na decoração: 15 imagens pra mudar conceitos.'
-
-author: Lidiane
+date: 2017-03-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/03/07/estilo-industrial-na-decoracao/
 permalink: /2017/03/07/estilo-industrial-na-decoracao/
@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  O **estilo industrial na decoração** deixa à mostra vigas, tijolos e tubulações, tudo fica aparente numa clara intenção de valorização desses materiais. Se por um lado abrir mão de esconder essas estruturas representa economizar na reforma tanto em tempo, quanto em gastos, por outro, se feito com bom gosto, o resultado final pode apresentar uma estética bastante atraente e interessante.
+  O <strong>estilo industrial na decoração</strong> deixa à mostra vigas, tijolos e tubulações, tudo fica aparente numa clara intenção de valorização desses materiais. Se por um lado abrir mão de esconder essas estruturas representa economizar na reforma tanto em tempo, quanto em gastos, por outro, se feito com bom gosto, o resultado final pode apresentar uma estética bastante atraente e interessante.
 </p>
 
 <p align="justify">
-  Nunca vivi de amores por essa tendência, e essa é a verdade, até que… fui a uma tapiocaria em Fortaleza-CE, nas férias de Julho do ano passado. A tapioca servida lá era muito gostosa, mas o que chamou mesmo minha atenção foi a decoração do ambiente. Tijolinhos aparentes, tubulação metálica exposta, piso cimentício… tudo tão harmonioso, pincelado por objetos que davam _bossa_ ao espaço, que me rendi: o estilo industrial tem, sim, seu charme especial.
+  Nunca vivi de amores por essa tendência, e essa é a verdade, até que… fui a uma tapiocaria em Fortaleza-CE, nas férias de Julho do ano passado. A tapioca servida lá era muito gostosa, mas o que chamou mesmo minha atenção foi a decoração do ambiente. Tijolinhos aparentes, tubulação metálica exposta, piso cimentício… tudo tão harmonioso, pincelado por objetos que davam <em>bossa</em> ao espaço, que me rendi: o estilo industrial tem, sim, seu charme especial.
 </p>
 
 <p align="justify">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [H is for Home](https://www.flickr.com/photos/h_is_for_home/32634336932/)  via [Foter.com](http://foter.com/re/e4bd80)  / [CC BY-NC](http://creativecommons.org/licenses/by-nc/2.0/) 
+  Imagem: <a href="https://www.flickr.com/photos/h_is_for_home/32634336932/" target="_blank">H is for Home</a> via <a href="http://foter.com/re/e4bd80" target="_blank">Foter.com</a> / <a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_blank">CC BY-NC</a>
 </p>
 
 <p align="justify">
-  **<span style="font-size: x-large;">Tubulação aparente</span>**
+  <strong><span style="font-size: x-large;">Tubulação aparente</span></strong>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa e Jardim](http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html) 
+  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html" target="_blank">Casa e Jardim</a>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Morar Kallas](http://morarkallas.com.br/index.php/2013/10/tubulacao-aparente-realca-estilo-descolado-do-apartamento/) 
+  Via <a href="http://morarkallas.com.br/index.php/2013/10/tubulacao-aparente-realca-estilo-descolado-do-apartamento/" target="_blank">Morar Kallas</a>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<span style="font-size: x-large;">Tijolos à mostra</span>**
+  <strong><span style="font-size: x-large;">Tijolos à mostra</span></strong>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [limaonaagua](http://www.limaonagua.com.br/inspiracoes/18-imagens-para-voce-se-apaixonar-pelo-estilo-industrial-de-decoracao/) 
+  Via <a href="http://www.limaonagua.com.br/inspiracoes/18-imagens-para-voce-se-apaixonar-pelo-estilo-industrial-de-decoracao/" target="_blank">limaonaagua</a>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Zhulong](http://www.zhulong.com/) 
+  Via <a href="http://www.zhulong.com/" target="_blank">Zhulong</a>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa e Jardim](http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html) 
+  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Galeria-de-fotos/fotos/2014/05/estilo-industrial.html" target="_blank">Casa e Jardim</a>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa Abril](http://casa.abril.com.br/ambientes/8-ambientes-de-casapro-com-estilo-industrial/) 
+  Via <a href="http://casa.abril.com.br/ambientes/8-ambientes-de-casapro-com-estilo-industrial/" target="_blank">Casa Abril</a>
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ categories:
 </p>
 
 <p align="justify">
-  **<span style="font-size: x-large;">Vigas descobertas</span>**
+  <strong><span style="font-size: x-large;">Vigas descobertas</span></strong>
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa e Jardim](http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/noticia/2016/01/decoracao-industrial.html) 
+  Via <a href="http://revistacasaejardim.globo.com/Casa-e-Jardim/Decoracao/noticia/2016/01/decoracao-industrial.html" target="_blank">Casa e Jardim</a>
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Viva Decora](https://www.vivadecora.com.br/foto/23159/sala-de-estar-com-prateleira-rustica) 
+  Via <a href="https://www.vivadecora.com.br/foto/23159/sala-de-estar-com-prateleira-rustica" target="_blank">Viva Decora</a>
 </p>
 
 <p align="center">
@@ -174,7 +174,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

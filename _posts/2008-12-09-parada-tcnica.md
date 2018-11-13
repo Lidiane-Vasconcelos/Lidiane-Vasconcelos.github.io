@@ -1,8 +1,8 @@
 ---
-
+id: 2597
 title: Parada técnica…
-
-author: Lidiane
+date: 2008-12-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2008/12/09/parada-tcnica/
 permalink: /2008/12/09/parada-tcnica/

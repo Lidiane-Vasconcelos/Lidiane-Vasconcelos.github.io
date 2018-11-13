@@ -1,8 +1,8 @@
 ---
-
+id: 3688
 title: '5º post da série para organização da casa: quarto infantil.'
-
-author: Lidiane
+date: 2016-10-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/10/18/organizacao-da-casa-6/
 permalink: /2016/10/18/organizacao-da-casa-6/
@@ -10,20 +10,20 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a **organização da casa**, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve [o primeiro deles sobre home office](http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/) , o [segundo sobre a cozinha](http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/) , o [terceiro sobre penteadeira](http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/) , e [o quarto sobre o closet](http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/) , é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">o primeiro deles sobre home office</a>, o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, o <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">terceiro sobre penteadeira</a>, e <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">o quarto sobre o closet</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
-  O **Trololó de Mulher** teve o privilégio de receber dicas preciosas de **_Personal Organizers_** queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o **post Nº5**, será sobre **o _quarto infantil.  _**A _expert_ que aponta como colocar ordem nesse espaço da casa é a **Ana Avelar, do Rio de Janeiro – RJ. **Confira!
+  O <strong>Trololó de Mulher</strong> teve o privilégio de receber dicas preciosas de <strong><em>Personal Organizers</em></strong> queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o <strong>post Nº5</strong>, será sobre <strong>o <em>quarto infantil.  </em></strong>A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a <strong>Ana Avelar, do Rio de Janeiro – RJ. </strong>Confira!
 </p>
 
-Não deixe de conferir **o primeiro post da série**: [clique aqui e veja como deixar seu home office em ordem](http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/) !
+Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/" target="_blank">clique aqui e veja como deixar seu home office em ordem</a>!
 
-O **segundo post da série** também está imperdível: [clique aqui e veja como deixar sua cozinha um brinco](http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/) !
+O **segundo post da série** também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">clique aqui e veja como deixar sua cozinha um brinco</a>!
 
-O **terceiro** está cheio de dicas muito úteis: [clique aqui e veja como deixar sua penteadeira linda de viver](http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/) !
+O **terceiro** está cheio de dicas muito úteis: <a href="http://www.trololodemulher.com.br/2016/09/29/organizacao-da-casa-4/" target="_blank">clique aqui e veja como deixar sua penteadeira linda de viver</a>!
 
-O **quarto** está repleto de estratégias muito úteis: [clique aqui e veja como organizar o seu closet.](http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/) 
+O **quarto** está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
 
 <p align="center">
   <img class="alignnone size-full wp-image-13167" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2016/10/CASA-ORGANIZAÇÃO-ORGANIZAÇÃO-DA-CASA-QUARTO-INFANTIL2.jpg" alt="casa-organizacao-organizacao-da-casa-quarto-infantil2" width="800" height="730" />
@@ -102,11 +102,11 @@ O **quarto** está repleto de estratégias muito úteis: [clique aqui e veja com
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  **[3 ideias para organizar os livros infantis e facilitar o acesso.](http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/) **
+  <strong><a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a></strong>
 </p>
 
 <p align="center">
@@ -138,7 +138,7 @@ O **quarto** está repleto de estratégias muito úteis: [clique aqui e veja com
 </p>
 
 <p align="center">
-  Imagem: arquivo pessoal de **Ana Avelar**
+  Imagem: arquivo pessoal de <strong>Ana Avelar</strong>
 </p>
 
 <p align="justify">
@@ -162,11 +162,11 @@ O **quarto** está repleto de estratégias muito úteis: [clique aqui e veja com
 </p>
 
 <p align="justify">
-  Ana Avelar dispõe de vários serviços para ajudar a colocar a vida de suas clientes em ordem, nos mais diferentes aspectos. Para mais informações, [clique aqui e confira no site de Ana todas as informações que você precisa](http://www.avelarorganiza.com/) . Se quiser falar com ela já, os contatos são:  [Clique aqui, curta a página](mailto:avelarorganiza@hotmail.com">avelarorganiza@hotmail.com</a> | Celular: (21) 98810.6755. Ana tem fanpage no Facebook também, com dicas incríveis que vale a pena conferir e acompanhar. <a href="https://www.facebook.com/ORGPersonalOrganizer)  e fique por dentro de tudo!
+  Ana Avelar dispõe de vários serviços para ajudar a colocar a vida de suas clientes em ordem, nos mais diferentes aspectos. Para mais informações, <a href="http://www.avelarorganiza.com/" target="_blank">clique aqui e confira no site de Ana todas as informações que você precisa</a>. Se quiser falar com ela já, os contatos são:  <a href="mailto:avelarorganiza@hotmail.com">avelarorganiza@hotmail.com</a> | Celular: (21) 98810.6755. Ana tem fanpage no Facebook também, com dicas incríveis que vale a pena conferir e acompanhar. <a href="https://www.facebook.com/ORGPersonalOrganizer" target="_blank">Clique aqui, curta a página</a> e fique por dentro de tudo!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

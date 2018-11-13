@@ -1,8 +1,8 @@
 ---
-
+id: 3349
 title: Hamburguer de grão de bico facinho, facinho…
-
-author: Lidiane
+date: 2014-10-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/10/01/hamburguer-saudavel/
 permalink: /2014/10/01/hamburguer-saudavel/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Ingredientes:</span>**
+  <strong><span style="font-size: large;">Ingredientes:</span></strong>
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Como fazer, Carol?</span>**
+  <strong><span style="font-size: large;">Como fazer, Carol?</span></strong>
 </p>
 
 > <p align="justify">
@@ -74,23 +74,23 @@ categories:
 </p>
 
 <p align="center">
-  _“Servi com uma salada de folhas, beterradas cozidas e bolinhas de melão.”_
+  <em>“Servi com uma salada de folhas, beterradas cozidas e bolinhas de melão.”</em>
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Quibe rústico assado de abóbora + sua salada do coração.**](http://www.trololodemulher.com.br/2014/09/17/quibe-rustico-assado-abobora/) 
+  <a href="http://www.trololodemulher.com.br/2014/09/17/quibe-rustico-assado-abobora/" target="_blank"><strong>Quibe rústico assado de abóbora + sua salada do coração.</strong></a>
 </p>
 
 <p align="justify">
-  [**Canelone de berinjela + queijo cottage (no molho caseiro).**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro).</strong></a>
 </p>
 
 <p align="justify">
-  [**Pão de beterraba com chia: fácil, bonito de viver, e nem precisa sovar!**](http://www.trololodemulher.com.br/2014/09/03/pao-de-beterraba/) 
+  <a href="http://www.trololodemulher.com.br/2014/09/03/pao-de-beterraba/" target="_blank"><strong>Pão de beterraba com chia: fácil, bonito de viver, e nem precisa sovar!</strong></a>
 </p>
 
 <p align="center">
@@ -98,11 +98,11 @@ categories:
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=BichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

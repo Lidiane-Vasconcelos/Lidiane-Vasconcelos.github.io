@@ -1,8 +1,8 @@
 ---
-
+id: 3609
 title: 'Amarelo na decoração: 8 imagens com detalhes solares…'
-
-author: Lidiane
+date: 2016-05-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/05/16/amarelo-na-decoracao-2/
 permalink: /2016/05/16/amarelo-na-decoracao-2/
@@ -14,11 +14,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também: **
+  <strong>Veja também: </strong>
 </p>
 
 <p align="justify">
-  [**Amarelo na decoração: como usar?**](http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/) 
+  <a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank"><strong>Amarelo na decoração: como usar?</strong></a>
 </p>
 
 <p align="justify">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Quarto com parede amarela: você quer inspirações?**](http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/) 
+  <a href="http://www.trololodemulher.com.br/2011/04/27/quarto-parede-amarela/" target="_blank"><strong>Quarto com parede amarela: você quer inspirações?</strong></a>
 </p>
 
 &nbsp;
@@ -69,12 +69,12 @@ categories:
 
 &nbsp;
 
-Imagens: [Home Designing](http://www.home-designing.com/) 
+Imagens: <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

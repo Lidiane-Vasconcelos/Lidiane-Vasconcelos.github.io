@@ -1,8 +1,8 @@
 ---
-
+id: 3749
 title: Suco de beterraba, cenoura e laranja… e sabedoria de vó.
-
-author: Lidiane
+date: 2017-04-11T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/04/11/suco-de-beterraba/
 permalink: /2017/04/11/suco-de-beterraba/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  A vó de Tânia sabia das coisas, e a fazia tomar suco nutritivo. Passada a aversão que quase toda criança tem a esses tipos de suco, a bonita hoje sabe apreciar o que é bom, e nos conta como reproduzir essa receita simples e delícia de **suco de beterraba**, cenoura e laranja. A bebida é boa pro paladar e pra saúde. Confira e repita em seus domínios!
+  A vó de Tânia sabia das coisas, e a fazia tomar suco nutritivo. Passada a aversão que quase toda criança tem a esses tipos de suco, a bonita hoje sabe apreciar o que é bom, e nos conta como reproduzir essa receita simples e delícia de <strong>suco de beterraba</strong>, cenoura e laranja. A bebida é boa pro paladar e pra saúde. Confira e repita em seus domínios!
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  “_Você se lembra de algum medo de sua infância? Até onde eu me lembro, entre muitos deles, eu tinha dois grandes medos quando criança: suco de beterraba, cenoura e laranja e  anão de jardim. Eu não sei muito bem por que eu tinha tanto medo de anões de jardim, no entanto, me lembro perfeitamente por que eu não gostava de suco de beterraba. Tudo começou porque a minha avó me obrigava a bebê-lo regularmente, pois segundo ela, era algo saudável e bom para o sangue. E ela estava certa, entre os muitos benefícios da beterraba alguns estão associados com  o sangue: ela impede o aumento da pressão arterial, limpa os vasos sanguíneos, estabiliza os níveis de açúcar, combate a anemia, e assim por diante._
+  “<em>Você se lembra de algum medo de sua infância? Até onde eu me lembro, entre muitos deles, eu tinha dois grandes medos quando criança: suco de beterraba, cenoura e laranja e  anão de jardim. Eu não sei muito bem por que eu tinha tanto medo de anões de jardim, no entanto, me lembro perfeitamente por que eu não gostava de suco de beterraba. Tudo começou porque a minha avó me obrigava a bebê-lo regularmente, pois segundo ela, era algo saudável e bom para o sangue. E ela estava certa, entre os muitos benefícios da beterraba alguns estão associados com  o sangue: ela impede o aumento da pressão arterial, limpa os vasos sanguíneos, estabiliza os níveis de açúcar, combate a anemia, e assim por diante.</em>
 </p>
 
 <p align="justify">
-  _Eu não sei quando o meu gosto mudou, mas agora o suco de beterraba é uma das minhas bebidas favoritaS. Eu amo a cor, o gosto e a sensação de que é algo bom para minha saúde. Bom, hoje em dia eu também gosto de anões de jardim, eles são tão bonitinhos, não são mesmo?_
+  <em>Eu não sei quando o meu gosto mudou, mas agora o suco de beterraba é uma das minhas bebidas favoritaS. Eu amo a cor, o gosto e a sensação de que é algo bom para minha saúde. Bom, hoje em dia eu também gosto de anões de jardim, eles são tão bonitinhos, não são mesmo?</em>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ _Serve dois copos._
 &nbsp;
 
 <p style="text-align: justify;">
-  _Dica – Na minha opinião,  não é necessária a adição de açúcar porque todos os legumes e frutas já são ricos em açúcar, mas se você quiser algo mais adocicado adicione um pouco de açúcar_.”
+  <em>Dica – Na minha opinião,  não é necessária a adição de açúcar porque todos os legumes e frutas já são ricos em açúcar, mas se você quiser algo mais adocicado adicione um pouco de açúcar</em>.”
 </p>
 
 &nbsp;
@@ -61,20 +61,20 @@ _Serve dois copos._
 
 **Mais receitas de Tânia:**
 
-[**Patê de fígado de frango**](http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/) 
+<a href="http://www.trololodemulher.com.br/2017/03/28/pate-de-figado-de-frango/" target="_blank"><strong>Patê de fígado de frango</strong></a>
 
-[**Pera assada: perfeita como entrada ou sobremesa.**](http://www.trololodemulher.com.br/2017/03/21/pera-assada/) 
+<a href="http://www.trololodemulher.com.br/2017/03/21/pera-assada/" target="_blank"><strong>Pera assada: perfeita como entrada ou sobremesa.</strong></a>
 
-[**Molho pesto de limão siciliano: mil e uma finalidades.**](http://www.trololodemulher.com.br/2017/03/16/molho-pesto/) 
+<a href="http://www.trololodemulher.com.br/2017/03/16/molho-pesto/" target="_blank"><strong>Molho pesto de limão siciliano: mil e uma finalidades.</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… [clique aqui e siga!](https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

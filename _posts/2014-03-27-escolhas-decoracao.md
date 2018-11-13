@@ -1,8 +1,8 @@
 ---
-
+id: 3288
 title: 'Soluções de decoração: vi, curti e compartilho'
-
-author: Lidiane
+date: 2014-03-27T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/03/27/escolhas-decoracao/
 permalink: /2014/03/27/escolhas-decoracao/
@@ -24,7 +24,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Curti:</span>** composição de quadros dispostos sobre a estante de livros, ornando com demais objetos.
+  <strong><span style="font-size: small;">Curti:</span></strong> composição de quadros dispostos sobre a estante de livros, ornando com demais objetos.
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  <span style="font-size: small;">**Curti:**</span> utensílios mais usados agrupados dentro de lata _vintage_, dessas que você encontra em feiras de antiguidades.
+  <span style="font-size: small;"><strong>Curti:</strong></span> utensílios mais usados agrupados dentro de lata <em>vintage</em>, dessas que você encontra em feiras de antiguidades.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Curti:</span>** almofadas coloridas sobre o sofá, porque esse será o meu próximo feito decorativo aqui em casa, e marido já sabe disso, _hã_?!
+  <strong><span style="font-size: small;">Curti:</span></strong> almofadas coloridas sobre o sofá, porque esse será o meu próximo feito decorativo aqui em casa, e marido já sabe disso, <em>hã</em>?!
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Curti:</span>** quadro com letra em botões, do tipo que a gente olha e pensa: “ops! vou ali no armarinho comprar papel, cola e botões… depois mando fazer uma moldura toda bonitona”… é ou não é?
+  <strong><span style="font-size: small;">Curti:</span></strong> quadro com letra em botões, do tipo que a gente olha e pensa: “ops! vou ali no armarinho comprar papel, cola e botões… depois mando fazer uma moldura toda bonitona”… é ou não é?
 </p>
 
 <p align="center">
@@ -56,41 +56,41 @@ Esse é um post recheado de referências decorativas que amei editar porque trat
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Curti:</span>** caixinhas rústicas para organizar pequenos objetos no _closet_… porque as caixas salvam!
+  <strong><span style="font-size: small;">Curti:</span></strong> caixinhas rústicas para organizar pequenos objetos no <em>closet</em>… porque as caixas salvam!
 </p>
 
 &nbsp;
 
-Imagens: **_[apartment therapy](http://www.apartmenttherapy.com/) _**
+Imagens: **_<a href="http://www.apartmenttherapy.com/" target="_blank">apartment therapy</a>_**
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Muito mais para você…</span>**
+  <strong><span style="font-size: small;">Muito mais para você…</span></strong>
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/"><span style="font-size: small;">Decoração com cortina sem costura… e bem barata!</span></a>**
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/27/decoracao-cortina-sem-costura/"><span style="font-size: small;">Decoração com cortina sem costura… e bem barata!</span></a></strong>
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/"><span style="font-size: small;">Decoração e reforma: 5 experts falam o que não fazer</span></a>**
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/18/decoracao-reforma-dicas/"><span style="font-size: small;">Decoração e reforma: 5 experts falam o que não fazer</span></a></strong>
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/"><span style="font-size: small;">Cores na decoração: veja 6 respostas e acabe com sua dúvida</span></a>**
-</p>
-
-&nbsp;
-
-<p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/"><span style="font-size: small;">Cores na decoração: veja 6 respostas e acabe com sua dúvida</span></a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -101,13 +101,13 @@ Imagens: **_[apartment therapy](http://www.apartmenttherapy.com/) _**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -116,5 +116,5 @@ Imagens: **_[apartment therapy](http://www.apartmenttherapy.com/) _**
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>

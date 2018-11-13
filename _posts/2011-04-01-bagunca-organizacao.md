@@ -1,8 +1,8 @@
 ---
-
+id: 2974
 title: Siga 10 passos e o canto da bagunça deixará de existir!
-
-author: Lidiane
+date: 2011-04-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/04/01/bagunca-organizacao/
 permalink: /2011/04/01/bagunca-organizacao/
@@ -18,19 +18,19 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Antes de mais nada, é preciso que se diga que esse post foi inspirado pela leitura que fiz do artigo _[Get Rid of Garage Clutter | go from chaos to contained in just 10 steps](http://www.ivillage.com/say-goodbye-garage-clutter-just-10-steps-ivillage/7-a-219144?nlcid=hh|07-27-2010|) _, publicado no site _[iVillage Home & Garden](http://www.ivillage.com/home-garden) _. Sim! Eu sempre leio artigos que eu julgue que irão facilitar o meu dia a dia na manutenção da ordem mínima por aqui, porque acredito que sempre posso aprender mais com isso, e sentir que a casa está mais harmonizada. Eu não gosto de viver na bagunça, e se você é das minhas, certamente vai querer aplicar essas dicas bem fáceis de serem colocadas em prática.
+  Antes de mais nada, é preciso que se diga que esse post foi inspirado pela leitura que fiz do artigo <em><a href="http://www.ivillage.com/say-goodbye-garage-clutter-just-10-steps-ivillage/7-a-219144?nlcid=hh|07-27-2010|" target="_blank">Get Rid of Garage Clutter | go from chaos to contained in just 10 steps</a></em>, publicado no site <em><a href="http://www.ivillage.com/home-garden" target="_blank">iVillage Home & Garden</a></em>. Sim! Eu sempre leio artigos que eu julgue que irão facilitar o meu dia a dia na manutenção da ordem mínima por aqui, porque acredito que sempre posso aprender mais com isso, e sentir que a casa está mais harmonizada. Eu não gosto de viver na bagunça, e se você é das minhas, certamente vai querer aplicar essas dicas bem fáceis de serem colocadas em prática.
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">1 – Que tipo de bagunça você tem?</span>**
+  <strong><span style="font-size: medium;">1 – Que tipo de bagunça você tem?</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  Para responder a essa pergunta, você precisa **separar toda a tralha guardada por tipo**. Isso mesmo! Vá lá e **categorize tudo o que você tem por tipo ou funcionalidade**: jardinagem, brinquedos, artesanato, ferramentas, esportes, etc. Use o princípio do “cada um com seu cada um” para começar o processo de organização.
+  Para responder a essa pergunta, você precisa <strong>separar toda a tralha guardada por tipo</strong>. Isso mesmo! Vá lá e <strong>categorize tudo o que você tem por tipo ou funcionalidade</strong>: jardinagem, brinquedos, artesanato, ferramentas, esportes, etc. Use o princípio do “cada um com seu cada um” para começar o processo de organização.
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">2 – Qual a utilidade de coisas quebradas?</span>**
+  <strong><span style="font-size: medium;">2 – Qual a utilidade de coisas quebradas?</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -40,7 +40,7 @@ categories:
 Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guarda? Tenha a coragem de se desfazer disso tudo. **Desapegue e destine esses brinquedos, equipamentos ou o que quer que seja que estejam quebrados para a reciclagem**.
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">3 – Você precisa manter tudo o que tem?</span>**
+  <strong><span style="font-size: medium;">3 – Você precisa manter tudo o que tem?</span></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -48,35 +48,35 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: justify;">
-  *****Tem **algo que foi emprestado? Devolva!**
+  <strong>*</strong>Tem <strong>algo que foi emprestado? Devolva!</strong>
 </p>
 
 <p style="text-align: justify;">
-   *Tem **algo que você não usa? Doe!** Aqui, sugiro a leitura do post com uma **<a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/">lista de locais para doação</a>** que foi publicado no **Bicha Fêmea**, e onde a quantidade de comentários – que já passa de **280**! – já fez do post um fórum, com pessoas doando e avisando que aceitam doações. Informe-se!
+   *Tem <strong>algo que você não usa? Doe!</strong> Aqui, sugiro a leitura do post com uma <strong><a href="http://www.trololodemulher.com.br/2009/06/28/moveis-objetos-usados-doacao/">lista de locais para doação</a></strong> que foi publicado no <strong>Bicha Fêmea</strong>, e onde a quantidade de comentários – que já passa de <strong>280</strong>! – já fez do post um fórum, com pessoas doando e avisando que aceitam doações. Informe-se!
 </p>
 
 <p style="text-align: justify;">
-  ***Quer vender o que tem? Promova um bazar num encontro real, ou você pode promover algo no espaço virtual**. A blogueira **Dani Garlet**, que tem um **[blog que leva seu nome](http://www.danigarlet.com/) **, sempre promove a venda de roupas no **brechó via Orkut** que ela criou. Isso serve de exemplo para você, que pode se inspirar e promover a venda de suas coisas que estejam em bom uso. Faça como a Dani e use a criatividade!
+  *<strong>Quer vender o que tem? Promova um bazar num encontro real, ou você pode promover algo no espaço virtual</strong>. A blogueira <strong>Dani Garlet</strong>, que tem um <strong><a href="http://www.danigarlet.com/" target="_blank">blog que leva seu nome</a></strong>, sempre promove a venda de roupas no <strong>brechó via Orkut</strong> que ela criou. Isso serve de exemplo para você, que pode se inspirar e promover a venda de suas coisas que estejam em bom uso. Faça como a Dani e use a criatividade!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">4 – Quanto você tem de espaço?</span>**
+  <strong><span style="font-size: medium;">4 – Quanto você tem de espaço?</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  No espaço **sob a minha escada** eu coloquei uma porta, assim ficou bem **delimitada a área que disponho para guardar o que preciso.** Tão logo a porta é aberta, é **preciso que haja um mínimo de extensão para circulação**. Uma vez que ficou definido isso, o que sobrou **é o que temos para guardar malas, caixa de ferramenta, caixas da árvore e enfeites de Natal, etc.** **Seja realista** e **defina** o tanto de **espaço que você tem para guardar o que realmente precisa ser guardado**.
+  No espaço <strong>sob a minha escada</strong> eu coloquei uma porta, assim ficou bem <strong>delimitada a área que disponho para guardar o que preciso.</strong> Tão logo a porta é aberta, é <strong>preciso que haja um mínimo de extensão para circulação</strong>. Uma vez que ficou definido isso, o que sobrou <strong>é o que temos para guardar malas, caixa de ferramenta, caixas da árvore e enfeites de Natal, etc.</strong> <strong>Seja realista</strong> e <strong>defina</strong> o tanto de <strong>espaço que você tem para guardar o que realmente precisa ser guardado</strong>.
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">5 – Planeje onde vai guardar cada coisa.</span>**
+  <strong><span style="font-size: medium;">5 – Planeje onde vai guardar cada coisa.</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  Já está decidido o que você vai manter guardado e onde isso tudo vai ficar? Ótimo! Agora pense em como você vai fazer isso. Olhe para tudo o que foi mantido e que está separado por categorias. **Do que você precisa para manter essas coisas juntas, cada uma em seu lugar? Caixas, organizadores, sacos?** Planeje e providencie o que é necessário.
+  Já está decidido o que você vai manter guardado e onde isso tudo vai ficar? Ótimo! Agora pense em como você vai fazer isso. Olhe para tudo o que foi mantido e que está separado por categorias. <strong>Do que você precisa para manter essas coisas juntas, cada uma em seu lugar? Caixas, organizadores, sacos?</strong> Planeje e providencie o que é necessário.
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">6 – Tudo que precisa ser guardado tinha que estar ali?</span>**
+  <strong><span style="font-size: medium;">6 – Tudo que precisa ser guardado tinha que estar ali?</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -92,35 +92,35 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: justify;">
-  Procure **manter nesse tipo de local “da bagunça”** – e que deixará de ter esse nome depois de todo esse processo – **as coisas que você precisa guardar mas que acessa com pouca frequência**, a exemplo do que escolhi por aqui: malas, árvore e enfeites de Natal, caixa de ferramenta, etc.
+  Procure <strong>manter nesse tipo de local “da bagunça”</strong> – e que deixará de ter esse nome depois de todo esse processo – <strong>as coisas que você precisa guardar mas que acessa com pouca frequência</strong>, a exemplo do que escolhi por aqui: malas, árvore e enfeites de Natal, caixa de ferramenta, etc.
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">7 – Amplie as possibilidades de armazenamento.</span>**
+  <strong><span style="font-size: medium;">7 – Amplie as possibilidades de armazenamento.</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  Verifique se você precisa **ampliar seu espaço de armazenamento colocando prateleiras, por exemplo**. As paredes oferecem isso para você, e tudo não precisa ficar só no chão. Até mesmo **a porta pode ser útil**, porque nela você pode **fixar ganchos** para pendurar coisas. Use a criatividade a seu favor!
+  Verifique se você precisa <strong>ampliar seu espaço de armazenamento colocando prateleiras, por exemplo</strong>. As paredes oferecem isso para você, e tudo não precisa ficar só no chão. Até mesmo <strong>a porta pode ser útil</strong>, porque nela você pode <strong>fixar ganchos</strong> para pendurar coisas. Use a criatividade a seu favor!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">8 &#8211; “Cada um com seu cada um”…</span>**
+  <strong><span style="font-size: medium;">8 &#8211; “Cada um com seu cada um”…</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  Lembra que você usou esse princípio na hora de categorizar os objetos? Siga o mesmo na hora de guardá-los. **Não misture as coisas**, porque na hora de procurá-las você vai saber onde estão pelo tipo e/ou funcionalidade. Seu tempo e paciência agradecem!
+  Lembra que você usou esse princípio na hora de categorizar os objetos? Siga o mesmo na hora de guardá-los. <strong>Não misture as coisas</strong>, porque na hora de procurá-las você vai saber onde estão pelo tipo e/ou funcionalidade. Seu tempo e paciência agradecem!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">9 – Identifique e simplifique!</span>**
+  <strong><span style="font-size: medium;">9 – Identifique e simplifique!</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  Use **etiquetas** ou o que quer que seja para você identificar o que tem em cada **caixa, mala ou saco/sacola**. Isso é um reforço para simplificar a localização dos objetos, sobretudo se você estiver com pressa na hora da procura. Já pensou?
+  Use <strong>etiquetas</strong> ou o que quer que seja para você identificar o que tem em cada <strong>caixa, mala ou saco/sacola</strong>. Isso é um reforço para simplificar a localização dos objetos, sobretudo se você estiver com pressa na hora da procura. Já pensou?
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">10 – Mantenha a ordem.</span>**
+  <strong><span style="font-size: medium;">10 – Mantenha a ordem.</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -128,10 +128,10 @@ Nenhuma! Concorda? Então, se elas não têm conserto, por que você ainda guard
 </p>
 
 <p style="text-align: justify;">
-  Agora que está tudo em ordem, **aprenda a** **tirar as coisas do lugar, usá-las e devolvê-las para o lugar certo**. Se você voltar a jogar tudo por lá de qualquer jeito, como fazia antes, todo esse trabalho terá sido em vão. Daqui _‘pra_ frente, a escolha é sua…
+  Agora que está tudo em ordem, <strong>aprenda a</strong> <strong>tirar as coisas do lugar, usá-las e devolvê-las para o lugar certo</strong>. Se você voltar a jogar tudo por lá de qualquer jeito, como fazia antes, todo esse trabalho terá sido em vão. Daqui <em>‘pra</em> frente, a escolha é sua…
 </p>
 
-Imagens: _[**stock.xchng**](http://www.sxc.hu/) _
+Imagens: _<a href="http://www.sxc.hu/" target="_blank"><strong>stock.xchng</strong></a>_
 
 **Mais no Bicha Fêmea…**
 
@@ -146,21 +146,21 @@ Imagens: _[**stock.xchng**](http://www.sxc.hu/) _
 **[4 passos e sua “gaveta da bagunça” ficará impecável!](http://www.trololodemulher.com.br/2010/10/27/4-passos-gaveta-organizada/)**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> _<a href="http://www.trololodemulher.com.br/category/casa-organizacao/">**Organização**</a>_**…**
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <em><a href="http://www.trololodemulher.com.br/category/casa-organizacao/"><strong>Organização</strong></a></em><strong>…</strong>
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>

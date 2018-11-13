@@ -1,8 +1,8 @@
 ---
-
+id: 3082
 title: Desapega, bonita! Tem sempre quem compre o que você vende!
-
-author: Lidiane
+date: 2011-11-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/11/22/compra-venda/
 permalink: /2011/11/22/compra-venda/
@@ -14,7 +14,7 @@ Quando vai chegando o final de ano, a gente tem sempre a sensação de renovaç�
 &nbsp;
 
 <p align="justify">
-  Aposto que você já deve estar pensando nas suas roupas, em algum móvel ou objeto. Acertei? Já pensou em **vender **isso, bonita? Que tal iniciar o seu bazar… virtual? Como? Aí é que entra a minha dica para você, _viu_? Repara só…
+  Aposto que você já deve estar pensando nas suas roupas, em algum móvel ou objeto. Acertei? Já pensou em <strong>vender </strong>isso, bonita? Que tal iniciar o seu bazar… virtual? Como? Aí é que entra a minha dica para você, <em>viu</em>? Repara só…
 </p>
 
 <!--more-->
@@ -24,7 +24,7 @@ Quando vai chegando o final de ano, a gente tem sempre a sensação de renovaç�
 
 
 <p align="justify">
-  Pois é, menina! A [**OLX**** **](http://www.olx.com.br/) é a solução que você precisa para anunciar a **venda de seus produtos**, de imóveis e móveis a demais objetos. É justamente o que a **nova campanha de TV da empresa **quer te mostrar.  Você viu no vídeo?
+  Pois é, menina! A <a href="http://www.olx.com.br/" target="_blank"><strong>OLX</strong><strong> </strong></a>é a solução que você precisa para anunciar a <strong>venda de seus produtos</strong>, de imóveis e móveis a demais objetos. É justamente o que a <strong>nova campanha de TV da empresa </strong>quer te mostrar.  Você viu no vídeo?
 </p>
 
 <p align="justify">
@@ -36,15 +36,15 @@ Quando vai chegando o final de ano, a gente tem sempre a sensação de renovaç�
 </p>
 
 <p align="center">
-  Imagem: **stock.xchng**
+  Imagem: <strong>stock.xchng</strong>
 </p>
 
 <p align="justify">
-  E quer saber o melhor? Você anuncia gratuitamente, _hein_ ? Você pode **criar seus anúncios usando vídeos e imagens**, o que já facilita bastante a venda, concorda? Depois, você pode **controlar suas vendas e compras**. Tem até a possibilidade de você **exibir suas publicações no seu perfil de Facebook**. Além do mais, tem a comodidade de **acessar o site via celular**.
+  E quer saber o melhor? Você anuncia gratuitamente, <em>hein</em> ? Você pode <strong>criar seus anúncios usando vídeos e imagens</strong>, o que já facilita bastante a venda, concorda? Depois, você pode <strong>controlar suas vendas e compras</strong>. Tem até a possibilidade de você <strong>exibir suas publicações no seu perfil de Facebook</strong>. Além do mais, tem a comodidade de <strong>acessar o site via celular</strong>.
 </p>
 
 <p align="justify">
-  Quando você fizer um _tour_ pelo site para conhecê-lo você vai ver: tudo é muito simples! Escolha sua localidade e o que você deseja fazer: comprar ou vender. Tudo está a poucos cliques, e sem maiores complicações você resolve o problema. Não era exatamente o que você queria?
+  Quando você fizer um <em>tour</em> pelo site para conhecê-lo você vai ver: tudo é muito simples! Escolha sua localidade e o que você deseja fazer: comprar ou vender. Tudo está a poucos cliques, e sem maiores complicações você resolve o problema. Não era exatamente o que você queria?
 </p>
 
 <p align="center">
@@ -52,5 +52,5 @@ Quando vai chegando o final de ano, a gente tem sempre a sensação de renovaç�
 </p>
 
 <p align="justify">
-  Bom, as vantagens são muitas… e fica a dica para você. Não tem mais por que ficar juntando um monte de coisas sem a menor necessidade, não é verdade? Agora é listar o que você quer vender e, uma vez que seus itens de desapego estiverem devidamente identificados, se joga na **OLX** e faça bons negócios. Aproveita!
+  Bom, as vantagens são muitas… e fica a dica para você. Não tem mais por que ficar juntando um monte de coisas sem a menor necessidade, não é verdade? Agora é listar o que você quer vender e, uma vez que seus itens de desapego estiverem devidamente identificados, se joga na <strong>OLX</strong> e faça bons negócios. Aproveita!
 </p>

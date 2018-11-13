@@ -1,8 +1,8 @@
 ---
-
+id: 3425
 title: Bolo prestigio saudável!
-
-author: Lidiane
+date: 2015-05-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/05/20/bolo-prestigio-saudavel/
 permalink: /2015/05/20/bolo-prestigio-saudavel/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Então… quem não tem vontade de se deliciar numa fatia de bolo como essa? Ai, que difícil resistir! Mas você sabe como é, _né_? A Carol sempre nos presenteia com alternativas que nos deixam felizes em dose dupla: uma porque a receita é linda e gostosa, e outra porque é saudável. Tem coisa melhor? Tem não… ah! Até tem: o fato de ser bem fácil de reproduzir. Quer aprender como faz? Repara só:
+  Então… quem não tem vontade de se deliciar numa fatia de bolo como essa? Ai, que difícil resistir! Mas você sabe como é, <em>né</em>? A Carol sempre nos presenteia com alternativas que nos deixam felizes em dose dupla: uma porque a receita é linda e gostosa, e outra porque é saudável. Tem coisa melhor? Tem não… ah! Até tem: o fato de ser bem fácil de reproduzir. Quer aprender como faz? Repara só:
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes massa:**
+  <strong>Ingredientes massa:</strong>
 </p>
 
 <p align="justify">
@@ -66,15 +66,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **Bata bem os ovos com o açúcar de coco, pode ser na mão ou na batedeira. Depois acrescente o óleo, cacau, bicarbonato, canela, as farinhas e mexa muito bem. Depois acrescente o leite quente e mexa até que fique uma massa bem aveludada. Por último acrescente o fermento. Unte uma forma com óleo de coco e depois polvilhe cacau em pó. Leve ao forno em 180 graus até assar.**
+>   <strong>Bata bem os ovos com o açúcar de coco, pode ser na mão ou na batedeira. Depois acrescente o óleo, cacau, bicarbonato, canela, as farinhas e mexa muito bem. Depois acrescente o leite quente e mexa até que fique uma massa bem aveludada. Por último acrescente o fermento. Unte uma forma com óleo de coco e depois polvilhe cacau em pó. Leve ao forno em 180 graus até assar.</strong>
 > </p>
 
 <p align="justify">
-  **Ingredientes recheio:**
+  <strong>Ingredientes recheio:</strong>
 </p>
 
 <p align="justify">
@@ -98,15 +98,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **Em uma panela, coloque o leite e o amido. Mexa bem para dissolver, depois acrescente leite de coco, o coco ralado e o ingrediente que você deseja adoçar. Ligue o fogo e vai mexendo até engrossar.**
+>   <strong>Em uma panela, coloque o leite e o amido. Mexa bem para dissolver, depois acrescente leite de coco, o coco ralado e o ingrediente que você deseja adoçar. Ligue o fogo e vai mexendo até engrossar.</strong>
 > </p>
 
 <p align="justify">
-  **Ingredientes cobertura:**
+  <strong>Ingredientes cobertura:</strong>
 </p>
 
 <p align="justify">
@@ -126,19 +126,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **Em uma panela, coloque o creme de ricota light, o chocolate picado, amido de milho e o adoçante/açúcar. Em fogo baixo vai mexendo bem até que o chocolate derreta e tudo fique bem homogêneo. Precisa ficar levemente amolecido, se precisar acrescente um pouquinho de água ou creme de ricota.**
+>   <strong>Em uma panela, coloque o creme de ricota light, o chocolate picado, amido de milho e o adoçante/açúcar. Em fogo baixo vai mexendo bem até que o chocolate derreta e tudo fique bem homogêneo. Precisa ficar levemente amolecido, se precisar acrescente um pouquinho de água ou creme de ricota.</strong>
 > </p>
 
 <p align="justify">
-  **Montagem:**
+  <strong>Montagem:</strong>
 </p>
 
 > <p align="justify">
->   **Depois que o bolo estiver levemente morno, desenforme, corte ao meio, coloque o recheio morno, coloque a outra metade do bolo e cubra com a cobertura. Você pode polvilhar coco ou granulado. Fica muitooo bom, mais saudável e com menor quantidade de calorias.**
+>   <strong>Depois que o bolo estiver levemente morno, desenforme, corte ao meio, coloque o recheio morno, coloque a outra metade do bolo e cubra com a cobertura. Você pode polvilhar coco ou granulado. Fica muitooo bom, mais saudável e com menor quantidade de calorias.</strong>
 > </p>
 
 <p align="center">
@@ -146,27 +146,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Salmão ao molho de manga**](http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/) 
+  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank"><strong>Salmão ao molho de manga</strong></a>
 </p>
 
 <p align="justify">
-  [**Mini abóbora recheada de cuscuz marroquino**](http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/) 
+  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank"><strong>Mini abóbora recheada de cuscuz marroquino</strong></a>
 </p>
 
 <p align="justify">
-  [**Mousse de abacate e cacau em pó**](http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/) 
+  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank"><strong>Mousse de abacate e cacau em pó</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,8 +1,8 @@
 ---
-
+id: 2747
 title: Prateleira do Bicha Fêmea – In Vestida
-
-author: Lidiane
+date: 2009-12-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/12/09/prateleira-do-bicha-fmea-in-vestida/
 permalink: /2009/12/09/prateleira-do-bicha-fmea-in-vestida/
@@ -11,7 +11,7 @@ categories:
 ---
 Fazer a **_Prateleira do Bicha Fêmea_** é difícil para mim. O problema está em conseguir me limitar a algumas poucas imagens das _belezuras_ que as tantas bichas fêmeas arteiras produzem. Cada vez que me proponho vasculhar o acervo de imagens de uma artista, fico como “peru doido para lá e para cá”, pensando no que escolher para expor.
 
-Na prateleira de hoje o que eu trouxe para te mostrar são peças que, sem dúvidas, valoriza qualquer uma de nós. As criações são da Silvana, que edita o blog [In-Vestida](http://www.in-vestida.blogspot.com/) . Depois de dar uma olhada no que eu trouxe, e comparar com o que é possível encontrar no [blog da artista](http://www.in-vestida.blogspot.com/) , tenho quase certeza que você vai entender direitinho porque entrei num momento _descontrol_, sem saber o que escolher para exibir por aqui. Eu usei como critério de escolha o meu gosto pessoal… será que você aprova?
+Na prateleira de hoje o que eu trouxe para te mostrar são peças que, sem dúvidas, valoriza qualquer uma de nós. As criações são da Silvana, que edita o blog <a href="http://www.in-vestida.blogspot.com/" target="_blank">In-Vestida</a>. Depois de dar uma olhada no que eu trouxe, e comparar com o que é possível encontrar no <a href="http://www.in-vestida.blogspot.com/" target="_blank">blog da artista</a>, tenho quase certeza que você vai entender direitinho porque entrei num momento _descontrol_, sem saber o que escolher para exibir por aqui. Eu usei como critério de escolha o meu gosto pessoal… será que você aprova?
 
 <!--more--> 
 
@@ -49,7 +49,7 @@ Agora pare, olhe, e sonhe comigo com um acessório assim na sua coleção. É ou
 
 Você deve estar se perguntando se a Silvana produz apenas brincos, não é? _Nã nã nim nã não_! Ela cria pulseiras e colares também, sabia? Mas imagine só se eu colocasse mais peças na prateleira? O quanto o post ficaria _enoooooorme_?!
 
-Não tem jeito, bonita. Para continuar se deliciando com as produções da Silvana, só visitando o [In Vestida](http://www.in-vestida.blogspot.com/)  mesmo, viu? Divirta-se!!!
+Não tem jeito, bonita. Para continuar se deliciando com as produções da Silvana, só visitando o <a href="http://www.in-vestida.blogspot.com/" target="_blank">In Vestida</a> mesmo, viu? Divirta-se!!!
 
 **Mais no Bicha Fêmea…**
 

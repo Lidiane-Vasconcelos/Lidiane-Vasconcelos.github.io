@@ -1,8 +1,8 @@
 ---
-
+id: 2667
 title: Dicas de decoração para sua mesa de jantar no dia dos namorados.
-
-author: Lidiane
+date: 2009-05-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/05/28/decoracao-mesa-noite-namorados/
 permalink: /2009/05/28/decoracao-mesa-noite-namorados/
@@ -12,7 +12,7 @@ categories:
 Você está planejando ficar em casa e fazer um jantar especial para a pessoa amada? Eu gostaria de dar algumas dicas de decoração para o dia dos namorados** **para a mesa de jantar e fazer com que essa refeição se torne inesquecível para o casal. Te garanto que vocês vão curtir mais a noite do que enfrentar a  fila  de espera nos restaurantes.
 
 <p style="text-align: justify;">
-  As imagens abaixo são inspirações que selecionei para servir como ponto de partida para o que eu poderia fazer na minha mesa. Trouxe para dividí-las com você, e quem sabe não sai desse post um esboço de uma mesa romântica ideal, e vai direto para o seu “_cantinho_”, hein?
+  As imagens abaixo são inspirações que selecionei para servir como ponto de partida para o que eu poderia fazer na minha mesa. Trouxe para dividí-las com você, e quem sabe não sai desse post um esboço de uma mesa romântica ideal, e vai direto para o seu “<em>cantinho</em>”, hein?
 </p>
 
 <p style="text-align: justify;">
@@ -43,10 +43,10 @@ Vários pequenos vasinhos com flores, arranjados de modo a desenhar um coração
 
 Haverá uma mesa mais romântica se a escolha for por rosas e um belo vaso?
 
-Imagens: [Martha Stewart](http://www.marthastewart.com/) 
+Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
 
 <span style="color: #800080;">Diz aí, você tem planos para a noite do dia dos namorados? E dicas?</span>
 
-<span style="color: #800080;">**Veja mais dicas e inspirações para o dia dos namorados no Bicha Fêmea&#8230;**</span>
+<span style="color: #800080;"><strong>Veja mais dicas e inspirações para o dia dos namorados no Bicha Fêmea&#8230;</strong></span>
 
-<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/" target="_self">Dia dos namorados: dicas e sugestões. </a>_**</span>
+<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/06/07/dicas-dia-dos-namorados/" target="_self">Dia dos namorados: dicas e sugestões. </a></em></strong></span>

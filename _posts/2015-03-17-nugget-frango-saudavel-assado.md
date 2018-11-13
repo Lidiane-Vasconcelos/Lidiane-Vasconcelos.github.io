@@ -1,8 +1,8 @@
 ---
-
+id: 3414
 title: 'Nugget de Frango: caseiro, assado e saudável.'
-
-author: Lidiane
+date: 2015-03-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/03/17/nugget-frango-saudavel-assado/
 permalink: /2015/03/17/nugget-frango-saudavel-assado/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Já faz muito tempo aquele nugget que se compra congelado perdeu espaço aqui em casa. Já ouvi falar o quanto a qualidade desse alimento tido como prático não é confiável, nem nutritivo. Ou seja, tenho motivos de sobra pra não querer conversa com esses bolinhos de carne de frango…até que: a Carol vem com essa dica _mara_ pra compartilhar por aqui, e arrancar um sorriso do meu rosto. Agora, sim: podemos voltar a comer nuggets em casa, porque a versão dessa moça que sabe fazer boas escolhas quanto a alimentação é garantia de sabor gostoso, e versão _superultramega_ saudável. Tenho certeza que meu menino agradece… vamos aprender como faz?
+  Já faz muito tempo aquele nugget que se compra congelado perdeu espaço aqui em casa. Já ouvi falar o quanto a qualidade desse alimento tido como prático não é confiável, nem nutritivo. Ou seja, tenho motivos de sobra pra não querer conversa com esses bolinhos de carne de frango…até que: a Carol vem com essa dica <em>mara</em> pra compartilhar por aqui, e arrancar um sorriso do meu rosto. Agora, sim: podemos voltar a comer nuggets em casa, porque a versão dessa moça que sabe fazer boas escolhas quanto a alimentação é garantia de sabor gostoso, e versão <em>superultramega</em> saudável. Tenho certeza que meu menino agradece… vamos aprender como faz?
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -50,19 +50,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Para empanar :**
+  <strong>Para empanar :</strong>
 </p>
 
 > <p align="justify">
->   **1 Clara e quanto baste de farinha de aveia ou farinha de amaranto ou farinha quinoa (eu usei amaranto).**
+>   <strong>1 Clara e quanto baste de farinha de aveia ou farinha de amaranto ou farinha quinoa (eu usei amaranto).</strong>
 > </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **Bata todos os ingredientes, menos a clara e a farinha, no mixer, processador (ou caso não tenha, no liquidificador, mas será preciso um pouco de paciência para bater). Quando a massa estiver homogênea, molde os bolinhos, imitando o formato de nuggets, passe na clara de ovo e depois na farinha escolhida. Leve ao forno pré aquecido (180ºC) por 25-30 minutos ou até dourar dos dois lados. Pode ser servido como petisco ou no dia a dia com arroz, feijão e salada.**
+>   <strong>Bata todos os ingredientes, menos a clara e a farinha, no mixer, processador (ou caso não tenha, no liquidificador, mas será preciso um pouco de paciência para bater). Quando a massa estiver homogênea, molde os bolinhos, imitando o formato de nuggets, passe na clara de ovo e depois na farinha escolhida. Leve ao forno pré aquecido (180ºC) por 25-30 minutos ou até dourar dos dois lados. Pode ser servido como petisco ou no dia a dia com arroz, feijão e salada.</strong>
 > </p>
 
 <p align="center">
@@ -70,27 +70,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Receita mais fácil não existe: tabule de quinoa**](http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/) 
+  <a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank"><strong>Receita mais fácil não existe: tabule de quinoa</strong></a>
 </p>
 
 <p align="justify">
-  [**Filé de saint peter enroladinho no aspargo e salada de lentilha**](http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/) 
+  <a href="http://www.trololodemulher.com.br/2015/03/04/file-peixe-aspargo-lentilha/" target="_blank"><strong>Filé de saint peter enroladinho no aspargo e salada de lentilha</strong></a>
 </p>
 
 <p align="justify">
-  [**Suflê de abobrinha com hortelã: bonito, gostoso e saudável**](http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/) 
+  <a href="http://www.trololodemulher.com.br/2015/02/11/sufle-abobrinha-hortela/" target="_blank"><strong>Suflê de abobrinha com hortelã: bonito, gostoso e saudável</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

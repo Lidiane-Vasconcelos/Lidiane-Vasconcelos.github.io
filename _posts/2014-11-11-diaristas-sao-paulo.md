@@ -1,8 +1,8 @@
 ---
-
+id: 3373
 title: Está difícil encontrar diaristas em São Paulo, não é?
-
-author: Lidiane
+date: 2014-11-11T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/11/11/diaristas-sao-paulo/
 permalink: /2014/11/11/diaristas-sao-paulo/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  A boa notícia que tenho para te dar, bonita, é que esse dilema pode acabar já! Você é mais uma diva do lar buscando uma boa [diarista em São Paulo](https://www.helpling.com.br/diarista/sao-paulo) ? Então você precisa conhecer a [Helpling](https://www.helpling.com.br) . Deixa eu te apresentar: nesse site você faz o seu cadastro informando seus dados, dia e hora que gostaria de ter a sua faxina, além das informações quanto ao tamanho da sua casa ou apartamento. Feito isso, a empresa encontra um profissional para você. O valor a ser pago é calculado levando em consideração o tamanho do seu imóvel. Você paga por hora e pode até usar cartão de crédito! Prático, não é?
+  A boa notícia que tenho para te dar, bonita, é que esse dilema pode acabar já! Você é mais uma diva do lar buscando uma boa <a href="https://www.helpling.com.br/diarista/sao-paulo" target="_blank">diarista em São Paulo</a>? Então você precisa conhecer a <a href="https://www.helpling.com.br" target="_blank">Helpling</a>. Deixa eu te apresentar: nesse site você faz o seu cadastro informando seus dados, dia e hora que gostaria de ter a sua faxina, além das informações quanto ao tamanho da sua casa ou apartamento. Feito isso, a empresa encontra um profissional para você. O valor a ser pago é calculado levando em consideração o tamanho do seu imóvel. Você paga por hora e pode até usar cartão de crédito! Prático, não é?
 </p>
 
 <p align="center">
@@ -35,15 +35,15 @@ categories:
 </p>
 
 <p align="justify">
-  Você que é de São Paulo, gostaria de saber um pouco mais sobre essa novidade? A Helpling tem um site incrível, de fácil navegabilidade, com tudo o que você precisa saber para tomar a sua decisão de experimentar esse serviço. [Clique aqui para conhecer o site](https://www.helpling.com.br/) , e não deixe de curtir a [página da empresa no Facebook](https://www.facebook.com/helpling.com.br) . Aproveite o melhor da vida, sem que os afazeres da sua casa tomem tanto o seu tempo. Fica a dica!
+  Você que é de São Paulo, gostaria de saber um pouco mais sobre essa novidade? A Helpling tem um site incrível, de fácil navegabilidade, com tudo o que você precisa saber para tomar a sua decisão de experimentar esse serviço. <a href="https://www.helpling.com.br/" target="_blank">Clique aqui para conhecer o site</a>, e não deixe de curtir a <a href="https://www.facebook.com/helpling.com.br" target="_blank">página da empresa no Facebook</a>. Aproveite o melhor da vida, sem que os afazeres da sua casa tomem tanto o seu tempo. Fica a dica!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 <p align="justify">

@@ -1,8 +1,8 @@
 ---
-
+id: 2865
 title: 'Prateleira do Bicha Fêmea: Bird Crafts'
-
-author: Lidiane
+date: 2010-08-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/08/25/kit-festas-bird-crafts/
 permalink: /2010/08/25/kit-festas-bird-crafts/
@@ -18,7 +18,7 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 <!--more-->
 
 <p style="text-align: justify;">
-  Já pensou nisso? Pois se isso passa por tua cabeça, você vai ficar encantada com as possibilidades para personalizar encontros festivos com amigos, ou amiguinhos de sua criança, todos disponibilizados pela Cris, através de seu lindo projeto: [Bird Crafts](http://birdcrafts.blogspot.com/) .
+  Já pensou nisso? Pois se isso passa por tua cabeça, você vai ficar encantada com as possibilidades para personalizar encontros festivos com amigos, ou amiguinhos de sua criança, todos disponibilizados pela Cris, através de seu lindo projeto: <a href="http://birdcrafts.blogspot.com/" target="_blank">Bird Crafts</a>.
 </p>
 
 <p style="text-align: justify;">
@@ -38,7 +38,7 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 </p>
 
 <p style="text-align: justify;">
-  A_ belezura_ que você viu acima é um kit essencial para você fazer sua festa em casa. Nos kits você pode personalizar forminhas para envolver cupcakes, aneis para prender guardanapos ou rótulos de garrafas, cartões que identificam cada prato de sua festinha, e muito mais. Quer ver mais kits?
+  A<em> belezura</em> que você viu acima é um kit essencial para você fazer sua festa em casa. Nos kits você pode personalizar forminhas para envolver cupcakes, aneis para prender guardanapos ou rótulos de garrafas, cartões que identificam cada prato de sua festinha, e muito mais. Quer ver mais kits?
 </p>
 
 <p style="text-align: center;">
@@ -70,7 +70,7 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 </p>
 
 <p style="text-align: justify;">
-  Ficou tentada a conhecer muito mais do que ela é capaz de produzir? Vai lá no blog dela, bonita! Ah! Embora ao chegar lá você encontre tudo em inglês, lembre-se: ela é brasileira! Então pode fazer comentários e perguntas em nossa língua mesmo, _viu_?! Além do mais você encontra a caixinha do Google Translate, e ao escolher o Português, tudo fica mais fácil para você.
+  Ficou tentada a conhecer muito mais do que ela é capaz de produzir? Vai lá no blog dela, bonita! Ah! Embora ao chegar lá você encontre tudo em inglês, lembre-se: ela é brasileira! Então pode fazer comentários e perguntas em nossa língua mesmo, <em>viu</em>?! Além do mais você encontra a caixinha do Google Translate, e ao escolher o Português, tudo fica mais fácil para você.
 </p>
 
 <p style="text-align: justify;">
@@ -90,9 +90,9 @@ Lembra quando você era criança e tinha festas de aniversário em casa, ou era 
 **_Prateleira do Bicha Fêmea: Ateliê Dorinha Junqueira_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/category/prateleira-bicha-femea/">Prateleira do Bicha Fêmea</a> _**> Prateleira do Bicha Fêmea: Bird Crafts
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/category/prateleira-bicha-femea/">Prateleira do Bicha Fêmea</a> </em></strong>> Prateleira do Bicha Fêmea: Bird Crafts
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>

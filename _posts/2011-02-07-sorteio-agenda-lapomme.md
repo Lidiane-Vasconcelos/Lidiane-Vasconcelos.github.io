@@ -1,8 +1,8 @@
 ---
-
+id: 2953
 title: 'Organize-se com charme by La Pomme &#038; Bicha Fêmea.'
-
-author: Lidiane
+date: 2011-02-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/02/07/sorteio-agenda-lapomme/
 permalink: /2011/02/07/sorteio-agenda-lapomme/
@@ -12,7 +12,7 @@ categories:
 Sim! É muito melhor manter a vida organizada com recursos cheios de charme e um toque personalizado, não é? Claro que sim, bonita! E se é para ser desse jeito, ter uma agenda exclusiva vai fazer toda a diferença, não vai?
 
 <p style="text-align: justify;">
-  Você gosta de se sentir única em tudo? Pois tenho certeza que você vai gostar de saber qual é a dica que eu tenho para te dar. Prepare-se para um momento _descontrol_ quando vir qual será o presente no sorteio do **Bicha Fêmea** que inicia hoje!
+  Você gosta de se sentir única em tudo? Pois tenho certeza que você vai gostar de saber qual é a dica que eu tenho para te dar. Prepare-se para um momento <em>descontrol</em> quando vir qual será o presente no sorteio do <strong>Bicha Fêmea</strong> que inicia hoje!
 </p>
 
 <!--more-->
@@ -22,7 +22,7 @@ Sim! É muito melhor manter a vida organizada com recursos cheios de charme e um
 </p>
 
 <p style="text-align: justify;">
-  Você conhece a [La Pomme](https://www.lojalapomme.com.br/) ? Se você é uma bicha fêmea navegante há um certo tempo, conhece, sim. Lembra da **_<a href="http://www.trololodemulher.com.br/2010/12/06/caneca-la-pomme/">caneca personalizada que a La Pomme fez especialmente para o Bicha Fêmea</a>_**? Pois é. A empresa está de volta por aqui, e desta vez você pode ganhar um mimo **TO-TAL-MEN-TE personalizado** de acordo com sua vontade. Olha só:
+  Você conhece a <a href="https://www.lojalapomme.com.br/" target="_blank">La Pomme</a>? Se você é uma bicha fêmea navegante há um certo tempo, conhece, sim. Lembra da <strong><em><a href="http://www.trololodemulher.com.br/2010/12/06/caneca-la-pomme/">caneca personalizada que a La Pomme fez especialmente para o Bicha Fêmea</a></em></strong>? Pois é. A empresa está de volta por aqui, e desta vez você pode ganhar um mimo <strong>TO-TAL-MEN-TE personalizado</strong> de acordo com sua vontade. Olha só:
 </p>
 
 <p style="text-align: center;">
@@ -46,39 +46,39 @@ Sim! É muito melhor manter a vida organizada com recursos cheios de charme e um
 </p>
 
 <p style="text-align: justify;">
-  Vê que agenda linda de viver? Quer uma confeccionada de acordo com seu gosto pessoal? Na **La Pomme** isso é possível, e você jamais terá uma agenda feita em série. Para quem gosta de produtos diferenciados, isso é tudo que há! Não é verdade? E justamente por que a sua será exclusiva, esta é meramente ilustrativa. Como a **La Pomme** faz isso? Espia [aqui](https://www.lojalapomme.com.br/pagina/como-personalizar.html)  e você vai entender bem…
+  Vê que agenda linda de viver? Quer uma confeccionada de acordo com seu gosto pessoal? Na <strong>La Pomme</strong> isso é possível, e você jamais terá uma agenda feita em série. Para quem gosta de produtos diferenciados, isso é tudo que há! Não é verdade? E justamente por que a sua será exclusiva, esta é meramente ilustrativa. Como a <strong>La Pomme</strong> faz isso? Espia <a href="https://www.lojalapomme.com.br/pagina/como-personalizar.html" target="_blank">aqui</a> e você vai entender bem…
 </p>
 
 <p style="text-align: justify;">
-  Percebeu o diferencial da **La Pomme**? Isto mesmo: **imprimir exclusividade em cada produto que é criado, e tudo de acordo com a vontade do cliente**.
+  Percebeu o diferencial da <strong>La Pomme</strong>? Isto mesmo: <strong>imprimir exclusividade em cada produto que é criado, e tudo de acordo com a vontade do cliente</strong>.
 </p>
 
 <p style="text-align: justify;">
-  Para ganhar a sua **agenda personalizada by La Pomme via Bicha Fêmea**, tudo que você tem a fazer é deixar um comentário neste post avisando que, sim, quer ganhar este presente exclusivo. E só!
+  Para ganhar a sua <strong>agenda personalizada by La Pomme via Bicha Fêmea</strong>, tudo que você tem a fazer é deixar um comentário neste post avisando que, sim, quer ganhar este presente exclusivo. E só!
 </p>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Quer aumentar as chances de ganhar?</span>_**
+  <strong><em><span style="font-size: medium;">Quer aumentar as chances de ganhar?</span></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Você pode ganhar **_2 inscrições a mais se fizer a divulgação desse sorteio no Twitter_**.
+  Você pode ganhar <strong><em>2 inscrições a mais se fizer a divulgação desse sorteio no Twitter</em></strong>.
 </p>
 
 <p style="text-align: center;">
-  Ganhe ainda **_mais 2 inscrições se falar do sorteio no seu blog_**.
+  Ganhe ainda <strong><em>mais 2 inscrições se falar do sorteio no seu blog</em></strong>.
 </p>
 
 <p style="text-align: center;">
-  Ou seja, **_você tem a chance de concorrer com até 5 inscrições_**!!
+  Ou seja, <strong><em>você tem a chance de concorrer com até 5 inscrições</em></strong>!!
 </p>
 
 <p style="text-align: center;">
-  **_*Se você fizer a divulgação no Twitter, no seu blog, ou em ambos, é imprescindível me informar o link da divulgação para que eu valide as inscrições extras para você, está bem?_**
+  <strong><em>*Se você fizer a divulgação no Twitter, no seu blog, ou em ambos, é imprescindível me informar o link da divulgação para que eu valide as inscrições extras para você, está bem?</em></strong>
 </p>
 
 <p style="text-align: justify;">
-  As inscrições começam hoje e **_vão até o dia 17 de Fevereiro_**. Farei o sorteio via Random.org, com **_divulgação do nome da ganhadora no dia 21 de Fevereiro_**. A ganhadora receberá meu e-mail questionando o**_ endereço de entrega, que deverá ser em território brasileiro_**. Eu preciso **_receber a resposta da ganhadora até o dia 24 de Fevereiro_**, caso contrário, farei novo sorteio entre as inscritas.
+  As inscrições começam hoje e <strong><em>vão até o dia 17 de Fevereiro</em></strong>. Farei o sorteio via Random.org, com <strong><em>divulgação do nome da ganhadora no dia 21 de Fevereiro</em></strong>. A ganhadora receberá meu e-mail questionando o<strong><em> endereço de entrega, que deverá ser em território brasileiro</em></strong>. Eu preciso <strong><em>receber a resposta da ganhadora até o dia 24 de Fevereiro</em></strong>, caso contrário, farei novo sorteio entre as inscritas.
 </p>
 
 <p style="text-align: justify;">
@@ -90,17 +90,17 @@ Sim! É muito melhor manter a vida organizada com recursos cheios de charme e um
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>

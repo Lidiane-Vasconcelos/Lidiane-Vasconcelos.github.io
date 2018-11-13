@@ -1,8 +1,8 @@
 ---
-
+id: 2990
 title: 'Decoração “faça você mesma”: casa de Margaret'
-
-author: Lidiane
+date: 2011-05-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/05/09/decoracao-reciclagem/
 permalink: /2011/05/09/decoracao-reciclagem/
@@ -11,11 +11,11 @@ categories:
   - Faça Você Mesma
 ---
 <p style="text-align: justify;">
-  Na casa de **Margaret**, a blogueira das mais bem humoradas da internet, a **decoração** é pautada por **cores**, distribuídas nos **móveis** e **objetos de decoração** que recebem seu toque pessoal. Isso mesmo! Cada detalhe tem sua alma, e nem é porque ela o escolheu, mas porque ela o fez.
+  Na casa de <strong>Margaret</strong>, a blogueira das mais bem humoradas da internet, a <strong>decoração</strong> é pautada por <strong>cores</strong>, distribuídas nos <strong>móveis</strong> e <strong>objetos de decoração</strong> que recebem seu toque pessoal. Isso mesmo! Cada detalhe tem sua alma, e nem é porque ela o escolheu, mas porque ela o fez.
 </p>
 
 <p style="text-align: justify;">
-  Margaret tem como marca registrada em seu blog, o **[Margaretss](http://www.margaretss.com.br/) **, a cultura do “faça você mesma”. Muito do que há em sua casa é resultado de muito trabalho “com a mão na massa”, permeado por ideias ‘_pra_ lá de criativas.
+  Margaret tem como marca registrada em seu blog, o <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, a cultura do “faça você mesma”. Muito do que há em sua casa é resultado de muito trabalho “com a mão na massa”, permeado por ideias ‘<em>pra</em> lá de criativas.
 </p>
 
 <!--more-->
@@ -23,7 +23,7 @@ categories:
 Você gosta de inventar mimos decorativos cheios de personalidade e cores, daqueles que são exclusivos e arrancam comentários de quem vê? Prepare-se para as criações da Margaret, inspire-se e suspire!
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Baús Amarelos</span>**
+  <strong><span style="font-size: medium;">Baús Amarelos</span></strong>
 </p>
 
 <p align="center">
@@ -31,15 +31,15 @@ Você gosta de inventar mimos decorativos cheios de personalidade e cores, daque
 </p>
 
 <p style="text-align: left;">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;">
-  **[Amarelo na decoração: como usar?](http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/) **
+  <strong><a href="http://www.trololodemulher.com.br/2013/09/16/amarelo-na-decoracao/" target="_blank">Amarelo na decoração: como usar?</a></strong>
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Cantinho Amarelo</span>**
+  <strong><span style="font-size: medium;">Cantinho Amarelo</span></strong>
 </p>
 
 <p align="center">
@@ -47,15 +47,15 @@ Você gosta de inventar mimos decorativos cheios de personalidade e cores, daque
 </p>
 
 <p style="text-align: left;">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;">
-  **[Quer 5 razões pra ter uma suporte de organização na parede da cozinha?](http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/) **
+  <strong><a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank">Quer 5 razões pra ter uma suporte de organização na parede da cozinha?</a></strong>
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Cantinho do Quarto de Isabela</span>**
+  <strong><span style="font-size: medium;">Cantinho do Quarto de Isabela</span></strong>
 </p>
 
 <p align="center">
@@ -63,15 +63,15 @@ Você gosta de inventar mimos decorativos cheios de personalidade e cores, daque
 </p>
 
 <p style="text-align: left;">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;">
-  **[Criatividade e sustentabilidade na decoração: inspirações.](http://www.trololodemulher.com.br/2015/02/04/sustentabilidade-decoracao/) **
+  <strong><a href="http://www.trololodemulher.com.br/2015/02/04/sustentabilidade-decoracao/" target="_blank">Criatividade e sustentabilidade na decoração: inspirações.</a></strong>
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Canto da Caixa+Gaiola</span>**
+  <strong><span style="font-size: medium;">Canto da Caixa+Gaiola</span></strong>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ Você gosta de inventar mimos decorativos cheios de personalidade e cores, daque
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Mesinha de Pallet</span>**
+  <strong><span style="font-size: medium;">Mesinha de Pallet</span></strong>
 </p>
 
 <p align="center">
@@ -87,17 +87,17 @@ Você gosta de inventar mimos decorativos cheios de personalidade e cores, daque
 </p>
 
 <p style="text-align: justify;">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: justify;">
-  **[Como decorar uma mesa de centro de sala?](http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/) **
+  <strong><a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_blank">Como decorar uma mesa de centro de sala?</a></strong>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3848
 title: Aprenda as melhores práticas na gestão da rotina doméstica!
-
-author: Lidiane
+date: 2018-02-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2018/02/20/rotina-domestica-2/
 permalink: /2018/02/20/rotina-domestica-2/
@@ -13,7 +13,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  Casa fora de controle, sentimento de sobrecarga, cansaço e estresse… conhece essa situação? Você deseja a casa em ordem e limpa, mas gostaria de aplicar menos esforço para dar conta das demandas? Isso é possível e te digo como: através do aprendizado das **melhores práticas na gestão da rotina doméstica**, em conjunto com outras mulheres, alinhadas e focadas no mesmo propósito.
+  Casa fora de controle, sentimento de sobrecarga, cansaço e estresse… conhece essa situação? Você deseja a casa em ordem e limpa, mas gostaria de aplicar menos esforço para dar conta das demandas? Isso é possível e te digo como: através do aprendizado das <strong>melhores práticas na gestão da rotina doméstica</strong>, em conjunto com outras mulheres, alinhadas e focadas no mesmo propósito.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ categories:
 </p>
 
 <p align="justify">
-  **[CASA LIMPA E ORGANIZADA COM MENOS ESFORÇO]** Quer fazer parte de uma turma de mulheres que desejam aprender as melhores práticas na gestão da rotina doméstica, e tornar o dia a dia mais leve?
+  <strong>[CASA LIMPA E ORGANIZADA COM MENOS ESFORÇO]</strong> Quer fazer parte de uma turma de mulheres que desejam aprender as melhores práticas na gestão da rotina doméstica, e tornar o dia a dia mais leve?
 </p>
 
 <p align="justify">
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="justify">
-  Entre em contato comigo pelo whatsapp – 81 9 95307307 – para fazer sua inscrição ou tirar dúvidas. [Clique aqui e saiba todos os detalhes sobre o Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) .
+  Entre em contato comigo pelo whatsapp – 81 9 95307307 – para fazer sua inscrição ou tirar dúvidas. <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Clique aqui e saiba todos os detalhes sobre o Projeto Lar Bonito Lar</a>.
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="justify">

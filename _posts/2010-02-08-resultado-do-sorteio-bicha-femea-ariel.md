@@ -1,8 +1,8 @@
 ---
-
+id: 2783
 title: 'Resultado do sorteio Bicha Fêmea &#038; Ariel'
-
-author: Lidiane
+date: 2010-02-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/02/08/resultado-do-sorteio-bicha-femea-ariel/
 permalink: /2010/02/08/resultado-do-sorteio-bicha-femea-ariel/

@@ -1,8 +1,8 @@
 ---
-
+id: 3326
 title: Me diz o que comes…e te direi se és saudável, ou não.
-
-author: Lidiane
+date: 2014-07-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/07/25/alimentacao-saudavel/
 permalink: /2014/07/25/alimentacao-saudavel/
@@ -26,61 +26,61 @@ categories:
 &nbsp;
 
 <p align="justify">
-  **<span style="color: #c0504d;">Trololó de Mulher > A gente sabe que comer bem, para uma criança, é vital. No caso do adulto, que parou de crescer, por que é tão importante comer bem?</span>**
+  <strong><span style="color: #c0504d;">Trololó de Mulher > A gente sabe que comer bem, para uma criança, é vital. No caso do adulto, que parou de crescer, por que é tão importante comer bem?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **O adulto, apesar de não estar em fase de crescimento, necessita de uma alimentação equilibrada e balanceada para manutenção de sua saúde. Quando um adulto se alimenta mal, acaba sobrecarregando órgãos importantes para o funcionamento correto do organismo. Uma má alimentação também leva ao acúmulo de toxinas no organismo e prejuízos no sistema imunológico. Todos esses fatores contribuem para o aparecimento de diversas doenças, principalmente as doenças não transmissíveis como diabetes, doenças cardiovasculares, alterações de colesterol e pressão, alergias e intolerâncias alimentares, gordura no fígado, entre outras. Manter uma alimentação saudável e equilibrada faz com que o nosso organismo funcione sempre de forma correta evitando o aparecimento de doenças e o acúmulo de toxinas em nosso corpo.”**
+>   <strong>O adulto, apesar de não estar em fase de crescimento, necessita de uma alimentação equilibrada e balanceada para manutenção de sua saúde. Quando um adulto se alimenta mal, acaba sobrecarregando órgãos importantes para o funcionamento correto do organismo. Uma má alimentação também leva ao acúmulo de toxinas no organismo e prejuízos no sistema imunológico. Todos esses fatores contribuem para o aparecimento de diversas doenças, principalmente as doenças não transmissíveis como diabetes, doenças cardiovasculares, alterações de colesterol e pressão, alergias e intolerâncias alimentares, gordura no fígado, entre outras. Manter uma alimentação saudável e equilibrada faz com que o nosso organismo funcione sempre de forma correta evitando o aparecimento de doenças e o acúmulo de toxinas em nosso corpo.”</strong>
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  **<span style="color: #c0504d;">TMulher > Tem gente que parece ter uma saúde de ferro, pois nunca (ou quase nunca) fica doente. Na prática e no final das contas, comer bem é garantia de boa saúde?</span>**
+  <strong><span style="color: #c0504d;">TMulher > Tem gente que parece ter uma saúde de ferro, pois nunca (ou quase nunca) fica doente. Na prática e no final das contas, comer bem é garantia de boa saúde?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **Sim. Os alimentos, além de fornecer energia, nutrem nosso organismo. Muitos alimentos contem nutrientes que melhoram o funcionamento do Sistema Imunológico prevenindo, assim, doenças. Exemplos de alimentos que reforçam o sistema imunológico: frutas, legumes, verduras, castanhas, cogumelos. Muitos alimentos têm ação antioxidante que protegem o organismo de doenças, principalmente as não transmissíveis (diabetes, doenças cardiovasculares, alterações de colesterol e pressão, alergias e intolerâncias alimentares, gordura no fígado, entre outras). As proteínas fornecidas pelos alimentos também são importantíssimas para o funcionamento correto do nosso sistema de defesas.”**
+>   <strong>Sim. Os alimentos, além de fornecer energia, nutrem nosso organismo. Muitos alimentos contem nutrientes que melhoram o funcionamento do Sistema Imunológico prevenindo, assim, doenças. Exemplos de alimentos que reforçam o sistema imunológico: frutas, legumes, verduras, castanhas, cogumelos. Muitos alimentos têm ação antioxidante que protegem o organismo de doenças, principalmente as não transmissíveis (diabetes, doenças cardiovasculares, alterações de colesterol e pressão, alergias e intolerâncias alimentares, gordura no fígado, entre outras). As proteínas fornecidas pelos alimentos também são importantíssimas para o funcionamento correto do nosso sistema de defesas.”</strong>
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  **<span style="color: #c0504d;">TM > Alimentos orgânicos não têm agrotóxicos. Que diferença isso faz?</span>**
+  <strong><span style="color: #c0504d;">TM > Alimentos orgânicos não têm agrotóxicos. Que diferença isso faz?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **Além de apresentarem uma maior durabilidade e de serem mais saborosos, a ausência de agrotóxicos nos alimentos orgânicos faz com que os nutrientes presentes nesses alimentos sejam melhor aproveitados. Os agrotóxicos são substâncias consideradas tóxicas para o organismo e podem, além de dificultar a absorção correta dos nutrientes, promover alterações endócrinas, imunológicas, processos alérgicos, além de outras doeças.”**
+>   <strong>Além de apresentarem uma maior durabilidade e de serem mais saborosos, a ausência de agrotóxicos nos alimentos orgânicos faz com que os nutrientes presentes nesses alimentos sejam melhor aproveitados. Os agrotóxicos são substâncias consideradas tóxicas para o organismo e podem, além de dificultar a absorção correta dos nutrientes, promover alterações endócrinas, imunológicas, processos alérgicos, além de outras doeças.”</strong>
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  **<span style="color: #c0504d;">TM > Como se configura um prato bem equilibrado?</span>**
+  <strong><span style="color: #c0504d;">TM > Como se configura um prato bem equilibrado?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **O prato equilibrado deve fornecer todos os macronutrientes e micronutrientes que o organismo necessita, exemplo: Carboidrato (prefira sempre os alimentos integrais &#8211; arroz integral, 1 batata pequena) Proteína magra (1 filé de peixe, 1 filé de frango), feijão, lentilha, grão de bico, Gordura de boa qualidade (azeite no tempero da salada), Vitaminas e minerais (Saladas de folhas cruas e legumes refogados), Fibras (arroz integral, salada e legumes). “**
+>   <strong>O prato equilibrado deve fornecer todos os macronutrientes e micronutrientes que o organismo necessita, exemplo: Carboidrato (prefira sempre os alimentos integrais &#8211; arroz integral, 1 batata pequena) Proteína magra (1 filé de peixe, 1 filé de frango), feijão, lentilha, grão de bico, Gordura de boa qualidade (azeite no tempero da salada), Vitaminas e minerais (Saladas de folhas cruas e legumes refogados), Fibras (arroz integral, salada e legumes). “</strong>
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  **<span style="color: #c0504d;">TM > O açúcar deve ser cortado da alimentação?</span>**
+  <strong><span style="color: #c0504d;">TM > O açúcar deve ser cortado da alimentação?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   **O açúcar refinado deve sim ser eliminado da alimentação, pois ele não fornece nenhuma vitamina ou mineral ao organismo, somente calorias (alimento conhecido como caloria vazia). As versões de açúcar mascavo ou demerara podem fazer parte de uma alimentação equilibrada, desde que o individuo não tenha nenhuma restrição à esse tipo de alimento como diabetes. A versão mascavo e demerara contem vitaminas do complexo B importantes para o processo de geração de energia do organismo.”**
+>   <strong>O açúcar refinado deve sim ser eliminado da alimentação, pois ele não fornece nenhuma vitamina ou mineral ao organismo, somente calorias (alimento conhecido como caloria vazia). As versões de açúcar mascavo ou demerara podem fazer parte de uma alimentação equilibrada, desde que o individuo não tenha nenhuma restrição à esse tipo de alimento como diabetes. A versão mascavo e demerara contem vitaminas do complexo B importantes para o processo de geração de energia do organismo.”</strong>
 > </p>
 
 &nbsp;
@@ -100,11 +100,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Falando no azeite:**
+  <strong>Falando no azeite:</strong>
 </p>
 
 <p align="justify">
-  [**Azeite: o óleo que é amigo do peito, e é uma delícia!**](http://www.trololodemulher.com.br/2013/05/20/azeite-saude/) 
+  <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/" target="_blank"><strong>Azeite: o óleo que é amigo do peito, e é uma delícia!</strong></a>
 </p>
 
 <p align="justify">
@@ -116,11 +116,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Não deixe de ler:**
+  <strong>Não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  [**Você sabe como preparar um molho de tomate SSS?**](http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/) 
+  <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/" target="_blank"><strong>Você sabe como preparar um molho de tomate SSS?</strong></a>
 </p>
 
 <p align="justify">
@@ -128,15 +128,15 @@ categories:
 </p>
 
 <p align="justify">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p align="justify">
-  [**Seu coração está protegido de doenças cardiovasculares?**](http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/) 
+  <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/" target="_blank"><strong>Seu coração está protegido de doenças cardiovasculares?</strong></a>
 </p>
 
 <p align="justify">
-  6 &#8211; **Folhas Verde Escuras: **as folhas verde escuras são fonte de fibras (importantes para o correto funcionamento do intestino e redução da absorção da gordura e açúcar na alimentação), são ricas em vitaminas A, C, K, complexo B, fósforo, magnésio, cálcio, e ferro, que associado à vitamina C, é absorvido e aproveitado pelo organismo evitando doenças como a anemia. Os folhas verde escuras também são ricas em fitoquímicos com ação antioxidante no organismo.
+  6 &#8211; <strong>Folhas Verde Escuras: </strong>as folhas verde escuras são fonte de fibras (importantes para o correto funcionamento do intestino e redução da absorção da gordura e açúcar na alimentação), são ricas em vitaminas A, C, K, complexo B, fósforo, magnésio, cálcio, e ferro, que associado à vitamina C, é absorvido e aproveitado pelo organismo evitando doenças como a anemia. Os folhas verde escuras também são ricas em fitoquímicos com ação antioxidante no organismo.
 </p>
 
 <p align="center">
@@ -146,15 +146,15 @@ categories:
 &nbsp;
 
 <p align="justify">
-  A **Dra. Pâmela Miguel** também está na blogosfera _viu_, bonita? Para acompanhar todas as novidades e informações _superultramega_ úteis para que possamos nos alimentar melhor, espie o [blog onde há suas atualizações](http://www.drafernandagranja.com/) . Se joga, informe-se, coma melhor e sinta-se bem.
+  A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a>. Se joga, informe-se, coma melhor e sinta-se bem.
 </p>
 
 &nbsp;
 
-Imagens: [Free Images](http://www.freeimages.com/) 
+Imagens: <a href="http://www.freeimages.com/" target="_blank">Free Images</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

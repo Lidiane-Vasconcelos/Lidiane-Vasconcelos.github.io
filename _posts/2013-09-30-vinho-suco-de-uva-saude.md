@@ -1,8 +1,8 @@
 ---
-
+id: 3265
 title: Vinho e suco de uva oferecem os mesmos benefícios para a saúde?
-
-author: Lidiane
+date: 2013-09-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/09/30/vinho-suco-de-uva-saude/
 permalink: /2013/09/30/vinho-suco-de-uva-saude/
@@ -14,13 +14,13 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 &nbsp;
 
 <p align="justify">
-  A boa notícia é que há um substituto a altura, sem álcool, e muito delicioso: o** suco de uva**. Você já provou? Eu já, e me apaixonei. E mais: procurei tirar todas as dúvidas com a **Dra. Pâmela Miguel, que é Nutricionista, **e hoje vai nos brindar com tudo que precisamos saber sobre a bebida… tim tim!
+  A boa notícia é que há um substituto a altura, sem álcool, e muito delicioso: o<strong> suco de uva</strong>. Você já provou? Eu já, e me apaixonei. E mais: procurei tirar todas as dúvidas com a <strong>Dra. Pâmela Miguel, que é Nutricionista, </strong>e hoje vai nos brindar com tudo que precisamos saber sobre a bebida… tim tim!
 </p>
 
 <!--more-->
 
 <p align="center">
-  **<span style="font-size: large;">Com a palavra, a especialista:</span>**
+  <strong><span style="font-size: large;">Com a palavra, a especialista:</span></strong>
 </p>
 
 &nbsp;
@@ -57,7 +57,7 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >       </p>
 >       
 >       <p align="center">
->         Imagem: **_[stock.xchng](http://www.sxc.hu/) _**
+>         Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
 >       </p>
 >       
 >       <p>
@@ -113,27 +113,27 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >           </p>
 >           
 >           <p align="justify">
->             A **Dra. Pâmela Miguel** também está na blogosfera _viu_, bonita? Para acompanhar todas as novidades e informações _superultramega_ úteis para que possamos nos alimentar melhor, espie o **[blog onde há suas atualizações](http://www.drafernandagranja.com/) **. Se joga, informe-se, coma melhor e sinta-se bem.
+>             A <strong>Dra. Pâmela Miguel</strong> também está na blogosfera <em>viu</em>, bonita? Para acompanhar todas as novidades e informações <em>superultramega</em> úteis para que possamos nos alimentar melhor, espie o <strong><a href="http://www.drafernandagranja.com/" target="_blank">blog onde há suas atualizações</a></strong>. Se joga, informe-se, coma melhor e sinta-se bem.
 >           </p>
 >           
 >           <p align="center">
->             **<span style="font-size: large;">Tudo a ver:</span>**
+>             <strong><span style="font-size: large;">Tudo a ver:</span></strong>
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/">**<span style="font-size: large;">Seu coração está protegidos das doenças cardiovasculares?</span>**</a>
+>             <a href="http://www.trololodemulher.com.br/2013/09/23/coracao-doenca-cardiovascular/"><strong><span style="font-size: large;">Seu coração está protegidos das doenças cardiovasculares?</span></strong></a>
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/2013/07/15/saude-alimentacao/">**<span style="font-size: large;">Tomar líquido durante as refeições faz a barriga crescer: verdade ou mentira?</span>**</a>
+>             <a href="http://www.trololodemulher.com.br/2013/07/15/saude-alimentacao/"><strong><span style="font-size: large;">Tomar líquido durante as refeições faz a barriga crescer: verdade ou mentira?</span></strong></a>
 >           </p>
 >           
 >           <p align="center">
->             <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;">Azeite: o óleo que é amigo do peito, e é uma delícia!</span>**</a>
+>             <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;">Azeite: o óleo que é amigo do peito, e é uma delícia!</span></strong></a>
 >           </p>
 >           
 >           <p align="center">
->             [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+>             <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 >           </p>
 >           
 >           <p>
@@ -141,7 +141,7 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >           </p>
 >           
 >           <p align="center">
->             **<span style="font-size: small;">Redes Sociais</span>**
+>             <strong><span style="font-size: small;">Redes Sociais</span></strong>
 >           </p>
 >           
 >           <p>
@@ -156,13 +156,13 @@ Você já deve ter ouvido falar dos inúmeros benefícios para a saúde quando o
 >             <tr>
 >               <td valign="top" width="300">
 >                 <p align="center">
->                   [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+>                   <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
 >                 </p>
 >               </td>
 >               
 >               <td valign="top" width="300">
 >                 <p align="center">
->                   [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+>                   <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
 >                 </p>
 >               </td>
 >             </tr>

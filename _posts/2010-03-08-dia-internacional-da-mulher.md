@@ -1,8 +1,8 @@
 ---
-
+id: 2793
 title: Hoje é dia de receber flores. É?!
-
-author: Lidiane
+date: 2010-03-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/03/08/dia-internacional-da-mulher/
 permalink: /2010/03/08/dia-internacional-da-mulher/
@@ -59,7 +59,7 @@ Que a gente um dia, lá no futuro, receba flores nesta data. Apenas isso. O dia 
 
 Quem viver, verá!
 
-Imagens: [stock.xchng](http://www.sxc.hu/) 
+Imagens: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 
 **Mais no Bicha Fêmea…**
 

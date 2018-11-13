@@ -1,8 +1,8 @@
 ---
-
+id: 2796
 title: Cabelo cacheado tem corte, sim!
-
-author: Lidiane
+date: 2010-02-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/02/23/cabelo-cacheado/
 permalink: /2010/02/23/cabelo-cacheado/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p style="text-align: center;">
-  **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-6-leve.jpg"></a>Cabelo enrolado tem corte sim!**
+  <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/02/Foto-6-leve.jpg"></a>Cabelo enrolado tem corte sim!</strong>
 </p>
 
 Quem nunca quis ter outro cabelo, que atire a primeira pedra. Dizem por aí que mulher nunca está satisfeita com nada (o que acho particularmente uma injustiça), mas olha, vou te contar: quando você achar uma que ama o cabelo que deus lhe deu, emoldure e apresente à multidão!
@@ -121,15 +121,15 @@ Completei 27 anos alguns dias depois. Um ano que acredito ser de realizações, 
 
 Denise Somera, de Curitiba (PR)
 
-**_[Denise Escreve](http://deniseescreve.wordpress.com/) _**
+**_<a href="http://deniseescreve.wordpress.com/" target="_blank">Denise Escreve</a>_**
 
 **_Quer publicar seu post no Bicha Fêmea? Seja uma <a href="http://www.trololodemulher.com.br/colabore/" target="_self">bicha fêmea colaboradora </a>você também!_**
 
 **Inspire-se e mantenha-se informada sobre beleza&#8230;**
 
-**<a href="http://www.trololodemulher.com.br/2009/12/14/celulite/" target="_self">_Atitudes e tratamentos para atenuar a celulite._</a>**
+**<a href="http://www.trololodemulher.com.br/2009/12/14/celulite/" target="_self"><em>Atitudes e tratamentos para atenuar a celulite.</em></a>**
 
-**<a href="http://www.trololodemulher.com.br/2009/12/14/celulite/" target="_self">_Tudo sobre maquiagem mineral._</a>**
+**<a href="http://www.trololodemulher.com.br/2009/12/14/celulite/" target="_self"><em>Tudo sobre maquiagem mineral.</em></a>**
 
 **_<a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-cuidados/" target="_self">Dicas para beleza e saúde das unhas.</a>_**
 

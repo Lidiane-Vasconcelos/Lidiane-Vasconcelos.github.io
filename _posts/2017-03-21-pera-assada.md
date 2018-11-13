@@ -1,8 +1,8 @@
 ---
-
+id: 3743
 title: 'Pera assada: perfeita como entrada, ou sobremesa.'
-
-author: Lidiane
+date: 2017-03-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/03/21/pera-assada/
 permalink: /2017/03/21/pera-assada/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  A receita de **pera assada** que a Tania Telva compartilhou conosco é das mais simples e lindas de viver. Tenho certeza que você vai concordar comigo: a impressão que temos é de que é uma delícia! A melhor das notícias é que ela é super versátil: entrada ou sobremesa? A única dificuldade é você decidir. Confira!
+  A receita de <strong>pera assada</strong> que a Tania Telva compartilhou conosco é das mais simples e lindas de viver. Tenho certeza que você vai concordar comigo: a impressão que temos é de que é uma delícia! A melhor das notícias é que ela é super versátil: entrada ou sobremesa? A única dificuldade é você decidir. Confira!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “_Você consegue lembrar de um prato que pode ser servido tanto como entrada quanto sobremesa? Se não, deixe-me apresentar-lhe a sugestão de hoje: pera assada. Simples de preparar esta receita é deliciosa e tem uma vantagem extra: deixar seus convidados impressionados com suas habilidades na cozinha._
+  “<em>Você consegue lembrar de um prato que pode ser servido tanto como entrada quanto sobremesa? Se não, deixe-me apresentar-lhe a sugestão de hoje: pera assada. Simples de preparar esta receita é deliciosa e tem uma vantagem extra: deixar seus convidados impressionados com suas habilidades na cozinha.</em>
 </p>
 
 <p align="center">
@@ -63,20 +63,20 @@ _Dica: o blue cheese pode ser substituído por gorgonzola._”
 
 **Mais receitas de Tania:**
 
-**[Molho pesto de limão siciliano: mil e uma finalidades.](http://www.trololodemulher.com.br/2017/03/16/molho-pesto/) **
+**<a href="http://www.trololodemulher.com.br/2017/03/16/molho-pesto/" target="_blank">Molho pesto de limão siciliano: mil e uma finalidades.</a>**
 
-**[Sopa de lentilhas: comida boa e prosperidade o ano todo!](http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/) **
+**<a href="http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/" target="_blank">Sopa de lentilhas: comida boa e prosperidade o ano todo!</a>**
 
-**[Receita de pão caseiro de abobrinha… das mais fáceis.](http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/) **
+**<a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank">Receita de pão caseiro de abobrinha… das mais fáceis.</a>**
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… [clique aqui e siga!](https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

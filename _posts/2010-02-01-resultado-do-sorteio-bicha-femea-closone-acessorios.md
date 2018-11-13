@@ -1,8 +1,8 @@
 ---
-
+id: 2777
 title: 'Resultado do sorteio Bicha Fêmea &#038; Closonê Acessórios'
-
-author: Lidiane
+date: 2010-02-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/02/01/resultado-do-sorteio-bicha-femea-closone-acessorios/
 permalink: /2010/02/01/resultado-do-sorteio-bicha-femea-closone-acessorios/
@@ -10,7 +10,7 @@ categories:
   - Promoção
   - Publieditorial
 ---
-Saiu! Finalmente saiu o resultado do [sorteio do colar de corujinha](http://www.trololodemulher.com.br/2010/01/18/sorteio-no-bicha-femea-em-parceria-com-a-closone-acessorios%e2%80%a6/), lindão, que a **_[Closonê Acessórios](http://closone.blogspot.com/) _** disponibilizou nessa parceria muito _arretada_ que houve por aqui.
+Saiu! Finalmente saiu o resultado do [sorteio do colar de corujinha](http://www.trololodemulher.com.br/2010/01/18/sorteio-no-bicha-femea-em-parceria-com-a-closone-acessorios%e2%80%a6/), lindão, que a **_<a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>_** disponibilizou nessa parceria muito _arretada_ que houve por aqui.
 
 Posso falar? Fiquei ansiosa para que esse dia chegasse, porque queria que tudo desse certo. Foi tudo ótimo, e a felizarda vai ficar feliz da vida quando receber a prenda em casa. Aposto!
 
@@ -28,6 +28,6 @@ As incrições válidas contaram até o número 211, porque muitos comentários 
 
 Foi a Raine, que teve o número 89 como o da inscrição (clique na imagem para ampliar), obedecendo a ordem de chegada dos comentários. Parabéns, Raine! Sortuda!!!
 
-Já enviei um _e-mail_ para você pedindo seu endereço, _viu_? Aguardo retorno para que eu possa informar a Cristiane Inokuma, da **_[Closonê Acessórios](http://closone.blogspot.com/) _**, e ela possa enviar o colar para você.
+Já enviei um _e-mail_ para você pedindo seu endereço, _viu_? Aguardo retorno para que eu possa informar a Cristiane Inokuma, da **_<a href="http://closone.blogspot.com/" target="_blank">Closonê Acessórios</a>_**, e ela possa enviar o colar para você.
 
 Obrigada a todas que participaram desse primeiro sorteio e, oh! Aguardem as cenas dos próximos capítulos e continuem acompanhando o Bicha Fêmea, porque vem outro sorteio por aí, muito antes do que você imagina…

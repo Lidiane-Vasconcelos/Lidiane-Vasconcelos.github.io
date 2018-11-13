@@ -1,8 +1,8 @@
 ---
-
+id: 3834
 title: 9 dicas para manter a saúde mental.
-
-author: Lidiane
+date: 2017-11-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/11/23/saude-mental/
 permalink: /2017/11/23/saude-mental/
@@ -19,7 +19,7 @@ Todos sabemos que no meio dessa correria que estamos vivendo, a qualidade de vid
 </p>
 
 <p align="center">
-  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
 </p>
 
 <p align="justify">
@@ -75,7 +75,7 @@ Todos sabemos que no meio dessa correria que estamos vivendo, a qualidade de vid
 </p>
 
 <p align="justify">
-  Estar em contato com a espiritualidade é uma maneira de manter seu equilíbrio. Não importa qual seja sua religião, entrar em contato com o ser superior através de meditação e orações é um bom caminho. Diferente do que a maioria de pessoas acreditam, o termo “espiritualidade” envolve muito mais do que apenas religião. Por exemplo, técnicas de autoconhecimento como meditação, [tarot](https://www.iquilibrio.com/tarot/)  e terapias esotéricas também se encaixam no termo.
+  Estar em contato com a espiritualidade é uma maneira de manter seu equilíbrio. Não importa qual seja sua religião, entrar em contato com o ser superior através de meditação e orações é um bom caminho. Diferente do que a maioria de pessoas acreditam, o termo “espiritualidade” envolve muito mais do que apenas religião. Por exemplo, técnicas de autoconhecimento como meditação, <a href="https://www.iquilibrio.com/tarot/" target="_blank">tarot</a> e terapias esotéricas também se encaixam no termo.
 </p>
 
 <p align="justify">
@@ -95,11 +95,11 @@ Todos sabemos que no meio dessa correria que estamos vivendo, a qualidade de vid
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
+  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>
 
 <p align="justify">

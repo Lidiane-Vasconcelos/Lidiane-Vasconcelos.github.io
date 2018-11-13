@@ -1,8 +1,8 @@
 ---
-
+id: 3371
 title: Como receber em um espaço pequeno? Dicas valiosas!
-
-author: Lidiane
+date: 2014-11-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/11/17/receber-espaco-pequeno/
 permalink: /2014/11/17/receber-espaco-pequeno/
@@ -12,19 +12,19 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  As festas de final de ano estão por vir, e você decidiu que deste ano não passa: haverá uma reuniãozinha de amigos ou familiares em sua casa. O problema é: seu espaço é mínimo! Embora você esteja muito empolgada para receber em seu apartamento pequenino, ou na sua casa _mini_, pensar nos transtornos e na falta de conforto acabam te desanimando um pouco, não é?
+  As festas de final de ano estão por vir, e você decidiu que deste ano não passa: haverá uma reuniãozinha de amigos ou familiares em sua casa. O problema é: seu espaço é mínimo! Embora você esteja muito empolgada para receber em seu apartamento pequenino, ou na sua casa <em>mini</em>, pensar nos transtornos e na falta de conforto acabam te desanimando um pouco, não é?
 </p>
 
 <p align="justify">
-  Sabe de uma coisa? Pensei nesse probleminha bem comum a muitas de nós, porque morar em pequenos espaços hoje em dia é o que mais existe por aí… e tratei de tirar todas as dúvidas, e pedir dicas, de quem mais entende do assunto na blogosfera. Não conheço quem seja mais apropriada que a **Katia Bonfadini** para nos ajudar quanto a isso, _viu_?
+  Sabe de uma coisa? Pensei nesse probleminha bem comum a muitas de nós, porque morar em pequenos espaços hoje em dia é o que mais existe por aí… e tratei de tirar todas as dúvidas, e pedir dicas, de quem mais entende do assunto na blogosfera. Não conheço quem seja mais apropriada que a <strong>Katia Bonfadini</strong> para nos ajudar quanto a isso, <em>viu</em>?
 </p>
 
 <p align="justify">
-  Você verá pelas dicas que a moça nos dá que ela entende, mesmo, de promover encontros em sua casa, mesmo morando num apartamento de medidas bem enxutas. Vamos aprender com ela? Depois desse post, garanto, você vai ficar só no _siricotico _de vontade de promover sua festa de Natal ou _Reveillon_… quer apostar? Se joga!
+  Você verá pelas dicas que a moça nos dá que ela entende, mesmo, de promover encontros em sua casa, mesmo morando num apartamento de medidas bem enxutas. Vamos aprender com ela? Depois desse post, garanto, você vai ficar só no <em>siricotico </em>de vontade de promover sua festa de Natal ou <em>Reveillon</em>… quer apostar? Se joga!
 </p>
 
 <p align="justify">
-  **Trololó de Mulher >>> O fato de você morar em um apartamento pequeno nunca foi motivo para você deixar de receber?**
+  <strong>Trololó de Mulher >>> O fato de você morar em um apartamento pequeno nunca foi motivo para você deixar de receber?</strong>
 </p>
 
 > <p align="justify">
@@ -32,7 +32,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **TM >>> Mexer na forma como os móveis estão dispostos no dia a dia é uma boa ideia para compor o cenário da recepção?**
+  <strong>TM >>> Mexer na forma como os móveis estão dispostos no dia a dia é uma boa ideia para compor o cenário da recepção?</strong>
 </p>
 
 > <p align="justify">
@@ -44,11 +44,11 @@ categories:
 </p>
 
 <p align="center">
-  _“…já usei a estante da sala para servir petiscos …”_
+  <em>“…já usei a estante da sala para servir petiscos …”</em>
 </p>
 
 <p align="justify">
-  **TM >>> Você tem preferência pelo uso de algum elemento decorativo, em especial, quando compõe o ambiente para receber?**
+  <strong>TM >>> Você tem preferência pelo uso de algum elemento decorativo, em especial, quando compõe o ambiente para receber?</strong>
 </p>
 
 > <p align="justify">
@@ -76,7 +76,7 @@ categories:
 </p>
 
 <p align="center">
-  _“…Gosto de mudar a decoração do buffet, da mesa de jantar e da mesa de centro, inserindo um elemento novo a cada festa. Esse elemento pode ser qualquer coisa: um caminho de mesa, uma cortina de fitas, um móbile, um pôster, borboletas de papel coladas na parede, bandeirinhas etc….”_
+  <em>“…Gosto de mudar a decoração do buffet, da mesa de jantar e da mesa de centro, inserindo um elemento novo a cada festa. Esse elemento pode ser qualquer coisa: um caminho de mesa, uma cortina de fitas, um móbile, um pôster, borboletas de papel coladas na parede, bandeirinhas etc….”</em>
 </p>
 
 <p align="center">
@@ -92,11 +92,11 @@ categories:
 </p>
 
 <p align="center">
-  _“…o que eu acho que garante um charme todo especial e que demonstra carinho e atenção com os convidados são as flores frescas e as velas. Um belo arranjo cria uma atmosfera aconchegante e dá vida à casa. Adoro misturar tipos de flores diferentes e de produzir arranjos bem coloridos. …”_
+  <em>“…o que eu acho que garante um charme todo especial e que demonstra carinho e atenção com os convidados são as flores frescas e as velas. Um belo arranjo cria uma atmosfera aconchegante e dá vida à casa. Adoro misturar tipos de flores diferentes e de produzir arranjos bem coloridos. …”</em>
 </p>
 
 <p align="justify">
-  **TM >>> O que te norteia na hora de decidir o que servir em seus encontros com amigos?**
+  <strong>TM >>> O que te norteia na hora de decidir o que servir em seus encontros com amigos?</strong>
 </p>
 
 > <p align="justify">
@@ -108,13 +108,13 @@ categories:
 </p>
 
 <p align="center">
-  _“…para uma degustação de queijos que preparei no início do ano, eu queria usar tons de terra e peças rústicas. Então comecei escolhendo um caminho de mesa em tons quentes de vermelho, laranja e marrom e, em seguida, separei uma base em forma de tronco para o bolo de queijos …”_
+  <em>“…para uma degustação de queijos que preparei no início do ano, eu queria usar tons de terra e peças rústicas. Então comecei escolhendo um caminho de mesa em tons quentes de vermelho, laranja e marrom e, em seguida, separei uma base em forma de tronco para o bolo de queijos …”</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **TM >>> O que mais é importante fazer parte do planejamento?**
+  <strong>TM >>> O que mais é importante fazer parte do planejamento?</strong>
 </p>
 
 > <p align="justify">
@@ -125,7 +125,7 @@ categories:
 >   </blockquote> 
 >   
 >   <p align="justify">
->     **TM >>> E quando o planejado não sai de acordo?**
+>     <strong>TM >>> E quando o planejado não sai de acordo?</strong>
 >   </p>
 >   
 >   <blockquote>
@@ -137,7 +137,7 @@ categories:
 >       </blockquote> 
 >       
 >       <p align="justify">
->         **TM >>> Alguma consideração a mais sobre o assunto?**
+>         <strong>TM >>> Alguma consideração a mais sobre o assunto?</strong>
 >       </p>
 >       
 >       <blockquote>
@@ -153,29 +153,29 @@ categories:
 >           </p>
 >           
 >           <p align="justify">
->             **Veja mais colaborações inspiradoras da Katia por aqui:**
+>             <strong>Veja mais colaborações inspiradoras da Katia por aqui:</strong>
 >           </p>
 >           
 >           <p align="justify">
->             **[Você está em terras cariocas e curte comer bem? Este post é para você!](http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/) **
+>             <strong><a href="http://www.trololodemulher.com.br/2012/09/07/restaurantes-rio-de-janeiro/" target="_blank">Você está em terras cariocas e curte comer bem? Este post é para você!</a></strong>
 >           </p>
 >           
 >           <p align="justify">
->             **[Cozinha com estilo e design… quem não quer?](http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/) **
+>             <strong><a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/" target="_blank">Cozinha com estilo e design… quem não quer?</a></strong>
 >           </p>
 >           
 >           <p align="justify">
->             **[Decoração “faça você mesma”: luminárias de taça de vinho.](http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/) **
+>             <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank">Decoração “faça você mesma”: luminárias de taça de vinho.</a></strong>
 >           </p>
 >           
 >           <p align="justify">
->             **Katia Bonfadini** é uma blogueira das mais queridas, que edita seu [Casos e Coisas da Bonfa](http://casosecoisasdabonfa.blogspot.com.br/)  com carinho e cuidado inquestionáveis. Essa moça bonita é formada em _Designer_ Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, _folders_, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga [clicando aqui](http://casosecoisasdabonfa.blogspot.com.br/) , bonita, e delicie-se!
+>             <strong>Katia Bonfadini</strong> é uma blogueira das mais queridas, que edita seu <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">Casos e Coisas da Bonfa</a> com carinho e cuidado inquestionáveis. Essa moça bonita é formada em <em>Designer</em> Industrial e mostra seus trabalhos incríveis e lindos de viver ligados ao desenvolvimento de identidades visuais, o que inclui criação de logomarcas, cartões de visita, convites, <em>folders</em>, ilustrações, etc. Além do mais, quem acompanha o seu blog recebe generosas doses de inspiração sobre viagem, gastronomia e bem viver… quer espiar o blog da moça, certo? Se joga <a href="http://casosecoisasdabonfa.blogspot.com.br/" target="_blank">clicando aqui</a>, bonita, e delicie-se!
 >           </p>
 >           
 >           <p align="center">
->             [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+>             <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 >           </p>
 >           
 >           <p align="center">
->             [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
+>             <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 >           </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3734
 title: 'Aromatizador de ambientes: como fazer?'
-
-author: Lidiane
+date: 2017-03-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/03/07/aromatizador-de-ambientes-2/
 permalink: /2017/03/07/aromatizador-de-ambientes-2/
@@ -12,7 +12,7 @@ categories:
   - Rotina da Casa
 ---
 <p style="text-align: justify;" align="center">
-  Você verá como é fácil preparar um **aromatizador de ambientes**! Difícil será escolher qual cheirinho usar, já que existem deliciosas opções. Confira!
+  Você verá como é fácil preparar um <strong>aromatizador de ambientes</strong>! Difícil será escolher qual cheirinho usar, já que existem deliciosas opções. Confira!
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@ categories:
 </p>
 
 <p style="text-align: center;" align="center">
-  [Clique aqui e confira a receita](http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/) , _tim tim por tim tim_, pra fazer você mesma aromatizadores de ambientes.
+  <a href="http://www.trololodemulher.com.br/2011/05/19/aromatizador-de-ambientes/" target="_blank">Clique aqui e confira a receita</a>, <em>tim tim por tim tim</em>, pra fazer você mesma aromatizadores de ambientes.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

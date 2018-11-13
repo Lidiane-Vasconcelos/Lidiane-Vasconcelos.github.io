@@ -1,8 +1,8 @@
 ---
-
+id: 3268
 title: Lugar de criança é na cozinha?
-
-author: Lidiane
+date: 2013-10-14T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/10/14/crianca-alimentacao/
 permalink: /2013/10/14/crianca-alimentacao/
@@ -15,7 +15,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 &nbsp;
 
 <p align="justify">
-  Quem não tem dúvidas sobre os benefícios é a **Alexandrina**, bicha fêmea navegante e mãe de duas crianças, a **Manuela e o Gabriel**. Ela deu aos filhos a oportunidade de serem cozinheiros em miniatura, e o resultado disso tudo você confere aqui, com fotos e dicas para você fazer o mesmo por aí. Espia!
+  Quem não tem dúvidas sobre os benefícios é a <strong>Alexandrina</strong>, bicha fêmea navegante e mãe de duas crianças, a <strong>Manuela e o Gabriel</strong>. Ela deu aos filhos a oportunidade de serem cozinheiros em miniatura, e o resultado disso tudo você confere aqui, com fotos e dicas para você fazer o mesmo por aí. Espia!
 </p>
 
 <!--more-->
@@ -23,7 +23,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td align="center" width="100%">
-      **<span style="font-size: medium;">Do início…</span>**
+      <strong><span style="font-size: medium;">Do início…</span></strong>
     </td>
   </tr>
 </table>
@@ -33,11 +33,11 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 > </p>
 
 <p align="justify">
-  **Bicha Fêmea &#8211; O que elas faziam logo no início desse processo (ex.: lavavam verdura, pegavam os alimentos que você pedia, etc)?**
+  <strong>Bicha Fêmea &#8211; O que elas faziam logo no início desse processo (ex.: lavavam verdura, pegavam os alimentos que você pedia, etc)?</strong>
 </p>
 
 <p align="justify">
-  _Quando Manuela começou a se expressar melhor e amadureceu um pouco mais (isso se deu por volta dos 3 anos) eu comecei a interagir melhor com ela na questão dos alimentos, solicitando que ela me ajudasse com as frutas que fôssemos comer, na ocasião de fazer bolos, deixando que ela mexesse a massa junto comigo, ou mesmo me auxiliando com os ingredientes&#8230;_
+  <em>Quando Manuela começou a se expressar melhor e amadureceu um pouco mais (isso se deu por volta dos 3 anos) eu comecei a interagir melhor com ela na questão dos alimentos, solicitando que ela me ajudasse com as frutas que fôssemos comer, na ocasião de fazer bolos, deixando que ela mexesse a massa junto comigo, ou mesmo me auxiliando com os ingredientes&#8230;</em>
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -45,27 +45,27 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 </p>
 
 <p align="justify">
-  **BF &#8211; Qual o sentido que há, para a família, permitir que as crianças também convivam na cozinha?**
+  <strong>BF &#8211; Qual o sentido que há, para a família, permitir que as crianças também convivam na cozinha?</strong>
 </p>
 
 <p align="justify">
-  _Penso que essa é uma forma saudável de criar bons hábitos alimentares, de interação da criança com as variedades de frutas, verduras, massas, grãos&#8230;e citar também da relação familiar que se cria em torno da mesa!!!  __No caso de Gabriel, também sigo nesta mesma linha de pensamento, mas ele sai em vantagem por vários motivos: essa minha prática, o exemplo da irmã e uma ajuda de grande relevância que é escola em que eles estudam, pois eles praticam muito a vivência da vida prática&#8230;as coisas que fazemos no dia-a-dia, como: preparar os alimentos, de como se __vestir, tomar banho, cuidar de si próprio e do outro&#8230;.muito boa a escola!!!_
+  <em>Penso que essa é uma forma saudável de criar bons hábitos alimentares, de interação da criança com as variedades de frutas, verduras, massas, grãos&#8230;e citar também da relação familiar que se cria em torno da mesa!!!  </em><em>No caso de Gabriel, também sigo nesta mesma linha de pensamento, mas ele sai em vantagem por vários motivos: essa minha prática, o exemplo da irmã e uma ajuda de grande relevância que é escola em que eles estudam, pois eles praticam muito a vivência da vida prática&#8230;as coisas que fazemos no dia-a-dia, como: preparar os alimentos, de como se </em><em>vestir, tomar banho, cuidar de si próprio e do outro&#8230;.muito boa a escola!!!</em>
 </p>
 
 <p style="text-align: justify;" align="center">
-  **BF &#8211; Qual benefício você enxergou no comportamento dos pequenos a partir do momento que essa atividade foi inserida na vida deles?**
+  <strong>BF &#8211; Qual benefício você enxergou no comportamento dos pequenos a partir do momento que essa atividade foi inserida na vida deles?</strong>
 </p>
 
 <p align="justify">
-  _Acredito muito que essa relação que criamos com os filhos de fazê-los participar das rotinas diárias da casa, vem colocar a importância deles como seres atuantes nessa família, mostrando que somos unidos, precisamos um do outro e fortalecendo ainda mais os laços de afeto, compreensão e cooperação. __Minha intenção de colocar os filhotes desde cedo na cozinha, além de criar os bons hábitos alimentares , tem também a ideia de criá-los independentes, seguros e fortalecidos para um futuro que é próximo, visto que o tempo corre cada vez mais rápido e prevalecendo assim o meu desejo de ter e ver adultos bem resolvidos  e capazes de se virarem sozinhos nas diversas situações que a vida irá lhes proporcionar._
+  <em>Acredito muito que essa relação que criamos com os filhos de fazê-los participar das rotinas diárias da casa, vem colocar a importância deles como seres atuantes nessa família, mostrando que somos unidos, precisamos um do outro e fortalecendo ainda mais os laços de afeto, compreensão e cooperação. </em><em>Minha intenção de colocar os filhotes desde cedo na cozinha, além de criar os bons hábitos alimentares , tem também a ideia de criá-los independentes, seguros e fortalecidos para um futuro que é próximo, visto que o tempo corre cada vez mais rápido e prevalecendo assim o meu desejo de ter e ver adultos bem resolvidos  e capazes de se virarem sozinhos nas diversas situações que a vida irá lhes proporcionar.</em>
 </p>
 
 <p align="justify">
-  **BF &#8211; Qual dica você dá para a mãe que quer vivenciar essa atividade com os pequenos e não sabe bem como ou por onde começar?**
+  <strong>BF &#8211; Qual dica você dá para a mãe que quer vivenciar essa atividade com os pequenos e não sabe bem como ou por onde começar?</strong>
 </p>
 
 <p align="justify">
-  _Minha dica para as mamães que desejam inserir os filhotes na culinária é tornar essa ida à cozinha de uma forma lúdica, gostosa e prazerosa&#8230;eles precisam se sentir atraídos pela delícia de preparar seus próprios pratos, uma salada de fruta se torna um mega evento para a família&#8230;e que a participação deles seja de fato importante (isso precisa ser dito de forma a premiá-los)._
+  <em>Minha dica para as mamães que desejam inserir os filhotes na culinária é tornar essa ida à cozinha de uma forma lúdica, gostosa e prazerosa&#8230;eles precisam se sentir atraídos pela delícia de preparar seus próprios pratos, uma salada de fruta se torna um mega evento para a família&#8230;e que a participação deles seja de fato importante (isso precisa ser dito de forma a premiá-los).</em>
 </p>
 
 <p style="text-align: center;" align="justify">
@@ -73,7 +73,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 </p>
 
 <p align="justify">
-  **<span style="font-size: small;">Dos cuidados essenciais…</span>**
+  <strong><span style="font-size: small;">Dos cuidados essenciais…</span></strong>
 </p>
 
 > <p align="justify">
@@ -81,22 +81,22 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
 > </p>
 
 <p align="justify">
-  **Imagens**: Acervo pessoal de Alexandrina
+  <strong>Imagens</strong>: Acervo pessoal de Alexandrina
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td align="center" width="100%">
-      **<span style="font-size: medium;">Muito mais trololó materno, oh:</span>**
+      <strong><span style="font-size: medium;">Muito mais trololó materno, oh:</span></strong>
     </td>
   </tr>
   
   <tr>
     <td align="center" width="100%">
-      <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/">**<span style="font-size: medium;">Você amamentou? Tenho uma pergunta para você sobre rachaduras.</span>**</a>&nbsp;</p> 
+      <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/"><strong><span style="font-size: medium;">Você amamentou? Tenho uma pergunta para você sobre rachaduras.</span></strong></a>&nbsp;</p> 
       
       <p>
-        <a href="http://www.trololodemulher.com.br/2013/08/30/alimentacao-saudavel-criancas/">**<span style="font-size: medium;">Dificuldade de criar hábitos de alimentação saudável nas crianças?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2013/08/30/alimentacao-saudavel-criancas/"><strong><span style="font-size: medium;">Dificuldade de criar hábitos de alimentação saudável nas crianças?</span></strong></a>
       </p>
       
       <p>
@@ -104,7 +104,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
       </p>
       
       <p>
-        <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/">**<span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span>**</a></td> </tr> </tbody> </table> 
+        <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/"><strong><span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span></strong></a></td> </tr> </tbody> </table> 
         
         <p>
           &nbsp;
@@ -115,11 +115,11 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
         </p>
         
         <p align="center">
-          <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/">**<span style="font-size: large;"> </span>**</a>
+          <a href="http://www.trololodemulher.com.br/2013/05/20/azeite-saude/"><strong><span style="font-size: large;"> </span></strong></a>
         </p>
         
         <p align="center">
-          [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+          <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
         </p>
         
         <p>
@@ -127,7 +127,7 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
         </p>
         
         <p align="center">
-          **<span style="font-size: small;">Redes Sociais</span>**
+          <strong><span style="font-size: small;">Redes Sociais</span></strong>
         </p>
         
         <p>
@@ -142,13 +142,13 @@ E por que não? Eu não vejo a hora de Artur ficar mais espertinho  e me acompa
           <tr>
             <td valign="top" width="300">
               <p align="center">
-                [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+                <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
               </p>
             </td>
             
             <td valign="top" width="300">
               <p align="center">
-                [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+                <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
               </p>
             </td>
           </tr>

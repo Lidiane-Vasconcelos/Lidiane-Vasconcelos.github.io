@@ -1,8 +1,8 @@
 ---
-
+id: 3684
 title: 6 boas ideias de arranjo de mesa de natal simples.
-
-author: Lidiane
+date: 2016-10-10T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/10/10/arranjo-de-mesa-de-natal-2/
 permalink: /2016/10/10/arranjo-de-mesa-de-natal-2/
@@ -11,15 +11,15 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Você já está entrando no clima de Natal, mas decidiu fazer um retorno ao que é simples quando pensa na decoração natalina que gostaria de colocar em casa. Compreensível… talvez a euforia que naturalmente se instala nessa época do ano tenha feito você se sentir deslocada, ou menos desacelarada se comparada aos demais. O resultado disso é sua voltade de simplificar tudo, não é? De certa forma, me sinto assim também. E se tem algo que revela o nosso estado de espírito e como anda o nosso jeito de ver o mundo, é a forma como escolhemos decorar o nosso lar. Sendo assim, veja a seguir 6 ideias de **arranjo de mesa de natal **simples, sem firulas, e simplifique sua vida neste final de ano. Confira!
+  Você já está entrando no clima de Natal, mas decidiu fazer um retorno ao que é simples quando pensa na decoração natalina que gostaria de colocar em casa. Compreensível… talvez a euforia que naturalmente se instala nessa época do ano tenha feito você se sentir deslocada, ou menos desacelarada se comparada aos demais. O resultado disso é sua voltade de simplificar tudo, não é? De certa forma, me sinto assim também. E se tem algo que revela o nosso estado de espírito e como anda o nosso jeito de ver o mundo, é a forma como escolhemos decorar o nosso lar. Sendo assim, veja a seguir 6 ideias de <strong>arranjo de mesa de natal </strong>simples, sem firulas, e simplifique sua vida neste final de ano. Confira!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**4 dicas para decoração natalina nos catinhos da casa**](http://www.decoracaodacasa.com/decoracao-natalina-2/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-natalina-2/" target="_blank"><strong>4 dicas para decoração natalina nos catinhos da casa</strong></a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Homedit](http://www.homedit.com/) 
+  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
 </p>
 
 <p align="justify">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Natal em apartamento pequeno: 5 dicas para decoração.**](http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/) 
+  <a href="http://www.decoracaodacasa.com/natal-em-apartamento-pequeno/" target="_blank"><strong>Natal em apartamento pequeno: 5 dicas para decoração.</strong></a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Homedit](http://www.homedit.com/) 
+  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
 </p>
 
 <p align="justify">
@@ -55,11 +55,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Enfeite natalino rústico: faça você mesma.**](http://www.decoracaodacasa.com/enfeite-natalino-rustico/) 
+  <a href="http://www.decoracaodacasa.com/enfeite-natalino-rustico/" target="_blank"><strong>Enfeite natalino rústico: faça você mesma.</strong></a>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Homedit](http://www.homedit.com/) 
+  Via <a href="http://www.homedit.com/" target="_blank">Homedit</a>
 </p>
 
 <p align="justify">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração natalina: inspiração das casas reais.**](http://www.decoracaodacasa.com/decoracao-natalina/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-natalina/" target="_blank"><strong>Decoração natalina: inspiração das casas reais.</strong></a>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Dreamy Whites](http://dreamywhites.blogspot.com.br/) 
+  Via <a href="http://dreamywhites.blogspot.com.br/" target="_blank">Dreamy Whites</a>
 </p>
 
 <p align="justify">
@@ -111,7 +111,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Les Fifoles](http://lafifole.blogspot.com.br/) 
+  Via <a href="http://lafifole.blogspot.com.br/" target="_blank">Les Fifoles</a>
 </p>
 
 <p align="justify">
@@ -119,7 +119,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

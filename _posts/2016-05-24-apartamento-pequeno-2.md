@@ -1,8 +1,8 @@
 ---
-
+id: 3614
 title: 'Apartamento pequeno com tudo para viver bem: é possível?'
-
-author: Lidiane
+date: 2016-05-24T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/05/24/apartamento-pequeno-2/
 permalink: /2016/05/24/apartamento-pequeno-2/
@@ -35,15 +35,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Aproveite, e veja:**
+  <strong>Aproveite, e veja:</strong>
 </p>
 
 <p align="justify">
-  [**Como decorar paredes com quadros.**](http://www.decoracaodacasa.com/decoracao-parede-quadros/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar paredes com quadros.</strong></a>
 </p>
 
 <p align="justify">
-  [**Já viu como imprimir charme na decoração da parede com fotos?**](http://www.decoracaodacasa.com/decoracao-parede-fotos/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="justify">
-  Viu que os móveis escolhidos – mesa, cadeiras, mesa de centro e _buffet_ – têm pés fininhos e permitem enxergar toda a área do chão? Sim! Isso também contribui para um visual limpo e menos tumultuado. Isso faz diferença num espaço tão pequeno, certo?
+  Viu que os móveis escolhidos – mesa, cadeiras, mesa de centro e <em>buffet</em> – têm pés fininhos e permitem enxergar toda a área do chão? Sim! Isso também contribui para um visual limpo e menos tumultuado. Isso faz diferença num espaço tão pequeno, certo?
 </p>
 
 <p align="center">
@@ -67,15 +67,15 @@ categories:
 </p>
 
 <p align="justify">
-  A cozinha _mini _não tem armários até o teto. Tanto melhor! Dessa forma não fica um visual claustrofóbico, certo? Viu que há caixas para ajudar a armazenar, com uma textura diferenciada que dá _bossa_ na decoração? As caixas salvam!
+  A cozinha <em>mini </em>não tem armários até o teto. Tanto melhor! Dessa forma não fica um visual claustrofóbico, certo? Viu que há caixas para ajudar a armazenar, com uma textura diferenciada que dá <em>bossa</em> na decoração? As caixas salvam!
 </p>
 
 <p align="justify">
-  **E por falar nisso:**
+  <strong>E por falar nisso:</strong>
 </p>
 
 <p align="justify">
-  [**Caixas: 5 soluções de organização da casa.**](http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/) 
+  <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank"><strong>Caixas: 5 soluções de organização da casa.</strong></a>
 </p>
 
 <p align="center">
@@ -87,35 +87,35 @@ categories:
 </p>
 
 <p align="justify">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p align="justify">
-  [**Quarto: ideias de organização para a cabeceira da cama.**](http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/) 
+  <a href="http://www.trololodemulher.com.br/2012/02/01/quarto-organizacao-cabeceira/" target="_blank"><strong>Quarto: ideias de organização para a cabeceira da cama.</strong></a>
 </p>
 
 <p align="justify">
-  Ficou com a curiosidade aguçada para ver muito mais desse apartamento? Pois é, eu também ficaria, _viu_? Então, oh: se joga no [post original com as fotos, no Apartment Therapy](http://www.apartmenttherapy.com/amaury-and-amandine-house-tour-house-tour-203342?utm_medium=email&utm_campaign=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas&utm_content=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas+CID_e6859f9f5abb524822c5402973a2735d&utm_source=email_newsletter&utm_term=House%20Tour%20Amandine%20%20Amaurys%20Little%20Loft%20in%20Paris) , e aproveita tudo o que há de ideias para você. Vai lá!
+  Ficou com a curiosidade aguçada para ver muito mais desse apartamento? Pois é, eu também ficaria, <em>viu</em>? Então, oh: se joga no <a href="http://www.apartmenttherapy.com/amaury-and-amandine-house-tour-house-tour-203342?utm_medium=email&utm_campaign=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas&utm_content=DAILY+--+101414+10+Totally+Unique+Stylish++Steal-Worthy+Halloween+Decorating+Ideas+CID_e6859f9f5abb524822c5402973a2735d&utm_source=email_newsletter&utm_term=House%20Tour%20Amandine%20%20Amaurys%20Little%20Loft%20in%20Paris" target="_blank">post original com as fotos, no Apartment Therapy</a>, e aproveita tudo o que há de ideias para você. Vai lá!
 </p>
 
 <p align="justify">
-  **Mais para você:**
+  <strong>Mais para você:</strong>
 </p>
 
 <p align="justify">
-  [**Dá para viver bem em pequenos espaços?**](http://www.decoracaodacasa.com/pequenos-espacos/) 
+  <a href="http://www.decoracaodacasa.com/pequenos-espacos/" target="_blank"><strong>Dá para viver bem em pequenos espaços?</strong></a>
 </p>
 
 <p align="justify">
-  [**3 erros na decoração e organização de espaços pequenos: você os comete?**](http://www.decoracaodacasa.com/decoracao-espacos-pequenos/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
 </p>
 
 <p align="justify">
-  [**4 composições de cantinhos para sua varanda pequena.**](http://www.decoracaodacasa.com/decoracao-varanda-pequena/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,8 +1,8 @@
 ---
-
+id: 3342
 title: Afinal, quais cosméticos o bebê pode, de fato, usar?
-
-author: Lidiane
+date: 2014-09-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/09/12/cosmeticos-pele-bebe/
 permalink: /2014/09/12/cosmeticos-pele-bebe/
@@ -19,35 +19,35 @@ categories:
 </p>
 
 <p align="justify">
-  **<span style="font-size: medium;">Sabonete –</span>** Por que o sabonete infantil precisa ter pouco cheiro?
+  <strong><span style="font-size: medium;">Sabonete –</span></strong> Por que o sabonete infantil precisa ter pouco cheiro?
 </p>
 
 > <p align="justify">
->   **A pele do bebe é extremamante sensivel! Por isso devemos tentar ao máximo utilizar o menos de química possivel. É preciso evitar sabonetes muito coloridos, com muito cheiro, uma vez que estes produtos possuem muito mais substâncias químicas. Dê preferência aos que possuam ativos mais naturais e com menos cheiro.”**
+>   <strong>A pele do bebe é extremamante sensivel! Por isso devemos tentar ao máximo utilizar o menos de química possivel. É preciso evitar sabonetes muito coloridos, com muito cheiro, uma vez que estes produtos possuem muito mais substâncias químicas. Dê preferência aos que possuam ativos mais naturais e com menos cheiro.”</strong>
 > </p>
 
 <p align="justify">
-  **<span style="font-size: medium;">Shampoo –</span>** Quanto aos produtos para tipos diferentes de cabelos – lisos ou cacheados – isso é necessário?
+  <strong><span style="font-size: medium;">Shampoo –</span></strong> Quanto aos produtos para tipos diferentes de cabelos – lisos ou cacheados – isso é necessário?
 </p>
 
 > <p align="justify">
->   **Crianças devem ser tratadas como crianças. O uso precoce de produtos cosméticos expõe a criança precocemente a substâncias químicas que podem produzir alergias. Independente do tipo de fio de cabelo, o mais indicado são os xampus neutros.”**
+>   <strong>Crianças devem ser tratadas como crianças. O uso precoce de produtos cosméticos expõe a criança precocemente a substâncias químicas que podem produzir alergias. Independente do tipo de fio de cabelo, o mais indicado são os xampus neutros.”</strong>
 > </p>
 
 <p align="justify">
-  **<span style="font-size: medium;">Hidratante –</span>** O bebê pode usar qualquer tipo?
+  <strong><span style="font-size: medium;">Hidratante –</span></strong> O bebê pode usar qualquer tipo?
 </p>
 
 > <p align="justify">
->   **Não. A hidratação da pele do bebê é de suma importância! Mas deve ser realizada com produtos mais naturais como óleo de amendoa doce, óleo de semente de uva e outros hidratantes à base de aveia, por exemplo.”**
+>   <strong>Não. A hidratação da pele do bebê é de suma importância! Mas deve ser realizada com produtos mais naturais como óleo de amendoa doce, óleo de semente de uva e outros hidratantes à base de aveia, por exemplo.”</strong>
 > </p>
 
 <p align="justify">
-  **<span style="font-size: medium;">Talco –</span>** Esse produto é recomendado?
+  <strong><span style="font-size: medium;">Talco –</span></strong> Esse produto é recomendado?
 </p>
 
 > <p align="justify">
->   **O talco pode ser utilizado em áreas de dobras em caso de suor, e até de brotoejas, no intuito de acalmar a pele do bebê (a própria maizena gelada pode ser utilizada na pele do bebê, pois possui uma excelente atividade calmante e anti coceira).”**
+>   <strong>O talco pode ser utilizado em áreas de dobras em caso de suor, e até de brotoejas, no intuito de acalmar a pele do bebê (a própria maizena gelada pode ser utilizada na pele do bebê, pois possui uma excelente atividade calmante e anti coceira).”</strong>
 > </p>
 
 <p align="center">
@@ -55,39 +55,39 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [FreeImages](http://www.freeimages.com/) 
+  Imagem: <a href="http://www.freeimages.com/" target="_blank">FreeImages</a>
 </p>
 
 <p align="justify">
-  **<span style="font-size: medium;">Óleo –</span>** Qual a indicação desse tipo de cosmético?
-</p>
-
-> <p align="justify">
->   **Óleos são indicados como parte da hidratação da pele. O óleo impede a perda de água da pele, sendo assim, ajuda na hidratação.”**
-> </p>
-
-<p align="justify">
-  **<span style="font-size: medium;">Perfume –</span>** Permitido ou proibido?
+  <strong><span style="font-size: medium;">Óleo –</span></strong> Qual a indicação desse tipo de cosmético?
 </p>
 
 > <p align="justify">
->   **Minha opinião é que deve ser postergado ao máximo possível. Perfumes contém substâncias químicas que podem provocar alergias na pele do bebê. A minha dica e colocar um pouquinho na roupa e não na pele do bebê.”**
+>   <strong>Óleos são indicados como parte da hidratação da pele. O óleo impede a perda de água da pele, sendo assim, ajuda na hidratação.”</strong>
 > </p>
 
 <p align="justify">
-  **<span style="font-size: medium;">Protetor solar</span>** – O que observar quanto ao uso desse item?
+  <strong><span style="font-size: medium;">Perfume –</span></strong> Permitido ou proibido?
 </p>
 
 > <p align="justify">
->   **A proteção solar com filtro solar deve ser avaliada caso a caso. Nos primeiros 6 meses de vida o ideal é apenas a proteção solar com roupas, bonés, etc.. Após os primeiros 6 meses os filtros solares infantis podem ser usados (em geral contém mais ativo físico, o que cria uma barreira na pele, do que agentes fisicos, que podem gerar mais alergia). Por isto os filtros de criança são mais brancos e espessos, porque eles criam um filme de proteção na pele para que a radiação solar não penetre na pele. O uso diário ou não depende da idade, condição da pele da criança, e da exposição solar. Converse com o dermatologista, sempre!**
+>   <strong>Minha opinião é que deve ser postergado ao máximo possível. Perfumes contém substâncias químicas que podem provocar alergias na pele do bebê. A minha dica e colocar um pouquinho na roupa e não na pele do bebê.”</strong>
 > </p>
 
 <p align="justify">
-  **Não deixe de ler:**
+  <strong><span style="font-size: medium;">Protetor solar</span></strong> – O que observar quanto ao uso desse item?
+</p>
+
+> <p align="justify">
+>   <strong>A proteção solar com filtro solar deve ser avaliada caso a caso. Nos primeiros 6 meses de vida o ideal é apenas a proteção solar com roupas, bonés, etc.. Após os primeiros 6 meses os filtros solares infantis podem ser usados (em geral contém mais ativo físico, o que cria uma barreira na pele, do que agentes fisicos, que podem gerar mais alergia). Por isto os filtros de criança são mais brancos e espessos, porque eles criam um filme de proteção na pele para que a radiação solar não penetre na pele. O uso diário ou não depende da idade, condição da pele da criança, e da exposição solar. Converse com o dermatologista, sempre!</strong>
+> </p>
+
+<p align="justify">
+  <strong>Não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  [**Bebê sem assaduras: é possível sim, mamãe!**](http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/) 
+  <a href="http://www.trololodemulher.com.br/2013/06/28/bebe-assaduras/" target="_blank"><strong>Bebê sem assaduras: é possível sim, mamãe!</strong></a>
 </p>
 
 <p align="center">
@@ -95,11 +95,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog [Dermatologia em Foco](http://www.dermatologiaemfoco.blogspot.com/) , onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma leitora interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, _oh_: [clica bem aqui](http://www.dermatologiaemfoco.blogspot.com/)  e aproveita, bonita!
+  A Dra. Livia Pino atende na <strong>cidade do Rio de Janeiro</strong> e também edita o blog <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">Dermatologia em Foco</a>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma leitora interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank">clica bem aqui</a> e aproveita, bonita!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

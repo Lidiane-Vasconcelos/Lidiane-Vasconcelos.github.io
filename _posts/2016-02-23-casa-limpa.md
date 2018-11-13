@@ -1,8 +1,8 @@
 ---
-
+id: 3547
 title: 4 lições que eu aprendi para manter a casa limpa.
-
-author: Lidiane
+date: 2016-02-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/02/23/casa-limpa/
 permalink: /2016/02/23/casa-limpa/
@@ -10,19 +10,19 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  O melhor dos mundos em um lar é quando temos a **casa limpa** e organizada, porque isso promove a sensação de bem-estar. Não é bom sentir-se bem em casa? Pois é. Ocorre que para quem coloca a mão na massa no dia a dia, exatamente como fazemos por aqui (marido e eu), é preciso lançar mão de estratégias que facilitem essa manutenção no dia a dia. Queremos casa limpa, mas é importante que essa tarefa diária seja feita com eficiência e de forma bastante simples. Sendo assim, quero compartilhar contigo o que eu tenho aprendido com esse desafio, e o que tem funcionado para alcançar nosso objetivo.
+  O melhor dos mundos em um lar é quando temos a <strong>casa limpa</strong> e organizada, porque isso promove a sensação de bem-estar. Não é bom sentir-se bem em casa? Pois é. Ocorre que para quem coloca a mão na massa no dia a dia, exatamente como fazemos por aqui (marido e eu), é preciso lançar mão de estratégias que facilitem essa manutenção no dia a dia. Queremos casa limpa, mas é importante que essa tarefa diária seja feita com eficiência e de forma bastante simples. Sendo assim, quero compartilhar contigo o que eu tenho aprendido com esse desafio, e o que tem funcionado para alcançar nosso objetivo.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Casa limpa e organizada com menos esforço: 11 dicas.**](http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/) 
+  <a href="http://www.trololodemulher.com.br/2016/01/06/casa-limpa-e-organizada/" target="_blank"><strong>Casa limpa e organizada com menos esforço: 11 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  **A simplicidade salva!**
+  <strong>A simplicidade salva!</strong>
 </p>
 
 <p align="center">
@@ -38,15 +38,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Como evitar o acúmulo e organizar o lar? Dicas práticas.**](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/) 
+  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
 </p>
 
 <p align="justify">
-  **Na cozinha, a funcionalidade é rainha!**
+  <strong>Na cozinha, a funcionalidade é rainha!</strong>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Reduza a quantidade de móveis.**
+  <strong>Reduza a quantidade de móveis.</strong>
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Escolha móveis com design simples.**
+  <strong>Escolha móveis com design simples.</strong>
 </p>
 
 <p align="center">
@@ -90,13 +90,13 @@ categories:
 </p>
 
 <p align="justify">
-  Não basta ter móveis essenciais e de fato úteis, para falicitar o dia a dia é preciso que essas peças tenham um _design_ bastante simples. Muitos detalhes no desenho deles significa mais lugares chatinhos onde a poeira acumula… e quem terá que limpar isso? Lembre-se na hora da compra: linhas retas e simples implicam em menos acúmulo de sujeira e facilita o uso do espanador e pano úmido. Sua intenção é uma rotina de limpeza _vapt-vupt_, certo? Pois bem… o raciocínio é por aí. Fica a dica.
+  Não basta ter móveis essenciais e de fato úteis, para falicitar o dia a dia é preciso que essas peças tenham um <em>design</em> bastante simples. Muitos detalhes no desenho deles significa mais lugares chatinhos onde a poeira acumula… e quem terá que limpar isso? Lembre-se na hora da compra: linhas retas e simples implicam em menos acúmulo de sujeira e facilita o uso do espanador e pano úmido. Sua intenção é uma rotina de limpeza <em>vapt-vupt</em>, certo? Pois bem… o raciocínio é por aí. Fica a dica.
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

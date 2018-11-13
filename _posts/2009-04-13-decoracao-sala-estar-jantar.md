@@ -1,8 +1,8 @@
 ---
-
+id: 2646
 title: Decoração em salas de estar e de jantar para inspiração.
-
-author: Lidiane
+date: 2009-04-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/04/13/decoracao-sala-estar-jantar/
 permalink: /2009/04/13/decoracao-sala-estar-jantar/
@@ -65,7 +65,7 @@ O tapete, a forma como os [quadros](http://www.trololodemulher.com.br/2009/04/07
 
 Olha que elegante que é esta sala de jantar! Simples, também é verdade, mas sem perder absolutamente nada em elegância. Gosto da luminária que vem do teto, embora eu jamais pudesse colocar aqui porque meu pé direito é baixo, do estilo da mesa de jantar e cadeiras, da forma como a parede ao fundo foi ornada. Inspirador…alguém duvida?
 
-Imagens: [HGTV](http://www.hgtv.com/) 
+Imagens: <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 
 **Mais posts sobre decoração de salas no Bicha Fêmea&#8230;**
 

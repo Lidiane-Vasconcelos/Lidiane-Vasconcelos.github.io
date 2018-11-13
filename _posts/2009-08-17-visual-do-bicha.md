@@ -1,8 +1,8 @@
 ---
-
+id: 2699
 title: Dos Comentários Sobre o Aspecto Visual do Bicha.
-
-author: Lidiane
+date: 2009-08-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/08/17/visual-do-bicha/
 permalink: /2009/08/17/visual-do-bicha/

@@ -1,8 +1,8 @@
 ---
-
+id: 3730
 title: 'Sopa de lentilhas: comida boa e prosperidade o ano todo!'
-
-author: Lidiane
+date: 2017-02-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/02/21/sopa-de-lentilhas/
 permalink: /2017/02/21/sopa-de-lentilhas/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  E quem disse que **sopa de lentilhas** só vai à mesa no fim do ano? A seguir veja a receita de Tânia, de dar água na boca, e super simples de reproduzir. É como Tânia diz em seu texto (diga-se de passagem uma das partes mais legais do seu trabalho, sua redação excelente!): um bom prato é sempre um bom prato que podemos comê-lo em qualquer época do ano. Ela está certíssima! Se você concorda, vamos adiante aprender como se faz, oh:
+  E quem disse que <strong>sopa de lentilhas</strong> só vai à mesa no fim do ano? A seguir veja a receita de Tânia, de dar água na boca, e super simples de reproduzir. É como Tânia diz em seu texto (diga-se de passagem uma das partes mais legais do seu trabalho, sua redação excelente!): um bom prato é sempre um bom prato que podemos comê-lo em qualquer época do ano. Ela está certíssima! Se você concorda, vamos adiante aprender como se faz, oh:
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  “_Esse prato é considerado um alimento que “dá sorte”, para ser comido na véspera do Ano Novo, em países como Itália, Hungria e Brasil. Lentilhas são consideradas como portadora de fortuna, e parece que desde os tempos antigos os romanos vêm comendo lentilhas, porque a forma das mesmas se assemelha a moedas, o que é associado à riqueza e prosperidade._
+  “<em>Esse prato é considerado um alimento que “dá sorte”, para ser comido na véspera do Ano Novo, em países como Itália, Hungria e Brasil. Lentilhas são consideradas como portadora de fortuna, e parece que desde os tempos antigos os romanos vêm comendo lentilhas, porque a forma das mesmas se assemelha a moedas, o que é associado à riqueza e prosperidade.</em>
 </p>
 
 <p style="text-align: justify;">
-  _Eu sei que não vamos celebrar outro Ano Novo nos próximos onze meses e alguns dias, mas um bom prato é sempre um bom prato que podemos comê-lo em qualquer época do ano, você não acha?_
+  <em>Eu sei que não vamos celebrar outro Ano Novo nos próximos onze meses e alguns dias, mas um bom prato é sempre um bom prato que podemos comê-lo em qualquer época do ano, você não acha?</em>
 </p>
 
 &nbsp;
@@ -50,19 +50,19 @@ categories:
   * _Sal e pimenta do reino a gosto_
 
 <p align="justify">
-  _1 – Em fogo médio, coloque uma panela, e refogue a cebola, o aipo e o alho com um pouco de azeite;_
+  <em>1 – Em fogo médio, coloque uma panela, e refogue a cebola, o aipo e o alho com um pouco de azeite;</em>
 </p>
 
 <p align="justify">
-  _2 – Adicione as lentilhas, as cenouras e o caldo de vegetais e cozinhe por 20 a 30 minutos (o tempo de cozimento varia de acordo com o tipo de lentilha que você está usando. Adicione mais caldo de legumes se necessário);_
+  <em>2 – Adicione as lentilhas, as cenouras e o caldo de vegetais e cozinhe por 20 a 30 minutos (o tempo de cozimento varia de acordo com o tipo de lentilha que você está usando. Adicione mais caldo de legumes se necessário);</em>
 </p>
 
 <p align="justify">
-  _3 – Alguns minutos antes de terminar a preparação adicione as ervas (sálvia e alecrim) e tempere com pimenta do reino e sal;_
+  <em>3 – Alguns minutos antes de terminar a preparação adicione as ervas (sálvia e alecrim) e tempere com pimenta do reino e sal;</em>
 </p>
 
 <p align="justify">
-  _4 – Antes de servir regue com azeite_.”
+  <em>4 – Antes de servir regue com azeite</em>.”
 </p>
 
 <p align="center">
@@ -70,27 +70,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas de Tânia:**
+  <strong>Mais receitas de Tânia:</strong>
 </p>
 
 <p align="justify">
-  [**Receita de pão caseiro de abobrinha… das mais fáceis!**](http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/) 
+  <a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank"><strong>Receita de pão caseiro de abobrinha… das mais fáceis!</strong></a>
 </p>
 
 <p align="justify">
-  [**Abóbora assada com cebolas: bonito, saudável e gostoso!**](http://www.trololodemulher.com.br/2017/02/07/abobora-assada/) 
+  <a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank"><strong>Abóbora assada com cebolas: bonito, saudável e gostoso!</strong></a>
 </p>
 
 <p align="justify">
-  [**Biscoistos Amaretti, com gostinho de família.**](http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/) 
+  <a href="http://www.trololodemulher.com.br/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/" target="_blank"><strong>Biscoistos Amaretti, com gostinho de família.</strong></a>
 </p>
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clique aqui e siga!](https://iwanttobeacook.wordpress.com/">clicando aqui</a>**, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… <a href="https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,8 +1,8 @@
 ---
-
+id: 2601
 title: Dicas e estratégias em decoração.
-
-author: Lidiane
+date: 2009-01-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/01/09/dicas-decoracao/
 permalink: /2009/01/09/dicas-decoracao/
@@ -15,11 +15,11 @@ Entretanto, não é por isso que fico alheia ás dicas preciosas dos especialist
 
 Pensando nisso é que estava lendo algumas dicas bacanas para aplicar na hora de arrumar a casa e resolvi compartilhar aqui. Dei destaque a algumas, e creio que elas sirvam para todas nós&#8230;
 
-As orientações foram elaboradas numa reportagem da Simone Quintas e Thaís Lauton, e foram publicadas no site da [Casa e Jardim](http://revistacasaejardim.globo.com/) . Para você conhecer muito mais sobre a matéria que inspirou esse post e eleger suas dicas preferidas, basta clicar [aqui, ó](http://revistacasaejardim.globo.com/Casaejardim/0,25928,EJE1682670-2186-6,00.html) !
+As orientações foram elaboradas numa reportagem da Simone Quintas e Thaís Lauton, e foram publicadas no site da <a href="http://revistacasaejardim.globo.com/" target="_blank">Casa e Jardim</a>. Para você conhecer muito mais sobre a matéria que inspirou esse post e eleger suas dicas preferidas, basta clicar <a href="http://revistacasaejardim.globo.com/Casaejardim/0,25928,EJE1682670-2186-6,00.html" target="_blank">aqui, ó</a>!
 
 Sobre a disposição de objetos numa **mesa de centro**, por exemplo, sempre há muita dúvida, não é verdade? A orientação dada nas dicas publicadas na matéria dão conta de que &#8220;_tem de haver **simetria e volumetria**_&#8220;, segundo Consuelo Jorge. Para a mesa de centro, a sugestão é usar &#8220;_**peças baixas**. &#8216;Pode ser um vaso baixo com uma orquídea, uns livros de arte, duas caixinhas de couro ou madrepérola&#8230; &#8220;_
 
-<span style="color: #800080;"><span style="color: #000000;">Quer visualizar mesas de centro decoradas para que sirvam de referência para você na hora de decorar a sua? Sugiro dar uma olhada em <a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_self">**_dicas para a decoração de mesas de centro_** </a>que foram publicadas aqui, no **Bicha Fêmea**.</span></span>
+<span style="color: #800080;"><span style="color: #000000;">Quer visualizar mesas de centro decoradas para que sirvam de referência para você na hora de decorar a sua? Sugiro dar uma olhada em <a href="http://www.trololodemulher.com.br/2009/02/10/como-decorar-mesa-centro-sala/" target="_self"><strong><em>dicas para a decoração de mesas de centro</em></strong> </a>que foram publicadas aqui, no <strong>Bicha Fêmea</strong>.</span></span>
 
 Você já deve ter feito a mesma pergunta sobre qual a altura ideal para pendurar quadros. É ou não é? Diego Revollo comenta: **&#8220;**Não acredito em regras para quadros e, sim, no equilíbrio do conjunto&#8221; . Diego sugere que um quadro possa ser usado até mesmo no chão ou em aparadores, porque tudo depende da intenção do resultado que se queria imprimir. De maneira geral, a ele ensina que _&#8220;os quadros ficam mais elegantes quando estão da linha dos olhos para baixo, mas, novamente, deve-se estar atento ao conjunto e aos elementos ao redor&#8221;._
 

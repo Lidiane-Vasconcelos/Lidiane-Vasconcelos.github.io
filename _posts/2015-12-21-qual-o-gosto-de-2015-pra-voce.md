@@ -1,8 +1,8 @@
 ---
-
+id: 3523
 title: Qual o gosto de 2015 pra você?
-
-author: Lidiane
+date: 2015-12-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/12/21/qual-o-gosto-de-2015-pra-voce/
 permalink: /2015/12/21/qual-o-gosto-de-2015-pra-voce/
@@ -10,7 +10,7 @@ categories:
   - Trololó
 ---
 <p align="justify">
-  Esse é nosso último post aqui (de 2015!), no **Trololó de Mulher**, e devo confessar: sinto uma emoção diferente ao escrever esse bate-papo. Esse ano se encaminha para o final, e de certa forma impera um astral diferente no ar, não é? Tantos sonhos, planos, desejos… para mim, 2015 foi super! Sinto que amadureci como blogueira, e devo isso a você que está aí na outra ponta: leitora querida que acompanha e respeita meu trabalho. Foi para você que dediquei meu ano inteiro do lado de cá, é para você que penso um 2016 recheado de conteúdo relevante no blog.
+  Esse é nosso último post aqui (de 2015!), no <strong>Trololó de Mulher</strong>, e devo confessar: sinto uma emoção diferente ao escrever esse bate-papo. Esse ano se encaminha para o final, e de certa forma impera um astral diferente no ar, não é? Tantos sonhos, planos, desejos… para mim, 2015 foi super! Sinto que amadureci como blogueira, e devo isso a você que está aí na outra ponta: leitora querida que acompanha e respeita meu trabalho. Foi para você que dediquei meu ano inteiro do lado de cá, é para você que penso um 2016 recheado de conteúdo relevante no blog.
 </p>
 
 <p align="justify">
@@ -18,19 +18,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Quero te contar que há lindas marcas no blog:**
+  <strong>Quero te contar que há lindas marcas no blog:</strong>
 </p>
 
 <p align="justify">
-  A força criadora e empreendedora de **Jê Pereira**, no post [DE HOBBY A TRABALHO, COMO GANHAR DINHEIRO?](http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/) 
+  A força criadora e empreendedora de <strong>Jê Pereira</strong>, no post <a href="http://www.trololodemulher.com.br/2015/07/31/como-ganhar-dinheiro/" target="_blank">DE HOBBY A TRABALHO, COMO GANHAR DINHEIRO?</a>
 </p>
 
 <p align="justify">
-  A garra de quem quer lutar diariamente pela vida, apesar da dor, vista na história de **Ly Mello**, no post [COMO SER RESILIENTE? A VIDA ENSINA.](http://www.trololodemulher.com.br/2014/12/05/como-ser-resiliente/) 
+  A garra de quem quer lutar diariamente pela vida, apesar da dor, vista na história de <strong>Ly Mello</strong>, no post <a href="http://www.trololodemulher.com.br/2014/12/05/como-ser-resiliente/" target="_blank">COMO SER RESILIENTE? A VIDA ENSINA.</a>
 </p>
 
 <p align="justify">
-  A energia transformadora na vida de mulheres que querem ter sucesso (com propósito!) na vida, liberada pela **Simone Mitjans**, no post [EMPREENDEDORISMO, QUAIS OS 7 MEDOS MAIS COMUNS?](http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/) 
+  A energia transformadora na vida de mulheres que querem ter sucesso (com propósito!) na vida, liberada pela <strong>Simone Mitjans</strong>, no post <a href="http://www.trololodemulher.com.br/2015/11/27/empreendedorismo/" target="_blank">EMPREENDEDORISMO, QUAIS OS 7 MEDOS MAIS COMUNS?</a>
 </p>
 
 <p align="justify">
@@ -58,5 +58,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

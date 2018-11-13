@@ -1,8 +1,8 @@
 ---
-
+id: 3877
 title: Como, dormir bem, aumenta a produtividade?
-
-author: Lidiane
+date: 2018-09-11T00:00:00+00:00
+author: admin
 excerpt: Dormir bem torna a gente mais produtiva e disposta. Veja como criar condições para dormir mais, melhor, e sentir-se bem para o dia que inicia.
 layout: post
 guid: http://localhost/wordpress/2018/09/11/dormir-bem/
@@ -16,7 +16,7 @@ categories:
   - Produtividade
 ---
 <p align="justify">
-  **Dormir bem** torna a gente mais produtiva e disposta. Há quem precise de mais horas, é verdade, outros de menos. Eu, por exemplo, preciso de no mínimo 8 horas de sono. Se não dormir essa quantidade, o dia seguinte vai ser “mais ou menos”, entende? De quantas horas você precisa? Descubra, e crie condições para presentear a si mesma com as horas de sono necessárias para você sentir-se bem e disposta para mais um dia de trabalho.
+  <strong>Dormir bem</strong> torna a gente mais produtiva e disposta. Há quem precise de mais horas, é verdade, outros de menos. Eu, por exemplo, preciso de no mínimo 8 horas de sono. Se não dormir essa quantidade, o dia seguinte vai ser “mais ou menos”, entende? De quantas horas você precisa? Descubra, e crie condições para presentear a si mesma com as horas de sono necessárias para você sentir-se bem e disposta para mais um dia de trabalho.
 </p>
 
 <p align="center">
@@ -28,15 +28,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Como fazer isso?**
+  <strong>Como fazer isso?</strong>
 </p>
 
 <p align="justify">
-  **1 – Observe-se!** Eu descobri que meu limite é 21h. Além desse horário, fico cansada, com sono, bocejando bastante, e com raciocínio mais lento. Além disso, no outro dia sinto que precisava ter dormido mais. Então, por que quero estar 100% no dia seguinte quando levantar, eu me policio para não passar desse horário de dormir. Faça o exercício de se observar, por alguns dias, e entenda o seu corpo e sua mente. Que horas eles começam a desacelerar?
+  <strong>1 – Observe-se!</strong> Eu descobri que meu limite é 21h. Além desse horário, fico cansada, com sono, bocejando bastante, e com raciocínio mais lento. Além disso, no outro dia sinto que precisava ter dormido mais. Então, por que quero estar 100% no dia seguinte quando levantar, eu me policio para não passar desse horário de dormir. Faça o exercício de se observar, por alguns dias, e entenda o seu corpo e sua mente. Que horas eles começam a desacelerar?
 </p>
 
 <p align="justify">
-  **2 – Crie uma rotina de desaceleração.** Eu senti necessidade de fazer por Artur e por mim, em 2015, quando percebi que tão pequeno, ele estava dormindo cada vez mais tarde. Um belo dia, acendeu a luz de alerta: Artur só queria dormir ás 23h! Claro que essa não é uma hora adequada para uma criança ir para a cama.
+  <strong>2 – Crie uma rotina de desaceleração.</strong> Eu senti necessidade de fazer por Artur e por mim, em 2015, quando percebi que tão pequeno, ele estava dormindo cada vez mais tarde. Um belo dia, acendeu a luz de alerta: Artur só queria dormir ás 23h! Claro que essa não é uma hora adequada para uma criança ir para a cama.
 </p>
 
 <p align="justify">
@@ -44,19 +44,19 @@ categories:
 </p>
 
 <p align="justify">
-  Uma das lições que aprendi é sobre **criar uma rotina que desacelere o cérebro à noite**, e isso inclui desligar eletrônicos (TV, computador e celular) algum tempo antes da hora de dormir, cerca de 40 minutos. É importante buscar algo que avise para o cérebro que estamos desacelerando. Na rotina noturna daqui de casa é hora da leitura, da conversa, de brincadeira sem movimentação. Após a hora do jantar (já feito sem qualquer distração eletrônica), a casa entra num ritmo mais desacelarado, inclusive com iluminação indireta. Santo remédio! Tem funcionado muito bem para Artur e para mim também.
+  Uma das lições que aprendi é sobre <strong>criar uma rotina que desacelere o cérebro à noite</strong>, e isso inclui desligar eletrônicos (TV, computador e celular) algum tempo antes da hora de dormir, cerca de 40 minutos. É importante buscar algo que avise para o cérebro que estamos desacelerando. Na rotina noturna daqui de casa é hora da leitura, da conversa, de brincadeira sem movimentação. Após a hora do jantar (já feito sem qualquer distração eletrônica), a casa entra num ritmo mais desacelarado, inclusive com iluminação indireta. Santo remédio! Tem funcionado muito bem para Artur e para mim também.
 </p>
 
 <p align="justify">
-  **3 – Estabeleça como será sua rotina de desaceleração noturna antes de ir pra cama, e repita, repita e repita. **A consistência leva à formação do hábito, e você só terá a ganhar por domir mais, e melhor. Aposte nisso!
+  <strong>3 – Estabeleça como será sua rotina de desaceleração noturna antes de ir pra cama, e repita, repita e repita. </strong>A consistência leva à formação do hábito, e você só terá a ganhar por domir mais, e melhor. Aposte nisso!
 </p>
 
 <p align="justify">
-  **[PARA SER PRODUTIVA]** Na gestão das rotinas da casa, é preciso estabelecer uma série de bons hábitos que, articulados em conjunto, nos colocam mais dispostas para o trabalho. Dormir bem é apenas um deles, dentre os tantos apresentados no Projeto Lar Bonito Lar. Quer fazer parte da próxima turma e aprender as melhores práticas na gestão das demandas do lar e tornar essas tarefas mais leves?
+  <strong>[PARA SER PRODUTIVA]</strong> Na gestão das rotinas da casa, é preciso estabelecer uma série de bons hábitos que, articulados em conjunto, nos colocam mais dispostas para o trabalho. Dormir bem é apenas um deles, dentre os tantos apresentados no Projeto Lar Bonito Lar. Quer fazer parte da próxima turma e aprender as melhores práticas na gestão das demandas do lar e tornar essas tarefas mais leves?
 </p>
 
 <p align="justify">
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank" rel="noopener">Clique aqui, fale comigo no whatsapp</a> e peça para entrar na lista de espera de interessadas para a próxima turma, que já está em formação. Quando as inscrições forem abertas, é com as pessoas dessa lista que falo primeiro, já que as vagas são limitadas. Se preferir, me chame **whats 81.9.9530-7307**.
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank" rel="noopener">Clique aqui, fale comigo no whatsapp</a> e peça para entrar na lista de espera de interessadas para a próxima turma, que já está em formação. Quando as inscrições forem abertas, é com as pessoas dessa lista que falo primeiro, já que as vagas são limitadas. Se preferir, me chame <strong>whats 81.9.9530-7307</strong>.
 </p>
 
 Beijos,
@@ -64,7 +64,7 @@ Beijos,
 Lidiane {Lidi}
 
 <p align="center">
-  **Nosso contéudo:**
+  <strong>Nosso contéudo:</strong>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ Lidiane {Lidi}
 </p>
 
 <p align="center">
-  **E tem mais!**
+  <strong>E tem mais!</strong>
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ Lidiane {Lidi}
 </p>
 
 <p align="center">
-  **Nas Redes:**
+  <strong>Nas Redes:</strong>
 </p>
 
 <p align="center">

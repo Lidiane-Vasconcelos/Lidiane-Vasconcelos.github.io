@@ -1,8 +1,8 @@
 ---
-
+id: 3099
 title: Virou… mexeu… e o ano acabou?!
-
-author: Lidiane
+date: 2011-12-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/12/23/mensagem-natal/
 permalink: /2011/12/23/mensagem-natal/

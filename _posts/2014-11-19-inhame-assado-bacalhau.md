@@ -1,8 +1,8 @@
 ---
-
+id: 3365
 title: Bolinho de inhame assado com bacalhau…huuummmm!
-
-author: Lidiane
+date: 2014-11-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/11/19/inhame-assado-bacalhau/
 permalink: /2014/11/19/inhame-assado-bacalhau/
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p align="justify">
-  A prova disso é essa receita que a Carol trouxe hoje para compartilhar conosco. Ela viu no programa da Bela Gil e, claro, já testou e comprovou: esse bolinho de inhame com bacalhau é pura gostosura. Carol explicou_ tim tim por tim tim_ como fazer, dando a receita original e suas intervenções pessoais. Vamos aprender como fazer? Então… vem!
+  A prova disso é essa receita que a Carol trouxe hoje para compartilhar conosco. Ela viu no programa da Bela Gil e, claro, já testou e comprovou: esse bolinho de inhame com bacalhau é pura gostosura. Carol explicou<em> tim tim por tim tim</em> como fazer, dando a receita original e suas intervenções pessoais. Vamos aprender como fazer? Então… vem!
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes**
+  <strong>Ingredientes</strong>
 </p>
 
 <p align="justify">
@@ -66,19 +66,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo da massa: **
+  <strong>Modo de preparo da massa: </strong>
 </p>
 
 > <p align="justify">
->   **Descascar o inhame, cortá-lo em pedaços pequenos e colocar numa bacia com água e sal para não escurecer. Cozinhar em panela aberta com água cobrindo até ficar no ponto de colocar o palito e estiver cozido, mas sem desmanchar muito. Escorrer a água e voltar ao fogo baixo só para secar bem. Deixe esfriar um pouco e, ainda quente, amasse no amassador de batatas ou no garfo. Reserve.”**
+>   <strong>Descascar o inhame, cortá-lo em pedaços pequenos e colocar numa bacia com água e sal para não escurecer. Cozinhar em panela aberta com água cobrindo até ficar no ponto de colocar o palito e estiver cozido, mas sem desmanchar muito. Escorrer a água e voltar ao fogo baixo só para secar bem. Deixe esfriar um pouco e, ainda quente, amasse no amassador de batatas ou no garfo. Reserve.”</strong>
 > </p>
 
 <p align="justify">
-  **Modo de preparo do recheio:**
+  <strong>Modo de preparo do recheio:</strong>
 </p>
 
 > <p align="justify">
->   **Refogue a cebola até ficar bem transparente. Deixe o bacalhau de molho e cozinhe até ficar macio. Desfie. Acrescente a cebola refogada com a cenoura, pimenta e orégano. Junte a massa de inhame ao bacalhau já temperado e faça os bolinhos. Leve ao forno aquecido a 200ºC por 30 min.”**
+>   <strong>Refogue a cebola até ficar bem transparente. Deixe o bacalhau de molho e cozinhe até ficar macio. Desfie. Acrescente a cebola refogada com a cenoura, pimenta e orégano. Junte a massa de inhame ao bacalhau já temperado e faça os bolinhos. Leve ao forno aquecido a 200ºC por 30 min.”</strong>
 > </p>
 
 <p align="center">
@@ -86,27 +86,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa**](http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/) 
+  <a href="http://www.trololodemulher.com.br/2014/10/15/escondidinho-file-suino/" target="_blank"><strong>Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa</strong></a>
 </p>
 
 <p align="justify">
-  [**Hamburguer de grão de bico facinho, facinho…**](http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/) 
+  <a href="http://www.trololodemulher.com.br/2014/10/01/hamburguer-saudavel/" target="_blank"><strong>Hamburguer de grão de bico facinho, facinho…</strong></a>
 </p>
 
 <p align="justify">
-  [**Canelone de berinjela + queijo cottage (no molho caseiro)**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

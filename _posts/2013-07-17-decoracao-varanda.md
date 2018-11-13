@@ -1,8 +1,8 @@
 ---
-
+id: 3241
 title: 'Decoração de varanda: ideia fácil e barata para você copiar.'
-
-author: Lidiane
+date: 2013-07-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/07/17/decoracao-varanda/
 permalink: /2013/07/17/decoracao-varanda/
@@ -10,7 +10,7 @@ categories:
   - 'Varanda &amp; Jardim'
 ---
 <p style="text-align: justify;">
-  E sabe de quem é a ideia? Da **Fabiana Tardochi**, uma leitora _superultramega _criativa e _expert _quando o assunto é reutilização de materiais na _decor_ da casa. Ela tem uma **varanda em casa**, e tratou de mimá-la com mais uma de suas ideias incríveis:** pufe de pneu**. Você também tem uma varanda para chamar de sua?
+  E sabe de quem é a ideia? Da <strong>Fabiana Tardochi</strong>, uma leitora <em>superultramega </em>criativa e <em>expert </em>quando o assunto é reutilização de materiais na <em>decor</em> da casa. Ela tem uma <strong>varanda em casa</strong>, e tratou de mimá-la com mais uma de suas ideias incríveis:<strong> pufe de pneu</strong>. Você também tem uma varanda para chamar de sua?
 </p>
 
 Se você curte pincelar sua decoração com toques bem pessoais, exclusivos e, de preferência, com custo bem baixinho, este post é para você, _viu_? Se joga na dica da Fabiana, já que ela passa de forma bastante didática. Repara só:
@@ -24,7 +24,7 @@ Se você curte pincelar sua decoração com toques bem pessoais, exclusivos e, d
 &nbsp;
 
 > <p align="justify">
->   _Comprei 2,50 de liganete, um tecido elástico, o que foi suficiente para forrar 2 pneus. Cortei a largura em 4 faixas, o que dá aproximadamente 35 cm de largura cada faixa. Cada pufe utiliza 2 faixas.”_
+>   <em>Comprei 2,50 de liganete, um tecido elástico, o que foi suficiente para forrar 2 pneus. Cortei a largura em 4 faixas, o que dá aproximadamente 35 cm de largura cada faixa. Cada pufe utiliza 2 faixas.”</em>
 > </p>
 
 &nbsp;
@@ -36,7 +36,7 @@ Se você curte pincelar sua decoração com toques bem pessoais, exclusivos e, d
 &nbsp;
 
 > <p align="justify">
->   _Centralizei o pneu no centro da primeira faixa…_
+>   <em>Centralizei o pneu no centro da primeira faixa…</em>
 > </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ Se você curte pincelar sua decoração com toques bem pessoais, exclusivos e, d
 &nbsp;
 
 > <p align="justify">
->   _…e entrelacei o tecido…_
+>   <em>…e entrelacei o tecido…</em>
 > </p>
 
 &nbsp;
@@ -60,7 +60,7 @@ Se você curte pincelar sua decoração com toques bem pessoais, exclusivos e, d
 &nbsp;
 
 > <p align="justify">
->   _…virei o pneu e terminei a amarração do outro lado, ponta com ponta._
+>   <em>…virei o pneu e terminei a amarração do outro lado, ponta com ponta.</em>
 > </p>
 
 &nbsp;
@@ -72,33 +72,33 @@ Se você curte pincelar sua decoração com toques bem pessoais, exclusivos e, d
 &nbsp;
 
 > <p align="justify">
->   _Pego então outra faixa de tecido e faço a mesma coisa cobrindo os espaços que ficaram da faixa anterior. Por fim é só esticar bem as faixas, arrumando direitinho para não ficarem buracos. _
+>   <em>Pego então outra faixa de tecido e faço a mesma coisa cobrindo os espaços que ficaram da faixa anterior. Por fim é só esticar bem as faixas, arrumando direitinho para não ficarem buracos. </em>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Dicas de ouro:</span>**
+  <strong><span style="font-size: large;">Dicas de ouro:</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   _1 &#8211; O tecido precisa ficar bem esticado;_
+>   <em>1 &#8211; O tecido precisa ficar bem esticado;</em>
 > </p>
 
 > <p align="justify">
->   _2 &#8211; O ideal para ficar confortável é usar 2 ou 3 pneus. _
+>   <em>2 &#8211; O ideal para ficar confortável é usar 2 ou 3 pneus. </em>
 > </p>
 
 > <p align="justify">
->   _3 &#8211; Você pode fazê-los todos da mesma cor ou então fazer um composè que fica lindo._
+>   <em>3 &#8211; Você pode fazê-los todos da mesma cor ou então fazer um composè que fica lindo.</em>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">E o resultado da na casa da Fabiana, oh:</span>**
+  <strong><span style="font-size: large;">E o resultado da na casa da Fabiana, oh:</span></strong>
 </p>
 
 &nbsp;
@@ -109,7 +109,7 @@ Se você curte pincelar sua decoração com toques bem pessoais, exclusivos e, d
 
 &nbsp;
 
-Imagens: **Fabiana Tardochi** via [**Reciclar e Decorar**](http://www.reciclaredecorar.com/) 
+Imagens: **Fabiana Tardochi** via <a href="http://www.reciclaredecorar.com/" target="_blank"><strong>Reciclar e Decorar</strong></a>
 
 &nbsp;
 
@@ -120,37 +120,37 @@ Imagens: **Fabiana Tardochi** via [**Reciclar e Decorar**](http://www.reciclared
 &nbsp;
 
 <p align="justify">
-  Bonita, se você é do tipo que gosta de colocar a mão na massa para enfeitar sua casa com as coisas feitas por você mesma, precisa conhecer o blog **[Reciclar e Decorar](http://www.reciclaredecorar.com/) ** da **Fabiana Tardochi**. Ela inventa de tudo e mais um pouco quando o assunto é decoração, e aplica tudo o que aprende na casa dela.
+  Bonita, se você é do tipo que gosta de colocar a mão na massa para enfeitar sua casa com as coisas feitas por você mesma, precisa conhecer o blog <strong><a href="http://www.reciclaredecorar.com/" target="_blank">Reciclar e Decorar</a></strong> da <strong>Fabiana Tardochi</strong>. Ela inventa de tudo e mais um pouco quando o assunto é decoração, e aplica tudo o que aprende na casa dela.
 </p>
 
 <p align="justify">
-  Sabe o melhor? Ela compartilha tudo no blog, de forma bem simples assim, como você viu, _´pra_ que a gente possa aplicar em nossos domínios também. Não é o máximo? Aposto que você ficou bem curiosa para espiar o blog dessa super criativa,_ né_ não? Então, oh: [**clica aqui**](http://www.reciclaredecorar.com/)  e se joga!
+  Sabe o melhor? Ela compartilha tudo no blog, de forma bem simples assim, como você viu, <em>´pra</em> que a gente possa aplicar em nossos domínios também. Não é o máximo? Aposto que você ficou bem curiosa para espiar o blog dessa super criativa,<em> né</em> não? Então, oh: <a href="http://www.reciclaredecorar.com/" target="_blank"><strong>clica aqui</strong></a> e se joga!
 </p>
 
 <p align="justify">
-  **Mais ideias do tipo &#8220;faça você mesma&#8221;:**
+  <strong>Mais ideias do tipo &#8220;faça você mesma&#8221;:</strong>
 </p>
 
 <p align="justify">
-  **[Faça você mesma um enfeite de parede para sua casa.](http://www.trololodemulher.com.br/2014/06/27/enfeite-parede-faca-voce-mesma/) **
+  <strong><a href="http://www.trololodemulher.com.br/2014/06/27/enfeite-parede-faca-voce-mesma/" target="_blank">Faça você mesma um enfeite de parede para sua casa.</a></strong>
 </p>
 
 <p align="justify">
-  **[Baú vintage: faça você mesma.](http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/) **
+  <strong><a href="http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/" target="_blank">Baú vintage: faça você mesma.</a></strong>
 </p>
 
 <p align="justify">
-  **[Decoração &#8220;faça você mesma&#8221;: luminárias de taça de vinho.](http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/) **
+  <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank">Decoração &#8220;faça você mesma&#8221;: luminárias de taça de vinho.</a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 <p align="justify">

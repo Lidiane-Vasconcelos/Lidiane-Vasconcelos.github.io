@@ -1,8 +1,8 @@
 ---
-
+id: 3364
 title: 'Decoração de Natal: 4 centros de mesa simples, mas lindos!'
-
-author: Lidiane
+date: 2014-11-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/11/03/decoracao-natal-mesa/
 permalink: /2014/11/03/decoracao-natal-mesa/
@@ -14,23 +14,23 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**3 guirlandas de Natal diferentes e criativas: faça você mesma!**](http://www.decoracaodacasa.com/guirlandas-de-natal-2/) 
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank"><strong>3 guirlandas de Natal diferentes e criativas: faça você mesma!</strong></a>
 </p>
 
 <p align="justify">
-  Eu já havia mostrado para você, aqui mesmo no **Trololó de Mulher**, **[5 centros de mesa do tipo “faça você mesma”](http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/) **, lembra? Se você não viu, sugiro dar uma espiadinha. Desta vez, as sugestões são para você mesma compor também, e todas diferentes do que foi mostrado no post anterior. Repare nas várias ideias, as do post anterior anterior associadas a este, viva de amores e identifique o que arrebata seu coração. Inspire-se!
+  Eu já havia mostrado para você, aqui mesmo no <strong>Trololó de Mulher</strong>, <strong><a href="http://www.trololodemulher.com.br/2014/10/20/decoracao-de-natal-2/" target="_blank">5 centros de mesa do tipo “faça você mesma”</a></strong>, lembra? Se você não viu, sugiro dar uma espiadinha. Desta vez, as sugestões são para você mesma compor também, e todas diferentes do que foi mostrado no post anterior. Repare nas várias ideias, as do post anterior anterior associadas a este, viva de amores e identifique o que arrebata seu coração. Inspire-se!
 </p>
 
 <p align="justify">
-  **E mais:**
+  <strong>E mais:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração de Natal com reutilização de janela velha: dica.**](http://www.decoracaodacasa.com/decoracao-natal-2014/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="justify">
-  Tudo que você precisa para executar esta ideia: vaso comprido de vidro, e transparente + pinhas natalinas + planta decorativa artificial de sua preferência. Posicione o galho da planta no vaso e vá preenchendo com as pinhas… e só! Quer ideia mais fácil?! Difícil, _né_?
+  Tudo que você precisa para executar esta ideia: vaso comprido de vidro, e transparente + pinhas natalinas + planta decorativa artificial de sua preferência. Posicione o galho da planta no vaso e vá preenchendo com as pinhas… e só! Quer ideia mais fácil?! Difícil, <em>né</em>?
 </p>
 
 <p align="center">
@@ -58,15 +58,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Não deixe de conferir:**
+  <strong>Não deixe de conferir:</strong>
 </p>
 
 <p align="justify">
-  [**2 elegantes (e simples!) enfeites de Natal que você mesma pode fazer.**](http://www.decoracaodacasa.com/enfeites-decoracao-natal/) 
+  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><strong>2 elegantes (e simples!) enfeites de Natal que você mesma pode fazer.</strong></a>
 </p>
 
 <p align="justify">
-  [**Dicas para a decoração das salas no Natal.**](http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/) 
+  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank"><strong>Dicas para a decoração das salas no Natal.</strong></a>
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: [Home Designing](http://www.home-designing.com/) 
+  Imagens: <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

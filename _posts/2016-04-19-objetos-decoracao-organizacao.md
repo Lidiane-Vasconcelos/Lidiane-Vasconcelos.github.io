@@ -1,8 +1,8 @@
 ---
-
+id: 3593
 title: Como reutilizar objetos na decoração/organização em 4 dicas.
-
-author: Lidiane
+date: 2016-04-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/04/19/objetos-decoracao-organizacao/
 permalink: /2016/04/19/objetos-decoracao-organizacao/
@@ -31,15 +31,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  **[Banheiro pequeno? Veja 6 ideias e ganhe espaço já!](http://www.decoracaodacasa.com/banheiro-pequeno/) **
+  <strong><a href="http://www.decoracaodacasa.com/banheiro-pequeno/" target="_blank">Banheiro pequeno? Veja 6 ideias e ganhe espaço já!</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  **[5 ideias de organização do banheiro que favorecem a decoração.](http://www.decoracaodacasa.com/organizacao-do-banheiro/) **
+  <strong><a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank">5 ideias de organização do banheiro que favorecem a decoração.</a></strong>
 </p>
 
 <p align="center">
@@ -51,15 +51,15 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  **[+1 ideia de organização para sua cozinha pequena.](http://www.decoracaodacasa.com/organizacao-casa-cozinha/) **
+  <strong><a href="http://www.decoracaodacasa.com/organizacao-casa-cozinha/" target="_blank">+1 ideia de organização para sua cozinha pequena.</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  **[Cozinha: 2 ideias simples que, sim, organizam!](http://www.decoracaodacasa.com/cozinha-organizacao/) **
+  <strong><a href="http://www.decoracaodacasa.com/cozinha-organizacao/" target="_blank">Cozinha: 2 ideias simples que, sim, organizam!</a></strong>
 </p>
 
 <p align="center">
@@ -71,25 +71,25 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  **[3 dicas para organização da cozinha: confira!](http://www.decoracaodacasa.com/organizacao-da-cozinha/) **
+  <strong><a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank">3 dicas para organização da cozinha: confira!</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  **[4 ideias para manter sua cozinha organizada. Confira!](http://www.decoracaodacasa.com/ideias-cozinha-organizada/) **
+  <strong><a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank">4 ideias para manter sua cozinha organizada. Confira!</a></strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  **[Decoração de cozinha: 2 ideias que também organizam.](http://www.decoracaodacasa.com/decoracao-de-cozinha/) **
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-de-cozinha/" target="_blank">Decoração de cozinha: 2 ideias que também organizam.</a></strong>
 </p>
 
 <p align="justify">
-  Imagens: [Martha Stewart](http://www.marthastewart.com/) 
+  Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

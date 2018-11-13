@@ -1,8 +1,8 @@
 ---
-
+id: 2926
 title: 'Decoração: cor da sala de estar. Qual escolher?'
-
-author: Lidiane
+date: 2010-12-27T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/12/27/decoracao-cor-sala-de-estar/
 permalink: /2010/12/27/decoracao-cor-sala-de-estar/
@@ -32,19 +32,19 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p style="text-align: justify;">
-  **[Cores na decoração: veja 6 respostas para suas dúvidas.](http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/) **
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas para suas dúvidas.</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  **[Decoração da sala de estar: como inserir detalhes coloridos?](http://www.decoracaodacasa.com/decoracao-sala-estar-cores/) **
+  <strong><a href="http://www.decoracaodacasa.com/decoracao-sala-estar-cores/" target="_blank">Decoração da sala de estar: como inserir detalhes coloridos?</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  **[Para sua sala de estar: quer ainda mais ideias de cores?](http://www.decoracaodacasa.com/parede-sala-estar-cores/) **
+  <strong><a href="http://www.decoracaodacasa.com/parede-sala-estar-cores/" target="_blank">Para sua sala de estar: quer ainda mais ideias de cores?</a></strong>
 </p>
 
 <p align="center">
@@ -56,15 +56,15 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  **E por falar em decoração neutra:**
+  <strong>E por falar em decoração neutra:</strong>
 </p>
 
 <p style="text-align: justify;">
-  **[Decoração básica com graça e charme: aprenda os truques!](http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/) **
+  <strong><a href="http://www.trololodemulher.com.br/2013/06/05/decoracao-basica-simples/" target="_blank">Decoração básica com graça e charme: aprenda os truques!</a></strong>
 </p>
 
 <p align="center">
-  **_Sugestão de objetos que poderiam estar numa sala de cores neutras…_**
+  <strong><em>Sugestão de objetos que poderiam estar numa sala de cores neutras…</em></strong>
 </p>
 
 <p align="center">
@@ -91,10 +91,10 @@ categories:
   Sua sala é totalmente creme e você tem dúvidas sobre qual cor escolher para os objetos e detalhes? Que tal o vermelho? Sim! Olha bem: você pode escolher um tapete com tons de vermelho, assim como as almofadas. Mas não só de vermelho suas almofadas viveriam, porque dá para pincelar uma ou outra na cor dourada também. Viu? Creme e vermelho, no geral, combinam sim, bonita!
 </p>
 
-_Imagens:_ [_HGTV.Start at Home_](http://www.hgtv.com/) 
+_Imagens:_ <a href="http://www.hgtv.com/" target="_blank"><em>HGTV.Start at Home</em></a>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

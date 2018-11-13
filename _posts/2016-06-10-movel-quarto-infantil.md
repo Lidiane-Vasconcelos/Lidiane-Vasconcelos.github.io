@@ -1,8 +1,8 @@
 ---
-
+id: 3624
 title: 'Móvel modulado ou planejado: cubos no quarto infantil. 4 ideias.'
-
-author: Lidiane
+date: 2016-06-10T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/06/10/movel-quarto-infantil/
 permalink: /2016/06/10/movel-quarto-infantil/
@@ -15,35 +15,35 @@ categories:
 </p>
 
 <p align="justify">
-  **Não deixe de ver:**
+  <strong>Não deixe de ver:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração do quarto infantil: 4 soluções de marcenaria para você.**](http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/) 
+  <a href="http://www.trololodemulher.com.br/2013/07/10/decoracao-quarto-infantil-3/" target="_blank"><strong>Decoração do quarto infantil: 4 soluções de marcenaria para você.</strong></a>
 </p>
 
 <p align="justify">
-  [**Quarto infantil decorado com afetividade.**](http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/) 
+  <a href="http://www.trololodemulher.com.br/2014/09/19/quarto-infantil-decorado/" target="_blank"><strong>Quarto infantil decorado com afetividade.</strong></a>
 </p>
 
 <p align="justify">
-  Esses móveis, na minha opinião, são incríveis porque, ao passo que são peças simples, básicas e limpas visualmente, compondo com caixas organizadoras de cores variadas, ou texturas diferentes, você consegue um resultado bonito, eficiente e funcional. E olhe que as caixas nem precisam ser caras, _viu_? Aposto que você quer ver ideias que possam te inspirar a decorar e organizar melhor o quarto da cria, certo? Vem comigo pois tenho 4 sugestões para compartilhar com você.
+  Esses móveis, na minha opinião, são incríveis porque, ao passo que são peças simples, básicas e limpas visualmente, compondo com caixas organizadoras de cores variadas, ou texturas diferentes, você consegue um resultado bonito, eficiente e funcional. E olhe que as caixas nem precisam ser caras, <em>viu</em>? Aposto que você quer ver ideias que possam te inspirar a decorar e organizar melhor o quarto da cria, certo? Vem comigo pois tenho 4 sugestões para compartilhar com você.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**4 soluções de organização no quarto infantil: você não vai copiar?**](http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/) 
+  <a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização no quarto infantil: você não vai copiar?</strong></a>
 </p>
 
 <p align="justify">
-  [**3 ideias estratégicas para organizar o quarto infantil: copie!**](http://www.decoracaodacasa.com/organizar-quarto-infantil/) 
+  <a href="http://www.decoracaodacasa.com/organizar-quarto-infantil/" target="_blank"><strong>3 ideias estratégicas para organizar o quarto infantil: copie!</strong></a>
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Pequeno e simples</span>**
+  <strong><span style="font-size: large;">Pequeno e simples</span></strong>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Parede aproveitada ao extremo!</span>**
+  <strong><span style="font-size: large;">Parede aproveitada ao extremo!</span></strong>
 </p>
 
 <p align="center">
@@ -67,15 +67,15 @@ categories:
 </p>
 
 <p align="justify">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p align="justify">
-  [**Como brincar com as cores na decoração do quarto infantil.**](http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-infantil-3/" target="_blank"><strong>Como brincar com as cores na decoração do quarto infantil.</strong></a>
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">De tudo um pouco.</span>**
+  <strong><span style="font-size: large;">De tudo um pouco.</span></strong>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">A cor está no móvel.</span>**
+  <strong><span style="font-size: large;">A cor está no móvel.</span></strong>
 </p>
 
 <p align="center">
@@ -99,11 +99,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: [homedit](http://www.homedit.com/) 
+  Imagens: <a href="http://www.homedit.com/" target="_blank">homedit</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

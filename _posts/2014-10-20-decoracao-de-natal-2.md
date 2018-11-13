@@ -1,8 +1,8 @@
 ---
-
+id: 3359
 title: 'Decoração de Natal: 5 centros de mesa “faça você mesma”.'
-
-author: Lidiane
+date: 2014-10-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/10/20/decoracao-de-natal-2/
 permalink: /2014/10/20/decoracao-de-natal-2/
@@ -14,15 +14,15 @@ categories:
 </p>
 
 <p align="justify">
-  Como você não está num dilema como o meu, aproveita para espiar essas 5 sugestões e já vá selecionando as ideias que arrebatam o seu coração. Quando chegar o momento certo de providenciar sua decoração de Natal, você saberá e-xa-ta-men-te o que fazer, sem correria, _hein_?! Vamos lá?
+  Como você não está num dilema como o meu, aproveita para espiar essas 5 sugestões e já vá selecionando as ideias que arrebatam o seu coração. Quando chegar o momento certo de providenciar sua decoração de Natal, você saberá e-xa-ta-men-te o que fazer, sem correria, <em>hein</em>?! Vamos lá?
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração de Natal com reutilização de janela velha: dica.**](http://www.decoracaodacasa.com/decoracao-natal-2014/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-natal-2014/" target="_blank"><strong>Decoração de Natal com reutilização de janela velha: dica.</strong></a>
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@ categories:
 </p>
 
 <p align="justify">
-  **E mais:**
+  <strong>E mais:</strong>
 </p>
 
 <p align="justify">
-  [**As crianças participam da decoração de Natal na sua casa?**](http://www.decoracaodacasa.com/decoracao-de-natal-3/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank"><strong>As crianças participam da decoração de Natal na sua casa?</strong></a>
 </p>
 
 <p align="center">
@@ -46,15 +46,15 @@ categories:
 </p>
 
 <p align="justify">
-  Bati o olho nessa sugestão e já pensei na minha jarrinha de porcelana. Você tem uma também? Tem mais de uma? Opa! Melhor ainda! Tudo que você precisa fazer se resume a comprar folhagens natalinas diversas nas lojas espcializadas… e só! E o resultado? Nem precisa comentar, _né_? É de viver de amores, bonita!
+  Bati o olho nessa sugestão e já pensei na minha jarrinha de porcelana. Você tem uma também? Tem mais de uma? Opa! Melhor ainda! Tudo que você precisa fazer se resume a comprar folhagens natalinas diversas nas lojas espcializadas… e só! E o resultado? Nem precisa comentar, <em>né</em>? É de viver de amores, bonita!
 </p>
 
 <p align="justify">
-  **Não deixe de ver:**
+  <strong>Não deixe de ver:</strong>
 </p>
 
 <p align="justify">
-  [**2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!**](http://www.decoracaodacasa.com/enfeites-decoracao-natal/) 
+  <a href="http://www.decoracaodacasa.com/enfeites-decoracao-natal/" target="_blank"><strong>2 elegantes (e simples!) enfeites para decoração de Natal… feitos por você!</strong></a>
 </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ categories:
 </p>
 
 <p align="justify">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p align="justify">
-  [**Enfeites de Natal: você já sabe como decorar a mesa?**](http://www.decoracaodacasa.com/decoracao-natal/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-natal/" target="_blank"><strong>Enfeites de Natal: você já sabe como decorar a mesa?</strong></a>
 </p>
 
 <p align="center">
@@ -78,15 +78,15 @@ categories:
 </p>
 
 <p align="justify">
-  Olha que_ lindeza_! Amei essa referência pela simplicidade e o resultado lindo de viver. O segredo é achar bolas com cores chamativas, feito isso arrume algumas delas sobre folhagens natalinas, permeadas por bolinhas miúdas e douradas, tudo sobre uma travassa bem aberta. Não tem como dar errado: o resultado é algo lindo para os olhos apreciarem.
+  Olha que<em> lindeza</em>! Amei essa referência pela simplicidade e o resultado lindo de viver. O segredo é achar bolas com cores chamativas, feito isso arrume algumas delas sobre folhagens natalinas, permeadas por bolinhas miúdas e douradas, tudo sobre uma travassa bem aberta. Não tem como dar errado: o resultado é algo lindo para os olhos apreciarem.
 </p>
 
 <p align="justify">
-  **Para te inspirar:**
+  <strong>Para te inspirar:</strong>
 </p>
 
 <p align="justify">
-  [**Dicas para a decoração das salas no Natal.**](http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/) 
+  <a href="http://www.trololodemulher.com.br/2009/12/01/dicas-decoracao-de-natal/" target="_blank"><strong>Dicas para a decoração das salas no Natal.</strong></a>
 </p>
 
 <p align="center">
@@ -98,11 +98,11 @@ categories:
 </p>
 
 <p align="justify">
-  Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

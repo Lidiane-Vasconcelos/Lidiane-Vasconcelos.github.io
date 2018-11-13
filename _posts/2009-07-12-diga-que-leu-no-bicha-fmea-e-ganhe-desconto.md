@@ -1,8 +1,8 @@
 ---
-
+id: 2684
 title: Diga que Leu no Bicha Fêmea e Ganhe Desconto$
-
-author: Lidiane
+date: 2009-07-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/07/12/diga-que-leu-no-bicha-fmea-e-ganhe-desconto/
 permalink: /2009/07/12/diga-que-leu-no-bicha-fmea-e-ganhe-desconto/
@@ -10,7 +10,7 @@ categories:
   - Promoção
   - Publieditorial
 ---
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="clutchmagonline.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/clutchmagonline-com_thumb.jpg" border="0" alt="clutchmagonline.com" width="185" height="240" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/clutchmagonline-com.jpg) Você leu [o post da última Bicha Fêmea Convidada](http://www.trololodemulher.com.br/2009/07/08/bicha-fmea-convidada-8/) ? Viu que a Ilália, do blog [Maquiagem Mineral](http://maquiagemmineral.blogspot.com/) , fez uma série de esclarecimentos sobre esse tipo de maquigam que nomeia o blog da bonita?[<img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="EmoticonHappy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy_thumb9.gif" alt="EmoticonHappy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy9.gif)
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="clutchmagonline.com" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/clutchmagonline-com_thumb.jpg" border="0" alt="clutchmagonline.com" width="185" height="240" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/clutchmagonline-com.jpg) Você leu <a href="http://www.trololodemulher.com.br/2009/07/08/bicha-fmea-convidada-8/" target="_blank">o post da última Bicha Fêmea Convidada</a>? Viu que a Ilália, do blog <a href="http://maquiagemmineral.blogspot.com/" target="_blank">Maquiagem Mineral</a>, fez uma série de esclarecimentos sobre esse tipo de maquigam que nomeia o blog da bonita?[<img style="display: block; float: none; margin-left: auto; margin-right: auto;" title="EmoticonHappy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy_thumb9.gif" alt="EmoticonHappy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy9.gif)
 
 Não é que muitas bichas fêmeas navegantes se mostraram curiosas sobre esse tipo de produto?[<img style="display: inline;" title="EmoticonCool" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticoncool_thumb2.gif" alt="EmoticonCool" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticoncool2.gif)
 

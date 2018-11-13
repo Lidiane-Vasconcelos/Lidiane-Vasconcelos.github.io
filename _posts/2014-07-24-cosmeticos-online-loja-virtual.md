@@ -1,8 +1,8 @@
 ---
-
+id: 3327
 title: 'Compre cosméticos online. Comodidade: quem não quer?'
-
-author: Lidiane
+date: 2014-07-24T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/07/24/cosmeticos-online-loja-virtual/
 permalink: /2014/07/24/cosmeticos-online-loja-virtual/
@@ -22,7 +22,7 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 <!--more-->
 
 <p align="justify">
-  A **Personal Buyers** é uma loja de cosméticos onde você encontra muitas marcas do mercado, e há produtos para o cuidado do corpo inteiro, e para a toda a família. Lá você vai encontrar promoções e oportunidades incríveis, além de preços justos. Repara só:
+  A <strong>Personal Buyers</strong> é uma loja de cosméticos onde você encontra muitas marcas do mercado, e há produtos para o cuidado do corpo inteiro, e para a toda a família. Lá você vai encontrar promoções e oportunidades incríveis, além de preços justos. Repara só:
 </p>
 
 &nbsp;
@@ -46,11 +46,11 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 &nbsp;
 
 <p align="justify">
-  Viu quanta coisa bacana pra você conhecer com mais detalhes? Sabe o melhor? O atendimento _superultramega_ bacana na **[Personal Buyers](https://www.personalbuyers.com.br/) ** é garantido pela **Fatima Moral**, a bonitona que está a frente da empresa e pronta para te surpreender. Não perca tempo e aproveite as promoões… se joga e **[clica aqui](https://www.personalbuyers.com.br/) **.
+  Viu quanta coisa bacana pra você conhecer com mais detalhes? Sabe o melhor? O atendimento <em>superultramega</em> bacana na <strong><a href="https://www.personalbuyers.com.br/" target="_blank">Personal Buyers</a></strong> é garantido pela <strong>Fatima Moral</strong>, a bonitona que está a frente da empresa e pronta para te surpreender. Não perca tempo e aproveite as promoões… se joga e <strong><a href="https://www.personalbuyers.com.br/" target="_blank">clica aqui</a></strong>.
 </p>
 
 <p align="justify">
-  Ah! A **Personal Buyers** disponibilizou um mimo muito legal para presentear duas amigas sortudas via **[Página do Bicha Fêmea no Facebook](https://www.facebook.com/bichafemea) **. Você viu a promoção?
+  Ah! A <strong>Personal Buyers</strong> disponibilizou um mimo muito legal para presentear duas amigas sortudas via <strong><a href="https://www.facebook.com/bichafemea" target="_blank">Página do Bicha Fêmea no Facebook</a></strong>. Você viu a promoção?
 </p>
 
 &nbsp;
@@ -62,7 +62,7 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Pois é… sabe quem ganhou?</span>**
+  <strong><span style="font-size: small;">Pois é… sabe quem ganhou?</span></strong>
 </p>
 
 &nbsp;
@@ -72,23 +72,23 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 </p>
 
 <p align="justify">
-  Olha aí, oh:** Adriana Minhoto** vai levar esse kit, e a amiga que ela marcou na brincadeira também. Já entrei em contato com a bonita para saber seu endereço de entrega, bem como o de sua amiga.
+  Olha aí, oh:<strong> Adriana Minhoto</strong> vai levar esse kit, e a amiga que ela marcou na brincadeira também. Já entrei em contato com a bonita para saber seu endereço de entrega, bem como o de sua amiga.
 </p>
 
 <p align="justify">
-  Você quer ficar por dentro de promoções no **Facebook**? **[Curta a página do blog](https://www.facebook.com/bichafemea) **, fique por dentro das novidades e vem brincar também!
+  Você quer ficar por dentro de promoções no <strong>Facebook</strong>? <strong><a href="https://www.facebook.com/bichafemea" target="_blank">Curta a página do blog</a></strong>, fique por dentro das novidades e vem brincar também!
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -99,13 +99,13 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -114,5 +114,5 @@ Eu gosto de comodidade, sim, e costumo fazer comprinhas online. Aqui em casa já
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
 </p>

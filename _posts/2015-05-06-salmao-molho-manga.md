@@ -1,8 +1,8 @@
 ---
-
+id: 3419
 title: Salmão ao molho de manga
-
-author: Lidiane
+date: 2015-05-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/05/06/salmao-molho-manga/
 permalink: /2015/05/06/salmao-molho-manga/
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -54,11 +54,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **Tempere o salmão com sal, pimenta e alecrim fresco. Leve ao forno em 180 graus, coberto com papel alumínio, até assar. Em uma vasilha, coloque um fio (bem pouco) de azeite, cebola, manga picadinha e a pimenta. Com o fogo baixo vai apurando essa manga com os temperos. Se secar demais, coloque gotinhas de água, até que a manga fique bem amolecida. Tire o salmão do forno e regue com molho de manga. Fica delicioso!**
+>   <strong>Tempere o salmão com sal, pimenta e alecrim fresco. Leve ao forno em 180 graus, coberto com papel alumínio, até assar. Em uma vasilha, coloque um fio (bem pouco) de azeite, cebola, manga picadinha e a pimenta. Com o fogo baixo vai apurando essa manga com os temperos. Se secar demais, coloque gotinhas de água, até que a manga fique bem amolecida. Tire o salmão do forno e regue com molho de manga. Fica delicioso!</strong>
 > </p>
 
 <p align="center">
@@ -66,27 +66,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Mini abóbora recheada de cuscuz marroquino**](http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/) 
+  <a href="http://www.trololodemulher.com.br/2015/03/25/abobora-cuscuz-marroquino/" target="_blank"><strong>Mini abóbora recheada de cuscuz marroquino</strong></a>
 </p>
 
 <p align="justify">
-  [**Mousse de abacate e cacau em pó**](http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/) 
+  <a href="http://www.trololodemulher.com.br/2015/03/23/mousse-saudavel-abacate/" target="_blank"><strong>Mousse de abacate e cacau em pó</strong></a>
 </p>
 
 <p align="justify">
-  [**Espaguete de pupunha ao molho de salmão e aspargos**](http://www.trololodemulher.com.br/2015/03/20/pupunha-salmao-aspargos/) 
+  <a href="http://www.trololodemulher.com.br/2015/03/20/pupunha-salmao-aspargos/" target="_blank"><strong>Espaguete de pupunha ao molho de salmão e aspargos</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,8 +1,8 @@
 ---
-
+id: 3462
 title: Apartamento pequeno e lições de como viver com menos.
-
-author: Lidiane
+date: 2015-08-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/08/12/apartamento-pequeno/
 permalink: /2015/08/12/apartamento-pequeno/
@@ -11,19 +11,19 @@ categories:
   - Pequenos Espaços
 ---
 <p align="justify">
-  Esse é o espírito desse post, e não poderia pensar em outra coisa quando dei de cara com esse **apartamento pequeno. **Aliás, eu diria mini. Como viver com menos, num espaço de medidas tão enxutas? Há que se ter muita consciência do que é necessário para uma vida boa, plena, mas sem excessos, não é verdade? O rapaz que mora nesse imóvel, de sorriso largo e cativante, conta que seu apartamento anterior era pelo menos duas vezes o tamanho deste atual, onde ele mora há 6 meses. Desapegar e diminuir suas “coisas” foi uma experiência pela qual ele teve de passar, e ele diz que tem sido bom. Não duvido disso. Eu mesma tenho estado envolvida com aprendizados sobre viver com menos, de modo mais simples, e isso não quer dizer menos confortável. Esse apartamento é um exemplo per-fei-to desta ideia: embora mini, é extremamente funcional, com tudo o que é necessário para uma pessoa viver com conforto e muita, muita diginidade. Veja só… e fique de boca aberta, como eu fiquei. E não esqueça: inspire-se!
+  Esse é o espírito desse post, e não poderia pensar em outra coisa quando dei de cara com esse <strong>apartamento pequeno. </strong>Aliás, eu diria mini. Como viver com menos, num espaço de medidas tão enxutas? Há que se ter muita consciência do que é necessário para uma vida boa, plena, mas sem excessos, não é verdade? O rapaz que mora nesse imóvel, de sorriso largo e cativante, conta que seu apartamento anterior era pelo menos duas vezes o tamanho deste atual, onde ele mora há 6 meses. Desapegar e diminuir suas “coisas” foi uma experiência pela qual ele teve de passar, e ele diz que tem sido bom. Não duvido disso. Eu mesma tenho estado envolvida com aprendizados sobre viver com menos, de modo mais simples, e isso não quer dizer menos confortável. Esse apartamento é um exemplo per-fei-to desta ideia: embora mini, é extremamente funcional, com tudo o que é necessário para uma pessoa viver com conforto e muita, muita diginidade. Veja só… e fique de boca aberta, como eu fiquei. E não esqueça: inspire-se!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Apartamento mínimo, com tudo para viver bem: é possível?**](http://www.decoracaodacasa.com/apartamento-pequeno-2/) 
+  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank"><strong>Apartamento mínimo, com tudo para viver bem: é possível?</strong></a>
 </p>
 
 <p align="justify">
-  [**Dá para viver bem em pequenos espaços?**](http://www.decoracaodacasa.com/apartamento-pequeno-2/) 
+  <a href="http://www.decoracaodacasa.com/apartamento-pequeno-2/" target="_blank"><strong>Dá para viver bem em pequenos espaços?</strong></a>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Ilha da cozinha: do lado de cá, _cooktop_ e forno, com área de trabalho dos lados. Do lado de lá tem cadeiras, pois serve como espaço para refeição. Vamos chegar lá com mais detalhes, sim?
+  Ilha da cozinha: do lado de cá, <em>cooktop</em> e forno, com área de trabalho dos lados. Do lado de lá tem cadeiras, pois serve como espaço para refeição. Vamos chegar lá com mais detalhes, sim?
 </p>
 
 <p align="center">
@@ -75,15 +75,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Cozinha pequena: o grande charme da decoração está nos detalhes.**](http://www.decoracaodacasa.com/cozinha-pequena-decoracao/) 
+  <a href="http://www.decoracaodacasa.com/cozinha-pequena-decoracao/" target="_blank"><strong>Cozinha pequena: o grande charme da decoração está nos detalhes.</strong></a>
 </p>
 
 <p align="justify">
-  [**Cozinha moderna em apartamento pequeno… tem jeito?**](http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/) 
+  <a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/" target="_blank"><strong>Cozinha moderna em apartamento pequeno… tem jeito?</strong></a>
 </p>
 
 <p align="center">
@@ -95,19 +95,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Como fazer seu espaço pequeno parecer maior? 10 dicas.**](http://www.decoracaodacasa.com/espaco-pequeno-decoracao/) 
+  <a href="http://www.decoracaodacasa.com/espaco-pequeno-decoracao/" target="_blank"><strong>Como fazer seu espaço pequeno parecer maior? 10 dicas.</strong></a>
 </p>
 
 <p align="justify">
-  [**3 erros na decoração e organização de espaços pequenos: você os comete?**](http://www.decoracaodacasa.com/decoracao-espacos-pequenos/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-espacos-pequenos/" target="_blank"><strong>3 erros na decoração e organização de espaços pequenos: você os comete?</strong></a>
 </p>
 
 <p align="justify">
-  [**5 dicas de decoração para casas com pouco espaço.**](http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-casa-pouco-espaco/" target="_blank"><strong>5 dicas de decoração para casas com pouco espaço.</strong></a>
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@ categories:
 </p>
 
 <p align="center">
-  Cozinha _mini mini mini…_
+  Cozinha <em>mini mini mini…</em>
 </p>
 
 <p align="center">
@@ -131,15 +131,15 @@ categories:
 </p>
 
 <p align="left">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="left">
-  [**Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?**](http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/) 
+  <a href="http://www.trololodemulher.com.br/2011/05/11/quarto-pequeno-decoracao/" target="_blank"><strong>Quarto pequeno com cama + mesa de computador + guarda-roupas é possível?</strong></a>
 </p>
 
 <p align="left">
-  [**Móvel funcional na sua sala de estar pequena é a melhor escolha.**](http://www.decoracaodacasa.com/movel-funcional-sala-pequena/) 
+  <a href="http://www.decoracaodacasa.com/movel-funcional-sala-pequena/" target="_blank"><strong>Móvel funcional na sua sala de estar pequena é a melhor escolha.</strong></a>
 </p>
 
 <p align="center">
@@ -159,11 +159,11 @@ categories:
 </p>
 
 <p align="left">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="left">
-  [**4 composições de cantinhos para sua varanda pequena.**](http://www.decoracaodacasa.com/decoracao-varanda-pequena/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-varanda-pequena/" target="_blank"><strong>4 composições de cantinhos para sua varanda pequena.</strong></a>
 </p>
 
 <p align="center">
@@ -179,11 +179,11 @@ categories:
 </p>
 
 <p align="left">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="left">
-  [**Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.**](http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/) 
+  <a href="http://www.trololodemulher.com.br/2013/09/02/decoracao-banheiro-pequeno-2/" target="_blank"><strong>Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas.</strong></a>
 </p>
 
 <p align="center">
@@ -191,15 +191,15 @@ categories:
 </p>
 
 <p align="center">
-  Planta do _apertamento_ inspirador!!!
+  Planta do <em>apertamento</em> inspirador!!!
 </p>
 
 <p align="justify">
-  Ficou com água na boca para espiar um pouquinho mais? Espie no [post original, no Apartment Therapy, bem aqui](http://www.apartmenttherapy.com/matts-urban-studio-222013?utm_medium=email&utm_campaign=Apartment+Therapy+Daily+8315+5+New+Old+Trends&utm_content=Apartment+Therapy+Daily+8315+5+New+Old+Trends+CID_ae9f9dafcf817c99eef527ca2aa4ddc6&utm_source=email_newsletter) . Delicie-se e continue se inspirando.
+  Ficou com água na boca para espiar um pouquinho mais? Espie no <a href="http://www.apartmenttherapy.com/matts-urban-studio-222013?utm_medium=email&utm_campaign=Apartment+Therapy+Daily+8315+5+New+Old+Trends&utm_content=Apartment+Therapy+Daily+8315+5+New+Old+Trends+CID_ae9f9dafcf817c99eef527ca2aa4ddc6&utm_source=email_newsletter" target="_blank">post original, no Apartment Therapy, bem aqui</a>. Delicie-se e continue se inspirando.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

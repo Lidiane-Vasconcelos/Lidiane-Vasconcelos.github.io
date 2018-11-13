@@ -1,8 +1,8 @@
 ---
-
+id: 2934
 title: Todo dia ela faz tudo sempre igual…
-
-author: Lidiane
+date: 2011-01-10T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/01/10/tudo-sempre-igual/
 permalink: /2011/01/10/tudo-sempre-igual/
@@ -20,11 +20,11 @@ Vivemos uma realidade massacrante, as horas escorrem entre os dedos numa rapidez
 <!--more-->
 
 <p style="text-align: justify;">
-  Já na frente de uma televisão, com um bom filme, ou no computador quando estamos teclando com alguém, vamos engolindo a comida sem nem mastigarmos …aí quando nos damos conta ao irmos colocar aquela calça jeans que adoramos , ela não entra, está _garroteando_ a cintura , mas compramos outra mais larguinha, uma batinha para disfarçar, até o momento que caímos na real e nos enxergamos no espelho, mas não a nós  mesmas que conhecemos, e sim uma desconhecida.
+  Já na frente de uma televisão, com um bom filme, ou no computador quando estamos teclando com alguém, vamos engolindo a comida sem nem mastigarmos …aí quando nos damos conta ao irmos colocar aquela calça jeans que adoramos , ela não entra, está <em>garroteando</em> a cintura , mas compramos outra mais larguinha, uma batinha para disfarçar, até o momento que caímos na real e nos enxergamos no espelho, mas não a nós  mesmas que conhecemos, e sim uma desconhecida.
 </p>
 
 <p style="text-align: justify;">
-  Nesse desespero de não sabermos em que nos transformamos, saímos correndo para comprar uma revista na banca, essas de dietas, e devoramos as “novidades” em busca de um remédio milagroso, um _shake_ ou algum chá poderoso que poderá colocar um fim nessa situação.
+  Nesse desespero de não sabermos em que nos transformamos, saímos correndo para comprar uma revista na banca, essas de dietas, e devoramos as “novidades” em busca de um remédio milagroso, um <em>shake</em> ou algum chá poderoso que poderá colocar um fim nessa situação.
 </p>
 
 <p style="text-align: center;">
@@ -36,7 +36,7 @@ Vivemos uma realidade massacrante, as horas escorrem entre os dedos numa rapidez
 </p>
 
 <p style="text-align: justify;">
-  Então a amiga a chama para sair e como não tem roupa que não fica bem, não sai, se acostuma a ficar dentro de casa curtindo a solidão. Aparece uma oportunidade de ir para a praia, mas temos vergonha de tirar a roupa, e assim vamos deixando nossa vida em _stand by_, não vivemos mais, vegetamos.
+  Então a amiga a chama para sair e como não tem roupa que não fica bem, não sai, se acostuma a ficar dentro de casa curtindo a solidão. Aparece uma oportunidade de ir para a praia, mas temos vergonha de tirar a roupa, e assim vamos deixando nossa vida em <em>stand by</em>, não vivemos mais, vegetamos.
 </p>
 
 <p style="text-align: justify;">
@@ -47,18 +47,18 @@ Vivemos uma realidade massacrante, as horas escorrem entre os dedos numa rapidez
   Lembre-se que qualquer mudança na sua vida depende somente do seu desejo, de suas ações. Um corpo magro não acontece de uma hora para outra, tem que propiciar mudanças, e isso exige paciência e comprometimento.
 </p>
 
-Imagem: [stock.xchng](http://www.sxc.hu/) 
+Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Pela Psicóloga **_<a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a>_** via **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a>_**
+      Pela Psicóloga <strong><em><a href="http://www.trololodemulher.com.br/category/colaboradores/luciana-kotaka/">Luciana Kotaka</a></em></strong> via <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">Conteúdo Colaborativo</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      [Comportamento Magro](http://lucianakotaka.com.br/) 
+      <a href="http://lucianakotaka.com.br/" target="_blank">Comportamento Magro</a>
     </td>
   </tr>
 </table>
@@ -76,29 +76,29 @@ Imagem: [stock.xchng](http://www.sxc.hu/)
 **_[O peso ideal é aquele que se sente bem…](http://www.trololodemulher.com.br/2010/03/01/emagrecimento-saudavel/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/">**_Comportamento_**</a>> Todo dia ela faz tudo sempre igual…
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/da-mente/comportamento/"><strong><em>Comportamento</em></strong></a>> Todo dia ela faz tudo sempre igual…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>
 
 <div>
-  **_ _**
+  <strong><em> </em></strong>
 </div>
 
 <div>
-  **_ _**
+  <strong><em> </em></strong>
 </div>
 
 <div>
-  **_ _**
+  <strong><em> </em></strong>
 </div>
 
 **_ </p> 
 
-_**
+</em></strong>

@@ -1,8 +1,8 @@
 ---
-
+id: 3244
 title: Casa é diferente de lar, certo?
-
-author: Lidiane
+date: 2013-08-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/08/07/casa-lar-decoracao/
 permalink: /2013/08/07/casa-lar-decoracao/
@@ -35,25 +35,25 @@ Se você concorda comigo, de que casa é bem diferente de lar, sabe que a casa �
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">…coloco as coisas que uso à mostra e elevo todas ao status de obra de arte interativas&#8230;</span>**
+  <strong><span style="font-size: large;">…coloco as coisas que uso à mostra e elevo todas ao status de obra de arte interativas&#8230;</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Aceito uma certa quantidade de bagunça e imperfeição (a xícara preferida lascada, o tapete meio torto porque a minha cachorrinha puxou ele com as patinhas, um vaso de flor com a pazinha dentro porque não deu pra terminar de plantar as flores e vou continuar amanhã, duas meias do meu amor jogadas num cantinho do quarto&#8230;). Aceito que a casa é do casal e tentamos achar coisas que agradem ao casal e não só a mim. Tem umas coisas que eu não escolheria mas que têm sentido quando penso que esse é um lugar onde se vive a dois&#8230;Espalho cores. Colorido para mim é sinônimo de vida. Coloco as coisas que uso à mostra e elevo todas ao status de obra de arte interativas&#8230; meus livros, as cumbucas que usamos para tomar sopa, minha bicicleta&#8230; tudo isso pode ficar à mostra e a casa fica com a cara da gente; odeio casa com jeito de show room! Plantas. A minha casa tem plantas, folhagens, flores, suculentas, vasos&#8230;. E quando é inverno ficam só as folhas verdes e quando é primavera a gente vê as flores se abrindo. E as plantas nos ajudam a perceber que a casa é viva, o tempo passa e há fases para tudo na vida. As coisas (objetos, móveis, roupas de cama, etc.) têm que ser bonitas e práticas para que a gente possa usar sem ter que ficar ajeitando demais ou morrendo de medo de quebrar alguma coisa. O último e mais importante: pessoas que se amem, amigos, familiares, bichos&#8230; a casa só se torna lar se nela existe vida e se as pessoas usufruem desse espaço. “ **Marina | **[**Um Ano Sem Compras**](http://umanosemcompras.blogspot.com.br/) 
+>   Aceito uma certa quantidade de bagunça e imperfeição (a xícara preferida lascada, o tapete meio torto porque a minha cachorrinha puxou ele com as patinhas, um vaso de flor com a pazinha dentro porque não deu pra terminar de plantar as flores e vou continuar amanhã, duas meias do meu amor jogadas num cantinho do quarto&#8230;). Aceito que a casa é do casal e tentamos achar coisas que agradem ao casal e não só a mim. Tem umas coisas que eu não escolheria mas que têm sentido quando penso que esse é um lugar onde se vive a dois&#8230;Espalho cores. Colorido para mim é sinônimo de vida. Coloco as coisas que uso à mostra e elevo todas ao status de obra de arte interativas&#8230; meus livros, as cumbucas que usamos para tomar sopa, minha bicicleta&#8230; tudo isso pode ficar à mostra e a casa fica com a cara da gente; odeio casa com jeito de show room! Plantas. A minha casa tem plantas, folhagens, flores, suculentas, vasos&#8230;. E quando é inverno ficam só as folhas verdes e quando é primavera a gente vê as flores se abrindo. E as plantas nos ajudam a perceber que a casa é viva, o tempo passa e há fases para tudo na vida. As coisas (objetos, móveis, roupas de cama, etc.) têm que ser bonitas e práticas para que a gente possa usar sem ter que ficar ajeitando demais ou morrendo de medo de quebrar alguma coisa. O último e mais importante: pessoas que se amem, amigos, familiares, bichos&#8230; a casa só se torna lar se nela existe vida e se as pessoas usufruem desse espaço. “ <strong>Marina | </strong><a href="http://umanosemcompras.blogspot.com.br/" target="_blank"><strong>Um Ano Sem Compras</strong></a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">…rezamos sempre que podemos, recebemos os amigos com muita alegria e sastifação…</span>**
+  <strong><span style="font-size: large;">…rezamos sempre que podemos, recebemos os amigos com muita alegria e sastifação…</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Minha casa vive cheia de netas (05): minhas Marias. Já estamos até denominadas &#8220;As Marias da Kathia&#8221;. Vivo fazendo comidinhas gostosas e temáticas, festas de Páscoa com coelhos em todos os lugares, Natal com Papai Noel até no papel higiênico! Levo todas as Marias para ajudar na cozinha e isso as torna grandes conhecedoras dos quitutes apesar da pouca idade. Rezamos sempre que podemos, recebemos os amigos com muita alegria e sastifação, e principalmente nos respeitamos apesar de em algumas vezes ter uma discussão, afinal somos família e numa normal isso sempre acontece.” **Kathia Maria Medeiros**
+>   Minha casa vive cheia de netas (05): minhas Marias. Já estamos até denominadas &#8220;As Marias da Kathia&#8221;. Vivo fazendo comidinhas gostosas e temáticas, festas de Páscoa com coelhos em todos os lugares, Natal com Papai Noel até no papel higiênico! Levo todas as Marias para ajudar na cozinha e isso as torna grandes conhecedoras dos quitutes apesar da pouca idade. Rezamos sempre que podemos, recebemos os amigos com muita alegria e sastifação, e principalmente nos respeitamos apesar de em algumas vezes ter uma discussão, afinal somos família e numa normal isso sempre acontece.” <strong>Kathia Maria Medeiros</strong>
 > </p>
 
 &nbsp;
@@ -65,37 +65,37 @@ Se você concorda comigo, de que casa é bem diferente de lar, sabe que a casa �
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">…um lar é uma casacom vida…</span>**
+  <strong><span style="font-size: large;">…um lar é uma casacom vida…</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Um lar precisa necessariamente ter aconchego e personalidade, não importa se os móveis são novos, antigos ou herdados, mas tem que trazer uma sensação boa, objetos que imprimem a personalidade de quem mora ali fazem a grande diferença. Acho importante também ter cor, plantas verdes e flores, além de animal de estimação para quem gosta. Uma casa pode simplesmente ser onde a pessoa mora, mas um lar tem que ser onde a pessoa vive e se identifica.  Um lar é uma casa com vida.” **Carol | **[**Madame Morgana**](http://madamemorgana.blogspot.com.br/) 
+>   Um lar precisa necessariamente ter aconchego e personalidade, não importa se os móveis são novos, antigos ou herdados, mas tem que trazer uma sensação boa, objetos que imprimem a personalidade de quem mora ali fazem a grande diferença. Acho importante também ter cor, plantas verdes e flores, além de animal de estimação para quem gosta. Uma casa pode simplesmente ser onde a pessoa mora, mas um lar tem que ser onde a pessoa vive e se identifica.  Um lar é uma casa com vida.” <strong>Carol | </strong><a href="http://madamemorgana.blogspot.com.br/" target="_blank"><strong>Madame Morgana</strong></a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">…lar tem significado pra família que nela mora…</span>**
+  <strong><span style="font-size: large;">…lar tem significado pra família que nela mora…</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Casa nos abriga do tempo. Lar tem significado pra família que nela mora. Transformar uma casa em um lar é fácil, entre tantas coisas precisa ter amor, ser cheirosa, bonita aos olhos, ao toque e ao coração.” **Lucimara Melo**
+>   Casa nos abriga do tempo. Lar tem significado pra família que nela mora. Transformar uma casa em um lar é fácil, entre tantas coisas precisa ter amor, ser cheirosa, bonita aos olhos, ao toque e ao coração.” <strong>Lucimara Melo</strong>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">…nem toda casa é um lar, você pode ter uma casa linda e ela não ter vida, não ter calor, não ter história…</span>**
+  <strong><span style="font-size: large;">…nem toda casa é um lar, você pode ter uma casa linda e ela não ter vida, não ter calor, não ter história…</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   Isso dá assunto mesmo! Simplificando, acho que casa é o bem físico e lar é o calor, o aconchego. Nem toda casa é um lar, você pode ter uma casa linda e ela não ter vida, não ter calor, não ter história. Um lar não é só alegrias, é tudo que envolve a vida: tristeza, decepções, alegrias, festas etc. Num lar as pessoas passam por tudo e continuam ali unidas. lar é energia boa. Já a casa nem sempre tem essa energia, apenas está lá.” **Renata Schmidt | **[**Palpitando em Tudo**](http://www.palpitandoemtudo.blogspot.com.br/) 
+>   Isso dá assunto mesmo! Simplificando, acho que casa é o bem físico e lar é o calor, o aconchego. Nem toda casa é um lar, você pode ter uma casa linda e ela não ter vida, não ter calor, não ter história. Um lar não é só alegrias, é tudo que envolve a vida: tristeza, decepções, alegrias, festas etc. Num lar as pessoas passam por tudo e continuam ali unidas. lar é energia boa. Já a casa nem sempre tem essa energia, apenas está lá.” <strong>Renata Schmidt | </strong><a href="http://www.palpitandoemtudo.blogspot.com.br/" target="_blank"><strong>Palpitando em Tudo</strong></a>
 > </p>
 
 <p align="center">
@@ -104,28 +104,28 @@ Se você concorda comigo, de que casa é bem diferente de lar, sabe que a casa �
 
 &nbsp;
 
-Imagens: **_[stock.xchng](http://www.sxc.hu/) _**
+Imagens: **_<a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>_**
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Para deixar <span style="font-size: x-large;">sua casa ainda mais bonita</span>, </span>**<a href="http://www.trololodemulher.com.br/category/decoracao/">**<span style="font-size: x-large;">clique aqui</span>**</a>**<span style="font-size: large;"> e se joga!</span>**
+  <strong><span style="font-size: large;">Para deixar <span style="font-size: x-large;">sua casa ainda mais bonita</span>, </span></strong><a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><span style="font-size: x-large;">clique aqui</span></strong></a><strong><span style="font-size: large;"> e se joga!</span></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: x-large;"> </span>**
+  <strong><span style="font-size: x-large;"> </span></strong>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -134,13 +134,13 @@ Imagens: **_[stock.xchng](http://www.sxc.hu/) _**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -149,9 +149,9 @@ Imagens: **_[stock.xchng](http://www.sxc.hu/) _**
 &nbsp;
 
 <p align="center">
-  **Vamos manter contato?**
+  <strong>Vamos manter contato?</strong>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>

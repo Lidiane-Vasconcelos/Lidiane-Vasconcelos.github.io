@@ -1,8 +1,8 @@
 ---
-
+id: 3434
 title: Tofu ao forno… com toques especiais!
-
-author: Lidiane
+date: 2015-06-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/06/17/tofu-ao-forno/
 permalink: /2015/06/17/tofu-ao-forno/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Confesso: eu torço o nariz para o tofu. Já tentei encará-lo, e não foi fácil. Até mesmo a Carol, fã incondicional de uma alimentação saudável, não conseguiu. É ela mesma quem revela: _“Afff, eu já tentei comer tofu puro, mas é intragável! Sei o quanto faz bem a saúde e é uma ótima substituição para a carne. Então, vamos fazer o tofu de forma gostosa?? Esse eu comi e ameeei!_”. Pois é: ela tentou um jeito diferente de preparar o tofu, de modo que ficasse gostoso e pudéssemos comê-lo com prazer, já que seus benefícios para a saúde são inquestionáveis. Mas é muito melhor quando a gente une o útil ao agradável, não é? Então espia como a Carol preparou essa comidinha do bem, e repita a dica em seus domínios. Vem!
+  Confesso: eu torço o nariz para o tofu. Já tentei encará-lo, e não foi fácil. Até mesmo a Carol, fã incondicional de uma alimentação saudável, não conseguiu. É ela mesma quem revela: <em>“Afff, eu já tentei comer tofu puro, mas é intragável! Sei o quanto faz bem a saúde e é uma ótima substituição para a carne. Então, vamos fazer o tofu de forma gostosa?? Esse eu comi e ameeei!</em>”. Pois é: ela tentou um jeito diferente de preparar o tofu, de modo que ficasse gostoso e pudéssemos comê-lo com prazer, já que seus benefícios para a saúde são inquestionáveis. Mas é muito melhor quando a gente une o útil ao agradável, não é? Então espia como a Carol preparou essa comidinha do bem, e repita a dica em seus domínios. Vem!
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -54,11 +54,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 > <p align="justify">
->   **_“Coloquei o tofu em uma vasilha que poderia ir ao forno. Depois reguei com azeite, coloquei os tomatinhos picadinhos ao lado, salpiquei sal, pimenta moída na hora, manjericão e orégano. Cobri com papel alumínio, levei ao forno em 180 graus, até que o tofu ficasse bem aquecido.Servi com arroz e salada. Ficou bom demais!!!”_**
+>   <strong><em>“Coloquei o tofu em uma vasilha que poderia ir ao forno. Depois reguei com azeite, coloquei os tomatinhos picadinhos ao lado, salpiquei sal, pimenta moída na hora, manjericão e orégano. Cobri com papel alumínio, levei ao forno em 180 graus, até que o tofu ficasse bem aquecido.Servi com arroz e salada. Ficou bom demais!!!”</em></strong>
 > </p>
 
 <p align="center">
@@ -66,27 +66,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Creme de aspargos: receita que conforta nos dias frios.**](http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/) 
+  <a href="http://www.trololodemulher.com.br/2015/06/03/creme-aspargos-receita/" target="_blank"><strong>Creme de aspargos: receita que conforta nos dias frios.</strong></a>
 </p>
 
 <p align="justify">
-  [**Bolo prestígio saudável.**](http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/) 
+  <a href="http://www.trololodemulher.com.br/2015/05/20/bolo-prestigio-saudavel/" target="_blank"><strong>Bolo prestígio saudável.</strong></a>
 </p>
 
 <p align="justify">
-  [**Salmão ao molho de manga.**](http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/) 
+  <a href="http://www.trololodemulher.com.br/2015/05/06/salmao-molho-manga/" target="_blank"><strong>Salmão ao molho de manga.</strong></a>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

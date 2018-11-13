@@ -1,8 +1,8 @@
 ---
-
+id: 2794
 title: 'Sorteio Bicha Fêmea &#038; Organização Com Estilo by Espaço Home'
-
-author: Lidiane
+date: 2010-03-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/03/22/sorteio-bicha-femea-organizacao-com-estilo-by-espaco-home/
 permalink: /2010/03/22/sorteio-bicha-femea-organizacao-com-estilo-by-espaco-home/
@@ -12,7 +12,7 @@ categories:
 ---
 Eu bem que avisei, _hein_? Quem está atualizada quanto ao que acontece no Bicha Fêmea vai ter a chance de participar de mais este sorteio.
 
-Desta vez a _superultramega_ parceria é com a Simone, que comanda o blog **_[Organização Com Estilo](http://www.newsespacohome.blogspot.com/) _**, que é uma extensão da [Espaço Home](http://www.espacohome.com.br/) , onde há de tudo que está relacionado a organização.
+Desta vez a _superultramega_ parceria é com a Simone, que comanda o blog **_<a href="http://www.newsespacohome.blogspot.com/" target="_blank">Organização Com Estilo</a>_**, que é uma extensão da <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>, onde há de tudo que está relacionado a organização.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ E sabe o melhor de tudo? A sortuda que ganhar o organizador vai poder escolher e
 
 Com um organizador desses cada objeto que você costuma levar será facilmente encontrado, hã? Carteira, celular, chaves, documentos, caneta, _nécessaire_, enfim. Quando for trocar de bolsa, basta apenas transferir o organizador de uma para outra. Quer coisa mais prática?
 
-Aliás, praticidade, organização e estilo são as palavras de ordem na [Espaço Home](http://www.espacohome.com.br/) . Se ter tudo organizado com elegância e beleza é algo que te atrai, creio que você vai gostar de conhecer esse espaço virtual, hein?!
+Aliás, praticidade, organização e estilo são as palavras de ordem na <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a>. Se ter tudo organizado com elegância e beleza é algo que te atrai, creio que você vai gostar de conhecer esse espaço virtual, hein?!
 
 <table align="center">
   <tr>
@@ -58,4 +58,4 @@ Atenção ás regras:
 
 7 – No dia da divulgação do nome da sortuda será enviado o e-mail onde será questionado o endereço de entrega do prêmio, a fim de que a Simone possa enviar a prenda. Caso não haja resposta em uma semana, o prêmio será sorteado novamente entre as participantes já inscritas.
 
-Agora é se inscrever, cruzar os dedos e acreditar que esse organizador de bolsa da [Espaço Home](http://www.espacohome.com.br/)  pode ser seu. Corre, bonita!!!!
+Agora é se inscrever, cruzar os dedos e acreditar que esse organizador de bolsa da <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a> pode ser seu. Corre, bonita!!!!

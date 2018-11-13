@@ -1,8 +1,8 @@
 ---
-
+id: 2823
 title: Alimentos Gordurosos Versus Escolhas Saudáveis
-
-author: Lidiane
+date: 2010-05-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/05/28/escolha-alimentos-saudaveis/
 permalink: /2010/05/28/escolha-alimentos-saudaveis/
@@ -10,7 +10,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **Alimentos Gordurosos _Versus_ Escolhas Saudáveis**
+  <strong>Alimentos Gordurosos <em>Versus</em> Escolhas Saudáveis</strong>
 </p>
 
 Quem já não sentiu na pele as tentações das comidas gordas, recheadas de gordura e sabor?
@@ -35,13 +35,13 @@ O quanto pensar e se comportar de forma gorda também deixa engordurado seu corp
 
 Fica aí uma questão!
 
-**_[Luciana Kotaka](http://blog.comportamentomagro.com.br/) _**
+**_<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka</a>_**
 
 Psicóloga Clínica – Curitiba
 
 Especialista em Obesidade e Transtornos Alimentares
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 **Quer ler mais textos no Bicha Fêmea com dicas e estímulos para uma vida mais saudável?**
 

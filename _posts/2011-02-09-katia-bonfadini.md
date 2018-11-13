@@ -1,8 +1,8 @@
 ---
-
+id: 2946
 title: 'Prateleira do Bicha Fêmea: Katia Bonfadini'
-
-author: Lidiane
+date: 2011-02-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/02/09/katia-bonfadini/
 permalink: /2011/02/09/katia-bonfadini/
@@ -12,53 +12,53 @@ categories:
 Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com coisas bonitas, diferentes e recheadas de talentos, mas em sua maioria ligada a artesanato, não é verdade? Sim, poucas foram as vezes que os produtos divulgados nesse espaço não tivessem um pé dentro do universo artesanal.
 
 <p style="text-align: justify;">
-  Prepare-se! Hoje a **Prateleira do Bicha Fêmea** apresenta algo bem diferente, é a arte da **Katia Bonfadini**, que é _designer_ e ilustradora, cujo talento é inquestionável quando se aprecia o que essa bonita é capaz de fazer. Confira!
+  Prepare-se! Hoje a <strong>Prateleira do Bicha Fêmea</strong> apresenta algo bem diferente, é a arte da <strong>Katia Bonfadini</strong>, que é <em>designer</em> e ilustradora, cujo talento é inquestionável quando se aprecia o que essa bonita é capaz de fazer. Confira!
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  **Katia Bonfadini** é formada em Desenho Industrial com Habilitação em Programação Visual desde 2000, e atualmente atua como _free-lancer_ desenvolvendo projetos os mais diversos possíveis, criando imagens gostosas de se ver e exclusivas, que podem ser apreciadas das mais diversas formas: em logomarcas, nos cartões de visitas, impressas em convites, ilustrando _folders_, e até enfeitando blogs.
+  <strong>Katia Bonfadini</strong> é formada em Desenho Industrial com Habilitação em Programação Visual desde 2000, e atualmente atua como <em>free-lancer</em> desenvolvendo projetos os mais diversos possíveis, criando imagens gostosas de se ver e exclusivas, que podem ser apreciadas das mais diversas formas: em logomarcas, nos cartões de visitas, impressas em convites, ilustrando <em>folders</em>, e até enfeitando blogs.
 </p>
 
 <p style="text-align: justify;">
-  Ou seja, você que está lendo esse post agora pode se dar ao luxo de ter sua empresa, seu casamento, sua comemoração ou seu blog com um visual ‘_pra_ lá de especial, se as mãos e mente inventivas de **Katia Bonfadini**, a moça bonita que também edita o [Casos e Coisas da Bonfa](http://casosecoisasdabonfa.blogspot.com/) , tocarem o seu projeto.
+  Ou seja, você que está lendo esse post agora pode se dar ao luxo de ter sua empresa, seu casamento, sua comemoração ou seu blog com um visual ‘<em>pra</em> lá de especial, se as mãos e mente inventivas de <strong>Katia Bonfadini</strong>, a moça bonita que também edita o <a href="http://casosecoisasdabonfa.blogspot.com/" target="_blank">Casos e Coisas da Bonfa</a>, tocarem o seu projeto.
 </p>
 
 <p style="text-align: justify;">
-  Sabe de uma coisa? Não foram poucas as pessoas que já se deliciaram ao ver seus sonhos ganharem charme e _bossa_ através da intervenção de uma linguagem visual exclusiva. Olha só:
+  Sabe de uma coisa? Não foram poucas as pessoas que já se deliciaram ao ver seus sonhos ganharem charme e <em>bossa</em> através da intervenção de uma linguagem visual exclusiva. Olha só:
 </p>
 
 <p style="text-align: center;">
-  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/blog-feito-a-mao.png"><img class="alignnone size-full wp-image-5854" title="blog feito a mão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/blog-feito-a-mao.png" alt="" width="549" height="386" /></a>_
+  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/blog-feito-a-mao.png"><img class="alignnone size-full wp-image-5854" title="blog feito a mão" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/blog-feito-a-mao.png" alt="" width="549" height="386" /></a></em>
 </p>
 
 <p style="text-align: center;">
-  _Ilustração exclusiva para o blog _[_Feito a Mão_](http://claudinha-feitoamo.blogspot.com/) _._
+  <em>Ilustração exclusiva para o blog </em><a href="http://claudinha-feitoamo.blogspot.com/" target="_blank"><em>Feito a Mão</em></a><em>.</em>
 </p>
 
 <p style="text-align: center;">
-  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/identidade-visual-para-marcas.jpg"><img class="alignnone size-full wp-image-5855" title="identidade visual para marcas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/identidade-visual-para-marcas.jpg" alt="" width="420" height="338" /></a>_
+  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/identidade-visual-para-marcas.jpg"><img class="alignnone size-full wp-image-5855" title="identidade visual para marcas" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/identidade-visual-para-marcas.jpg" alt="" width="420" height="338" /></a></em>
 </p>
 
 <p style="text-align: center;">
-  _Identidade visual para a marca canadense Câlin En Vrac._
+  <em>Identidade visual para a marca canadense Câlin En Vrac.</em>
 </p>
 
 <p style="text-align: center;">
-  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-casamento-convite-2.png"><img class="alignnone size-full wp-image-5856" title="ilustração casamento convite (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-casamento-convite-2.png" alt="" width="360" height="587" /></a>_
+  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-casamento-convite-2.png"><img class="alignnone size-full wp-image-5856" title="ilustração casamento convite (2)" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-casamento-convite-2.png" alt="" width="360" height="587" /></a></em>
 </p>
 
 <p style="text-align: center;">
-  _Ilustração para casal de noivos + criação de convite e tags para lembrancinhas._
+  <em>Ilustração para casal de noivos + criação de convite e tags para lembrancinhas.</em>
 </p>
 
 <p style="text-align: center;">
-  _<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-para-varias-aplicacoes.png"><img class="alignnone size-full wp-image-5857" title="ilustração para várias aplicações" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-para-varias-aplicacoes.png" alt="" width="500" height="517" /></a>_
+  <em><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-para-varias-aplicacoes.png"><img class="alignnone size-full wp-image-5857" title="ilustração para várias aplicações" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/ilustracao-para-varias-aplicacoes.png" alt="" width="500" height="517" /></a></em>
 </p>
 
 <p style="text-align: center;">
-  _Criação de ilustração + padronagem para diversas aplicações._
+  <em>Criação de ilustração + padronagem para diversas aplicações.</em>
 </p>
 
 <p style="text-align: justify;">
@@ -98,7 +98,7 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
     </td>
     
     <td style="text-align: justify;" width="541" valign="top">
-      Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_[Assine. É grátis!](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) _**
+      Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">Assine. É grátis!</a></em></strong>
     </td>
   </tr>
   
@@ -108,7 +108,7 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_[@bichafemea](http://twitter.com/bichafemea) _**
+      Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></em></strong>
     </td>
   </tr>
   
@@ -118,17 +118,17 @@ Você que já viu outras **Prateleiras do Bicha Fêmea** está acostumada com co
     </td>
     
     <td style="text-align: right;" width="541" valign="top">
-      Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_[Adicione!](http://www.orkut.com.br/Main#Profile?uid=5161612886294499900) _**
+      Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900" target="_blank">Adicione!</a></em></strong>
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  **_ _**
+  <strong><em> </em></strong>
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>
 
 <p style="text-align: center;">

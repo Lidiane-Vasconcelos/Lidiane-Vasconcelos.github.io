@@ -1,8 +1,8 @@
 ---
-
+id: 2915
 title: 'De bicha fêmea para bicha fêmea: Omo Líquido Super Concentrado'
-
-author: Lidiane
+date: 2010-11-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/11/22/omo-liquido-super-concentrad/
 permalink: /2010/11/22/omo-liquido-super-concentrad/
@@ -22,7 +22,7 @@ Você já experimentou o novo sabão Omo Líquido Super Concentrado? Eu, sim. F
 </p>
 
 <p style="text-align: justify;">
-  Confiei na palavra da Super Nice… _ops_, você já conhece a Nice?
+  Confiei na palavra da Super Nice… <em>ops</em>, você já conhece a Nice?
 </p>
 
 <p style="text-align: justify;">
@@ -34,11 +34,11 @@ Você já experimentou o novo sabão Omo Líquido Super Concentrado? Eu, sim. F
 </p>
 
 <p style="text-align: justify;">
-  Justamente porque o OMO Líquido Super Concentrado age dessa forma também (menos produto = menos embalagem), a Super Nice _superultramega_ recomenda, e eu aceitei o desafio de lavar o montante de roupas habitual com uma quantidade bem menor do que a que estou acostumada. Sem dúvidas, é uma mudança de hábito!
+  Justamente porque o OMO Líquido Super Concentrado age dessa forma também (menos produto = menos embalagem), a Super Nice <em>superultramega</em> recomenda, e eu aceitei o desafio de lavar o montante de roupas habitual com uma quantidade bem menor do que a que estou acostumada. Sem dúvidas, é uma mudança de hábito!
 </p>
 
 <p style="text-align: justify;">
-  A personagem é ligada na internet como a gente, e também tem um blog, especialmente desenvolvido para interagir com as consumidoras de Omo, dando dicas a elas e tirando dúvidas por meio de um _talk show_ chamado “Nice Responde”. O blog pode ser acessado pelo endereço http://www.omo.com.br/supernice.
+  A personagem é ligada na internet como a gente, e também tem um blog, especialmente desenvolvido para interagir com as consumidoras de Omo, dando dicas a elas e tirando dúvidas por meio de um <em>talk show</em> chamado “Nice Responde”. O blog pode ser acessado pelo endereço http://www.omo.com.br/supernice.
 </p>
 
 <p style="text-align: justify;">

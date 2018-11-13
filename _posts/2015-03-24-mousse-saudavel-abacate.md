@@ -1,8 +1,8 @@
 ---
-
+id: 3413
 title: Mousse de Abacate e Cacau em Pó
-
-author: Lidiane
+date: 2015-03-24T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/03/24/mousse-saudavel-abacate/
 permalink: /2015/03/24/mousse-saudavel-abacate/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Sabe quando bate aquela vontade de comer doce? Quem nunca? Pessoalmente, não vivo de amores pelos doces. Passo muito bem sem eles, mas isso não quer dizer que eles não tenham espaço garantido aqui em casa, sabe? É que marido é meio formiguinha, e é sempre bom ter um docinho pra ele por aqui. Aí, neste caso, dou minhas beliscadinhas _docísticas_ também, _né_?
+  Sabe quando bate aquela vontade de comer doce? Quem nunca? Pessoalmente, não vivo de amores pelos doces. Passo muito bem sem eles, mas isso não quer dizer que eles não tenham espaço garantido aqui em casa, sabe? É que marido é meio formiguinha, e é sempre bom ter um docinho pra ele por aqui. Aí, neste caso, dou minhas beliscadinhas <em>docísticas</em> também, <em>né</em>?
 </p>
 
 <p align="justify">
@@ -57,20 +57,20 @@ Mel para adoçar.
 
 **Mais receitas da Carol:**
 
-[**Receita mais fácil não existe: tabule de quinoa**](http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/) 
+<a href="http://www.trololodemulher.com.br/2015/03/10/tabule-de-quinoa/" target="_blank"><strong>Receita mais fácil não existe: tabule de quinoa</strong></a>
 
-[**Receita molezinha e gostosa: torta de abóbora + frango**](http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/) 
+<a href="http://www.trololodemulher.com.br/2014/11/05/receita-torta-abobora-frango/" target="_blank"><strong>Receita molezinha e gostosa: torta de abóbora + frango</strong></a>
 
-[**Bolinho de inhame assado com bacalhau**](http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/) 
+<a href="http://www.trololodemulher.com.br/2014/11/19/inhame-assado-bacalhau/" target="_blank"><strong>Bolinho de inhame assado com bacalhau</strong></a>
 
 &nbsp;
 
-Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

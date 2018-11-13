@@ -1,22 +1,22 @@
 ---
-
+id: 2631
 title: Banheiros, banheiros e mais banheiros!!!!
-
-author: Lidiane
+date: 2009-03-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/03/02/banheiros/
 permalink: /2009/03/02/banheiros/
 categories:
   - Banheiro
 ---
-Uma das áreas da casa que merece muito de nosso empenho quanto a decoração é o banheiro. Quando a gente sai da cama, é para onde vamos de cara, certo? Certamente você pensa como eu, e muitas outras bichas fêmeas navegantes também. Inclusive, muitas delas já deram** __**<a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self">**_dicas de como deixar o banheiro muito mais bonito_**</a>. Vale a pena conferir!
+Uma das áreas da casa que merece muito de nosso empenho quanto a decoração é o banheiro. Quando a gente sai da cama, é para onde vamos de cara, certo? Certamente você pensa como eu, e muitas outras bichas fêmeas navegantes também. Inclusive, muitas delas já deram** __**<a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/" target="_self"><strong><em>dicas de como deixar o banheiro muito mais bonito</em></strong></a>. Vale a pena conferir!
 
 <p style="text-align: justify;">
-  E quanto a banheiros pequenos, quem não os tem? A propósito, se quiser você pode dar uma olhada nestas <a href="http://www.trololodemulher.com.br/2009/06/30/dicas-e-imagens-como-maximizar-o-banheiro/" target="_self">**_dicas para maximizar o seu banheiro_**</a>, porque elas funcionam e eu asseguro, pois já coloquei em prática por aqui&#8230;
+  E quanto a banheiros pequenos, quem não os tem? A propósito, se quiser você pode dar uma olhada nestas <a href="http://www.trololodemulher.com.br/2009/06/30/dicas-e-imagens-como-maximizar-o-banheiro/" target="_self"><strong><em>dicas para maximizar o seu banheiro</em></strong></a>, porque elas funcionam e eu asseguro, pois já coloquei em prática por aqui&#8230;
 </p>
 
 <p style="text-align: justify;">
-  Armários para banheiros também já foram objeto de pesquisa no Bicha Fêmea. Claro! Por isso mesmo, há um post publicado com uma seleção de imagens, e comentários, de <a href="http://www.trololodemulher.com.br/2010/01/06/pitacos-de-bicha-femea-armarios-para-banheiro/" target="_self">**_armários para banheiro, bonitos e práticos, para inspiração_**</a>**_._** 
+  Armários para banheiros também já foram objeto de pesquisa no Bicha Fêmea. Claro! Por isso mesmo, há um post publicado com uma seleção de imagens, e comentários, de <a href="http://www.trololodemulher.com.br/2010/01/06/pitacos-de-bicha-femea-armarios-para-banheiro/" target="_self"><strong><em>armários para banheiro, bonitos e práticos, para inspiração</em></strong></a><strong><em>.</em></strong> 
 </p>
 
 <p style="text-align: justify;">
@@ -24,7 +24,7 @@ Uma das áreas da casa que merece muito de nosso empenho quanto a decoração 
 </p>
 
 <p style="text-align: justify;">
-  _Bora_ ver juntas?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image0016.gif"><img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image0016-thumb.gif" alt="clip_image001[6]" width="18" height="18" /></a>
+  <em>Bora</em> ver juntas?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image0016.gif"><img style="display: inline;" title="clip_image001[6]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/03/clip-image0016-thumb.gif" alt="clip_image001[6]" width="18" height="18" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -49,7 +49,7 @@ Uma das áreas da casa que merece muito de nosso empenho quanto a decoração 
   </p>
   
   <p style="text-align: justify;">
-    Este quadro cenário está a venda no **_Mercado de Artes_**, a loja virtual do Bicha Fêmea. Já imaginou como ficaria o seu banheiro ou lavabo com um recurso decorativo como esse quadro? Tudo a ver, não é? Para mais detalhes, **_[basta clicar aqui](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/) _**.
+    Este quadro cenário está a venda no <strong><em>Mercado de Artes</em></strong>, a loja virtual do Bicha Fêmea. Já imaginou como ficaria o seu banheiro ou lavabo com um recurso decorativo como esse quadro? Tudo a ver, não é? Para mais detalhes, <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-banheiro/" target="_blank">basta clicar aqui</a></em></strong>.
   </p>
   
   <p style="text-align: center;">
@@ -72,29 +72,29 @@ Uma das áreas da casa que merece muito de nosso empenho quanto a decoração 
         </p>
         
         <p style="text-align: center;">
-          **_Sugestões de Decoração & Organização para seu Banheiro_**
+          <strong><em>Sugestões de Decoração & Organização para seu Banheiro</em></strong>
         </p>
         
         <table border="0" cellspacing="0" cellpadding="0" width="600">
           <tr>
             <td width="300" valign="top">
               <div style="text-align: center;">
-                _[**Porta Absorvente Verde Espelhado**](http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-verde-espelhado/) _
+                <em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-verde-espelhado/" target="_blank"><strong>Porta Absorvente Verde Espelhado</strong></a></em>
               </div>
               
               <div>
-                __
+                <em></em>
               </div>
               
               <p>
-                _</p> 
+                <em></p> 
                 
                 <p style="text-align: justify;">
                   Organize seu banheiro com charme, estilo e feminilidade, dando um toque artesanal. Seus absorventes podem ficar organizados sobre o balcão, ao passo que a peça ainda pode decorar o ambiente.
                 </p>
                 
                 <p style="text-align: justify;">
-                  O porta absorvente _está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>!_
+                  O porta absorvente <em>está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>!</em>
                 </p>
                 
                 <p>
@@ -102,7 +102,7 @@ Uma das áreas da casa que merece muito de nosso empenho quanto a decoração 
                 </p>
                 
                 <p>
-                  _</td> 
+                  </em></td> 
                   
                   <td width="300" valign="top">
                      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Verde-Espelhado200.jpg"></p> 
@@ -135,42 +135,42 @@ Uma das áreas da casa que merece muito de nosso empenho quanto a decoração 
                             
                             <td width="300" valign="top">
                               <p style="text-align: center;">
-                                **_[Porta Absorvente Cereja Florida](http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/) _**
+                                <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/" target="_blank">Porta Absorvente Cereja Florida</a></em></strong>
                               </p>
                               
                               <div style="text-align: justify;">
-                                _Organize seu banheiro com charme, estilo e feminilidade, dando um toque artesanal. Seus absorventes podem ficar organizados sobre o balcão, ao passo que a peça ainda pode decorar o ambiente._
+                                <em>Organize seu banheiro com charme, estilo e feminilidade, dando um toque artesanal. Seus absorventes podem ficar organizados sobre o balcão, ao passo que a peça ainda pode decorar o ambiente.</em>
                               </div>
                               
                               <div>
-                                _ _
+                                <em> </em>
                               </div>
                               
                               <p>
-                                _ </p> 
+                                <em> </p> 
                                 
                                 <p>
-                                  _
+                                  </em>
                                 </p>
                                 
                                 <p style="text-align: justify;">
-                                  O porta absorvente _está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>!_
+                                  O porta absorvente <em>está a venda no Mercado de Artes, a loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>> <a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/">basta clicar</a>!</em>
                                 </p></td> </tr> </tbody> </table> 
                                 
                                 <p>
-                                  <span style="color: #800080;">**Mais no Bicha Fêmea sobre banheiros…**</span>
+                                  <span style="color: #800080;"><strong>Mais no Bicha Fêmea sobre banheiros…</strong></span>
                                 </p>
                                 
                                 <p>
-                                  <a href="http://www.trololodemulher.com.br/2009/06/30/dicas-e-imagens-como-maximizar-o-banheiro/">**_Dicas e imagens: como maximizar o banheiro._**</a>
+                                  <a href="http://www.trololodemulher.com.br/2009/06/30/dicas-e-imagens-como-maximizar-o-banheiro/"><strong><em>Dicas e imagens: como maximizar o banheiro.</em></strong></a>
                                 </p>
                                 
                                 <p>
-                                  <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/">**_Lavabo e Banheiro Charmosos by Bichas Fêmeas_**</a>
+                                  <a href="http://www.trololodemulher.com.br/2009/03/04/lavabo-e-banheiro-charmosos-by-bichas-fmeas/"><strong><em>Lavabo e Banheiro Charmosos by Bichas Fêmeas</em></strong></a>
                                 </p>
                                 
                                 <p>
-                                  <a href="http://www.trololodemulher.com.br/2010/01/06/pitacos-de-bicha-femea-armarios-para-banheiro/" target="_self">**_Pitacos de bicha fêmea: armários para banheiro_**</a>
+                                  <a href="http://www.trololodemulher.com.br/2010/01/06/pitacos-de-bicha-femea-armarios-para-banheiro/" target="_self"><strong><em>Pitacos de bicha fêmea: armários para banheiro</em></strong></a>
                                 </p>
                                 
                                 <p>
@@ -178,7 +178,7 @@ Uma das áreas da casa que merece muito de nosso empenho quanto a decoração 
                                 </p>
                                 
                                 <p>
-                                  <span style="color: #ff0000;">Meninas, apareceu a primeira prova viva de que banheiros sem revestimentos na parede inteira é tranquilo de se ter. A Jane, do blog</span> “[Mulheres (Im) Possíveis](http://mulheresimpossiveis.wordpress.com/) ”, <span style="color: #ff0000;">tem dois banheiros assim. Ela até nos mandou uma foto para mostrar como é. Olha aí embaixo&#8230; </span>
+                                  <span style="color: #ff0000;">Meninas, apareceu a primeira prova viva de que banheiros sem revestimentos na parede inteira é tranquilo de se ter. A Jane, do blog</span> “<a href="http://mulheresimpossiveis.wordpress.com/" target="_blank">Mulheres (Im) Possíveis</a>”, <span style="color: #ff0000;">tem dois banheiros assim. Ela até nos mandou uma foto para mostrar como é. Olha aí embaixo&#8230; </span>
                                 </p>
                                 
                                 <p style="text-align: center;">
@@ -190,9 +190,9 @@ Uma das áreas da casa que merece muito de nosso empenho quanto a decoração 
                                 </p>
                                 
                                 <p>
-                                  Gostou? Então assine o Bicha Fêmea e receba atualizações por [feed](http://feeds2.feedburner.com/blogbichafemea)  ou [e-mail](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) . Siga o Bicha Fêmea no [Twitter](http://twitter.com/bichafemea) !
+                                  Gostou? Então assine o Bicha Fêmea e receba atualizações por <a href="http://feeds2.feedburner.com/blogbichafemea" target="_blank">feed</a> ou <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank">e-mail</a>. Siga o Bicha Fêmea no <a href="http://twitter.com/bichafemea" target="_blank">Twitter</a>!
                                 </p>
                                 
                                 <p style="text-align: center;">
-                                  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _[_basta clicar_](http://www.trololodemulher.com.br/loja/) _!_**
+                                  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/" target="_blank"><em>basta clicar</em></a><em>!</em></strong>
                                 </p>

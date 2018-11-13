@@ -1,8 +1,8 @@
 ---
-
+id: 3314
 title: 'Banheiro e revestimento: 4 ideias de paginação.'
-
-author: Lidiane
+date: 2014-06-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/06/25/banheiro-revestimento/
 permalink: /2014/06/25/banheiro-revestimento/
@@ -71,16 +71,16 @@ categories:
 
 **Não deixe de ler:**
 
-[**4 ideias para decoração de banheiro pequeno.**](http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/) 
+<a href="http://www.trololodemulher.com.br/2011/10/05/decoracao-banheiro-pequeno/" target="_blank"><strong>4 ideias para decoração de banheiro pequeno.</strong></a>
 
-[**Dicas e imagens: como maximizar o banheiro.**](http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/) 
+<a href="http://www.trololodemulher.com.br/2009/06/30/dicas-como-aumentar-banheiro/" target="_blank"><strong>Dicas e imagens: como maximizar o banheiro.</strong></a>
 
-[**5 ideias de organização do banheiro que favorecem a decoração.**](http://www.decoracaodacasa.com/organizacao-do-banheiro/) 
+<a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

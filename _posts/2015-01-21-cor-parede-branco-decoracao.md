@@ -1,8 +1,8 @@
 ---
-
+id: 3387
 title: Quer duas razões pra pintar suas paredes de branco?
-
-author: Lidiane
+date: 2015-01-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/01/21/cor-parede-branco-decoracao/
 permalink: /2015/01/21/cor-parede-branco-decoracao/
@@ -14,15 +14,15 @@ categories:
 </p>
 
 <p align="justify">
-  É por isso que estou aqui, para te mostrar que pincelar sua casa com branco, na verdade, prepara o espaço para inserir alguns detalhes decorativos que só poderiam ganhar vida com essa base _superultramega_ limpa visualmente, além de neutra e relaxante. Quer ver só? Vem comigo!
+  É por isso que estou aqui, para te mostrar que pincelar sua casa com branco, na verdade, prepara o espaço para inserir alguns detalhes decorativos que só poderiam ganhar vida com essa base <em>superultramega</em> limpa visualmente, além de neutra e relaxante. Quer ver só? Vem comigo!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Cores na decoração: veja 6 respostas e acabe com suas dúvidas!**](http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/) 
+  <a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank"><strong>Cores na decoração: veja 6 respostas e acabe com suas dúvidas!</strong></a>
 </p>
 
 <p align="center">
@@ -42,25 +42,25 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Cores salpicadas na decoração aqui e acolá: lindeza de ver.**](http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/) 
+  <a href="http://www.trololodemulher.com.br/2013/10/07/cores-decoracao/" target="_blank"><strong>Cores salpicadas na decoração aqui e acolá: lindeza de ver.</strong></a>
 </p>
 
 &nbsp;
 
-Imagens: [Homedit](http://www.homedit.com/) 
+Imagens: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 &nbsp;

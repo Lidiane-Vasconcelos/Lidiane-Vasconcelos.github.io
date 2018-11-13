@@ -1,8 +1,8 @@
 ---
-
+id: 3737
 title: 'Serviço à americana: dicas pra fazer bonito!'
-
-author: Lidiane
+date: 2017-03-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/03/16/servico-a-americana/
 permalink: /2017/03/16/servico-a-americana/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
 ---
 <p align="justify">
-  O **serviço à americana** é perfeito para quem deseja receber em casa, mas o número de convidados será maior que o que comporta a sua mesa de jantar. O que servir, como fazer isso e quais detalhes são importantes para que tudo corra bem? Servir dessa forma supõe praticidade, mas há espaço para beleza nos detalhes. Portanto, o fato de seus convidados não sentarem à mesa não quer dizer que seu evento não possa ser agradável e confortável para todos. Este post, bonita, foi pensado pra te ajudar nos preparativos para esse dia e, pode apostar: tudo pode ser muito mais simples do você imagina. Vamos às dicas, inspirações e sugestões?
+  O <strong>serviço à americana</strong> é perfeito para quem deseja receber em casa, mas o número de convidados será maior que o que comporta a sua mesa de jantar. O que servir, como fazer isso e quais detalhes são importantes para que tudo corra bem? Servir dessa forma supõe praticidade, mas há espaço para beleza nos detalhes. Portanto, o fato de seus convidados não sentarem à mesa não quer dizer que seu evento não possa ser agradável e confortável para todos. Este post, bonita, foi pensado pra te ajudar nos preparativos para esse dia e, pode apostar: tudo pode ser muito mais simples do você imagina. Vamos às dicas, inspirações e sugestões?
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="justify">
-  A ideia é que você sirva em forma de _buffet_, isto é, você coloca os pratos em um espaço, que pode ser sua mesa de jantar, e seus convidados servem-se à vontade. Uma vez servidos, todos sentam-se em pontos espalhados pela casa: sofá, cadeiras e/ou _puffs_.
+  A ideia é que você sirva em forma de <em>buffet</em>, isto é, você coloca os pratos em um espaço, que pode ser sua mesa de jantar, e seus convidados servem-se à vontade. Uma vez servidos, todos sentam-se em pontos espalhados pela casa: sofá, cadeiras e/ou <em>puffs</em>.
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="justify">
-  Garanta o fluxo deixando a mesa livre, sem cadeiras. Será muito bem vindo um arranjo com flores, ou se preferir, alguns menores espalhados em pontos estratégicos pela sala: mesa de centro, mesa de canto, _rack_, etc.
+  Garanta o fluxo deixando a mesa livre, sem cadeiras. Será muito bem vindo um arranjo com flores, ou se preferir, alguns menores espalhados em pontos estratégicos pela sala: mesa de centro, mesa de canto, <em>rack</em>, etc.
 </p>
 
 <p align="justify">
@@ -65,7 +65,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Vamos Celebrar!!!](http://www.blogvamoscelebrar.com.br/2015/07/recebendo-para-uma-feijoada-parte-2.html) 
+  Via <a href="http://www.blogvamoscelebrar.com.br/2015/07/recebendo-para-uma-feijoada-parte-2.html" target="_blank">Vamos Celebrar!!!</a>
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ categories:
 </p>
 
 <p align="center">
-  _Guardanapos belíssimos e de bom gosto da Xique Xique Brasil. Veja mais detalhes sobre esses e mais produtos, _[_clicando aqui_](http://bit.ly/guardanapotecido) _._
+  <em>Guardanapos belíssimos e de bom gosto da Xique Xique Brasil. Veja mais detalhes sobre esses e mais produtos, </em><a href="http://bit.ly/guardanapotecido" target="_blank"><em>clicando aqui</em></a><em>.</em>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ categories:
 </p>
 
 <p align="center">
-  _Para uma mesa alegre e festiva, sirva pratos quentes à mesa com essas belezinhas em sisal: 1 – Descansa panela Abacaxi. [Clique aqui para mais informações](https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Uva-Copia-1-copia-1) . | 2 – Descansa panela Caju. [Clique aqui para mais informações](https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Caju-Amarelo-Copia-1-copia-1) . | 3 &#8211; Descansa panela Uva. | 4 – Descansa panela Girassol. | 5 – Descansa panela Melancia. [Clique aqui para mais informações](https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Maca-Copia-1-copia-1) . | 6 – Descansa panela Maçã. [Clique aqui para mais informações](https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Abacaxi-Copia-1-copia-1) . Todos eles são de sisal, e estão disponíveis online na loja virtual **XiqueXique Brasil**._
+  <em>Para uma mesa alegre e festiva, sirva pratos quentes à mesa com essas belezinhas em sisal: 1 – Descansa panela Abacaxi. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Uva-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. | 2 – Descansa panela Caju. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Caju-Amarelo-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. | 3 &#8211; Descansa panela Uva. | 4 – Descansa panela Girassol. | 5 – Descansa panela Melancia. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Maca-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. | 6 – Descansa panela Maçã. <a href="https://www.xiquexiquebrasil.com.br/casa/Descansa-panela-Abacaxi-Copia-1-copia-1" target="_blank">Clique aqui para mais informações</a>. Todos eles são de sisal, e estão disponíveis online na loja virtual <strong>XiqueXique Brasil</strong>.</em>
 </p>
 
 <p align="justify">
@@ -105,7 +105,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

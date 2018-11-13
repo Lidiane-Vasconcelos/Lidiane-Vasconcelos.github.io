@@ -1,8 +1,8 @@
 ---
-
+id: 2769
 title: Prateleira do Bicha Fêmea – Fabiana Correia
-
-author: Lidiane
+date: 2010-01-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/01/20/bolos-de-festa/
 permalink: /2010/01/20/bolos-de-festa/
@@ -17,7 +17,7 @@ Houve prateleira em que minha emoção e sensibilidade é que foram tocadas prof
 
 Decidi mostrar o belo trabalho de Fabiana Correia porque ela é uma mulher que tem minha admiração. Ela até [já escreveu por aqui](http://www.trololodemulher.com.br/2009/12/16/bicha-femea-convidada-em-foco-fabiana-correia/), lembra? O que você vai apreciar por aqui é algo que ela sabe fazer muito bem: a arte de preparar e decorar bolos festivos.
 
-Fabiana mostra seu gosto pela cozinha na blogosfera, através do blog [Delícias Culinárias](http://deliciasculinariasdafabi.blogspot.com/) , mas tem nos bolos coloridos e bem feitos a concretização de sua arte num momento maior, eu diria…
+Fabiana mostra seu gosto pela cozinha na blogosfera, através do blog <a href="http://deliciasculinariasdafabi.blogspot.com/" target="_blank">Delícias Culinárias</a>, mas tem nos bolos coloridos e bem feitos a concretização de sua arte num momento maior, eu diria…
 
 Essa nordestina lá das terras de Maceió mostra a que veio na arte de produzir bolos para enfeitar nossos olhos, e desconfio _cá_ comigo que eles satisfazem muito bem ao paladar…
 

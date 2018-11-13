@@ -1,8 +1,8 @@
 ---
-
+id: 2840
 title: 'Pitacos de bicha fêmea: organização do closet ou guarda-roupa.'
-
-author: Lidiane
+date: 2010-07-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/07/02/organizacao-guarda-roupa/
 permalink: /2010/07/02/organizacao-guarda-roupa/
@@ -13,29 +13,29 @@ categories:
 Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**, e não sabe por onde começar uma boa **_organização_** desse espaço? Quer dicas? Pois você está no post certo!
 
 <p style="text-align: justify;">
-  Quem está numa situação parecida com a sua é a Júlia, bicha fêmea navegante que lê esse espaço lá de Portugal, e que sabe que lugar de _pitacos _é aqui mesmo. Se, por outro lado, o lugar onde você guarda as roupas está arrumado e você tem dicas para dividir também, suas sugestões serão mais que bem vindas…
+  Quem está numa situação parecida com a sua é a Júlia, bicha fêmea navegante que lê esse espaço lá de Portugal, e que sabe que lugar de <em>pitacos </em>é aqui mesmo. Se, por outro lado, o lugar onde você guarda as roupas está arrumado e você tem dicas para dividir também, suas sugestões serão mais que bem vindas…
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  No post onde há **_<a href="http://www.trololodemulher.com.br/2010/02/04/dicas-tarefas-domesticas/">dicas para facilitar as tarefas domésticas</a>_** a Júlia deixou um comentário assim:
+  No post onde há <strong><em><a href="http://www.trololodemulher.com.br/2010/02/04/dicas-tarefas-domesticas/">dicas para facilitar as tarefas domésticas</a></em></strong> a Júlia deixou um comentário assim:
 </p>
 
 > <p style="text-align: justify;">
->   _“Lidiane, sou a Júlia Albuquerque de Portugal, não passo um dia sem vir até ao seu blogue, marido já me critica, mas não faz mal é o meu bocadinho de actualização. Hoje queria pedir-lhe se podia postar algum **artigo/s sobre guarda-fato** (não sei é assim que se diz no Brasil). As vezes **está aquela confusão porque é meu e de meu marido metade dele metade minha**. Acontece **quando é a mudança de estação tenho um outro armário na zona de arrumos e ponho lá toda a roupa de inverno bem arrumada em sacos proprios para pendurar para não ganharem pó**. O gf tem uma parte “morta” logo abaixo dos fatos então eu resolvi pôr umas cxs. onde ponho os pullovers do marido (2) (1 com a roupa para ir para engomadoria) **outra com tralhas**. Agora **estou a pensar comprar umas caixas em plástico com tampa** . Ah! Do lado diteito tem daqueles cabides de plástico grosso que montados fazem uma espécie de prateleita onde tenho as malas os sapatos que só uso em ocasiões especiais, o** problema é que quando não tenho tempo vou pondo nessa prateleira as coisas dobradas mas sem organização. Agora está uma confusão**. Será que me dava umas dicas para me orientar? Este é o meu calcanhar de Aquiles. O resto da casa faço como você diz, vou arrumando conforme vou sujando. Ficava muito grata. Bjs.”_
+>   <em>“Lidiane, sou a Júlia Albuquerque de Portugal, não passo um dia sem vir até ao seu blogue, marido já me critica, mas não faz mal é o meu bocadinho de actualização. Hoje queria pedir-lhe se podia postar algum <strong>artigo/s sobre guarda-fato</strong> (não sei é assim que se diz no Brasil). As vezes <strong>está aquela confusão porque é meu e de meu marido metade dele metade minha</strong>. Acontece <strong>quando é a mudança de estação tenho um outro armário na zona de arrumos e ponho lá toda a roupa de inverno bem arrumada em sacos proprios para pendurar para não ganharem pó</strong>. O gf tem uma parte “morta” logo abaixo dos fatos então eu resolvi pôr umas cxs. onde ponho os pullovers do marido (2) (1 com a roupa para ir para engomadoria) <strong>outra com tralhas</strong>. Agora <strong>estou a pensar comprar umas caixas em plástico com tampa</strong> . Ah! Do lado diteito tem daqueles cabides de plástico grosso que montados fazem uma espécie de prateleita onde tenho as malas os sapatos que só uso em ocasiões especiais, o<strong> problema é que quando não tenho tempo vou pondo nessa prateleira as coisas dobradas mas sem organização. Agora está uma confusão</strong>. Será que me dava umas dicas para me orientar? Este é o meu calcanhar de Aquiles. O resto da casa faço como você diz, vou arrumando conforme vou sujando. Ficava muito grata. Bjs.”</em>
 > </p>
 
 <p style="text-align: justify;">
-  Júlia, estou longe, bem longe de ser especialista em organização, hein? Aliás, há profissionais no mercado que atuam nesse setor, e não tenho a pretensão de atuar nesse sentido. Minhas sugestões são de uma **_diva do lar que se esforça para manter as coisas sob controle_**, e **_de forma prática_**. E por falar em praticidade, acho super legal que você e seu esposo consigam dividir o mesmo guarda-roupas. Aqui em casa também é essim. Isso só passa a ser um **_problema quando a organização não é mantida_**, ou ainda **quando se tenta organizar mais coisas do que realmente a gente precisa ter**.
+  Júlia, estou longe, bem longe de ser especialista em organização, hein? Aliás, há profissionais no mercado que atuam nesse setor, e não tenho a pretensão de atuar nesse sentido. Minhas sugestões são de uma <strong><em>diva do lar que se esforça para manter as coisas sob controle</em></strong>, e <strong><em>de forma prática</em></strong>. E por falar em praticidade, acho super legal que você e seu esposo consigam dividir o mesmo guarda-roupas. Aqui em casa também é essim. Isso só passa a ser um <strong><em>problema quando a organização não é mantida</em></strong>, ou ainda <strong>quando se tenta organizar mais coisas do que realmente a gente precisa ter</strong>.
 </p>
 
 <p style="text-align: justify;">
-  Sobre o “ter mais do que precisa”, fiquei pensando nessa sua caixa “de tralhas”. **_Você precisa de tralhas? Precisa de tudo que há nessa caixa?_** Sei que você já leu porque há um comentário seu no post, mas sugiro uma nova leitura e reflexão sobre as **_<a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/">5 dicas para manter as coisas organizadas</a>_**, especialmente as de número 3, 4 e 5, que tratam do **_desapego e triagem de objetos realmente necessários._**
+  Sobre o “ter mais do que precisa”, fiquei pensando nessa sua caixa “de tralhas”. <strong><em>Você precisa de tralhas? Precisa de tudo que há nessa caixa?</em></strong> Sei que você já leu porque há um comentário seu no post, mas sugiro uma nova leitura e reflexão sobre as <strong><em><a href="http://www.trololodemulher.com.br/2009/11/10/dicas-organizacao-casa/">5 dicas para manter as coisas organizadas</a></em></strong>, especialmente as de número 3, 4 e 5, que tratam do <strong><em>desapego e triagem de objetos realmente necessários.</em></strong>
 </p>
 
 <p style="text-align: justify;">
-  Isto posto, preciso dizer que também **_costumo reservar em lugar separado as roupas de estação_**. Agora mesmo no Brasil estamos no inverno, e minhas roupas de verão estão **_em caixas_**. No inverno faço o inverso.
+  Isto posto, preciso dizer que também <strong><em>costumo reservar em lugar separado as roupas de estação</em></strong>. Agora mesmo no Brasil estamos no inverno, e minhas roupas de verão estão <strong><em>em caixas</em></strong>. No inverno faço o inverso.
 </p>
 
 <table align="center">
@@ -53,26 +53,26 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
  
 
 <p style="text-align: justify;">
-  Faço exatamente como sugere a imagem: eu coloco em **_caixas que ficam na parte de cima do closet_**. As caixas são muito eficientes nesse sentido, porque organizam e muitas delas até decoram, por serem especialmente bonitas.
+  Faço exatamente como sugere a imagem: eu coloco em <strong><em>caixas que ficam na parte de cima do closet</em></strong>. As caixas são muito eficientes nesse sentido, porque organizam e muitas delas até decoram, por serem especialmente bonitas.
 </p>
 
 <p style="text-align: center;">
-  **_Sugestão de caixas onde algumas peças de roupas, ou acessórios, possam ser armazenados…_**
+  <strong><em>Sugestão de caixas onde algumas peças de roupas, ou acessórios, possam ser armazenados…</em></strong>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _ _
+        <em> </em>
       </p>
       
       <p style="text-align: justify;">
-        _Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é?_
+        <em>Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é?</em>
       </p>
       
       <p style="text-align: justify;">
-        _A **Caixa Chita** está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/) **!_
+        <em>A <strong>Caixa Chita</strong> está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-chita/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
     
@@ -88,11 +88,11 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é?_
+        <em>Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é?</em>
       </p>
       
       <p style="text-align: justify;">
-        _A Caixa Redonda Floral está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-floral/) **!_
+        <em>A Caixa Redonda Floral está a venda no Mercado de Artes do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-floral/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
 </p>
 
 <p style="text-align: justify;">
-  Você disse que está pensando em comprar caixas com tampas. Se você comprar **_caixas transparentes_**, como as que estão na imagem abaixo, **_ver o conteúdo sem abrí-las pode facilitar a sua rotina_**. Que tal?
+  Você disse que está pensando em comprar caixas com tampas. Se você comprar <strong><em>caixas transparentes</em></strong>, como as que estão na imagem abaixo, <strong><em>ver o conteúdo sem abrí-las pode facilitar a sua rotina</em></strong>. Que tal?
 </p>
 
 <table align="center">
@@ -121,11 +121,11 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
  
 
 <p style="text-align: justify;">
-  Elas podem servir para **_armazenar meias, lingeries, cuecas e até cintos_**. Assim você**_ ganha espaço nas suas gavetas para camisetas e blusas, já que elas não devem ser penduradas porque deformam_**.
+  Elas podem servir para <strong><em>armazenar meias, lingeries, cuecas e até cintos</em></strong>. Assim você<strong><em> ganha espaço nas suas gavetas para camisetas e blusas, já que elas não devem ser penduradas porque deformam</em></strong>.
 </p>
 
 <p style="text-align: justify;">
-  Outra dica é usar **_ganchos_** onde você possa **_pendurar suas bolsas_**, para que não deformem. Eu uso **_ganchos colados nas paredes do closet_**, mas você pode usá-los **_pendurados no varão_** como mostra a imagem abaixo.
+  Outra dica é usar <strong><em>ganchos</em></strong> onde você possa <strong><em>pendurar suas bolsas</em></strong>, para que não deformem. Eu uso <strong><em>ganchos colados nas paredes do closet</em></strong>, mas você pode usá-los <strong><em>pendurados no varão</em></strong> como mostra a imagem abaixo.
 </p>
 
 <table align="center">
@@ -143,7 +143,7 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
  
 
 <p style="text-align: justify;">
-  Para diminuir a quantidade de bolsas a serem guardadas, eu **_dobro as que são de tecido e coloco dentro das de couro_**, além de **_ganhar espaço_**, isso ajuda a**_ manter a forma das de couro_**, porque ficam “cheias e no jeito”.
+  Para diminuir a quantidade de bolsas a serem guardadas, eu <strong><em>dobro as que são de tecido e coloco dentro das de couro</em></strong>, além de <strong><em>ganhar espaço</em></strong>, isso ajuda a<strong><em> manter a forma das de couro</em></strong>, porque ficam “cheias e no jeito”.
 </p>
 
 <p style="text-align: justify;">
@@ -165,19 +165,19 @@ Você está com seu **_guarda-roupas_** ou **_closet_** cheio de **_bagunça_**,
  
 
 <p style="text-align: justify;">
-  Ter um guarda-roupas impecável é muito difícil, eu sei, mas o mínimo de organização exige de você o **_desapego ao que é desnecessário (e doação a quem mais precisa), e o costume de colocar cada coisa em seu lugar._** Espero, sinceramente, ter te inspirado de alguma forma a tentar alguma mudança em seus domínios domésticos.
+  Ter um guarda-roupas impecável é muito difícil, eu sei, mas o mínimo de organização exige de você o <strong><em>desapego ao que é desnecessário (e doação a quem mais precisa), e o costume de colocar cada coisa em seu lugar.</em></strong> Espero, sinceramente, ter te inspirado de alguma forma a tentar alguma mudança em seus domínios domésticos.
 </p>
 
 <p style="text-align: justify;">
-  Mas, oh! Não sai daí porque daqui a pouco mais sugestões aparecerão nos comentários, _viu_?! O melhor do Bicha Fêmea acontece lá, e as bichas fêmeas navegantes são _experts_ em _pitacos_. Duvida?
+  Mas, oh! Não sai daí porque daqui a pouco mais sugestões aparecerão nos comentários, <em>viu</em>?! O melhor do Bicha Fêmea acontece lá, e as bichas fêmeas navegantes são <em>experts</em> em <em>pitacos</em>. Duvida?
 </p>
 
-_Imagens:_ [_Real Simple_](http://www.realsimple.com/) 
+_Imagens:_ <a href="http://www.realsimple.com/" target="_blank"><em>Real Simple</em></a>
 
 **As bichas fêmeas falam&#8230;**
 
 <p style="text-align: justify;">
-  _&#8220;&#8230;Meu marido é mais desorganizado, meu filho mais velho idem e o mais novo (20 anos) é super organizado. Os cabides dele são todos iguais, virados todos pra o mesmo lado, meias numa caixa que ele mesmo organizou e cuecas em outra. Então vou aproveitar para perguntar: existem caixas já prontas com separação pra gente colocar meias e cuecas? Onde tem?  Se você já postou alguma coisa sobre isso me fala?&#8221; Macá &#8211;[ Agenda Ilustrada](http://www.agendailustrada.com/) _
+  <em>&#8220;&#8230;Meu marido é mais desorganizado, meu filho mais velho idem e o mais novo (20 anos) é super organizado. Os cabides dele são todos iguais, virados todos pra o mesmo lado, meias numa caixa que ele mesmo organizou e cuecas em outra. Então vou aproveitar para perguntar: existem caixas já prontas com separação pra gente colocar meias e cuecas? Onde tem?  Se você já postou alguma coisa sobre isso me fala?&#8221; Macá &#8211;<a href="http://www.agendailustrada.com/" target="_blank"> Agenda Ilustrada</a></em>
 </p>
 
 <p style="text-align: justify;">
@@ -185,7 +185,7 @@ _Imagens:_ [_Real Simple_](http://www.realsimple.com/)
 </p>
 
 <p style="text-align: justify;">
-  Então, o que faço é o seguinte: eu não uso divisões especiais na gaveta de** cuecas, calcinhas e meias**. Eu** arrumo essas peças de modo que elas possam ser organizadas em pé e enfileiradas de frente**. Isso faz com que eu ganhe espaço na gaveta, e fica tudo organizado.
+  Então, o que faço é o seguinte: eu não uso divisões especiais na gaveta de<strong> cuecas, calcinhas e meias</strong>. Eu<strong> arrumo essas peças de modo que elas possam ser organizadas em pé e enfileiradas de frente</strong>. Isso faz com que eu ganhe espaço na gaveta, e fica tudo organizado.
 </p>
 
 <p style="text-align: justify;">
@@ -197,7 +197,7 @@ _Imagens:_ [_Real Simple_](http://www.realsimple.com/)
 </p>
 
 <p style="text-align: center;">
-  _Imagem: _[_Oz!_](http://www.organizesuavida.com.br/si/site/0000) 
+  <em>Imagem: </em><a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank"><em>Oz!</em></a>
 </p>
 
 Essa é a forma como dobro a calcinha, exatamente como faço com as cuecas também.
@@ -207,7 +207,7 @@ Essa é a forma como dobro a calcinha, exatamente como faço com as cuecas tamb�
 </p>
 
 <p style="text-align: center;">
-  _Imagem:_[_ Tudo em ordem sem bagunça!_](http://tudoemordemsembagunca.blogspot.com/) 
+  <em>Imagem:</em><a href="http://tudoemordemsembagunca.blogspot.com/" target="_blank"><em> Tudo em ordem sem bagunça!</em></a>
 </p>
 
 <p style="text-align: justify;">
@@ -219,7 +219,7 @@ Essa é a forma como dobro a calcinha, exatamente como faço com as cuecas tamb�
 </p>
 
 <p style="text-align: justify;">
-  **As bichas fêmeas continuam falando&#8230;**
+  <strong>As bichas fêmeas continuam falando&#8230;</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -231,11 +231,11 @@ Essa é a forma como dobro a calcinha, exatamente como faço com as cuecas tamb�
 </p>
 
 <p style="text-align: center;">
-  _Imagem: [Vila Fashion](http://vilamulher.terra.com.br/moda/) _
+  <em>Imagem: <a href="http://vilamulher.terra.com.br/moda/" target="_blank">Vila Fashion</a></em>
 </p>
 
 <p style="text-align: justify;">
-  _&#8220;&#8230; 1. Planeje a organização, mesmo que seja um esquema, por exemplo: nos cabides ficarão as camisas, depois os casacos e depois cabides especiais para cintos, echarpes, cachecóis, etc&#8230; nas prateleiras superiores irão 3 caixas (uma com malhas pesadas, uma com acessórios e outra com miudesas e coisas de festa), na parte de baixo será a sapateira, que será disposta na seguinte ordem&#8230; e assim por diante.<br /> 2. Retire TUDO do armário, assim, você terá uma visão bem geral do que tem e o que poderá ser separado.<br /> 3. Separe itens em três partes: a ser guardado, a ser doado e a ser jogado fora (acredite, guardamos tralhas no guarda roupa)<br /> 4. Os itens a serem guardados, devem ser separados: sapatos, itens a serem pendurados, itens a serem colocados em prateleiras, itens a serem colocados em caixas, itens a serem colocados em gavetas.<br /> 5. Crie sistemas: peças mais leves para mais pesadas, cores, por tipo&#8230; assim o armário parecerá mais limpo e organizado.<br /> 6. Se possível e preciso (sempre acredito ser necessário), compre itens que auxiliem, cabides especiais, caixas e tudo mais.<br /> 7. Caso esteja comprando um novo armário, projetando ou algo assim, faça todo este planejamento antes de comprar, porque muitas vezes, ai é a chance de deixar o ambiente sempre organizado.<br /> 8. Mantenha a organização, fazendo pequenas atitudes diárias ou semanais, não deixe acumular para refazer tudo de uma só vez. É pior&#8230;&#8221;_ Leticia &#8211;[ Casa de Catarina](http://blog.casadecatarina.com.br/) 
+  <em>&#8220;&#8230; 1. Planeje a organização, mesmo que seja um esquema, por exemplo: nos cabides ficarão as camisas, depois os casacos e depois cabides especiais para cintos, echarpes, cachecóis, etc&#8230; nas prateleiras superiores irão 3 caixas (uma com malhas pesadas, uma com acessórios e outra com miudesas e coisas de festa), na parte de baixo será a sapateira, que será disposta na seguinte ordem&#8230; e assim por diante.<br /> 2. Retire TUDO do armário, assim, você terá uma visão bem geral do que tem e o que poderá ser separado.<br /> 3. Separe itens em três partes: a ser guardado, a ser doado e a ser jogado fora (acredite, guardamos tralhas no guarda roupa)<br /> 4. Os itens a serem guardados, devem ser separados: sapatos, itens a serem pendurados, itens a serem colocados em prateleiras, itens a serem colocados em caixas, itens a serem colocados em gavetas.<br /> 5. Crie sistemas: peças mais leves para mais pesadas, cores, por tipo&#8230; assim o armário parecerá mais limpo e organizado.<br /> 6. Se possível e preciso (sempre acredito ser necessário), compre itens que auxiliem, cabides especiais, caixas e tudo mais.<br /> 7. Caso esteja comprando um novo armário, projetando ou algo assim, faça todo este planejamento antes de comprar, porque muitas vezes, ai é a chance de deixar o ambiente sempre organizado.<br /> 8. Mantenha a organização, fazendo pequenas atitudes diárias ou semanais, não deixe acumular para refazer tudo de uma só vez. É pior&#8230;&#8221;</em> Leticia &#8211;<a href="http://blog.casadecatarina.com.br/" target="_blank"> Casa de Catarina</a>
 </p>
 
 **Quer mais dicas sobre organização doméstica?**

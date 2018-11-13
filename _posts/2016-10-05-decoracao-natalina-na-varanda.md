@@ -1,8 +1,8 @@
 ---
-
+id: 3680
 title: 6 ideias de decoração natalina na varanda
-
-author: Lidiane
+date: 2016-10-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/10/05/decoracao-natalina-na-varanda/
 permalink: /2016/10/05/decoracao-natalina-na-varanda/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p style="text-align: justify;" align="justify">
-  Este é o meu primeiro post dedicado a **decoração natalina na varanda**, isso em anos que _blogo_ sobre casa e decoração. Pensei: como assim ainda não mostrei nada sobre isso?! Talvez tenha sido um pouco de preconceito (será?!) de não sentir a varanda como um cômodo da casa… mas que besteira! Claro que é! É um cômodo como qualquer outro, e com a importância de nos conectar com o que há lá fora. É pela varanda (e também pelas janelas, claro!) que as luzes do sol e do céu entram em nosso lar, e isso é vital em casa, não é?
+  Este é o meu primeiro post dedicado a <strong>decoração natalina na varanda</strong>, isso em anos que <em>blogo</em> sobre casa e decoração. Pensei: como assim ainda não mostrei nada sobre isso?! Talvez tenha sido um pouco de preconceito (será?!) de não sentir a varanda como um cômodo da casa… mas que besteira! Claro que é! É um cômodo como qualquer outro, e com a importância de nos conectar com o que há lá fora. É pela varanda (e também pelas janelas, claro!) que as luzes do sol e do céu entram em nosso lar, e isso é vital em casa, não é?
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="justify">
-  [Guirlandas natalinas](http://www.decoracaodacasa.com/guirlandas-de-natal-2/)  podem ir além da decoração da porta, e enfeitarem o guarda-corpo da sua varanda. Pisca-pisca neste espaço é um clássico, mas se ele enche de luz um enfeite caprichado como esse, seu encantamento à noite será ainda maior.
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank">Guirlandas natalinas</a> podem ir além da decoração da porta, e enfeitarem o guarda-corpo da sua varanda. Pisca-pisca neste espaço é um clássico, mas se ele enche de luz um enfeite caprichado como esse, seu encantamento à noite será ainda maior.
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [diy inspired](http://www.diyinspired.com/) 
+  Via <a href="http://www.diyinspired.com/" target="_blank">diy inspired</a>
 </p>
 
 <p align="justify">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Hammacher Schelemmer](http://www.hammacher.com/Default.aspx?promo=header) 
+  Via <a href="http://www.hammacher.com/Default.aspx?promo=header" target="_blank">Hammacher Schelemmer</a>
 </p>
 
 <p align="justify">
@@ -95,5 +95,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

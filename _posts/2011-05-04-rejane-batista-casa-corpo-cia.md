@@ -1,8 +1,8 @@
 ---
-
+id: 2988
 title: 'Uma bicha fêmea por outra: Rejane Batista'
-
-author: Lidiane
+date: 2011-05-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/05/04/rejane-batista-casa-corpo-cia/
 permalink: /2011/05/04/rejane-batista-casa-corpo-cia/
@@ -13,7 +13,7 @@ categories:
 Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus posts é outro atributo: a efervescência de ideias extremamente criativas e a sua disposição para colocá-las em prática a fim de deixar a casa toda _embonecada_.
 
 <p style="text-align: justify;">
-  Quem acompanha a **Rejane**, dona do frequentadíssimo **[Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) **, acaba sendo envolvida por esse _faniquito_ decorativo que toma conta da blogueira, e contagiada pelas inspirações da moça, sai louca e descontrolada querendo _embonecar_ sua casa também…
+  Quem acompanha a <strong>Rejane</strong>, dona do frequentadíssimo <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong>, acaba sendo envolvida por esse <em>faniquito</em> decorativo que toma conta da blogueira, e contagiada pelas inspirações da moça, sai louca e descontrolada querendo <em>embonecar</em> sua casa também…
 </p>
 
 <!--more-->
@@ -23,19 +23,19 @@ Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus post
 </p>
 
 <p style="text-align: justify;">
-  Que mullher é essa que estimula tanto uma audiência feminina ávida por “brincar de casinha”? Ah! Se você ainda não conhece, bonita… perdeu um bocado de tempo nessa blogosfera, _viu_?!
+  Que mullher é essa que estimula tanto uma audiência feminina ávida por “brincar de casinha”? Ah! Se você ainda não conhece, bonita… perdeu um bocado de tempo nessa blogosfera, <em>viu</em>?!
 </p>
 
 <p style="text-align: justify;">
-  Rejane, que é natural de Vitória – ES, mas mora em Nova Iguaçu – RJ, tem o desejo aguçado pela criação desde criança. “_Sempre fui muito criativa, e em cada etapa da vida, de uma forma. Na infância era criativa para arrumar meus brinquedos, em inventar brincadeiras, em fazer roupinhas para as bonecas. Na adolescência era criativa com papéis, agendas e diários&#8230; Cresci, casei e a criatividade continua na forma como cuido da minha casa_”, revela.
+  Rejane, que é natural de Vitória – ES, mas mora em Nova Iguaçu – RJ, tem o desejo aguçado pela criação desde criança. “<em>Sempre fui muito criativa, e em cada etapa da vida, de uma forma. Na infância era criativa para arrumar meus brinquedos, em inventar brincadeiras, em fazer roupinhas para as bonecas. Na adolescência era criativa com papéis, agendas e diários&#8230; Cresci, casei e a criatividade continua na forma como cuido da minha casa</em>”, revela.
 </p>
 
 <p style="text-align: justify;">
-  Essa blogueira tão talentosa e cheia de _invencionices_ é igualzinha e você e eu. Tem o dia a dia cheio de afazeres, e alimenta sonhos como qualquer uma de nós. Um olhar desavisado pode levar a gente a pensar que seu maior desejo é ser decoradora, mas ela entrega que, na verdade, não é bem isso: “p_or mais surpreendente que seja, sempre me vi como uma paisagista, nunca como decoradora. Decorar é uma brincadeira para mim, como se eu estivesse arrumando uma casinha de boneca em escala maior, entende_?”
+  Essa blogueira tão talentosa e cheia de <em>invencionices</em> é igualzinha e você e eu. Tem o dia a dia cheio de afazeres, e alimenta sonhos como qualquer uma de nós. Um olhar desavisado pode levar a gente a pensar que seu maior desejo é ser decoradora, mas ela entrega que, na verdade, não é bem isso: “p<em>or mais surpreendente que seja, sempre me vi como uma paisagista, nunca como decoradora. Decorar é uma brincadeira para mim, como se eu estivesse arrumando uma casinha de boneca em escala maior, entende</em>?”
 </p>
 
 <p style="text-align: justify;">
-  Os sonhos de Rejane vão além…até mesmo para longe do mundo virtual, de certa maneira. Mas continua reinando em seu íntimo a vontade de mostrar tudo o que faz: “_Um dia ainda vou morar em uma cidadezinha litorânea e vou ter uma banquinha exposta na praça. Mas já tenho meu trabalho, então seria como uma diversão. É gostoso mostrar o que a gente faz e as pessoas gostarem”_.
+  Os sonhos de Rejane vão além…até mesmo para longe do mundo virtual, de certa maneira. Mas continua reinando em seu íntimo a vontade de mostrar tudo o que faz: “<em>Um dia ainda vou morar em uma cidadezinha litorânea e vou ter uma banquinha exposta na praça. Mas já tenho meu trabalho, então seria como uma diversão. É gostoso mostrar o que a gente faz e as pessoas gostarem”</em>.
 </p>
 
 <p style="text-align: justify;">
@@ -47,11 +47,11 @@ Além de jovem, bonita e inteligente, o que mais chama a atenção nos seus post
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Sobre o Blog</span>**
+  <strong><span style="font-size: medium;">Sobre o Blog</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  **[Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) ** é o nome de um blog com vocação para a variedade de assuntos. Entretanto, quem te acompanha percebe que o assunto Casa & Decoração impera absoluto no seu espaço virtual. O que mudou, desde a criação do blog, para que essa temática viesse cada vez com mais força para o centeúdo do seu blog?
+  <strong><a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a></strong> é o nome de um blog com vocação para a variedade de assuntos. Entretanto, quem te acompanha percebe que o assunto Casa & Decoração impera absoluto no seu espaço virtual. O que mudou, desde a criação do blog, para que essa temática viesse cada vez com mais força para o centeúdo do seu blog?
 </p>
 
 <blockquote style="text-align: justify;">
@@ -79,7 +79,7 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 > </p>
 
 <p style="text-align: justify;">
-  Você mostra o quanto fica feliz com a repercussão de seus posts, e já disse mais sobre como se sentia, em mais um de seus posts sobre decoração: _“Eu estou me sentindo com uma enorme responsabilidade, pois tenho mudado a vida das pessoas! Nunca imaginei que um dia seria capaz de fazer a vida de uma família mudar e ser mais feliz, sem sequer conhecê-los! E não tem sido só de uma família, são várias! &#8230; Estou com as mãos trêmulas, o coração acelerado e um misto de apreensão e alegria por vocês me colocarem num pedestal todos os dias. Vocês me dão muito ânimo!” _Imaginou que seu blog pudesse chegar a tanto?
+  Você mostra o quanto fica feliz com a repercussão de seus posts, e já disse mais sobre como se sentia, em mais um de seus posts sobre decoração: <em>“Eu estou me sentindo com uma enorme responsabilidade, pois tenho mudado a vida das pessoas! Nunca imaginei que um dia seria capaz de fazer a vida de uma família mudar e ser mais feliz, sem sequer conhecê-los! E não tem sido só de uma família, são várias! &#8230; Estou com as mãos trêmulas, o coração acelerado e um misto de apreensão e alegria por vocês me colocarem num pedestal todos os dias. Vocês me dão muito ânimo!” </em>Imaginou que seu blog pudesse chegar a tanto?
 </p>
 
 <blockquote style="text-align: justify;">
@@ -95,7 +95,7 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 </blockquote>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Sobre a blogosfera</span>**
+  <strong><span style="font-size: medium;">Sobre a blogosfera</span></strong>
 </p>
 
 <p style="text-align: justify;">
@@ -110,17 +110,17 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 
 <blockquote style="text-align: justify;">
   <p style="text-align: justify;">
-    _*Não estou puxando saco não, viu gente? Eu acompanho o Bicha Fêmea de longas datas e sou admiradora e fã da Lidi. E não é de hoje! rsrs._
+    <em>*Não estou puxando saco não, viu gente? Eu acompanho o Bicha Fêmea de longas datas e sou admiradora e fã da Lidi. E não é de hoje! rsrs.</em>
   </p>
 </blockquote>
 
 <p style="text-align: justify;">
-  “_Outro dia recebi um comentário me perguntando se a minha cozinha ficava sempre arrumadinha como nas fotos. Claro que não! Eu a uso._” Essa sua fala, no post intitulado “Minha cozinha não é de enfeite!” comprova que expor a casa na internet pode dar margem a construção de imaginários na cabeça de quem vê ou lê os posts. Isso te incomoda?
+  “<em>Outro dia recebi um comentário me perguntando se a minha cozinha ficava sempre arrumadinha como nas fotos. Claro que não! Eu a uso.</em>” Essa sua fala, no post intitulado “Minha cozinha não é de enfeite!” comprova que expor a casa na internet pode dar margem a construção de imaginários na cabeça de quem vê ou lê os posts. Isso te incomoda?
 </p>
 
 <blockquote style="text-align: justify;">
   <p>
-    Ah sim! Tem gente que fantasia muito. Já chegou ao ponto de achar que eu sou _fake! _Agora vê! Minha casa existe, eu existo e minha vida não é perfeita, apenas vivo intensamente. Vivo o máximo que posso e faço o máximo de coisas que posso. Mas isto não me incomoda, sei que expor a vida, as coisas, interessa e disperta curiosidade.
+    Ah sim! Tem gente que fantasia muito. Já chegou ao ponto de achar que eu sou <em>fake! </em>Agora vê! Minha casa existe, eu existo e minha vida não é perfeita, apenas vivo intensamente. Vivo o máximo que posso e faço o máximo de coisas que posso. Mas isto não me incomoda, sei que expor a vida, as coisas, interessa e disperta curiosidade.
   </p>
 </blockquote>
 
@@ -136,7 +136,7 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 
 <blockquote style="text-align: justify;">
   <p>
-    Eu não estava em uma semana muito boa, alguns contratempos na minha vida pessoal, e o blog pra mim é um escape, _relax_&#8230; então não faz sentido procurar meu prazer (o blog) e ver cobranças, falta de educação, pressão. Então eu resolvi falar, já que tenho problemas na vida &#8220;de verdade&#8221; como todo mundo (vida de verdade = vida _off-line_). Não que a minha chateação tenha sido causada exclusivamente pelo blog, mas foi um somatório com as outras coisinhas&#8230; Engraçado que eu nunca falei assim da minha vida lá, e fiquei surpresa com a manifestação das minhas queridas. Muito muito a favor. Apenas uma ou duas contra, mas faz parte, não dá pra agradar a todos pintando rosa, né? (risos).
+    Eu não estava em uma semana muito boa, alguns contratempos na minha vida pessoal, e o blog pra mim é um escape, <em>relax</em>&#8230; então não faz sentido procurar meu prazer (o blog) e ver cobranças, falta de educação, pressão. Então eu resolvi falar, já que tenho problemas na vida &#8220;de verdade&#8221; como todo mundo (vida de verdade = vida <em>off-line</em>). Não que a minha chateação tenha sido causada exclusivamente pelo blog, mas foi um somatório com as outras coisinhas&#8230; Engraçado que eu nunca falei assim da minha vida lá, e fiquei surpresa com a manifestação das minhas queridas. Muito muito a favor. Apenas uma ou duas contra, mas faz parte, não dá pra agradar a todos pintando rosa, né? (risos).
   </p>
 </blockquote>
 
@@ -145,59 +145,59 @@ Seu blog tem uma marca registrada: muitas brincadeiras que desencadeiam muitos c
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Rejane, só no trololó…</span>**
+  <strong><span style="font-size: medium;">Rejane, só no trololó…</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  **1 &#8211; Um blog me conquista quando&#8230;** _mesmo que seja simples, não tenha erros de portugês e mantenha um padrão nos posts. _
+  <strong>1 &#8211; Um blog me conquista quando&#8230;</strong> <em>mesmo que seja simples, não tenha erros de portugês e mantenha um padrão nos posts. </em>
 </p>
 
 <p style="text-align: justify;">
-  **2 &#8211; Toda blogueira deveria&#8230;** _ser autêntica sem ferir ninguém. Ter classe para criticar e discordar._
+  <strong>2 &#8211; Toda blogueira deveria&#8230;</strong> <em>ser autêntica sem ferir ninguém. Ter classe para criticar e discordar.</em>
 </p>
 
 <p style="text-align: justify;">
-  **3 &#8211; A blogosfera é&#8230;** _um mundo à parte ao qual muitos &#8220;ainda&#8221; desconhecem. Amo fazer parte disso._
+  <strong>3 &#8211; A blogosfera é&#8230;</strong> <em>um mundo à parte ao qual muitos &#8220;ainda&#8221; desconhecem. Amo fazer parte disso.</em>
 </p>
 
 <p style="text-align: justify;">
-  **Mais no Bicha Fêmea…**
+  <strong>Mais no Bicha Fêmea…</strong>
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2011/02/23/entrevista-larissa-lieders/">Uma bicha fêmea por outra: Larissa Lieders</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2011/02/23/entrevista-larissa-lieders/">Uma bicha fêmea por outra: Larissa Lieders</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2010/11/17/entrevista-veronica-kraemer/">Uma bicha fêmea por outra: Veronica Kraemer</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2010/11/17/entrevista-veronica-kraemer/">Uma bicha fêmea por outra: Veronica Kraemer</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2010/09/22/entrevista-katia-bonfadini/">Uma bicha fêmea por outra: Katia Bonfadini</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2010/09/22/entrevista-katia-bonfadini/">Uma bicha fêmea por outra: Katia Bonfadini</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2010/08/11/entrevista-margaret/">Uma bicha fêmea por outra: Margaret</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2010/08/11/entrevista-margaret/">Uma bicha fêmea por outra: Margaret</a></strong>
 </p>
 
 <p style="text-align: justify;">
-  **<a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/">Uma bicha fêmea por outra: Cláudia Ramalho</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2010/07/14/entrevista-claudia-ramalho/">Uma bicha fêmea por outra: Cláudia Ramalho</a></strong>
 </p>
 
 <p style="text-align: center;">
-  Receba todo dia, como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba todo dia, como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>
 
 <p style="text-align: justify;">

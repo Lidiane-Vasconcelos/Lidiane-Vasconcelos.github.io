@@ -1,8 +1,8 @@
 ---
-
+id: 3019
 title: Quer uma mesinha? Improvisa!!!!
-
-author: Lidiane
+date: 2011-07-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/07/12/decoracao-faca-voce-mesma-2/
 permalink: /2011/07/12/decoracao-faca-voce-mesma-2/
@@ -35,11 +35,11 @@ Então _tá_, podem entrar aí na minha sala e ficar à vontade, espero que gost
 </p>
 
 <p align="justify">
-  Não temos tempo (leia-se $), e eu queria muito uma mesinha para o lado do sofá para fazer um cantinho das coisas que vieram do Chile (nossa! até parece que são muitas _né?!_).
+  Não temos tempo (leia-se $), e eu queria muito uma mesinha para o lado do sofá para fazer um cantinho das coisas que vieram do Chile (nossa! até parece que são muitas <em>né?!</em>).
 </p>
 
 <p align="justify">
-  Mas na real é que faltava espaço para tanto enfeite que eu queria colocá-los na sala&#8230;_hehehehehe_
+  Mas na real é que faltava espaço para tanto enfeite que eu queria colocá-los na sala&#8230;<em>hehehehehe</em>
 </p>
 
 Daí inventei uma mesinha **_pobre-improvisada-ex banquinho sem utilidade_**:
@@ -57,13 +57,13 @@ Daí inventei uma mesinha **_pobre-improvisada-ex banquinho sem utilidade_**:
 Vejam que para disfarçar **cobri ela com meu papel _contact_ craquelado** 😀
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg"><img class="alignnone size-full wp-image-6590" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg" alt="" width="600" height="450" /></a>**<br /> **
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg"><img class="alignnone size-full wp-image-6590" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6.jpg" alt="" width="600" height="450" /></a><strong><br /> </strong>
 </p>
 
 Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura meu cunhado trouxe do Chile _pra_ gente e a girafa e a caixa lá atrás (que é um álbum de fotos) vieram do Chile trazidos por nós.
 
 <p align="justify">
-  Viram que eu ganhei uma mesinha não muito bonita mas muito útil!? Sem contar que fica escondidinha por causa do sofá&#8230; aos poucos vou aprimorando ela&#8230;ou então compro uma nova!!!!!! _hehehe_…
+  Viram que eu ganhei uma mesinha não muito bonita mas muito útil!? Sem contar que fica escondidinha por causa do sofá&#8230; aos poucos vou aprimorando ela&#8230;ou então compro uma nova!!!!!! <em>hehehe</em>…
 </p>
 
 <table width="601" border="0" cellspacing="0" cellpadding="2">
@@ -73,10 +73,10 @@ Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura 
     </td>
     
     <td valign="top" width="300">
-      ****</p> 
+      <strong></strong></p> 
       
       <p style="text-align: justify;">
-        **Renata Becker Wentz**, estudante de Publicidade, trabalha como auxiliar de marketing e nas horas vagas brinca de criar, inventar e modificar a casa. E o casamento também, óbvio! Autora do blog **<a href="http://www.vidaloucadecasada.blogspot.com/">Vida Louca de Casada</a>**.
+        <strong>Renata Becker Wentz</strong>, estudante de Publicidade, trabalha como auxiliar de marketing e nas horas vagas brinca de criar, inventar e modificar a casa. E o casamento também, óbvio! Autora do blog <strong><a href="http://www.vidaloucadecasada.blogspot.com/">Vida Louca de Casada</a></strong>.
       </p>
     </td>
   </tr>
@@ -85,7 +85,7 @@ Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura 
 &nbsp;
 
 <p style="text-align: center;">
-  Faça como a **Renata**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
+  Faça como a <strong>Renata</strong>, e envie <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em></strong> para o <strong>Bicha Fêmea</strong>!
 </p>
 
 &nbsp;
@@ -103,17 +103,17 @@ Na verdade este perfume de ambiente rosa não é do Chile. Esta carranca escura 
 **[Pitacos de bicha fêmea: decorando a sala de estar com amarelo!](http://www.trololodemulher.com.br/2011/01/26/decoracao-sala-estar-amarelo/)**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
 </p>
 
 <p style="text-align: center;" align="center">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;" align="center">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;" align="center">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>

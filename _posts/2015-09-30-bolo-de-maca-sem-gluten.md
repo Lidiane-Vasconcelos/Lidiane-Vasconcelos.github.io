@@ -1,8 +1,8 @@
 ---
-
+id: 3493
 title: Bolo de maçã sem glúten
-
-author: Lidiane
+date: 2015-09-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/09/30/bolo-de-maca-sem-gluten/
 permalink: /2015/09/30/bolo-de-maca-sem-gluten/
@@ -13,7 +13,7 @@ categories:
   <div class="body">
     <div id="f5717c45-1423-4abd-bc5f-2e8a23d32846" class="postBody" style="margin: 4px 0px 0px; border-width: 0px; padding: 0px;" contenteditable="true">
       <p style="text-align: justify;" align="justify">
-        Cheirinho de bolo assando em casa é tudo que há. Bolo é daquelas comidinhas reconfortantes, e não é por causa de uma intolerância que você ou alguém que você ama tenha que esse carinho não vai tomar conta do seu lar. Confira a dica de receita saudável da Carol e deixe o aroma desse **bolo de maçã sem glúten** se espalhar em sua casa. Você e sua família merecem!
+        Cheirinho de bolo assando em casa é tudo que há. Bolo é daquelas comidinhas reconfortantes, e não é por causa de uma intolerância que você ou alguém que você ama tenha que esse carinho não vai tomar conta do seu lar. Confira a dica de receita saudável da Carol e deixe o aroma desse <strong>bolo de maçã sem glúten</strong> se espalhar em sua casa. Você e sua família merecem!
       </p>
       
       <p align="center">
@@ -21,7 +21,7 @@ categories:
       </p>
       
       <p align="justify">
-        **Ingredientes:**
+        <strong>Ingredientes:</strong>
       </p>
       
       <p align="justify">
@@ -73,7 +73,7 @@ categories:
       </p>
       
       <p align="justify">
-        **Antes de começar, já préaqueça o forno a 200 graus.<br /> **
+        <strong>Antes de começar, já préaqueça o forno a 200 graus.<br /> </strong>
       </p>
       
       <p align="justify">
@@ -81,7 +81,7 @@ categories:
       </p>
       
       <p align="justify">
-        **Montagem:**
+        <strong>Montagem:</strong>
       </p>
       
       <p align="justify">
@@ -97,27 +97,27 @@ categories:
       </p>
       
       <p align="justify">
-        **Mais receitas da Carol:**
+        <strong>Mais receitas da Carol:</strong>
       </p>
       
       <p align="justify">
-        **[Purê de ervilha: bonito, saudável e nutritivo](http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/) **
+        <strong><a href="http://www.trololodemulher.com.br/2015/09/16/pure-de-ervilha/" target="_blank">Purê de ervilha: bonito, saudável e nutritivo</a></strong>
       </p>
       
       <p align="justify">
-        **[Saint peter ao forno ao molho de abóbora](http://www.trololodemulher.com.br/2015/09/02/saint-peter/) **
+        <strong><a href="http://www.trololodemulher.com.br/2015/09/02/saint-peter/" target="_blank">Saint peter ao forno ao molho de abóbora</a></strong>
       </p>
       
       <p align="justify">
-        **[Mousse de chocolate com café: porque merecemos!](http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/) **
+        <strong><a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café: porque merecemos!</a></strong>
       </p>
       
       <p align="justify">
-        Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+        Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
       </p>
       
       <p align="center">
-        [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+        <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
       </p>
       
       <p align="justify">

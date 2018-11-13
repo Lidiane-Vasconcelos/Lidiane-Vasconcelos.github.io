@@ -1,8 +1,8 @@
 ---
-
+id: 3186
 title: Houve sorteio nos bastidores do Bicha Fêmea… e haverá mais!
-
-author: Lidiane
+date: 2012-09-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/09/18/sorteio-artesanal-shop/
 permalink: /2012/09/18/sorteio-artesanal-shop/
@@ -15,19 +15,19 @@ Como assim você não navega pelos bastidores do **Bicha Fêmea**, bonita?! Pois
 &nbsp;
 
 <p align="justify">
-  Nos bastidores do Bicha Fêmea há muito _trololó_, e a partir disso, inclusive, surgem as colaborações para os vários posts publicados por aqui. Por isso, sou muito grata a essa mulherada que gosta de participar, dar _pitacos _e opiniões. Como agradecê-las?
+  Nos bastidores do Bicha Fêmea há muito <em>trololó</em>, e a partir disso, inclusive, surgem as colaborações para os vários posts publicados por aqui. Por isso, sou muito grata a essa mulherada que gosta de participar, dar <em>pitacos </em>e opiniões. Como agradecê-las?
 </p>
 
 <!--more-->
 
 <p align="justify">
-  Queria agradecer de um jeito diferente. Eu já sabia que faria um sorteio por aqui em parceria com a **Artesanal Shop**, onde seria sorteado um mimo para a casa. Mas antes disso acontecer no blog,** nossa parceira reservou um presente especial** para ser sorteado nos bastidores, **somente entre as bichas fêmeas navegantes que recebem a Newsletter do Blog e fazem parte do grupo que trocam _e-mails_ comigo e respondem aos meus questionamentos mais curiosos, resultando num conteúdo _bloguístico_ bem colaborativo**.
+  Queria agradecer de um jeito diferente. Eu já sabia que faria um sorteio por aqui em parceria com a <strong>Artesanal Shop</strong>, onde seria sorteado um mimo para a casa. Mas antes disso acontecer no blog,<strong> nossa parceira reservou um presente especial</strong> para ser sorteado nos bastidores, <strong>somente entre as bichas fêmeas navegantes que recebem a Newsletter do Blog e fazem parte do grupo que trocam <em>e-mails</em> comigo e respondem aos meus questionamentos mais curiosos, resultando num conteúdo <em>bloguístico</em> bem colaborativo</strong>.
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Vocês conhecem a Artesanal Shop?</span>**
+  <strong><span style="font-size: large;">Vocês conhecem a Artesanal Shop?</span></strong>
 </p>
 
 &nbsp;
@@ -39,11 +39,11 @@ Como assim você não navega pelos bastidores do **Bicha Fêmea**, bonita?! Pois
 &nbsp;
 
 <p align="justify">
-  Já escrevi sobre a loja no Bicha Fêmea **[clicar aqui](http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/">aqui</a>**. Se quiser conhecer a empresa ainda mais de perto, pode **<a href="http://www.artesanalshop.com.br/) **.
+  Já escrevi sobre a loja no Bicha Fêmea <strong><a href="http://www.trololodemulher.com.br/2012/07/31/artesanal-shop-loja-decoracao/">aqui</a></strong>. Se quiser conhecer a empresa ainda mais de perto, pode <strong><a href="http://www.artesanalshop.com.br/" target="_blank">clicar aqui</a></strong>.
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Sabe qual presente da Artesanal Shop foi sorteado somente nos bastidores do blog? _Espia_:</span>**
+  <strong><span style="font-size: large;">Sabe qual presente da Artesanal Shop foi sorteado somente nos bastidores do blog? <em>Espia</em>:</span></strong>
 </p>
 
 &nbsp;
@@ -73,7 +73,7 @@ A **<span style="font-size: large;">Neli Rodrigues</span>**!!!!!
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Quer ganhar um presente também?</span>**
+  <strong><span style="font-size: large;">Quer ganhar um presente também?</span></strong>
 </p>
 
 &nbsp;
@@ -85,47 +85,47 @@ A **<span style="font-size: large;">Neli Rodrigues</span>**!!!!!
 &nbsp;
 
 <p align="justify">
-  Viu? É uma **<span style="font-size: large;">TOALHA DE MESA DEGRADÊ</span>** de 140X220 cm, 100% algodão. A **cor da toalha fica a gosto de quem ganhá-la**, e você pode conferir as cores **[clicando bem aqui](http://www.artesanalshop.com.br/toalha-de-mesa-jogo-americano/toalha-de-mesa/toalha-de-mesa-degrade-220.html#) ** e já começar a sonhar com ela deixando sua casa linda de viver, _viu_?
+  Viu? É uma <strong><span style="font-size: large;">TOALHA DE MESA DEGRADÊ</span></strong> de 140X220 cm, 100% algodão. A <strong>cor da toalha fica a gosto de quem ganhá-la</strong>, e você pode conferir as cores <strong><a href="http://www.artesanalshop.com.br/toalha-de-mesa-jogo-americano/toalha-de-mesa/toalha-de-mesa-degrade-220.html#" target="_blank">clicando bem aqui</a></strong> e já começar a sonhar com ela deixando sua casa linda de viver, <em>viu</em>?
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">O que fazer para ganhar essa belezura?</span>**
+  <strong><span style="font-size: large;">O que fazer para ganhar essa belezura?</span></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **Visite a loja virtual Artesanal Shop**, **[clicando bem aqui](http://www.artesanalshop.com.br/) **, e responda:
+  <strong>Visite a loja virtual Artesanal Shop</strong>, <strong><a href="http://www.artesanalshop.com.br/" target="_blank">clicando bem aqui</a></strong>, e responda:
 </p>
 
 &nbsp;
 
 <p align="center">
-  <span style="font-size: medium;">“**Qual produto da loja Artesanal Shop deixaria sua casa mais linda de viver do que nunca? Por quê?**&#8220;</span>
+  <span style="font-size: medium;">“<strong>Qual produto da loja Artesanal Shop deixaria sua casa mais linda de viver do que nunca? Por quê?</strong>&#8220;</span>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Sua **resposta deve ser deixada nos comentários desse post**. Fazendo isso, você já está participando, bonitona!
+  Sua <strong>resposta deve ser deixada nos comentários desse post</strong>. Fazendo isso, você já está participando, bonitona!
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Quer chances extras?</span>**
+  <strong><span style="font-size: large;">Quer chances extras?</span></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Se você divulgar o sorteio no **Facebook**, me **avise nos comentários e ponha o link de sua divulgação**, sim? Essa divulgação valerá uma inscrição a mais para você, está bem?
+  Se você divulgar o sorteio no <strong>Facebook</strong>, me <strong>avise nos comentários e ponha o link de sua divulgação</strong>, sim? Essa divulgação valerá uma inscrição a mais para você, está bem?
 </p>
 
 <p align="justify">
-  As **<span style="font-size: large;">inscrições vão até o dia 26 de Setembro</span>**, e a divulgação do resultado será dia **02 de Outubro**. O sorteio será via Random.org. Será enviado um e-mail para a pessoa sorteada, que terá até o dia 04 de Outubro para responder minha mensagem com os dados de entrega em território nacional. Caso eu não receba essa resposta, farei novo sorteio entre os inscritos…
+  As <strong><span style="font-size: large;">inscrições vão até o dia 26 de Setembro</span></strong>, e a divulgação do resultado será dia <strong>02 de Outubro</strong>. O sorteio será via Random.org. Será enviado um e-mail para a pessoa sorteada, que terá até o dia 04 de Outubro para responder minha mensagem com os dados de entrega em território nacional. Caso eu não receba essa resposta, farei novo sorteio entre os inscritos…
 </p>
 
 <p align="justify">

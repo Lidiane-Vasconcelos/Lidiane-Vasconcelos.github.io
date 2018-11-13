@@ -1,8 +1,8 @@
 ---
-
+id: 3316
 title: 'Caixas: 5 soluções de organização da casa.'
-
-author: Lidiane
+date: 2014-06-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/06/30/caixas-organizacao-casa/
 permalink: /2014/06/30/caixas-organizacao-casa/
@@ -22,7 +22,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  **1 – Sala**
+  <strong>1 – Sala</strong>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  **2 – Home Office ou Escritório**
+  <strong>2 – Home Office ou Escritório</strong>
 </p>
 
 <p align="center">
@@ -48,25 +48,25 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Nas prateleiras abertas de seu escritório elas podem ser muito úteis guardando todo tipo de material possível e próprio desse espaço. No caso das arteiras, então, essa dica pode se estender para o _quarteliê_ ou o cantinho do artesanato. Seu local de trabalho vai ganhar muito em organização, pode acreditar!
+  Nas prateleiras abertas de seu escritório elas podem ser muito úteis guardando todo tipo de material possível e próprio desse espaço. No caso das arteiras, então, essa dica pode se estender para o <em>quarteliê</em> ou o cantinho do artesanato. Seu local de trabalho vai ganhar muito em organização, pode acreditar!
 </p>
 
 <p align="justify">
-  **Não deixe de ler:**
+  <strong>Não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  [**Organização de escritório ou home office: dicas.**](http://www.decoracaodacasa.com/organizacao-de-escritorio/) 
+  <a href="http://www.decoracaodacasa.com/organizacao-de-escritorio/" target="_blank"><strong>Organização de escritório ou home office: dicas.</strong></a>
 </p>
 
 <p align="justify">
-  [**Escritório em casa: ideias simples e baratas para organização.**](http://www.decoracaodacasa.com/escritorio-casa-organizacao/) 
+  <a href="http://www.decoracaodacasa.com/escritorio-casa-organizacao/" target="_blank"><strong>Escritório em casa: ideias simples e baratas para organização.</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **3 – Cozinha**
+  <strong>3 – Cozinha</strong>
 </p>
 
 <p align="center">
@@ -80,25 +80,25 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais ideias para uma cozinha nos trinques:**
+  <strong>Mais ideias para uma cozinha nos trinques:</strong>
 </p>
 
 <p align="justify">
-  [**Quer 5 razões para ter um suporte de organização na parde da cozinha?**](http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/) 
+  <a href="http://www.trololodemulher.com.br/2012/07/27/suporte-organizacao-cozinha/" target="_blank"><strong>Quer 5 razões para ter um suporte de organização na parde da cozinha?</strong></a>
 </p>
 
 <p align="justify">
-  [**3 dicas para organização da cozinha… confira!**](http://www.decoracaodacasa.com/organizacao-da-cozinha/) 
+  <a href="http://www.decoracaodacasa.com/organizacao-da-cozinha/" target="_blank"><strong>3 dicas para organização da cozinha… confira!</strong></a>
 </p>
 
 <p align="justify">
-  [**4 ideias para manter sua cozinha organizada.**](http://www.decoracaodacasa.com/ideias-cozinha-organizada/) 
+  <a href="http://www.decoracaodacasa.com/ideias-cozinha-organizada/" target="_blank"><strong>4 ideias para manter sua cozinha organizada.</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **4 – Quarto**
+  <strong>4 – Quarto</strong>
 </p>
 
 <p align="center">
@@ -113,16 +113,16 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 
 **Tudo em ordem no quarto!**
 
-[**4 soluções de organização para o quarto infantil: você não vai copiar?**](http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/) 
+<a href="http://www.decoracaodacasa.com/organizacao-quarto-infantil-2/" target="_blank"><strong>4 soluções de organização para o quarto infantil: você não vai copiar?</strong></a>
 
-[**Móveis para a organização do quarto: o que dá para usar?**](http://www.decoracaodacasa.com/moveis-organizacao-quarto/) 
+<a href="http://www.decoracaodacasa.com/moveis-organizacao-quarto/" target="_blank"><strong>Móveis para a organização do quarto: o que dá para usar?</strong></a>
 
 &nbsp;
 
 &nbsp;
 
 <p align="center">
-  **5 – Banheiro**
+  <strong>5 – Banheiro</strong>
 </p>
 
 <p align="center">
@@ -136,21 +136,21 @@ No guarda-roupas elas salvam! Use para guardar roupas de praia, peças íntimas,
 </p>
 
 <p align="justify">
-  **E mais!**
+  <strong>E mais!</strong>
 </p>
 
 <p align="justify">
-  [**5 ideias de organização do banheiro que favorecem a decoração.**](http://www.decoracaodacasa.com/organizacao-do-banheiro/) 
+  <a href="http://www.decoracaodacasa.com/organizacao-do-banheiro/" target="_blank"><strong>5 ideias de organização do banheiro que favorecem a decoração.</strong></a>
 </p>
 
 &nbsp;
 
-Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
+Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">

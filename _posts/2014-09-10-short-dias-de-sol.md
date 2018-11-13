@@ -1,8 +1,8 @@
 ---
-
+id: 3341
 title: 'O bom e velho short: peça certeira nos dias de sol.'
-
-author: Lidiane
+date: 2014-09-10T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/09/10/short-dias-de-sol/
 permalink: /2014/09/10/short-dias-de-sol/
@@ -14,15 +14,15 @@ categories:
 </p>
 
 <p align="justify">
-  Se você não tem muita segurança sobre como identificá-lo e usar esse item do guarda-roupas a seu favor, calma! Quem vai nos ajudar a acertar na produção é a **Lilian Jordão, Consultora de Estilo**, e a mais nova parceira do blog. Sua consultoria vai esclarecer nossas dúvidas, e a gente vai se sentir pronta e segura para desfilar de short por aí… confira!
+  Se você não tem muita segurança sobre como identificá-lo e usar esse item do guarda-roupas a seu favor, calma! Quem vai nos ajudar a acertar na produção é a <strong>Lilian Jordão, Consultora de Estilo</strong>, e a mais nova parceira do blog. Sua consultoria vai esclarecer nossas dúvidas, e a gente vai se sentir pronta e segura para desfilar de short por aí… confira!
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Palavra de especialista…</span>**
+  <strong><span style="font-size: large;">Palavra de especialista…</span></strong>
 </p>
 
 <p align="justify">
-  _“O verão é a época de mostrar as pernas, e os shorts se transformam nos melhores amigos das mulheres neste período do ano. Para fugir do tradicional jeans, os modelos de alfaiataria são uma ótima opção já que, além de serem confortáveis, são muito elegantes.”_
+  <em>“O verão é a época de mostrar as pernas, e os shorts se transformam nos melhores amigos das mulheres neste período do ano. Para fugir do tradicional jeans, os modelos de alfaiataria são uma ótima opção já que, além de serem confortáveis, são muito elegantes.”</em>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Pinterest](http://www.pinterest.com/) 
+  Imagem: <a href="http://www.pinterest.com/" target="_blank">Pinterest</a>
 </p>
 
 > <p align="justify">
@@ -38,7 +38,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **<span style="font-size: large;">Bicha Fêmea: A peça favorece qualquer tipo físico?</span>**
+  <strong><span style="font-size: large;">Bicha Fêmea: A peça favorece qualquer tipo físico?</span></strong>
 </p>
 
 > <p align="justify">
@@ -46,7 +46,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **<span style="font-size: large;">Bicha Fêmea: Para fazer a linha chique com esse short, com o que ele pode ser usado?</span>**
+  <strong><span style="font-size: large;">Bicha Fêmea: Para fazer a linha chique com esse short, com o que ele pode ser usado?</span></strong>
 </p>
 
 > <p align="justify">
@@ -54,7 +54,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **<span style="font-size: large;">Bicha Fêmea: Além desse clássico, há algum outro modelo de short que veremos com frequência nos cabides das lojas nesta próxima estação?</span>**
+  <strong><span style="font-size: large;">Bicha Fêmea: Além desse clássico, há algum outro modelo de short que veremos com frequência nos cabides das lojas nesta próxima estação?</span></strong>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Pinterest](http://br.pinterest.com/) 
+  Imagem: <a href="http://br.pinterest.com/" target="_blank">Pinterest</a>
 </p>
 
 > <p align="justify">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p align="justify">
-  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? [Clica aqui e se joga](https://www.facebook.com/lilianjordao82/timeline) !
+  A Lilian faz a atualização de sua página no Facebook com a frequência que você precisa para se manter bem informada sobre moda e estilo, isso tudo com imagens que facilitam a compreensão da mensagem que a expert quer passar. Tudo é bem explicadinho com linguagem gostosa e didática. Eu já curti. Quer curtir também? <a href="https://www.facebook.com/lilianjordao82/timeline" target="_blank">Clica aqui e se joga</a>!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="justify">

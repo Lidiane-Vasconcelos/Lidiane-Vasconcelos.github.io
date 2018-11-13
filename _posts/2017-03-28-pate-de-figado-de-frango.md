@@ -1,8 +1,8 @@
 ---
-
+id: 3745
 title: Patê de fígado de frango
-
-author: Lidiane
+date: 2017-03-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/03/28/pate-de-figado-de-frango/
 permalink: /2017/03/28/pate-de-figado-de-frango/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  O **patê de fígado de frango** que a Tânia nos ensina a fazer hoje é daquelas receitas que você guarda na manga para ocasiões especiais, e a grande vantagem é poder deixar tudo pronto com bastante antecedência. Veja a seguir todos os passos para preparar o patê, e dicas sobre a melhor forma de saboreá-lo. Confira!
+  O <strong>patê de fígado de frango</strong> que a Tânia nos ensina a fazer hoje é daquelas receitas que você guarda na manga para ocasiões especiais, e a grande vantagem é poder deixar tudo pronto com bastante antecedência. Veja a seguir todos os passos para preparar o patê, e dicas sobre a melhor forma de saboreá-lo. Confira!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “_Patê de fígado de galinha: uma entrada deliciosa e fácil de cozinhar. A grande vantagem deste prato é que você pode prepará-lo com antecedência, pois ele dura até 2 semanas na geladeira, quando bem selado com manteiga._
+  “<em>Patê de fígado de galinha: uma entrada deliciosa e fácil de cozinhar. A grande vantagem deste prato é que você pode prepará-lo com antecedência, pois ele dura até 2 semanas na geladeira, quando bem selado com manteiga.</em>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="justify">
-  _Este patê, por si só, é uma delícia, mas se você quiser dar ao mesmo um toque adicional, apenas tempere suas torradas ou biscoitinhos salgados com o patê, e um pouco de geleia, ou algumas pequenas frutas vermelhas e doces, como sementes de romã, framboesa ou groselha. Como você só precisa de um toque do “doce”, certifique-se de não usar muita geleia ou frutas, caso contrário eles vão “cobrir” o sabor do patê._
+  <em>Este patê, por si só, é uma delícia, mas se você quiser dar ao mesmo um toque adicional, apenas tempere suas torradas ou biscoitinhos salgados com o patê, e um pouco de geleia, ou algumas pequenas frutas vermelhas e doces, como sementes de romã, framboesa ou groselha. Como você só precisa de um toque do “doce”, certifique-se de não usar muita geleia ou frutas, caso contrário eles vão “cobrir” o sabor do patê.</em>
 </p>
 
 <p align="center">
@@ -77,20 +77,20 @@ _Você pode substituir o brandy por conhaque ou vinho do Porto. Devo admitir que
 
 **Mais receitas de Tânia:**
 
-[**Pera assada: perfeita como entrada, ou sobremesa.**](http://www.trololodemulher.com.br/2017/03/21/pera-assada/) 
+<a href="http://www.trololodemulher.com.br/2017/03/21/pera-assada/" target="_blank"><strong>Pera assada: perfeita como entrada, ou sobremesa.</strong></a>
 
-[**Molho pesto de limão siciliano: mil e uma finalidades.**](http://www.trololodemulher.com.br/2017/03/16/molho-pesto/) 
+<a href="http://www.trololodemulher.com.br/2017/03/16/molho-pesto/" target="_blank"><strong>Molho pesto de limão siciliano: mil e uma finalidades.</strong></a>
 
-[**Sopa de lentilhas: comida boa e prosperidade o ano todo.**](http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/) 
+<a href="http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/" target="_blank"><strong>Sopa de lentilhas: comida boa e prosperidade o ano todo.</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… [clique aqui e siga!](https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

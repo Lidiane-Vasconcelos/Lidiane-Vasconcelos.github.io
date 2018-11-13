@@ -1,8 +1,8 @@
 ---
-
+id: 3882
 title: Mexa-se em atividade física e seja mais produtiva!
-
-author: Lidiane
+date: 2018-10-16T00:00:00+00:00
+author: admin
 excerpt: Atividade física é algo que faz bem, e quem pratica sabe disso. Mas há a necessidade de organização para inserir isso na rotina. Por onde começar?
 layout: post
 guid: http://localhost/wordpress/2018/10/16/atividade-fisica/
@@ -13,7 +13,7 @@ categories:
   - Saúde
 ---
 <p align="justify">
-  **Atividade física** é algo que faz bem, sim, e quem pratica sabe do que estou falando. Após o exercício a gente sente uma sensação muito boa, de bem-estar mesmo, e sente-se realmente mais disposta para encarar todas as outras demandas que vêm pela frente. Já conversamos sobre como é importante <a href="http://www.trololodemulher.com.br/2018/10/10/produtividade-6/" target="_blank" rel="noopener">se organizar para se alimentar melhor</a>, o que garante mais saúde, economia de dinheiro, tempo e energia, e favorece a nossa produtividade. Nesse post de hoje, insisto na necessidade de organização para inserir uma boa estratégia de produtividade na rotina: exercícios físicos.
+  <strong>Atividade física</strong> é algo que faz bem, sim, e quem pratica sabe do que estou falando. Após o exercício a gente sente uma sensação muito boa, de bem-estar mesmo, e sente-se realmente mais disposta para encarar todas as outras demandas que vêm pela frente. Já conversamos sobre como é importante <a href="http://www.trololodemulher.com.br/2018/10/10/produtividade-6/" target="_blank" rel="noopener">se organizar para se alimentar melhor</a>, o que garante mais saúde, economia de dinheiro, tempo e energia, e favorece a nossa produtividade. Nesse post de hoje, insisto na necessidade de organização para inserir uma boa estratégia de produtividade na rotina: exercícios físicos.
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ categories:
 </p>
 
 <p align="center">
-  **[LUXO É TER TEMPO, E USÁ-LO NO QUE MAIS IMPORTA]**
+  <strong>[LUXO É TER TEMPO, E USÁ-LO NO QUE MAIS IMPORTA]</strong>
 </p>
 
 <p align="justify">
@@ -69,7 +69,7 @@ categories:
 </p>
 
 <p align="center">
-  **Nosso contéudo:**
+  <strong>Nosso contéudo:</strong>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ categories:
 </p>
 
 <p align="center">
-  **E tem mais!**
+  <strong>E tem mais!</strong>
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ categories:
 </p>
 
 <p align="center">
-  **Nas Redes:**
+  <strong>Nas Redes:</strong>
 </p>
 
 <p align="center">

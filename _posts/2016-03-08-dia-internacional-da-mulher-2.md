@@ -1,8 +1,8 @@
 ---
-
+id: 3559
 title: Feliz Dia Internacional da Mulher!!!
-
-author: Lidiane
+date: 2016-03-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/03/08/dia-internacional-da-mulher-2/
 permalink: /2016/03/08/dia-internacional-da-mulher-2/
@@ -20,5 +20,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

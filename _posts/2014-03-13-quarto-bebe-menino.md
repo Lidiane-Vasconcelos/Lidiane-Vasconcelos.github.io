@@ -1,8 +1,8 @@
 ---
-
+id: 3286
 title: 4 quartos de bebê menino para você suspirar… e se inspirar.
-
-author: Lidiane
+date: 2014-03-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/03/13/quarto-bebe-menino/
 permalink: /2014/03/13/quarto-bebe-menino/
@@ -25,7 +25,7 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Amei</span>**: cortina com tecido listrado fininho e colorido, e a banquetinha azul de apoio.
+  <strong><span style="font-size: small;">Amei</span></strong>: cortina com tecido listrado fininho e colorido, e a banquetinha azul de apoio.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Eu faria igual</span>**: quadros com animais na parede.
+  <strong><span style="font-size: small;">Eu faria igual</span></strong>: quadros com animais na parede.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Curti a ideia</span>**: aplicar papel em uma das paredes e, a partir da cor da estampa, pincelar detalhes decorativos pelo quarto na mesma cor.
+  <strong><span style="font-size: small;">Curti a ideia</span></strong>: aplicar papel em uma das paredes e, a partir da cor da estampa, pincelar detalhes decorativos pelo quarto na mesma cor.
 </p>
 
 <p align="center">
@@ -49,41 +49,41 @@ Recebeu a notícia que está esperando um meninão? Ô, que delícia! Sei bem o 
 </p>
 
 <p align="center">
-  **<span style="font-size: small;">Para copiar</span>**: composição de quadros delicados + adesivo de parede.
+  <strong><span style="font-size: small;">Para copiar</span></strong>: composição de quadros delicados + adesivo de parede.
 </p>
 
 &nbsp;
 
-Imagens: **_[homedit](http://www.homedit.com/) _**
+Imagens: **_<a href="http://www.homedit.com/" target="_blank">homedit</a>_**
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Muito mais para você:</span>**
+  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
 </p>
 
 <p align="center">
-  [**<span style="font-size: small;">Decoração para quarto de bebê menino e menina</span>**](http://www.decoracaodacasa.com/decoracao-quarto-bebe/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe/" target="_blank"><strong><span style="font-size: small;">Decoração para quarto de bebê menino e menina</span></strong></a>
 </p>
 
 <p align="center">
-  [**<span style="font-size: small;">Decoração neutra e simples para bebê: dicas, pitacos e inspirações</span>**](http://www.decoracaodacasa.com/decoracao-bebe/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-bebe/" target="_blank"><strong><span style="font-size: small;">Decoração neutra e simples para bebê: dicas, pitacos e inspirações</span></strong></a>
 </p>
 
 <p align="center">
-  [**<span style="font-size: small;">2 ideias de decoração para quartos de bebê inéditas por aqui</span>**](http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/) 
-</p>
-
-&nbsp;
-
-<p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank"><strong><span style="font-size: small;">2 ideias de decoração para quartos de bebê inéditas por aqui</span></strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
+</p>
+
+&nbsp;
+
+<p align="center">
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -94,13 +94,13 @@ Imagens: **_[homedit](http://www.homedit.com/) _**
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -109,5 +109,5 @@ Imagens: **_[homedit](http://www.homedit.com/) _**
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>

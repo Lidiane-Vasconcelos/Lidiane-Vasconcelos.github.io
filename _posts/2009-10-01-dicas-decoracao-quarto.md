@@ -1,8 +1,8 @@
 ---
-
+id: 2708
 title: Dicas e Detalhes na Decoração do Quarto
-
-author: Lidiane
+date: 2009-10-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/10/01/dicas-decoracao-quarto/
 permalink: /2009/10/01/dicas-decoracao-quarto/
@@ -41,20 +41,20 @@ Logo que vi esta colcha de retalhos, lembrei de minha avó paterna que costurava
 
 Minha vó costumava usar tecidos com estampas mais acentuadas, o que não deixa de ser muito bonito. Mas confesso que não resistiria a uma colcha dessas, em que as estampas dos tecidos são tão delicadas. Não é um detalhe da decoração do quarto que teria um charme todo especial?
 
-Imagens: [Martha Stewart](http://www.marthastewart.com/) 
+Imagens: <a href="http://www.marthastewart.com/" target="_blank">Martha Stewart</a>
 
 **Mais no Bicha:**
 
-<a href="http://www.trololodemulher.com.br/2009/08/11/pitacos-de-bicha-fmea-decorao-de-quartos/" target="_self">**_“Pitacos” de Bicha Fêmea: decoração de quartos._**</a>
+<a href="http://www.trololodemulher.com.br/2009/08/11/pitacos-de-bicha-fmea-decorao-de-quartos/" target="_self"><strong><em>“Pitacos” de Bicha Fêmea: decoração de quartos.</em></strong></a>
 
-<a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/" target="_self">**_Cabeceiras de cama para inspiração…_**</a>
+<a href="http://www.trololodemulher.com.br/2009/04/30/cabeceiras-de-cama-para-inspirao/" target="_self"><strong><em>Cabeceiras de cama para inspiração…</em></strong></a>
 
-<a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/" target="_self">**_Ideias essencialmente femininas para a decoração do nosso quarto…_**</a>
+<a href="http://www.trololodemulher.com.br/2009/03/05/ideias-essencialmente-femininas-para-a-decorao-do-nosso-quarto/" target="_self"><strong><em>Ideias essencialmente femininas para a decoração do nosso quarto…</em></strong></a>
 
-**A Lucia Laureano, que escreve no blog &#8220;[Criative-se](http://www.criativesse.blogspot.com/) &#8221; e no &#8220;[Gui e Duda](http://www.lucialaureano.com/) &#8220;, deu a dica de uma cabeceira feita com panô em _patchwork_. E tem até foto, olha só:**
+**A Lucia Laureano, que escreve no blog &#8220;<a href="http://www.criativesse.blogspot.com/" target="_blank">Criative-se</a>&#8221; e no &#8220;<a href="http://www.lucialaureano.com/" target="_blank">Gui e Duda</a>&#8220;, deu a dica de uma cabeceira feita com panô em _patchwork_. E tem até foto, olha só:**
 
 <p style="text-align: center;">
-  _<img class="size-full wp-image-2508 aligncenter" title="cabeceira 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/cabeceira-2.jpg" alt="cabeceira 2" width="450" height="337" />_
+  <em><img class="size-full wp-image-2508 aligncenter" title="cabeceira 2" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/10/cabeceira-2.jpg" alt="cabeceira 2" width="450" height="337" /></em>
 </p>
 
 **Quer mais dicas ainda sobre decoração de quarto?**
@@ -64,7 +64,7 @@ _**<a href="http://www.trololodemulher.com.br/2010/03/29/decoracao-quarto-de-cas
 **_<a href="http://www.trololodemulher.com.br/2009/01/15/os-10-erros-em-seu-quarto/" target="_self">10 erros na decoração e bem-estar do seu quarto.</a>_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>
 
 _ _

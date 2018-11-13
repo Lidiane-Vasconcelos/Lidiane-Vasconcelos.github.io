@@ -1,8 +1,8 @@
 ---
-
+id: 3120
 title: 'Josefina Chocolates: quando sabor, requinte e beleza se encontram…'
-
-author: Lidiane
+date: 2012-03-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/03/08/chocolate-artesanal-pascoa/
 permalink: /2012/03/08/chocolate-artesanal-pascoa/
@@ -14,7 +14,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 &nbsp;
 
 <p align="justify">
-  Por isso, bonita: prepare-se! As _lindezas_ todas que você verá nesta dica que eu quero te dar vão deixar o seu coração palpitando de vontade. Não estou exagerando e você vai entender bem o porquê, _viu_? Delícias artesanais lindas de viver como essas? _Hummm_… ainda estou para ver!
+  Por isso, bonita: prepare-se! As <em>lindezas</em> todas que você verá nesta dica que eu quero te dar vão deixar o seu coração palpitando de vontade. Não estou exagerando e você vai entender bem o porquê, <em>viu</em>? Delícias artesanais lindas de viver como essas? <em>Hummm</em>… ainda estou para ver!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 &nbsp;
 
 <p align="justify">
-  A moça indiscutivelmente talentosa por trás disso tudo? Não! Ela não se chama Josefina… é a **Gabriela Schwab**. A bonita, que mostrou o amor pela gastronomia desde criança, vem materializando seu amor pela criação e pelos chocolates nas delicadezas lindas de viver da **[Josefina Chocolates](http://josefinachocolates.blogspot.com/) **…
+  A moça indiscutivelmente talentosa por trás disso tudo? Não! Ela não se chama Josefina… é a <strong>Gabriela Schwab</strong>. A bonita, que mostrou o amor pela gastronomia desde criança, vem materializando seu amor pela criação e pelos chocolates nas delicadezas lindas de viver da <strong><a href="http://josefinachocolates.blogspot.com/" target="_blank">Josefina Chocolates</a></strong>…
 </p>
 
 &nbsp;
@@ -38,7 +38,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 &nbsp;
 
 <p align="justify">
-  A intenção de Gabriela, ao pensar a marca e seus produtos, foi a de representar a arte e o requinte através dos **sabores e cheiros de chocolate que imperam em seus bombons, com os mais variados recheios**… agora, dá uma olhada nas **novidades para a Páscoa** e fala para mim se a bonitona não acertou em cheio no seu propósito:
+  A intenção de Gabriela, ao pensar a marca e seus produtos, foi a de representar a arte e o requinte através dos <strong>sabores e cheiros de chocolate que imperam em seus bombons, com os mais variados recheios</strong>… agora, dá uma olhada nas <strong>novidades para a Páscoa</strong> e fala para mim se a bonitona não acertou em cheio no seu propósito:
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 </p>
 
 <p align="center">
-  _Caixa &#8220;ovo&#8221; com 4 trufas – 100g_
+  <em>Caixa &#8220;ovo&#8221; com 4 trufas – 100g</em>
 </p>
 
 &nbsp;
@@ -58,17 +58,17 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 </p>
 
 <p align="center">
-  _Caixa &#8220;ovo&#8221; com 16 trufas – 430g_
+  <em>Caixa &#8220;ovo&#8221; com 16 trufas – 430g</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Como se não bastasse a moça caprichar na elaboração dos chocolates, com sabores que deixam a gente literalmente com água na boca só de ler a** [listinha bem aqui](http://josefinachocolates.blogspot.com/p/sabores.html) **, tudo isso vem **embalado com uma apresentação incrível**!
+  Como se não bastasse a moça caprichar na elaboração dos chocolates, com sabores que deixam a gente literalmente com água na boca só de ler a<strong> <a href="http://josefinachocolates.blogspot.com/p/sabores.html" target="_blank">listinha bem aqui</a></strong>, tudo isso vem <strong>embalado com uma apresentação incrível</strong>!
 </p>
 
 <p align="justify">
-  As **caixas também são confeccionadas artesanalmente**, no **formato de ovo**, **revestidas com tecido de algodão. O acabamento interno tem duas opções: uma delicada nuvem de cetim ou  um elegante drapeado**… o bom gosto é indiscutível, _né _não? E eu aposto que você já sabe quem é sua pessoa amada que merece esse carinho…
+  As <strong>caixas também são confeccionadas artesanalmente</strong>, no <strong>formato de ovo</strong>, <strong>revestidas com tecido de algodão. O acabamento interno tem duas opções: uma delicada nuvem de cetim ou  um elegante drapeado</strong>… o bom gosto é indiscutível, <em>né </em>não? E eu aposto que você já sabe quem é sua pessoa amada que merece esse carinho…
 </p>
 
 &nbsp;
@@ -78,7 +78,7 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 </p>
 
 <p align="center">
-  _Leiteiras com 12 trufas – 325g_
+  <em>Leiteiras com 12 trufas – 325g</em>
 </p>
 
 <p align="center">
@@ -86,17 +86,17 @@ A **Páscoa** está chegando… as idas aos supermercados são providenciais par
 </p>
 
 <p align="center">
-  _Pote de aluminio com 16 trufas – 200g_
+  <em>Pote de aluminio com 16 trufas – 200g</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  E tem mais novidades para você que gosta mesmo de se diferenciar: **chocolates embalados em leiteiras de alumínio, com _12 trufas_ sortidas, com orelhinhas de coelho, que podem ser solicitadas nas cores branca, vermelha ou azul. Além disso, _16 trufas_ cremosas armazenadas em um fofíssimo pote de alumínio, também decorado com as orelhas de coelho.**
+  E tem mais novidades para você que gosta mesmo de se diferenciar: <strong>chocolates embalados em leiteiras de alumínio, com <em>12 trufas</em> sortidas, com orelhinhas de coelho, que podem ser solicitadas nas cores branca, vermelha ou azul. Além disso, <em>16 trufas</em> cremosas armazenadas em um fofíssimo pote de alumínio, também decorado com as orelhas de coelho.</strong>
 </p>
 
 <p align="justify">
-  Não duvide da variedade de produtos que a **[Josefina Chocolates](http://josefinachocolates.blogspot.com/) ** tem para oferecer, _viu_? O leque de opções é enorme e você pode ver tudinho **[bem aqui](http://josefinachocolates.blogspot.com/p/produtos-josefina.html) **. Quanto ás **encomendas**? Não perca de vista o seguinte: elas **devem ser feitas com antecedência** porque, vale reforçar, tudo é artesanal e exclusivo. Além do mais, os pedidos são atendidos **somente para São Paulo capital**, está bem? Todos os detalhes você encontra **[bem aqui](http://josefinachocolates.blogspot.com/p/temas.html) **.
+  Não duvide da variedade de produtos que a <strong><a href="http://josefinachocolates.blogspot.com/" target="_blank">Josefina Chocolates</a></strong> tem para oferecer, <em>viu</em>? O leque de opções é enorme e você pode ver tudinho <strong><a href="http://josefinachocolates.blogspot.com/p/produtos-josefina.html" target="_blank">bem aqui</a></strong>. Quanto ás <strong>encomendas</strong>? Não perca de vista o seguinte: elas <strong>devem ser feitas com antecedência</strong> porque, vale reforçar, tudo é artesanal e exclusivo. Além do mais, os pedidos são atendidos <strong>somente para São Paulo capital</strong>, está bem? Todos os detalhes você encontra <strong><a href="http://josefinachocolates.blogspot.com/p/temas.html" target="_blank">bem aqui</a></strong>.
 </p>
 
 <p align="justify">

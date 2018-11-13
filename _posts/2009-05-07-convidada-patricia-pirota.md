@@ -1,8 +1,8 @@
 ---
-
+id: 2656
 title: 'De repente 30&#8230;'
-
-author: Lidiane
+date: 2009-05-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/05/07/convidada-patricia-pirota/
 permalink: /2009/05/07/convidada-patricia-pirota/
@@ -10,9 +10,9 @@ categories:
   - Comportamento
   - Comportamento Feminino
 ---
-**_Por Patrícia Pirota – [Ainda Mininamá](http://patriciapirota.blogspot.com/) _**
+**_Por Patrícia Pirota – <a href="http://patriciapirota.blogspot.com/" target="_blank">Ainda Mininamá</a>_**
 
-Primeiro quero dizer o quanto estou lépida e faceira de colocar minha carinha aqui no Bicha Fêmea [<span style="font-size: xx-small;">&#8216;Brigadíssima pelo convite, Lidi!</span>]! Depois de pôr a cachola horrores pra funcionar, pra escrever algo que estivesse à altura do Bicha e de suas leitoras, resolvi falar sobre minha aproximação da era balzaquiana e minha solteirice. Pode parecer bobo perto das tantas dicas utilíssimas e interessantes que as outras convidadas do Bicha deram [<span style="font-size: xx-small;">e que a Lidi dá diariamente por aqui</span>]; mas como ela disse que é pra diversificar, e que o texto tem que ter a cara da dona, aqui estamos. Um texto que é um pequeno recorte da vida, misturando mel e fel, pois é assim que as coisas se passam lá pras bandas do [Ainda MininaMá](http://patriciapirota.blogspot.com/) .
+Primeiro quero dizer o quanto estou lépida e faceira de colocar minha carinha aqui no Bicha Fêmea [<span style="font-size: xx-small;">&#8216;Brigadíssima pelo convite, Lidi!</span>]! Depois de pôr a cachola horrores pra funcionar, pra escrever algo que estivesse à altura do Bicha e de suas leitoras, resolvi falar sobre minha aproximação da era balzaquiana e minha solteirice. Pode parecer bobo perto das tantas dicas utilíssimas e interessantes que as outras convidadas do Bicha deram [<span style="font-size: xx-small;">e que a Lidi dá diariamente por aqui</span>]; mas como ela disse que é pra diversificar, e que o texto tem que ter a cara da dona, aqui estamos. Um texto que é um pequeno recorte da vida, misturando mel e fel, pois é assim que as coisas se passam lá pras bandas do <a href="http://patriciapirota.blogspot.com/" target="_blank">Ainda MininaMá</a>.
 
 Nos últimos dias venho pensando deveras em minha condição de quase balzaca. E, ao olhar ao meu redor, percebi que a única coisa que me lembra que daqui uns anos ganharei o selo 3.0 de qualidade é minha certidão de nascimento. Não consigo olhar no espelho e enxergar a idade que tenho. E não pensem vocês que é medo de envelhecer, porque não é não, minha gente! Acho lindo todas essas mulheres [<span style="font-size: xx-small;">nas quais as senhoritas se encontram</span>] no alto de seus saltos 10, muitas já dividindo a pasta de dente com o amado e a prole. Todas tão bonitas, um pouco pelo tempo que as torna mais belas e sábias, um pouco porque possuem brilho próprio. Admiro de longe, como quem observa um quadro de Monet. Mas não consigo me ver fazendo parte dessa pintura.
 

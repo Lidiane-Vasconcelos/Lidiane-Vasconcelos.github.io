@@ -1,8 +1,8 @@
 ---
-
+id: 2870
 title: 'Sendo chef de cozinha: os bastidores da profissão…'
-
-author: Lidiane
+date: 2010-09-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/09/06/chef-de-cozinha-profissao/
 permalink: /2010/09/06/chef-de-cozinha-profissao/
@@ -18,7 +18,7 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
 </p>
 
 <p style="text-align: justify;">
-  E para que você possa entender melhor esse grande universo da gastronomia, elaborei esse texto que pode ser encarado como o _Be-a-Bá_, como o início tanto para aqueles que nada conhecem como para aqueles que já conhecem alguma coisa e querem aprender ainda mais.
+  E para que você possa entender melhor esse grande universo da gastronomia, elaborei esse texto que pode ser encarado como o <em>Be-a-Bá</em>, como o início tanto para aqueles que nada conhecem como para aqueles que já conhecem alguma coisa e querem aprender ainda mais.
 </p>
 
 <p style="text-align: justify;">
@@ -26,7 +26,7 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
 </p>
 
 <p style="text-align: justify;">
-  Ela é composta basicamente de um _Chef_, profissional responsável pela cozinha e por sua equipe de trabalho. É ele quem dá as ordens, é o maestro que deve erguer as batutas para que tudo corra com a maior harmonia possível. Um profissional que além de ter pleno conhecimento da área, do mercado, ele tem que saber organizar seu pessoal para que todos trabalhem com alegria e respeito. Não é uma tarefa fácil, na maior parte do tempo é bem desgastante, mas tem seus méritos, como toda profissão.
+  Ela é composta basicamente de um <em>Chef</em>, profissional responsável pela cozinha e por sua equipe de trabalho. É ele quem dá as ordens, é o maestro que deve erguer as batutas para que tudo corra com a maior harmonia possível. Um profissional que além de ter pleno conhecimento da área, do mercado, ele tem que saber organizar seu pessoal para que todos trabalhem com alegria e respeito. Não é uma tarefa fácil, na maior parte do tempo é bem desgastante, mas tem seus méritos, como toda profissão.
 </p>
 
 <p style="text-align: center;">
@@ -34,19 +34,19 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
 </p>
 
 <p style="text-align: justify;">
-  Abaixo do Chef, encontramos o _Sous-Chef_ ou _Sub-Chef_ que é o segundo dentro da hierarquia de uma cozinha, altamente responsável sobre a mesma e que precisa manter tudo em ordem na ausência do Chef.
+  Abaixo do Chef, encontramos o <em>Sous-Chef</em> ou <em>Sub-Chef</em> que é o segundo dentro da hierarquia de uma cozinha, altamente responsável sobre a mesma e que precisa manter tudo em ordem na ausência do Chef.
 </p>
 
 <p style="text-align: justify;">
-  Depois seguimos para o _Chefe de Praça_. Cada praça dentro da cozinha tem seu chef responsável. Entende-se por praça aquelas divisões físicas ou “virtuais” que encontramos em uma cozinha: praça quente, praça fria, praça de _garde manger_, etc.
+  Depois seguimos para o <em>Chefe de Praça</em>. Cada praça dentro da cozinha tem seu chef responsável. Entende-se por praça aquelas divisões físicas ou “virtuais” que encontramos em uma cozinha: praça quente, praça fria, praça de <em>garde manger</em>, etc.
 </p>
 
 <p style="text-align: justify;">
-  O _Garde Manger_ é o profissional responsável pelo preparo de canapés, saladas, entradas frias, _terrines_, sopas, molhos.
+  O <em>Garde Manger</em> é o profissional responsável pelo preparo de canapés, saladas, entradas frias, <em>terrines</em>, sopas, molhos.
 </p>
 
 <p style="text-align: justify;">
-  Existem vários cargos e divisões dentro da cozinha, talvez o mais conhecido atualmente seja o _Pâtissier_, que é aquele que prepara massas e doces. Mas encontramos muitos outros como o _Boucher_ (limpeza, desossa e corte de aves e carnes), _Potager_ (sopas), _Aboyeur_ (canta as comandas, que são os pedidos do salão, para a equipe da cozinha poder providenciar o prato), _Grillardin_ (grelhados), Saucier (molhos, braseados e salteados), dentre outros.
+  Existem vários cargos e divisões dentro da cozinha, talvez o mais conhecido atualmente seja o <em>Pâtissier</em>, que é aquele que prepara massas e doces. Mas encontramos muitos outros como o <em>Boucher</em> (limpeza, desossa e corte de aves e carnes), <em>Potager</em> (sopas), <em>Aboyeur</em> (canta as comandas, que são os pedidos do salão, para a equipe da cozinha poder providenciar o prato), <em>Grillardin</em> (grelhados), Saucier (molhos, braseados e salteados), dentre outros.
 </p>
 
 <p style="text-align: justify;">
@@ -54,19 +54,19 @@ O início em uma cozinha é sempre complicado porque precisamos nos familiarizar
 </p>
 
 <p style="text-align: justify;">
-  _Imagem: _[_stock.xchng_](http://www.sxc.hu/)  
+  <em>Imagem: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a> 
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por **_<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a>_**
+      Por <strong><em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/debora-cordeiro/" target="_self">Debora Cordeiro</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      [MIREPOIX](http://chefdeboracordeiro.blogspot.com/) 
+      <a href="http://chefdeboracordeiro.blogspot.com/" target="_blank">MIREPOIX</a>
     </td>
   </tr>
 </table>
@@ -80,11 +80,11 @@ Quer fazer como a Débora? Publique seu texto aqui e seja uma **_[Bicha Fêmea C
 **_<a href="http://www.trololodemulher.com.br/2010/08/30/chef-de-cozinha%e2%80%a6/" target="_self">O que é ser um chef de cozinha… </a>_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/bem-viver/">**_Bem Viver_**</a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/">**_Vida com Estilo_**</a> > Sendo chef de cozinha: os bastidores da profissão…
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/bem-viver/"><strong><em>Bem Viver</em></strong></a> > <a href="http://www.trololodemulher.com.br/category/estilo-de-vida/"><strong><em>Vida com Estilo</em></strong></a> > Sendo chef de cozinha: os bastidores da profissão…
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 **_ _**

@@ -1,8 +1,8 @@
 ---
-
+id: 3452
 title: 'Sacolinha de festa infantil: faça você mesma!'
-
-author: Lidiane
+date: 2015-08-07T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/08/07/sacolinha-de-festa-infantil/
 permalink: /2015/08/07/sacolinha-de-festa-infantil/
@@ -15,11 +15,11 @@ categories:
 </p>
 
 <p align="justify">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p align="justify">
-  [**Lembrancinhas de festas que saem da mesmice: dicas.**](http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/) 
+  <a href="http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/" target="_blank"><strong>Lembrancinhas de festas que saem da mesmice: dicas.</strong></a>
 </p>
 
 <p align="center">
@@ -27,31 +27,31 @@ categories:
 </p>
 
 <p align="justify">
-  Simpáticas e com toques de cor, essas sacolinhas de papel craft são simples de serem preparadas, uma vez que tudo o que você precisa é de fitas adesivas coloridas para fechá-las, as _famosas washi tapes_, e carimbos de figuras que você quiser. Neste caso, para sua inspiração, a blogueira usou os de bichinhos, e carimbou em cores variadas. Para passar a tinta nos carimbos, a moça criativa que confeccionou essas sacolinhas usou pinceis de espuma, encontrados em lojas de materiais para artesanato. Simples, não?
+  Simpáticas e com toques de cor, essas sacolinhas de papel craft são simples de serem preparadas, uma vez que tudo o que você precisa é de fitas adesivas coloridas para fechá-las, as <em>famosas washi tapes</em>, e carimbos de figuras que você quiser. Neste caso, para sua inspiração, a blogueira usou os de bichinhos, e carimbou em cores variadas. Para passar a tinta nos carimbos, a moça criativa que confeccionou essas sacolinhas usou pinceis de espuma, encontrados em lojas de materiais para artesanato. Simples, não?
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Ideias criativas e simples para festas de aniversário infantil**](http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/) 
+  <a href="http://www.trololodemulher.com.br/2011/05/23/festas-aniversario-infantil/" target="_blank"><strong>Ideias criativas e simples para festas de aniversário infantil</strong></a>
 </p>
 
 <p align="justify">
-  [**Decoração de festa infantil: ideias para a festa das meninas**](http://www.decoracaodacasa.com/decoracao-festa-infantil/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-festa-infantil/" target="_blank"><strong>Decoração de festa infantil: ideias para a festa das meninas</strong></a>
 </p>
 
 <p align="justify">
-  [**2 ideias para decoração de festa infantil: faça você mesma**](http://www.decoracaodacasa.com/festa-decoracao-infantil/) 
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para decoração de festa infantil: faça você mesma</strong></a>
 </p>
 
 <p align="justify">
-  Veja todo o post com mais imagens das sacolinhas carimbadas, e o material usado, no blog [Skip to my Lou](http://www.skiptomylou.org/2014/10/18/diy-goodie-bags/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+skiptomyloublog+%28Skip+To+My+Lou%29) , com ideia original no blog [Today´s Creative](http://todayscreativelife.com/) .
+  Veja todo o post com mais imagens das sacolinhas carimbadas, e o material usado, no blog <a href="http://www.skiptomylou.org/2014/10/18/diy-goodie-bags/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+skiptomyloublog+%28Skip+To+My+Lou%29" target="_blank">Skip to my Lou</a>, com ideia original no blog <a href="http://todayscreativelife.com/" target="_blank">Today´s Creative</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

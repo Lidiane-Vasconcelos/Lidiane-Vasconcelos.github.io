@@ -1,8 +1,8 @@
 ---
-
+id: 3253
 title: 'Sopa de abóbora fácil, rápida e, oh: superultramega delícia!'
-
-author: Lidiane
+date: 2013-08-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/08/19/sopa-de-abobora/
 permalink: /2013/08/19/sopa-de-abobora/
@@ -30,7 +30,7 @@ Não tem outro jeito de apresentar esse prato, é com exagero mesmo, para combin
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: medium;">Sopa de Abóbora com Queijo de Cabra</span>**
+  <strong><span style="font-size: medium;">Sopa de Abóbora com Queijo de Cabra</span></strong>
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Não tem outro jeito de apresentar esse prato, é com exagero mesmo, para combin
 &nbsp;
 
 > <p align="justify">
->   Para fazer essa receita basta refogar **1/2 cebola** e **2 dentes de alho picados no azeite**. Juntar **500g de abóbora** (pode ser de qualquer tipo), **1 tablete de caldo de legumes, 1 colher (café) de sal e cobrir com água**. Não precisa colocar muita água, a abóbora até pode ficar um pouco para fora dela. Tampe a panela e deixe ferver por 20 minutos. Agora junte **1 colher (sopa) bem cheia de requeijão cremoso** e bata no liquidificador (usei o mixer). Acerte o sal se necessário. Na hora de servir junte **cubinhos de queijo de cabra e orégano**.”
+>   Para fazer essa receita basta refogar <strong>1/2 cebola</strong> e <strong>2 dentes de alho picados no azeite</strong>. Juntar <strong>500g de abóbora</strong> (pode ser de qualquer tipo), <strong>1 tablete de caldo de legumes, 1 colher (café) de sal e cobrir com água</strong>. Não precisa colocar muita água, a abóbora até pode ficar um pouco para fora dela. Tampe a panela e deixe ferver por 20 minutos. Agora junte <strong>1 colher (sopa) bem cheia de requeijão cremoso</strong> e bata no liquidificador (usei o mixer). Acerte o sal se necessário. Na hora de servir junte <strong>cubinhos de queijo de cabra e orégano</strong>.”
 > </p>
 
 &nbsp;
@@ -66,29 +66,29 @@ Não tem outro jeito de apresentar esse prato, é com exagero mesmo, para combin
 &nbsp;
 
 <p align="justify">
-  A Tatiana tem um blog incrível de receitas, _superultramega_ badalado e conhecidíssimo. Sua receita de sucesso só pode ser a simplicidade, porque ela é um encanto de pessoa, bem acessível, gentil e simpática. Outro segredo dela, acredito, é a forma como apresenta suas receitas: tudo de um jeito simples para que qualquer mortal possa reproduzir. Se até eu, que sou bem fraquinha na cozinha, consigo reproduzir, qualquer um pode. Então, oh: se joga no **[Panelaterapia](http://www.panelaterapia.com/) ** e seja feliz!
+  A Tatiana tem um blog incrível de receitas, <em>superultramega</em> badalado e conhecidíssimo. Sua receita de sucesso só pode ser a simplicidade, porque ela é um encanto de pessoa, bem acessível, gentil e simpática. Outro segredo dela, acredito, é a forma como apresenta suas receitas: tudo de um jeito simples para que qualquer mortal possa reproduzir. Se até eu, que sou bem fraquinha na cozinha, consigo reproduzir, qualquer um pode. Então, oh: se joga no <strong><a href="http://www.panelaterapia.com/" target="_blank">Panelaterapia</a></strong> e seja feliz!
 </p>
 
 &nbsp;
 
-Imagens: **Tatiana,** do **[Panelaterapia](http://www.panelaterapia.com/) **
+Imagens: **Tatiana,** do **<a href="http://www.panelaterapia.com/" target="_blank">Panelaterapia</a>**
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Tudo a ver:</span>**
+  <strong><span style="font-size: large;">Tudo a ver:</span></strong>
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/"><span style="font-size: large;">O Molho ao Sugo da Cláudia Ramalho eu já fiz e ficou, oh…</span></a>**
+  <strong><a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/"><span style="font-size: large;">O Molho ao Sugo da Cláudia Ramalho eu já fiz e ficou, oh…</span></a></strong>
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/"><span style="font-size: large;">Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span></a>**
+  <strong><a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/"><span style="font-size: large;">Você sabe preparar um molho de tomate SSS? [ATUALIZADO]</span></a></strong>
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/"><span style="font-size: large;">Espetinho de frango saudável e saboroso… quer ver como faz?</span></a>**
+  <strong><a href="http://www.trololodemulher.com.br/2012/10/03/receita-frango-saudavel/"><span style="font-size: large;">Espetinho de frango saudável e saboroso… quer ver como faz?</span></a></strong>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ Imagens: **Tatiana,** do **[Panelaterapia](http://www.panelaterapia.com/) **
   </p>
   
   <p align="center">
-    [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
   </p>
   
   <p>
@@ -105,7 +105,7 @@ Imagens: **Tatiana,** do **[Panelaterapia](http://www.panelaterapia.com/) **
   </p>
   
   <p align="center">
-    **<span style="font-size: small;">Redes Sociais</span>**
+    <strong><span style="font-size: small;">Redes Sociais</span></strong>
   </p>
   
   <p>
@@ -116,13 +116,13 @@ Imagens: **Tatiana,** do **[Panelaterapia](http://www.panelaterapia.com/) **
     <tr>
       <td valign="top" width="300">
         <p align="center">
-          [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+          <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
         </p>
       </td>
       
       <td valign="top" width="300">
         <p align="center">
-          [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+          <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
         </p>
       </td>
     </tr>
@@ -133,9 +133,9 @@ Imagens: **Tatiana,** do **[Panelaterapia](http://www.panelaterapia.com/) **
   </p>
   
   <p align="center">
-    **Vamos manter contato?**
+    <strong>Vamos manter contato?</strong>
   </p>
   
   <p align="center">
-    **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+    <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
   </p>

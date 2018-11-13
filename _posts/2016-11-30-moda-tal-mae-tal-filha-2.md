@@ -1,8 +1,8 @@
 ---
-
+id: 3712
 title: 'Moda tal mãe, tal filha: 4 dicas pra não errar!'
-
-author: Lidiane
+date: 2016-11-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/11/30/moda-tal-mae-tal-filha-2/
 permalink: /2016/11/30/moda-tal-mae-tal-filha-2/
@@ -12,7 +12,7 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Já reparou que há uma tendência em curso? A **moda tal mãe, tal filha** é no mínimo bastante divertida para as duas, e dependendo da roupa escolhida para compartilhar o modelo entre você e sua pequena, fica mesmo uma graça! Pra sair passeando por aí dividindo o mesmo visual, de modo que fique bom sobretudo para a criança, é importante ficar atenta a alguns detalhes bastante importantes. Afinal de contas, elegância e bom gosto importam, e o bem-estar da criança deve ser prioridade, não é?
+  Já reparou que há uma tendência em curso? A <strong>moda tal mãe, tal filha</strong> é no mínimo bastante divertida para as duas, e dependendo da roupa escolhida para compartilhar o modelo entre você e sua pequena, fica mesmo uma graça! Pra sair passeando por aí dividindo o mesmo visual, de modo que fique bom sobretudo para a criança, é importante ficar atenta a alguns detalhes bastante importantes. Afinal de contas, elegância e bom gosto importam, e o bem-estar da criança deve ser prioridade, não é?
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p align="center">
-  Look para mãe e filha da loja virtual **_[Alícia Mãe e Filha](http://vitrine.elo7.com.br/aliciamaeefilha) _**.
+  Look para mãe e filha da loja virtual <strong><em><a href="http://vitrine.elo7.com.br/aliciamaeefilha" target="_blank">Alícia Mãe e Filha</a></em></strong>.
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="center">
-  Bincar faz bem, e usar roupas que favoreçam esse momento é muito importante! Na imagem, looks materno e infantil da [**Loja Alícia Mãe e Filha**](http://www.elo7.com.br/aliciamaeefilha/loja) .
+  Bincar faz bem, e usar roupas que favoreçam esse momento é muito importante! Na imagem, looks materno e infantil da <a href="http://www.elo7.com.br/aliciamaeefilha/loja" target="_blank"><strong>Loja Alícia Mãe e Filha</strong></a>.
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ categories:
 </p>
 
 <p align="center">
-  Vanessa e Pietra, mãe e filha, lindas de viver com as saias da [Alícia Mãe e Filha](http://vitrine.elo7.com.br/aliciamaeefilha) .
+  Vanessa e Pietra, mãe e filha, lindas de viver com as saias da <a href="http://vitrine.elo7.com.br/aliciamaeefilha" target="_blank">Alícia Mãe e Filha</a>.
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: x-large;">Que tal montar seus looks a partir de saias tal mãe, tal filha?</span>**
+  <strong><span style="font-size: x-large;">Que tal montar seus looks a partir de saias tal mãe, tal filha?</span></strong>
 </p>
 
 <p align="center">
@@ -96,9 +96,9 @@ categories:
 </p>
 
 <p align="justify">
-  Fique à vontade, [clique aqui pra conhecer a loja](http://vitrine.elo7.com.br/aliciamaeefilha)  e conferir os modelos disponíveis para você e sua pequena. Pra viver no amor diariamente e acompanhar as novidades da **loja Alícia Mãe e Filha**, [curta a Fanpage clicando aqui](https://www.facebook.com/AliciaMaeeFilha/) . A **Alícia também está no Instagram**, com imagens lindíssimas pra inspirar looks incríveis. [Clique aqui e siga!](https://www.instagram.com/adrianatestamcarvalho/)  E como se não bastasse, a **Alícia vai além e apresenta um conteúdo incrível** **e im-per-dí-vel em seu blog**. [Clique aqui, se joga e se inspira](http://www.alicia.net.br/) , bonita!
+  Fique à vontade, <a href="http://vitrine.elo7.com.br/aliciamaeefilha" target="_blank">clique aqui pra conhecer a loja</a> e conferir os modelos disponíveis para você e sua pequena. Pra viver no amor diariamente e acompanhar as novidades da <strong>loja Alícia Mãe e Filha</strong>, <a href="https://www.facebook.com/AliciaMaeeFilha/" target="_blank">curta a Fanpage clicando aqui</a>. A <strong>Alícia também está no Instagram</strong>, com imagens lindíssimas pra inspirar looks incríveis. <a href="https://www.instagram.com/adrianatestamcarvalho/" target="_blank">Clique aqui e siga!</a> E como se não bastasse, a <strong>Alícia vai além e apresenta um conteúdo incrível</strong> <strong>e im-per-dí-vel em seu blog</strong>. <a href="http://www.alicia.net.br/" target="_blank">Clique aqui, se joga e se inspira</a>, bonita!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3150
 title: 'Só em São Paulo se toma café da manhã  na padaria?'
-
-author: Lidiane
+date: 2012-07-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/07/06/sao-paulo-campinas-padaria/
 permalink: /2012/07/06/sao-paulo-campinas-padaria/
@@ -20,17 +20,17 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 <!--more-->
 
 <p align="center">
-  [Stock.xchng](http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/padarias-sao-paulo-campinas/" rel="attachment wp-att-8848"><img class="alignnone size-full wp-image-8848" title="PADARIAS-SAO PAULO-CAMPINAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PADARIAS-SAO-PAULO-CAMPINAS.png" alt="" width="389" height="209" /></a><br /> Imagem: **_<a href="http://www.sxc.hu/) _**
+  <a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/padarias-sao-paulo-campinas/" rel="attachment wp-att-8848"><img class="alignnone size-full wp-image-8848" title="PADARIAS-SAO PAULO-CAMPINAS" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/07/PADARIAS-SAO-PAULO-CAMPINAS.png" alt="" width="389" height="209" /></a><br /> Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  O fato é que tanto em **Campinas**, no interior do estado, quanto na capital, há padarias com produtos de primeira, e que são verdadeiros recantos da boa panificação. São delícias irresistíveis! A que eu frequento, por exemplo, acabou de fazer uma reforma que deixou o espaço bem acolhedor, convidativo ao extremo para a gente ser feliz com os quitutes.
+  O fato é que tanto em <strong>Campinas</strong>, no interior do estado, quanto na capital, há padarias com produtos de primeira, e que são verdadeiros recantos da boa panificação. São delícias irresistíveis! A que eu frequento, por exemplo, acabou de fazer uma reforma que deixou o espaço bem acolhedor, convidativo ao extremo para a gente ser feliz com os quitutes.
 </p>
 
 <p align="justify">
-  Você também tem esse costume, bonita? Certeza que vale a pena experimentar esse jeitinho de aproveitar a vida, _viu_? Vale uma visitinha num cantinho repleto de gostosuras aí na sua cidade, numa manhã de fim de semana, sem pressa, com a família, para jogar conversa fora e experimentar novos sabores… vai por mim!
+  Você também tem esse costume, bonita? Certeza que vale a pena experimentar esse jeitinho de aproveitar a vida, <em>viu</em>? Vale uma visitinha num cantinho repleto de gostosuras aí na sua cidade, numa manhã de fim de semana, sem pressa, com a família, para jogar conversa fora e experimentar novos sabores… vai por mim!
 </p>
 
 &nbsp;
@@ -42,7 +42,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 <p align="justify">
-  Se você estiver na região de **Campinas**, deixa eu te contar aonde eu vou de vez em quando com o marido para me deliciar? Minha favorita para esse tipo de programa é a **_[Boulangerie de France](http://www.boulangeriedefrance.com.br/bdf/) _**, onde encontramos uma série de delícias em pães, doces, salgados e lanches que só vendo!
+  Se você estiver na região de <strong>Campinas</strong>, deixa eu te contar aonde eu vou de vez em quando com o marido para me deliciar? Minha favorita para esse tipo de programa é a <strong><em><a href="http://www.boulangeriedefrance.com.br/bdf/" target="_blank">Boulangerie de France</a></em></strong>, onde encontramos uma série de delícias em pães, doces, salgados e lanches que só vendo!
 </p>
 
 <p align="justify">
@@ -52,7 +52,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 > <p align="justify">
->   “_Oi, Lidiane, tudo bem? Agora fala verdade, tem coisa mais gostosa? Agora então que chegou o inverno é mais gostoso ainda. Acordar tarde no sábado ensolarado, colocar aquele moletom quentinho e tomar café com maridão e o filho na padaria. Tenho muito este costume pois moro no bairro do **Brooklin em São Paulo** e aqui o que mais tem é padarias por perto. Quem nunca experimentou, faça que eu tenho certeza que vão adorar. Eu vou muito na padaria **Manhatan**, que fica aqui na minha rua mesmo, é muito boa!”_ **Daniela Polo**
+>   “<em>Oi, Lidiane, tudo bem? Agora fala verdade, tem coisa mais gostosa? Agora então que chegou o inverno é mais gostoso ainda. Acordar tarde no sábado ensolarado, colocar aquele moletom quentinho e tomar café com maridão e o filho na padaria. Tenho muito este costume pois moro no bairro do <strong>Brooklin em São Paulo</strong> e aqui o que mais tem é padarias por perto. Quem nunca experimentou, faça que eu tenho certeza que vão adorar. Eu vou muito na padaria <strong>Manhatan</strong>, que fica aqui na minha rua mesmo, é muito boa!”</em> <strong>Daniela Polo</strong>
 > </p>
 
 &nbsp;
@@ -64,7 +64,7 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 > <p align="justify">
->   “_Que delícia, Lidi! Tomar café na padaria é tudo de bom… rsrsrs …temos este costume há anos e a padaria que mais gostamos e frenquentamos é a **[Estado Luso (São Paulo)](http://www.estadoluso.com.br/) **, fica em um bairro próximo de casa e as coisas lá são deliciosas, e as amizades que fizemos por lá são para sempre !!”_ **Sueli Simões | **[**SU DE TUDO UM POUCO**](http://www.su-pessoaldetudoumpouco.blogspot.com.br/) 
+>   “<em>Que delícia, Lidi! Tomar café na padaria é tudo de bom… rsrsrs …temos este costume há anos e a padaria que mais gostamos e frenquentamos é a <strong><a href="http://www.estadoluso.com.br/" target="_blank">Estado Luso (São Paulo)</a></strong>, fica em um bairro próximo de casa e as coisas lá são deliciosas, e as amizades que fizemos por lá são para sempre !!”</em> <strong>Sueli Simões | </strong><a href="http://www.su-pessoaldetudoumpouco.blogspot.com.br/" target="_blank"><strong>SU DE TUDO UM POUCO</strong></a>
 > </p>
 
 &nbsp;
@@ -76,24 +76,24 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: x-large;">Muito mais para você!</span>**
+  <strong><span style="font-size: x-large;">Muito mais para você!</span></strong>
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/culinaria-italiana200/" rel="attachment wp-att-8796"><img class="alignnone size-full wp-image-8796" title="CULINARIA ITALIANA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CULINARIA-ITALIANA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/">**<span style="font-size: medium;"><br /> Você aprecia a culinária de outros países?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/07/06/sao-paulo-campinas-padaria/culinaria-italiana200/" rel="attachment wp-att-8796"><img class="alignnone size-full wp-image-8796" title="CULINARIA ITALIANA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CULINARIA-ITALIANA200.png" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/"><strong><span style="font-size: medium;"><br /> Você aprecia a culinária de outros países?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/flores-online2200/" rel="attachment wp-att-8766"><img class="alignnone size-full wp-image-8766" title="Flores Online[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Flores-Online2200.jpg" alt="" width="200" height="200" /></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/flores-online2200/" rel="attachment wp-att-8766"><img class="alignnone size-full wp-image-8766" title="Flores Online[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Flores-Online2200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/26/flores-online/">**<span style="font-size: medium;">Flores Online: enviar flores pela internet é possível!</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/06/26/flores-online/"><strong><span style="font-size: medium;">Flores Online: enviar flores pela internet é possível!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -101,17 +101,17 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/zum-zum-verde2200/" rel="attachment wp-att-8772"><img class="alignnone size-full wp-image-8772" title="ZUM ZUM VERDE[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ZUM-ZUM-VERDE2200.png" alt="" width="200" height="200" /></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/zum-zum-verde2200/" rel="attachment wp-att-8772"><img class="alignnone size-full wp-image-8772" title="ZUM ZUM VERDE[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/ZUM-ZUM-VERDE2200.png" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/">**<span style="font-size: medium;">Zum Zum Verde na blogosfera…sabe o que é isso?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/06/22/zum-zum-verde-sustentabilidade/"><strong><span style="font-size: medium;">Zum Zum Verde na blogosfera…sabe o que é isso?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/divitae2200/" rel="attachment wp-att-8729"><img class="alignnone size-full wp-image-8729" title="Divitae[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Divitae2200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/">**<span style="font-size: medium;">Quer trabalhar sem sair de casa? Abra sua loja da Divitae!</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/06/29/comida-internacional/divitae2200/" rel="attachment wp-att-8729"><img class="alignnone size-full wp-image-8729" title="Divitae[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/Divitae2200.png" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2012/06/15/trabalhar-sem-sair-da-casa/"><strong><span style="font-size: medium;">Quer trabalhar sem sair de casa? Abra sua loja da Divitae!</span></strong></a>
       </p>
     </td>
   </tr>
@@ -119,21 +119,21 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/bem-viver/vanessa200/" rel="attachment wp-att-8610"><img class="alignnone size-full wp-image-8610" title="Vanessa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Vanessa200.jpg" alt="" width="200" height="200" /></a> ****
+        <a href="http://www.trololodemulher.com.br/bem-viver/vanessa200/" rel="attachment wp-att-8610"><img class="alignnone size-full wp-image-8610" title="Vanessa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Vanessa200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/">**<span style="font-size: medium;">Tem uma área verde na sua cidade para passear?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/03/16/qualidade-de-vida-2/"><strong><span style="font-size: medium;">Tem uma área verde na sua cidade para passear?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2012/06/13/compras-no-supermercado/sustentabilidade-em-casa200/" rel="attachment wp-att-8558"><img class="alignnone size-full wp-image-8558" title="SUSTENTABILIDADE EM CASA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/02/SUSTENTABILIDADE-EM-CASA200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/">**<span style="font-size: medium;">Sustentabilidade na casa de cada uma de nós: é possível?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/03/02/sustentabilidade-casa/"><strong><span style="font-size: medium;">Sustentabilidade na casa de cada uma de nós: é possível?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -144,13 +144,13 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -159,13 +159,13 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -174,9 +174,9 @@ Não sei nos outros estados, mas foi quando vim morar no estado paulista que apr
 &nbsp;
 
 <p align="center">
-  **Vamos manter contato?**
+  <strong>Vamos manter contato?</strong>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3475
 title: 'Lavabo com papel de parede: imagens, dicas e ideias.'
-
-author: Lidiane
+date: 2015-08-26T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/08/26/lavabo-com-papel-de-parede/
 permalink: /2015/08/26/lavabo-com-papel-de-parede/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Lavabo e banheiro charmosos com dicas de leitoras.**](http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/) 
+  <a href="http://www.decoracaodacasa.com/lavabo-e-banheiro-dicas/" target="_blank"><strong>Lavabo e banheiro charmosos com dicas de leitoras.</strong></a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Interarq](http://www.comore.com.br/) 
+  Via <a href="http://www.comore.com.br/" target="_blank">Interarq</a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Cecilia Seabra](http://ceciliaseabra.com/2012/03/05/um-lavabo-rustico-sofisticado/) 
+  Via <a href="http://ceciliaseabra.com/2012/03/05/um-lavabo-rustico-sofisticado/" target="_blank">Cecilia Seabra</a>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [O Shopping do Lar](http://www.minascasa.com.br/blog/) 
+  Via <a href="http://www.minascasa.com.br/blog/" target="_blank">O Shopping do Lar</a>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Let´s Decor](http://www.letsdecor.com.br/) 
+  Via <a href="http://www.letsdecor.com.br/" target="_blank">Let´s Decor</a>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Lola home](http://www.blog.lolahome.com.br/) 
+  Via <a href="http://www.blog.lolahome.com.br/" target="_blank">Lola home</a>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Sua Casa Santa Catarina](http://www.revistasuacasa.arq.br/sc/) 
+  Via <a href="http://www.revistasuacasa.arq.br/sc/" target="_blank">Sua Casa Santa Catarina</a>
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Hoje em Casa](http://g1.globo.com/platb/jornal-hoje-hojeemcasa/) 
+  Via <a href="http://g1.globo.com/platb/jornal-hoje-hojeemcasa/" target="_blank">Hoje em Casa</a>
 </p>
 
 <p align="center">
@@ -102,15 +102,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Boa ideia: arte na decoração do lavabo.**](http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/) 
+  <a href="http://www.trololodemulher.com.br/2012/01/18/decoracao-lavabo/" target="_blank"><strong>Boa ideia: arte na decoração do lavabo.</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

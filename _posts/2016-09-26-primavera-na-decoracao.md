@@ -1,8 +1,8 @@
 ---
-
+id: 3672
 title: Veja 10 truques pra colocar a Primavera na decoração.
-
-author: Lidiane
+date: 2016-09-26T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/09/26/primavera-na-decoracao/
 permalink: /2016/09/26/primavera-na-decoracao/
@@ -27,19 +27,19 @@ categories:
 </p>
 
 <p align="center">
-  Via [Popsugar](http://www.popsugar.com/) 
+  Via <a href="http://www.popsugar.com/" target="_blank">Popsugar</a>
 </p>
 
 <p align="justify">
-  1 &#8211; O que pode mudar de uma hora pra outra a cara do seu quarto? Um roupa de cama nova! Capriche na escolha com uma estampa que tenha uma _bossa_ primaveril, e seja feliz!
+  1 &#8211; O que pode mudar de uma hora pra outra a cara do seu quarto? Um roupa de cama nova! Capriche na escolha com uma estampa que tenha uma <em>bossa</em> primaveril, e seja feliz!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**3 dicas simples para deixar o seu quarto calmo e relaxante.**](http://www.decoracaodacasa.com/quarto-calmo-e-relaxante/) 
+  <a href="http://www.decoracaodacasa.com/quarto-calmo-e-relaxante/" target="_blank"><strong>3 dicas simples para deixar o seu quarto calmo e relaxante.</strong></a>
 </p>
 
 <p align="center">
@@ -47,19 +47,19 @@ categories:
 </p>
 
 <p align="center">
-  Via [House Beaultiful](http://www.housebeautiful.com/) 
+  Via <a href="http://www.housebeautiful.com/" target="_blank">House Beaultiful</a>
 </p>
 
 <p align="justify">
-  2 &#8211; Objetos, enfeites ou acessórios: esses pequenos detalhes podem fazer toda a diferença na decoração da sua sala de estar, por exemplo. Escolha vasos, caixas, velas, pequenas esculturas ou objetos interessantes que possam ser dispostos em composiçoes sobre a mesa de centro ou de canto, no aparador ou numa [**prateleira flutuante**](http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/) . Com imaginação e bom senso, você consegue renovar o _décor_ da casa já!
+  2 &#8211; Objetos, enfeites ou acessórios: esses pequenos detalhes podem fazer toda a diferença na decoração da sua sala de estar, por exemplo. Escolha vasos, caixas, velas, pequenas esculturas ou objetos interessantes que possam ser dispostos em composiçoes sobre a mesa de centro ou de canto, no aparador ou numa <a href="http://www.trololodemulher.com.br/2015/07/29/prateleiras-flutuantes/" target="_blank"><strong>prateleira flutuante</strong></a>. Com imaginação e bom senso, você consegue renovar o <em>décor</em> da casa já!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Como decorar a mesa de centro de sala?**](http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/) 
+  <a href="http://www.decoracaodacasa.com/decorar-mesa-centro-de-sala/" target="_blank"><strong>Como decorar a mesa de centro de sala?</strong></a>
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Better Homes and Gardens](http://www.bhg.com/) 
+  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -75,11 +75,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Quando é que objetos refletem uma bossa primaveril no décor de sua casa?**](http://www.decoracaodacasa.com/decoracao-flores-floral/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-flores-floral/" target="_blank"><strong>Quando é que objetos refletem uma bossa primaveril no décor de sua casa?</strong></a>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Better Homes and Gardens](http://www.bhg.com/) 
+  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -95,11 +95,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Como decorar parede com quadros.**](http://www.decoracaodacasa.com/decoracao-parede-quadros/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank"><strong>Como decorar parede com quadros.</strong></a>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Popsugar](http://www.popsugar.com/) 
+  Via <a href="http://www.popsugar.com/" target="_blank">Popsugar</a>
 </p>
 
 <p align="justify">
@@ -115,11 +115,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Sofá neutro + almofadas coloridas = sucesso no décor da sala de estar.**](http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/) 
+  <a href="http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/" target="_blank"><strong>Sofá neutro + almofadas coloridas = sucesso no décor da sala de estar.</strong></a>
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Popsugar](http://www.popsugar.com/) 
+  Via <a href="http://www.popsugar.com/" target="_blank">Popsugar</a>
 </p>
 
 <p align="justify">
@@ -135,11 +135,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Cortinas: como escolher?**](http://www.decoracaodacasa.com/cortinas-como-escolher/) 
+  <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank"><strong>Cortinas: como escolher?</strong></a>
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Popsugar](http://www.popsugar.com/) 
+  Via <a href="http://www.popsugar.com/" target="_blank">Popsugar</a>
 </p>
 
 <p align="justify">
@@ -159,7 +159,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [House Beaultiful](http://www.housebeautiful.com/) 
+  Via <a href="http://www.housebeautiful.com/" target="_blank">House Beaultiful</a>
 </p>
 
 <p align="justify">
@@ -171,23 +171,23 @@ categories:
 </p>
 
 <p align="justify">
-  9 &#8211; Procure [desapegar de tanta tralha](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/)  que você ainda possa estar acumulando em casa: limpe seu lar, organize, tenha apenas o essecial. Um ambiente livre de bagunça torna tudo mais leve, harmonioso e feliz. Fica a dica.
+  9 &#8211; Procure <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">desapegar de tanta tralha</a> que você ainda possa estar acumulando em casa: limpe seu lar, organize, tenha apenas o essecial. Um ambiente livre de bagunça torna tudo mais leve, harmonioso e feliz. Fica a dica.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Como evitar o acúmulo e organizar o lar? Dicas práticas.**](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/) 
+  <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank"><strong>Como evitar o acúmulo e organizar o lar? Dicas práticas.</strong></a>
 </p>
 
 <p align="justify">
-  **10 &#8211; Não esqueça de deixar a luz do céu e do sol entrar na sua vida, sempre, e agora mais do que nunca. Abra as janelas!**
+  <strong>10 &#8211; Não esqueça de deixar a luz do céu e do sol entrar na sua vida, sempre, e agora mais do que nunca. Abra as janelas!</strong>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

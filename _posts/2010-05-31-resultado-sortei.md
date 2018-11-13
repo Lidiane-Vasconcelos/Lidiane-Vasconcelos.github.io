@@ -1,17 +1,17 @@
 ---
-
+id: 2824
 title: 'Saiu o resultado do sorteio Bicha Fêmea &#038; Viva Melhor'
-
-author: Lidiane
+date: 2010-05-31T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/05/31/resultado-sortei/
 permalink: /2010/05/31/resultado-sortei/
 categories:
   - Promoção
 ---
-Chegou o dia de a gente saber quem vai levar a camiseta da instituição [Viva Melhor](http://grupovivamelhor.org.br/?pg=home) , que ajuda mulheres que têm ou tiveram câncer de mama, dando-lhes total apoio a fim de manter sua confiança em si e no futuro. Bom, não é?
+Chegou o dia de a gente saber quem vai levar a camiseta da instituição <a href="http://grupovivamelhor.org.br/?pg=home" target="_blank">Viva Melhor</a>, que ajuda mulheres que têm ou tiveram câncer de mama, dando-lhes total apoio a fim de manter sua confiança em si e no futuro. Bom, não é?
 
-Fiquei muito feliz com esse sorteio porque esta parceria teve o intuito de fazer a gente conhecer um trabalho muito bacana que vem sendo realizado pelo pessoal da [Viva Melhor](http://grupovivamelhor.org.br/?pg=home) , e quem se inscreveu no sorteio esteve interessada em ajudar a causa, muito mais do que qualquer outra coisa.<!--more-->
+Fiquei muito feliz com esse sorteio porque esta parceria teve o intuito de fazer a gente conhecer um trabalho muito bacana que vem sendo realizado pelo pessoal da <a href="http://grupovivamelhor.org.br/?pg=home" target="_blank">Viva Melhor</a>, e quem se inscreveu no sorteio esteve interessada em ajudar a causa, muito mais do que qualquer outra coisa.<!--more-->
 
 Fiquei lisonjeada de a Verinha Chiavelli, que é presidente da instituição, ter escolhido o Bicha Fêmea para mostrar esse trabalho e convidar as leitoras a participarem dando seus nomes para o sorteio. Vestir a camiseta e sair por aí desfilando com ela faz diferença sim, _viu_? Pode acreditar!
 

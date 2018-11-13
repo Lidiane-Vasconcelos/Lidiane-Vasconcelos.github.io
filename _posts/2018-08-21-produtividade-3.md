@@ -1,8 +1,8 @@
 ---
-
+id: 3874
 title: Como evitar que o celular impacte sua produtividade?
-
-author: Lidiane
+date: 2018-08-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2018/08/21/produtividade-3/
 permalink: /2018/08/21/produtividade-3/
@@ -14,7 +14,7 @@ categories:
   - Produtividade
 ---
 <p align="justify">
-  Ter um celular moderno hoje em dia deveria ser sinônimo de poder usar uma ferramenta que turbine nossa **produtividade**, mas a verdade é que a situação pode ser exatamente outra. Muita gente passa tempo demais online, se deixa bombardear por um volume assustador de informação, acaba sentindo sobrecarga porque sobra menos tempo para fazer o que importa, e todo o volume que foi recebido de informação não é processado… e na verdade nem era informação com tanta qualidade.
+  Ter um celular moderno hoje em dia deveria ser sinônimo de poder usar uma ferramenta que turbine nossa <strong>produtividade</strong>, mas a verdade é que a situação pode ser exatamente outra. Muita gente passa tempo demais online, se deixa bombardear por um volume assustador de informação, acaba sentindo sobrecarga porque sobra menos tempo para fazer o que importa, e todo o volume que foi recebido de informação não é processado… e na verdade nem era informação com tanta qualidade.
 </p>
 
 <p align="justify">
@@ -26,11 +26,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [foter.com](https://foter.com/) 
+  Imagem: <a href="https://foter.com/" target="_blank">foter.com</a>
 </p>
 
 <p align="justify">
-  **Avalie e faça ajustes:**
+  <strong>Avalie e faça ajustes:</strong>
 </p>
 
 <p align="justify">
@@ -58,7 +58,7 @@ categories:
 </p>
 
 <p align="justify">
-  **[A PROPÓSITO]** O desafio do uso mais equilibrado do celular no dia a dia é um dos passos consistentemente trabalhados no [Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/) , que está com inscrições encerradas. Se quiser fazer parte da próxima turma, aguarde notícias!
+  <strong>[A PROPÓSITO]</strong> O desafio do uso mais equilibrado do celular no dia a dia é um dos passos consistentemente trabalhados no <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a>, que está com inscrições encerradas. Se quiser fazer parte da próxima turma, aguarde notícias!
 </p>
 
 <p align="justify">
@@ -70,27 +70,27 @@ categories:
 </p>
 
 <p align="center">
-  **Nosso contéudo:**
+  <strong>Nosso contéudo:</strong>
 </p>
 
 <p align="center">
-  [Projeto Lar Bonito Lar](http://www.trololodemulher.com.br/projeto-lar-bonito-lar/)  | [Newsletter Trololó de Mulher – Grátis](http://www.trololodemulher.com.br/2018/02/28/newsletter/)  | [Assine e receba o post semanal do blog no seu e-mail – Grátis.](https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://www.trololodemulher.com.br/projeto-lar-bonito-lar/" target="_blank">Projeto Lar Bonito Lar</a> | <a href="http://www.trololodemulher.com.br/2018/02/28/newsletter/" target="_blank">Newsletter Trololó de Mulher – Grátis</a> | <a href="https://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank">Assine e receba o post semanal do blog no seu e-mail – Grátis.</a>
 </p>
 
 <p align="center">
-  **E tem mais!**
+  <strong>E tem mais!</strong>
 </p>
 
 <p align="center">
-  [Guia Bem Viver – Grátis](http://www.trololodemulher.com.br/2018/03/09/bem-viver/)  | [Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.](https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307) 
+  <a href="http://www.trololodemulher.com.br/2018/03/09/bem-viver/" target="_blank">Guia Bem Viver – Grátis</a> | <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581995307307" target="_blank">Lista de Transmissão Bem Viver, no Whatsapp. Conteúdo uma vez por semana. Peça para entrar – Grátis.</a>
 </p>
 
 <p align="center">
-  **Nas Redes:**
+  <strong>Nas Redes:</strong>
 </p>
 
 <p align="center">
-  [Perfil pessoal no Facebook](https://www.facebook.com/lidiane.vasconcelos.94)  | [Fanpage no Facebook](https://www.facebook.com/TrololoMulher/)  | [Instagram](https://www.instagram.com/trololodemulher/) 
+  <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Perfil pessoal no Facebook</a> | <a href="https://www.facebook.com/TrololoMulher/" target="_blank">Fanpage no Facebook</a> | <a href="https://www.instagram.com/trololodemulher/" target="_blank">Instagram</a>
 </p>
 
 <p align="justify">

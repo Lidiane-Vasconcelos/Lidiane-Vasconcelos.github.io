@@ -1,8 +1,8 @@
 ---
-
+id: 2930
 title: Resultado do sorteio no Bicha Fêmea em parceria com a La Pomme.
-
-author: Lidiane
+date: 2010-12-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/12/20/resultado-sorteio-la-pomme/
 permalink: /2010/12/20/resultado-sorteio-la-pomme/
@@ -22,11 +22,11 @@ Chegou o dia! É hoje que vamos saber, juntas, quem vai receber o [kit do **_Bic
 </p>
 
 <p style="text-align: justify;">
-  Viu? Dentre as 208 inscrições, a sorteada foi a de número 58: **_Talita Marques_**.
+  Viu? Dentre as 208 inscrições, a sorteada foi a de número 58: <strong><em>Talita Marques</em></strong>.
 </p>
 
 <p style="text-align: justify;">
-  _Êêêêêê_! Parabéns, Talita!!
+  <em>Êêêêêê</em>! Parabéns, Talita!!
 </p>
 
 <p style="text-align: justify;">
@@ -34,13 +34,13 @@ Chegou o dia! É hoje que vamos saber, juntas, quem vai receber o [kit do **_Bic
 </p>
 
 <p style="text-align: justify;">
-  …será? _Hummm_… vamos aguardar as cenas dos próximos capítulos?
+  …será? <em>Hummm</em>… vamos aguardar as cenas dos próximos capítulos?
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3147
 title: É possível usar adesivos de envelopar carros na decoração da casa?
-
-author: Lidiane
+date: 2012-07-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/07/04/adesivo-carro-decoracao/
 permalink: /2012/07/04/adesivo-carro-decoracao/
@@ -11,19 +11,19 @@ categories:
   - Faça Você Mesma
 ---
 <p style="text-align: justify;">
-  Eu não sabia que era possível, até descobrir o que uma amiga _superultramega_ arteira andava aprontando. Acredita que ela repaginou um móvel usando essa solução? E o melhor: ficou lindo de viver. O resultado foi uma mesa novinha em folha!
+  Eu não sabia que era possível, até descobrir o que uma amiga <em>superultramega</em> arteira andava aprontando. Acredita que ela repaginou um móvel usando essa solução? E o melhor: ficou lindo de viver. O resultado foi uma mesa novinha em folha!
 </p>
 
 &nbsp;
 
 <p align="justify">
-  A **Marcela**, que é minha amiga e muito competente como **Fisioterapeuta** em seu espaço de **Pilates** na cidade de **Sumaré (SP)**, onde moramos, também tem muito bom gosto quando o assunto é **decoração**. Repara só no que ela fez e que dica fantástica isso pode ser para você.
+  A <strong>Marcela</strong>, que é minha amiga e muito competente como <strong>Fisioterapeuta</strong> em seu espaço de <strong>Pilates</strong> na cidade de <strong>Sumaré (SP)</strong>, onde moramos, também tem muito bom gosto quando o assunto é <strong>decoração</strong>. Repara só no que ela fez e que dica fantástica isso pode ser para você.
 </p>
 
 <!--more-->
 
 <p align="justify">
-  Quando a **Marcela** mostrou as fotos do que ela havia feito, fiquei ansiosa para dividir por aqui contigo. Logo pedi que ela me contasse _TU-DO_ sobre o processo a fim de te provocar, inspirar e dar ideias… confira!
+  Quando a <strong>Marcela</strong> mostrou as fotos do que ela havia feito, fiquei ansiosa para dividir por aqui contigo. Logo pedi que ela me contasse <em>TU-DO</em> sobre o processo a fim de te provocar, inspirar e dar ideias… confira!
 </p>
 
 &nbsp;
@@ -35,7 +35,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “_Decidi transformar a mesa porque ela não estava combinando mais com as mudanças que tenho feito no nosso apartamento. As cores novas são mais modernas: **móveis brancos, paredes cinza, detalhes coloridos**… e nisso a mesa de jantar ficou perdida, fora do contexto. __Fiquei no dúvida e com pena de comprar uma nova, pois gosto muito dela, ela é prática e não encontraria uma parecida, muito menos amarela! Foi aí que veio a ideia da reforma!”_
+>   “<em>Decidi transformar a mesa porque ela não estava combinando mais com as mudanças que tenho feito no nosso apartamento. As cores novas são mais modernas: <strong>móveis brancos, paredes cinza, detalhes coloridos</strong>… e nisso a mesa de jantar ficou perdida, fora do contexto. </em><em>Fiquei no dúvida e com pena de comprar uma nova, pois gosto muito dela, ela é prática e não encontraria uma parecida, muito menos amarela! Foi aí que veio a ideia da reforma!”</em>
 > </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “_A princípio **pensei em pintar**, mas pesquisei e vi que não seria muito fácil, **pesquisei mais e descobri que o adesivo que estão usando para envelopar carros também pode ser usado em móveis**! Nossa, foi perfeito_!”
+>   “<em>A princípio <strong>pensei em pintar</strong>, mas pesquisei e vi que não seria muito fácil, <strong>pesquisei mais e descobri que o adesivo que estão usando para envelopar carros também pode ser usado em móveis</strong>! Nossa, foi perfeito</em>!”
 > </p>
 
 &nbsp;
@@ -75,39 +75,39 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   “_Comprei o adesivo, **coloquei no google vídeos de como aplicar** e aí consegui o que queria: **minha mesa amarela**! **Simples, prático e barato**! Agora vou comprar cadeiras pretas, acho que vai ficar um charme!”_
+>   “<em>Comprei o adesivo, <strong>coloquei no google vídeos de como aplicar</strong> e aí consegui o que queria: <strong>minha mesa amarela</strong>! <strong>Simples, prático e barato</strong>! Agora vou comprar cadeiras pretas, acho que vai ficar um charme!”</em>
 > </p>
 
 &nbsp;
 
 <p align="justify">
-  Eu não duvido nem um pouco do charme que vai ficar, e tenho certeza que a ideia de **Marcela** pode te estimular a ter muitas outras para transformar sua casa assim: gastando bem pouco! Inspire-se e faça suas arteirices em seus domínios também!
+  Eu não duvido nem um pouco do charme que vai ficar, e tenho certeza que a ideia de <strong>Marcela</strong> pode te estimular a ter muitas outras para transformar sua casa assim: gastando bem pouco! Inspire-se e faça suas arteirices em seus domínios também!
 </p>
 
 <p align="justify">
-  **Muito mais para você:**
+  <strong>Muito mais para você:</strong>
 </p>
 
 <p align="justify">
-  **[Ponha charme na decoração com a customização de móveis!](http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/) **
+  <strong><a href="http://www.trololodemulher.com.br/2012/02/29/decoracao-moveis-usados/" target="_blank">Ponha charme na decoração com a customização de móveis!</a></strong>
 </p>
 
 <p align="justify">
-  **[Cores na decoração: veja 6 respostas e acabe com suas dúvidas.](http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/) **
+  <strong><a href="http://www.trololodemulher.com.br/2014/02/13/cores-na-decoracao/" target="_blank">Cores na decoração: veja 6 respostas e acabe com suas dúvidas.</a></strong>
 </p>
 
 <p align="justify">
-  **[Como usar móveis de design na decoração da sala?](http://www.decoracaodacasa.com/moveis-design-decoracao/) **
+  <strong><a href="http://www.decoracaodacasa.com/moveis-design-decoracao/" target="_blank">Como usar móveis de design na decoração da sala?</a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" />](http://www.decoracaodacasa.com/) 
+  <a href="http://www.decoracaodacasa.com/" target="_blank"><img class="alignnone size-full wp-image-10262" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/07/DECORACAO-DA-CASA.png" alt="DECORACAO DA CASA" width="600" height="71" /></a>
 </p>
 
 <p align="justify">

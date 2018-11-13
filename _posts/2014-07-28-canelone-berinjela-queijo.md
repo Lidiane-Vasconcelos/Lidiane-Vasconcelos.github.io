@@ -1,8 +1,8 @@
 ---
-
+id: 3328
 title: Canelone de berinjela + queijo cottage (no molho caseiro)
-
-author: Lidiane
+date: 2014-07-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/07/28/canelone-berinjela-queijo/
 permalink: /2014/07/28/canelone-berinjela-queijo/
@@ -24,19 +24,19 @@ Hoje é dia de receita bonita, gostosa e saudável por aqui. Oba! A dica da Caro
 > </p>
 > 
 > <p align="justify">
->   **A propósito, não deixe de ler:**
+>   <strong>A propósito, não deixe de ler:</strong>
 > </p>
 > 
 > <p align="justify">
->   [**Você sabe preparar um molho de tomate SSS?**](http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/) 
+>   <a href="http://www.trololodemulher.com.br/2012/10/17/molho-de-tomate/" target="_blank"><strong>Você sabe preparar um molho de tomate SSS?</strong></a>
 > </p>
 > 
 > <p align="justify">
->   [**O molho ao sugo da Cláudia Ramalho eu já fiz e, oh: hummm…**](http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/) 
+>   <a href="http://www.trololodemulher.com.br/2012/11/07/molho-sugo-macarrao-massa/" target="_blank"><strong>O molho ao sugo da Cláudia Ramalho eu já fiz e, oh: hummm…</strong></a>
 > </p>
 > 
 > <p align="justify">
->   Refoguei a cebola e alho em algumas gotas de óleo de canola, depois coloquei os tomates picados, um pouquinho de água filtrada, sal, pimenta moída na hora, muito manjericão e colorau. Deixei ferver até que o tomate ficasse bem amolecido. Depois bati no mixer, mas pode ser liquidificador também. Voltei para a panela e deixei apurando. **Montagem**: Coloquei o queijo cottage na fatia da berinjela e enrolei. Em uma vasilha que possa ir ao forno, eu coloquei molho no fundo da vasilha, os canelones e cobri os canelones com mais molho. Levei ao forno até que ficasse bem aquecido e o queijo derretido.
+>   Refoguei a cebola e alho em algumas gotas de óleo de canola, depois coloquei os tomates picados, um pouquinho de água filtrada, sal, pimenta moída na hora, muito manjericão e colorau. Deixei ferver até que o tomate ficasse bem amolecido. Depois bati no mixer, mas pode ser liquidificador também. Voltei para a panela e deixei apurando. <strong>Montagem</strong>: Coloquei o queijo cottage na fatia da berinjela e enrolei. Em uma vasilha que possa ir ao forno, eu coloquei molho no fundo da vasilha, os canelones e cobri os canelones com mais molho. Levei ao forno até que ficasse bem aquecido e o queijo derretido.
 > </p>
 
 &nbsp;
@@ -63,12 +63,12 @@ Hoje é dia de receita bonita, gostosa e saudável por aqui. Oba! A dica da Caro
 
 &nbsp;
 
-Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;

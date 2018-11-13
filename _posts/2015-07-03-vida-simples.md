@@ -1,8 +1,8 @@
 ---
-
+id: 3441
 title: 'Vida simples: menos é mais e a gente vive melhor…'
-
-author: Lidiane
+date: 2015-07-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/07/03/vida-simples/
 permalink: /2015/07/03/vida-simples/
@@ -17,11 +17,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Redes sociais e produtividade no dia a dia: qual o impacto?**](http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/) 
+  <a href="http://www.trololodemulher.com.br/2015/06/26/redes-sociais-e-produtividade-2/" target="_blank"><strong>Redes sociais e produtividade no dia a dia: qual o impacto?</strong></a>
 </p>
 
 <p align="justify">
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Linh H. Nguyen](https://www.flickr.com/photos/lng0004/6978693751/) <b> / </b>[Foter](http://foter.com/) <b> / </b>[CC BY-NC-ND](http://creativecommons.org/licenses/by-nc-nd/2.0/) 
+  Imagem: <a href="https://www.flickr.com/photos/lng0004/6978693751/" target="_blank">Linh H. Nguyen</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">CC BY-NC-ND</a>
 </p>
 
 <p align="justify">
@@ -61,7 +61,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

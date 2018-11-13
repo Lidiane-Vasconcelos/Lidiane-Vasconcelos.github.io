@@ -1,8 +1,8 @@
 ---
-
+id: 2660
 title: 'Gostosuras que dão graça no estilo de viver&#8230;'
-
-author: Lidiane
+date: 2009-05-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/05/15/gostosuras-da-vida/
 permalink: /2009/05/15/gostosuras-da-vida/
@@ -25,7 +25,7 @@ Com capuccino, com ou sem desenho de ursinho no café, o bom é viver a vida c
 
 <span style="color: #800080;">Aproveitem a vida!!!</span>
 
-Imagens: [Inside Out](http://blog.insideout.com.au/) 
+Imagens: <a href="http://blog.insideout.com.au/" target="_blank">Inside Out</a>
 
 Mais no Bicha Fêmea&#8230;
 

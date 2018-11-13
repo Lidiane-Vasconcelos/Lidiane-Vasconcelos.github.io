@@ -1,8 +1,8 @@
 ---
-
+id: 2785
 title: O peso ideal é aquele que se sente bem …
-
-author: Lidiane
+date: 2010-03-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/03/01/emagrecimento-saudavel/
 permalink: /2010/03/01/emagrecimento-saudavel/
@@ -13,43 +13,43 @@ categories:
 ---
 <p style="text-align: center;">
   <div style="text-align: center;">
-    **_<span style="font-size: small;">O peso ideal é aquele que se sente bem …</span>_**
+    <strong><em><span style="font-size: small;">O peso ideal é aquele que se sente bem …</span></em></strong>
   </div>
   
   <div>
-    **_<span style="font-size: small;"> </span>_**
+    <strong><em><span style="font-size: small;"> </span></em></strong>
   </div>
   
   <div>
-    **_<span style="font-size: small;"> </span>_**
+    <strong><em><span style="font-size: small;"> </span></em></strong>
   </div>
   
   <div style="text-align: justify;">
-    _<span style="font-size: small;">Perder peso hoje se tornou o foco de muitos jovens e adultos, que insatisfeitos com o peso e contorno corporal, saem em busca de soluções para enfrentar esse problema.</span>_
+    <em><span style="font-size: small;">Perder peso hoje se tornou o foco de muitos jovens e adultos, que insatisfeitos com o peso e contorno corporal, saem em busca de soluções para enfrentar esse problema.</span></em>
   </div>
   
   <p style="text-align: justify;">
     <div style="text-align: justify;">
-      _<span style="font-size: small;">Nessa batalha contra o peso, precisamos lembrar de traçar parâmetros reais, levando em consideração a idade, altura, entre outros fatores que podem determinar, ou não, a perda de peso.</span>_
+      <em><span style="font-size: small;">Nessa batalha contra o peso, precisamos lembrar de traçar parâmetros reais, levando em consideração a idade, altura, entre outros fatores que podem determinar, ou não, a perda de peso.</span></em>
     </div>
     
     <div>
-      _<span style="font-size: small;">**<!--more-->**</span>_
+      <em><span style="font-size: small;"><strong><!--more--></strong></span></em>
     </div>
     
     <div>
-      _<span style="font-size: small;"> </span>_
+      <em><span style="font-size: small;"> </span></em>
     </div>
     
     <div>
-      _<span style="font-size: small;"> </span>_
+      <em><span style="font-size: small;"> </span></em>
     </div>
     
     <p>
-      _<span style="font-size: small;"> </p> 
+      <em><span style="font-size: small;"> </p> 
       
       <p>
-        </span>_
+        </span></em>
       </p>
       
       <p style="text-align: justify;">
@@ -89,9 +89,9 @@ categories:
       </p>
       
       <p style="text-align: justify;">
-        **_<a href="http://www.trololodemulher.com.br/2010/05/21/auto-estima-confianca-mulher/" target="_self">Você é confiante?</a>_**
+        <strong><em><a href="http://www.trololodemulher.com.br/2010/05/21/auto-estima-confianca-mulher/" target="_self">Você é confiante?</a></em></strong>
       </p>
       
       <p style="text-align: justify;">
-        **_<a href="http://www.trololodemulher.com.br/2010/05/03/auto-estim/" target="_self">Como sentir-se confiante.</a>_**
+        <strong><em><a href="http://www.trololodemulher.com.br/2010/05/03/auto-estim/" target="_self">Como sentir-se confiante.</a></em></strong>
       </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2642
 title: O encanto do encontro ao ar livre…
-
-author: Lidiane
+date: 2009-04-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/04/06/refeicao-ao-ar-livre/
 permalink: /2009/04/06/refeicao-ao-ar-livre/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Lembro que não havia qualquer detalhe como recurso decorativo. Tudo com o que nos preocupamos limitou-se a alimentação que levamos. Não foi exatamente um piquenique como nos moldes propostos <a href="http://www.trololodemulher.com.br/2009/02/01/que-tal-um-piquenique-hein/">**_neste post anterior_**</a>, estava mais para churrasco aquele evento.
+  Lembro que não havia qualquer detalhe como recurso decorativo. Tudo com o que nos preocupamos limitou-se a alimentação que levamos. Não foi exatamente um piquenique como nos moldes propostos <a href="http://www.trololodemulher.com.br/2009/02/01/que-tal-um-piquenique-hein/"><strong><em>neste post anterior</em></strong></a>, estava mais para churrasco aquele evento.
 </p>
 
 <p style="text-align: justify;">
-  Entretanto, sendo uma coisa ou outra, poderia ter sido um pouco mais charmoso se alguém tivesse se atentado para a graciosidade que um toque decorativo imprime a qualquer cenário que seja. Quem sabe na próxima vez não seja eu **A** pessoa que vai encantar a todos com um pequeno detalhe pensado com esse propósito?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00144.gif"></a>
+  Entretanto, sendo uma coisa ou outra, poderia ter sido um pouco mais charmoso se alguém tivesse se atentado para a graciosidade que um toque decorativo imprime a qualquer cenário que seja. Quem sabe na próxima vez não seja eu <strong>A</strong> pessoa que vai encantar a todos com um pequeno detalhe pensado com esse propósito?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image00144.gif"></a>
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Nada mais que uma passadeira ou caminho de mesa(?), um arranjo sem qualquer “_pra quê_ isso”, apetrechos basicamente dispostos…
+  Nada mais que uma passadeira ou caminho de mesa(?), um arranjo sem qualquer “<em>pra quê</em> isso”, apetrechos basicamente dispostos…
 </p>
 
 <p style="text-align: justify;">
@@ -65,12 +65,12 @@ categories:
   <span style="color: #800080;"><span style="color: #000000;">E na falta de tudo o mais: passadeira ou caminho de mesa, apetrechos (coloridos) para arrumar a mesa,</span> </span><span style="color: #000000;">velas e vasos; uma única flor numa garrafa, como na imagem que nos serve de inspiração, já deixa a reunião um pouquinho mais especial, hã?<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/04/clip-image001123.gif"></a></span>
 </p>
 
-<span style="color: #000000;">Imagens: [Apartment Therapy](http://www.apartmenttherapy.com/) </span>
+<span style="color: #000000;">Imagens: <a href="http://www.apartmenttherapy.com/" target="_blank">Apartment Therapy</a></span>
 
 <span style="color: #800080;">Diz aí, encontros ao ar livre te fazem falta?</span>
 
 <span style="color: #800080;">Quer ler mais no Bicha Fêmea sobre como realizar encontros?</span>
 
-<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/" target="_self">Chá ou café da tarde com amigas: dicas e ideias.</a>_**</span>
+<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2010/07/12/cha-cafe-da-tarde/" target="_self">Chá ou café da tarde com amigas: dicas e ideias.</a></em></strong></span>
 
-<span style="color: #800080;">**_<a href="http://www.trololodemulher.com.br/2009/02/01/piquenique/" target="_self">Que tal um pique-nique, hein?</a>_**</span>
+<span style="color: #800080;"><strong><em><a href="http://www.trololodemulher.com.br/2009/02/01/piquenique/" target="_self">Que tal um pique-nique, hein?</a></em></strong></span>

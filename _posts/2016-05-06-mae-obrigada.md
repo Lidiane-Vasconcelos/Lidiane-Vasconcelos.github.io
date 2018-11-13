@@ -1,8 +1,8 @@
 ---
-
+id: 3607
 title: '{mãe, obrigada…}'
-
-author: Lidiane
+date: 2016-05-06T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/05/06/mae-obrigada/
 permalink: /2016/05/06/mae-obrigada/
@@ -30,11 +30,11 @@ categories:
 </p>
 
 <p align="center">
-  _Minha mãe e eu, segurando Artur (meu filho) pelas mãos. A foto foi tirada no batizado do meu pequeno, quando ele ainda tinha 1 ano. Hoje ele já é um rapazinho de 3 anos… rsrsrsrs…_
+  <em>Minha mãe e eu, segurando Artur (meu filho) pelas mãos. A foto foi tirada no batizado do meu pequeno, quando ele ainda tinha 1 ano. Hoje ele já é um rapazinho de 3 anos… rsrsrsrs…</em>
 </p>
 
 <p align="justify">
-  **_“Mainha, agradeço imensamente por ter me criado, educado, dado broncas e por ter sido meu porto seguro em momentos que me senti frágil. A senhora é meu exemplo de vida, fortaleza, amor e dedicação à família. Se eu for para minha família apenas parte do que a senhora foi para a nossa, sei que meu papel será bem cumprido. Muito de mim como mãe de Artur reflete o que a senhora foi para mim e meus irmãos. Muito obrigada por tudo.”_**
+  <strong><em>“Mainha, agradeço imensamente por ter me criado, educado, dado broncas e por ter sido meu porto seguro em momentos que me senti frágil. A senhora é meu exemplo de vida, fortaleza, amor e dedicação à família. Se eu for para minha família apenas parte do que a senhora foi para a nossa, sei que meu papel será bem cumprido. Muito de mim como mãe de Artur reflete o que a senhora foi para mim e meus irmãos. Muito obrigada por tudo.”</em></strong>
 </p>
 
 <p align="center">
@@ -46,5 +46,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3318
 title: Quer presentear com algo criativo, mas não sabe como?
-
-author: Lidiane
+date: 2014-07-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/07/03/presente-personalizado/
 permalink: /2014/07/03/presente-personalizado/
@@ -26,7 +26,7 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="justify">
-  Isso é só um pouquinho, pouquinho bem mínimo, do que você pode escolher e atribuir um visual exclusivo. As possibilidades são muitas em produtos de **papelaria, para você, sua casa, para as crianças, seu pet, escritório**, etc. E na **La Pomme** é assim:
+  Isso é só um pouquinho, pouquinho bem mínimo, do que você pode escolher e atribuir um visual exclusivo. As possibilidades são muitas em produtos de <strong>papelaria, para você, sua casa, para as crianças, seu pet, escritório</strong>, etc. E na <strong>La Pomme</strong> é assim:
 </p>
 
 &nbsp;
@@ -38,13 +38,13 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="justify">
-  Quer navegar, se deliciar e escolher um mimo você também? [Clica aqui](http://www.lojalapomme.com.br/)  e se joga, bonita!
+  Quer navegar, se deliciar e escolher um mimo você também? <a href="http://www.lojalapomme.com.br/" target="_blank">Clica aqui</a> e se joga, bonita!
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Você soube do sorteio relâmpago no Facebook?</span>**
+  <strong><span style="font-size: small;">Você soube do sorteio relâmpago no Facebook?</span></strong>
 </p>
 
 &nbsp;
@@ -56,7 +56,7 @@ Isso pode parecer um problema, bonita, mas este post foi editado para te mostrar
 &nbsp;
 
 <p align="justify">
-  Pois é… quem curte a [página do blog no Facebook](https://www.facebook.com/bichafemea)  teve a chance de partcipar dessa brincadeira, isto é, 24h para se inscrever no sorteio relâmpago, e concorrer a essas _belezuras_ da La Pomme. Sabe quem ganhou?
+  Pois é… quem curte a <a href="https://www.facebook.com/bichafemea" target="_blank">página do blog no Facebook</a> teve a chance de partcipar dessa brincadeira, isto é, 24h para se inscrever no sorteio relâmpago, e concorrer a essas <em>belezuras</em> da La Pomme. Sabe quem ganhou?
 </p>
 
 &nbsp;

@@ -1,8 +1,8 @@
 ---
-
+id: 2887
 title: 'Mercado de Artes: novidades e presentes para professoras. ‘Bora ver?'
-
-author: Lidiane
+date: 2010-10-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/10/01/mercado-de-artes-novidades/
 permalink: /2010/10/01/mercado-de-artes-novidades/
@@ -26,7 +26,7 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Móbile Primavera](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/) _**, para docorar cortinas e batentes de porta…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-primavera/" target="_blank">Móbile Primavera</a></em></strong>, para docorar cortinas e batentes de porta…
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Móbile Gatinho Vermelho](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/) _**, também para decoração de cortinas ou batentes de porta…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-gatinho-vermelho/" target="_blank">Móbile Gatinho Vermelho</a></em></strong>, também para decoração de cortinas ou batentes de porta…
 </p>
 
 <p style="text-align: center;">
@@ -42,7 +42,7 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Quadro Oriental](http://www.trololodemulher.com.br/loja/2010/09/29/quadro-oriental/) _**, para que o coração sinta o que os olhos enxergam…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/quadro-oriental/" target="_blank">Quadro Oriental</a></em></strong>, para que o coração sinta o que os olhos enxergam…
 </p>
 
 <p style="text-align: center;">
@@ -50,11 +50,11 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Porta Jóias Bolsinha](http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/) _**, para quem gosta de peças artesanais ricas em detalhes, e daqueles bem femininos…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/29/porta-joia-bolsinha/" target="_blank">Porta Jóias Bolsinha</a></em></strong>, para quem gosta de peças artesanais ricas em detalhes, e daqueles bem femininos…
 </p>
 
 <p style="text-align: justify;">
-  Todas as novidades do Mercado de Artes estão reunidas num local só, e lá tem muito mais. Se quiser dar uma espiada, é por aqui >>>>> **_basta clicar_**!
+  Todas as novidades do Mercado de Artes estão reunidas num local só, e lá tem muito mais. Se quiser dar uma espiada, é por aqui >>>>> <strong><em>basta clicar</em></strong>!
 </p>
 
 <p style="text-align: justify;">
@@ -66,7 +66,7 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Caixa Vaquinha](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-vaquinha/) _**, porque as caixas salvam! Organizam tudo!
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-vaquinha/" target="_blank">Caixa Vaquinha</a></em></strong>, porque as caixas salvam! Organizam tudo!
 </p>
 
 <p style="text-align: center;">
@@ -74,7 +74,7 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Caixa Cachorrinho](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-cachorrinho/) _**, para as professoras guardarem trecos e decorarem seus cantinhos…
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-cachorrinho/" target="_blank">Caixa Cachorrinho</a></em></strong>, para as professoras guardarem trecos e decorarem seus cantinhos…
 </p>
 
 <p style="text-align: center;">
@@ -82,11 +82,11 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Caixa Amor a Joaninhas](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-amor-a-joaninhas/) _**, um presente cheio de detalhes e único!
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-amor-a-joaninhas/" target="_blank">Caixa Amor a Joaninhas</a></em></strong>, um presente cheio de detalhes e único!
 </p>
 
 <p style="text-align: justify;">
-  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Se quiser dar mais uma espiada em caixas ainda diferentes, é por aqui >>>>> **_[basta clicar](http://www.trololodemulher.com.br/loja/category/organizacao/caixas/) _**!
+  Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Se quiser dar mais uma espiada em caixas ainda diferentes, é por aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/category/organizacao/caixas/" target="_blank">basta clicar</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
@@ -94,7 +94,7 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Mini Cômoda Gatinha](http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/) _**, um belo presente para alguém muito querido por você, que pode ser justamente a professora de sua criança, não é verdade?
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/mini-comoda-gatinha/" target="_blank">Mini Cômoda Gatinha</a></em></strong>, um belo presente para alguém muito querido por você, que pode ser justamente a professora de sua criança, não é verdade?
 </p>
 
 <p style="text-align: center;">
@@ -102,11 +102,11 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  **_[Porta Jóias Floral](http://www.trololodemulher.com.br/loja/2010/09/09/porta-joias-floral/) _**, para facilitar a vida de qualquer mulher na hora de se arrumar, já que fica tudo organizado e visível pela tampa com vidro&#8230;
+  <strong><em><a href="http://www.trololodemulher.com.br/loja/2010/09/09/porta-joias-floral/" target="_blank">Porta Jóias Floral</a></em></strong>, para facilitar a vida de qualquer mulher na hora de se arrumar, já que fica tudo organizado e visível pela tampa com vidro&#8230;
 </p>
 
 <p style="text-align: justify;">
-  Quer dar uma olhada em outros modelos de porta jóias? Todos eles estão bem aqui >>>>> **_[basta clicar](http://www.trololodemulher.com.br/loja/category/organizacao/porta-joias/) _**!
+  Quer dar uma olhada em outros modelos de porta jóias? Todos eles estão bem aqui >>>>> <strong><em><a href="http://www.trololodemulher.com.br/loja/category/organizacao/porta-joias/" target="_blank">basta clicar</a></em></strong>!
 </p>
 
 <p style="text-align: justify;">
@@ -114,13 +114,13 @@ Os professores bichos machos que me perdoem, mas todas as sugestões de presente
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">**_Receba gratuitamente em seu e-mail_**</a>!
+  Quer as novidades do Bicha Fêmea? <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><strong><em>Receba gratuitamente em seu e-mail</em></strong></a>!
 </p>
 
 <p style="text-align: center;">
-  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">**_@bichafemea_**</a>.
+  Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea"><strong><em>@bichafemea</em></strong></a>.
 </p>
 
 <p style="text-align: center;">
-  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>!
+  Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>> <a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a>!
 </p>

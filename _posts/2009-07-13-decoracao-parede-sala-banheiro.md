@@ -1,8 +1,8 @@
 ---
-
+id: 2685
 title: Dicas de decoração para a parede do quarto, sala e banheiro.
-
-author: Lidiane
+date: 2009-07-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/07/13/decoracao-parede-sala-banheiro/
 permalink: /2009/07/13/decoracao-parede-sala-banheiro/
@@ -28,13 +28,13 @@ O papel de parede é uma alternativa bastante interessante, que pode emprestar t
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Livingetc" src="http://www.livingetc.com/imageBank/cache/s/Style ideas-for-walls-7_e_12b1081677c861aba22119b0d82ed5f2.jpg" alt="Livingetc" />
 </p>
 
-Painéis na parede também são uma excelente alternativa. Nessa imagem a escolha foi por parede e painéis totalmente neutros, que formaram um fundo a fim de destacar as linhas desordenadas pintadas nas peças. Acredito que a solução foi bem elegante, mas também é possível ousar mais na escolha de cores para combinar os painéis. Tudo depende do estilo e gosto pessoal. A Aline, do blog [“Entre Pincéis”](http://entrepinceis.blogspot.com/) , fez a escolha por cores mais acentuadas, sem prejuízo quanto a um resultado de bom gosto. Dá uma olhada:
+Painéis na parede também são uma excelente alternativa. Nessa imagem a escolha foi por parede e painéis totalmente neutros, que formaram um fundo a fim de destacar as linhas desordenadas pintadas nas peças. Acredito que a solução foi bem elegante, mas também é possível ousar mais na escolha de cores para combinar os painéis. Tudo depende do estilo e gosto pessoal. A Aline, do blog <a href="http://entrepinceis.blogspot.com/" target="_blank">“Entre Pincéis”</a>, fez a escolha por cores mais acentuadas, sem prejuízo quanto a um resultado de bom gosto. Dá uma olhada:
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Blog Entre Pincéis" src="http://3.bp.blogspot.com/_ihnSEScYNtM/SlKO4Uvh6lI/AAAAAAAACQI/CNVJR49WUPM/s320/030720093663.jpg" alt="Blog Entre Pincéis" />
 </p>
 
-Aline decorou a parede da sala com painéis que ela mesma produziu, e mostrou como fazê-los [aqui, neste post](http://entrepinceis.blogspot.com/2009/07/trilogia-da-reforma.html) . Para quem tem habilidade com as mãos, é possível mudar a cara de um ambiente num estalar de dedos, ou de grampeadores.[<img style="display: inline;" title="EmoticonHappy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy_thumb10.gif" alt="EmoticonHappy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy10.gif)
+Aline decorou a parede da sala com painéis que ela mesma produziu, e mostrou como fazê-los <a href="http://entrepinceis.blogspot.com/2009/07/trilogia-da-reforma.html" target="_blank">aqui, neste post</a>. Para quem tem habilidade com as mãos, é possível mudar a cara de um ambiente num estalar de dedos, ou de grampeadores.[<img style="display: inline;" title="EmoticonHappy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy_thumb10.gif" alt="EmoticonHappy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonhappy10.gif)
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Livingetc" src="http://www.livingetc.com/imageBank/cache/s/Style ideas-for-walls-6_e_12b1081677c861aba22119b0d82ed5f2.jpg" alt="Livingetc" />
@@ -58,7 +58,7 @@ Quando vi essa imagem logo pensei no quarto de uma menina, embora eu não tenha 
 
 Há também a alternativa mais comum de todas, que é pendurar quadros na parede. E para ficar menos comum, se essa for a intenção, podemos também pendurar composições de quadros, relógios ou espelhos. Se a dúvida for em como dispô-los, [este outro post do Bicha](http://www.trololodemulher.com.br/2009/04/07/como-decorar-paredes-com-quadros-pratos-espelhos-relgios-etc/) oferece algumas dicas para te ajudar a minimizar essas dúvidas. É ler pra crer. [<img style="display: inline;" title="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb10.gif" alt="EmoticonWink" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink10.gif)
 
-Imagens: [Livingetc](http://www.livingetc.com/)  & [Entre Pincéis](http://entrepinceis.blogspot.com/) 
+Imagens: <a href="http://www.livingetc.com/" target="_blank">Livingetc</a> & <a href="http://entrepinceis.blogspot.com/" target="_blank">Entre Pincéis</a>
 
 **Mais no Bicha sobre decoração de parede&#8230;**
 
@@ -70,28 +70,28 @@ Imagens: [Livingetc](http://www.livingetc.com/)  & [Entre Pincéis](http://entre
 
 <span style="color: #800080;">Atualização I</span>
 
-<span style="color: #800080;">Olha só que contribuição ótima! A Rejane, do blog</span> [“Casa Corpo & Cia”,](http://casacorpoecia.blogspot.com/)  <span style="color: #800080;">que não é boba nem nada, ganhou sobras de MDF em uma loja, e a bicha fêmea é muito criativa, sabe como é? Como ela já tinha uns tecidos em casa e tem um grampeador poderoso, o que fez? Tirou da parede da sala o quadro com cara de “pronto” que ela não suportava mais, e enfeitou com novos painéis que ela fez. Olha a imagem aí embaixo para você se inspirar:</span>
+<span style="color: #800080;">Olha só que contribuição ótima! A Rejane, do blog</span> <a href="http://casacorpoecia.blogspot.com/" target="_blank">“Casa Corpo & Cia”,</a> <span style="color: #800080;">que não é boba nem nada, ganhou sobras de MDF em uma loja, e a bicha fêmea é muito criativa, sabe como é? Como ela já tinha uns tecidos em casa e tem um grampeador poderoso, o que fez? Tirou da parede da sala o quadro com cara de “pronto” que ela não suportava mais, e enfeitou com novos painéis que ela fez. Olha a imagem aí embaixo para você se inspirar:</span>
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Blog Casa Corpo & Cia" src="http://2.bp.blogspot.com/_j9rfcQNhs8c/Slao8Scg40I/AAAAAAAAAg0/-TSThCsdeCk/s400/DSC04248.JPG" alt="Blog Casa Corpo & Cia" />
 </p>
 
-<span style="color: #800080;">Para saber mais detalhes e  o “truque” para pendurar esses mimos na parede, é só dar uma olhada no post completo</span> [aqui, ó.](http://casacorpoecia.blogspot.com/2009/07/mais-grampeadas.html) 
+<span style="color: #800080;">Para saber mais detalhes e  o “truque” para pendurar esses mimos na parede, é só dar uma olhada no post completo</span> <a href="http://casacorpoecia.blogspot.com/2009/07/mais-grampeadas.html" target="_blank">aqui, ó.</a>
 
 <span style="color: #800080;">Beijos, Rejane!</span>
 
 <span style="color: #000080;">Atualização II</span>
 
-<span style="color: #000080;">Meu coração chega a palpitar de tanta emoção ao fazer essa segunda atualização. É. Sou boba mesmo e me emociono com tanta coisa legal que a gente vivencia nessa blogosfera, _viu_?</span>
+<span style="color: #000080;">Meu coração chega a palpitar de tanta emoção ao fazer essa segunda atualização. É. Sou boba mesmo e me emociono com tanta coisa legal que a gente vivencia nessa blogosfera, <em>viu</em>?</span>
 
-<span style="color: #000080;">Pára tudo! Depois que a bonita da Fabi, do blog</span> [“Favas Design”,](http://favasdesign.blogspot.com/)  <span style="color: #000080;">viu este post sobre decoração de paredes no Bicha, deu um _faniquito_ nela e ela fez um post lindo de viver para mostrar uma série de três quadros que ela produziu, inspirada em outro que ela viu numa loja de decoração. </span>
+<span style="color: #000080;">Pára tudo! Depois que a bonita da Fabi, do blog</span> <a href="http://favasdesign.blogspot.com/" target="_blank">“Favas Design”,</a> <span style="color: #000080;">viu este post sobre decoração de paredes no Bicha, deu um <em>faniquito</em> nela e ela fez um post lindo de viver para mostrar uma série de três quadros que ela produziu, inspirada em outro que ela viu numa loja de decoração. </span>
 
-<span style="color: #000080;">No post ela conta a história linda que a motivou a montar os quadros que compõem o que ela chama de “Encontro”. Ééééé&#8230; _tá_ pensando o quê? Sabe o que é mais lindo nesse trabalho feito pelas mãos criativas dessa bicha fêmea? Todo o peso sentimental e de significado ímpar que essa solução decorativa tem. Um LU-XO!</span>
+<span style="color: #000080;">No post ela conta a história linda que a motivou a montar os quadros que compõem o que ela chama de “Encontro”. Ééééé&#8230; <em>tá</em> pensando o quê? Sabe o que é mais lindo nesse trabalho feito pelas mãos criativas dessa bicha fêmea? Todo o peso sentimental e de significado ímpar que essa solução decorativa tem. Um LU-XO!</span>
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="Blog Favas Design" src="http://3.bp.blogspot.com/_ErcOpjVcJ-A/SlwNjFzkCMI/AAAAAAAAAa8/luEhY-Qp8MU/s400/quadro_serie.jpg" alt="Blog Favas Design" />
 </p>
 
-<span style="color: #000080;">Para conhecer a história por trás de cada elemento do “Encontro”, e ainda mais inspirações para enfeitar sua parede, é só clicar bem </span>[aqui,](http://favasdesign.blogspot.com/2009/07/metida-artista.html)  <span style="color: #000080;">_viu_?</span> [<img style="display: inline;" title="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb12.gif" alt="EmoticonWink" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink12.gif)
+<span style="color: #000080;">Para conhecer a história por trás de cada elemento do “Encontro”, e ainda mais inspirações para enfeitar sua parede, é só clicar bem </span><a href="http://favasdesign.blogspot.com/2009/07/metida-artista.html" target="_blank">aqui,</a> <span style="color: #000080;"><em>viu</em>?</span> [<img style="display: inline;" title="EmoticonWink" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink_thumb12.gif" alt="EmoticonWink" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/07/emoticonwink12.gif)
 
 <span style="color: #000080;">Arrasou, Fabi!!!</span>

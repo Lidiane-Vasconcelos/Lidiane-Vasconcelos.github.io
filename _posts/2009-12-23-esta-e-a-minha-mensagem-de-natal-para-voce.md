@@ -1,8 +1,8 @@
 ---
-
+id: 2754
 title: Esta é a minha mensagem de Natal para você…
-
-author: Lidiane
+date: 2009-12-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/12/23/esta-e-a-minha-mensagem-de-natal-para-voce/
 permalink: /2009/12/23/esta-e-a-minha-mensagem-de-natal-para-voce/
@@ -19,4 +19,4 @@ Que possamos sempre manter na mente a lembrança do que estamos comemorando, o n
 
 Feliz Natal para você e toda a sua família, bonita!!!!!
 
-Imagem: [stock.xchng](http://www.sxc.hu/) 
+Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>

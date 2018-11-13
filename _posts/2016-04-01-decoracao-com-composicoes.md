@@ -1,8 +1,8 @@
 ---
-
+id: 3575
 title: 'Decoração com composições: veja 13 dicas e faça a sua!'
-
-author: Lidiane
+date: 2016-04-01T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/04/01/decoracao-com-composicoes/
 permalink: /2016/04/01/decoracao-com-composicoes/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Se você curte navegar por blogs de decoração vai perceber uma estratégia de _design_ de ambientes que os profissionais amam: decoração com composições de objetos do mesmo tipo. O resultado visual é mesmo muito bonito, porque não se trata de um amontoado de coisas largados num espaço qualquer. Fosse isto, seria um pequeno foco de bagunça. Absolutamente! Não é disso que estou falando, mas de um conjunto harmonioso de objetos, propositalmente arrumado num cantinho, cujo charme está na forma como esse arranjo é apresentado. Se a gente observar com mais carinho, perceberá que podemos tirar proveito dessa ideia e usá-la em diferentes partes da nossa casa. É só usar a imaginação e o bom senso… o resto é só alegria e festa para os olhos.
+  Se você curte navegar por blogs de decoração vai perceber uma estratégia de <em>design</em> de ambientes que os profissionais amam: decoração com composições de objetos do mesmo tipo. O resultado visual é mesmo muito bonito, porque não se trata de um amontoado de coisas largados num espaço qualquer. Fosse isto, seria um pequeno foco de bagunça. Absolutamente! Não é disso que estou falando, mas de um conjunto harmonioso de objetos, propositalmente arrumado num cantinho, cujo charme está na forma como esse arranjo é apresentado. Se a gente observar com mais carinho, perceberá que podemos tirar proveito dessa ideia e usá-la em diferentes partes da nossa casa. É só usar a imaginação e o bom senso… o resto é só alegria e festa para os olhos.
 </p>
 
 <p align="justify">
@@ -22,19 +22,19 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Tem um corte de tecido que você ama e acha tudo de lindo? Encomende a um marceneiro armações de madeira com tamanhos diferentes, faça o recorte do tecido para cobrir cada uma dessas armações com sobra para grampear na moldura de madeira. Depois disso, você precisará de um grampeador apropriado para fixar o tecido na moldura, e talvez seja o caso de levar para um tapeceiro. Estude como fará sua composição na parede e, para isso, veja nesse post sobre [como decorar a parede com quadros](http://www.decoracaodacasa.com/decoracao-parede-quadros/)  tudo o que você precisa saber para isso, e capriche na sua decoração. A simplicidade da ideia não resulta em algo bonito de viver?
+  Tem um corte de tecido que você ama e acha tudo de lindo? Encomende a um marceneiro armações de madeira com tamanhos diferentes, faça o recorte do tecido para cobrir cada uma dessas armações com sobra para grampear na moldura de madeira. Depois disso, você precisará de um grampeador apropriado para fixar o tecido na moldura, e talvez seja o caso de levar para um tapeceiro. Estude como fará sua composição na parede e, para isso, veja nesse post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a> tudo o que você precisa saber para isso, e capriche na sua decoração. A simplicidade da ideia não resulta em algo bonito de viver?
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!**](http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-tecido-como-fazer/" target="_blank"><strong>Decoração: cortes de tecidos nas mãos e 4 ideias na cabeça!</strong></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [A Beautiful Mess](http://www.abeautifulmess.com/) 
+  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A Beautiful Mess</a>
 </p>
 
 <p align="justify">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Belle Maison](http://www.bellemaison23.com/) 
+  Imagem: <a href="http://www.bellemaison23.com/" target="_blank">Belle Maison</a>
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Saia por aí com sua máquina e tire fotos de flores bem bonitas. Depois disso, providencie molduras e monte uma composição sobre um banco cheio de almofadas. Você pode colocar um banco simples de madeira e providenciar um _futton_ para ele… fica a dica e inspiração.
+  Saia por aí com sua máquina e tire fotos de flores bem bonitas. Depois disso, providencie molduras e monte uma composição sobre um banco cheio de almofadas. Você pode colocar um banco simples de madeira e providenciar um <em>futton</em> para ele… fica a dica e inspiração.
 </p>
 
 <p align="center">
@@ -90,11 +90,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Faça uma **composição com quadros de molduras iguais e gravuras similares**. Escolha **molduras** com um tamanho razoável de modo que **posicionadas lado a lado** na composição, passem a impressão de um **único painel que tem a largura de sua cama**. Viu que bonito o efeito final? Fica a dica para preencher de uma vez por todas a parede de sua cabeceira…
+  Faça uma <strong>composição com quadros de molduras iguais e gravuras similares</strong>. Escolha <strong>molduras</strong> com um tamanho razoável de modo que <strong>posicionadas lado a lado</strong> na composição, passem a impressão de um <strong>único painel que tem a largura de sua cama</strong>. Viu que bonito o efeito final? Fica a dica para preencher de uma vez por todas a parede de sua cabeceira…
 </p>
 
 <p align="center">
@@ -102,11 +102,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Está aí uma ideia para as arteiras que gostam de colocar “a mão na massa” no melhor estilo da decoração “faça você mesma”: quadros de MDF do tipo cenário pintados **+** revestimento do fundo do quadro com tecidos de estampas variadas **+** pratos de melamina colados no quadro **= composição estilosa para a sala de jantar**. Gostou da ideia, bonita? Ficou inspirada? Se joga!
+  Está aí uma ideia para as arteiras que gostam de colocar “a mão na massa” no melhor estilo da decoração “faça você mesma”: quadros de MDF do tipo cenário pintados <strong>+</strong> revestimento do fundo do quadro com tecidos de estampas variadas <strong>+</strong> pratos de melamina colados no quadro <strong>= composição estilosa para a sala de jantar</strong>. Gostou da ideia, bonita? Ficou inspirada? Se joga!
 </p>
 
 <p align="center">
@@ -114,11 +114,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Quer ideia mais simples e de grande efeito que essa? Invista num **conjunto de espelhos com formatos diferentes** e monte uma super composição na parede. E se seu espaço é pequeno, melhor ainda! Já ouviu falar na dica clássica de decoração que recomenda o uso de espelhos em ambientes pequenos? Vá em frente!
+  Quer ideia mais simples e de grande efeito que essa? Invista num <strong>conjunto de espelhos com formatos diferentes</strong> e monte uma super composição na parede. E se seu espaço é pequeno, melhor ainda! Já ouviu falar na dica clássica de decoração que recomenda o uso de espelhos em ambientes pequenos? Vá em frente!
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -138,7 +138,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -150,11 +150,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Homedit](http://www.homedit.com/) 
+  Imagem: <a href="http://www.homedit.com/" target="_blank">Homedit</a>
 </p>
 
 <p align="justify">
-  Essas fotos foram dispostas em uma sala, reparou? Mas elas poderiam estar no quarto ou ainda no _home office_. A escolha é sua. Veja como a solução é simples: 1 – Providencie prateleiras planejadas para a áera escolhida. É importante que elas tenham a base fininha, somente para dar apoio ás molduras, e a área de encosto alta. | 2 – Escolha as fotos que serão expostas e cuide para que as molduras sejam todas da mesma cor, ainda que as formas das fotos sejam diferentes. Viu? Não é simples reproduzir, com resultado bonito e elegante? Eu _superultramega _amei a ideia e não podia deixar de dividi-la com você. Inspire-se!
+  Essas fotos foram dispostas em uma sala, reparou? Mas elas poderiam estar no quarto ou ainda no <em>home office</em>. A escolha é sua. Veja como a solução é simples: 1 – Providencie prateleiras planejadas para a áera escolhida. É importante que elas tenham a base fininha, somente para dar apoio ás molduras, e a área de encosto alta. | 2 – Escolha as fotos que serão expostas e cuide para que as molduras sejam todas da mesma cor, ainda que as formas das fotos sejam diferentes. Viu? Não é simples reproduzir, com resultado bonito e elegante? Eu <em>superultramega </em>amei a ideia e não podia deixar de dividi-la com você. Inspire-se!
 </p>
 
 <p align="center">
@@ -162,11 +162,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Shelterness](http://www.shelterness.com/) 
+  Imagem: <a href="http://www.shelterness.com/" target="_blank">Shelterness</a>
 </p>
 
 <p align="justify">
-  Olha que ideia bacana e simples: **fotos impressas em preto e branco + molduras iguais + fotos sobre fundos de cores diferentes**. Escolha como quer dispor os elementos na parede… e pronto! Fala para mim se o resultado não é lindo de viver e digno de elogios?!
+  Olha que ideia bacana e simples: <strong>fotos impressas em preto e branco + molduras iguais + fotos sobre fundos de cores diferentes</strong>. Escolha como quer dispor os elementos na parede… e pronto! Fala para mim se o resultado não é lindo de viver e digno de elogios?!
 </p>
 
 <p align="center">
@@ -174,15 +174,15 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Better Homes and Gardens](http://www.bhg.com/) 
+  Imagem: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Escolha um **adesivo de parede com formato de árvore** para receber a foto de seus  queridos e** personalize sua árvore familiar**…
+  Escolha um <strong>adesivo de parede com formato de árvore</strong> para receber a foto de seus  queridos e<strong> personalize sua árvore familiar</strong>…
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

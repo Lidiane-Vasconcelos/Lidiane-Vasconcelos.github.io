@@ -1,8 +1,8 @@
 ---
-
+id: 2882
 title: 'Acne nas costas e no colo: dicas de beleza para o verão.'
-
-author: Lidiane
+date: 2010-09-27T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/09/27/dicas-beleza-verao/
 permalink: /2010/09/27/dicas-beleza-verao/
@@ -12,7 +12,7 @@ categories:
 As temperaturas continuam subindo, e as dicas de beleza para que a gente fique ainda mais bonita no verão são sempre bem vindas, não é? E no Bicha Fêmea essas dicas são dadas por uma _expert_, bonita!
 
 <p style="text-align: justify;">
-  A **_Dra. Gabriela Bernhard Issa_**, que atende no Rio de Janeiro e edita o blog [DermatologiaMed](http://dermatologiagi.blogspot.com/) , já deu **_<a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/">dicas de beleza para evitar o mau cheiro no corpo e a desidratação dos cabelos devido ás temperaturas altas</a>_**. Hoje as dicas dizem respeito a acne nas costas e no colo. Você sofre com elas? Então confira a melhor forma de lidar com isso…
+  A <strong><em>Dra. Gabriela Bernhard Issa</em></strong>, que atende no Rio de Janeiro e edita o blog <a href="http://dermatologiagi.blogspot.com/" target="_blank">DermatologiaMed</a>, já deu <strong><em><a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/">dicas de beleza para evitar o mau cheiro no corpo e a desidratação dos cabelos devido ás temperaturas altas</a></em></strong>. Hoje as dicas dizem respeito a acne nas costas e no colo. Você sofre com elas? Então confira a melhor forma de lidar com isso…
 </p>
 
 <!--more-->
@@ -22,15 +22,15 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
 </p>
 
 > <p style="text-align: justify;">
->   _“O colo e o dorso, assim como a face, são áreas ricas em glândulas sebáceas, responsáveis pela oleosidade da pele. **Pessoas com pele oleosa ou acne não devem usar cremes ou sabonetes hidratantes nessas áreas.** A escolha do protetor solar também é muito importante, já que os filtros comuns tem muito óleo na fórmula e provocam acne. **Deve-se usar filtros solares em gel ou que sejam livres de óleo (oil-free), com reaplicação a cada 4 horas.”**_
+>   <em>“O colo e o dorso, assim como a face, são áreas ricas em glândulas sebáceas, responsáveis pela oleosidade da pele. <strong>Pessoas com pele oleosa ou acne não devem usar cremes ou sabonetes hidratantes nessas áreas.</strong> A escolha do protetor solar também é muito importante, já que os filtros comuns tem muito óleo na fórmula e provocam acne. <strong>Deve-se usar filtros solares em gel ou que sejam livres de óleo (oil-free), com reaplicação a cada 4 horas.”</strong></em>
 > </p>
 
 <p style="text-align: justify;">
-  A recomendação do uso de filtro solar pelos dermatologistas é algo recorrente, mas o hábito parece não ter se instaurado na vida de muitas bichas fêmeas&#8230;_tsc tsc tsc._ Para que fique bem clara a importância, a Dra. Gabriela explica para mim e para você por que é tão necessário usar esse tipo de produto:
+  A recomendação do uso de filtro solar pelos dermatologistas é algo recorrente, mas o hábito parece não ter se instaurado na vida de muitas bichas fêmeas&#8230;<em>tsc tsc tsc.</em> Para que fique bem clara a importância, a Dra. Gabriela explica para mim e para você por que é tão necessário usar esse tipo de produto:
 </p>
 
 > <p style="text-align: justify;">
->   “_Além de prevenir o envelhecimento e câncer de_ pele, _vai evitar que apareçam manchas escuras nos locais acometidos por lesões de acne.”_
+>   “<em>Além de prevenir o envelhecimento e câncer de</em> pele, <em>vai evitar que apareçam manchas escuras nos locais acometidos por lesões de acne.”</em>
 > </p>
 
 <p style="text-align: justify;">
@@ -78,11 +78,11 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
 </p>
 
 > <p style="text-align: justify;">
->   _“Quadros mais resistentes ou de maior gravidade podem necessitar de uma avaliação pelo dermatologista e um tratamento específico. Evite roupas de tecidos sintéticos, pois estes retem o suor e pioram as lesões_.”
+>   <em>“Quadros mais resistentes ou de maior gravidade podem necessitar de uma avaliação pelo dermatologista e um tratamento específico. Evite roupas de tecidos sintéticos, pois estes retem o suor e pioram as lesões</em>.”
 > </p>
 
 <p style="text-align: justify;">
-  Que a acne nas costas e no colo pode se tornar uma vilã na vida de uma bicha fêmea eu nunca tive dúvidas, porque eu mesma sofro muito com isso. Já faz um tempo que aprendi um truque que faz parte da minha rotina ao tomar banho e que surtiu efeito minimizando o problema. Deixa eu te perguntar: **_você sabia que a acne (também) aparece nas costas e colo por causa de resíduos de shampoo, condicionador e cremes, e que lavar a cabeça com os cabelos jogados para a frente evita que esses resíduos venham para a pele dessas regiões e fiquem retidos por lá?_** A Dra. Gabriela confirma isso tudo. Olha só:
+  Que a acne nas costas e no colo pode se tornar uma vilã na vida de uma bicha fêmea eu nunca tive dúvidas, porque eu mesma sofro muito com isso. Já faz um tempo que aprendi um truque que faz parte da minha rotina ao tomar banho e que surtiu efeito minimizando o problema. Deixa eu te perguntar: <strong><em>você sabia que a acne (também) aparece nas costas e colo por causa de resíduos de shampoo, condicionador e cremes, e que lavar a cabeça com os cabelos jogados para a frente evita que esses resíduos venham para a pele dessas regiões e fiquem retidos por lá?</em></strong> A Dra. Gabriela confirma isso tudo. Olha só:
 </p>
 
 <p style="text-align: center;">
@@ -92,7 +92,7 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
     </p>
     
     <p style="text-align: justify;">
-      “_É verdade. Resíduos de shampoo, condicionadores e cremes que ficam na pele podem desencadear e piorar a acne. O ideal é usar o sabonete no corpo somente após enxaguar bem os cabelos. Mas os grandes vilões são os condicionadores leave-in, cremes para pentear e reparadores de pontas, pois estes realmente vão permanecer nos fios e acabam acumulando no rosto, pescoço e costas ao longo do dia.”_
+      “<em>É verdade. Resíduos de shampoo, condicionadores e cremes que ficam na pele podem desencadear e piorar a acne. O ideal é usar o sabonete no corpo somente após enxaguar bem os cabelos. Mas os grandes vilões são os condicionadores leave-in, cremes para pentear e reparadores de pontas, pois estes realmente vão permanecer nos fios e acabam acumulando no rosto, pescoço e costas ao longo do dia.”</em>
     </p>
   </blockquote>
   
@@ -102,7 +102,7 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
   
   <blockquote style="text-align: justify;">
     <p>
-      “_Quem tem acne não deve usar estes produtos, é preferível usar um bom condicionador e enxaguar bem depois. Mas se não for possível, aplicar apenas uma pequena quantidade e usar roupas menos decotadas para evitar o contato direto dos cabelos com a pele. Lavar a cabeça com os cabelos jogados para frente pode ajudar, mas não é necessário se a pessoa usar o sabonete por último e não esquecer de lavar as costas (o que é muito comum)._ “
+      “<em>Quem tem acne não deve usar estes produtos, é preferível usar um bom condicionador e enxaguar bem depois. Mas se não for possível, aplicar apenas uma pequena quantidade e usar roupas menos decotadas para evitar o contato direto dos cabelos com a pele. Lavar a cabeça com os cabelos jogados para frente pode ajudar, mas não é necessário se a pessoa usar o sabonete por último e não esquecer de lavar as costas (o que é muito comum).</em> “
     </p>
   </blockquote>
   
@@ -111,45 +111,45 @@ As temperaturas continuam subindo, e as dicas de beleza para que a gente fique a
   </p>
   
   <p>
-    _Imagens: _[_stock.xchng_](http://www.sxc.hu/) 
+    <em>Imagens: </em><a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
   </p>
   
   <p>
-    **Mais sobre beleza no Bicha Fêmea…**
+    <strong>Mais sobre beleza no Bicha Fêmea…</strong>
   </p>
   
   <p>
-    **_<a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/">Primavera-verão: dicas de beleza.</a>_**
+    <strong><em><a href="http://www.trololodemulher.com.br/2010/09/13/dicas-de-beleza/">Primavera-verão: dicas de beleza.</a></em></strong>
   </p>
   
   <p>
-    **_<a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/">Cabelo cacheado tem corte, sim!</a>_**
+    <strong><em><a href="http://www.trololodemulher.com.br/2010/02/23/cabelo-cacheado/">Cabelo cacheado tem corte, sim!</a></em></strong>
   </p>
   
   <p>
-    **_<a href="http://www.trololodemulher.com.br/2009/12/14/celulite/">Atitudes e tratamentos para atenuar a celulite.</a>_**
+    <strong><em><a href="http://www.trololodemulher.com.br/2009/12/14/celulite/">Atitudes e tratamentos para atenuar a celulite.</a></em></strong>
   </p>
   
   <p>
-    **_<a href="http://www.trololodemulher.com.br/2009/07/08/maquiagem-mineral/">Tudo sobre maquiagem mineral.</a>_**
+    <strong><em><a href="http://www.trololodemulher.com.br/2009/07/08/maquiagem-mineral/">Tudo sobre maquiagem mineral.</a></em></strong>
   </p>
   
   <p>
-    **_<a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-cuidados/">Dicas para beleza e saúde das unhas.</a>_**
+    <strong><em><a href="http://www.trololodemulher.com.br/2009/04/14/unhas-dicas-cuidados/">Dicas para beleza e saúde das unhas.</a></em></strong>
   </p>
   
   <p style="text-align: center;">
-    **_Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/corpo/">Corpo</a> > <a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">Beleza</a> > Acne nas costas e no colo: dicas de beleza para o verão._**
+    <strong><em>Navegue no Bicha Fêmea: Início > <a href="http://www.trololodemulher.com.br/corpo/">Corpo</a> > <a href="http://www.trololodemulher.com.br/category/do-corpo/beleza/">Beleza</a> > Acne nas costas e no colo: dicas de beleza para o verão.</em></strong>
   </p>
   
   <p style="text-align: center;">
-    **_Quer as novidades do Bicha Fêmea? _<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">_Receba gratuitamente em seu e-mail_</a>_!_**
+    <strong><em>Quer as novidades do Bicha Fêmea? </em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR"><em>Receba gratuitamente em seu e-mail</em></a><em>!</em></strong>
   </p>
   
   <p style="text-align: center;">
-    **Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">@bichafemea</a>.**
+    <strong>Siga o Bicha Fêmea no Twitter – <a href="http://twitter.com/bichafemea">@bichafemea</a>.</strong>
   </p>
   
   <p style="text-align: center;">
-    **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+    <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
   </p>

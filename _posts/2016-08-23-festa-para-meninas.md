@@ -1,8 +1,8 @@
 ---
-
+id: 3647
 title: '{dance} Festa para meninas crescidinhas: dicas e ideias.'
-
-author: Lidiane
+date: 2016-08-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/08/23/festa-para-meninas/
 permalink: /2016/08/23/festa-para-meninas/
@@ -11,16 +11,16 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Uma hora a menininha da mamãe cresce e, _pá_: já é uma mocinha! Ter uma festinha pra comemorar com as amigas continua sendo um presente mais que perfeito que a mãe possa proporcionar, claro! Mas não pode ter traços de bebê, hein? …_rsrsrsrs_… e agora: como organizar uma festa para meninas, que cresceram, e tudo o que querem é dançar muito? Este foi um pedido bem específico de uma leitora mais que querida no Trololó de Mulher. No post sobre [inspirações de mesas para festas caseiras](http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/) , Marlene escreveu assim:
+  Uma hora a menininha da mamãe cresce e, <em>pá</em>: já é uma mocinha! Ter uma festinha pra comemorar com as amigas continua sendo um presente mais que perfeito que a mãe possa proporcionar, claro! Mas não pode ter traços de bebê, hein? …<em>rsrsrsrs</em>… e agora: como organizar uma festa para meninas, que cresceram, e tudo o que querem é dançar muito? Este foi um pedido bem específico de uma leitora mais que querida no Trololó de Mulher. No post sobre <a href="http://www.trololodemulher.com.br/2016/03/30/festa-infantil-caseira/" target="_blank">inspirações de mesas para festas caseiras</a>, Marlene escreveu assim:
 </p>
 
 <p align="justify">
-  “_**<span style="font-size: large;">Ideias lindas! Desde que me tornei mãe (9 anos atrás) que amo o assunto festa infantil, mas gosto mesmo é das “handmade”… Agora estou em busca de inspiração pras festinhas de pré-adolescente, alguma sugestão? Quero um post!!! rsrsrs… Jujú vai fazer 10 anos e ainda curte fazer festa de aniversário, quer dançar, um tal “just dance”…. help-me…Ela foi numa festa em buffet infantil, lá pelas tantas os brinquedos pararam de funcionar e apagaram as luzes e surgiu uma pista de dança, com outras luzes, fumacinha e no telão aparecia o clipe da música em forma de coreografia, onde todos dançavam imitando a coreografia da tela e diz chamar-se “just dance”, ou seja é como um jogo, um brinquedo eletrônico … daí a idéia da festinha dela ser somente “dançante”, sem brinquedos, sem balões (agora é mico), enfim… uma festa de menina grande, uma baladinha teen!!!</span>**_”
+  “<em><strong><span style="font-size: large;">Ideias lindas! Desde que me tornei mãe (9 anos atrás) que amo o assunto festa infantil, mas gosto mesmo é das “handmade”… Agora estou em busca de inspiração pras festinhas de pré-adolescente, alguma sugestão? Quero um post!!! rsrsrs… Jujú vai fazer 10 anos e ainda curte fazer festa de aniversário, quer dançar, um tal “just dance”…. help-me…Ela foi numa festa em buffet infantil, lá pelas tantas os brinquedos pararam de funcionar e apagaram as luzes e surgiu uma pista de dança, com outras luzes, fumacinha e no telão aparecia o clipe da música em forma de coreografia, onde todos dançavam imitando a coreografia da tela e diz chamar-se “just dance”, ou seja é como um jogo, um brinquedo eletrônico … daí a idéia da festinha dela ser somente “dançante”, sem brinquedos, sem balões (agora é mico), enfim… uma festa de menina grande, uma baladinha teen!!!</span></strong></em>”
 </p>
 
 <p align="justify">
   <p align="justify">
-    O pedido de Marlene, para mim, é uma ordem! E lá fui eu atrás de ideias legais para colocar em prática na festinha da Jujú. Achei uma festinha incrível! Feita em casa, como Marlene (e eu!) preferimos, cheia de detalhes legais que certamente vão deixar sua pequena e as amigas bem animadas. Separei os que amei de paixão, e claro que os balões são totalmente dispensáveis, não é Jujú? Espero que a Marlene, ou outras mamães, possam _roubatilhar_ algumas sugestões desse post e proporcionem uma diversão pra lá de gostosa para suas pequenas. Lá vai!!!
+    O pedido de Marlene, para mim, é uma ordem! E lá fui eu atrás de ideias legais para colocar em prática na festinha da Jujú. Achei uma festinha incrível! Feita em casa, como Marlene (e eu!) preferimos, cheia de detalhes legais que certamente vão deixar sua pequena e as amigas bem animadas. Separei os que amei de paixão, e claro que os balões são totalmente dispensáveis, não é Jujú? Espero que a Marlene, ou outras mamães, possam <em>roubatilhar</em> algumas sugestões desse post e proporcionem uma diversão pra lá de gostosa para suas pequenas. Lá vai!!!
   </p>
   
   <p align="center">
@@ -52,7 +52,7 @@ categories:
   </p>
   
   <p align="center">
-    Cantinho das sacolinhas com guloseimas e tudo o mais. Claro que a mamãe pode caprichar num modelo similar, ou preparar outro. Para dar uma mãozinha, não deixe de conferir as [9 ideias de sacolas de festa infantil “faça você mesma”](http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/)  publicadas por aqui.
+    Cantinho das sacolinhas com guloseimas e tudo o mais. Claro que a mamãe pode caprichar num modelo similar, ou preparar outro. Para dar uma mãozinha, não deixe de conferir as <a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">9 ideias de sacolas de festa infantil “faça você mesma”</a> publicadas por aqui.
   </p>
   
   <p align="justify">
@@ -60,7 +60,7 @@ categories:
   </p>
   
   <p align="justify">
-    [Sacolinha de festa infantil: faça você mesma!](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
+    <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma!</a>
   </p>
   
   <p align="center">
@@ -128,11 +128,11 @@ categories:
   </p>
   
   <p align="justify">
-    Veja todas as [fotos aqui, no blog Catch My Party](http://catchmyparty.com/parties/reeses-7th-birthday) . Inspire-se!
+    Veja todas as <a href="http://catchmyparty.com/parties/reeses-7th-birthday" target="_blank">fotos aqui, no blog Catch My Party</a>. Inspire-se!
   </p>
   
   <p align="center">
-    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>
   
   <p align="justify">

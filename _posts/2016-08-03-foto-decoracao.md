@@ -1,8 +1,8 @@
 ---
-
+id: 3634
 title: 'Foto com detalhe floral em 3D: faça você mesma!'
-
-author: Lidiane
+date: 2016-08-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/08/03/foto-decoracao/
 permalink: /2016/08/03/foto-decoracao/
@@ -11,13 +11,13 @@ categories:
   - Faça Você Mesma
 ---
 <p align="justify">
-  Quando eu encontro uma ideia tão bacana como essa, assim como você verá a seguir, e de execução incrivelmente simples, meus olhinhos brilham e meu coração dá pulinhos de alegria. Sério! Eu fico _superultramega _ansiosa para compartilhar contigo o achado, na esperança que você bata os olhos na dica, e viva de amores como estou vivendo agora.
+  Quando eu encontro uma ideia tão bacana como essa, assim como você verá a seguir, e de execução incrivelmente simples, meus olhinhos brilham e meu coração dá pulinhos de alegria. Sério! Eu fico <em>superultramega </em>ansiosa para compartilhar contigo o achado, na esperança que você bata os olhos na dica, e viva de amores como estou vivendo agora.
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Repare: que coisa rica e delicada! Olha só:</span>**
+  <strong><span style="font-size: large;">Repare: que coisa rica e delicada! Olha só:</span></strong>
 </p>
 
 &nbsp;
@@ -45,21 +45,21 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Veja a seguir como fazer… mas oh: é tão simples, que você nem vai acreditar. O blog onde há o passo a passo está em inglês, mas somente as imagens te fazem entender direitinho. São 3 passos, _vapt-vupt_, e você terá um jeito diferente e inusitado de apresentar uma foto querida. Confira [bem aqui, no blog A Beautiful Mess](http://www.abeautifulmess.com/2014/09/flower-embellished-photo-art.html) .
+  Veja a seguir como fazer… mas oh: é tão simples, que você nem vai acreditar. O blog onde há o passo a passo está em inglês, mas somente as imagens te fazem entender direitinho. São 3 passos, <em>vapt-vupt</em>, e você terá um jeito diferente e inusitado de apresentar uma foto querida. Confira <a href="http://www.abeautifulmess.com/2014/09/flower-embellished-photo-art.html" target="_blank">bem aqui, no blog A Beautiful Mess</a>.
 </p>
 
 &nbsp;
 
 **Não deixe de ler:**
 
-[**Já viu como imprimir charme na decoração da parede com fotos?**](http://www.decoracaodacasa.com/decoracao-parede-fotos/) 
+<a href="http://www.decoracaodacasa.com/decoracao-parede-fotos/" target="_blank"><strong>Já viu como imprimir charme na decoração da parede com fotos?</strong></a>
 
-[**Decore com fotos… quer saber como?**](http://www.trololodemulher.com.br/2014/05/22/decoracao-com-fotos/) 
+<a href="http://www.trololodemulher.com.br/2014/05/22/decoracao-com-fotos/" target="_blank"><strong>Decore com fotos… quer saber como?</strong></a>
 
-[**Quer ver um jeito simples e elegante de decorar com fotos?**](http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/) 
+<a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/" target="_blank"><strong>Quer ver um jeito simples e elegante de decorar com fotos?</strong></a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

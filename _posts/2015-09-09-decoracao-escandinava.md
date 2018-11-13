@@ -1,8 +1,8 @@
 ---
-
+id: 3482
 title: 'Decoração escandinava: como aplicar esse estilo?'
-
-author: Lidiane
+date: 2015-09-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/09/09/decoracao-escandinava/
 permalink: /2015/09/09/decoracao-escandinava/
@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Desde que comecei a _blogar_ sobre _design_ e interiores, se tem um estilo que sempre chamou minha atenção foi o da decoração escandinava. Faltava editar um post sobre isso, e aqui está. Quero mostrar características como simplicidade, funcionalidade e beleza, tudo aplicado em ambientes com móveis de linhas retas, em espaços claros e iluminados, com uso mínimo de ornamentos ou enfeites. Em outras palavras: um estilo que esbanja em elegância. Quer se inspirar também e, quem sabe, aplicar algo desse estilo em seus domínios? Vem comigo!
+  Desde que comecei a <em>blogar</em> sobre <em>design</em> e interiores, se tem um estilo que sempre chamou minha atenção foi o da decoração escandinava. Faltava editar um post sobre isso, e aqui está. Quero mostrar características como simplicidade, funcionalidade e beleza, tudo aplicado em ambientes com móveis de linhas retas, em espaços claros e iluminados, com uso mínimo de ornamentos ou enfeites. Em outras palavras: um estilo que esbanja em elegância. Quer se inspirar também e, quem sabe, aplicar algo desse estilo em seus domínios? Vem comigo!
 </p>
 
 <p align="justify">
-  **Piso**
+  <strong>Piso</strong>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Soma Architekci](http://www.soma-architekci.pl/) 
+  Via <a href="http://www.soma-architekci.pl/" target="_blank">Soma Architekci</a>
 </p>
 
 <p align="justify">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Cores**
+  <strong>Cores</strong>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Alexander James – Interior Design](http://www.aji.co.uk/) 
+  Via <a href="http://www.aji.co.uk/" target="_blank">Alexander James – Interior Design</a>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Stadshem](http://www.stadshem.se/#images) 
+  Via <a href="http://www.stadshem.se/#images" target="_blank">Stadshem</a>
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Material**
+  <strong>Material</strong>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Pahalzan](http://www.pahalzan.com/) 
+  Via <a href="http://www.pahalzan.com/" target="_blank">Pahalzan</a>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Formas**
+  <strong>Formas</strong>
 </p>
 
 <p align="center">
@@ -106,11 +106,11 @@ categories:
 </p>
 
 <p align="justify">
-  Tudo é muito simples visualmente, com móveis que priorizam um _design_ limpo, com linhas retas.
+  Tudo é muito simples visualmente, com móveis que priorizam um <em>design</em> limpo, com linhas retas.
 </p>
 
 <p align="justify">
-  **Menos é mais!**
+  <strong>Menos é mais!</strong>
 </p>
 
 <p align="center">
@@ -118,7 +118,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [halo.](http://haloarchitekci.pl/) 
+  Via <a href="http://haloarchitekci.pl/" target="_blank">halo.</a>
 </p>
 
 <p align="center">
@@ -134,7 +134,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

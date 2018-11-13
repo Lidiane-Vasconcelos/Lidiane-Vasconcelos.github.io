@@ -1,15 +1,15 @@
 ---
-
+id: 3016
 title: 'Decoração romântica: casa da Ruby'
-
-author: Lidiane
+date: 2011-07-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/07/05/decoracao-romantica-ruby/
 permalink: /2011/07/05/decoracao-romantica-ruby/
 categories:
   - Dicas de Decoração
 ---
-Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos, vai se encantar ao ver quanta coisa meiga e fofa há na casa da **Ruby**. Quem a conhece e acompanha o “**[Meu Canto, Minha Prosa](http://meucantominhaprosa.blogspot.com/) **”, sabe bem desse estilo que ela busca empregar nos detalhes da decoração de seu apartamento.
+Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos, vai se encantar ao ver quanta coisa meiga e fofa há na casa da **Ruby**. Quem a conhece e acompanha o “**<a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>**”, sabe bem desse estilo que ela busca empregar nos detalhes da decoração de seu apartamento.
 
 <p style="text-align: justify;">
   Recentemente Ruby mudou e se readequou ao novo espaço que ela tem, agora bem menor. Tem sido encantador ver seu capricho para decorar cada cantinho, e isso certamente pode te inspirar também. Confere…
@@ -18,7 +18,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 <!--more-->
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Na sala de estar…</span>**
+  <strong><span style="font-size: medium;">Na sala de estar…</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -26,7 +26,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  A Ruby tem paixão pelo que é _vintage_, por isso ela não deixou passar essas **almofadas que garimpou numa ida despretensiosa ao shopping**. Não são um charme? Isso mostra seu olho “clínico” para a decoração mesmo quando não está “a caça” de peças para isso.
+  A Ruby tem paixão pelo que é <em>vintage</em>, por isso ela não deixou passar essas <strong>almofadas que garimpou numa ida despretensiosa ao shopping</strong>. Não são um charme? Isso mostra seu olho “clínico” para a decoração mesmo quando não está “a caça” de peças para isso.
 </p>
 
 <p style="text-align: justify;">
@@ -34,7 +34,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Na sala de Jantar…</span>**
+  <strong><span style="font-size: medium;">Na sala de Jantar…</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -42,15 +42,15 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  Na salinha de jantar linda de viver, mesa com **cadeiras enfeitadas com almofadas florais** e cheias de romantismo. Raparou na **delicadeza do papel de parede**?
+  Na salinha de jantar linda de viver, mesa com <strong>cadeiras enfeitadas com almofadas florais</strong> e cheias de romantismo. Raparou na <strong>delicadeza do papel de parede</strong>?
 </p>
 
 <p style="text-align: justify;">
-  Sobre a mesa, a Ruby caprichou na escolha do **vaso provençal**, todo **enfeitado com flores** que parecem perfeitas… parecem porque **não são naturais**, acredita? São de **espuma siliconada**! Essa é a dica de decoração da Ruby para o dia a dia, quando você não tiver as flores naturais em casa. Inspire-se!
+  Sobre a mesa, a Ruby caprichou na escolha do <strong>vaso provençal</strong>, todo <strong>enfeitado com flores</strong> que parecem perfeitas… parecem porque <strong>não são naturais</strong>, acredita? São de <strong>espuma siliconada</strong>! Essa é a dica de decoração da Ruby para o dia a dia, quando você não tiver as flores naturais em casa. Inspire-se!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">No quarto…</span>**
+  <strong><span style="font-size: medium;">No quarto…</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -58,7 +58,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  A graça da **cortina no quarto** da Ruby ficou por conta dos **corações que ela mesma fez para enfeitar o espaço**. A escolha das cores foi bem acertada, e é o que emprega tanta delicadeza nesse detalhe decorativo. Os **corações são recheados com manta acrílica** e **presos um ao outro por botões encapados com tecido**. Romantismo pouco é bobagem!
+  A graça da <strong>cortina no quarto</strong> da Ruby ficou por conta dos <strong>corações que ela mesma fez para enfeitar o espaço</strong>. A escolha das cores foi bem acertada, e é o que emprega tanta delicadeza nesse detalhe decorativo. Os <strong>corações são recheados com manta acrílica</strong> e <strong>presos um ao outro por botões encapados com tecido</strong>. Romantismo pouco é bobagem!
 </p>
 
 <p style="text-align: center;">
@@ -66,7 +66,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  Essa moça prendada **mora em Brasília**, **mas ela é de Minas Gerais**. Quando a gente se desgarra da terra natal faz questão de ter detalhes pela casa que revelem nossa identidade. Eu que o diga! Com ela não é diferente. Os **Divinos de madeira**, bem mineirinhos, não deixam negar a origem da dona da casa…
+  Essa moça prendada <strong>mora em Brasília</strong>, <strong>mas ela é de Minas Gerais</strong>. Quando a gente se desgarra da terra natal faz questão de ter detalhes pela casa que revelem nossa identidade. Eu que o diga! Com ela não é diferente. Os <strong>Divinos de madeira</strong>, bem mineirinhos, não deixam negar a origem da dona da casa…
 </p>
 
 <p style="text-align: center;">
@@ -74,11 +74,11 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  A mesinha de cabeceira _superultramega_ romântica, com decoração que não deixa nada a desejar quanto a esse estilo, é pura inspiração. **Cores claras, estampas delicadas e a harmonia na composição de objetos** garantem um ambiente de puro aconhego no quarto da Ruby… e tem como ser diferente com as escolhas que ela faz?
+  A mesinha de cabeceira <em>superultramega</em> romântica, com decoração que não deixa nada a desejar quanto a esse estilo, é pura inspiração. <strong>Cores claras, estampas delicadas e a harmonia na composição de objetos</strong> garantem um ambiente de puro aconhego no quarto da Ruby… e tem como ser diferente com as escolhas que ela faz?
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: medium;">**Na cozinha…**</span>
+  <span style="font-size: medium;"><strong>Na cozinha…</strong></span>
 </p>
 
 <p style="text-align: center;">
@@ -90,7 +90,7 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 </p>
 
 <p style="text-align: justify;">
-  **Mais no Bicha Fêmea…**
+  <strong>Mais no Bicha Fêmea…</strong>
 </p>
 
 **[Decoração “faça você mesma”: casa de Margaret](http://www.trololodemulher.com.br/2011/05/09/decoracao-reciclagem/)**
@@ -104,17 +104,17 @@ Quem gosta de **romantismo** na **decoração**, além de detalhes bem femininos
 **[Adesivos de parede](http://www.trololodemulher.com.br/2011/01/05/adesivos-de-parede-2/)**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>

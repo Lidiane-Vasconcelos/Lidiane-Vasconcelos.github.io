@@ -1,8 +1,8 @@
 ---
-
+id: 2826
 title: Posso te conhecer um pouco melhor?
-
-author: Lidiane
+date: 2010-07-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/07/05/perfil-leitoras-bicha-femea/
 permalink: /2010/07/05/perfil-leitoras-bicha-femea/

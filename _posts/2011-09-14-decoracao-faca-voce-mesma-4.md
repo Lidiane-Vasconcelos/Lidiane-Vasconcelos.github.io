@@ -1,8 +1,8 @@
 ---
-
+id: 3050
 title: 'Baú vintage: faça você mesma!'
-
-author: Lidiane
+date: 2011-09-14T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/09/14/decoracao-faca-voce-mesma-4/
 permalink: /2011/09/14/decoracao-faca-voce-mesma-4/
@@ -17,11 +17,11 @@ Inspirada nessa ideia e com a ajuda do _namorido,_ uma frasqueira de mdf se torn
 <!--more-->
 
 <p align="center">
-  [Arte com MDF](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Arte-em-MDF.jpg"><img class="alignnone size-full wp-image-6902" title="Arte em MDF" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Arte-em-MDF.jpg" alt="" width="400" height="300" /></a><br /> Imagem: **<a href="http://www.artecommdf.com.br/produtos.asp?CategId=20&SubCategId=34) **
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Arte-em-MDF.jpg"><img class="alignnone size-full wp-image-6902" title="Arte em MDF" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Arte-em-MDF.jpg" alt="" width="400" height="300" /></a><br /> Imagem: <strong><a href="http://www.artecommdf.com.br/produtos.asp?CategId=20&SubCategId=34" target="_blank">Arte com MDF</a></strong>
 </p>
 
 <p align="justify">
-  Um pouco de tinta a base de água, um bom rolinho e pincéis _pros_ detalhes, mais uma bela busca de imagens pelo Google e um tiquinho de paciência e dedicação&#8230; eis o bauzinho pronto!
+  Um pouco de tinta a base de água, um bom rolinho e pincéis <em>pros</em> detalhes, mais uma bela busca de imagens pelo Google e um tiquinho de paciência e dedicação&#8230; eis o bauzinho pronto!
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Inspirada nessa ideia e com a ajuda do _namorido,_ uma frasqueira de mdf se torn
 
 <p align="center">
   <p align="center">
-    **<span style="font-size: medium;">Sabe quem escreveu este post?</span>**
+    <strong><span style="font-size: medium;">Sabe quem escreveu este post?</span></strong>
   </p>
   
   <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -69,7 +69,7 @@ Inspirada nessa ideia e com a ajuda do _namorido,_ uma frasqueira de mdf se torn
       
       <td valign="top" width="300">
         <p align="justify">
-          **<br /> Clara Lourenço** é autora do blog **Era uma casa muito engraçada&#8230; **Bióloga, mestranda e nas horas vagas vive inventando coisas novas _pra_ casinha, que divide com o _namorido_ e duas filhas caninas.
+          <strong><br /> Clara Lourenço</strong> é autora do blog <strong>Era uma casa muito engraçada&#8230; </strong>Bióloga, mestranda e nas horas vagas vive inventando coisas novas <em>pra</em> casinha, que divide com o <em>namorido</em> e duas filhas caninas.
         </p>
       </td>
     </tr>
@@ -80,25 +80,25 @@ Inspirada nessa ideia e com a ajuda do _namorido,_ uma frasqueira de mdf se torn
   </p>
   
   <p align="center">
-    Faça como a **Clara**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
+    Faça como a <strong>Clara</strong>, e envie <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em></strong> para o <strong>Bicha Fêmea</strong>!
   </p>
   
   <p align="center">
     <p align="center">
-      **<span style="font-size: medium;">Mais no Bicha Fêmea…</span>**
+      <strong><span style="font-size: medium;">Mais no Bicha Fêmea…</span></strong>
     </p>
     
     <table width="600" border="0" cellspacing="0" cellpadding="2">
       <tr>
         <td valign="top" width="300">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa200.jpg"><img class="alignnone size-full wp-image-6840" title="surpresa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2011/08/29/antes-depois-decoracao/"><span style="font-size: small;">Antes & depois de mesa + camiseta na decoração da casa.</span></a>**
+            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa200.jpg"><img class="alignnone size-full wp-image-6840" title="surpresa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/surpresa200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/29/antes-depois-decoracao/"><span style="font-size: small;">Antes & depois de mesa + camiseta na decoração da casa.</span></a></strong>
           </p>
         </td>
         
         <td valign="top" width="300">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/decoracao-faca-voce-mesma-luminarias-taca-vinho2200.jpg"><img class="alignnone size-full wp-image-6772" title="decoração faça você mesma - luminárias taça vinho[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/decoracao-faca-voce-mesma-luminarias-taca-vinho2200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/"><span style="font-size: small;">Decoração “faça você mesma”: luminárias de taça de vinho.</span></a>**
+            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/decoracao-faca-voce-mesma-luminarias-taca-vinho2200.jpg"><img class="alignnone size-full wp-image-6772" title="decoração faça você mesma - luminárias taça vinho[2]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/decoracao-faca-voce-mesma-luminarias-taca-vinho2200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/"><span style="font-size: small;">Decoração “faça você mesma”: luminárias de taça de vinho.</span></a></strong>
           </p>
         </td>
       </tr>
@@ -108,19 +108,19 @@ Inspirada nessa ideia e com a ajuda do _namorido,_ uma frasqueira de mdf se torn
       <tr>
         <td valign="top" width="200">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/moves-antigos-usados-restauracao200.jpg"><img class="alignnone size-thumbnail wp-image-6692" title="móves antigos usados restauração200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/moves-antigos-usados-restauracao200-150x150.jpg" alt="" width="150" height="150" /></a><br /> **<a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/"><span style="font-size: small;">Móvel usado e antigo: dá mesmo para repaginá-lo?</span></a>**
+            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/moves-antigos-usados-restauracao200.jpg"><img class="alignnone size-thumbnail wp-image-6692" title="móves antigos usados restauração200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/moves-antigos-usados-restauracao200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/"><span style="font-size: small;">Móvel usado e antigo: dá mesmo para repaginá-lo?</span></a></strong>
           </p>
         </td>
         
         <td valign="top" width="200">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/estante-flutuante-sala-de-estar-marcenaria-barata200.jpg"><img class="alignnone size-thumbnail wp-image-6628" title="estante flutuante sala de estar - marcenaria barata200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/estante-flutuante-sala-de-estar-marcenaria-barata200-150x150.jpg" alt="" width="150" height="150" /></a><br /> **<a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/"><span style="font-size: small;">Decoração barata: casa de Rejane.</span></a>**
+            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/estante-flutuante-sala-de-estar-marcenaria-barata200.jpg"><img class="alignnone size-thumbnail wp-image-6628" title="estante flutuante sala de estar - marcenaria barata200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/estante-flutuante-sala-de-estar-marcenaria-barata200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/"><span style="font-size: small;">Decoração barata: casa de Rejane.</span></a></strong>
           </p>
         </td>
         
         <td valign="top" width="200">
           <p align="center">
-            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6200.jpg"><img class="alignnone size-thumbnail wp-image-6592" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6200-150x150.jpg" alt="" width="150" height="150" /><br /> </a>**<a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/"><span style="font-size: small;">Quer uma mesinha? Improvisa!!!</span></a>**
+            <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6200.jpg"><img class="alignnone size-thumbnail wp-image-6592" title="Camera" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/07/sala-de-estar6200-150x150.jpg" alt="" width="150" height="150" /><br /> </a><strong><a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/"><span style="font-size: small;">Quer uma mesinha? Improvisa!!!</span></a></strong>
           </p>
         </td>
       </tr>
@@ -128,20 +128,20 @@ Inspirada nessa ideia e com a ajuda do _namorido,_ uma frasqueira de mdf se torn
     
     <p align="center">
       <p align="center">
-        **<span style="font-size: medium;">Mais no Decoração da Casa…</span>**
+        <strong><span style="font-size: medium;">Mais no Decoração da Casa…</span></strong>
       </p>
       
       <table width="600" border="0" cellspacing="0" cellpadding="2">
         <tr>
           <td valign="top" width="300">
             <p align="center">
-              [<span style="font-size: small;">Cortina: ideia fácil, rápida e barata ($$) para decoração.</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina200.jpg"><img class="alignnone size-full wp-image-6898" title="cortina200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina200.jpg" alt="" width="200" height="200" /><br /> </a>**<a href="http://www.decoracaodacasa.com/cortina-ideia-decoracao/) **
+              <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina200.jpg"><img class="alignnone size-full wp-image-6898" title="cortina200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina200.jpg" alt="" width="200" height="200" /><br /> </a><strong><a href="http://www.decoracaodacasa.com/cortina-ideia-decoracao/" target="_blank"><span style="font-size: small;">Cortina: ideia fácil, rápida e barata ($$) para decoração.</span></a></strong>
             </p>
           </td>
           
           <td valign="top" width="300">
             <p align="center">
-              [<span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração.</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina5200.jpg"><img class="alignnone size-full wp-image-6899" title="cortina[5]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina5200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/) **
+              <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina5200.jpg"><img class="alignnone size-full wp-image-6899" title="cortina[5]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/cortina5200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração.</span></a></strong>
             </p>
           </td>
         </tr>
@@ -151,29 +151,29 @@ Inspirada nessa ideia e com a ajuda do _namorido,_ uma frasqueira de mdf se torn
         <tr>
           <td valign="top" width="200">
             <p align="center">
-              [<span style="font-size: small;">Papel de parede: 4 dicas de decoração com as sobras. Você tem alguma?</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200.jpg"><img class="alignnone size-thumbnail wp-image-5246" title="latas cobertas com papel de parede200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200-150x150.jpg" alt="" width="150" height="150" /></a><br /> **<a href="http://www.decoracaodacasa.com/papel-de-parede/) **
+              <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200.jpg"><img class="alignnone size-thumbnail wp-image-5246" title="latas cobertas com papel de parede200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/latas-cobertas-com-papel-de-parede200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.decoracaodacasa.com/papel-de-parede/" target="_blank"><span style="font-size: small;">Papel de parede: 4 dicas de decoração com as sobras. Você tem alguma?</span></a></strong>
             </p>
           </td>
           
           <td valign="top" width="200">
             <p align="center">
-              [<span style="font-size: small;">Decoração “faça você mesma”: casa de Margaret.</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200.jpg"><img class="alignnone size-thumbnail wp-image-6340" title="Canto da Caixa+gaiola200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200-150x150.jpg" alt="" width="150" height="150" /></a><br /> **<a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-2/) **
+              <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200.jpg"><img class="alignnone size-thumbnail wp-image-6340" title="Canto da Caixa+gaiola200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/Canto-da-Caixa+gaiola200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <strong><a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma-2/" target="_blank"><span style="font-size: small;">Decoração “faça você mesma”: casa de Margaret.</span></a></strong>
             </p>
           </td>
           
           <td valign="top" width="200">
             <p align="center">
-              [<span style="font-size: small;">História de um móvel: guarda-roupas virou sapateira…</span>](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200.jpg"><img class="alignnone size-thumbnail wp-image-6465" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200-150x150.jpg" alt="" width="150" height="150" /></a>**<a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma/) **
+              <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200.jpg"><img class="alignnone size-thumbnail wp-image-6465" title="OLYMPUS DIGITAL CAMERA" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/05/sapateira200-150x150.jpg" alt="" width="150" height="150" /></a><strong><a href="http://www.decoracaodacasa.com/decoracao-faca-voce-mesma/" target="_blank"><span style="font-size: small;">História de um móvel: guarda-roupas virou sapateira…</span></a></strong>
             </p>
             
             <p align="center">
               </td> </tr> </tbody> </table> 
               
               <p align="center">
-                **Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>**
+                <strong>Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a></strong>
               </p>
               
               <p align="center">
                 <p align="center">
-                  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+                  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
                 </p>

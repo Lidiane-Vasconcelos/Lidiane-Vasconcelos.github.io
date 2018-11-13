@@ -1,8 +1,8 @@
 ---
-
+id: 3623
 title: 'Apartamento funcional: escolhas certas, inúmeras inspirações.'
-
-author: Lidiane
+date: 2016-06-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/06/09/apartamento-funcional/
 permalink: /2016/06/09/apartamento-funcional/
@@ -10,7 +10,7 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  Esse é um dos apartamentos daqueles que a gente bate os olhos e tudo parece perfeitamente pensado, nos mínimos detalhes dos móveis, cores escolhidas, acessórios eleitos. Tudo em harmonia, perfeito exatamente onde está. Em outras palavras: **bonito, prático e funcional**. Eu viveria nesse apartamento feliz da vida, oh… de tão lindo de viver que achei.
+  Esse é um dos apartamentos daqueles que a gente bate os olhos e tudo parece perfeitamente pensado, nos mínimos detalhes dos móveis, cores escolhidas, acessórios eleitos. Tudo em harmonia, perfeito exatamente onde está. Em outras palavras: <strong>bonito, prático e funcional</strong>. Eu viveria nesse apartamento feliz da vida, oh… de tão lindo de viver que achei.
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ categories:
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Delicie-se mais…</span>**
+  <strong><span style="font-size: large;">Delicie-se mais…</span></strong>
 </p>
 
 &nbsp;
@@ -95,12 +95,12 @@ categories:
 
 &nbsp;
 
-Imagens: [Home Designing](http://www.home-designing.com/) 
+Imagens: <a href="http://www.home-designing.com/" target="_blank">Home Designing</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

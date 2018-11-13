@@ -1,8 +1,8 @@
 ---
-
+id: 3152
 title: Quem gosta de uma comidinha no lanchinho da tarde?
-
-author: Lidiane
+date: 2012-07-11T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/07/11/comidinha-lanche-da-tarde/
 permalink: /2012/07/11/comidinha-lanche-da-tarde/
@@ -14,13 +14,13 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="justify">
-  Repare que as comidinhas são lindas de ver, e a gente até fica imaginando o quanto são gostosas de comer. Prepare-se para ficar tentada para experimentar todas, mas faça isso junto dos que você ama, _viu_? Inspire-se, reproduza e delicie-se!
+  Repare que as comidinhas são lindas de ver, e a gente até fica imaginando o quanto são gostosas de comer. Prepare-se para ficar tentada para experimentar todas, mas faça isso junto dos que você ama, <em>viu</em>? Inspire-se, reproduza e delicie-se!
 </p>
 
 <!--more-->
 
 <p align="center">
-  **<span style="font-size: large;">Cheesecake light no Copinho (para duas taças grandes ou 4 copinhos de 50gr)</span>**
+  <strong><span style="font-size: large;">Cheesecake light no Copinho (para duas taças grandes ou 4 copinhos de 50gr)</span></strong>
 </p>
 
 &nbsp;
@@ -32,7 +32,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -40,7 +40,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 </p>
 
 <p align="justify">
-  **Como fazer?**
+  <strong>Como fazer?</strong>
 </p>
 
 <p align="justify">
@@ -50,19 +50,19 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">De quem é essa receita?</span>**
+  <strong><span style="font-size: large;">De quem é essa receita?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “_Cozinhar para mim é uma paixão que eu cultivo desde muito pequena. Quando cresci um pouco, comecei a pesquisar receitas e a copiar os livros das avós, da mãe, das tias&#8230;até montar meu próprio acervo e começar a misturar ingredientes por conta própria. Comecei a ver a dificuldade que é para encontrar uma receita em meio a tantos papéis. Criei o **Nossa Cozinha**, afinal, agora tudo que estava acontecendo na minha cozinha seria compartilhado com os internautas do mundo todo. O blog **Nossa Cozinha** foi criado com um objetivo muito simples: mostrar e ensinar aquelas receitas simples, mas que cativam a todos os gostos!”_ **Danieli Cascaes | **[**Nossa Cozinha**](http://www.nossacozinhadani.blogspot.com.br/) 
+>   “<em>Cozinhar para mim é uma paixão que eu cultivo desde muito pequena. Quando cresci um pouco, comecei a pesquisar receitas e a copiar os livros das avós, da mãe, das tias&#8230;até montar meu próprio acervo e começar a misturar ingredientes por conta própria. Comecei a ver a dificuldade que é para encontrar uma receita em meio a tantos papéis. Criei o <strong>Nossa Cozinha</strong>, afinal, agora tudo que estava acontecendo na minha cozinha seria compartilhado com os internautas do mundo todo. O blog <strong>Nossa Cozinha</strong> foi criado com um objetivo muito simples: mostrar e ensinar aquelas receitas simples, mas que cativam a todos os gostos!”</em> <strong>Danieli Cascaes | </strong><a href="http://www.nossacozinhadani.blogspot.com.br/" target="_blank"><strong>Nossa Cozinha</strong></a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Biscoitinho de Goiabinha</span>**
+  <strong><span style="font-size: large;">Biscoitinho de Goiabinha</span></strong>
 </p>
 
 &nbsp;
@@ -74,7 +74,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -82,7 +82,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 </p>
 
 <p align="justify">
-  **Como fazer?**
+  <strong>Como fazer?</strong>
 </p>
 
 <p align="justify">
@@ -92,19 +92,19 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">De quem é essa receita?</span>**
+  <strong><span style="font-size: large;">De quem é essa receita?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “_Sou uma mulher casada e muito feliz. Adoro novidades! Sou curiosa, gosto de fotos, de cozinhar e de uma mesa bem bonita. Amo viagens, adoro academia e artesanato. Ahhh&#8230; eu já ia esquecendo&#8230; minha cor favorita é lilás. Afinal, o mundo poderia ser lilás para mim!”_ **Carol Vieira | **[**Mundo da Carol**](http://mundocarolvieira.blogspot.com.br/) 
+>   “<em>Sou uma mulher casada e muito feliz. Adoro novidades! Sou curiosa, gosto de fotos, de cozinhar e de uma mesa bem bonita. Amo viagens, adoro academia e artesanato. Ahhh&#8230; eu já ia esquecendo&#8230; minha cor favorita é lilás. Afinal, o mundo poderia ser lilás para mim!”</em> <strong>Carol Vieira | </strong><a href="http://mundocarolvieira.blogspot.com.br/" target="_blank"><strong>Mundo da Carol</strong></a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Enroladinho de Salsicha</span>**
+  <strong><span style="font-size: large;">Enroladinho de Salsicha</span></strong>
 </p>
 
 &nbsp;
@@ -116,7 +116,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -124,7 +124,7 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 </p>
 
 <p align="justify">
-  **Como fazer?**
+  <strong>Como fazer?</strong>
 </p>
 
 <p align="justify">
@@ -166,36 +166,36 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">De quem é essa receita?</span>**
+  <strong><span style="font-size: large;">De quem é essa receita?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “_37 anos, esposa e mãe, mas desde cedo amante da culinária, descobrindo agora o meu talento. Resolvi me dedicar, talvez temporariamente, ou não, neste ramo. Espero que gostem do meu trabalho, um forte abraço a todos!”_ **Elisandra Brait | **[**A Eli quem faz!**](http://eliquemfaz.blogspot.com.br/) 
+>   “<em>37 anos, esposa e mãe, mas desde cedo amante da culinária, descobrindo agora o meu talento. Resolvi me dedicar, talvez temporariamente, ou não, neste ramo. Espero que gostem do meu trabalho, um forte abraço a todos!”</em> <strong>Elisandra Brait | </strong><a href="http://eliquemfaz.blogspot.com.br/" target="_blank"><strong>A Eli quem faz!</strong></a>
 > </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: x-large;">Muito mais para você!</span>**
+  <strong><span style="font-size: x-large;">Muito mais para você!</span></strong>
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/bolo-fofo-de-canela-carol200/" rel="attachment wp-att-8747"><img class="alignnone size-full wp-image-8747" title="BOLO FOFO DE CANELA - CAROL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-FOFO-DE-CANELA-CAROL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/">**<span style="font-size: medium;"><br /> Bolo: 8 receitas delícia para apreciar com café nos dias frios…</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/07/11/comidinha-lanche-da-tarde/bolo-fofo-de-canela-carol200/" rel="attachment wp-att-8747"><img class="alignnone size-full wp-image-8747" title="BOLO FOFO DE CANELA - CAROL200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/BOLO-FOFO-DE-CANELA-CAROL200.jpg" alt="" width="200" height="200" /></a><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/"><strong><span style="font-size: medium;"><br /> Bolo: 8 receitas delícia para apreciar com café nos dias frios…</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2012/06/20/bolo-8-receitas-delicia/caldo-verde-amarelo-adriana-magre200/" rel="attachment wp-att-8706"><img class="alignnone size-full wp-image-8706" title="CALDO VERDE AMARELO - ADRIANA MAGRE200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/06/CALDO-VERDE-AMARELO-ADRIANA-MAGRE200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/">**<span style="font-size: medium;">Comida para a família e o coração: sopa e caldo</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/06/06/sopa-e-caldo/"><strong><span style="font-size: medium;">Comida para a família e o coração: sopa e caldo</span></strong></a>
       </p>
     </td>
   </tr>
@@ -203,21 +203,21 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/pano-de-copa-caroline200/" rel="attachment wp-att-8595"><img class="alignnone size-full wp-image-8595" title="Pano de Copa Caroline200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Pano-de-Copa-Caroline200.jpg" alt="" width="200" height="200" /></a>**
+        <strong><a href="http://www.trololodemulher.com.br/2012/03/28/cozinha-apartamento-pequeno/pano-de-copa-caroline200/" rel="attachment wp-att-8595"><img class="alignnone size-full wp-image-8595" title="Pano de Copa Caroline200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/Pano-de-Copa-Caroline200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/03/14/cozinha-utensilios/">**<span style="font-size: medium;">A cozinha fica muito mais bonita assim…</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/03/14/cozinha-utensilios/"><strong><span style="font-size: medium;">A cozinha fica muito mais bonita assim…</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a>**
+        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/batata-ao-forno-funghi-secchi200/" rel="attachment wp-att-8564"><img class="alignnone size-full wp-image-8564" title="BATATA AO FORNO FUNGHI SECCHI200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/03/BATATA-AO-FORNO-FUNGHI-SECCHI200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/">**<span style="font-size: medium;">Tem receita com batata no Bicha Fêmea?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/03/07/receita-com-batata/"><strong><span style="font-size: medium;">Tem receita com batata no Bicha Fêmea?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -225,21 +225,21 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> ****
+        <a href="http://www.trololodemulher.com.br/casaedecoracao/laranja200/" rel="attachment wp-att-8516"><img class="alignnone size-full wp-image-8516" title="LARANJA200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/LARANJA200.jpg" alt="" width="200" height="200" /></a> <strong></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2012/01/25/receitas-laranja/">**<span style="font-size: medium;">Quer aprender 3 receitas deliciosas com laranja nos ingredientes?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2012/01/25/receitas-laranja/"><strong><span style="font-size: medium;">Quer aprender 3 receitas deliciosas com laranja nos ingredientes?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        **<a href="http://www.trololodemulher.com.br/casaedecoracao/copos-coloridos200/" rel="attachment wp-att-8379"><img class="alignnone size-full wp-image-8379" title="COPOS COLORIDOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/COPOS-COLORIDOS200.jpg" alt="" width="200" height="200" /></a>**
+        <strong><a href="http://www.trololodemulher.com.br/casaedecoracao/copos-coloridos200/" rel="attachment wp-att-8379"><img class="alignnone size-full wp-image-8379" title="COPOS COLORIDOS200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/12/COPOS-COLORIDOS200.jpg" alt="" width="200" height="200" /></a></strong>
       </p>
       
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/">**<span style="font-size: medium;">Cozinha com estilo e design… quem não quer?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2011/12/21/cozinha-utensilios-design/"><strong><span style="font-size: medium;">Cozinha com estilo e design… quem não quer?</span></strong></a>
       </p>
     </td>
   </tr>
@@ -250,13 +250,13 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -265,13 +265,13 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -280,9 +280,9 @@ E se essa comidinha for fácil de preparar? Certeza que você gosta, assim como 
 &nbsp;
 
 <p align="center">
-  **Vamos manter contato?**
+  <strong>Vamos manter contato?</strong>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>

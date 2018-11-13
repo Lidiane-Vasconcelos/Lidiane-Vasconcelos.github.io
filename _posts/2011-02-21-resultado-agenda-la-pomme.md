@@ -1,8 +1,8 @@
 ---
-
+id: 2960
 title: Resultado do sorteio da agenda by La Pomme no Bicha Fêmea.
-
-author: Lidiane
+date: 2011-02-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/02/21/resultado-agenda-la-pomme/
 permalink: /2011/02/21/resultado-agenda-la-pomme/
@@ -20,23 +20,23 @@ Para saber se foi você mesma, vai em frente e confere…
 </p>
 
 <p style="text-align: justify;">
-  Viu? Dessa vez a sortuda foi a **Lin Sousa**, que teve a inscrição de número **110 dentre as 198 que foram válidas**. Hoje mesmo já foi enviado um e-mail para ela, que terá **até o dia 24 de Fevereiro** para me responder. Caso isso não ocorra, farei novo sorteio entre as inscritas.
+  Viu? Dessa vez a sortuda foi a <strong>Lin Sousa</strong>, que teve a inscrição de número <strong>110 dentre as 198 que foram válidas</strong>. Hoje mesmo já foi enviado um e-mail para ela, que terá <strong>até o dia 24 de Fevereiro</strong> para me responder. Caso isso não ocorra, farei novo sorteio entre as inscritas.
 </p>
 
 Agora é aguardar as cenas dos próximos capítulos…
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>

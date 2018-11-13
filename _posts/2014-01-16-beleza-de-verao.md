@@ -1,8 +1,8 @@
 ---
-
+id: 3273
 title: 'Beleza de Verão: simples, fácil e rápido'
-
-author: Lidiane
+date: 2014-01-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/01/16/beleza-de-verao/
 permalink: /2014/01/16/beleza-de-verao/
@@ -14,13 +14,13 @@ Leu o título do post e se empolgou? Pois é, é que a gente quer ficar bonita s
 &nbsp;
 
 <p style="text-align: justify;" align="justify">
-  Sabe de uma coisa? Corri atrás da nossa consultora e perguntei: quais as dicas de beleza para serem aplicadas em casa, seja com <b><span style="text-decoration: underline;">produtos ou atitudes corretas</span></b>, para ficarmos com corpo e rosto bem tratados neste Verão? Aproveita! A **Dra. Livia Pino**, **Dermatologista** querida sempre presente por aqui, ensinou o <span style="text-decoration: underline;">BE A BÁ</span> e contou <span style="text-decoration: underline;">TU-DO</span>. Você só não fica mais bonita se não quiser. Confere!
+  Sabe de uma coisa? Corri atrás da nossa consultora e perguntei: quais as dicas de beleza para serem aplicadas em casa, seja com <b><span style="text-decoration: underline;">produtos ou atitudes corretas</span></b>, para ficarmos com corpo e rosto bem tratados neste Verão? Aproveita! A <strong>Dra. Livia Pino</strong>, <strong>Dermatologista</strong> querida sempre presente por aqui, ensinou o <span style="text-decoration: underline;">BE A BÁ</span> e contou <span style="text-decoration: underline;">TU-DO</span>. Você só não fica mais bonita se não quiser. Confere!
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  <span style="font-size: large;">**Corpo**</span>
+  <span style="font-size: large;"><strong>Corpo</strong></span>
 </p>
 
 &nbsp;
@@ -30,13 +30,13 @@ Leu o título do post e se empolgou? Pois é, é que a gente quer ficar bonita s
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: large;">O que fazer?</span>**
+  <strong><span style="font-size: large;">O que fazer?</span></strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  A pele do nosso corpo tende a ser mais ressecada em relacão ao rosto. Isto se dá pela menor quantidade de glândulas sebáceas e a consequente produção de sebo menor. Além disso, quando envelhecemos a pele tende a ficar mais desidratada, sem viço, sem maciez. Porém, existem **<span style="text-decoration: underline;">atitudes</span>** nossas do dia a dia que prejudicam ainda mais este ressecamento da pele do corpo: **excesso de banhos, água quente, excesso de sabonete e bucha, radiação solar,** entre outros. Além da mudança de hábitos (como **banho com água mais fria, menor uso de sabonetes,** etc), produtos corretos podem ajudar:
+  A pele do nosso corpo tende a ser mais ressecada em relacão ao rosto. Isto se dá pela menor quantidade de glândulas sebáceas e a consequente produção de sebo menor. Além disso, quando envelhecemos a pele tende a ficar mais desidratada, sem viço, sem maciez. Porém, existem <strong><span style="text-decoration: underline;">atitudes</span></strong> nossas do dia a dia que prejudicam ainda mais este ressecamento da pele do corpo: <strong>excesso de banhos, água quente, excesso de sabonete e bucha, radiação solar,</strong> entre outros. Além da mudança de hábitos (como <strong>banho com água mais fria, menor uso de sabonetes,</strong> etc), produtos corretos podem ajudar:
 </p>
 
 &nbsp;
@@ -84,19 +84,19 @@ Atenção!!!
 &nbsp;
 
 > <p align="justify">
->   “Se mesmo assim sua pele ainda está sem viço, pode ser que ela precise de alguns outros cuidados que devem ser avaliados e prescritos **<span style="text-decoration: underline;">somente pelo dermatologista</span>**, como por exemplo, fórmulas a base de ácido glicólico, extratos vegetais, dmae, ácido hialurônico, etc.”
+>   “Se mesmo assim sua pele ainda está sem viço, pode ser que ela precise de alguns outros cuidados que devem ser avaliados e prescritos <strong><span style="text-decoration: underline;">somente pelo dermatologista</span></strong>, como por exemplo, fórmulas a base de ácido glicólico, extratos vegetais, dmae, ácido hialurônico, etc.”
 > </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  **<span style="font-size: medium;"><span style="color: #dd8484;">Dica, dica, dica</span> >>> Não devemos esquecer do uso do filtro solar, principalmente nas áreas expostas ao sol!  Uma dica é misturar o hidratante diário com o filtro solar.</span>**
+  <strong><span style="font-size: medium;"><span style="color: #dd8484;">Dica, dica, dica</span> >>> Não devemos esquecer do uso do filtro solar, principalmente nas áreas expostas ao sol!  Uma dica é misturar o hidratante diário com o filtro solar.</span></strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: large;">Rosto</span>**
+  <strong><span style="font-size: large;">Rosto</span></strong>
 </p>
 
 &nbsp;
@@ -106,7 +106,7 @@ Atenção!!!
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: large;">O que fazer?</span>**
+  <strong><span style="font-size: large;">O que fazer?</span></strong>
 </p>
 
 &nbsp;
@@ -128,7 +128,7 @@ Atenção!!!
 &nbsp;
 
 <p style="text-align: justify;">
-  Devemos tomar cuidado também com o excesso de produtos alcoólicos usados na pele do rosto (tônicos, demaquilantes) pra não agredir ainda mais a pele sensivel da face. A hidratação pode ser feita com hidratantes especificos, mas **<span style="text-decoration: underline;">a maior parte dos  filtros solares disponíveis atualmente no mercado já possuem ativos hidratantes que facilitam nosso dia a dia</span>**. O ideal na face é sempre usar filtro solar diariamente. O uso de antioxidantes associados também e interessante.
+  Devemos tomar cuidado também com o excesso de produtos alcoólicos usados na pele do rosto (tônicos, demaquilantes) pra não agredir ainda mais a pele sensivel da face. A hidratação pode ser feita com hidratantes especificos, mas <strong><span style="text-decoration: underline;">a maior parte dos  filtros solares disponíveis atualmente no mercado já possuem ativos hidratantes que facilitam nosso dia a dia</span></strong>. O ideal na face é sempre usar filtro solar diariamente. O uso de antioxidantes associados também e interessante.
 </p>
 
 &nbsp;
@@ -156,41 +156,41 @@ Atenção!!!
 &nbsp;
 
 <p style="text-align: justify;">
-  A Dra. Livia Pino atende na **cidade do Rio de Janeiro** e também edita o blog [**Dermatologia em Foco**](http://www.dermatologiaemfoco.blogspot.com/) , onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, _oh_: [**clica bem aqui**](http://www.dermatologiaemfoco.blogspot.com/)  e aproveita, bonita!
+  A Dra. Livia Pino atende na <strong>cidade do Rio de Janeiro</strong> e também edita o blog <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank"><strong>Dermatologia em Foco</strong></a>, onde seus posts são recheados de conteúdo com informações e dicas sobre cuidados com a pele, além de novidades em produtos. Você, que é uma bicha fêmea interessada em saber tudo para ficar ainda mais linda e luminosa, não vai perder, certo? Então, <em>oh</em>: <a href="http://www.dermatologiaemfoco.blogspot.com/" target="_blank"><strong>clica bem aqui</strong></a> e aproveita, bonita!
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: large;">Muito mais para ficar bonita neste Verão:</span>**
+  <strong><span style="font-size: large;">Muito mais para ficar bonita neste Verão:</span></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/11/05/beleza-verao-produtos-gel/">**<span style="font-size: small;">A beleza nos dias quentes clama por produtos em gel</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2012/11/05/beleza-verao-produtos-gel/"><strong><span style="font-size: small;">A beleza nos dias quentes clama por produtos em gel</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2012/10/29/dicas-maquiagem-iluminada/">**<span style="font-size: small;">Quer dicas para uma maquiagem do tipo… iluminada pelo sol?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2012/10/29/dicas-maquiagem-iluminada/"><strong><span style="font-size: small;">Quer dicas para uma maquiagem do tipo… iluminada pelo sol?</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/">**<span style="font-size: small;">Pescoço, costas e cotovelo: beleza da pele no Verão</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2011/10/17/beleza-da-pele-no-verao/"><strong><span style="font-size: small;">Pescoço, costas e cotovelo: beleza da pele no Verão</span></strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -201,13 +201,13 @@ Atenção!!!
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -216,7 +216,7 @@ Atenção!!!
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>
 
 &nbsp;

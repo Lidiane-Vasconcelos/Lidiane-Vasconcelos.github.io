@@ -1,8 +1,8 @@
 ---
-
+id: 3245
 title: 'Enfeites (faça você mesma) para a decoração: fácil, bonito e barato'
-
-author: Lidiane
+date: 2013-08-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/08/09/enfeites-decoracao/
 permalink: /2013/08/09/enfeites-decoracao/
@@ -10,7 +10,7 @@ categories:
   - Decoração
   - Faça Você Mesma
 ---
-Já te contei que vivo de amores quando navego pelo site [Better Homes and Gardens](http://www.bhg.com/) ? Sempre fico encantada com as ideias _superultramega_ fáceis de serem reproduzidas. Quando bato o olho numa sugestão e penso que até eu poderia copiar, já me animo para dividir contigo o achado. Foi assim quando vi as 3 ideias que estão neste post.
+Já te contei que vivo de amores quando navego pelo site <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>? Sempre fico encantada com as ideias _superultramega_ fáceis de serem reproduzidas. Quando bato o olho numa sugestão e penso que até eu poderia copiar, já me animo para dividir contigo o achado. Foi assim quando vi as 3 ideias que estão neste post.
 
 &nbsp;
 
@@ -57,19 +57,19 @@ Já te contei que vivo de amores quando navego pelo site [Better Homes and Garde
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Muito mais sobre <a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração para sua casa</a>? <a href="http://www.trololodemulher.com.br/category/decoracao/">Clique aqui</a>!</span>**
+  <strong><span style="font-size: large;">Muito mais sobre <a href="http://www.trololodemulher.com.br/category/decoracao/">Decoração para sua casa</a>? <a href="http://www.trololodemulher.com.br/category/decoracao/">Clique aqui</a>!</span></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -78,13 +78,13 @@ Já te contei que vivo de amores quando navego pelo site [Better Homes and Garde
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -93,9 +93,9 @@ Já te contei que vivo de amores quando navego pelo site [Better Homes and Garde
 &nbsp;
 
 <p align="center">
-  **Vamos manter contato?**
+  <strong>Vamos manter contato?</strong>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>

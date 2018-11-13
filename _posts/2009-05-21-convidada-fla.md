@@ -1,15 +1,15 @@
 ---
-
+id: 2663
 title: Bicha Fêmea Convidada – Saber Revisado
-
-author: Lidiane
+date: 2009-05-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/05/21/convidada-fla/
 permalink: /2009/05/21/convidada-fla/
 categories:
   - Sem categoria
 ---
-**_Por Fla – [Arte na Cozinha](http://artenacozinha.blogspot.com/) _**
+**_Por Fla – <a href="http://artenacozinha.blogspot.com/" target="_blank">Arte na Cozinha</a>_**
 
 Quando a Lidiane me convidou para participar desta seção do Blog eu topei na hora. 5 minutos depois eu pensei: “Jesus, o que eu tenho para falar que possa realmente acrescentar alguma coisa na vida das pessoas que passarem pelo Bicha?”.
 
@@ -45,4 +45,4 @@ Deixo como mensagem final uma frase de Albert Einstein que foi muito importante 
 
 Um beijo a todos e obrigada Lidiane pelo espaço.
 
-**_[Fla](http://artenacozinha.blogspot.com/) _**
+**_<a href="http://artenacozinha.blogspot.com/" target="_blank">Fla</a>_**

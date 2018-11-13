@@ -1,8 +1,8 @@
 ---
-
+id: 3570
 title: '2 quartos de bebê menino: neutros, calmos e serenos.'
-
-author: Lidiane
+date: 2016-03-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/03/29/quartos-de-bebe-menino/
 permalink: /2016/03/29/quartos-de-bebe-menino/
@@ -19,19 +19,19 @@ categories:
 </p>
 
 <p align="justify">
-  **Sobre quarto de menino, veja também:**
+  <strong>Sobre quarto de menino, veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Antes e depois de quarto de bebê menino por uma especialista.**](http://www.decoracaodacasa.com/quarto-de-bebe-menino/) 
+  <a href="http://www.decoracaodacasa.com/quarto-de-bebe-menino/" target="_blank"><strong>Antes e depois de quarto de bebê menino por uma especialista.</strong></a>
 </p>
 
 <p align="justify">
-  [**4 quartos de bebê menino para você se inspirar… e suspirar!**](http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/) 
+  <a href="http://www.trololodemulher.com.br/2014/03/13/quarto-bebe-menino/" target="_blank"><strong>4 quartos de bebê menino para você se inspirar… e suspirar!</strong></a>
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Quarto 1…</span>**
+  <strong><span style="font-size: large;">Quarto 1…</span></strong>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p align="justify">
-  Enfeite de bandeirolas na parede do berço. Uma graça!  Dá para fazer algo diferente para posicionar na parede, com tecido, como você vê neste post publicado por aqui: [enfeite de tecido para o quarto](http://www.decoracaodacasa.com/decoracao-infantil/) . Espie!
+  Enfeite de bandeirolas na parede do berço. Uma graça!  Dá para fazer algo diferente para posicionar na parede, com tecido, como você vê neste post publicado por aqui: <a href="http://www.decoracaodacasa.com/decoracao-infantil/" target="_blank">enfeite de tecido para o quarto</a>. Espie!
 </p>
 
 <p align="center">
@@ -47,15 +47,15 @@ categories:
 </p>
 
 <p align="center">
-  Amei os quadrinhos com animais e o móbile no cantinho da poltrona. _Fofurice _pura!
+  Amei os quadrinhos com animais e o móbile no cantinho da poltrona. <em>Fofurice </em>pura!
 </p>
 
 <p style="text-align: left;" align="center">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  [**2 ideias de decoração para quartos de bebê.**](http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-quartos-de-bebes/" target="_blank"><strong>2 ideias de decoração para quartos de bebê.</strong></a>
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  Prateleiras recheadas de livros para o pequeno. Essas prateleiras fininhas, com encosto na frente e que evita que os livros caiam, são uma ótima opção. Veja mais ideias para organizar e expor os livros infantis, de modo que o acesso a eles seja facilitado para a criança, neste post publicado no **Trololó de Mulher**: [3 ideias para organizar os livros infantis e facilitar o acesso.](http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/) 
+  Prateleiras recheadas de livros para o pequeno. Essas prateleiras fininhas, com encosto na frente e que evita que os livros caiam, são uma ótima opção. Veja mais ideias para organizar e expor os livros infantis, de modo que o acesso a eles seja facilitado para a criança, neste post publicado no <strong>Trololó de Mulher</strong>: <a href="http://www.trololodemulher.com.br/2014/10/03/decoracao-infantil/" target="_blank">3 ideias para organizar os livros infantis e facilitar o acesso.</a>
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Quarto 2…</span>**
+  <strong><span style="font-size: large;">Quarto 2…</span></strong>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p align="justify">
-  Esse enfeite de nuvem na parede conquistou meu coração. Muito lindo de viver em sua simplicidade. Atenção para o móvel em cubos: _design_ limpo, funcional e bonito. As caixas organizadoras com textura mais rústica são bonitas, eficientes e decoram com graça. Gosto dessa solução, e até já dei outras alternativas para fazer uso dela, aqui no Decoração da Casa, no post: [móvel modulado ou planejado – cubos no quarto infantil – 4 ideias](http://www.decoracaodacasa.com/movel-quarto-infantil/) .
+  Esse enfeite de nuvem na parede conquistou meu coração. Muito lindo de viver em sua simplicidade. Atenção para o móvel em cubos: <em>design</em> limpo, funcional e bonito. As caixas organizadoras com textura mais rústica são bonitas, eficientes e decoram com graça. Gosto dessa solução, e até já dei outras alternativas para fazer uso dela, aqui no Decoração da Casa, no post: <a href="http://www.decoracaodacasa.com/movel-quarto-infantil/" target="_blank">móvel modulado ou planejado – cubos no quarto infantil – 4 ideias</a>.
 </p>
 
 <p align="center">
@@ -103,11 +103,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Não deixe de ler:**
+  <strong>Não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração de quarto de bebê bonita, segura e funcional: 8 dicas infalíveis!**](http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-quarto-bebe-2/" target="_blank"><strong>Decoração de quarto de bebê bonita, segura e funcional: 8 dicas infalíveis!</strong></a>
 </p>
 
 <p align="center">
@@ -123,15 +123,15 @@ categories:
 </p>
 
 <p align="center">
-  E é hora daquele momento: _ownnnn!!!!_ Apaixone-se!
+  E é hora daquele momento: <em>ownnnn!!!!</em> Apaixone-se!
 </p>
 
 <p align="justify">
-  Imagens: [Project Nursery](http://projectnursery.com/) 
+  Imagens: <a href="http://projectnursery.com/" target="_blank">Project Nursery</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

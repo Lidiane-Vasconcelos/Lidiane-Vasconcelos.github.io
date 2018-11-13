@@ -1,8 +1,8 @@
 ---
-
+id: 2816
 title: 'Quando a gente resolve se casar&#8230;'
-
-author: Lidiane
+date: 2010-05-14T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/05/14/casamento/
 permalink: /2010/05/14/casamento/
@@ -11,7 +11,7 @@ categories:
   - Relacionamento
 ---
 <p style="text-align: center;">
-  **_Quando a gente resolve se casar&#8230;_**
+  <strong><em>Quando a gente resolve se casar&#8230;</em></strong>
 </p>
 
 &#8220;Quero a luz dos olhos meus
@@ -78,7 +78,7 @@ _Imagens:_ [_www.loveandlavender.com_](http://www.loveandlavender.com)
 
 **_Letícia Lodi (Lelê)_**
 
-Blog [Casa de Catarina](http://blog.casadecatarina.com.br/) 
+Blog <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>
 
 _ _
 

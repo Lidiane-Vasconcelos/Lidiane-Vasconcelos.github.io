@@ -1,8 +1,8 @@
 ---
-
+id: 3633
 title: 4 composições de cantinhos para sua varanda pequena.
-
-author: Lidiane
+date: 2016-08-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/08/02/decoracao-varanda-pequena/
 permalink: /2016/08/02/decoracao-varanda-pequena/
@@ -15,7 +15,7 @@ categories:
 </p>
 
 <p align="justify">
-  _A-ha_! Claro que não! É por isso que esse post foi editado: para te dar 4 ideias de como compor esse espaço de modo a ficar com charme e aconchego para tomar um café, ler uma revista, espiar a vista lá fora, etc. Vem cá comigo que já te mostro o que encontrei como referência para isso… vem!
+  <em>A-ha</em>! Claro que não! É por isso que esse post foi editado: para te dar 4 ideias de como compor esse espaço de modo a ficar com charme e aconchego para tomar um café, ler uma revista, espiar a vista lá fora, etc. Vem cá comigo que já te mostro o que encontrei como referência para isso… vem!
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Ikea](http://www.ikea.com/se/sv/) 
+  Imagem: <a href="http://www.ikea.com/se/sv/" target="_blank">Ikea</a>
 </p>
 
 <p align="justify">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Stadshem](http://www.stadshem.se/) 
+  Imagem: <a href="http://www.stadshem.se/" target="_blank">Stadshem</a>
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Femina](http://www.femina.dk/) 
+  Imagem: <a href="http://www.femina.dk/" target="_blank">Femina</a>
 </p>
 
 <p align="justify">
@@ -59,7 +59,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Marie Claire Maison](http://www.marieclairemaison.com/) 
+  Imagem: <a href="http://www.marieclairemaison.com/" target="_blank">Marie Claire Maison</a>
 </p>
 
 <p align="justify">
@@ -67,23 +67,23 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais ideias para sua varanda:**
+  <strong>Mais ideias para sua varanda:</strong>
 </p>
 
 <p align="justify">
-  [**Varanda, terraço, área externa: é tudo de bom!**](http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/) 
+  <a href="http://www.bichafemea.com/2009/02/22/varanda-terraco-area-externa/" target="_blank"><strong>Varanda, terraço, área externa: é tudo de bom!</strong></a>
 </p>
 
 <p align="justify">
-  [**Como escolher tecidos para a decoração da varanda?**](http://www.decoracaodacasa.com/decoracao-da-varanda/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-da-varanda/" target="_blank"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
 </p>
 
 <p align="justify">
-  [**Decoração da varanda: ideia fácil e barata para você copiar.**](http://www.bichafemea.com/2013/07/17/decoracao-varanda/) 
+  <a href="http://www.bichafemea.com/2013/07/17/decoracao-varanda/" target="_blank"><strong>Decoração da varanda: ideia fácil e barata para você copiar.</strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

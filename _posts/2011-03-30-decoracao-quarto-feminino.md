@@ -1,8 +1,8 @@
 ---
-
+id: 2973
 title: 5 ideias para uma decoração de quarto ainda mais feminina…
-
-author: Lidiane
+date: 2011-03-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/03/30/decoracao-quarto-feminino/
 permalink: /2011/03/30/decoracao-quarto-feminino/
@@ -12,13 +12,13 @@ categories:
 Você está decidida a imprimir mais **feminilidade na decoração do seu quarto**, mas não sabe exatamente quais detalhes poderiam reforçar esse aspecto no ambiente? Então, prepare-se! esse post está recheado de inspirações para você reproduzir por aí e deixar tudo uma _fofurice_ só…
 
 <p style="text-align: justify;">
-  Cortinas, almofadas, objetos decorativos, cores e sentidos… tudo por aqui foi selecionado para você estimular o que há de mais feminino na sua essência e que possa ser transferido para a _decor_ de seu canto de dormir…
+  Cortinas, almofadas, objetos decorativos, cores e sentidos… tudo por aqui foi selecionado para você estimular o que há de mais feminino na sua essência e que possa ser transferido para a <em>decor</em> de seu canto de dormir…
 </p>
 
 <!--more-->
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Prepare o cenário!</span>**
+  <strong><span style="font-size: medium;">Prepare o cenário!</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -26,23 +26,23 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  1 – Escolha uma **cor feminina, suave e aconchegante para o seu quarto**. Se você tem dúvidas sobre qual escolher, confira as dicas que já foram dadas por aqui sobre **<a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">como escolher cores para as paredes</a>**.
+  1 – Escolha uma <strong>cor feminina, suave e aconchegante para o seu quarto</strong>. Se você tem dúvidas sobre qual escolher, confira as dicas que já foram dadas por aqui sobre <strong><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">como escolher cores para as paredes</a></strong>.
 </p>
 
 <p style="text-align: justify;">
-  2 – Providencie **cortinas para as janelas**, e leve em consideração a cor do ambiente como um todo para definir que cores elas terão. A imagem como referência para você é para te dar a ideia de que você pode escolher mais de um tecido para compor sua cortina. Se não achar uma do jeito que você sonha, considere encomendar uma sob medida e com os tecidos de sua escolha.
+  2 – Providencie <strong>cortinas para as janelas</strong>, e leve em consideração a cor do ambiente como um todo para definir que cores elas terão. A imagem como referência para você é para te dar a ideia de que você pode escolher mais de um tecido para compor sua cortina. Se não achar uma do jeito que você sonha, considere encomendar uma sob medida e com os tecidos de sua escolha.
 </p>
 
 <p style="text-align: justify;">
-  As minhas foram dessa forma, sob encomenda, e o resultado me deixou bastante satisfeita. Para quem está na **região de Campinas**, recomendo o pessoal da **[Joly’s Persianas e Cortinas](http://www.jolyscortinas.com.br/) **, cujo atendimento me encantou bastante. Além do mais, eles têm uma variedade de tecidos enorme e o preço é justo. Tudo o que uma bicha fêmea inteligente gosta, busca e merece!
+  As minhas foram dessa forma, sob encomenda, e o resultado me deixou bastante satisfeita. Para quem está na <strong>região de Campinas</strong>, recomendo o pessoal da <strong><a href="http://www.jolyscortinas.com.br/" target="_blank">Joly’s Persianas e Cortinas</a></strong>, cujo atendimento me encantou bastante. Além do mais, eles têm uma variedade de tecidos enorme e o preço é justo. Tudo o que uma bicha fêmea inteligente gosta, busca e merece!
 </p>
 
 <p style="text-align: justify;">
-  Quanto ao **tamanho da cortina** com relação a parede, sugiro a leitura do post com **<a href="http://www.trololodemulher.com.br/2010/09/08/dicas-decoracao-2/">3 dúvidas sobre decoração respondidas</a>** por aqui, onde uma delas trata justamente sobre o comprimento adequado das cortinas para sua janela.
+  Quanto ao <strong>tamanho da cortina</strong> com relação a parede, sugiro a leitura do post com <strong><a href="http://www.trololodemulher.com.br/2010/09/08/dicas-decoracao-2/">3 dúvidas sobre decoração respondidas</a></strong> por aqui, onde uma delas trata justamente sobre o comprimento adequado das cortinas para sua janela.
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Móveis fazem diferença!</span>**
+  <strong><span style="font-size: medium;">Móveis fazem diferença!</span></strong>
 </p>
 
 <p style="text-align: center;">
@@ -50,15 +50,15 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  3 – Escolha um **móvel que possa ser personalizado** exclusivamente para você e de uma forma bastante feminina, com cores e detalhes que te agradem. A imagem te sugere **uma cômoda**, mas é sabido que esse não é um tipo de móvel encontrado com facilidade hoje em dia. Não desista! Busque em locais onde há a venda de móveis usados e, desde que ela esteja boa para uso, a pintura decorativa dela pode ser feita por quem entende do assunto.
+  3 – Escolha um <strong>móvel que possa ser personalizado</strong> exclusivamente para você e de uma forma bastante feminina, com cores e detalhes que te agradem. A imagem te sugere <strong>uma cômoda</strong>, mas é sabido que esse não é um tipo de móvel encontrado com facilidade hoje em dia. Não desista! Busque em locais onde há a venda de móveis usados e, desde que ela esteja boa para uso, a pintura decorativa dela pode ser feita por quem entende do assunto.
 </p>
 
 <p style="text-align: justify;">
-  Esta da imagem tem **uma cor apenas, com as gavetas ornamentadas de forma bastante delicada com listras e pequenos detalhes de flores**. Você pode ter uma similar ou pensar em algo totalmente diferente.
+  Esta da imagem tem <strong>uma cor apenas, com as gavetas ornamentadas de forma bastante delicada com listras e pequenos detalhes de flores</strong>. Você pode ter uma similar ou pensar em algo totalmente diferente.
 </p>
 
 <p style="text-align: justify;">
-  Veja que belíssima essa cômoda antiga que teve a decoração trabalhada pela **Veronica Kraemer**:
+  Veja que belíssima essa cômoda antiga que teve a decoração trabalhada pela <strong>Veronica Kraemer</strong>:
 </p>
 
 <p style="text-align: center;">
@@ -66,15 +66,15 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  A Veronica é uma artista talentosíssima que atende no seu **atelier em São Paulo** fazendo, dentre outras artes, a personalização de móveis da maneira que você preferir. **<a href="http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/">Seu trabalho já foi mostrado no Bicha Fêmea</a>** anteriormente, você viu? Confira!
+  A Veronica é uma artista talentosíssima que atende no seu <strong>atelier em São Paulo</strong> fazendo, dentre outras artes, a personalização de móveis da maneira que você preferir. <strong><a href="http://www.trololodemulher.com.br/2010/10/13/alem-da-rua-atelier/">Seu trabalho já foi mostrado no Bicha Fêmea</a></strong> anteriormente, você viu? Confira!
 </p>
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Atente-se aos detalhes…</span>**
+  <strong><span style="font-size: medium;">Atente-se aos detalhes…</span></strong>
 </p>
 
 <p style="text-align: justify;">
-  4 – Escolha **objetos** que você goste e que sugiram bastante feminilidade para colocar **sobre sua cômoda ou ainda sobre um outro móvel** escolhido para dar um ar mais feminino para o seu quarto, a **exemplo da penteadeira** abaixo:
+  4 – Escolha <strong>objetos</strong> que você goste e que sugiram bastante feminilidade para colocar <strong>sobre sua cômoda ou ainda sobre um outro móvel</strong> escolhido para dar um ar mais feminino para o seu quarto, a <strong>exemplo da penteadeira</strong> abaixo:
 </p>
 
 <p style="text-align: center;">
@@ -82,11 +82,11 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  Uma penteadeira como essa, ou similar, também pode ser garimpada nos locais de vendas de usados. Se ela será mantida com o visual original ou trabalhada por um artista de acordo com seu gosto pessoal, fica a sua escolha. Mas não dá para negar o quanto um móvel assim confere _bossa_ ao quarto de uma mulher, _hã_? E se ela for **enfeitada** com **caixas, vasos ou bibelôs femininos**, melhor será impossível!
+  Uma penteadeira como essa, ou similar, também pode ser garimpada nos locais de vendas de usados. Se ela será mantida com o visual original ou trabalhada por um artista de acordo com seu gosto pessoal, fica a sua escolha. Mas não dá para negar o quanto um móvel assim confere <em>bossa</em> ao quarto de uma mulher, <em>hã</em>? E se ela for <strong>enfeitada</strong> com <strong>caixas, vasos ou bibelôs femininos</strong>, melhor será impossível!
 </p>
 
 <p style="text-align: justify;">
-  Veja sugestões de **objetos artesanais**, bem **femininos**, que podem enfeitar seu quarto do jeito que você imagina. Todos os produtos são do **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Para imagens maiores e mais detalhes, clique no nome de cada um deles…
+  Veja sugestões de <strong>objetos artesanais</strong>, bem <strong>femininos</strong>, que podem enfeitar seu quarto do jeito que você imagina. Todos os produtos são do <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Para imagens maiores e mais detalhes, clique no nome de cada um deles…
 </p>
 
  
@@ -94,15 +94,15 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="200" valign="top">
-      **[Caixa Moa](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/) **
+      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200.jpg"><img class="alignnone size-thumbnail wp-image-5442" title="Caixa Moa200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Caixa-Moa200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">Caixa Moa</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      **[Porta Absorvente Cereja](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200.jpg"><img class="alignnone size-thumbnail wp-image-5305" title="Porta Absorvente ou Chá Cereja Florida 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/) **
+      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200.jpg"><img class="alignnone size-thumbnail wp-image-5305" title="Porta Absorvente ou Chá Cereja Florida 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Porta-Absorvente-ou-Cha-Cereja-Florida-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/absorvente-cha-cereja-florida/" target="_blank">Porta Absorvente Cereja</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      **[Caixa Redonda Vintage](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/) **
+      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200.jpg"><img class="alignnone size-thumbnail wp-image-5727" title="Caixa Redonda Vintage200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/12/Caixa-Redonda-Vintage200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">Caixa Redonda Vintage</a></strong>
     </td>
   </tr>
 </table>
@@ -114,7 +114,7 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  5 &#8211; Espalhe sobre sua cama algumas **almofadas com tecidos floridos, de tamanhos e estampas diferentes, mas harmoniosas entre si**. Para conseguir um resultado bem feminino como o da imagem, sugiro as almofadas da **Aluada**. Você já viu?
+  5 &#8211; Espalhe sobre sua cama algumas <strong>almofadas com tecidos floridos, de tamanhos e estampas diferentes, mas harmoniosas entre si</strong>. Para conseguir um resultado bem feminino como o da imagem, sugiro as almofadas da <strong>Aluada</strong>. Você já viu?
 </p>
 
 <p style="text-align: center;">
@@ -122,32 +122,32 @@ Você está decidida a imprimir mais **feminilidade na decoração do seu quarto
 </p>
 
 <p style="text-align: justify;">
-  As **<a href="http://www.trololodemulher.com.br/2010/06/09/artesanato-aluada/">almofadas Aluada já foram mostradas no Bicha Fêmea</a>** e, como se viu, uma é sempre mais bonita que a outra. O difícil é escolher uma para você&#8230;
+  As <strong><a href="http://www.trololodemulher.com.br/2010/06/09/artesanato-aluada/">almofadas Aluada já foram mostradas no Bicha Fêmea</a></strong> e, como se viu, uma é sempre mais bonita que a outra. O difícil é escolher uma para você&#8230;
 </p>
 
 <p style="text-align: justify;">
-  Confira mais sugestões de objetos que podem trazer um delicioso ar feminino para o seu quarto. Todos os produtos são do **Mercado de Artes**, a loja virtual do **Bicha Fêmea**. Para imagens maiores e mais detalhes, clique no nome de cada um deles… 
+  Confira mais sugestões de objetos que podem trazer um delicioso ar feminino para o seu quarto. Todos os produtos são do <strong>Mercado de Artes</strong>, a loja virtual do <strong>Bicha Fêmea</strong>. Para imagens maiores e mais detalhes, clique no nome de cada um deles… 
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td style="text-align: center;" width="200" valign="top">
-      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5409" title="Espelho Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/">Espelho Provençal</a>**
+      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200.jpg"><img class="alignnone size-thumbnail wp-image-5409" title="Espelho Provençal200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/Espelho-Provencal200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/10/20/espelho-provencal/">Espelho Provençal</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"><img class="alignnone size-thumbnail wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/">Aparador de Porta Scarpin</a>**
+      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200.jpg"><img class="alignnone size-thumbnail wp-image-5307" title="Aparador de Porta Scarpin 2 200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Aparador-de-Porta-Scarpin-2-200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/aparador-de-porta-scarpin/">Aparador de Porta Scarpin</a></strong>
     </td>
     
     <td style="text-align: center;" width="200" valign="top">
-      **<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-thumbnail wp-image-5325" title="Quadro Cenário Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/">Quadro Cenário Bolsinha</a>**
+      <strong><a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200.jpg"><img class="alignnone size-thumbnail wp-image-5325" title="Quadro Cenário Bolsinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/10/Quadro-Cenario-Bolsinha200-150x150.jpg" alt="" width="150" height="150" /></a><br /> <a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-bolsinha/">Quadro Cenário Bolsinha</a></strong>
     </td>
   </tr>
 </table>
 
  
 
-Imagens: [**_Better Homes and Gardens_**](http://www.bhg.com/) 
+Imagens: <a href="http://www.bhg.com/" target="_blank"><strong><em>Better Homes and Gardens</em></strong></a>
 
 **Mais no Bicha Fêmea…**
 
@@ -160,23 +160,23 @@ Imagens: [**_Better Homes and Gardens_**](http://www.bhg.com/)
 **[Os 10 erros na decoração e bem-estar do seu quarto…](http://www.trololodemulher.com.br/2009/01/15/10-erros-decoracao-quarto/)**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa & Decoração_**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**_Quartos_**</a>…
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a>…
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>
 
 **_ _**

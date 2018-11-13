@@ -1,8 +1,8 @@
 ---
-
+id: 3705
 title: '3 cordões de enfeites natalinos: faça você mesma'
-
-author: Lidiane
+date: 2016-11-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/11/17/enfeites-natalinos-2/
 permalink: /2016/11/17/enfeites-natalinos-2/
@@ -11,15 +11,15 @@ categories:
   - Natal
 ---
 <p align="justify">
-  Preciso te contar: eu acho uma graça usar cordões com [enfeites natalinos de papel](http://www.decoracaodacasa.com/enfeite-papel-decoracao-natal/)  como recurso na decoração. Eles são tão versáteis! A gente pode usá-los para enfeitar a janela, porta, prateleiras suspensas, a mesa e até a árvore, se fizermos um _beeem_ grande. E há ideias muito simpáticas e de execução simples, simples de tudo. Esse é o caso, por exemplo, das três que você verá neste post. De tão fáceis que são, dá até para fazer com as crianças. Olha só:
+  Preciso te contar: eu acho uma graça usar cordões com <a href="http://www.decoracaodacasa.com/enfeite-papel-decoracao-natal/" target="_blank">enfeites natalinos de papel</a> como recurso na decoração. Eles são tão versáteis! A gente pode usá-los para enfeitar a janela, porta, prateleiras suspensas, a mesa e até a árvore, se fizermos um <em>beeem</em> grande. E há ideias muito simpáticas e de execução simples, simples de tudo. Esse é o caso, por exemplo, das três que você verá neste post. De tão fáceis que são, dá até para fazer com as crianças. Olha só:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**3 ideias cheias de charme para sua decoração natalina**](http://www.decoracaodacasa.com/ideias-decoracao-natalina/) 
+  <a href="http://www.decoracaodacasa.com/ideias-decoracao-natalina/" target="_blank"><strong>3 ideias cheias de charme para sua decoração natalina</strong></a>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [At Home in Love](http://www.athomeinlove.com/diy-scandinavian-tree-garland/) 
+  Via <a href="http://www.athomeinlove.com/diy-scandinavian-tree-garland/" target="_blank">At Home in Love</a>
 </p>
 
 <p align="justify">
@@ -35,11 +35,11 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**2 ideias de ornamentos natalinos para sua criança fazer**](http://www.decoracaodacasa.com/ornamentos-natalinos/) 
+  <a href="http://www.decoracaodacasa.com/ornamentos-natalinos/" target="_blank"><strong>2 ideias de ornamentos natalinos para sua criança fazer</strong></a>
 </p>
 
 <p align="center">
@@ -47,19 +47,19 @@ categories:
 </p>
 
 <p align="center">
-  Via [Useful Beautiful Home](http://usefulbeautifulhome.com/2013/12/diy-christmas-garland/) 
+  Via <a href="http://usefulbeautifulhome.com/2013/12/diy-christmas-garland/" target="_blank">Useful Beautiful Home</a>
 </p>
 
 <p align="justify">
-  Há algo mais fácil que recortar círculos?! Novamente, use a imaginação e capriche em como seus círculos serão apresentados. Gosto dessa versão, de círculos purpurinados, porque tem a ver com luzinhas e a festa na noite de Natal. Colados no cordão, com frente e verso, dá para espalhá-los pela casa e trazer muita _bossa_. Inspire-se!
+  Há algo mais fácil que recortar círculos?! Novamente, use a imaginação e capriche em como seus círculos serão apresentados. Gosto dessa versão, de círculos purpurinados, porque tem a ver com luzinhas e a festa na noite de Natal. Colados no cordão, com frente e verso, dá para espalhá-los pela casa e trazer muita <em>bossa</em>. Inspire-se!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**3 guirlandas de Natal diferentes e criativas: faça você mesma.**](http://www.decoracaodacasa.com/guirlandas-de-natal-2/) 
+  <a href="http://www.decoracaodacasa.com/guirlandas-de-natal-2/" target="_blank"><strong>3 guirlandas de Natal diferentes e criativas: faça você mesma.</strong></a>
 </p>
 
 <p align="center">
@@ -67,23 +67,23 @@ categories:
 </p>
 
 <p align="center">
-  Via [One Perfect Day](http://www.oneperfectdayblog.net/2013/12/23/diy-christmas-garland/) 
+  Via <a href="http://www.oneperfectdayblog.net/2013/12/23/diy-christmas-garland/" target="_blank">One Perfect Day</a>
 </p>
 
 <p align="justify">
-  Forminhas de cupcakes, decoradas das mais diversas formas, resultam num cordão de enfeites que vão conquistar as crianças, certamente. Com a forminha aberta e dobrada ao meio, e depois dobrada novamente, você cria a base para sua árvore: [veja aqui](http://cdn.oneperfectdayblog.net/wp-content/uploads/2013/12/patty-case-Christmas-trees.jpg) . Coladas umas sobre as outras, está pronta sua mini árvore, que pode ganhar estrelinhas ainda mais mini no topo. Pura fofurice! Prepare o cordão e escolha onde pendurá-la. Feliz Natal!
+  Forminhas de cupcakes, decoradas das mais diversas formas, resultam num cordão de enfeites que vão conquistar as crianças, certamente. Com a forminha aberta e dobrada ao meio, e depois dobrada novamente, você cria a base para sua árvore: <a href="http://cdn.oneperfectdayblog.net/wp-content/uploads/2013/12/patty-case-Christmas-trees.jpg" target="_blank">veja aqui</a>. Coladas umas sobre as outras, está pronta sua mini árvore, que pode ganhar estrelinhas ainda mais mini no topo. Pura fofurice! Prepare o cordão e escolha onde pendurá-la. Feliz Natal!
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  **[Ornamentos de Natal: 2 ideias “faça você mesma”](http://www.decoracaodacasa.com/ornamentos-de-natal/) **
+  <strong><a href="http://www.decoracaodacasa.com/ornamentos-de-natal/" target="_blank">Ornamentos de Natal: 2 ideias “faça você mesma”</a></strong>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

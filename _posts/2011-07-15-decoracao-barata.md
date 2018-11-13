@@ -1,8 +1,8 @@
 ---
-
+id: 3021
 title: 'Decoração barata: casa de Rejane'
-
-author: Lidiane
+date: 2011-07-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/07/15/decoracao-barata/
 permalink: /2011/07/15/decoracao-barata/
@@ -10,7 +10,7 @@ categories:
   - Decoração
   - Faça Você Mesma
 ---
-Se você é do tipo que visita **blogs e sites de decoração**, namora as imagens e inspiraçõees, mas acha que **decorar uma casa** é caro e está fora de suas possibilidades, talvez você ainda não tenha conhecido o **[Casa Corpo e Cia](http://casacorpoecia.blogspot.com/) **, o blog da **Rejane**.
+Se você é do tipo que visita **blogs e sites de decoração**, namora as imagens e inspiraçõees, mas acha que **decorar uma casa** é caro e está fora de suas possibilidades, talvez você ainda não tenha conhecido o **<a href="http://casacorpoecia.blogspot.com/" target="_blank">Casa Corpo e Cia</a>**, o blog da **Rejane**.
 
 &nbsp;
 
@@ -21,7 +21,7 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 <!--more-->
 
 <p align="center">
-  **<span style="font-size: medium;">Reutilizando enfeites de Natal…</span>**
+  <strong><span style="font-size: medium;">Reutilizando enfeites de Natal…</span></strong>
 </p>
 
 &nbsp;
@@ -33,13 +33,13 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 &nbsp;
 
 <p align="justify">
-  Sabe as luzinhas de Natal que ficam guardadas para serem usadas uma vez por ano? Pois a Rejane, criativa que só ela, colocou tudo dentro de uma garrafa. Depois disso, colocou na boca da garrafa uma cúpula baratinha de R$ 3,80 devidamente melhorada com um pedaço de renda, cola quente e pérolas. O resultado final é um detalhe com _bossa vintage_ para um cantinho de sua casa… e bem baratinho, não é? Quer ver mais detalhes sobre esse projetinho da Rejane? Ela mostrou tudo **[neste post](http://casacorpoecia.blogspot.com/2011/06/abajur-de-garrafa-com-lampadas-de-natal.html) **. Inspire-se!
+  Sabe as luzinhas de Natal que ficam guardadas para serem usadas uma vez por ano? Pois a Rejane, criativa que só ela, colocou tudo dentro de uma garrafa. Depois disso, colocou na boca da garrafa uma cúpula baratinha de R$ 3,80 devidamente melhorada com um pedaço de renda, cola quente e pérolas. O resultado final é um detalhe com <em>bossa vintage</em> para um cantinho de sua casa… e bem baratinho, não é? Quer ver mais detalhes sobre esse projetinho da Rejane? Ela mostrou tudo <strong><a href="http://casacorpoecia.blogspot.com/2011/06/abajur-de-garrafa-com-lampadas-de-natal.html" target="_blank">neste post</a></strong>. Inspire-se!
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: medium;">Aplicando a criatividade em marcenaria bem barata…</span>**
+  <strong><span style="font-size: medium;">Aplicando a criatividade em marcenaria bem barata…</span></strong>
 </p>
 
 &nbsp;
@@ -55,17 +55,17 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 </p>
 
 <p align="justify">
-  Rejane bolou uma forma de fixar um suporte de madeira na parede, e este suporte recebe a cobertura de uma caixa de madeira pintada com tinha automotiva. Segundo essa blogueira tão criativa, esse revestimento também poderia ser com laminado, fórmica e até _contact_.
+  Rejane bolou uma forma de fixar um suporte de madeira na parede, e este suporte recebe a cobertura de uma caixa de madeira pintada com tinha automotiva. Segundo essa blogueira tão criativa, esse revestimento também poderia ser com laminado, fórmica e até <em>contact</em>.
 </p>
 
 <p align="justify">
-  A execução do projeto ficou por conta de seu pai, que dispõe da habilidade necessária para a execução das ideias dela. Se você se empolgou com a solução, vai se empolgar com o preço. Com menos de R$ 200,00 Rejane ganhou uma estante novinha e exclusiva para sua sala. Quer saber mais detalhes? Acompanhe tudo** [neste post](http://casacorpoecia.blogspot.com/2011/06/desvendando-minha-estante.html) **… vai lá!
+  A execução do projeto ficou por conta de seu pai, que dispõe da habilidade necessária para a execução das ideias dela. Se você se empolgou com a solução, vai se empolgar com o preço. Com menos de R$ 200,00 Rejane ganhou uma estante novinha e exclusiva para sua sala. Quer saber mais detalhes? Acompanhe tudo<strong> <a href="http://casacorpoecia.blogspot.com/2011/06/desvendando-minha-estante.html" target="_blank">neste post</a></strong>… vai lá!
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: medium;">Sabendo olhar detalhes das fotos de decoração…</span>**
+  <strong><span style="font-size: medium;">Sabendo olhar detalhes das fotos de decoração…</span></strong>
 </p>
 
 &nbsp;
@@ -83,7 +83,7 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 &nbsp;
 
 <p align="justify">
-  Essa salinha de jantar toda charmosa foi um ambiente lindo de viver que a Rejane viu na revista **Minha Casa**, edição de Agosto de 2010. Partindo dessa composição, ela pensou em como reproduzir alguns detalhes dos quais gostou tanto… e _voilá_!
+  Essa salinha de jantar toda charmosa foi um ambiente lindo de viver que a Rejane viu na revista <strong>Minha Casa</strong>, edição de Agosto de 2010. Partindo dessa composição, ela pensou em como reproduzir alguns detalhes dos quais gostou tanto… e <em>voilá</em>!
 </p>
 
 &nbsp;
@@ -95,17 +95,17 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 &nbsp;
 
 <p align="justify">
-  “_ A decoração consiste em 3 pratos de melanina pendurados na parede, uma luminária japonesa pendente sobre a mesa e um arranjo que eu mesma fiz. Uma tinta muda qualquer ambiente também_”, explica essa moça tão criativa.
+  “<em> A decoração consiste em 3 pratos de melanina pendurados na parede, uma luminária japonesa pendente sobre a mesa e um arranjo que eu mesma fiz. Uma tinta muda qualquer ambiente também</em>”, explica essa moça tão criativa.
 </p>
 
 <p align="justify">
-  Com apenas R$ 59,45 e um olho clínico para detalhes que fazem diferença na decoração de um ambiente, Rejane deixou tudo muito charmoso, não é verdade? Ela conta _toooodos_ os detalhes e preços de cada item dessa composição **[neste post](http://casacorpoecia.blogspot.com/2010/09/decoracao-economica-vem-pra-ca-jantar.html) **… agora você não verá mais as imagens de decoração nas revistas, blogs e sites como via antes, hã?
+  Com apenas R$ 59,45 e um olho clínico para detalhes que fazem diferença na decoração de um ambiente, Rejane deixou tudo muito charmoso, não é verdade? Ela conta <em>toooodos</em> os detalhes e preços de cada item dessa composição <strong><a href="http://casacorpoecia.blogspot.com/2010/09/decoracao-economica-vem-pra-ca-jantar.html" target="_blank">neste post</a></strong>… agora você não verá mais as imagens de decoração nas revistas, blogs e sites como via antes, hã?
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: medium;">Pincelando a decoração com detalhes _cute cute_…</span>**
+  <strong><span style="font-size: medium;">Pincelando a decoração com detalhes <em>cute cute</em>…</span></strong>
 </p>
 
 &nbsp;
@@ -123,7 +123,7 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 &nbsp;
 
 > <p align="justify">
->   “ Na pia (do banheiro) coloquei um dos meus solitários de louça com uma flor branca fazendo as vezes de vela. A toalha branca, era sem graça, e eu costurei uma faixa de renda nela.” **Rejane**, **[no post original](http://casacorpoecia.blogspot.com/2011/05/com-simples-toques-meu-banheiro-ficou.html) **.
+>   “ Na pia (do banheiro) coloquei um dos meus solitários de louça com uma flor branca fazendo as vezes de vela. A toalha branca, era sem graça, e eu costurei uma faixa de renda nela.” <strong>Rejane</strong>, <strong><a href="http://casacorpoecia.blogspot.com/2011/05/com-simples-toques-meu-banheiro-ficou.html" target="_blank">no post original</a></strong>.
 > </p>
 
 &nbsp;
@@ -135,7 +135,7 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 &nbsp;
 
 > <p align="justify">
->   “ _Estes adesivos são baratos e práticos, é só descolar e colar outro&#8230; Para as desconfiadas, não danifica em nada a pintura da geladeira. Vai fundo e sem medo de ser feliz!” Rajane, **[no post original](http://casacorpoecia.blogspot.com/2010/11/pequena-e-engracadinha-e-minha-cozinha.html) **._
+>   “ <em>Estes adesivos são baratos e práticos, é só descolar e colar outro&#8230; Para as desconfiadas, não danifica em nada a pintura da geladeira. Vai fundo e sem medo de ser feliz!” Rajane, <strong><a href="http://casacorpoecia.blogspot.com/2010/11/pequena-e-engracadinha-e-minha-cozinha.html" target="_blank">no post original</a></strong>.</em>
 > </p>
 
 &nbsp;
@@ -147,7 +147,7 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 &nbsp;
 
 > <p align="justify">
->   “ _Comprei um pote de cerâmica com &#8220;ar&#8221; bem antigo, coloquei minhas colheres de pau e trouxe um pouco da vovó pra mim. Pendurei os morangos que ganhei da _[**_Gaby_**](http://gaby-gostodecoisinhasnovas.blogspot.com/) _ ao lado do meu saleiro_.” **Rejane**, no **[post original](http://casacorpoecia.blogspot.com/2010/11/um-pouco-do-vintage-que-ha-em-mim.html) **.
+>   “ <em>Comprei um pote de cerâmica com &#8220;ar&#8221; bem antigo, coloquei minhas colheres de pau e trouxe um pouco da vovó pra mim. Pendurei os morangos que ganhei da </em><a href="http://gaby-gostodecoisinhasnovas.blogspot.com/" target="_blank"><strong><em>Gaby</em></strong></a><em> ao lado do meu saleiro</em>.” <strong>Rejane</strong>, no <strong><a href="http://casacorpoecia.blogspot.com/2010/11/um-pouco-do-vintage-que-ha-em-mim.html" target="_blank">post original</a></strong>.
 > </p>
 
 &nbsp;
@@ -169,13 +169,13 @@ Se você é do tipo que visita **blogs e sites de decoração**, namora as image
 &nbsp;
 
 <p align="center">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
 </p>
 
 <p align="center">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p align="center">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>

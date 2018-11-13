@@ -1,8 +1,8 @@
 ---
-
+id: 2610
 title: Ideia para reutilização de quadro na decoração da casa.
-
-author: Lidiane
+date: 2009-01-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/01/28/reutilizando-decoracao/
 permalink: /2009/01/28/reutilizando-decoracao/
@@ -14,7 +14,7 @@ categories:
 
 Você tem uma moldura antiga sem uso? Inspire-se, e eis que surge uma bandeja estilosa!
 
-Olha que ideia legal para reutilização desse tipo de objeto, e que foi publicada no blog “[Lá em Casa](http://bloglaemcasa.com.br/index.php) ”?!
+Olha que ideia legal para reutilização desse tipo de objeto, e que foi publicada no blog “<a href="http://bloglaemcasa.com.br/index.php" target="_blank">Lá em Casa</a>”?!
 
 <p style="text-align: center;">
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="vidasimples.abril.com.br" src="http://vidasimples.abril.com.br/edicoes/076/imagens/salideshow-bandeja-02.jpg" alt="vidasimples.abril.com.br" />

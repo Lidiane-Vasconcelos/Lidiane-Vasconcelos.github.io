@@ -1,8 +1,8 @@
 ---
-
+id: 3810
 title: 3 ideias cheias de charme para sua decoração natalina.
-
-author: Lidiane
+date: 2017-10-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/10/03/decoracao-natalina-3/
 permalink: /2017/10/03/decoracao-natalina-3/
@@ -11,11 +11,11 @@ categories:
   - Natal
 ---
 <p align="justify">
-  As ideias de **decoração natalina** estão fervilhando pela _internet_, e eu _amoooo_ ver sugestões inusitadas, diferentes, charmosas e bem fáceis de reproduzir. Neste post eu compartilho com você três achados que preenchem esses requisitos e, tenho certeza, você vai amar e ficar toda ansiosa para reproduzir alguma delas… ou será todas?
+  As ideias de <strong>decoração natalina</strong> estão fervilhando pela <em>internet</em>, e eu <em>amoooo</em> ver sugestões inusitadas, diferentes, charmosas e bem fáceis de reproduzir. Neste post eu compartilho com você três achados que preenchem esses requisitos e, tenho certeza, você vai amar e ficar toda ansiosa para reproduzir alguma delas… ou será todas?
 </p>
 
 <p align="justify">
-  Repare o quanto elas podem representar detalhes cheios de _bossa_ na sua decoração de Natal, e o quanto podem encantar o olhos e arrancar sorrisos… inspire-se e corra pra providenciar o que precisa para copiar essas referências. Quer saber? Na verdade você nem precisa muito… repara!
+  Repare o quanto elas podem representar detalhes cheios de <em>bossa</em> na sua decoração de Natal, e o quanto podem encantar o olhos e arrancar sorrisos… inspire-se e corra pra providenciar o que precisa para copiar essas referências. Quer saber? Na verdade você nem precisa muito… repara!
 </p>
 
 <p align="center">
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Centsacionalgirl](http://www.centsationalgirl.com/) 
+  Imagem: <a href="http://www.centsationalgirl.com/" target="_blank">Centsacionalgirl</a>
 </p>
 
 <p align="justify">
-  Quer estrelas prateadas como essa na sua árvore de Natal, sem gastar muito para isso? Sabe aqueles cortadores de biscoito, _beeeem_ baratinhos? Então… com um pincel você passa cola em toda a peça, depois coloca numa sacola plástica cheia de_ glitter_, e mexe, mexe, mexe… Deixe secar e, ao final, prenda um laço com cola quente. Agora é só pendurar na árvore. Fácil, _né_?
+  Quer estrelas prateadas como essa na sua árvore de Natal, sem gastar muito para isso? Sabe aqueles cortadores de biscoito, <em>beeeem</em> baratinhos? Então… com um pincel você passa cola em toda a peça, depois coloca numa sacola plástica cheia de<em> glitter</em>, e mexe, mexe, mexe… Deixe secar e, ao final, prenda um laço com cola quente. Agora é só pendurar na árvore. Fácil, <em>né</em>?
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Citrusandorange](http://citrusandorange.blogspot.com.br/) 
+  Imagem: <a href="http://citrusandorange.blogspot.com.br/" target="_blank">Citrusandorange</a>
 </p>
 
 <p align="justify">
@@ -47,7 +47,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Impressionen.de](http://www.impressionen.de/impressionen/de/) 
+  Imagem: <a href="http://www.impressionen.de/impressionen/de/" target="_blank">Impressionen.de</a>
 </p>
 
 <p align="justify">
@@ -55,9 +55,9 @@ categories:
 </p>
 
 <p align="justify">
-  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. [**Clique aqui e confira**](http://www.trololodemulher.com.br/category/natal/) !
+  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2801
 title: Como sentir-se confiante.
-
-author: Lidiane
+date: 2010-05-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/05/03/auto-estima/
 permalink: /2010/05/03/auto-estima/
@@ -12,7 +12,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **Como sentir-se confiante.**
+  <strong>Como sentir-se confiante.</strong>
 </p>
 
 Você também se sente cercado do medo?
@@ -39,7 +39,7 @@ Todos temos uma fortaleza dentro de si, mas precisas procurar e se permitir a ex
 
 Um abraço
   
-**[Luciana Kotaka<br /> ](http://blog.comportamentomagro.com.br/) **Especialista em Obesidade e Transtornos Alimentares
+**<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka<br /> </a>**Especialista em Obesidade e Transtornos Alimentares
   
 Curitiba-PR
 

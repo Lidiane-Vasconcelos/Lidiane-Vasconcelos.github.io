@@ -1,15 +1,15 @@
 ---
-
+id: 2762
 title: 'Bicha Fêmea na mídia: dia-a-dia Revista do Diário do Grande ABC'
-
-author: Lidiane
+date: 2010-01-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/01/15/bicha-femea-na-midia/
 permalink: /2010/01/15/bicha-femea-na-midia/
 categories:
   - Trololó
 ---
-Pois é, bonita! É isso mesmo que você está entendendo. O Bicha Fêmea teve sua primeira citação fora do mundo virtual, e foi parar nas mãos dos leitores da revista “dia-a-dia Revista”, uma publicação do jornal “[Diário do Grande ABC](http://www.dgabc.com.br/?from=www.diaadiarevista.com.br) ”. Não é ótimo?!
+Pois é, bonita! É isso mesmo que você está entendendo. O Bicha Fêmea teve sua primeira citação fora do mundo virtual, e foi parar nas mãos dos leitores da revista “dia-a-dia Revista”, uma publicação do jornal “<a href="http://www.dgabc.com.br/?from=www.diaadiarevista.com.br" target="_blank">Diário do Grande ABC</a>”. Não é ótimo?!
 
 Posso falar? Estou mais feliz que “pinto no lixo”, talvez chegue perto da felicidade do “mosquito em pão doce”. E não é para estar?!
 
@@ -51,7 +51,7 @@ Mas há outras mais que ela acrescentou na matéria, como por exemplo:
 
 **_5 &#8211; Revistas empilhadas com um pequeno vidro se transformam em uma mesa inusitada.&#8221;_**
 
-A matéria completa você consegue ler [aqui, bem aqui](http://www.diaadiarevista.com.br/News/12/1658/bagunca-organizada.aspx) . Como a gente sabe muito bem, o pulo do gato é estar bem informada e aprendendo coisas novas, concorda?
+A matéria completa você consegue ler <a href="http://www.diaadiarevista.com.br/News/12/1658/bagunca-organizada.aspx" target="_blank">aqui, bem aqui</a>. Como a gente sabe muito bem, o pulo do gato é estar bem informada e aprendendo coisas novas, concorda?
 
 Então, informe-se, bonita!!!!
 

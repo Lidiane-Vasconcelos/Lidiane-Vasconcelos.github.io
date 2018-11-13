@@ -1,8 +1,8 @@
 ---
-
+id: 3417
 title: Blog de férias. Minha vida em recomeço…
-
-author: Lidiane
+date: 2015-03-26T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/03/26/blog-ferias-recomeco/
 permalink: /2015/03/26/blog-ferias-recomeco/
@@ -50,7 +50,7 @@ categories:
 </p>
 
 <p align="justify">
-  Não quero demorar muito nestas férias _bloguísticas_, e espero encontrá-la por aqui quando eu voltar. Posso contar com isso?
+  Não quero demorar muito nestas férias <em>bloguísticas</em>, e espero encontrá-la por aqui quando eu voltar. Posso contar com isso?
 </p>
 
 <p align="justify">
@@ -62,5 +62,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

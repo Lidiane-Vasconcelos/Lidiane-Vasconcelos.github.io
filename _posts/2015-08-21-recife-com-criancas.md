@@ -1,8 +1,8 @@
 ---
-
+id: 3469
 title: 'Agenda Recife com crianças: 22 e 23 de Agosto'
-
-author: Lidiane
+date: 2015-08-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/08/21/recife-com-criancas/
 permalink: /2015/08/21/recife-com-criancas/
@@ -10,7 +10,7 @@ categories:
   - Sem categoria
 ---
 <p align="justify">
-  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda **Recife com crianças**, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e [clique aqui](http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/) . Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. _Bora_?!
+  E vem chegando o final de semana! Eba! Delícia é viver a vida em família, e por isso essa é mais uma novidade por aqui: agenda <strong>Recife com crianças</strong>, mostrando atividades para fazer em família na capital pernambucana. Não faz muito tempo houve o lançamento da Agenda Cultural – São Paulo com crinças, que será mensal e alimentada pela Adriana Minhoto. Se você é de Sampa e não viu, não perca tempo e <a href="http://www.trololodemulher.com.br/2015/07/31/sao-paulo-com-criancas/" target="_blank">clique aqui</a>. Esta de Recife eu pretendo que seja semanal e quem vai cuidar dela sou eu mesma. Espero que você curta tanto quanto estou curtindo a  ideia de produzí-la… porque eu quero mais é ser feliz com meus amados e quero que você entre nessa frequência junto comigo, e aprecie a vida com o seus. <em>Bora</em>?!
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@ categories:
 </p>
 
 <p align="center">
-  Via [[2]](http://www.flickr.com/photos/tacoekkel/) <b> / </b>[Foter](http://foter.com/) <b> / </b>[CC BY](http://creativecommons.org/licenses/by/2.0/) 
+  Via <a href="http://www.flickr.com/photos/tacoekkel/" target="_blank">[2]</a><b> / </b><a href="http://foter.com/" target="_blank">Foter</a><b> / </b><a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a>
 </p>
 
 <p align="justify">
-  **{Sábado}**
+  <strong>{Sábado}</strong>
 </p>
 
 <p align="justify">
-  **Manhãs Analógicas – **[**Zepelim**](http://zepelimbrinquedos.com.br/) ** {Rua da Hora} e Manhãs Lúdicas – **[**Zepelim Brinquedos Educativos**](http://zepelimbrinquedos.com.br/) ** e **[**Reinoceronte**](https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline) 
+  <strong>Manhãs Analógicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank"><strong>Zepelim</strong></a><strong> {Rua da Hora} e Manhãs Lúdicas – </strong><a href="http://zepelimbrinquedos.com.br/" target="_blank"><strong>Zepelim Brinquedos Educativos</strong></a><strong> e </strong><a href="https://www.facebook.com/pages/ReiNoceronte/717931391561337?sk=timeline" target="_blank"><strong>Reinoceronte</strong></a>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ categories:
 </p>
 
 <p align="justify">
-  **#PartiuVacina – Campanha Nacional Contra Poliomielite – [Prefeitura do Recife](http://www2.recife.pe.gov.br/) **
+  <strong>#PartiuVacina – Campanha Nacional Contra Poliomielite – <a href="http://www2.recife.pe.gov.br/" target="_blank">Prefeitura do Recife</a></strong>
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="justify">
-  **{Domingo}**
+  <strong>{Domingo}</strong>
 </p>
 
 <p align="justify">
-  **OLHA! RECIFE – **[**Olha Recife**](http://www.olharecife.com.br/) ** – Passeio Pedalando**
+  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank"><strong>Olha Recife</strong></a><strong> – Passeio Pedalando</strong>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  **OLHA! RECIFE – **[**Olha Recife**](http://www.olharecife.com.br/) ** – Passeio à Pé**
+  <strong>OLHA! RECIFE – </strong><a href="http://www.olharecife.com.br/" target="_blank"><strong>Olha Recife</strong></a><strong> – Passeio à Pé</strong>
 </p>
 
 <p align="center">
@@ -78,11 +78,11 @@ categories:
 </p>
 
 <p align="justify">
-  **{Sábado & Domingo}**
+  <strong>{Sábado & Domingo}</strong>
 </p>
 
 <p align="justify">
-  **Sonoros Ofícios – Cantos de Trabalho – **[**Museu Cais do Sertão**](http://www.caisdosertao.com.br/) 
+  <strong>Sonoros Ofícios – Cantos de Trabalho – </strong><a href="http://www.caisdosertao.com.br/" target="_blank"><strong>Museu Cais do Sertão</strong></a>
 </p>
 
 <p align="center">
@@ -104,7 +104,7 @@ categories:
 23/08 &#8211; Quebradeiras de Coco Babaçu (MA)
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

@@ -1,8 +1,8 @@
 ---
-
+id: 2850
 title: 'Parceria Bicha Fêmea &#038; OZ! = Quem ganha na organização é você!'
-
-author: Lidiane
+date: 2010-07-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/07/19/sorteio-bicha-femea-oz/
 permalink: /2010/07/19/sorteio-bicha-femea-oz/
@@ -12,7 +12,7 @@ categories:
 ---
 Quando se fala em **_organização_** e em itens que possam facilitar esse aspecto no dia a dia eu fico toda animada. Sim! Acredito que ter as coisas organizadas facilitam nossa produtividade, porque temos acesso a tudo de forma rápida. Sem falar que fica mais bonito!
 
-E de organização a **_[OZ!](http://www.organizesuavida.com.br/si/site/0000) _** entende, sabia? Imagine um local onde você possa encontrar acessórios úteis para manter sua casa e sua vida em ordem. Imaginou? Pois é lá o lugar!
+E de organização a **_<a href="http://www.organizesuavida.com.br/si/site/0000" target="_blank">OZ!</a>_** entende, sabia? Imagine um local onde você possa encontrar acessórios úteis para manter sua casa e sua vida em ordem. Imaginou? Pois é lá o lugar!
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Viu? Trata-se de um **_organizador de maquiagem em MDF, branco, com as seguintes
 
 Com ele você organiza tudo de forma prática, bonita e com charme. E, oh! Deixe tudo no seu guarda-roupas, _closet_ ou sobre uma cômoda. Enfim, no banheiro é que não pode ficar, porque a umidade e alteração de temperatura estragam seus produtos. Olha lá, _hein_?!
 
-Olha que legal! A **_OZ!_** liberou um **_desconto de 30%_** para as leitoras do Bicha Fêmea na compra do organizador de maquiagem Styllus. Arrasou! Está interessada? Então acesse o produto na loja virtual através[**_ deste link_** ](http://www.lojaoz.com.br/sistema/ListaProdutos.asp?IDLoja=6809&Det=True&IDProduto=2179704&q=Organizador+de+Maquiagem+Styllus&1ST=1&Y=5344858911964) e use o código **_bicho_femea_** no campo “Cupom de Desconto”. A promoção é válida somente até 10/08/10. Aproveite!!
+Olha que legal! A **_OZ!_** liberou um **_desconto de 30%_** para as leitoras do Bicha Fêmea na compra do organizador de maquiagem Styllus. Arrasou! Está interessada? Então acesse o produto na loja virtual através<a href="http://www.lojaoz.com.br/sistema/ListaProdutos.asp?IDLoja=6809&Det=True&IDProduto=2179704&q=Organizador+de+Maquiagem+Styllus&1ST=1&Y=5344858911964" target="_blank"><strong><em> deste link</em></strong> </a>e use o código **_bicho_femea_** no campo “Cupom de Desconto”. A promoção é válida somente até 10/08/10. Aproveite!!
 
 Para participar do sorteio é bem simples, como tem que ser e tem sido desde sempre no Bicha Fêmea: **_deixe uma mensagem neste post, preechendo o formulário de comentário com um endereço de e-mail válido_**. Se você for a sorteada, entrarei em contato pelo e-mail e, num **_prazo de uma semana_**, **_se eu não receber resposta_**, **_faço novo sorteio_**. Ah! Seu **_endereço de entrega precisa ser em território brasileiro_**, _tá_?!
 
@@ -47,5 +47,5 @@ As inscrições vão de hoje, 19 de Julho, **_até o dia 30 de Julho_**. A sortu
 Valendo!!
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2702
 title: Como você vive e aproveita os fins de semana?
-
-author: Lidiane
+date: 2009-08-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/08/21/vivendo-fim-de-semana/
 permalink: /2009/08/21/vivendo-fim-de-semana/
@@ -31,6 +31,6 @@ Na maioria das vezes não encaramos isso com a lucidez, essa é uma boa hora, _h
 
 Vivamos nossas vidas, sejamos gratos e, clichês a parte, tem um monte de coisas nessa vida que são mesmo uma besteira sem tamanho&#8230; o importante é estar vivo, dia após dia&#8230;
 
-Ah! Sugiro a leitura [deste post](http://patriciapirota.blogspot.com/2009/08/viver-e-nao-ter-vergonha-de-ser-feliz.html) , no mínimo inquietante, da Patrícia Pirota, do blog “[Ainda MininaMá](http://www.patriciapirota.blogspot.com/) ”. É para alimentar a alma, é para colorir a vida, e tudo vai começar a fazer sentido…
+Ah! Sugiro a leitura <a href="http://patriciapirota.blogspot.com/2009/08/viver-e-nao-ter-vergonha-de-ser-feliz.html" target="_blank">deste post</a>, no mínimo inquietante, da Patrícia Pirota, do blog “<a href="http://www.patriciapirota.blogspot.com/" target="_blank">Ainda MininaMá</a>”. É para alimentar a alma, é para colorir a vida, e tudo vai começar a fazer sentido…
 
 Bom fim de semana!!

@@ -1,8 +1,8 @@
 ---
-
+id: 2701
 title: 'De repente você acorda e toma um susto: você é mãe!'
-
-author: Lidiane
+date: 2009-08-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/08/20/maternidade/
 permalink: /2009/08/20/maternidade/
@@ -19,7 +19,7 @@ Flávia é dona do blog “Casa da Flá”, um espaço que encanta os olhos logo
 
 O post que Flávia quis mostrar no Bicha é de uma delicadeza ímpar, tudo o que é dito parece ser mesmo próprio de uma alma feminina, e ouso dizer que você vai, sim, se emocionar. Posso falar? Me arrepiei, sorri de um canto a outro do rosto,  enternecida e tocada pelo que li. Só eu sou boba assim? Será? …hummmm…me conta depois?[<img style="display: inline;" title="EmoticonShy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonshy_thumb2.gif" alt="EmoticonShy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/08/emoticonshy2.gif)
 
-**_Por Flávia Zocoler – [Casa da Flá](http://www.acasadafla.blogspot.com/) _**
+**_Por Flávia Zocoler – <a href="http://www.acasadafla.blogspot.com/" target="_blank">Casa da Flá</a>_**
 
 O que escrever para as “mulheres bonitas e de comportamento elegante; inteligentes e do bem; com boas ideias e bom papo” que frequentam esta casa tão acolhedora?
 
@@ -71,7 +71,7 @@ E você pára mais uma vez. Tem a certeza de que é absurdamente feliz e que os 
 
 Bjsss carinhosos a todas as bichas fêmeas!
 
-[Flávia Zocoler](http://www.acasadafla.blogspot.com/) 
+<a href="http://www.acasadafla.blogspot.com/" target="_blank">Flávia Zocoler</a>
 
 **Mais sobre maternidade no Bicha Fêmea&#8230;**
 

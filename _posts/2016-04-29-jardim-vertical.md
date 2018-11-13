@@ -1,8 +1,8 @@
 ---
-
+id: 3599
 title: 2 imagens revelam ótimas ideias de jardim vertical.
-
-author: Lidiane
+date: 2016-04-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/04/29/jardim-vertical/
 permalink: /2016/04/29/jardim-vertical/
@@ -18,11 +18,11 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  [**Tem jardim na casa da Margaret? Ô… se tem!**](http://www.trololodemulher.com.br/2012/01/04/jardim-casa-margaret/) 
+  <a href="http://www.trololodemulher.com.br/2012/01/04/jardim-casa-margaret/" target="_blank"><strong>Tem jardim na casa da Margaret? Ô… se tem!</strong></a>
 </p>
 
 <p align="justify">
@@ -34,15 +34,15 @@ categories:
 </p>
 
 <p align="justify">
-  Tem um marceneiro _show_ de bola que põe em prática suas ideias? Escolha vasinhos com tamanho padronizado e peça que ele faça furos em prateleiras no diâmetro perfeito para acomodá-los. Coloque suas prateleiras na parede de modo convencional ou assim, presas por cordas, como sugere a imagem… e pronto! Está aí um jardim vertical diferente e cheio de estilo. Ah! Já pensou se os vasos fossem pintados? Fica a dica.
+  Tem um marceneiro <em>show</em> de bola que põe em prática suas ideias? Escolha vasinhos com tamanho padronizado e peça que ele faça furos em prateleiras no diâmetro perfeito para acomodá-los. Coloque suas prateleiras na parede de modo convencional ou assim, presas por cordas, como sugere a imagem… e pronto! Está aí um jardim vertical diferente e cheio de estilo. Ah! Já pensou se os vasos fossem pintados? Fica a dica.
 </p>
 
 <p align="justify">
-  Imagens[1] [Vintage Revivals](http://www.vintagerevivals.com/)  e [2] [Brit + Co](https://www.brit.co/) 
+  Imagens[1] <a href="http://www.vintagerevivals.com/" target="_blank">Vintage Revivals</a> e [2] <a href="https://www.brit.co/" target="_blank">Brit + Co</a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

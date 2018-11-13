@@ -1,8 +1,8 @@
 ---
-
+id: 2962
 title: Adoção, sim ou não?!
-
-author: Lidiane
+date: 2011-03-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/03/03/adocao-sim-ou-nao/
 permalink: /2011/03/03/adocao-sim-ou-nao/
@@ -52,7 +52,7 @@ Já ouvi muitas pessoas falarem que: criança adotiva dá muito trabalho quando 
 </p>
 
 <p style="text-align: justify;">
-  **Atualização&#8230;**
+  <strong>Atualização&#8230;</strong>
 </p>
 
 <p style="text-align: justify;">
@@ -67,7 +67,7 @@ Já ouvi muitas pessoas falarem que: criança adotiva dá muito trabalho quando 
   <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/03/adocao20001.pdf">adoção20001</a>
 </p>
 
-_Imagens:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagens:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
@@ -78,7 +78,7 @@ _Imagens:_ [_stock.xchng_](http://www.sxc.hu/)
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
-      _**<br /> Simone Cotrufo França**, Engenheira de Produção Química, atuou vários anos na indústria química e petroquímica e em empresa de consultoria para o ramo automotivo. Hoje, juntamente com outros sócios, é proprietária das marcas Espaço Home e Pura Tendência,  com as quais busca alcançar o ideal de Organizar sua vida com Estilo proporcionando qualidade de vida e beleza. Simone é uma das editoras do blog _[_Organização com Estilo_](http://newsespacohome.blogspot.com/) _._ 
+      <em><strong><br /> Simone Cotrufo França</strong>, Engenheira de Produção Química, atuou vários anos na indústria química e petroquímica e em empresa de consultoria para o ramo automotivo. Hoje, juntamente com outros sócios, é proprietária das marcas Espaço Home e Pura Tendência,  com as quais busca alcançar o ideal de Organizar sua vida com Estilo proporcionando qualidade de vida e beleza. Simone é uma das editoras do blog </em><a href="http://newsespacohome.blogspot.com/" target="_blank"><em>Organização com Estilo</em></a><em>.</em> 
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ _Imagens:_ [_stock.xchng_](http://www.sxc.hu/)
  
 
 <p style="text-align: center;">
-  Faça como a **Simone**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
+  Faça como a <strong>Simone</strong>, e envie <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em></strong> para o <strong>Bicha Fêmea</strong>!
 </p>
 
 <p style="text-align: center;">
@@ -94,17 +94,17 @@ _Imagens:_ [_stock.xchng_](http://www.sxc.hu/)
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>

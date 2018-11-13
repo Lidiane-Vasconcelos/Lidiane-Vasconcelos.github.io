@@ -1,8 +1,8 @@
 ---
-
+id: 3573
 title: 'Lâmpadas LED: você conhece as vantagens?'
-
-author: Lidiane
+date: 2016-03-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/03/29/lampadas-led/
 permalink: /2016/03/29/lampadas-led/
@@ -22,51 +22,51 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Ryan McGuire](http://www.laughandpee.com/)  via [Gratisography](http://www.gratisography.com/#all) 
+  Imagem: <a href="http://www.laughandpee.com/" target="_blank">Ryan McGuire</a> via <a href="http://www.gratisography.com/#all" target="_blank">Gratisography</a>
 </p>
 
 <p align="justify">
-  Ficou animada para deixar seu bolso mais aliviado com a economia na conta da energia elétrica? Pudera! Eu também ficaria. Quando você decidir que é hora de realizar a troca de suas lâmpadas em casa, saiba que essa substituição será bastante simples: a voltagem que ela necessita é a mesma utilizada para a iluminação convencional ou bivolt, e não será necessário substituir sua fiação, soquete e disjuntor. Boa notícia, hein? Quer mais? É bom que você saiba: a lâmpada **LED** não precisa de descarte especial, pois não possui metais pesados em sua composição, o que reduz custos na gestão de descarte em relação à lâmpada fluorescente, que contém mercúrio e pode causar sérios riscos ambientais. A natureza agradece, e a saúde de todos nós também.
+  Ficou animada para deixar seu bolso mais aliviado com a economia na conta da energia elétrica? Pudera! Eu também ficaria. Quando você decidir que é hora de realizar a troca de suas lâmpadas em casa, saiba que essa substituição será bastante simples: a voltagem que ela necessita é a mesma utilizada para a iluminação convencional ou bivolt, e não será necessário substituir sua fiação, soquete e disjuntor. Boa notícia, hein? Quer mais? É bom que você saiba: a lâmpada <strong>LED</strong> não precisa de descarte especial, pois não possui metais pesados em sua composição, o que reduz custos na gestão de descarte em relação à lâmpada fluorescente, que contém mercúrio e pode causar sérios riscos ambientais. A natureza agradece, e a saúde de todos nós também.
 </p>
 
 <p align="justify">
-  **Saiba mais benefícios para a saúde e bem-estar:**
+  <strong>Saiba mais benefícios para a saúde e bem-estar:</strong>
 </p>
 
 <p align="justify">
-  > O **LED** não emite raios Infra Vermelho e Ultra Violeta no feixe de luz, assim não prejudica a pele.
+  > O <strong>LED</strong> não emite raios Infra Vermelho e Ultra Violeta no feixe de luz, assim não prejudica a pele.
 </p>
 
 <p align="justify">
-  > O **LED** possui resistência térmica, portanto não gera calor;
+  > O <strong>LED</strong> possui resistência térmica, portanto não gera calor;
 </p>
 
 <p align="justify">
-  > O **LED** não atrai insetos;
+  > O <strong>LED</strong> não atrai insetos;
 </p>
 
 <p align="justify">
-  > O **LED** possui baixa voltagem de operação, assim não representa perigo para o instalador;
+  > O <strong>LED</strong> possui baixa voltagem de operação, assim não representa perigo para o instalador;
 </p>
 
 <p align="justify">
-  > A lâmpada **LED** é construída em policarbonatos (não quebra) evitando acidentes durante o manuseio;
+  > A lâmpada <strong>LED</strong> é construída em policarbonatos (não quebra) evitando acidentes durante o manuseio;
 </p>
 
 <p align="justify">
-  > A lâmpada de **LED** é 98% reciclável gerando menos resíduos para o meio ambiente;
+  > A lâmpada de <strong>LED</strong> é 98% reciclável gerando menos resíduos para o meio ambiente;
 </p>
 
 <p align="justify">
-  > O **LED** não possui risco de contato direto, por ser executado em baixa tensão, pode ser utilizado em ambientes úmidos ou até mesmo embaixo d’água, como em piscinas e banheiros, sem oferecer riscos de choque.
+  > O <strong>LED</strong> não possui risco de contato direto, por ser executado em baixa tensão, pode ser utilizado em ambientes úmidos ou até mesmo embaixo d’água, como em piscinas e banheiros, sem oferecer riscos de choque.
 </p>
 
 <p align="justify">
-  **Onde encontrar essa maravilha?**
+  <strong>Onde encontrar essa maravilha?</strong>
 </p>
 
 <p align="justify">
-  Essa é a melhor das notícias: esses produtos estão a um clique de você. A [loja virtual Euromabe](http://www.euromabe.com.br/)  é especializada em iluminação LED, e oferece produtos de qualidade. Com entrega para todo o Brasil, você pode facilitar a sua compra e garantir a economia que seu orçamento precisa, além de proporcionar o melhor para sua família. Além das lâmpadas que iluminam os espaços, você consegue aplicar esses produtos de modo a personalizar sua decoração. A <b>Fita LED, por exemplo, </b>é super flexível e conta com autoadesivos, tornando perfeita a aplicação em diversas situações, provocando uma iluminação charmosa e indireta no ambiente desejado, tais como:
+  Essa é a melhor das notícias: esses produtos estão a um clique de você. A <a href="http://www.euromabe.com.br/" target="_blank">loja virtual Euromabe</a> é especializada em iluminação LED, e oferece produtos de qualidade. Com entrega para todo o Brasil, você pode facilitar a sua compra e garantir a economia que seu orçamento precisa, além de proporcionar o melhor para sua família. Além das lâmpadas que iluminam os espaços, você consegue aplicar esses produtos de modo a personalizar sua decoração. A <b>Fita LED, por exemplo, </b>é super flexível e conta com autoadesivos, tornando perfeita a aplicação em diversas situações, provocando uma iluminação charmosa e indireta no ambiente desejado, tais como:
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ categories:
 </p>
 
 <p align="center">
-  O quarto pode ganhar _bossa_ se você aplicar a fita de LED na cabeceira da cama, como na imagem acima, mas também em gavetas do closet e nichos.
+  O quarto pode ganhar <em>bossa</em> se você aplicar a fita de LED na cabeceira da cama, como na imagem acima, mas também em gavetas do closet e nichos.
 </p>
 
 <p align="center">
@@ -130,11 +130,11 @@ categories:
 </p>
 
 <p align="justify">
-  Na [Euromabe](http://www.euromabe.com.br/)  há tudo o que você precisa para começar essa revolução na sua casa: paineis LED, refletores LED, [essas queridinhas que são as fitas LED](http://www.euromabe.com.br/fitas-led.html) , pendentes, arandelas e lâmpadas LED de todos os tipos. [Clique aqui e conheça a loja](http://www.euromabe.com.br/) ! Fique por dentro de todas as novidades sobre iluminação, descontos e dicas de decoração através da [fanpage da loja no Facebook](https://www.facebook.com/euromabe/) . Se jogue e curta!
+  Na <a href="http://www.euromabe.com.br/" target="_blank">Euromabe</a> há tudo o que você precisa para começar essa revolução na sua casa: paineis LED, refletores LED, <a href="http://www.euromabe.com.br/fitas-led.html" target="_blank">essas queridinhas que são as fitas LED</a>, pendentes, arandelas e lâmpadas LED de todos os tipos. <a href="http://www.euromabe.com.br/" target="_blank">Clique aqui e conheça a loja</a>! Fique por dentro de todas as novidades sobre iluminação, descontos e dicas de decoração através da <a href="https://www.facebook.com/euromabe/" target="_blank">fanpage da loja no Facebook</a>. Se jogue e curta!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

@@ -1,8 +1,8 @@
 ---
-
+id: 2724
 title: Minha Contribuição Pessoal Contra a Violência?
-
-author: Lidiane
+date: 2009-10-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/10/30/movimento-contra-violencia/
 permalink: /2009/10/30/movimento-contra-violencia/
@@ -33,10 +33,10 @@ Agir assim não parece uma boa estratégia para educar crianças, digo, pelo exe
 
 Essa tem sido minha insistente e constante forma pessoal de combater a violência ao meu redor. Sim, sei… precisamos de muito mais. Mas algo real precisa ser feito por mim e por você, certo? E é preciso começar de alguma forma…
 
-**_Este post faz parte da blogagem coletiva proposta pela Beta, editora do blog [Mix Cultural](http://www.mixdeinformacao.blogspot.com/) , cujo tema é: [O que podemos fazer de concreto para mudar este cenário de violência mundial? O que cada um pode fazer por sua cidade?](http://mixdeinformacao.blogspot.com/2009/10/precisamos-lutar-contra-violencia.html) _**
+**_Este post faz parte da blogagem coletiva proposta pela Beta, editora do blog <a href="http://www.mixdeinformacao.blogspot.com/" target="_blank">Mix Cultural</a>, cujo tema é: <a href="http://mixdeinformacao.blogspot.com/2009/10/precisamos-lutar-contra-violencia.html" target="_blank">O que podemos fazer de concreto para mudar este cenário de violência mundial? O que cada um pode fazer por sua cidade?</a>_**
 
-**_Quer participar? Para saber como e as datas, só clicar [aqui](http://mixdeinformacao.blogspot.com/2009/10/precisamos-lutar-contra-violencia.html) !_**
+**_Quer participar? Para saber como e as datas, só clicar <a href="http://mixdeinformacao.blogspot.com/2009/10/precisamos-lutar-contra-violencia.html" target="_blank">aqui</a>!_**
 
-Quer se Inspirar mais? Que tal dar uma olhada no site [Gentileza.net](http://www.gentileza.net/) ?
+Quer se Inspirar mais? Que tal dar uma olhada no site <a href="http://www.gentileza.net/" target="_blank">Gentileza.net</a>?
 
 Tenha um excelente e gentil feriadão, bonita!

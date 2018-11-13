@@ -1,8 +1,8 @@
 ---
-
+id: 2711
 title: Cheiros domésticos trazem bem-estar?
-
-author: Lidiane
+date: 2009-10-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/10/02/cheiros-domesticos/
 permalink: /2009/10/02/cheiros-domesticos/
@@ -11,7 +11,7 @@ categories:
   - Rotina da Casa
   - Sem categoria
 ---
-Fiquei por aqui pensando nos aromas de uma casa e o que eles podem fazer por nossa alma depois que li e comentei no [post da Karol, que falava do perfume do coentro no bacucu](http://adonadomundo.blogspot.com/2009/09/do-meu-gosto-pela-simplicidade-e-pelo.html) , no blog [A DONA DO MUNDO.](http://adonadomundo.blogspot.com/) 
+Fiquei por aqui pensando nos aromas de uma casa e o que eles podem fazer por nossa alma depois que li e comentei no <a href="http://adonadomundo.blogspot.com/2009/09/do-meu-gosto-pela-simplicidade-e-pelo.html" target="_blank">post da Karol, que falava do perfume do coentro no bacucu</a>, no blog <a href="http://adonadomundo.blogspot.com/" target="_blank">A DONA DO MUNDO.</a>
 
 <p style="text-align: justify;">
   Fiquei pensando&#8230;
@@ -41,7 +41,7 @@ Fiquei por aqui pensando nos aromas de uma casa e o que eles podem fazer por nos
   Cheiro bom é o que leva a gente longe, e até faz a garganta dar um nó, numa precipitação de lágrimas, daquelas de saudade&#8230;
 </p>
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 **Mais no Bicha Fêmea&#8230;**
 

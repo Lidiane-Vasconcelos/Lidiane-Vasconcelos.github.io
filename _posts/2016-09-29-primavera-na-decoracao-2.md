@@ -1,8 +1,8 @@
 ---
-
+id: 3676
 title: 'Primavera na decoração: duas dicas adicionais.'
-
-author: Lidiane
+date: 2016-09-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/09/29/primavera-na-decoracao-2/
 permalink: /2016/09/29/primavera-na-decoracao-2/
@@ -11,7 +11,7 @@ categories:
   - Dicas de Decoração
 ---
 <p style="text-align: justify;">
-  Esta semana foi publicado aqui um post sobre **como colocar a Primavera na decoração, isso com 10 truques**. Você viu? Se não, [corre e clica aqui](http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/) &#8230; foi sucesso de audiência! Hoje trago duas dicas belas, inspiradoras e adicionais para o seu arsenal de ideias, tudo para trazer o frescor da estação das flores para o seu lar.
+  Esta semana foi publicado aqui um post sobre <strong>como colocar a Primavera na decoração, isso com 10 truques</strong>. Você viu? Se não, <a href="http://www.trololodemulher.com.br/2016/09/26/primavera-na-decoracao/" target="_blank">corre e clica aqui</a>&#8230; foi sucesso de audiência! Hoje trago duas dicas belas, inspiradoras e adicionais para o seu arsenal de ideias, tudo para trazer o frescor da estação das flores para o seu lar.
 </p>
 
 <p style="text-align: justify;">
@@ -48,10 +48,10 @@ categories:
 
 &nbsp;
 
-Imagens: **_[Shelterness](http://www.shelterness.com/) _**
+Imagens: **_<a href="http://www.shelterness.com/" target="_blank">Shelterness</a>_**
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

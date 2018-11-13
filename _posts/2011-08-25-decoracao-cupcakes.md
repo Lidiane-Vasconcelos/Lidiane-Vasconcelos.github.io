@@ -1,8 +1,8 @@
 ---
-
+id: 3041
 title: Post altamente indicado para loucos por decoração…com cupcakes!
-
-author: Lidiane
+date: 2011-08-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/08/25/decoracao-cupcakes/
 permalink: /2011/08/25/decoracao-cupcakes/
@@ -20,25 +20,25 @@ Você costuma clicar de blog em blog vendo _belezuras_ decorativas com _cupcakes
 <!--more-->
 
 <p align="center">
-  [DGBurns](http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cupcake.jpg"><img class="alignnone size-full wp-image-6827" title="cupcake" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cupcake.jpg" alt="" width="600" height="558" /><br /> </a>Imagem:** <a href="http://www.sxc.hu/profile/DGBurns) ** via **[Stock.xchng](http://www.sxc.hu/) **
+  <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cupcake.jpg"><img class="alignnone size-full wp-image-6827" title="cupcake" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/cupcake.jpg" alt="" width="600" height="558" /><br /> </a>Imagem:<strong> <a href="http://www.sxc.hu/profile/DGBurns" target="_blank">DGBurns</a></strong> via <strong><a href="http://www.sxc.hu/" target="_blank">Stock.xchng</a></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Na verdade, quero te levar comigo para outro lugar, onde **só se fala em Decoração**. Vem comigo por **[aqui](http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/) **, mas cuidado para não morrer de amores  >>> **[clica](http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/) ** que já te conto!
+  Na verdade, quero te levar comigo para outro lugar, onde <strong>só se fala em Decoração</strong>. Vem comigo por <strong><a href="http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/" target="_blank">aqui</a></strong>, mas cuidado para não morrer de amores  >>> <strong><a href="http://www.decoracaodacasa.com/estudio-cereja-para-sua-casa/" target="_blank">clica</a></strong> que já te conto!
 </p>
 
 &nbsp;
 
 <p align="center">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>
 
 <p align="center">
-  **<a href="http://twitter.com/#!/bichafemea">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157">Facebook</a>**
+  <strong><a href="http://twitter.com/#!/bichafemea">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157">Facebook</a></strong>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3243
 title: Comer á mesa em cadeiras coloridas é mais divertido?
-
-author: Lidiane
+date: 2013-07-31T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/07/31/decoracao-mesa-cadeiras/
 permalink: /2013/07/31/decoracao-mesa-cadeiras/
@@ -14,7 +14,7 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
 &nbsp;
 
 <p align="justify">
-  Seu estilo pede cores aliadas aos sabores á mesa? Então repara só na seleção de ambientes garimpados no **_[homedit](http://www.homedit.com/) _** que eu trouxe para você. Tudo simples, radiante e alegre, oh: só vendo! Se joga e se inspira, bonita!
+  Seu estilo pede cores aliadas aos sabores á mesa? Então repara só na seleção de ambientes garimpados no <strong><em><a href="http://www.homedit.com/" target="_blank">homedit</a></em></strong> que eu trouxe para você. Tudo simples, radiante e alegre, oh: só vendo! Se joga e se inspira, bonita!
 </p>
 
 <!--more-->
@@ -36,19 +36,19 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
 </p>
 
 <p align="center">
-  <span style="font-size: large;">Muito mais sobre **Salas | Mesas e Cadeiras** para você… **<a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">clique aqui</a>**!!!</span>
+  <span style="font-size: large;">Muito mais sobre <strong>Salas | Mesas e Cadeiras</strong> para você… <strong><a href="http://www.trololodemulher.com.br/category/decoracao/salas-hall/">clique aqui</a></strong>!!!</span>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -57,13 +57,13 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -72,9 +72,9 @@ Minha mesa não tem cadeiras coloridas, então não sei exatamente qual a sensa�
 &nbsp;
 
 <p align="center">
-  **Vamos manter contato?**
+  <strong>Vamos manter contato?</strong>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>

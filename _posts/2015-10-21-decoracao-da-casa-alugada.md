@@ -1,8 +1,8 @@
 ---
-
+id: 3500
 title: 'Decoração da casa alugada: ideias temporárias'
-
-author: Lidiane
+date: 2015-10-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/10/21/decoracao-da-casa-alugada/
 permalink: /2015/10/21/decoracao-da-casa-alugada/
@@ -10,11 +10,11 @@ categories:
   - Dicas de Decoração
 ---
 <p align="justify">
-  O desafio de quem está temporariamente num imóvel é fazer dele um lar pra chamar de seu. Se a estada nesse cantinho vai demorar bastante ou será bem rápida, não importa. Quando a gente volta pra casa quer se sentir acolhido, e isso inclui olhar para o ninho e sentir que ele é seu, porque te representa, porque tem nele sua identidade. Pois então: como colocar mais de você na **decoração da casa alugada**? Este post foi pensado com carinho para te dar algumas dicas nesse sentido. Veja logo abaixo que tem jeito, sim. Ainda que temporária, a casa é sua, e é bom que tenha a sua essência nela. Vamos ás ideias? Inspire-se!
+  O desafio de quem está temporariamente num imóvel é fazer dele um lar pra chamar de seu. Se a estada nesse cantinho vai demorar bastante ou será bem rápida, não importa. Quando a gente volta pra casa quer se sentir acolhido, e isso inclui olhar para o ninho e sentir que ele é seu, porque te representa, porque tem nele sua identidade. Pois então: como colocar mais de você na <strong>decoração da casa alugada</strong>? Este post foi pensado com carinho para te dar algumas dicas nesse sentido. Veja logo abaixo que tem jeito, sim. Ainda que temporária, a casa é sua, e é bom que tenha a sua essência nela. Vamos ás ideias? Inspire-se!
 </p>
 
 <p align="justify">
-  **Adesivos de parede**
+  <strong>Adesivos de parede</strong>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa Abril](http://casa.abril.com.br/) 
+  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Belas cortinas**
+  <strong>Belas cortinas</strong>
 </p>
 
 <p align="center">
@@ -38,15 +38,15 @@ categories:
 </p>
 
 <p align="center">
-  Via [Blancheporte](http://www.blancheporte.fr/) 
+  Via <a href="http://www.blancheporte.fr/" target="_blank">Blancheporte</a>
 </p>
 
 <p align="justify">
-  Toda casa precisa se vestir, e isso se faz com cortinas! [Escolha cortinas](http://www.decoracaodacasa.com/cortinas-como-escolher/)  lindas de viver e vista o seu lar. Quando partir, tire-as e leve com você. Simples assim.
+  Toda casa precisa se vestir, e isso se faz com cortinas! <a href="http://www.decoracaodacasa.com/cortinas-como-escolher/" target="_blank">Escolha cortinas</a> lindas de viver e vista o seu lar. Quando partir, tire-as e leve com você. Simples assim.
 </p>
 
 <p align="justify">
-  **Tapete**
+  <strong>Tapete</strong>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Medo da Pressa](http://medodapressa.com.br/casa-de-pinterest-5/) 
+  Via <a href="http://medodapressa.com.br/casa-de-pinterest-5/" target="_blank">Medo da Pressa</a>
 </p>
 
 <p align="justify">
@@ -62,7 +62,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Adesivos na cozinha**
+  <strong>Adesivos na cozinha</strong>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa Abril](http://casa.abril.com.br/) 
+  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
 </p>
 
 <p align="justify">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Invista nos objetos**
+  <strong>Invista nos objetos</strong>
 </p>
 
 <p align="center">
@@ -86,27 +86,27 @@ categories:
 </p>
 
 <p align="center">
-  Via [Liraby](http://www.liraby.com/) 
+  Via <a href="http://www.liraby.com/" target="_blank">Liraby</a>
 </p>
 
 <p align="justify">
-  Você poderá sempre pincelar sua casa com detalhes cheios de encanto: vaso com flores, luminárias de chão, quadros que você possa apenas enconstar em cantinhos de móveis ou na cozinha, espelhos que também possam ser encostados, etc. Busque inspiração sobre como decorar a casa com detalhes cheios de _bossa_ e charme, e invista nisso. O custo pode ser bem baixo, mas o resultado é puro amor e pode transformar não apenas o ambiente, mas seu interior. Isso é festa para os olhos e coração, viu?
+  Você poderá sempre pincelar sua casa com detalhes cheios de encanto: vaso com flores, luminárias de chão, quadros que você possa apenas enconstar em cantinhos de móveis ou na cozinha, espelhos que também possam ser encostados, etc. Busque inspiração sobre como decorar a casa com detalhes cheios de <em>bossa</em> e charme, e invista nisso. O custo pode ser bem baixo, mas o resultado é puro amor e pode transformar não apenas o ambiente, mas seu interior. Isso é festa para os olhos e coração, viu?
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Primavera na decoração: 10 truques simples.**](http://www.decoracaodacasa.com/primavera-na-decoracao/) 
+  <a href="http://www.decoracaodacasa.com/primavera-na-decoracao/" target="_blank"><strong>Primavera na decoração: 10 truques simples.</strong></a>
 </p>
 
 <p align="justify">
-  [**Download grátis: decora a cozinha com quadro de frutas.**](http://www.decoracaodacasa.com/decoracao-parede-cozinha/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-parede-cozinha/" target="_blank"><strong>Download grátis: decora a cozinha com quadro de frutas.</strong></a>
 </p>
 
 <p align="justify">
-  **Pinceladas de cor**
+  <strong>Pinceladas de cor</strong>
 </p>
 
 <p align="center">
@@ -114,15 +114,15 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa Abril](http://casa.abril.com.br/) 
+  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
 </p>
 
 <p align="justify">
-  Em geral quando você aluga uma casa ela vem toda pintadinha de branco, certo? E você deve entregar o imóvel da mesma forma. Se você não quer fazer o investimento na pintura de paredes, para depois ter que refazer tudo, uma boa saída é investir em _pitadinhas_ de cores. Numa loja de decoração você pode encontrar tudo o que precisa: [almofadas coloridas para decorar um sofá neutro](http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/) , ornamentos, _puffs_ e demais objetos. O bom disso tudo é que quando mudar, você também levará o que comprou com você para fazer graça no próximo porto seguro. Fica a dica e a inspiração.
+  Em geral quando você aluga uma casa ela vem toda pintadinha de branco, certo? E você deve entregar o imóvel da mesma forma. Se você não quer fazer o investimento na pintura de paredes, para depois ter que refazer tudo, uma boa saída é investir em <em>pitadinhas</em> de cores. Numa loja de decoração você pode encontrar tudo o que precisa: <a href="http://www.trololodemulher.com.br/2013/08/02/sofa-almofada-sala-estar/" target="_blank">almofadas coloridas para decorar um sofá neutro</a>, ornamentos, <em>puffs</em> e demais objetos. O bom disso tudo é que quando mudar, você também levará o que comprou com você para fazer graça no próximo porto seguro. Fica a dica e a inspiração.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

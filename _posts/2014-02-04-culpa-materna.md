@@ -1,8 +1,8 @@
 ---
-
+id: 3278
 title: Culpa materna na consciência da outra é refresco. Liberte-se!
-
-author: Lidiane
+date: 2014-02-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/02/04/culpa-materna/
 permalink: /2014/02/04/culpa-materna/
@@ -23,7 +23,7 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
 <!--more-->
 
 <p style="text-align: justify;">
-  Sim, eu acho muito triste. Eu me deparei com essa constatação não faz muito tempo, já que sou mãe há 1 ano, do meu amado Artur. Observe: há campanhas, especialistas e bandeiras levantadas, aos montes, dizendo  que a gente TEM QUE fazer assim ou assado; há uma guerra materna, com mães entrincheiradas esperando para apontar o dedo tão logo percebam que aquela outra fez ERRADO o que elas DETERMINARAM que DEVERIA ser feito de outro jeito. _Ufa_! Quem não fica confusa, sentindo-se questionada o tempo todo e massacrada? O resultado disso é angústia, e mais angústia, culpa, e mais culpa. E é sempre assim, a ladainha se repete se você amamenta o seu filho por 1 ano ou mais, ou ainda se tentou amamentar mas não conseguiu. Se você é uma mãe que trabalha fora, então? Ah! Mas se você é mãe em tempo integral também não escapa! Cuidado ao dizer que tem apenas 1 filho e sente-se feliz assim. Não! Não fale… também não diga que quer ter vários, pois você também não será compreendida.
+  Sim, eu acho muito triste. Eu me deparei com essa constatação não faz muito tempo, já que sou mãe há 1 ano, do meu amado Artur. Observe: há campanhas, especialistas e bandeiras levantadas, aos montes, dizendo  que a gente TEM QUE fazer assim ou assado; há uma guerra materna, com mães entrincheiradas esperando para apontar o dedo tão logo percebam que aquela outra fez ERRADO o que elas DETERMINARAM que DEVERIA ser feito de outro jeito. <em>Ufa</em>! Quem não fica confusa, sentindo-se questionada o tempo todo e massacrada? O resultado disso é angústia, e mais angústia, culpa, e mais culpa. E é sempre assim, a ladainha se repete se você amamenta o seu filho por 1 ano ou mais, ou ainda se tentou amamentar mas não conseguiu. Se você é uma mãe que trabalha fora, então? Ah! Mas se você é mãe em tempo integral também não escapa! Cuidado ao dizer que tem apenas 1 filho e sente-se feliz assim. Não! Não fale… também não diga que quer ter vários, pois você também não será compreendida.
 </p>
 
 &nbsp;
@@ -33,7 +33,7 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
 </p>
 
 <p style="text-align: center;">
-  Imagem: **_[stock.xchng](http://www.sxc.hu/) _**
+  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
@@ -49,35 +49,35 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Mais sobre maternidade:</span>**
+  <strong><span style="font-size: medium;">Mais sobre maternidade:</span></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/10/14/crianca-alimentacao/">**<span style="font-size: medium;">Lugar de criança é na cozinha?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/10/14/crianca-alimentacao/"><strong><span style="font-size: medium;">Lugar de criança é na cozinha?</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/">**<span style="font-size: medium;">Você amamentou? Tenho uma pergunta sobre rachaduras.</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/"><strong><span style="font-size: medium;">Você amamentou? Tenho uma pergunta sobre rachaduras.</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/">**<span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/"><strong><span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span></strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -88,13 +88,13 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -103,7 +103,7 @@ Se você é mãe, em algum momento já deve ter se sentido em um apedrejamento. 
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>
 
 &nbsp;

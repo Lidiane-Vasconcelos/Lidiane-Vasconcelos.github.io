@@ -1,8 +1,8 @@
 ---
-
+id: 2848
 title: 'Casamento durante o dia: o que vestir?'
-
-author: Lidiane
+date: 2010-07-23T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/07/23/casamento-dia-roupa/
 permalink: /2010/07/23/casamento-dia-roupa/
@@ -11,7 +11,7 @@ categories:
 ---
 Você já se fez essa pergunta? Qual mulher não se viu em apuros, com dúvidas sobre **_o que vestir para uma cerimônia de casamento durante o dia_**? Uma bicha fêmea navegante está exatamente com essa dúvida e pediu dicas por aqui…
 
-Sou uma blogueira _enxirida_ e _pitaqueira_, e nunca neguei essa condição… _cof cof cof_… imediatamente procurei me informar para ajudar a **Andrea**, que deu a ideia de pauta pelo Twitter **_[(me segue?),](http://twitter.com/bichafemea) _** e suas dicas nos comentários serão valiosas também. Não esqueça!
+Sou uma blogueira _enxirida_ e _pitaqueira_, e nunca neguei essa condição… _cof cof cof_… imediatamente procurei me informar para ajudar a **Andrea**, que deu a ideia de pauta pelo Twitter **_<a href="http://twitter.com/bichafemea" target="_blank">(me segue?),</a>_** e suas dicas nos comentários serão valiosas também. Não esqueça!
 
 <!--more-->
 
@@ -65,9 +65,9 @@ Muitas vezes no convite há a indicação do tipo de traje a ser vestido na ocas
 
 **Quer deixar sua dica? Mulher, não pense duas vezes! Corra nos comentários e dê seus _pitacos…_**
 
-Fontes: [Mulher Digital](http://www.mulher.palpitedigital.com.br/) , [O Nosso Casamento](http://onossocasamento.pt/) , [Portais da Moda](http://www.portaisdamoda.com.br/)  e [Style expert](http://www.styleexpert.co.uk/) .
+Fontes: <a href="http://www.mulher.palpitedigital.com.br/" target="_blank">Mulher Digital</a>, <a href="http://onossocasamento.pt/" target="_blank">O Nosso Casamento</a>, <a href="http://www.portaisdamoda.com.br/" target="_blank">Portais da Moda</a> e <a href="http://www.styleexpert.co.uk/" target="_blank">Style expert</a>.
 
-Imagens: [Marie Claire](http://www.marieclaire.com/) 
+Imagens: <a href="http://www.marieclaire.com/" target="_blank">Marie Claire</a>
 
 **Mais no Bicha Fêmea&#8230;**
 
@@ -76,5 +76,5 @@ Imagens: [Marie Claire](http://www.marieclaire.com/)
 **_<a href="http://www.trololodemulher.com.br/2009/02/27/regata-branca-basica/" target="_self">Regata branca, básica, versátil&#8230; e esquecida?</a>_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3309
 title: 'Luzinhas decorativas para casa ou festa: como fazer?'
-
-author: Lidiane
+date: 2014-06-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/06/20/luzinhas-decorativas/
 permalink: /2014/06/20/luzinhas-decorativas/
@@ -28,29 +28,29 @@ Sabe aquelas luzinhas de Natal tão amadas e item obrigatório na decoração na
 &nbsp;
 
 <p align="justify">
-  Essa é daquelas soluções que são pura fofurice, e o melhor: _superultramega_ fácil de fazer, viu? Tudo que você vai precisar é de chapeuzinhos de aniversário, tesoura, fita dupla-face, algo pontiagudo para fazer furinhos e as luzinhas que você já deve ter em casa, certo? No mais, siga o [passo a passo com imagens que está bem aqui](http://www.cremedelacraft.com/2012/07/diy-cafe-string-lights-from-birthday.html) , e divirta-se!
+  Essa é daquelas soluções que são pura fofurice, e o melhor: <em>superultramega</em> fácil de fazer, viu? Tudo que você vai precisar é de chapeuzinhos de aniversário, tesoura, fita dupla-face, algo pontiagudo para fazer furinhos e as luzinhas que você já deve ter em casa, certo? No mais, siga o <a href="http://www.cremedelacraft.com/2012/07/diy-cafe-string-lights-from-birthday.html" target="_blank">passo a passo com imagens que está bem aqui</a>, e divirta-se!
 </p>
 
 &nbsp;
 
 **Falando em projetinhos fáceis de executar:**
 
-[Baú vintage: faça você mesma.](http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/) 
+<a href="http://www.trololodemulher.com.br/2011/09/14/decoracao-faca-voce-mesma-4/" target="_blank">Baú vintage: faça você mesma.</a>
 
-[Decoração faça você mesma: luminárias de taça de vinho.](http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/) 
+<a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/" target="_blank">Decoração faça você mesma: luminárias de taça de vinho.</a>
 
-[Como fazer flores de papel colorido para dar bossa na decoração?](http://www.decoracaodacasa.com/flores-de-papel-decoracao/) 
+<a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank">Como fazer flores de papel colorido para dar bossa na decoração?</a>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -61,13 +61,13 @@ Sabe aquelas luzinhas de Natal tão amadas e item obrigatório na decoração na
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -76,5 +76,5 @@ Sabe aquelas luzinhas de Natal tão amadas e item obrigatório na decoração na
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" alt="BICHA FEMEA FACEBOOK" width="250" height="90" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3394
 title: É Carnaval… la laiá…
-
-author: Lidiane
+date: 2015-02-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/02/13/e-carnaval-la-laia/
 permalink: /2015/02/13/e-carnaval-la-laia/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  Brincar, sim, mas com juízo e prudência, _pelamor_!!!! Depois desses dias de festa, a vida continua, tudo recomeça, seus amores e sabores estarão aí, te esperando, e tenho certeza que você quer abraçar tudo o que ainda há de vir pela frente, certo? Você sabe bem, nós sabemos: bebida alcoólica e direção, jamais! Cuide de você e de quem você ama, sim?
+  Brincar, sim, mas com juízo e prudência, <em>pelamor</em>!!!! Depois desses dias de festa, a vida continua, tudo recomeça, seus amores e sabores estarão aí, te esperando, e tenho certeza que você quer abraçar tudo o que ainda há de vir pela frente, certo? Você sabe bem, nós sabemos: bebida alcoólica e direção, jamais! Cuide de você e de quem você ama, sim?
 </p>
 
 <p align="justify">
@@ -30,7 +30,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Carlos Meira](http://www.carlosmeirailustrador.blogspot.com.br/) 
+  Imagem: <a href="http://www.carlosmeirailustrador.blogspot.com.br/" target="_blank">Carlos Meira</a>
 </p>
 
 <p align="justify">
@@ -46,5 +46,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

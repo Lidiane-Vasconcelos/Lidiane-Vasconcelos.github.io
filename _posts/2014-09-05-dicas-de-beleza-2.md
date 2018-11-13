@@ -1,8 +1,8 @@
 ---
-
+id: 3339
 title: 4 segredos de beleza para aprender já!
-
-author: Lidiane
+date: 2014-09-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/09/05/dicas-de-beleza-2/
 permalink: /2014/09/05/dicas-de-beleza-2/
@@ -10,15 +10,15 @@ categories:
   - Beleza
 ---
 <p align="justify">
-  A gente quer ficar bonita no dia a dia sem complicações, não é verdade? O que a gente não se toca, muitas vezes, é que nem precisa de grandes feitos para conseguir isso. Com informação, se a gente for bem esperta, dá pra aprender truques e _trucões_, básicos e simples, que podem nos favorecer bastante. Pensando nisso, e nos dias quentes que virão, tirei minhas dúvidas com uma especialista.
+  A gente quer ficar bonita no dia a dia sem complicações, não é verdade? O que a gente não se toca, muitas vezes, é que nem precisa de grandes feitos para conseguir isso. Com informação, se a gente for bem esperta, dá pra aprender truques e <em>trucões</em>, básicos e simples, que podem nos favorecer bastante. Pensando nisso, e nos dias quentes que virão, tirei minhas dúvidas com uma especialista.
 </p>
 
 <p align="justify">
-  **Heidi Lanzelloti, maquiadora e instrutora de automaquiagem**, é a nossa consultora querida que nos dá dicas incríveis pra gente ficar toda bonitona, sem que isso seja uma tarefa cheia de pormenores pouco práticos. Foi ela quem respondeu minhas perguntas, e é o que te mostro já… vem!
+  <strong>Heidi Lanzelloti, maquiadora e instrutora de automaquiagem</strong>, é a nossa consultora querida que nos dá dicas incríveis pra gente ficar toda bonitona, sem que isso seja uma tarefa cheia de pormenores pouco práticos. Foi ela quem respondeu minhas perguntas, e é o que te mostro já… vem!
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">1 &#8211; Qual a estratégia certeira pra dar um up na hora, e sem demora, ao rosto?</span>**
+  <strong><span style="font-size: large;">1 &#8211; Qual a estratégia certeira pra dar um up na hora, e sem demora, ao rosto?</span></strong>
 </p>
 
 > <p align="justify">
@@ -26,15 +26,15 @@ categories:
 > </p>
 
 <p align="justify">
-  **Quer ficar por dentro dos BB Creams?**
+  <strong>Quer ficar por dentro dos BB Creams?</strong>
 </p>
 
 <p align="justify">
-  [**BB cream ´pra cá, BB cream ´pra lá…**](http://www.trololodemulher.com.br/2013/07/22/bb-cream/) 
+  <a href="http://www.trololodemulher.com.br/2013/07/22/bb-cream/" target="_blank"><strong>BB cream ´pra cá, BB cream ´pra lá…</strong></a>
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">2 &#8211; Os dias quentes estão vindo (oba!): quais cores vamos ver com frequência nas bocas por aí?</span>**
+  <strong><span style="font-size: large;">2 &#8211; Os dias quentes estão vindo (oba!): quais cores vamos ver com frequência nas bocas por aí?</span></strong>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ categories:
 > </p>
 
 <p align="justify">
-  **<span style="font-size: large;">3 &#8211; Qual sua dica infalível para o batom durar mais na boca?</span>**
+  <strong><span style="font-size: large;">3 &#8211; Qual sua dica infalível para o batom durar mais na boca?</span></strong>
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [freeimages](http://www.freeimages.com/) 
+  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
 </p>
 
 <p align="justify">
@@ -62,15 +62,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Falando nisso:**
+  <strong>Falando nisso:</strong>
 </p>
 
 <p align="justify">
-  [**Você sabe tudo que precisa sobre batom?**](http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/) 
+  <a href="http://www.trololodemulher.com.br/2014/06/02/beleza-maquiagem-batom/" target="_blank"><strong>Você sabe tudo que precisa sobre batom?</strong></a>
 </p>
 
 <p align="justify">
-  **<span style="font-size: large;">4 &#8211; Lábios ressecados resultam num efeito craquelado no batom: como contornar esse problema?</span>**
+  <strong><span style="font-size: large;">4 &#8211; Lábios ressecados resultam num efeito craquelado no batom: como contornar esse problema?</span></strong>
 </p>
 
 > <p align="justify">
@@ -82,11 +82,11 @@ categories:
 </p>
 
 <p align="justify">
-  A **Heidi** é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio _cá_ com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via [perfil do Facebook](https://www.facebook.com/heidi.lanzellotti) **.** Vai lá!
+  A <strong>Heidi</strong> é uma bicha fêmea navegante superultramega antenada nas novidades e dicas relacionadas a maquiagem e afins… essas coisas que deixam a gente ainda mais bonita e todas nós amamos saber sempre um pouquinho mais. Como eu desconfio <em>cá</em> com meus botões que esse assunto te interessa bastante, basta ficar mais ppróxima dela, via <a href="https://www.facebook.com/heidi.lanzellotti" target="_blank">perfil do Facebook</a><strong>.</strong> Vai lá!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="justify">

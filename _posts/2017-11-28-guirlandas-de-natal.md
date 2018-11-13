@@ -1,8 +1,8 @@
 ---
-
+id: 3836
 title: '3 guirlandas de Natal diferentes e criativas: faça você mesma!'
-
-author: Lidiane
+date: 2017-11-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/11/28/guirlandas-de-natal/
 permalink: /2017/11/28/guirlandas-de-natal/
@@ -11,7 +11,7 @@ categories:
   - Natal
 ---
 <p align="justify">
-  **Guirlandas de Natal** na porta de casa é um clássico na decoração natalina,_ né_? Quando a gente pensa em como arrumar a casa para o período natalino, logo passa pela cabeça a pergunta: e a guirlanda? Pois bem: este post tem 3 ideias bem diferentes pra você dar uma espiadinha. Veja o comprove qual tem a sua cara.
+  <strong>Guirlandas de Natal</strong> na porta de casa é um clássico na decoração natalina,<em> né</em>? Quando a gente pensa em como arrumar a casa para o período natalino, logo passa pela cabeça a pergunta: e a guirlanda? Pois bem: este post tem 3 ideias bem diferentes pra você dar uma espiadinha. Veja o comprove qual tem a sua cara.
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Fios… pra que te quero?!</span>**
+  <strong><span style="font-size: large;">Fios… pra que te quero?!</span></strong>
 </p>
 
 &nbsp;
@@ -61,15 +61,15 @@ categories:
 &nbsp;
 
 <p align="left">
-  **E mais:**
+  <strong>E mais:</strong>
 </p>
 
 <p align="left">
-  **[Enfeites de Natal: você já sabe como decorar a mesa?](http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/) **
+  <strong><a href="http://www.trololodemulher.com.br/2010/11/15/enfeites-natal-mesa/" target="_blank">Enfeites de Natal: você já sabe como decorar a mesa?</a></strong>
 </p>
 
 <p align="center">
-  **<span style="font-size: large;">Natal colorido!</span>**
+  <strong><span style="font-size: large;">Natal colorido!</span></strong>
 </p>
 
 &nbsp;
@@ -86,16 +86,16 @@ categories:
 
 &nbsp;
 
-Imagens: [Better Homes and Gardens](http://www.bhg.com/) 
+Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 
 <p align="justify">
-  Veja também outros posts do **Trololó de Mulher** recheados de **dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos** que amamos. [**Clique aqui e confira**](http://www.trololodemulher.com.br/category/natal/) !
+  Veja também outros posts do <strong>Trololó de Mulher</strong> recheados de <strong>dicas para sua mesa de Natal, guirlandas e tantas outros detalhes natalinos</strong> que amamos. <a href="http://www.trololodemulher.com.br/category/natal/" target="_blank"><strong>Clique aqui e confira</strong></a>!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" />](http://loja.trololodemulher.com.br/) 
+  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14333 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER2.png" alt="LOJA TROLOLO DE MULHER[2]" width="561" height="143" /></a>
 </p>

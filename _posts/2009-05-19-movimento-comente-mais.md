@@ -1,15 +1,15 @@
 ---
-
+id: 2662
 title: Neste post você comenta??? :o
-
-author: Lidiane
+date: 2009-05-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/05/19/movimento-comente-mais/
 permalink: /2009/05/19/movimento-comente-mais/
 categories:
   - Trololó
 ---
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="media.photobucket.coma" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/media-photobucket-coma_thumb.jpg" border="0" alt="media.photobucket.coma" width="240" height="160" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/media-photobucket-coma.jpg) Ontem vi uma [promoção no blog “CRIATIVE-SE”](http://criativesse.blogspot.com/2009/05/quem-somos-nos-e-quem-e-voce.html)  onde a leitora das criativas corre o sério risco de ganhar uma caixa muito mimosa, e se eu fosse você correria lá para tentar também… mas faz isso depois de ler o meu post, _tá_?[<img style="display: inline;" title="EmoticonShy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonshy_thumb.gif" alt="EmoticonShy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonshy.gif)
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="media.photobucket.coma" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/media-photobucket-coma_thumb.jpg" border="0" alt="media.photobucket.coma" width="240" height="160" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/media-photobucket-coma.jpg) Ontem vi uma <a href="http://criativesse.blogspot.com/2009/05/quem-somos-nos-e-quem-e-voce.html" target="_blank">promoção no blog “CRIATIVE-SE”</a> onde a leitora das criativas corre o sério risco de ganhar uma caixa muito mimosa, e se eu fosse você correria lá para tentar também… mas faz isso depois de ler o meu post, _tá_?[<img style="display: inline;" title="EmoticonShy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonshy_thumb.gif" alt="EmoticonShy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonshy.gif)
 
 Sim, este post é TO-TAL-MEN-TE inspirado na promoção das meninas, mas eu não tenho caixa bonita para sortear. O que tenho é uma vontade enorme de saber quem é você que passa pelo Bicha, lê os posts, e vai embora “de fininho”…[<img style="display: inline;" title="EmoticonCrying" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticoncrying_thumb.gif" alt="EmoticonCrying" width="25" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticoncrying.gif)
 
@@ -33,11 +33,11 @@ Você não acha que estamos perdendo ótimas oportunidades de trocar figurinhas 
 
 <span style="color: #800080;">É que eu estou ansiosa para conhecer gente nova mesmo, que passa por aqui, vai embora, e eu nunca soube quem era&#8230; que triste!<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonsad.gif"><img style="display: inline;" title="EmoticonSad" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticonsad_thumb.gif" alt="EmoticonSad" width="18" height="18" /></a>  </span>
 
-<span style="color: #800080;">Fico arrasada! _Maaaassss_, se você der seu “ar da graça”, vou saber quem é você e o “trololó” no Bicha engrossa. Ô coisa boa! Não é de bate-papo que a gente gosta? Então _falaê_!!!!<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticoncool.gif"><img style="display: inline;" title="EmoticonCool" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticoncool_thumb.gif" alt="EmoticonCool" width="18" height="18" /></a> </span>
+<span style="color: #800080;">Fico arrasada! <em>Maaaassss</em>, se você der seu “ar da graça”, vou saber quem é você e o “trololó” no Bicha engrossa. Ô coisa boa! Não é de bate-papo que a gente gosta? Então <em>falaê</em>!!!!<a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticoncool.gif"><img style="display: inline;" title="EmoticonCool" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/05/emoticoncool_thumb.gif" alt="EmoticonCool" width="18" height="18" /></a> </span>
 
 <span style="color: #000080;">Atualizando II</span>
 
-<span style="color: #000080;">Olha só! A</span> [Claudia](http://www.sefossenaminhacasa.blogspot.com/)  <span style="color: #000080;">falou algo interessante:</span>
+<span style="color: #000080;">Olha só! A</span> <a href="http://www.sefossenaminhacasa.blogspot.com/" target="_blank">Claudia</a> <span style="color: #000080;">falou algo interessante:</span>
 
 <span style="color: #000080;">“Essa é uma pergunta que eu também me faço, como pode tanta gente passar pelo blog e ter tão pouco comentário, mas sei lá, vai entender o que se passa na cabeça dos nossos visitantes, né?</span>
 

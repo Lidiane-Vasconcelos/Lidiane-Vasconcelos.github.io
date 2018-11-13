@@ -1,8 +1,8 @@
 ---
-
+id: 3220
 title: 'Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!'
-
-author: Lidiane
+date: 2013-05-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2013/05/08/moveis-quarto/
 permalink: /2013/05/08/moveis-quarto/
@@ -10,7 +10,7 @@ categories:
   - Quarto
 ---
 <p style="text-align: justify;">
-  E esse improviso, pode acreditar, pode ficar bem interessante. Nesse post você verá três ideias garimpadas no site **_[homedit](http://www.homedit.com/)  _**que provam: não precisa ter muito dinheiro para montar sua casa. O que você precisa mesmo é criatividade e estilo. Você é dessas mulheres criativas e estilosas na decoração da casa?
+  E esse improviso, pode acreditar, pode ficar bem interessante. Nesse post você verá três ideias garimpadas no site <strong><em><a href="http://www.homedit.com/" target="_blank">homedit</a> </em></strong>que provam: não precisa ter muito dinheiro para montar sua casa. O que você precisa mesmo é criatividade e estilo. Você é dessas mulheres criativas e estilosas na decoração da casa?
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -36,5 +36,5 @@ categories:
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

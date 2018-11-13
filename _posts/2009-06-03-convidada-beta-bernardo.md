@@ -1,21 +1,21 @@
 ---
-
+id: 2672
 title: 'Bicha Fêmea Convidada: Beta Bernardo'
-
-author: Lidiane
+date: 2009-06-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/06/03/convidada-beta-bernardo/
 permalink: /2009/06/03/convidada-beta-bernardo/
 categories:
   - Sem categoria
 ---
-**_Por Beta Bernardo – [Criative-se](http://www.criativesse.blogspot.com/) _**
+**_Por Beta Bernardo – <a href="http://www.criativesse.blogspot.com/" target="_blank">Criative-se</a>_**
 
 Primeiro preciso registrar aqui a alegria que foi receber o convite da Lidiane pra ser convidada no Bicha Fêmea. E foi um misto de alegria e nervosismo, porque eu não podia fazer feio pro público do Bicha, né? Então começou a saga em busca do tema a ser trazido neste post. Queria algo novo, que eu não tivesse falado nem no meu blog pessoal nem no Criative-se. E lá o assunto mais frequente nas minhas postagens é fotografia. Nem tinha como ser diferente, né? Tô fazendo o curso, algo tão desejado e adiado, comprei minha câmera nova&#8230; também tão desejada e adiada. Sem contar que os eventos pra registrar dentro da família e na roda de amigos foram constantes nesses últimos tempos. Então, como não falar de fotografia aqui?? Tô respirando fotografia!!!
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="Foto by Beta Bernardo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/a0044_thumb.jpg" border="0" alt="Foto by Beta Bernardo" width="277" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/a0044.jpg)
 
-Foi então que resolvi gastar bem a massa cinzenta que Papai do Céu me deu e os neurônios em quantidade inferior a dos homens para pensar em um enfoque diferente pra esse post. Não tinha a menor graça ficar mostrando fotos minhas aqui. Ou foto dos outros. Isso qualquer blog tem. Agora, um post pro Bicha, escrito por uma [Criativa](http://www.criativesse.blogspot.com/) , tinha que ser mais, né? Então, tentei. E no meio de uma reunião de trabalho, responsável por registrar tudo que estava sendo deliberado lá e ainda participando ativamente da discussão de mudança ou não do escopo do projeto, foi que veio o insight pro post. A busca pelo prazer. E o que mais é a fotografia pra mim que não a busca pelo prazer, além de ser uma paixão de longa data?
+Foi então que resolvi gastar bem a massa cinzenta que Papai do Céu me deu e os neurônios em quantidade inferior a dos homens para pensar em um enfoque diferente pra esse post. Não tinha a menor graça ficar mostrando fotos minhas aqui. Ou foto dos outros. Isso qualquer blog tem. Agora, um post pro Bicha, escrito por uma <a href="http://www.criativesse.blogspot.com/" target="_blank">Criativa</a>, tinha que ser mais, né? Então, tentei. E no meio de uma reunião de trabalho, responsável por registrar tudo que estava sendo deliberado lá e ainda participando ativamente da discussão de mudança ou não do escopo do projeto, foi que veio o insight pro post. A busca pelo prazer. E o que mais é a fotografia pra mim que não a busca pelo prazer, além de ser uma paixão de longa data?
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="Foto by Beta Bernardo" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/orq_thumb.jpg" border="0" alt="Foto by Beta Bernardo" width="277" height="331" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/06/orq.jpg) E como o blog é Bicha fêmea precisamos contextualizar isso tudo que já disse aí em cima: fotografia, prazer e blog com nosso universo feminino. Vamos ver se eu consigo.
 

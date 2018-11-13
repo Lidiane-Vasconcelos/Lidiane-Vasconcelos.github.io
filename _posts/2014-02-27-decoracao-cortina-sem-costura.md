@@ -1,8 +1,8 @@
 ---
-
+id: 3282
 title: 'Decoração com cortina sem costura&#8230; e bem barata!'
-
-author: Lidiane
+date: 2014-02-27T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/02/27/decoracao-cortina-sem-costura/
 permalink: /2014/02/27/decoracao-cortina-sem-costura/
@@ -32,24 +32,24 @@ categories:
 
 &nbsp;
 
-Imagem: **_[Better Homes and Gardens](http://www.bhg.com/) _**
+Imagem: **_<a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>_**
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Muito mais para você:</span>**
+  <strong><span style="font-size: small;">Muito mais para você:</span></strong>
 </p>
 
 <p align="center">
-  **<a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/"><span style="font-size: small;">Dá para customizar uma cortina sem usar máquina de costura?</span></a>**
+  <strong><a href="http://www.trololodemulher.com.br/2012/07/18/cortina-decoracao/"><span style="font-size: small;">Dá para customizar uma cortina sem usar máquina de costura?</span></a></strong>
 </p>
 
 <p align="center">
-  **[<span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span>](http://www.decoracaodacasa.com/cortinas-ideias-decoracao/) **
+  <strong><a href="http://www.decoracaodacasa.com/cortinas-ideias-decoracao/" target="_blank"><span style="font-size: small;">Cortinas: 3 ideias para personalizar sua decoração</span></a></strong>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

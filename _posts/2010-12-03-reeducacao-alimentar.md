@@ -1,8 +1,8 @@
 ---
-
+id: 2920
 title: Colesterol alto? Invista na reeducação alimentar!
-
-author: Lidiane
+date: 2010-12-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/12/03/reeducacao-alimentar/
 permalink: /2010/12/03/reeducacao-alimentar/
@@ -22,7 +22,7 @@ Você foi ao médico verificar como anda sua saúde e descobriu que tem tendênc
 </p>
 
 <p style="text-align: justify;">
-  Consultei a **Dra. Kilza Miranda**, que é **Nutricionista** e responsável pelo site [Kilza Koch](http://kilzakoch.com.br/) . É ela quem dá dicas e orientações básicas para pessoas como você e eu, que querem fazer mudanças no hábito alimentar e usar isso como aliado definitivo na prevenção do aumento do colesterol ruim no organismo. É importante salientar, entretanto, que a consulta com um profissional jamais deve ser descartada, porque “_após avaliação nutricional com o nutricionista, será prescrito uma dieta individual específica para redução do colesterol_”, alerta a Dra. Kilza.
+  Consultei a <strong>Dra. Kilza Miranda</strong>, que é <strong>Nutricionista</strong> e responsável pelo site <a href="http://kilzakoch.com.br/" target="_blank">Kilza Koch</a>. É ela quem dá dicas e orientações básicas para pessoas como você e eu, que querem fazer mudanças no hábito alimentar e usar isso como aliado definitivo na prevenção do aumento do colesterol ruim no organismo. É importante salientar, entretanto, que a consulta com um profissional jamais deve ser descartada, porque “<em>após avaliação nutricional com o nutricionista, será prescrito uma dieta individual específica para redução do colesterol</em>”, alerta a Dra. Kilza.
 </p>
 
 <p style="text-align: center;">
@@ -30,20 +30,20 @@ Você foi ao médico verificar como anda sua saúde e descobriu que tem tendênc
 </p>
 
 <p style="text-align: justify;">
-  Uma boa estratégia para uma reeducação alimentar eficiente é prestar atenção nas escolhas que são feitas já na hora das compras. Quer sugestões de trocas saudáveis aprovadas pela **Dra. Kilza**? Olha só:
+  Uma boa estratégia para uma reeducação alimentar eficiente é prestar atenção nas escolhas que são feitas já na hora das compras. Quer sugestões de trocas saudáveis aprovadas pela <strong>Dra. Kilza</strong>? Olha só:
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top" width="300">
       <p style="text-align: center;">
-        **_EVITE_**
+        <strong><em>EVITE</em></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p style="text-align: center;">
-        **_PREFIRA_**
+        <strong><em>PREFIRA</em></strong>
       </p>
     </td>
   </tr>
@@ -162,7 +162,7 @@ Você foi ao médico verificar como anda sua saúde e descobriu que tem tendênc
 </table>
 
 <p style="text-align: justify;">
-  Você pode conferir outras sugestões de trocas saudáveis no [Kilza Koch](http://kilzakoch.com.br/) . Manter-se informada sobre o que pode ou não fazer bem a sua saúde pode contar pontos a favor. No intuito de prevenir o colesterol alto, muitas pessoas passam a usar azeite em tudo para substituir os demais óleos, inclusive aquecendo o produto. Eu já caí nessa armadilha. Essa prática faz mal, sabia? Segundo a **Dra. Kilza Miranda**, “_o azeite quando aquecido gera uma substância chamada acroelina, sendo cancerígena. Neste caso, o ideal é consumir na forma natural_”. Por isso, informar-se muito bem será sempre a melhor estratégia.
+  Você pode conferir outras sugestões de trocas saudáveis no <a href="http://kilzakoch.com.br/" target="_blank">Kilza Koch</a>. Manter-se informada sobre o que pode ou não fazer bem a sua saúde pode contar pontos a favor. No intuito de prevenir o colesterol alto, muitas pessoas passam a usar azeite em tudo para substituir os demais óleos, inclusive aquecendo o produto. Eu já caí nessa armadilha. Essa prática faz mal, sabia? Segundo a <strong>Dra. Kilza Miranda</strong>, “<em>o azeite quando aquecido gera uma substância chamada acroelina, sendo cancerígena. Neste caso, o ideal é consumir na forma natural</em>”. Por isso, informar-se muito bem será sempre a melhor estratégia.
 </p>
 
 <p style="text-align: justify;">
@@ -183,7 +183,7 @@ Você foi ao médico verificar como anda sua saúde e descobriu que tem tendênc
   * Faça uso das castanhas, nozes, amêndoas.
 </p>
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 **Mais no Bicha Fêmea…**
 
@@ -198,13 +198,13 @@ _Imagem:_ [_stock.xchng_](http://www.sxc.hu/)
 **_[Atitudes que garantem um vida mais saudável.](http://www.trololodemulher.com.br/2009/10/21/atitudes-vida-saudavel/)_**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/corpo/">**_Corpo_**</a>> **_<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a>_**> Colesterol alto? Invista na reeducação alimentar!
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/corpo/"><strong><em>Corpo</em></strong></a>> <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em></strong>> Colesterol alto? Invista na reeducação alimentar!
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>

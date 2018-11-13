@@ -1,8 +1,8 @@
 ---
-
+id: 3542
 title: 'Por uma lavanderia bonita e organizada: 8 dicas.'
-
-author: Lidiane
+date: 2016-02-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/02/16/lavanderia-bonita-e-organizada/
 permalink: /2016/02/16/lavanderia-bonita-e-organizada/
@@ -11,7 +11,7 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Ter uma **lavanderia bonita e organizada**, ou a área de serviço, como é chamada por muitos, não é nada do outro mundo. Pensar em suas necessidades diárias é básico e fundamental, porque é o ponto de partida para definir o que você precisa ter no espaço. A partir daí, é importante ficar atenta a imagens e inspirações que tratam das soluções de decoração e organização que atendem às necessidades que você elencou. Este post foi pensado para isso, isto é, para te mostrar referências sobre como deixar sua lavanderia na medida do que você deseja e precisa. Veja a seguir que, embora esse seja um espaço da casa de trabalho pesado, tê-lo bonito, bem organizado e funcional faz com que as tarefas do dia a dia pareçam até mais leves. Confere!
+  Ter uma <strong>lavanderia bonita e organizada</strong>, ou a área de serviço, como é chamada por muitos, não é nada do outro mundo. Pensar em suas necessidades diárias é básico e fundamental, porque é o ponto de partida para definir o que você precisa ter no espaço. A partir daí, é importante ficar atenta a imagens e inspirações que tratam das soluções de decoração e organização que atendem às necessidades que você elencou. Este post foi pensado para isso, isto é, para te mostrar referências sobre como deixar sua lavanderia na medida do que você deseja e precisa. Veja a seguir que, embora esse seja um espaço da casa de trabalho pesado, tê-lo bonito, bem organizado e funcional faz com que as tarefas do dia a dia pareçam até mais leves. Confere!
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@ categories:
 </p>
 
 <p align="center">
-  Via [Maria do Varal](http://mariadovaral.blogspot.com.br/) 
+  Via <a href="http://mariadovaral.blogspot.com.br/" target="_blank">Maria do Varal</a>
 </p>
 
 <p align="justify">
-  1 &#8211; Se a ideia é economizar e não instalar armários, é possível ter uma lavanderia _clean_ e bem organizada fazendo uso de prateleiras na parede. A verticalização do espaço permite que você use [caixas organizadoras](http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/) , tenha onde pendurar roupas e até fazer uma graça com objetos decorativos. O visual, ao final de tudo, ainda ganha uma _bossa_ de modernidade. Fica a dica.
+  1 &#8211; Se a ideia é economizar e não instalar armários, é possível ter uma lavanderia <em>clean</em> e bem organizada fazendo uso de prateleiras na parede. A verticalização do espaço permite que você use <a href="http://www.trololodemulher.com.br/2014/06/30/caixas-organizacao-casa/" target="_blank">caixas organizadoras</a>, tenha onde pendurar roupas e até fazer uma graça com objetos decorativos. O visual, ao final de tudo, ainda ganha uma <em>bossa</em> de modernidade. Fica a dica.
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Movelaria](https://www.movelaria.com.br/) 
+  Via <a href="https://www.movelaria.com.br/" target="_blank">Movelaria</a>
 </p>
 
 <p align="justify">
@@ -43,7 +43,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa Abril](http://casa.abril.com.br/) 
+  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Country Kitty](http://www.countrykittyland.com/2012/01/my-teeny-tiny-laundry-room.html) 
+  Via <a href="http://www.countrykittyland.com/2012/01/my-teeny-tiny-laundry-room.html" target="_blank">Country Kitty</a>
 </p>
 
 <p align="justify">
@@ -63,7 +63,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais dicas e sugestões:**
+  <strong>Mais dicas e sugestões:</strong>
 </p>
 
 <p align="justify">
@@ -75,7 +75,7 @@ categories:
 </p>
 
 <p align="justify">
-  7 – Onde e como você vai guardar sua tábua de passar roupas? Você pode colocar uma [tábua retrátil](http://www.trololodemulher.com.br/2010/06/18/tabua-passar-roupa-retratil/)  ou ainda planejar um local para guardá-la no armário. Procure por ganchos adequados para pendurá-la num cantinho de parede. Não esqueça desse detalhe, caso contrário você terá um _trambolho_ sendo levado pra lá e pra cá. Fica a dica.
+  7 – Onde e como você vai guardar sua tábua de passar roupas? Você pode colocar uma <a href="http://www.trololodemulher.com.br/2010/06/18/tabua-passar-roupa-retratil/" target="_blank">tábua retrátil</a> ou ainda planejar um local para guardá-la no armário. Procure por ganchos adequados para pendurá-la num cantinho de parede. Não esqueça desse detalhe, caso contrário você terá um <em>trambolho</em> sendo levado pra lá e pra cá. Fica a dica.
 </p>
 
 <p align="justify">
@@ -83,7 +83,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

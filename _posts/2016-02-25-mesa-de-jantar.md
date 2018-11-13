@@ -1,8 +1,8 @@
 ---
-
+id: 3549
 title: Como escolher a mesa de jantar perfeita para seu lar?
-
-author: Lidiane
+date: 2016-02-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/02/25/mesa-de-jantar/
 permalink: /2016/02/25/mesa-de-jantar/
@@ -18,15 +18,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**5 salas de jantar modernas pra viver de amores**](http://www.decoracaodacasa.com/salas-de-jantar-modernas/) 
+  <a href="http://www.decoracaodacasa.com/salas-de-jantar-modernas/" target="_blank"><strong>5 salas de jantar modernas pra viver de amores</strong></a>
 </p>
 
 <p align="justify">
-  **A sempre querida mesa retangular**
+  <strong>A sempre querida mesa retangular</strong>
 </p>
 
 <p align="justify">
@@ -46,15 +46,15 @@ categories:
 </p>
 
 <p align="center">
-  Via [Lojas KD](http://www.lojaskd.com.br/) 
+  Via <a href="http://www.lojaskd.com.br/" target="_blank">Lojas KD</a>
 </p>
 
 <p align="justify">
-  **A sala com a mesa redonda**
+  <strong>A sala com a mesa redonda</strong>
 </p>
 
 <p align="justify">
-  Para espaços menores, a mesa redonda é uma queridinha. Você já deve ter reparado que em ambientes pequenos, quando eles conquistam o seu coração, há uma mesa redonda. Com base tipo pedestal elas parecem mesmo a escolha ideal. A mesa _Tulipa Saarinen_ é uma escolha bastante acertada nesses casos. A mesa redonda, até mais que a retangular, facilita muito a interação entre as pessoas durante uma refeição. Ponto pra ela!
+  Para espaços menores, a mesa redonda é uma queridinha. Você já deve ter reparado que em ambientes pequenos, quando eles conquistam o seu coração, há uma mesa redonda. Com base tipo pedestal elas parecem mesmo a escolha ideal. A mesa <em>Tulipa Saarinen</em> é uma escolha bastante acertada nesses casos. A mesa redonda, até mais que a retangular, facilita muito a interação entre as pessoas durante uma refeição. Ponto pra ela!
 </p>
 
 <p align="center">
@@ -74,15 +74,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Qual mesa de jantar reinaria absoluta ne decoração sua casa?**](http://www.decoracaodacasa.com/decoracao-sala-mesa-de-jantar/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-sala-mesa-de-jantar/" target="_blank"><strong>Qual mesa de jantar reinaria absoluta ne decoração sua casa?</strong></a>
 </p>
 
 <p align="justify">
-  **Quadrada e perfeita**
+  <strong>Quadrada e perfeita</strong>
 </p>
 
 <p align="justify">
@@ -98,7 +98,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Cravotta Interiors](http://cravottainteriors.com/) 
+  Via <a href="http://cravottainteriors.com/" target="_blank">Cravotta Interiors</a>
 </p>
 
 <p align="center">
@@ -106,19 +106,19 @@ categories:
 </p>
 
 <p align="center">
-  Via [Apartment Guide](http://www.apartmentguide.com/blog/) 
+  Via <a href="http://www.apartmentguide.com/blog/" target="_blank">Apartment Guide</a>
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**3 ambientes inspiradores para sua sala de jantar. Comprove!**](http://www.decoracaodacasa.com/ambientes-sala-de-jantar/) 
+  <a href="http://www.decoracaodacasa.com/ambientes-sala-de-jantar/" target="_blank"><strong>3 ambientes inspiradores para sua sala de jantar. Comprove!</strong></a>
 </p>
 
 <p align="justify">
-  **Questão de estilo**
+  <strong>Questão de estilo</strong>
 </p>
 
 <p align="justify">
@@ -130,7 +130,7 @@ categories:
 </p>
 
 <p align="center">
-  Mesa na sala de jantar integrada ao ambiente de estar, via [Houzz](http://www.houzz.com/) 
+  Mesa na sala de jantar integrada ao ambiente de estar, via <a href="http://www.houzz.com/" target="_blank">Houzz</a>
 </p>
 
 <p align="center">
@@ -142,15 +142,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Dicas para a decoração sobre sua mesa de jantar.**](http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/) 
+  <a href="http://www.decoracaodacasa.com/dicas-decoracao-mesa-jantar/" target="_blank"><strong>Dicas para a decoração sobre sua mesa de jantar.</strong></a>
 </p>
 
 <p align="justify">
-  Se por um lado a mesa pode ser algo totalmente integrado ao espaço, por outro ela pode atuar como um ponto de atenção na decoração, sobretudo se sobre o móvel está o ponto de iluminação escolhido a dedo para ela. Não deixe de ler o post sobre [como decorar a sala de jantar com lustre pendente](http://www.decoracaodacasa.com/lustre-pendente/)  e facilite sua escolha nesse sentido também.
+  Se por um lado a mesa pode ser algo totalmente integrado ao espaço, por outro ela pode atuar como um ponto de atenção na decoração, sobretudo se sobre o móvel está o ponto de iluminação escolhido a dedo para ela. Não deixe de ler o post sobre <a href="http://www.decoracaodacasa.com/lustre-pendente/" target="_blank">como decorar a sala de jantar com lustre pendente</a> e facilite sua escolha nesse sentido também.
 </p>
 
 <p align="justify">
@@ -178,27 +178,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Cadeiras vermelhas: 6 ambientes inspiradores para te encorajar a usá-las.**](http://www.decoracaodacasa.com/cadeiras-sala-jantar/) 
+  <a href="http://www.decoracaodacasa.com/cadeiras-sala-jantar/" target="_blank"><strong>Cadeiras vermelhas: 6 ambientes inspiradores para te encorajar a usá-las.</strong></a>
 </p>
 
 <p align="justify">
-  **Qual espaço você tem?**
+  <strong>Qual espaço você tem?</strong>
 </p>
 
 <p align="justify">
-  Faça a medição do espaço que você tem antes de ir até uma loja, para ter certeza de que escolherá um móvel que caiba na sua casa. Lembre-se de considerar o espaço de circulação com as cadeiras recolhidas sob a mesa para que ela não se transforme num _trambolho_ na sua sala. [Confira neste post, do site Casa Abril](http://casa.abril.com.br/materia/como-calcular-o-tamanho-de-uma-mesa-de-jantar-com-seis-lugares) , as medidas a serem consideradas na sua escolha.
+  Faça a medição do espaço que você tem antes de ir até uma loja, para ter certeza de que escolherá um móvel que caiba na sua casa. Lembre-se de considerar o espaço de circulação com as cadeiras recolhidas sob a mesa para que ela não se transforme num <em>trambolho</em> na sua sala. <a href="http://casa.abril.com.br/materia/como-calcular-o-tamanho-de-uma-mesa-de-jantar-com-seis-lugares" target="_blank">Confira neste post, do site Casa Abril</a>, as medidas a serem consideradas na sua escolha.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Quer misturar cadeiras diferentes na mesa da sala de jantar?**](http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/) 
+  <a href="http://www.trololodemulher.com.br/2012/08/01/cadeiras-sala-mesa-jantar/" target="_blank"><strong>Quer misturar cadeiras diferentes na mesa da sala de jantar?</strong></a>
 </p>
 
 <p align="justify">
@@ -206,7 +206,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

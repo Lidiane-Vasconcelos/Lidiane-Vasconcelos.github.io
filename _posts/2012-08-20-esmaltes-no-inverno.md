@@ -1,8 +1,8 @@
 ---
-
+id: 3174
 title: Você é das que se rendem aos tons fechados de esmaltes no inverno?
-
-author: Lidiane
+date: 2012-08-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/08/20/esmaltes-no-inverno/
 permalink: /2012/08/20/esmaltes-no-inverno/
@@ -10,7 +10,7 @@ categories:
   - Beleza
 ---
 <p style="text-align: justify;">
-  Se a resposta for sim, você bem que vai gostar de ver duas sugestões para usar, amar e se sentir toda poderosa nos dias (não tão) frios que ainda restam. A verdade é que essas cores mais fechadas sempre reinam absolutas nesse período do ano, _né_? E, vamos combinar, eles deixam nossas mãos com _bossa_ de mulherão!
+  Se a resposta for sim, você bem que vai gostar de ver duas sugestões para usar, amar e se sentir toda poderosa nos dias (não tão) frios que ainda restam. A verdade é que essas cores mais fechadas sempre reinam absolutas nesse período do ano, <em>né</em>? E, vamos combinar, eles deixam nossas mãos com <em>bossa</em> de mulherão!
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -26,15 +26,15 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   **_1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque_.” Cláudia Ramalho | **[**Feito a Mão**](http://www.blogfeitoamao.com/) 
+>   <strong><em>1 – “ Lidi, eu amo a combinação clássica de Gabriela com Rebu. Fica um vermelho bem fechado e elegante. Os dois são da Risque</em>.” Cláudia Ramalho | </strong><a href="http://www.blogfeitoamao.com/" target="_blank"><strong>Feito a Mão</strong></a>
 > </p>
 
 &nbsp;
 
 > <p align="justify">
->   **2 –_ “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon._” Mayara Santana | **[**My Diary**](http://mayaramonica.blogspot.com.br/) 
+>   <strong>2 –<em> “ Oi, Lidi! Foi amor à primeira vista com a cor Estava Escrito da Coleção Estava Escrito da Avon.</em>” Mayara Santana | </strong><a href="http://mayaramonica.blogspot.com.br/" target="_blank"><strong>My Diary</strong></a>
 > </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

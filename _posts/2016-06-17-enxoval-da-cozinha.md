@@ -1,8 +1,8 @@
 ---
-
+id: 3626
 title: Quando o enxoval da cozinha tem alma e essência…
-
-author: Lidiane
+date: 2016-06-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/06/17/enxoval-da-cozinha/
 permalink: /2016/06/17/enxoval-da-cozinha/
@@ -12,11 +12,11 @@ categories:
   - Publieditorial
 ---
 <p align="justify">
-  Quando o **enxoval da cozinha** tem alma e essência ele carrega, também, uma _bossa_ de simplicidade, e um cheirinho de antigamente. Não nego: gosto de itens com _pegada_ moderna na minha cozinha, mas o coração derrete mesmo é por peças tradicionais, que levam a gente para um lugar de sentimentos que afagam o coração. Isso tem nome: aconchego. Uma cozinha decorada com delicadezas assim remetem a casa da vovó… repare bem e sinta: essa não é uma sensação das melhores que há?
+  Quando o <strong>enxoval da cozinha</strong> tem alma e essência ele carrega, também, uma <em>bossa</em> de simplicidade, e um cheirinho de antigamente. Não nego: gosto de itens com <em>pegada</em> moderna na minha cozinha, mas o coração derrete mesmo é por peças tradicionais, que levam a gente para um lugar de sentimentos que afagam o coração. Isso tem nome: aconchego. Uma cozinha decorada com delicadezas assim remetem a casa da vovó… repare bem e sinta: essa não é uma sensação das melhores que há?
 </p>
 
 <p align="justify">
-  Veja que delícias de panos e **toalhinhas para casa**, especialmente os que ficam lá na cozinha, você encontra na **Xique Xique Brasil**: delicie-se… de verdade!
+  Veja que delícias de panos e <strong>toalhinhas para casa</strong>, especialmente os que ficam lá na cozinha, você encontra na <strong>Xique Xique Brasil</strong>: delicie-se… de verdade!
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ categories:
 </p>
 
 <p align="justify">
-  [Panos de prato](http://www.xiquexiquebrasil.com.br/casa/pano-de-prato)  e [toalhas de mão](http://bit.ly/toalhastrololo) ** **com detalhes em _Richelieu_, Labirintos e bordados manuais, produzidos em sacaria, tecido linho rústico cru e linho tingido&#8230; todos eles trazem a essência de lar para a sua cozinha. Veja mais detalhes desses produtos na **Xique Xique Brasil**, [clicando aqui](http://www.xiquexiquebrasil.com.br/casa/pano-de-prato) .
+  <a href="http://www.xiquexiquebrasil.com.br/casa/pano-de-prato" target="_blank">Panos de prato</a> e <a href="http://bit.ly/toalhastrololo" target="_blank">toalhas de mão</a><strong> </strong>com detalhes em <em>Richelieu</em>, Labirintos e bordados manuais, produzidos em sacaria, tecido linho rústico cru e linho tingido&#8230; todos eles trazem a essência de lar para a sua cozinha. Veja mais detalhes desses produtos na <strong>Xique Xique Brasil</strong>, <a href="http://www.xiquexiquebrasil.com.br/casa/pano-de-prato" target="_blank">clicando aqui</a>.
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ categories:
 </p>
 
 <p align="justify">
-  [Capas de garrafão](http://bit.ly/garrafaotrololo)  **bordado Richelieu** com detalhes ricamente trabalhados para encher seus olhos… delicadezas da **Xique Xique Brasil: **para conhecer o produto,** **[clique aqui](http://bit.ly/garrafaotrololo) .
+  <a href="http://bit.ly/garrafaotrololo" target="_blank">Capas de garrafão</a> <strong>bordado Richelieu</strong> com detalhes ricamente trabalhados para encher seus olhos… delicadezas da <strong>Xique Xique Brasil: </strong>para conhecer o produto,<strong> </strong><a href="http://bit.ly/garrafaotrololo" target="_blank">clique aqui</a>.
 </p>
 
 <p align="center">
@@ -44,15 +44,15 @@ categories:
 </p>
 
 <p align="justify">
-  [Pegador térmico](http://bit.ly/pegadortrololo)  bordado Cairel, [bate-mão](http://bit.ly/batemaotrololo)  renda renascença e [puxa-saco](http://bit.ly/puxasacotrololo)  bordado crivo, tudo delicadamente trabalhado para deixar sua cozinha ainda mais aconchegante. Conheça outros produtos encantadores para sua casa [clicando aqui](http://www.xiquexiquebrasil.com.br/casa/casa-diversos) .
+  <a href="http://bit.ly/pegadortrololo" target="_blank">Pegador térmico</a> bordado Cairel, <a href="http://bit.ly/batemaotrololo" target="_blank">bate-mão</a> renda renascença e <a href="http://bit.ly/puxasacotrololo" target="_blank">puxa-saco</a> bordado crivo, tudo delicadamente trabalhado para deixar sua cozinha ainda mais aconchegante. Conheça outros produtos encantadores para sua casa <a href="http://www.xiquexiquebrasil.com.br/casa/casa-diversos" target="_blank">clicando aqui</a>.
 </p>
 
 <p align="justify">
-  A **Xique Xique Brasil** é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: **Roberta Melo e Maria Cecilia**. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e [clique aqui](http://www.xiquexiquebrasil.com.br/) . Não deixe de acompanhar as novidades da **Xique Xique Brasil no Facebook**. [Clique aqui, curta](https://www.facebook.com/XiqueXiqueBrasil/)  e acompanhe!
+  A <strong>Xique Xique Brasil</strong> é uma loja virtual que nasceu da inspiração de duas mães arquitetas, apaixonadas pelo mundo do bom gosto e dos trabalhos artesanais: <strong>Roberta Melo e Maria Cecilia</strong>. Os produtos passam por uma cuidadosa seleção, o que garante um enxoval precioso para sua casa. Para conhecer todas as delicadezas da loja, sinta-se à vontade e <a href="http://www.xiquexiquebrasil.com.br/" target="_blank">clique aqui</a>. Não deixe de acompanhar as novidades da <strong>Xique Xique Brasil no Facebook</strong>. <a href="https://www.facebook.com/XiqueXiqueBrasil/" target="_blank">Clique aqui, curta</a> e acompanhe!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

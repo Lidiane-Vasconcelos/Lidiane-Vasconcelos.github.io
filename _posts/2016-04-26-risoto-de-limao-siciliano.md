@@ -1,8 +1,8 @@
 ---
-
+id: 3597
 title: Risoto de limão siciliano com uvas assadas
-
-author: Lidiane
+date: 2016-04-26T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/04/26/risoto-de-limao-siciliano/
 permalink: /2016/04/26/risoto-de-limao-siciliano/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Carol sempre nos surpreende com suas sugestões de receitas saudáveis, gostosas e práticas. Com a dica de hoje, creio que ela inaugura mais uma característica possível aos seus pratos: sofisticado! Carol Vieira nos presenteia com essa sugestão de receita, **risoto de limão siciliano** com uvas assadas, que é linda de viver e certamente muito gostosa. O preparo, como todo risoto, é bastante simples. Confira!
+  Carol sempre nos surpreende com suas sugestões de receitas saudáveis, gostosas e práticas. Com a dica de hoje, creio que ela inaugura mais uma característica possível aos seus pratos: sofisticado! Carol Vieira nos presenteia com essa sugestão de receita, <strong>risoto de limão siciliano</strong> com uvas assadas, que é linda de viver e certamente muito gostosa. O preparo, como todo risoto, é bastante simples. Confira!
 </p>
 
 <p align="center">
@@ -69,16 +69,16 @@ Em uma forma coloque as uvas sem sementes, regue com azeite e leve ao forno. Vai
 
 **Mais receitas da Carol:**
 
-[**Bolo simples integral com gotas de chocolate.**](http://www.trololodemulher.com.br/2016/03/22/bolo-simples-integral/) 
+<a href="http://www.trololodemulher.com.br/2016/03/22/bolo-simples-integral/" target="_blank"><strong>Bolo simples integral com gotas de chocolate.</strong></a>
 
-[**Lasanha de berinjela**](http://www.trololodemulher.com.br/2016/01/27/lasanha-de-berinjela/) 
+<a href="http://www.trololodemulher.com.br/2016/01/27/lasanha-de-berinjela/" target="_blank"><strong>Lasanha de berinjela</strong></a>
 
-[**Peixe assado ao molho de abóbora**](http://www.trololodemulher.com.br/2016/01/13/peixe-assado/) 
+<a href="http://www.trololodemulher.com.br/2016/01/13/peixe-assado/" target="_blank"><strong>Peixe assado ao molho de abóbora</strong></a>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p style="text-align: justify;" align="justify">
@@ -86,5 +86,5 @@ Em uma forma coloque as uvas sem sementes, regue com azeite e leve ao forno. Vai
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

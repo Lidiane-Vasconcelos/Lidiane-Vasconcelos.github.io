@@ -1,8 +1,8 @@
 ---
-
+id: 2876
 title: Vídeo-receita do Macarrão da Preguiça
-
-author: Lidiane
+date: 2010-09-15T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/09/15/video-receita-macarrao/
 permalink: /2010/09/15/video-receita-macarrao/
@@ -12,21 +12,21 @@ categories:
 Olá leitoras do Bicha Fêmea!
 
 <p style="text-align: justify;">
-  A partir de hoje, a convite da Lidiane, o blog [Cozinha da Magali ](http://www.cozinhamagali.blogspot.com/) vai dar _pitacos_ culinários por aqui de vez em quando, trazendo vídeo-receitas e outras dicas legais &#8216;pra facilitar a nossa vida tão corrida e cheia de responsabilidades.<br /> Adorei o convite do **_Bicha Fêmea_** pois sei que esse blog tem sido um espaço aberto &#8216;pra construção de relações virtuais saudáveis, positivas, e que fazem de nós bichas mais felizes!
+  A partir de hoje, a convite da Lidiane, o blog <a href="http://www.cozinhamagali.blogspot.com/" target="_blank">Cozinha da Magali </a>vai dar <em>pitacos</em> culinários por aqui de vez em quando, trazendo vídeo-receitas e outras dicas legais &#8216;pra facilitar a nossa vida tão corrida e cheia de responsabilidades.<br /> Adorei o convite do <strong><em>Bicha Fêmea</em></strong> pois sei que esse blog tem sido um espaço aberto &#8216;pra construção de relações virtuais saudáveis, positivas, e que fazem de nós bichas mais felizes!
 </p>
 
 <p style="text-align: justify;">
   <!--more-->Então chega de conversa mole e rasgação de seda: nossa primeira vídeo-receita traz o 
   
-  _**&#8220;Macarrão da preguiça&#8221;**_, uma receita da minha mãe que não podia faltar na casa dela nos domingos de&#8230; preguiça!
+  <em><strong>&#8220;Macarrão da preguiça&#8221;</strong></em>, uma receita da minha mãe que não podia faltar na casa dela nos domingos de&#8230; preguiça!
 </p>
 
 <p style="text-align: justify;">
-  &#8216;Pra quem não sabe cozinhar, ou está começando agora, pode testar que o sucesso, eu _agarantiu_.
+  &#8216;Pra quem não sabe cozinhar, ou está começando agora, pode testar que o sucesso, eu <em>agarantiu</em>.
 </p>
 
 <p style="text-align: center;">
-  [<img class="size-full wp-image-5198 aligncenter" title="Macarrão da preguiça" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica.jpg" alt="" width="637" height="478" />](http://vimeo.com/14775339) 
+  <a href="http://vimeo.com/14775339" target="_blank"><img class="size-full wp-image-5198 aligncenter" title="Macarrão da preguiça" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica.jpg" alt="" width="637" height="478" /></a>
 </p>
 
  
@@ -70,13 +70,13 @@ Sirva a seguir
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por **_<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/juliana/" target="_self">Juliana</a>_**
+      Por <strong><em><a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/juliana/" target="_self">Juliana</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      **_[Cozinha da Magali](http://www.cozinhamagali.blogspot.com/) _**
+      <strong><em><a href="http://www.cozinhamagali.blogspot.com/" target="_blank">Cozinha da Magali</a></em></strong>
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@ Sirva a seguir
  
 
 <p style="text-align: center;">
-  Quer fazer como a Juliana e publicar seu post ou vídeo no Bicha Fêmea? Seja uma **_<a href="http://www.trololodemulher.com.br/colabore/" target="_self">bicha fêmea colaboradora</a>_**!
+  Quer fazer como a Juliana e publicar seu post ou vídeo no Bicha Fêmea? Seja uma <strong><em><a href="http://www.trololodemulher.com.br/colabore/" target="_self">bicha fêmea colaboradora</a></em></strong>!
 </p>
 
 **Veja os últimos posts de colaboradoras no Bicha Fêmea&#8230;**
@@ -100,9 +100,9 @@ Sirva a seguir
 **_<a href="http://www.trololodemulher.com.br/2010/08/18/saude-respirador-bucal/" target="_self">Saúde no Bicha Fêmea: respirador bucal.</a>_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/" target="_self">**_Casa_****_ & Decoração_** </a>> <a href="http://www.trololodemulher.com.br/category/casa-cozinha/" target="_self">**_Casa &#8211; Cozinha_** </a>> Vídeo-receita do Macarrão da Preguiça
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/" target="_self"><strong><em>Casa</em></strong><strong><em> & Decoração</em></strong> </a>> <a href="http://www.trololodemulher.com.br/category/casa-cozinha/" target="_self"><strong><em>Casa &#8211; Cozinha</em></strong> </a>> Vídeo-receita do Macarrão da Preguiça
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2778
 title: 'De bicha fêmea para bicha fêmea: sabão para roupas + sorteio.'
-
-author: Lidiane
+date: 2010-02-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/02/02/de-bicha-femea-para-bicha-femea-sabao-para-roupas-sorteio/
 permalink: /2010/02/02/de-bicha-femea-para-bicha-femea-sabao-para-roupas-sorteio/

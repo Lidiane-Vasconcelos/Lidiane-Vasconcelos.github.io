@@ -1,8 +1,8 @@
 ---
-
+id: 2921
 title: 'Decoração de cozinha: 2 ideias que também organizam.'
-
-author: Lidiane
+date: 2010-12-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/12/20/decoracao-de-cozinha/
 permalink: /2010/12/20/decoracao-de-cozinha/
@@ -34,22 +34,22 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se os nichos dão a ideia de um visual moderno e esse não é o seu estilo, você pode recorrer a prateleiras. Essa alternativa satisfaz a sua necessidade de criação de espaço para organizar itens muito utilizados, e a depender do que você arrume nelas, como pratos de bolo ou bules, sua cozinha pode ganhar um visual _vintage_. Que tal? Inspire-se e aplique a ideia no seu canto por aí, bonita!
+  Se os nichos dão a ideia de um visual moderno e esse não é o seu estilo, você pode recorrer a prateleiras. Essa alternativa satisfaz a sua necessidade de criação de espaço para organizar itens muito utilizados, e a depender do que você arrume nelas, como pratos de bolo ou bules, sua cozinha pode ganhar um visual <em>vintage</em>. Que tal? Inspire-se e aplique a ideia no seu canto por aí, bonita!
 </p>
 
 <p style="text-align: center;">
-  **_Sugestões de mimos decorativos para sua cozinha…_**
+  <strong><em>Sugestões de mimos decorativos para sua cozinha…</em></strong>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _Quer trazer o frescor da lavanda para sua cozinha? Este conjunto lilás de bandeja e potes pode ganhar várias funções, é tudo de acordo com sua criatividade para decorar seu espaço. O que não se pode negar é o charme que peças exclusivas assim podem trazer para seu espaço, não é verdade? Inspire-se!_
+        <em>Quer trazer o frescor da lavanda para sua cozinha? Este conjunto lilás de bandeja e potes pode ganhar várias funções, é tudo de acordo com sua criatividade para decorar seu espaço. O que não se pode negar é o charme que peças exclusivas assim podem trazer para seu espaço, não é verdade? Inspire-se!</em>
       </p>
       
       <p style="text-align: justify;">
-        _O **[Conjunto Bandeja&Potes Lavanda](http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/) ** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/) **!_
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">Conjunto Bandeja&Potes Lavanda</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/conjunto-bandejapotes-lavanda/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
     
@@ -65,11 +65,11 @@ categories:
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com uma galinha? A cozinha vai ganhar outro ar… muito mais divertido! Use a imaginação e encha a casa de mimos!_
+        <em>Decore cortinas ou batentes de porta com detalhes cheios de graça. Já pensou num móbile como este, com uma galinha? A cozinha vai ganhar outro ar… muito mais divertido! Use a imaginação e encha a casa de mimos!</em>
       </p>
       
       <p style="text-align: justify;">
-        _O **[Móbile Galinha Country](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/) ** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/) **!_
+        <em>O <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">Móbile Galinha Country</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/29/mobile-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -77,11 +77,11 @@ categories:
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _Mais do que panelas, pratos e copos, alguns detalhes decorativos podem trazer muito mais graça para uma cozinha, não é? Que tal um placa, com uma galinha, cheia de fru frus? Anime a canto de cozinhar, e deixe tudo mais divertido! _
+        <em>Mais do que panelas, pratos e copos, alguns detalhes decorativos podem trazer muito mais graça para uma cozinha, não é? Que tal um placa, com uma galinha, cheia de fru frus? Anime a canto de cozinhar, e deixe tudo mais divertido! </em>
       </p>
       
       <p style="text-align: justify;">
-        _A _[**_Placa Galinha Country_**](http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/) _ está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/) **!_
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank"><strong><em>Placa Galinha Country</em></strong></a><em> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/30/placa-galinha-country/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
     
@@ -97,11 +97,11 @@ categories:
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _Este quadro cenário cozinha é mais uma novidade no Mercado de Artes. Veja nos detalhes: percebe o bom gosto? Os tons de preto, branco e cinza são quebrados pelo vermelho da geladeira, que prende a nossa atenção pelo charme dos detalhes no tom dela. Os móveis em miniatura no ambiente também têm um atrativo a parte, porque foram trabalhados com ilustrações em decoupage. Não é uma peça daquelas que chamam a nossa atenção? _
+        <em>Este quadro cenário cozinha é mais uma novidade no Mercado de Artes. Veja nos detalhes: percebe o bom gosto? Os tons de preto, branco e cinza são quebrados pelo vermelho da geladeira, que prende a nossa atenção pelo charme dos detalhes no tom dela. Os móveis em miniatura no ambiente também têm um atrativo a parte, porque foram trabalhados com ilustrações em decoupage. Não é uma peça daquelas que chamam a nossa atenção? </em>
       </p>
       
       <p style="text-align: justify;">
-        _A **[Quadro Cenário Cozinha](http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/) ** está a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/) **!_
+        <em>A <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">Quadro Cenário Cozinha</a></strong> está a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/11/18/quadro-cenario-cozinha/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
@@ -109,15 +109,15 @@ categories:
   <tr>
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _ _
+        <em> </em>
       </p>
       
       <p style="text-align: justify;">
-        _Quer decorar com personalidade, estilo e exclusividade usando telas como essas? Diferentes, não?_
+        <em>Quer decorar com personalidade, estilo e exclusividade usando telas como essas? Diferentes, não?</em>
       </p>
       
       <p style="text-align: justify;">
-        _As **[Telas Mediterrâneo](http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/) ** estão a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/) **!_
+        <em>As <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">Telas Mediterrâneo</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/20/telas-mediterraneo/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
     
@@ -133,17 +133,17 @@ categories:
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _Leve charme para sua copa ou cozinha com esse par de quadrinhos totalmente inspirados no canto de cozinhar ou fazer refeições… _
+        <em>Leve charme para sua copa ou cozinha com esse par de quadrinhos totalmente inspirados no canto de cozinhar ou fazer refeições… </em>
       </p>
       
       <p style="text-align: justify;">
-        _O par de quadros **[Cenário Copa&Café](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) ** estão a venda no **Mercado de Artes**, loja virtual do **Bicha Fêmea**. Quer dar uma espiada? É por aqui >>>>> _[**_basta clicar_**](http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/) _!_
+        <em>O par de quadros <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank">Cenário Copa&Café</a></strong> estão a venda no <strong>Mercado de Artes</strong>, loja virtual do <strong>Bicha Fêmea</strong>. Quer dar uma espiada? É por aqui >>>>> </em><a href="http://www.trololodemulher.com.br/loja/2010/09/07/quadro-cenario-copa-cafe/" target="_blank"><strong><em>basta clicar</em></strong></a><em>!</em>
       </p>
     </td>
   </tr>
 </table>
 
-_Imagens:_ [_Better Homes and Gardens_](http://www.bhg.com/) 
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 
@@ -154,13 +154,13 @@ _Imagens:_ [_Better Homes and Gardens_](http://www.bhg.com/)
 **[Tudo branco na decoração da cozinha.](http://www.trololodemulher.com.br/2009/01/22/decoracao-cozinha-branca/)**
 
 <p style="text-align: center;">
-  Navegando no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa_****_ & Decoração_** </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/">**_Cozinha_**</a>> Decoração de cozinha: 2 ideias que também organizam.
+  Navegando no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa</em></strong><strong><em> & Decoração</em></strong> </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/cozinhas/"><strong><em>Cozinha</em></strong></a>> Decoração de cozinha: 2 ideias que também organizam.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>

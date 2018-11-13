@@ -1,8 +1,8 @@
 ---
-
+id: 2839
 title: Expectativas reais, você tem?
-
-author: Lidiane
+date: 2010-06-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/06/28/emagrecimento-expectativas/
 permalink: /2010/06/28/emagrecimento-expectativas/
@@ -12,7 +12,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **_Expectativas reais, você tem?_**
+  <strong><em>Expectativas reais, você tem?</em></strong>
 </p>
 
 Sempre que  estamos envolvidos em um novo relacionamento, trabalho, ou mesmo um novo método de emagrecimento, temos expectativas  quanto ao desenrolar da situação em questão.
@@ -39,13 +39,13 @@ A reeducação emocional e alimentar é o caminho do sucesso para qualquer proce
 
 ( Rhandy di Stefano )
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 **_Luciana Kotaka – Psicóloga Clínica_**
 
 Especialista em Obesidade e Transtornos Alimentares
 
-[WWW.comportamentomagro.com.br](http://blog.comportamentomagro.com.br/) 
+<a href="http://blog.comportamentomagro.com.br/" target="_blank">WWW.comportamentomagro.com.br</a>
 
 Curitiba – PR
 

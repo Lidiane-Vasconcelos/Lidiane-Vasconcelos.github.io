@@ -1,8 +1,8 @@
 ---
-
+id: 2819
 title: Você é confiante?
-
-author: Lidiane
+date: 2010-05-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/05/21/auto-estima-confianca-mulher/
 permalink: /2010/05/21/auto-estima-confianca-mulher/
@@ -12,7 +12,7 @@ categories:
   - Saúde
 ---
 <p style="text-align: center;">
-  **_Você é confiante?_**
+  <strong><em>Você é confiante?</em></strong>
 </p>
 
 Como vemos é um tema corriqueiro em nossas vidas: ter confiança. Porém entre saber e o sentir, se abre um imenso abismo. Sensação de impotência, de fracasso, de inutilidade… Podemos citar várias situações que englobariam comportamentos, que deixam claro essa sensação de falta de confiança.
@@ -31,7 +31,7 @@ Escolham a forma que for mais conveniente, mais acessível, mas vá, busque a mu
 
 Um bom recomeço para você!
 
-**[Luciana Kotaka – Psicóloga Clínica](http://blog.comportamentomagro.com.br/) **
+**<a href="http://blog.comportamentomagro.com.br/" target="_blank">Luciana Kotaka – Psicóloga Clínica</a>**
 
 Especialista em Obesidade  e Transtornos Alimentares
 

@@ -1,8 +1,8 @@
 ---
-
+id: 3525
 title: '9 ideias de sacolas de festa infantil: faça você mesma.'
-
-author: Lidiane
+date: 2016-01-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/01/08/sacolas-de-festa-infantil/
 permalink: /2016/01/08/sacolas-de-festa-infantil/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Percebeu que festa infantil passou a ser um tema mais frequente por aqui? Pois é, mas não se engane: a gente curte as ideias simples, com carinha de festa caseira. Você também é uma mãe nostálgica nesse sentido? Então, oh: veja a seguir **sacolas de festa infantil** que você mesma pode fazer para o grande dia de sua cria. São 9 sugestões simples, que qualquer uma de nós pode reproduzir, viu? Confira… o que você precisa mesmo é de carinho e algum tempo seu para doar. No mais, olh só:
+  Percebeu que festa infantil passou a ser um tema mais frequente por aqui? Pois é, mas não se engane: a gente curte as ideias simples, com carinha de festa caseira. Você também é uma mãe nostálgica nesse sentido? Então, oh: veja a seguir <strong>sacolas de festa infantil</strong> que você mesma pode fazer para o grande dia de sua cria. São 9 sugestões simples, que qualquer uma de nós pode reproduzir, viu? Confira… o que você precisa mesmo é de carinho e algum tempo seu para doar. No mais, olh só:
 </p>
 
 <p align="justify">
@@ -21,7 +21,7 @@ categories:
     </p>
     
     <p align="center">
-      Use recortes para fazer colagens na sacola, e dê um toque final com papel de seda na cor que preferir. O tema escolhido para esta foi gatos. Inspire-se! Via [The Daily Party Dish](http://sherrifoxman.typepad.com/daily_party_dish/theme_parties/page/4/) .
+      Use recortes para fazer colagens na sacola, e dê um toque final com papel de seda na cor que preferir. O tema escolhido para esta foi gatos. Inspire-se! Via <a href="http://sherrifoxman.typepad.com/daily_party_dish/theme_parties/page/4/" target="_blank">The Daily Party Dish</a>.
     </p>
     
     <p align="center">
@@ -29,7 +29,7 @@ categories:
     </p>
     
     <p align="center">
-      Use fitinhas de cores diversas e tags com os dizeres que você quiser. Via [Babble](http://www.babble.com/toddler/abbys-alice-in-wonderland-birthday-2-party/) .
+      Use fitinhas de cores diversas e tags com os dizeres que você quiser. Via <a href="http://www.babble.com/toddler/abbys-alice-in-wonderland-birthday-2-party/" target="_blank">Babble</a>.
     </p>
     
     <p align="center">
@@ -37,7 +37,7 @@ categories:
     </p>
     
     <p align="center">
-      Saquinhos de papel + fitas adesivas coloridas (_washi tapes_) e… só!
+      Saquinhos de papel + fitas adesivas coloridas (<em>washi tapes</em>) e… só!
     </p>
     
     <p align="center">
@@ -45,7 +45,7 @@ categories:
     </p>
     
     <p align="center">
-      Papel acartonado colorido fazem fundo para o papel branco recortado que recebe o nome (manuscrito) de cada convidado que levará a socolinha pra casa. Simples, prático e carinhoso. Via [Little Party Love](http://www.littlepartylove.com.au/diyprojects/how-to-make-your-own-birthday-party-gift-bags/) .
+      Papel acartonado colorido fazem fundo para o papel branco recortado que recebe o nome (manuscrito) de cada convidado que levará a socolinha pra casa. Simples, prático e carinhoso. Via <a href="http://www.littlepartylove.com.au/diyprojects/how-to-make-your-own-birthday-party-gift-bags/" target="_blank">Little Party Love</a>.
     </p>
     
     <p align="center">
@@ -53,7 +53,7 @@ categories:
     </p>
     
     <p align="center">
-      Baldinhos plásticos recheados com o que você quiser. Para arrematar, que tal envolvê-los num saco de papel celofane e fechá-los com um lacinho de fita? Fica a dica. Via [Love The Day](http://love-the-day.com/under-the-sea-birthday-party-feature-2/) .
+      Baldinhos plásticos recheados com o que você quiser. Para arrematar, que tal envolvê-los num saco de papel celofane e fechá-los com um lacinho de fita? Fica a dica. Via <a href="http://love-the-day.com/under-the-sea-birthday-party-feature-2/" target="_blank">Love The Day</a>.
     </p>
     
     <p align="justify">
@@ -61,7 +61,7 @@ categories:
     </p>
     
     <p align="justify">
-      [Sacolinha de festa infantil: faça você mesma.](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
+      <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank">Sacolinha de festa infantil: faça você mesma.</a>
     </p>
     
     <p align="center">
@@ -69,7 +69,7 @@ categories:
     </p>
     
     <p align="center">
-      Saquinho de papel + furador + fitas variadas. O resultado é pura lindeza, porque há beleza na simplicidade. Via [The Pink Sprinkle](http://www.thepinksprinkle.com/2014/10/craft-little-treat-bags/) .
+      Saquinho de papel + furador + fitas variadas. O resultado é pura lindeza, porque há beleza na simplicidade. Via <a href="http://www.thepinksprinkle.com/2014/10/craft-little-treat-bags/" target="_blank">The Pink Sprinkle</a>.
     </p>
     
     <p align="center">
@@ -77,7 +77,7 @@ categories:
     </p>
     
     <p align="center">
-      Saquinho branco fazendo fundo para essa colagem de nuvem com fitinhas coloridas. Amei a ideia e, para simplificar o processo, eu usaria papel acartonado para fazer a nuvem e colaria ela usando fita banana (fita dupa-face com espuma) para dar o efeito 3D da nuvem. No mais, é não esquecer de colar as fitinhas coloridas antes da finalização. Pronto! Uma ideia para viver de amores via [Kara´s Party Ideas](http://www.karaspartyideas.com/2013/07/rainbow-themed-1st-birthday-party-2.html) .
+      Saquinho branco fazendo fundo para essa colagem de nuvem com fitinhas coloridas. Amei a ideia e, para simplificar o processo, eu usaria papel acartonado para fazer a nuvem e colaria ela usando fita banana (fita dupa-face com espuma) para dar o efeito 3D da nuvem. No mais, é não esquecer de colar as fitinhas coloridas antes da finalização. Pronto! Uma ideia para viver de amores via <a href="http://www.karaspartyideas.com/2013/07/rainbow-themed-1st-birthday-party-2.html" target="_blank">Kara´s Party Ideas</a>.
     </p>
     
     <p align="center">
@@ -85,7 +85,7 @@ categories:
     </p>
     
     <p align="center">
-      Sacolas de tecido fechadas com retalhos. Sugestão linda de viver via [Intimate Weddings](http://www.intimateweddings.com/blog/easy-no-sew-diy-favor-bags/) .
+      Sacolas de tecido fechadas com retalhos. Sugestão linda de viver via <a href="http://www.intimateweddings.com/blog/easy-no-sew-diy-favor-bags/" target="_blank">Intimate Weddings</a>.
     </p>
     
     <p align="center">
@@ -93,11 +93,11 @@ categories:
     </p>
     
     <p align="center">
-      Saquinhos de tecido cru + bolinhas que você pode fazer com canetinhas para tecido + carimbo de agradecimento. Ideia simples e que derrete o coração via [Sweet Style](http://www.sweetstyleblog.com.au/archives/4429) .
+      Saquinhos de tecido cru + bolinhas que você pode fazer com canetinhas para tecido + carimbo de agradecimento. Ideia simples e que derrete o coração via <a href="http://www.sweetstyleblog.com.au/archives/4429" target="_blank">Sweet Style</a>.
     </p>
     
     <p align="center">
-      [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+      <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
     </p>
     
     <p align="justify">

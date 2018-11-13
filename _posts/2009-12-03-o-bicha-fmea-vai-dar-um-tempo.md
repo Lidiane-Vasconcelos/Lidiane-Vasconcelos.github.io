@@ -1,8 +1,8 @@
 ---
-
+id: 2745
 title: O Bicha Fêmea Vai Dar Um Tempo…
-
-author: Lidiane
+date: 2009-12-03T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/12/03/o-bicha-fmea-vai-dar-um-tempo/
 permalink: /2009/12/03/o-bicha-fmea-vai-dar-um-tempo/
@@ -23,4 +23,4 @@ Pode deixar comigo que eu farei um sinal de fumaça quando tudo estiver pronto, 
 
 Até a volta, bonita!!!
 
-Imagem: [The Birds and The Bees](http://mariejosephine.wordpress.com/) 
+Imagem: <a href="http://mariejosephine.wordpress.com/" target="_blank">The Birds and The Bees</a>

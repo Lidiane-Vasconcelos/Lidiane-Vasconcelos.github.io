@@ -1,8 +1,8 @@
 ---
-
+id: 3741
 title: 'Molho pesto de limão siciliano: mil e uma finalidades.'
-
-author: Lidiane
+date: 2017-03-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/03/16/molho-pesto/
 permalink: /2017/03/16/molho-pesto/
@@ -10,7 +10,7 @@ categories:
   - Receitas
 ---
 <p align="justify">
-  Sobre o** molho pesto** você já deve ter ouvido falar, e até apreciado, não é? O que talvez você não soubesse, ou pelo menos eu não sabia, é que dá para prepará-lo de várias formas, a depender dos ingredientes escolhidos para isso. Tânia compartilha hoje no **Trololó de Mulher** uma receita simples, e dá dicas incríveis de como saborear essa delícia, oh: confira!
+  Sobre o<strong> molho pesto</strong> você já deve ter ouvido falar, e até apreciado, não é? O que talvez você não soubesse, ou pelo menos eu não sabia, é que dá para prepará-lo de várias formas, a depender dos ingredientes escolhidos para isso. Tânia compartilha hoje no <strong>Trololó de Mulher</strong> uma receita simples, e dá dicas incríveis de como saborear essa delícia, oh: confira!
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  “_Se você olhar o significado da palavra pesto, vai encontrar que a mesma consiste em um molho verde, feito de folhas de manjericão, pinolis, queijo parmesão e azeite de oliva. O pesto descrito acima é bem conhecido como um molho italiano usado para temperar macarrão, chamado “pesto alla Genovese”, na verdade, existem diferentes maneiras de prepará-lo. Além disso, existem muitos tipos diferentes de pestos, dependendo do ingrediente principal que é usado no seu preparo, como: pesto de alho, sálvia, nozes, pistache, salsa, couve, rúcula e muitos outros._
+  “<em>Se você olhar o significado da palavra pesto, vai encontrar que a mesma consiste em um molho verde, feito de folhas de manjericão, pinolis, queijo parmesão e azeite de oliva. O pesto descrito acima é bem conhecido como um molho italiano usado para temperar macarrão, chamado “pesto alla Genovese”, na verdade, existem diferentes maneiras de prepará-lo. Além disso, existem muitos tipos diferentes de pestos, dependendo do ingrediente principal que é usado no seu preparo, como: pesto de alho, sálvia, nozes, pistache, salsa, couve, rúcula e muitos outros.</em>
 </p>
 
 _Entre todos os tipos de pestos, para a receita de hoje, eu escolhi Pesto de Limão._
@@ -50,7 +50,7 @@ _3 – Finalmente adicione o queijo (pulse apenas o suficiente para esmigalhar b
 _Dicas – Se você não encontrar facilmente o pinoli substitua o mesmo  por castanha do Pará ou nozes._
 
 <p style="text-align: justify;">
-  _O pesto pode ser apreciado de várias maneiras: como molho para massas, como uma pastinha para petiscos, como  ingrediente para preparar sopas, em pão torrado, para temperar legumes e saladas, para fazer recheio de pães e como molho para temperar carne e peixe_.”
+  <em>O pesto pode ser apreciado de várias maneiras: como molho para massas, como uma pastinha para petiscos, como  ingrediente para preparar sopas, em pão torrado, para temperar legumes e saladas, para fazer recheio de pães e como molho para temperar carne e peixe</em>.”
 </p>
 
 &nbsp;
@@ -63,20 +63,20 @@ _Dicas – Se você não encontrar facilmente o pinoli substitua o mesmo  por c
 
 **Mais receitas de Tania:**
 
-[**Sopa de lentilhas: comida boa e prosperidade o ano todo!**](http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/) 
+<a href="http://www.trololodemulher.com.br/2017/02/21/sopa-de-lentilhas/" target="_blank"><strong>Sopa de lentilhas: comida boa e prosperidade o ano todo!</strong></a>
 
-[**Receita de pão caseiro de abobrinha: das mais fáceis!**](http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/) 
+<a href="http://www.trololodemulher.com.br/2017/02/14/pao-caseiro/" target="_blank"><strong>Receita de pão caseiro de abobrinha: das mais fáceis!</strong></a>
 
-[**Abóbora assada com cebolas: bonito, saudável e gostoso.**](http://www.trololodemulher.com.br/2017/02/07/abobora-assada/) 
+<a href="http://www.trololodemulher.com.br/2017/02/07/abobora-assada/" target="_blank"><strong>Abóbora assada com cebolas: bonito, saudável e gostoso.</strong></a>
 
 &nbsp;
 
 <p align="justify">
-  O blog de Tânia é apaixonante, chama-se [I Want to be a cook](https://iwanttobeacook.wordpress.com/) . Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o** blog de Tânia [clicando aqui](https://iwanttobeacook.wordpress.com/) **, e sua [fanpage no Facebook aqui](https://www.facebook.com/Iwanttobeacook-818578268272846/) . Ah, claro! Com imgens apaixonantes, a moça também está no **Instagram**… [clique aqui e siga!](https://www.instagram.com/iwanttobeacook/)  Se joga… e inspire-se!
+  O blog de Tânia é apaixonante, chama-se <a href="https://iwanttobeacook.wordpress.com/" target="_blank">I Want to be a cook</a>. Quando o conheci vivi de amores pela forma como Tânia escreve, num jeitinho gostoso que cativa a gente… parece que estamos na cozinha, ao lado dela, enquanto ouvimos a moça falar. Além do mais, as imagens são mesmo um espetáculo à parte. Tânia tornou-se mestre em fisgar a gente pelos olhos. Com imagens que chegam a ser poéticas, acho muito difícil que você não se apaixone também… confira o<strong> blog de Tânia <a href="https://iwanttobeacook.wordpress.com/" target="_blank">clicando aqui</a></strong>, e sua <a href="https://www.facebook.com/Iwanttobeacook-818578268272846/" target="_blank">fanpage no Facebook aqui</a>. Ah, claro! Com imgens apaixonantes, a moça também está no <strong>Instagram</strong>… <a href="https://www.instagram.com/iwanttobeacook/" target="_blank">clique aqui e siga!</a> Se joga… e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

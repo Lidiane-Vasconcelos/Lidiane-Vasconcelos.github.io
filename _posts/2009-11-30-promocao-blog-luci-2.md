@@ -1,15 +1,15 @@
 ---
-
+id: 2742
 title: Do Que É Viver A Vida Para Mim…
-
-author: Lidiane
+date: 2009-11-30T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/11/30/promocao-blog-luci-2/
 permalink: /2009/11/30/promocao-blog-luci-2/
 categories:
   - Promoção
 ---
-Nem é para falar sobre a novela do último horário da Globo que este post serve, mas para atender ao convite de Luci, que comanda o blog [Vida](http://reencontrandoaspalavras.blogspot.com/)  há 3 anos. Aliás, o blog dela está prestes a completar 3 anos, e este post é para entrar na comemoração.
+Nem é para falar sobre a novela do último horário da Globo que este post serve, mas para atender ao convite de Luci, que comanda o blog <a href="http://reencontrandoaspalavras.blogspot.com/" target="_blank">Vida</a> há 3 anos. Aliás, o blog dela está prestes a completar 3 anos, e este post é para entrar na comemoração.
 
 A blogagem coletiva é para falar do que o título do post suscita mesmo, é sobre viver a vida. Nossa! Tão abrangente a proposta…
 

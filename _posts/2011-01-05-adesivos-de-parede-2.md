@@ -1,8 +1,8 @@
 ---
-
+id: 2933
 title: Adesivos de parede
-
-author: Lidiane
+date: 2011-01-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/01/05/adesivos-de-parede-2/
 permalink: /2011/01/05/adesivos-de-parede-2/
@@ -28,7 +28,7 @@ Os _stickers_ de parede têm sido uma abundante febre entre as pessoas de divers
 </p>
 
 <p style="text-align: justify;">
-  Os auto-colantes são produzidos normalmente com vinil, que é um excelente e resistente material, podendo manter seu _sticker_ por vários meses intacto, grudado na parede. A higienização pode ser executada normalmente com uma flanela molhada, tendo precaução ao passar o pano nas pontas do adesivo decorativo para não correr o risco dele descolar da parede.
+  Os auto-colantes são produzidos normalmente com vinil, que é um excelente e resistente material, podendo manter seu <em>sticker</em> por vários meses intacto, grudado na parede. A higienização pode ser executada normalmente com uma flanela molhada, tendo precaução ao passar o pano nas pontas do adesivo decorativo para não correr o risco dele descolar da parede.
 </p>
 
 <p style="text-align: justify;">
@@ -43,18 +43,18 @@ Os _stickers_ de parede têm sido uma abundante febre entre as pessoas de divers
   Concluindo: Não aguenta mais ver quela parede branca e sem vida? Gostaria mudar algo na decoração ou tematizar sua casa? Gostaria de propagar bom gosto em forma de decoração? Escolha os adesivos decorativos! Além de terem um bom preço, são fáceis de aplicar!
 </p>
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      Por **_<a href="http://www.trololodemulher.com.br/category/colaboradores/caion-alves/" target="_self">Caion Alves</a>, via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo no Bicha Fêmea</a>._**
+      Por <strong><em><a href="http://www.trololodemulher.com.br/category/colaboradores/caion-alves/" target="_self">Caion Alves</a>, via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo no Bicha Fêmea</a>.</em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      [Adesivou](http://www.adesivou.com/) 
+      <a href="http://www.adesivou.com/" target="_blank">Adesivou</a>
     </td>
   </tr>
 </table>
@@ -70,13 +70,13 @@ _Imagem:_ [_stock.xchng_](http://www.sxc.hu/)
 **_[Pitacos de bicha fêmea: como decorar a parede da escada?](http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/)_**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>> Adesivos de parede
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>> Adesivos de parede
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>

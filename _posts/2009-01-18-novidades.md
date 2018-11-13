@@ -1,8 +1,8 @@
 ---
-
+id: 2604
 title: Novidades…
-
-author: Lidiane
+date: 2009-01-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/01/18/novidades/
 permalink: /2009/01/18/novidades/
@@ -15,12 +15,12 @@ Hoje vou inaugurar o espaço aí do lado direito do blog, cujo título é “Bic
 
 &#160;
 
-Isto posto, digo que a bicha fêmea em foco da vez é a [Eliene Vila Nova, do “MULHER SEVERINO, SIMPLESMENTE FAZ TUDO”.](http://mulherseverino-faztudo.blogspot.com/) 
+Isto posto, digo que a bicha fêmea em foco da vez é a <a href="http://mulherseverino-faztudo.blogspot.com/" target="_blank">Eliene Vila Nova, do “MULHER SEVERINO, SIMPLESMENTE FAZ TUDO”.</a>
 
 &#160;
 
 &#160;
 
-Aqui, o foco dela sobre ela mesma: “_[Sou uma pessoa de hábitos simples, que ama acima de tudo Deus, a família, os amigos e muito,muito o namorido.Amo a vida, e só faço o que gosto, tenho fases, segundo o Rodrigo(o Namorido), no momento sou agente de turismo, bordadeira, photoshopeira(ele me deu esse nome porque estou aprendendo a usar o programa), e estou simplesmente apaixonada pelos blogs de decoração, principalmente os que dão idéias alternativas,tipo faça você mesma.Sou assim,como a maioria das mulheres no mundo hoje &#8211; simplesmente "Severino", tento fazer de tudo um pouco. Agora sou novata no mundo dos blogs e preciso de ajuda para aprender a administrar isso aqui.”](http://mulherseverino-faztudo.blogspot.com/) _
+Aqui, o foco dela sobre ela mesma: “_<a href="http://mulherseverino-faztudo.blogspot.com/" target="_blank">Sou uma pessoa de hábitos simples, que ama acima de tudo Deus, a família, os amigos e muito,muito o namorido.Amo a vida, e só faço o que gosto, tenho fases, segundo o Rodrigo(o Namorido), no momento sou agente de turismo, bordadeira, photoshopeira(ele me deu esse nome porque estou aprendendo a usar o programa), e estou simplesmente apaixonada pelos blogs de decoração, principalmente os que dão idéias alternativas,tipo faça você mesma.Sou assim,como a maioria das mulheres no mundo hoje &#8211; simplesmente "Severino", tento fazer de tudo um pouco. Agora sou novata no mundo dos blogs e preciso de ajuda para aprender a administrar isso aqui.”</a>_
 
 Agora, desfrute-o!

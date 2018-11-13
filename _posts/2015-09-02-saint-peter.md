@@ -1,8 +1,8 @@
 ---
-
+id: 3478
 title: Saint Peter ao forno ao molho de abóbora
-
-author: Lidiane
+date: 2015-09-02T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/09/02/saint-peter/
 permalink: /2015/09/02/saint-peter/
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
 <p align="justify">
@@ -66,7 +66,7 @@ categories:
 </p>
 
 <p align="justify">
-  **Como fazer:**
+  <strong>Como fazer:</strong>
 </p>
 
 <p align="justify">
@@ -78,27 +78,27 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais receitas da Carol:**
+  <strong>Mais receitas da Carol:</strong>
 </p>
 
 <p align="justify">
-  **[Mousse de chocolate com café… porque merecemos!](http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/) **
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/19/mousse-de-chocolate/" target="_blank">Mousse de chocolate com café… porque merecemos!</a></strong>
 </p>
 
 <p align="justify">
-  **[Brigadeiro de colher saudável: xô, TPM!](http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/) **
+  <strong><a href="http://www.trololodemulher.com.br/2015/08/05/brigadeiro-de-colher-saudavel/" target="_blank">Brigadeiro de colher saudável: xô, TPM!</a></strong>
 </p>
 
 <p align="justify">
-  **[Sopa de tomate com couve](http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/) **
+  <strong><a href="http://www.trololodemulher.com.br/2015/07/22/sopa-de-tomate/" target="_blank">Sopa de tomate com couve</a></strong>
 </p>
 
 <p align="justify">
-  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o **blog da Carol** e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e [clica aqui, oh](http://mundocarolvieira.blogspot.com.br/) .
+  Sorte nossa que a Carol, bonita de viver, está dividindo conosco tudo que aprendeu na sua busca por uma alimentação saudável. Reserve espaço no seu caderno de receitas para começar uma pequena revolução (ui!). Enquanto isso, se você é esperta (e eu sei que é!), já pode espiar o <strong>blog da Carol</strong> e extrair o melhor que essa blogueira tem pra oferecer, e aplicar na sua vida “pra ontem!”. Corre… e <a href="http://mundocarolvieira.blogspot.com.br/" target="_blank">clica aqui, oh</a>.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

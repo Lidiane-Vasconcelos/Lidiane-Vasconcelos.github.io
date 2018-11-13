@@ -1,8 +1,8 @@
 ---
-
+id: 3764
 title: 'Cozinha inteligente, prática e funcional: dicas profissionais.'
-
-author: Lidiane
+date: 2017-05-16T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/05/16/cozinha-dicas-decoracao/
 permalink: /2017/05/16/cozinha-dicas-decoracao/
@@ -14,15 +14,15 @@ categories:
 </p>
 
 <p align="justify">
-  Pensando nisso eu resolvi editar esse post, com dicas e orientações profissionais para você fazer bonito no seu cantinho aí, do outro lado, na sua casa. As soluções são da **equipe MA Arquitetura, de Recife**, e são perfeitas pra você que quer caprichar na sua cozinha, e fazer dela um bom lugar de convivência, ou de trabalho diário… e no final das contas, tudo acaba contribuindo para bons momentos. Inspire-se!
+  Pensando nisso eu resolvi editar esse post, com dicas e orientações profissionais para você fazer bonito no seu cantinho aí, do outro lado, na sua casa. As soluções são da <strong>equipe MA Arquitetura, de Recife</strong>, e são perfeitas pra você que quer caprichar na sua cozinha, e fazer dela um bom lugar de convivência, ou de trabalho diário… e no final das contas, tudo acaba contribuindo para bons momentos. Inspire-se!
 </p>
 
 <p align="justify">
-  **Você sabe?**
+  <strong>Você sabe?</strong>
 </p>
 
 <p align="justify">
-  [**Como combinar cor da pedra do balcão com revestimento na cozinha?**](http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/) 
+  <a href="http://www.trololodemulher.com.br/2016/09/13/revestimento-da-cozinha/" target="_blank"><strong>Como combinar cor da pedra do balcão com revestimento na cozinha?</strong></a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 > <p align="justify">
->   **Hoje em dia  temos várias opções de pastilhas e revestimentos legais no mercado. Uma opção boa e de baixo custo, é utilizar o revestimento diferenciado só em uma das paredes, podendo nas outras paredes  serem utilizados o mesmo revestimento do piso, ou um papel de parede vinílico (que seja lavável), ou até mesmo uma pintura do tipo cimento queimado que deixa a cozinha com um ar bem contemporâneo.”**
+>   <strong>Hoje em dia  temos várias opções de pastilhas e revestimentos legais no mercado. Uma opção boa e de baixo custo, é utilizar o revestimento diferenciado só em uma das paredes, podendo nas outras paredes  serem utilizados o mesmo revestimento do piso, ou um papel de parede vinílico (que seja lavável), ou até mesmo uma pintura do tipo cimento queimado que deixa a cozinha com um ar bem contemporâneo.”</strong>
 > </p>
 
 <p align="center">
@@ -50,31 +50,31 @@ categories:
 </p>
 
 <p align="center">
-  **Imagens: Projeto de MA Arquitetura**
+  <strong>Imagens: Projeto de MA Arquitetura</strong>
 </p>
 
 > <p align="justify">
->   **A iluminação em qualquer projeto realça ainda mais o ambiente e é de extrema importância ter um projeto luminotécnico adequado para cada local. Em cozinha geralmente não é utilizado luminárias pontuais, privilegiando sempre por uma iluminação mais difusa e natural.”**
+>   <strong>A iluminação em qualquer projeto realça ainda mais o ambiente e é de extrema importância ter um projeto luminotécnico adequado para cada local. Em cozinha geralmente não é utilizado luminárias pontuais, privilegiando sempre por uma iluminação mais difusa e natural.”</strong>
 > </p>
 
 <p align="justify">
-  **Trololó de Mulher >>> Em se tratando de cozinhas pequenas, móveis com porta corrediça são uma boa opção?**
+  <strong>Trololó de Mulher >>> Em se tratando de cozinhas pequenas, móveis com porta corrediça são uma boa opção?</strong>
 </p>
 
 > <p align="justify">
->   **Em ambientes pequenos optar por móveis funcionais sempre será a melhor solução. Uma cozinha bem projetada precisa ter:  gavetas para guardar talheres, nichos com suporte para toalhas ao lado do fogão, armários superiores com portas de correr ou basculantes, sempre aproveitando todos os espaços da melhor forma possível.”**
+>   <strong>Em ambientes pequenos optar por móveis funcionais sempre será a melhor solução. Uma cozinha bem projetada precisa ter:  gavetas para guardar talheres, nichos com suporte para toalhas ao lado do fogão, armários superiores com portas de correr ou basculantes, sempre aproveitando todos os espaços da melhor forma possível.”</strong>
 > </p>
 
 <p align="justify">
-  **Não deixe de ler:**
+  <strong>Não deixe de ler:</strong>
 </p>
 
 <p align="justify">
-  [**Decoração de cozinha: 4 dúvidas sobre revestimentos de piso respondidas!**](http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/) 
+  <a href="http://www.trololodemulher.com.br/2011/02/21/revestimento-piso-cozinha/" target="_blank"><strong>Decoração de cozinha: 4 dúvidas sobre revestimentos de piso respondidas!</strong></a>
 </p>
 
 <p align="justify">
-  [**Decoração da cozinha: +2 dúvidas sobre revestimentos respondidas!**](http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/) 
+  <a href="http://www.trololodemulher.com.br/2011/07/25/decoracao-cozinha-revestimento/" target="_blank"><strong>Decoração da cozinha: +2 dúvidas sobre revestimentos respondidas!</strong></a>
 </p>
 
 <p align="center">
@@ -82,9 +82,9 @@ categories:
 </p>
 
 <p align="justify">
-  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em [seu site, clicando bem aqui](http://www.maarquitetura.net/) . Além do mais, no [Facebook você pode curtir a fanpage](https://www.facebook.com/maarquitetura/timeline)  desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo. Não deixe de conferir o Instagram deles, [clique aqui, siga](https://www.instagram.com/ma.arquitetura/)  e inspire-se!
+  A equipe da MA Arquitetura está em Recife, atuando lindamente na área de design de interiores, elaborando projetos que tenham a ver com você, sua vida e seu estilo. O resultado do trabalho lindo de viver desse pessoal pode ser conferido em <a href="http://www.maarquitetura.net/" target="_blank">seu site, clicando bem aqui</a>. Além do mais, no <a href="https://www.facebook.com/maarquitetura/timeline" target="_blank">Facebook você pode curtir a fanpage</a> desses queridos e ficar por dentro de ideias e inspirações incríveis pra viver bem em sua casa, seu ninho, seu mundo. Não deixe de conferir o Instagram deles, <a href="https://www.instagram.com/ma.arquitetura/" target="_blank">clique aqui, siga</a> e inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

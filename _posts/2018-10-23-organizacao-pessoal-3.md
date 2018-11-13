@@ -1,8 +1,8 @@
 ---
-
+id: 3883
 title: Que diferença faz a organização pessoal?
-
-author: Lidiane
+date: 2018-10-23T00:00:00+00:00
+author: admin
 excerpt: Você enxerga valor em desenvolver a organização pessoal? Eu posso te garantir que isso faz diferença, vale muito à pena, e te conto o porquê.
 layout: post
 guid: http://localhost/wordpress/2018/10/23/organizacao-pessoal-3/
@@ -13,7 +13,7 @@ categories:
   - Comportamento Feminino
 ---
 <p align="justify">
-  Você se considera uma pessoa organizada? Enxerga valor em desenvolver a **organização pessoal**? Imagina que isso faria diferença no seu dia a dia? Eu posso te garantir que vale muito à pena aprender as melhores práticas de organização pessoal e gestão do tempo, experimentá-las, avaliar o que funciona, e curtir os benefícios reais trazidos pela organização no nosso cotidiano.
+  Você se considera uma pessoa organizada? Enxerga valor em desenvolver a <strong>organização pessoal</strong>? Imagina que isso faria diferença no seu dia a dia? Eu posso te garantir que vale muito à pena aprender as melhores práticas de organização pessoal e gestão do tempo, experimentá-las, avaliar o que funciona, e curtir os benefícios reais trazidos pela organização no nosso cotidiano.
 </p>
 
 <p align="justify">
@@ -49,7 +49,7 @@ Beijos,
 Lidiane {Lidi}
 
 <p align="center">
-  **Nosso contéudo:**
+  <strong>Nosso contéudo:</strong>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ Lidiane {Lidi}
 </p>
 
 <p align="center">
-  **E tem mais!**
+  <strong>E tem mais!</strong>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ Lidiane {Lidi}
 </p>
 
 <p align="center">
-  **Nas Redes:**
+  <strong>Nas Redes:</strong>
 </p>
 
 <p align="center">

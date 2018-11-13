@@ -1,17 +1,17 @@
 ---
-
+id: 2653
 title: 'Bicha Fêmea Convidada: Rose'
-
-author: Lidiane
+date: 2009-04-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/04/29/convidada-ros/
 permalink: /2009/04/29/convidada-ros/
 categories:
   - Sem categoria
 ---
-**_Por Rose – [Receitinhas e Frescurinhas](http://receitinhasefrescurinhas.blogspot.com/) _**
+**_Por Rose – <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Receitinhas e Frescurinhas</a>_**
 
-Eu sou a [Rose](http://receitinhasefrescurinhas.blogspot.com/) , uma mulher de 40 e quase 41 (15/07). Descobri o Bicha Fêmea por pura coincidência&#8230; estava _euzinha_ pesquisando sobre decoração de natal no tio _google_ quando cheguei a este blog&#8230; amei de paixão, li todos os _posts_ da Lidiane desde quando começou o blog&#8230; gosto da forma com que ela escreve. A sensação que tenho é de como se ela estivesse conversando comigo&#8230; simples, direto; e é feito pra nós, sem firulas ou “frescuras”&#8230; e olha que eu adoro uma _frescurinha!_&#8230; rsrs
+Eu sou a <a href="http://receitinhasefrescurinhas.blogspot.com/" target="_blank">Rose</a>, uma mulher de 40 e quase 41 (15/07). Descobri o Bicha Fêmea por pura coincidência&#8230; estava _euzinha_ pesquisando sobre decoração de natal no tio _google_ quando cheguei a este blog&#8230; amei de paixão, li todos os _posts_ da Lidiane desde quando começou o blog&#8230; gosto da forma com que ela escreve. A sensação que tenho é de como se ela estivesse conversando comigo&#8230; simples, direto; e é feito pra nós, sem firulas ou “frescuras”&#8230; e olha que eu adoro uma _frescurinha!_&#8230; rsrs
 
 Bem, hoje literalmente eu _to_ me achando… recebi um convite enviado por ela para que eu escrevesse na seção “Bicha Fêmea convidada”&#8230; afff&#8230; amei, adorei&#8230; e fiquei pensando: como o tema era livre, _karaka!_ Escrever sobre o quê?
 
@@ -222,7 +222,7 @@ _&#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;! &#8220;aniversarian
   
     _É que seja feliz!_
     
-    **<span style="font-size: small;">Versão Católica (usada pelos católicos do Estado do _Ceará – Brasil_</span>**
+    **<span style="font-size: small;">Versão Católica (usada pelos católicos do Estado do <em>Ceará – Brasil</em></span>**
     
     (estrofe acompanhada de palmas)
     
@@ -248,7 +248,7 @@ _&#8220;aniversariante&#8221;! &#8220;aniversariante&#8221;! &#8220;aniversarian
   
     _Dentro do coração._
     
-    <span style="font-size: x-small;">**Versão Evangélica (usada pelos evangélicos do Estado de São Paulo – Brasil**</span>
+    <span style="font-size: x-small;"><strong>Versão Evangélica (usada pelos evangélicos do Estado de São Paulo – Brasil</strong></span>
     
     (estrofe acompanhada de palmas)
     

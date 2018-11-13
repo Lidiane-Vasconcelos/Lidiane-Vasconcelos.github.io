@@ -1,8 +1,8 @@
 ---
-
+id: 2908
 title: 'Home office: soluções simples de decoração &#038; organização.'
-
-author: Lidiane
+date: 2010-11-12T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/11/12/escritorio-decoracao/
 permalink: /2010/11/12/escritorio-decoracao/
@@ -11,7 +11,7 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Independentemente se é grande ou pequeno, os **_home offices_ ou escritórios domésticos** têm feito cada vez mais parte do dia a dia das casas por aí afora, não é? Mas quem disse que esse ambiente não merece toques legais de **decoração**, ou soluções para **organização**?
+  Independentemente se é grande ou pequeno, os <strong><em>home offices</em> ou escritórios domésticos</strong> têm feito cada vez mais parte do dia a dia das casas por aí afora, não é? Mas quem disse que esse ambiente não merece toques legais de <strong>decoração</strong>, ou soluções para <strong>organização</strong>?
 </p>
 
 <p style="text-align: justify;">
@@ -21,7 +21,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Quem tem a chance de trabalhar a partir de casa, e se adapta facilmente a essa rotina, sabe que a opção oferece benefícios irresistíveis. Por aqui, nos meus domínios, eu vejo essa realidade de perto. Marido trabalha de casa, e por isso já providenciamos [nosso home office](http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/)  de modo que atenda nossas necessidades.
+  Quem tem a chance de trabalhar a partir de casa, e se adapta facilmente a essa rotina, sabe que a opção oferece benefícios irresistíveis. Por aqui, nos meus domínios, eu vejo essa realidade de perto. Marido trabalha de casa, e por isso já providenciamos <a href="http://www.trololodemulher.com.br/2010/01/25/projeto-escritorio-home-office/" target="_blank">nosso home office</a> de modo que atenda nossas necessidades.
 </p>
 
 <p style="text-align: justify;">
@@ -29,7 +29,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Quando falta espaço para organizar os apetrechos do escritório…</span>_**
+  <strong><em><span style="font-size: medium;">Quando falta espaço para organizar os apetrechos do escritório…</span></em></strong>
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  _Hum_&#8230; é espaço o que falta? Use a parede, bonita? Busque nas lojas do tipo _home center_ **_nichos de parede que sirvam para você organizar pequenos objetos_**. As **_prateleiras_**, para esse fim, são válidas também. O importante é você **_usar o espaço vertical que dispõe_**, **_mantendo o que é essencial para o seu home office devidamente em ordem_**.
+  <em>Hum</em>&#8230; é espaço o que falta? Use a parede, bonita? Busque nas lojas do tipo <em>home center</em> <strong><em>nichos de parede que sirvam para você organizar pequenos objetos</em></strong>. As <strong><em>prateleiras</em></strong>, para esse fim, são válidas também. O importante é você <strong><em>usar o espaço vertical que dispõe</em></strong>, <strong><em>mantendo o que é essencial para o seu home office devidamente em ordem</em></strong>.
 </p>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Home Office na sala?</span>_**
+  <strong><em><span style="font-size: medium;">Home Office na sala?</span></em></strong>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Se o único espaço que resta na sua casa para manter um _home office_ é na sala, você pode fazê-lo com graça e _bossa_. Verifique uma forma de organizar os seus móveis de modo que uma parede fique livre exclusivamente para isso. É possível? Ótimo! Agora inspire-se no ambiente da imagem e pense nos detalhes para a montagem do seu espaço. Ele pode ser organizado, bonito e inspirador. Tudo depende de você.
+  Se o único espaço que resta na sua casa para manter um <em>home office</em> é na sala, você pode fazê-lo com graça e <em>bossa</em>. Verifique uma forma de organizar os seus móveis de modo que uma parede fique livre exclusivamente para isso. É possível? Ótimo! Agora inspire-se no ambiente da imagem e pense nos detalhes para a montagem do seu espaço. Ele pode ser organizado, bonito e inspirador. Tudo depende de você.
 </p>
 
 <p align="center">
@@ -61,23 +61,23 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Você deve ter se perguntado como se inspirar para ter um escritório na sala de modo que fique bonito, não é? Vamos lá&#8230; você não quer que haja uma discrepância no ambiente, correto? Então pense em **_usar elementos que fiquem sobre sua mesa que “conversem” com tudo o mais que há na sua sala de estar_**.
+  Você deve ter se perguntado como se inspirar para ter um escritório na sala de modo que fique bonito, não é? Vamos lá&#8230; você não quer que haja uma discrepância no ambiente, correto? Então pense em <strong><em>usar elementos que fiquem sobre sua mesa que “conversem” com tudo o mais que há na sua sala de estar</em></strong>.
 </p>
 
 <p style="text-align: justify;">
-  Repare como sobre a mesa do ambiente há vasos de flor, uma escultura como objeto decorativo e até uma _abajour_. Reparou? É nos detalhes que seu _home office_, que ficará na sala, não distoará do resto do ambiente.
+  Repare como sobre a mesa do ambiente há vasos de flor, uma escultura como objeto decorativo e até uma <em>abajour</em>. Reparou? É nos detalhes que seu <em>home office</em>, que ficará na sala, não distoará do resto do ambiente.
 </p>
 
 <p style="text-align: justify;">
-  Escolha uma mesa que não tenha “cara” de escritório para compor esse espaço, e isso você pode conseguir até mesmo em lojas de móveis usados. **_Sob a mesa você pode colocar um gaveteiro_**, como no ambiente retratado na imagem, **_onde contas, recibos e documentos, todos devidamente separados por pastas, ficam organizados_**. E agora? A ideia começa a parecer possível na tua cabeça?
+  Escolha uma mesa que não tenha “cara” de escritório para compor esse espaço, e isso você pode conseguir até mesmo em lojas de móveis usados. <strong><em>Sob a mesa você pode colocar um gaveteiro</em></strong>, como no ambiente retratado na imagem, <strong><em>onde contas, recibos e documentos, todos devidamente separados por pastas, ficam organizados</em></strong>. E agora? A ideia começa a parecer possível na tua cabeça?
 </p>
 
 <p style="text-align: justify;">
-  Viu como a parede ganhou uma decoração _estilosa_ com uma composição de quadros? Você pode experimentar um recurso assim para harmonizar seu _home office_ com o resto do ambiente.
+  Viu como a parede ganhou uma decoração <em>estilosa</em> com uma composição de quadros? Você pode experimentar um recurso assim para harmonizar seu <em>home office</em> com o resto do ambiente.
 </p>
 
 <p style="text-align: center;">
-  **_<span style="font-size: medium;">Soluções simples de decoração & organização fazem diferença no seu escritório!</span>_**
+  <strong><em><span style="font-size: medium;">Soluções simples de decoração & organização fazem diferença no seu escritório!</span></em></strong>
 </p>
 
 <p align="center">
@@ -85,20 +85,20 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Soluções simples podem fazer grande diferença no dia do seu _home office_. Repare como **um quadro/mural de recados pode trazer graça, além de te ajudar selecionando o que de mais importante estará diante de seus olhos**. Inspire-se na imagem!
+  Soluções simples podem fazer grande diferença no dia do seu <em>home office</em>. Repare como <strong>um quadro/mural de recados pode trazer graça, além de te ajudar selecionando o que de mais importante estará diante de seus olhos</strong>. Inspire-se na imagem!
 </p>
 
 <p style="text-align: justify;">
-  Sugiro uma solução simples: com quatro pedaços de madeira monte um quadrado, escolha um tecido que gosta, prenda o tecido com grampos nesse bastidor (num local de montagem e conserto de estofados é possível fazer isso) e _voilá_! Você tem seu mural de recados personalizado!
+  Sugiro uma solução simples: com quatro pedaços de madeira monte um quadrado, escolha um tecido que gosta, prenda o tecido com grampos nesse bastidor (num local de montagem e conserto de estofados é possível fazer isso) e <em>voilá</em>! Você tem seu mural de recados personalizado!
 </p>
 
 <p style="text-align: justify;">
-  Veja sobre a mesa do ambiente como **uma bandeja pequena é ótima para manter a organização** do porta lápis, que poderá ser uma caneca reaproveitada (por que não?) e mais alguns pequenos objetos. Viu? Fica a dica para fazer algo parecido nos seus domínios também&#8230;
+  Veja sobre a mesa do ambiente como <strong>uma bandeja pequena é ótima para manter a organização</strong> do porta lápis, que poderá ser uma caneca reaproveitada (por que não?) e mais alguns pequenos objetos. Viu? Fica a dica para fazer algo parecido nos seus domínios também&#8230;
 </p>
 
 <p style="text-align: center;">
   <p>
-    _Imagens: _[_Better Homes and Gardens_](http://www.bhg.com/) 
+    <em>Imagens: </em><a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
   </p>
   
   <p>
@@ -106,5 +106,5 @@ categories:
   </p>
   
   <p align="center">
-    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>

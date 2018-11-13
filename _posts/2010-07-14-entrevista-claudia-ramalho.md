@@ -1,8 +1,8 @@
 ---
-
+id: 2846
 title: 'Uma Bicha Fêmea por Outra: Cláudia Ramalho'
-
-author: Lidiane
+date: 2010-07-14T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/07/14/entrevista-claudia-ramalho/
 permalink: /2010/07/14/entrevista-claudia-ramalho/
@@ -12,7 +12,7 @@ categories:
 ---
 Ela é editora de um dos blogs femininos de variedades mais bem escritos que se vê pela blogosfera, é casada há 11 anos com seu querido, e mãe de duas princesas muito fofas.
 
-Cláudia Ramalho, muito mais bonita que imagina aos 36 anos, blogueira cuidadosa em tudo o que posta em seu “[Feito a Mão](http://claudinha-feitoamo.blogspot.com/) ”, conta um pouco de sua vida cheia de alegrias e busca pelo equilíbio enquanto mulher, mãe e dona de casa.
+Cláudia Ramalho, muito mais bonita que imagina aos 36 anos, blogueira cuidadosa em tudo o que posta em seu “<a href="http://claudinha-feitoamo.blogspot.com/" target="_blank">Feito a Mão</a>”, conta um pouco de sua vida cheia de alegrias e busca pelo equilíbio enquanto mulher, mãe e dona de casa.
 
 <!--more-->
 
@@ -23,7 +23,7 @@ A vida de Cláudia Ramalho é conduzida como tantas outras mulheres tentam condu
 Mãe das meninas Mariana, 4 anos, e Maria Clara, 8, Cláudia divide com a gente um pouco de sua experiência como mãe, mulher e profissional. A conversa é entre amigas virtuais, é troca de figurinhas… então puxa a cadeira, e continue o _trololó_ depois nos comentários…
 
 <p style="text-align: center;">
-  **_Casamento_**
+  <strong><em>Casamento</em></strong>
 </p>
 
 Quando se tem 20 e poucos anos, a vida tem certas cores. Aos 30 e poucos, as nuances são outras. E isso significa mais ou menos realização a dois? Cláudia sabe muito bem que não, e reflete sobre isso:
@@ -39,7 +39,7 @@ Cláudia deve saber das coisas e do companheiro que tem. Mais do que nunca, foi 
 > _“A decisão de ter filhos foi conjunta, racional, muito planejada. Na primeira vez, a gravidez ocorreu no primeiro mês de tentativas. O que demorou foi a segunda gestação. Não havia motivos físicos, mas demoramos um ano e meio para engravidarmos de Mariana. Não digo que passamos por crises no casamento, mas eu enfrentei meus piores pesadelos naquela época. Acho que consegui sair da fossa pelo apoio e ajuda de Mário. Ele sempre me aturou, mesmo nos piores dias e ficou ao meu lado todo o tempo.”_
 
 <p style="text-align: center;">
-  **_Educação das Filhas e Rotina_**
+  <strong><em>Educação das Filhas e Rotina</em></strong>
 </p>
 
 Marido bom é o que é bom pai também, ora pois! Isso se comprova na rotina da casa da blogueira, que divide com o marido responsabilidades como a de buscar as meninas na escola.
@@ -53,7 +53,7 @@ A educação das crianças e o debate sobre o que vem a ser legal ou não já fo
 > _“ Hoje em dia passa de tudo na tevê, mesmo em horários em que crianças estão na sala. Se não houver controle, não há ordem. Crianças não estão preparadas para enfrentar e filtrar o apelo comercial das propagandas excessivas. Se não forem orientadas crescem consumistas, frustradas e com sérios problemas de auto-estima. Acredito que há muitas outras formas melhores de passar o tempo. Quando estamos juntas, brincamos de algo interessante, lemos revistas, livros ou assistimos a um filme em DVD. Ninguém assiste a novelas lá em casa, mas isso não é proibição. Nem eu nem Mário gostamos e elas estão crescendo sem isso, graças a Deus. Quanto ao computador, somente a Maria Clara, de 8 anos, despertou para isso. A depender de seu comportamento, permito que navegue em sites que eu já cadastrei no PC, por indicação de revistas e sites especializadas em educação infantil, por não mais que meia hora por dia. Se o comportamento vai mal, a primeira coisa a ser cortada é o acesso à net.”_
 
 <p style="text-align: center;">
-  **_Saúde e Beleza_**
+  <strong><em>Saúde e Beleza</em></strong>
 </p>
 
 Vaidade: que mulher não tem? Problemas de estresse por conta do desempenho de várias funções: qual mulher não sofre desse mal? Sinais do tempo ao olhar-se no espelho: qual de nós não percebe? Como Cláudia, tão real quanto você e eu, lida com isso? Ela explica:
@@ -79,5 +79,5 @@ _Melhorei muito minha forma de lidar com adversidades. O que eu aprendi a longo 
 **_[Uma Bicha Fêmea por Outra: Ana Medeiros](http://www.trololodemulher.com.br/2010/03/24/uma-bicha-femea-por-outra-ana-medeiros/)_**
 
 <p style="text-align: center;">
-  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!</span>
+  <span style="font-size: xx-small;">Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!</span>
 </p>

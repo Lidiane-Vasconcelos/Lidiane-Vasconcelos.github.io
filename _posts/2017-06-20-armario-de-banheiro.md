@@ -1,8 +1,8 @@
 ---
-
+id: 3776
 title: 'Armário de banheiro: falta ideia? Veja 6 bonitos e simples!'
-
-author: Lidiane
+date: 2017-06-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/06/20/armario-de-banheiro/
 permalink: /2017/06/20/armario-de-banheiro/
@@ -10,11 +10,11 @@ categories:
   - Banheiro
 ---
 <p align="justify">
-  Ás vezes tudo o que precisamos é de alguma referência para resolver o dilema de decoração que se forma sobre o **armário de banheiro**: qual design escolher para atender as necessidades diárias, de modo que fique funcional e tudo fique organizado? Veja neste post 6 sugestões para você imaginá-las em seus domínios, avaliar se atende ao que você precisa, e te ajudar a decidir o que você quer. Se joga… e inspire-se!
+  Ás vezes tudo o que precisamos é de alguma referência para resolver o dilema de decoração que se forma sobre o <strong>armário de banheiro</strong>: qual design escolher para atender as necessidades diárias, de modo que fique funcional e tudo fique organizado? Veja neste post 6 sugestões para você imaginá-las em seus domínios, avaliar se atende ao que você precisa, e te ajudar a decidir o que você quer. Se joga… e inspire-se!
 </p>
 
 <p align="justify">
-  _**1 &#8211; Diferente do comum:**_
+  <em><strong>1 &#8211; Diferente do comum:</strong></em>
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@ categories:
 </p>
 
 <p align="center">
-  Via [Better Homes and Gardens](http://www.bhg.com/) 
+  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
-  Com _design_ assimétrico, você pode ter um armário que foge do lugar comum. Veja esse móvel, por exemplo: são três gavetões, organizados em dois níveis, sendo os dois com pedra no topo. Puxadores modernos deixam o móvel mais contemporâneo, e o resultado pode ser algo supreendente visualmente, não é?
+  Com <em>design</em> assimétrico, você pode ter um armário que foge do lugar comum. Veja esse móvel, por exemplo: são três gavetões, organizados em dois níveis, sendo os dois com pedra no topo. Puxadores modernos deixam o móvel mais contemporâneo, e o resultado pode ser algo supreendente visualmente, não é?
 </p>
 
 <p align="justify">
-  _**2 &#8211; Armário flutuante:**_
+  <em><strong>2 &#8211; Armário flutuante:</strong></em>
 </p>
 
 <p align="center">
@@ -38,15 +38,15 @@ categories:
 </p>
 
 <p align="center">
-  Via [HGTV](http://www.hgtv.com/) 
+  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 </p>
 
 <p align="justify">
-  Mesmo em banheiros bem pequenos, dá pra ter um armário bonito e funcional. Optar por um que seja aéreo, ou seja, que deixa a visão do chão livre, dá a impressão de que o espaço no ambiente é maior. O _design_ desse móvel permitiu colocar gavetas de cada lado para armazenar o que é necessário nesse cantinho da casa. Fica a dica.
+  Mesmo em banheiros bem pequenos, dá pra ter um armário bonito e funcional. Optar por um que seja aéreo, ou seja, que deixa a visão do chão livre, dá a impressão de que o espaço no ambiente é maior. O <em>design</em> desse móvel permitiu colocar gavetas de cada lado para armazenar o que é necessário nesse cantinho da casa. Fica a dica.
 </p>
 
 <p align="justify">
-  _**3 &#8211; Bem pequeno, mas moderno:**_
+  <em><strong>3 &#8211; Bem pequeno, mas moderno:</strong></em>
 </p>
 
 <p align="center">
@@ -54,15 +54,15 @@ categories:
 </p>
 
 <p align="center">
-  Via [HGTV](http://www.hgtv.com/) 
+  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 </p>
 
 <p align="justify">
-  Esse armário também é aéreo, seguindo aquela ideia de deixar a visão do chão livre. Com medidas menores, a opção aqui foi pelo _design_ bem limpo limitado a 3 gavetas mais largas, que podem ser muito bem usadas através do recurso de divisórias internas, o que facilita a organização. Inspire-se!
+  Esse armário também é aéreo, seguindo aquela ideia de deixar a visão do chão livre. Com medidas menores, a opção aqui foi pelo <em>design</em> bem limpo limitado a 3 gavetas mais largas, que podem ser muito bem usadas através do recurso de divisórias internas, o que facilita a organização. Inspire-se!
 </p>
 
 <p align="justify">
-  _**4 – Armário contemporâneo:**_
+  <em><strong>4 – Armário contemporâneo:</strong></em>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [HGTV](http://www.hgtv.com/) 
+  Via <a href="http://www.hgtv.com/" target="_blank">HGTV</a>
 </p>
 
 <p align="justify">
@@ -78,7 +78,7 @@ categories:
 </p>
 
 <p align="justify">
-  _**5 – Linhas simples:**_
+  <em><strong>5 – Linhas simples:</strong></em>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Better Homes and Gardens](http://www.bhg.com/) 
+  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="justify">
-  _**6 – Armário encorpado e com estilo:**_
+  <em><strong>6 – Armário encorpado e com estilo:</strong></em>
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Better Homes and Gardens](http://www.bhg.com/) 
+  Via <a href="http://www.bhg.com/" target="_blank">Better Homes and Gardens</a>
 </p>
 
 <p align="justify">
@@ -110,5 +110,5 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

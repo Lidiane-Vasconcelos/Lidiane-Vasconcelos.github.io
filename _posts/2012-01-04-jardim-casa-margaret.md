@@ -1,8 +1,8 @@
 ---
-
+id: 3101
 title: Tem jardim na casa de Margaret? Ô, se tem!
-
-author: Lidiane
+date: 2012-01-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2012/01/04/jardim-casa-margaret/
 permalink: /2012/01/04/jardim-casa-margaret/
@@ -26,17 +26,17 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 </p>
 
 <p align="center">
-  _**Margaret** e o marido, seu amado **Bi**, com quem troca ideias para a decoração e paisagismo do jardim. Eles estão em frente a uma palmeira, um tipo de planta amado por ela pelo visual bonito que tem._
+  <em><strong>Margaret</strong> e o marido, seu amado <strong>Bi</strong>, com quem troca ideias para a decoração e paisagismo do jardim. Eles estão em frente a uma palmeira, um tipo de planta amado por ela pelo visual bonito que tem.</em>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Quem conhece a Margaret sabe que ela é o tipo de pessoa que gosta de colocar a mão na massa, por isso ela virou referência para a ideia do “faça você mesma” na decoração. Todas estamos muito acostumadas a ver no seu blog, o **[Margaretss](http://www.margaretss.com.br/) **, suas ideias aplicadas em reaproveitamento de móveis e objetos, e este post mostra que ela também sabe das coisas quando o assunto é compor um ambiente externo que dê a sensação plena de aconchego.
+  Quem conhece a Margaret sabe que ela é o tipo de pessoa que gosta de colocar a mão na massa, por isso ela virou referência para a ideia do “faça você mesma” na decoração. Todas estamos muito acostumadas a ver no seu blog, o <strong><a href="http://www.margaretss.com.br/" target="_blank">Margaretss</a></strong>, suas ideias aplicadas em reaproveitamento de móveis e objetos, e este post mostra que ela também sabe das coisas quando o assunto é compor um ambiente externo que dê a sensação plena de aconchego.
 </p>
 
 <p align="justify">
-  Decidida a fazer tudo sem a ajuda de um paisagista profissional, Margaret conseguiu imprimir a ideia de lar até mesmo no jardim de sua casa. Para quem deseja criar algo nesse sentido em casa também, ela avisa: “_Uma dica importante é gostar. Precisa gostar de plantas. Outra dica é não se influenciar por determinados “paisagistas” que só querem ganhar dinheiro. Ja cometemos este erro e nosso jardim ficou horrivel. Só faça algo que realmente goste. Converse com pessoas que gostam do assunto, visite hortos, veja as plantas que se adequam melhor ao clima_”.
+  Decidida a fazer tudo sem a ajuda de um paisagista profissional, Margaret conseguiu imprimir a ideia de lar até mesmo no jardim de sua casa. Para quem deseja criar algo nesse sentido em casa também, ela avisa: “<em>Uma dica importante é gostar. Precisa gostar de plantas. Outra dica é não se influenciar por determinados “paisagistas” que só querem ganhar dinheiro. Ja cometemos este erro e nosso jardim ficou horrivel. Só faça algo que realmente goste. Converse com pessoas que gostam do assunto, visite hortos, veja as plantas que se adequam melhor ao clima</em>”.
 </p>
 
 &nbsp;
@@ -54,7 +54,7 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 &nbsp;
 
 <p align="justify">
-  O jardim de Margaret é bem grande, com 300 metros de gramado e várias plantas de um lado, e outra área um pouco menor do outro. Com um espaço assim, dá para variar bastante, e Margaret soube fazer isso muito bem. Amante das palmeiras porque dão um visual bonito ao espaço, ela espalhou várias pelo local. Como uma regra básica a ser seguida, essa blogueira super esperta diz que não pode faltar colorido em qualquer jardim, e esse papel é cumprido por suas _bouganvilles_, e ela completa: “_além disso tem a parte de frutas. Coqueiros, uma mangueira adolescente, um pé de seriguela, jabuticaba, limão e pitanga. Também tem buxinho, papiro, pimenteira e uma infinidade de outras plantas que não sei o nome_”.
+  O jardim de Margaret é bem grande, com 300 metros de gramado e várias plantas de um lado, e outra área um pouco menor do outro. Com um espaço assim, dá para variar bastante, e Margaret soube fazer isso muito bem. Amante das palmeiras porque dão um visual bonito ao espaço, ela espalhou várias pelo local. Como uma regra básica a ser seguida, essa blogueira super esperta diz que não pode faltar colorido em qualquer jardim, e esse papel é cumprido por suas <em>bouganvilles</em>, e ela completa: “<em>além disso tem a parte de frutas. Coqueiros, uma mangueira adolescente, um pé de seriguela, jabuticaba, limão e pitanga. Também tem buxinho, papiro, pimenteira e uma infinidade de outras plantas que não sei o nome</em>”.
 </p>
 
 &nbsp;
@@ -72,7 +72,7 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 </p>
 
 <p align="center">
-  _O pergolado, que reina absoluto no jardim, serve de abrigo para o carro. Mas seu papel de garagem não poderia passar sem qualquer charme. Para garantir que isso não se perca, Margaret mantem cortinas bem levinhas no espaço, que ganhou uma bossa toda especial._
+  <em>O pergolado, que reina absoluto no jardim, serve de abrigo para o carro. Mas seu papel de garagem não poderia passar sem qualquer charme. Para garantir que isso não se perca, Margaret mantem cortinas bem levinhas no espaço, que ganhou uma bossa toda especial.</em>
 </p>
 
 &nbsp;
@@ -88,19 +88,19 @@ E como tem, bonita! O jardim na casa da **Margaret**, blogueira das mais conheci
 &nbsp;
 
 <p align="justify">
-  Já imaginou dar uma voltinha nesse jardim e ver cada detalhe do espaço, sendo recebida pela própria Margaret? **Se não dá para chegar lá agora, no Bicha Fêmea essa delícia de experiência chega até você.** Acomode-se na cadeira e curta a simpatia ímpar da Margaret mostrando seu espaço para a gente… confere!
+  Já imaginou dar uma voltinha nesse jardim e ver cada detalhe do espaço, sendo recebida pela própria Margaret? <strong>Se não dá para chegar lá agora, no Bicha Fêmea essa delícia de experiência chega até você.</strong> Acomode-se na cadeira e curta a simpatia ímpar da Margaret mostrando seu espaço para a gente… confere!
 </p>
 
 
 
 <p align="center">
-  **<span style="font-size: medium;">Quais os cuidados necessários para ter um espaço tão lindo e gostoso?</span>**
+  <strong><span style="font-size: medium;">Quais os cuidados necessários para ter um espaço tão lindo e gostoso?</span></strong>
 </p>
 
 &nbsp;
 
 > <p align="justify">
->   “_Temos um rapaz que faz a parte mais pesada que é molhar (todos os dias), adubação e podar a grama. Ficamos sempre de olho em pragas que normalmente aparecem e vamos cuidando&#8230; Á__s vezes a grama não fica tão linda, ás vezes as formigas não ajudam e cuidando um pouquinho de cada lado vamos deixando o jardim com a nossa cara. __É muito importante molhar todos os dias”._
+>   “<em>Temos um rapaz que faz a parte mais pesada que é molhar (todos os dias), adubação e podar a grama. Ficamos sempre de olho em pragas que normalmente aparecem e vamos cuidando&#8230; Á</em><em>s vezes a grama não fica tão linda, ás vezes as formigas não ajudam e cuidando um pouquinho de cada lado vamos deixando o jardim com a nossa cara. </em><em>É muito importante molhar todos os dias”.</em>
 > </p>
 
 &nbsp;
@@ -110,20 +110,20 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">Mais no Bicha Fêmea</span>**
+  <strong><span style="font-size: large;">Mais no Bicha Fêmea</span></strong>
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><img class="alignnone size-full wp-image-6881" title="Jardim - Carol Carneiro[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro3200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/">**<span style="font-size: small;">Qual espaço na sua casa é a cara do Verão?</span>**</a>
+        <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><img class="alignnone size-full wp-image-6881" title="Jardim - Carol Carneiro[3]200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/09/Jardim-Carol-Carneiro3200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2011/09/07/decoracao-verao-jardim/"><strong><span style="font-size: small;">Qual espaço na sua casa é a cara do Verão?</span></strong></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg"><img class="alignnone size-full wp-image-5844" title="jardim200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/">**<span style="font-size: small;">Decoração de jardins com objetos reutilizados</span>**</a>
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg"><img class="alignnone size-full wp-image-5844" title="jardim200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/01/jardim200.jpg" alt="" width="200" height="200" /></a><br /> <a href="http://www.trololodemulher.com.br/2009/10/29/decoracao-jardim/"><strong><span style="font-size: small;">Decoração de jardins com objetos reutilizados</span></strong></a>
       </p>
     </td>
   </tr>
@@ -132,28 +132,28 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
 &nbsp;
 
 <p align="center">
-  **Vamos manter contato?**
+  <strong>Vamos manter contato?</strong>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>
 
 <p align="center">
-  **Redes Sociais**
+  <strong>Redes Sociais</strong>
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="200">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" />](http://twitter.com/#%21/bichafemea) 
+        <a href="http://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="200">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebbok" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" alt="" width="49" height="49" /></a>
       </p>
     </td>
     
@@ -163,5 +163,5 @@ Depois de um post desse, difícil é não sair suspirando e desejando mais cores
 </table>
 
 <p align="center">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2737
 title: Da graça que há no meu notebook e no Twitter…
-
-author: Lidiane
+date: 2009-11-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/11/19/meu-notebook-e-twitter/
 permalink: /2009/11/19/meu-notebook-e-twitter/
@@ -19,16 +19,16 @@ Lembra que uma vez eu te contei [sobre adesivos de paredes _vintage_ muito lindo
 
 Corri, serelepe e saltitante, mais feliz do que pinto no lixo, e logo coloquei a fofurice no meu _note,_ que é para fazer graça e charme. Olha aí! Fez diferença ou não fez?!?
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="DSC01922" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01922_thumb.jpg" border="0" alt="DSC01922" width="277" height="331" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01922.jpg) Aproveito para _me amostrar_ um pouco, como se diz em Pernambuco, e mostro para você minha porção [Izabelle Nossa](http://www.izabellenossa.com.br/blog/)  revelada na minha mais nova colcha, que é de retalhos e tem um “Q” de romantismo. Comprei essa colcha na mesma semana em que [falei sobre dicas e detalhes na decoração do quarto](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/). Inspirei e me deixei inspirar com uma colcha de retalhos linda que está [naquele post](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/). Deu no que deu, e comprei a minha na [Etna](http://www.etna.com.br/)  da região de Campinas.
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="DSC01922" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01922_thumb.jpg" border="0" alt="DSC01922" width="277" height="331" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01922.jpg) Aproveito para _me amostrar_ um pouco, como se diz em Pernambuco, e mostro para você minha porção <a href="http://www.izabellenossa.com.br/blog/" target="_blank">Izabelle Nossa</a> revelada na minha mais nova colcha, que é de retalhos e tem um “Q” de romantismo. Comprei essa colcha na mesma semana em que [falei sobre dicas e detalhes na decoração do quarto](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/). Inspirei e me deixei inspirar com uma colcha de retalhos linda que está [naquele post](http://www.trololodemulher.com.br/2009/10/01/dicas-e-detalhes-na-decoracao-do-quarto/). Deu no que deu, e comprei a minha na <a href="http://www.etna.com.br/" target="_blank">Etna</a> da região de Campinas.
 
 [<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="DSC01924" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01924_thumb.jpg" border="0" alt="DSC01924" width="277" height="331" align="left" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/dsc01924.jpg)
 
-E agora, inspirada pela baleia _cute cute_ que aparece quando o [Twitter](http://twitter.com/)  está congestionado, e que está estampadinha no meu _skin_ da VidadeParede, decidi ver com meus próprios olhos _qualqueé_ a do [Twitter](http://twitter.com/) . E já [ando por lá](http://twitter.com/bichafemea)  dando umas _twitadas_…
+E agora, inspirada pela baleia _cute cute_ que aparece quando o <a href="http://twitter.com/" target="_blank">Twitter</a> está congestionado, e que está estampadinha no meu _skin_ da VidadeParede, decidi ver com meus próprios olhos _qualqueé_ a do <a href="http://twitter.com/" target="_blank">Twitter</a>. E já <a href="http://twitter.com/bichafemea" target="_blank">ando por lá</a> dando umas _twitadas_…
 
-Mas tenho que adiantar que a Vivien, d’ [A Casa da Mãe Joana](http://www.mejoana.blogspot.com/) , bem que me influenciou muito para entrar nessa rede social, hein!
+Mas tenho que adiantar que a Vivien, d’ <a href="http://www.mejoana.blogspot.com/" target="_blank">A Casa da Mãe Joana</a>, bem que me influenciou muito para entrar nessa rede social, hein!
 
-[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="tgm_twitter_icon_pink[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/tgm_twitter_icon_pink1_thumb.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/tgm_twitter_icon_pink11.png) Você já reparou no passarinho cor de rosa aqui do lado, na barra lateral? Foi mais difícil achar esse passarinho cor de rosa no Google (para combinar com o Bicha Fêmea) do que entrar no [Twitter](http://twitter.com/)  e aprender a usá-lo. É muito fácil…
+[<img style="display: inline; margin-left: 0; margin-right: 0; border-width: 0;" title="tgm_twitter_icon_pink[1]" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/tgm_twitter_icon_pink1_thumb.png" border="0" alt="tgm_twitter_icon_pink[1]" width="64" height="64" align="right" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2009/11/tgm_twitter_icon_pink11.png) Você já reparou no passarinho cor de rosa aqui do lado, na barra lateral? Foi mais difícil achar esse passarinho cor de rosa no Google (para combinar com o Bicha Fêmea) do que entrar no <a href="http://twitter.com/" target="_blank">Twitter</a> e aprender a usá-lo. É muito fácil…
 
 … ás vezes é chato e enfadonho quando as pessoas decidem insistir num tipo de assunto que você não está muito a fim de ler, e você não tem alternativa porque o assunto vem e pronto! A menos que você deixe de seguir a pessoa, é assim que funciona… mas isso faz parte de estar numa comunidade virtual, _né_?
 
-Por outro lado, a gente fica sabendo em primeira mão de muitas coisas legais por lá também. Como tudo nessa vida, sabendo usar, até que o [Twitter](http://twitter.com/)  pode ser muito útil. Eu estou por lá explorando esse novo mundo como **_<span style="font-size: small;">[@bichafemea](http://twitter.com/bichafemea) </span>_**. E você? Já está por lá? Então… [me segue aí](http://twitter.com/bichafemea) !!!!
+Por outro lado, a gente fica sabendo em primeira mão de muitas coisas legais por lá também. Como tudo nessa vida, sabendo usar, até que o <a href="http://twitter.com/" target="_blank">Twitter</a> pode ser muito útil. Eu estou por lá explorando esse novo mundo como **_<span style="font-size: small;"><a href="http://twitter.com/bichafemea" target="_blank">@bichafemea</a></span>_**. E você? Já está por lá? Então… <a href="http://twitter.com/bichafemea" target="_blank">me segue aí</a>!!!!

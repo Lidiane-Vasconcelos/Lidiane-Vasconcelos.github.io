@@ -1,8 +1,8 @@
 ---
-
+id: 3276
 title: 'O que fazer na hora da &#8220;birra&#8221;?'
-
-author: Lidiane
+date: 2014-01-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/01/28/birra-filho-maternidade/
 permalink: /2014/01/28/birra-filho-maternidade/
@@ -15,7 +15,7 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 &nbsp;
 
 <p style="text-align: justify;">
-  Essa não é uma dúvida só minha, concorda? Foi por isso que eu quis editar este post sobre o assunto com a ajuda de quem já vivenciou a situação e aprendeu a contornar esse imprevisto. A boa notícia é que a **Neli Rodrigues**, blogueira no **[Caprichos by Neli](http://www.caprichosbyneli.com/) **, topou dividir sua experiência conosco. Ela é palestrante num curso de gestantes, onde aborda o limite na educação das crianças, e deu o seu recado:
+  Essa não é uma dúvida só minha, concorda? Foi por isso que eu quis editar este post sobre o assunto com a ajuda de quem já vivenciou a situação e aprendeu a contornar esse imprevisto. A boa notícia é que a <strong>Neli Rodrigues</strong>, blogueira no <strong><a href="http://www.caprichosbyneli.com/" target="_blank">Caprichos by Neli</a></strong>, topou dividir sua experiência conosco. Ela é palestrante num curso de gestantes, onde aborda o limite na educação das crianças, e deu o seu recado:
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 &nbsp;
 
 <p style="text-align: justify;">
-  Além da contribuição da Neli, a **Elaine Cunha**, do blog **[Caminhando e Contando](http://www.caminhandocontando.com/) **, me enviou um link _superultramega_ bacana abordando o assunto. O tema foi tratado no texto **[Pais são responsáveis pelas birras dos filhos; conheça a criação com apego](http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/) **, escrito pela **Giovanna Balogh**. O que se vê no que foi escrito é a importância que os pais devem dar ao exercício da observação. Há colocações bem pertinentes, feitas pela **Neurocientista Andréia C.K. Mortensen**, a respeito dos pontos desencadeadores de uma birra: cansaço, sono, tédio, fome, angústia, o fato de a criança estar num ambiente que gera muitos estímulos, a exemplo de um shopping, etc. Sendo assim, o_ X_ da questão seria: qual o motivo da birra?
+  Além da contribuição da Neli, a <strong>Elaine Cunha</strong>, do blog <strong><a href="http://www.caminhandocontando.com/" target="_blank">Caminhando e Contando</a></strong>, me enviou um link <em>superultramega</em> bacana abordando o assunto. O tema foi tratado no texto <strong><a href="http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/" target="_blank">Pais são responsáveis pelas birras dos filhos; conheça a criação com apego</a></strong>, escrito pela <strong>Giovanna Balogh</strong>. O que se vê no que foi escrito é a importância que os pais devem dar ao exercício da observação. Há colocações bem pertinentes, feitas pela <strong>Neurocientista Andréia C.K. Mortensen</strong>, a respeito dos pontos desencadeadores de uma birra: cansaço, sono, tédio, fome, angústia, o fato de a criança estar num ambiente que gera muitos estímulos, a exemplo de um shopping, etc. Sendo assim, o<em> X</em> da questão seria: qual o motivo da birra?
 </p>
 
 &nbsp;
@@ -37,17 +37,17 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 </p>
 
 <p style="text-align: center;">
-  Imagem: **_[stock.xchng](http://www.sxc.hu/) _**
+  Imagem: <strong><em><a href="http://www.sxc.hu/" target="_blank">stock.xchng</a></em></strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: justify;">
-  Quem mais conhece nossa cria? A prática da observação se dá no dia a dia, na atenção aos pormenores do comportamento do filho. Disso eu entendo! Isso exige paciência, é verdade, mas o resultado é fantástico, porque nos dá poderes enormes para detectar o que pode estar perturbando a criança. E mais, é a partir da intimidade que construímos com os pequenos que podemos nos atencipar e evitar certas situações de desconforto. Enfim, de acordo com o posicionamento da especialista no texto, “_não existe uma fórmula de como cessar a birra, pois não a controlamos, mas lidamos com elas. Para cada birra, é necessária uma atitude diferente, dependendo da sua causa_”. A indicação da Elaine, realmente, foi muito feliz. A leitura vale muito a pena, é bastante rica para nós, que somos mães dispostas a conduzir a criação dos filhos com leveza, sem violência. Dê um** [clique aqui](http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/) **, e boa leitura!
+  Quem mais conhece nossa cria? A prática da observação se dá no dia a dia, na atenção aos pormenores do comportamento do filho. Disso eu entendo! Isso exige paciência, é verdade, mas o resultado é fantástico, porque nos dá poderes enormes para detectar o que pode estar perturbando a criança. E mais, é a partir da intimidade que construímos com os pequenos que podemos nos atencipar e evitar certas situações de desconforto. Enfim, de acordo com o posicionamento da especialista no texto, “<em>não existe uma fórmula de como cessar a birra, pois não a controlamos, mas lidamos com elas. Para cada birra, é necessária uma atitude diferente, dependendo da sua causa</em>”. A indicação da Elaine, realmente, foi muito feliz. A leitura vale muito a pena, é bastante rica para nós, que somos mães dispostas a conduzir a criação dos filhos com leveza, sem violência. Dê um<strong> <a href="http://maternar.blogfolha.uol.com.br/2014/01/16/pais-sao-responsaveis-pelas-birras-dos-filhos-conheca-a-criacao-com-apego/" target="_blank">clique aqui</a></strong>, e boa leitura!
 </p>
 
 <p style="text-align: justify;">
-  O que a gente não pode deixar de concordar é que, muitas vezes, não há razão aparente para o _chilique_ do filho, ou seja, não há fome, sono, ou qualquer outra razão aparente que nos indique uma atitude mais direcionada. E aí? Como agir? É nesse sentido que o conselho da Neli é super pertinente e orienta com precisão as mães de primeira viagem sobre como lidar com o assunto, já que ela, mãe de dois, sabe do que está falando.
+  O que a gente não pode deixar de concordar é que, muitas vezes, não há razão aparente para o <em>chilique</em> do filho, ou seja, não há fome, sono, ou qualquer outra razão aparente que nos indique uma atitude mais direcionada. E aí? Como agir? É nesse sentido que o conselho da Neli é super pertinente e orienta com precisão as mães de primeira viagem sobre como lidar com o assunto, já que ela, mãe de dois, sabe do que está falando.
 </p>
 
 &nbsp;
@@ -59,47 +59,47 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 &nbsp;
 
 <p style="text-align: justify;">
-  Fato: a Neli está certa quando diz que cada criança tem sua personalidade e realidade, de modo que não há fórmulas prontas. Disso a gente conclui que o que pode ser bom para uma criança, não necessariamente vai funcionar com outra, certo? Neste caso, vale _superultramega_ a pena o compartilhamento de experiências entre as mães, assim a gente enxerga várias possibilidades e estratégias para lidar com esse tipo de situação, não é? Então, deixo aqui a pergunta:
+  Fato: a Neli está certa quando diz que cada criança tem sua personalidade e realidade, de modo que não há fórmulas prontas. Disso a gente conclui que o que pode ser bom para uma criança, não necessariamente vai funcionar com outra, certo? Neste caso, vale <em>superultramega</em> a pena o compartilhamento de experiências entre as mães, assim a gente enxerga várias possibilidades e estratégias para lidar com esse tipo de situação, não é? Então, deixo aqui a pergunta:
 </p>
 
 &nbsp;
 
 <p style="text-align: center;" align="center">
-  **<span style="color: #58c2b0; font-size: medium;">O que funciona ou funcionou com sua criança? Topa dividir sua experiência com outras leitoras? Fique á vontade e solte o verbo nos comentários, bonita!</span>**
+  <strong><span style="color: #58c2b0; font-size: medium;">O que funciona ou funcionou com sua criança? Topa dividir sua experiência com outras leitoras? Fique á vontade e solte o verbo nos comentários, bonita!</span></strong>
 </p>
 
 &nbsp;
 
 <p style="text-align: center;">
-  **<span style="font-size: medium;">Muito mais para você, que é mãe:</span>**
+  <strong><span style="font-size: medium;">Muito mais para você, que é mãe:</span></strong>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/10/14/crianca-alimentacao/">**<span style="font-size: medium;">Lugar de criança é na cozinha?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/10/14/crianca-alimentacao/"><strong><span style="font-size: medium;">Lugar de criança é na cozinha?</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/">**<span style="font-size: medium;">Você amamentou? Tenho uma pergunta sobre rachaduras.</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/13/amamentacao-rachaduras/"><strong><span style="font-size: medium;">Você amamentou? Tenho uma pergunta sobre rachaduras.</span></strong></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/">**<span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span>**</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/06/sono-bebe-berco-choro/"><strong><span style="font-size: medium;">Quando a criança não quer dormir no berço: deixar chorar ou não?</span></strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/">** **</a>
+  <a href="http://www.trololodemulher.com.br/2013/09/11/decoracao-parede-fotos/"><strong> </strong></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" width="600" height="59" /></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: small;">Redes Sociais</span>**
+  <strong><span style="font-size: small;">Redes Sociais</span></strong>
 </p>
 
 &nbsp;
@@ -110,13 +110,13 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" />](https://twitter.com/#%21/bichafemea) 
+        <a href="https://twitter.com/#%21/bichafemea" target="_blank"><img class="alignnone size-full wp-image-6857" title="Twitter" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Twitter.png" width="49" height="49" /></a>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        [<img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" />](https://www.facebook.com/profile.php?id=100002007076157) 
+        <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank"><img class="alignnone size-full wp-image-6855" title="Facebook" alt="" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/Facebbok.png" width="49" height="49" /></a>
       </p>
     </td>
   </tr>
@@ -125,5 +125,5 @@ Você já deve saber, sou mãe de primeira viagem de Artur, que hoje tem 1 aninh
 &nbsp;
 
 <p style="text-align: center;">
-  [<img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" />](https://www.facebook.com/bichafemea) 
+  <a href="https://www.facebook.com/bichafemea" target="_blank"><img class="alignnone size-full wp-image-9849" alt="BICHA FEMEA FACEBOOK" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/01/BICHA-FEMEA-FACEBOOK1.png" width="250" height="90" /></a>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2862
 title: 'Saúde no Bicha Fêmea: respirador bucal'
-
-author: Lidiane
+date: 2010-08-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/08/18/saude-respirador-bucal/
 permalink: /2010/08/18/saude-respirador-bucal/
@@ -24,7 +24,7 @@ categories:
 <!--more-->
 
 <p style="text-align: justify;">
-  Como dormem mal, são irritadiços. Estão sempre gripados e com amigdalites, e todas as _ites_ são comuns. Esses são alguns sinais para procurar tratamento para a causa principal: a respiração bucal.
+  Como dormem mal, são irritadiços. Estão sempre gripados e com amigdalites, e todas as <em>ites</em> são comuns. Esses são alguns sinais para procurar tratamento para a causa principal: a respiração bucal.
 </p>
 
 <p style="text-align: justify;">
@@ -43,24 +43,24 @@ categories:
   Parece absurdo dizer que boca mastiga e nariz respira! Porque quando a boca respira tudo desanda!
 </p>
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="598" valign="top">
-      **_Por<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/marluce-tavares/" target="_self"> Marluce de Vasconcelos Tavares</a>_**
+      <strong><em>Por<a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/marluce-tavares/" target="_self"> Marluce de Vasconcelos Tavares</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="598" valign="top">
-      **_Dentista especialista em OFM._**
+      <strong><em>Dentista especialista em OFM.</em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="598" valign="top">
-      **_Trabalho com respiradores bucais em Clínica Particular e pelo SUS &#8211; no Centro Regional de Especialidades de Colatina-ES_**
+      <strong><em>Trabalho com respiradores bucais em Clínica Particular e pelo SUS &#8211; no Centro Regional de Especialidades de Colatina-ES</em></strong>
     </td>
   </tr>
 </table>
@@ -74,9 +74,9 @@ Quer fazer como a Marluce, e publicar seu texto aqui? Seja uma **_[bicha fêmea 
 **_[Excesso de lanches pode estar contribuindo para a obesidade infantil.](http://www.trololodemulher.com.br/2010/04/12/obesidade-infantil/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/corpo/">**_Corpo_**</a> > **_<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a>_** > Saúde no Bicha Fêmea: respirador bucal
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/corpo/"><strong><em>Corpo</em></strong></a> > <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em></strong> > Saúde no Bicha Fêmea: respirador bucal
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>

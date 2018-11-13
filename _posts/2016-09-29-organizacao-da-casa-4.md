@@ -1,8 +1,8 @@
 ---
-
+id: 3677
 title: '3º post da série para organização da casa: penteadeira.'
-
-author: Lidiane
+date: 2016-09-29T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/09/29/organizacao-da-casa-4/
 permalink: /2016/09/29/organizacao-da-casa-4/
@@ -10,27 +10,27 @@ categories:
   - Organização
 ---
 <p align="justify">
-  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a **organização da casa**, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve [segundo sobre a cozinha](http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/) , é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
+  Cada coisa em seu lugar, um lugar para cada coisa. Parece simples manter a <strong>organização da casa</strong>, mas não é bem assim para quem não fez disso um hábito. O objetivo desta série de posts, que já teve <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">o primeiro deles sobre home office</a>, e o <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">segundo sobre a cozinha</a>, é te ajudar a manter a casa em ordem, porque isso vai fazer você economizar tempo e energia no dia a dia, que você pode transferir e empregar em outras atividades. Isso, bonita, se traduz em qualidade de vida também!
 </p>
 
 <p align="justify">
-  O **Trololó de Mulher** teve o privilégio de receber dicas preciosas de **_Personal Organizers_** queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o **post Nº3**, será sobre **a penteadeira, **ou o **cantinho da beleza. **Eu, por exemplo, não tenho uma penteadeira propriamente dita, mas tenho um espaço dedicado para me cuidar e arrumar, então imagino que você também tenha, certo? Então confira porque vale muito a pena! A _expert_ que aponta como colocar ordem nesse espaço da casa é a **Kalinka Carvalho. **Confira!
+  O <strong>Trololó de Mulher</strong> teve o privilégio de receber dicas preciosas de <strong><em>Personal Organizers</em></strong> queridas. Cada uma delas preparou orientações valiosíssimas acerca dos diferentes cômodos da casa, e o resultado é que teremos uma série de posts por aqui pra deixar a casa nos conformes. O de hoje é o <strong>post Nº3</strong>, será sobre <strong>a penteadeira, </strong>ou o <strong>cantinho da beleza. </strong>Eu, por exemplo, não tenho uma penteadeira propriamente dita, mas tenho um espaço dedicado para me cuidar e arrumar, então imagino que você também tenha, certo? Então confira porque vale muito a pena! A <em>expert</em> que aponta como colocar ordem nesse espaço da casa é a <strong>Kalinka Carvalho. </strong>Confira!
 </p>
 
 <p align="justify">
-  Não deixe de conferir **o primeiro post da série**: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">clique aqui e veja como deixar seu home office em ordem</a>!
+  Não deixe de conferir <strong>o primeiro post da série</strong>: <a href="http://www.trololodemulher.com.br/2016/09/22/organizacao-da-casa-2/">clique aqui e veja como deixar seu home office em ordem</a>!
 </p>
 
 <p align="justify">
-  O **segundo post da série** também está imperdível: [clique aqui e veja como deixar sua cozinha um brinco](http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/) !
+  O <strong>segundo post da série</strong> também está imperdível: <a href="http://www.trololodemulher.com.br/2016/09/27/organizacao-da-casa-3/" target="_blank">clique aqui e veja como deixar sua cozinha um brinco</a>!
 </p>
 
 <p align="justify">
-  O **quarto** está repleto de estratégias muito úteis: [clique aqui e veja como organizar o seu closet.](http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/) 
+  O <strong>quarto</strong> está repleto de estratégias muito úteis: <a href="http://www.trololodemulher.com.br/2016/10/06/organizacao-da-casa-5/" target="_blank">clique aqui e veja como organizar o seu closet.</a>
 </p>
 
 <p align="justify">
-  O **quinto post** está cheinho de dicas bacanas: [clique aqui e veja como deixar o quarto infantil em ordem!](http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/) 
+  O <strong>quinto post</strong> está cheinho de dicas bacanas: <a href="http://www.trololodemulher.com.br/2016/10/18/organizacao-da-casa-6/" target="_blank">clique aqui e veja como deixar o quarto infantil em ordem!</a>
 </p>
 
 <p align="center">
@@ -138,11 +138,11 @@ categories:
 </p>
 
 <p align="justify">
-  Kalinka atualiza regularmente o seu blog, onde dá dicas de organização pessoal, residências e eventos, além de disponibilizar gratuitamente listas e checklists para downloads. Seu principal objetivo é ajudar as pessoas a se organizarem tornando suas vidas mais prática. [Clique aqui e fique por dentro de tudo](http://www.kalinkacarvalho.com.br/index.html) ! Além do mais, por lá você fica sabendo dos outros serviços oferecidos pela Kalinka: palestras, consultorias na área de organização pessoal e de eventos, e também sua loja, com produtos para manter a casa, vida e rotina em ordem. Kalinka também está no Facebook, com sua fanpage recheada de dicas. [Clique aqui, curta e acompanhe](https://www.facebook.com/kalinkascarvalho/) . No Instagram a moça também nos deixa muito bem informadas: [clique aqui, siga e fique por dentro](https://www.instagram.com/kalinkacarvalho/) !
+  Kalinka atualiza regularmente o seu blog, onde dá dicas de organização pessoal, residências e eventos, além de disponibilizar gratuitamente listas e checklists para downloads. Seu principal objetivo é ajudar as pessoas a se organizarem tornando suas vidas mais prática. <a href="http://www.kalinkacarvalho.com.br/index.html" target="_blank">Clique aqui e fique por dentro de tudo</a>! Além do mais, por lá você fica sabendo dos outros serviços oferecidos pela Kalinka: palestras, consultorias na área de organização pessoal e de eventos, e também sua loja, com produtos para manter a casa, vida e rotina em ordem. Kalinka também está no Facebook, com sua fanpage recheada de dicas. <a href="https://www.facebook.com/kalinkascarvalho/" target="_blank">Clique aqui, curta e acompanhe</a>. No Instagram a moça também nos deixa muito bem informadas: <a href="https://www.instagram.com/kalinkacarvalho/" target="_blank">clique aqui, siga e fique por dentro</a>!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

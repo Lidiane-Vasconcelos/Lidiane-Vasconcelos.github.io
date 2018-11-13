@@ -1,8 +1,8 @@
 ---
-
+id: 2664
 title: Do jardim japonês e tudo o mais que nos acalme.
-
-author: Lidiane
+date: 2009-05-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/05/22/jardim-japones/
 permalink: /2009/05/22/jardim-japones/
@@ -53,7 +53,7 @@ A medida que vou descobrindo o que vejo, me vêm a cabeça ideias e algumas conc
   <img class="aligncenter" style="display: block; float: none; margin-left: auto; margin-right: auto;" title="http://www.midwestliving.com/mwl/" src="http://images.meredith.com/mwl/images/2008/12/ss_101132010.jpg" alt="http://www.midwestliving.com/mwl/" />
 </p>
 
-Imagens: [Midwest Living](http://www.midwestliving.com/mwl/) 
+Imagens: <a href="http://www.midwestliving.com/mwl/" target="_blank">Midwest Living</a>
 
 **Quer mais dicas sobre dicas par aproveitar a vida?**
 

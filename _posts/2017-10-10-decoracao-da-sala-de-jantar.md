@@ -1,8 +1,8 @@
 ---
-
+id: 3811
 title: 'Decoração da sala de jantar da leitora: dúvidas respondidas!'
-
-author: Lidiane
+date: 2017-10-10T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/10/10/decoracao-da-sala-de-jantar/
 permalink: /2017/10/10/decoracao-da-sala-de-jantar/
@@ -10,23 +10,23 @@ categories:
   - Salas
 ---
 <p align="justify">
-  Este é um dilema de decoração daqueles! A Franciane, leitora do blog, está com essa dúvida. Ela quer repaginar a **decoração da sala de jantar**, e modernizá-la. Faz planos de comprar uma mesa de jantar nova, instalar uma luminária pendente sobre essa mesa, e viver de amores pelo espaço. Mas no meio do caminho tem um ventilador de teto, tem um ventilador de teto no meio do caminho… _tstc tsc tsc_… e agora, o que fazer?
+  Este é um dilema de decoração daqueles! A Franciane, leitora do blog, está com essa dúvida. Ela quer repaginar a <strong>decoração da sala de jantar</strong>, e modernizá-la. Faz planos de comprar uma mesa de jantar nova, instalar uma luminária pendente sobre essa mesa, e viver de amores pelo espaço. Mas no meio do caminho tem um ventilador de teto, tem um ventilador de teto no meio do caminho… <em>tstc tsc tsc</em>… e agora, o que fazer?
 </p>
 
 <p align="justify">
-  Foi aí que a Franciane teve uma ideia, e bem acertada,_ viu_? Ela me enviou um e-mail **(trololomulher@gmail.com)** pedindo ajuda sobre como resolver esse problema, e cá estou eu com a boa notícia: este post é para acabar com a insegurança da leitora. A bonita vai receber todas as dicas e orientações da **_Designer de Interiores_ Carol Carneiro**, que é nossa parceira querida e deu seus conselhos decorativos de _expert. ´Bora ver_?
+  Foi aí que a Franciane teve uma ideia, e bem acertada,<em> viu</em>? Ela me enviou um e-mail <strong>(trololomulher@gmail.com)</strong> pedindo ajuda sobre como resolver esse problema, e cá estou eu com a boa notícia: este post é para acabar com a insegurança da leitora. A bonita vai receber todas as dicas e orientações da <strong><em>Designer de Interiores</em> Carol Carneiro</strong>, que é nossa parceira querida e deu seus conselhos decorativos de <em>expert. ´Bora ver</em>?
 </p>
 
 <p align="justify">
-  **E a dúvida da Franciane foi:**
+  <strong>E a dúvida da Franciane foi:</strong>
 </p>
 
 > <p align="justify">
->   **Olá, tudo bem? Estou com muita dúvida em relação a minha sala de jantar. Ela é junto com a sala de estar, tem um ventilador no meio do teto, e a mesa de jantar fica mais ou menos um metro e meio de distância desse ventilador. Gostaria de colocar um pendente charmoso em cima da mesa de jantar. Será que vai ficar legal? Se puder me esclarecer ou me passar ideias, serei grata&#8230;espero contar com sua ajuda para me esclarecer se vai ficar bonito ou ficar esquisito. Nessa parede roxa penso em por um espelho; se tiver mais sugestões e novas ideias pode me orientar, aceito de coração&#8230;desde já agradeço! Quero repaginar minha sala de jantar. Vou comprar uma mesa de jantar de madeira com vidro, por isso quero saber se vai ficar bonito o pendente em cima da mesa.&#8221;**
+>   <strong>Olá, tudo bem? Estou com muita dúvida em relação a minha sala de jantar. Ela é junto com a sala de estar, tem um ventilador no meio do teto, e a mesa de jantar fica mais ou menos um metro e meio de distância desse ventilador. Gostaria de colocar um pendente charmoso em cima da mesa de jantar. Será que vai ficar legal? Se puder me esclarecer ou me passar ideias, serei grata&#8230;espero contar com sua ajuda para me esclarecer se vai ficar bonito ou ficar esquisito. Nessa parede roxa penso em por um espelho; se tiver mais sugestões e novas ideias pode me orientar, aceito de coração&#8230;desde já agradeço! Quero repaginar minha sala de jantar. Vou comprar uma mesa de jantar de madeira com vidro, por isso quero saber se vai ficar bonito o pendente em cima da mesa.&#8221;</strong>
 > </p>
 
 <p align="justify">
-  **Pedi que a Franciane enviasse fotos, e cá estão elas:**
+  <strong>Pedi que a Franciane enviasse fotos, e cá estão elas:</strong>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  **E a resposta da Carol para esse dilema é:**
+  <strong>E a resposta da Carol para esse dilema é:</strong>
 </p>
 
 <p align="center">
@@ -50,11 +50,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [André Iluminação](http://www.andreiluminacao.com.br/index.php?route=common/home) 
+  Imagem: <a href="http://www.andreiluminacao.com.br/index.php?route=common/home" target="_blank">André Iluminação</a>
 </p>
 
 > <p align="justify">
->   **De preferência usar uma luminária de sobrepor como esta (acima) que irá combinar com a mesa de jantar que pretende adquirir. Isso para não &#8220;brigar&#8221; muito. O volume do ventilador interfere bastante no ambiente. O ideal seria retirá-lo do teto e no lugar usar apenas um plafon de sobrepor quadrado.”**
+>   <strong>De preferência usar uma luminária de sobrepor como esta (acima) que irá combinar com a mesa de jantar que pretende adquirir. Isso para não &#8220;brigar&#8221; muito. O volume do ventilador interfere bastante no ambiente. O ideal seria retirá-lo do teto e no lugar usar apenas um plafon de sobrepor quadrado.”</strong>
 > </p>
 
 <p align="center">
@@ -62,11 +62,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagens das texturas de papel de parede via [Requinte Brasil Papel de Parede](http://www.requintepapeldeparede.com.br/) 
+  Imagens das texturas de papel de parede via <a href="http://www.requintepapeldeparede.com.br/" target="_blank">Requinte Brasil Papel de Parede</a>
 </p>
 
 > <p align="justify">
->   **Quanto à parede roxa, acho que vai cansar muito rápido, apesar de gostar, pois é uma cor marcante. Sendo assim, sugiro que use um papel de parede com textura de linho (bem discreto), que trará mais aconchego e vai &#8220;aquecer&#8221; mais a sala. E ponha um espelho com um buffet (ou aparador) à frente dele. Dessa forma, seu espaço ficará mais agradável, aconhegante e amplo. O espelho dará sensação de clarear ainda mais e aumentar sua sala. A ideia de adquirir uma mesa de jantar vidro/madeira é ótima, assim como trocar cadeiras também.”**
+>   <strong>Quanto à parede roxa, acho que vai cansar muito rápido, apesar de gostar, pois é uma cor marcante. Sendo assim, sugiro que use um papel de parede com textura de linho (bem discreto), que trará mais aconchego e vai &#8220;aquecer&#8221; mais a sala. E ponha um espelho com um buffet (ou aparador) à frente dele. Dessa forma, seu espaço ficará mais agradável, aconhegante e amplo. O espelho dará sensação de clarear ainda mais e aumentar sua sala. A ideia de adquirir uma mesa de jantar vidro/madeira é ótima, assim como trocar cadeiras também.”</strong>
 > </p>
 
 <p align="center">
@@ -74,11 +74,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagens de salas via [A arte de decorar](http://arte-decorar.blogspot.com.br/) 
+  Imagens de salas via <a href="http://arte-decorar.blogspot.com.br/" target="_blank">A arte de decorar</a>
 </p>
 
 > <p align="justify">
->   **Caso a leitora resolva retirar o ventilador do teto, aí sim ela pode usar um pendente. O modelo vai depender do estilo dela.”**
+>   <strong>Caso a leitora resolva retirar o ventilador do teto, aí sim ela pode usar um pendente. O modelo vai depender do estilo dela.”</strong>
 > </p>
 
 <p align="center">
@@ -86,11 +86,11 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [Encante+](http://www.encantemais.com.br/) 
+  Imagem: <a href="http://www.encantemais.com.br/" target="_blank">Encante+</a>
 </p>
 
 > <p align="justify">
->   **Se a leitora gosta da cor roxa (ou tom lilás), pode usar em adorno, como por exemplo, um arranjo de lavanda sobre a mesa de jantar, ou sobre o buffet sugerido.”**
+>   <strong>Se a leitora gosta da cor roxa (ou tom lilás), pode usar em adorno, como por exemplo, um arranjo de lavanda sobre a mesa de jantar, ou sobre o buffet sugerido.”</strong>
 > </p>
 
 <p align="center">
@@ -98,25 +98,25 @@ categories:
 </p>
 
 <p align="justify">
-  **Mais dúvidas tiradas pela Carol:**
+  <strong>Mais dúvidas tiradas pela Carol:</strong>
 </p>
 
 <p align="justify">
-  [**Como escolher tecidos para a decoração da varanda?**](http://www.trololodemulher.com.br/2017/06/06/decoracao-da-varanda/) 
+  <a href="http://www.trololodemulher.com.br/2017/06/06/decoracao-da-varanda/" target="_blank"><strong>Como escolher tecidos para a decoração da varanda?</strong></a>
 </p>
 
 <p align="justify">
-  [**Como reformar um armário velho de ferro?**](http://www.trololodemulher.com.br/2016/09/20/armario-de-ferro/) 
+  <a href="http://www.trololodemulher.com.br/2016/09/20/armario-de-ferro/" target="_blank"><strong>Como reformar um armário velho de ferro?</strong></a>
 </p>
 
 <p style="text-align: justify;" align="justify">
-  **Carol Carneiro é uma Designer de Ambientes** apaixonada por reutilização de materiais. [No blog que ela edita](http://blogcarolcarneiro.blogspot.com.br/)  dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em [sua página no Facebook. É só clicar aqui](https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/) , curtir e acompanhar.
+  <strong>Carol Carneiro é uma Designer de Ambientes</strong> apaixonada por reutilização de materiais. <a href="http://blogcarolcarneiro.blogspot.com.br/" target="_blank">No blog que ela edita</a> dá pra ver muito mais do que ela já andou produzindo, além de suas ideias transformadas em posts. Além disso, há muito mais em <a href="https://www.facebook.com/Blog-Carol-Carneiro-185450341509448/" target="_blank">sua página no Facebook. É só clicar aqui</a>, curtir e acompanhar.
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-14011" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/08/ASSINE.jpg" alt="ASSINE" width="568" height="147" /></a>
 </p>
 
 <p align="center">
-  [<img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" />](http://loja.trololodemulher.com.br/) 
+  <a href="http://loja.trololodemulher.com.br/" target="_blank"><img class="alignnone wp-image-14278 size-full" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2017/10/LOJA-TROLOLO-DE-MULHER.png" alt="LOJA TROLOLO DE MULHER" width="468" height="176" /></a>
 </p>

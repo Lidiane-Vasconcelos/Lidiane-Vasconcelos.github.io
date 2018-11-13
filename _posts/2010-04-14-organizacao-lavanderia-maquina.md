@@ -1,8 +1,8 @@
 ---
-
+id: 2806
 title: 'Lavanderia: que tipo de máquina facilita a organização?'
-
-author: Lidiane
+date: 2010-04-14T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/04/14/organizacao-lavanderia-maquina/
 permalink: /2010/04/14/organizacao-lavanderia-maquina/
@@ -106,7 +106,7 @@ Você duvida que qualquer marceneiro seja capaz de produzir uma lavandeira sob m
 
 **Agora fala para mim, bonita: de alguma forma você ficou tentada a mudar o modelo na próxima vez que for comprar sua máquina de lavar roupas?** 
 
-Imagens: [Better Homes](http://www.bhg.com/) 
+Imagens: <a href="http://www.bhg.com/" target="_blank">Better Homes</a>
 
 **Mais no Bicha Fêmea…**
 

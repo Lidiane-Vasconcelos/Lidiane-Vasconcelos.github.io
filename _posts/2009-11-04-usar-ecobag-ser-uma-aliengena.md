@@ -1,8 +1,8 @@
 ---
-
+id: 2727
 title: Usar Ecobag = Ser Uma Alienígena. Será?
-
-author: Lidiane
+date: 2009-11-04T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/11/04/usar-ecobag-ser-uma-aliengena/
 permalink: /2009/11/04/usar-ecobag-ser-uma-aliengena/
@@ -25,4 +25,4 @@ No supermercado que frequento parece que sim: usar ecobag é como ser uma alien�
 
 Pelo menos no mercado que frequento, ainda me sinto uma ET usando minha sacola reutilizável. _Humpf_!
 
-Imagem: [stock.xchng](http://www.sxc.hu/) 
+Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>

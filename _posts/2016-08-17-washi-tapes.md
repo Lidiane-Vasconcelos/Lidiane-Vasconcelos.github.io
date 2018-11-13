@@ -1,8 +1,8 @@
 ---
-
+id: 3645
 title: 'Washi tapes: 3 ideias de decoração “faça você mesma”.'
-
-author: Lidiane
+date: 2016-08-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/08/17/washi-tapes/
 permalink: /2016/08/17/washi-tapes/
@@ -23,7 +23,7 @@ categories:
 <!--more-->
 
 <p align="center">
-  **<span style="font-size: large;">1 – Moldura para gravuras, fotos ou ilustrações.</span>**
+  <strong><span style="font-size: large;">1 – Moldura para gravuras, fotos ou ilustrações.</span></strong>
 </p>
 
 &nbsp;
@@ -41,7 +41,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagens: [Design Sponge](http://www.designsponge.com/) 
+  Imagens: <a href="http://www.designsponge.com/" target="_blank">Design Sponge</a>
 </p>
 
 &nbsp;
@@ -51,13 +51,13 @@ categories:
 </p>
 
 <p align="justify">
-  Para que você planeje bem como irá dispor suas imagens, sugiro a leitura deste post sobre [como decorar a parede com quadros](http://www.decoracaodacasa.com/decoracao-parede-quadros/) . Use a mesma estratégia para pensar como será sua composição, e mãos a obra!
+  Para que você planeje bem como irá dispor suas imagens, sugiro a leitura deste post sobre <a href="http://www.decoracaodacasa.com/decoracao-parede-quadros/" target="_blank">como decorar a parede com quadros</a>. Use a mesma estratégia para pensar como será sua composição, e mãos a obra!
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">2 – Capa divertida, e colorida, para espelhos de tomada.</span>**
+  <strong><span style="font-size: large;">2 – Capa divertida, e colorida, para espelhos de tomada.</span></strong>
 </p>
 
 &nbsp;
@@ -69,13 +69,13 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Com a facilidade de manuseio da washi tape e sua criatividade, as variações de revestimentos para seus espelhos de tomadas são muitas. Já imaginou? Somente para começar, veja 3 delas bem [aqui, no blog Observation Diary](http://www.observationdiary.com/?p=2348) . O post é em inglês, mas isso não fará a menor diferença para você. Espie!
+  Com a facilidade de manuseio da washi tape e sua criatividade, as variações de revestimentos para seus espelhos de tomadas são muitas. Já imaginou? Somente para começar, veja 3 delas bem <a href="http://www.observationdiary.com/?p=2348" target="_blank">aqui, no blog Observation Diary</a>. O post é em inglês, mas isso não fará a menor diferença para você. Espie!
 </p>
 
 &nbsp;
 
 <p align="center">
-  **<span style="font-size: large;">3 – Detalhe inusitado na passagem de um cômodo a outro.</span>**
+  <strong><span style="font-size: large;">3 – Detalhe inusitado na passagem de um cômodo a outro.</span></strong>
 </p>
 
 &nbsp;
@@ -85,7 +85,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [A Beautiful Mess](http://www.abeautifulmess.com/) 
+  Imagem: <a href="http://www.abeautifulmess.com/" target="_blank">A Beautiful Mess</a>
 </p>
 
 &nbsp;
@@ -95,25 +95,25 @@ categories:
 </p>
 
 <p style="text-align: left;" align="center">
-  **Mais ideias “faça você mesma” para você:**
+  <strong>Mais ideias “faça você mesma” para você:</strong>
 </p>
 
 <p style="text-align: left;" align="center">
-  [**2 ideias para festa ou decoração infantil: faça você mesma.**](http://www.decoracaodacasa.com/festa-decoracao-infantil/) 
+  <a href="http://www.decoracaodacasa.com/festa-decoracao-infantil/" target="_blank"><strong>2 ideias para festa ou decoração infantil: faça você mesma.</strong></a>
 </p>
 
 <p style="text-align: left;" align="center">
-  [**Como fazer flores de papel colorido para dar bossa na decoração?**](http://www.decoracaodacasa.com/flores-de-papel-decoracao/) 
+  <a href="http://www.decoracaodacasa.com/flores-de-papel-decoracao/" target="_blank"><strong>Como fazer flores de papel colorido para dar bossa na decoração?</strong></a>
 </p>
 
 <p style="text-align: left;" align="center">
-  [**Decoração de parede com tampa de caixa de sapato… é criativo ou não é?**](http://www.decoracaodacasa.com/decoracao-de-parede/) 
+  <a href="http://www.decoracaodacasa.com/decoracao-de-parede/" target="_blank"><strong>Decoração de parede com tampa de caixa de sapato… é criativo ou não é?</strong></a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

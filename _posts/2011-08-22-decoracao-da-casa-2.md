@@ -1,8 +1,8 @@
 ---
-
+id: 3039
 title: Do que você mais gosta na sua casa?
-
-author: Lidiane
+date: 2011-08-22T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/08/22/decoracao-da-casa-2/
 permalink: /2011/08/22/decoracao-da-casa-2/
@@ -11,7 +11,7 @@ categories:
   - Comportamento Feminino
   - Decoração
 ---
-Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vânia Pinho**, que edita o blog **[Casa de Boneca](http://www.casadebonecadecor.blogspot.com/) **, apontar um cantinho preferido é algo difícil. Ela tem um caso de amor com a casa inteira, e mostra com paixão cada cantinho dela aqui, no **Bicha Fêmea.**
+Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vânia Pinho**, que edita o blog **<a href="http://www.casadebonecadecor.blogspot.com/" target="_blank">Casa de Boneca</a>**, apontar um cantinho preferido é algo difícil. Ela tem um caso de amor com a casa inteira, e mostra com paixão cada cantinho dela aqui, no **Bicha Fêmea.**
 
 &nbsp;
 
@@ -22,13 +22,13 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 <!--more-->
 
 <p align="center">
-  **<span style="font-size: medium;">A sala de estar…</span>**
+  <strong><span style="font-size: medium;">A sala de estar…</span></strong>
 </p>
 
 &nbsp;
 
 <p align="justify">
-  Este ambiente é onde a Vânia costuma ficar enquanto _bloga_. Cheio de detalhes decorativos nas prateleiras sobre a TV, o que também chama a atenção é a presença do verde em sua sala.
+  Este ambiente é onde a Vânia costuma ficar enquanto <em>bloga</em>. Cheio de detalhes decorativos nas prateleiras sobre a TV, o que também chama a atenção é a presença do verde em sua sala.
 </p>
 
 &nbsp;
@@ -40,7 +40,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 > <p align="justify">
->   “_Cantinho onde geralmente eu sento para visitar os blogs das amigas e fazer minhas postagens_. Adoro esse cantinho com planta natural e velas”
+>   “<em>Cantinho onde geralmente eu sento para visitar os blogs das amigas e fazer minhas postagens</em>. Adoro esse cantinho com planta natural e velas”
 > </p>
 
 &nbsp;
@@ -52,7 +52,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 > <p align="justify">
->   “_Adoro a minha sala porque é nela onde nos reunimos todas as noites_.”
+>   “<em>Adoro a minha sala porque é nela onde nos reunimos todas as noites</em>.”
 > </p>
 
 &nbsp;
@@ -64,11 +64,11 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 &nbsp;
 
 > <p align="justify">
->   “Adoro esse canto, pois a maioria das peças foram feitas por mim, _só a a vela amarela e o vidro exotérico é que não foram._
+>   “Adoro esse canto, pois a maioria das peças foram feitas por mim, <em>só a a vela amarela e o vidro exotérico é que não foram.</em>
 > </p>
 
 <p align="center">
-  **<span style="font-size: medium;">Heranças de família…</span>**
+  <strong><span style="font-size: medium;">Heranças de família…</span></strong>
 </p>
 
 <p align="justify">
@@ -80,7 +80,7 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 > <p align="justify">
->   “_Esta cristaleira foi um presente que minha ex sogra me deu e eu reformei, e as telas ao lado foram pintadas por mim_.”
+>   “<em>Esta cristaleira foi um presente que minha ex sogra me deu e eu reformei, e as telas ao lado foram pintadas por mim</em>.”
 > </p>
 
 <p align="center">
@@ -100,15 +100,15 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 > <p align="justify">
->   “_A cristaleira, o bufet e o espelho foram resturados por mim, fiz pátina_.”
+>   “<em>A cristaleira, o bufet e o espelho foram resturados por mim, fiz pátina</em>.”
 > </p>
 
 <p align="center">
-  **<span style="font-size: medium;">Quarto com toques de romantismo…</span>**
+  <strong><span style="font-size: medium;">Quarto com toques de romantismo…</span></strong>
 </p>
 
 <p align="justify">
-  A Vania é inquieta, pois vive mudando a decoração conforme as ideias surgem a partir dos cliques que dá de blog em blog. Quando coloca a mão na massa, as _fofurices_ lindas de viver vão parar nos cantinhos da casa, a exemplo do varal de corações que está em sua cabeceira.
+  A Vania é inquieta, pois vive mudando a decoração conforme as ideias surgem a partir dos cliques que dá de blog em blog. Quando coloca a mão na massa, as <em>fofurices</em> lindas de viver vão parar nos cantinhos da casa, a exemplo do varal de corações que está em sua cabeceira.
 </p>
 
 <p align="center">
@@ -120,45 +120,45 @@ Essa é uma pergunta fácil de ser respondida para você? Para a **artesã Vâni
 </p>
 
 > <p align="justify">
->   “_Eu adoro esse canto  que é simples porém muito aconchegante. Todos os enfeites que estão sobre os criados também foram feitos por mim, incluindo o varal de corações.”_
+>   “<em>Eu adoro esse canto  que é simples porém muito aconchegante. Todos os enfeites que estão sobre os criados também foram feitos por mim, incluindo o varal de corações.”</em>
 > </p>
 
 <p align="justify">
-  Vânia mudou recentemente do estado do Rio de Janeiro para Pernambuco, e agora é **Recife** quem abraça essa mulher cheia de talentos. Enquanto não retoma suas atividades profissionais com mãos de fada para tantas realizações artesanais, é a casa quem agradece tantos mimos e cuidados, o que enche os olhos de quem vive num lar tão bonito de se ver… e não é isso que também dá graça ao dia a dia?
+  Vânia mudou recentemente do estado do Rio de Janeiro para Pernambuco, e agora é <strong>Recife</strong> quem abraça essa mulher cheia de talentos. Enquanto não retoma suas atividades profissionais com mãos de fada para tantas realizações artesanais, é a casa quem agradece tantos mimos e cuidados, o que enche os olhos de quem vive num lar tão bonito de se ver… e não é isso que também dá graça ao dia a dia?
 </p>
 
 <p align="justify">
-  **Mais no Bicha Fêmea…**
+  <strong>Mais no Bicha Fêmea…</strong>
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/">Decoração “faça você mesma”: luminárias de taça de vinho.</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2011/08/15/decoracao-faca-voce-mesma-3/">Decoração “faça você mesma”: luminárias de taça de vinho.</a></strong>
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/">Móvel usado e antigo: dá mesmo para repaginá-lo?</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2011/08/01/movel-usado-antigo-restauracao/">Móvel usado e antigo: dá mesmo para repaginá-lo?</a></strong>
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/">Decoração barata: casa de Rejane</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2011/07/15/decoracao-barata/">Decoração barata: casa de Rejane</a></strong>
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/">Quer um mesinha? Improvisa!!!</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2011/07/12/decoracao-faca-voce-mesma-2/">Quer um mesinha? Improvisa!!!</a></strong>
 </p>
 
 <p align="justify">
-  **<a href="http://www.trololodemulher.com.br/2011/07/05/decoracao-romantica-ruby/">Decoração romântica: casa da Ruby</a>**
+  <strong><a href="http://www.trololodemulher.com.br/2011/07/05/decoracao-romantica-ruby/">Decoração romântica: casa da Ruby</a></strong>
 </p>
 
 <p align="center">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>
 </p>
 
 <p align="center">
-  **E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a>**
+  <strong>E-mail: <a href="mailto:bichafemea@trololodemulher.com.br">bichafemea@trololodemulher.com.br</a></strong>
 </p>
 
 <p align="center">
-  **[Twitter](http://twitter.com/#!/bichafemea)  | [Facebook](https://www.facebook.com/profile.php?id=100002007076157)  **
+  <strong><a href="http://twitter.com/#!/bichafemea" target="_blank">Twitter</a> | <a href="https://www.facebook.com/profile.php?id=100002007076157" target="_blank">Facebook</a> </strong>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 3022
 title: 3 ideias vintage que organizam seu ateliê com charme. Inspire-se!
-
-author: Lidiane
+date: 2011-07-18T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/07/18/ideias-vintage-organizacao/
 permalink: /2011/07/18/ideias-vintage-organizacao/
@@ -11,11 +11,11 @@ categories:
   - Organização
 ---
 <p style="text-align: justify;">
-  Esse post é para **você que é arteira**, tem um **cantinho em casa** para suas_ invencionices_ e gosta que tudo fique **organizado** sem perder o **charme**. Vem cá e me conta: você também gosta da onda _vintage _que anda pela blogosfera afora?
+  Esse post é para <strong>você que é arteira</strong>, tem um <strong>cantinho em casa</strong> para suas<em> invencionices</em> e gosta que tudo fique <strong>organizado</strong> sem perder o <strong>charme</strong>. Vem cá e me conta: você também gosta da onda <em>vintage </em>que anda pela blogosfera afora?
 </p>
 
 <p style="text-align: justify;">
-  Se a resposta for sim, este post é mesmo para você: veja mais adiante **3 sugestões** para você **organizar** o seu espaço de fabricar _fofurices_ com um charme todo especial… assim, com ar bem _retrô_. Inspire-se!
+  Se a resposta for sim, este post é mesmo para você: veja mais adiante <strong>3 sugestões</strong> para você <strong>organizar</strong> o seu espaço de fabricar <em>fofurices</em> com um charme todo especial… assim, com ar bem <em>retrô</em>. Inspire-se!
 </p>
 
 <!--more-->
@@ -27,7 +27,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Se eu fosse você procurava uma **fruteira de metal**, ou até de outro material, mas que tivesse uma **cara do tempo da vovó**, de preferência assim, **com mais de um andar**. Deixá-la displicentemente em cima de um balcão ou mesa, com itens de trabalho mais emergenciais, traria uma _bossa_ toda especial para seu ateliê… duvida?
+  Se eu fosse você procurava uma <strong>fruteira de metal</strong>, ou até de outro material, mas que tivesse uma <strong>cara do tempo da vovó</strong>, de preferência assim, <strong>com mais de um andar</strong>. Deixá-la displicentemente em cima de um balcão ou mesa, com itens de trabalho mais emergenciais, traria uma <em>bossa</em> toda especial para seu ateliê… duvida?
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Gaveteiros de plástico para organizar toda a sorte de miudezas no espaço de uma arteira salvam, não é? Disso eu não duvido! Mas também é verdade que eles não são assim… a coisa mais _cute cute_ do mundo de se ver, certo? E como toda leitora do Trololó de Mulher gosta de coisas que façam bem aos olhos também, que tal providenciar uma **cortina que combine vários tecidos para escondê-los sob uma mesa, balcão ou prateleira**? Aí, sim! Isto é o que chamo de organização com estilo!
+  Gaveteiros de plástico para organizar toda a sorte de miudezas no espaço de uma arteira salvam, não é? Disso eu não duvido! Mas também é verdade que eles não são assim… a coisa mais <em>cute cute</em> do mundo de se ver, certo? E como toda leitora do Trololó de Mulher gosta de coisas que façam bem aos olhos também, que tal providenciar uma <strong>cortina que combine vários tecidos para escondê-los sob uma mesa, balcão ou prateleira</strong>? Aí, sim! Isto é o que chamo de organização com estilo!
 </p>
 
 &nbsp;
@@ -51,17 +51,17 @@ categories:
 &nbsp;
 
 <p align="justify">
-  Já pensou se você tivesse algumas **latas antigas de biscoito** e usasse para guardar seus _trecos e apetrechos_ e, além de tudo isso, pudesse **empilhar algumas delas sob uma bandeja de bolo com pé**? É bonito, eficiente e_ vintage_… muito _vintage_. Fica a dica!
+  Já pensou se você tivesse algumas <strong>latas antigas de biscoito</strong> e usasse para guardar seus <em>trecos e apetrechos</em> e, além de tudo isso, pudesse <strong>empilhar algumas delas sob uma bandeja de bolo com pé</strong>? É bonito, eficiente e<em> vintage</em>… muito <em>vintage</em>. Fica a dica!
 </p>
 
 &nbsp;
 
-Imagens: **[scrapbooks etc.](http://www.scrapbooksetc.com/) **
+Imagens: **<a href="http://www.scrapbooksetc.com/" target="_blank">scrapbooks etc.</a>**
 
 &nbsp;
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

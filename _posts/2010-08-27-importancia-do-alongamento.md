@@ -1,8 +1,8 @@
 ---
-
+id: 2866
 title: Qual é a importância do alongamento?
-
-author: Lidiane
+date: 2010-08-27T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/08/27/importancia-do-alongamento/
 permalink: /2010/08/27/importancia-do-alongamento/
@@ -41,20 +41,20 @@ O alongamento ainda não é muito utilizado, porém os benefícios que ele causa
   Tudo o que fazemos em melhoria para o nosso corpo será reflexo para o bem estar e a saúde, alongue-se com a ajuda de um profissional. Após o alongamento não esqueça de descontrair a musculatura para diminuir a tensão do local.
 </p>
 
-_Imagem:_ [_stock.xchng_](http://www.sxc.hu/) 
+_Imagem:_ <a href="http://www.sxc.hu/" target="_blank"><em>stock.xchng</em></a>
 
 _ _
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
   <tr>
     <td width="600" valign="top">
-      **_Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/tamires-roque/" target="_self">Tamires Fernandes Roque</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo</a>_**
+      <strong><em>Por <a href="http://www.trololodemulher.com.br/category/bicha-femea-colaboradora/tamires-roque/" target="_self">Tamires Fernandes Roque</a> via <a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/" target="_self">Conteúdo Colaborativo</a></em></strong>
     </td>
   </tr>
   
   <tr>
     <td width="600" valign="top">
-      **<a href="mailto:tamires_ef@ig.com.br">tamires_ef@ig.com.br</a>**
+      <strong><a href="mailto:tamires_ef@ig.com.br">tamires_ef@ig.com.br</a></strong>
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ _ _
  
 
 <p style="text-align: left;">
-  **Mais no Bicha Fêmea…**
+  <strong>Mais no Bicha Fêmea…</strong>
 </p>
 
 **_[Alimentos gordurosos versus escolhas saudáveis…](http://www.trololodemulher.com.br/2010/05/28/escolha-alimentos-saudaveis/)_**
@@ -76,9 +76,9 @@ _ _
 **_[Dicas para automotivação na prática de exercícios físicos.](http://www.trololodemulher.com.br/2009/12/28/dicas-exercicios-fisicos/)_**
 
 <p style="text-align: center;">
-  Navegando no Bicha Fêmea – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/corpo/">**_Corpo_**</a> > **_<a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a>_** > Qual é a importância do alongamento?
+  Navegando no Bicha Fêmea – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/corpo/"><strong><em>Corpo</em></strong></a> > <strong><em><a href="http://www.trololodemulher.com.br/category/do-corpo/saude/">Saúde</a></em></strong> > Qual é a importância do alongamento?
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>

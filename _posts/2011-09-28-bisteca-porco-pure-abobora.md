@@ -1,8 +1,8 @@
 ---
-
+id: 3057
 title: Bisteca de porco com purê de abóbora
-
-author: Lidiane
+date: 2011-09-28T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/09/28/bisteca-porco-pure-abobora/
 permalink: /2011/09/28/bisteca-porco-pure-abobora/
@@ -28,7 +28,7 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
 </p>
 
 <p align="justify">
-  **Ingredientes:**
+  <strong>Ingredientes:</strong>
 </p>
 
   * <div align="justify">
@@ -36,7 +36,7 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
     </div>
 
 <p align="justify">
-  **Modo de preparo:**
+  <strong>Modo de preparo:</strong>
 </p>
 
 <p align="justify">
@@ -44,7 +44,7 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
 </p>
 
 <p align="justify">
-  **Para o purê de abóbora:**
+  <strong>Para o purê de abóbora:</strong>
 </p>
 
 <p align="justify">
@@ -54,13 +54,13 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
 &nbsp;
 
 <p align="justify">
-  _Obs:_ A pimenta é opcional!
+  <em>Obs:</em> A pimenta é opcional!
 </p>
 
 &nbsp;
 
 <p align="justify">
-  **Modo de preparo: **
+  <strong>Modo de preparo: </strong>
 </p>
 
 <p align="justify">
@@ -74,11 +74,11 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
 &nbsp;
 
 <p align="justify">
-  **Dica:** na água do cozimento da abóbora eu coloquei um pouquinho de açúcar para ela ficar bem docinha. Você pode utilizar no lugar do sal um cubinho de caldo de galinha.
+  <strong>Dica:</strong> na água do cozimento da abóbora eu coloquei um pouquinho de açúcar para ela ficar bem docinha. Você pode utilizar no lugar do sal um cubinho de caldo de galinha.
 </p>
 
 <p align="center">
-  **<span style="font-size: medium;">Sabe quem escreveu este post?</span>**
+  <strong><span style="font-size: medium;">Sabe quem escreveu este post?</span></strong>
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
@@ -91,30 +91,30 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
     
     <td valign="top" width="300">
       <p align="justify">
-        _Eu, Gleici Schiavo, sou uma mãe, esposa e dona de casa apaixonada por essas duas artes: cozinha e artesanato. Resolvi juntar minhas duas paixões em um único blog [ **[Cozinha e Fofurices](http://cozinhaefofurices.blogspot.com/) ** ] onde o carinho e o respeito estão em primeiro lugar, e cada post é preparado com muito amor. Será um grande prazer tê-las como amigas!_
+        <em>Eu, Gleici Schiavo, sou uma mãe, esposa e dona de casa apaixonada por essas duas artes: cozinha e artesanato. Resolvi juntar minhas duas paixões em um único blog [ <strong><a href="http://cozinhaefofurices.blogspot.com/" target="_blank">Cozinha e Fofurices</a></strong> ] onde o carinho e o respeito estão em primeiro lugar, e cada post é preparado com muito amor. Será um grande prazer tê-las como amigas!</em>
       </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  Faça como a **Gleici**, e envie **_<a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a>_** para o **Bicha Fêmea**!
+  Faça como a <strong>Gleici</strong>, e envie <strong><em><a href="http://www.trololodemulher.com.br/para-voce/conteudo-colaborativo/">conteúdo colaborativo</a></em></strong> para o <strong>Bicha Fêmea</strong>!
 </p>
 
 <p align="center">
-  **<span style="font-size: medium;">Mais no Bicha Fêmea…</span>**
+  <strong><span style="font-size: medium;">Mais no Bicha Fêmea…</span></strong>
 </p>
 
 <table width="600" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta200.jpg"><img class="alignnone size-full wp-image-6735" title="green peper isolated on white" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2011/08/12/blogs-de-culinaria/"><span style="font-size: small;">Você gosta de blogs de culinária?</span></a>**
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta200.jpg"><img class="alignnone size-full wp-image-6735" title="green peper isolated on white" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2011/08/pimenta200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2011/08/12/blogs-de-culinaria/"><span style="font-size: small;">Você gosta de blogs de culinária?</span></a></strong>
       </p>
     </td>
     
     <td style="text-align: center;" valign="top" width="300">
-      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/pitadinha200.jpg"><img class="alignnone size-full wp-image-5544" title="pitadinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/pitadinha200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2010/12/01/video-receita-barrita-de-coco/"><span style="font-size: small;">Video-receita: Barrita de Coco</span></a>**
+      <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/pitadinha200.jpg"><img class="alignnone size-full wp-image-5544" title="pitadinha200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/11/pitadinha200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/12/01/video-receita-barrita-de-coco/"><span style="font-size: small;">Video-receita: Barrita de Coco</span></a></strong>
     </td>
   </tr>
 </table>
@@ -123,13 +123,13 @@ A receita é de uma bistequinha de porco acompanhada de um delicioso purê de ab
   <tr>
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg"><img class="alignnone size-full wp-image-5229" title="vídeo-dica sobre conservação de bananas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2010/09/24/video-dica-conservar-bananas/"><span style="font-size: small;">Video-dica: como conservar bananas por mais tempo…</span></a>**
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg"><img class="alignnone size-full wp-image-5229" title="vídeo-dica sobre conservação de bananas200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/video-dica-sobre-conservacao-de-bananas200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/09/24/video-dica-conservar-bananas/"><span style="font-size: small;">Video-dica: como conservar bananas por mais tempo…</span></a></strong>
       </p>
     </td>
     
     <td valign="top" width="300">
       <p align="center">
-        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica200.jpg"><img class="alignnone size-full wp-image-5201" title="Macarrão da preguiça200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica200.jpg" alt="" width="200" height="200" /></a><br /> **<a href="http://www.trololodemulher.com.br/2010/09/15/video-receita-macarrao/"><span style="font-size: small;">Video-receita do Macarrão da Preguiça</span></a>**
+        <a href="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica200.jpg"><img class="alignnone size-full wp-image-5201" title="Macarrão da preguiça200" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/09/Macarrao-da-preguica200.jpg" alt="" width="200" height="200" /></a><br /> <strong><a href="http://www.trololodemulher.com.br/2010/09/15/video-receita-macarrao/"><span style="font-size: small;">Video-receita do Macarrão da Preguiça</span></a></strong>
       </p>
     </td>
   </tr>

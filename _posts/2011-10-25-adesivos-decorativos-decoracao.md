@@ -1,8 +1,8 @@
 ---
-
+id: 3069
 title: 'Adesivos decorativos: decoração fácil, versátil e barata!'
-
-author: Lidiane
+date: 2011-10-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/10/25/adesivos-decorativos-decoracao/
 permalink: /2011/10/25/adesivos-decorativos-decoracao/
@@ -15,7 +15,7 @@ Quem gosta de deixar a casa com charme na **decoração** sempre quer promover m
 &nbsp;
 
 <p align="justify">
-  Agora, vem cá: vamos combinar uma coisa? Não basta saber dessas vantagens quanto ao adesivo como recurso decorativo. Na hora de escolher um, bom mesmo é ter **opções bonitas**, é ou não é? Então… dá uma _espiada_ na dica que quero te mostrar…
+  Agora, vem cá: vamos combinar uma coisa? Não basta saber dessas vantagens quanto ao adesivo como recurso decorativo. Na hora de escolher um, bom mesmo é ter <strong>opções bonitas</strong>, é ou não é? Então… dá uma <em>espiada</em> na dica que quero te mostrar…
 </p>
 
 <!--more-->
@@ -25,7 +25,7 @@ Quem gosta de deixar a casa com charme na **decoração** sempre quer promover m
 </p>
 
 <p align="justify">
-  A **[Allodi Adesivos Decorativos](http://www.allodi.com.br/) ** é uma empresa da cidade de São Paulo que está no ramo de **adesivos para decoração** há **mais de 5 anos**, sabia? E toda essa experiência resultou numa loja virtual que, oh: vale a pena a visita. Sabe por quê? A **navegabilidade é **_superultramega simples_** e intuitiva, a variedade de produtos é enorme, a beleza dos adesivos é inquestionável e, o melhor, os preços são bem acessíveis**… bom, _né_?
+  A <strong><a href="http://www.allodi.com.br/" target="_blank">Allodi Adesivos Decorativos</a></strong> é uma empresa da cidade de São Paulo que está no ramo de <strong>adesivos para decoração</strong> há <strong>mais de 5 anos</strong>, sabia? E toda essa experiência resultou numa loja virtual que, oh: vale a pena a visita. Sabe por quê? A <strong>navegabilidade é <strong><em>superultramega simples</em></strong> e intuitiva, a variedade de produtos é enorme, a beleza dos adesivos é inquestionável e, o melhor, os preços são bem acessíveis</strong>… bom, <em>né</em>?
 </p>
 
 &nbsp;
@@ -41,7 +41,7 @@ Quem gosta de deixar a casa com charme na **decoração** sempre quer promover m
 &nbsp;
 
 <p align="justify">
-  Quando o quarto é pequeno todo centímetro, veja bem – todo! – , é muito bem vindo. É ou não é? Sendo assim, uma boa ideia é **colocar uma cabeceira que não seja convencional atrás de sua cama**. Explico: **está vendo as imagens acima**? Que tal **aplicar um adesivo de parede com_ design_ de cabeceira de cama**? Tenta! Dessa forma você não abre mão de um cabeceira, mas também não perde nadinha em espaço. É a junção do útil ao agradável!
+  Quando o quarto é pequeno todo centímetro, veja bem – todo! – , é muito bem vindo. É ou não é? Sendo assim, uma boa ideia é <strong>colocar uma cabeceira que não seja convencional atrás de sua cama</strong>. Explico: <strong>está vendo as imagens acima</strong>? Que tal <strong>aplicar um adesivo de parede com<em> design</em> de cabeceira de cama</strong>? Tenta! Dessa forma você não abre mão de um cabeceira, mas também não perde nadinha em espaço. É a junção do útil ao agradável!
 </p>
 
 &nbsp;
@@ -53,7 +53,7 @@ Quem gosta de deixar a casa com charme na **decoração** sempre quer promover m
 &nbsp;
 
 <p align="justify">
-  Para quem gostaria de uma **parede simples **no quarto da criança mas não faz ideia do que fazer, uma alternativa seria usar **flores **delicadamente **adesivadas** que cresceriam a partir da parte de baixo, _hã?_ Que tal a ideia? É singelo, simples e bonito. E tem cara de menina!
+  Para quem gostaria de uma <strong>parede simples </strong>no quarto da criança mas não faz ideia do que fazer, uma alternativa seria usar <strong>flores </strong>delicadamente <strong>adesivadas</strong> que cresceriam a partir da parte de baixo, <em>hã?</em> Que tal a ideia? É singelo, simples e bonito. E tem cara de menina!
 </p>
 
 <p align="center">
@@ -65,9 +65,9 @@ Quem gosta de deixar a casa com charme na **decoração** sempre quer promover m
 </p>
 
 <p align="justify">
-  Quer experimentar algo diferente e bacana na sua casa, mas não sabe ainda exatamente o que seria? Faz assim, dá uma passeada na loja virtual da **Allodi** e veja quantas possibilidades interessantes existem por lá.
+  Quer experimentar algo diferente e bacana na sua casa, mas não sabe ainda exatamente o que seria? Faz assim, dá uma passeada na loja virtual da <strong>Allodi</strong> e veja quantas possibilidades interessantes existem por lá.
 </p>
 
 <p align="justify">
-  Para facilitar a sua escolha, o site ainda oferece a possibilidade de você **simular a cor do adesivo na cor da sua parede**. Não é ótimo? Se você cair de amores por um dos **adesivos decorativos**, nem será surpresa para mim… sabe por quê? **[Vai lá e Confere](http://www.allodi.com.br/) **!
+  Para facilitar a sua escolha, o site ainda oferece a possibilidade de você <strong>simular a cor do adesivo na cor da sua parede</strong>. Não é ótimo? Se você cair de amores por um dos <strong>adesivos decorativos</strong>, nem será surpresa para mim… sabe por quê? <strong><a href="http://www.allodi.com.br/" target="_blank">Vai lá e Confere</a></strong>!
 </p>

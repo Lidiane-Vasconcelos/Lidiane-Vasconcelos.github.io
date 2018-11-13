@@ -1,8 +1,8 @@
 ---
-
+id: 2804
 title: 'Saiu o resultado do sorteio Bicha Fêmea &#038; Espaço Home'
-
-author: Lidiane
+date: 2010-04-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/04/05/saiu-o-resultado-do-sorteio-bicha-femea-espaco-home/
 permalink: /2010/04/05/saiu-o-resultado-do-sorteio-bicha-femea-espaco-home/
@@ -10,7 +10,7 @@ categories:
   - Promoção
   - Publieditorial
 ---
-_Eita, lelê_! Esse sorteio foi mesmo um _vuco vuco virtual_. Foi ou não foi? Foram mais de 370 comentários num único post, com 342 inscrições válidas, demonstrando que o produto apresentado pela [Espaço Home](http://www.espacohome.com.br/)  para essa promoção realmente agradou a mulherada.
+_Eita, lelê_! Esse sorteio foi mesmo um _vuco vuco virtual_. Foi ou não foi? Foram mais de 370 comentários num único post, com 342 inscrições válidas, demonstrando que o produto apresentado pela <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a> para essa promoção realmente agradou a mulherada.
 
 Quer saber? Eu desconfiava mesmo que seria um sucesso. Pronto! Falei.
 
@@ -44,7 +44,7 @@ E quem foi a sortuda? Ah! Olha na imagem aqui logo abaixo, e amplia para ver bem
   </tr>
 </table>
 
-Quem levou esse organizador de bolsas da [Espaço Home](http://www.espacohome.com.br/)  foi a Telma Linhares, que teve a inscrição de número 268.
+Quem levou esse organizador de bolsas da <a href="http://www.espacohome.com.br/" target="_blank">Espaço Home</a> foi a Telma Linhares, que teve a inscrição de número 268.
 
 > “_Parabéns, Telma!!! Eu enviei um e-mail para você hoje mesmo e preciso do seu retorno com seu endereço de entrega em território brasileiro, além de sua preferência pelo organizador pequeno ou grande, num prazo de uma semana, está bem? Caso contrário, farei o sorteio novamente entre as bichas fêmeas já inscritas._ “
 

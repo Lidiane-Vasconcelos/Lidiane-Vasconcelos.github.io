@@ -1,8 +1,8 @@
 ---
-
+id: 2738
 title: 'Seu pouco é tudo para mim: aniversário do Bicha Fêmea'
-
-author: Lidiane
+date: 2009-11-20T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2009/11/20/aniversario-do-bicha-femea/
 permalink: /2009/11/20/aniversario-do-bicha-femea/

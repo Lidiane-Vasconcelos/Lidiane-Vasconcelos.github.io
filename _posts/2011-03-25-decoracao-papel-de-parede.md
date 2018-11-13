@@ -1,8 +1,8 @@
 ---
-
+id: 2969
 title: 'Decoração com papel de parede: arrisque e encante-se!'
-
-author: Lidiane
+date: 2011-03-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/03/25/decoracao-papel-de-parede/
 permalink: /2011/03/25/decoracao-papel-de-parede/
@@ -12,7 +12,7 @@ categories:
 O **papel de parede** é um recurso **decorativo** que pode transformar completamente um ambiente, e uma parede que antes estava sem graça pode ganhar uma **decoração** toda **especial**.
 
 <p style="text-align: justify;">
-  Se você tem vontade de aplicar esse tipo de acessório decorativo em seu espaço, mas não quer fazer isso em grandes áreas, seja por questões financeiras, seja por receios, confira **dicas** de onde ele pode ser aplicado em pequenas áreas e incremente a **decoração** de sua **casa**!
+  Se você tem vontade de aplicar esse tipo de acessório decorativo em seu espaço, mas não quer fazer isso em grandes áreas, seja por questões financeiras, seja por receios, confira <strong>dicas</strong> de onde ele pode ser aplicado em pequenas áreas e incremente a <strong>decoração</strong> de sua <strong>casa</strong>!
 </p>
 
 <!--more-->
@@ -26,7 +26,7 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  Para quem tem **quarto com poucas medidas**, uma boa alternativa é usar o **papel de parede no espaço atrás da cama**. Um papel com textura e/ou efeito decorativo bonito vai proporcionar um foco de atenção, e uma cabeceira convencional passará a ser dispensável. Já pensou nisso?
+  Para quem tem <strong>quarto com poucas medidas</strong>, uma boa alternativa é usar o <strong>papel de parede no espaço atrás da cama</strong>. Um papel com textura e/ou efeito decorativo bonito vai proporcionar um foco de atenção, e uma cabeceira convencional passará a ser dispensável. Já pensou nisso?
 </p>
 
 <p style="text-align: center;">
@@ -34,11 +34,11 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  Você quer **algo diferente na sua sala de jantar** mas não sabe exatamente o que é? Imagine seu espaço com **uma das paredes em destaque com um papel de parede** bonito, colorido, elegante, texturizado&#8230; enfim, tudo vai depender do seu estilo. As possibilidades são muitas, e o resultado pode ser surpreendente!
+  Você quer <strong>algo diferente na sua sala de jantar</strong> mas não sabe exatamente o que é? Imagine seu espaço com <strong>uma das paredes em destaque com um papel de parede</strong> bonito, colorido, elegante, texturizado&#8230; enfim, tudo vai depender do seu estilo. As possibilidades são muitas, e o resultado pode ser surpreendente!
 </p>
 
 <p style="text-align: justify;">
-  Essa alternativa foi usada pela **Ruby**, do blog [Meu Canto, Minha Prosa](http://meucantominhaprosa.blogspot.com/) . Veja logo abaixo a _belezura_ que ficou a sala dela com uma das paredes que ganhou esse detalhe decorativo:
+  Essa alternativa foi usada pela <strong>Ruby</strong>, do blog <a href="http://meucantominhaprosa.blogspot.com/" target="_blank">Meu Canto, Minha Prosa</a>. Veja logo abaixo a <em>belezura</em> que ficou a sala dela com uma das paredes que ganhou esse detalhe decorativo:
 </p>
 
 <p style="text-align: center;">
@@ -46,7 +46,7 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  Além da sala, Ruby também usou papel de parede em uma parte do quarto, e mostrou mais detalhes[ aqui, oh](http://meucantominhaprosa.blogspot.com/2011/02/nada-facil.html) &#8230; Foi ela mesma quem fez a instalação (corajosa!) com o marido. Quer arriscar? Ela avisa que aprendeu vendo [este vídeo](http://www.youtube.com/watch?v=tl_APZtQHDE) .
+  Além da sala, Ruby também usou papel de parede em uma parte do quarto, e mostrou mais detalhes<a href="http://meucantominhaprosa.blogspot.com/2011/02/nada-facil.html" target="_blank"> aqui, oh</a>&#8230; Foi ela mesma quem fez a instalação (corajosa!) com o marido. Quer arriscar? Ela avisa que aprendeu vendo <a href="http://www.youtube.com/watch?v=tl_APZtQHDE" target="_blank">este vídeo</a>.
 </p>
 
 <p style="text-align: center;">
@@ -54,10 +54,10 @@ O **papel de parede** é um recurso **decorativo** que pode transformar completa
 </p>
 
 <p style="text-align: justify;">
-  A **área atrás do seu sofá** pode ser a eleita para ganhar um detalhe cheio de charme e _bossa_. Inpire-se na imagem e pense que usar um papel de parede neste local vai ajudar a **separar o** pouco **espaço** que você possa ter, delimitando bem o ambiente. Que tal?
+  A <strong>área atrás do seu sofá</strong> pode ser a eleita para ganhar um detalhe cheio de charme e <em>bossa</em>. Inpire-se na imagem e pense que usar um papel de parede neste local vai ajudar a <strong>separar o</strong> pouco <strong>espaço</strong> que você possa ter, delimitando bem o ambiente. Que tal?
 </p>
 
-_Imagens:_ [_Livingetc_](http://www.livingetc.com/) 
+_Imagens:_ <a href="http://www.livingetc.com/" target="_blank"><em>Livingetc</em></a>
 
 **_Mais no Bicha Fêmea…_**
 
@@ -70,21 +70,21 @@ _Imagens:_ [_Livingetc_](http://www.livingetc.com/)
 **_[Como decorar paredes com quadros.](http://www.trololodemulher.com.br/2009/04/07/decoracao-parede-quadros/)_**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > **_<a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a>_**> <a href="http://www.trololodemulher.com.br/category/decoracao/">**_Decoração_**</a>> Decoração com papel de parede: arrisque e encante-se!
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <strong><em><a href="http://www.trololodemulher.com.br/casaedecoracao/">Casa & Decoração</a></em></strong>> <a href="http://www.trololodemulher.com.br/category/decoracao/"><strong><em>Decoração</em></strong></a>> Decoração com papel de parede: arrisque e encante-se!
 </p>
 
 <p style="text-align: center;">
-  Receba, assim como **_centenas_** de leitoras, o **_Bicha Fêmea_** no **_e-mail_**. | **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a>_**
+  Receba, assim como <strong><em>centenas</em></strong> de leitoras, o <strong><em>Bicha Fêmea</em></strong> no <strong><em>e-mail</em></strong>. | <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Assine. É grátis!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Junte-se aos **_+ de 1.000_** seguidores do **_Bicha Fêmea_** no _**Twitter. **Corre!_ | **_<a href="http://twitter.com/bichafemea">@bichafemea</a>_**
+  Junte-se aos <strong><em>+ de 1.000</em></strong> seguidores do <strong><em>Bicha Fêmea</em></strong> no <em><strong>Twitter. </strong>Corre!</em> | <strong><em><a href="http://twitter.com/bichafemea">@bichafemea</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Entre na grande rede de amigos do **_Bicha Fêmea_** no **_Orkut._** Atualize-se! | **_<a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a>_**
+  Entre na grande rede de amigos do <strong><em>Bicha Fêmea</em></strong> no <strong><em>Orkut.</em></strong> Atualize-se! | <strong><em><a href="http://www.orkut.com.br/Main#Profile?uid=5161612886294499900">Adicione!</a></em></strong>
 </p>
 
 <p style="text-align: center;">
-  Conheça o**_ Mercado de Artes,_** a loja virtual do blog **_Bicha Fêmea. | É por aqui, _**<a href="http://www.trololodemulher.com.br/loja/">**_basta clicar_**</a>**_!_**
+  Conheça o<strong><em> Mercado de Artes,</em></strong> a loja virtual do blog <strong><em>Bicha Fêmea. | É por aqui, </em></strong><a href="http://www.trololodemulher.com.br/loja/"><strong><em>basta clicar</em></strong></a><strong><em>!</em></strong>
 </p>

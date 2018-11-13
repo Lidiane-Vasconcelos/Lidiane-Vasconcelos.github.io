@@ -1,8 +1,8 @@
 ---
-
+id: 3521
 title: Enfeites natalinos para fazer com crianças
-
-author: Lidiane
+date: 2015-12-09T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2015/12/09/enfeites-natalinos/
 permalink: /2015/12/09/enfeites-natalinos/
@@ -10,7 +10,7 @@ categories:
   - Decoração
 ---
 <p align="justify">
-  A essa altura do campeonato você já deve ter arrumado a casa para o Natal, não é? Se ainda não fez, é claro que ainda dá tempo! [As crianças participam da decoração de Natal na sua casa](http://www.decoracaodacasa.com/decoracao-de-natal-3/) ? Se sim, pergunto: que tal acrescentar alguns **enfeites natalinos**, mas que sejam confeccionados por você e os pequenos, juntos? Gostou da ideia? A execução é bem simples, e o resultado é muito bonitinho. Eu vivi de amores pela ideia, e desconfio que não será dierente contigo. Olha só:
+  A essa altura do campeonato você já deve ter arrumado a casa para o Natal, não é? Se ainda não fez, é claro que ainda dá tempo! <a href="http://www.decoracaodacasa.com/decoracao-de-natal-3/" target="_blank">As crianças participam da decoração de Natal na sua casa</a>? Se sim, pergunto: que tal acrescentar alguns <strong>enfeites natalinos</strong>, mas que sejam confeccionados por você e os pequenos, juntos? Gostou da ideia? A execução é bem simples, e o resultado é muito bonitinho. Eu vivi de amores pela ideia, e desconfio que não será dierente contigo. Olha só:
 </p>
 
 <p align="center">
@@ -18,15 +18,15 @@ categories:
 </p>
 
 <p align="justify">
-  Não é uma graça?! Esses desenhos tão fofos são ilustrações feitas pela blogueira Rachel, cujo _download_ é gratuito. Tudo o que você precisa fazer é baixar o arquivo com as ilustrações, recortar com os pequenos, e colar em alguma superfície.
+  Não é uma graça?! Esses desenhos tão fofos são ilustrações feitas pela blogueira Rachel, cujo <em>download</em> é gratuito. Tudo o que você precisa fazer é baixar o arquivo com as ilustrações, recortar com os pequenos, e colar em alguma superfície.
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**2 ideias de ornamentos natalinos para sua criança fazer.**](http://www.decoracaodacasa.com/ornamentos-natalinos/) 
+  <a href="http://www.decoracaodacasa.com/ornamentos-natalinos/" target="_blank"><strong>2 ideias de ornamentos natalinos para sua criança fazer.</strong></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ categories:
 </p>
 
 <p align="justify">
-  Curtiu a proposta? Tenho certeza que sim! Então, oh: [clique aqui](http://hellohappystudio.com/blog/free-download-illustrated-christmas-ornaments)  e vá até o post original onde a blogueira passa o link para você realizar o _download_ do arquivo de ilustrações, ok? Se joga no blog _Hello Happy Studio_ e divirta-se!
+  Curtiu a proposta? Tenho certeza que sim! Então, oh: <a href="http://hellohappystudio.com/blog/free-download-illustrated-christmas-ornaments" target="_blank">clique aqui</a> e vá até o post original onde a blogueira passa o link para você realizar o <em>download</em> do arquivo de ilustrações, ok? Se joga no blog <em>Hello Happy Studio</em> e divirta-se!
 </p>
 
 <p align="justify">
@@ -55,7 +55,7 @@ categories:
   </p>
   
   <p align="center">
-    [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+    <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
   </p>
   
   <p align="justify">

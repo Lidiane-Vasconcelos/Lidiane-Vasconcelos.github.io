@@ -1,32 +1,32 @@
 ---
-
+id: 2875
 title: +3 dúvidas sobre decoração solucionadas no Bicha Fêmea…
-
-author: Lidiane
+date: 2010-09-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/09/17/dicas-decoracao-3/
 permalink: /2010/09/17/dicas-decoracao-3/
 categories:
   - Dicas de Decoração
 ---
-Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/08/dicas-decoracao-2/" target="_self">**_3 dúvidas de decoração, enviadas por leitoras, que foram solucionadas_** </a>anteriormente? Pois muito bem, este post é para resolver, com dicas práticas, novas dúvidas do universo decorativo.
+Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/08/dicas-decoracao-2/" target="_self"><strong><em>3 dúvidas de decoração, enviadas por leitoras, que foram solucionadas</em></strong> </a>anteriormente? Pois muito bem, este post é para resolver, com dicas práticas, novas dúvidas do universo decorativo.
 
 <p style="text-align: justify;">
-  Quem presta a consultoria no Bicha Fêmea desta vez? Oras! A Letícia Lodi, ou Lelê, para quem acompanha de perto a Arquiteta que comanda o [Casa de Catarina](http://blog.casadecatarina.com.br/) . Quer ver as dúvidas e dicas? Olha só…
+  Quem presta a consultoria no Bicha Fêmea desta vez? Oras! A Letícia Lodi, ou Lelê, para quem acompanha de perto a Arquiteta que comanda o <a href="http://blog.casadecatarina.com.br/" target="_blank">Casa de Catarina</a>. Quer ver as dúvidas e dicas? Olha só…
 </p>
 
 <!--more-->
 
 <p style="text-align: justify;">
-  A primeira dúvida que chegou para mim foi a da Alda, que deixou o pedido no post onde há **_<a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self">dicas para decorar uma mesa de jantar</a>_**. A pergunta deve ser comum a muitas pessoas. Veja do que se trata:
+  A primeira dúvida que chegou para mim foi a da Alda, que deixou o pedido no post onde há <strong><em><a href="http://www.trololodemulher.com.br/2009/02/11/decoracao-mesa-sala-jantar/" target="_self">dicas para decorar uma mesa de jantar</a></em></strong>. A pergunta deve ser comum a muitas pessoas. Veja do que se trata:
 </p>
 
 <p style="text-align: center;">
-  **_É possível usar cadeiras diferentes numa mesa de jantar?_**
+  <strong><em>É possível usar cadeiras diferentes numa mesa de jantar?</em></strong>
 </p>
 
 <p style="text-align: justify;">
-  Quem nunca viu ambientes de jantar onde a mesa tinha cadeiras diferentes? E quem não achou que tudo tenha ficado um encantamento? A verdade é que é possível conseguir um efeito bacana, sim, com cadeiras diferentes na mesa de jantar. Mas, para isso, a **_Leticia_** avisa que é preciso ter criatividade e bom senso. Ah, bom… quer inspirações e dicas? A Arquiteta oferece. Acompanha…
+  Quem nunca viu ambientes de jantar onde a mesa tinha cadeiras diferentes? E quem não achou que tudo tenha ficado um encantamento? A verdade é que é possível conseguir um efeito bacana, sim, com cadeiras diferentes na mesa de jantar. Mas, para isso, a <strong><em>Leticia</em></strong> avisa que é preciso ter criatividade e bom senso. Ah, bom… quer inspirações e dicas? A Arquiteta oferece. Acompanha…
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  [_Casa da Nana_](http://beto-nana.blogspot.com/) 
+  <a href="http://beto-nana.blogspot.com/" target="_blank"><em>Casa da Nana</em></a>
 </p>
 
 > _“Quando temos um ambiente totalmente despojado e livre. As cadeiras obedecem um só padrão: a mesma cor. Os estilos são bem diferentes e bem informais. É o &#8220;calculadamente desarrumado&#8221;. Fica lindo, charmoso e muito pessoal.”_
@@ -44,7 +44,7 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  _Foto da capa da revista holandesa More than classic, via _[_Oh So Jolly_](http://www.ohsojolly.com/) 
+  <em>Foto da capa da revista holandesa More than classic, via </em><a href="http://www.ohsojolly.com/" target="_blank"><em>Oh So Jolly</em></a>
 </p>
 
 > _“Quando usamos as cadeiras de cabeceira para marcar um pouco a posição. Isso acontece neste ambiente de sala de jantar e ele é bem mais formal. Também gosto muito deste ambiente. Veja, o encosto é mais alto e os pés são mais detalhados._
@@ -54,11 +54,11 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  **_Ainda é possível usar móveis clássicos como a bergére na decoração?_**
+  <strong><em>Ainda é possível usar móveis clássicos como a bergére na decoração?</em></strong>
 </p>
 
 <p style="text-align: justify;">
-  Para a **_Leticia_**, sim, é perfeitamente possível. Há apenas duas ressalvas: uma é o bom senso, e isso nunca é demais em qualquer proposta de montagem de um ambiente não é, minha gente? A outra é com relação ao espaço, já que o móvel pede um pouco mais. Veja as considerações da arquiteta e repense a _bergére_ de outra forma daqui ‘pra frente…
+  Para a <strong><em>Leticia</em></strong>, sim, é perfeitamente possível. Há apenas duas ressalvas: uma é o bom senso, e isso nunca é demais em qualquer proposta de montagem de um ambiente não é, minha gente? A outra é com relação ao espaço, já que o móvel pede um pouco mais. Veja as considerações da arquiteta e repense a <em>bergére</em> de outra forma daqui ‘pra frente…
 </p>
 
 <p style="text-align: center;">
@@ -66,7 +66,7 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  [_máximaINTERIORES_](http://www.maximainteriores.xl.pt/) 
+  <a href="http://www.maximainteriores.xl.pt/" target="_blank"><em>máximaINTERIORES</em></a>
 </p>
 
 > “_Todos pensam em uma bergére como um móvel extremamente conservador, não? Eu mesma tenho 3 em casa (vou reformá-los em breve e &#8220;tirar o ar conservador&#8221;). Quer usá-lo em um ambiente com mix de estilos? Veja este exemplo: usaram uma bergére azul, linda com outros sofás mais contemporâneos. O sofá no lado oposto com o mesmo tecido ficou também lindo. Para mim, são como cerejas no bolo, sabe? É um detalhe bonito para quebrar o ambiente.”_
@@ -76,11 +76,11 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  **_Quais cuidados devem ser tomados na hora de fazer mistura de estilos na decoração? _**
+  <strong><em>Quais cuidados devem ser tomados na hora de fazer mistura de estilos na decoração? </em></strong>
 </p>
 
 <p style="text-align: justify;">
-  A orientação da **Leticia** para quem pretende investir num conjunto com mais de um estilo, porém harmonioso, para não errar a mão, é pensar na ideia de “quebra” de uma base feita em um estilo, com elementos de outro. Isso tudo passa longe da ideia de “misturar” que, para a arquiteta, pode dar a ideia de algo “caótico”. Veja as dicas e aplique em seus domínios, bonita!
+  A orientação da <strong>Leticia</strong> para quem pretende investir num conjunto com mais de um estilo, porém harmonioso, para não errar a mão, é pensar na ideia de “quebra” de uma base feita em um estilo, com elementos de outro. Isso tudo passa longe da ideia de “misturar” que, para a arquiteta, pode dar a ideia de algo “caótico”. Veja as dicas e aplique em seus domínios, bonita!
 </p>
 
 <p style="text-align: center;">
@@ -88,7 +88,7 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
 </p>
 
 <p style="text-align: center;">
-  [_Maat_](http://reginamaat.blogspot.com/) 
+  <a href="http://reginamaat.blogspot.com/" target="_blank"><em>Maat</em></a>
 </p>
 
 > _”A mistura de estilos é algo que pode ser feito, mas com bastante cuidado. É algo muito pessoal também. Eu, particularmente, prefiro escolher um estilo de base e inserir alguns toques em outro estilo. Por exemplo, o seu ponto de partida vai ser algo mais clean ou contemporâneo, a partir dele coloque algumas poucas peças em outro estilo mais conservador para quebrar. Sempre parta de um conceito e depois insira outras peças. Olhe o exemplo da foto: esta sala tem muitos elementos contemporâneos, com peças limpas, ortogonais (até mesmo o painel de fundo) e a partir dele inseriu poltronas em outro estilo para quebrar. Ficou muito harmonioso e bem mais aconchegante.”_
@@ -103,7 +103,7 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
       </p>
       
       <p style="text-align: center;">
-         _stock.xchng_
+         <em>stock.xchng</em>
       </p>
       
       <p>
@@ -115,11 +115,11 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
         
         <td width="467" valign="top">
           <p style="text-align: right;">
-            **_Para não esquecer…_**
+            <strong><em>Para não esquecer…</em></strong>
           </p>
           
           <p style="text-align: left;">
-            **_&#8230;Mais algumas dicas da Leticia que valem ouro. Desfrute!_**
+            <strong><em>&#8230;Mais algumas dicas da Leticia que valem ouro. Desfrute!</em></strong>
           </p>
           
           <p style="text-align: justify;">
@@ -152,37 +152,37 @@ Isso mesmo! Você lembra das <a href="http://www.trololodemulher.com.br/2010/09/
         </td></tr> </tbody> </table> 
         
         <p>
-          ** **
+          <strong> </strong>
         </p>
         
         <p>
-          **Mais no Bicha Fêmea…**
+          <strong>Mais no Bicha Fêmea…</strong>
         </p>
         
         <p>
-          **_<a href="http://www.trololodemulher.com.br/2010/09/08/dicas-decoracao-2/">3 dúvidas sobre decoração solucionadas no Bicha Fêmea…</a>_**
+          <strong><em><a href="http://www.trololodemulher.com.br/2010/09/08/dicas-decoracao-2/">3 dúvidas sobre decoração solucionadas no Bicha Fêmea…</a></em></strong>
         </p>
         
         <p>
-          **_<a href="http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/">Decoração na sala de estar: mesa de centro. Qual o seu estilo?</a>_**
+          <strong><em><a href="http://www.trololodemulher.com.br/2010/08/04/decoracao-mesa-de-centro/">Decoração na sala de estar: mesa de centro. Qual o seu estilo?</a></em></strong>
         </p>
         
         <p>
-          **_<a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">Pitacos de bicha fêmea: como escolher cores para a parede?</a>_**
+          <strong><em><a href="http://www.trololodemulher.com.br/2010/05/31/cores-para-parede/">Pitacos de bicha fêmea: como escolher cores para a parede?</a></em></strong>
         </p>
         
         <p>
-          **_<a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/">Pitacos de bicha fêmea: como decorar a parede da escada?</a>_**
+          <strong><em><a href="http://www.trololodemulher.com.br/2010/05/24/como-decorar-parede-escada/">Pitacos de bicha fêmea: como decorar a parede da escada?</a></em></strong>
         </p>
         
         <p>
-          **_<a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/">Como decorar uma mesa de jantar em fibra natural e vidro?</a>_**
+          <strong><em><a href="http://www.trololodemulher.com.br/2009/11/24/mesa-fibra-natural-e-vidro/">Como decorar uma mesa de jantar em fibra natural e vidro?</a></em></strong>
         </p>
         
         <p style="text-align: center;">
-          **_Navegue no Bicha Fêmea: [Casa & Decoração ](http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/casaedecoracao/) > <a href="http://www.trololodemulher.com.br/category/decoracao/" target="_self">Decoração</a> > +3 dúvidas sobre decoração solucionadas no Bicha Fêmea…_**
+          <strong><em>Navegue no Bicha Fêmea: <a href="http://www.trololodemulher.com.br/" target="_self">Início</a> > <a href="http://www.trololodemulher.com.br/casaedecoracao/" target="_blank">Casa & Decoração </a>> <a href="http://www.trololodemulher.com.br/category/decoracao/" target="_self">Decoração</a> > +3 dúvidas sobre decoração solucionadas no Bicha Fêmea…</em></strong>
         </p>
         
         <p style="text-align: center;">
-          Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+          Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
         </p>

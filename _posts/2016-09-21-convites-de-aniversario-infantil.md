@@ -1,8 +1,8 @@
 ---
-
+id: 3669
 title: '6 convites de aniversário infantil: faça você mesma.'
-
-author: Lidiane
+date: 2016-09-21T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/09/21/convites-de-aniversario-infantil/
 permalink: /2016/09/21/convites-de-aniversario-infantil/
@@ -11,19 +11,19 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Quando se deseja fazer uma comemoração por mais um ano de vida da cria, é importante que sejam entregues convites, não é? Sei bem que hoje em dia existem as versões digitais, mas pessoalmente acho bem simpático ter algo concreto à mão, para entregar com antecedência a quem a gente quer que esteja presente no dia. Em se tratando de uma **[festa em casa](http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/) **, com número de convidados reduzido aos mais íntimos, a pouca quantidade de unidades permite que eles sejam feitos por você mesma, concorda? Gosta da ideia? Então repare logo abaixo 6 sugestões de **convites de aniversário infantil** que você mesma pode preparar… se joga!
+  Quando se deseja fazer uma comemoração por mais um ano de vida da cria, é importante que sejam entregues convites, não é? Sei bem que hoje em dia existem as versões digitais, mas pessoalmente acho bem simpático ter algo concreto à mão, para entregar com antecedência a quem a gente quer que esteja presente no dia. Em se tratando de uma <strong><a href="http://www.trololodemulher.com.br/2016/08/30/festa-infantil-2/" target="_blank">festa em casa</a></strong>, com número de convidados reduzido aos mais íntimos, a pouca quantidade de unidades permite que eles sejam feitos por você mesma, concorda? Gosta da ideia? Então repare logo abaixo 6 sugestões de <strong>convites de aniversário infantil</strong> que você mesma pode preparar… se joga!
 </p>
 
 <p style="text-align: justify;">
-  **Veja também!**
+  <strong>Veja também!</strong>
 </p>
 
 <p style="text-align: justify;">
-  Crie um convite especial para o aniversário da cria no site Canva, um software de design gráfico gratuito, fácil de usar e completamente online (não é necessário baixar nenhum programa). [Clique aqui e confira!](https://www.canva.com/pt_br/criar/cartao/convite-aniversario-infantil/) 
+  Crie um convite especial para o aniversário da cria no site Canva, um software de design gráfico gratuito, fácil de usar e completamente online (não é necessário baixar nenhum programa). <a href="https://www.canva.com/pt_br/criar/cartao/convite-aniversario-infantil/" target="_blank">Clique aqui e confira!</a>
 </p>
 
 <p align="justify">
-  **1 – Abra o envelope e…**
+  <strong>1 – Abra o envelope e…</strong>
 </p>
 
 <p align="center">
@@ -39,11 +39,11 @@ categories:
 </p>
 
 <p align="justify">
-  **2 – Quando a cria pede um tema.**
+  <strong>2 – Quando a cria pede um tema.</strong>
 </p>
 
 <p align="justify">
-  Por aqui Artur já deu sinais de como quer comemorar seus 4 aninhos: homem aranha será um convidado pra lá de especial… _rsrsrsrs_… se seu pequeno também curte o _spiderman_, há sempre a chance de fazer algo _superultramega_ simples: imprimir grátis os convites!
+  Por aqui Artur já deu sinais de como quer comemorar seus 4 aninhos: homem aranha será um convidado pra lá de especial… <em>rsrsrsrs</em>… se seu pequeno também curte o <em>spiderman</em>, há sempre a chance de fazer algo <em>superultramega</em> simples: imprimir grátis os convites!
 </p>
 
 <p align="center">
@@ -51,11 +51,11 @@ categories:
 </p>
 
 <p align="justify">
-  Essa é apenas uma versão das várias disponíveis para download grátis no [Oh My Fiesta. Clique aqui](http://eng.ohmyfiesta.com/2015/03/spiderman-free-printable-invitations.html)  e escolha o seu!
+  Essa é apenas uma versão das várias disponíveis para download grátis no <a href="http://eng.ohmyfiesta.com/2015/03/spiderman-free-printable-invitations.html" target="_blank">Oh My Fiesta. Clique aqui</a> e escolha o seu!
 </p>
 
 <p align="justify">
-  **3 – Quer fazer você mesma convites do homem aranha?**
+  <strong>3 – Quer fazer você mesma convites do homem aranha?</strong>
 </p>
 
 <p align="justify">
@@ -67,11 +67,11 @@ categories:
 </p>
 
 <p align="justify">
-  Repare bem: a base é um retângulo de papel acartonado azul mais escuro, depois outro retângulo (menor) num background cinza do spiderman. Você encontra a imagem grátis pela web. [Encontrei esse aqui](http://freedesignfile.com/99632-vector-spider-web-design-background-graphics-03/) , e achei adequado para o convite. A carinha do homem aranha será impressa pra você colar junto com o retângulo vermelho, que ganhou fitinha preta. Veja mais detalhes do convite e tenha acesso ao arquivo com as carinhas do homem aranha no blog [Page Turners Hollow, clicando aqui](https://pageturnershollow.wordpress.com/2011/05/30/make-your-own-spider-man-birthday-invitations/) . Gostei muito dessa versão, e já imagino as carinhas do homem aranha sendo pintadas por Artur. Vai ficar do jeitinho dele… pinturinha mais linda do mundo!
+  Repare bem: a base é um retângulo de papel acartonado azul mais escuro, depois outro retângulo (menor) num background cinza do spiderman. Você encontra a imagem grátis pela web. <a href="http://freedesignfile.com/99632-vector-spider-web-design-background-graphics-03/" target="_blank">Encontrei esse aqui</a>, e achei adequado para o convite. A carinha do homem aranha será impressa pra você colar junto com o retângulo vermelho, que ganhou fitinha preta. Veja mais detalhes do convite e tenha acesso ao arquivo com as carinhas do homem aranha no blog <a href="https://pageturnershollow.wordpress.com/2011/05/30/make-your-own-spider-man-birthday-invitations/" target="_blank">Page Turners Hollow, clicando aqui</a>. Gostei muito dessa versão, e já imagino as carinhas do homem aranha sendo pintadas por Artur. Vai ficar do jeitinho dele… pinturinha mais linda do mundo!
 </p>
 
 <p align="justify">
-  **4 – Bolinho Festivo.**
+  <strong>4 – Bolinho Festivo.</strong>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ categories:
 </p>
 
 <p align="justify">
-  **5 – Lúdico e colorido.**
+  <strong>5 – Lúdico e colorido.</strong>
 </p>
 
 <p align="center">
@@ -95,7 +95,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [SALLYJSHIM](http://www.sallyjshim.com/blog/2014/2/3/kite-flying-day-party-invitation-diy-for-oh-happy-day.html) 
+  Imagem: <a href="http://www.sallyjshim.com/blog/2014/2/3/kite-flying-day-party-invitation-diy-for-oh-happy-day.html" target="_blank">SALLYJSHIM</a>
 </p>
 
 <p align="justify">
@@ -103,7 +103,7 @@ categories:
 </p>
 
 <p align="justify">
-  **6 – Balão: tem que ter!**
+  <strong>6 – Balão: tem que ter!</strong>
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [papermill direct](https://www.papermilldirect.co.uk/inspire/post/diy-traditional-kids-party-invitations-balloons) 
+  Via <a href="https://www.papermilldirect.co.uk/inspire/post/diy-traditional-kids-party-invitations-balloons" target="_blank">papermill direct</a>
 </p>
 
 <p align="justify">
@@ -123,7 +123,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 <p align="justify">

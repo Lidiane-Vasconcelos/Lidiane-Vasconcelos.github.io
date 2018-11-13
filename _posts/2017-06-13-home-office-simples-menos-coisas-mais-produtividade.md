@@ -1,8 +1,8 @@
 ---
-
+id: 3774
 title: 'Home office simples: menos coisas, mais produtividade.'
-
-author: Lidiane
+date: 2017-06-13T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2017/06/13/home-office-simples-menos-coisas-mais-produtividade/
 permalink: /2017/06/13/home-office-simples-menos-coisas-mais-produtividade/
@@ -10,7 +10,7 @@ categories:
   - Escritório
 ---
 <p align="justify">
-  Muitas vezes, para quem trabalha em casa, tudo o que é necessário para o aumento de produtividade é ter menos coisas em volta. Para quem trabalha com a criatividade, ás vezes é necessário que o ambiente esteja limpo visualmente para que a mente não sofra tantas interferências. Por essa razão, ter um **home office simples** pode ser a melhor das estratégias. Este post, portanto, foi pensado pra te inspirar a simplificar o seu. Se montar seu cantinho de trabalho em casa será o seu próximo desafio decorativo, aqui estão as inspirações que você precisa.
+  Muitas vezes, para quem trabalha em casa, tudo o que é necessário para o aumento de produtividade é ter menos coisas em volta. Para quem trabalha com a criatividade, ás vezes é necessário que o ambiente esteja limpo visualmente para que a mente não sofra tantas interferências. Por essa razão, ter um <strong>home office simples</strong> pode ser a melhor das estratégias. Este post, portanto, foi pensado pra te inspirar a simplificar o seu. Se montar seu cantinho de trabalho em casa será o seu próximo desafio decorativo, aqui estão as inspirações que você precisa.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Design Collector](http://designcollector.net/) 
+  Via <a href="http://designcollector.net/" target="_blank">Design Collector</a>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Blackbird](http://blackbirdstyle.blogspot.com.br/) 
+  Via <a href="http://blackbirdstyle.blogspot.com.br/" target="_blank">Blackbird</a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Designer Trapped in a Lawyer´s Body](http://www.designertrapped.com/) 
+  Via <a href="http://www.designertrapped.com/" target="_blank">Designer Trapped in a Lawyer´s Body</a>
 </p>
 
 <p align="center">
@@ -46,23 +46,23 @@ categories:
 </p>
 
 <p align="center">
-  Via [Rue Daily](http://www.ruemag.com/) 
+  Via <a href="http://www.ruemag.com/" target="_blank">Rue Daily</a>
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Organização do home office: dicas.**](http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/) 
+  <a href="http://www.trololodemulher.com.br/2009/10/27/organizacao-escritorio/" target="_blank"><strong>Organização do home office: dicas.</strong></a>
 </p>
 
 <p align="justify">
-  **Algumas considerações:**
+  <strong>Algumas considerações:</strong>
 </p>
 
 <p align="justify">
-  **1** – Ter capacidade de armazenamento pela casa é bom, claro. Isso inclui o home office. Mas precisa tantas caixas, prateleiras, armários, etc? Mesmo que você tenha inúmeros itens de organização, na verdade fazer o desapego de tantas coisas pode ser a melhor das estratégias. Elimine! Veja tudo o que tem e selecione para permanecer em seu espaço de trabalho apenas o que é essencial. Faça isso pela casa inteira, inclusive. [Evitar o acúmulo e organizar o lar](http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/)  vai impactar positivamente na maneira como você vê, organiza e realiza a manutenção do seu espaço de trabalho também.
+  <strong>1</strong> – Ter capacidade de armazenamento pela casa é bom, claro. Isso inclui o home office. Mas precisa tantas caixas, prateleiras, armários, etc? Mesmo que você tenha inúmeros itens de organização, na verdade fazer o desapego de tantas coisas pode ser a melhor das estratégias. Elimine! Veja tudo o que tem e selecione para permanecer em seu espaço de trabalho apenas o que é essencial. Faça isso pela casa inteira, inclusive. <a href="http://www.trololodemulher.com.br/2014/10/08/acumulo-e-organizacao/" target="_blank">Evitar o acúmulo e organizar o lar</a> vai impactar positivamente na maneira como você vê, organiza e realiza a manutenção do seu espaço de trabalho também.
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa Abril](http://casa.abril.com.br/) 
+  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
 </p>
 
 <p align="center">
@@ -78,15 +78,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Inspirações para a decoração do home office.**](http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/) 
+  <a href="http://www.trololodemulher.com.br/2009/01/06/decoracao-escritorio/" target="_blank"><strong>Inspirações para a decoração do home office.</strong></a>
 </p>
 
 <p align="justify">
-  **2** – O desapego na consideração [1] inclui elementos decorativos também. Ter enfeites no espaço de trabalho é muito bom, sobretudo se eles têm valor afetivo. Isso de alguma forma nos conecta com o que importa pra gente, e acredito que até interfira positivamente na produtividade. Fotos de quem amamos por perto também é muito bom. Mas um acúmulo de enfeites faz bem? Será que uma parede repleta de imagens também não deixa o seu pretenso home office simples bem longe de tornar-se realidade? Diminua esses itens para simplificar visualmente o seu espaço, e deixe sua mente livre para criar e produzir.
+  <strong>2</strong> – O desapego na consideração [1] inclui elementos decorativos também. Ter enfeites no espaço de trabalho é muito bom, sobretudo se eles têm valor afetivo. Isso de alguma forma nos conecta com o que importa pra gente, e acredito que até interfira positivamente na produtividade. Fotos de quem amamos por perto também é muito bom. Mas um acúmulo de enfeites faz bem? Será que uma parede repleta de imagens também não deixa o seu pretenso home office simples bem longe de tornar-se realidade? Diminua esses itens para simplificar visualmente o seu espaço, e deixe sua mente livre para criar e produzir.
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Casa Abril](http://casa.abril.com.br/) 
+  Via <a href="http://casa.abril.com.br/" target="_blank">Casa Abril</a>
 </p>
 
 <p align="center">
@@ -102,15 +102,15 @@ categories:
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Home office: soluções simples de decoração & organização.**](http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/) 
+  <a href="http://www.trololodemulher.com.br/2010/11/12/escritorio-decoracao/" target="_blank"><strong>Home office: soluções simples de decoração & organização.</strong></a>
 </p>
 
 <p align="justify">
-  **3** – Apele para o básico. Do que você precisa, realmente? Mesa, cadeira, computador, agenda, canetas, caderno de anotação…  o que mais? Repense seus hábitos, simplifique suas atividades e, de repente, o que parecia tão importante pode não ser como você imaginava. Ter uma [vida simples](http://www.trololodemulher.com.br/2015/07/03/vida-simples/)  e livre dos excessos pode ser libertador!
+  <strong>3</strong> – Apele para o básico. Do que você precisa, realmente? Mesa, cadeira, computador, agenda, canetas, caderno de anotação…  o que mais? Repense seus hábitos, simplifique suas atividades e, de repente, o que parecia tão importante pode não ser como você imaginava. Ter uma <a href="http://www.trololodemulher.com.br/2015/07/03/vida-simples/" target="_blank">vida simples</a> e livre dos excessos pode ser libertador!
 </p>
 
 <p align="center">
@@ -118,9 +118,9 @@ categories:
 </p>
 
 <p align="center">
-  Home office da [fotógrafa Ruby Fernandes](http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/) , montado com uma escrivaninha antiga e pouquíssimos objetos de decoração. Inspire-se!
+  Home office da <a href="http://www.trololodemulher.com.br/2013/10/04/fotografia-ruby-fernandes/" target="_blank">fotógrafa Ruby Fernandes</a>, montado com uma escrivaninha antiga e pouquíssimos objetos de decoração. Inspire-se!
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>

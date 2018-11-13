@@ -1,8 +1,8 @@
 ---
-
+id: 3543
 title: 'Festa infantil do balão: ideias lindas de viver.'
-
-author: Lidiane
+date: 2016-02-17T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2016/02/17/festa-infantil-do-balao/
 permalink: /2016/02/17/festa-infantil-do-balao/
@@ -11,7 +11,7 @@ categories:
   - Maternidade
 ---
 <p align="justify">
-  Até onde dá pra ir num balão? Aonde quer que a imaginação infantil chegue, esse é o limite. Não é lindo pensar assim?! **Festa infantil do balão**, bem colorida, tem uma carinha de infância difícil de resistir. Você vive de amores pela ideia assim como eu? Foi uma delícia reunir algumas inspirações para você neste post, que tem por objetivo servir de ponto de partida para a sua imaginação materna… como você deixaria a festa da sua cria pura lindeza? Inspire-se!
+  Até onde dá pra ir num balão? Aonde quer que a imaginação infantil chegue, esse é o limite. Não é lindo pensar assim?! <strong>Festa infantil do balão</strong>, bem colorida, tem uma carinha de infância difícil de resistir. Você vive de amores pela ideia assim como eu? Foi uma delícia reunir algumas inspirações para você neste post, que tem por objetivo servir de ponto de partida para a sua imaginação materna… como você deixaria a festa da sua cria pura lindeza? Inspire-se!
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ categories:
 </p>
 
 <p align="justify">
-  **O Bolo**
+  <strong>O Bolo</strong>
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@ categories:
 </p>
 
 <p align="center">
-  Via [Sweet Designs](http://blog.amyatlas.com/2013/02/22/up-up-and-away-guest-dessert-feature-2/) 
+  Via <a href="http://blog.amyatlas.com/2013/02/22/up-up-and-away-guest-dessert-feature-2/" target="_blank">Sweet Designs</a>
 </p>
 
 <p align="justify">
-  **A mesa**
+  <strong>A mesa</strong>
 </p>
 
 &nbsp;
@@ -41,12 +41,12 @@ categories:
 </p>
 
 <p align="center">
-  Via [Peace of Cake](http://peaceofcakedesign.blogspot.gr/2014/04/hot-air-balloon-baby-shower.html) 
+  Via <a href="http://peaceofcakedesign.blogspot.gr/2014/04/hot-air-balloon-baby-shower.html" target="_blank">Peace of Cake</a>
 </p>
 
 &nbsp;
 
-**A caixa/[sacola de festa infantil](http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/) **
+**A caixa/<a href="http://www.trololodemulher.com.br/2016/01/08/sacolas-de-festa-infantil/" target="_blank">sacola de festa infantil</a>**
 
 &nbsp;
 
@@ -55,24 +55,24 @@ categories:
 </p>
 
 <p align="center">
-  Via [TinyPrints](https://blog.tinyprints.com/birthday-party-ideas/hot-air-balloon-themed-girls-first-birthday-party/) 
+  Via <a href="https://blog.tinyprints.com/birthday-party-ideas/hot-air-balloon-themed-girls-first-birthday-party/" target="_blank">TinyPrints</a>
 </p>
 
 <p align="justify">
-  **Veja também:**
+  <strong>Veja também:</strong>
 </p>
 
 <p align="justify">
-  [**Sacolinha de festa infantil: faça você mesma**](http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/) 
+  <a href="http://www.trololodemulher.com.br/2015/08/07/sacolinha-de-festa-infantil/" target="_blank"><strong>Sacolinha de festa infantil: faça você mesma</strong></a>
 </p>
 
 <p align="justify">
-  [**Lembrancinhas de festas que saem da mesmice: dicas.**](http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/) 
+  <a href="http://www.trololodemulher.com.br/2014/04/23/lembrancinha-festa-aniversario/" target="_blank"><strong>Lembrancinhas de festas que saem da mesmice: dicas.</strong></a>
 </p>
 
 &nbsp;
 
-**[Detalhes de decoração “faça você mesma”](http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/) **
+**<a href="http://www.trololodemulher.com.br/2015/09/04/bandeirolas-de-aniversario/" target="_blank">Detalhes de decoração “faça você mesma”</a>**
 
 &nbsp;
 
@@ -81,7 +81,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Pinterest](https://br.pinterest.com/pin/228417012325044496/) 
+  Via <a href="https://br.pinterest.com/pin/228417012325044496/" target="_blank">Pinterest</a>
 </p>
 
 &nbsp;
@@ -95,12 +95,12 @@ categories:
 </p>
 
 <p align="center">
-  Via [Flickr](https://www.flickr.com/photos/missbiscuit/14593724622/) 
+  Via <a href="https://www.flickr.com/photos/missbiscuit/14593724622/" target="_blank">Flickr</a>
 </p>
 
 &nbsp;
 
-**[Topper de Cupcakes](http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/) **
+**<a href="http://www.trololodemulher.com.br/2015/10/02/topper-para-cupcake/" target="_blank">Topper de Cupcakes</a>**
 
 &nbsp;
 
@@ -109,7 +109,7 @@ categories:
 </p>
 
 <p align="center">
-  Via [Pinterest](https://br.pinterest.com/pin/446349013039973624/) 
+  Via <a href="https://br.pinterest.com/pin/446349013039973624/" target="_blank">Pinterest</a>
 </p>
 
 &nbsp;
@@ -123,13 +123,13 @@ categories:
 </p>
 
 <p align="center">
-  Via [Fabric Paper Glue](http://www.fabricpaperglue.com/2013/03/try-this-hot-air-balloon-baby-shower.html) 
+  Via <a href="http://www.fabricpaperglue.com/2013/03/try-this-hot-air-balloon-baby-shower.html" target="_blank">Fabric Paper Glue</a>
 </p>
 
 &nbsp;
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" />](http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogBichaFemea&loc=en_US" target="_blank"><img class="alignnone size-full wp-image-10439" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2014/09/ASSINE.png" alt="ASSINE!" width="800" height="78" /></a>
 </p>
 
 &nbsp;

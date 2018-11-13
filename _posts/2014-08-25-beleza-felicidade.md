@@ -1,8 +1,8 @@
 ---
-
+id: 3335
 title: Cuidar da beleza é muito mais que passar batom…
-
-author: Lidiane
+date: 2014-08-25T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/08/25/beleza-felicidade/
 permalink: /2014/08/25/beleza-felicidade/
@@ -26,7 +26,7 @@ categories:
 </p>
 
 <p align="center">
-  Imagem: [freeimages](http://www.freeimages.com/) 
+  Imagem: <a href="http://www.freeimages.com/" target="_blank">freeimages</a>
 </p>
 
 &nbsp;
@@ -48,35 +48,35 @@ categories:
 &nbsp;
 
 > <p align="justify">
->   Terei o maior prazer em compartilhar meus segredinhos pra manter a forma, a saúde e a sanidade. E é esse o ponto de partida, saúde mental pra poder encarar tudo pela frente com tranquilidade e acerto. Pois então, pra mim hatha yoga, de mestre Hérmogenes, a série da mulher casada , tonifica, relaxa, trabalha os chacras eliminando toxinas e ainda torneia o corpito. Minhas pernocas não estão nada mal, e ainda tenho cintura depois de 3 … hehehe. O segundo ponto: hábitos de alimentação. Chás são meu tônico: de amora, alecrim, salvia, verde, de orégano, todos de folhas naturais, que aliás são fáceis de encontrar nas feiras. Fruta e verdura todo dia. Além de colágeno hidrolisado, gengibre com limão em jejum, água gelada em jejum, e um probiótico (kefir) que infelizmente não é tão fácil de encontrar. E evitar frituras e margarinas, manteiga não é tão ruim como se pensa, como um bocado…hehehe. Pra ser sincera, não uso muita maquiagem, nem base nem batom, só nos olhos, delineador e rímel… só. Creme antiidade não uso, mas tenho uns truques bem baratinhos, tipo, esfoliar com mel e óleo de cozinha de boa qualidade, de canola ou girassol, ou um mix destes. Funciona mesmo! Nem precisa de hidratantes, aliás nem recomendo, um bom óleo perfumado, de preferência com colágeno, é suficiente. E como todas sabem, água e chá meninas! Mantem a forma, hidrata e retarda o envelhecimento.” **Márcia Régia, professora, 38 anos.**
+>   Terei o maior prazer em compartilhar meus segredinhos pra manter a forma, a saúde e a sanidade. E é esse o ponto de partida, saúde mental pra poder encarar tudo pela frente com tranquilidade e acerto. Pois então, pra mim hatha yoga, de mestre Hérmogenes, a série da mulher casada , tonifica, relaxa, trabalha os chacras eliminando toxinas e ainda torneia o corpito. Minhas pernocas não estão nada mal, e ainda tenho cintura depois de 3 … hehehe. O segundo ponto: hábitos de alimentação. Chás são meu tônico: de amora, alecrim, salvia, verde, de orégano, todos de folhas naturais, que aliás são fáceis de encontrar nas feiras. Fruta e verdura todo dia. Além de colágeno hidrolisado, gengibre com limão em jejum, água gelada em jejum, e um probiótico (kefir) que infelizmente não é tão fácil de encontrar. E evitar frituras e margarinas, manteiga não é tão ruim como se pensa, como um bocado…hehehe. Pra ser sincera, não uso muita maquiagem, nem base nem batom, só nos olhos, delineador e rímel… só. Creme antiidade não uso, mas tenho uns truques bem baratinhos, tipo, esfoliar com mel e óleo de cozinha de boa qualidade, de canola ou girassol, ou um mix destes. Funciona mesmo! Nem precisa de hidratantes, aliás nem recomendo, um bom óleo perfumado, de preferência com colágeno, é suficiente. E como todas sabem, água e chá meninas! Mantem a forma, hidrata e retarda o envelhecimento.” <strong>Márcia Régia, professora, 38 anos.</strong>
 > </p>
 
 <p align="left">
-  **A propósito:**
+  <strong>A propósito:</strong>
 </p>
 
 <p align="left">
-  [**Me diz o que comes, e te direi se és saudável… ou não.**](http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/) 
+  <a href="http://www.trololodemulher.com.br/2014/07/25/alimentacao-saudavel/" target="_blank"><strong>Me diz o que comes, e te direi se és saudável… ou não.</strong></a>
 </p>
 
 <p align="left">
-  **Receitas saudáveis? Lá vai:**
+  <strong>Receitas saudáveis? Lá vai:</strong>
 </p>
 
 <p align="left">
-  [**Canelone de berinjela + queijo cottage (no molho caseiro)**](http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/) 
+  <a href="http://www.trololodemulher.com.br/2014/07/28/canelone-berinjela-queijo/" target="_blank"><strong>Canelone de berinjela + queijo cottage (no molho caseiro)</strong></a>
 </p>
 
 <p align="left">
-  [**Arroz integral (fora do comum) + filé de frango (no molho delícia)**](http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/) 
+  <a href="http://www.trololodemulher.com.br/2014/07/14/arroz-integral-file-frango/" target="_blank"><strong>Arroz integral (fora do comum) + filé de frango (no molho delícia)</strong></a>
 </p>
 
 <p align="left">
-  **E ainda…**
+  <strong>E ainda…</strong>
 </p>
 
 <p align="left">
-  [**Quanto você já bebeu de água hoje?**](http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/) 
+  <a href="http://www.trololodemulher.com.br/2011/06/03/agua-saude-2/" target="_blank"><strong>Quanto você já bebeu de água hoje?</strong></a>
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ categories:
 </p>
 
 > <p align="justify">
->   Me sinto confiante quando eu chego em um ambiente e todos sorriem para mim, por isso eu pratico muito o sorrir para as pessoas, o bom dia alegre, o estar sempre de bom humor. Sou muito stressada, mas mesmo brigando com todos ao meu redor, eu também os encho de carinho e amor, e sempre recebo o mesmo de volta, e isso me torna mais confiante. Eu vejo que, mesmo com uma personalidade forte como a minha, sinto esses pequenos gestos que fazem toda a diferença no dia a dia. Me sinto bonita quando consigo tirar um tempo para me cuidar e recebo um super elogio do meu marido (mesmo quando ele diz: nossa, você esta linda, mas quanto você gastou? hahaha). Feliz me sinto em estar com as pessoas que eu amo: marido, amigos, família. Uma semana feliz tem que ter todos eles, ou a maior parte deles! “**Gabriela Prati, analista de sistemas, 24 anos.**
+>   Me sinto confiante quando eu chego em um ambiente e todos sorriem para mim, por isso eu pratico muito o sorrir para as pessoas, o bom dia alegre, o estar sempre de bom humor. Sou muito stressada, mas mesmo brigando com todos ao meu redor, eu também os encho de carinho e amor, e sempre recebo o mesmo de volta, e isso me torna mais confiante. Eu vejo que, mesmo com uma personalidade forte como a minha, sinto esses pequenos gestos que fazem toda a diferença no dia a dia. Me sinto bonita quando consigo tirar um tempo para me cuidar e recebo um super elogio do meu marido (mesmo quando ele diz: nossa, você esta linda, mas quanto você gastou? hahaha). Feliz me sinto em estar com as pessoas que eu amo: marido, amigos, família. Uma semana feliz tem que ter todos eles, ou a maior parte deles! “<strong>Gabriela Prati, analista de sistemas, 24 anos.</strong>
 > </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ categories:
 </p>
 
 > <p align="justify">
->   Uma maquiagem leve e um look de inverno me fazem sentir muito bem, mas ultimamente também reparo que quando minha alimentação está melhor, ingerindo mais fibras, minha pele fica melhor (tenho um histórico de pele acneica) e me sinto mais bonita. (aí penso: preciso comer melhor sempre rs).” **Cynthia Le Bourlegat, blogueira | [Fala, mãe!](http://www.falamae.com/) , 34 anos.**
+>   Uma maquiagem leve e um look de inverno me fazem sentir muito bem, mas ultimamente também reparo que quando minha alimentação está melhor, ingerindo mais fibras, minha pele fica melhor (tenho um histórico de pele acneica) e me sinto mais bonita. (aí penso: preciso comer melhor sempre rs).” <strong>Cynthia Le Bourlegat, blogueira | <a href="http://www.falamae.com/" target="_blank">Fala, mãe!</a>, 34 anos.</strong>
 > </p>
 
 <p align="justify">
@@ -100,7 +100,7 @@ categories:
 </p>
 
 <p align="center">
-  [<img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" />](http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR) 
+  <a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR" target="_blank"><img class="alignnone size-full wp-image-8451" title="Assine o Bicha Fêmea grátis!" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2012/01/rodapé.png" alt="" width="600" height="59" /></a>
 </p>
 
 <p align="center">

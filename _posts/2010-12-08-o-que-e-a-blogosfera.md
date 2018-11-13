@@ -1,8 +1,8 @@
 ---
-
+id: 2923
 title: O que é a blogosfera? Que é que você está fazendo nela?
-
-author: Lidiane
+date: 2010-12-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/12/08/o-que-e-a-blogosfera/
 permalink: /2010/12/08/o-que-e-a-blogosfera/
@@ -24,7 +24,7 @@ Uma pessoa que não conhece esse mundo pode fazer essas perguntas, atônita e de
 </p>
 
 <p style="text-align: justify;">
-  Que revolução é essa que a blogosfera feminina, mundo onde estou tão presente e me deixo influenciar por ele, causou em mim e causa em tantas outras mulheres que leio e ouço falar? _Hum_… cada uma de nós sabe do que estou falando, e só entende quem está por aqui mesmo…assim, como você e eu.
+  Que revolução é essa que a blogosfera feminina, mundo onde estou tão presente e me deixo influenciar por ele, causou em mim e causa em tantas outras mulheres que leio e ouço falar? <em>Hum</em>… cada uma de nós sabe do que estou falando, e só entende quem está por aqui mesmo…assim, como você e eu.
 </p>
 
 <p style="text-align: center;">
@@ -47,7 +47,7 @@ Eu quero cuidar de mim, do amor que sinto por mim mesma, e dos meus. Eu quero co
 
 Você já se perguntou o que é a blogosfera? Afinal, o que você está fazendo aqui?
 
-Imagem: [stock.xchng](http://www.sxc.hu/) 
+Imagem: <a href="http://www.sxc.hu/" target="_blank">stock.xchng</a>
 
 **Mais no Bicha Fêmea&#8230;**
 
@@ -60,13 +60,13 @@ Imagem: [stock.xchng](http://www.sxc.hu/)
 **_<a href="http://www.trololodemulher.com.br/2010/06/02/como-ser-seguidor/" target="_self">O Bicha Fêmea NÃO é um blog com &#8220;seguidores&#8221;?</a>_**
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>
 
 <p style="text-align: center;">
-  **_ _**
+  <strong><em> </em></strong>
 </p>

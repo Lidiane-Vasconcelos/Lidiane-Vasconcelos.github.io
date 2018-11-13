@@ -1,8 +1,8 @@
 ---
-
+id: 3271
 title: Já curtiu o Bicha Fêmea no Facebook?
-
-author: Lidiane
+date: 2014-01-08T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2014/01/08/bicha-femea-facebook/
 permalink: /2014/01/08/bicha-femea-facebook/
@@ -30,13 +30,13 @@ Então, é assim:
 &nbsp;
 
 <p style="text-align: center;">
-  **[Página do Bicha Fêmea no Facebook](https://www.facebook.com/bichafemea)  | [Meu perfil no Facebook](https://www.facebook.com/lidiane.vasconcelos.94) **
+  <strong><a href="https://www.facebook.com/bichafemea" target="_blank">Página do Bicha Fêmea no Facebook</a> | <a href="https://www.facebook.com/lidiane.vasconcelos.94" target="_blank">Meu perfil no Facebook</a></strong>
 </p>
 
 <p style="text-align: center;">
-  ** **
+  <strong> </strong>
 </p>
 
 <p style="text-align: center;">
-  **Vem!!!**
+  <strong>Vem!!!</strong>
 </p>

@@ -1,8 +1,8 @@
 ---
-
+id: 2798
 title: Alongamento Para Caminhada. Você Faz???
-
-author: Lidiane
+date: 2010-03-05T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2010/03/05/alongamento-caminhada/
 permalink: /2010/03/05/alongamento-caminhada/
@@ -17,7 +17,7 @@ Daí que eu tomei vergonha na cara, e pesquisei imagens e informações bem did�
 
 Aliás, você comete?![<img style="display: inline;" title="EmoticonGoofy" src="http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/EmoticonGoofy_thumb.gif" alt="EmoticonGoofy" width="18" height="18" />](http://www.trololodemulher.com.br/blog/wp-content/uploads/2010/03/EmoticonGoofy.gif)
 
-Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientações de como realizar o movimento, são do artigo escrito pela Valéria Alvin Igayara de Souza, que é especialista em treinamento. Este artigo foi publicado no espaço [Cyber Diet](http://cyberdiet.terra.com.br/cyberdiet/index.htm)  do portal [Terra](http://www.terra.com.br/portal/) .
+Em todo caso, lá vai, _hein_? Cada imagem, acompanhada das devidas orientações de como realizar o movimento, são do artigo escrito pela Valéria Alvin Igayara de Souza, que é especialista em treinamento. Este artigo foi publicado no espaço <a href="http://cyberdiet.terra.com.br/cyberdiet/index.htm" target="_blank">Cyber Diet</a> do portal <a href="http://www.terra.com.br/portal/" target="_blank">Terra</a>.
 
 <table border="0">
   <tr>
@@ -147,6 +147,6 @@ Pronto! As imagens e instruções não são fáceis de serem entendidas? Agora �
 
 **Mais no Bicha Fêmea…**
 
-<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-exercicios-fisicos/" target="_self">**_Dicas_****_ para automotivação para a prática de exercícios físicos_**</a>
+<a href="http://www.trololodemulher.com.br/2009/12/28/dicas-exercicios-fisicos/" target="_self"><strong><em>Dicas</em></strong><strong><em> para automotivação para a prática de exercícios físicos</em></strong></a>
 
-<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self">**_Queime_****_ calorias e ganhe saúde cuidando da casa!_**</a>
+<a href="http://www.trololodemulher.com.br/2009/04/06/perca-calorias/" target="_self"><strong><em>Queime</em></strong><strong><em> calorias e ganhe saúde cuidando da casa!</em></strong></a>

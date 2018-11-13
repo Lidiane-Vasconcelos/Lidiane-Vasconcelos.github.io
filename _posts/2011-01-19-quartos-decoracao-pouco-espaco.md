@@ -1,8 +1,8 @@
 ---
-
+id: 2935
 title: 'Quartos: soluções de decoração para ganhar espaço.'
-
-author: Lidiane
+date: 2011-01-19T00:00:00+00:00
+author: admin
 layout: post
 guid: http://localhost/wordpress/2011/01/19/quartos-decoracao-pouco-espaco/
 permalink: /2011/01/19/quartos-decoracao-pouco-espaco/
@@ -23,11 +23,11 @@ categories:
 </p>
 
 <p style="text-align: justify;">
-  Uma boa estratégia para dar a impressão de que um quarto é maior do que parece é fazer com que o chão fique livre, para que todo o espaço seja visto. Muitas vezes, por qualquer motivo, nem sempre é possível investir numa cabeceira planejada com painel de mdf que tenha uma mesinha de cabeceira flutuante, não é verdade? A solução pode ser uma pequena prateleira que você possa adquirir facilmente em um _home center_. Já pensou nisso? Faça dessa prateleira, simples e básica, algo com graça e _bossa,_ através dos objetos que você escolhe para orná-la… e _voilá_!
+  Uma boa estratégia para dar a impressão de que um quarto é maior do que parece é fazer com que o chão fique livre, para que todo o espaço seja visto. Muitas vezes, por qualquer motivo, nem sempre é possível investir numa cabeceira planejada com painel de mdf que tenha uma mesinha de cabeceira flutuante, não é verdade? A solução pode ser uma pequena prateleira que você possa adquirir facilmente em um <em>home center</em>. Já pensou nisso? Faça dessa prateleira, simples e básica, algo com graça e <em>bossa,</em> através dos objetos que você escolhe para orná-la… e <em>voilá</em>!
 </p>
 
 <p style="text-align: center;">
-  **Sugestão de objetos com graça e bossa para sua prateleira/mesa de cabeceira…**
+  <strong>Sugestão de objetos com graça e bossa para sua prateleira/mesa de cabeceira…</strong>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -38,25 +38,25 @@ categories:
     
     <td width="300" valign="top">
       <p style="text-align: justify;">
-        _ _
+        <em> </em>
       </p>
       
       <p style="text-align: justify;">
-        _As caixas organizam, isso todo mundo sabe. Mas também podem decorar. Por que, não? A caixa Moa é um exemplo disso: bonita, singela e romântica. Ideal para lembranças de casamentos também, por ser tão delicada…inspire-se!_
+        <em>As caixas organizam, isso todo mundo sabe. Mas também podem decorar. Por que, não? A caixa Moa é um exemplo disso: bonita, singela e romântica. Ideal para lembranças de casamentos também, por ser tão delicada…inspire-se!</em>
       </p>
       
       <p style="text-align: justify;">
-        _A _[_**Caixa Moa** _](http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/) _está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/) **!_
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank"><em><strong>Caixa Moa</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/caixa-moa/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: justify;" width="300" valign="top">
-      _ __Espalhe mimos decorativos pela casa e deixe seu canto cheio de bossa! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?_</p> 
+      <em> </em><em>Espalhe mimos decorativos pela casa e deixe seu canto cheio de bossa! O que faz bem aos olhos, só pode fazer muito bem a todo o resto também… e não é o que te parece esse regador provençal?</em></p> 
       
       <p style="text-align: justify;">
-        _O _[_**Regador Provençal** _](http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/) _está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/) **!_
+        <em>O </em><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank"><em><strong>Regador Provençal</strong> </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/10/21/regador-provencal/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
     
@@ -89,7 +89,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  **Sugestão de caixa decorativa para sua mesa de cabeceira…**
+  <strong>Sugestão de caixa decorativa para sua mesa de cabeceira…</strong>
 </p>
 
 <table border="0" cellspacing="0" cellpadding="0" width="600">
@@ -99,16 +99,16 @@ categories:
     </td>
     
     <td style="text-align: justify;" width="300" valign="top">
-      _Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Organize, decore ou presenteie de forma diferente com caixas assim!_</p> 
+      <em>Caixas organizam, porque cada uma delas ganha um propósito e tudo fica no seu devido lugar. E se além disso elas ainda pudessem decorar? Aquele canto da casa, do closet ou de onde você imaginar pode ganhar charme com caixas artesanais e personalizadas. É ou não é? Organize, decore ou presenteie de forma diferente com caixas assim!</em></p> 
       
       <p style="text-align: justify;">
-        _A _[_**Caixa Redonda Vintage**  _](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/) _está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> **[basta clicar](http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/) **!_
+        <em>A </em><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank"><em><strong>Caixa Redonda Vintage</strong>  </em></a><em>está a venda no Mercado de Artes, loja virtual do Bicha Fêmea. Quer dar uma espiada? É por aqui >>>>> <strong><a href="http://www.trololodemulher.com.br/loja/2010/09/08/caixa-redonda-vintage/" target="_blank">basta clicar</a></strong>!</em>
       </p>
     </td>
   </tr>
 </table>
 
-_Imagens:_ [_Better Homes and Gardens_](http://www.bhg.com/) 
+_Imagens:_ <a href="http://www.bhg.com/" target="_blank"><em>Better Homes and Gardens</em></a>
 
 **Mais no Bicha Fêmea…**
 
@@ -123,13 +123,13 @@ _Imagens:_ [_Better Homes and Gardens_](http://www.bhg.com/)
 **_[Dicas e detalhes na decoração do quarto.](http://www.trololodemulher.com.br/2009/10/01/dicas-decoracao-quarto/)_**
 
 <p style="text-align: center;">
-  Navegue no **_Bicha Fêmea_** – **_<a href="http://www.trololodemulher.com.br/">Início</a>_** > <a href="http://www.trololodemulher.com.br/casaedecoracao/">**_Casa & Decoração_**</a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/">**_Quartos_**</a>> Quartos: soluções de decoração para ganhar espaço.
+  Navegue no <strong><em>Bicha Fêmea</em></strong> – <strong><em><a href="http://www.trololodemulher.com.br/">Início</a></em></strong> > <a href="http://www.trololodemulher.com.br/casaedecoracao/"><strong><em>Casa & Decoração</em></strong></a>> <a href="http://www.trololodemulher.com.br/category/decoracao/quartos/"><strong><em>Quartos</em></strong></a>> Quartos: soluções de decoração para ganhar espaço.
 </p>
 
 <p style="text-align: center;">
-  Quer as novidades do Bicha Fêmea? **_<a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a>_**!
+  Quer as novidades do Bicha Fêmea? <strong><em><a href="http://feedburner.google.com/fb/a/mailverify?uri=blogbichafemea&loc=pt_BR">Receba gratuitamente em seu e-mail</a></em></strong>!
 </p>
 
 <p style="text-align: center;">
-  **_Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> _<a href="http://www.trololodemulher.com.br/loja/">_basta clicar_</a>_!_**
+  <strong><em>Conheça o Mercado de Artes, loja virtual do blog Bicha Fêmea. É por aqui >>>>>> </em><a href="http://www.trololodemulher.com.br/loja/"><em>basta clicar</em></a><em>!</em></strong>
 </p>
