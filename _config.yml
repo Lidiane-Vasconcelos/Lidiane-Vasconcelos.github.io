@@ -1,7 +1,7 @@
 # Site
-name: "T Mulher"
-description: "T Mulher"
-meta_description: "T Mulher"
+name: "Trololó Mulher"
+description: "Trololó Mulher"
+meta_description: "Trololó Mulher"
 content_lang: "pt-br"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -25,25 +25,6 @@ authors:
     web: https://www.trololodemulher.com.br
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-
-  sal:
-    name: Lidiane
-    display_name: "Lidiane Vasconcelos"
-    gravatar: 94e312457714a8b53f0348c17f5f79b4
-    email: trololomulher@gmail.com
-    web: https://www.trololodemulher.com.br
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-
-  john:
-    name: Lidiane
-    display_name: "Lidiane Vasconcelos"
-    gravatar: 94e312457714a8b53f0348c17f5f79b4
-    email: trololomulher@gmail.com
-    web: https://www.trololodemulher.com.br
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-
 
 # Plugins
 plugins:
