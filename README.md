@@ -91,5 +91,4 @@ Thank you so much for your contribution!
 -----------------
 
 [Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip)
-"# Lidiane-Vasconcelos.github.io" 
-"# Lidiane-Vasconcelos.github.io" 
+
