@@ -2,7 +2,7 @@
 id: 3073
 title: 'Sorteio Bicha Fêmea &#038; Espaço Home + Pura Tendência entre amigas!'
 date: 2011-11-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/02/espaco-home-pura-tendencia/
 permalink: /2011/11/02/espaco-home-pura-tendencia/

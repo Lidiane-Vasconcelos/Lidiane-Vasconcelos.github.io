@@ -2,7 +2,7 @@
 id: 3519
 title: Como escolher roupa para bebê? Veja 4 dicas.
 date: 2015-12-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/03/roupa-para-bebe/
 permalink: /2015/12/03/roupa-para-bebe/

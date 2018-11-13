@@ -2,7 +2,7 @@
 id: 3322
 title: 'Dinheiro: guardar x gastar x investir. O que é melhor?'
 date: 2014-07-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/18/dinheiro-educacao-financeira/
 permalink: /2014/07/18/dinheiro-educacao-financeira/

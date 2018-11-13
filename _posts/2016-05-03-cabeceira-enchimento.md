@@ -2,7 +2,7 @@
 id: 3602
 title: 'Cabeceira com enchimento “fofinho”: como fazer?'
 date: 2016-05-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/03/cabeceira-enchimento/
 permalink: /2016/05/03/cabeceira-enchimento/

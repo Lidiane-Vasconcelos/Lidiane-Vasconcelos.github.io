@@ -2,7 +2,7 @@
 id: 2754
 title: Esta é a minha mensagem de Natal para você…
 date: 2009-12-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/23/esta-e-a-minha-mensagem-de-natal-para-voce/
 permalink: /2009/12/23/esta-e-a-minha-mensagem-de-natal-para-voce/

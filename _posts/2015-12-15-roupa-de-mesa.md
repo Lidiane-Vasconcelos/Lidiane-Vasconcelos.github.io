@@ -2,7 +2,7 @@
 id: 3503
 title: Roupa de mesa posta pra viver de amores
 date: 2015-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/15/roupa-de-mesa/
 permalink: /2015/12/15/roupa-de-mesa/

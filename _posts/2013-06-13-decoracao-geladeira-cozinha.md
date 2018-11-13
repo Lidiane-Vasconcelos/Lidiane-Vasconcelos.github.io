@@ -2,7 +2,7 @@
 id: 3231
 title: Quer decorar a geladeira, mas não quer usar adesivo? É fácil!
 date: 2013-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/13/decoracao-geladeira-cozinha/
 permalink: /2013/06/13/decoracao-geladeira-cozinha/

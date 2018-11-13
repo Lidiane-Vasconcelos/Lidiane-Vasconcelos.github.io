@@ -2,7 +2,7 @@
 id: 3495
 title: Consultoria de imagem e estilo é seu sonho de carreira?
 date: 2015-10-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/05/consultoria-de-imagem-e-estilo/
 permalink: /2015/10/05/consultoria-de-imagem-e-estilo/

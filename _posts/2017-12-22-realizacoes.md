@@ -2,7 +2,7 @@
 id: 3847
 title: Que 2018 tenha, para você, gosto de realizações!
 date: 2017-12-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/22/realizacoes/
 permalink: /2017/12/22/realizacoes/

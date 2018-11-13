@@ -2,7 +2,7 @@
 id: 3158
 title: A saúde da pele agradece o fitro solar, mesmo no inverno!
 date: 2012-07-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/23/saude-beleza-pele-inverno/
 permalink: /2012/07/23/saude-beleza-pele-inverno/

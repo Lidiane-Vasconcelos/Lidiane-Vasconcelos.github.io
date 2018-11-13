@@ -2,7 +2,7 @@
 id: 3221
 title: Dica de decoração infantil que sua criança pode fazer…
 date: 2013-05-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/29/decoracao-quarto-infantil-2/
 permalink: /2013/05/29/decoracao-quarto-infantil-2/

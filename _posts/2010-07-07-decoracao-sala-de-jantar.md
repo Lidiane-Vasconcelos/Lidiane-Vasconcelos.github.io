@@ -2,7 +2,7 @@
 id: 2842
 title: 'Pitacos de bicha fêmea: sala de jantar com móveis escuros.'
 date: 2010-07-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/07/decoracao-sala-de-jantar/
 permalink: /2010/07/07/decoracao-sala-de-jantar/

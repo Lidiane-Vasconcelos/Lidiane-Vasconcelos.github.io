@@ -2,7 +2,7 @@
 id: 3148
 title: Bicha Fêmea presenteia leitora que comenta por aqui…
 date: 2012-07-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/10/gaudesivos-adesivo-decorativo/
 permalink: /2012/07/10/gaudesivos-adesivo-decorativo/

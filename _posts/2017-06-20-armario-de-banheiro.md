@@ -2,7 +2,7 @@
 id: 3776
 title: 'Armário de banheiro: falta ideia? Veja 6 bonitos e simples!'
 date: 2017-06-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/20/armario-de-banheiro/
 permalink: /2017/06/20/armario-de-banheiro/

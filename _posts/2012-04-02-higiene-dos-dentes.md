@@ -2,7 +2,7 @@
 id: 3127
 title: Você sabe mesmo cuidar da higiene dos dentes?
 date: 2012-04-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/02/higiene-dos-dentes/
 permalink: /2012/04/02/higiene-dos-dentes/

@@ -2,7 +2,7 @@
 id: 3773
 title: Como escolher tecidos pra decoração da varanda?
 date: 2017-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/06/decoracao-da-varanda/
 permalink: /2017/06/06/decoracao-da-varanda/

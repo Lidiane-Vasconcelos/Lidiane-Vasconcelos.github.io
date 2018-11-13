@@ -2,7 +2,7 @@
 id: 3183
 title: Qual produto de beleza vale a pena experimentar?
 date: 2012-09-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/10/produto-de-beleza/
 permalink: /2012/09/10/produto-de-beleza/

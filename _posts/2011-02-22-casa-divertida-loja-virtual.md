@@ -2,7 +2,7 @@
 id: 2961
 title: Casa Divertida, a mais nova loja virtual de mimos para casa!
 date: 2011-02-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/22/casa-divertida-loja-virtual/
 permalink: /2011/02/22/casa-divertida-loja-virtual/

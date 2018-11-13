@@ -2,7 +2,7 @@
 id: 3552
 title: 'Morando de aluguel: dá pra mudar a decoração do quarto?'
 date: 2016-03-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/01/morando-de-aluguel/
 permalink: /2016/03/01/morando-de-aluguel/

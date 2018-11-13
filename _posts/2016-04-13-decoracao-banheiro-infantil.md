@@ -2,7 +2,7 @@
 id: 3588
 title: Quer ideias de decoração para o banheiro das crianças?
 date: 2016-04-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/13/decoracao-banheiro-infantil/
 permalink: /2016/04/13/decoracao-banheiro-infantil/

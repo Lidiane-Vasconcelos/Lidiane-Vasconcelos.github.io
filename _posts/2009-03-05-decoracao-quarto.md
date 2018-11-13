@@ -2,7 +2,7 @@
 id: 2633
 title: Ideias para a decoração de quartos.
 date: 2009-03-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/05/decoracao-quarto/
 permalink: /2009/03/05/decoracao-quarto/

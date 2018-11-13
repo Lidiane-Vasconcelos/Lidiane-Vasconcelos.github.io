@@ -2,7 +2,7 @@
 id: 3140
 title: 'Cosmética sustentável: a natureza agradece, mas a beleza muito mais!'
 date: 2012-06-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/21/cosmetica-sustentavel/
 permalink: /2012/06/21/cosmetica-sustentavel/

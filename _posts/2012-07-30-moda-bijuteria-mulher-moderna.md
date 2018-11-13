@@ -2,7 +2,7 @@
 id: 3162
 title: 'Bijuteria para mulher moderna e despojada, mas clássica: essa é você?'
 date: 2012-07-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/30/moda-bijuteria-mulher-moderna/
 permalink: /2012/07/30/moda-bijuteria-mulher-moderna/

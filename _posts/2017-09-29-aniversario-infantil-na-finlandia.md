@@ -2,7 +2,7 @@
 id: 3807
 title: Como é comemorado o aniversário infantil na Finlândia?
 date: 2017-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/29/aniversario-infantil-na-finlandia/
 permalink: /2017/09/29/aniversario-infantil-na-finlandia/

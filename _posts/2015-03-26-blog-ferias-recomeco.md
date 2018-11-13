@@ -2,7 +2,7 @@
 id: 3417
 title: Blog de férias. Minha vida em recomeço…
 date: 2015-03-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/26/blog-ferias-recomeco/
 permalink: /2015/03/26/blog-ferias-recomeco/

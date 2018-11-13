@@ -2,7 +2,7 @@
 id: 3652
 title: Confira 6 razões para usar jogos americanos à mesa.
 date: 2016-08-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/30/jogos-americanos/
 permalink: /2016/08/30/jogos-americanos/

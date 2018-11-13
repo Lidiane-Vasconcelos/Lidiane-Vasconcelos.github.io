@@ -2,7 +2,7 @@
 id: 2946
 title: 'Prateleira do Bicha Fêmea: Katia Bonfadini'
 date: 2011-02-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/09/katia-bonfadini/
 permalink: /2011/02/09/katia-bonfadini/

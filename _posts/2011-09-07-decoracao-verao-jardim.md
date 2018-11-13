@@ -2,7 +2,7 @@
 id: 3047
 title: Qual espaço na sua casa é a cara do Verão?
 date: 2011-09-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/07/decoracao-verao-jardim/
 permalink: /2011/09/07/decoracao-verao-jardim/

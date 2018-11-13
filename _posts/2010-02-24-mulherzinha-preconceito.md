@@ -2,7 +2,7 @@
 id: 2791
 title: Mulherzinha? Eu?
 date: 2010-02-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/24/mulherzinha-preconceito/
 permalink: /2010/02/24/mulherzinha-preconceito/

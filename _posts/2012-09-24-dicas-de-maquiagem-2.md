@@ -2,7 +2,7 @@
 id: 3190
 title: Sabe aquela amiga que sabe dar dicas de maquiagem?
 date: 2012-09-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/24/dicas-de-maquiagem-2/
 permalink: /2012/09/24/dicas-de-maquiagem-2/

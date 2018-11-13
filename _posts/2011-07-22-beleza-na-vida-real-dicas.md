@@ -2,7 +2,7 @@
 id: 3026
 title: 'Beleza na vida real: dicas, truques e trololó…'
 date: 2011-07-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/22/beleza-na-vida-real-dicas/
 permalink: /2011/07/22/beleza-na-vida-real-dicas/

@@ -2,7 +2,7 @@
 id: 3787
 title: Geleia de banana e as reminiscências infantis…
 date: 2017-08-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/22/geleia-de-banana/
 permalink: /2017/08/22/geleia-de-banana/

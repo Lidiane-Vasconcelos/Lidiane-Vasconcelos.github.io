@@ -2,7 +2,7 @@
 id: 2864
 title: 'Câncer de mama: o importante é nunca desistir.'
 date: 2010-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/23/cancer-de-mama/
 permalink: /2010/08/23/cancer-de-mama/

@@ -2,7 +2,7 @@
 id: 3779
 title: 'Decoração da cozinha: profissionais dizem o que é top.'
 date: 2017-08-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/08/decoracao-da-cozinha-2/
 permalink: /2017/08/08/decoracao-da-cozinha-2/

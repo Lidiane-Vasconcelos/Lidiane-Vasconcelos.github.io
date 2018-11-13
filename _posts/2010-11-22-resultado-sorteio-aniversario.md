@@ -2,7 +2,7 @@
 id: 2916
 title: Resultado do Super Sorteio de Aniversário do Bicha Fêmea.
 date: 2010-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/22/resultado-sorteio-aniversario/
 permalink: /2010/11/22/resultado-sorteio-aniversario/

@@ -2,7 +2,7 @@
 id: 3068
 title: Decoração de quarto com caixas artesanais… isso também organiza!
 date: 2011-10-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/26/decoracao-quarto-artesanato/
 permalink: /2011/10/26/decoracao-quarto-artesanato/

@@ -2,7 +2,7 @@
 id: 3194
 title: Espetinho de frango saudável e saboroso… quer ver como faz?
 date: 2012-10-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/03/receita-frango-saudavel/
 permalink: /2012/10/03/receita-frango-saudavel/

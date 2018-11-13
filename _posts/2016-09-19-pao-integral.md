@@ -2,7 +2,7 @@
 id: 3667
 title: O pão integral de sua dieta é integral mesmo?
 date: 2016-09-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/19/pao-integral/
 permalink: /2016/09/19/pao-integral/

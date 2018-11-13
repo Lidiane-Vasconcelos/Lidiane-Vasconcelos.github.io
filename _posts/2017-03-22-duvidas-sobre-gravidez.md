@@ -2,7 +2,7 @@
 id: 3744
 title: 'Respostas para as dúvidas sobre gravidez: o que pode?'
 date: 2017-03-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/22/duvidas-sobre-gravidez/
 permalink: /2017/03/22/duvidas-sobre-gravidez/

@@ -2,7 +2,7 @@
 id: 2628
 title: O que é bem-estar para você?
 date: 2009-02-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/25/o-que-e-bem-estar/
 permalink: /2009/02/25/o-que-e-bem-estar/

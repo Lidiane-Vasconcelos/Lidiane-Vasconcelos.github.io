@@ -2,7 +2,7 @@
 id: 3247
 title: Xilogravura revisitada… cheia de história e afeto.
 date: 2013-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/28/ilustracao-desenho-xilogravura/
 permalink: /2013/08/28/ilustracao-desenho-xilogravura/

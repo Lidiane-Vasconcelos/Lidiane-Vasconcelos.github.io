@@ -2,7 +2,7 @@
 id: 3287
 title: Decoração bonita, aconchegante e econômica… como?
 date: 2014-03-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/20/decoracao-economica/
 permalink: /2014/03/20/decoracao-economica/

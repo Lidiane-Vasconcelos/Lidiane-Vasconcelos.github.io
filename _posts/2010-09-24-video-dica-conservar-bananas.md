@@ -2,7 +2,7 @@
 id: 2881
 title: 'Vídeo-dica: como conservar bananas por mais tempo…'
 date: 2010-09-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/24/video-dica-conservar-bananas/
 permalink: /2010/09/24/video-dica-conservar-bananas/

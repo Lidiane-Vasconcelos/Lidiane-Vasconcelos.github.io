@@ -2,7 +2,7 @@
 id: 3740
 title: 'Festa do Capitão América caseira: 4 anos de João.'
 date: 2017-03-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/15/festa-do-capitao-america/
 permalink: /2017/03/15/festa-do-capitao-america/

@@ -2,7 +2,7 @@
 id: 3214
 title: Blogs de beleza bons e que as bichas fêmeas gostam…
 date: 2013-05-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/06/blogs-beleza-dicas/
 permalink: /2013/05/06/blogs-beleza-dicas/

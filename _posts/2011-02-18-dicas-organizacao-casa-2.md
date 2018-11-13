@@ -2,7 +2,7 @@
 id: 2951
 title: + de 20 dicas de organização da casa by bichas fêmeas navegantes.
 date: 2011-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/18/dicas-organizacao-casa-2/
 permalink: /2011/02/18/dicas-organizacao-casa-2/

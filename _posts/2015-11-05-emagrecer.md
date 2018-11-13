@@ -2,7 +2,7 @@
 id: 3508
 title: Sua resolução para 2016 é emagrecer? A hora é agora!
 date: 2015-11-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/05/emagrecer/
 permalink: /2015/11/05/emagrecer/

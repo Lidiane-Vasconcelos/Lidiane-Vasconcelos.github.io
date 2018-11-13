@@ -2,7 +2,7 @@
 id: 3290
 title: 'Lembrancinhas de festas que saem da mesmice: dicas.'
 date: 2014-04-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/04/23/lembrancinha-festa-aniversario/
 permalink: /2014/04/23/lembrancinha-festa-aniversario/

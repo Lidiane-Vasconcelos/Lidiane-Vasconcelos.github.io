@@ -2,7 +2,7 @@
 id: 2920
 title: Colesterol alto? Invista na reeducação alimentar!
 date: 2010-12-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/03/reeducacao-alimentar/
 permalink: /2010/12/03/reeducacao-alimentar/

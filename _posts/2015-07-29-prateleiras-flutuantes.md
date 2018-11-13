@@ -2,7 +2,7 @@
 id: 3451
 title: 'Decoração: 6 prateleiras flutuantes pra inspirar'
 date: 2015-07-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/29/prateleiras-flutuantes/
 permalink: /2015/07/29/prateleiras-flutuantes/

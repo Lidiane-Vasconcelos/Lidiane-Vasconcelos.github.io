@@ -2,7 +2,7 @@
 id: 3268
 title: Lugar de criança é na cozinha?
 date: 2013-10-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/14/crianca-alimentacao/
 permalink: /2013/10/14/crianca-alimentacao/

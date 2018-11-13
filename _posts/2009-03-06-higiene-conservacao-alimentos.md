@@ -2,7 +2,7 @@
 id: 2634
 title: Da higiene e boa conservação dos alimentos.
 date: 2009-03-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/06/higiene-conservacao-alimentos/
 permalink: /2009/03/06/higiene-conservacao-alimentos/

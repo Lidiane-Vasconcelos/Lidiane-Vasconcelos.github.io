@@ -2,7 +2,7 @@
 id: 2911
 title: 'Decoração de Natal: de inspiração em inspiração, faça a sua!'
 date: 2010-11-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/19/decoracao-natal-em-isopor/
 permalink: /2010/11/19/decoracao-natal-em-isopor/

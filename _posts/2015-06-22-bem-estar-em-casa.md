@@ -2,7 +2,7 @@
 id: 3438
 title: 'Bem-estar em casa: 3 dicas pra relaxar após o trabalho'
 date: 2015-06-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/22/bem-estar-em-casa/
 permalink: /2015/06/22/bem-estar-em-casa/

@@ -2,7 +2,7 @@
 id: 2952
 title: 'Decoração de cozinha: 4 dúvidas sobre revestimento de piso respondidas!'
 date: 2011-02-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/21/revestimento-piso-cozinha/
 permalink: /2011/02/21/revestimento-piso-cozinha/

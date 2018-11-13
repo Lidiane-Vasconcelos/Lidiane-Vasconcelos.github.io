@@ -2,7 +2,7 @@
 id: 2970
 title: Decoração para quarto de bebê menino e menina…
 date: 2011-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/28/decoracao-bebe-menino-menina/
 permalink: /2011/03/28/decoracao-bebe-menino-menina/

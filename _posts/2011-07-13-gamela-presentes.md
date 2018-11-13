@@ -2,7 +2,7 @@
 id: 3020
 title: 'Prateleira do Bicha Fêmea: Gamela Presentes'
 date: 2011-07-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/13/gamela-presentes/
 permalink: /2011/07/13/gamela-presentes/

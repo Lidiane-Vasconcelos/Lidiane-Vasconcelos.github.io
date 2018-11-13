@@ -2,7 +2,7 @@
 id: 3324
 title: 'Apresentando Lembrancinhas Brasil: conhece?'
 date: 2014-07-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/15/lembrancinhas-brasil/
 permalink: /2014/07/15/lembrancinhas-brasil/

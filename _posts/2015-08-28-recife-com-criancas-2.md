@@ -2,7 +2,7 @@
 id: 3476
 title: 'Agenda Recife com crianças: 29 e 30 de Agosto'
 date: 2015-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/28/recife-com-criancas-2/
 permalink: /2015/08/28/recife-com-criancas-2/

@@ -2,7 +2,7 @@
 id: 2910
 title: Arrume sua mesa para receber ou encantar os olhos!
 date: 2010-11-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/24/ponha-a-mesa-decoracao/
 permalink: /2010/11/24/ponha-a-mesa-decoracao/

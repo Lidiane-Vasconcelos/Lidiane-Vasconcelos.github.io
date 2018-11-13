@@ -2,7 +2,7 @@
 id: 3759
 title: Você vive a solidão a dois? Saiba como sair dela.
 date: 2017-05-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/05/solidao-a-dois/
 permalink: /2017/05/05/solidao-a-dois/

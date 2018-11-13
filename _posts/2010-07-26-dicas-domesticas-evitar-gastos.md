@@ -2,7 +2,7 @@
 id: 2852
 title: 'Todos somos donos de casa: homens, mulheres, crianças.'
 date: 2010-07-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/26/dicas-domesticas-evitar-gastos/
 permalink: /2010/07/26/dicas-domesticas-evitar-gastos/

@@ -2,7 +2,7 @@
 id: 3081
 title: Esmalte, batom e sombra… uma explosão de cores no Bicha Fêmea!
 date: 2011-11-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/21/esmalte-batom-sombra-cores/
 permalink: /2011/11/21/esmalte-batom-sombra-cores/

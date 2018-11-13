@@ -2,7 +2,7 @@
 id: 3306
 title: 'Cálcio, fibras, probióticos, ômega-3: quanto mais, melhor?'
 date: 2014-06-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/09/alimentos-enriquecidos/
 permalink: /2014/06/09/alimentos-enriquecidos/

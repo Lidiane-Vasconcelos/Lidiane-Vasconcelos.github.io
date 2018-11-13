@@ -2,7 +2,7 @@
 id: 3350
 title: Blogueira tem missão?
 date: 2014-09-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/26/blogueira-missao/
 permalink: /2014/09/26/blogueira-missao/

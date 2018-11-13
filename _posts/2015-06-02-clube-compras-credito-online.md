@@ -2,7 +2,7 @@
 id: 3429
 title: 'Comprar online e ainda ganhar créditos: já pensou nisso?'
 date: 2015-06-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/02/clube-compras-credito-online/
 permalink: /2015/06/02/clube-compras-credito-online/

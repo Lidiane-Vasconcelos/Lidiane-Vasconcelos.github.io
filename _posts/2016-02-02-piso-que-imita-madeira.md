@@ -2,7 +2,7 @@
 id: 3533
 title: 'Revestimento de piso que imita madeira: 6 dicas de expert.'
 date: 2016-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/02/piso-que-imita-madeira/
 permalink: /2016/02/02/piso-que-imita-madeira/

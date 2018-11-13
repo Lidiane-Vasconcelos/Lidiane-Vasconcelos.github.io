@@ -2,7 +2,7 @@
 id: 3814
 title: 'Enfeite de papel para decoração natalina: faça você mesma!'
 date: 2017-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/17/decoracao-natalina-4/
 permalink: /2017/10/17/decoracao-natalina-4/

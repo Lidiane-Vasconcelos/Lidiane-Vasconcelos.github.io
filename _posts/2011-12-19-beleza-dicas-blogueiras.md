@@ -2,7 +2,7 @@
 id: 3097
 title: 'Beleza… só no trololó: segredos das blogueiras'
 date: 2011-12-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/19/beleza-dicas-blogueiras/
 permalink: /2011/12/19/beleza-dicas-blogueiras/

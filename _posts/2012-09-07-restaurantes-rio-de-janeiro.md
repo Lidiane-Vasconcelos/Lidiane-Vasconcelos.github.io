@@ -2,7 +2,7 @@
 id: 3182
 title: Você está em terras cariocas e curte comer bem? Este post é para você!
 date: 2012-09-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/07/restaurantes-rio-de-janeiro/
 permalink: /2012/09/07/restaurantes-rio-de-janeiro/

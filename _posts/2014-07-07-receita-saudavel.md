@@ -2,7 +2,7 @@
 id: 3313
 title: 'Comida boa, bonita e saudável: você verá por aqui.'
 date: 2014-07-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/07/receita-saudavel/
 permalink: /2014/07/07/receita-saudavel/

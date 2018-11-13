@@ -2,7 +2,7 @@
 id: 3709
 title: Dê presença materna, e menos presentes, antes que seja tarde!
 date: 2016-11-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/24/presenca-materna/
 permalink: /2016/11/24/presenca-materna/

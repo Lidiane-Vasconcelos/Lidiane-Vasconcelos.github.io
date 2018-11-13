@@ -2,7 +2,7 @@
 id: 3332
 title: 'Se sua casa estiver em ordem, não duvide: você ficará bem.'
 date: 2014-08-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/18/casa-em-ordem-2/
 permalink: /2014/08/18/casa-em-ordem-2/

@@ -2,7 +2,7 @@
 id: 3400
 title: Filé de saint peter enroladinho no aspargo e salada de lentilha
 date: 2015-03-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/04/file-peixe-aspargo-lentilha/
 permalink: /2015/03/04/file-peixe-aspargo-lentilha/

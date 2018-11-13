@@ -2,7 +2,7 @@
 id: 3186
 title: Houve sorteio nos bastidores do Bicha Fêmea… e haverá mais!
 date: 2012-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/18/sorteio-artesanal-shop/
 permalink: /2012/09/18/sorteio-artesanal-shop/

@@ -2,7 +2,7 @@
 id: 2620
 title: Alternativas para decorar uma mesa de jantar.
 date: 2009-02-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/11/decoracao-mesa-sala-jantar/
 permalink: /2009/02/11/decoracao-mesa-sala-jantar/

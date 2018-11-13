@@ -2,7 +2,7 @@
 id: 3764
 title: 'Cozinha inteligente, prática e funcional: dicas profissionais.'
 date: 2017-05-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/16/cozinha-dicas-decoracao/
 permalink: /2017/05/16/cozinha-dicas-decoracao/

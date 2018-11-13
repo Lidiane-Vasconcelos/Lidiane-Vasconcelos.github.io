@@ -2,7 +2,7 @@
 id: 3356
 title: 'Café x saúde: quando é que ele é mocinho ou vilão?'
 date: 2014-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/13/cafe-saude-alimentacao/
 permalink: /2014/10/13/cafe-saude-alimentacao/

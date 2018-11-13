@@ -2,7 +2,7 @@
 id: 2851
 title: Perfeccionismo e Obesidade
 date: 2010-07-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/21/perfeccionismo-e-obesidade/
 permalink: /2010/07/21/perfeccionismo-e-obesidade/

@@ -2,7 +2,7 @@
 id: 3453
 title: 'De hobby a trabalho: como ganhar dinheiro?'
 date: 2015-07-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/31/como-ganhar-dinheiro/
 permalink: /2015/07/31/como-ganhar-dinheiro/

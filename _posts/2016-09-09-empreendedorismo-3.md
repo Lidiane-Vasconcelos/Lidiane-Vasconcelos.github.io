@@ -2,7 +2,7 @@
 id: 3660
 title: 'Empreendedorismo: minha entrevista com Rafa Cappai'
 date: 2016-09-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/09/empreendedorismo-3/
 permalink: /2016/09/09/empreendedorismo-3/

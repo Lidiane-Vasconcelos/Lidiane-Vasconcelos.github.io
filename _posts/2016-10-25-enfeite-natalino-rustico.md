@@ -2,7 +2,7 @@
 id: 3694
 title: 'Enfeite natalino rústico: faça você mesma.'
 date: 2016-10-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/25/enfeite-natalino-rustico/
 permalink: /2016/10/25/enfeite-natalino-rustico/

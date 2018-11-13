@@ -2,7 +2,7 @@
 id: 2648
 title: Dicas para beleza e saúde das unhas.
 date: 2009-04-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/14/unhas-dicas-cuidados/
 permalink: /2009/04/14/unhas-dicas-cuidados/

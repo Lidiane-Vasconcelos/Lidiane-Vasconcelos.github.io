@@ -2,7 +2,7 @@
 id: 3823
 title: Como combinar roupas que você tem e ganhar novos looks?
 date: 2017-11-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/06/combinar-roupas/
 permalink: /2017/11/06/combinar-roupas/

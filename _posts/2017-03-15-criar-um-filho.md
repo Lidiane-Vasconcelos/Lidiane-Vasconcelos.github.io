@@ -2,7 +2,7 @@
 id: 3739
 title: Criar um filho, e não um rei, é difícil mas compensa!
 date: 2017-03-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/15/criar-um-filho/
 permalink: /2017/03/15/criar-um-filho/

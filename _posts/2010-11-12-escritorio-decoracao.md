@@ -2,7 +2,7 @@
 id: 2908
 title: 'Home office: soluções simples de decoração &#038; organização.'
 date: 2010-11-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/12/escritorio-decoracao/
 permalink: /2010/11/12/escritorio-decoracao/

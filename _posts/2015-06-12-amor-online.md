@@ -2,7 +2,7 @@
 id: 3436
 title: 'O amor está online: com wi-fi &#038; muito carinho.'
 date: 2015-06-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/12/amor-online/
 permalink: /2015/06/12/amor-online/

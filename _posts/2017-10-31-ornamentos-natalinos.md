@@ -2,7 +2,7 @@
 id: 3821
 title: 2 ideias de ornamentos natalinos para sua criança fazer.
 date: 2017-10-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/31/ornamentos-natalinos/
 permalink: /2017/10/31/ornamentos-natalinos/

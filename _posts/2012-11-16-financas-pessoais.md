@@ -2,7 +2,7 @@
 id: 3210
 title: Dicas que seu bolso agradece, e muito!
 date: 2012-11-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/16/financas-pessoais/
 permalink: /2012/11/16/financas-pessoais/

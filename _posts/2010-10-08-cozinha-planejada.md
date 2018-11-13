@@ -2,7 +2,7 @@
 id: 2885
 title: 'Cozinha planejada: 8 espaços + combinações. Seu estilo está por aqui?'
 date: 2010-10-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/08/cozinha-planejada/
 permalink: /2010/10/08/cozinha-planejada/

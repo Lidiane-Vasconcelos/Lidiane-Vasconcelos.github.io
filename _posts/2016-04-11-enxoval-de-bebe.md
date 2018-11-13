@@ -2,7 +2,7 @@
 id: 3585
 title: O que é essencial num enxoval de bebê?
 date: 2016-04-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/11/enxoval-de-bebe/
 permalink: /2016/04/11/enxoval-de-bebe/

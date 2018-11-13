@@ -2,7 +2,7 @@
 id: 3747
 title: 'Hipertensão arterial: tudo que você precisa saber.'
 date: 2017-04-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/10/hipertensao-arterial/
 permalink: /2017/04/10/hipertensao-arterial/

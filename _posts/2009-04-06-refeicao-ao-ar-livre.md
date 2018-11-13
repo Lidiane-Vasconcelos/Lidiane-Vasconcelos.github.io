@@ -2,7 +2,7 @@
 id: 2642
 title: O encanto do encontro ao ar livre…
 date: 2009-04-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/06/refeicao-ao-ar-livre/
 permalink: /2009/04/06/refeicao-ao-ar-livre/

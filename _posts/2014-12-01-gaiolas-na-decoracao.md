@@ -2,7 +2,7 @@
 id: 3372
 title: Como usar gaiolas na decoração? Veja três ideias…
 date: 2014-12-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/01/gaiolas-na-decoracao/
 permalink: /2014/12/01/gaiolas-na-decoracao/

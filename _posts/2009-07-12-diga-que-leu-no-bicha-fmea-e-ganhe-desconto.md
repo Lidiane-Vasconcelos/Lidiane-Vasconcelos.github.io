@@ -2,7 +2,7 @@
 id: 2684
 title: Diga que Leu no Bicha Fêmea e Ganhe Desconto$
 date: 2009-07-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/12/diga-que-leu-no-bicha-fmea-e-ganhe-desconto/
 permalink: /2009/07/12/diga-que-leu-no-bicha-fmea-e-ganhe-desconto/

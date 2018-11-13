@@ -2,7 +2,7 @@
 id: 3650
 title: 'Sala de jantar: cadeiras vermelhas pra viver no amor!'
 date: 2016-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/25/sala-de-jantar-2/
 permalink: /2016/08/25/sala-de-jantar-2/

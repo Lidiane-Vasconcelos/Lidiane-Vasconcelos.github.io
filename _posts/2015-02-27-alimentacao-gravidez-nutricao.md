@@ -2,7 +2,7 @@
 id: 3401
 title: 'Alimentação na gravidez: saúde pra mamãe e bebê.'
 date: 2015-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/27/alimentacao-gravidez-nutricao/
 permalink: /2015/02/27/alimentacao-gravidez-nutricao/

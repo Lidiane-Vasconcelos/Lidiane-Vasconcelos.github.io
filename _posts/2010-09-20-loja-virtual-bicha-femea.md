@@ -2,7 +2,7 @@
 id: 2879
 title: 'Mercado de Artes by Bicha Fêmea: a loja virtual que faltava na blogosfera!'
 date: 2010-09-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/20/loja-virtual-bicha-femea/
 permalink: /2010/09/20/loja-virtual-bicha-femea/

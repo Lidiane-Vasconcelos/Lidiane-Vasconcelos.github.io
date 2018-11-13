@@ -2,7 +2,7 @@
 id: 3544
 title: 'Renove a decoração da cozinha: 12 ideias muito simples.'
 date: 2016-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/18/decoracao-da-cozinha/
 permalink: /2016/02/18/decoracao-da-cozinha/

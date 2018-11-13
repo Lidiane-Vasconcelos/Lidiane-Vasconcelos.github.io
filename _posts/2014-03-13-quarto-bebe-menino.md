@@ -2,7 +2,7 @@
 id: 3286
 title: 4 quartos de bebê menino para você suspirar… e se inspirar.
 date: 2014-03-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/13/quarto-bebe-menino/
 permalink: /2014/03/13/quarto-bebe-menino/

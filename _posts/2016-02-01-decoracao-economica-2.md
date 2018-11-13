@@ -2,7 +2,7 @@
 id: 3535
 title: 'Decoração econômica: 9 dicas para melhorar sua casa já!'
 date: 2016-02-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/01/decoracao-economica-2/
 permalink: /2016/02/01/decoracao-economica-2/

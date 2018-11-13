@@ -2,7 +2,7 @@
 id: 2637
 title: Onde é o lugar das flores na sua casa?
 date: 2009-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/10/flores-casa/
 permalink: /2009/03/10/flores-casa/

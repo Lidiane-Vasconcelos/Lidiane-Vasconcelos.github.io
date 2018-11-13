@@ -2,7 +2,7 @@
 id: 3844
 title: 5 motivos para morar na Finlândia, e 5 para não fazê-lo.
 date: 2017-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/15/morar-na-finlandia-3/
 permalink: /2017/12/15/morar-na-finlandia-3/

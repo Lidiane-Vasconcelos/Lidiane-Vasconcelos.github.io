@@ -2,7 +2,7 @@
 id: 3474
 title: O que é ter um trabalho com propósito?
 date: 2015-09-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/11/trabalho-com-proposito/
 permalink: /2015/09/11/trabalho-com-proposito/

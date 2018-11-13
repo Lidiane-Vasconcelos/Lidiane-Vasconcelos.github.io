@@ -2,7 +2,7 @@
 id: 2998
 title: 'Brasilazy: decoração perfeita para relaxar!'
 date: 2011-05-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/24/brasilazy-decoracao-pufe-puff/
 permalink: /2011/05/24/brasilazy-decoracao-pufe-puff/

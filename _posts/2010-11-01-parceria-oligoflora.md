@@ -2,7 +2,7 @@
 id: 2902
 title: Parceria Oligoflora no Aniversário do Bicha Fêmea!
 date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/01/parceria-oligoflora/
 permalink: /2010/11/01/parceria-oligoflora/

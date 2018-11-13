@@ -2,7 +2,7 @@
 id: 3118
 title: Tem receita com batata no Bicha Fêmea? Tem sim, bonita!
 date: 2012-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/07/receita-com-batata/
 permalink: /2012/03/07/receita-com-batata/

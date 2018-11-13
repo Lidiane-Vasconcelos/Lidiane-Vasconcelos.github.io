@@ -2,7 +2,7 @@
 id: 3146
 title: Qual sombra você usa e se sente uma bicha fêmea linda e iluminada?
 date: 2012-07-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/02/maquiagem-sombra-dicas/
 permalink: /2012/07/02/maquiagem-sombra-dicas/

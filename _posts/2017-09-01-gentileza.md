@@ -2,7 +2,7 @@
 id: 3791
 title: Agir com gentileza muda no mínimo o seu mundo.
 date: 2017-09-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/01/gentileza/
 permalink: /2017/09/01/gentileza/

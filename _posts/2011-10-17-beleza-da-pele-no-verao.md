@@ -2,7 +2,7 @@
 id: 3064
 title: 'Pescoço, costas e cotovelo: beleza da pele no Verão.'
 date: 2011-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/17/beleza-da-pele-no-verao/
 permalink: /2011/10/17/beleza-da-pele-no-verao/

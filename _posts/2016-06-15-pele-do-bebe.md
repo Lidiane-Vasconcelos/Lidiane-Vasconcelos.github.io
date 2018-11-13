@@ -2,7 +2,7 @@
 id: 3628
 title: 'Pele do bebê: saiba como evitar problemas de saúde.'
 date: 2016-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/15/pele-do-bebe/
 permalink: /2016/06/15/pele-do-bebe/

@@ -2,7 +2,7 @@
 id: 3051
 title: 'Uma bicha fêmea por outra: Luci Cardinelli'
 date: 2011-09-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/16/entrevista-luci-cardinelli/
 permalink: /2011/09/16/entrevista-luci-cardinelli/

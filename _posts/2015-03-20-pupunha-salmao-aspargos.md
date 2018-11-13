@@ -2,7 +2,7 @@
 id: 3415
 title: Espaguete de pupunha ao molho de salmão e aspargos
 date: 2015-03-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/20/pupunha-salmao-aspargos/
 permalink: /2015/03/20/pupunha-salmao-aspargos/

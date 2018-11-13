@@ -2,7 +2,7 @@
 id: 3237
 title: 'Decoração do quarto infantil: 4 soluções de marcenaria para você!'
 date: 2013-07-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/10/decoracao-quarto-infantil-3/
 permalink: /2013/07/10/decoracao-quarto-infantil-3/

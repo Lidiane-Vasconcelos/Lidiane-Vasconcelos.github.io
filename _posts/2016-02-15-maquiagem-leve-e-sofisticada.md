@@ -2,7 +2,7 @@
 id: 3540
 title: 'Maquiagem leve e sofisticada: como conseguir esse efeito?'
 date: 2016-02-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/15/maquiagem-leve-e-sofisticada/
 permalink: /2016/02/15/maquiagem-leve-e-sofisticada/

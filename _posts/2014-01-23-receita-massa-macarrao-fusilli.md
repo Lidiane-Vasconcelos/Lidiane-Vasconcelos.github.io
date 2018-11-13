@@ -2,7 +2,7 @@
 id: 3275
 title: 'Fusilli Temperado: fácil, rápido e gostoso.'
 date: 2014-01-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/23/receita-massa-macarrao-fusilli/
 permalink: /2014/01/23/receita-massa-macarrao-fusilli/

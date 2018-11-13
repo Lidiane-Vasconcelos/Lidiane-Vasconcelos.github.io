@@ -2,7 +2,7 @@
 id: 3132
 title: Quem não gosta de ver achados de moda?
 date: 2012-04-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/23/achados-de-moda-2/
 permalink: /2012/04/23/achados-de-moda-2/

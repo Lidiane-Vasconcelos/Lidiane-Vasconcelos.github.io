@@ -2,7 +2,7 @@
 id: 3196
 title: 'Óleo nos cabelos&#8230; funciona?'
 date: 2012-10-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/08/oleo-nos-cabelos/
 permalink: /2012/10/08/oleo-nos-cabelos/

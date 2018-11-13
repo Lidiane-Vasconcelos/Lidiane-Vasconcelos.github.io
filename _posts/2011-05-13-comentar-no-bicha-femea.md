@@ -2,7 +2,7 @@
 id: 2992
 title: Você tem medo de comentar no Bicha Fêmea?
 date: 2011-05-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/13/comentar-no-bicha-femea/
 permalink: /2011/05/13/comentar-no-bicha-femea/

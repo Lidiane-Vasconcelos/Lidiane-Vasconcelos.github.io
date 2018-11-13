@@ -2,7 +2,7 @@
 id: 2945
 title: 'Pitacos de bicha fêmea: decoração de quarto de menina.'
 date: 2011-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/02/decoracao-quarto-menina/
 permalink: /2011/02/02/decoracao-quarto-menina/

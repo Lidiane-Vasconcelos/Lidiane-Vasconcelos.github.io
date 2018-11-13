@@ -2,7 +2,7 @@
 id: 3510
 title: Beijinho sem leite condensado
 date: 2015-11-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/11/beijinho-sem-leite-condensado/
 permalink: /2015/11/11/beijinho-sem-leite-condensado/

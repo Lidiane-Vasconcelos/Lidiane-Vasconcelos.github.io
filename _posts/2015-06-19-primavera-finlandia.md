@@ -2,7 +2,7 @@
 id: 3437
 title: 'Compare: a diferença da Primavera no Brasil e na Finlândia.'
 date: 2015-06-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/19/primavera-finlandia/
 permalink: /2015/06/19/primavera-finlandia/

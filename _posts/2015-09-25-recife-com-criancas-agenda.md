@@ -2,7 +2,7 @@
 id: 3492
 title: 'Recife com crianças agenda: 26 e 27 de Setembro'
 date: 2015-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/25/recife-com-criancas-agenda/
 permalink: /2015/09/25/recife-com-criancas-agenda/

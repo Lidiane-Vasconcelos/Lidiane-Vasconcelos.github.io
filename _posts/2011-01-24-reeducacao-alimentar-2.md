@@ -2,7 +2,7 @@
 id: 2939
 title: Chutando o balde…
 date: 2011-01-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/24/reeducacao-alimentar-2/
 permalink: /2011/01/24/reeducacao-alimentar-2/

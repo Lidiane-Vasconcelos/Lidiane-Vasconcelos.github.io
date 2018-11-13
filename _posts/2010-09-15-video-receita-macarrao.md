@@ -2,7 +2,7 @@
 id: 2876
 title: Vídeo-receita do Macarrão da Preguiça
 date: 2010-09-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/15/video-receita-macarrao/
 permalink: /2010/09/15/video-receita-macarrao/

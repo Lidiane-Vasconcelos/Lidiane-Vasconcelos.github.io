@@ -2,7 +2,7 @@
 id: 3575
 title: 'Decoração com composições: veja 13 dicas e faça a sua!'
 date: 2016-04-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/01/decoracao-com-composicoes/
 permalink: /2016/04/01/decoracao-com-composicoes/

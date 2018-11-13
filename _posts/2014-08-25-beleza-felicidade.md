@@ -2,7 +2,7 @@
 id: 3335
 title: Cuidar da beleza é muito mais que passar batom…
 date: 2014-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/25/beleza-felicidade/
 permalink: /2014/08/25/beleza-felicidade/

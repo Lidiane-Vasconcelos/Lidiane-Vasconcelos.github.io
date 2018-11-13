@@ -2,7 +2,7 @@
 id: 2874
 title: 3 dúvidas sobre decoração solucionadas no Bicha Fêmea…
 date: 2010-09-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/08/dicas-decoracao-2/
 permalink: /2010/09/08/dicas-decoracao-2/

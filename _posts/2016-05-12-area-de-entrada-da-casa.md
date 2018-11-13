@@ -2,7 +2,7 @@
 id: 3606
 title: 'Área de entrada da casa: organização… desde o início.'
 date: 2016-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/12/area-de-entrada-da-casa/
 permalink: /2016/05/12/area-de-entrada-da-casa/

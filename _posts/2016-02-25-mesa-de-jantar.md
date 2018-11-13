@@ -2,7 +2,7 @@
 id: 3549
 title: Como escolher a mesa de jantar perfeita para seu lar?
 date: 2016-02-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/25/mesa-de-jantar/
 permalink: /2016/02/25/mesa-de-jantar/

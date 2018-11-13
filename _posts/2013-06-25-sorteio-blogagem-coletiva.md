@@ -2,7 +2,7 @@
 id: 3238
 title: 'Saiu o resultado do sorteio da blogagem coletiva: quem te inspira?'
 date: 2013-06-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/25/sorteio-blogagem-coletiva/
 permalink: /2013/06/25/sorteio-blogagem-coletiva/

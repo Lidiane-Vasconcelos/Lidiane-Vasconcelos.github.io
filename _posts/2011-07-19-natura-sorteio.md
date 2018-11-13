@@ -2,7 +2,7 @@
 id: 3023
 title: 'De bicha fêmea para bicha fêmea: notícias da Natura e… sorteio!!!'
 date: 2011-07-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/19/natura-sorteio/
 permalink: /2011/07/19/natura-sorteio/

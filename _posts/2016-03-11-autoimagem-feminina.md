@@ -2,7 +2,7 @@
 id: 3562
 title: 'Autoimagem feminina: por que mulheres tão insatisfeitas?'
 date: 2016-03-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/11/autoimagem-feminina/
 permalink: /2016/03/11/autoimagem-feminina/

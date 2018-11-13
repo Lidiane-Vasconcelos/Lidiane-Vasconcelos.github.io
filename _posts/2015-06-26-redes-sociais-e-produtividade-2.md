@@ -2,7 +2,7 @@
 id: 3439
 title: 'Redes sociais e produtividade no dia a dia: qual o impacto?'
 date: 2015-06-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/26/redes-sociais-e-produtividade-2/
 permalink: /2015/06/26/redes-sociais-e-produtividade-2/

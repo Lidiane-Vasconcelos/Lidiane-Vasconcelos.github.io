@@ -2,7 +2,7 @@
 id: 2611
 title: Extra, Extra! Promoção!!!
 date: 2009-01-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/28/extra-extra-promoo/
 permalink: /2009/01/28/extra-extra-promoo/

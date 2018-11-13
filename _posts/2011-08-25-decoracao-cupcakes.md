@@ -2,7 +2,7 @@
 id: 3041
 title: Post altamente indicado para loucos por decoração…com cupcakes!
 date: 2011-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/25/decoracao-cupcakes/
 permalink: /2011/08/25/decoracao-cupcakes/

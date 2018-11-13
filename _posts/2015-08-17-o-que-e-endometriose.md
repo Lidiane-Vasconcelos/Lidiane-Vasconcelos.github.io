@@ -2,7 +2,7 @@
 id: 3459
 title: O que é Endometriose? Saiba que há tratamento.
 date: 2015-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/17/o-que-e-endometriose/
 permalink: /2015/08/17/o-que-e-endometriose/

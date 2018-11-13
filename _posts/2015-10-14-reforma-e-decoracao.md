@@ -2,7 +2,7 @@
 id: 3498
 title: Expert aponta erros frequentes em reforma e decoração.
 date: 2015-10-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/14/reforma-e-decoracao/
 permalink: /2015/10/14/reforma-e-decoracao/

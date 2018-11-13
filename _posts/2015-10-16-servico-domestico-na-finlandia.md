@@ -2,7 +2,7 @@
 id: 3501
 title: 'Serviço doméstico na Finlândia: quem cuida disso?'
 date: 2015-10-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/16/servico-domestico-na-finlandia/
 permalink: /2015/10/16/servico-domestico-na-finlandia/

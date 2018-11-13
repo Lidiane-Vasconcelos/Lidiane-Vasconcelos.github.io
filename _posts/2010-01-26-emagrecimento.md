@@ -2,7 +2,7 @@
 id: 2772
 title: Emagrecimento e organização
 date: 2010-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/26/emagrecimento/
 permalink: /2010/01/26/emagrecimento/

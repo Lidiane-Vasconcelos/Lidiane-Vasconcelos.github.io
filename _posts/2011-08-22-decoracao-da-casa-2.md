@@ -2,7 +2,7 @@
 id: 3039
 title: Do que você mais gosta na sua casa?
 date: 2011-08-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/22/decoracao-da-casa-2/
 permalink: /2011/08/22/decoracao-da-casa-2/

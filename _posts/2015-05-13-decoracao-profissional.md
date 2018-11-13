@@ -2,7 +2,7 @@
 id: 3420
 title: Decore como se você fosse uma profissional!
 date: 2015-05-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/13/decoracao-profissional/
 permalink: /2015/05/13/decoracao-profissional/

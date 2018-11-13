@@ -2,7 +2,7 @@
 id: 3019
 title: Quer uma mesinha? Improvisa!!!!
 date: 2011-07-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/12/decoracao-faca-voce-mesma-2/
 permalink: /2011/07/12/decoracao-faca-voce-mesma-2/

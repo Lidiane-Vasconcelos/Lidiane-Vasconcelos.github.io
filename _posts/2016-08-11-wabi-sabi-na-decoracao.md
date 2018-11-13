@@ -2,7 +2,7 @@
 id: 3641
 title: Wabi Sabi na decoração e o resgate do simples.
 date: 2016-08-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/11/wabi-sabi-na-decoracao/
 permalink: /2016/08/11/wabi-sabi-na-decoracao/

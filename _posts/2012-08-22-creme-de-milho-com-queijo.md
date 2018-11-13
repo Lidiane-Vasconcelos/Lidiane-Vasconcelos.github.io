@@ -2,7 +2,7 @@
 id: 3175
 title: Quer um Creme de Milho com Queijo digno de seu caderno de receitas?
 date: 2012-08-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/22/creme-de-milho-com-queijo/
 permalink: /2012/08/22/creme-de-milho-com-queijo/

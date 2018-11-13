@@ -2,7 +2,7 @@
 id: 3771
 title: 'Prateleira do Trololó de mulher de Junho: mês do amor!'
 date: 2017-06-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/05/trololo-de-mulher-13/
 permalink: /2017/06/05/trololo-de-mulher-13/

@@ -2,7 +2,7 @@
 id: 3217
 title: 'Azeite: o óleo que é amigo do peito, e é uma delícia!'
 date: 2013-05-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/20/azeite-saude/
 permalink: /2013/05/20/azeite-saude/

@@ -2,7 +2,7 @@
 id: 2886
 title: Tarefas do lar
 date: 2010-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/29/tarefas-do-lar/
 permalink: /2010/09/29/tarefas-do-lar/

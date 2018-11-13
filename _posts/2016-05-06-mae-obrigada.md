@@ -2,7 +2,7 @@
 id: 3607
 title: '{mãe, obrigada…}'
 date: 2016-05-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/06/mae-obrigada/
 permalink: /2016/05/06/mae-obrigada/

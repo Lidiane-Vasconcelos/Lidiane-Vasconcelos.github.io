@@ -2,7 +2,7 @@
 id: 3757
 title: 'Prateleira do Trololó de Mulher de Maio: dia das mães'
 date: 2017-05-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/03/trololo-de-mulher-12/
 permalink: /2017/05/03/trololo-de-mulher-12/

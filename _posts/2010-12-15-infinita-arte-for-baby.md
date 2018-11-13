@@ -2,7 +2,7 @@
 id: 2927
 title: 'Prateleira do Bicha Fêmea: Infinita Arte for Baby'
 date: 2010-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/15/infinita-arte-for-baby/
 permalink: /2010/12/15/infinita-arte-for-baby/

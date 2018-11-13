@@ -2,7 +2,7 @@
 id: 2869
 title: 6 dicas para economizar água nas atividades domésticas
 date: 2010-09-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/03/dicas-economizar-agua/
 permalink: /2010/09/03/dicas-economizar-agua/

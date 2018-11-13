@@ -2,7 +2,7 @@
 id: 3818
 title: Como usar bermuda de alfaiataria?
 date: 2017-10-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/23/bermuda-de-alfaiataria/
 permalink: /2017/10/23/bermuda-de-alfaiataria/

@@ -2,7 +2,7 @@
 id: 3528
 title: Jê Souza Pereira, aquela que leva uma vida tranquila…
 date: 2016-01-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/15/je-souza-pereira/
 permalink: /2016/01/15/je-souza-pereira/

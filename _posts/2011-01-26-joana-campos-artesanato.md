@@ -2,7 +2,7 @@
 id: 2948
 title: Ganhei mimos by Joana Campos. Vem cá que eu te mostro!
 date: 2011-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/26/joana-campos-artesanato/
 permalink: /2011/01/26/joana-campos-artesanato/

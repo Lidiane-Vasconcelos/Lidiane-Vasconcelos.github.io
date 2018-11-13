@@ -2,7 +2,7 @@
 id: 3248
 title: Dificuldade de criar hábitos de alimentação saudável nas crianças?
 date: 2013-08-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/30/alimentacao-saudavel-criancas/
 permalink: /2013/08/30/alimentacao-saudavel-criancas/

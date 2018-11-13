@@ -2,7 +2,7 @@
 id: 3173
 title: 'Mães trabalham muito e ficam menos com os filhos: e daí?'
 date: 2012-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/17/maes-trabalham-filhos/
 permalink: /2012/08/17/maes-trabalham-filhos/

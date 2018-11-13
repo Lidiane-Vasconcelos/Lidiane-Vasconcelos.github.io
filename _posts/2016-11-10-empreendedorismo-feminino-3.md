@@ -2,7 +2,7 @@
 id: 3701
 title: 'Empreendedorismo feminino: dicas de sucesso com Ju Amorim.'
 date: 2016-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/10/empreendedorismo-feminino-3/
 permalink: /2016/11/10/empreendedorismo-feminino-3/

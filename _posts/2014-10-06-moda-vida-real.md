@@ -2,7 +2,7 @@
 id: 3352
 title: 'Trololó do dia: moda para a vida real. Aprenda tudo!'
 date: 2014-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/06/moda-vida-real/
 permalink: /2014/10/06/moda-vida-real/

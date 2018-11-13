@@ -2,7 +2,7 @@
 id: 3431
 title: 'Creme de aspargos: receita que conforta nos dias frios.'
 date: 2015-06-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/03/creme-aspargos-receita/
 permalink: /2015/06/03/creme-aspargos-receita/

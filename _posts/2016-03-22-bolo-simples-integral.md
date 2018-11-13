@@ -2,7 +2,7 @@
 id: 3568
 title: Bolo simples integral com gotas de chocolate
 date: 2016-03-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/22/bolo-simples-integral/
 permalink: /2016/03/22/bolo-simples-integral/

@@ -2,7 +2,7 @@
 id: 3325
 title: “Amo tanto o meu trabalho!”… será mesmo amor?
 date: 2014-07-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/23/trabalho-carreira/
 permalink: /2014/07/23/trabalho-carreira/

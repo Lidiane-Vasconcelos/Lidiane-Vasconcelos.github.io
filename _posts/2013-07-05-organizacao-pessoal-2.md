@@ -2,7 +2,7 @@
 id: 3234
 title: 'Organização pessoal: dê conta das tarefas diárias. Veja 20 dicas e agilize!'
 date: 2013-07-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/05/organizacao-pessoal-2/
 permalink: /2013/07/05/organizacao-pessoal-2/

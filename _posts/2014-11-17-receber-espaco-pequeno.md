@@ -2,7 +2,7 @@
 id: 3371
 title: Como receber em um espaço pequeno? Dicas valiosas!
 date: 2014-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/17/receber-espaco-pequeno/
 permalink: /2014/11/17/receber-espaco-pequeno/

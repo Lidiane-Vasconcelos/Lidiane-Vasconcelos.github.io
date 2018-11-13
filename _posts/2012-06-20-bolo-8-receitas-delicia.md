@@ -2,7 +2,7 @@
 id: 3139
 title: 'Bolo: 8 receitas delícia para apreciar com café nos dias frios…'
 date: 2012-06-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/20/bolo-8-receitas-delicia/
 permalink: /2012/06/20/bolo-8-receitas-delicia/

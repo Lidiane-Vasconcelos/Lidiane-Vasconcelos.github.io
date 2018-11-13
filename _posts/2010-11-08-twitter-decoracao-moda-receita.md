@@ -2,7 +2,7 @@
 id: 2906
 title: 'Twitter de retalhos @bichafemea: de tudo um pouco e muito mais!'
 date: 2010-11-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/08/twitter-decoracao-moda-receita/
 permalink: /2010/11/08/twitter-decoracao-moda-receita/

@@ -2,7 +2,7 @@
 id: 3634
 title: 'Foto com detalhe floral em 3D: faça você mesma!'
 date: 2016-08-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/03/foto-decoracao/
 permalink: /2016/08/03/foto-decoracao/

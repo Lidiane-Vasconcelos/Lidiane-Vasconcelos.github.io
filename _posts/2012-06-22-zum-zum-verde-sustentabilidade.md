@@ -2,7 +2,7 @@
 id: 3142
 title: Zum Zum Verde na blogosfera… sabe o que é isso?
 date: 2012-06-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/22/zum-zum-verde-sustentabilidade/
 permalink: /2012/06/22/zum-zum-verde-sustentabilidade/

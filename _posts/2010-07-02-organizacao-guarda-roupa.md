@@ -2,7 +2,7 @@
 id: 2840
 title: 'Pitacos de bicha fêmea: organização do closet ou guarda-roupa.'
 date: 2010-07-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/02/organizacao-guarda-roupa/
 permalink: /2010/07/02/organizacao-guarda-roupa/

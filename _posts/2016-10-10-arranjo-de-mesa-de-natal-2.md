@@ -2,7 +2,7 @@
 id: 3684
 title: 6 boas ideias de arranjo de mesa de natal simples.
 date: 2016-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/10/arranjo-de-mesa-de-natal-2/
 permalink: /2016/10/10/arranjo-de-mesa-de-natal-2/

@@ -2,7 +2,7 @@
 id: 3848
 title: Aprenda as melhores práticas na gestão da rotina doméstica!
 date: 2018-02-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/02/20/rotina-domestica-2/
 permalink: /2018/02/20/rotina-domestica-2/

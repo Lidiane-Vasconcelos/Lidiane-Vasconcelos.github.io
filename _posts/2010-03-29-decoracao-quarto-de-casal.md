@@ -2,7 +2,7 @@
 id: 2802
 title: 'Pitacos de bicha fêmea: decoração do quarto de casal'
 date: 2010-03-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/29/decoracao-quarto-de-casal/
 permalink: /2010/03/29/decoracao-quarto-de-casal/

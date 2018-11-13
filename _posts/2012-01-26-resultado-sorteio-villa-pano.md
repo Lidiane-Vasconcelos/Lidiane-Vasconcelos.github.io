@@ -2,7 +2,7 @@
 id: 3113
 title: Resultado do sorteio do Kit Villa Aroma da Villa Pano
 date: 2012-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/26/resultado-sorteio-villa-pano/
 permalink: /2012/01/26/resultado-sorteio-villa-pano/

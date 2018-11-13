@@ -2,7 +2,7 @@
 id: 3208
 title: 'Repare: há duas formas diferentes de inserir a cortina na decoração'
 date: 2012-11-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/12/cortina-decoracao-2/
 permalink: /2012/11/12/cortina-decoracao-2/

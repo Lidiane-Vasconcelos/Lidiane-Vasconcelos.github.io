@@ -2,7 +2,7 @@
 id: 3616
 title: 'Revestimentos: piso e parede… quais as opções?'
 date: 2016-05-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/25/revestimentos-piso-parede/
 permalink: /2016/05/25/revestimentos-piso-parede/

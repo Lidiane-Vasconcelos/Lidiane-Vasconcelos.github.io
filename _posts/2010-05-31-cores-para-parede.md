@@ -2,7 +2,7 @@
 id: 2822
 title: Como escolher cores para a parede?
 date: 2010-05-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/31/cores-para-parede/
 permalink: /2010/05/31/cores-para-parede/

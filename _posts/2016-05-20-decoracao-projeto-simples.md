@@ -2,7 +2,7 @@
 id: 3613
 title: Execute 3 projetos de decoração num final de semana.
 date: 2016-05-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/20/decoracao-projeto-simples/
 permalink: /2016/05/20/decoracao-projeto-simples/

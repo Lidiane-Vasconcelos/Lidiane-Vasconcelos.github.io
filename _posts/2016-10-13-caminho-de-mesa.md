@@ -2,7 +2,7 @@
 id: 2728
 title: 'Caminho de mesa: usar ou não?'
 date: 2016-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/13/caminho-de-mesa/
 permalink: /2016/10/13/caminho-de-mesa/

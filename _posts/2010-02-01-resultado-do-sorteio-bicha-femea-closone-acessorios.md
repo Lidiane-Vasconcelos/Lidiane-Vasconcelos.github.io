@@ -2,7 +2,7 @@
 id: 2777
 title: 'Resultado do sorteio Bicha Fêmea &#038; Closonê Acessórios'
 date: 2010-02-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/01/resultado-do-sorteio-bicha-femea-closone-acessorios/
 permalink: /2010/02/01/resultado-do-sorteio-bicha-femea-closone-acessorios/

@@ -2,7 +2,7 @@
 id: 3241
 title: 'Decoração de varanda: ideia fácil e barata para você copiar.'
 date: 2013-07-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/17/decoracao-varanda/
 permalink: /2013/07/17/decoracao-varanda/

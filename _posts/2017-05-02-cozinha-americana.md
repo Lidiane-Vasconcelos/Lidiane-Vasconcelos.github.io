@@ -2,7 +2,7 @@
 id: 3755
 title: 'Cozinha americana pequena e simples: ideias, dicas e modelos.'
 date: 2017-05-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/02/cozinha-americana/
 permalink: /2017/05/02/cozinha-americana/

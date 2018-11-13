@@ -2,7 +2,7 @@
 id: 3851
 title: 'Newsletter Trololó de Mulher: por que assinar?'
 date: 2018-02-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/02/28/newsletter/
 permalink: /2018/02/28/newsletter/

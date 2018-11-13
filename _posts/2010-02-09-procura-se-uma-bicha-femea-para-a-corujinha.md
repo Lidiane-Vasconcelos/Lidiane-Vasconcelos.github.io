@@ -2,7 +2,7 @@
 id: 2784
 title: 'Procura-se uma bicha fêmea para a corujinha&#8230;'
 date: 2010-02-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/
 permalink: /2010/02/09/procura-se-uma-bicha-femea-para-a-corujinha/

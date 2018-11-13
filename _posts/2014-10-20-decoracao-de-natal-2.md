@@ -2,7 +2,7 @@
 id: 3359
 title: 'Decoração de Natal: 5 centros de mesa “faça você mesma”.'
 date: 2014-10-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/20/decoracao-de-natal-2/
 permalink: /2014/10/20/decoracao-de-natal-2/

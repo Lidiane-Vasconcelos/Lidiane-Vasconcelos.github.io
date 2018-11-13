@@ -2,7 +2,7 @@
 id: 3631
 title: 'Enxoval de bebê que nasce no calor: o que comprar?'
 date: 2016-06-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/23/enxoval-de-bebe-2/
 permalink: /2016/06/23/enxoval-de-bebe-2/

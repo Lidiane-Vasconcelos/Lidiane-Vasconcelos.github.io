@@ -2,7 +2,7 @@
 id: 2947
 title: 'Pitacos de decoração: decorando a sala de estar com amarelo!'
 date: 2011-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/26/decoracao-sala-estar-amarelo/
 permalink: /2011/01/26/decoracao-sala-estar-amarelo/

@@ -2,7 +2,7 @@
 id: 3191
 title: Capriche você mesma nos enfeites ou objetos de decoração!
 date: 2012-09-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/28/enfeites-objetos-decoracao/
 permalink: /2012/09/28/enfeites-objetos-decoracao/

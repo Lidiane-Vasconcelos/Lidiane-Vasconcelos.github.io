@@ -2,7 +2,7 @@
 id: 3252
 title: 'Onde há cores que te inspiram em sua casa? [ATUALIZADO]'
 date: 2013-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/12/cores-decoracao-sorteio/
 permalink: /2013/08/12/cores-decoracao-sorteio/

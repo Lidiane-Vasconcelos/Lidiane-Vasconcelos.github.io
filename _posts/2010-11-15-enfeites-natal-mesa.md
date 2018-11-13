@@ -2,7 +2,7 @@
 id: 2909
 title: 'Enfeites de Natal: você já sabe como decorar a mesa?'
 date: 2010-11-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/15/enfeites-natal-mesa/
 permalink: /2010/11/15/enfeites-natal-mesa/

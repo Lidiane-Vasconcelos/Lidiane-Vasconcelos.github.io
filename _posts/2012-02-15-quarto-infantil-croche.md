@@ -2,7 +2,7 @@
 id: 3114
 title: Decoração de quarto infantil com bichinhos de crochê… oh, que fofo!
 date: 2012-02-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/02/15/quarto-infantil-croche/
 permalink: /2012/02/15/quarto-infantil-croche/

@@ -2,7 +2,7 @@
 id: 3633
 title: 4 composições de cantinhos para sua varanda pequena.
 date: 2016-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/02/decoracao-varanda-pequena/
 permalink: /2016/08/02/decoracao-varanda-pequena/

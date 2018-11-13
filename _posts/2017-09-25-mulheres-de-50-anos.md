@@ -2,7 +2,7 @@
 id: 3804
 title: Qual é a roupa certa para mulheres de 50 anos?
 date: 2017-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/25/mulheres-de-50-anos/
 permalink: /2017/09/25/mulheres-de-50-anos/

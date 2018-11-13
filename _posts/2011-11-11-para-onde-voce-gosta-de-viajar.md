@@ -2,7 +2,7 @@
 id: 3078
 title: Para onde você gosta de viajar?
 date: 2011-11-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/11/para-onde-voce-gosta-de-viajar/
 permalink: /2011/11/11/para-onde-voce-gosta-de-viajar/

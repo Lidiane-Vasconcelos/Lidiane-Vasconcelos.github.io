@@ -2,7 +2,7 @@
 id: 2786
 title: Tenha mais qualidade de vida com pequenas atitudes diárias…
 date: 2010-03-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/12/qualidade-de-vida/
 permalink: /2010/03/12/qualidade-de-vida/

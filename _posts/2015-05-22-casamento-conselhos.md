@@ -2,7 +2,7 @@
 id: 3426
 title: 'Casamento: os conselhos mais inteligentes. Já leu?'
 date: 2015-05-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/22/casamento-conselhos/
 permalink: /2015/05/22/casamento-conselhos/

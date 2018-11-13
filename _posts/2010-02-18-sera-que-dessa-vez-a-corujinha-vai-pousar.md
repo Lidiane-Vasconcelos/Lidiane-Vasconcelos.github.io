@@ -2,7 +2,7 @@
 id: 2790
 title: Será que dessa vez a corujinha vai pousar?
 date: 2010-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/18/sera-que-dessa-vez-a-corujinha-vai-pousar/
 permalink: /2010/02/18/sera-que-dessa-vez-a-corujinha-vai-pousar/

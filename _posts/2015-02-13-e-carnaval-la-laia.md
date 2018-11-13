@@ -2,7 +2,7 @@
 id: 3394
 title: É Carnaval… la laiá…
 date: 2015-02-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/13/e-carnaval-la-laia/
 permalink: /2015/02/13/e-carnaval-la-laia/

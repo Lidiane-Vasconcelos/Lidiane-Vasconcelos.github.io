@@ -2,7 +2,7 @@
 id: 2800
 title: Excesso de lanches pode estar contribuindo para a obesidade infantil
 date: 2010-04-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/12/obesidade-infantil/
 permalink: /2010/04/12/obesidade-infantil/

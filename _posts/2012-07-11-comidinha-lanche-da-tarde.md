@@ -2,7 +2,7 @@
 id: 3152
 title: Quem gosta de uma comidinha no lanchinho da tarde?
 date: 2012-07-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/11/comidinha-lanche-da-tarde/
 permalink: /2012/07/11/comidinha-lanche-da-tarde/

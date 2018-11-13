@@ -2,7 +2,7 @@
 id: 3054
 title: 'Consumismo: você ficaria 365 dias sem compras?'
 date: 2011-09-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/23/consumismo/
 permalink: /2011/09/23/consumismo/

@@ -2,7 +2,7 @@
 id: 3708
 title: Biscoitos Amaretti, com gostinho de família.
 date: 2016-11-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/
 permalink: /2016/11/23/biscoitos-amaretti-com-gostinho-de-familia/

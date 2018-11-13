@@ -2,7 +2,7 @@
 id: 3383
 title: '10 receitas: comida boa, bonita e saudável!'
 date: 2015-01-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/14/receitas-saudavel/
 permalink: /2015/01/14/receitas-saudavel/

@@ -2,7 +2,7 @@
 id: 2817
 title: Sorteio no Bicha Fêmea. O melhor presente NÃO será para você…
 date: 2010-05-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/17/sorteio-viva-melhor/
 permalink: /2010/05/17/sorteio-viva-melhor/

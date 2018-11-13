@@ -2,7 +2,7 @@
 id: 3861
 title: Sobre bem viver em pequenos espaços.
 date: 2018-04-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/30/pequenos-espacos/
 permalink: /2018/04/30/pequenos-espacos/

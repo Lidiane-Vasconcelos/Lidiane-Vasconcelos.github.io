@@ -2,7 +2,7 @@
 id: 2716
 title: Prateleira do Bicha Fêmea – Laços de Fita
 date: 2009-10-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/15/prateleira-do-bicha-fmea-laos-de-fita/
 permalink: /2009/10/15/prateleira-do-bicha-fmea-laos-de-fita/

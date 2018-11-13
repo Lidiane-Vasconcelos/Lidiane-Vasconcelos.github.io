@@ -2,7 +2,7 @@
 id: 3050
 title: 'Baú vintage: faça você mesma!'
 date: 2011-09-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/14/decoracao-faca-voce-mesma-4/
 permalink: /2011/09/14/decoracao-faca-voce-mesma-4/

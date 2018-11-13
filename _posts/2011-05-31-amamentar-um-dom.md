@@ -2,7 +2,7 @@
 id: 3003
 title: Amamentar, um dom!
 date: 2011-05-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/31/amamentar-um-dom/
 permalink: /2011/05/31/amamentar-um-dom/

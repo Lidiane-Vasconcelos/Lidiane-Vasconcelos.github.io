@@ -2,7 +2,7 @@
 id: 3315
 title: Faça você mesma um enfeite de parede para sua casa.
 date: 2014-06-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/27/enfeite-parede-faca-voce-mesma/
 permalink: /2014/06/27/enfeite-parede-faca-voce-mesma/

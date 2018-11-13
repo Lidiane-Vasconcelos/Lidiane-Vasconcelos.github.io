@@ -2,7 +2,7 @@
 id: 3822
 title: 'Festa picnic do Rhuan: 2 anos.'
 date: 2017-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/01/festa-picnic/
 permalink: /2017/11/01/festa-picnic/

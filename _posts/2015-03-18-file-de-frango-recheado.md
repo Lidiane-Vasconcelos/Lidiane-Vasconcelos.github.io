@@ -2,7 +2,7 @@
 id: 3409
 title: Filé de frango recheado com queijo cottage ao molho de tomate caseiro
 date: 2015-03-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/18/file-de-frango-recheado/
 permalink: /2015/03/18/file-de-frango-recheado/

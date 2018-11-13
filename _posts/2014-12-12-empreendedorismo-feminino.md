@@ -2,7 +2,7 @@
 id: 3377
 title: 'Empreendedorismo feminino: 3 mulheres contaram tudo!'
 date: 2014-12-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/12/empreendedorismo-feminino/
 permalink: /2014/12/12/empreendedorismo-feminino/

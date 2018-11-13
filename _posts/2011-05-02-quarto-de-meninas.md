@@ -2,7 +2,7 @@
 id: 2987
 title: Detalhes decorativos no quarto de meninas que encantam…
 date: 2011-05-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/02/quarto-de-meninas/
 permalink: /2011/05/02/quarto-de-meninas/

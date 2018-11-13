@@ -2,7 +2,7 @@
 id: 3342
 title: Afinal, quais cosméticos o bebê pode, de fato, usar?
 date: 2014-09-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/12/cosmeticos-pele-bebe/
 permalink: /2014/09/12/cosmeticos-pele-bebe/

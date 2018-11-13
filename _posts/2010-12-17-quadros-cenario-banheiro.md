@@ -2,7 +2,7 @@
 id: 2928
 title: 'Mercado de Artes: Quadros Cenário Banheiro Arabesco e Listrado.'
 date: 2010-12-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/17/quadros-cenario-banheiro/
 permalink: /2010/12/17/quadros-cenario-banheiro/

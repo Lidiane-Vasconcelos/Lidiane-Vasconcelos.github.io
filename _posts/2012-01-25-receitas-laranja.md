@@ -2,7 +2,7 @@
 id: 3112
 title: Quer aprender 3 receitas deliciosas com laranja nos ingredientes?
 date: 2012-01-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/25/receitas-laranja/
 permalink: /2012/01/25/receitas-laranja/

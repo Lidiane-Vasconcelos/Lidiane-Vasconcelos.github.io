@@ -2,7 +2,7 @@
 id: 3434
 title: Tofu ao forno… com toques especiais!
 date: 2015-06-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/17/tofu-ao-forno/
 permalink: /2015/06/17/tofu-ao-forno/

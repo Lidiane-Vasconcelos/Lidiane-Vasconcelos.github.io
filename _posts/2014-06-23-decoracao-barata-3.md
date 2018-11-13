@@ -2,7 +2,7 @@
 id: 3311
 title: Truques de decoração baratos, mas ricos em charme.
 date: 2014-06-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/23/decoracao-barata-3/
 permalink: /2014/06/23/decoracao-barata-3/

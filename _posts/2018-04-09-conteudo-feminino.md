@@ -2,7 +2,7 @@
 id: 3858
 title: Conteúdo feminino relevante pra fazer diferença!
 date: 2018-04-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/09/conteudo-feminino/
 permalink: /2018/04/09/conteudo-feminino/

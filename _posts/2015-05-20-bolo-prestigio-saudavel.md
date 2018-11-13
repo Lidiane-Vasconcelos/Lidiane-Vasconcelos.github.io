@@ -2,7 +2,7 @@
 id: 3425
 title: Bolo prestigio saudável!
 date: 2015-05-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/20/bolo-prestigio-saudavel/
 permalink: /2015/05/20/bolo-prestigio-saudavel/

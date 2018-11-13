@@ -2,7 +2,7 @@
 id: 3046
 title: A sua escolha na alimentação do dia a dia é saudável?
 date: 2011-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/05/nutricao-alimentacao-saudavel/
 permalink: /2011/09/05/nutricao-alimentacao-saudavel/

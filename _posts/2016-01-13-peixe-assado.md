@@ -2,7 +2,7 @@
 id: 3527
 title: Peixe assado ao molho de abóbora
 date: 2016-01-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/13/peixe-assado/
 permalink: /2016/01/13/peixe-assado/

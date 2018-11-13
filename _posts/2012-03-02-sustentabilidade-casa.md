@@ -2,7 +2,7 @@
 id: 3117
 title: 'Sustentabilidade na casa de cada uma de nós: é possível?'
 date: 2012-03-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/02/sustentabilidade-casa/
 permalink: /2012/03/02/sustentabilidade-casa/

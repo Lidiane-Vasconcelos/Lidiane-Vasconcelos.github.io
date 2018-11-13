@@ -2,7 +2,7 @@
 id: 3316
 title: 'Caixas: 5 soluções de organização da casa.'
 date: 2014-06-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/30/caixas-organizacao-casa/
 permalink: /2014/06/30/caixas-organizacao-casa/

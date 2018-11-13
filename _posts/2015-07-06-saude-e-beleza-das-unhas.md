@@ -2,7 +2,7 @@
 id: 3442
 title: 'Saúde e beleza das unhas: verdades que você não sabia.'
 date: 2015-07-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/06/saude-e-beleza-das-unhas/
 permalink: /2015/07/06/saude-e-beleza-das-unhas/

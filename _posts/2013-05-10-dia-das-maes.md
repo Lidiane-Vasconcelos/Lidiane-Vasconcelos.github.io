@@ -2,7 +2,7 @@
 id: 3216
 title: Desejos de mãe não deveriam ser só desejos, certo?
 date: 2013-05-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/10/dia-das-maes/
 permalink: /2013/05/10/dia-das-maes/

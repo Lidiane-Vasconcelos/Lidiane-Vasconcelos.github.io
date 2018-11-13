@@ -2,7 +2,7 @@
 id: 3033
 title: 'Viagem: 5 lugares para conhecer e se surpreender. Duvida?!'
 date: 2011-08-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/05/viagem-5-lugares-para-conhecer/
 permalink: /2011/08/05/viagem-5-lugares-para-conhecer/

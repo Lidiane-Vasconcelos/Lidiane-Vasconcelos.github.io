@@ -2,7 +2,7 @@
 id: 3595
 title: 'Autonomia infantil: saiba quando e como estimular.'
 date: 2016-04-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/20/autonomia-infantil/
 permalink: /2016/04/20/autonomia-infantil/

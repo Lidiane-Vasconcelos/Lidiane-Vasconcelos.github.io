@@ -2,7 +2,7 @@
 id: 3390
 title: 'BB Cream x Base x Hidratante com Cor: qual usar?'
 date: 2015-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/02/bb-cream-base-hidratante/
 permalink: /2015/02/02/bb-cream-base-hidratante/

@@ -2,7 +2,7 @@
 id: 2997
 title: Ideias criativas e simples para festas de aniversário infantil
 date: 2011-05-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/23/festas-aniversario-infantil/
 permalink: /2011/05/23/festas-aniversario-infantil/

@@ -2,7 +2,7 @@
 id: 2726
 title: Casamento é parceria?
 date: 2009-11-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/04/casamento-parceria/
 permalink: /2009/11/04/casamento-parceria/

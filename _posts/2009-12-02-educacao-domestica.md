@@ -2,7 +2,7 @@
 id: 2744
 title: 'A educação dos homens e mulheres de amanhã&#8230;'
 date: 2009-12-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/02/educacao-domestica/
 permalink: /2009/12/02/educacao-domestica/

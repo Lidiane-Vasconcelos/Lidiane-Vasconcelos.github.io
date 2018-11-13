@@ -2,7 +2,7 @@
 id: 2799
 title: Fui ali no Nordeste do Brasil. Ah! Eu fui!
 date: 2010-03-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/26/fui-ali-no-nordeste-do-brasil-ah-eu-fui/
 permalink: /2010/03/26/fui-ali-no-nordeste-do-brasil-ah-eu-fui/

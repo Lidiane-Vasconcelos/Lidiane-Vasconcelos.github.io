@@ -2,7 +2,7 @@
 id: 3798
 title: 3 detalhes pra surpreender na decoração da cozinha.
 date: 2017-09-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/12/decoracao-da-cozinha-3/
 permalink: /2017/09/12/decoracao-da-cozinha-3/

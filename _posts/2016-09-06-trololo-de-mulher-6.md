@@ -2,7 +2,7 @@
 id: 3658
 title: O que tem na Prateleira do Trololó de Mulher de Setembro?
 date: 2016-09-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/06/trololo-de-mulher-6/
 permalink: /2016/09/06/trololo-de-mulher-6/

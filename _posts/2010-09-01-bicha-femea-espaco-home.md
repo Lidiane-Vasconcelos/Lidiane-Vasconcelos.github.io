@@ -2,7 +2,7 @@
 id: 2871
 title: 'Sorteio Bicha Fêmea &#038; Espaço Home = casa bonita e organizada!'
 date: 2010-09-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/01/bicha-femea-espaco-home/
 permalink: /2010/09/01/bicha-femea-espaco-home/

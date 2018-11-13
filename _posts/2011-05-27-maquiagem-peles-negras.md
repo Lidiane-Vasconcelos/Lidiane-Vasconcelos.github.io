@@ -2,7 +2,7 @@
 id: 3000
 title: 'Dicas de beleza: maquiagem para peles negras. Anote!'
 date: 2011-05-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/27/maquiagem-peles-negras/
 permalink: /2011/05/27/maquiagem-peles-negras/

@@ -2,7 +2,7 @@
 id: 3430
 title: 'Carne vermelha: culpada ou inocente?'
 date: 2015-06-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/01/carne-vermelha-alimentacao/
 permalink: /2015/06/01/carne-vermelha-alimentacao/

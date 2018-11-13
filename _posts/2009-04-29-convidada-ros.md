@@ -2,7 +2,7 @@
 id: 2653
 title: 'Bicha Fêmea Convidada: Rose'
 date: 2009-04-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/29/convidada-ros/
 permalink: /2009/04/29/convidada-ros/

@@ -2,7 +2,7 @@
 id: 3297
 title: Você quer saúde e boa forma mas…não gosta de academia.
 date: 2014-05-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/21/saude-e-boa-forma/
 permalink: /2014/05/21/saude-e-boa-forma/

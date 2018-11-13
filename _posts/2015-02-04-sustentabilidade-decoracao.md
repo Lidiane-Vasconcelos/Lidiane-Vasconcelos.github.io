@@ -2,7 +2,7 @@
 id: 3395
 title: 'Criatividade e sustentabilidade na decoração: inspirações.'
 date: 2015-02-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/04/sustentabilidade-decoracao/
 permalink: /2015/02/04/sustentabilidade-decoracao/

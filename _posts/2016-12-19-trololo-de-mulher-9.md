@@ -2,7 +2,7 @@
 id: 3719
 title: O que tem na Prateleira do Trololó de Mulher de Dezembro?
 date: 2016-12-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/19/trololo-de-mulher-9/
 permalink: /2016/12/19/trololo-de-mulher-9/

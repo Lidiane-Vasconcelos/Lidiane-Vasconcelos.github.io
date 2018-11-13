@@ -2,7 +2,7 @@
 id: 2941
 title: 'Vestidos de Verão: moda, dicas e elegância…'
 date: 2011-01-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/21/vestidos-de-verao/
 permalink: /2011/01/21/vestidos-de-verao/

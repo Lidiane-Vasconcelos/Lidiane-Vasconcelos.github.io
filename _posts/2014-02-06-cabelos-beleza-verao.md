@@ -2,7 +2,7 @@
 id: 3279
 title: 'Verão + sol + mar + piscina = você descabelada. Xiiii&#8230; e agora?!'
 date: 2014-02-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/06/cabelos-beleza-verao/
 permalink: /2014/02/06/cabelos-beleza-verao/

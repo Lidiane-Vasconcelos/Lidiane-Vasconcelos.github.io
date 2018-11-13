@@ -2,7 +2,7 @@
 id: 2913
 title: 'Mercado de Artes: guirlanda, móbile de Natal, quadros cenário de banheiro e cozinha.'
 date: 2010-11-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/19/novidades-artesanato/
 permalink: /2010/11/19/novidades-artesanato/

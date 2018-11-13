@@ -2,7 +2,7 @@
 id: 3305
 title: Casa em ordem, já! Como? Veja 19 dicas!
 date: 2014-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/06/casa-em-ordem/
 permalink: /2014/06/06/casa-em-ordem/

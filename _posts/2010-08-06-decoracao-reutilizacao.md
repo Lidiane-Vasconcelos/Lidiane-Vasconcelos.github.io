@@ -2,7 +2,7 @@
 id: 2857
 title: Decoração com objetos reutilizados by bichas fêmeas.
 date: 2010-08-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/06/decoracao-reutilizacao/
 permalink: /2010/08/06/decoracao-reutilizacao/

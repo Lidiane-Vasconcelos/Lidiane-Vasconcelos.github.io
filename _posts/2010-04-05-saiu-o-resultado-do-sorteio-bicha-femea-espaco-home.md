@@ -2,7 +2,7 @@
 id: 2804
 title: 'Saiu o resultado do sorteio Bicha Fêmea &#038; Espaço Home'
 date: 2010-04-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/05/saiu-o-resultado-do-sorteio-bicha-femea-espaco-home/
 permalink: /2010/04/05/saiu-o-resultado-do-sorteio-bicha-femea-espaco-home/

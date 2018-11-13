@@ -2,7 +2,7 @@
 id: 3355
 title: 'Produtos para a casa: úteis… e bonitos também!'
 date: 2014-10-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/14/produtos-casa-utilidades/
 permalink: /2014/10/14/produtos-casa-utilidades/

@@ -2,7 +2,7 @@
 id: 3550
 title: 'Decoração de bebê neutra: como fazer?'
 date: 2016-02-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/26/decoracao-de-bebe-neutra/
 permalink: /2016/02/26/decoracao-de-bebe-neutra/

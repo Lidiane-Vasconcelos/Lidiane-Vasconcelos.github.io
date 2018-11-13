@@ -2,7 +2,7 @@
 id: 3831
 title: Veja 6 ideias de uso do cesto de crochê no décor da casa.
 date: 2017-11-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/21/cesto-de-croche/
 permalink: /2017/11/21/cesto-de-croche/

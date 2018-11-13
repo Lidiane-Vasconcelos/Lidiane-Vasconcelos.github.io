@@ -2,7 +2,7 @@
 id: 3593
 title: Como reutilizar objetos na decoração/organização em 4 dicas.
 date: 2016-04-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/19/objetos-decoracao-organizacao/
 permalink: /2016/04/19/objetos-decoracao-organizacao/

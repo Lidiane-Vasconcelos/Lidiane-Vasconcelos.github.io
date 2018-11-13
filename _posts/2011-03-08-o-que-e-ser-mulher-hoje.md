@@ -2,7 +2,7 @@
 id: 2971
 title: O que é ser mulher hoje?
 date: 2011-03-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/08/o-que-e-ser-mulher-hoje/
 permalink: /2011/03/08/o-que-e-ser-mulher-hoje/

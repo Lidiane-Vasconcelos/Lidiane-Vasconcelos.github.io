@@ -2,7 +2,7 @@
 id: 3808
 title: 'Novidade: Loja do Trololó de Mulher'
 date: 2017-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/29/loja-do-trololo-de-mulher/
 permalink: /2017/09/29/loja-do-trololo-de-mulher/

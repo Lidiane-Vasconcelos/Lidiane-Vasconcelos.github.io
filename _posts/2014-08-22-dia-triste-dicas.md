@@ -2,7 +2,7 @@
 id: 3334
 title: Hoje é aquele dia em que você está pra baixo?
 date: 2014-08-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/22/dia-triste-dicas/
 permalink: /2014/08/22/dia-triste-dicas/

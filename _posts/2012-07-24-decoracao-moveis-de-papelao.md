@@ -2,7 +2,7 @@
 id: 3159
 title: Já imaginou compor sua decoração com móveis de papelão?
 date: 2012-07-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/24/decoracao-moveis-de-papelao/
 permalink: /2012/07/24/decoracao-moveis-de-papelao/

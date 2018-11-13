@@ -2,7 +2,7 @@
 id: 2889
 title: Sua casa também possui auto-estima.
 date: 2010-10-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/04/casa-auto-estima/
 permalink: /2010/10/04/casa-auto-estima/

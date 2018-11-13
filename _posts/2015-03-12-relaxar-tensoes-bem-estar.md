@@ -2,7 +2,7 @@
 id: 3406
 title: Como relaxar suas tensões? 4 profissionais dão dicas.
 date: 2015-03-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/12/relaxar-tensoes-bem-estar/
 permalink: /2015/03/12/relaxar-tensoes-bem-estar/

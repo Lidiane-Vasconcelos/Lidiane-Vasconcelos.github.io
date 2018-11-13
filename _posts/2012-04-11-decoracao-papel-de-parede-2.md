@@ -2,7 +2,7 @@
 id: 3130
 title: 3 ideias criativas de uso do papel de parede… fora da parede!
 date: 2012-04-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/11/decoracao-papel-de-parede-2/
 permalink: /2012/04/11/decoracao-papel-de-parede-2/

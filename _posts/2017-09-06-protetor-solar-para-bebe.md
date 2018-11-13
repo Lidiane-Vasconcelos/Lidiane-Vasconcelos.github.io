@@ -2,7 +2,7 @@
 id: 3795
 title: Não basta passar protetor solar para bebê. Saiba tudo!
 date: 2017-09-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/06/protetor-solar-para-bebe/
 permalink: /2017/09/06/protetor-solar-para-bebe/

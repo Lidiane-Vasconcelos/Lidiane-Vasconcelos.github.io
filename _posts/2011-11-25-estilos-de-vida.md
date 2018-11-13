@@ -2,7 +2,7 @@
 id: 3084
 title: 'Estilos de vida e de blogar: cada bicha fêmea com o seu!'
 date: 2011-11-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/25/estilos-de-vida/
 permalink: /2011/11/25/estilos-de-vida/

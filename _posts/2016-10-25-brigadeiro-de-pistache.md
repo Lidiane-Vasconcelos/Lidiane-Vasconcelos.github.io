@@ -2,7 +2,7 @@
 id: 3695
 title: Brigadeiro de pistache pra adoçar a vida com bossa!
 date: 2016-10-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/25/brigadeiro-de-pistache/
 permalink: /2016/10/25/brigadeiro-de-pistache/

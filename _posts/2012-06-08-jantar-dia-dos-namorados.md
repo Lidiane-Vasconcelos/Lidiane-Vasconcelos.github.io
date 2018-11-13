@@ -2,7 +2,7 @@
 id: 3134
 title: Para um jantar de dia dos namorados perfeito…
 date: 2012-06-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/08/jantar-dia-dos-namorados/
 permalink: /2012/06/08/jantar-dia-dos-namorados/

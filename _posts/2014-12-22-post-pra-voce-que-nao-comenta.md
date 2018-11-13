@@ -2,7 +2,7 @@
 id: 3380
 title: Post pra você que não comenta…
 date: 2014-12-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/22/post-pra-voce-que-nao-comenta/
 permalink: /2014/12/22/post-pra-voce-que-nao-comenta/

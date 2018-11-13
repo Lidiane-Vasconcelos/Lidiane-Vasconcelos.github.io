@@ -2,7 +2,7 @@
 id: 3303
 title: Quer comprar produtos cosméticos nacionais e importados?
 date: 2014-06-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/05/cosmetico-nacional-importado/
 permalink: /2014/06/05/cosmetico-nacional-importado/

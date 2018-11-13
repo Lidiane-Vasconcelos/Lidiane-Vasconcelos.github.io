@@ -2,7 +2,7 @@
 id: 2730
 title: Do Encontro de Blogueiras de Campinas e Região.
 date: 2009-11-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/09/do-encontro-de-blogueiras-de-campinas-e-regiao/
 permalink: /2009/11/09/do-encontro-de-blogueiras-de-campinas-e-regiao/

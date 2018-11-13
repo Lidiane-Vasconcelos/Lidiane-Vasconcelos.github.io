@@ -2,7 +2,7 @@
 id: 3269
 title: Como fazer o efeito craquelê nas suas pinturas?
 date: 2013-10-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/21/artesanato-craquele-decoracao/
 permalink: /2013/10/21/artesanato-craquele-decoracao/

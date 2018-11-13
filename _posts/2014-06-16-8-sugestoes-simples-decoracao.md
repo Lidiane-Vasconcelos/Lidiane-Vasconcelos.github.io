@@ -2,7 +2,7 @@
 id: 3302
 title: 8 sugestões simples de detalhes com bossa na decoração
 date: 2014-06-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/16/8-sugestoes-simples-decoracao/
 permalink: /2014/06/16/8-sugestoes-simples-decoracao/

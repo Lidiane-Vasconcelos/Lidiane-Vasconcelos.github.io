@@ -2,7 +2,7 @@
 id: 3368
 title: O que a meditação pode fazer por seu bem-estar e saúde?
 date: 2014-11-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/07/meditacao-bem-estar-saude/
 permalink: /2014/11/07/meditacao-bem-estar-saude/

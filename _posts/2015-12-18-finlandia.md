@@ -2,7 +2,7 @@
 id: 3522
 title: 'Dri Minhoto na Finlândia: pausa pra reflexão.'
 date: 2015-12-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/18/finlandia/
 permalink: /2015/12/18/finlandia/

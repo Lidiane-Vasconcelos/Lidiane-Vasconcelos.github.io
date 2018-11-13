@@ -2,7 +2,7 @@
 id: 3193
 title: 'Sabe quem ganhou uma tolha de mesa linda de viver por aqui? [ATUALIZADO]'
 date: 2012-10-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/02/sorteio-artesanal-shop-2/
 permalink: /2012/10/02/sorteio-artesanal-shop-2/

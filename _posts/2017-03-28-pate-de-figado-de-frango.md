@@ -2,7 +2,7 @@
 id: 3745
 title: Patê de fígado de frango
 date: 2017-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/28/pate-de-figado-de-frango/
 permalink: /2017/03/28/pate-de-figado-de-frango/

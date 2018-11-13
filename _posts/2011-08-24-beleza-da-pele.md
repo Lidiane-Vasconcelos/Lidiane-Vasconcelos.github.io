@@ -2,7 +2,7 @@
 id: 3040
 title: 'Tônico facial: você sabe a importância desse produto para a beleza da pele?'
 date: 2011-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/24/beleza-da-pele/
 permalink: /2011/08/24/beleza-da-pele/

@@ -2,7 +2,7 @@
 id: 2872
 title: Dicas para facilitar a rotina doméstica
 date: 2010-09-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/10/dicas-rotina-domestica/
 permalink: /2010/09/10/dicas-rotina-domestica/

@@ -2,7 +2,7 @@
 id: 2924
 title: 'Deu &#8220;trololó&#8221; no Bicha Fêmea em 2009&#8230;'
 date: 2010-12-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/10/deu-trololo-no-bicha-femea-em-2009/
 permalink: /2010/12/10/deu-trololo-no-bicha-femea-em-2009/

@@ -2,7 +2,7 @@
 id: 3839
 title: Receita de pastel
 date: 2017-12-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/05/receita-de-pastel/
 permalink: /2017/12/05/receita-de-pastel/

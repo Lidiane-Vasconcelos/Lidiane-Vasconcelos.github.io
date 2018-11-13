@@ -2,7 +2,7 @@
 id: 3055
 title: 'Cuidados com os cabelos: 3 perguntas para uma cabeleireira'
 date: 2011-09-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/26/cuidados-com-os-cabelos/
 permalink: /2011/09/26/cuidados-com-os-cabelos/

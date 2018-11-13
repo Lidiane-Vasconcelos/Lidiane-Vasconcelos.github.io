@@ -2,7 +2,7 @@
 id: 3283
 title: Resultado do sorteio Dreams Factory por aqui…
 date: 2014-02-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/11/resultado-sorteio-2/
 permalink: /2014/02/11/resultado-sorteio-2/

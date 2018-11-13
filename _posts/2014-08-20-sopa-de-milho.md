@@ -2,7 +2,7 @@
 id: 3333
 title: 'Todo inverno pede: sopa de milho como você nunca viu.'
 date: 2014-08-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/20/sopa-de-milho/
 permalink: /2014/08/20/sopa-de-milho/

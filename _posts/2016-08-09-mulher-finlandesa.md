@@ -2,7 +2,7 @@
 id: 3639
 title: Verdades pouco conhecidas sobre a mulher finlandesa.
 date: 2016-08-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/09/mulher-finlandesa/
 permalink: /2016/08/09/mulher-finlandesa/

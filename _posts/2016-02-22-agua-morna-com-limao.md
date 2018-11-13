@@ -2,7 +2,7 @@
 id: 3546
 title: 'Água morna com limão: faz bem ou é modinha?'
 date: 2016-02-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/22/agua-morna-com-limao/
 permalink: /2016/02/22/agua-morna-com-limao/

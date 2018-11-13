@@ -2,7 +2,7 @@
 id: 3329
 title: 5 coisas que você precisa saber sobre dor nas costas.
 date: 2014-08-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/11/dor-nas-costas/
 permalink: /2014/08/11/dor-nas-costas/

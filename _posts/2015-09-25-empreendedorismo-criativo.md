@@ -2,7 +2,7 @@
 id: 3483
 title: O que é empreendedorismo criativo?
 date: 2015-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/25/empreendedorismo-criativo/
 permalink: /2015/09/25/empreendedorismo-criativo/

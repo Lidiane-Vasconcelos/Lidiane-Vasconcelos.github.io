@@ -2,7 +2,7 @@
 id: 3072
 title: O Bicha Fêmea fará 3 anos… vamos comemorar?
 date: 2011-10-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/31/bicha-femea-3-anos/
 permalink: /2011/10/31/bicha-femea-3-anos/

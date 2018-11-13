@@ -2,7 +2,7 @@
 id: 3386
 title: 'Dias e dias sem sol: o temido Novembro na Finlândia.'
 date: 2015-01-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/16/finlandia-novembro/
 permalink: /2015/01/16/finlandia-novembro/

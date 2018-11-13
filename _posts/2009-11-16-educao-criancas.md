@@ -2,7 +2,7 @@
 id: 2735
 title: E A Educação? Vem Mesmo De Berço???
 date: 2009-11-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/16/educao-criancas/
 permalink: /2009/11/16/educao-criancas/

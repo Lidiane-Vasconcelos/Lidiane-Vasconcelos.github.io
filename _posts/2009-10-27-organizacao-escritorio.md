@@ -2,7 +2,7 @@
 id: 2714
 title: 'Organização de Escritório ou Home Office: dicas.'
 date: 2009-10-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/27/organizacao-escritorio/
 permalink: /2009/10/27/organizacao-escritorio/

@@ -2,7 +2,7 @@
 id: 3205
 title: A beleza nos dias quentes clama por produtos em gel!!!
 date: 2012-11-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/05/beleza-verao-produtos-gel/
 permalink: /2012/11/05/beleza-verao-produtos-gel/

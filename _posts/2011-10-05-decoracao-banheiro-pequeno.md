@@ -2,7 +2,7 @@
 id: 3060
 title: 4 ideias para decoração de banheiro pequeno…
 date: 2011-10-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/05/decoracao-banheiro-pequeno/
 permalink: /2011/10/05/decoracao-banheiro-pequeno/

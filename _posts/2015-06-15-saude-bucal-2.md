@@ -2,7 +2,7 @@
 id: 3435
 title: O que você não sabia sobre a saúde bucal x corporal.
 date: 2015-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/15/saude-bucal-2/
 permalink: /2015/06/15/saude-bucal-2/

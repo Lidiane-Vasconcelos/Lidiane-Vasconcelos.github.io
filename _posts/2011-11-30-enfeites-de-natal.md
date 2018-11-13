@@ -2,7 +2,7 @@
 id: 3086
 title: 'Decoração de Natal: você precisa de inspirações?'
 date: 2011-11-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/30/enfeites-de-natal/
 permalink: /2011/11/30/enfeites-de-natal/

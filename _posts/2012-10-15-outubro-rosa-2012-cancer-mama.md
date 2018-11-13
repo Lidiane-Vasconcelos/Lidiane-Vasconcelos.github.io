@@ -2,7 +2,7 @@
 id: 3199
 title: Muito prazer, eu sou “os outros”!
 date: 2012-10-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/15/outubro-rosa-2012-cancer-mama/
 permalink: /2012/10/15/outubro-rosa-2012-cancer-mama/

@@ -2,7 +2,7 @@
 id: 2690
 title: '“Pitacos” de decoração: revestimentos de cozinha.'
 date: 2009-07-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/23/decoracao-revestimento-cozinha/
 permalink: /2009/07/23/decoracao-revestimento-cozinha/

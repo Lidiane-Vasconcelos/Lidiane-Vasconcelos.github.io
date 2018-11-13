@@ -2,7 +2,7 @@
 id: 3209
 title: Antes x Depois de quarto de casal com a ajuda de uma expert
 date: 2012-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/14/antes-depois-quarto-casal/
 permalink: /2012/11/14/antes-depois-quarto-casal/

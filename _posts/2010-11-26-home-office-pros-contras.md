@@ -2,7 +2,7 @@
 id: 2914
 title: 'Home Office: união do útil ao agradável… mas nem sempre!'
 date: 2010-11-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/26/home-office-pros-contras/
 permalink: /2010/11/26/home-office-pros-contras/

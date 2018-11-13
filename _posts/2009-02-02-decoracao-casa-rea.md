@@ -2,7 +2,7 @@
 id: 2614
 title: 'Decoração de casas reais: imagens inspiradoras.'
 date: 2009-02-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/02/decoracao-casa-rea/
 permalink: /2009/02/02/decoracao-casa-rea/

@@ -2,7 +2,7 @@
 id: 2843
 title: Como jogar fora os remédios vencidos?
 date: 2010-07-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/09/descartando-remedios-vencidos/
 permalink: /2010/07/09/descartando-remedios-vencidos/

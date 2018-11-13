@@ -2,7 +2,7 @@
 id: 3659
 title: Você quer ideias de cores para a sala de estar?
 date: 2016-09-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/08/cores-para-sala-de-estar/
 permalink: /2016/09/08/cores-para-sala-de-estar/

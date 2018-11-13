@@ -2,7 +2,7 @@
 id: 2929
 title: Ganhei presente da Closonê Acessórios. Vem cá que eu te mostro!
 date: 2011-01-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/05/presente-closone-acessorios/
 permalink: /2011/01/05/presente-closone-acessorios/

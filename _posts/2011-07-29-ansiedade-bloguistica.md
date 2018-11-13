@@ -2,7 +2,7 @@
 id: 3029
 title: 'Ansiedade bloguística: você sente isso?'
 date: 2011-07-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/29/ansiedade-bloguistica/
 permalink: /2011/07/29/ansiedade-bloguistica/

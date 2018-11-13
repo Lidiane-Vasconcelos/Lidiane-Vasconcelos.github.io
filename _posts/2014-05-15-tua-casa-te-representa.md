@@ -2,7 +2,7 @@
 id: 3295
 title: Tua casa te representa?
 date: 2014-05-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/15/tua-casa-te-representa/
 permalink: /2014/05/15/tua-casa-te-representa/

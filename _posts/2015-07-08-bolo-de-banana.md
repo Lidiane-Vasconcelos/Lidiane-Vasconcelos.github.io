@@ -2,7 +2,7 @@
 id: 3443
 title: Bolo de banana sem glúten e light… e cheiroso!
 date: 2015-07-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/08/bolo-de-banana/
 permalink: /2015/07/08/bolo-de-banana/

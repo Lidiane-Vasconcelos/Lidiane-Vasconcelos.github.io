@@ -2,7 +2,7 @@
 id: 3089
 title: Ideias baratas para decorar a casa by leitoras do blog.
 date: 2011-12-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/07/ideias-baratas-decoracao/
 permalink: /2011/12/07/ideias-baratas-decoracao/

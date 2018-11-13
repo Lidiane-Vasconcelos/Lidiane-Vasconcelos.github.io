@@ -2,7 +2,7 @@
 id: 2796
 title: Cabelo cacheado tem corte, sim!
 date: 2010-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/23/cabelo-cacheado/
 permalink: /2010/02/23/cabelo-cacheado/

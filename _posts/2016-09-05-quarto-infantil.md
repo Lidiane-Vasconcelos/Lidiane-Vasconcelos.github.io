@@ -2,7 +2,7 @@
 id: 3657
 title: 'Quarto infantil: como brincar com as cores?'
 date: 2016-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/05/quarto-infantil/
 permalink: /2016/09/05/quarto-infantil/

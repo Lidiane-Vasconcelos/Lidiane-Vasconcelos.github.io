@@ -2,7 +2,7 @@
 id: 3351
 title: 3 ideias para organizar os livros infantis e facilitar o acesso.
 date: 2014-10-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/03/decoracao-infantil/
 permalink: /2014/10/03/decoracao-infantil/

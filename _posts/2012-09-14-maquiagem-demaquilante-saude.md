@@ -2,7 +2,7 @@
 id: 3184
 title: Maquiagem e demaquilantes do dia a dia também são assuntos de saúde.
 date: 2012-09-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/14/maquiagem-demaquilante-saude/
 permalink: /2012/09/14/maquiagem-demaquilante-saude/

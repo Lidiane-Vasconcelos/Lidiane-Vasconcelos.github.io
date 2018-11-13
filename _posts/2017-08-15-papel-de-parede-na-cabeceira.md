@@ -2,7 +2,7 @@
 id: 3783
 title: 'Papel de parede na cabeceira da cama: inspirações.'
 date: 2017-08-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/15/papel-de-parede-na-cabeceira/
 permalink: /2017/08/15/papel-de-parede-na-cabeceira/

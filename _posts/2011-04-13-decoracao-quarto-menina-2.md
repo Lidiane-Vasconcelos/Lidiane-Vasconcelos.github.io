@@ -2,7 +2,7 @@
 id: 2977
 title: Seus pitacos de decoração em quarto de menina foram ouvidos!
 date: 2011-04-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/13/decoracao-quarto-menina-2/
 permalink: /2011/04/13/decoracao-quarto-menina-2/

@@ -2,7 +2,7 @@
 id: 3728
 title: Veja como cuidar de sua autoestima, e tenha uma vida leve!
 date: 2017-02-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/17/autoestima-2/
 permalink: /2017/02/17/autoestima-2/

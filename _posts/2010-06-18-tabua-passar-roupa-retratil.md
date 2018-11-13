@@ -2,7 +2,7 @@
 id: 2833
 title: 'Organização na lavanderia: ganhe espaço com uma tábua de passar roupa retrátil.'
 date: 2010-06-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/18/tabua-passar-roupa-retratil/
 permalink: /2010/06/18/tabua-passar-roupa-retratil/

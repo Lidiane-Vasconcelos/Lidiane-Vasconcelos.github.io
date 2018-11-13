@@ -2,7 +2,7 @@
 id: 3181
 title: Frango crocante e sequinho? Oh, meus sais! Aqui tem!
 date: 2012-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/05/frango-receita/
 permalink: /2012/09/05/frango-receita/

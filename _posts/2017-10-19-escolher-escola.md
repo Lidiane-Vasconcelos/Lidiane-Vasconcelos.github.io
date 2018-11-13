@@ -2,7 +2,7 @@
 id: 3816
 title: Sabe como escolher a escola da cria? Leia antes este post.
 date: 2017-10-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/19/escolher-escola/
 permalink: /2017/10/19/escolher-escola/

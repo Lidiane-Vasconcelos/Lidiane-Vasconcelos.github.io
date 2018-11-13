@@ -2,7 +2,7 @@
 id: 3605
 title: 'Cortinas: como escolher?'
 date: 2016-05-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/05/cortinas-como-escolher/
 permalink: /2016/05/05/cortinas-como-escolher/

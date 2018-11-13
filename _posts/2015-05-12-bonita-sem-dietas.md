@@ -2,7 +2,7 @@
 id: 3422
 title: Bonita, saudável e feliz… sem dietas!
 date: 2015-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/12/bonita-sem-dietas/
 permalink: /2015/05/12/bonita-sem-dietas/

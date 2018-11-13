@@ -2,7 +2,7 @@
 id: 3308
 title: 'Empreendedorismo feminino: o que é mais importante?'
 date: 2014-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/13/empreendedorismo-feminino-2/
 permalink: /2014/06/13/empreendedorismo-feminino-2/

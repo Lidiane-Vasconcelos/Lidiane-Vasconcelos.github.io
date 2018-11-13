@@ -2,7 +2,7 @@
 id: 2675
 title: 'Móveis e objetos usados para doação&#8230;'
 date: 2009-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/28/moveis-objetos-usados-doacao/
 permalink: /2009/06/28/moveis-objetos-usados-doacao/

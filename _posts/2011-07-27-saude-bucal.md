@@ -2,7 +2,7 @@
 id: 3028
 title: 'Creme e enxaguante bucais de ação clareadora: isso funciona?'
 date: 2011-07-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/27/saude-bucal/
 permalink: /2011/07/27/saude-bucal/

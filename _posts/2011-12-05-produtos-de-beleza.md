@@ -2,7 +2,7 @@
 id: 3088
 title: Produtinhos de beleza recomendados pela blogueira Pauline Costa
 date: 2011-12-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/05/produtos-de-beleza/
 permalink: /2011/12/05/produtos-de-beleza/

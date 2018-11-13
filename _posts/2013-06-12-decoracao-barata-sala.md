@@ -2,7 +2,7 @@
 id: 3226
 title: 'Solução de decoração boa, bonita e barata: tapete de sisal listrado'
 date: 2013-06-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/12/decoracao-barata-sala/
 permalink: /2013/06/12/decoracao-barata-sala/

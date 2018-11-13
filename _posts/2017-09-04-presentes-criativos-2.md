@@ -2,7 +2,7 @@
 id: 3792
 title: 'Prateleira do Trololó de Mulher de Setembro: presentes criativos.'
 date: 2017-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/04/presentes-criativos-2/
 permalink: /2017/09/04/presentes-criativos-2/

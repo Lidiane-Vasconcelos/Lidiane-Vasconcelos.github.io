@@ -2,7 +2,7 @@
 id: 3458
 title: 'Novidade: agenda cultural–São Paulo com crianças!'
 date: 2015-07-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/31/sao-paulo-com-criancas/
 permalink: /2015/07/31/sao-paulo-com-criancas/

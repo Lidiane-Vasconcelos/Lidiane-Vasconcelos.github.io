@@ -2,7 +2,7 @@
 id: 3450
 title: É julho…ops!…é Verão na Finlândia!
 date: 2015-07-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/24/verao-na-finlandia-2/
 permalink: /2015/07/24/verao-na-finlandia-2/

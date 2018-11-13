@@ -2,7 +2,7 @@
 id: 3004
 title: 'História de um móvel: guarda-roupas virou sapateira…'
 date: 2011-06-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/02/decoracao-faca-voce-mesma/
 permalink: /2011/06/02/decoracao-faca-voce-mesma/

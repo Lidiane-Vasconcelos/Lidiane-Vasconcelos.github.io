@@ -2,7 +2,7 @@
 id: 3829
 title: Sobre mudança de vida, alternativas e propósito.
 date: 2017-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/17/mudanca-de-vida/
 permalink: /2017/11/17/mudanca-de-vida/

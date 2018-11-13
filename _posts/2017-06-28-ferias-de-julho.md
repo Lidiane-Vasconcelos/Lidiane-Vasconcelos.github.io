@@ -2,7 +2,7 @@
 id: 3777
 title: Aviso de férias de Julho do blog
 date: 2017-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/28/ferias-de-julho/
 permalink: /2017/06/28/ferias-de-julho/

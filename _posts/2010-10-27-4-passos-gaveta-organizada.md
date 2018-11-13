@@ -2,7 +2,7 @@
 id: 2896
 title: 4 passos e sua “gaveta da bagunça” ficará impecável!
 date: 2010-10-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/27/4-passos-gaveta-organizada/
 permalink: /2010/10/27/4-passos-gaveta-organizada/

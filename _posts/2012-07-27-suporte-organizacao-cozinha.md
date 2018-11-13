@@ -2,7 +2,7 @@
 id: 3161
 title: Quer 5 razões para ter um suporte de organização na parede da cozinha?
 date: 2012-07-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/27/suporte-organizacao-cozinha/
 permalink: /2012/07/27/suporte-organizacao-cozinha/

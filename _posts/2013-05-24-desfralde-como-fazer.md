@@ -2,7 +2,7 @@
 id: 3218
 title: 'Dilema de mãe: a hora do desfralde… como fazer?'
 date: 2013-05-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/24/desfralde-como-fazer/
 permalink: /2013/05/24/desfralde-como-fazer/

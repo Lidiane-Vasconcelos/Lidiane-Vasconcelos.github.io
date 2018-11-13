@@ -2,7 +2,7 @@
 id: 3820
 title: Dicas pra sua maquiagem de verão leve e suave.
 date: 2017-10-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/30/maquiagem-de-verao/
 permalink: /2017/10/30/maquiagem-de-verao/

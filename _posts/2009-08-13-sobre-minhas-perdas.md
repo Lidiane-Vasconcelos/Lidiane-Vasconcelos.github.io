@@ -2,7 +2,7 @@
 id: 2697
 title: 'Sobre minhas perdas&#8230;'
 date: 2009-08-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/13/sobre-minhas-perdas/
 permalink: /2009/08/13/sobre-minhas-perdas/

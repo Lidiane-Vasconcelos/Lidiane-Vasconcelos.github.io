@@ -2,7 +2,7 @@
 id: 3836
 title: '3 guirlandas de Natal diferentes e criativas: faça você mesma!'
 date: 2017-11-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/28/guirlandas-de-natal/
 permalink: /2017/11/28/guirlandas-de-natal/

@@ -2,7 +2,7 @@
 id: 3180
 title: Você consegue traduzir bem a expressão “mimosidades”?
 date: 2012-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/04/presentes-mimosidades/
 permalink: /2012/09/04/presentes-mimosidades/

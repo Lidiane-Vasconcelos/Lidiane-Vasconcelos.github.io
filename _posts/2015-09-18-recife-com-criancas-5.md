@@ -2,7 +2,7 @@
 id: 3489
 title: 'Agenda Recife com crianças: 19 e 20 de Setembro'
 date: 2015-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/18/recife-com-criancas-5/
 permalink: /2015/09/18/recife-com-criancas-5/

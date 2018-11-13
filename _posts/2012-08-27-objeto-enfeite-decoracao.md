@@ -2,7 +2,7 @@
 id: 3176
 title: Objetos e enfeites nas feiras de antiguidades.
 date: 2012-08-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/27/objeto-enfeite-decoracao/
 permalink: /2012/08/27/objeto-enfeite-decoracao/

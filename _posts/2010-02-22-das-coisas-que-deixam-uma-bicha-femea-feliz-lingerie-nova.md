@@ -2,7 +2,7 @@
 id: 2787
 title: 'Das coisas que deixam uma bicha fêmea feliz: lingerie nova.'
 date: 2010-02-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/22/das-coisas-que-deixam-uma-bicha-femea-feliz-lingerie-nova/
 permalink: /2010/02/22/das-coisas-que-deixam-uma-bicha-femea-feliz-lingerie-nova/

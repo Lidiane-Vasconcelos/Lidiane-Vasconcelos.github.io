@@ -2,7 +2,7 @@
 id: 3859
 title: Mudanças por aqui, mas com propósito.
 date: 2018-04-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/15/proposito/
 permalink: /2018/04/15/proposito/

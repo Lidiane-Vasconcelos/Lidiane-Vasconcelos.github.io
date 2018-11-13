@@ -2,7 +2,7 @@
 id: 2995
 title: 'Aromatizador de Ambientes: como fazer?'
 date: 2011-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/19/aromatizador-de-ambientes/
 permalink: /2011/05/19/aromatizador-de-ambientes/

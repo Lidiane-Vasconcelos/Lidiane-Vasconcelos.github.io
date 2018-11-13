@@ -2,7 +2,7 @@
 id: 3330
 title: 'Dias frios, hidratantes e tudo mais: tudo a ver!'
 date: 2014-08-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/13/hidratantes-pele-inverno/
 permalink: /2014/08/13/hidratantes-pele-inverno/

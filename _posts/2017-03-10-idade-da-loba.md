@@ -2,7 +2,7 @@
 id: 3736
 title: Quando a vida recomeça aos 40, na idade da loba…
 date: 2017-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/10/idade-da-loba/
 permalink: /2017/03/10/idade-da-loba/

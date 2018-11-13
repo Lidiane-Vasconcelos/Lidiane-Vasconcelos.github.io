@@ -2,7 +2,7 @@
 id: 2848
 title: 'Casamento durante o dia: o que vestir?'
 date: 2010-07-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/23/casamento-dia-roupa/
 permalink: /2010/07/23/casamento-dia-roupa/

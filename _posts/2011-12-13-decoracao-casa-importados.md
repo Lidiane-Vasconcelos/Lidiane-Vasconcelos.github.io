@@ -2,7 +2,7 @@
 id: 3095
 title: 'Chá das Cinco: coisas para casa com o charme inglês…'
 date: 2011-12-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/13/decoracao-casa-importados/
 permalink: /2011/12/13/decoracao-casa-importados/

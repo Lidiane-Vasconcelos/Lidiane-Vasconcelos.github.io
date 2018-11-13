@@ -2,7 +2,7 @@
 id: 3254
 title: 'Reutilização de móveis e objetos na decoração: questão de estilo'
 date: 2013-08-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/26/reutilizacao-decoracao/
 permalink: /2013/08/26/reutilizacao-decoracao/

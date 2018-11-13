@@ -2,7 +2,7 @@
 id: 3813
 title: Adote sábias atitudes para uma vida em equilíbrio.
 date: 2017-10-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/16/vida-em-equilibrio/
 permalink: /2017/10/16/vida-em-equilibrio/

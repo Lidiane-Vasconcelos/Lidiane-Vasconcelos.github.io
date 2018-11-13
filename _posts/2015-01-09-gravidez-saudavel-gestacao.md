@@ -2,7 +2,7 @@
 id: 3382
 title: 'Gravidez saudável, segura e em equilíbrio: como vivenciá-la?'
 date: 2015-01-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/09/gravidez-saudavel-gestacao/
 permalink: /2015/01/09/gravidez-saudavel-gestacao/

@@ -2,7 +2,7 @@
 id: 3465
 title: 'Sorelle Kleis: conte sua história com estilo!'
 date: 2015-08-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/18/sorelle-kleis/
 permalink: /2015/08/18/sorelle-kleis/

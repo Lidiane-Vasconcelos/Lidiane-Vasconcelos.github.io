@@ -2,7 +2,7 @@
 id: 3726
 title: Receita de pão caseiro de abobrinha… das mais fáceis!
 date: 2017-02-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/14/pao-caseiro/
 permalink: /2017/02/14/pao-caseiro/

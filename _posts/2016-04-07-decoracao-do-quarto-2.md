@@ -2,7 +2,7 @@
 id: 3582
 title: Aprenda uma dica top e deixe a decoração do quarto linda!
 date: 2016-04-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/07/decoracao-do-quarto-2/
 permalink: /2016/04/07/decoracao-do-quarto-2/

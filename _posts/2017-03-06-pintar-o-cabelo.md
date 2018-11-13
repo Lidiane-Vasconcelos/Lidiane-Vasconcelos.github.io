@@ -2,7 +2,7 @@
 id: 3733
 title: Dicas pra não errar quando for pintar o cabelo.
 date: 2017-03-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/06/pintar-o-cabelo/
 permalink: /2017/03/06/pintar-o-cabelo/

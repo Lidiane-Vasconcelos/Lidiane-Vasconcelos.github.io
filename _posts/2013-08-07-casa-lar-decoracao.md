@@ -2,7 +2,7 @@
 id: 3244
 title: Casa é diferente de lar, certo?
 date: 2013-08-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/07/casa-lar-decoracao/
 permalink: /2013/08/07/casa-lar-decoracao/

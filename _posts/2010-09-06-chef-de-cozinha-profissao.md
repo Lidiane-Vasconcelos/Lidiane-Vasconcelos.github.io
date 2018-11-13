@@ -2,7 +2,7 @@
 id: 2870
 title: 'Sendo chef de cozinha: os bastidores da profissão…'
 date: 2010-09-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/06/chef-de-cozinha-profissao/
 permalink: /2010/09/06/chef-de-cozinha-profissao/

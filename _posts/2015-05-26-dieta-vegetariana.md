@@ -2,7 +2,7 @@
 id: 3428
 title: 'Dieta vegetariana: saudável, rica e variada. Mito ou verdade?'
 date: 2015-05-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/26/dieta-vegetariana/
 permalink: /2015/05/26/dieta-vegetariana/

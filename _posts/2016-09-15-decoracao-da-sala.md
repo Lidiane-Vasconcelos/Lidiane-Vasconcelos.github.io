@@ -2,7 +2,7 @@
 id: 3663
 title: 'Cômoda repaginada na decoração da sala: inspire-se!'
 date: 2016-09-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/15/decoracao-da-sala/
 permalink: /2016/09/15/decoracao-da-sala/

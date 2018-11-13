@@ -2,7 +2,7 @@
 id: 3511
 title: Dieta detox ajuda mesmo ou é modinha?
 date: 2015-11-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/12/dieta-detox/
 permalink: /2015/11/12/dieta-detox/

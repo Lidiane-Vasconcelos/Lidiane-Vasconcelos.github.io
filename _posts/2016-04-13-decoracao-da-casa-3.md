@@ -2,7 +2,7 @@
 id: 3586
 title: Como adicionar afeto à decoração da casa?
 date: 2016-04-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/13/decoracao-da-casa-3/
 permalink: /2016/04/13/decoracao-da-casa-3/

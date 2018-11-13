@@ -2,7 +2,7 @@
 id: 3784
 title: 'Relato de parto natural humanizado: nascimento de Angelo'
 date: 2017-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/16/parto-natural-humanizado/
 permalink: /2017/08/16/parto-natural-humanizado/

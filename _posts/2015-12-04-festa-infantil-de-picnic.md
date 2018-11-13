@@ -2,7 +2,7 @@
 id: 3520
 title: Ideias simples para uma festa infantil de picnic.
 date: 2015-12-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/04/festa-infantil-de-picnic/
 permalink: /2015/12/04/festa-infantil-de-picnic/

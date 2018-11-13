@@ -2,7 +2,7 @@
 id: 3172
 title: Resultado do sorteio da Cosmética Sustentável no Bicha Fêmea
 date: 2012-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/16/sorteio-cosmetica-sustentavel/
 permalink: /2012/08/16/sorteio-cosmetica-sustentavel/

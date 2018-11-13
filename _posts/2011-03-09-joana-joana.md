@@ -2,7 +2,7 @@
 id: 2959
 title: 'Prateleira do Bicha Fêmea: Joana Joana'
 date: 2011-03-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/09/joana-joana/
 permalink: /2011/03/09/joana-joana/

@@ -2,7 +2,7 @@
 id: 2780
 title: Da minha porção diva do lar. Como é a sua??
 date: 2010-02-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/04/dicas-tarefas-domesticas/
 permalink: /2010/02/04/dicas-tarefas-domesticas/

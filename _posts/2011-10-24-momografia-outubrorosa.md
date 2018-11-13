@@ -2,7 +2,7 @@
 id: 3067
 title: 'Mãe, faça a momografia por mim, sim? #outubrorosa'
 date: 2011-10-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/24/momografia-outubrorosa/
 permalink: /2011/10/24/momografia-outubrorosa/

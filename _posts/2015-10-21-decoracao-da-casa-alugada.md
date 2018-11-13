@@ -2,7 +2,7 @@
 id: 3500
 title: 'Decoração da casa alugada: ideias temporárias'
 date: 2015-10-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/21/decoracao-da-casa-alugada/
 permalink: /2015/10/21/decoracao-da-casa-alugada/

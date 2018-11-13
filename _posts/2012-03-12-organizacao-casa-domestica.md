@@ -2,7 +2,7 @@
 id: 3119
 title: Organize-se! Faça isso por seu bem-estar…
 date: 2012-03-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/12/organizacao-casa-domestica/
 permalink: /2012/03/12/organizacao-casa-domestica/

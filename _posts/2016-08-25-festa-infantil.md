@@ -2,7 +2,7 @@
 id: 3649
 title: 'Festa infantil ou quarto da cria: 2 ideias faça você mesma.'
 date: 2016-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/25/festa-infantil/
 permalink: /2016/08/25/festa-infantil/

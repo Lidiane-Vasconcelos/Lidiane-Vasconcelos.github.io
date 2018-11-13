@@ -2,7 +2,7 @@
 id: 3009
 title: Colorido nos armários da cozinha…fica bonito e inspirador!
 date: 2011-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/13/cozinha-moveis-cor/
 permalink: /2011/06/13/cozinha-moveis-cor/

@@ -2,7 +2,7 @@
 id: 3069
 title: 'Adesivos decorativos: decoração fácil, versátil e barata!'
 date: 2011-10-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/25/adesivos-decorativos-decoracao/
 permalink: /2011/10/25/adesivos-decorativos-decoracao/

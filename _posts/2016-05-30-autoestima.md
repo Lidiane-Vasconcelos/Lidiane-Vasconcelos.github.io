@@ -2,7 +2,7 @@
 id: 3618
 title: Medidas práticas pra restaurar sua autoestima… já!
 date: 2016-05-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/30/autoestima/
 permalink: /2016/05/30/autoestima/

@@ -2,7 +2,7 @@
 id: 3138
 title: Seu intestino está funcionando bem?
 date: 2012-06-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/18/intestino-funcionando-bem/
 permalink: /2012/06/18/intestino-funcionando-bem/

@@ -2,7 +2,7 @@
 id: 3742
 title: 'Calcinhas de algodão de bebê: 4 razões para usar.'
 date: 2017-03-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/22/calcinhas-de-algodao-de-bebe/
 permalink: /2017/03/22/calcinhas-de-algodao-de-bebe/

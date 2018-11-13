@@ -2,7 +2,7 @@
 id: 3502
 title: 'Câncer de mama: 3 coisas que toda paciente deve fazer'
 date: 2015-10-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/23/cancer-de-mama-4/
 permalink: /2015/10/23/cancer-de-mama-4/

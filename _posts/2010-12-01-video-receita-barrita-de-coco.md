@@ -2,7 +2,7 @@
 id: 2918
 title: 'Video-receita: Barrita de Coco'
 date: 2010-12-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/01/video-receita-barrita-de-coco/
 permalink: /2010/12/01/video-receita-barrita-de-coco/

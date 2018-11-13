@@ -2,7 +2,7 @@
 id: 3314
 title: 'Banheiro e revestimento: 4 ideias de paginação.'
 date: 2014-06-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/25/banheiro-revestimento/
 permalink: /2014/06/25/banheiro-revestimento/

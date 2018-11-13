@@ -2,7 +2,7 @@
 id: 3598
 title: 3 mesinhas de canto pra você viver de amores.
 date: 2016-04-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/28/mesas-de-canto/
 permalink: /2016/04/28/mesas-de-canto/

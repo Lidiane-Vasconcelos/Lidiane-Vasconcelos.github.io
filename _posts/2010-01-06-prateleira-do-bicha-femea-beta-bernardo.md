@@ -2,7 +2,7 @@
 id: 2758
 title: Prateleira do Bicha Fêmea – Beta Bernardo
 date: 2010-01-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/06/prateleira-do-bicha-femea-beta-bernardo/
 permalink: /2010/01/06/prateleira-do-bicha-femea-beta-bernardo/

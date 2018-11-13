@@ -2,7 +2,7 @@
 id: 3037
 title: 'Maquiagem: dicas, truques e pitacos by bichas fêmeas navegantes…'
 date: 2011-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/17/maquiagem-dicas-truques/
 permalink: /2011/08/17/maquiagem-dicas-truques/

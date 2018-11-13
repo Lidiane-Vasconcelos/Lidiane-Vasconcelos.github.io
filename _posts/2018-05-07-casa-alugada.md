@@ -2,7 +2,7 @@
 id: 3862
 title: Decoração de casa alugada, mas lar próprio.
 date: 2018-05-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/05/07/casa-alugada/
 permalink: /2018/05/07/casa-alugada/

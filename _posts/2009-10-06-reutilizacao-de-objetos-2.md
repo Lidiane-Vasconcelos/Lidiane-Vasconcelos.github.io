@@ -2,7 +2,7 @@
 id: 2709
 title: Reutilização De Objetos Com Novos Usos.
 date: 2009-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/06/reutilizacao-de-objetos-2/
 permalink: /2009/10/06/reutilizacao-de-objetos-2/

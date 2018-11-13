@@ -2,7 +2,7 @@
 id: 3485
 title: 'Purê de ervilha: bonito, saudável e nutritivo'
 date: 2015-09-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/16/pure-de-ervilha/
 permalink: /2015/09/16/pure-de-ervilha/

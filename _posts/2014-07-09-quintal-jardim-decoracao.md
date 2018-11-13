@@ -2,7 +2,7 @@
 id: 3310
 title: 3 ideias de decoração para quintal ou jardim.
 date: 2014-07-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/09/quintal-jardim-decoracao/
 permalink: /2014/07/09/quintal-jardim-decoracao/

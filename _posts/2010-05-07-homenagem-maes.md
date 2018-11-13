@@ -2,7 +2,7 @@
 id: 2812
 title: Por que as mães merecem homenagens?
 date: 2010-05-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/07/homenagem-maes/
 permalink: /2010/05/07/homenagem-maes/

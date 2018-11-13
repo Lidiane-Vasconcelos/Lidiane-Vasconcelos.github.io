@@ -2,7 +2,7 @@
 id: 3403
 title: 'Alimentação e nutrição: 7 dúvidas respondidas.'
 date: 2015-03-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/06/alimentacao-nutricao/
 permalink: /2015/03/06/alimentacao-nutricao/

@@ -2,7 +2,7 @@
 id: 3810
 title: 3 ideias cheias de charme para sua decoração natalina.
 date: 2017-10-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/03/decoracao-natalina-3/
 permalink: /2017/10/03/decoracao-natalina-3/

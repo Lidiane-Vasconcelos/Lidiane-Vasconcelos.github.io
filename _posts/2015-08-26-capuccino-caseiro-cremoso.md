@@ -2,7 +2,7 @@
 id: 3468
 title: 'Video Receita: capuccino caseiro cremoso.'
 date: 2015-08-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/26/capuccino-caseiro-cremoso/
 permalink: /2015/08/26/capuccino-caseiro-cremoso/

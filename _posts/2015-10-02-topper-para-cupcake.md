@@ -2,7 +2,7 @@
 id: 3494
 title: 'Festa infantil: como fazer topper para cupcake.'
 date: 2015-10-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/02/topper-para-cupcake/
 permalink: /2015/10/02/topper-para-cupcake/

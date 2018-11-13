@@ -2,7 +2,7 @@
 id: 3741
 title: 'Molho pesto de limão siciliano: mil e uma finalidades.'
 date: 2017-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/16/molho-pesto/
 permalink: /2017/03/16/molho-pesto/

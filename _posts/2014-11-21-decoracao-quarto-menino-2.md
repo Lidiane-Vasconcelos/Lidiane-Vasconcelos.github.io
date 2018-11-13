@@ -2,7 +2,7 @@
 id: 3366
 title: 'Decoração infantil: quarto de menino…ideias e inspirações.'
 date: 2014-11-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/21/decoracao-quarto-menino-2/
 permalink: /2014/11/21/decoracao-quarto-menino-2/

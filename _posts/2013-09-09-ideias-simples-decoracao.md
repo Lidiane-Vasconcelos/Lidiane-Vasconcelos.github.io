@@ -2,7 +2,7 @@
 id: 3258
 title: 2 ideias simples de decoração para copiar já!
 date: 2013-09-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/09/ideias-simples-decoracao/
 permalink: /2013/09/09/ideias-simples-decoracao/

@@ -2,7 +2,7 @@
 id: 3669
 title: '6 convites de aniversário infantil: faça você mesma.'
 date: 2016-09-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/21/convites-de-aniversario-infantil/
 permalink: /2016/09/21/convites-de-aniversario-infantil/

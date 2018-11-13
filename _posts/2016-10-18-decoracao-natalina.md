@@ -2,7 +2,7 @@
 id: 3687
 title: 4 dicas para decoração natalina nos cantinhos da casa.
 date: 2016-10-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/18/decoracao-natalina/
 permalink: /2016/10/18/decoracao-natalina/

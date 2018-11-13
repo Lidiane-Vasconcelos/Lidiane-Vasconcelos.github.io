@@ -2,7 +2,7 @@
 id: 2845
 title: 'Prateleira do Bicha Fêmea: Meu Jardim'
 date: 2010-07-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/28/prateleira-meu-jardim/
 permalink: /2010/07/28/prateleira-meu-jardim/

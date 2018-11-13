@@ -2,7 +2,7 @@
 id: 2681
 title: Tudo sobre maquiagem mineral
 date: 2009-07-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/08/maquiagem-mineral/
 permalink: /2009/07/08/maquiagem-mineral/

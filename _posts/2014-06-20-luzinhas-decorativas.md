@@ -2,7 +2,7 @@
 id: 3309
 title: 'Luzinhas decorativas para casa ou festa: como fazer?'
 date: 2014-06-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/20/luzinhas-decorativas/
 permalink: /2014/06/20/luzinhas-decorativas/

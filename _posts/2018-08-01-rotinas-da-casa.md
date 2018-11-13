@@ -2,7 +2,7 @@
 id: 3870
 title: Não falei que teríamos coisa boa?
 date: 2018-08-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/08/01/rotinas-da-casa/
 permalink: /2018/08/01/rotinas-da-casa/

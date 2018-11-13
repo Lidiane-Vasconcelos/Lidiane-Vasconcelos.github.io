@@ -2,7 +2,7 @@
 id: 3716
 title: 8 maneiras de preparar a casa para o Verão!
 date: 2016-12-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/21/preparar-a-casa-para-o-verao/
 permalink: /2016/12/21/preparar-a-casa-para-o-verao/

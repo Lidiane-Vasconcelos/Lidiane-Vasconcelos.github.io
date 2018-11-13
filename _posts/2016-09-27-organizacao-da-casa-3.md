@@ -2,7 +2,7 @@
 id: 3674
 title: '2º post da série para organização da casa: cozinha.'
 date: 2016-09-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/27/organizacao-da-casa-3/
 permalink: /2016/09/27/organizacao-da-casa-3/

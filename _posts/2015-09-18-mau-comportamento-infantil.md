@@ -2,7 +2,7 @@
 id: 3487
 title: O mau comportamento infantil ocorre em sua família?
 date: 2015-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/18/mau-comportamento-infantil/
 permalink: /2015/09/18/mau-comportamento-infantil/

@@ -2,7 +2,7 @@
 id: 3878
 title: Como exercitar o autocuidado, e ter mais produtividade?
 date: 2018-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: A produtividade depende do autocuidado na rotina, e para isso é preciso identificar e deixar ir o que não te faz bem. Como fazer mais do que a gente ama no dia a dia?
 layout: post
 guid: http://localhost/wordpress/2018/09/18/produtividade-5/

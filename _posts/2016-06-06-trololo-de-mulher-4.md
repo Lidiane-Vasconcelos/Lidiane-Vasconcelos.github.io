@@ -2,7 +2,7 @@
 id: 3622
 title: O que tem na Prateleira do Trololó de Mulher de Junho?
 date: 2016-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/06/trololo-de-mulher-4/
 permalink: /2016/06/06/trololo-de-mulher-4/

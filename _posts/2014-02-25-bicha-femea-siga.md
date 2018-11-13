@@ -2,7 +2,7 @@
 id: 3284
 title: 'Bicha Fêmea aqui e acolá: siga!'
 date: 2014-02-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/25/bicha-femea-siga/
 permalink: /2014/02/25/bicha-femea-siga/

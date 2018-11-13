@@ -2,7 +2,7 @@
 id: 3531
 title: 'Gestão do tempo e produtividade: 6 dicas pra fazer mais.'
 date: 2016-01-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/22/tempo-e-produtividade/
 permalink: /2016/01/22/tempo-e-produtividade/

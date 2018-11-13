@@ -2,7 +2,7 @@
 id: 3261
 title: 'Amarelo na decoração: como usar?'
 date: 2013-09-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/16/amarelo-na-decoracao/
 permalink: /2013/09/16/amarelo-na-decoracao/

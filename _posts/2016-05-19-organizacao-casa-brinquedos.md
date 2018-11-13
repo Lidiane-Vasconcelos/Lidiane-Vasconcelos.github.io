@@ -2,7 +2,7 @@
 id: 3612
 title: Suas crianças ajudam na organização da casa?
 date: 2016-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/19/organizacao-casa-brinquedos/
 permalink: /2016/05/19/organizacao-casa-brinquedos/

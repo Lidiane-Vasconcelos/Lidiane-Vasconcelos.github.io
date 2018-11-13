@@ -2,7 +2,7 @@
 id: 3832
 title: Veja 5 princípios éticos básicos e universais para bem viver.
 date: 2017-11-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/20/principios-eticos/
 permalink: /2017/11/20/principios-eticos/

@@ -2,7 +2,7 @@
 id: 2986
 title: 5 dicas para organizar seus produtos de beleza… inspire-se!
 date: 2011-04-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/29/organizar-produtos-beleza/
 permalink: /2011/04/29/organizar-produtos-beleza/

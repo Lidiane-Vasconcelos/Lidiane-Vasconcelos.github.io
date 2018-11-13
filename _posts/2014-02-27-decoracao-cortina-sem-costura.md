@@ -2,7 +2,7 @@
 id: 3282
 title: 'Decoração com cortina sem costura&#8230; e bem barata!'
 date: 2014-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/27/decoracao-cortina-sem-costura/
 permalink: /2014/02/27/decoracao-cortina-sem-costura/

@@ -2,7 +2,7 @@
 id: 3523
 title: Qual o gosto de 2015 pra você?
 date: 2015-12-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/21/qual-o-gosto-de-2015-pra-voce/
 permalink: /2015/12/21/qual-o-gosto-de-2015-pra-voce/

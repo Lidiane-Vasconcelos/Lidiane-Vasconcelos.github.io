@@ -2,7 +2,7 @@
 id: 2978
 title: Como combinar cores no quarto de meninos e meninas?
 date: 2011-04-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/18/cores-quarto-menino-menina/
 permalink: /2011/04/18/cores-quarto-menino-menina/

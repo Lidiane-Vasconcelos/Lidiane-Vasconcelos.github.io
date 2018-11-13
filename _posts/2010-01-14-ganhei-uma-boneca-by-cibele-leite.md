@@ -2,7 +2,7 @@
 id: 2763
 title: Ganhei uma boneca by Cibele Leite!!!
 date: 2010-01-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/14/ganhei-uma-boneca-by-cibele-leite/
 permalink: /2010/01/14/ganhei-uma-boneca-by-cibele-leite/

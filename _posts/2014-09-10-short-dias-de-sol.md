@@ -2,7 +2,7 @@
 id: 3341
 title: 'O bom e velho short: peça certeira nos dias de sol.'
 date: 2014-09-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/10/short-dias-de-sol/
 permalink: /2014/09/10/short-dias-de-sol/

@@ -2,7 +2,7 @@
 id: 3609
 title: 'Amarelo na decoração: 8 imagens com detalhes solares…'
 date: 2016-05-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/16/amarelo-na-decoracao-2/
 permalink: /2016/05/16/amarelo-na-decoracao-2/

@@ -2,7 +2,7 @@
 id: 3317
 title: Crianças de férias… e agora?
 date: 2014-07-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/11/ferias-dicas-brincadeiras/
 permalink: /2014/07/11/ferias-dicas-brincadeiras/

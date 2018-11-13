@@ -2,7 +2,7 @@
 id: 3177
 title: Quer saber como decorar com fotos?
 date: 2012-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/29/como-decorar-com-fotos/
 permalink: /2012/08/29/como-decorar-com-fotos/

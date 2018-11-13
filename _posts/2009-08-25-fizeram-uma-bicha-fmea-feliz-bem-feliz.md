@@ -2,7 +2,7 @@
 id: 2704
 title: Fizeram Uma Bicha Fêmea Feliz, Bem Feliz…
 date: 2009-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/25/fizeram-uma-bicha-fmea-feliz-bem-feliz/
 permalink: /2009/08/25/fizeram-uma-bicha-fmea-feliz-bem-feliz/

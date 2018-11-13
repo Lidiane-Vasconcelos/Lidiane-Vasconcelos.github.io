@@ -2,7 +2,7 @@
 id: 3392
 title: Coletânea de beleza pra você fazer bonito no Verão!!!
 date: 2015-02-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/09/beleza-no-verao/
 permalink: /2015/02/09/beleza-no-verao/

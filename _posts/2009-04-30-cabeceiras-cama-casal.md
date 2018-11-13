@@ -2,7 +2,7 @@
 id: 2654
 title: 'Decoração de quartos: cabeceiras.'
 date: 2009-04-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/30/cabeceiras-cama-casal/
 permalink: /2009/04/30/cabeceiras-cama-casal/

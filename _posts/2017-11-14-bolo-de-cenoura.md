@@ -2,7 +2,7 @@
 id: 3827
 title: Bolo de cenoura e abacaxi inspirado nos natais em família.
 date: 2017-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/14/bolo-de-cenoura/
 permalink: /2017/11/14/bolo-de-cenoura/

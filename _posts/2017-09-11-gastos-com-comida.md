@@ -2,7 +2,7 @@
 id: 3797
 title: Como reduzir gastos com comida.
 date: 2017-09-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/11/gastos-com-comida/
 permalink: /2017/09/11/gastos-com-comida/

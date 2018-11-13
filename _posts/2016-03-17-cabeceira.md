@@ -2,7 +2,7 @@
 id: 3564
 title: Qual a melhor cabeceira pra sua cama?
 date: 2016-03-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/17/cabeceira/
 permalink: /2016/03/17/cabeceira/

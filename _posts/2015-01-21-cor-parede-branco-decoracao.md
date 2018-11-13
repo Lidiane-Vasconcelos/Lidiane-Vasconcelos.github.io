@@ -2,7 +2,7 @@
 id: 3387
 title: Quer duas razões pra pintar suas paredes de branco?
 date: 2015-01-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/21/cor-parede-branco-decoracao/
 permalink: /2015/01/21/cor-parede-branco-decoracao/

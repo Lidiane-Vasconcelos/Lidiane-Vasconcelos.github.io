@@ -2,7 +2,7 @@
 id: 2655
 title: Mais algumas dicas de organização…
 date: 2009-05-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/04/dicas-organizacao/
 permalink: /2009/05/04/dicas-organizacao/

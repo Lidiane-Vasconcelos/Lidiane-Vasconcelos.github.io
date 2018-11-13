@@ -2,7 +2,7 @@
 id: 3096
 title: Você sabe como presentear aquela pessoa amada no Natal?
 date: 2011-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/15/presente-natal-compra-coletiva/
 permalink: /2011/12/15/presente-natal-compra-coletiva/

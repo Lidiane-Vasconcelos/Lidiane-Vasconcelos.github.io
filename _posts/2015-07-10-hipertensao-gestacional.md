@@ -2,7 +2,7 @@
 id: 3444
 title: 'Hipertensão Gestacional: entenda tudo de um jeito simples.'
 date: 2015-07-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/10/hipertensao-gestacional/
 permalink: /2015/07/10/hipertensao-gestacional/

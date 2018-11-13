@@ -2,7 +2,7 @@
 id: 2658
 title: O papel da mulher na sociedade moderna…
 date: 2009-05-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/13/papel-mulher/
 permalink: /2009/05/13/papel-mulher/

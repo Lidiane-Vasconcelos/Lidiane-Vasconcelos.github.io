@@ -2,7 +2,7 @@
 id: 2810
 title: 'Organização pessoal: você deixa as coisas acontecerem ou faz acontecer?'
 date: 2010-04-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/30/organizacao-pessoal/
 permalink: /2010/04/30/organizacao-pessoal/

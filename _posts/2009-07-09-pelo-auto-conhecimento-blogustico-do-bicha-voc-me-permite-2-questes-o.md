@@ -2,7 +2,7 @@
 id: 2682
 title: Pelo Auto-Conhecimento “Bloguístico” do Bicha, Você me Permite 2 Questões? :o
 date: 2009-07-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/09/pelo-auto-conhecimento-blogustico-do-bicha-voc-me-permite-2-questes-o/
 permalink: /2009/07/09/pelo-auto-conhecimento-blogustico-do-bicha-voc-me-permite-2-questes-o/

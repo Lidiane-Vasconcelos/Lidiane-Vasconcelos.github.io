@@ -2,7 +2,7 @@
 id: 2999
 title: 'Pesquisa online de compra e venda: você já usou essa facilidade?'
 date: 2011-05-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/26/pesquisa-online-preco/
 permalink: /2011/05/26/pesquisa-online-preco/

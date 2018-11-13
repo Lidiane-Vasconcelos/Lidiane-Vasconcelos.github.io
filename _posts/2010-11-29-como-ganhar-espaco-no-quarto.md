@@ -2,7 +2,7 @@
 id: 2917
 title: Como ganhar (e não perder) espaço em quartos pequenos?
 date: 2010-11-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/29/como-ganhar-espaco-no-quarto/
 permalink: /2010/11/29/como-ganhar-espaco-no-quarto/

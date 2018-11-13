@@ -2,7 +2,7 @@
 id: 2919
 title: 'Quarto de menino: decoração que acompanha o crescimento dele…'
 date: 2010-12-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/13/quarto-de-menino-decoracao/
 permalink: /2010/12/13/quarto-de-menino-decoracao/

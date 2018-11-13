@@ -2,7 +2,7 @@
 id: 3008
 title: 'Maquiagem: quando ela vira assunto de saúde?'
 date: 2011-06-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/08/maquiagem-saude-pele/
 permalink: /2011/06/08/maquiagem-saude-pele/

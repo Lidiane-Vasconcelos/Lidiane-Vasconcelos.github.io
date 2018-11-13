@@ -2,7 +2,7 @@
 id: 3463
 title: 'Vídeo receita batata doce assada: amor de vó.'
 date: 2015-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/12/video-receita-batata-doce-assada/
 permalink: /2015/08/12/video-receita-batata-doce-assada/

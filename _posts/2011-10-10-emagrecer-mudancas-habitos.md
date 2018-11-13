@@ -2,7 +2,7 @@
 id: 3062
 title: É possível emagrecer apenas com mudanças de hábitos?
 date: 2011-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/10/emagrecer-mudancas-habitos/
 permalink: /2011/10/10/emagrecer-mudancas-habitos/

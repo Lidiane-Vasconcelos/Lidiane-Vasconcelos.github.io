@@ -2,7 +2,7 @@
 id: 2629
 title: Regata Branca, Básica, Versátil…e Esquecida??????
 date: 2009-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/27/regata-branca-basica/
 permalink: /2009/02/27/regata-branca-basica/

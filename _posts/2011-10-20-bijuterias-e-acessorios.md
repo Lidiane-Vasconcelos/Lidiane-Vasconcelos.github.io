@@ -2,7 +2,7 @@
 id: 3066
 title: 'Bijuterias e acessórios: charme e glamour do look básico ao chique!'
 date: 2011-10-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/20/bijuterias-e-acessorios/
 permalink: /2011/10/20/bijuterias-e-acessorios/

@@ -2,7 +2,7 @@
 id: 3361
 title: Cuidados básicos e indispensáveis na rotina de beleza.
 date: 2014-10-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/29/cuidados-rotina-beleza/
 permalink: /2014/10/29/cuidados-rotina-beleza/

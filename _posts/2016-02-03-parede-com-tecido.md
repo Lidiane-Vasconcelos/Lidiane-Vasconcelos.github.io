@@ -2,7 +2,7 @@
 id: 3537
 title: Decore, você mesma, sua parede com tecido.
 date: 2016-02-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/03/parede-com-tecido/
 permalink: /2016/02/03/parede-com-tecido/

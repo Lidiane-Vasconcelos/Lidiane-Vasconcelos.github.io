@@ -2,7 +2,7 @@
 id: 2861
 title: 'Pitacos de bicha fêmea: decoração para quarto infantil'
 date: 2010-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/16/decoracao-quarto-infantil/
 permalink: /2010/08/16/decoracao-quarto-infantil/

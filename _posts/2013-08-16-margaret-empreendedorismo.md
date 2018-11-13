@@ -2,7 +2,7 @@
 id: 3251
 title: Qual é o mistério do sucesso da Margaret?
 date: 2013-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/16/margaret-empreendedorismo/
 permalink: /2013/08/16/margaret-empreendedorismo/

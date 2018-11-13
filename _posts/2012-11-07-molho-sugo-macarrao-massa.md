@@ -2,7 +2,7 @@
 id: 3206
 title: O Molho ao Sugo da Cláudia Ramalho eu já fiz…e ficou, oh…
 date: 2012-11-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/07/molho-sugo-macarrao-massa/
 permalink: /2012/11/07/molho-sugo-macarrao-massa/

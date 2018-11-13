@@ -2,7 +2,7 @@
 id: 3100
 title: 'Mãos e unhas: você trata as suas como elas merecem?'
 date: 2012-01-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/02/maos-e-unhas/
 permalink: /2012/01/02/maos-e-unhas/

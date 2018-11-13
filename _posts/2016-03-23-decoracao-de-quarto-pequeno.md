@@ -2,7 +2,7 @@
 id: 3565
 title: O que fazer na decoração de quarto pequeno?
 date: 2016-03-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/23/decoracao-de-quarto-pequeno/
 permalink: /2016/03/23/decoracao-de-quarto-pequeno/

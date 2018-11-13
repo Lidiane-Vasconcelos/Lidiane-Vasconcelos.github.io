@@ -2,7 +2,7 @@
 id: 3864
 title: 'Decoração econômica: como fazer mais, com menos?'
 date: 2018-05-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/05/22/decoracao-economica-3/
 permalink: /2018/05/22/decoracao-economica-3/

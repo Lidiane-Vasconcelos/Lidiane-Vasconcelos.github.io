@@ -2,7 +2,7 @@
 id: 3133
 title: 'Comida para a família e o coração: sopa e caldo'
 date: 2012-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/06/sopa-e-caldo/
 permalink: /2012/06/06/sopa-e-caldo/

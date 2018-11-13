@@ -2,7 +2,7 @@
 id: 2698
 title: Bicha Fêmea Convidada em Foco – Ruby
 date: 2009-08-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/14/convidada-ruby/
 permalink: /2009/08/14/convidada-ruby/

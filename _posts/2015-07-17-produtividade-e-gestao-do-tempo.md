@@ -2,7 +2,7 @@
 id: 3447
 title: 'Produtividade e gestão do tempo: chega de correria!'
 date: 2015-07-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/17/produtividade-e-gestao-do-tempo/
 permalink: /2015/07/17/produtividade-e-gestao-do-tempo/

@@ -2,7 +2,7 @@
 id: 2808
 title: Parceria Bicha Fêmea + Infinita Arte For Baby = Sorteio!!!
 date: 2010-04-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/19/parceria-bicha-femea-infinita-arte-for-baby-sorteio/
 permalink: /2010/04/19/parceria-bicha-femea-infinita-arte-for-baby-sorteio/

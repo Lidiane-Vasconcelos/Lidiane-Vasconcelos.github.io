@@ -2,7 +2,7 @@
 id: 3270
 title: 'Decoração com papel: fácil de fazer e bonito de ver.'
 date: 2013-10-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/25/decoracao-papel-enfeites/
 permalink: /2013/10/25/decoracao-papel-enfeites/

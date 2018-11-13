@@ -2,7 +2,7 @@
 id: 2819
 title: Você é confiante?
 date: 2010-05-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/21/auto-estima-confianca-mulher/
 permalink: /2010/05/21/auto-estima-confianca-mulher/

@@ -2,7 +2,7 @@
 id: 3299
 title: Você sabe tudo que precisa sobre batom?
 date: 2014-06-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/02/beleza-maquiagem-batom/
 permalink: /2014/06/02/beleza-maquiagem-batom/

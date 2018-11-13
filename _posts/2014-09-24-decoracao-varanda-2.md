@@ -2,7 +2,7 @@
 id: 3347
 title: '4 detalhes decorativos charmosos para sua varanda: ideias.'
 date: 2014-09-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/24/decoracao-varanda-2/
 permalink: /2014/09/24/decoracao-varanda-2/

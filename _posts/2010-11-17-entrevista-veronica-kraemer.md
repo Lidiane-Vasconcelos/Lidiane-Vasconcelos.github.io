@@ -2,7 +2,7 @@
 id: 2912
 title: 'Uma Bicha Fêmea por Outra: Veronica Kraemer'
 date: 2010-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/17/entrevista-veronica-kraemer/
 permalink: /2010/11/17/entrevista-veronica-kraemer/

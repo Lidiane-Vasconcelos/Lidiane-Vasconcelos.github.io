@@ -2,7 +2,7 @@
 id: 3809
 title: Como ter o cabelo cacheado que você curte?
 date: 2017-10-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/02/cabelo-cacheado-3/
 permalink: /2017/10/02/cabelo-cacheado-3/

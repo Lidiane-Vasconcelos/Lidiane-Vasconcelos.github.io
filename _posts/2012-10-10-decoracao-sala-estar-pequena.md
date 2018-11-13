@@ -2,7 +2,7 @@
 id: 3197
 title: 'Truques de decoração para sala de estar pequena: aprenda todos!'
 date: 2012-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/10/decoracao-sala-estar-pequena/
 permalink: /2012/10/10/decoracao-sala-estar-pequena/

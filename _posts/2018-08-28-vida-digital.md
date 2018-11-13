@@ -2,7 +2,7 @@
 id: 3875
 title: Como conseguir qualidade de vida digital?
 date: 2018-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: 'O medo de ficar por fora do que acontece online impacta diretamente na sua qualidade de vida digital.  Como atingir o equilíbrio? Descubra, neste post.'
 layout: post
 guid: http://localhost/wordpress/2018/08/28/vida-digital/

@@ -2,7 +2,7 @@
 id: 3077
 title: 'Filtros solares: além de proteção e saúde…'
 date: 2011-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/14/filtros-solares/
 permalink: /2011/11/14/filtros-solares/

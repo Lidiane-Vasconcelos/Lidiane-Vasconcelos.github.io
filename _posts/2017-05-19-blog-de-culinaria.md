@@ -2,7 +2,7 @@
 id: 3765
 title: Tânia Telva, o talento por trás de um blog de culinária incrível!
 date: 2017-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/19/blog-de-culinaria/
 permalink: /2017/05/19/blog-de-culinaria/

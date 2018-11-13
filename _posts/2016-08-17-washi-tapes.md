@@ -2,7 +2,7 @@
 id: 3645
 title: 'Washi tapes: 3 ideias de decoração “faça você mesma”.'
 date: 2016-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/17/washi-tapes/
 permalink: /2016/08/17/washi-tapes/

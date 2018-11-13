@@ -2,7 +2,7 @@
 id: 3129
 title: Enteados problemáticos podem causar a separação do casal?
 date: 2012-04-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/06/enteados-problematicos/
 permalink: /2012/04/06/enteados-problematicos/

@@ -2,7 +2,7 @@
 id: 2749
 title: Do Talento Que Eu Tenho Na Minha Arte. Qual O Seu?
 date: 2009-12-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/11/promocao-blog-luci/
 permalink: /2009/12/11/promocao-blog-luci/

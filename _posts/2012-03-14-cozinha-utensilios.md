@@ -2,7 +2,7 @@
 id: 3121
 title: A cozinha fica muito mais bonita assim…
 date: 2012-03-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/14/cozinha-utensilios/
 permalink: /2012/03/14/cozinha-utensilios/

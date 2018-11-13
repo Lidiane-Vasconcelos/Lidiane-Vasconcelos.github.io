@@ -2,7 +2,7 @@
 id: 3471
 title: Boa produtividade é realizar o essencial e eliminar o resto.
 date: 2015-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/28/produtividade/
 permalink: /2015/08/28/produtividade/

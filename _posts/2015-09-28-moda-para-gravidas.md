@@ -2,7 +2,7 @@
 id: 3486
 title: 'Moda para grávidas: o que favorece as futuras mamães?'
 date: 2015-09-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/28/moda-para-gravidas/
 permalink: /2015/09/28/moda-para-gravidas/

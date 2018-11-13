@@ -2,7 +2,7 @@
 id: 3339
 title: 4 segredos de beleza para aprender já!
 date: 2014-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/05/dicas-de-beleza-2/
 permalink: /2014/09/05/dicas-de-beleza-2/

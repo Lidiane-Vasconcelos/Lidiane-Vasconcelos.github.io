@@ -2,7 +2,7 @@
 id: 3166
 title: Alguma mulher resiste a uma nova aquisição de produto de beleza?
 date: 2012-08-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/06/produto-beleza-recomendado/
 permalink: /2012/08/06/produto-beleza-recomendado/

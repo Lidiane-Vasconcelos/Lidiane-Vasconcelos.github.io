@@ -2,7 +2,7 @@
 id: 3672
 title: Veja 10 truques pra colocar a Primavera na decoração.
 date: 2016-09-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/26/primavera-na-decoracao/
 permalink: /2016/09/26/primavera-na-decoracao/

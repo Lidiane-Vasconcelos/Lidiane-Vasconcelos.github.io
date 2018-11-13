@@ -2,7 +2,7 @@
 id: 3298
 title: 'Cabelos: saiba 5 verdades sobre saúde e beleza'
 date: 2014-05-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/27/cabelos-saude-e-beleza/
 permalink: /2014/05/27/cabelos-saude-e-beleza/

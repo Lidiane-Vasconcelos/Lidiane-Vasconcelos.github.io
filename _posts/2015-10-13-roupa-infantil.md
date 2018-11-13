@@ -2,7 +2,7 @@
 id: 3499
 title: 'Boduchinhos: roupa infantil que foge da mesmice.'
 date: 2015-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/13/roupa-infantil/
 permalink: /2015/10/13/roupa-infantil/

@@ -2,7 +2,7 @@
 id: 2937
 title: Um dia só para mim…
 date: 2011-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/17/um-dia-so-para-mim/
 permalink: /2011/01/17/um-dia-so-para-mim/

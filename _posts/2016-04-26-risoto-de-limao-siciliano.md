@@ -2,7 +2,7 @@
 id: 3597
 title: Risoto de limão siciliano com uvas assadas
 date: 2016-04-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/26/risoto-de-limao-siciliano/
 permalink: /2016/04/26/risoto-de-limao-siciliano/

@@ -2,7 +2,7 @@
 id: 3126
 title: Oportunidade! Mude sua decoração com adesivos pagando pouco…
 date: 2012-03-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/27/decoracao-adesivos-decorativos/
 permalink: /2012/03/27/decoracao-adesivos-decorativos/

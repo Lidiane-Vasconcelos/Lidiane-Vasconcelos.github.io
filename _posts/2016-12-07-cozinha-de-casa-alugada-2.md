@@ -2,7 +2,7 @@
 id: 3715
 title: 'Como ter uma cozinha de casa alugada mais bonita: 6 dicas.'
 date: 2016-12-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/07/cozinha-de-casa-alugada-2/
 permalink: /2016/12/07/cozinha-de-casa-alugada-2/

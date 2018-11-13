@@ -2,7 +2,7 @@
 id: 2795
 title: 'Uma Bicha Fêmea Por Outra: Ana Medeiros'
 date: 2010-03-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/24/ana-medeiros/
 permalink: /2010/03/24/ana-medeiros/

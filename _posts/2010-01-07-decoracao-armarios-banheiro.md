@@ -2,7 +2,7 @@
 id: 2759
 title: 'Pitacos de bicha fêmea: armários para banheiro.'
 date: 2010-01-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/07/decoracao-armarios-banheiro/
 permalink: /2010/01/07/decoracao-armarios-banheiro/

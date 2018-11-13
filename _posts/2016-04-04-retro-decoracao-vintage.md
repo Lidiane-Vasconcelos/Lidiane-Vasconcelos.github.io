@@ -2,7 +2,7 @@
 id: 3578
 title: Quer toques de decoração vintage em casa? Veja 7 dicas.
 date: 2016-04-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/04/retro-decoracao-vintage/
 permalink: /2016/04/04/retro-decoracao-vintage/

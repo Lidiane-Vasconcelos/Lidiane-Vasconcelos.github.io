@@ -2,7 +2,7 @@
 id: 2613
 title: Que tal um piquenique? Hein?
 date: 2009-02-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/01/piquenique/
 permalink: /2009/02/01/piquenique/

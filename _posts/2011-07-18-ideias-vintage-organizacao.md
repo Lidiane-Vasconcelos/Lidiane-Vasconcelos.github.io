@@ -2,7 +2,7 @@
 id: 3022
 title: 3 ideias vintage que organizam seu ateliê com charme. Inspire-se!
 date: 2011-07-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/18/ideias-vintage-organizacao/
 permalink: /2011/07/18/ideias-vintage-organizacao/

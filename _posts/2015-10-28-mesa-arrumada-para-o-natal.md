@@ -2,7 +2,7 @@
 id: 3505
 title: 'Mesa arrumada para o Natal: veja 8 ideias.'
 date: 2015-10-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/28/mesa-arrumada-para-o-natal/
 permalink: /2015/10/28/mesa-arrumada-para-o-natal/

@@ -2,7 +2,7 @@
 id: 3374
 title: 'Receita natalina: biscoitinho de gengibre e cardamomo'
 date: 2014-12-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/03/receita-natal-biscoito-caseiro/
 permalink: /2014/12/03/receita-natal-biscoito-caseiro/

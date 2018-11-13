@@ -2,7 +2,7 @@
 id: 2834
 title: 'Sorteio Bicha Fêmea &#038; CATAVENTO ARTES. Imperdível!!!!'
 date: 2010-06-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/14/sorteio-catavento-artes/
 permalink: /2010/06/14/sorteio-catavento-artes/

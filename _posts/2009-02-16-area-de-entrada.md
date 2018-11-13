@@ -2,7 +2,7 @@
 id: 2623
 title: Dicas para decoração da área de entrada (hall) de casa.
 date: 2009-02-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/16/area-de-entrada/
 permalink: /2009/02/16/area-de-entrada/

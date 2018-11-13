@@ -2,7 +2,7 @@
 id: 3614
 title: 'Apartamento pequeno com tudo para viver bem: é possível?'
 date: 2016-05-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/24/apartamento-pequeno-2/
 permalink: /2016/05/24/apartamento-pequeno-2/

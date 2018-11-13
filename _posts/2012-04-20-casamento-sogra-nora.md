@@ -2,7 +2,7 @@
 id: 3131
 title: Um casamento… e a sogra!
 date: 2012-04-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/20/casamento-sogra-nora/
 permalink: /2012/04/20/casamento-sogra-nora/

@@ -2,7 +2,7 @@
 id: 3558
 title: O que tem na Prateleira do Trololó de Mulher?
 date: 2016-03-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/08/trololo-de-mulher/
 permalink: /2016/03/08/trololo-de-mulher/

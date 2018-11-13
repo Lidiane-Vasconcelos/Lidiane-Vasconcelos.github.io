@@ -2,7 +2,7 @@
 id: 3423
 title: Dri… de volta pra Finlândia.
 date: 2015-05-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/15/dri-de-volta-pra-finlandia/
 permalink: /2015/05/15/dri-de-volta-pra-finlandia/

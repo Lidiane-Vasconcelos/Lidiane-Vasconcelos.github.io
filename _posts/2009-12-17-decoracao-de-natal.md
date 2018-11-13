@@ -2,7 +2,7 @@
 id: 2753
 title: Da decoração de Natal da bicha fêmea mor. Eu!!!!!
 date: 2009-12-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/17/decoracao-de-natal/
 permalink: /2009/12/17/decoracao-de-natal/

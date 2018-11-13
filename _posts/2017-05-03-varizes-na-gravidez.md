@@ -2,7 +2,7 @@
 id: 3758
 title: 'Varizes na gravidez: como minimizar o problema?'
 date: 2017-05-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/03/varizes-na-gravidez/
 permalink: /2017/05/03/varizes-na-gravidez/

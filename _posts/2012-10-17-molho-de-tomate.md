@@ -2,7 +2,7 @@
 id: 3200
 title: 'Você sabe preparar um molho de tomate SSS? [ATUALIZADO]'
 date: 2012-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/17/molho-de-tomate/
 permalink: /2012/10/17/molho-de-tomate/

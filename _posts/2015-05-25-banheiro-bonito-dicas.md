@@ -2,7 +2,7 @@
 id: 3427
 title: Como deixar o seu banheiro mais bonito em 4 dicas.
 date: 2015-05-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/25/banheiro-bonito-dicas/
 permalink: /2015/05/25/banheiro-bonito-dicas/

@@ -2,7 +2,7 @@
 id: 3353
 title: Como evitar o acúmulo e organizar o lar? Dicas práticas.
 date: 2014-10-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/08/acumulo-e-organizacao/
 permalink: /2014/10/08/acumulo-e-organizacao/

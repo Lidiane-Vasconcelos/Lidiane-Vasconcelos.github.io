@@ -2,7 +2,7 @@
 id: 3228
 title: Você continua firme e forte usando sua calça skinny?
 date: 2013-06-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/17/moda-inverno-2013-calca-skinny/
 permalink: /2013/06/17/moda-inverno-2013-calca-skinny/

@@ -2,7 +2,7 @@
 id: 3153
 title: Você sabe onde tem um salão de beleza bem pertinho de você?
 date: 2012-07-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/12/sao-paulo-guia/
 permalink: /2012/07/12/sao-paulo-guia/

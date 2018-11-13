@@ -2,7 +2,7 @@
 id: 2671
 title: 5 dicas de decoração sob medida para sua casa que tem pouco espaço.
 date: 2009-06-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/03/decoracao-espacos-pequenos/
 permalink: /2009/06/03/decoracao-espacos-pequenos/

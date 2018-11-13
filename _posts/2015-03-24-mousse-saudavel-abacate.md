@@ -2,7 +2,7 @@
 id: 3413
 title: Mousse de Abacate e Cacau em Pó
 date: 2015-03-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/24/mousse-saudavel-abacate/
 permalink: /2015/03/24/mousse-saudavel-abacate/

@@ -2,7 +2,7 @@
 id: 3149
 title: Dá para customizar uma cortina sem usar máquina de costura?
 date: 2012-07-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/18/cortina-decoracao/
 permalink: /2012/07/18/cortina-decoracao/

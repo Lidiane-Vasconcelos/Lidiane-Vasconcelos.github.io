@@ -2,7 +2,7 @@
 id: 3473
 title: 'Agenda São Paulo com crianças: Setembro!'
 date: 2015-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/28/sao-paulo-com-criancas-2/
 permalink: /2015/08/28/sao-paulo-com-criancas-2/

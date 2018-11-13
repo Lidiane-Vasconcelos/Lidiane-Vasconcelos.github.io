@@ -2,7 +2,7 @@
 id: 2935
 title: 'Quartos: soluções de decoração para ganhar espaço.'
 date: 2011-01-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/19/quartos-decoracao-pouco-espaco/
 permalink: /2011/01/19/quartos-decoracao-pouco-espaco/

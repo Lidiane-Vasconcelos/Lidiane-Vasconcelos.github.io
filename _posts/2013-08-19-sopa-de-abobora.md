@@ -2,7 +2,7 @@
 id: 3253
 title: 'Sopa de abóbora fácil, rápida e, oh: superultramega delícia!'
 date: 2013-08-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/19/sopa-de-abobora/
 permalink: /2013/08/19/sopa-de-abobora/

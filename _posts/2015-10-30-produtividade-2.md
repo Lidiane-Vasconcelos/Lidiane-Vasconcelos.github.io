@@ -2,7 +2,7 @@
 id: 3507
 title: 'Produtividade: 5 mulheres empreendedoras dão dicas top.'
 date: 2015-10-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/30/produtividade-2/
 permalink: /2015/10/30/produtividade-2/

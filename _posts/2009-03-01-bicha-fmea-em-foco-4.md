@@ -2,7 +2,7 @@
 id: 2630
 title: Bicha Fêmea em Foco
 date: 2009-03-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/01/bicha-fmea-em-foco-4/
 permalink: /2009/03/01/bicha-fmea-em-foco-4/

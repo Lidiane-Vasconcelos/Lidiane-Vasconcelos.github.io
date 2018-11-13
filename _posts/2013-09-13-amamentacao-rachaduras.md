@@ -2,7 +2,7 @@
 id: 3260
 title: Você amamentou? Tenho uma pergunta para você sobre rachaduras.
 date: 2013-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/13/amamentacao-rachaduras/
 permalink: /2013/09/13/amamentacao-rachaduras/

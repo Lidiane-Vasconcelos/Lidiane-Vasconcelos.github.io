@@ -2,7 +2,7 @@
 id: 2962
 title: Adoção, sim ou não?!
 date: 2011-03-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/03/adocao-sim-ou-nao/
 permalink: /2011/03/03/adocao-sim-ou-nao/

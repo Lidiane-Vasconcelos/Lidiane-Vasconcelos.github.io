@@ -2,7 +2,7 @@
 id: 3364
 title: 'Decoração de Natal: 4 centros de mesa simples, mas lindos!'
 date: 2014-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/03/decoracao-natal-mesa/
 permalink: /2014/11/03/decoracao-natal-mesa/

@@ -2,7 +2,7 @@
 id: 2960
 title: Resultado do sorteio da agenda by La Pomme no Bicha Fêmea.
 date: 2011-02-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/21/resultado-agenda-la-pomme/
 permalink: /2011/02/21/resultado-agenda-la-pomme/

@@ -2,7 +2,7 @@
 id: 2667
 title: Dicas de decoração para sua mesa de jantar no dia dos namorados.
 date: 2009-05-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/28/decoracao-mesa-noite-namorados/
 permalink: /2009/05/28/decoracao-mesa-noite-namorados/

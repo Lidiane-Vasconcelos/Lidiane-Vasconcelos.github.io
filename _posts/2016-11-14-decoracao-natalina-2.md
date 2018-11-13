@@ -2,7 +2,7 @@
 id: 3702
 title: 'Decoração natalina: inspiração das casas reais.'
 date: 2016-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/14/decoracao-natalina-2/
 permalink: /2016/11/14/decoracao-natalina-2/

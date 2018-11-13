@@ -2,7 +2,7 @@
 id: 3349
 title: Hamburguer de grão de bico facinho, facinho…
 date: 2014-10-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/01/hamburguer-saudavel/
 permalink: /2014/10/01/hamburguer-saudavel/

@@ -2,7 +2,7 @@
 id: 3433
 title: Acessórios servem ao seu estilo…
 date: 2015-06-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/18/acessorios-moda-estilo/
 permalink: /2015/06/18/acessorios-moda-estilo/

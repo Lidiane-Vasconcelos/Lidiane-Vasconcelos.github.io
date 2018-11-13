@@ -2,7 +2,7 @@
 id: 3785
 title: 'Caso de sucesso: o enfrentamento do bullying na Finlândia'
 date: 2017-08-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/18/bullying-na-finlandia/
 permalink: /2017/08/18/bullying-na-finlandia/

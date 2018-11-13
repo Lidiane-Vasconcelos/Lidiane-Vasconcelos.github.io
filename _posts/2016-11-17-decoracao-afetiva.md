@@ -2,7 +2,7 @@
 id: 3704
 title: Decoração afetiva é a que conta sua história.
 date: 2016-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/17/decoracao-afetiva/
 permalink: /2016/11/17/decoracao-afetiva/

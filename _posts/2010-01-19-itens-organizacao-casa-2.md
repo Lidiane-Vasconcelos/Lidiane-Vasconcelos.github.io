@@ -2,7 +2,7 @@
 id: 2768
 title: Dos meus itens que favorecem minha organização. Qual o seu?
 date: 2010-01-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/19/itens-organizacao-casa-2/
 permalink: /2010/01/19/itens-organizacao-casa-2/

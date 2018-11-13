@@ -2,7 +2,7 @@
 id: 2805
 title: 'Pitacos de bicha fêmea: sala de estar e de jantar.'
 date: 2010-04-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/09/sala-de-estar-e-de-jantar/
 permalink: /2010/04/09/sala-de-estar-e-de-jantar/

@@ -2,7 +2,7 @@
 id: 3402
 title: 'Bolo de Natal com nozes e iogurte: gostoso e saudável.'
 date: 2014-12-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/12/bolo-de-natal-com-nozes-e-iogurte-gostoso-e-saudavel/
 permalink: /2014/12/12/bolo-de-natal-com-nozes-e-iogurte-gostoso-e-saudavel/

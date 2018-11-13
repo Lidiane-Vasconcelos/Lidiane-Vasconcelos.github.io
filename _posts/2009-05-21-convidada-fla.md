@@ -2,7 +2,7 @@
 id: 2663
 title: Bicha Fêmea Convidada – Saber Revisado
 date: 2009-05-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/21/convidada-fla/
 permalink: /2009/05/21/convidada-fla/

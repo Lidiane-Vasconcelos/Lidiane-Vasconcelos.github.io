@@ -2,7 +2,7 @@
 id: 2718
 title: Atitudes que garantem um vida mais saudável.
 date: 2009-10-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/21/atitudes-vida-saudavel/
 permalink: /2009/10/21/atitudes-vida-saudavel/

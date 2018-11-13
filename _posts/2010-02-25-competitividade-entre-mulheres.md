@@ -2,7 +2,7 @@
 id: 2797
 title: Há competitividade entre as mulheres?
 date: 2010-02-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/02/25/competitividade-entre-mulheres/
 permalink: /2010/02/25/competitividade-entre-mulheres/

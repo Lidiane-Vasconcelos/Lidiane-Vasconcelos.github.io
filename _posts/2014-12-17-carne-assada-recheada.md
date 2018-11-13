@@ -2,7 +2,7 @@
 id: 3378
 title: Carne assada recheada com maçã e ameixa seca… delícia!
 date: 2014-12-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/17/carne-assada-recheada/
 permalink: /2014/12/17/carne-assada-recheada/

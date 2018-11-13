@@ -2,7 +2,7 @@
 id: 3145
 title: Você aprecia a culinária de outros países?
 date: 2012-06-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/29/comida-internacional/
 permalink: /2012/06/29/comida-internacional/

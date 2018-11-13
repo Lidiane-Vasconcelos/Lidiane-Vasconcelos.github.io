@@ -2,7 +2,7 @@
 id: 3529
 title: 'Detalhes em Foco: uma loja com cheirinho de bebê'
 date: 2016-01-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/19/detalhes-em-foco/
 permalink: /2016/01/19/detalhes-em-foco/

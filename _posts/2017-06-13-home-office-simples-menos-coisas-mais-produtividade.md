@@ -2,7 +2,7 @@
 id: 3774
 title: 'Home office simples: menos coisas, mais produtividade.'
 date: 2017-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/13/home-office-simples-menos-coisas-mais-produtividade/
 permalink: /2017/06/13/home-office-simples-menos-coisas-mais-produtividade/

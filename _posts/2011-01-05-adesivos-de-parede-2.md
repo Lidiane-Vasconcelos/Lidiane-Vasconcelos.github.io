@@ -2,7 +2,7 @@
 id: 2933
 title: Adesivos de parede
 date: 2011-01-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/05/adesivos-de-parede-2/
 permalink: /2011/01/05/adesivos-de-parede-2/

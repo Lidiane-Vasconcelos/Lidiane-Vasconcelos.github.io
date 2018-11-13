@@ -2,7 +2,7 @@
 id: 2950
 title: Resultado do sorteio Naturella no Bicha Fêmea.
 date: 2011-01-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/31/resultado-naturella/
 permalink: /2011/01/31/resultado-naturella/

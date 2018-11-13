@@ -2,7 +2,7 @@
 id: 3688
 title: '5º post da série para organização da casa: quarto infantil.'
 date: 2016-10-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/18/organizacao-da-casa-6/
 permalink: /2016/10/18/organizacao-da-casa-6/

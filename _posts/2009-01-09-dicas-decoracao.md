@@ -2,7 +2,7 @@
 id: 2601
 title: Dicas e estratégias em decoração.
 date: 2009-01-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/09/dicas-decoracao/
 permalink: /2009/01/09/dicas-decoracao/

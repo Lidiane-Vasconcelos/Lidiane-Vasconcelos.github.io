@@ -2,7 +2,7 @@
 id: 3061
 title: O talento na cozinha pode mesmo virar uma fonte de renda?
 date: 2011-10-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/07/empreendedorismo-cozinha/
 permalink: /2011/10/07/empreendedorismo-cozinha/

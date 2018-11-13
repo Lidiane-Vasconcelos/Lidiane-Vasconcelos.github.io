@@ -2,7 +2,7 @@
 id: 3646
 title: 'Cinza, lilás e turquesa: como usar cores na decoração?'
 date: 2016-08-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/22/cores-na-decoracao-3/
 permalink: /2016/08/22/cores-na-decoracao-3/

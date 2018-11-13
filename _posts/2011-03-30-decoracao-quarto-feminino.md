@@ -2,7 +2,7 @@
 id: 2973
 title: 5 ideias para uma decoração de quarto ainda mais feminina…
 date: 2011-03-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/30/decoracao-quarto-feminino/
 permalink: /2011/03/30/decoracao-quarto-feminino/

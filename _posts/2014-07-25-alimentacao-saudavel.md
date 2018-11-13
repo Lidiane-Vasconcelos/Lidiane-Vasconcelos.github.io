@@ -2,7 +2,7 @@
 id: 3326
 title: Me diz o que comes…e te direi se és saudável, ou não.
 date: 2014-07-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/25/alimentacao-saudavel/
 permalink: /2014/07/25/alimentacao-saudavel/

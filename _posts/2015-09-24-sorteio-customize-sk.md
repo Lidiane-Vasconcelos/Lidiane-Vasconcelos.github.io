@@ -2,7 +2,7 @@
 id: 3491
 title: Sorteio (simples de tudo) de relicário lindo de viver.
 date: 2015-09-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/24/sorteio-customize-sk/
 permalink: /2015/09/24/sorteio-customize-sk/

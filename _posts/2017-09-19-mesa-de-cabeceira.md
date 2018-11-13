@@ -2,7 +2,7 @@
 id: 3801
 title: Como decorar sua mesa de cabeceira?
 date: 2017-09-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/19/mesa-de-cabeceira/
 permalink: /2017/09/19/mesa-de-cabeceira/

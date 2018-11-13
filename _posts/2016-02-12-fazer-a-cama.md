@@ -2,7 +2,7 @@
 id: 3541
 title: 'Fazer a cama é bom e faz bem: você e a casa agradecem.'
 date: 2016-02-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/12/fazer-a-cama/
 permalink: /2016/02/12/fazer-a-cama/

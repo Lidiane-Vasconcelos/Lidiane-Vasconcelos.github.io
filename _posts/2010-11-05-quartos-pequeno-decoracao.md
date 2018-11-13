@@ -2,7 +2,7 @@
 id: 2905
 title: 'Quartos: soluções de decoração para pouco espaço.'
 date: 2010-11-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/05/quartos-pequeno-decoracao/
 permalink: /2010/11/05/quartos-pequeno-decoracao/

@@ -2,7 +2,7 @@
 id: 3092
 title: 'Acessórios para cabelos: o que passa na cabeça das bichas fêmeas?'
 date: 2011-12-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/12/acessorios-para-cabelos/
 permalink: /2011/12/12/acessorios-para-cabelos/

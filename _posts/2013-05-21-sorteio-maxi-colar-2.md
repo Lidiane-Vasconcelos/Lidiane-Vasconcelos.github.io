@@ -2,7 +2,7 @@
 id: 3229
 title: Será que dessa vez o colar vai para a casa de alguém?
 date: 2013-05-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/21/sorteio-maxi-colar-2/
 permalink: /2013/05/21/sorteio-maxi-colar-2/

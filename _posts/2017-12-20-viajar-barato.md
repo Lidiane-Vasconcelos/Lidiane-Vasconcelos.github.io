@@ -2,7 +2,7 @@
 id: 3846
 title: As 6 dicas fundamentais para você viajar barato.
 date: 2017-12-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/20/viajar-barato/
 permalink: /2017/12/20/viajar-barato/

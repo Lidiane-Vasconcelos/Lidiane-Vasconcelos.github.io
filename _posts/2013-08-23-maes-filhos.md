@@ -2,7 +2,7 @@
 id: 3246
 title: Quando a criança descobre a diversão de rabiscar na parede…
 date: 2013-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/23/maes-filhos/
 permalink: /2013/08/23/maes-filhos/

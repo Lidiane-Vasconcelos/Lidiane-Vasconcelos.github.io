@@ -2,7 +2,7 @@
 id: 3655
 title: Você sabe escolher o melhor móvel para sala pequena?
 date: 2016-08-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/31/movel-para-sala-pequena/
 permalink: /2016/08/31/movel-para-sala-pequena/

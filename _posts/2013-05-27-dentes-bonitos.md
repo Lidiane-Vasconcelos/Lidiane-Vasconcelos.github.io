@@ -2,7 +2,7 @@
 id: 3219
 title: 'Dentes bonitos e saudáveis: o que fazer e evitar?'
 date: 2013-05-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/27/dentes-bonitos/
 permalink: /2013/05/27/dentes-bonitos/

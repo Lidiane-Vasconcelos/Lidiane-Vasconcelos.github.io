@@ -2,7 +2,7 @@
 id: 3015
 title: 'Saúde da pele: é exagero usar tantos tipos de sabonete?'
 date: 2011-06-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/29/saude-beleza-da-pele/
 permalink: /2011/06/29/saude-beleza-da-pele/

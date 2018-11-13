@@ -2,7 +2,7 @@
 id: 3679
 title: Como fazer barra de cereal caseira?
 date: 2016-10-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/05/barra-de-cereal-caseira/
 permalink: /2016/10/05/barra-de-cereal-caseira/

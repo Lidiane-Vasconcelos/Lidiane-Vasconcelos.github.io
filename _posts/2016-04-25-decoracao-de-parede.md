@@ -2,7 +2,7 @@
 id: 3594
 title: Faltando algo naquele cantinho de parede?
 date: 2016-04-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/25/decoracao-de-parede/
 permalink: /2016/04/25/decoracao-de-parede/

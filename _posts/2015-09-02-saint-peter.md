@@ -2,7 +2,7 @@
 id: 3478
 title: Saint Peter ao forno ao molho de abóbora
 date: 2015-09-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/02/saint-peter/
 permalink: /2015/09/02/saint-peter/

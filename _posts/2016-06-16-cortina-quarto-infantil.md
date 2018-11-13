@@ -2,7 +2,7 @@
 id: 3629
 title: 'Cortina de bolinhas em quarto infantil: faça você mesma!'
 date: 2016-06-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/16/cortina-quarto-infantil/
 permalink: /2016/06/16/cortina-quarto-infantil/

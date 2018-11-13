@@ -2,7 +2,7 @@
 id: 2816
 title: 'Quando a gente resolve se casar&#8230;'
 date: 2010-05-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/14/casamento/
 permalink: /2010/05/14/casamento/

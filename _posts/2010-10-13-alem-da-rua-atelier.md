@@ -2,7 +2,7 @@
 id: 2890
 title: 'Prateleira do Bicha Fêmea: Além da Rua Atelier'
 date: 2010-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/13/alem-da-rua-atelier/
 permalink: /2010/10/13/alem-da-rua-atelier/

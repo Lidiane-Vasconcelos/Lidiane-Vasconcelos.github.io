@@ -2,7 +2,7 @@
 id: 3230
 title: Decoração com papel de parede, sem cobrir a parede?
 date: 2013-06-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/19/decoracao-papel-de-parede-3/
 permalink: /2013/06/19/decoracao-papel-de-parede-3/

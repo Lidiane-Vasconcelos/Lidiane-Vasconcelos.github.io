@@ -2,7 +2,7 @@
 id: 3525
 title: '9 ideias de sacolas de festa infantil: faça você mesma.'
 date: 2016-01-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/08/sacolas-de-festa-infantil/
 permalink: /2016/01/08/sacolas-de-festa-infantil/

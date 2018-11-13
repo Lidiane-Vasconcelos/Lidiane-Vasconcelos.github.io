@@ -2,7 +2,7 @@
 id: 2860
 title: Peripécias de uma mãe desesperada…
 date: 2010-08-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/13/peripecias-de-uma-mae/
 permalink: /2010/08/13/peripecias-de-uma-mae/

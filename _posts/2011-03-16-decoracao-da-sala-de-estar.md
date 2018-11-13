@@ -2,7 +2,7 @@
 id: 2972
 title: 'Decoração da sala de estar: cores e combinações.'
 date: 2011-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/16/decoracao-da-sala-de-estar/
 permalink: /2011/03/16/decoracao-da-sala-de-estar/

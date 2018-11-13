@@ -2,7 +2,7 @@
 id: 2877
 title: '35 anos de Carrefour no Brasil: seus bons momentos valem prêmios!'
 date: 2010-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/13/35-anos-carrefour/
 permalink: /2010/09/13/35-anos-carrefour/

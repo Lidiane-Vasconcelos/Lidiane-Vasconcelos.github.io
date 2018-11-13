@@ -2,7 +2,7 @@
 id: 3203
 title: 'Quando alguém te pergunta se você quer filhos&#8230;'
 date: 2012-10-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/26/filhos-maternidade-gravidez/
 permalink: /2012/10/26/filhos-maternidade-gravidez/

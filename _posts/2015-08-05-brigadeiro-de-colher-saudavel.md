@@ -2,7 +2,7 @@
 id: 3454
 title: 'Brigadeiro de colher saudável: xô, TPM!'
 date: 2015-08-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/05/brigadeiro-de-colher-saudavel/
 permalink: /2015/08/05/brigadeiro-de-colher-saudavel/

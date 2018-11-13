@@ -2,7 +2,7 @@
 id: 3675
 title: 'Mentira na infância: como lidar com essa situação?'
 date: 2016-09-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/28/mentira-na-infancia/
 permalink: /2016/09/28/mentira-na-infancia/

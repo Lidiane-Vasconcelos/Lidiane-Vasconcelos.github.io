@@ -2,7 +2,7 @@
 id: 3249
 title: Sofá neutro + almofadas coloridas = sucesso na decor da sala de estar
 date: 2013-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/02/sofa-almofada-sala-estar/
 permalink: /2013/08/02/sofa-almofada-sala-estar/

@@ -2,7 +2,7 @@
 id: 2888
 title: Promoção “Renove seu ambiente!” Grudado – adesivos decorativos + Bicha Fêmea
 date: 2010-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/06/promocao-grudado/
 permalink: /2010/10/06/promocao-grudado/

@@ -2,7 +2,7 @@
 id: 3545
 title: Faça seu banheiro pequeno parecer maior com 5 truques.
 date: 2016-02-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/19/banheiro-pequeno/
 permalink: /2016/02/19/banheiro-pequeno/

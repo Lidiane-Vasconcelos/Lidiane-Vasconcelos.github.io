@@ -2,7 +2,7 @@
 id: 2686
 title: 'Bicha Fêmea Convidada em Foco: Rosi Costa'
 date: 2009-07-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/14/convidadarosi-costa/
 permalink: /2009/07/14/convidadarosi-costa/

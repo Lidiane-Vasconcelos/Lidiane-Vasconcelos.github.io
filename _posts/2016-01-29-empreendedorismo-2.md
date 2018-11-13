@@ -2,7 +2,7 @@
 id: 3534
 title: 'Empreendedorismo: 6 maneiras de agir e nunca desistir.'
 date: 2016-01-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/29/empreendedorismo-2/
 permalink: /2016/01/29/empreendedorismo-2/

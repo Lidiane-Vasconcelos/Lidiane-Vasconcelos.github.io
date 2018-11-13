@@ -2,7 +2,7 @@
 id: 2993
 title: 'Mãos: segredos e cuidados das unhas, pele e afins…'
 date: 2011-05-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/16/cuidados-unhas-maos/
 permalink: /2011/05/16/cuidados-unhas-maos/

@@ -2,7 +2,7 @@
 id: 3445
 title: 'Moda Outono Inverno 2015: seu guarda-roupa inteligente.'
 date: 2015-07-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/13/moda-outono-inverno-2015/
 permalink: /2015/07/13/moda-outono-inverno-2015/

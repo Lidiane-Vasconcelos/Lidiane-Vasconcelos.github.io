@@ -2,7 +2,7 @@
 id: 3718
 title: Consultoria online de maquiagem pra ser você mesma.
 date: 2016-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/15/consultoria-online-de-maquiagem/
 permalink: /2016/12/15/consultoria-online-de-maquiagem/

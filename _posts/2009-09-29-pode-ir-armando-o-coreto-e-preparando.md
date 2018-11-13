@@ -2,7 +2,7 @@
 id: 2710
 title: “Pode Ir Armando o Coreto e Preparando…
 date: 2009-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/09/29/pode-ir-armando-o-coreto-e-preparando/
 permalink: /2009/09/29/pode-ir-armando-o-coreto-e-preparando/

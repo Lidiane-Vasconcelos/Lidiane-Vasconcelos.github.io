@@ -2,7 +2,7 @@
 id: 3262
 title: …da delícia que é o Ragu Apressadinho…
 date: 2013-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/18/receita-carne-ragu/
 permalink: /2013/09/18/receita-carne-ragu/

@@ -2,7 +2,7 @@
 id: 3397
 title: Ir a um congresso de moda sem sair de casa… pode?!
 date: 2015-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/23/congresso-moda-estilo/
 permalink: /2015/02/23/congresso-moda-estilo/

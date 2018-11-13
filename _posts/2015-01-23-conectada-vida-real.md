@@ -2,7 +2,7 @@
 id: 3391
 title: Você está conectada, mas com a vida real?
 date: 2015-01-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/23/conectada-vida-real/
 permalink: /2015/01/23/conectada-vida-real/

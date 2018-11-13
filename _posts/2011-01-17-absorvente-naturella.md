@@ -2,7 +2,7 @@
 id: 2938
 title: 'Novidade: absorvente Naturella. Quer experimentar?'
 date: 2011-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/17/absorvente-naturella/
 permalink: /2011/01/17/absorvente-naturella/

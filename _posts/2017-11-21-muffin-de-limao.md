@@ -2,7 +2,7 @@
 id: 3833
 title: Muffin de limão com sementes de papoula ou chia.
 date: 2017-11-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/21/muffin-de-limao/
 permalink: /2017/11/21/muffin-de-limao/

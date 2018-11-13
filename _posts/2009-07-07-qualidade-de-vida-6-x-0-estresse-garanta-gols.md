@@ -2,7 +2,7 @@
 id: 2680
 title: Qualidade de vida 6 X 0 Estresse. Garanta + Gols!!
 date: 2009-07-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/07/qualidade-de-vida-6-x-0-estresse-garanta-gols/
 permalink: /2009/07/07/qualidade-de-vida-6-x-0-estresse-garanta-gols/

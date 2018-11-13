@@ -2,7 +2,7 @@
 id: 2963
 title: Registre e Emagreça
 date: 2011-03-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/11/registre-e-emagreca/
 permalink: /2011/03/11/registre-e-emagreca/

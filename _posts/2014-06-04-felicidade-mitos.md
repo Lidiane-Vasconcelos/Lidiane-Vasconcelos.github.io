@@ -2,7 +2,7 @@
 id: 3300
 title: '3 “verdades” duvidosas que minam sua vida: fuja disso já!'
 date: 2014-06-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/04/felicidade-mitos/
 permalink: /2014/06/04/felicidade-mitos/

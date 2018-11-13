@@ -2,7 +2,7 @@
 id: 2932
 title: 'Mercado de Artes: encomendas só a partir de 04/04/2011.'
 date: 2011-01-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/03/artes-encomendas-abril/
 permalink: /2011/01/03/artes-encomendas-abril/

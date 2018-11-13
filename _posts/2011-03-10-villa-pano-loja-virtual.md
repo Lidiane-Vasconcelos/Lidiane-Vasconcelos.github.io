@@ -2,7 +2,7 @@
 id: 2967
 title: 'Villa Pano: loja virtual de design e decoração com muito mais que objetos bonitos!'
 date: 2011-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/10/villa-pano-loja-virtual/
 permalink: /2011/03/10/villa-pano-loja-virtual/

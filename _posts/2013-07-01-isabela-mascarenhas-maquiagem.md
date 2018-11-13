@@ -2,7 +2,7 @@
 id: 3232
 title: Apresentando… Isabela Mascarenhas e o Delineado Gatinho
 date: 2013-07-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/01/isabela-mascarenhas-maquiagem/
 permalink: /2013/07/01/isabela-mascarenhas-maquiagem/

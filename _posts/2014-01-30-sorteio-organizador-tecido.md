@@ -2,7 +2,7 @@
 id: 3277
 title: Hoje tem lançamento de sorteio de uma lindeza por aqui…
 date: 2014-01-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/30/sorteio-organizador-tecido/
 permalink: /2014/01/30/sorteio-organizador-tecido/

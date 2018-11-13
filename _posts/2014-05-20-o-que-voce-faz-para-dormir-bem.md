@@ -2,7 +2,7 @@
 id: 3296
 title: O que você faz para dormir bem?
 date: 2014-05-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/20/o-que-voce-faz-para-dormir-bem/
 permalink: /2014/05/20/o-que-voce-faz-para-dormir-bem/

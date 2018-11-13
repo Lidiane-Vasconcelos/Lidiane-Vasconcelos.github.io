@@ -2,7 +2,7 @@
 id: 2640
 title: O que é ser escrava da beleza?
 date: 2009-04-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/03/ditadura-da-beleza/
 permalink: /2009/04/03/ditadura-da-beleza/

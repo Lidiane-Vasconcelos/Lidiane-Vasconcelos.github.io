@@ -2,7 +2,7 @@
 id: 3385
 title: Cansaço ou estresse? Que nada! São seus hormônios!
 date: 2015-01-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/12/cansaco-estresse-hormonios/
 permalink: /2015/01/12/cansaco-estresse-hormonios/

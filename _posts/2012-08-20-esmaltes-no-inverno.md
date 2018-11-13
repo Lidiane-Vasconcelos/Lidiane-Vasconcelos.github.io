@@ -2,7 +2,7 @@
 id: 3174
 title: Você é das que se rendem aos tons fechados de esmaltes no inverno?
 date: 2012-08-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/20/esmaltes-no-inverno/
 permalink: /2012/08/20/esmaltes-no-inverno/

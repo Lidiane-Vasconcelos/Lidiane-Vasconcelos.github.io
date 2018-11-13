@@ -2,7 +2,7 @@
 id: 2737
 title: Da graça que há no meu notebook e no Twitter…
 date: 2009-11-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/19/meu-notebook-e-twitter/
 permalink: /2009/11/19/meu-notebook-e-twitter/

@@ -2,7 +2,7 @@
 id: 3049
 title: 'Verão á vista: como evitar a acne e garantir a beleza da pele?'
 date: 2011-09-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/12/acne-beleza-pele/
 permalink: /2011/09/12/acne-beleza-pele/

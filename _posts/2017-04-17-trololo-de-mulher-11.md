@@ -2,7 +2,7 @@
 id: 3752
 title: 'Prateleira do Trololó de Mulher de Abril: pra viver no amor.'
 date: 2017-04-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/17/trololo-de-mulher-11/
 permalink: /2017/04/17/trololo-de-mulher-11/

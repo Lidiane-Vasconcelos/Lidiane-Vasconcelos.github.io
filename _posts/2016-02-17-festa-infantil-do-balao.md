@@ -2,7 +2,7 @@
 id: 3543
 title: 'Festa infantil do balão: ideias lindas de viver.'
 date: 2016-02-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/17/festa-infantil-do-balao/
 permalink: /2016/02/17/festa-infantil-do-balao/

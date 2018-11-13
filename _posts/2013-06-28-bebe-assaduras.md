@@ -2,7 +2,7 @@
 id: 3239
 title: 'Bebê sem assaduras: é possível sim, mamãe!'
 date: 2013-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/28/bebe-assaduras/
 permalink: /2013/06/28/bebe-assaduras/

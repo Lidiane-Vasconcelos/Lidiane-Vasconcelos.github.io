@@ -2,7 +2,7 @@
 id: 3307
 title: A blogosfera transforma?
 date: 2014-06-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/11/a-blogosfera-transforma/
 permalink: /2014/06/11/a-blogosfera-transforma/

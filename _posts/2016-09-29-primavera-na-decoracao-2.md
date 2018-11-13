@@ -2,7 +2,7 @@
 id: 3676
 title: 'Primavera na decoração: duas dicas adicionais.'
 date: 2016-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/29/primavera-na-decoracao-2/
 permalink: /2016/09/29/primavera-na-decoracao-2/

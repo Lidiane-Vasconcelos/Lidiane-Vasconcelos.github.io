@@ -2,7 +2,7 @@
 id: 2981
 title: Evite 6 erros e seu cabelo cacheado ficará lindo no dia a dia!
 date: 2011-04-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/20/cabelo-cacheado-2/
 permalink: /2011/04/20/cabelo-cacheado-2/

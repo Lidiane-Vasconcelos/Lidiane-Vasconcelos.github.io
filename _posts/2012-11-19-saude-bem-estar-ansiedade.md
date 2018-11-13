@@ -2,7 +2,7 @@
 id: 3212
 title: Mulher, alimentos e ansiedade… há algo familiar nisso?
 date: 2012-11-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/19/saude-bem-estar-ansiedade/
 permalink: /2012/11/19/saude-bem-estar-ansiedade/

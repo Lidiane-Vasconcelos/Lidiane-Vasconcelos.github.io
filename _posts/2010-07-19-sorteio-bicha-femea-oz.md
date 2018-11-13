@@ -2,7 +2,7 @@
 id: 2850
 title: 'Parceria Bicha Fêmea &#038; OZ! = Quem ganha na organização é você!'
 date: 2010-07-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/19/sorteio-bicha-femea-oz/
 permalink: /2010/07/19/sorteio-bicha-femea-oz/

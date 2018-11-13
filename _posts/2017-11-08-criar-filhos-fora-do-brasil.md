@@ -2,7 +2,7 @@
 id: 3825
 title: 'Sobre criar filhos fora do Brasil: bilinguismo.'
 date: 2017-11-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/08/criar-filhos-fora-do-brasil/
 permalink: /2017/11/08/criar-filhos-fora-do-brasil/

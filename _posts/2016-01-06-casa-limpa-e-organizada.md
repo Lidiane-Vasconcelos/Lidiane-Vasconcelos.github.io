@@ -2,7 +2,7 @@
 id: 3524
 title: Casa limpa e organizada com menos esforço? 11 dicas.
 date: 2016-01-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/06/casa-limpa-e-organizada/
 permalink: /2016/01/06/casa-limpa-e-organizada/

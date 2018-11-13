@@ -2,7 +2,7 @@
 id: 3141
 title: 'Flores Online: enviar flores pela internet é possível!'
 date: 2012-06-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/26/flores-online/
 permalink: /2012/06/26/flores-online/

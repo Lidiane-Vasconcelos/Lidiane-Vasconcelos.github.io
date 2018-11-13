@@ -2,7 +2,7 @@
 id: 3637
 title: Hora da amamentação!
 date: 2016-08-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/05/amamentacao/
 permalink: /2016/08/05/amamentacao/

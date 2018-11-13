@@ -2,7 +2,7 @@
 id: 3555
 title: 'Decoração de cozinha pequena: dicas e imagens.'
 date: 2016-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/07/decoracao-de-cozinha-pequena/
 permalink: /2016/03/07/decoracao-de-cozinha-pequena/

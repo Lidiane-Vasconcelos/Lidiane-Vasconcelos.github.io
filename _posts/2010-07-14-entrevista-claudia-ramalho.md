@@ -2,7 +2,7 @@
 id: 2846
 title: 'Uma Bicha Fêmea por Outra: Cláudia Ramalho'
 date: 2010-07-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/14/entrevista-claudia-ramalho/
 permalink: /2010/07/14/entrevista-claudia-ramalho/

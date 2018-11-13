@@ -2,7 +2,7 @@
 id: 3168
 title: Temperinho bom na salada? Coloca vinagre aí, bonita!
 date: 2012-08-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/08/salada-vinagre/
 permalink: /2012/08/08/salada-vinagre/

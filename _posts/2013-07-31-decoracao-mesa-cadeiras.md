@@ -2,7 +2,7 @@
 id: 3243
 title: Comer á mesa em cadeiras coloridas é mais divertido?
 date: 2013-07-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/31/decoracao-mesa-cadeiras/
 permalink: /2013/07/31/decoracao-mesa-cadeiras/

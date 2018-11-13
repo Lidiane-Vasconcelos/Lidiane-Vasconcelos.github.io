@@ -2,7 +2,7 @@
 id: 2743
 title: Dicas para a decoração das salas no Natal.
 date: 2009-12-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/01/dicas-decoracao-de-natal/
 permalink: /2009/12/01/dicas-decoracao-de-natal/

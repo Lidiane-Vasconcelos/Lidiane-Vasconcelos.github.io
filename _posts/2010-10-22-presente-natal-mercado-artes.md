@@ -2,7 +2,7 @@
 id: 2894
 title: 'Presentes de Natal: que tal as novidades do Mercado de Artes?'
 date: 2010-10-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/22/presente-natal-mercado-artes/
 permalink: /2010/10/22/presente-natal-mercado-artes/

@@ -2,7 +2,7 @@
 id: 3732
 title: 'Preparando a festa de batizado: dicas, ideias e sugestões.'
 date: 2017-03-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/09/festa-de-batizado/
 permalink: /2017/03/09/festa-de-batizado/

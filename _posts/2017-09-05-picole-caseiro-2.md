@@ -2,7 +2,7 @@
 id: 3794
 title: Picolé caseiro de tangerina assada, com gengibre e iogurte.
 date: 2017-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/05/picole-caseiro-2/
 permalink: /2017/09/05/picole-caseiro-2/

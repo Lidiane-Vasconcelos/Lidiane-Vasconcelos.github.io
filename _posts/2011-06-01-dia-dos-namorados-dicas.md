@@ -2,7 +2,7 @@
 id: 3005
 title: O que fazer no dia dos namorados?
 date: 2011-06-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/01/dia-dos-namorados-dicas/
 permalink: /2011/06/01/dia-dos-namorados-dicas/

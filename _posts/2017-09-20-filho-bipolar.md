@@ -2,7 +2,7 @@
 id: 3803
 title: Como ajudar seu filho bipolar? Comece por você!
 date: 2017-09-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/20/filho-bipolar/
 permalink: /2017/09/20/filho-bipolar/

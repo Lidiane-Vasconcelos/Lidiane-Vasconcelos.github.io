@@ -2,7 +2,7 @@
 id: 3056
 title: Como decorar uma casa alugada gastando menos? Dicas, sugestões e pitacos…
 date: 2011-09-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/27/decorar-casa-alugada/
 permalink: /2011/09/27/decorar-casa-alugada/

@@ -2,7 +2,7 @@
 id: 3171
 title: Decoração “faça você mesma” bem barata? É com a Keilla Colombo!
 date: 2012-08-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/15/decoracao-faca-voce-mesma-5/
 permalink: /2012/08/15/decoracao-faca-voce-mesma-5/

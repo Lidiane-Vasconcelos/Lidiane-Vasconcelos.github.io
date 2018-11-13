@@ -2,7 +2,7 @@
 id: 3007
 title: Como organizar um home office?
 date: 2011-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/06/dicas-organizacao-3/
 permalink: /2011/06/06/dicas-organizacao-3/

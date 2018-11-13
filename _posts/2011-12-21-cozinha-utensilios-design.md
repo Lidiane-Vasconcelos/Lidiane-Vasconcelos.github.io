@@ -2,7 +2,7 @@
 id: 3098
 title: Cozinha com estilo e design… quem não quer?
 date: 2011-12-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/21/cozinha-utensilios-design/
 permalink: /2011/12/21/cozinha-utensilios-design/

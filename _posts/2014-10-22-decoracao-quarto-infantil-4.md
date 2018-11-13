@@ -2,7 +2,7 @@
 id: 3360
 title: 'Decoração do quarto infantil: 2 ideias “faça você mesma”.'
 date: 2014-10-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/22/decoracao-quarto-infantil-4/
 permalink: /2014/10/22/decoracao-quarto-infantil-4/

@@ -2,7 +2,7 @@
 id: 3570
 title: '2 quartos de bebê menino: neutros, calmos e serenos.'
 date: 2016-03-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/29/quartos-de-bebe-menino/
 permalink: /2016/03/29/quartos-de-bebe-menino/

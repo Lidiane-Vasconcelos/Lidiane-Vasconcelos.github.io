@@ -2,7 +2,7 @@
 id: 2988
 title: 'Uma bicha fêmea por outra: Rejane Batista'
 date: 2011-05-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/04/rejane-batista-casa-corpo-cia/
 permalink: /2011/05/04/rejane-batista-casa-corpo-cia/

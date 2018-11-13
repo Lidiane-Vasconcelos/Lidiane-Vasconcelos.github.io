@@ -2,7 +2,7 @@
 id: 3001
 title: 6 ideias de decoração para mudar o seu quarto…
 date: 2011-05-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/25/ideias-decoracao-quarto-2/
 permalink: /2011/05/25/ideias-decoracao-quarto-2/

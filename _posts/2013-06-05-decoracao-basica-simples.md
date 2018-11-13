@@ -2,7 +2,7 @@
 id: 3222
 title: 'Decoração básica com graça e charme: aprenda os truques!'
 date: 2013-06-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/05/decoracao-basica-simples/
 permalink: /2013/06/05/decoracao-basica-simples/

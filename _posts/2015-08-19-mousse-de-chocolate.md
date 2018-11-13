@@ -2,7 +2,7 @@
 id: 3466
 title: Mousse de chocolate com café… porque merecemos!
 date: 2015-08-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/19/mousse-de-chocolate/
 permalink: /2015/08/19/mousse-de-chocolate/

@@ -2,7 +2,7 @@
 id: 3207
 title: Você é daquelas que acreditam nunca acertar em suas relações amorosas?
 date: 2012-11-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/09/relacoes-amorosas/
 permalink: /2012/11/09/relacoes-amorosas/

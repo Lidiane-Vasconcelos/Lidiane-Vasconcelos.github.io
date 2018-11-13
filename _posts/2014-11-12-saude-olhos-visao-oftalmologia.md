@@ -2,7 +2,7 @@
 id: 3370
 title: 'Saúde dos olhos: saiba 5 verdades simples e básicas!'
 date: 2014-11-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/12/saude-olhos-visao-oftalmologia/
 permalink: /2014/11/12/saude-olhos-visao-oftalmologia/

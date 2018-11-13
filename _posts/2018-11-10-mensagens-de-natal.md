@@ -2,7 +2,7 @@
 id: 3713
 title: Envie carinho através de mensagens de Natal online!
 date: 2018-11-10T11:31:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/?p=3713
 permalink: /2018/11/10/mensagens-de-natal/

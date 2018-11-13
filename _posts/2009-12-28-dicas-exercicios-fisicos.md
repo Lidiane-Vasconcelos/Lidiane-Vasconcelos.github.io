@@ -2,7 +2,7 @@
 id: 2755
 title: Dicas para automotivação na prática de exercícios físicos.
 date: 2009-12-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/28/dicas-exercicios-fisicos/
 permalink: /2009/12/28/dicas-exercicios-fisicos/

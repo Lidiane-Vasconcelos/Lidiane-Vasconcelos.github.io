@@ -2,7 +2,7 @@
 id: 3610
 title: 'Organize a casa em 5 minutos: 9 dicas pra aplicar já!'
 date: 2016-05-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/17/organizacao-da-casa/
 permalink: /2016/05/17/organizacao-da-casa/

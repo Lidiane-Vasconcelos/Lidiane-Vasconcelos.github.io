@@ -2,7 +2,7 @@
 id: 3762
 title: O que te faz mal? Identifique, e torne a vida simples.
 date: 2017-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/12/vida-simples-2/
 permalink: /2017/05/12/vida-simples-2/

@@ -2,7 +2,7 @@
 id: 3393
 title: 'Suflê de abobrinha com hortelã: bonito, gostoso e saudável.'
 date: 2015-02-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/11/sufle-abobrinha-hortela/
 permalink: /2015/02/11/sufle-abobrinha-hortela/

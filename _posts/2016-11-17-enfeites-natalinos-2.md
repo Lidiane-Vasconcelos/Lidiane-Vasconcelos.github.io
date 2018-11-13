@@ -2,7 +2,7 @@
 id: 3705
 title: '3 cordões de enfeites natalinos: faça você mesma'
 date: 2016-11-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/17/enfeites-natalinos-2/
 permalink: /2016/11/17/enfeites-natalinos-2/

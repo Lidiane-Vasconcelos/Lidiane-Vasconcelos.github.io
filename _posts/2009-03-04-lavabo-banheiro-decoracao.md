@@ -2,7 +2,7 @@
 id: 2632
 title: Lavabo e Banheiro Charmosos by Bichas Fêmeas
 date: 2009-03-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/04/lavabo-banheiro-decoracao/
 permalink: /2009/03/04/lavabo-banheiro-decoracao/

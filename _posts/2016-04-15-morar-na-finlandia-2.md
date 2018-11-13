@@ -2,7 +2,7 @@
 id: 3591
 title: 'Casar e morar na Finlândia: o amor colocado à prova!'
 date: 2016-04-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/15/morar-na-finlandia-2/
 permalink: /2016/04/15/morar-na-finlandia-2/

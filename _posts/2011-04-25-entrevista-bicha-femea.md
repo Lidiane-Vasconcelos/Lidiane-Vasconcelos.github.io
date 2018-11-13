@@ -2,7 +2,7 @@
 id: 2983
 title: Queria dividir uma alegria contigo…
 date: 2011-04-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/25/entrevista-bicha-femea/
 permalink: /2011/04/25/entrevista-bicha-femea/

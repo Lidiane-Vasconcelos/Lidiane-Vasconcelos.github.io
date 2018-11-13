@@ -2,7 +2,7 @@
 id: 3753
 title: Bolo de alecrim… e a delícia de experimentar o novo!
 date: 2017-04-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/18/bolo-de-alecrim/
 permalink: /2017/04/18/bolo-de-alecrim/

@@ -2,7 +2,7 @@
 id: 3481
 title: 'Agenda Recife com crianças: 05, 06 e 07 de Setembro.'
 date: 2015-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/04/recife-com-criancas-3/
 permalink: /2015/09/04/recife-com-criancas-3/

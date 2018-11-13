@@ -2,7 +2,7 @@
 id: 3225
 title: Saiu o resultado do sorteio do MaxiColar Sandra Arruda…
 date: 2013-05-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/16/resultado-sorteio-maxicolar/
 permalink: /2013/05/16/resultado-sorteio-maxicolar/

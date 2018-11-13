@@ -2,7 +2,7 @@
 id: 2622
 title: 'Novos usos de objetos na decoração: vasos diferentes para flores'
 date: 2009-02-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/15/vasos-diferentes-flores/
 permalink: /2009/02/15/vasos-diferentes-flores/

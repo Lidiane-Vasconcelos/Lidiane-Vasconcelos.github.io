@@ -2,7 +2,7 @@
 id: 2858
 title: 'Parceria Bicha Fêmea &#038; Mirepoix = presente para as apaixonadas por cupcakes!'
 date: 2010-08-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/09/parceria-bicha-femea-mirepoix/
 permalink: /2010/08/09/parceria-bicha-femea-mirepoix/

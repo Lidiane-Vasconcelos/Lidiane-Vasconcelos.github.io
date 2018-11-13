@@ -2,7 +2,7 @@
 id: 3255
 title: 'Resultado do sorteio da blogagem coletiva [ATUALIZADO]'
 date: 2013-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/29/resultado-do-sorteio-2/
 permalink: /2013/08/29/resultado-do-sorteio-2/

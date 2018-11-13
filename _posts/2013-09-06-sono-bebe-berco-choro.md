@@ -2,7 +2,7 @@
 id: 3257
 title: 'Quando a criança não quer dormir no berço: deixar chorar ou não?'
 date: 2013-09-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/06/sono-bebe-berco-choro/
 permalink: /2013/09/06/sono-bebe-berco-choro/

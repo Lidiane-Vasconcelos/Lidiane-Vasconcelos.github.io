@@ -2,7 +2,7 @@
 id: 3358
 title: Há fotos… e fotos que inspiram.
 date: 2014-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/17/fotos-fotografia/
 permalink: /2014/10/17/fotos-fotografia/

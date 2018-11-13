@@ -2,7 +2,7 @@
 id: 3379
 title: Da decoração de Natal (fraquinha) na terra do papai noel
 date: 2014-12-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/19/decoracao-natal-finlandia/
 permalink: /2014/12/19/decoracao-natal-finlandia/

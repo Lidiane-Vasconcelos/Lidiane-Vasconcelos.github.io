@@ -2,7 +2,7 @@
 id: 3087
 title: 'Resultado dos sorteios Bicha Fêmea &#038; Parceiros entre amigas!'
 date: 2011-12-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/02/sorteios-entre-amigas/
 permalink: /2011/12/02/sorteios-entre-amigas/

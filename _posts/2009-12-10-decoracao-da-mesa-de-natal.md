@@ -2,7 +2,7 @@
 id: 2748
 title: Dica para a decoração da mesa da sala de jantar no Natal
 date: 2009-12-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/10/decoracao-da-mesa-de-natal/
 permalink: /2009/12/10/decoracao-da-mesa-de-natal/

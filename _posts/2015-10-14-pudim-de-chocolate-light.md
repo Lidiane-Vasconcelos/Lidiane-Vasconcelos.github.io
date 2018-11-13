@@ -2,7 +2,7 @@
 id: 3497
 title: Pudim de chocolate light
 date: 2015-10-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/14/pudim-de-chocolate-light/
 permalink: /2015/10/14/pudim-de-chocolate-light/

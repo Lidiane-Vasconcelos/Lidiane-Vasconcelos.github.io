@@ -2,7 +2,7 @@
 id: 3030
 title: 'Móvel usado e antigo: dá mesmo para repaginá-lo?'
 date: 2011-08-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/01/movel-usado-antigo-restauracao/
 permalink: /2011/08/01/movel-usado-antigo-restauracao/

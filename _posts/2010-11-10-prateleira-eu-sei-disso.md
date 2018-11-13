@@ -2,7 +2,7 @@
 id: 2907
 title: 'Prateleira do Bicha Fêmea : Eu sei disso…'
 date: 2010-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/10/prateleira-eu-sei-disso/
 permalink: /2010/11/10/prateleira-eu-sei-disso/

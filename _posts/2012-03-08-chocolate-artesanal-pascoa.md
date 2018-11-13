@@ -2,7 +2,7 @@
 id: 3120
 title: 'Josefina Chocolates: quando sabor, requinte e beleza se encontram…'
 date: 2012-03-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/08/chocolate-artesanal-pascoa/
 permalink: /2012/03/08/chocolate-artesanal-pascoa/

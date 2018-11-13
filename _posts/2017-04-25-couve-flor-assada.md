@@ -2,7 +2,7 @@
 id: 3754
 title: Couve-flor assada com temperinhos… pra variar.
 date: 2017-04-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/25/couve-flor-assada/
 permalink: /2017/04/25/couve-flor-assada/

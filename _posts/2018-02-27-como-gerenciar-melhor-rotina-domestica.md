@@ -2,7 +2,7 @@
 id: 3850
 title: Como gerenciar melhor a rotina doméstica?
 date: 2018-02-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/02/27/como-gerenciar-melhor-rotina-domestica/
 permalink: /2018/02/27/como-gerenciar-melhor-rotina-domestica/

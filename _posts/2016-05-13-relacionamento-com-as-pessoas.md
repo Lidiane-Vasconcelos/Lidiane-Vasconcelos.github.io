@@ -2,7 +2,7 @@
 id: 3608
 title: Entenda por que é difícil o relacionamento com as pessoas.
 date: 2016-05-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/13/relacionamento-com-as-pessoas/
 permalink: /2016/05/13/relacionamento-com-as-pessoas/

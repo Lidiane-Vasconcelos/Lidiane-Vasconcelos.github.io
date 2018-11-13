@@ -2,7 +2,7 @@
 id: 3484
 title: 'Agenda Recife com crianças: 12 e 13 de Setembro'
 date: 2015-09-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/11/recife-com-criancas-4/
 permalink: /2015/09/11/recife-com-criancas-4/

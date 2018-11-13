@@ -2,7 +2,7 @@
 id: 3698
 title: O que tem na Prateleira do Trololó de Mulher de Novembro?
 date: 2016-11-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/07/trololo-de-mulher-8/
 permalink: /2016/11/07/trololo-de-mulher-8/

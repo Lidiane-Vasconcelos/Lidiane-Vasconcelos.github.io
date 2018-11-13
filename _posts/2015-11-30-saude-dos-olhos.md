@@ -2,7 +2,7 @@
 id: 3517
 title: Quais os benefícios da boa alimentação na saúde dos olhos?
 date: 2015-11-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/30/saude-dos-olhos/
 permalink: /2015/11/30/saude-dos-olhos/

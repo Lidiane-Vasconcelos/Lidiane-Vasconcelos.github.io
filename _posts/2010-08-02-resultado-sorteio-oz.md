@@ -2,7 +2,7 @@
 id: 2855
 title: 'Resultado do sorteio Bicha Fêmea &#038; OZ!'
 date: 2010-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/02/resultado-sorteio-oz/
 permalink: /2010/08/02/resultado-sorteio-oz/

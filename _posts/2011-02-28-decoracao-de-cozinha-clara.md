@@ -2,7 +2,7 @@
 id: 2955
 title: Como incrementar a decoração de uma cozinha com armários claros?
 date: 2011-02-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/28/decoracao-de-cozinha-clara/
 permalink: /2011/02/28/decoracao-de-cozinha-clara/

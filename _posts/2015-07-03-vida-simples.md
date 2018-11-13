@@ -2,7 +2,7 @@
 id: 3441
 title: 'Vida simples: menos é mais e a gente vive melhor…'
 date: 2015-07-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/03/vida-simples/
 permalink: /2015/07/03/vida-simples/

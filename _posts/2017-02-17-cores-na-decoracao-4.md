@@ -2,7 +2,7 @@
 id: 3725
 title: Como usar cores na decoração com alegria e bom gosto?
 date: 2017-02-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/17/cores-na-decoracao-4/
 permalink: /2017/02/17/cores-na-decoracao-4/

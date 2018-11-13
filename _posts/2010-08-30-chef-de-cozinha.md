@@ -2,7 +2,7 @@
 id: 2867
 title: O que é ser um chef de cozinha…
 date: 2010-08-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/30/chef-de-cozinha/
 permalink: /2010/08/30/chef-de-cozinha/

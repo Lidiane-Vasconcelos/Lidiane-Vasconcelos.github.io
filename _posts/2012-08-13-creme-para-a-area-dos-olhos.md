@@ -2,7 +2,7 @@
 id: 3170
 title: Você usa creme para a área dos olhos?
 date: 2012-08-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/13/creme-para-a-area-dos-olhos/
 permalink: /2012/08/13/creme-para-a-area-dos-olhos/

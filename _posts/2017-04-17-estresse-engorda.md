@@ -2,7 +2,7 @@
 id: 3751
 title: 'Estresse engorda: mito ou verdade?'
 date: 2017-04-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/17/estresse-engorda/
 permalink: /2017/04/17/estresse-engorda/

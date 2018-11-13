@@ -2,7 +2,7 @@
 id: 3576
 title: Banheiro pequeno? Veja 6 ideias e ganhe espaço já!
 date: 2016-04-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/05/banheiro-pequeno-2/
 permalink: /2016/04/05/banheiro-pequeno-2/

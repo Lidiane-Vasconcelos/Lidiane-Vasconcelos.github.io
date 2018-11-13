@@ -2,7 +2,7 @@
 id: 2624
 title: Inspirações para a decoração da sala de jantar.
 date: 2009-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/18/sala-de-jantar/
 permalink: /2009/02/18/sala-de-jantar/

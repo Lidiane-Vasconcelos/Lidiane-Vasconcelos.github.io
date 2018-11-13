@@ -2,7 +2,7 @@
 id: 2602
 title: 'Os 10 erros na decoração e bem-estar de seu quarto&#8230;'
 date: 2009-01-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/15/10-erros-decoracao-quarto/
 permalink: /2009/01/15/10-erros-decoracao-quarto/

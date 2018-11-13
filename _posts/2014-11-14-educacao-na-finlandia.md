@@ -2,7 +2,7 @@
 id: 3367
 title: Educação, ordem e progresso… lá na Finlândia é assim!
 date: 2014-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/14/educacao-na-finlandia/
 permalink: /2014/11/14/educacao-na-finlandia/

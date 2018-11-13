@@ -2,7 +2,7 @@
 id: 2849
 title: 'Organizando a bagunça em casa: dicas, truques e objetos úteis.'
 date: 2010-07-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/16/organizando-bagunca/
 permalink: /2010/07/16/organizando-bagunca/

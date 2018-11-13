@@ -2,7 +2,7 @@
 id: 3557
 title: 'Balões: decoração de festa infantil diferente'
 date: 2016-03-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/09/decoracao-de-festa-infantil/
 permalink: /2016/03/09/decoracao-de-festa-infantil/

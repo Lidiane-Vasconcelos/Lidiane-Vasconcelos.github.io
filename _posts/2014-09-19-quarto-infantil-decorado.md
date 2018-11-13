@@ -2,7 +2,7 @@
 id: 3346
 title: Quarto infantil decorado com afetividade…
 date: 2014-09-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/19/quarto-infantil-decorado/
 permalink: /2014/09/19/quarto-infantil-decorado/

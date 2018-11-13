@@ -2,7 +2,7 @@
 id: 3272
 title: 5 imagens que revelam ótimas dicas de decoração
 date: 2014-01-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/14/decoracao/
 permalink: /2014/01/14/decoracao/

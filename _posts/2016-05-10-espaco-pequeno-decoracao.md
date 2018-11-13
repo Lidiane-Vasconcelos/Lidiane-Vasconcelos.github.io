@@ -2,7 +2,7 @@
 id: 3604
 title: Como fazer seu espaço pequeno parecer maior? 10 dicas.
 date: 2016-05-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/10/espaco-pequeno-decoracao/
 permalink: /2016/05/10/espaco-pequeno-decoracao/

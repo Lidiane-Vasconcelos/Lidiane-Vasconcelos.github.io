@@ -2,7 +2,7 @@
 id: 3493
 title: Bolo de maçã sem glúten
 date: 2015-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/30/bolo-de-maca-sem-gluten/
 permalink: /2015/09/30/bolo-de-maca-sem-gluten/

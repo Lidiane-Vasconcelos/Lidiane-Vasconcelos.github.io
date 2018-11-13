@@ -2,7 +2,7 @@
 id: 3233
 title: Decoração simples… mas das boas!
 date: 2013-07-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/03/decoracao-simples/
 permalink: /2013/07/03/decoracao-simples/

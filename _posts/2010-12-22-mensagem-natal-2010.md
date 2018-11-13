@@ -2,7 +2,7 @@
 id: 2931
 title: 'Ei, psiu! Tenho um recadinho para você&#8230;'
 date: 2010-12-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/22/mensagem-natal-2010/
 permalink: /2010/12/22/mensagem-natal-2010/

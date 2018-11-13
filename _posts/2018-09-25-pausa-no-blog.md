@@ -2,7 +2,7 @@
 id: 3879
 title: Pausa no blog + aviso
 date: 2018-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Esta semana não há post com conteúdo, e nem semana que vem. Será necessário um tempo de recolhimento e descanso. Para logo após o meu retorno, deixo um aviso.
 layout: post
 guid: http://localhost/wordpress/2018/09/25/pausa-no-blog/

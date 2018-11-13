@@ -2,7 +2,7 @@
 id: 2892
 title: 'Decoração do quarto: ideias elegantes, femininas e baratas!'
 date: 2010-10-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/20/quarto-ideias-femininas/
 permalink: /2010/10/20/quarto-ideias-femininas/

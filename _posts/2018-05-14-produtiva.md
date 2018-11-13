@@ -2,7 +2,7 @@
 id: 3863
 title: Linda, leve, solta e produtiva.
 date: 2018-05-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/05/14/produtiva/
 permalink: /2018/05/14/produtiva/

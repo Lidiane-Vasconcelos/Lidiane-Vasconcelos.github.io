@@ -2,7 +2,7 @@
 id: 3389
 title: 'Moda sem mistérios: 2 dicas pra colocar em prática já!'
 date: 2015-01-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/26/moda-dica-pratica/
 permalink: /2015/01/26/moda-dica-pratica/

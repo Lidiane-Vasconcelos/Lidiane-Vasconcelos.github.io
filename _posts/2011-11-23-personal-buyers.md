@@ -2,7 +2,7 @@
 id: 3083
 title: 'Sorteio Bicha Fêmea &#038; Personal Buyers entre amigas!'
 date: 2011-11-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/23/personal-buyers/
 permalink: /2011/11/23/personal-buyers/

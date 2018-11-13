@@ -2,7 +2,7 @@
 id: 3647
 title: '{dance} Festa para meninas crescidinhas: dicas e ideias.'
 date: 2016-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/23/festa-para-meninas/
 permalink: /2016/08/23/festa-para-meninas/

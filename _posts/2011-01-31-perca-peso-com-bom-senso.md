@@ -2,7 +2,7 @@
 id: 2942
 title: Perca peso com bom senso
 date: 2011-01-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/31/perca-peso-com-bom-senso/
 permalink: /2011/01/31/perca-peso-com-bom-senso/

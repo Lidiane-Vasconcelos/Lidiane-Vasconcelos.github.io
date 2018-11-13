@@ -2,7 +2,7 @@
 id: 3516
 title: 'Empreendedorismo: quais os 7 medos mais comuns?'
 date: 2015-11-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/27/empreendedorismo/
 permalink: /2015/11/27/empreendedorismo/

@@ -2,7 +2,7 @@
 id: 3841
 title: 'Confraternização de fim de ano: qual roupa usar?'
 date: 2017-12-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/11/confraternizacao-de-fim-de-ano/
 permalink: /2017/12/11/confraternizacao-de-fim-de-ano/

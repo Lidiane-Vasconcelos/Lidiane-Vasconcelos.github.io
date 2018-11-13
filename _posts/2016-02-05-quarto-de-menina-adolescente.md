@@ -2,7 +2,7 @@
 id: 3538
 title: 'Quarto de menina adolescente: como decorar?'
 date: 2016-02-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/05/quarto-de-menina-adolescente/
 permalink: /2016/02/05/quarto-de-menina-adolescente/

@@ -2,7 +2,7 @@
 id: 3048
 title: Quer trabalhar sem sair de casa mas não sabe como?
 date: 2011-09-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/09/trabalhar-home-office/
 permalink: /2011/09/09/trabalhar-home-office/

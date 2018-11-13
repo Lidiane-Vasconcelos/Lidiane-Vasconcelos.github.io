@@ -2,7 +2,7 @@
 id: 2751
 title: Dica para facilitar a virada regular do colchão e ganhar mais saúde.
 date: 2009-12-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/15/dica-como-virar-colchao/
 permalink: /2009/12/15/dica-como-virar-colchao/

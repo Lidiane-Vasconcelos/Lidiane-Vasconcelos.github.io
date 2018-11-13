@@ -2,7 +2,7 @@
 id: 2921
 title: 'Decoração de cozinha: 2 ideias que também organizam.'
 date: 2010-12-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/20/decoracao-de-cozinha/
 permalink: /2010/12/20/decoracao-de-cozinha/

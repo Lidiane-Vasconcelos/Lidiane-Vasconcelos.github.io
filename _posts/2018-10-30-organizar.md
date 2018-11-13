@@ -2,7 +2,7 @@
 id: 3884
 title: Você quer se organizar melhor em 2019?
 date: 2018-10-30T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Hoje está sendo lançado o sorteio de um planner para quem quer se organizar melhor em 2019, e você está super convidada a participar. Olha que lindeza!!!
 layout: post
 guid: http://localhost/wordpress/2018/10/30/organizar/

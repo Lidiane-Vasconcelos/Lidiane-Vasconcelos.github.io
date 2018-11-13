@@ -2,7 +2,7 @@
 id: 3328
 title: Canelone de berinjela + queijo cottage (no molho caseiro)
 date: 2014-07-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/28/canelone-berinjela-queijo/
 permalink: /2014/07/28/canelone-berinjela-queijo/

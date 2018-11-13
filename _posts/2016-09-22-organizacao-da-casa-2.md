@@ -2,7 +2,7 @@
 id: 3670
 title: '1º post da série para organização da casa: home office.'
 date: 2016-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/22/organizacao-da-casa-2/
 permalink: /2016/09/22/organizacao-da-casa-2/

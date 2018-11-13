@@ -2,7 +2,7 @@
 id: 3204
 title: Quer dicas para uma maquiagem do tipo… iluminada pelo sol?
 date: 2012-10-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/29/dicas-maquiagem-iluminada/
 permalink: /2012/10/29/dicas-maquiagem-iluminada/

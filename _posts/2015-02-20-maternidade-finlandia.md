@@ -2,7 +2,7 @@
 id: 3399
 title: Se você fosse mãe lá na Finlândia…
 date: 2015-02-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/20/maternidade-finlandia/
 permalink: /2015/02/20/maternidade-finlandia/

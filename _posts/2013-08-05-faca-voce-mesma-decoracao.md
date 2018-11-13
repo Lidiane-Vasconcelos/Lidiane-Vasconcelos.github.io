@@ -2,7 +2,7 @@
 id: 3250
 title: 3 ideias “faça você mesma” de decoração BBB – Boa, Bonita e Barata!
 date: 2013-08-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/05/faca-voce-mesma-decoracao/
 permalink: /2013/08/05/faca-voce-mesma-decoracao/

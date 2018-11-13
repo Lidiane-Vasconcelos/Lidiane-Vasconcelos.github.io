@@ -2,7 +2,7 @@
 id: 3599
 title: 2 imagens revelam ótimas ideias de jardim vertical.
 date: 2016-04-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/29/jardim-vertical/
 permalink: /2016/04/29/jardim-vertical/

@@ -2,7 +2,7 @@
 id: 3043
 title: 'Antes &#038; Depois de mesa + camiseta na decoração da casa…'
 date: 2011-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/29/antes-depois-decoracao/
 permalink: /2011/08/29/antes-depois-decoracao/

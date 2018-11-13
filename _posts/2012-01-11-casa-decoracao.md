@@ -2,7 +2,7 @@
 id: 3103
 title: Qual ambiente de sua casa você mais gosta?
 date: 2012-01-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/11/casa-decoracao/
 permalink: /2012/01/11/casa-decoracao/

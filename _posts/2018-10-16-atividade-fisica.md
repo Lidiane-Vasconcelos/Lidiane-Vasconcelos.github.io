@@ -2,7 +2,7 @@
 id: 3882
 title: Mexa-se em atividade física e seja mais produtiva!
 date: 2018-10-16T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Atividade física é algo que faz bem, e quem pratica sabe disso. Mas há a necessidade de organização para inserir isso na rotina. Por onde começar?
 layout: post
 guid: http://localhost/wordpress/2018/10/16/atividade-fisica/

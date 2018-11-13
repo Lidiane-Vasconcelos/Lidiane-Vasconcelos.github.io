@@ -2,7 +2,7 @@
 id: 3587
 title: Veja como receber em casa, com 3 dicas simples.
 date: 2016-05-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/11/receber-em-casa/
 permalink: /2016/05/11/receber-em-casa/

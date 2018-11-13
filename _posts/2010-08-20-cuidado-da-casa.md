@@ -2,7 +2,7 @@
 id: 2863
 title: Ações esquecidas no cuidado da casa, porém necessárias.
 date: 2010-08-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/20/cuidado-da-casa/
 permalink: /2010/08/20/cuidado-da-casa/

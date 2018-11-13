@@ -2,7 +2,7 @@
 id: 3223
 title: O dia não terminou como previsto, um aneurisma cerebral mudou meus planos…
 date: 2013-06-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/07/superacao/
 permalink: /2013/06/07/superacao/

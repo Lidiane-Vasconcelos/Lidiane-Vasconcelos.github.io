@@ -2,7 +2,7 @@
 id: 3805
 title: 'Biquíni para cada tipo de corpo: saiba escolher.'
 date: 2017-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/25/biquini-para-cada-tipo-de-corpo/
 permalink: /2017/09/25/biquini-para-cada-tipo-de-corpo/

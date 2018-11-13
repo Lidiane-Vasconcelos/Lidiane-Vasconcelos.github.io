@@ -2,7 +2,7 @@
 id: 3722
 title: 5 ideias para separar ambientes sem paredes.
 date: 2017-02-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/07/separar-ambientes/
 permalink: /2017/02/07/separar-ambientes/

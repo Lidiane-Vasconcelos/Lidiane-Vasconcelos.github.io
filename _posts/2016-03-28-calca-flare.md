@@ -2,7 +2,7 @@
 id: 3574
 title: 'Calça Flare: aprenda como combinar o modelo da vez!'
 date: 2016-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/28/calca-flare/
 permalink: /2016/03/28/calca-flare/

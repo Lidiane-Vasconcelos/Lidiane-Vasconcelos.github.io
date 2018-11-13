@@ -2,7 +2,7 @@
 id: 3627
 title: Mãe de menino, a cultura do estupro é da nossa conta, sim!
 date: 2016-06-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/14/cultura-do-estupro/
 permalink: /2016/06/14/cultura-do-estupro/

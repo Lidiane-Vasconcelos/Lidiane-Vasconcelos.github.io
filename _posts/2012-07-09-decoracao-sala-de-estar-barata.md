@@ -2,7 +2,7 @@
 id: 3151
 title: Decoração da sala de estar com detalhes bem baratos… é possível?
 date: 2012-07-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/09/decoracao-sala-de-estar-barata/
 permalink: /2012/07/09/decoracao-sala-de-estar-barata/

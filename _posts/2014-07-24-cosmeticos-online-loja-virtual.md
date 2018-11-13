@@ -2,7 +2,7 @@
 id: 3327
 title: 'Compre cosméticos online. Comodidade: quem não quer?'
 date: 2014-07-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/24/cosmeticos-online-loja-virtual/
 permalink: /2014/07/24/cosmeticos-online-loja-virtual/

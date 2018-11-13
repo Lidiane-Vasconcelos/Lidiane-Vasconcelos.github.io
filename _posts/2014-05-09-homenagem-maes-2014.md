@@ -2,7 +2,7 @@
 id: 3292
 title: Hoje tem homenagem para as mães? Ô, se tem!
 date: 2014-05-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/09/homenagem-maes-2014/
 permalink: /2014/05/09/homenagem-maes-2014/

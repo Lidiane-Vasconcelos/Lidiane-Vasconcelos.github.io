@@ -2,7 +2,7 @@
 id: 3617
 title: 'Superação e perseverança: amor materno que inspira.'
 date: 2016-05-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/27/amor-materno/
 permalink: /2016/05/27/amor-materno/

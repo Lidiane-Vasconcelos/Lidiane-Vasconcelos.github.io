@@ -2,7 +2,7 @@
 id: 3703
 title: 'Festa de menina sem personagens: 9 ideias!'
 date: 2016-11-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/16/festa-de-menina/
 permalink: /2016/11/16/festa-de-menina/

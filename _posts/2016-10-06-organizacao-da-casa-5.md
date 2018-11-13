@@ -2,7 +2,7 @@
 id: 3682
 title: '4º post da série para organização da casa: closet.'
 date: 2016-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/06/organizacao-da-casa-5/
 permalink: /2016/10/06/organizacao-da-casa-5/

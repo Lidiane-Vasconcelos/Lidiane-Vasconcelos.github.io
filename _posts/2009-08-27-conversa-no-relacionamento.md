@@ -2,7 +2,7 @@
 id: 2707
 title: Do Que A Boa Conversa Pode Fazer Por Um Casal.
 date: 2009-08-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/27/conversa-no-relacionamento/
 permalink: /2009/08/27/conversa-no-relacionamento/

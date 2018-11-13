@@ -2,7 +2,7 @@
 id: 3731
 title: Veja como aplicar 5 truques de maquiagem de festa.
 date: 2017-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/23/maquiagem-de-festa/
 permalink: /2017/02/23/maquiagem-de-festa/

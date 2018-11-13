@@ -2,7 +2,7 @@
 id: 2966
 title: 'Decoração de festa infantil: ideias para a festa das meninas!'
 date: 2011-03-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/21/decoracao-festa-infantil/
 permalink: /2011/03/21/decoracao-festa-infantil/

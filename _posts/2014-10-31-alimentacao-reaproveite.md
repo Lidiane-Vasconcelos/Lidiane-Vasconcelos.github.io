@@ -2,7 +2,7 @@
 id: 3362
 title: 'Alimentação: coma melhor, reaproveite e economize!'
 date: 2014-10-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/31/alimentacao-reaproveite/
 permalink: /2014/10/31/alimentacao-reaproveite/

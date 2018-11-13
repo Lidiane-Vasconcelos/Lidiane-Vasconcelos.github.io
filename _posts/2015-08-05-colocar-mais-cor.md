@@ -2,7 +2,7 @@
 id: 3456
 title: 3 sugestões para colocar mais cor em casa.
 date: 2015-08-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/05/colocar-mais-cor/
 permalink: /2015/08/05/colocar-mais-cor/

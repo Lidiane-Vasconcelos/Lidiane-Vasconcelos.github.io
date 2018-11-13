@@ -2,7 +2,7 @@
 id: 3600
 title: Como usar cores vibrantes na sala de estar?
 date: 2016-04-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/27/cores-decoracao-sala-de-estar/
 permalink: /2016/04/27/cores-decoracao-sala-de-estar/

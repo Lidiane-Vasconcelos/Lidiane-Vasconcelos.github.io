@@ -2,7 +2,7 @@
 id: 3462
 title: Apartamento pequeno e lições de como viver com menos.
 date: 2015-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/12/apartamento-pequeno/
 permalink: /2015/08/12/apartamento-pequeno/

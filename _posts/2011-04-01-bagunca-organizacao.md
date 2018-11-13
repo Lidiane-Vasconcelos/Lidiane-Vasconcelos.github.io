@@ -2,7 +2,7 @@
 id: 2974
 title: Siga 10 passos e o canto da bagunça deixará de existir!
 date: 2011-04-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/01/bagunca-organizacao/
 permalink: /2011/04/01/bagunca-organizacao/

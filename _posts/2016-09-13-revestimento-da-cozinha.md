@@ -2,7 +2,7 @@
 id: 3662
 title: 'Cor do balcão e revestimento da cozinha: como combinar?'
 date: 2016-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/13/revestimento-da-cozinha/
 permalink: /2016/09/13/revestimento-da-cozinha/

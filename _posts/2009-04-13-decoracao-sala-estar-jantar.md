@@ -2,7 +2,7 @@
 id: 2646
 title: Decoração em salas de estar e de jantar para inspiração.
 date: 2009-04-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/13/decoracao-sala-estar-jantar/
 permalink: /2009/04/13/decoracao-sala-estar-jantar/

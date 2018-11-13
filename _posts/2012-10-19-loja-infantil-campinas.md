@@ -2,7 +2,7 @@
 id: 3201
 title: Mãe de Campinas, só leia se você valoriza uma infância de verdade!
 date: 2012-10-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/19/loja-infantil-campinas/
 permalink: /2012/10/19/loja-infantil-campinas/

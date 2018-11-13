@@ -2,7 +2,7 @@
 id: 3460
 title: 'Unhas decoradas: claras, discretas e elegantes.'
 date: 2015-08-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/17/unhas-decoradas/
 permalink: /2015/08/17/unhas-decoradas/

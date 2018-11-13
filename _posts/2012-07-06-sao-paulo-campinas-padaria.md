@@ -2,7 +2,7 @@
 id: 3150
 title: 'Só em São Paulo se toma café da manhã  na padaria?'
 date: 2012-07-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/06/sao-paulo-campinas-padaria/
 permalink: /2012/07/06/sao-paulo-campinas-padaria/

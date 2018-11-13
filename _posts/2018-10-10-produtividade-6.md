@@ -2,7 +2,7 @@
 id: 3881
 title: Quer ter mais produtividade? Alimente-se melhor!
 date: 2018-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Como mãe, precisei focar na minha produtividade para fazer mais em menos tempo, e me alimentar melhor foi fundamental nesse processo. Veja como fiz isso!
 layout: post
 guid: http://localhost/wordpress/2018/10/10/produtividade-6/

@@ -2,7 +2,7 @@
 id: 3644
 title: 6 lições de decoração (e de vida!) em uma casa na Grécia.
 date: 2016-08-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/16/decoracao-casa-na-grecia/
 permalink: /2016/08/16/decoracao-casa-na-grecia/

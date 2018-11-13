@@ -2,7 +2,7 @@
 id: 2691
 title: Entrevista no Mundinho Particular da Rosi.
 date: 2009-07-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/24/entrevista-no-mundinho-particular-da-rosi/
 permalink: /2009/07/24/entrevista-no-mundinho-particular-da-rosi/

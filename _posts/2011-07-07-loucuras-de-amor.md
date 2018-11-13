@@ -2,7 +2,7 @@
 id: 3017
 title: Você já viveu um amor louco… um louco amor?
 date: 2011-07-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/07/loucuras-de-amor/
 permalink: /2011/07/07/loucuras-de-amor/

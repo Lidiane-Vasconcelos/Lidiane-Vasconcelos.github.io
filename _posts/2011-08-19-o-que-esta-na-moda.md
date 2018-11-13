@@ -2,7 +2,7 @@
 id: 3038
 title: O que está na moda?
 date: 2011-08-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/19/o-que-esta-na-moda/
 permalink: /2011/08/19/o-que-esta-na-moda/

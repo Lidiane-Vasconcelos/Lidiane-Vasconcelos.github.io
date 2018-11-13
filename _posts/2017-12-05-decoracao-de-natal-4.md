@@ -2,7 +2,7 @@
 id: 3838
 title: 'Decoração de Natal com reutilização de janela velha: dica.'
 date: 2017-12-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/05/decoracao-de-natal-4/
 permalink: /2017/12/05/decoracao-de-natal-4/

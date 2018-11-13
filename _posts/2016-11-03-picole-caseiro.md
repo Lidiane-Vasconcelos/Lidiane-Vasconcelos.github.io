@@ -2,7 +2,7 @@
 id: 3696
 title: 'Por um Verão perfeito: picolé caseiro de morango e iogurte.'
 date: 2016-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/03/picole-caseiro/
 permalink: /2016/11/03/picole-caseiro/

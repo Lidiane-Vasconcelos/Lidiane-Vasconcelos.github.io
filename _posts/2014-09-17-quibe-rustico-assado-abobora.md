@@ -2,7 +2,7 @@
 id: 3344
 title: Quibe rústico assado de abóbora + sua salada do coração.
 date: 2014-09-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/17/quibe-rustico-assado-abobora/
 permalink: /2014/09/17/quibe-rustico-assado-abobora/

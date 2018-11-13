@@ -2,7 +2,7 @@
 id: 3058
 title: Os dias quentes estão chegando… o que você vai fazer?
 date: 2011-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/30/dias-quentes/
 permalink: /2011/09/30/dias-quentes/

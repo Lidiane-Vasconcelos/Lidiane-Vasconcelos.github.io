@@ -2,7 +2,7 @@
 id: 3717
 title: 'A obesidade infantil não é fofinha: saiba como mudar isso.'
 date: 2016-12-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/14/obesidade-infantil-2/
 permalink: /2016/12/14/obesidade-infantil-2/

@@ -2,7 +2,7 @@
 id: 3840
 title: Em redes sociais, cada qual com sua opinião…
 date: 2017-12-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/07/redes-sociais/
 permalink: /2017/12/07/redes-sociais/

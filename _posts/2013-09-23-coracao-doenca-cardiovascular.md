@@ -2,7 +2,7 @@
 id: 3263
 title: Seu coração está protegido de doenças cardiovasculares?
 date: 2013-09-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/23/coracao-doenca-cardiovascular/
 permalink: /2013/09/23/coracao-doenca-cardiovascular/

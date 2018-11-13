@@ -2,7 +2,7 @@
 id: 3235
 title: 'Pele, boca e olhos bonitos: dicas e truques de especialista'
 date: 2013-07-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/08/dicas-beleza/
 permalink: /2013/07/08/dicas-beleza/

@@ -2,7 +2,7 @@
 id: 3318
 title: Quer presentear com algo criativo, mas não sabe como?
 date: 2014-07-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/03/presente-personalizado/
 permalink: /2014/07/03/presente-personalizado/

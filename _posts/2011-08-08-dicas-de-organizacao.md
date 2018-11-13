@@ -2,7 +2,7 @@
 id: 3034
 title: 'Seu ateliê: 3 dicas de marcenaria para melhorar a organização'
 date: 2011-08-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/08/dicas-de-organizacao/
 permalink: /2011/08/08/dicas-de-organizacao/

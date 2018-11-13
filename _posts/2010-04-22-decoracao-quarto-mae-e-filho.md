@@ -2,7 +2,7 @@
 id: 2807
 title: 'Pitacos de decoração: quarto para mãe e filho.'
 date: 2010-04-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/22/decoracao-quarto-mae-e-filho/
 permalink: /2010/04/22/decoracao-quarto-mae-e-filho/

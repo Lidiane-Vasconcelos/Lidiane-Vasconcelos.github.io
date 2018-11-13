@@ -2,7 +2,7 @@
 id: 3770
 title: Como usar calça cigarrete no dia a dia?
 date: 2017-05-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/29/como-usar-calca-cigarrete/
 permalink: /2017/05/29/como-usar-calca-cigarrete/

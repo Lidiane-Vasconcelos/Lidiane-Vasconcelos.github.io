@@ -2,7 +2,7 @@
 id: 2617
 title: 'Decoração da casa: ideias e sugestões.'
 date: 2009-02-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/08/ideias-decoracao-casa/
 permalink: /2009/02/08/ideias-decoracao-casa/

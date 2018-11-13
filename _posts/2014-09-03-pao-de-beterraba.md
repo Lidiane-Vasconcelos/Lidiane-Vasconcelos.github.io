@@ -2,7 +2,7 @@
 id: 3338
 title: 'Pão de beterraba com chia: fácil, bonito de viver, e nem precisa sovar!'
 date: 2014-09-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/03/pao-de-beterraba/
 permalink: /2014/09/03/pao-de-beterraba/

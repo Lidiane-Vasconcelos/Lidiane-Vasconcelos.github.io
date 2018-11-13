@@ -2,7 +2,7 @@
 id: 3868
 title: Como morar melhor, de maneira mais simples?
 date: 2018-06-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/06/19/morar-melhor/
 permalink: /2018/06/19/morar-melhor/

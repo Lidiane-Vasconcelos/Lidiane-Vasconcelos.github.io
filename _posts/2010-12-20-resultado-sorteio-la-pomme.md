@@ -2,7 +2,7 @@
 id: 2930
 title: Resultado do sorteio no Bicha Fêmea em parceria com a La Pomme.
 date: 2010-12-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/20/resultado-sorteio-la-pomme/
 permalink: /2010/12/20/resultado-sorteio-la-pomme/

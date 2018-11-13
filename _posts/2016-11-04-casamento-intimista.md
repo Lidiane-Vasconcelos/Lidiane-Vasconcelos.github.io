@@ -2,7 +2,7 @@
 id: 3697
 title: 'Casamento intimista: celebração afetiva, para poucos.'
 date: 2016-11-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/04/casamento-intimista/
 permalink: /2016/11/04/casamento-intimista/

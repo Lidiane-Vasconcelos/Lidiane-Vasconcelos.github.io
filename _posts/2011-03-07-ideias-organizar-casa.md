@@ -2,7 +2,7 @@
 id: 2958
 title: 5 ideias para organizar pequenos objetos em casa…
 date: 2011-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/07/ideias-organizar-casa/
 permalink: /2011/03/07/ideias-organizar-casa/

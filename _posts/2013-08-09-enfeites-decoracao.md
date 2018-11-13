@@ -2,7 +2,7 @@
 id: 3245
 title: 'Enfeites (faça você mesma) para a decoração: fácil, bonito e barato'
 date: 2013-08-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/08/09/enfeites-decoracao/
 permalink: /2013/08/09/enfeites-decoracao/

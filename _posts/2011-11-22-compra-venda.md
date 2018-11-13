@@ -2,7 +2,7 @@
 id: 3082
 title: Desapega, bonita! Tem sempre quem compre o que você vende!
 date: 2011-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/22/compra-venda/
 permalink: /2011/11/22/compra-venda/

@@ -2,7 +2,7 @@
 id: 3735
 title: 'Estilo industrial na decoração: 15 imagens pra mudar conceitos.'
 date: 2017-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/07/estilo-industrial-na-decoracao/
 permalink: /2017/03/07/estilo-industrial-na-decoracao/

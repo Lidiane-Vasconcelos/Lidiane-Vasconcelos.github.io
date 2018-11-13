@@ -2,7 +2,7 @@
 id: 2745
 title: O Bicha Fêmea Vai Dar Um Tempo…
 date: 2009-12-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/03/o-bicha-fmea-vai-dar-um-tempo/
 permalink: /2009/12/03/o-bicha-fmea-vai-dar-um-tempo/

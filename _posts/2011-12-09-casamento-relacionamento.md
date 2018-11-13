@@ -2,7 +2,7 @@
 id: 3090
 title: Casamento… por que te quero?
 date: 2011-12-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/09/casamento-relacionamento/
 permalink: /2011/12/09/casamento-relacionamento/

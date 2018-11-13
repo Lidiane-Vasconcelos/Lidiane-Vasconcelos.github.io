@@ -2,7 +2,7 @@
 id: 3323
 title: Chegou o frio… e as doenças infantis. E agora?
 date: 2014-07-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/21/frio-doencas-infantis/
 permalink: /2014/07/21/frio-doencas-infantis/

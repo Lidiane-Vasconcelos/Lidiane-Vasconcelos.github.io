@@ -2,7 +2,7 @@
 id: 2631
 title: Banheiros, banheiros e mais banheiros!!!!
 date: 2009-03-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/02/banheiros/
 permalink: /2009/03/02/banheiros/

@@ -2,7 +2,7 @@
 id: 2801
 title: Como sentir-se confiante.
 date: 2010-05-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/03/auto-estima/
 permalink: /2010/05/03/auto-estima/

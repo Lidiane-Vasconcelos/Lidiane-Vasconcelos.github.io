@@ -2,7 +2,7 @@
 id: 2798
 title: Alongamento Para Caminhada. Você Faz???
 date: 2010-03-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/05/alongamento-caminhada/
 permalink: /2010/03/05/alongamento-caminhada/

@@ -2,7 +2,7 @@
 id: 3010
 title: Entrevista com Juliana Stelli, do blog Pitadinha.
 date: 2011-06-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/10/juliana-stelli/
 permalink: /2011/06/10/juliana-stelli/

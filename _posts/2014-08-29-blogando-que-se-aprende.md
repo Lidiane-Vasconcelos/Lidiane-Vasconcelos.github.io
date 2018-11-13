@@ -2,7 +2,7 @@
 id: 3336
 title: 'É blogando que se aprende [edição 1]'
 date: 2014-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/08/29/blogando-que-se-aprende/
 permalink: /2014/08/29/blogando-que-se-aprende/

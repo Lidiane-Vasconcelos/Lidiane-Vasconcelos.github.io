@@ -2,7 +2,7 @@
 id: 2678
 title: Eu tenho celulite, tu tens, todas nós temos! E daí?
 date: 2009-07-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/02/ditadura-da-beleza-2/
 permalink: /2009/07/02/ditadura-da-beleza-2/

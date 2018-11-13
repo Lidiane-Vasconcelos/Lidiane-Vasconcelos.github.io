@@ -2,7 +2,7 @@
 id: 3475
 title: 'Lavabo com papel de parede: imagens, dicas e ideias.'
 date: 2015-08-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/26/lavabo-com-papel-de-parede/
 permalink: /2015/08/26/lavabo-com-papel-de-parede/

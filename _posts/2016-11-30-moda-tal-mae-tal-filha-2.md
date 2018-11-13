@@ -2,7 +2,7 @@
 id: 3712
 title: 'Moda tal mãe, tal filha: 4 dicas pra não errar!'
 date: 2016-11-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/30/moda-tal-mae-tal-filha-2/
 permalink: /2016/11/30/moda-tal-mae-tal-filha-2/

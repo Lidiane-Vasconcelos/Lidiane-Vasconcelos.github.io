@@ -2,7 +2,7 @@
 id: 2880
 title: 'Uma Bicha Fêmea por Outra: Katia Bonfadini'
 date: 2010-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/22/entrevista-katia-bonfadini/
 permalink: /2010/09/22/entrevista-katia-bonfadini/

@@ -2,7 +2,7 @@
 id: 2954
 title: 'Uma bicha fêmea por outra: Larissa Lieders'
 date: 2011-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/23/entrevista-larissa-lieders/
 permalink: /2011/02/23/entrevista-larissa-lieders/

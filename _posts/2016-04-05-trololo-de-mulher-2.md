@@ -2,7 +2,7 @@
 id: 3579
 title: O que tem na Prateleira do Trololó de Mulher em Abril?
 date: 2016-04-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/05/trololo-de-mulher-2/
 permalink: /2016/04/05/trololo-de-mulher-2/

@@ -2,7 +2,7 @@
 id: 3108
 title: Você costuma promover a renovação da pele com a esfoliação?
 date: 2012-01-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/23/pele-esfoliacao/
 permalink: /2012/01/23/pele-esfoliacao/

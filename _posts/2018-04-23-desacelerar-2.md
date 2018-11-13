@@ -2,7 +2,7 @@
 id: 3860
 title: 4 pistas pra desacelerar, e viver a vida mais leve…
 date: 2018-04-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/23/desacelerar-2/
 permalink: /2018/04/23/desacelerar-2/

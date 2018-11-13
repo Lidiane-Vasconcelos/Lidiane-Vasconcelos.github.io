@@ -2,7 +2,7 @@
 id: 2830
 title: 'Dia dos Namorados: dicas e sugestões.'
 date: 2010-06-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/07/dicas-dia-dos-namorados/
 permalink: /2010/06/07/dicas-dia-dos-namorados/

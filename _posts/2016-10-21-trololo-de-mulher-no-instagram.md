@@ -2,7 +2,7 @@
 id: 3691
 title: Você já segue o Trololó de Mulher no Instagram?
 date: 2016-10-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/21/trololo-de-mulher-no-instagram/
 permalink: /2016/10/21/trololo-de-mulher-no-instagram/

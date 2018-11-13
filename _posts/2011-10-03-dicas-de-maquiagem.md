@@ -2,7 +2,7 @@
 id: 3059
 title: Dicas de maquiagem para um visual…“melhor, impossível”!
 date: 2011-10-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/03/dicas-de-maquiagem/
 permalink: /2011/10/03/dicas-de-maquiagem/

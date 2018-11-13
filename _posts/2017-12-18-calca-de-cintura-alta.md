@@ -2,7 +2,7 @@
 id: 3845
 title: 'Calça de cintura alta: saiba como usar.'
 date: 2017-12-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/12/18/calca-de-cintura-alta/
 permalink: /2017/12/18/calca-de-cintura-alta/

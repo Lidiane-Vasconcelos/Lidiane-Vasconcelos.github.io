@@ -2,7 +2,7 @@
 id: 2604
 title: Novidades…
 date: 2009-01-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/18/novidades/
 permalink: /2009/01/18/novidades/

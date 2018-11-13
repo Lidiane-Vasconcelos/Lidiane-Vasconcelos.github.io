@@ -2,7 +2,7 @@
 id: 3855
 title: Como ter uma casa limpa e organizada com menos esforço?
 date: 2018-03-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/03/20/casa-limpa-e-organizada-2/
 permalink: /2018/03/20/casa-limpa-e-organizada-2/

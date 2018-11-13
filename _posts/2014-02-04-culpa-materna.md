@@ -2,7 +2,7 @@
 id: 3278
 title: Culpa materna na consciência da outra é refresco. Liberte-se!
 date: 2014-02-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/04/culpa-materna/
 permalink: /2014/02/04/culpa-materna/

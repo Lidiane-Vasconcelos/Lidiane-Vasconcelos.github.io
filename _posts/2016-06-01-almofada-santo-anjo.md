@@ -2,7 +2,7 @@
 id: 3620
 title: 'Sorteio: Almofada Santo Anjo&#8230;pura delicadeza!'
 date: 2016-06-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/01/almofada-santo-anjo/
 permalink: /2016/06/01/almofada-santo-anjo/

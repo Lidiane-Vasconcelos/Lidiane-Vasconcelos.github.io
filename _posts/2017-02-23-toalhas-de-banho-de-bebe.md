@@ -2,7 +2,7 @@
 id: 3729
 title: 'Toalhas de banho de bebê: qual delas escolher?'
 date: 2017-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/23/toalhas-de-banho-de-bebe/
 permalink: /2017/02/23/toalhas-de-banho-de-bebe/

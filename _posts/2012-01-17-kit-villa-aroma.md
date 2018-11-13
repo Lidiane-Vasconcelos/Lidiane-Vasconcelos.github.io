@@ -2,7 +2,7 @@
 id: 3107
 title: Ganhe um Kit Villa Aroma… sinta e desfrute a vida como você merece!
 date: 2012-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/17/kit-villa-aroma/
 permalink: /2012/01/17/kit-villa-aroma/

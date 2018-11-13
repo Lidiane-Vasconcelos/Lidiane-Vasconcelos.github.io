@@ -2,7 +2,7 @@
 id: 2782
 title: Das melhores bobeiras de amor…
 date: 2010-04-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/23/das-melhores-bobeiras-de-amor/
 permalink: /2010/04/23/das-melhores-bobeiras-de-amor/

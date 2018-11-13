@@ -2,7 +2,7 @@
 id: 3581
 title: 'Alimentos transgênicos: consumí-los ou não?'
 date: 2016-04-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/11/alimentos-transgenicos/
 permalink: /2016/04/11/alimentos-transgenicos/

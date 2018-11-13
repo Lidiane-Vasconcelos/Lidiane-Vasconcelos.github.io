@@ -2,7 +2,7 @@
 id: 2815
 title: 'Leitoras em Debate: enteado á vista no casamento. E agora?'
 date: 2010-05-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/12/enteado-casamento/
 permalink: /2010/05/12/enteado-casamento/

@@ -2,7 +2,7 @@
 id: 3678
 title: Sorteio simples de 2 porta-jóias porsonalizados.
 date: 2016-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/30/porta-joias/
 permalink: /2016/09/30/porta-joias/

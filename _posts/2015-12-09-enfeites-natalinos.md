@@ -2,7 +2,7 @@
 id: 3521
 title: Enfeites natalinos para fazer com crianças
 date: 2015-12-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/12/09/enfeites-natalinos/
 permalink: /2015/12/09/enfeites-natalinos/

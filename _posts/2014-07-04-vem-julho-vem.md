@@ -2,7 +2,7 @@
 id: 3319
 title: E o segundo semestre chegou! Vem, Julho, vem!
 date: 2014-07-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/04/vem-julho-vem/
 permalink: /2014/07/04/vem-julho-vem/

@@ -2,7 +2,7 @@
 id: 3075
 title: 'Achados de moda: boas compras até R$ 50,00! Sabe onde tem?'
 date: 2011-11-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/07/achados-de-moda/
 permalink: /2011/11/07/achados-de-moda/

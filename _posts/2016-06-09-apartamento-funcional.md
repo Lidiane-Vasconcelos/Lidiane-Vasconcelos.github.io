@@ -2,7 +2,7 @@
 id: 3623
 title: 'Apartamento funcional: escolhas certas, inúmeras inspirações.'
 date: 2016-06-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/09/apartamento-funcional/
 permalink: /2016/06/09/apartamento-funcional/

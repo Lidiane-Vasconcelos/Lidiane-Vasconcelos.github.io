@@ -2,7 +2,7 @@
 id: 3116
 title: Ponha charme na decoração com a customização de móveis!
 date: 2012-02-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/02/29/decoracao-moveis-usados/
 permalink: /2012/02/29/decoracao-moveis-usados/

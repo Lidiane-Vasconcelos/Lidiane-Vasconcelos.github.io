@@ -2,7 +2,7 @@
 id: 3686
 title: 'Trabalho em casa e rotina doméstica: como conciliá-los?'
 date: 2016-10-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/14/trabalho-em-casa/
 permalink: /2016/10/14/trabalho-em-casa/

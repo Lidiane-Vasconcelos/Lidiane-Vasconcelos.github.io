@@ -2,7 +2,7 @@
 id: 2820
 title: Como decorar a parede da escada?
 date: 2010-05-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/24/como-decorar-parede-escada/
 permalink: /2010/05/24/como-decorar-parede-escada/

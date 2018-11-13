@@ -2,7 +2,7 @@
 id: 3584
 title: Veja dicas de 5 mulheres empreendedoras e saia do lugar!
 date: 2016-04-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/07/mulheres-empreendedoras/
 permalink: /2016/04/07/mulheres-empreendedoras/

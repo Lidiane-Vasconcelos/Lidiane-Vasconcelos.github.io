@@ -2,7 +2,7 @@
 id: 3188
 title: Todo mundo quer uma casa bonita e funcional, certo?
 date: 2012-09-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/20/loja-virtual-moveis-decoracao/
 permalink: /2012/09/20/loja-virtual-moveis-decoracao/

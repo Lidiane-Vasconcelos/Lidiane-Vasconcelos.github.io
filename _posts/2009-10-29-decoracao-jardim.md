@@ -2,7 +2,7 @@
 id: 2719
 title: Decoração de Jardins Com Objetos Reutilizados
 date: 2009-10-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/29/decoracao-jardim/
 permalink: /2009/10/29/decoracao-jardim/

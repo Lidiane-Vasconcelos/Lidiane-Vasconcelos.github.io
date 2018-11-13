@@ -2,7 +2,7 @@
 id: 3749
 title: Suco de beterraba, cenoura e laranja… e sabedoria de vó.
 date: 2017-04-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/11/suco-de-beterraba/
 permalink: /2017/04/11/suco-de-beterraba/

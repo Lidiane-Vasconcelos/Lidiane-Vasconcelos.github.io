@@ -2,7 +2,7 @@
 id: 2868
 title: Resultado do sorteio no Bicha Fêmea em parceria com a MIREPOIX.
 date: 2010-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/23/resultado-sorteio-mirepoix/
 permalink: /2010/08/23/resultado-sorteio-mirepoix/

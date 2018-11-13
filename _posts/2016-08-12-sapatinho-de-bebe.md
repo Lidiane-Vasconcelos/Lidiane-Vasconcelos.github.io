@@ -2,7 +2,7 @@
 id: 3636
 title: Como escolher o melhor sapatinho de bebê?
 date: 2016-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/12/sapatinho-de-bebe/
 permalink: /2016/08/12/sapatinho-de-bebe/

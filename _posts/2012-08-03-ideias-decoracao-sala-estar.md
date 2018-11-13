@@ -2,7 +2,7 @@
 id: 3165
 title: '3 ideias simples de decoração e aconchego na sua sala de estar: aplique já!'
 date: 2012-08-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/03/ideias-decoracao-sala-estar/
 permalink: /2012/08/03/ideias-decoracao-sala-estar/

@@ -2,7 +2,7 @@
 id: 2926
 title: 'Decoração: cor da sala de estar. Qual escolher?'
 date: 2010-12-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/27/decoracao-cor-sala-de-estar/
 permalink: /2010/12/27/decoracao-cor-sala-de-estar/

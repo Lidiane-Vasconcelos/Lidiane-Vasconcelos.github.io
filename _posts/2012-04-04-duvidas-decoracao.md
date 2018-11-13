@@ -2,7 +2,7 @@
 id: 3128
 title: Dúvidas de decoração? Carol Carneiro responde!
 date: 2012-04-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/04/04/duvidas-decoracao/
 permalink: /2012/04/04/duvidas-decoracao/

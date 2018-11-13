@@ -2,7 +2,7 @@
 id: 2839
 title: Expectativas reais, você tem?
 date: 2010-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/28/emagrecimento-expectativas/
 permalink: /2010/06/28/emagrecimento-expectativas/

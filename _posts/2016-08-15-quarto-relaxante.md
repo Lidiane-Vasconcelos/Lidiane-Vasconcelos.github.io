@@ -2,7 +2,7 @@
 id: 3643
 title: 3 dicas simples para deixar seu quarto relaxante e calmo.
 date: 2016-08-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/15/quarto-relaxante/
 permalink: /2016/08/15/quarto-relaxante/

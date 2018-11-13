@@ -2,7 +2,7 @@
 id: 3542
 title: 'Por uma lavanderia bonita e organizada: 8 dicas.'
 date: 2016-02-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/16/lavanderia-bonita-e-organizada/
 permalink: /2016/02/16/lavanderia-bonita-e-organizada/

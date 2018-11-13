@@ -2,7 +2,7 @@
 id: 3685
 title: Sorvete caseiro de melancia para dias de sol!
 date: 2016-10-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/13/sorvete-caseiro/
 permalink: /2016/10/13/sorvete-caseiro/

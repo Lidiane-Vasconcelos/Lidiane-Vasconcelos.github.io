@@ -2,7 +2,7 @@
 id: 3293
 title: 'Faça você mesma: moldura de porta-retratos linda de viver.'
 date: 2014-05-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/13/moldura-porta-retratos/
 permalink: /2014/05/13/moldura-porta-retratos/

@@ -2,7 +2,7 @@
 id: 3013
 title: 'O Bicha Fêma agora tem um irmão: Decoração da Casa.com'
 date: 2011-06-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/20/decoracao-da-casa/
 permalink: /2011/06/20/decoracao-da-casa/

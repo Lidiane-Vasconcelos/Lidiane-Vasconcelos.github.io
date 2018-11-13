@@ -2,7 +2,7 @@
 id: 3689
 title: Decoração do lavabo ou banheiro para receber visitas.
 date: 2016-10-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/20/decoracao-do-lavabo/
 permalink: /2016/10/20/decoracao-do-lavabo/

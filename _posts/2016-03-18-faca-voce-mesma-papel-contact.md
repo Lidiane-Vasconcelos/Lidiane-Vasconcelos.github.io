@@ -2,7 +2,7 @@
 id: 3566
 title: '7 ideias &#8220;faça você mesma&#8221; com papel contact.'
 date: 2016-03-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/18/faca-voce-mesma-papel-contact/
 permalink: /2016/03/18/faca-voce-mesma-papel-contact/

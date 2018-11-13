@@ -2,7 +2,7 @@
 id: 3440
 title: 7 produtos de beleza que você não precisa testar!
 date: 2015-06-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/29/produtos-de-beleza-2/
 permalink: /2015/06/29/produtos-de-beleza-2/

@@ -2,7 +2,7 @@
 id: 2696
 title: '“Pitacos” de Bicha Fêmea: decoração de quartos.'
 date: 2009-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/12/decoracao-quartos-ideia/
 permalink: /2009/08/12/decoracao-quartos-ideia/

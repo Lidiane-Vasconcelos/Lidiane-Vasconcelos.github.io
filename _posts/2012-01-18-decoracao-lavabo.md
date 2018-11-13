@@ -2,7 +2,7 @@
 id: 3105
 title: 'Boa ideia: arte na decoração do lavabo'
 date: 2012-01-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/18/decoracao-lavabo/
 permalink: /2012/01/18/decoracao-lavabo/

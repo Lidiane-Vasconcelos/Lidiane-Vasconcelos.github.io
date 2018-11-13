@@ -2,7 +2,7 @@
 id: 3788
 title: 'Festa caseira princesa sofia: Clarinha faz 3.'
 date: 2017-08-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/23/festa-caseira-princesa-sofia/
 permalink: /2017/08/23/festa-caseira-princesa-sofia/

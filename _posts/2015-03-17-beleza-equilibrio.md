@@ -2,7 +2,7 @@
 id: 3408
 title: Quando é que estamos bonitas, afinal?
 date: 2015-03-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/17/beleza-equilibrio/
 permalink: /2015/03/17/beleza-equilibrio/

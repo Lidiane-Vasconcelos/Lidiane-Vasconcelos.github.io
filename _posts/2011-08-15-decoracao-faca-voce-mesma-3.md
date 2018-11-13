@@ -2,7 +2,7 @@
 id: 3036
 title: 'Decoração “faça você mesma”: luminárias de taça de vinho…'
 date: 2011-08-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/15/decoracao-faca-voce-mesma-3/
 permalink: /2011/08/15/decoracao-faca-voce-mesma-3/

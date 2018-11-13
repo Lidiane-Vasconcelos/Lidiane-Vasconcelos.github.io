@@ -2,7 +2,7 @@
 id: 3786
 title: Quer melhorar sua prática de meditação? Faça Yoga.
 date: 2017-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/21/meditacao/
 permalink: /2017/08/21/meditacao/

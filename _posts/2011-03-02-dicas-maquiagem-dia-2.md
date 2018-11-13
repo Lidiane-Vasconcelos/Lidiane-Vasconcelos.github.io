@@ -2,7 +2,7 @@
 id: 2956
 title: Dicas de maquiagem para ficar básica e linda no dia a dia…
 date: 2011-03-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/02/dicas-maquiagem-dia-2/
 permalink: /2011/03/02/dicas-maquiagem-dia-2/

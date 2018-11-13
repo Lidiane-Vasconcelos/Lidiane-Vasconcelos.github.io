@@ -2,7 +2,7 @@
 id: 3157
 title: Sabe quem vai ter a Gaudesivos inteirinha para escolher um presente?
 date: 2012-07-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/19/resultado-sorteio-gaudesivos/
 permalink: /2012/07/19/resultado-sorteio-gaudesivos/

@@ -2,7 +2,7 @@
 id: 2953
 title: 'Organize-se com charme by La Pomme &#038; Bicha Fêmea.'
 date: 2011-02-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/07/sorteio-agenda-lapomme/
 permalink: /2011/02/07/sorteio-agenda-lapomme/

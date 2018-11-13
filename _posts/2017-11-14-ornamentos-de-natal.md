@@ -2,7 +2,7 @@
 id: 3828
 title: 'Ornamentos de Natal: 2 ideias “faça você mesma”.'
 date: 2017-11-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/14/ornamentos-de-natal/
 permalink: /2017/11/14/ornamentos-de-natal/

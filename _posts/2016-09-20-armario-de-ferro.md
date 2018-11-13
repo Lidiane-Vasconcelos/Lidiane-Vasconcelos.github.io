@@ -2,7 +2,7 @@
 id: 3668
 title: Como reformar um armário de ferro que está velho?
 date: 2016-09-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/20/armario-de-ferro/
 permalink: /2016/09/20/armario-de-ferro/

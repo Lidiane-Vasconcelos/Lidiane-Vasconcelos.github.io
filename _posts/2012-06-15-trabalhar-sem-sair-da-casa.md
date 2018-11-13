@@ -2,7 +2,7 @@
 id: 3137
 title: Quer trabalhar sem sair de casa? Abra sua loja na Divitae!
 date: 2012-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/15/trabalhar-sem-sair-da-casa/
 permalink: /2012/06/15/trabalhar-sem-sair-da-casa/

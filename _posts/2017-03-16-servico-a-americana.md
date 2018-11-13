@@ -2,7 +2,7 @@
 id: 3737
 title: 'Serviço à americana: dicas pra fazer bonito!'
 date: 2017-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/16/servico-a-americana/
 permalink: /2017/03/16/servico-a-americana/

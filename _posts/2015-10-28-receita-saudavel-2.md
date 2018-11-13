@@ -2,7 +2,7 @@
 id: 3506
 title: 'Receita saudável: suflê de couve-flor e cenoura'
 date: 2015-10-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/28/receita-saudavel-2/
 permalink: /2015/10/28/receita-saudavel-2/

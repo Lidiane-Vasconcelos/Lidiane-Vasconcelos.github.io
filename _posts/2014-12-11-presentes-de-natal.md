@@ -2,7 +2,7 @@
 id: 3376
 title: Você fez listinha de presentes de Natal este ano?
 date: 2014-12-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/11/presentes-de-natal/
 permalink: /2014/12/11/presentes-de-natal/

@@ -2,7 +2,7 @@
 id: 2898
 title: Como melhorar o Bicha Fêmea?
 date: 2010-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/03/como-melhorar-o-bicha-femea/
 permalink: /2010/11/03/como-melhorar-o-bicha-femea/

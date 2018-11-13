@@ -2,7 +2,7 @@
 id: 3730
 title: 'Sopa de lentilhas: comida boa e prosperidade o ano todo!'
 date: 2017-02-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/21/sopa-de-lentilhas/
 permalink: /2017/02/21/sopa-de-lentilhas/

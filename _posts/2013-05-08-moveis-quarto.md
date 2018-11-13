@@ -2,7 +2,7 @@
 id: 3220
 title: 'Móveis da casa: falta a mesa de cabeceira no quarto? Improvisa!'
 date: 2013-05-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/08/moveis-quarto/
 permalink: /2013/05/08/moveis-quarto/

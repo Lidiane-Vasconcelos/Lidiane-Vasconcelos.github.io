@@ -2,7 +2,7 @@
 id: 3876
 title: Como ter disciplina e aumentar a produtividade?
 date: 2018-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 excerpt: Por mais que a gente aprenda sobre produtividade, a não execução do que foi planejado traz o gosto ruim da frustração. Como ter disciplina para fazer o que precisa ser feito?
 layout: post
 guid: http://localhost/wordpress/2018/09/04/produtividade-4/

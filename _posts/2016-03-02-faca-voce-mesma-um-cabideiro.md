@@ -2,7 +2,7 @@
 id: 3553
 title: Faça você mesma um cabideiro para a entrada de casa.
 date: 2016-03-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/02/faca-voce-mesma-um-cabideiro/
 permalink: /2016/03/02/faca-voce-mesma-um-cabideiro/

@@ -2,7 +2,7 @@
 id: 3163
 title: 'Artesanal Shop: a loja que decora sua casa pela internet!'
 date: 2012-07-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/31/artesanal-shop-loja-decoracao/
 permalink: /2012/07/31/artesanal-shop-loja-decoracao/

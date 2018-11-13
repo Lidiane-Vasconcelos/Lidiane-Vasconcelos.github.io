@@ -2,7 +2,7 @@
 id: 3343
 title: 'Bonitas e funcionais: 4 dicas de organização de bijus.'
 date: 2014-09-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/15/dicas-organizacao-bijus/
 permalink: /2014/09/15/dicas-organizacao-bijus/

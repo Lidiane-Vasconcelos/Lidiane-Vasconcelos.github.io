@@ -2,7 +2,7 @@
 id: 3274
 title: 'Beleza dos olhos no Verão: sombras'
 date: 2014-01-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/21/beleza-olhos-verao-sombras/
 permalink: /2014/01/21/beleza-olhos-verao-sombras/

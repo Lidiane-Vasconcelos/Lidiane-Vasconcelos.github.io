@@ -2,7 +2,7 @@
 id: 3592
 title: 'Desacelerar e ter uma vida leve: veja 4 dicas práticas.'
 date: 2016-04-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/04/18/desacelerar/
 permalink: /2016/04/18/desacelerar/

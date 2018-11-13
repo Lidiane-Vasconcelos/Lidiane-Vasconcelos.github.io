@@ -2,7 +2,7 @@
 id: 3021
 title: 'Decoração barata: casa de Rejane'
 date: 2011-07-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/15/decoracao-barata/
 permalink: /2011/07/15/decoracao-barata/

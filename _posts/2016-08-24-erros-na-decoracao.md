@@ -2,7 +2,7 @@
 id: 3648
 title: Veja 6 dicas e evite erros na decoração da sua casa.
 date: 2016-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/24/erros-na-decoracao/
 permalink: /2016/08/24/erros-na-decoracao/

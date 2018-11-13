@@ -2,7 +2,7 @@
 id: 3800
 title: Por que criar uma loja virtual?
 date: 2017-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/13/loja-virtual/
 permalink: /2017/09/13/loja-virtual/

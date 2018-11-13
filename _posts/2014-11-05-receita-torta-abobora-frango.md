@@ -2,7 +2,7 @@
 id: 3363
 title: 'Receita molezinha e gostosa: torta de abóbora + frango.'
 date: 2014-11-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/05/receita-torta-abobora-frango/
 permalink: /2014/11/05/receita-torta-abobora-frango/

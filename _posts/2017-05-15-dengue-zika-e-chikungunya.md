@@ -2,7 +2,7 @@
 id: 3763
 title: 'Dengue, zika e chikungunya: entenda as diferenças.'
 date: 2017-05-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/15/dengue-zika-e-chikungunya/
 permalink: /2017/05/15/dengue-zika-e-chikungunya/

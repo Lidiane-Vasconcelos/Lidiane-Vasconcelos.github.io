@@ -2,7 +2,7 @@
 id: 3477
 title: O que toda mulher deve saber sobre as formas de depilação
 date: 2015-08-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/31/formas-de-depilacao/
 permalink: /2015/08/31/formas-de-depilacao/

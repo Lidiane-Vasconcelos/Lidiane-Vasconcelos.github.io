@@ -2,7 +2,7 @@
 id: 2949
 title: 5 ideias para organizar esmaltes. Você já imaginou algo assim?
 date: 2011-02-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/16/ideias-organizar-esmaltes/
 permalink: /2011/02/16/ideias-organizar-esmaltes/

@@ -2,7 +2,7 @@
 id: 2903
 title: Parceria Closonê Acessórios no Aniversário do Bicha Fêmea!
 date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/01/parceria-closone-acessorios/
 permalink: /2010/11/01/parceria-closone-acessorios/

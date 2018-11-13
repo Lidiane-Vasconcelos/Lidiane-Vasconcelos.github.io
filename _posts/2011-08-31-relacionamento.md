@@ -2,7 +2,7 @@
 id: 3044
 title: Um relacionamento tem mais chance de surgir se a gente não procura?
 date: 2011-08-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/31/relacionamento/
 permalink: /2011/08/31/relacionamento/

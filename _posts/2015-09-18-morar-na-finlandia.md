@@ -2,7 +2,7 @@
 id: 3488
 title: 'Casa e decoração: o jeito de morar na Finlândia'
 date: 2015-09-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/18/morar-na-finlandia/
 permalink: /2015/09/18/morar-na-finlandia/

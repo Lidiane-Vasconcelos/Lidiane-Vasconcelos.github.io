@@ -2,7 +2,7 @@
 id: 3756
 title: 'Abacaxi assado: receita simples e surpreendente.'
 date: 2017-05-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/02/abacaxi-assado/
 permalink: /2017/05/02/abacaxi-assado/

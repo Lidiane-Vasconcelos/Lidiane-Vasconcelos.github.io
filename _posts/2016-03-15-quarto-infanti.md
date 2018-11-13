@@ -2,7 +2,7 @@
 id: 3563
 title: 'Quarto infantil: retire 5 itens fora de uso… agora!'
 date: 2016-03-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/15/quarto-infanti/
 permalink: /2016/03/15/quarto-infanti/

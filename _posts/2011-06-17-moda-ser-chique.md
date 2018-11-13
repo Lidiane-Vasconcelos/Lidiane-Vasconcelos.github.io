@@ -2,7 +2,7 @@
 id: 3012
 title: Quando se fala de moda, o que é ser chique?
 date: 2011-06-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/17/moda-ser-chique/
 permalink: /2011/06/17/moda-ser-chique/

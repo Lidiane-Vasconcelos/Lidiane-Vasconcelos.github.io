@@ -2,7 +2,7 @@
 id: 2915
 title: 'De bicha fêmea para bicha fêmea: Omo Líquido Super Concentrado'
 date: 2010-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/22/omo-liquido-super-concentrad/
 permalink: /2010/11/22/omo-liquido-super-concentrad/

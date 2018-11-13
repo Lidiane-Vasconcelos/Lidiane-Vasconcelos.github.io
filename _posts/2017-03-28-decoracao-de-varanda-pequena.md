@@ -2,7 +2,7 @@
 id: 3746
 title: 'Decoração de varanda pequena: 4 ideias, 8 inspirações.'
 date: 2017-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/03/28/decoracao-de-varanda-pequena/
 permalink: /2017/03/28/decoracao-de-varanda-pequena/

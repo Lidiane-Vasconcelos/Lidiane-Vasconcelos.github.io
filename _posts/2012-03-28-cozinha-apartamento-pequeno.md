@@ -2,7 +2,7 @@
 id: 3125
 title: Cozinha moderna em apartamento pequeno… tem jeito?
 date: 2012-03-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/28/cozinha-apartamento-pequeno/
 permalink: /2012/03/28/cozinha-apartamento-pequeno/

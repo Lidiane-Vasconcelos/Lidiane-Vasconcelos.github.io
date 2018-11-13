@@ -2,7 +2,7 @@
 id: 3115
 title: Já pegou o pacotinho de confete e serpentina?
 date: 2012-02-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/02/17/confete-e-serpentina/
 permalink: /2012/02/17/confete-e-serpentina/

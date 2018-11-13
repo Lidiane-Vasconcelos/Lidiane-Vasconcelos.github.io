@@ -2,7 +2,7 @@
 id: 3198
 title: 'Usar pincel na maquiagem faz diferença? [Parte I]'
 date: 2012-10-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/12/pincel-na-maquiagem/
 permalink: /2012/10/12/pincel-na-maquiagem/

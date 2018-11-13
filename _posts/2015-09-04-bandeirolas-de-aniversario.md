@@ -2,7 +2,7 @@
 id: 3479
 title: 'Bandeirolas de aniversário: imprima grátis!'
 date: 2015-09-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/04/bandeirolas-de-aniversario/
 permalink: /2015/09/04/bandeirolas-de-aniversario/

@@ -2,7 +2,7 @@
 id: 3185
 title: 'Bolsa, cinto ou óculos com marca aparecendo​: brega ou chic?'
 date: 2012-09-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/17/marca-moda/
 permalink: /2012/09/17/marca-moda/

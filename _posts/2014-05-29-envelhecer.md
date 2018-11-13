@@ -2,7 +2,7 @@
 id: 3301
 title: Você acha que envelhecer é uma coisa ruim?
 date: 2014-05-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/29/envelhecer/
 permalink: /2014/05/29/envelhecer/

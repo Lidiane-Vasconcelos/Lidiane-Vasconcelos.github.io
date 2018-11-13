@@ -2,7 +2,7 @@
 id: 3110
 title: 'Quarto: ideias de organização para a cabeceira da cama.'
 date: 2012-02-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/02/01/quarto-organizacao-cabeceira/
 permalink: /2012/02/01/quarto-organizacao-cabeceira/

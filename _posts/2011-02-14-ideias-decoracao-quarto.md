@@ -2,7 +2,7 @@
 id: 2943
 title: Ideias econômicas para a decoração do quarto. Inspire-se!
 date: 2011-02-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/02/14/ideias-decoracao-quarto/
 permalink: /2011/02/14/ideias-decoracao-quarto/

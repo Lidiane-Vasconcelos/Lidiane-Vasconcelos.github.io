@@ -2,7 +2,7 @@
 id: 2853
 title: Dicas para organizar sua maquiagem.
 date: 2010-07-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/30/dicas-organizacao-maquiagem/
 permalink: /2010/07/30/dicas-organizacao-maquiagem/

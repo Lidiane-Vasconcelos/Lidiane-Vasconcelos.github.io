@@ -2,7 +2,7 @@
 id: 3074
 title: 'Fuxicos e Flores: quando criatividade e feminilidade florescem…'
 date: 2011-11-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/03/fuxicos-flores-moda-acessorio/
 permalink: /2011/11/03/fuxicos-flores-moda-acessorio/

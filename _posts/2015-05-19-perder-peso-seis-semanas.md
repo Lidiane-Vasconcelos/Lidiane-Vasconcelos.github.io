@@ -2,7 +2,7 @@
 id: 3424
 title: Como perder peso em seis semanas com o Corpo D21.
 date: 2015-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/19/perder-peso-seis-semanas/
 permalink: /2015/05/19/perder-peso-seis-semanas/

@@ -2,7 +2,7 @@
 id: 3470
 title: 'Emagrecimento com determinação: Carol Willrich contou tudo!'
 date: 2015-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/24/emagrecimento-2/
 permalink: /2015/08/24/emagrecimento-2/

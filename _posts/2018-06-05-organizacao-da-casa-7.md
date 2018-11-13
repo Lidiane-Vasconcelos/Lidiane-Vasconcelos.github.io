@@ -2,7 +2,7 @@
 id: 3866
 title: Dicas de organização da casa pra facilitar a vida já!
 date: 2018-06-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/06/05/organizacao-da-casa-7/
 permalink: /2018/06/05/organizacao-da-casa-7/

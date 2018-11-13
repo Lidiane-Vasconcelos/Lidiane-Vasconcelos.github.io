@@ -2,7 +2,7 @@
 id: 3104
 title: 'Uma bicha fêmea por outra: Claudia Medeiros'
 date: 2012-01-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/13/entrevista-claudia-medeiros/
 permalink: /2012/01/13/entrevista-claudia-medeiros/

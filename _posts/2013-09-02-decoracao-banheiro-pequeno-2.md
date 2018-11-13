@@ -2,7 +2,7 @@
 id: 3256
 title: 'Decoração de banheiro pequeno para poupar/ganhar espaço: 4 dicas'
 date: 2013-09-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/02/decoracao-banheiro-pequeno-2/
 permalink: /2013/09/02/decoracao-banheiro-pequeno-2/

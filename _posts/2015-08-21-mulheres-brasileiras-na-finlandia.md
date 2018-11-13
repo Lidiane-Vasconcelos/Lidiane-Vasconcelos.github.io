@@ -2,7 +2,7 @@
 id: 3467
 title: 'Mulheres brasileiras na Finlândia: histórias da vida real.'
 date: 2015-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/21/mulheres-brasileiras-na-finlandia/
 permalink: /2015/08/21/mulheres-brasileiras-na-finlandia/

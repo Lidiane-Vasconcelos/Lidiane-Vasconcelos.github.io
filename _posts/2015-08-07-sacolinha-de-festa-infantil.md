@@ -2,7 +2,7 @@
 id: 3452
 title: 'Sacolinha de festa infantil: faça você mesma!'
 date: 2015-08-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/07/sacolinha-de-festa-infantil/
 permalink: /2015/08/07/sacolinha-de-festa-infantil/

@@ -2,7 +2,7 @@
 id: 3267
 title: Cores salpicadas na decoração aqui e acolá… lindeza de ver!
 date: 2013-10-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/07/cores-decoracao/
 permalink: /2013/10/07/cores-decoracao/

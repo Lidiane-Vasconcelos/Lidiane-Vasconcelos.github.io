@@ -2,7 +2,7 @@
 id: 3419
 title: Salmão ao molho de manga
 date: 2015-05-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/05/06/salmao-molho-manga/
 permalink: /2015/05/06/salmao-molho-manga/

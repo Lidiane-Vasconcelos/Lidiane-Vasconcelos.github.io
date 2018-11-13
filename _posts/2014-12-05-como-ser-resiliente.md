@@ -2,7 +2,7 @@
 id: 3375
 title: Como ser resiliente? A vida ensina…
 date: 2014-12-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/12/05/como-ser-resiliente/
 permalink: /2014/12/05/como-ser-resiliente/

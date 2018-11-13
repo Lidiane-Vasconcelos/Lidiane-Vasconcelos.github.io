@@ -2,7 +2,7 @@
 id: 2694
 title: Vou, Mas Volto. É Bem Rapidinho… Mesmo!!!!
 date: 2009-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/02/vou-mas-volto-bem-rapidinho-mesmo/
 permalink: /2009/08/02/vou-mas-volto-bem-rapidinho-mesmo/

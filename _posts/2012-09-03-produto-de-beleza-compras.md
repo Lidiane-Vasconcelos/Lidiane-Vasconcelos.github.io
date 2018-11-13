@@ -2,7 +2,7 @@
 id: 3179
 title: Qual próximo produto de beleza você vai comprar?
 date: 2012-09-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/03/produto-de-beleza-compras/
 permalink: /2012/09/03/produto-de-beleza-compras/

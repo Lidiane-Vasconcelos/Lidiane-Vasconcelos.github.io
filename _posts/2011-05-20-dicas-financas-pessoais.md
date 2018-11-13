@@ -2,7 +2,7 @@
 id: 2996
 title: Suas finanças pessoais estão no azul ou no vermelho?
 date: 2011-05-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/20/dicas-financas-pessoais/
 permalink: /2011/05/20/dicas-financas-pessoais/

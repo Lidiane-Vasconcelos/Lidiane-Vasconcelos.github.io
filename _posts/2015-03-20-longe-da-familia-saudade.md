@@ -2,7 +2,7 @@
 id: 3412
 title: 'Tanto tempo longe da família e amigos: quem aguenta?'
 date: 2015-03-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/20/longe-da-familia-saudade/
 permalink: /2015/03/20/longe-da-familia-saudade/

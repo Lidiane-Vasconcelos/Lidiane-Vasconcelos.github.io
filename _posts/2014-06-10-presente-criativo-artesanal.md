@@ -2,7 +2,7 @@
 id: 3304
 title: 'Presentes criativos, feitos á mão: todo mundo gosta!'
 date: 2014-06-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/06/10/presente-criativo-artesanal/
 permalink: /2014/06/10/presente-criativo-artesanal/

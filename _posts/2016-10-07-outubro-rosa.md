@@ -2,7 +2,7 @@
 id: 3683
 title: 'Outubro Rosa Recife: ação pelo IMIP.'
 date: 2016-10-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/07/outubro-rosa/
 permalink: /2016/10/07/outubro-rosa/

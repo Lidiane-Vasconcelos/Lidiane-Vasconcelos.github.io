@@ -2,7 +2,7 @@
 id: 3461
 title: Como desacelerar a vida e viver sem estresse?
 date: 2015-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/08/21/viver-sem-estresse/
 permalink: /2015/08/21/viver-sem-estresse/

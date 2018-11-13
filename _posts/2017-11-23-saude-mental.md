@@ -2,7 +2,7 @@
 id: 3834
 title: 9 dicas para manter a saúde mental.
 date: 2017-11-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/23/saude-mental/
 permalink: /2017/11/23/saude-mental/

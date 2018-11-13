@@ -2,7 +2,7 @@
 id: 3480
 title: 'Vídeo receita: cheesecake assada com geleia de framboesa e morangos'
 date: 2015-09-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/09/cheesecake/
 permalink: /2015/09/09/cheesecake/

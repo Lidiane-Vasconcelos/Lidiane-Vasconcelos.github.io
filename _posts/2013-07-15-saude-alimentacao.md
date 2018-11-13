@@ -2,7 +2,7 @@
 id: 3240
 title: 'Tomar líquido durante a refeição faz a barriga crescer: verdade ou mentira?'
 date: 2013-07-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/07/15/saude-alimentacao/
 permalink: /2013/07/15/saude-alimentacao/

@@ -2,7 +2,7 @@
 id: 3093
 title: Trio de grelhados by blogueiras das panelas… receitas delícia!
 date: 2011-12-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/14/grelhados-receitas/
 permalink: /2011/12/14/grelhados-receitas/

@@ -2,7 +2,7 @@
 id: 3388
 title: Vale a pena matricular sua criança numa escola bilíngue?
 date: 2015-01-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/30/crianca-escola-bilingue/
 permalink: /2015/01/30/crianca-escola-bilingue/

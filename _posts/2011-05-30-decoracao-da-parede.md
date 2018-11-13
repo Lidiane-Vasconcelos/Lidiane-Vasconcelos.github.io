@@ -2,7 +2,7 @@
 id: 3002
 title: 5 ideias para a decoração da parede vazia em sua casa…
 date: 2011-05-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/30/decoracao-da-parede/
 permalink: /2011/05/30/decoracao-da-parede/

@@ -2,7 +2,7 @@
 id: 2854
 title: Passar fome emagrece?
 date: 2010-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/02/passar-fome-nao-emagrece/
 permalink: /2010/08/02/passar-fome-nao-emagrece/

@@ -2,7 +2,7 @@
 id: 2626
 title: Varanda, terraço, área externa…é tudo de bom!
 date: 2009-02-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/22/varanda-terraco-area-externa/
 permalink: /2009/02/22/varanda-terraco-area-externa/

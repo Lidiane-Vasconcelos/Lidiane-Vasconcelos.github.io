@@ -2,7 +2,7 @@
 id: 3025
 title: Você pode comprar uma caixinha de giz de cera?
 date: 2011-07-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/21/caixinha-de-giz-de-cera/
 permalink: /2011/07/21/caixinha-de-giz-de-cera/

@@ -2,7 +2,7 @@
 id: 3215
 title: Sorteio de Maxi Colar Sandra Arruda… toda bicha fêmea quer!
 date: 2013-05-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/05/07/sorteio-maxi-colar/
 permalink: /2013/05/07/sorteio-maxi-colar/

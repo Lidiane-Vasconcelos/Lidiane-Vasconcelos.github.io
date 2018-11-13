@@ -2,7 +2,7 @@
 id: 3018
 title: 'Cabelos: dicas e cuidados aos 20, 30, 40, 50 anos e +…'
 date: 2011-07-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/11/cabelos-dicas-e-cuidados/
 permalink: /2011/07/11/cabelos-dicas-e-cuidados/

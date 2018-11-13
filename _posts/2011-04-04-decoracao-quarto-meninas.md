@@ -2,7 +2,7 @@
 id: 2975
 title: Decoração infantil para quarto de meninas…
 date: 2011-04-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/04/decoracao-quarto-meninas/
 permalink: /2011/04/04/decoracao-quarto-meninas/

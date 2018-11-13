@@ -2,7 +2,7 @@
 id: 3288
 title: 'Soluções de decoração: vi, curti e compartilho'
 date: 2014-03-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/27/escolhas-decoracao/
 permalink: /2014/03/27/escolhas-decoracao/

@@ -2,7 +2,7 @@
 id: 3512
 title: 'Mulher que trata companheiro como filho: instinto materno?'
 date: 2015-11-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/13/instinto-materno/
 permalink: /2015/11/13/instinto-materno/

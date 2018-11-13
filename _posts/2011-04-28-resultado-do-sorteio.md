@@ -2,7 +2,7 @@
 id: 2985
 title: Saiu o resultado do sorteio da SCA! Você se inscreveu?
 date: 2011-04-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/28/resultado-do-sorteio/
 permalink: /2011/04/28/resultado-do-sorteio/

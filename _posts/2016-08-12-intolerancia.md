@@ -2,7 +2,7 @@
 id: 3642
 title: Como lidar com a intolerância, nossa e dos outros?
 date: 2016-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/12/intolerancia/
 permalink: /2016/08/12/intolerancia/

@@ -2,7 +2,7 @@
 id: 2683
 title: Falaram do Bicha Fêmea Lá no Mato Grosso do Sul
 date: 2009-07-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/10/falaram-do-bicha-fmea-l-no-mato-grosso-do-sul/
 permalink: /2009/07/10/falaram-do-bicha-fmea-l-no-mato-grosso-do-sul/

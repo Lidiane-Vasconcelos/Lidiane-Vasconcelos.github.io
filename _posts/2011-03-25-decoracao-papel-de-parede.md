@@ -2,7 +2,7 @@
 id: 2969
 title: 'Decoração com papel de parede: arrisque e encante-se!'
 date: 2011-03-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/25/decoracao-papel-de-parede/
 permalink: /2011/03/25/decoracao-papel-de-parede/

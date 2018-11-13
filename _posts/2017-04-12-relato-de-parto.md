@@ -2,7 +2,7 @@
 id: 3750
 title: 'Relato de parto: empoderamento e limites!'
 date: 2017-04-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/04/12/relato-de-parto/
 permalink: /2017/04/12/relato-de-parto/

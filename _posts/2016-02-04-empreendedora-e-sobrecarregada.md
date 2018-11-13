@@ -2,7 +2,7 @@
 id: 3536
 title: Empreendedora e sobrecarregada? Veja 8 dicas salvadoras!
 date: 2016-02-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/04/empreendedora-e-sobrecarregada/
 permalink: /2016/02/04/empreendedora-e-sobrecarregada/

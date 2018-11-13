@@ -2,7 +2,7 @@
 id: 2650
 title: Dicas para limpeza e organização da geladeira.
 date: 2009-04-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/21/limpeza-organizacao-geladeira/
 permalink: /2009/04/21/limpeza-organizacao-geladeira/

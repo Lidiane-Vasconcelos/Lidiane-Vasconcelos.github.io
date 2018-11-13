@@ -2,7 +2,7 @@
 id: 3236
 title: Beleza da pele e cuidados anti-idade … para todas as idades!
 date: 2013-06-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/24/beleza-da-pele-2/
 permalink: /2013/06/24/beleza-da-pele-2/

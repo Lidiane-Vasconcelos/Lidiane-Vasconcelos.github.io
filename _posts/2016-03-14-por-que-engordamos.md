@@ -2,7 +2,7 @@
 id: 3561
 title: Por que engordamos?
 date: 2016-03-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/14/por-que-engordamos/
 permalink: /2016/03/14/por-que-engordamos/

@@ -2,7 +2,7 @@
 id: 3032
 title: Você é feliz com as escolhas que fez para sua vida?
 date: 2011-08-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/03/voce-e-feliz/
 permalink: /2011/08/03/voce-e-feliz/

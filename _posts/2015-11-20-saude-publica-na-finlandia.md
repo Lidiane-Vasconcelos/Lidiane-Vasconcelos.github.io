@@ -2,7 +2,7 @@
 id: 3514
 title: Por que o sistema de saúde pública na Finlândia funciona?
 date: 2015-11-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/20/saude-publica-na-finlandia/
 permalink: /2015/11/20/saude-publica-na-finlandia/

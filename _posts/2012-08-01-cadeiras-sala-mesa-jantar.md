@@ -2,7 +2,7 @@
 id: 3164
 title: Quer misturar cadeiras diferentes na mesa da sala de jantar?
 date: 2012-08-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/01/cadeiras-sala-mesa-jantar/
 permalink: /2012/08/01/cadeiras-sala-mesa-jantar/

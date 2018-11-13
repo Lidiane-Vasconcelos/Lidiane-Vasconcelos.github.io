@@ -2,7 +2,7 @@
 id: 2771
 title: Do projeto do nosso escritório ou home office.
 date: 2010-01-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/25/projeto-escritorio-home-office/
 permalink: /2010/01/25/projeto-escritorio-home-office/

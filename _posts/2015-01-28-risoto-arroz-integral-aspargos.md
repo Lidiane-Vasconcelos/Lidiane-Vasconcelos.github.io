@@ -2,7 +2,7 @@
 id: 3384
 title: Risoto com arroz comum, mas integral, com aspargos.
 date: 2015-01-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/28/risoto-arroz-integral-aspargos/
 permalink: /2015/01/28/risoto-arroz-integral-aspargos/

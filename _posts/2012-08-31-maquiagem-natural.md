@@ -2,7 +2,7 @@
 id: 3178
 title: 'Maquiagem como se a gente estivesse sem ela: isso é mesmo possível?'
 date: 2012-08-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/31/maquiagem-natural/
 permalink: /2012/08/31/maquiagem-natural/

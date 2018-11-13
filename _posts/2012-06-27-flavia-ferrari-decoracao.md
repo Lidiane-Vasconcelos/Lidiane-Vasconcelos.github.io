@@ -2,7 +2,7 @@
 id: 3143
 title: 'Flávia Ferrari… blog e revista: sob holofotes do mundo da decoração'
 date: 2012-06-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/27/flavia-ferrari-decoracao/
 permalink: /2012/06/27/flavia-ferrari-decoracao/

@@ -2,7 +2,7 @@
 id: 2821
 title: 'Uma Bicha Fêmea por Outra: Mara Porto'
 date: 2010-05-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/26/mara-porto/
 permalink: /2010/05/26/mara-porto/

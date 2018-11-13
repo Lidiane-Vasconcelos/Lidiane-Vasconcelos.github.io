@@ -2,7 +2,7 @@
 id: 3094
 title: Por uma vida cheia de estilo… do SEU estilo!
 date: 2011-12-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/16/vida-cheia-de-estilo/
 permalink: /2011/12/16/vida-cheia-de-estilo/

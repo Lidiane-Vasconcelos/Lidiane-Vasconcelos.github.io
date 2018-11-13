@@ -2,7 +2,7 @@
 id: 3373
 title: Está difícil encontrar diaristas em São Paulo, não é?
 date: 2014-11-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/11/diaristas-sao-paulo/
 permalink: /2014/11/11/diaristas-sao-paulo/

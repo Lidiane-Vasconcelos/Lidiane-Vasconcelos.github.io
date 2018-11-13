@@ -2,7 +2,7 @@
 id: 3354
 title: Fazer compras é simples, a menos que seja na Finlândia!
 date: 2014-10-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/10/compras-finlandia/
 permalink: /2014/10/10/compras-finlandia/

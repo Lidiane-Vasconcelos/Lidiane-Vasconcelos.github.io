@@ -2,7 +2,7 @@
 id: 3340
 title: As voltas que a vida dá nos levam a lugares inimagináveis!
 date: 2014-09-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/08/vida-lugares/
 permalink: /2014/09/08/vida-lugares/

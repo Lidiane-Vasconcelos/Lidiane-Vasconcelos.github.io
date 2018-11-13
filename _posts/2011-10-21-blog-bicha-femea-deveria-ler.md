@@ -2,7 +2,7 @@
 id: 3065
 title: Qual blog toda bicha fêmea navegante deveria ler?
 date: 2011-10-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/21/blog-bicha-femea-deveria-ler/
 permalink: /2011/10/21/blog-bicha-femea-deveria-ler/

@@ -2,7 +2,7 @@
 id: 2599
 title: 'Resoluções de beleza, saúde e bem viver&#8230;'
 date: 2009-01-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/04/dica-beleza-saude/
 permalink: /2009/01/04/dica-beleza-saude/

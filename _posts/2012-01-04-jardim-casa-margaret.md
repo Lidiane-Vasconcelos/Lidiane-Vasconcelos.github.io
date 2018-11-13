@@ -2,7 +2,7 @@
 id: 3101
 title: Tem jardim na casa de Margaret? Ô, se tem!
 date: 2012-01-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/04/jardim-casa-margaret/
 permalink: /2012/01/04/jardim-casa-margaret/

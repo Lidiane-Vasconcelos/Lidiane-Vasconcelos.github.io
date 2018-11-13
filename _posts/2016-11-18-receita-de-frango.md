@@ -2,7 +2,7 @@
 id: 3706
 title: Receita de frango com azeitonas, pra tornar festiva a comida caseira.
 date: 2016-11-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/18/receita-de-frango/
 permalink: /2016/11/18/receita-de-frango/

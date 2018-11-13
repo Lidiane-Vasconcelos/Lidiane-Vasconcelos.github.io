@@ -2,7 +2,7 @@
 id: 3042
 title: '“Bloguetiqueta” ou etiqueta na blogosfera: você se importa com isso?'
 date: 2011-08-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/26/boas-maneiras-internet/
 permalink: /2011/08/26/boas-maneiras-internet/

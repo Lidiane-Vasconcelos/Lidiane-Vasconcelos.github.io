@@ -2,7 +2,7 @@
 id: 3615
 title: Saiba como usar a camisa branca, clássico da moda feminina.
 date: 2016-05-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/05/23/camisa-branca/
 permalink: /2016/05/23/camisa-branca/

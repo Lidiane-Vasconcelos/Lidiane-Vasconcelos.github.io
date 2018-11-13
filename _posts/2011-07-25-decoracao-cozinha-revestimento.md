@@ -2,7 +2,7 @@
 id: 3027
 title: 'Decoração de Cozinha: + 2 dúvidas sobre revestimento respondidas!'
 date: 2011-07-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/25/decoracao-cozinha-revestimento/
 permalink: /2011/07/25/decoracao-cozinha-revestimento/

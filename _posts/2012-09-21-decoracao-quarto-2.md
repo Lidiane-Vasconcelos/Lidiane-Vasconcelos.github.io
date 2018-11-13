@@ -2,7 +2,7 @@
 id: 3189
 title: 5 sugestões de belezuras para renovar o seu quarto
 date: 2012-09-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/21/decoracao-quarto-2/
 permalink: /2012/09/21/decoracao-quarto-2/

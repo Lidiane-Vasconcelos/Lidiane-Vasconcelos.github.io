@@ -2,7 +2,7 @@
 id: 3874
 title: Como evitar que o celular impacte sua produtividade?
 date: 2018-08-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/08/21/produtividade-3/
 permalink: /2018/08/21/produtividade-3/

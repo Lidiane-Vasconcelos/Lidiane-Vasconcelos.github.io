@@ -2,7 +2,7 @@
 id: 3677
 title: '3º post da série para organização da casa: penteadeira.'
 date: 2016-09-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/29/organizacao-da-casa-4/
 permalink: /2016/09/29/organizacao-da-casa-4/

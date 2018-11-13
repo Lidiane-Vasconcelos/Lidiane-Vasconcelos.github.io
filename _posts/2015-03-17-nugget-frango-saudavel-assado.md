@@ -2,7 +2,7 @@
 id: 3414
 title: 'Nugget de Frango: caseiro, assado e saudável.'
 date: 2015-03-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/17/nugget-frango-saudavel-assado/
 permalink: /2015/03/17/nugget-frango-saudavel-assado/

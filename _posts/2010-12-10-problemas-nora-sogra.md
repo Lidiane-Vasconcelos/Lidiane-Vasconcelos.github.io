@@ -2,7 +2,7 @@
 id: 2925
 title: Você também tem problemas com a sogra?
 date: 2010-12-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/10/problemas-nora-sogra/
 permalink: /2010/12/10/problemas-nora-sogra/

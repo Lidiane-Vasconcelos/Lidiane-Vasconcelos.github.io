@@ -2,7 +2,7 @@
 id: 3775
 title: Combata doenças mais comuns no inverno com o Yoga.
 date: 2017-06-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/19/doencas-mais-comuns-no-inverno/
 permalink: /2017/06/19/doencas-mais-comuns-no-inverno/

@@ -2,7 +2,7 @@
 id: 2878
 title: 'Resultado do sorteio Bicha Fêmea &#038; Espaço Home + Vantagen$ para bichas fêmeas navegantes…'
 date: 2010-09-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/17/resultado-sorteio-espaco-home/
 permalink: /2010/09/17/resultado-sorteio-espaco-home/

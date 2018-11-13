@@ -2,7 +2,7 @@
 id: 2856
 title: 'Decoração na sala de estar: mesa de centro. Qual seu estilo?'
 date: 2010-08-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/04/decoracao-mesa-de-centro/
 permalink: /2010/08/04/decoracao-mesa-de-centro/

@@ -2,7 +2,7 @@
 id: 3091
 title: 'Sorteio Bicha Fêmea &#038; La Pomme – Resultado II'
 date: 2011-12-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/12/08/sorteio-la-pomme-2/
 permalink: /2011/12/08/sorteio-la-pomme-2/

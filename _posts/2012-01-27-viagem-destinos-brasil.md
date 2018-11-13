@@ -2,7 +2,7 @@
 id: 3109
 title: 'Viagem: qual o seu refúgio para fugir do agito da cidade?'
 date: 2012-01-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/27/viagem-destinos-brasil/
 permalink: /2012/01/27/viagem-destinos-brasil/

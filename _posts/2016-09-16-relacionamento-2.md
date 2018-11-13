@@ -2,7 +2,7 @@
 id: 3666
 title: Como encontrar a pessoa certa para um relacionamento?
 date: 2016-09-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/16/relacionamento-2/
 permalink: /2016/09/16/relacionamento-2/

@@ -2,7 +2,7 @@
 id: 3621
 title: 4 dicas de decoração de quarto de menina que fazem diferença.
 date: 2016-06-03T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/03/quarto-de-menina/
 permalink: /2016/06/03/quarto-de-menina/

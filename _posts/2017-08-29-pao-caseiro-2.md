@@ -2,7 +2,7 @@
 id: 3790
 title: Pão caseiro trançado com recheio de pesto.
 date: 2017-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/29/pao-caseiro-2/
 permalink: /2017/08/29/pao-caseiro-2/

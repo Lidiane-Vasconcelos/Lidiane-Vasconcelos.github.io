@@ -2,7 +2,7 @@
 id: 3016
 title: 'Decoração romântica: casa da Ruby'
 date: 2011-07-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/07/05/decoracao-romantica-ruby/
 permalink: /2011/07/05/decoracao-romantica-ruby/

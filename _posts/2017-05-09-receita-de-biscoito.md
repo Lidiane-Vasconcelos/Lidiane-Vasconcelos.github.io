@@ -2,7 +2,7 @@
 id: 3761
 title: Receita de biscoito caseiro, de azeite e alecrim.
 date: 2017-05-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/09/receita-de-biscoito/
 permalink: /2017/05/09/receita-de-biscoito/

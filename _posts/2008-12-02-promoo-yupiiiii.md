@@ -2,7 +2,7 @@
 id: 2594
 title: Promoção!!! Yupiiiii!!!
 date: 2008-12-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2008/12/02/promoo-yupiiiii/
 permalink: /2008/12/02/promoo-yupiiiii/

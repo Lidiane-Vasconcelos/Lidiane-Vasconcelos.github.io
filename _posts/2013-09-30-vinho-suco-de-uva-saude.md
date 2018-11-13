@@ -2,7 +2,7 @@
 id: 3265
 title: Vinho e suco de uva oferecem os mesmos benefícios para a saúde?
 date: 2013-09-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/30/vinho-suco-de-uva-saude/
 permalink: /2013/09/30/vinho-suco-de-uva-saude/

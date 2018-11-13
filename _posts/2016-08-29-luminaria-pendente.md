@@ -2,7 +2,7 @@
 id: 3653
 title: Você sabe inserir a luminária pendente na decoração?
 date: 2016-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/29/luminaria-pendente/
 permalink: /2016/08/29/luminaria-pendente/

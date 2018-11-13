@@ -2,7 +2,7 @@
 id: 3815
 title: Como planejar cardápio semanal? Simplifique!
 date: 2017-10-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/17/cardapio-semanal/
 permalink: /2017/10/17/cardapio-semanal/

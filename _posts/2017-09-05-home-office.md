@@ -2,7 +2,7 @@
 id: 3793
 title: Para um home office cheio de bossa, inspire-se na Lia!
 date: 2017-09-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/05/home-office/
 permalink: /2017/09/05/home-office/

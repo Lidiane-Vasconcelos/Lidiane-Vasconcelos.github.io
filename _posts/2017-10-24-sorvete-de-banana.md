@@ -2,7 +2,7 @@
 id: 3819
 title: 'Sorvete de banana: receita vapt-vupt.'
 date: 2017-10-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/10/24/sorvete-de-banana/
 permalink: /2017/10/24/sorvete-de-banana/

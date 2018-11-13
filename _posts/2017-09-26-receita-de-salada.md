@@ -2,7 +2,7 @@
 id: 3802
 title: 'Receita de salada de figo: com história e afeto.'
 date: 2017-09-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/26/receita-de-salada/
 permalink: /2017/09/26/receita-de-salada/

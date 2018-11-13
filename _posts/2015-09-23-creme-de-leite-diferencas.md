@@ -2,7 +2,7 @@
 id: 3490
 title: 'Creme de leite caixinha ou fresco: qual a diferença?'
 date: 2015-09-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/09/23/creme-de-leite-diferencas/
 permalink: /2015/09/23/creme-de-leite-diferencas/

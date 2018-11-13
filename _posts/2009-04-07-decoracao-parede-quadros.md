@@ -2,7 +2,7 @@
 id: 2644
 title: Como decorar paredes com quadros.
 date: 2009-04-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/07/decoracao-parede-quadros/
 permalink: /2009/04/07/decoracao-parede-quadros/

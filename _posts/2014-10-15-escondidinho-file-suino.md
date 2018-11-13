@@ -2,7 +2,7 @@
 id: 3357
 title: Escondidinho de filé suíno (xô, preconceito!) + batata doce roxa.
 date: 2014-10-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/10/15/escondidinho-file-suino/
 permalink: /2014/10/15/escondidinho-file-suino/

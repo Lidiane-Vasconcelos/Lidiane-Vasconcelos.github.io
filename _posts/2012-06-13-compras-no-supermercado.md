@@ -2,7 +2,7 @@
 id: 3136
 title: Quer fazer boas compras no supermercado?
 date: 2012-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/13/compras-no-supermercado/
 permalink: /2012/06/13/compras-no-supermercado/

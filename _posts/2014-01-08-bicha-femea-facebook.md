@@ -2,7 +2,7 @@
 id: 3271
 title: Já curtiu o Bicha Fêmea no Facebook?
 date: 2014-01-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/08/bicha-femea-facebook/
 permalink: /2014/01/08/bicha-femea-facebook/

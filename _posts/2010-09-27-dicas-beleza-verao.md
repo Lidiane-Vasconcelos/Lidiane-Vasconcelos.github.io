@@ -2,7 +2,7 @@
 id: 2882
 title: 'Acne nas costas e no colo: dicas de beleza para o verão.'
 date: 2010-09-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/27/dicas-beleza-verao/
 permalink: /2010/09/27/dicas-beleza-verao/

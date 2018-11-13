@@ -2,7 +2,7 @@
 id: 2689
 title: 'Bicha Fêmea Convidada em Foco: Karol'
 date: 2009-07-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/22/convidada-karol/
 permalink: /2009/07/22/convidada-karol/

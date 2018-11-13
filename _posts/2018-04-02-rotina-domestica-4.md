@@ -2,7 +2,7 @@
 id: 3857
 title: Por que você precisa ter uma rotina doméstica?
 date: 2018-04-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/04/02/rotina-domestica-4/
 permalink: /2018/04/02/rotina-domestica-4/

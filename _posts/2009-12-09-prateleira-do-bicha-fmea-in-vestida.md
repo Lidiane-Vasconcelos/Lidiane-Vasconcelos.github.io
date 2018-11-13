@@ -2,7 +2,7 @@
 id: 2747
 title: Prateleira do Bicha Fêmea – In Vestida
 date: 2009-12-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/12/09/prateleira-do-bicha-fmea-in-vestida/
 permalink: /2009/12/09/prateleira-do-bicha-fmea-in-vestida/

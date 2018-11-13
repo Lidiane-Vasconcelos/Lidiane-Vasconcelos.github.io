@@ -2,7 +2,7 @@
 id: 3281
 title: 'Decoração e reforma: 5 experts falam o que não fazer'
 date: 2014-02-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/18/decoracao-reforma-dicas/
 permalink: /2014/02/18/decoracao-reforma-dicas/

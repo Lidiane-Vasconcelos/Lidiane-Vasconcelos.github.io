@@ -2,7 +2,7 @@
 id: 3211
 title: É aniversário do Bicha Fêmea… com despedida…
 date: 2012-11-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/11/22/bicha-femea-despedida/
 permalink: /2012/11/22/bicha-femea-despedida/

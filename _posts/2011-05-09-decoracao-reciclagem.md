@@ -2,7 +2,7 @@
 id: 2990
 title: 'Decoração “faça você mesma”: casa de Margaret'
 date: 2011-05-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/09/decoracao-reciclagem/
 permalink: /2011/05/09/decoracao-reciclagem/

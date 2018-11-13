@@ -2,7 +2,7 @@
 id: 2731
 title: 5 Dicas de Oganização. E Passe bem! Seja Feliz!
 date: 2009-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/10/dicas-organizacao-casa/
 permalink: /2009/11/10/dicas-organizacao-casa/

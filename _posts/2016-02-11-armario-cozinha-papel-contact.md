@@ -2,7 +2,7 @@
 id: 3539
 title: 'Armário de cozinha e papel contact: 6 repaginadas.'
 date: 2016-02-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/11/armario-cozinha-papel-contact/
 permalink: /2016/02/11/armario-cozinha-papel-contact/

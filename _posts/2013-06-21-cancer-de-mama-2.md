@@ -2,7 +2,7 @@
 id: 3224
 title: Eu, bicha fêmea navegante, estou superando um câncer de mama…
 date: 2013-06-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/21/cancer-de-mama-2/
 permalink: /2013/06/21/cancer-de-mama-2/

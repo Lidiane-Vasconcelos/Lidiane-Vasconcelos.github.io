@@ -2,7 +2,7 @@
 id: 2774
 title: 'A idade certa de ter filhos&#8230;'
 date: 2010-01-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/27/convidada-luciana-casado/
 permalink: /2010/01/27/convidada-luciana-casado/

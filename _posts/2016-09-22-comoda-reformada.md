@@ -2,7 +2,7 @@
 id: 3665
 title: Como uma cômoda reformada ganha nova função?
 date: 2016-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/09/22/comoda-reformada/
 permalink: /2016/09/22/comoda-reformada/

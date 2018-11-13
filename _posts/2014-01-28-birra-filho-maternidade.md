@@ -2,7 +2,7 @@
 id: 3276
 title: 'O que fazer na hora da &#8220;birra&#8221;?'
 date: 2014-01-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/28/birra-filho-maternidade/
 permalink: /2014/01/28/birra-filho-maternidade/

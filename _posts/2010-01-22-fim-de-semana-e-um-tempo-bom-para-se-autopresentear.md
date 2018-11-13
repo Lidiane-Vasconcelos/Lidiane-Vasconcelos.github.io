@@ -2,7 +2,7 @@
 id: 2756
 title: 'Fim de semana é um tempo bom para se autopresentear&#8230;'
 date: 2010-01-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/22/fim-de-semana-e-um-tempo-bom-para-se-autopresentear/
 permalink: /2010/01/22/fim-de-semana-e-um-tempo-bom-para-se-autopresentear/

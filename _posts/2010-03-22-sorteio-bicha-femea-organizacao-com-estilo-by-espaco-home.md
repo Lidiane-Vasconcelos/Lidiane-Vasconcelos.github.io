@@ -2,7 +2,7 @@
 id: 2794
 title: 'Sorteio Bicha Fêmea &#038; Organização Com Estilo by Espaço Home'
 date: 2010-03-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/22/sorteio-bicha-femea-organizacao-com-estilo-by-espaco-home/
 permalink: /2010/03/22/sorteio-bicha-femea-organizacao-com-estilo-by-espaco-home/

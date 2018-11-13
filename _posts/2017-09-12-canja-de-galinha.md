@@ -2,7 +2,7 @@
 id: 3799
 title: Canja de galinha para colocar um sorriso no rosto.
 date: 2017-09-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/09/12/canja-de-galinha/
 permalink: /2017/09/12/canja-de-galinha/

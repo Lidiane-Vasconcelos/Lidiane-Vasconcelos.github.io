@@ -2,7 +2,7 @@
 id: 3654
 title: Por menos festa infantil espetáculo, e mais festa afetiva.
 date: 2016-08-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/30/festa-infantil-2/
 permalink: /2016/08/30/festa-infantil-2/

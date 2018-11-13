@@ -2,7 +2,7 @@
 id: 3693
 title: Como usar maquiagem rosa sem parecer desatualizada?
 date: 2016-10-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/24/maquiagem-rosa/
 permalink: /2016/10/24/maquiagem-rosa/

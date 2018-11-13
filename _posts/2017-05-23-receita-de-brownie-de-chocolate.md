@@ -2,7 +2,7 @@
 id: 3767
 title: Receita de brownie de chocolate marmorizado.
 date: 2017-05-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/05/23/receita-de-brownie-de-chocolate/
 permalink: /2017/05/23/receita-de-brownie-de-chocolate/

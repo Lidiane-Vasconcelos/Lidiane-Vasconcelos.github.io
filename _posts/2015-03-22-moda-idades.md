@@ -2,7 +2,7 @@
 id: 3418
 title: O que você não sabia sobre moda para 20, 30, 40, 50 anos ou mais!
 date: 2015-03-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/22/moda-idades/
 permalink: /2015/03/22/moda-idades/

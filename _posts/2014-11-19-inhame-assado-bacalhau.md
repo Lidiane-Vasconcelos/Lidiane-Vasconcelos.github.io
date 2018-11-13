@@ -2,7 +2,7 @@
 id: 3365
 title: Bolinho de inhame assado com bacalhau…huuummmm!
 date: 2014-11-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/19/inhame-assado-bacalhau/
 permalink: /2014/11/19/inhame-assado-bacalhau/

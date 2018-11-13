@@ -2,7 +2,7 @@
 id: 2923
 title: O que é a blogosfera? Que é que você está fazendo nela?
 date: 2010-12-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/08/o-que-e-a-blogosfera/
 permalink: /2010/12/08/o-que-e-a-blogosfera/

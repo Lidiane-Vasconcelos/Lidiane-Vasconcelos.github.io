@@ -2,7 +2,7 @@
 id: 3547
 title: 4 lições que eu aprendi para manter a casa limpa.
 date: 2016-02-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/02/23/casa-limpa/
 permalink: /2016/02/23/casa-limpa/

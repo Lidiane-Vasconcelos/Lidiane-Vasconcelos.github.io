@@ -2,7 +2,7 @@
 id: 3144
 title: Quer uma decoração nova para sua casa de uma hora para outra?
 date: 2012-06-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/06/28/decoracao-adesivos-parede/
 permalink: /2012/06/28/decoracao-adesivos-parede/

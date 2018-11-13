@@ -2,7 +2,7 @@
 id: 2606
 title: Dicas de organização para toda a casa.
 date: 2009-01-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/20/dicas-organizacao-2/
 permalink: /2009/01/20/dicas-organizacao-2/

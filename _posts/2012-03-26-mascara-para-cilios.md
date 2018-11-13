@@ -2,7 +2,7 @@
 id: 3124
 title: Máscara para cílios…beleza e olhos irresistíveis!
 date: 2012-03-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/26/mascara-para-cilios/
 permalink: /2012/03/26/mascara-para-cilios/

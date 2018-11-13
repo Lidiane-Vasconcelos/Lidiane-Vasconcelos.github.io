@@ -2,7 +2,7 @@
 id: 3714
 title: Como decorar a sala de jantar com lustre pendente?
 date: 2016-12-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/06/lustre-pendente/
 permalink: /2016/12/06/lustre-pendente/

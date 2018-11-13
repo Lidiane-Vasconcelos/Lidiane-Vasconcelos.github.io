@@ -2,7 +2,7 @@
 id: 3880
 title: Gestão de rotina da casa na prática!
 date: 2018-10-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2018/10/09/rotina-da-casa/
 permalink: /2018/10/09/rotina-da-casa/

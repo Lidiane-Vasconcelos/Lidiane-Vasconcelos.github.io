@@ -2,7 +2,7 @@
 id: 2922
 title: Quero uma caneca La Pomme ‘pra chamar de minha!
 date: 2010-12-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/12/06/caneca-la-pomme/
 permalink: /2010/12/06/caneca-la-pomme/

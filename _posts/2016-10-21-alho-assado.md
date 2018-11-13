@@ -2,7 +2,7 @@
 id: 3692
 title: Alho assado com alecrim, pra tornar tudo especial.
 date: 2016-10-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/21/alho-assado/
 permalink: /2016/10/21/alho-assado/

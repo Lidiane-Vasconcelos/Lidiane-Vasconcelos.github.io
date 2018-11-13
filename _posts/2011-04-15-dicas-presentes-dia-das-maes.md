@@ -2,7 +2,7 @@
 id: 2979
 title: Sua mãe gosta de mimos artesanais?
 date: 2011-04-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/15/dicas-presentes-dia-das-maes/
 permalink: /2011/04/15/dicas-presentes-dia-das-maes/

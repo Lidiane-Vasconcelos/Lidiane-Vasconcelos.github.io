@@ -2,7 +2,7 @@
 id: 3789
 title: 'Mesa de centro da sala de estar: compre sem erro!'
 date: 2017-08-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/08/29/mesa-de-centro/
 permalink: /2017/08/29/mesa-de-centro/

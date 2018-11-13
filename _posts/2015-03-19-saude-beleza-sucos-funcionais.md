@@ -2,7 +2,7 @@
 id: 3411
 title: 'Saúde e beleza no copo: sucos funcionais'
 date: 2015-03-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/19/saude-beleza-sucos-funcionais/
 permalink: /2015/03/19/saude-beleza-sucos-funcionais/

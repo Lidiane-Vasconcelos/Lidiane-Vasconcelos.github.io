@@ -2,7 +2,7 @@
 id: 3280
 title: 'Cores na decoração: veja 6 respostas e acabe suas dúvidas.'
 date: 2014-02-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/02/13/cores-na-decoracao/
 permalink: /2014/02/13/cores-na-decoracao/

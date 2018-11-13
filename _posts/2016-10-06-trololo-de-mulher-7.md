@@ -2,7 +2,7 @@
 id: 3681
 title: O que tem na Prateleira do Trololó de Mulher de Outubro?
 date: 2016-10-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/10/06/trololo-de-mulher-7/
 permalink: /2016/10/06/trololo-de-mulher-7/

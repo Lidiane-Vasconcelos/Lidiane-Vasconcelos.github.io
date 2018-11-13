@@ -2,7 +2,7 @@
 id: 2899
 title: Mês de aniversário do Bicha Fêmea = super sorteio!
 date: 2010-11-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/11/01/2-aniversario-bicha-femea/
 permalink: /2010/11/01/2-aniversario-bicha-femea/

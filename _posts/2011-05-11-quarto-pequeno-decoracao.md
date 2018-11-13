@@ -2,7 +2,7 @@
 id: 2991
 title: Quarto pequeno com cama + mesa de computador + guarda-roupa é possível?
 date: 2011-05-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/05/11/quarto-pequeno-decoracao/
 permalink: /2011/05/11/quarto-pequeno-decoracao/

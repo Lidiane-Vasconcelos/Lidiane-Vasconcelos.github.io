@@ -2,7 +2,7 @@
 id: 2895
 title: Decoração bonita em banheiro, sem organização, não vale nada!
 date: 2010-10-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/25/decoracao-banheiro-organizacao/
 permalink: /2010/10/25/decoracao-banheiro-organizacao/

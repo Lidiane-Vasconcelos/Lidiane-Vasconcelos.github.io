@@ -2,7 +2,7 @@
 id: 3772
 title: Sopa de abóbora e alho pra aquecer os dias frios.
 date: 2017-06-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/06/06/sopa-de-abobora-2/
 permalink: /2017/06/06/sopa-de-abobora-2/

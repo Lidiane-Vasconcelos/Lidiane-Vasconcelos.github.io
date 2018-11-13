@@ -2,7 +2,7 @@
 id: 2708
 title: Dicas e Detalhes na Decoração do Quarto
 date: 2009-10-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/01/dicas-decoracao-quarto/
 permalink: /2009/10/01/dicas-decoracao-quarto/

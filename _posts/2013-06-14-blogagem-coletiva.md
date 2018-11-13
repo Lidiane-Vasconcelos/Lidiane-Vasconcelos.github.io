@@ -2,7 +2,7 @@
 id: 3227
 title: 'A inspiração a apenas um clique! [Atualizado]'
 date: 2013-06-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/06/14/blogagem-coletiva/
 permalink: /2013/06/14/blogagem-coletiva/

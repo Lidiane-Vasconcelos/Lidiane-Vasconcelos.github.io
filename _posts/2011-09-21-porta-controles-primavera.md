@@ -2,7 +2,7 @@
 id: 3053
 title: Porta controles Primavera… ele já tem dona!
 date: 2011-09-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/21/porta-controles-primavera/
 permalink: /2011/09/21/porta-controles-primavera/

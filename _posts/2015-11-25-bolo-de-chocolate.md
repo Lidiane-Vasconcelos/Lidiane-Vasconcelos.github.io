@@ -2,7 +2,7 @@
 id: 3515
 title: Bolo de Chocolate Funcional
 date: 2015-11-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/25/bolo-de-chocolate/
 permalink: /2015/11/25/bolo-de-chocolate/

@@ -2,7 +2,7 @@
 id: 3289
 title: 'Cadeiras diferentes na mesa de jantar: 3 ideias'
 date: 2014-04-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/04/01/cadeiras-mesa-jantar/
 permalink: /2014/04/01/cadeiras-mesa-jantar/

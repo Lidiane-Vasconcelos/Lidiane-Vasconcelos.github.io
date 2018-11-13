@@ -2,7 +2,7 @@
 id: 2706
 title: 'Aviso Ás Bichas Fêmeas Navegantes&#8230; É. De Novo.'
 date: 2009-08-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/28/aviso-as-bichas-femeas-navegantes-e-de-novo/
 permalink: /2009/08/28/aviso-as-bichas-femeas-navegantes-e-de-novo/

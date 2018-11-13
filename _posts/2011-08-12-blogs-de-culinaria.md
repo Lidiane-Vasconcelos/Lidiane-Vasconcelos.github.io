@@ -2,7 +2,7 @@
 id: 3035
 title: Você gosta de blogs de culinária?
 date: 2011-08-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/12/blogs-de-culinaria/
 permalink: /2011/08/12/blogs-de-culinaria/

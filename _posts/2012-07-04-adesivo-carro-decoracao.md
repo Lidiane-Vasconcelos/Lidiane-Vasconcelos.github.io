@@ -2,7 +2,7 @@
 id: 3147
 title: É possível usar adesivos de envelopar carros na decoração da casa?
 date: 2012-07-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/07/04/adesivo-carro-decoracao/
 permalink: /2012/07/04/adesivo-carro-decoracao/

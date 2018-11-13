@@ -2,7 +2,7 @@
 id: 2866
 title: Qual é a importância do alongamento?
 date: 2010-08-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/27/importancia-do-alongamento/
 permalink: /2010/08/27/importancia-do-alongamento/

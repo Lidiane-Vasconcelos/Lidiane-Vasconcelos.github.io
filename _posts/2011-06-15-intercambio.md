@@ -2,7 +2,7 @@
 id: 3011
 title: Você receberia em casa um estrangeiro que nunca viu?
 date: 2011-06-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/06/15/intercambio/
 permalink: /2011/06/15/intercambio/

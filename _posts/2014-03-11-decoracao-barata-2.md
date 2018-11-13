@@ -2,7 +2,7 @@
 id: 3285
 title: '16 dicas de 6 blogueiras: decore gastando pouco.'
 date: 2014-03-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/03/11/decoracao-barata-2/
 permalink: /2014/03/11/decoracao-barata-2/

@@ -2,7 +2,7 @@
 id: 2818
 title: 'Bichas Fêmeas em Debate: filho de ecomãe, ecofilho é?'
 date: 2010-05-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/19/educacao-ecologica-criancas/
 permalink: /2010/05/19/educacao-ecologica-criancas/

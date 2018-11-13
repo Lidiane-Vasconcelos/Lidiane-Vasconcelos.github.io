@@ -2,7 +2,7 @@
 id: 3321
 title: Qual a hora certa de mandar a cria para a escolinha?
 date: 2014-07-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/16/hora-certa-escolinha/
 permalink: /2014/07/16/hora-certa-escolinha/

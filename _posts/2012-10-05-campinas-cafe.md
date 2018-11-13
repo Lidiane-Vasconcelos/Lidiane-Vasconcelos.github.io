@@ -2,7 +2,7 @@
 id: 3195
 title: 'Campinas + café + comidinha + crianças = Gato Mia [Café Divertido]'
 date: 2012-10-05T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/05/campinas-cafe/
 permalink: /2012/10/05/campinas-cafe/

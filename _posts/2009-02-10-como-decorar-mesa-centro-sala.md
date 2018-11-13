@@ -2,7 +2,7 @@
 id: 2619
 title: Como decorar a mesa de centro de sala.
 date: 2009-02-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/02/10/como-decorar-mesa-centro-sala/
 permalink: /2009/02/10/como-decorar-mesa-centro-sala/

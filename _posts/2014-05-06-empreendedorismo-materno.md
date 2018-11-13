@@ -2,7 +2,7 @@
 id: 3291
 title: O que faz uma mãe decidir pelo trabalho autônomo?
 date: 2014-05-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/06/empreendedorismo-materno/
 permalink: /2014/05/06/empreendedorismo-materno/

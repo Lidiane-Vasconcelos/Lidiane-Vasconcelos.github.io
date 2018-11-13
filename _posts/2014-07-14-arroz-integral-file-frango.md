@@ -2,7 +2,7 @@
 id: 3320
 title: Arroz integral (fora do comum) + filé de frango (no molho delícia!).
 date: 2014-07-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/07/14/arroz-integral-file-frango/
 permalink: /2014/07/14/arroz-integral-file-frango/

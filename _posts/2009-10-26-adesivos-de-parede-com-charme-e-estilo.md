@@ -2,7 +2,7 @@
 id: 2722
 title: Adesivos de parede para sua sala, quarto, cozinha ou escritório?
 date: 2009-10-26T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/10/26/adesivos-de-parede-com-charme-e-estilo/
 permalink: /2009/10/26/adesivos-de-parede-com-charme-e-estilo/

@@ -2,7 +2,7 @@
 id: 2806
 title: 'Lavanderia: que tipo de máquina facilita a organização?'
 date: 2010-04-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/14/organizacao-lavanderia-maquina/
 permalink: /2010/04/14/organizacao-lavanderia-maquina/

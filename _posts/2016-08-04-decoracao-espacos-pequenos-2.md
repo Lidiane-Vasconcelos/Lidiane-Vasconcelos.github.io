@@ -2,7 +2,7 @@
 id: 3635
 title: Saiba 3 erros cometidos na decoração de espaços pequenos.
 date: 2016-08-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/04/decoracao-espacos-pequenos-2/
 permalink: /2016/08/04/decoracao-espacos-pequenos-2/

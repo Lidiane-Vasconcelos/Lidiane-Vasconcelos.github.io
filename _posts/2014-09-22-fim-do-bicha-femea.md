@@ -2,7 +2,7 @@
 id: 3348
 title: Hora de mudar. Fim do Bicha Fêmea.
 date: 2014-09-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/09/22/fim-do-bicha-femea/
 permalink: /2014/09/22/fim-do-bicha-femea/

@@ -2,7 +2,7 @@
 id: 2692
 title: “Mulher É Um Bicho Danado!”… Se Não, Vejamos…
 date: 2009-07-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/29/cobrancas-femininas/
 permalink: /2009/07/29/cobrancas-femininas/

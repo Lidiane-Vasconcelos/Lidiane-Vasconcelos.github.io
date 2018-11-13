@@ -2,7 +2,7 @@
 id: 3187
 title: Como você saboreia o franguinho do dia a dia?
 date: 2012-09-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/09/19/receita-frango/
 permalink: /2012/09/19/receita-frango/

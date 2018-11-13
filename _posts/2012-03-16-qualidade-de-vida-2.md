@@ -2,7 +2,7 @@
 id: 3122
 title: Tem uma área verde na sua cidade para passear?
 date: 2012-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/03/16/qualidade-de-vida-2/
 permalink: /2012/03/16/qualidade-de-vida-2/

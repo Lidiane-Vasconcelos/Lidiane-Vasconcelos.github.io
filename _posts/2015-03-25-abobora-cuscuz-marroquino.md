@@ -2,7 +2,7 @@
 id: 3416
 title: Mini abóbora recheada de cuscuz marroquino
 date: 2015-03-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/25/abobora-cuscuz-marroquino/
 permalink: /2015/03/25/abobora-cuscuz-marroquino/

@@ -2,7 +2,7 @@
 id: 3638
 title: O que tem na Prateleira do Trololó de Mulher de Agosto?
 date: 2016-08-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/08/08/trololo-de-mulher-5/
 permalink: /2016/08/08/trololo-de-mulher-5/

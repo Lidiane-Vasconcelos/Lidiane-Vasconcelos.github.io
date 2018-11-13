@@ -2,7 +2,7 @@
 id: 3404
 title: 'Carne de porco faz mal á saúde: mito ou verdade?'
 date: 2015-03-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/09/carne-de-porco/
 permalink: /2015/03/09/carne-de-porco/

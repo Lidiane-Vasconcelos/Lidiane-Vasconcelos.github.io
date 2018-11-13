@@ -2,7 +2,7 @@
 id: 3106
 title: Seu filho ama os livros?
 date: 2012-01-20T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/01/20/literatura-infantil/
 permalink: /2012/01/20/literatura-infantil/

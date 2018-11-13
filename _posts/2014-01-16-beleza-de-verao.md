@@ -2,7 +2,7 @@
 id: 3273
 title: 'Beleza de Verão: simples, fácil e rápido'
 date: 2014-01-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/01/16/beleza-de-verao/
 permalink: /2014/01/16/beleza-de-verao/

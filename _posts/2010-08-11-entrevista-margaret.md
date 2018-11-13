@@ -2,7 +2,7 @@
 id: 2859
 title: 'Uma Bicha Fêmea por Outra: Margaret'
 date: 2010-08-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/11/entrevista-margaret/
 permalink: /2010/08/11/entrevista-margaret/

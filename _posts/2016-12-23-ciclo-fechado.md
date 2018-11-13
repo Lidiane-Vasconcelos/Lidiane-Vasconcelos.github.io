@@ -2,7 +2,7 @@
 id: 3720
 title: Ciclo fechado, agradecimento, férias.
 date: 2016-12-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/12/23/ciclo-fechado/
 permalink: /2016/12/23/ciclo-fechado/

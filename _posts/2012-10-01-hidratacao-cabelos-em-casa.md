@@ -2,7 +2,7 @@
 id: 3192
 title: Hidrate os cabelos em casa, fique bonita, poupe tempo e $$$!!!
 date: 2012-10-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/10/01/hidratacao-cabelos-em-casa/
 permalink: /2012/10/01/hidratacao-cabelos-em-casa/

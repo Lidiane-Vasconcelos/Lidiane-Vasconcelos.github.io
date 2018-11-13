@@ -2,7 +2,7 @@
 id: 2964
 title: 5 ideias para a decoração infantil no quarto dos pequenos…
 date: 2011-03-14T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/14/ideias-decoracao-infantil/
 permalink: /2011/03/14/ideias-decoracao-infantil/

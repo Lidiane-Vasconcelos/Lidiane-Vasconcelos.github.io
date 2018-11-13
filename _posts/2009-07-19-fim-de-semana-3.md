@@ -2,7 +2,7 @@
 id: 2688
 title: Quais Foram Suas Peripécias no Fim de Semana?
 date: 2009-07-19T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/19/fim-de-semana-3/
 permalink: /2009/07/19/fim-de-semana-3/

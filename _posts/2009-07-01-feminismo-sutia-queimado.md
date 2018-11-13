@@ -2,7 +2,7 @@
 id: 2677
 title: Uma revolução que não precisa de sutiã queimado.
 date: 2009-07-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/07/01/feminismo-sutia-queimado/
 permalink: /2009/07/01/feminismo-sutia-queimado/

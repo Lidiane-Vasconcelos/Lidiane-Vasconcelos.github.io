@@ -2,7 +2,7 @@
 id: 2884
 title: 'Papel de parede: 4 dicas de decoração com as sobras. Você tem alguma?'
 date: 2010-10-15T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/15/papel-de-parede/
 permalink: /2010/10/15/papel-de-parede/

@@ -2,7 +2,7 @@
 id: 3496
 title: 'Arranjo de mesa de Natal: faça você mesma'
 date: 2015-10-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/10/07/arranjo-de-mesa-de-natal/
 permalink: /2015/10/07/arranjo-de-mesa-de-natal/

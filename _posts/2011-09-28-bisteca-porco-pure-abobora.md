@@ -2,7 +2,7 @@
 id: 3057
 title: Bisteca de porco com purê de abóbora
 date: 2011-09-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/28/bisteca-porco-pure-abobora/
 permalink: /2011/09/28/bisteca-porco-pure-abobora/

@@ -2,7 +2,7 @@
 id: 2792
 title: 'Prateleira do Bicha Fêmea: Coisas de Livs'
 date: 2010-04-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/07/prateleira-do-bicha-femea-coisas-de-livs/
 permalink: /2010/04/07/prateleira-do-bicha-femea-coisas-de-livs/

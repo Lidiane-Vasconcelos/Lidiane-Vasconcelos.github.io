@@ -2,7 +2,7 @@
 id: 2657
 title: Homenagem a minha mãe… e ás bichas fêmeas que são mãe…
 date: 2009-05-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/08/homenagem-dia-das-maes/
 permalink: /2009/05/08/homenagem-dia-das-maes/

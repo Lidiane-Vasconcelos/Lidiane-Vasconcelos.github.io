@@ -2,7 +2,7 @@
 id: 3405
 title: 'Receita mais fácil não existe: tabule de quinoa'
 date: 2015-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/10/tabule-de-quinoa/
 permalink: /2015/03/10/tabule-de-quinoa/

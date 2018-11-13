@@ -2,7 +2,7 @@
 id: 2651
 title: 'Bicha Fêmea Convidada: Isabela Kastrup'
 date: 2009-04-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/04/22/convidada-isabel/
 permalink: /2009/04/22/convidada-isabel/

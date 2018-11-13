@@ -2,7 +2,7 @@
 id: 2865
 title: 'Prateleira do Bicha Fêmea: Bird Crafts'
 date: 2010-08-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/08/25/kit-festas-bird-crafts/
 permalink: /2010/08/25/kit-festas-bird-crafts/

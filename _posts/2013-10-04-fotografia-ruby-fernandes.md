@@ -2,7 +2,7 @@
 id: 3266
 title: Os vários olhares na fotografia de Ruby Fernandes
 date: 2013-10-04T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/10/04/fotografia-ruby-fernandes/
 permalink: /2013/10/04/fotografia-ruby-fernandes/

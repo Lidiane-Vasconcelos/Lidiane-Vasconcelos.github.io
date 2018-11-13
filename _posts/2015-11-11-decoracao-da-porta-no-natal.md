@@ -2,7 +2,7 @@
 id: 3509
 title: 'Decoração da porta no Natal: 4 ideias sem guirlandas.'
 date: 2015-11-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/11/decoracao-da-porta-no-natal/
 permalink: /2015/11/11/decoracao-da-porta-no-natal/

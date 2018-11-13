@@ -2,7 +2,7 @@
 id: 3080
 title: Quer dar presente de Natal para as crianças com estilo?
 date: 2011-11-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/18/presente-de-natal-criancas/
 permalink: /2011/11/18/presente-de-natal-criancas/

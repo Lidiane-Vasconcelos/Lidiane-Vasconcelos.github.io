@@ -2,7 +2,7 @@
 id: 3396
 title: O que toda mulher precisa saber sobre aposentadoria?
 date: 2015-02-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/02/06/aposentadoria/
 permalink: /2015/02/06/aposentadoria/

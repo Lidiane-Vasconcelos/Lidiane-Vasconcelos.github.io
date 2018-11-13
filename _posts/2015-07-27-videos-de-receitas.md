@@ -2,7 +2,7 @@
 id: 3449
 title: 'Vídeos de receitas: novidade no Trololó de Mulher'
 date: 2015-07-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/27/videos-de-receitas/
 permalink: /2015/07/27/videos-de-receitas/

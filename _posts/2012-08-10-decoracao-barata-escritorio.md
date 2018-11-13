@@ -2,7 +2,7 @@
 id: 3169
 title: Meus pitacos de decoração baratinha no escritório da Maria…
 date: 2012-08-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2012/08/10/decoracao-barata-escritorio/
 permalink: /2012/08/10/decoracao-barata-escritorio/

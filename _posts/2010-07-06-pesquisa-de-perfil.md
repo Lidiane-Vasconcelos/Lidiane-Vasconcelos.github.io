@@ -2,7 +2,7 @@
 id: 2847
 title: 'Ainda sobre a pesquisa de perfil&#8230;'
 date: 2010-07-06T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/07/06/pesquisa-de-perfil/
 permalink: /2010/07/06/pesquisa-de-perfil/

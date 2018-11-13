@@ -2,7 +2,7 @@
 id: 3381
 title: 'Coletânea de ideias: decoração da sala de estar.'
 date: 2015-01-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/01/07/decoracao-sala-estar/
 permalink: /2015/01/07/decoracao-sala-estar/

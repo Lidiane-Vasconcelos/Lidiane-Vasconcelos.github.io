@@ -2,7 +2,7 @@
 id: 3530
 title: 'Sorteio de pôster Studio Vica: escolha um e viva de amores.'
 date: 2016-01-21T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/01/21/studio-vica/
 permalink: /2016/01/21/studio-vica/

@@ -2,7 +2,7 @@
 id: 3294
 title: Decore com fotos… quer saber como?
 date: 2014-05-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/05/22/decoracao-com-fotos/
 permalink: /2014/05/22/decoracao-com-fotos/

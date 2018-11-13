@@ -2,7 +2,7 @@
 id: 3699
 title: Pão de Queijo pra ser feliz no café da tarde.
 date: 2016-11-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/08/pao-de-queijo/
 permalink: /2016/11/08/pao-de-queijo/

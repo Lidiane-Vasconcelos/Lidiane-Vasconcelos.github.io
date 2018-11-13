@@ -2,7 +2,7 @@
 id: 3264
 title: 'Dilema de decoração: o que fazer sob a escada? Veja 2 soluções.'
 date: 2013-09-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2013/09/25/decoracao-escada/
 permalink: /2013/09/25/decoracao-escada/

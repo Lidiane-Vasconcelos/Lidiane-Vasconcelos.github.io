@@ -2,7 +2,7 @@
 id: 2656
 title: 'De repente 30&#8230;'
 date: 2009-05-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/05/07/convidada-patricia-pirota/
 permalink: /2009/05/07/convidada-patricia-pirota/

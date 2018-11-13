@@ -2,7 +2,7 @@
 id: 3410
 title: 'Placa bacteriana: como removê-la?'
 date: 2015-03-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/16/placa-bacteriana/
 permalink: /2015/03/16/placa-bacteriana/

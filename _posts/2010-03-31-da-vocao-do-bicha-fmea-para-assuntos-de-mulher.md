@@ -2,7 +2,7 @@
 id: 2803
 title: Da vocação do Bicha Fêmea para assuntos de mulher…
 date: 2010-03-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/03/31/da-vocao-do-bicha-fmea-para-assuntos-de-mulher/
 permalink: /2010/03/31/da-vocao-do-bicha-fmea-para-assuntos-de-mulher/

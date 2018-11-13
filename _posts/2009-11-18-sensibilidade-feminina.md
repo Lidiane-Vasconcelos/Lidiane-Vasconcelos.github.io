@@ -2,7 +2,7 @@
 id: 2736
 title: A descoberta e a sensibilidade
 date: 2009-11-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/11/18/sensibilidade-feminina/
 permalink: /2009/11/18/sensibilidade-feminina/

@@ -2,7 +2,7 @@
 id: 2873
 title: 'Primavera-Verão: dicas de beleza'
 date: 2010-09-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/09/13/dicas-de-beleza/
 permalink: /2010/09/13/dicas-de-beleza/

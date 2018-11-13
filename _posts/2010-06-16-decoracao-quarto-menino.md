@@ -2,7 +2,7 @@
 id: 2832
 title: 'Pitacos de Bicha Fêmea: quarto de menino.'
 date: 2010-06-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/06/16/decoracao-quarto-menino/
 permalink: /2010/06/16/decoracao-quarto-menino/

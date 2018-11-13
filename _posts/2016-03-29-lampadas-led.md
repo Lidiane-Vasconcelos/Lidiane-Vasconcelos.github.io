@@ -2,7 +2,7 @@
 id: 3573
 title: 'Lâmpadas LED: você conhece as vantagens?'
 date: 2016-03-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/29/lampadas-led/
 permalink: /2016/03/29/lampadas-led/

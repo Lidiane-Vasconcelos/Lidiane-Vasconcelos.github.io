@@ -2,7 +2,7 @@
 id: 3724
 title: Maternidade define a Prateleira do Trololó de Mulher em Fevereiro.
 date: 2017-02-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/02/09/trololo-de-mulher-10/
 permalink: /2017/02/09/trololo-de-mulher-10/

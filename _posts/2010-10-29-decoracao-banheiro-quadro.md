@@ -2,7 +2,7 @@
 id: 2897
 title: 'Decoração de banheiro com quadro cenário: novidade no Mercado de Artes.'
 date: 2010-10-29T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/29/decoracao-banheiro-quadro/
 permalink: /2010/10/29/decoracao-banheiro-quadro/

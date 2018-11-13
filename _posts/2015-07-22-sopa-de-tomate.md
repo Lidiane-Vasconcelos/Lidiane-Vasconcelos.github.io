@@ -2,7 +2,7 @@
 id: 3446
 title: 'Sopa de tomate com couve: para aquecer neste Inverno.'
 date: 2015-07-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/22/sopa-de-tomate/
 permalink: /2015/07/22/sopa-de-tomate/

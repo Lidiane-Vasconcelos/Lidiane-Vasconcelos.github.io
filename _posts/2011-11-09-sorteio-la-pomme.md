@@ -2,7 +2,7 @@
 id: 3076
 title: 'Sorteio Bicha Fêmea &#038; La Pomme entre amigas!'
 date: 2011-11-09T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/09/sorteio-la-pomme/
 permalink: /2011/11/09/sorteio-la-pomme/

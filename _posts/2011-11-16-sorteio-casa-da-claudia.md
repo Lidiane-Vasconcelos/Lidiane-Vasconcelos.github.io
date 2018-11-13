@@ -2,7 +2,7 @@
 id: 3079
 title: 'Sorteio Bicha Fêmea &#038; Casa da Claudia entre amigas!'
 date: 2011-11-16T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/11/16/sorteio-casa-da-claudia/
 permalink: /2011/11/16/sorteio-casa-da-claudia/

@@ -2,7 +2,7 @@
 id: 3700
 title: Chá ou café da tarde com amigas, dicas e ideias
 date: 2016-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/11/10/cha-cafe-da-tarde-2/
 permalink: /2016/11/10/cha-cafe-da-tarde-2/

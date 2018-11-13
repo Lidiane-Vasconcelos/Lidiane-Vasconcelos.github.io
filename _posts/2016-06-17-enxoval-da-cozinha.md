@@ -2,7 +2,7 @@
 id: 3626
 title: Quando o enxoval da cozinha tem alma e essência…
 date: 2016-06-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/17/enxoval-da-cozinha/
 permalink: /2016/06/17/enxoval-da-cozinha/

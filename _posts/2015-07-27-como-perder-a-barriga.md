@@ -2,7 +2,7 @@
 id: 3455
 title: Como perder a barriga? 3 profissionais contam tudo!
 date: 2015-07-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/07/27/como-perder-a-barriga/
 permalink: /2015/07/27/como-perder-a-barriga/

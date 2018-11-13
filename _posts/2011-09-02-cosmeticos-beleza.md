@@ -2,7 +2,7 @@
 id: 3045
 title: Dicas de cosméticos para manter a beleza de uma bicha fêmea em dia!
 date: 2011-09-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/09/02/cosmeticos-beleza/
 permalink: /2011/09/02/cosmeticos-beleza/

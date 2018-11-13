@@ -2,7 +2,7 @@
 id: 3369
 title: Cabelos arrepiados com frizz… o que fazer?
 date: 2014-11-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2014/11/10/cabelos-arrepiados-frizz/
 permalink: /2014/11/10/cabelos-arrepiados-frizz/

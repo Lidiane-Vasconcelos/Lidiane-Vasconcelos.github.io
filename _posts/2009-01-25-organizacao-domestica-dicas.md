@@ -2,7 +2,7 @@
 id: 2608
 title: E eu me organizando…
 date: 2009-01-25T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/25/organizacao-domestica-dicas/
 permalink: /2009/01/25/organizacao-domestica-dicas/

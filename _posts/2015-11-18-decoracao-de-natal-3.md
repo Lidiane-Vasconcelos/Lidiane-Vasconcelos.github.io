@@ -2,7 +2,7 @@
 id: 3513
 title: 'Decoração de Natal: download grátis de bandeirolas'
 date: 2015-11-18T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/11/18/decoracao-de-natal-3/
 permalink: /2015/11/18/decoracao-de-natal-3/

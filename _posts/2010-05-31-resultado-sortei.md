@@ -2,7 +2,7 @@
 id: 2824
 title: 'Saiu o resultado do sorteio Bicha Fêmea &#038; Viva Melhor'
 date: 2010-05-31T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/05/31/resultado-sortei/
 permalink: /2010/05/31/resultado-sortei/

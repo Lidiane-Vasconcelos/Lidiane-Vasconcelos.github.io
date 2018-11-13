@@ -2,7 +2,7 @@
 id: 3560
 title: 'Papel de parede no quarto: como decorar?'
 date: 2016-03-10T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/03/10/papel-de-parede-no-quarto/
 permalink: /2016/03/10/papel-de-parede-no-quarto/

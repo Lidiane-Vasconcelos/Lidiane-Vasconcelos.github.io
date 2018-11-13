@@ -2,7 +2,7 @@
 id: 2809
 title: 'Uma Bicha Fêmea por Outra: Ruby Fernandes'
 date: 2010-04-28T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/04/28/entrevista-ruby-fernandes/
 permalink: /2010/04/28/entrevista-ruby-fernandes/

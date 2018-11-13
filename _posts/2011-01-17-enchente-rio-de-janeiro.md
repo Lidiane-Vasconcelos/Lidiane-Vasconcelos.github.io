@@ -2,7 +2,7 @@
 id: 2944
 title: 'Tragédias no Rio de Janeiro: é dando que se recebe…'
 date: 2011-01-17T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/01/17/enchente-rio-de-janeiro/
 permalink: /2011/01/17/enchente-rio-de-janeiro/

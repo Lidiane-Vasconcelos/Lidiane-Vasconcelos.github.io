@@ -2,7 +2,7 @@
 id: 2607
 title: Tudo Branco na decoração da Cozinha.
 date: 2009-01-22T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/01/22/decoracao-cozinha-branca/
 permalink: /2009/01/22/decoracao-cozinha-branca/

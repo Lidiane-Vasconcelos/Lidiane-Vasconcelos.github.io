@@ -2,7 +2,7 @@
 id: 2760
 title: Parceria Bicha Fêmea + Closonê Acessórios = Sorteio. Aguarde!
 date: 2010-01-11T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/01/11/parceria-bicha-femea-closone-acessorios-sorteio-aguarde/
 permalink: /2010/01/11/parceria-bicha-femea-closone-acessorios-sorteio-aguarde/

@@ -2,7 +2,7 @@
 id: 3407
 title: 'Desfralde: mais simples do que você imagina!'
 date: 2015-03-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/03/13/desfralde-maternidade-bebe/
 permalink: /2015/03/13/desfralde-maternidade-bebe/

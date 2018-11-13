@@ -2,7 +2,7 @@
 id: 2968
 title: 3 dicas para deixar a decoração do quarto mais romântica…
 date: 2011-03-23T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/03/23/decoracao-do-quarto/
 permalink: /2011/03/23/decoracao-do-quarto/

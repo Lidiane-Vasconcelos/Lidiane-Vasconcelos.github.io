@@ -2,7 +2,7 @@
 id: 2703
 title: Ideia Para Mini-Horta Em Um “Apertamento”…
 date: 2009-08-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/08/24/horta-para-apartamento/
 permalink: /2009/08/24/horta-para-apartamento/

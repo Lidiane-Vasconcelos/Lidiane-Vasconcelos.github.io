@@ -2,7 +2,7 @@
 id: 2887
 title: 'Mercado de Artes: novidades e presentes para professoras. ‘Bora ver?'
 date: 2010-10-01T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2010/10/01/mercado-de-artes-novidades/
 permalink: /2010/10/01/mercado-de-artes-novidades/

@@ -2,7 +2,7 @@
 id: 3835
 title: Tédio na infância é necessário, e faz bem.
 date: 2017-11-24T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2017/11/24/tedio-na-infancia/
 permalink: /2017/11/24/tedio-na-infancia/

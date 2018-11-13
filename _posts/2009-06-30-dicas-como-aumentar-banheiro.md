@@ -2,7 +2,7 @@
 id: 2676
 title: 'Dicas e imagens: como maximizar o banheiro.'
 date: 2009-06-30T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/06/30/dicas-como-aumentar-banheiro/
 permalink: /2009/06/30/dicas-como-aumentar-banheiro/

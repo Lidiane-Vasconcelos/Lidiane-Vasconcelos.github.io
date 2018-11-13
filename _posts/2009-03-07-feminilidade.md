@@ -2,7 +2,7 @@
 id: 2635
 title: 'Feminilidade: a essência de uma “bicha fêmea”.'
 date: 2009-03-07T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2009/03/07/feminilidade/
 permalink: /2009/03/07/feminilidade/

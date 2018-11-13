@@ -2,7 +2,7 @@
 id: 3063
 title: 'Cozinhas: planejadas, armários, imagens, decoração e inspirações!'
 date: 2011-10-12T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/10/12/cozinha-decoracao/
 permalink: /2011/10/12/cozinha-decoracao/

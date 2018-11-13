@@ -2,7 +2,7 @@
 id: 2984
 title: 'Quarto com parede amarela: você quer inspirações?'
 date: 2011-04-27T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/04/27/quarto-parede-amarela/
 permalink: /2011/04/27/quarto-parede-amarela/

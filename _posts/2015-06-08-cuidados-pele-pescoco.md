@@ -2,7 +2,7 @@
 id: 3432
 title: 'Cuidados com a pele do pescoço: você não esqueceu, certo?'
 date: 2015-06-08T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2015/06/08/cuidados-pele-pescoco/
 permalink: /2015/06/08/cuidados-pele-pescoco/

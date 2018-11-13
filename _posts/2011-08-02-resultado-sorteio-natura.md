@@ -2,7 +2,7 @@
 id: 3031
 title: Resultado do sorteio de produtos Natura no Bicha Fêmea…
 date: 2011-08-02T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2011/08/02/resultado-sorteio-natura/
 permalink: /2011/08/02/resultado-sorteio-natura/

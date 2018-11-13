@@ -2,7 +2,7 @@
 id: 3625
 title: 'Decoração infantil: enfeite de tecido para o quarto ou festa.'
 date: 2016-06-13T00:00:00+00:00
-author: admin
+author: Lidiane
 layout: post
 guid: http://localhost/wordpress/2016/06/13/decoracao-infantil-2/
 permalink: /2016/06/13/decoracao-infantil-2/
