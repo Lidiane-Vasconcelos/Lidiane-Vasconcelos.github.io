@@ -1,5 +1,7 @@
 ---
-title:  "What is Jekyll"author: Lidiane
+layout: post
+title:  "What is Jekyll"
+author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
 featured: true
