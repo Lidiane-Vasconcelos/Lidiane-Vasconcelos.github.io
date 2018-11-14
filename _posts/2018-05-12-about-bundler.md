@@ -1,6 +1,6 @@
 ---
 title:  "About Bundler"
-author: sal
+author: Lidiane
 categories: [ Jekyll ]
 image: assets/images/2.jpg
 ---

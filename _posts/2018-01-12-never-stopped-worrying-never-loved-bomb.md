@@ -1,6 +1,6 @@
 ---
 title:  "Never stopped worrying or loving the bomb"
-author: sal
+author: Lidiane
 categories: [ Jekyll ]
 image: assets/images/14.jpg
 ---

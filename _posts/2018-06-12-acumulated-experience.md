@@ -1,6 +1,6 @@
 ---
 title:  "Accumulated experience of social living"
-author: sal
+author: Lidiane
 categories: [ Jekyll, tutorial ]
 image: assets/images/15.jpg
 ---

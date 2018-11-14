@@ -1,6 +1,6 @@
 ---
 title:  "Education must also train one for quick, resolute and effective thinking."
-author: john
+author: Lidiane
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
 ---

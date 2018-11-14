@@ -1,6 +1,6 @@
 ---
 title:  "Red Riding Hood"
-author: sal
+author: Lidiane
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
 ---

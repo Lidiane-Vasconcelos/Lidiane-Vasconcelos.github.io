@@ -1,6 +1,6 @@
 ---
 title:  "The first mass-produced book to deviate from a rectilinear format"
-author: sal
+author: Lidiane
 categories: [ Jekyll, tutorial ]
 image: assets/images/17.jpg
 ---
