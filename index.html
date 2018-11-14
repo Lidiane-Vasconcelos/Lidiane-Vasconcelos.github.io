@@ -7,12 +7,12 @@ title: Home
   {% if site.jumbotron_header == true %}
     {% include jumbotron_header.html %} 
   {% endif %} 
-{% endif %}
+
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
     <div class="section-title">
-        <h2><span>Destaque</span></h2>
+        <h2><span>Artigos em Destaque</span></h2>
     </div>
     <div class="row">
        {% for post in site.posts %}
@@ -22,7 +22,7 @@ title: Home
        {% endfor %}
     </div>
 </section>
-
+{% endif %}
 
 <!-- Posts Index
 ================================================== -->
